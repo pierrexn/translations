@@ -9662,10 +9662,6 @@ miniatura</translation>
         <translation>Rutas</translation>
     </message>
     <message>
-        <source>Program (XnView)</source>
-        <translation>Programa (XnView)</translation>
-    </message>
-    <message>
         <source>Custom</source>
         <translation>Personalizado</translation>
     </message>
@@ -9680,10 +9676,6 @@ miniatura</translation>
     <message>
         <source>Please start XnViewMP with admin rights (only the first time).</source>
         <translation>Por favor, iniciar XnViewMP con derechos de administrador (solo la primera vez).</translation>
-    </message>
-    <message>
-        <source>User (System)</source>
-        <translation>Usuario (Sistema)</translation>
     </message>
     <message>
         <source>Same as Catalog</source>
@@ -9702,10 +9694,6 @@ miniatura</translation>
         <translation>Por favor, tenga cuidado con los derechos de carpeta utilizando la carpeta XnView</translation>
     </message>
     <message>
-        <source>Program (XnConvert)</source>
-        <translation>Programa (XnConvert)</translation>
-    </message>
-    <message>
         <source>XnView Slide file</source>
         <translation>Archivo de diapositivas XnView</translation>
     </message>
@@ -9713,44 +9701,28 @@ miniatura</translation>
         <source>%1 Image file</source>
         <translation>%1 Archivo de imagen</translation>
     </message>
+    <message>
+        <source>System - Current user</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>System - Current user (Windows registry)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>System - Local machine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Application folder</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsIntegrationClass</name>
     <message>
-        <source>Folder for Catalog (.db)</source>
-        <translation>Carpeta para Catálogo (.db)</translation>
-    </message>
-    <message>
-        <source>XnView settings</source>
-        <translation>Configuración XnView</translation>
-    </message>
-    <message>
         <source>Paths</source>
         <translation>Rutas</translation>
-    </message>
-    <message>
-        <source>Folder for Thumbnails Database</source>
-        <translation>Carpeta para Base de Datos de Miniaturas</translation>
-    </message>
-    <message>
-        <source>Open the Catalog Location</source>
-        <translation>Abrir la ubicación del Catálogo</translation>
-    </message>
-    <message>
-        <source>Other settings</source>
-        <translation>Otros ajustes</translation>
-    </message>
-    <message>
-        <source>Use .ini file in folder</source>
-        <translation>Utilizar archivo .ini de la carpeta</translation>
-    </message>
-    <message>
-        <source>Folder for other files</source>
-        <translation>Carpeta para otros archivos</translation>
-    </message>
-    <message>
-        <source>Open Config Files Location</source>
-        <translation>Abrir la ubicación de los Archivos de Configuración</translation>
     </message>
     <message>
         <source>Set file associations...</source>
@@ -9765,8 +9737,44 @@ miniatura</translation>
         <translation>Añadir &apos;Explorar con XnViewMP&apos; al menú contextual (requiere derechos de administrador)</translation>
     </message>
     <message>
-        <source>Use Windows registry</source>
-        <translation>Utilizar el registro de Windows</translation>
+        <source>Settings - General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current location</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings - Other</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Database - Catalog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Database - Thumbnails</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current user (recommended)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Local machine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Portable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <translation type="unfinished">Personalizado</translation>
     </message>
 </context>
 <context>
@@ -10639,14 +10647,6 @@ Do you want to reassign?</source>
         <translation>Reproducción de vídeo en bucle</translation>
     </message>
     <message>
-        <source>High zoom quality</source>
-        <translation>Zoom de alta calidad</translation>
-    </message>
-    <message>
-        <source>Use checkboard pattern as background</source>
-        <translation>Utilizar patrón tablero de ajedrez como fondo</translation>
-    </message>
-    <message>
         <source>Always show in fullscreen</source>
         <translation>Mostrar siempre en pantalla completa</translation>
     </message>
@@ -10677,10 +10677,6 @@ Do you want to reassign?</source>
     <message>
         <source>Multipage files</source>
         <translation>Archivos Multipágina</translation>
-    </message>
-    <message>
-        <source>Reset X/Y (No fit)</source>
-        <translation>Restaurar X/Y (No ajustar)</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -10737,10 +10733,6 @@ Do you want to reassign?</source>
     <message>
         <source>Keep current image</source>
         <translation>Mantener la imagen actual</translation>
-    </message>
-    <message>
-        <source>Zoom on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
-        <translation>Zoom en pantalla HiDPI: 1 píxel de imagen equivale a 1 píxel de pantalla</translation>
     </message>
     <message>
         <source>Fixed step</source>
@@ -10888,6 +10880,22 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Show navigator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use transparency grid (checkerboard pattern)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Antialiasing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scale on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset X/Y position on file change (No fit)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11297,10 +11305,6 @@ Do you want to reassign?</source>
         <translation>Oscuro</translation>
     </message>
     <message>
-        <source>Folder for Catalog (.db)</source>
-        <translation>Carpeta para Catálogo (.db)</translation>
-    </message>
-    <message>
         <source>Black</source>
         <translation>Negro</translation>
     </message>
@@ -11321,10 +11325,6 @@ Do you want to reassign?</source>
         <translation>Tema</translation>
     </message>
     <message>
-        <source>Send anonymous logs</source>
-        <translation>Enviar registros anónimos</translation>
-    </message>
-    <message>
         <source>Add &apos;Browse with XnViewMP&apos; to context menu</source>
         <translation>Añadir &apos;Explorar con XnViewMP&apos; al menú contextual</translation>
     </message>
@@ -11341,32 +11341,16 @@ Do you want to reassign?</source>
         <translation>Integración del Sitema</translation>
     </message>
     <message>
-        <source>Folder for Thumbnails Database</source>
-        <translation>Carpeta para Base de Datos de Miniaturas</translation>
-    </message>
-    <message>
         <source>Weekly</source>
         <translation>Semanalmente</translation>
-    </message>
-    <message>
-        <source>Other settings</source>
-        <translation>Otros ajustes</translation>
     </message>
     <message>
         <source>Language</source>
         <translation>Idioma</translation>
     </message>
     <message>
-        <source>Use .ini file in folder</source>
-        <translation>Utilizar archivo .ini de la carpeta</translation>
-    </message>
-    <message>
         <source>Default</source>
         <translation>Predeterminado</translation>
-    </message>
-    <message>
-        <source>Folder for other files</source>
-        <translation>Carpeta para otros archivos</translation>
     </message>
     <message>
         <source>General</source>
@@ -11381,12 +11365,24 @@ Do you want to reassign?</source>
         <translation>Inicio del asistente</translation>
     </message>
     <message>
-        <source>Use Windows registry</source>
-        <translation>Utilizar el registro de Windows</translation>
-    </message>
-    <message>
         <source>Settings</source>
         <translation>Configuración</translation>
+    </message>
+    <message>
+        <source>Current user (recommended)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current user (Windows registry)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Local machine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Portable (application folder)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13996,6 +13992,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <source>Subject code</source>
         <translation>Código del asunto</translation>
     </message>
+    <message>
+        <source>Local caption</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>InfoPropertiesView</name>
@@ -15570,6 +15570,10 @@ Do you want to continue?</source>
         <source>Modified Date</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Show channel</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MenuGlobal</name>
@@ -15884,10 +15888,6 @@ Do you want to continue?</source>
         <translation>Carta EEUU (1.29)</translation>
     </message>
     <message>
-        <source>High zoom quality</source>
-        <translation>Zoom de alta calidad</translation>
-    </message>
-    <message>
         <source>Automatic levels</source>
         <translation>Niveles automáticos</translation>
     </message>
@@ -15938,10 +15938,6 @@ Do you want to continue?</source>
     <message>
         <source>Rotate 180°</source>
         <translation>Girar 180º</translation>
-    </message>
-    <message>
-        <source>Use checkerboard pattern</source>
-        <translation>Utilizar patrón tablero de ajedrez</translation>
     </message>
     <message>
         <source>&amp;Image</source>
@@ -16602,6 +16598,18 @@ Do you want to continue?</source>
     <message>
         <source>Pan to coordinates...</source>
         <translation>Desplazarse a coordenadas...</translation>
+    </message>
+    <message>
+        <source>Use antialiasing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use transparency grid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show channel</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

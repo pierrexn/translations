@@ -4,132 +4,132 @@
 <context>
     <name>@default</name>
     <message>
-        <location filename="MyThumbSettings.cpp" line="437"/>
+        <location filename="MyThumbSettings.cpp" line="438"/>
         <source>Uncolored</source>
         <translation>未加上顏色標籤</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="443"/>
+        <location filename="MyThumbSettings.cpp" line="444"/>
         <source>Important</source>
         <translation>重要</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="443"/>
+        <location filename="MyThumbSettings.cpp" line="444"/>
         <source>Red</source>
         <translation>紅</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="443"/>
+        <location filename="MyThumbSettings.cpp" line="444"/>
         <source>Select</source>
         <translation>選擇</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="444"/>
+        <location filename="MyThumbSettings.cpp" line="445"/>
         <source>Work</source>
         <translation>工作</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="444"/>
+        <location filename="MyThumbSettings.cpp" line="445"/>
         <source>Yellow</source>
         <translation>黃</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="444"/>
+        <location filename="MyThumbSettings.cpp" line="445"/>
         <source>Second</source>
         <translation>秒</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="445"/>
+        <location filename="MyThumbSettings.cpp" line="446"/>
         <source>Personal</source>
         <translation>個人</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="445"/>
+        <location filename="MyThumbSettings.cpp" line="446"/>
         <source>Green</source>
         <translation>綠</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="445"/>
+        <location filename="MyThumbSettings.cpp" line="446"/>
         <source>Approved</source>
         <translation>認可</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="446"/>
+        <location filename="MyThumbSettings.cpp" line="447"/>
         <source>To do</source>
         <translation>待辦</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="446"/>
+        <location filename="MyThumbSettings.cpp" line="447"/>
         <source>Blue</source>
         <translation>藍</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="446"/>
+        <location filename="MyThumbSettings.cpp" line="447"/>
         <source>Review</source>
         <translation>審閱</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="447"/>
+        <location filename="MyThumbSettings.cpp" line="448"/>
         <source>Later</source>
         <translation>稍後</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="447"/>
+        <location filename="MyThumbSettings.cpp" line="448"/>
         <source>Purple</source>
         <translation>紫</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="447"/>
+        <location filename="MyThumbSettings.cpp" line="448"/>
         <source>To Do</source>
         <translation>待辦</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="448"/>
+        <location filename="MyThumbSettings.cpp" line="449"/>
         <source>Orange</source>
         <translation>橘</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="449"/>
+        <location filename="MyThumbSettings.cpp" line="450"/>
         <source>Grey</source>
         <translation>灰</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="450"/>
+        <location filename="MyThumbSettings.cpp" line="451"/>
         <source>Black</source>
         <translation>黑</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="451"/>
+        <location filename="MyThumbSettings.cpp" line="452"/>
         <source>White</source>
         <translation>白</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="344"/>
+        <location filename="MyThumbSettings.cpp" line="345"/>
         <source>Unrated</source>
         <translation>不評等</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="345"/>
+        <location filename="MyThumbSettings.cpp" line="346"/>
         <source>Poor</source>
         <translation>較差</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="346"/>
+        <location filename="MyThumbSettings.cpp" line="347"/>
         <source>Fair</source>
         <translation>普通</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="347"/>
+        <location filename="MyThumbSettings.cpp" line="348"/>
         <source>Average</source>
         <translation>普通</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="348"/>
+        <location filename="MyThumbSettings.cpp" line="349"/>
         <source>Good</source>
         <translation>良好</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="349"/>
+        <location filename="MyThumbSettings.cpp" line="350"/>
         <source>Excellent</source>
         <translation>極佳</translation>
     </message>
@@ -813,55 +813,55 @@ Drag and Drop over the desired node to assign.</source>
 <context>
     <name>CategorySets</name>
     <message>
-        <location filename="CategorySets.cpp" line="30"/>
+        <location filename="CategorySets.cpp" line="31"/>
         <source>Layout</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="CategorySets.cpp" line="36"/>
+        <location filename="CategorySets.cpp" line="37"/>
         <source>&lt;Unsaved Layout&gt;</source>
         <translation>&lt;未儲存的介面佈置&gt;</translation>
     </message>
     <message>
-        <location filename="CategorySets.cpp" line="175"/>
+        <location filename="CategorySets.cpp" line="187"/>
         <source>Save layout...</source>
         <translation>存成介面佈置...</translation>
     </message>
     <message>
-        <location filename="CategorySets.cpp" line="240"/>
-        <location filename="CategorySets.cpp" line="272"/>
+        <location filename="CategorySets.cpp" line="252"/>
+        <location filename="CategorySets.cpp" line="284"/>
         <source>Enter a name for this layout</source>
         <translation>命名介面佈置</translation>
     </message>
     <message>
-        <location filename="CategorySets.cpp" line="240"/>
-        <location filename="CategorySets.cpp" line="272"/>
-        <location filename="CategorySets.cpp" line="412"/>
+        <location filename="CategorySets.cpp" line="252"/>
+        <location filename="CategorySets.cpp" line="284"/>
+        <location filename="CategorySets.cpp" line="424"/>
         <source>Name:</source>
         <translation>名稱:</translation>
     </message>
     <message>
-        <location filename="CategorySets.cpp" line="342"/>
+        <location filename="CategorySets.cpp" line="354"/>
         <source>Assigned</source>
         <translation>設定</translation>
     </message>
     <message>
-        <location filename="CategorySets.cpp" line="355"/>
+        <location filename="CategorySets.cpp" line="367"/>
         <source>History</source>
         <translation>歷史清單</translation>
     </message>
     <message>
-        <location filename="CategorySets.cpp" line="369"/>
+        <location filename="CategorySets.cpp" line="381"/>
         <source>Suggested</source>
         <translation>建議</translation>
     </message>
     <message>
-        <location filename="CategorySets.cpp" line="412"/>
+        <location filename="CategorySets.cpp" line="424"/>
         <source>Enter a name for this set</source>
         <translation>命名類別集</translation>
     </message>
     <message>
-        <location filename="CategorySets.cpp" line="412"/>
+        <location filename="CategorySets.cpp" line="424"/>
         <source>New name</source>
         <translation>新名稱</translation>
     </message>
@@ -1159,7 +1159,7 @@ Drag and Drop over the desired node to assign.</source>
         <translation>變更顏色深度</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1776"/>
+        <location filename="DlgConvert.cpp" line="1797"/>
         <location filename="DlgConvertProcess.h" line="372"/>
         <source>Adjust</source>
         <translation>調整</translation>
@@ -1633,7 +1633,7 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="243"/>
-        <location filename="DlgConvert.cpp" line="1777"/>
+        <location filename="DlgConvert.cpp" line="1798"/>
         <location filename="DlgFilter.cpp" line="37"/>
         <source>Blur</source>
         <translation>模糊</translation>
@@ -1753,58 +1753,58 @@ Drag and Drop over the desired node to assign.</source>
         <translation>點繪</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1775"/>
+        <location filename="DlgConvert.cpp" line="1796"/>
         <source>Add</source>
         <translation type="unfinished">新增</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1778"/>
+        <location filename="DlgConvert.cpp" line="1799"/>
         <source>Channel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1779"/>
+        <location filename="DlgConvert.cpp" line="1800"/>
         <source>Enhance</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1780"/>
+        <location filename="DlgConvert.cpp" line="1801"/>
         <source>Frame</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1781"/>
+        <location filename="DlgConvert.cpp" line="1802"/>
         <source>Metadata</source>
         <translation type="unfinished">詮釋資料</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1782"/>
+        <location filename="DlgConvert.cpp" line="1803"/>
         <source>Noise</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1783"/>
+        <location filename="DlgConvert.cpp" line="1804"/>
         <source>Pixelate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1784"/>
+        <location filename="DlgConvert.cpp" line="1805"/>
         <source>Stylize</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1785"/>
+        <location filename="DlgConvert.cpp" line="1806"/>
         <source>Transform</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1786"/>
+        <location filename="DlgConvert.cpp" line="1807"/>
         <source>Video</source>
         <translation type="unfinished">影片</translation>
     </message>
     <message>
-        <location filename="DlgBatchResize.cpp" line="1569"/>
-        <location filename="DlgConvert.cpp" line="2833"/>
+        <location filename="DlgBatchResize.cpp" line="1570"/>
+        <location filename="DlgConvert.cpp" line="2854"/>
         <source>%1 file(s) - %2% - %3</source>
         <translation>%1 檔案 - %2% - %3</translation>
     </message>
@@ -1824,7 +1824,7 @@ Drag and Drop over the desired node to assign.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgFilter.cpp" line="268"/>
+        <location filename="DlgFilter.cpp" line="317"/>
         <source>Effect</source>
         <translation>特效</translation>
     </message>
@@ -1832,8 +1832,8 @@ Drag and Drop over the desired node to assign.</source>
 <context>
     <name>ConvertThread</name>
     <message>
-        <location filename="ConvertThread.cpp" line="773"/>
-        <location filename="ConvertThread.cpp" line="1247"/>
+        <location filename="ConvertThread.cpp" line="781"/>
+        <location filename="ConvertThread.cpp" line="1255"/>
         <source>WARNING: Image will be converted to 24-bit RGB (8bits per channel)</source>
         <oldsource>WARNING: The picture will be converted to RGB with 8bits per component</oldsource>
         <translation type="unfinished">警告: 圖片每個組成部份會轉成8位元的RGB</translation>
@@ -2795,7 +2795,7 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message numerus="yes">
         <location filename="DlgBatchResize.cpp" line="662"/>
-        <location filename="DlgBatchResize.cpp" line="1561"/>
+        <location filename="DlgBatchResize.cpp" line="1562"/>
         <source>%n hour(s) and </source>
         <translation>
             <numerusform>%n 小時又 </numerusform>
@@ -2812,59 +2812,59 @@ Drag and Drop over the desired node to assign.</source>
         <translation>&lt;br&gt;XnResize是以免費軟體(Freeware)方式提供給私人或商業使用。 &lt;br&gt;一般公司必須購買授權才可使用。&lt;br&gt;&lt;br&gt;您被予可使用及不限套數複製這些軟體的權利。&lt;br&gt;&lt;br&gt;這些軟體如原樣提供。&lt;br&gt;不做任何明示或暗示的保證。&lt;br&gt;作者不承擔使用或誤用此軟體所導致資料的遺失損壞、利潤損失或任何種類的損失。&lt;br&gt;&lt;br&gt;歡迎任何建議、回饋和意見。 </translation>
     </message>
     <message>
-        <location filename="DlgBatchResize.cpp" line="1425"/>
+        <location filename="DlgBatchResize.cpp" line="1426"/>
         <source>not an image</source>
         <oldsource>not a picture</oldsource>
         <translation type="unfinished">不是圖片</translation>
     </message>
     <message>
-        <location filename="DlgBatchResize.cpp" line="1428"/>
+        <location filename="DlgBatchResize.cpp" line="1429"/>
         <source>open error</source>
         <translation>開啟錯誤</translation>
     </message>
     <message>
-        <location filename="DlgBatchResize.cpp" line="1431"/>
+        <location filename="DlgBatchResize.cpp" line="1432"/>
         <source>create error</source>
         <translation>建立錯誤</translation>
     </message>
     <message>
-        <location filename="DlgBatchResize.cpp" line="1434"/>
+        <location filename="DlgBatchResize.cpp" line="1435"/>
         <source>has read-only attribute, and can&apos;t be overwritten!</source>
         <translation>具唯獨屬性，故無法覆蓋!</translation>
     </message>
     <message>
-        <location filename="DlgBatchResize.cpp" line="1437"/>
+        <location filename="DlgBatchResize.cpp" line="1438"/>
         <source>skipped, file already exists!</source>
         <translation>將跳過，因檔案已存在!</translation>
     </message>
     <message>
-        <location filename="DlgBatchResize.cpp" line="1439"/>
+        <location filename="DlgBatchResize.cpp" line="1440"/>
         <source>failed</source>
         <translation>失敗</translation>
     </message>
     <message>
-        <location filename="DlgBatchResize.cpp" line="1445"/>
+        <location filename="DlgBatchResize.cpp" line="1446"/>
         <source>loading</source>
         <translation>載入中</translation>
     </message>
     <message>
-        <location filename="DlgBatchResize.cpp" line="1463"/>
+        <location filename="DlgBatchResize.cpp" line="1464"/>
         <source>loaded</source>
         <translation>已載入</translation>
     </message>
     <message>
-        <location filename="DlgBatchResize.cpp" line="1484"/>
+        <location filename="DlgBatchResize.cpp" line="1485"/>
         <source>saved</source>
         <translation>已儲存</translation>
     </message>
     <message>
-        <location filename="DlgBatchResize.cpp" line="1519"/>
+        <location filename="DlgBatchResize.cpp" line="1520"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
         <translation>覆蓋檔案</translation>
     </message>
     <message>
-        <location filename="DlgBatchResize.cpp" line="1520"/>
+        <location filename="DlgBatchResize.cpp" line="1521"/>
         <source>Destination already has a file named: 
 %1
 
@@ -2874,40 +2874,40 @@ Do you want to overwrite it?</oldsource>
         <translation type="unfinished">檔案 %1 已存在. 要覆蓋嗎?</translation>
     </message>
     <message>
-        <location filename="DlgBatchResize.cpp" line="1522"/>
+        <location filename="DlgBatchResize.cpp" line="1523"/>
         <source>Yes to &amp;all</source>
         <translation>全都確定(&amp;a)</translation>
     </message>
     <message>
-        <location filename="DlgBatchResize.cpp" line="1523"/>
+        <location filename="DlgBatchResize.cpp" line="1524"/>
         <source>&amp;Yes</source>
         <translation>是(&amp;Y)</translation>
     </message>
     <message>
-        <location filename="DlgBatchResize.cpp" line="1524"/>
+        <location filename="DlgBatchResize.cpp" line="1525"/>
         <source>&amp;No</source>
         <translation>否(&amp;N)</translation>
     </message>
     <message>
-        <location filename="DlgBatchResize.cpp" line="1525"/>
+        <location filename="DlgBatchResize.cpp" line="1526"/>
         <source>&amp;Rename</source>
         <translation>重新命名(&amp;R)</translation>
     </message>
     <message>
-        <location filename="DlgBatchResize.cpp" line="1526"/>
+        <location filename="DlgBatchResize.cpp" line="1527"/>
         <source>&amp;Cancel</source>
         <translation>取消(&amp;C)</translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgBatchResize.cpp" line="1554"/>
+        <location filename="DlgBatchResize.cpp" line="1555"/>
         <source>%n second(s) remaining</source>
         <translation>
             <numerusform>%n 秒 (剩餘時間)</numerusform>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgBatchResize.cpp" line="1557"/>
-        <location filename="DlgBatchResize.cpp" line="1561"/>
+        <location filename="DlgBatchResize.cpp" line="1558"/>
+        <location filename="DlgBatchResize.cpp" line="1562"/>
         <source>%n minute(s) remaining</source>
         <translation>
             <numerusform>%n 分 (剩餘時間)</numerusform>
@@ -3555,18 +3555,18 @@ Do you want to overwrite it?</oldsource>
         <translation>&lt;br&gt;XnConvert是以免費軟體(Freeware)方式提供給私人(非商業性質)或教育使用，包括非營利組織。 &lt;br&gt;一般公司必須購買授權才可使用。&lt;br&gt;&lt;br&gt;您被予可使用及不限套數複製這些軟體的權利。&lt;br&gt;&lt;br&gt;這些軟體如原樣提供。&lt;br&gt;不做任何明示或暗示的保證。&lt;br&gt;作者不承擔使用或誤用此軟體所導致資料的遺失損壞、利潤損失或任何種類的損失。&lt;br&gt;&lt;br&gt;歡迎任何建議、回饋和意見。 </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1333"/>
+        <location filename="DlgConvert.cpp" line="1345"/>
         <source>Please restart application.</source>
         <oldsource>Please restart XnConvert</oldsource>
         <translation>請重新執行應用程式.</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1355"/>
+        <location filename="DlgConvert.cpp" line="1367"/>
         <source>New version</source>
         <translation>新版本</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1356"/>
+        <location filename="DlgConvert.cpp" line="1368"/>
         <source>The %1 version of XnConvert is available. 
 
 Do you want to go on the download page?</source>
@@ -3574,75 +3574,75 @@ Do you want to go on the download page?</source>
         <translation type="unfinished">XnConvert已有%1版,您要下載嗎?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1684"/>
+        <location filename="DlgConvert.cpp" line="1696"/>
         <source>Export script</source>
         <translation>匯出指令碼</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1690"/>
+        <location filename="DlgConvert.cpp" line="1702"/>
         <source>Would you like to export filenames, too?</source>
         <translation>也要匯出檔名嗎?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2027"/>
+        <location filename="DlgConvert.cpp" line="2048"/>
         <source>Load script</source>
         <translation>載入指令碼</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2041"/>
+        <location filename="DlgConvert.cpp" line="2062"/>
         <source>Save script</source>
         <translation>儲存指令碼</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2171"/>
-        <location filename="DlgConvert.cpp" line="2175"/>
+        <location filename="DlgConvert.cpp" line="2192"/>
+        <location filename="DlgConvert.cpp" line="2196"/>
         <source>Parameters</source>
         <translation>參數</translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2220"/>
+        <location filename="DlgConvert.cpp" line="2241"/>
         <source>Input: %n file(s)</source>
         <translation>
             <numerusform>輸入: %n個檔</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2250"/>
+        <location filename="DlgConvert.cpp" line="2271"/>
         <source>Choose a directory</source>
         <translation>選擇資料夾</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2289"/>
+        <location filename="DlgConvert.cpp" line="2310"/>
         <source>Choose ZIP filename</source>
         <translation>選擇ZIP檔名</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2374"/>
+        <location filename="DlgConvert.cpp" line="2395"/>
         <source>Cancel batch processing</source>
         <translation>取消批次處理</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2374"/>
+        <location filename="DlgConvert.cpp" line="2395"/>
         <source>Do you want to cancel current batch processing?</source>
         <translation>確定要取消目前的批次處理?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2426"/>
+        <location filename="DlgConvert.cpp" line="2447"/>
         <source>Loading error(s):</source>
         <translation>載入錯誤:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2434"/>
+        <location filename="DlgConvert.cpp" line="2455"/>
         <source>Saving error(s):</source>
         <translation>儲存錯誤:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2507"/>
+        <location filename="DlgConvert.cpp" line="2528"/>
         <source>Overwrite</source>
         <translation>覆蓋</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2508"/>
+        <location filename="DlgConvert.cpp" line="2529"/>
         <source>Output file already exist. 
 
 Do you want to overwrite it?</source>
@@ -3650,44 +3650,44 @@ Do you want to overwrite it?</source>
         <translation type="unfinished">輸出檔已存在,要覆蓋嗎?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2517"/>
+        <location filename="DlgConvert.cpp" line="2538"/>
         <source>Saving ZIP file...</source>
         <translation>儲存的ZIP檔名...</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2520"/>
+        <location filename="DlgConvert.cpp" line="2541"/>
         <source>: saved</source>
         <translation>: 已儲存</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2546"/>
+        <location filename="DlgConvert.cpp" line="2567"/>
         <source>Uploading image(s) to server...</source>
         <translation>上傳圖片到伺服器...</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2609"/>
-        <location filename="DlgConvert.cpp" line="2611"/>
+        <location filename="DlgConvert.cpp" line="2630"/>
+        <location filename="DlgConvert.cpp" line="2632"/>
         <source>[Finished]</source>
         <translation>[完成]</translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2818"/>
+        <location filename="DlgConvert.cpp" line="2839"/>
         <source>%n second(s) remaining</source>
         <translation>
             <numerusform>%n 秒 (剩餘時間)</numerusform>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2821"/>
-        <location filename="DlgConvert.cpp" line="2825"/>
+        <location filename="DlgConvert.cpp" line="2842"/>
+        <location filename="DlgConvert.cpp" line="2846"/>
         <source>%n minute(s) remaining</source>
         <translation>
             <numerusform>%n 分 (剩餘時間)</numerusform>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2477"/>
-        <location filename="DlgConvert.cpp" line="2825"/>
+        <location filename="DlgConvert.cpp" line="2498"/>
+        <location filename="DlgConvert.cpp" line="2846"/>
         <source>%n hour(s) and </source>
         <translation>
             <numerusform>%n 小時又 </numerusform>
@@ -3714,160 +3714,160 @@ Do you want to overwrite it?</source>
         <translation>匯出記錄(log)</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1515"/>
-        <location filename="DlgConvert.cpp" line="1524"/>
+        <location filename="DlgConvert.cpp" line="1527"/>
+        <location filename="DlgConvert.cpp" line="1536"/>
         <source>Actions</source>
         <translation>動作</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1639"/>
+        <location filename="DlgConvert.cpp" line="1651"/>
         <source>Load image...</source>
         <translation>載入圖片...</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1645"/>
+        <location filename="DlgConvert.cpp" line="1657"/>
         <source>Remove file from filelist</source>
         <translation type="unfinished">從檔案清單中移除檔案</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1652"/>
+        <location filename="DlgConvert.cpp" line="1664"/>
         <source>Use image from input files</source>
         <translation>使用輸入檔案的圖片</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2445"/>
+        <location filename="DlgConvert.cpp" line="2466"/>
         <source>Input files:</source>
         <translation>輸入檔案:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2446"/>
+        <location filename="DlgConvert.cpp" line="2467"/>
         <source>Extracted pages:</source>
         <translation>取出的頁:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2449"/>
+        <location filename="DlgConvert.cpp" line="2470"/>
         <source>New files:</source>
         <translation>新檔案:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2451"/>
+        <location filename="DlgConvert.cpp" line="2472"/>
         <source>Overwritten:</source>
         <translation>已覆蓋:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2453"/>
+        <location filename="DlgConvert.cpp" line="2474"/>
         <source>Skipped:</source>
         <translation>已跳過:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2457"/>
+        <location filename="DlgConvert.cpp" line="2478"/>
         <source>Total input file size:</source>
         <translation>總輸入檔案大小:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2458"/>
+        <location filename="DlgConvert.cpp" line="2479"/>
         <source>Total output file size:</source>
         <translation>總輸出檔案大小:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2460"/>
+        <location filename="DlgConvert.cpp" line="2481"/>
         <source>File size ratio:</source>
         <translation>檔案大小比例:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2464"/>
+        <location filename="DlgConvert.cpp" line="2485"/>
         <source>Total Duration:</source>
         <translation>全部持續時間:</translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2470"/>
+        <location filename="DlgConvert.cpp" line="2491"/>
         <source>%n second(s)</source>
         <translation>
             <numerusform>%n 秒</numerusform>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2473"/>
-        <location filename="DlgConvert.cpp" line="2477"/>
+        <location filename="DlgConvert.cpp" line="2494"/>
+        <location filename="DlgConvert.cpp" line="2498"/>
         <source>%n minute(s)</source>
         <translation>
             <numerusform>%n 分</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2623"/>
+        <location filename="DlgConvert.cpp" line="2644"/>
         <source>Finished at: </source>
         <translation>結束於: </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2654"/>
+        <location filename="DlgConvert.cpp" line="2675"/>
         <source>uploaded</source>
         <translation>已上傳</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2662"/>
+        <location filename="DlgConvert.cpp" line="2683"/>
         <source>not an image</source>
         <oldsource>not a picture</oldsource>
         <translation type="unfinished">不是圖片</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2665"/>
+        <location filename="DlgConvert.cpp" line="2686"/>
         <source>open error</source>
         <translation>開啟錯誤</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2668"/>
+        <location filename="DlgConvert.cpp" line="2689"/>
         <source>create error</source>
         <translation>建立錯誤</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2671"/>
+        <location filename="DlgConvert.cpp" line="2692"/>
         <source>has read-only attribute, and can&apos;t be overwritten!</source>
         <translation>具唯獨屬性，故無法覆蓋!</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2674"/>
+        <location filename="DlgConvert.cpp" line="2695"/>
         <source>skipped, file already exists!</source>
         <translation>將跳過，因檔案已存在!</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2676"/>
+        <location filename="DlgConvert.cpp" line="2697"/>
         <source>failed</source>
         <translation>失敗</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2682"/>
+        <location filename="DlgConvert.cpp" line="2703"/>
         <source>loading</source>
         <translation>載入中</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2700"/>
+        <location filename="DlgConvert.cpp" line="2721"/>
         <source>loaded</source>
         <translation>已載入</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2734"/>
+        <location filename="DlgConvert.cpp" line="2755"/>
         <source>copied</source>
         <translation>已複製</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2738"/>
+        <location filename="DlgConvert.cpp" line="2759"/>
         <source>saved</source>
         <translation>已儲存</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2752"/>
+        <location filename="DlgConvert.cpp" line="2773"/>
         <source>%1 of %2 files</source>
         <translation>%2個檔案的第%1個</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2783"/>
+        <location filename="DlgConvert.cpp" line="2804"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
         <translation>覆蓋檔案</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2784"/>
+        <location filename="DlgConvert.cpp" line="2805"/>
         <source>Destination already has a file named: 
 %1
 
@@ -3877,69 +3877,69 @@ Do you want to overwrite it?</oldsource>
         <translation type="unfinished">檔案 %1 已存在. 要覆蓋嗎?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2786"/>
+        <location filename="DlgConvert.cpp" line="2807"/>
         <source>Yes to &amp;all</source>
         <translation>全都確定(&amp;a)</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2787"/>
+        <location filename="DlgConvert.cpp" line="2808"/>
         <source>&amp;Yes</source>
         <translation>是(&amp;Y)</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2788"/>
+        <location filename="DlgConvert.cpp" line="2809"/>
         <source>&amp;No</source>
         <translation>否(&amp;N)</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2789"/>
+        <location filename="DlgConvert.cpp" line="2810"/>
         <source>&amp;Rename</source>
         <translation>重新命名(&amp;R)</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2790"/>
+        <location filename="DlgConvert.cpp" line="2811"/>
         <source>&amp;Cancel</source>
         <translation>取消(&amp;C)</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2847"/>
+        <location filename="DlgConvert.cpp" line="2868"/>
         <source>The &apos;Delete original&apos; option is enabled
 
 Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2857"/>
+        <location filename="DlgConvert.cpp" line="2878"/>
         <source>Output filename</source>
         <translation>輸出檔名</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2857"/>
+        <location filename="DlgConvert.cpp" line="2878"/>
         <source>Output filename will be the same for all converted files. 
 
 Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2880"/>
+        <location filename="DlgConvert.cpp" line="2901"/>
         <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
 
 Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2866"/>
+        <location filename="DlgConvert.cpp" line="2887"/>
         <source>Choose output pathname</source>
         <translation>選擇輸出路徑名</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="3008"/>
+        <location filename="DlgConvert.cpp" line="3029"/>
         <source>The &apos;Use multiple CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</source>
         <oldsource>The &apos;Use CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</oldsource>
         <translation>&apos;使用多CPU內核&apos;被禁用。此設置不能與&apos;詢問&apos;模式或多頁PDF檔合併使用。</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="3010"/>
+        <location filename="DlgConvert.cpp" line="3031"/>
         <source>Started at: </source>
         <translation>開始於: </translation>
     </message>
@@ -8729,72 +8729,72 @@ Subfolders will be created. </source>
         <translation>寫入(&amp;w)</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="175"/>
+        <location filename="DlgIptc.cpp" line="176"/>
         <source>0: None</source>
         <translation>0: 無</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="175"/>
+        <location filename="DlgIptc.cpp" line="176"/>
         <source>1: High</source>
         <translation>1: 高</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="176"/>
+        <location filename="DlgIptc.cpp" line="177"/>
         <source>5: Normal</source>
         <translation>5: 正常</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="176"/>
+        <location filename="DlgIptc.cpp" line="177"/>
         <source>8: Low</source>
         <translation>8: 低</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="177"/>
+        <location filename="DlgIptc.cpp" line="178"/>
         <source>a: Morning</source>
         <translation>a: 早上</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="177"/>
+        <location filename="DlgIptc.cpp" line="178"/>
         <source>b: Afternoon</source>
         <translation>b: 下午</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="177"/>
+        <location filename="DlgIptc.cpp" line="178"/>
         <source>c: Evening</source>
         <translation>c: 晚上</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="212"/>
+        <location filename="DlgIptc.cpp" line="213"/>
         <source>File created date/time</source>
         <translation>檔案建立日期/時間</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="212"/>
+        <location filename="DlgIptc.cpp" line="213"/>
         <source>File modified date/time</source>
         <translation>檔案修改日期/時間</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="213"/>
+        <location filename="DlgIptc.cpp" line="214"/>
         <source>EXIF date/time taken (if exists)</source>
         <translation>EXIF 拍照日期/時間 (若有的話)</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="213"/>
+        <location filename="DlgIptc.cpp" line="214"/>
         <source>EXIF date/time digitized (if exists)</source>
         <translation>EXIF 儲存日期/時間 (若有的話)</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="213"/>
+        <location filename="DlgIptc.cpp" line="214"/>
         <source>EXIF date/time modified (if exists)</source>
         <translation>EXIF 修改日期/時間 (若有的話)</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="320"/>
+        <location filename="DlgIptc.cpp" line="321"/>
         <source>If you want to edit XMP metadata, please check the new &apos;Edit XMP&apos; dialog. </source>
         <translation>若想編輯XMP詮釋資料，請查看新的 &apos;編輯XMP&apos; 對話窗. </translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="364"/>
+        <location filename="DlgIptc.cpp" line="365"/>
         <source>Field values are not loaded because &apos;Do not load field values&apos; is checked</source>
         <translation>因&quot;不載入欄位值&quot;已勾選，故未載入欄位值</translation>
     </message>
@@ -8805,66 +8805,66 @@ Subfolders will be created. </source>
         <translation>套用(&amp;a)</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="897"/>
+        <location filename="DlgIptc.cpp" line="898"/>
         <source>IPTC data has changed.
 Do you want to save your changes?</source>
         <translation>IPTC資訊已變更.
 要儲存變更嗎?</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="917"/>
+        <location filename="DlgIptc.cpp" line="918"/>
         <source>IPTC has changed</source>
         <translation>IPTC資料已變更</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="918"/>
+        <location filename="DlgIptc.cpp" line="919"/>
         <source>Do you want to save your changes?</source>
         <translation>要儲存變更嗎?</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="1039"/>
+        <location filename="DlgIptc.cpp" line="1040"/>
         <source>Insert</source>
         <translation>插入</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="1051"/>
+        <location filename="DlgIptc.cpp" line="1052"/>
         <source>Insert from</source>
         <translation>從...插入</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="1076"/>
+        <location filename="DlgIptc.cpp" line="1077"/>
         <source>Copy into</source>
         <translation>複製到</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="1099"/>
+        <location filename="DlgIptc.cpp" line="1100"/>
         <source>Library</source>
         <translation>程式庫</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="1105"/>
+        <location filename="DlgIptc.cpp" line="1106"/>
         <source>Edit history...</source>
         <translation>編輯歷史清單...</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="1106"/>
+        <location filename="DlgIptc.cpp" line="1107"/>
         <source>Sort alphabetically</source>
         <translation>按字母排序</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="1572"/>
+        <location filename="DlgIptc.cpp" line="1573"/>
         <source>Required field</source>
         <translation>必要的欄位</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="1572"/>
+        <location filename="DlgIptc.cpp" line="1573"/>
         <source>Some fields are required, please fill them!</source>
         <translation>某些欄位是必要的, 請填入它們的值!</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="1643"/>
-        <location filename="DlgIptc.cpp" line="1711"/>
-        <location filename="DlgIptc.cpp" line="1758"/>
+        <location filename="DlgIptc.cpp" line="1644"/>
+        <location filename="DlgIptc.cpp" line="1712"/>
+        <location filename="DlgIptc.cpp" line="1759"/>
         <source>An error has occurred during processing. 
 Please make sure that files are not read-only!</source>
         <oldsource>An error occured during processing. 
@@ -8872,7 +8872,7 @@ Please make sure that files are not read-only!</oldsource>
         <translation>處理時發生錯誤. 請確認檔案沒有設成唯讀!</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="1678"/>
+        <location filename="DlgIptc.cpp" line="1679"/>
         <source>Are you sure to overwrite IPTC/XMP data for ALL files with the current values of the fields?</source>
         <translation>確定用目前設定值覆蓋所有檔案的 IPTC/XMP 資料?</translation>
     </message>
@@ -8886,39 +8886,39 @@ Please make sure that files are not read-only!</oldsource>
         <translation>編輯 IPTC-IIM</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="739"/>
+        <location filename="DlgIptc.ui" line="749"/>
         <source>Remember opened tab</source>
         <oldsource>Open last opened tab</oldsource>
         <translation type="unfinished">開啟上次使用清單頁籤</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="879"/>
+        <location filename="DlgIptc.ui" line="889"/>
         <source>Don&apos;t load field values</source>
         <oldsource>Don&apos;t  load field values</oldsource>
         <translation type="unfinished">不載入欄位值</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="811"/>
+        <location filename="DlgIptc.ui" line="821"/>
         <source>Ctrl+Left</source>
         <translation>Ctrl+左鍵</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="831"/>
+        <location filename="DlgIptc.ui" line="841"/>
         <source>Ctrl+Right</source>
         <translation>Ctrl+右鍵</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="855"/>
+        <location filename="DlgIptc.ui" line="865"/>
         <source>Load template...</source>
         <translation>載入樣板...</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="845"/>
+        <location filename="DlgIptc.ui" line="855"/>
         <source>Save template...</source>
         <translation>儲存樣板...</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="872"/>
+        <location filename="DlgIptc.ui" line="882"/>
         <source>Clear all fields</source>
         <translation>清除所有欄位</translation>
     </message>
@@ -8928,150 +8928,150 @@ Please make sure that files are not read-only!</oldsource>
         <translation>圖片說明</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="80"/>
+        <location filename="DlgIptc.ui" line="90"/>
         <source>Keywords</source>
         <translation>關鍵字</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="92"/>
+        <location filename="DlgIptc.ui" line="102"/>
         <source>History</source>
         <translation>歷史清單</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="97"/>
+        <location filename="DlgIptc.ui" line="107"/>
         <source>Categories (database)</source>
         <translation>分類(資料庫)</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="102"/>
+        <location filename="DlgIptc.ui" line="112"/>
         <source>Text file</source>
         <translation>文字檔</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="110"/>
+        <location filename="DlgIptc.ui" line="120"/>
         <source>...</source>
         <translation>...</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="166"/>
+        <location filename="DlgIptc.ui" line="176"/>
         <source>Use parent keywords</source>
         <translation>使用父輩關鍵字</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="201"/>
+        <location filename="DlgIptc.ui" line="211"/>
         <source>Import...</source>
         <translation>匯入...</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="228"/>
+        <location filename="DlgIptc.ui" line="238"/>
         <source>Categories</source>
         <translation>類別</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="261"/>
+        <location filename="DlgIptc.ui" line="271"/>
         <source>Credits</source>
         <translation>致謝</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="320"/>
+        <location filename="DlgIptc.ui" line="330"/>
         <source>Status</source>
         <translation>狀態</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="329"/>
+        <location filename="DlgIptc.ui" line="339"/>
         <source>Priority</source>
         <translation>優先權</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="352"/>
+        <location filename="DlgIptc.ui" line="362"/>
         <source>Object cycle</source>
         <translation>物件週期</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="398"/>
+        <location filename="DlgIptc.ui" line="408"/>
         <source>Date/Time</source>
         <translation>日期/時間</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="404"/>
+        <location filename="DlgIptc.ui" line="414"/>
         <source>Created date/time</source>
         <translation>建立日期/時間</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="450"/>
-        <location filename="DlgIptc.ui" line="509"/>
+        <location filename="DlgIptc.ui" line="460"/>
+        <location filename="DlgIptc.ui" line="519"/>
         <source>YYYYMMDD</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="473"/>
+        <location filename="DlgIptc.ui" line="483"/>
         <source>Released date/time</source>
         <translation>發布日期/時間</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="540"/>
+        <location filename="DlgIptc.ui" line="550"/>
         <source>Source</source>
         <translation>來源</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="597"/>
+        <location filename="DlgIptc.ui" line="607"/>
         <source>Country code</source>
         <translation>國碼</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="633"/>
+        <location filename="DlgIptc.ui" line="643"/>
         <source>Options</source>
         <translation>選項</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="706"/>
+        <location filename="DlgIptc.ui" line="716"/>
         <source>Multiple selection</source>
         <translation>多重選擇</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="715"/>
+        <location filename="DlgIptc.ui" line="725"/>
         <source>Keep and add new value (Keywords and supplemental categories)</source>
         <translation>保留並新增值 (關鍵字與附加類別)</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="862"/>
+        <location filename="DlgIptc.ui" line="872"/>
         <source>Load template V1...</source>
         <translation>載入V1套版...</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="722"/>
+        <location filename="DlgIptc.ui" line="732"/>
         <source>Keep original value if new value is empty</source>
         <translation>若新值為空則保留原值</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="729"/>
+        <location filename="DlgIptc.ui" line="739"/>
         <source>Replace only if original value is empty</source>
         <translation>若原值為空才取代</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="654"/>
+        <location filename="DlgIptc.ui" line="664"/>
         <source>Mode:</source>
         <translation>模式:</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="662"/>
+        <location filename="DlgIptc.ui" line="672"/>
         <source>IPTC-IIM only</source>
         <oldsource>IPTC only</oldsource>
         <translation>只IPTC-IIM</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="667"/>
+        <location filename="DlgIptc.ui" line="677"/>
         <source>IPTC-IIM, update or create XMP</source>
         <oldsource>IPTC, update or create XMP</oldsource>
         <translation>IPTC-IIM, 更新或建立XMP</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="672"/>
+        <location filename="DlgIptc.ui" line="682"/>
         <source>XMP only</source>
         <translation>只XMP</translation>
     </message>
     <message>
-        <location filename="DlgIptc.ui" line="677"/>
+        <location filename="DlgIptc.ui" line="687"/>
         <source>XMP, update or create IPTC-IIM</source>
         <oldsource>XMP, update or create IPTC</oldsource>
         <translation>XMP, 更新或建立IPTC-IIM</translation>
@@ -9876,32 +9876,32 @@ Please make sure that files are not read-only!</oldsource>
 <context>
     <name>DlgProcess</name>
     <message>
-        <location filename="DlgProcess.cpp" line="49"/>
+        <location filename="DlgProcess.cpp" line="50"/>
         <source>Zoom out</source>
         <translation>縮小</translation>
     </message>
     <message>
-        <location filename="DlgProcess.cpp" line="51"/>
+        <location filename="DlgProcess.cpp" line="52"/>
         <source>Zoom in</source>
         <translation>放大</translation>
     </message>
     <message>
-        <location filename="DlgProcess.cpp" line="53"/>
+        <location filename="DlgProcess.cpp" line="54"/>
         <source>Zoom 100%</source>
         <translation>實際大小</translation>
     </message>
     <message>
-        <location filename="DlgProcess.cpp" line="55"/>
+        <location filename="DlgProcess.cpp" line="56"/>
         <source>Best fit</source>
         <translation>最適大小</translation>
     </message>
     <message>
-        <location filename="DlgProcess.cpp" line="315"/>
+        <location filename="DlgProcess.cpp" line="318"/>
         <source>&lt;Last Used&gt;</source>
         <translation>&lt;最後使用的&gt;</translation>
     </message>
     <message>
-        <location filename="DlgProcess.cpp" line="315"/>
+        <location filename="DlgProcess.cpp" line="318"/>
         <source>&lt;Default&gt;</source>
         <translation>&lt;預設&gt;</translation>
     </message>
@@ -11864,38 +11864,38 @@ Thumbnail</source>
 <context>
     <name>DlgSettingsGeneral</name>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="263"/>
-        <location filename="DlgSettingsGeneral.cpp" line="264"/>
+        <location filename="DlgSettingsGeneral.cpp" line="283"/>
+        <location filename="DlgSettingsGeneral.cpp" line="284"/>
         <source>Load profile</source>
         <translation>載入配置</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="271"/>
+        <location filename="DlgSettingsGeneral.cpp" line="291"/>
         <source>Perceptual</source>
         <translation>知覺式</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="271"/>
+        <location filename="DlgSettingsGeneral.cpp" line="291"/>
         <source>Relative colorimetric</source>
         <translation>相對色度</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="271"/>
+        <location filename="DlgSettingsGeneral.cpp" line="291"/>
         <source>Saturation</source>
         <translation>飽和度</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="271"/>
+        <location filename="DlgSettingsGeneral.cpp" line="291"/>
         <source>Absolute colorimetric</source>
         <translation>絕對色度</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="437"/>
+        <location filename="DlgSettingsGeneral.cpp" line="457"/>
         <source>Delete</source>
         <translation>刪除</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="437"/>
+        <location filename="DlgSettingsGeneral.cpp" line="457"/>
         <source>Do you want to delete the selected Auto Correct entry?</source>
         <translation>確定要刪除選取的自動校正項目嗎?</translation>
     </message>
@@ -12333,160 +12333,170 @@ Thumbnail</source>
     <name>DlgSettingsIntegration</name>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="29"/>
-        <location filename="DlgSettingsIntegration.cpp" line="43"/>
-        <location filename="DlgStartupWizard.cpp" line="28"/>
-        <location filename="DlgStartupWizard.cpp" line="47"/>
-        <location filename="DlgStartupWizard.cpp" line="142"/>
-        <location filename="DlgStartupWizard.cpp" line="159"/>
-        <source>User (System)</source>
-        <translation>使用者 (系統)</translation>
+        <location filename="DlgSettingsIntegration.cpp" line="38"/>
+        <location filename="DlgSettingsIntegration.cpp" line="45"/>
+        <location filename="DlgSettingsIntegration.cpp" line="53"/>
+        <source>System - Current user</source>
+        <oldsource>User (System)</oldsource>
+        <translation type="unfinished">使用者 (系統)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="29"/>
-        <location filename="DlgStartupWizard.cpp" line="32"/>
-        <location filename="DlgStartupWizard.cpp" line="146"/>
-        <source>Program (XnView)</source>
-        <translation>程式 (XnView)</translation>
+        <location filename="DlgSettingsIntegration.cpp" line="31"/>
+        <source>System - Current user (Windows registry)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsIntegration.cpp" line="32"/>
+        <location filename="DlgSettingsIntegration.cpp" line="40"/>
+        <location filename="DlgSettingsIntegration.cpp" line="47"/>
+        <location filename="DlgSettingsIntegration.cpp" line="55"/>
+        <source>System - Local machine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsIntegration.cpp" line="34"/>
+        <location filename="DlgSettingsIntegration.cpp" line="42"/>
+        <location filename="DlgSettingsIntegration.cpp" line="49"/>
+        <source>Application folder</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="36"/>
-        <location filename="DlgSettingsIntegration.cpp" line="39"/>
         <location filename="DlgSettingsIntegration.cpp" line="43"/>
-        <location filename="DlgStartupWizard.cpp" line="41"/>
-        <location filename="DlgStartupWizard.cpp" line="47"/>
-        <location filename="DlgStartupWizard.cpp" line="152"/>
-        <location filename="DlgStartupWizard.cpp" line="159"/>
+        <location filename="DlgSettingsIntegration.cpp" line="50"/>
+        <location filename="DlgSettingsIntegration.cpp" line="57"/>
         <source>Custom</source>
         <translation>自訂</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="43"/>
-        <location filename="DlgStartupWizard.cpp" line="47"/>
-        <location filename="DlgStartupWizard.cpp" line="159"/>
+        <location filename="DlgSettingsIntegration.cpp" line="52"/>
         <source>Same as Catalog</source>
         <translation>同目錄</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="137"/>
-        <location filename="DlgSettingsIntegration.cpp" line="138"/>
-        <location filename="DlgSettingsIntegration.cpp" line="139"/>
+        <location filename="DlgSettingsIntegration.cpp" line="150"/>
+        <location filename="DlgSettingsIntegration.cpp" line="151"/>
+        <location filename="DlgSettingsIntegration.cpp" line="152"/>
         <source>Browse with XnViewMP</source>
         <translation>使用XnViewMP(多國語言版)瀏覽</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="324"/>
+        <location filename="DlgSettingsIntegration.cpp" line="318"/>
         <source>Paths</source>
         <translation>路徑</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="324"/>
+        <location filename="DlgSettingsIntegration.cpp" line="318"/>
         <source>Please be careful to folder rights by using XnView folder</source>
         <translation>使用XnView資料夾請注意資料夾權限</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="487"/>
+        <location filename="DlgSettingsIntegration.cpp" line="508"/>
         <source>XnViewMP is a fast multi-format graphics browser, viewer, and converter. It reads more than 400 file formats.</source>
         <translation>XnViewMP是一個快速的多重格式的繪圖瀏覽、觀看和轉換軟體.可讀取超過400種以上的檔案格式.</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="488"/>
+        <location filename="DlgSettingsIntegration.cpp" line="509"/>
         <source>XnViewMP for Windows</source>
         <translation>Windows版XnViewMP</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="507"/>
+        <location filename="DlgSettingsIntegration.cpp" line="528"/>
         <source>XnView Slide file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="514"/>
+        <location filename="DlgSettingsIntegration.cpp" line="535"/>
         <source>%1 Image file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="705"/>
+        <location filename="DlgSettingsIntegration.cpp" line="726"/>
         <source>File Associations</source>
         <translation>檔案關聯</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="705"/>
+        <location filename="DlgSettingsIntegration.cpp" line="726"/>
         <source>Please start XnViewMP with admin rights (only the first time).</source>
         <translation>請用系統管理元權限啟動XnViewMP(只在第一次).</translation>
-    </message>
-    <message>
-        <location filename="DlgStartupWizard.cpp" line="30"/>
-        <location filename="DlgStartupWizard.cpp" line="144"/>
-        <source>Program (XnConvert)</source>
-        <translation>程式 (XnConvert)</translation>
     </message>
 </context>
 <context>
     <name>DlgSettingsIntegrationClass</name>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="36"/>
+        <location filename="DlgSettingsIntegration.ui" line="39"/>
         <source>Integration</source>
         <translation>整合</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="42"/>
+        <location filename="DlgSettingsIntegration.ui" line="45"/>
         <source>Add &apos;Browse with XnViewMP&apos; to context menu (requires admin rights)</source>
         <translation>右鍵選單加入&apos;以XnViewMP瀏覽&apos;項目 (需管理員權限)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="51"/>
+        <location filename="DlgSettingsIntegration.ui" line="54"/>
         <source>Set file associations...</source>
         <oldsource>Run the File association(s) tool...</oldsource>
         <translation>設定檔案關聯工具...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="87"/>
+        <location filename="DlgSettingsIntegration.ui" line="90"/>
         <source>Paths</source>
         <translation>路徑</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="182"/>
-        <source>Folder for Catalog (.db)</source>
-        <translation>目錄的資料夾 (.db)</translation>
+        <location filename="DlgSettingsIntegration.ui" line="120"/>
+        <source>Settings - General</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="211"/>
-        <source>Open the Catalog Location</source>
-        <translation>開啟目錄所在資料夾</translation>
+        <location filename="DlgSettingsIntegration.ui" line="137"/>
+        <location filename="DlgSettingsIntegration.ui" line="193"/>
+        <location filename="DlgSettingsIntegration.ui" line="243"/>
+        <location filename="DlgSettingsIntegration.ui" line="299"/>
+        <location filename="DlgSettingsIntegration.ui" line="347"/>
+        <source>Current location</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="218"/>
-        <source>Folder for Thumbnails Database</source>
-        <translation>縮圖資料庫的資料夾</translation>
+        <location filename="DlgSettingsIntegration.ui" line="166"/>
+        <source>Settings - Other</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="93"/>
-        <source>XnView settings</source>
-        <translation>XnView設定</translation>
+        <location filename="DlgSettingsIntegration.ui" line="216"/>
+        <source>Database - Catalog</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="104"/>
-        <source>Use .ini file in folder</source>
-        <translation>使用資料夾中的INI檔</translation>
+        <location filename="DlgSettingsIntegration.ui" line="272"/>
+        <source>Database - Thumbnails</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="127"/>
-        <source>Open Config Files Location</source>
-        <translation>開啟組態檔所在資料夾</translation>
+        <location filename="DlgSettingsIntegration.ui" line="313"/>
+        <source>Configuration</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="136"/>
-        <source>Use Windows registry</source>
-        <translation>使用Windows登錄檔</translation>
+        <location filename="DlgSettingsIntegration.ui" line="324"/>
+        <source>Current user (recommended)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="146"/>
-        <source>Other settings</source>
-        <translation>其他設定</translation>
+        <location filename="DlgSettingsIntegration.ui" line="329"/>
+        <source>Local machine</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="175"/>
-        <source>Folder for other files</source>
-        <translation>其他檔案的資料夾</translation>
+        <location filename="DlgSettingsIntegration.ui" line="334"/>
+        <source>Portable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsIntegration.ui" line="339"/>
+        <source>Custom</source>
+        <translation type="unfinished">自訂</translation>
     </message>
 </context>
 <context>
@@ -13711,8 +13721,9 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="129"/>
-        <source>Use checkboard pattern as background</source>
-        <translation>背景使用棋盤格樣式</translation>
+        <source>Use transparency grid (checkerboard pattern)</source>
+        <oldsource>Use checkboard pattern as background</oldsource>
+        <translation type="unfinished">背景使用棋盤格樣式</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="382"/>
@@ -13733,11 +13744,6 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="224"/>
         <source>Use gamma correction</source>
         <translation>使用伽瑪修正(濃度)</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsView.ui" line="435"/>
-        <source>High zoom quality</source>
-        <translation>高縮放品質</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="193"/>
@@ -13769,9 +13775,9 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="528"/>
-        <source>Reset X/Y (No fit)</source>
-        <oldsource>Reset XY (Not fit)</oldsource>
-        <translation>重設 XY(不擬合)</translation>
+        <source>Reset X/Y position on file change (No fit)</source>
+        <oldsource>Reset X/Y (No fit)</oldsource>
+        <translation type="unfinished">重設 XY(不擬合)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="549"/>
@@ -13853,8 +13859,9 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="493"/>
-        <source>Zoom on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
-        <translation>高階DPI螢幕縮放: 圖片像素=螢幕像素</translation>
+        <source>Scale on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
+        <oldsource>Zoom on HiDPI screen: 1 image pixel equals 1 screen pixel</oldsource>
+        <translation type="unfinished">高階DPI螢幕縮放: 圖片像素=螢幕像素</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="678"/>
@@ -13889,6 +13896,11 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="357"/>
         <source>2.00  Anamorphic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsView.ui" line="435"/>
+        <source>Antialiasing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14585,113 +14597,98 @@ Do you want to reassign?</source>
         <translation>一般</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="28"/>
+        <location filename="DlgStartupWizard.ui" line="31"/>
         <source>Language</source>
         <translation>語系</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="59"/>
+        <location filename="DlgStartupWizard.ui" line="45"/>
         <source>Theme</source>
         <translation>主題</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="70"/>
+        <location filename="DlgStartupWizard.ui" line="56"/>
         <source>Default</source>
         <translation>預設</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="75"/>
+        <location filename="DlgStartupWizard.ui" line="61"/>
         <source>Light</source>
         <translation>淡</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="80"/>
+        <location filename="DlgStartupWizard.ui" line="66"/>
         <source>Dark</source>
         <translation>深</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="85"/>
+        <location filename="DlgStartupWizard.ui" line="71"/>
         <source>Black</source>
         <translation>黑</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="111"/>
+        <location filename="DlgStartupWizard.ui" line="87"/>
+        <source>Current user (recommended)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgStartupWizard.ui" line="92"/>
+        <source>Current user (Windows registry)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgStartupWizard.ui" line="97"/>
+        <source>Local machine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgStartupWizard.ui" line="102"/>
+        <source>Portable (application folder)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgStartupWizard.ui" line="128"/>
         <source>System integration</source>
         <translation>系統整合</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="117"/>
+        <location filename="DlgStartupWizard.ui" line="134"/>
         <source>Add &apos;Browse with XnViewMP&apos; to context menu</source>
         <translation>新增 &apos;以XnViewMP瀏覽&apos; 項目到右鍵選單</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="124"/>
+        <location filename="DlgStartupWizard.ui" line="141"/>
         <source>Run the File association(s) tool...</source>
         <translation>執行檔案關聯工具...</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="134"/>
+        <location filename="DlgStartupWizard.ui" line="79"/>
         <source>Settings</source>
         <oldsource>XnView settings</oldsource>
         <translation>設定</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="148"/>
-        <source>Use .ini file in folder</source>
-        <translation>使用資料夾中的INI檔</translation>
-    </message>
-    <message>
-        <location filename="DlgStartupWizard.ui" line="179"/>
-        <source>Use Windows registry</source>
-        <translation>使用Windows登錄檔</translation>
-    </message>
-    <message>
-        <location filename="DlgStartupWizard.ui" line="189"/>
-        <source>Other settings</source>
-        <translation>其他設定</translation>
-    </message>
-    <message>
-        <location filename="DlgStartupWizard.ui" line="322"/>
-        <source>Send anonymous logs</source>
-        <translation>傳送匿名記錄</translation>
-    </message>
-    <message>
-        <location filename="DlgStartupWizard.ui" line="248"/>
-        <source>Folder for Thumbnails Database</source>
-        <translation>縮圖資料庫的資料夾</translation>
-    </message>
-    <message>
-        <location filename="DlgStartupWizard.ui" line="228"/>
-        <source>Folder for other files</source>
-        <translation>其他檔案的資料夾</translation>
-    </message>
-    <message>
-        <location filename="DlgStartupWizard.ui" line="221"/>
-        <source>Folder for Catalog (.db)</source>
-        <translation>目錄的資料夾 (.db)</translation>
-    </message>
-    <message>
-        <location filename="DlgStartupWizard.ui" line="273"/>
+        <location filename="DlgStartupWizard.ui" line="153"/>
         <source>Check for program updates</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="284"/>
+        <location filename="DlgStartupWizard.ui" line="164"/>
         <source>Never</source>
         <translation>從不</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="289"/>
+        <location filename="DlgStartupWizard.ui" line="169"/>
         <source>Daily</source>
         <translation>每日</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="294"/>
+        <location filename="DlgStartupWizard.ui" line="174"/>
         <source>Weekly</source>
         <translation>每週</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="299"/>
+        <location filename="DlgStartupWizard.ui" line="179"/>
         <source>Monthly</source>
         <translation>每月</translation>
     </message>
@@ -16068,62 +16065,62 @@ Do you want to continue?</source>
         <translation type="unfinished">(使用 ; 或 , 符號來分隔值)</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="133"/>
+        <location filename="EditXMPWidget.cpp" line="136"/>
         <source>0: None</source>
         <translation type="unfinished">0: 無</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="133"/>
+        <location filename="EditXMPWidget.cpp" line="136"/>
         <source>1: High</source>
         <translation type="unfinished">1: 高</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="134"/>
+        <location filename="EditXMPWidget.cpp" line="137"/>
         <source>5: Normal</source>
         <translation type="unfinished">5: 正常</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="134"/>
+        <location filename="EditXMPWidget.cpp" line="137"/>
         <source>8: Low</source>
         <translation type="unfinished">8: 低</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="314"/>
+        <location filename="EditXMPWidget.cpp" line="317"/>
         <source>Required field</source>
         <translation type="unfinished">必要的欄位</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="314"/>
+        <location filename="EditXMPWidget.cpp" line="317"/>
         <source>Some fields are required, please fill them!</source>
         <translation type="unfinished">某些欄位是必要的, 請填入它們的值!</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="456"/>
+        <location filename="EditXMPWidget.cpp" line="459"/>
         <source>Insert</source>
         <translation type="unfinished">插入</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="468"/>
+        <location filename="EditXMPWidget.cpp" line="471"/>
         <source>Insert from</source>
         <translation type="unfinished">從...插入</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="489"/>
+        <location filename="EditXMPWidget.cpp" line="492"/>
         <source>Copy into</source>
         <translation type="unfinished">複製到</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="513"/>
+        <location filename="EditXMPWidget.cpp" line="516"/>
         <source>Library</source>
         <translation type="unfinished">程式庫</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="518"/>
+        <location filename="EditXMPWidget.cpp" line="521"/>
         <source>Edit history...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="519"/>
+        <location filename="EditXMPWidget.cpp" line="522"/>
         <source>Sort alphabetically</source>
         <translation type="unfinished">按字母排序</translation>
     </message>
@@ -16218,32 +16215,32 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 <context>
     <name>File</name>
     <message>
-        <location filename="GeneralSettings.cpp" line="937"/>
+        <location filename="GeneralSettings.cpp" line="1014"/>
         <source>Copy of %1%2</source>
         <translation>%1的副本%2</translation>
     </message>
     <message>
-        <location filename="GeneralSettings.cpp" line="939"/>
+        <location filename="GeneralSettings.cpp" line="1016"/>
         <source>Copy (%3) of %1%2</source>
         <translation>%1的副本 (%3)%2</translation>
     </message>
     <message>
-        <location filename="GeneralSettings.cpp" line="945"/>
+        <location filename="GeneralSettings.cpp" line="1022"/>
         <source>%1 - Copy%2</source>
         <translation>%1 - 副本%2</translation>
     </message>
     <message>
-        <location filename="GeneralSettings.cpp" line="947"/>
+        <location filename="GeneralSettings.cpp" line="1024"/>
         <source>%1 - Copy (%3)%2</source>
         <translation>%1 - 副本(%3)%2</translation>
     </message>
     <message>
-        <location filename="GeneralSettings.cpp" line="952"/>
+        <location filename="GeneralSettings.cpp" line="1029"/>
         <source>%1-Copy%2</source>
         <translation>%1-副本%2</translation>
     </message>
     <message>
-        <location filename="GeneralSettings.cpp" line="954"/>
+        <location filename="GeneralSettings.cpp" line="1031"/>
         <source>%1-Copy (%3)%2</source>
         <translation>%1-(%3)副本%2</translation>
     </message>
@@ -16800,9 +16797,9 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>檔案大小</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="364"/>
-        <location filename="IptcEditBase.cpp" line="82"/>
-        <location filename="IptcEditBase.cpp" line="114"/>
+        <location filename="EditXMPWidget.cpp" line="367"/>
+        <location filename="IptcEditBase.cpp" line="83"/>
+        <location filename="IptcEditBase.cpp" line="115"/>
         <location filename="ItemModel.cpp" line="1102"/>
         <location filename="TemplateData.cpp" line="2796"/>
         <source>Annotation</source>
@@ -16848,79 +16845,79 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="228"/>
-        <location filename="EditXMPWidget.cpp" line="354"/>
-        <location filename="IptcEditBase.cpp" line="72"/>
-        <location filename="IptcEditBase.cpp" line="110"/>
+        <location filename="EditXMPWidget.cpp" line="357"/>
+        <location filename="IptcEditBase.cpp" line="73"/>
+        <location filename="IptcEditBase.cpp" line="111"/>
         <location filename="TemplateData.cpp" line="2784"/>
         <source>Filename</source>
         <translation>檔名</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="353"/>
-        <location filename="IptcEditBase.cpp" line="71"/>
+        <location filename="EditXMPWidget.cpp" line="356"/>
+        <location filename="IptcEditBase.cpp" line="72"/>
         <source>Filename without extension</source>
         <translation>主檔名(不含副檔名)</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="355"/>
-        <location filename="IptcEditBase.cpp" line="73"/>
+        <location filename="EditXMPWidget.cpp" line="358"/>
+        <location filename="IptcEditBase.cpp" line="74"/>
         <location filename="TemplateData.cpp" line="2786"/>
         <source>Filename (last number)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="356"/>
-        <location filename="IptcEditBase.cpp" line="74"/>
+        <location filename="EditXMPWidget.cpp" line="359"/>
+        <location filename="IptcEditBase.cpp" line="75"/>
         <location filename="TemplateData.cpp" line="2787"/>
         <source>Folder</source>
         <translation>資料夾</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="357"/>
-        <location filename="IptcEditBase.cpp" line="75"/>
+        <location filename="EditXMPWidget.cpp" line="360"/>
+        <location filename="IptcEditBase.cpp" line="76"/>
         <location filename="TemplateData.cpp" line="2788"/>
         <source>Folder name</source>
         <translation>資料夾名稱</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="358"/>
-        <location filename="IptcEditBase.cpp" line="76"/>
+        <location filename="EditXMPWidget.cpp" line="361"/>
+        <location filename="IptcEditBase.cpp" line="77"/>
         <location filename="TemplateData.cpp" line="2789"/>
         <source>Accessed date</source>
         <translation>存取日期</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="359"/>
-        <location filename="IptcEditBase.cpp" line="77"/>
+        <location filename="EditXMPWidget.cpp" line="362"/>
+        <location filename="IptcEditBase.cpp" line="78"/>
         <location filename="TemplateData.cpp" line="2790"/>
         <source>Creation date</source>
         <translation>建立日期</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="230"/>
-        <location filename="EditXMPWidget.cpp" line="360"/>
-        <location filename="IptcEditBase.cpp" line="78"/>
+        <location filename="EditXMPWidget.cpp" line="363"/>
+        <location filename="IptcEditBase.cpp" line="79"/>
         <location filename="TemplateData.cpp" line="2791"/>
         <source>Modified date</source>
         <translation>修改日期</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="361"/>
-        <location filename="IptcEditBase.cpp" line="79"/>
+        <location filename="EditXMPWidget.cpp" line="364"/>
+        <location filename="IptcEditBase.cpp" line="80"/>
         <location filename="TemplateData.cpp" line="2792"/>
         <source>Size (Auto)</source>
         <translation>大小 (自動)</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="362"/>
-        <location filename="IptcEditBase.cpp" line="80"/>
+        <location filename="EditXMPWidget.cpp" line="365"/>
+        <location filename="IptcEditBase.cpp" line="81"/>
         <location filename="TemplateData.cpp" line="2793"/>
         <source>Size (Bytes)</source>
         <translation>大小 (位元組)</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="363"/>
-        <location filename="IptcEditBase.cpp" line="81"/>
+        <location filename="EditXMPWidget.cpp" line="366"/>
+        <location filename="IptcEditBase.cpp" line="82"/>
         <location filename="TemplateData.cpp" line="2794"/>
         <source>Size (KB)</source>
         <translation>大小 (KB)</translation>
@@ -17724,27 +17721,27 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 <context>
     <name>InfoIPTCView</name>
     <message>
-        <location filename="InfoIPTCView.cpp" line="112"/>
+        <location filename="InfoIPTCView.cpp" line="113"/>
         <source>Caption</source>
         <translation>圖片說明</translation>
     </message>
     <message>
-        <location filename="InfoIPTCView.cpp" line="116"/>
+        <location filename="InfoIPTCView.cpp" line="117"/>
         <source>Keywords &amp; Categories</source>
         <translation>關鍵字&amp; 類別</translation>
     </message>
     <message>
-        <location filename="InfoIPTCView.cpp" line="124"/>
+        <location filename="InfoIPTCView.cpp" line="125"/>
         <source>Credits</source>
         <translation>致謝</translation>
     </message>
     <message>
-        <location filename="InfoIPTCView.cpp" line="128"/>
+        <location filename="InfoIPTCView.cpp" line="129"/>
         <source>Status</source>
         <translation>狀態</translation>
     </message>
     <message>
-        <location filename="InfoIPTCView.cpp" line="132"/>
+        <location filename="InfoIPTCView.cpp" line="133"/>
         <source>Origin</source>
         <translation>原點位置</translation>
     </message>
@@ -17760,9 +17757,9 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>圖片說明</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="113"/>
-        <location filename="InfoIPTCView.cpp" line="26"/>
-        <location filename="IptcHelper.cpp" line="18"/>
+        <location filename="EditXMPWidget.cpp" line="116"/>
+        <location filename="InfoIPTCView.cpp" line="27"/>
+        <location filename="IptcHelper.cpp" line="19"/>
         <location filename="ItemModel.cpp" line="1140"/>
         <location filename="TemplateData.cpp" line="2701"/>
         <location filename="TemplateData.cpp" line="2754"/>
@@ -17770,9 +17767,9 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>圖片說明作者</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="129"/>
-        <location filename="InfoIPTCView.cpp" line="27"/>
-        <location filename="IptcHelper.cpp" line="19"/>
+        <location filename="EditXMPWidget.cpp" line="132"/>
+        <location filename="InfoIPTCView.cpp" line="28"/>
+        <location filename="IptcHelper.cpp" line="20"/>
         <location filename="ItemModel.cpp" line="1142"/>
         <location filename="TemplateData.cpp" line="2702"/>
         <location filename="TemplateData.cpp" line="2758"/>
@@ -17780,37 +17777,37 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>主標題</translation>
     </message>
     <message>
-        <location filename="InfoIPTCView.cpp" line="28"/>
-        <location filename="IptcHelper.cpp" line="20"/>
+        <location filename="InfoIPTCView.cpp" line="29"/>
+        <location filename="IptcHelper.cpp" line="21"/>
         <location filename="TemplateData.cpp" line="2703"/>
         <source>Special instructions</source>
         <translation>特別指引說明</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="119"/>
-        <location filename="InfoIPTCView.cpp" line="33"/>
-        <location filename="IptcHelper.cpp" line="22"/>
+        <location filename="EditXMPWidget.cpp" line="122"/>
+        <location filename="InfoIPTCView.cpp" line="34"/>
+        <location filename="IptcHelper.cpp" line="23"/>
         <location filename="ItemModel.cpp" line="1144"/>
         <location filename="TemplateData.cpp" line="2708"/>
         <source>Keywords</source>
         <translation>關鍵字</translation>
     </message>
     <message>
-        <location filename="InfoIPTCView.cpp" line="34"/>
+        <location filename="InfoIPTCView.cpp" line="35"/>
         <location filename="TemplateData.cpp" line="2709"/>
         <source>Category</source>
         <translation>類別</translation>
     </message>
     <message>
-        <location filename="InfoIPTCView.cpp" line="35"/>
-        <location filename="IptcHelper.cpp" line="24"/>
+        <location filename="InfoIPTCView.cpp" line="36"/>
+        <location filename="IptcHelper.cpp" line="25"/>
         <location filename="TemplateData.cpp" line="2710"/>
         <source>Supplemental categories</source>
         <translation>追補類別</translation>
     </message>
     <message>
-        <location filename="InfoIPTCView.cpp" line="40"/>
-        <location filename="IptcHelper.cpp" line="30"/>
+        <location filename="InfoIPTCView.cpp" line="41"/>
+        <location filename="IptcHelper.cpp" line="31"/>
         <location filename="ItemModel.cpp" line="1156"/>
         <location filename="TemplateData.cpp" line="2715"/>
         <location filename="TemplateData.cpp" line="2750"/>
@@ -17818,31 +17815,31 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>版權</translation>
     </message>
     <message>
-        <location filename="InfoIPTCView.cpp" line="41"/>
-        <location filename="IptcHelper.cpp" line="26"/>
+        <location filename="InfoIPTCView.cpp" line="42"/>
+        <location filename="IptcHelper.cpp" line="27"/>
         <location filename="ItemModel.cpp" line="1148"/>
         <location filename="TemplateData.cpp" line="2716"/>
         <source>Byline</source>
         <translation>署名</translation>
     </message>
     <message>
-        <location filename="InfoIPTCView.cpp" line="42"/>
-        <location filename="IptcHelper.cpp" line="27"/>
+        <location filename="InfoIPTCView.cpp" line="43"/>
+        <location filename="IptcHelper.cpp" line="28"/>
         <location filename="ItemModel.cpp" line="1150"/>
         <location filename="TemplateData.cpp" line="2717"/>
         <source>Byline title</source>
         <translation>署名稱號</translation>
     </message>
     <message>
-        <location filename="InfoIPTCView.cpp" line="43"/>
-        <location filename="IptcHelper.cpp" line="28"/>
+        <location filename="InfoIPTCView.cpp" line="44"/>
+        <location filename="IptcHelper.cpp" line="29"/>
         <source>Credits</source>
         <translation>致謝</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="128"/>
-        <location filename="InfoIPTCView.cpp" line="44"/>
-        <location filename="IptcHelper.cpp" line="29"/>
+        <location filename="EditXMPWidget.cpp" line="131"/>
+        <location filename="InfoIPTCView.cpp" line="45"/>
+        <location filename="IptcHelper.cpp" line="30"/>
         <location filename="ItemModel.cpp" line="1154"/>
         <location filename="TemplateData.cpp" line="2719"/>
         <location filename="TemplateData.cpp" line="2760"/>
@@ -17850,51 +17847,51 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>來源</translation>
     </message>
     <message>
-        <location filename="InfoIPTCView.cpp" line="49"/>
-        <location filename="IptcHelper.cpp" line="33"/>
+        <location filename="InfoIPTCView.cpp" line="50"/>
+        <location filename="IptcHelper.cpp" line="34"/>
         <location filename="TemplateData.cpp" line="2724"/>
         <source>Edit status</source>
         <translation>編輯狀態</translation>
     </message>
     <message>
-        <location filename="InfoIPTCView.cpp" line="50"/>
-        <location filename="IptcHelper.cpp" line="36"/>
+        <location filename="InfoIPTCView.cpp" line="51"/>
+        <location filename="IptcHelper.cpp" line="37"/>
         <location filename="TemplateData.cpp" line="2727"/>
         <source>Job ID</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="InfoIPTCView.cpp" line="51"/>
-        <location filename="IptcHelper.cpp" line="37"/>
+        <location filename="InfoIPTCView.cpp" line="52"/>
+        <location filename="IptcHelper.cpp" line="38"/>
         <location filename="TemplateData.cpp" line="2728"/>
         <source>Program</source>
         <translation>程式</translation>
     </message>
     <message>
-        <location filename="InfoIPTCView.cpp" line="52"/>
-        <location filename="IptcHelper.cpp" line="38"/>
+        <location filename="InfoIPTCView.cpp" line="53"/>
+        <location filename="IptcHelper.cpp" line="39"/>
         <source>Program version</source>
         <translation>程式版本</translation>
     </message>
     <message>
-        <location filename="InfoIPTCView.cpp" line="53"/>
-        <location filename="IptcHelper.cpp" line="34"/>
+        <location filename="InfoIPTCView.cpp" line="54"/>
+        <location filename="IptcHelper.cpp" line="35"/>
         <location filename="TemplateData.cpp" line="2725"/>
         <source>Priority</source>
         <translation>優先權</translation>
     </message>
     <message>
-        <location filename="InfoIPTCView.cpp" line="54"/>
-        <location filename="IptcHelper.cpp" line="35"/>
+        <location filename="InfoIPTCView.cpp" line="55"/>
+        <location filename="IptcHelper.cpp" line="36"/>
         <source>Object cycle</source>
         <translation>物件週期</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="123"/>
-        <location filename="EditXMPWidget.cpp" line="164"/>
-        <location filename="EditXMPWidget.cpp" line="181"/>
-        <location filename="InfoIPTCView.cpp" line="60"/>
-        <location filename="IptcHelper.cpp" line="42"/>
+        <location filename="EditXMPWidget.cpp" line="126"/>
+        <location filename="EditXMPWidget.cpp" line="167"/>
+        <location filename="EditXMPWidget.cpp" line="184"/>
+        <location filename="InfoIPTCView.cpp" line="61"/>
+        <location filename="IptcHelper.cpp" line="43"/>
         <location filename="ItemModel.cpp" line="1160"/>
         <location filename="TemplateData.cpp" line="2736"/>
         <location filename="TemplateData.cpp" line="2755"/>
@@ -17902,23 +17899,23 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>城市</translation>
     </message>
     <message>
-        <location filename="InfoIPTCView.cpp" line="73"/>
+        <location filename="InfoIPTCView.cpp" line="74"/>
         <location filename="TemplateData.cpp" line="2743"/>
         <source>Content location</source>
         <translation>內容地點</translation>
     </message>
     <message>
-        <location filename="InfoIPTCView.cpp" line="62"/>
-        <location filename="IptcHelper.cpp" line="44"/>
+        <location filename="InfoIPTCView.cpp" line="63"/>
+        <location filename="IptcHelper.cpp" line="45"/>
         <source>State/Province</source>
         <translation>州/省</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="125"/>
-        <location filename="EditXMPWidget.cpp" line="167"/>
-        <location filename="EditXMPWidget.cpp" line="182"/>
-        <location filename="InfoIPTCView.cpp" line="63"/>
-        <location filename="IptcHelper.cpp" line="45"/>
+        <location filename="EditXMPWidget.cpp" line="128"/>
+        <location filename="EditXMPWidget.cpp" line="170"/>
+        <location filename="EditXMPWidget.cpp" line="185"/>
+        <location filename="InfoIPTCView.cpp" line="64"/>
+        <location filename="IptcHelper.cpp" line="46"/>
         <location filename="ItemModel.cpp" line="1166"/>
         <location filename="TemplateData.cpp" line="2739"/>
         <location filename="TemplateData.cpp" line="2756"/>
@@ -17926,94 +17923,100 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>國家</translation>
     </message>
     <message>
-        <location filename="InfoIPTCView.cpp" line="64"/>
-        <location filename="IptcHelper.cpp" line="46"/>
+        <location filename="InfoIPTCView.cpp" line="26"/>
+        <location filename="IptcHelper.cpp" line="18"/>
+        <source>Local caption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="InfoIPTCView.cpp" line="65"/>
+        <location filename="IptcHelper.cpp" line="47"/>
         <location filename="TemplateData.cpp" line="2740"/>
         <source>Country code</source>
         <translation>國碼</translation>
     </message>
     <message>
-        <location filename="InfoIPTCView.cpp" line="65"/>
+        <location filename="InfoIPTCView.cpp" line="66"/>
         <source>Original tr. ref.</source>
         <translation>原始傳輸參考.</translation>
     </message>
     <message>
-        <location filename="InfoIPTCView.cpp" line="66"/>
+        <location filename="InfoIPTCView.cpp" line="67"/>
         <location filename="TemplateData.cpp" line="2734"/>
         <source>Created date</source>
         <translation>建立日期</translation>
     </message>
     <message>
-        <location filename="InfoIPTCView.cpp" line="67"/>
+        <location filename="InfoIPTCView.cpp" line="68"/>
         <source>Created time</source>
         <translation>建立時間</translation>
     </message>
     <message>
-        <location filename="InfoIPTCView.cpp" line="68"/>
+        <location filename="InfoIPTCView.cpp" line="69"/>
         <location filename="TemplateData.cpp" line="2735"/>
         <source>Released date</source>
         <translation>發布日期</translation>
     </message>
     <message>
-        <location filename="InfoIPTCView.cpp" line="69"/>
+        <location filename="InfoIPTCView.cpp" line="70"/>
         <source>Release time</source>
         <translation>發布時間</translation>
     </message>
     <message>
-        <location filename="InfoIPTCView.cpp" line="70"/>
+        <location filename="InfoIPTCView.cpp" line="71"/>
         <source>Digitized date</source>
         <translation>數位化日期</translation>
     </message>
     <message>
-        <location filename="InfoIPTCView.cpp" line="71"/>
+        <location filename="InfoIPTCView.cpp" line="72"/>
         <source>Digitized time</source>
         <translation>數位化時間</translation>
     </message>
     <message>
-        <location filename="InfoIPTCView.cpp" line="72"/>
-        <location filename="IptcHelper.cpp" line="31"/>
+        <location filename="InfoIPTCView.cpp" line="73"/>
+        <location filename="IptcHelper.cpp" line="32"/>
         <location filename="ItemModel.cpp" line="1158"/>
         <location filename="TemplateData.cpp" line="2742"/>
         <source>Contact</source>
         <translation>聯絡人</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="179"/>
-        <location filename="InfoIPTCView.cpp" line="61"/>
-        <location filename="IptcHelper.cpp" line="43"/>
+        <location filename="EditXMPWidget.cpp" line="182"/>
+        <location filename="InfoIPTCView.cpp" line="62"/>
+        <location filename="IptcHelper.cpp" line="44"/>
         <location filename="ItemModel.cpp" line="1162"/>
         <location filename="TemplateData.cpp" line="2737"/>
         <source>Location</source>
         <translation>地點</translation>
     </message>
     <message>
-        <location filename="InfoIPTCView.cpp" line="147"/>
+        <location filename="InfoIPTCView.cpp" line="148"/>
         <source>Other</source>
         <translation>其他</translation>
     </message>
     <message>
-        <location filename="IptcHelper.cpp" line="23"/>
+        <location filename="IptcHelper.cpp" line="24"/>
         <location filename="ItemModel.cpp" line="1146"/>
         <source>Categories</source>
         <translation>類別</translation>
     </message>
     <message>
-        <location filename="IptcHelper.cpp" line="40"/>
+        <location filename="IptcHelper.cpp" line="41"/>
         <source>Content location code</source>
         <translation>內容拍照地碼</translation>
     </message>
     <message>
-        <location filename="IptcHelper.cpp" line="41"/>
+        <location filename="IptcHelper.cpp" line="42"/>
         <source>Content location name</source>
         <translation>內容拍照地名</translation>
     </message>
     <message>
-        <location filename="IptcHelper.cpp" line="49"/>
+        <location filename="IptcHelper.cpp" line="50"/>
         <source>Original transmission reference</source>
         <translation>原始傳輸參考</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="127"/>
+        <location filename="EditXMPWidget.cpp" line="130"/>
         <location filename="ItemModel.cpp" line="1152"/>
         <location filename="TemplateData.cpp" line="2718"/>
         <location filename="TemplateData.cpp" line="2757"/>
@@ -18021,9 +18024,9 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>致謝</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="124"/>
-        <location filename="EditXMPWidget.cpp" line="165"/>
-        <location filename="EditXMPWidget.cpp" line="180"/>
+        <location filename="EditXMPWidget.cpp" line="127"/>
+        <location filename="EditXMPWidget.cpp" line="168"/>
+        <location filename="EditXMPWidget.cpp" line="183"/>
         <location filename="ItemModel.cpp" line="1164"/>
         <location filename="TemplateData.cpp" line="2738"/>
         <location filename="TemplateData.cpp" line="2761"/>
@@ -18046,7 +18049,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>建立者</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="111"/>
+        <location filename="EditXMPWidget.cpp" line="114"/>
         <location filename="TemplateData.cpp" line="2749"/>
         <source>Description</source>
         <translation>說明</translation>
@@ -18062,115 +18065,112 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>標題</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="110"/>
+        <location filename="EditXMPWidget.cpp" line="113"/>
         <location filename="TemplateData.cpp" line="2753"/>
         <source>Authors position</source>
         <translation>作者位置</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="130"/>
+        <location filename="EditXMPWidget.cpp" line="133"/>
         <location filename="TemplateData.cpp" line="2759"/>
         <source>Instructions</source>
         <translation>指示</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="108"/>
-        <location filename="InfoIPTCView.cpp" line="59"/>
-        <location filename="IptcHelper.cpp" line="48"/>
+        <location filename="EditXMPWidget.cpp" line="111"/>
+        <location filename="InfoIPTCView.cpp" line="60"/>
+        <location filename="IptcHelper.cpp" line="49"/>
         <location filename="ItemModel.cpp" line="1168"/>
         <location filename="TemplateData.cpp" line="2733"/>
         <source>Document title</source>
         <translation>文件檔</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="109"/>
+        <location filename="EditXMPWidget.cpp" line="112"/>
         <source>Author</source>
         <translation>作者</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="114"/>
+        <location filename="EditXMPWidget.cpp" line="117"/>
         <source>Copyright Notice</source>
         <translation>版權聲明</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="115"/>
+        <location filename="EditXMPWidget.cpp" line="118"/>
         <source>Copyright info URL</source>
         <translation>版權資訊網址</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="116"/>
+        <location filename="EditXMPWidget.cpp" line="119"/>
         <source>Copyright usage terms</source>
         <translation>版權用途條款</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="122"/>
+        <location filename="EditXMPWidget.cpp" line="125"/>
         <source>Sublocation</source>
         <translation>附屬拍照點</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="126"/>
+        <location filename="EditXMPWidget.cpp" line="129"/>
         <source>Country Code</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="131"/>
+        <location filename="EditXMPWidget.cpp" line="134"/>
         <source>Transmission reference</source>
         <translation>傳送參考</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="163"/>
+        <location filename="EditXMPWidget.cpp" line="166"/>
         <source>Address</source>
         <translation>地址</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="166"/>
+        <location filename="EditXMPWidget.cpp" line="169"/>
         <source>ZIP code</source>
         <translation>郵遞區號</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="168"/>
+        <location filename="EditXMPWidget.cpp" line="171"/>
         <source>Telephon number</source>
         <translation>電話</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="169"/>
+        <location filename="EditXMPWidget.cpp" line="172"/>
         <source>Email</source>
         <translation>電子信箱</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="170"/>
+        <location filename="EditXMPWidget.cpp" line="173"/>
         <source>Web site</source>
         <translation>網站</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="171"/>
+        <location filename="EditXMPWidget.cpp" line="174"/>
         <source>Subject code</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="174"/>
+        <location filename="EditXMPWidget.cpp" line="177"/>
         <source>Person in image</source>
         <translation>個人照片</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="175"/>
+        <location filename="EditXMPWidget.cpp" line="178"/>
         <source>Name of organization represented</source>
         <translation>代表組織名稱</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="176"/>
+        <location filename="EditXMPWidget.cpp" line="179"/>
         <source>Code of organization represented</source>
         <translation>代表組織代號</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="177"/>
+        <location filename="EditXMPWidget.cpp" line="180"/>
         <source>Event</source>
         <translation>事件</translation>
     </message>
     <message>
-        <location filename="EditXMPWidget.cpp" line="185"/>
-        <location filename="EditXMPWidget.cpp" line="186"/>
-        <location filename="EditXMPWidget.cpp" line="187"/>
         <location filename="EditXMPWidget.cpp" line="188"/>
         <location filename="EditXMPWidget.cpp" line="189"/>
         <location filename="EditXMPWidget.cpp" line="190"/>
@@ -18178,6 +18178,9 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="EditXMPWidget.cpp" line="192"/>
         <location filename="EditXMPWidget.cpp" line="193"/>
         <location filename="EditXMPWidget.cpp" line="194"/>
+        <location filename="EditXMPWidget.cpp" line="195"/>
+        <location filename="EditXMPWidget.cpp" line="196"/>
+        <location filename="EditXMPWidget.cpp" line="197"/>
         <source>Custom field</source>
         <translation>客製欄位</translation>
     </message>
@@ -18349,32 +18352,32 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 <context>
     <name>IptcEditBase</name>
     <message>
-        <location filename="IptcEditBase.cpp" line="98"/>
+        <location filename="IptcEditBase.cpp" line="99"/>
         <source>Insert</source>
         <translation>插入</translation>
     </message>
     <message>
-        <location filename="IptcEditBase.cpp" line="124"/>
+        <location filename="IptcEditBase.cpp" line="125"/>
         <source>Insert from</source>
         <translation>從...插入</translation>
     </message>
     <message>
-        <location filename="IptcEditBase.cpp" line="149"/>
+        <location filename="IptcEditBase.cpp" line="150"/>
         <source>Copy into</source>
         <translation>複製到</translation>
     </message>
     <message>
-        <location filename="IptcEditBase.cpp" line="172"/>
+        <location filename="IptcEditBase.cpp" line="173"/>
         <source>Library</source>
         <translation>程式庫</translation>
     </message>
     <message>
-        <location filename="IptcEditBase.cpp" line="177"/>
+        <location filename="IptcEditBase.cpp" line="178"/>
         <source>Edit history...</source>
         <translation>編輯的歷史清單...</translation>
     </message>
     <message>
-        <location filename="IptcEditBase.cpp" line="178"/>
+        <location filename="IptcEditBase.cpp" line="179"/>
         <source>Sort alphabetically</source>
         <translation>按字母排序</translation>
     </message>
@@ -18435,13 +18438,13 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 <context>
     <name>ItemProcess</name>
     <message>
-        <location filename="ItemProcess.cpp" line="293"/>
+        <location filename="ItemProcess.cpp" line="299"/>
         <source>Lossless Crop</source>
         <translation>無失真裁切</translation>
     </message>
     <message>
-        <location filename="ItemProcess.cpp" line="294"/>
-        <location filename="ItemProcess.cpp" line="362"/>
+        <location filename="ItemProcess.cpp" line="300"/>
+        <location filename="ItemProcess.cpp" line="368"/>
         <source>JPEG lossless operation will modify original file(s), and may remove some unused pixels (width and height must be multiple of 8 pixels)!
 
 Do you want to continue?</source>
@@ -18450,47 +18453,47 @@ Do you want to continue?</source>
 還要繼續嗎?</translation>
     </message>
     <message>
-        <location filename="ItemProcess.cpp" line="318"/>
-        <location filename="ItemProcess.cpp" line="350"/>
-        <location filename="ItemProcess.cpp" line="403"/>
-        <location filename="ItemProcess.cpp" line="496"/>
+        <location filename="ItemProcess.cpp" line="324"/>
+        <location filename="ItemProcess.cpp" line="356"/>
+        <location filename="ItemProcess.cpp" line="409"/>
+        <location filename="ItemProcess.cpp" line="502"/>
         <source>Problem</source>
         <translation>問題</translation>
     </message>
     <message>
-        <location filename="ItemProcess.cpp" line="319"/>
-        <location filename="ItemProcess.cpp" line="351"/>
-        <location filename="ItemProcess.cpp" line="404"/>
+        <location filename="ItemProcess.cpp" line="325"/>
+        <location filename="ItemProcess.cpp" line="357"/>
+        <location filename="ItemProcess.cpp" line="410"/>
         <source>An error has occurred, the lossless rotation can&apos;t be executed.</source>
         <oldsource>An error occured, the lossless rotation can&apos;t be executed.</oldsource>
         <translation>發生錯誤，無失真旋轉無法執行.</translation>
     </message>
     <message>
-        <location filename="ItemProcess.cpp" line="361"/>
+        <location filename="ItemProcess.cpp" line="367"/>
         <source>Lossless Operation</source>
         <translation>無失真動作</translation>
     </message>
     <message>
-        <location filename="ItemProcess.cpp" line="439"/>
-        <location filename="ItemProcess.cpp" line="449"/>
-        <location filename="ItemProcess.cpp" line="457"/>
+        <location filename="ItemProcess.cpp" line="445"/>
+        <location filename="ItemProcess.cpp" line="455"/>
         <location filename="ItemProcess.cpp" line="463"/>
+        <location filename="ItemProcess.cpp" line="469"/>
         <source>Info</source>
         <translation>資訊</translation>
     </message>
     <message>
-        <location filename="ItemProcess.cpp" line="440"/>
-        <location filename="ItemProcess.cpp" line="458"/>
+        <location filename="ItemProcess.cpp" line="446"/>
+        <location filename="ItemProcess.cpp" line="464"/>
         <source>This file contains more than one page/image, so it&apos;s not possible to rotate it.</source>
         <translation>這個檔案含多頁/多張圖片，無法做旋轉.</translation>
     </message>
     <message>
-        <location filename="ItemProcess.cpp" line="450"/>
+        <location filename="ItemProcess.cpp" line="456"/>
         <source>This file uses a nonwritable format, so it&apos;s not possible to rotate it.</source>
         <translation>這個檔案使用無法複寫模式，無法做旋轉.</translation>
     </message>
     <message>
-        <location filename="ItemProcess.cpp" line="464"/>
+        <location filename="ItemProcess.cpp" line="470"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel). 
 
 Do you want to continue?</source>
@@ -18501,7 +18504,7 @@ Do you want to continue?</oldsource>
 還要繼續嗎?</translation>
     </message>
     <message>
-        <location filename="ItemProcess.cpp" line="497"/>
+        <location filename="ItemProcess.cpp" line="503"/>
         <source>An error has occurred.</source>
         <oldsource>An error occured.</oldsource>
         <translation>發生錯誤.</translation>
@@ -19080,303 +19083,308 @@ Do you want to continue?</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="445"/>
+        <location filename="BrowserMenu.h" line="452"/>
         <source>Navigate to</source>
         <translation>導覽至</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="462"/>
+        <location filename="BrowserMenu.h" line="469"/>
         <source>Excellent (go to next image)</source>
         <translation>極佳 (移至下一張圖片)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="463"/>
+        <location filename="BrowserMenu.h" line="470"/>
         <source>Good (go to next image)</source>
         <translation>好 (移至下一張圖片)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="464"/>
+        <location filename="BrowserMenu.h" line="471"/>
         <source>Average (go to next image)</source>
         <translation>普通 (移至下一張圖片)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="465"/>
+        <location filename="BrowserMenu.h" line="472"/>
         <source>Fair (go to next image)</source>
         <translation>尚可 (移至下一張圖片)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="467"/>
+        <location filename="BrowserMenu.h" line="474"/>
         <source>Unrated (go to next image)</source>
         <translation>未評等 (移至下一張圖片)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="480"/>
+        <location filename="BrowserMenu.h" line="487"/>
         <source>##label## (go to next image)</source>
         <translation>##label## (移至下一張圖片)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="499"/>
+        <location filename="BrowserMenu.h" line="506"/>
         <source>Set Rating</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="500"/>
+        <location filename="BrowserMenu.h" line="507"/>
         <source>Set Color label</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="501"/>
+        <location filename="BrowserMenu.h" line="508"/>
         <source>Set Category</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="528"/>
+        <location filename="BrowserMenu.h" line="535"/>
         <source>Show files in subfolders</source>
         <translation>顯示子資料夾檔案</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="555"/>
+        <location filename="BrowserMenu.h" line="562"/>
         <source>Info panels</source>
         <translation>資訊面板</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="577"/>
+        <location filename="BrowserMenu.h" line="584"/>
         <source>Open GPS location in</source>
         <translation>開啟GPS地點於</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="649"/>
+        <location filename="BrowserMenu.h" line="644"/>
+        <source>Show channel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="BrowserMenu.h" line="657"/>
         <source>Switch panel</source>
         <oldsource>Switch panel...</oldsource>
         <translation>切換面板</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="653"/>
+        <location filename="BrowserMenu.h" line="661"/>
         <source>Face tag...</source>
         <translation>人臉標籤...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="657"/>
+        <location filename="BrowserMenu.h" line="665"/>
         <source>Paste as image</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="661"/>
+        <location filename="BrowserMenu.h" line="669"/>
         <source>Acquire (TWAIN)</source>
         <translation>獲取 (TWAIN)</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="460"/>
-        <location filename="BrowserMenu.h" line="455"/>
+        <location filename="BrowserMenu.h" line="462"/>
         <source>Excellent</source>
         <translation>極佳</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="457"/>
-        <location filename="BrowserMenu.h" line="456"/>
+        <location filename="BrowserMenu.h" line="463"/>
         <source>Good</source>
         <translation>良好</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="454"/>
-        <location filename="BrowserMenu.h" line="457"/>
+        <location filename="BrowserMenu.h" line="464"/>
         <source>Average</source>
         <translation>普通</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="466"/>
+        <location filename="BrowserMenu.h" line="473"/>
         <source>Poor (go to next image)</source>
         <oldsource>##label## (move to next image)</oldsource>
         <translation>較差 (移至下一張圖片)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="502"/>
+        <location filename="BrowserMenu.h" line="509"/>
         <source>Remove from category</source>
         <translation>從類別中移除</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="503"/>
+        <location filename="BrowserMenu.h" line="510"/>
         <source>Remove from all categories</source>
         <translation>從所有類別中移除</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="558"/>
+        <location filename="BrowserMenu.h" line="565"/>
         <source>Rotate 90° right</source>
         <translation>右轉90度</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="559"/>
+        <location filename="BrowserMenu.h" line="566"/>
         <source>Rotate 90° left</source>
         <translation>左轉90度</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="562"/>
+        <location filename="BrowserMenu.h" line="569"/>
         <source>Rotate 90° right (lossless)</source>
         <translation>右轉90度(不失真)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="563"/>
+        <location filename="BrowserMenu.h" line="570"/>
         <source>Rotate 90° left (lossless)</source>
         <translation>左轉90度(不失真)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="564"/>
+        <location filename="BrowserMenu.h" line="571"/>
         <source>Rotate 180° (lossless)</source>
         <translation>旋轉180度(不失真)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="565"/>
+        <location filename="BrowserMenu.h" line="572"/>
         <source>Rotate based on EXIF orientation field</source>
         <translation>依據EXIF方向欄位旋轉圖片</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="566"/>
+        <location filename="BrowserMenu.h" line="573"/>
         <source>Reset EXIF orientation field</source>
         <translation>重置EXIF方向欄位</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="445"/>
-        <location filename="BrowserMenu.h" line="460"/>
+        <location filename="BrowserMenu.h" line="467"/>
         <source>Unrated</source>
         <translation>不評等</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="465"/>
         <location filename="BrowserMenu.h" line="110"/>
-        <location filename="BrowserMenu.h" line="478"/>
+        <location filename="BrowserMenu.h" line="485"/>
         <source>Uncolored</source>
         <translation>未加上顏色標籤</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="416"/>
+        <location filename="BrowserMenu.h" line="423"/>
         <source>Image</source>
         <translation>圖片</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="525"/>
+        <location filename="BrowserMenu.h" line="532"/>
         <source>Update catalog from files</source>
         <translation>依檔案更新目錄</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="526"/>
+        <location filename="BrowserMenu.h" line="533"/>
         <source>Update files from catalog</source>
         <translation>依目錄更新檔案</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="560"/>
+        <location filename="BrowserMenu.h" line="567"/>
         <source>Rotate 180°</source>
         <translation>旋轉180度</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="567"/>
+        <location filename="BrowserMenu.h" line="574"/>
         <source>Flip horizontally (lossless)</source>
         <translation>水平翻轉(不失真)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="568"/>
+        <location filename="BrowserMenu.h" line="575"/>
         <source>Flip vertically (lossless)</source>
         <translation>垂直翻轉(不失真)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="579"/>
+        <location filename="BrowserMenu.h" line="586"/>
         <source>Find similar files...</source>
         <translation>尋找相似檔案...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="582"/>
+        <location filename="BrowserMenu.h" line="589"/>
         <source>Edit IPTC...</source>
         <translation>編輯 IPTC...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="583"/>
+        <location filename="BrowserMenu.h" line="590"/>
         <source>Edit XMP...</source>
         <translation>編輯XMP...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="590"/>
+        <location filename="BrowserMenu.h" line="597"/>
         <source>Transfer...</source>
         <translation>轉移...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="606"/>
+        <location filename="BrowserMenu.h" line="613"/>
         <source>Import and sort...</source>
         <translation>匯入並排序...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="607"/>
+        <location filename="BrowserMenu.h" line="614"/>
         <source>Multi-page file...</source>
         <translation>多頁檔...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="608"/>
+        <location filename="BrowserMenu.h" line="615"/>
         <source>Join images...</source>
         <translation>合併圖片...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="609"/>
+        <location filename="BrowserMenu.h" line="616"/>
         <source>Contact sheet...</source>
         <translation>底片印樣...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="610"/>
+        <location filename="BrowserMenu.h" line="617"/>
         <source>Slideshow...</source>
         <translation>幻燈片...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="611"/>
+        <location filename="BrowserMenu.h" line="618"/>
         <source>Split image(s)...</source>
         <oldsource>Split...</oldsource>
         <translation>分割圖片...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="612"/>
+        <location filename="BrowserMenu.h" line="619"/>
         <source>Banner...</source>
         <translation>橫幅圖...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="613"/>
+        <location filename="BrowserMenu.h" line="620"/>
         <source>New image...</source>
         <translation>新增圖片...</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="19"/>
         <location filename="DlgSettingsView.cpp" line="268"/>
-        <location filename="BrowserMenu.h" line="629"/>
+        <location filename="BrowserMenu.h" line="636"/>
         <source>No fit</source>
         <translation>不調整</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="20"/>
         <location filename="DlgSettingsView.cpp" line="269"/>
-        <location filename="BrowserMenu.h" line="630"/>
+        <location filename="BrowserMenu.h" line="637"/>
         <source>Fit image to window</source>
         <translation>圖片符合視窗大小</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="22"/>
         <location filename="DlgSettingsView.cpp" line="271"/>
-        <location filename="BrowserMenu.h" line="631"/>
+        <location filename="BrowserMenu.h" line="638"/>
         <source>Fit image to window, large only</source>
         <translation>圖片符合視窗大小, 僅大型圖片</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="23"/>
         <location filename="DlgSettingsView.cpp" line="272"/>
-        <location filename="BrowserMenu.h" line="633"/>
+        <location filename="BrowserMenu.h" line="640"/>
         <source>Fit image to window width</source>
         <translation>圖片符合視窗寬度</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="24"/>
         <location filename="DlgSettingsView.cpp" line="273"/>
-        <location filename="BrowserMenu.h" line="634"/>
+        <location filename="BrowserMenu.h" line="641"/>
         <source>Fit image to window height</source>
         <translation>圖片符合視窗高度</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="25"/>
         <location filename="DlgSettingsView.cpp" line="274"/>
-        <location filename="BrowserMenu.h" line="635"/>
+        <location filename="BrowserMenu.h" line="642"/>
         <source>Fit image to window width or height</source>
         <translation>圖片符合最適大小</translation>
     </message>
@@ -19386,90 +19394,90 @@ Do you want to continue?</oldsource>
         <translation>圖片符合桌面大小</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="411"/>
+        <location filename="BrowserMenu.h" line="418"/>
         <source>Open file list...</source>
         <translation>開啟檔案清單...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="417"/>
+        <location filename="BrowserMenu.h" line="424"/>
         <source>Selected path(s)</source>
         <translation>選擇的路徑</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="418"/>
+        <location filename="BrowserMenu.h" line="425"/>
         <source>Selected filename(s)</source>
         <translation>選擇的檔案</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="419"/>
+        <location filename="BrowserMenu.h" line="426"/>
         <source>Selected filename(s) and path(s)</source>
         <translation>選擇的檔案和路徑</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="240"/>
+        <location filename="BrowserMenu.h" line="238"/>
         <source>Restore layout A</source>
         <oldsource>Restore layout 3</oldsource>
         <translation>還原介面佈置A</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="241"/>
+        <location filename="BrowserMenu.h" line="239"/>
         <source>Restore layout B</source>
         <oldsource>Restore layout 4</oldsource>
         <translation>還原介面佈置B</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="242"/>
+        <location filename="BrowserMenu.h" line="240"/>
         <source>Restore layout C</source>
         <oldsource>Restore layout 5</oldsource>
         <translation>還原介面佈置C</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="244"/>
+        <location filename="BrowserMenu.h" line="242"/>
         <source>Restore layout E</source>
         <oldsource>Save layout 1</oldsource>
         <translation>還原介面佈置E</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="246"/>
+        <location filename="BrowserMenu.h" line="244"/>
         <source>Save layout A</source>
         <oldsource>Save layout 3</oldsource>
         <translation>存成介面佈置A</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="247"/>
+        <location filename="BrowserMenu.h" line="245"/>
         <source>Save layout B</source>
         <oldsource>Save layout 4</oldsource>
         <translation>存成介面佈置B</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="248"/>
+        <location filename="BrowserMenu.h" line="246"/>
         <source>Save layout C</source>
         <oldsource>Save layout 5</oldsource>
         <translation>存成介面佈置C</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="515"/>
+        <location filename="BrowserMenu.h" line="522"/>
         <source>Back</source>
         <translation>上一個</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="516"/>
+        <location filename="BrowserMenu.h" line="523"/>
         <source>Forward</source>
         <oldsource>forward</oldsource>
         <translation>下一個</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="520"/>
+        <location filename="BrowserMenu.h" line="527"/>
         <source>Toolbar</source>
         <translation>工具列</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="521"/>
+        <location filename="BrowserMenu.h" line="528"/>
         <source>Status bar</source>
         <translation>狀態列</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="294"/>
+        <location filename="BrowserMenu.h" line="299"/>
         <source>Folder</source>
         <translation>資料夾</translation>
     </message>
@@ -19494,35 +19502,35 @@ Do you want to continue?</oldsource>
         <translation>影片(+資料夾)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="243"/>
+        <location filename="BrowserMenu.h" line="241"/>
         <source>Restore layout D</source>
         <translation>還原介面佈置D</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="250"/>
+        <location filename="BrowserMenu.h" line="248"/>
         <source>Save layout E</source>
         <translation>存成介面佈置E</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="295"/>
+        <location filename="BrowserMenu.h" line="300"/>
         <source>Favorites</source>
         <translation>最愛</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="297"/>
+        <location filename="BrowserMenu.h" line="302"/>
         <source>Categories</source>
         <translation>類別</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="300"/>
-        <location filename="BrowserMenu.h" line="311"/>
-        <location filename="BrowserMenu.h" line="549"/>
-        <location filename="BrowserMenu.h" line="638"/>
+        <location filename="BrowserMenu.h" line="305"/>
+        <location filename="BrowserMenu.h" line="315"/>
+        <location filename="BrowserMenu.h" line="556"/>
+        <location filename="BrowserMenu.h" line="646"/>
         <source>Preview</source>
         <translation>預覽</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="312"/>
+        <location filename="BrowserMenu.h" line="316"/>
         <source>Histogram</source>
         <translation>直方圖</translation>
     </message>
@@ -19539,686 +19547,686 @@ Do you want to continue?</oldsource>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="451"/>
-        <location filename="BrowserMenu.h" line="458"/>
+        <location filename="BrowserMenu.h" line="465"/>
         <source>Fair</source>
         <translation>普通</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="448"/>
-        <location filename="BrowserMenu.h" line="459"/>
+        <location filename="BrowserMenu.h" line="466"/>
         <source>Poor</source>
         <translation>較差</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="249"/>
+        <location filename="BrowserMenu.h" line="247"/>
         <source>Save layout D</source>
         <translation>存成介面佈置D</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="296"/>
+        <location filename="BrowserMenu.h" line="301"/>
         <source>Catalog Filter</source>
         <oldsource>Categories Filter</oldsource>
         <translation>目錄過濾器</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="298"/>
+        <location filename="BrowserMenu.h" line="303"/>
         <source>Category Sets</source>
         <translation>類別集</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="299"/>
+        <location filename="BrowserMenu.h" line="304"/>
         <source>Information</source>
         <translation>資訊</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="406"/>
+        <location filename="BrowserMenu.h" line="413"/>
         <source>Open with</source>
         <oldsource>Open with test</oldsource>
         <translation type="unfinished">以...開啟</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="407"/>
+        <location filename="BrowserMenu.h" line="414"/>
         <source>Recent files</source>
         <translation>最近使用的檔案</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="554"/>
+        <location filename="BrowserMenu.h" line="561"/>
         <source>Panels</source>
         <translation>面板</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="410"/>
+        <location filename="BrowserMenu.h" line="417"/>
         <source>Open...</source>
         <translation>開啟...</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4213"/>
-        <location filename="BrowserMenu.h" line="413"/>
+        <location filename="BrowserMenu.h" line="420"/>
         <source>Cut</source>
         <translation>剪下</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4215"/>
-        <location filename="BrowserMenu.h" line="415"/>
+        <location filename="BrowserMenu.h" line="422"/>
         <source>Copy</source>
         <translation>複製</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4217"/>
-        <location filename="BrowserMenu.h" line="420"/>
+        <location filename="BrowserMenu.h" line="427"/>
         <source>Paste</source>
         <translation>貼上</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="423"/>
+        <location filename="BrowserMenu.h" line="430"/>
         <source>Select all</source>
         <translation>全選</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="424"/>
+        <location filename="BrowserMenu.h" line="431"/>
         <source>Select none</source>
         <translation>取消選取</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="425"/>
+        <location filename="BrowserMenu.h" line="432"/>
         <source>Invert selection</source>
         <translation>反向選取</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="426"/>
+        <location filename="BrowserMenu.h" line="433"/>
         <source>Select all images</source>
         <translation>選擇所有圖片</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="427"/>
+        <location filename="BrowserMenu.h" line="434"/>
         <source>Select all files</source>
         <translation>選擇所有檔案</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="428"/>
+        <location filename="BrowserMenu.h" line="435"/>
         <source>Select tagged files</source>
         <translation>選擇所有標記檔</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4225"/>
-        <location filename="BrowserMenu.h" line="430"/>
+        <location filename="BrowserMenu.h" line="437"/>
         <source>Copy to...</source>
         <translation>複製到...</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4227"/>
-        <location filename="BrowserMenu.h" line="431"/>
+        <location filename="BrowserMenu.h" line="438"/>
         <source>Move to...</source>
         <translation>移動到...</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4220"/>
-        <location filename="BrowserMenu.h" line="432"/>
+        <location filename="BrowserMenu.h" line="439"/>
         <source>Delete</source>
         <translation>刪除</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="433"/>
+        <location filename="BrowserMenu.h" line="440"/>
         <source>Rename...</source>
         <translation>重新命名...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="434"/>
+        <location filename="BrowserMenu.h" line="441"/>
         <source>New folder</source>
         <translation>新增資料夾</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="436"/>
+        <location filename="BrowserMenu.h" line="443"/>
         <source>Previous file</source>
         <translation>上個檔</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="437"/>
+        <location filename="BrowserMenu.h" line="444"/>
         <source>Next file</source>
         <translation>下個檔</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="438"/>
+        <location filename="BrowserMenu.h" line="445"/>
         <source>First file</source>
         <translation>第一個檔</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="439"/>
+        <location filename="BrowserMenu.h" line="446"/>
         <source>Last file</source>
         <translation>最後一個檔</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="440"/>
+        <location filename="BrowserMenu.h" line="447"/>
         <source>Previous page</source>
         <translation>上一頁</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="441"/>
+        <location filename="BrowserMenu.h" line="448"/>
         <source>Next page</source>
         <translation>下一頁</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="442"/>
+        <location filename="BrowserMenu.h" line="449"/>
         <source>First page</source>
         <translation>第一頁</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="443"/>
+        <location filename="BrowserMenu.h" line="450"/>
         <source>Last page</source>
         <translation>最後一頁</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="444"/>
+        <location filename="BrowserMenu.h" line="451"/>
         <source>Page</source>
         <translation>頁</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="447"/>
+        <location filename="BrowserMenu.h" line="454"/>
         <source>Show header</source>
         <translation>顯示標頭</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="441"/>
-        <location filename="BrowserMenu.h" line="448"/>
+        <location filename="BrowserMenu.h" line="455"/>
         <source>Tag/Untag current</source>
         <oldsource>Tag current</oldsource>
         <translation>標記/反標記 目前記錄</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="449"/>
+        <location filename="BrowserMenu.h" line="456"/>
         <source>Invert</source>
         <translation>反向標記</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="450"/>
+        <location filename="BrowserMenu.h" line="457"/>
         <source>Untag all</source>
         <translation>取消所有標記</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="451"/>
+        <location filename="BrowserMenu.h" line="458"/>
         <source>Clear all tags</source>
         <translation>清除所有標記</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="452"/>
+        <location filename="BrowserMenu.h" line="459"/>
         <source>Show tagged files</source>
         <translation>顯示標記檔案</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="453"/>
+        <location filename="BrowserMenu.h" line="460"/>
         <source>Show tag box</source>
         <translation>顯示標記勾選框</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="493"/>
-        <location filename="BrowserMenu.h" line="639"/>
+        <location filename="BrowserMenu.h" line="500"/>
+        <location filename="BrowserMenu.h" line="647"/>
         <source>Layout</source>
         <translation>介面佈置</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="494"/>
+        <location filename="BrowserMenu.h" line="501"/>
         <source>View as</source>
         <translation>檢視方式</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="495"/>
+        <location filename="BrowserMenu.h" line="502"/>
         <source>Sort by</source>
         <translation>排序方式</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="496"/>
+        <location filename="BrowserMenu.h" line="503"/>
         <source>Filter by</source>
         <translation>過濾方式</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="497"/>
+        <location filename="BrowserMenu.h" line="504"/>
         <source>Thumbnails size</source>
         <translation>縮圖大小</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="498"/>
+        <location filename="BrowserMenu.h" line="505"/>
         <source>Tag</source>
         <translation>標記</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="505"/>
+        <location filename="BrowserMenu.h" line="512"/>
         <source>View as Thumbnails</source>
         <oldsource>Views as Thumbnails</oldsource>
         <translation>以縮圖檢視</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="506"/>
+        <location filename="BrowserMenu.h" line="513"/>
         <source>View as Thumbnails+Filename</source>
         <oldsource>Views as Thumbnails+Filename</oldsource>
         <translation>以示縮圖 + 檔名檢視</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="507"/>
+        <location filename="BrowserMenu.h" line="514"/>
         <source>View as Thumbnails+Labels</source>
         <oldsource>Views as Thumbnails+Labels</oldsource>
         <translation>以縮圖 + 標籤檢視</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="508"/>
+        <location filename="BrowserMenu.h" line="515"/>
         <source>View as Thumbnails+Details</source>
         <oldsource>Views as Thumbnails+Details</oldsource>
         <translation>以縮圖 + 詳細資料檢視</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="509"/>
+        <location filename="BrowserMenu.h" line="516"/>
         <source>View as Icons</source>
         <oldsource>Views as Icons</oldsource>
         <translation>以圖示檢視</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="510"/>
+        <location filename="BrowserMenu.h" line="517"/>
         <source>View as List</source>
         <oldsource>Views as List</oldsource>
         <translation>以清單檢視</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="511"/>
+        <location filename="BrowserMenu.h" line="518"/>
         <source>View as Details</source>
         <oldsource>Views as Details</oldsource>
         <translation>以詳細資料檢視</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="513"/>
+        <location filename="BrowserMenu.h" line="520"/>
         <source>Show hidden files</source>
         <translation>顯示隱藏檔案</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="517"/>
+        <location filename="BrowserMenu.h" line="524"/>
         <source>Up</source>
         <translation>上一層</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="519"/>
+        <location filename="BrowserMenu.h" line="526"/>
         <source>Filelist toolbar</source>
         <translation>檔案清單工具列</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="522"/>
+        <location filename="BrowserMenu.h" line="529"/>
         <source>Show title of panels</source>
         <translation>顯示面板標題</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="524"/>
+        <location filename="BrowserMenu.h" line="531"/>
         <source>Rebuild thumbnails</source>
         <translation>重建縮圖</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="527"/>
+        <location filename="BrowserMenu.h" line="534"/>
         <source>Refresh</source>
         <translation>重新整理</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="529"/>
+        <location filename="BrowserMenu.h" line="536"/>
         <source>Stop</source>
         <translation>停止</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="531"/>
+        <location filename="BrowserMenu.h" line="538"/>
         <source>Open</source>
         <translation>開啟</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="532"/>
+        <location filename="BrowserMenu.h" line="539"/>
         <source>Open containing folder</source>
         <translation>開啟包含的資料夾</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="534"/>
+        <location filename="BrowserMenu.h" line="541"/>
         <source>Open in Finder</source>
         <translation>在Finder中開啟</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="536"/>
+        <location filename="BrowserMenu.h" line="543"/>
         <source>Open in file explorer</source>
         <translation>用檔案總管開啟</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="538"/>
+        <location filename="BrowserMenu.h" line="545"/>
         <source>Open all selected</source>
         <translation>開啟所有選擇項目</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="540"/>
+        <location filename="BrowserMenu.h" line="547"/>
         <source>Fullscreen</source>
         <translation>全螢幕</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="541"/>
+        <location filename="BrowserMenu.h" line="548"/>
         <source>Show</source>
         <translation>顯示</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="542"/>
+        <location filename="BrowserMenu.h" line="549"/>
         <source>Use tabs</source>
         <translation>使用頁籤</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="543"/>
+        <location filename="BrowserMenu.h" line="550"/>
         <source>Preview as tab</source>
         <translation>預覽窗格轉為頁籤</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="546"/>
+        <location filename="BrowserMenu.h" line="553"/>
         <source>Show source panels</source>
         <translation>顯示來源面板</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="548"/>
+        <location filename="BrowserMenu.h" line="555"/>
         <source>Vertical tabs</source>
         <translation>垂直頁籤</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="551"/>
+        <location filename="BrowserMenu.h" line="558"/>
         <source>Add to favorites...</source>
         <translation>加入最愛...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="553"/>
+        <location filename="BrowserMenu.h" line="560"/>
         <source>Thumbnails view only</source>
         <translation>只顯示縮圖</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="569"/>
+        <location filename="BrowserMenu.h" line="576"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
         <translation type="unfinished">JPEG無失真轉換</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="571"/>
+        <location filename="BrowserMenu.h" line="578"/>
         <source>Batch rename...</source>
         <translation>批次重新命名...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="572"/>
+        <location filename="BrowserMenu.h" line="579"/>
         <source>Compare...</source>
         <oldsource>Compare</oldsource>
         <translation>比對...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="578"/>
+        <location filename="BrowserMenu.h" line="585"/>
         <source>Search...</source>
         <translation>搜尋...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="580"/>
+        <location filename="BrowserMenu.h" line="587"/>
         <source>Edit comment...</source>
         <oldsource>Set comment...</oldsource>
         <translation>編輯註解...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="581"/>
+        <location filename="BrowserMenu.h" line="588"/>
         <source>Change timestamp...</source>
         <translation>變更時間戳記...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="584"/>
+        <location filename="BrowserMenu.h" line="591"/>
         <source>Edit GPS data...</source>
         <oldsource>Edit GPS...</oldsource>
         <translation>編輯GPS資料...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="585"/>
-        <location filename="BrowserMenu.h" line="643"/>
+        <location filename="BrowserMenu.h" line="592"/>
+        <location filename="BrowserMenu.h" line="651"/>
         <source>Export...</source>
         <translation>匯出...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="586"/>
+        <location filename="BrowserMenu.h" line="593"/>
         <source>Clean...</source>
         <translation>清除...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="587"/>
+        <location filename="BrowserMenu.h" line="594"/>
         <source>EXIF thumbnail - Rotate 90° left</source>
         <translation>EXIF縮圖 - 左轉90度</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="588"/>
+        <location filename="BrowserMenu.h" line="595"/>
         <source>EXIF thumbnail - Rotate 90° right</source>
         <translation>EXIF縮圖 右轉90度</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="589"/>
+        <location filename="BrowserMenu.h" line="596"/>
         <source>EXIF thumbnail - Rebuild</source>
         <translation>EXIF縮圖 - 重建</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="591"/>
+        <location filename="BrowserMenu.h" line="598"/>
         <source>Metadata</source>
         <translation>詮釋資料</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="592"/>
+        <location filename="BrowserMenu.h" line="599"/>
         <source>EXIF Thumbnail</source>
         <translation>EXIF 縮圖</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="593"/>
+        <location filename="BrowserMenu.h" line="600"/>
         <source>Convert into</source>
         <translation>轉換為</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="594"/>
+        <location filename="BrowserMenu.h" line="601"/>
         <source>Batch convert...</source>
         <translation>批次轉換...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="595"/>
+        <location filename="BrowserMenu.h" line="602"/>
         <source>Send by FTP...</source>
         <translation>用FTP傳送...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="596"/>
+        <location filename="BrowserMenu.h" line="603"/>
         <source>Upload on web...</source>
         <translation>上傳到網上...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="597"/>
+        <location filename="BrowserMenu.h" line="604"/>
         <source>File listing...</source>
         <translation>檔案清單...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="598"/>
+        <location filename="BrowserMenu.h" line="605"/>
         <source>Archive...</source>
         <translation>檔案庫...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="599"/>
+        <location filename="BrowserMenu.h" line="606"/>
         <source>Send by email...</source>
         <translation>以電子郵件傳送...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="600"/>
+        <location filename="BrowserMenu.h" line="607"/>
         <source>Set as wallpaper...</source>
         <translation>設成桌布...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="601"/>
+        <location filename="BrowserMenu.h" line="608"/>
         <source>Print...</source>
         <translation>列印...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="603"/>
+        <location filename="BrowserMenu.h" line="610"/>
         <source>Properties...</source>
         <translation>屬性...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="614"/>
+        <location filename="BrowserMenu.h" line="621"/>
         <source>Video thumbnails gallery...</source>
         <translation>影片縮圖畫廊...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="617"/>
+        <location filename="BrowserMenu.h" line="624"/>
         <source>Real size</source>
         <translation>原尺寸</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="618"/>
+        <location filename="BrowserMenu.h" line="625"/>
         <source>100%</source>
         <translation>實際大小</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="619"/>
+        <location filename="BrowserMenu.h" line="626"/>
         <source>Zoom in</source>
         <translation>放大</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="620"/>
+        <location filename="BrowserMenu.h" line="627"/>
         <source>Zoom out</source>
         <translation>縮小</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="621"/>
+        <location filename="BrowserMenu.h" line="628"/>
         <source>Lock zoom</source>
         <translation>鎖住縮放</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="622"/>
+        <location filename="BrowserMenu.h" line="629"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
         <translation>使用透明索引 (≤ 8位元)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="623"/>
+        <location filename="BrowserMenu.h" line="630"/>
         <source>Use alpha channel</source>
         <translation>使用遮色(alpha Channel)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="624"/>
+        <location filename="BrowserMenu.h" line="631"/>
         <source>Show alpha</source>
         <translation>顯示遮色(alpha)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="625"/>
+        <location filename="BrowserMenu.h" line="632"/>
         <source>Show red</source>
         <translation>顯示紅色</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="626"/>
+        <location filename="BrowserMenu.h" line="633"/>
         <source>Show green</source>
         <translation>顯示綠色</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="627"/>
+        <location filename="BrowserMenu.h" line="634"/>
         <source>Show blue</source>
         <translation>顯示藍色</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="628"/>
+        <location filename="BrowserMenu.h" line="635"/>
         <source>Draw as tiled</source>
         <translation>重複拼貼</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="21"/>
         <location filename="DlgSettingsView.cpp" line="270"/>
-        <location filename="BrowserMenu.h" line="632"/>
+        <location filename="BrowserMenu.h" line="639"/>
         <source>Fit image to window, small only</source>
         <translation>圖片符合視窗大小, 僅小型圖片</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="637"/>
+        <location filename="BrowserMenu.h" line="645"/>
         <source>Zoom</source>
         <translation>縮放</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="640"/>
+        <location filename="BrowserMenu.h" line="648"/>
         <source>Copy to clipboard</source>
         <translation>複製到剪貼簿</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="641"/>
+        <location filename="BrowserMenu.h" line="649"/>
         <source>File operations</source>
         <translation>檔案動作</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="644"/>
+        <location filename="BrowserMenu.h" line="652"/>
         <source>Clear &amp;&amp; Import...</source>
         <translation>清除並匯入...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="645"/>
+        <location filename="BrowserMenu.h" line="653"/>
         <source>Catalog</source>
         <translation>目錄</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="647"/>
+        <location filename="BrowserMenu.h" line="655"/>
         <source>Quick Filter</source>
         <translation>快速過濾</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="648"/>
+        <location filename="BrowserMenu.h" line="656"/>
         <source>Category Search</source>
         <translation>類別搜尋</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="650"/>
+        <location filename="BrowserMenu.h" line="658"/>
         <source>Path focus</source>
         <oldsource>Path focus...</oldsource>
         <translation>路徑焦點</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="651"/>
+        <location filename="BrowserMenu.h" line="659"/>
         <source>Filter by All</source>
         <translation>全部過濾</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="656"/>
+        <location filename="BrowserMenu.h" line="664"/>
         <source>Capture...</source>
         <translation>擷取螢幕...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="658"/>
+        <location filename="BrowserMenu.h" line="666"/>
         <source>Empty tab</source>
         <oldsource>Empty tab...</oldsource>
         <translation>清空頁籤</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="660"/>
+        <location filename="BrowserMenu.h" line="668"/>
         <source>Select TWAIN source...</source>
         <translation>選擇TWAIN來源...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="800"/>
+        <location filename="BrowserMenu.h" line="808"/>
         <source>&amp;File</source>
         <translation>檔案(&amp;F)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="801"/>
+        <location filename="BrowserMenu.h" line="809"/>
         <source>&amp;Edit</source>
         <translation>編輯(&amp;E)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="802"/>
+        <location filename="BrowserMenu.h" line="810"/>
         <source>&amp;View</source>
         <translation>檢視(&amp;V)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="803"/>
+        <location filename="BrowserMenu.h" line="811"/>
         <source>Meta&amp;data</source>
         <translation>詮釋資料(&amp;d)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="804"/>
+        <location filename="BrowserMenu.h" line="812"/>
         <source>&amp;Tools</source>
         <translation>工具(&amp;T)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="662"/>
+        <location filename="BrowserMenu.h" line="670"/>
         <source>Acquire into (TWAIN)...</source>
         <translation>獲取入 (TWAIN)...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="805"/>
+        <location filename="BrowserMenu.h" line="813"/>
         <source>C&amp;reate</source>
         <translation>建立(&amp;r)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="806"/>
+        <location filename="BrowserMenu.h" line="814"/>
         <source>&amp;Help</source>
         <translation>輔助說明(&amp;H)</translation>
     </message>
@@ -20241,95 +20249,95 @@ Do you want to continue?</oldsource>
 <context>
     <name>MenuGlobal</name>
     <message>
-        <location filename="xnview.cpp" line="1471"/>
+        <location filename="xnview.cpp" line="1444"/>
         <source>Quit</source>
         <translation>跳出</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1474"/>
+        <location filename="xnview.cpp" line="1447"/>
         <source>Website...</source>
         <oldsource>Visit XnView&apos;s Website...</oldsource>
         <translation>網站...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1479"/>
+        <location filename="xnview.cpp" line="1452"/>
         <source>Make a donation...</source>
         <translation>捐款...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1472"/>
+        <location filename="xnview.cpp" line="1445"/>
         <source>About</source>
         <translation>關於</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1473"/>
+        <location filename="xnview.cpp" line="1446"/>
         <source>PlugIns...</source>
         <translation>插件...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1475"/>
+        <location filename="xnview.cpp" line="1448"/>
         <source>Forum...</source>
         <translation>論壇...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1476"/>
+        <location filename="xnview.cpp" line="1449"/>
         <source>Technical Support...</source>
         <translation>技術支援...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1477"/>
+        <location filename="xnview.cpp" line="1450"/>
         <source>Report a Bug...</source>
         <oldsource>Report a Bug......</oldsource>
         <translation>回報臭蟲...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1478"/>
+        <location filename="xnview.cpp" line="1451"/>
         <source>Wiki...</source>
         <translation>維基...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1480"/>
+        <location filename="xnview.cpp" line="1453"/>
         <source>Check for update...</source>
         <translation>檢查更新...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1481"/>
+        <location filename="xnview.cpp" line="1454"/>
         <source>Registration...</source>
         <translation>註冊...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1482"/>
+        <location filename="xnview.cpp" line="1455"/>
         <source>Purchase...</source>
         <translation>購買...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1492"/>
-        <location filename="xnview.cpp" line="1494"/>
+        <location filename="xnview.cpp" line="1465"/>
+        <location filename="xnview.cpp" line="1467"/>
         <source>Settings...</source>
         <translation>設定...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1498"/>
+        <location filename="xnview.cpp" line="1471"/>
         <source>Always on top</source>
         <translation>保持視窗在最上方</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1500"/>
+        <location filename="xnview.cpp" line="1473"/>
         <source>Titlebar</source>
         <translation>標題列</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1501"/>
+        <location filename="xnview.cpp" line="1474"/>
         <source>Show</source>
         <translation>顯示</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1502"/>
+        <location filename="xnview.cpp" line="1475"/>
         <source>Bottom</source>
         <translation>下方</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1503"/>
+        <location filename="xnview.cpp" line="1476"/>
         <source>Tab</source>
         <translation>頁籤</translation>
     </message>
@@ -20466,1075 +20474,1080 @@ Do you want to continue?</oldsource>
 <context>
     <name>MenuView</name>
     <message>
-        <location filename="ViewMenu.h" line="342"/>
+        <location filename="ViewMenu.h" line="350"/>
         <source>No fit</source>
         <translation>不調整</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="343"/>
+        <location filename="ViewMenu.h" line="351"/>
         <source>Fit image to window</source>
         <translation>圖片符合視窗大小</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="344"/>
+        <location filename="ViewMenu.h" line="352"/>
         <source>Fit image to window, large only</source>
         <translation>圖片符合視窗大小, 僅大型圖片</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="346"/>
+        <location filename="ViewMenu.h" line="354"/>
         <source>Fit image to window width</source>
         <translation>圖片符合視窗寬度</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="347"/>
+        <location filename="ViewMenu.h" line="355"/>
         <source>Fit image to window height</source>
         <translation>圖片符合視窗高度</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="348"/>
+        <location filename="ViewMenu.h" line="356"/>
         <source>Fit image to window width or height</source>
         <translation>圖片符合最適大小</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="178"/>
-        <location filename="ViewMenu.h" line="331"/>
+        <location filename="ViewMenu.h" line="339"/>
         <source>Free</source>
         <translation>隨意</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="244"/>
+        <location filename="ViewMenu.h" line="252"/>
         <source>Top</source>
         <translation>上</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="319"/>
+        <location filename="ViewMenu.h" line="327"/>
         <source>Image content</source>
         <oldsource>Image</oldsource>
         <translation>圖片內容</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="357"/>
+        <location filename="ViewMenu.h" line="365"/>
         <source>Tag/Untag current</source>
         <translation>標記/反標記 目前記錄</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="359"/>
+        <location filename="ViewMenu.h" line="367"/>
         <source>Excellent</source>
         <translation>極佳</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="360"/>
+        <location filename="ViewMenu.h" line="368"/>
         <source>Good</source>
         <translation>良好</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="361"/>
+        <location filename="ViewMenu.h" line="369"/>
         <source>Average</source>
         <translation>普通</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="362"/>
+        <location filename="ViewMenu.h" line="370"/>
         <source>Fair</source>
         <translation>普通</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="363"/>
+        <location filename="ViewMenu.h" line="371"/>
         <source>Poor</source>
         <translation>較差</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="364"/>
+        <location filename="ViewMenu.h" line="372"/>
         <source>Unrated</source>
         <translation>不評等</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="382"/>
+        <location filename="ViewMenu.h" line="390"/>
         <source>Uncolored</source>
         <translation>不加上顏色標籤</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="345"/>
+        <location filename="ViewMenu.h" line="353"/>
         <source>Fit image to window, small only</source>
         <translation>圖片符合視窗大小, 僅小型圖片</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="332"/>
+        <location filename="ViewMenu.h" line="340"/>
         <source>Same as image</source>
         <translation>同圖片</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="225"/>
+        <location filename="ViewMenu.h" line="233"/>
         <source>RGB→RBG</source>
         <oldsource>RGB=&gt;RBG</oldsource>
         <translation>RGB→RBG</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="226"/>
+        <location filename="ViewMenu.h" line="234"/>
         <source>RGB→BGR</source>
         <oldsource>RGB=&gt;BGR</oldsource>
         <translation>RGB→BGR</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="227"/>
+        <location filename="ViewMenu.h" line="235"/>
         <source>RGB→BRG</source>
         <oldsource>RGB=&gt;BRG</oldsource>
         <translation>RGB→BRG</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="228"/>
+        <location filename="ViewMenu.h" line="236"/>
         <source>RGB→GRB</source>
         <oldsource>RGB=&gt;GRB</oldsource>
         <translation>RGB→GRB</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="229"/>
+        <location filename="ViewMenu.h" line="237"/>
         <source>RGB→GBR</source>
         <oldsource>RGB=&gt;GBR</oldsource>
         <translation>RGB→GBR</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="234"/>
+        <location filename="ViewMenu.h" line="242"/>
         <source>Red</source>
         <translation>紅</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="235"/>
+        <location filename="ViewMenu.h" line="243"/>
         <source>Green</source>
         <translation>綠</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="236"/>
+        <location filename="ViewMenu.h" line="244"/>
         <source>Blue</source>
         <translation>藍</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="237"/>
+        <location filename="ViewMenu.h" line="245"/>
         <source>Alpha</source>
         <translation>遮色(Alpha)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="242"/>
+        <location filename="ViewMenu.h" line="250"/>
         <source>Left</source>
         <oldsource>To the left</oldsource>
         <translation>左</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="243"/>
+        <location filename="ViewMenu.h" line="251"/>
         <source>Right</source>
         <oldsource>To the right</oldsource>
         <translation>右</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="245"/>
+        <location filename="ViewMenu.h" line="253"/>
         <source>Bottom</source>
         <oldsource>To the bottom</oldsource>
         <translation>下</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="292"/>
+        <location filename="ViewMenu.h" line="300"/>
         <source>Open...</source>
         <translation>開啟...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="293"/>
+        <location filename="ViewMenu.h" line="301"/>
         <source>Open with</source>
         <translation>以...開啟</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="294"/>
+        <location filename="ViewMenu.h" line="302"/>
         <source>Recent files</source>
         <translation>最近使用的檔案</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="295"/>
+        <location filename="ViewMenu.h" line="303"/>
         <source>Browse</source>
         <translation>瀏覽</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="296"/>
+        <location filename="ViewMenu.h" line="304"/>
         <source>Format settings...</source>
         <translation>格式設定...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="300"/>
+        <location filename="ViewMenu.h" line="308"/>
         <source>Open in Finder</source>
         <translation>在Finder中開啟</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="302"/>
+        <location filename="ViewMenu.h" line="310"/>
         <source>Open in file explorer</source>
         <translation>用檔案總管開啟</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="304"/>
+        <location filename="ViewMenu.h" line="312"/>
         <source>Reload</source>
         <translation>重新載入</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="305"/>
+        <location filename="ViewMenu.h" line="313"/>
         <source>Save</source>
         <translation>儲存</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="306"/>
+        <location filename="ViewMenu.h" line="314"/>
         <source>Save as...</source>
         <translation>另存為...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="307"/>
+        <location filename="ViewMenu.h" line="315"/>
         <source>Save a copy...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="308"/>
+        <location filename="ViewMenu.h" line="316"/>
         <source>Save selection...</source>
         <translation>儲存選取...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="309"/>
+        <location filename="ViewMenu.h" line="317"/>
         <source>Print...</source>
         <translation>列印...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="310"/>
+        <location filename="ViewMenu.h" line="318"/>
         <source>Print selection...</source>
         <translation>列印選取區域...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="311"/>
+        <location filename="ViewMenu.h" line="319"/>
         <source>Close</source>
         <translation>關閉</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="313"/>
+        <location filename="ViewMenu.h" line="321"/>
         <source>Undo</source>
         <translation>復原</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="314"/>
+        <location filename="ViewMenu.h" line="322"/>
         <source>Redo</source>
         <translation>重做</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="315"/>
+        <location filename="ViewMenu.h" line="323"/>
         <source>Cut</source>
         <translation>剪下</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="316"/>
+        <location filename="ViewMenu.h" line="324"/>
         <source>Copy</source>
         <translation>複製</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="317"/>
+        <location filename="ViewMenu.h" line="325"/>
         <source>Paste</source>
         <translation>貼上</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="320"/>
+        <location filename="ViewMenu.h" line="328"/>
         <source>Path</source>
         <translation>路徑</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="321"/>
+        <location filename="ViewMenu.h" line="329"/>
         <source>Filename</source>
         <translation>檔名</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="322"/>
+        <location filename="ViewMenu.h" line="330"/>
         <source>Filename and path</source>
         <translation>檔名和路徑</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="323"/>
+        <location filename="ViewMenu.h" line="331"/>
         <source>Background color...</source>
         <translation>背景色...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="324"/>
+        <location filename="ViewMenu.h" line="332"/>
         <source>Crop...</source>
         <oldsource>Crop</oldsource>
         <translation>裁切...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="325"/>
+        <location filename="ViewMenu.h" line="333"/>
         <source>Add text...</source>
         <translation>加入文字...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="326"/>
+        <location filename="ViewMenu.h" line="334"/>
         <source>Add watermark...</source>
         <oldsource>Watermark...</oldsource>
         <translation>加上浮水印...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="327"/>
+        <location filename="ViewMenu.h" line="335"/>
         <source>Spotlight...</source>
         <translation>聚光燈...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="328"/>
+        <location filename="ViewMenu.h" line="336"/>
         <source>Red-Eye correction</source>
         <oldsource>Red-Eyes reduction</oldsource>
         <translation>去紅眼</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="334"/>
+        <location filename="ViewMenu.h" line="342"/>
         <source>Select all</source>
         <translation>全選</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="335"/>
+        <location filename="ViewMenu.h" line="343"/>
         <source>Select none</source>
         <translation>取消選取</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="336"/>
+        <location filename="ViewMenu.h" line="344"/>
         <source>Selection - swap width &amp;&amp; height</source>
         <translation>選取 - 寬高對調</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="337"/>
+        <location filename="ViewMenu.h" line="345"/>
         <source>Save selection</source>
         <translation>儲存選取</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="338"/>
+        <location filename="ViewMenu.h" line="346"/>
         <source>Restore selection</source>
         <translation>回復選取</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="339"/>
+        <location filename="ViewMenu.h" line="347"/>
         <source>Selection - set ratio</source>
         <oldsource>Set selection ratio</oldsource>
         <translation type="unfinished">設定選取比例</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="340"/>
+        <location filename="ViewMenu.h" line="348"/>
         <source>Selection - set size</source>
         <oldsource>Set selection size</oldsource>
         <translation type="unfinished">設定選取大小</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="349"/>
+        <location filename="ViewMenu.h" line="357"/>
         <source>Fit window to image</source>
         <translation>視窗符合圖片大小</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="350"/>
+        <location filename="ViewMenu.h" line="358"/>
         <source>Fit image to desktop</source>
         <translation>圖片符合桌面大小</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="352"/>
+        <location filename="ViewMenu.h" line="360"/>
         <source>Copy to...</source>
         <translation>複製到...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="353"/>
+        <location filename="ViewMenu.h" line="361"/>
         <source>Move to...</source>
         <translation>移動到...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="354"/>
+        <location filename="ViewMenu.h" line="362"/>
         <source>Delete...</source>
         <translation>刪除...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="355"/>
+        <location filename="ViewMenu.h" line="363"/>
         <source>Rename...</source>
         <translation>重新命名...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="398"/>
+        <location filename="ViewMenu.h" line="406"/>
         <source>Previous file</source>
         <translation>上個檔</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="399"/>
+        <location filename="ViewMenu.h" line="407"/>
         <source>Next file</source>
         <translation>下個檔</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="400"/>
+        <location filename="ViewMenu.h" line="408"/>
         <source>First file</source>
         <translation>第一個檔</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="401"/>
+        <location filename="ViewMenu.h" line="409"/>
         <source>Last file</source>
         <translation>最後一個檔</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="402"/>
+        <location filename="ViewMenu.h" line="410"/>
         <source>Random file</source>
         <translation>隨機檔案</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="403"/>
+        <location filename="ViewMenu.h" line="411"/>
         <source>Previous page</source>
         <translation>上一頁</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="404"/>
+        <location filename="ViewMenu.h" line="412"/>
         <source>Next page</source>
         <translation>下一頁</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="405"/>
+        <location filename="ViewMenu.h" line="413"/>
         <source>First page</source>
         <translation>第一頁</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="406"/>
+        <location filename="ViewMenu.h" line="414"/>
         <source>Last page</source>
         <translation>最後一頁</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="410"/>
+        <location filename="ViewMenu.h" line="418"/>
         <source>Quick Slideshow</source>
         <translation>快速幻燈片播放</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="412"/>
+        <location filename="ViewMenu.h" line="420"/>
         <source>Fullscreen</source>
         <translation>全螢幕</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="413"/>
+        <location filename="ViewMenu.h" line="421"/>
         <source>Real size</source>
         <translation>原尺寸</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="414"/>
+        <location filename="ViewMenu.h" line="422"/>
         <source>100%</source>
         <translation>實際大小</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="415"/>
+        <location filename="ViewMenu.h" line="423"/>
         <source>Zoom in</source>
         <translation>放大</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="416"/>
+        <location filename="ViewMenu.h" line="424"/>
         <source>Zoom out</source>
         <translation>縮小</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="417"/>
+        <location filename="ViewMenu.h" line="425"/>
         <source>Lock zoom</source>
         <translation>鎖住縮放</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="420"/>
+        <location filename="ViewMenu.h" line="428"/>
         <source>Zoom</source>
         <translation>縮放</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="421"/>
+        <location filename="ViewMenu.h" line="429"/>
         <source>File</source>
         <translation>檔案</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="422"/>
+        <location filename="ViewMenu.h" line="430"/>
         <source>Page</source>
         <translation>頁</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="423"/>
+        <location filename="ViewMenu.h" line="431"/>
         <source>Navigate to</source>
         <translation>導覽至</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="424"/>
+        <location filename="ViewMenu.h" line="432"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
         <translation>使用透明索引 (≤ 8位元)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="425"/>
+        <location filename="ViewMenu.h" line="433"/>
         <source>Use alpha channel</source>
         <translation>使用遮色(alpha Channel)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="426"/>
+        <location filename="ViewMenu.h" line="434"/>
         <source>Show alpha</source>
         <translation>顯示遮色(alpha)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="427"/>
+        <location filename="ViewMenu.h" line="435"/>
         <source>Show red</source>
         <translation>顯示紅色</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="428"/>
+        <location filename="ViewMenu.h" line="436"/>
         <source>Show green</source>
         <translation>顯示綠色</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="429"/>
+        <location filename="ViewMenu.h" line="437"/>
         <source>Show blue</source>
         <translation>顯示藍色</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="430"/>
+        <location filename="ViewMenu.h" line="438"/>
         <source>Show grid</source>
         <translation>顯示格線</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="431"/>
+        <location filename="ViewMenu.h" line="439"/>
         <source>Grid settings...</source>
         <translation>格線設定...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="432"/>
+        <location filename="ViewMenu.h" line="440"/>
         <source>Show information</source>
         <translation>顯示資訊</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="433"/>
+        <location filename="ViewMenu.h" line="441"/>
         <source>Show histogram</source>
         <translation>顯示直方圖</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="434"/>
+        <location filename="ViewMenu.h" line="442"/>
         <source>Start/stop animation</source>
         <translation>開始/停止 動畫</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="435"/>
+        <location filename="ViewMenu.h" line="443"/>
         <source>Draw as Snapshot (icons only)</source>
         <oldsource>Icon snapshot on/off</oldsource>
         <translation type="unfinished">圖示快照 開/關</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="407"/>
+        <location filename="ViewMenu.h" line="415"/>
         <source>Pan to coordinates...</source>
         <oldsource>Go to x,y location...</oldsource>
         <translation type="unfinished">跳到 x,y座標位置...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="440"/>
+        <location filename="ViewMenu.h" line="448"/>
         <source>Show people&apos;s region</source>
         <translation>顯示人物地區</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="441"/>
-        <source>High zoom quality</source>
-        <translation>高縮放品質</translation>
-    </message>
-    <message>
-        <location filename="ViewMenu.h" line="442"/>
-        <source>Use checkerboard pattern</source>
-        <translation>使用棋盤圖案</translation>
-    </message>
-    <message>
-        <location filename="ViewMenu.h" line="484"/>
+        <location filename="ViewMenu.h" line="493"/>
         <source>Automatic crop...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="517"/>
+        <location filename="ViewMenu.h" line="526"/>
         <source>Send by email...</source>
         <translation type="unfinished">以電子郵件傳送...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="530"/>
+        <location filename="ViewMenu.h" line="539"/>
         <source>Paste as image</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="729"/>
+        <location filename="ViewMenu.h" line="739"/>
         <source>Meta&amp;data</source>
         <oldsource>Metadata</oldsource>
         <translation type="unfinished">詮釋資料</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="730"/>
+        <location filename="ViewMenu.h" line="740"/>
         <source>Effect</source>
         <translation>特效</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="450"/>
+        <location filename="ViewMenu.h" line="459"/>
         <source>Open GPS location in</source>
         <translation>開啟GPS地點於</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="453"/>
+        <location filename="ViewMenu.h" line="462"/>
         <source>Edit comment...</source>
         <oldsource>Set comment...</oldsource>
         <translation>編輯註解...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="454"/>
+        <location filename="ViewMenu.h" line="463"/>
         <source>Draw...</source>
         <translation>繪製...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="455"/>
+        <location filename="ViewMenu.h" line="464"/>
         <source>Set DPI...</source>
         <translation>設定DPI...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="473"/>
+        <location filename="ViewMenu.h" line="482"/>
         <source>User filter...</source>
         <translation>自訂過濾器...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="478"/>
+        <location filename="ViewMenu.h" line="487"/>
         <source>Film simulation...</source>
         <translation>底片模擬...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="479"/>
+        <location filename="ViewMenu.h" line="488"/>
         <source>Curves...</source>
         <translation>曲線...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="480"/>
+        <location filename="ViewMenu.h" line="489"/>
         <source>Desaturate</source>
         <translation>去飽和</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="481"/>
+        <location filename="ViewMenu.h" line="490"/>
         <source>Offset...</source>
         <translation>偏移...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="482"/>
+        <location filename="ViewMenu.h" line="491"/>
         <source>White Balance...</source>
         <translation>白平衡...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="483"/>
+        <location filename="ViewMenu.h" line="492"/>
         <source>Remove Background</source>
         <translation>移除背景</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="486"/>
+        <location filename="ViewMenu.h" line="495"/>
         <source>Rotate 90° right</source>
         <translation>右轉90度</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="488"/>
+        <location filename="ViewMenu.h" line="497"/>
         <source>Rotate 90° left</source>
         <translation>左轉90度</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="490"/>
+        <location filename="ViewMenu.h" line="499"/>
         <source>Flip horizontally</source>
         <translation>水平翻轉</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="491"/>
+        <location filename="ViewMenu.h" line="500"/>
         <source>Flip vertically</source>
         <translation>垂直翻轉</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="492"/>
+        <location filename="ViewMenu.h" line="501"/>
         <source>Automatic Deskew</source>
         <translation>自動校正傾斜</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="493"/>
+        <location filename="ViewMenu.h" line="502"/>
         <source>Remove alpha channel</source>
         <translation>移除遮色(alpha Channel)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="500"/>
+        <location filename="ViewMenu.h" line="509"/>
         <source>Mirror</source>
         <translation>鏡射</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="501"/>
+        <location filename="ViewMenu.h" line="510"/>
         <source>Count colors used</source>
         <translation>使用的顏色數</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="502"/>
+        <location filename="ViewMenu.h" line="511"/>
         <source>Swap color</source>
         <oldsource>Swap</oldsource>
         <translation>對調顏色</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="503"/>
+        <location filename="ViewMenu.h" line="512"/>
         <source>Extract channel</source>
         <translation>抽取色頻</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="504"/>
+        <location filename="ViewMenu.h" line="513"/>
         <source>Copy to clipboard</source>
         <translation>複製到剪貼簿</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="505"/>
+        <location filename="ViewMenu.h" line="514"/>
         <source>Paste outside</source>
         <oldsource>Paste special</oldsource>
         <translation>貼到外圍</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="507"/>
+        <location filename="ViewMenu.h" line="516"/>
         <source>Adobe Photoshop Plugin...</source>
         <translation>Adobe Photoshop 插件...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="510"/>
+        <location filename="ViewMenu.h" line="519"/>
         <source>Edit IPTC...</source>
         <translation>編輯 IPTC...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="511"/>
+        <location filename="ViewMenu.h" line="520"/>
         <source>Edit XMP...</source>
         <translation>編輯XMP...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="513"/>
+        <location filename="ViewMenu.h" line="522"/>
         <source>Clean metadata...</source>
         <translation>清除詮釋資料...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="519"/>
+        <location filename="ViewMenu.h" line="528"/>
         <source>Rotate 90° right (lossless)</source>
         <translation>右轉90度(不失真)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="520"/>
+        <location filename="ViewMenu.h" line="529"/>
         <source>Rotate 90° left (lossless)</source>
         <translation>左轉90度(不失真)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="521"/>
+        <location filename="ViewMenu.h" line="530"/>
         <source>Rotate 180° (lossless)</source>
         <translation>旋轉180度(不失真)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="524"/>
+        <location filename="ViewMenu.h" line="533"/>
         <source>Flip horizontally (lossless)</source>
         <translation>水平翻轉(不失真)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="525"/>
+        <location filename="ViewMenu.h" line="534"/>
         <source>Flip vertically (lossless)</source>
         <translation>垂直翻轉(不失真)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="526"/>
+        <location filename="ViewMenu.h" line="535"/>
         <source>Crop (lossless)</source>
         <translation>裁切(不失真)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="534"/>
+        <location filename="ViewMenu.h" line="543"/>
         <source>Acquire (TWAIN)</source>
         <translation>獲取 (TWAIN)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="535"/>
+        <location filename="ViewMenu.h" line="544"/>
         <source>Acquire into (TWAIN)...</source>
         <oldsource>Acquire into (TWAIN)......</oldsource>
         <translation>獲取入 (TWAIN)...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="538"/>
+        <location filename="ViewMenu.h" line="547"/>
         <source>Save All</source>
         <translation>儲存所有</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="512"/>
+        <location filename="ViewMenu.h" line="521"/>
         <source>Edit palette...</source>
         <oldsource>Edit colormap...</oldsource>
         <translation type="unfinished">編輯顏色對應表...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="487"/>
+        <location filename="ViewMenu.h" line="496"/>
         <source>Rotate 180°</source>
         <oldsource>Rotate 180�</oldsource>
         <translation>旋轉180度</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="522"/>
+        <location filename="ViewMenu.h" line="531"/>
         <source>Rotate based on EXIF orientation field</source>
         <translation>依據EXIF方向欄位旋轉圖片</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="523"/>
+        <location filename="ViewMenu.h" line="532"/>
         <source>Reset EXIF orientation field</source>
         <translation>重置EXIF方向欄位</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="527"/>
+        <location filename="ViewMenu.h" line="536"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
         <translation type="unfinished">JPEG無失真轉換</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="529"/>
+        <location filename="ViewMenu.h" line="538"/>
         <source>Capture...</source>
         <translation>擷取螢幕...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="531"/>
+        <location filename="ViewMenu.h" line="540"/>
         <source>Empty tab...</source>
         <translation>清空頁籤...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="533"/>
+        <location filename="ViewMenu.h" line="542"/>
         <source>Select TWAIN source...</source>
         <translation>選擇TWAIN來源...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="537"/>
+        <location filename="ViewMenu.h" line="546"/>
         <source>New image...</source>
         <translation>新增圖片...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="436"/>
+        <location filename="ViewMenu.h" line="444"/>
         <source>Show colour information</source>
         <translation>顯示色彩資訊</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="318"/>
+        <location filename="ViewMenu.h" line="326"/>
         <source>Clear selection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="366"/>
+        <location filename="ViewMenu.h" line="374"/>
         <source>Excellent (go to next image)</source>
         <translation>極佳 (移至下一張圖片)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="367"/>
+        <location filename="ViewMenu.h" line="375"/>
         <source>Good (go to next image)</source>
         <translation>好 (移至下一張圖片)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="368"/>
+        <location filename="ViewMenu.h" line="376"/>
         <source>Average (go to next image)</source>
         <translation>普通 (移至下一張圖片)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="369"/>
+        <location filename="ViewMenu.h" line="377"/>
         <source>Fair (go to next image)</source>
         <translation>尚可 (移至下一張圖片)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="370"/>
+        <location filename="ViewMenu.h" line="378"/>
         <source>Poor (go to next image)</source>
         <translation>較差 (移至下一張圖片)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="371"/>
+        <location filename="ViewMenu.h" line="379"/>
         <source>Unrated (go to next image)</source>
         <translation>未評等 (移至下一張圖片)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="384"/>
+        <location filename="ViewMenu.h" line="392"/>
         <source>##label## (go to next image)</source>
         <translation>##label## (移至下一張圖片)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="395"/>
+        <location filename="ViewMenu.h" line="403"/>
         <source>Set Rating</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="396"/>
+        <location filename="ViewMenu.h" line="404"/>
         <source>Set Color label</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="438"/>
+        <location filename="ViewMenu.h" line="446"/>
         <source>Toolbar</source>
         <oldsource>Use toolbar</oldsource>
         <translation>工具列</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="439"/>
+        <location filename="ViewMenu.h" line="447"/>
         <source>Status bar</source>
         <oldsource>Use statusbar</oldsource>
         <translation>狀態列</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="444"/>
+        <location filename="ViewMenu.h" line="449"/>
+        <source>Use antialiasing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ViewMenu.h" line="450"/>
+        <source>Use transparency grid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ViewMenu.h" line="451"/>
+        <source>Show channel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ViewMenu.h" line="453"/>
         <source>Export...</source>
         <translation>匯出...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="445"/>
+        <location filename="ViewMenu.h" line="454"/>
         <source>Batch convert...</source>
         <translation>批次轉換...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="451"/>
+        <location filename="ViewMenu.h" line="460"/>
         <source>Set as wallpaper...</source>
         <translation>設成桌布...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="452"/>
+        <location filename="ViewMenu.h" line="461"/>
         <source>Properties...</source>
         <translation>屬性...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="456"/>
+        <location filename="ViewMenu.h" line="465"/>
         <source>Send by FTP...</source>
         <translation>用FTP傳送...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="458"/>
+        <location filename="ViewMenu.h" line="467"/>
         <source>Change color depth...</source>
         <translation>改變顏色深度...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="459"/>
+        <location filename="ViewMenu.h" line="468"/>
         <source>Automatic levels</source>
         <translation>自動色階</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="460"/>
+        <location filename="ViewMenu.h" line="469"/>
         <source>Automatic contrast</source>
         <translation>自動對比</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="461"/>
+        <location filename="ViewMenu.h" line="470"/>
         <source>Negative</source>
         <translation>負片</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="462"/>
+        <location filename="ViewMenu.h" line="471"/>
         <source>Logarithmic LUT</source>
         <oldsource>Logarithmic lut</oldsource>
         <translation type="unfinished">對數查表</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="463"/>
+        <location filename="ViewMenu.h" line="472"/>
         <source>Normalize</source>
         <translation>標準化</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="464"/>
+        <location filename="ViewMenu.h" line="473"/>
         <source>Equalize</source>
         <translation>補償</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="465"/>
+        <location filename="ViewMenu.h" line="474"/>
         <source>Solarize...</source>
         <translation>過度曝光...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="466"/>
+        <location filename="ViewMenu.h" line="475"/>
         <source>Posterize...</source>
         <translation>色調分離...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="467"/>
+        <location filename="ViewMenu.h" line="476"/>
         <source>Sepia...</source>
         <translation>復古...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="468"/>
+        <location filename="ViewMenu.h" line="477"/>
         <source>Old camera...</source>
         <translation>舊式相機...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="469"/>
+        <location filename="ViewMenu.h" line="478"/>
         <source>Vignetting...</source>
         <translation>漸暈...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="470"/>
+        <location filename="ViewMenu.h" line="479"/>
         <source>Enhance colors...</source>
         <translation>增豔色彩...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="471"/>
+        <location filename="ViewMenu.h" line="480"/>
         <source>Levels...</source>
         <translation>色階...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="472"/>
+        <location filename="ViewMenu.h" line="481"/>
         <source>Effect...</source>
         <translation>特效...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="474"/>
+        <location filename="ViewMenu.h" line="483"/>
         <source>Shadow/Highlight...</source>
         <translation>陰影/醒目...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="489"/>
+        <location filename="ViewMenu.h" line="498"/>
         <source>Rotate...</source>
         <translation>旋轉...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="495"/>
+        <location filename="ViewMenu.h" line="504"/>
         <source>Resize...</source>
         <oldsource>Resize new...</oldsource>
         <translation type="unfinished">調整大小...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="496"/>
+        <location filename="ViewMenu.h" line="505"/>
         <source>Canvas resize...</source>
         <translation>調整畫布大小...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="497"/>
+        <location filename="ViewMenu.h" line="506"/>
         <source>Map</source>
         <translation>對映</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="498"/>
+        <location filename="ViewMenu.h" line="507"/>
         <source>Adjust</source>
         <translation>調整</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="499"/>
+        <location filename="ViewMenu.h" line="508"/>
         <source>Rotate</source>
         <translation>旋轉</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="514"/>
+        <location filename="ViewMenu.h" line="523"/>
         <source>Join images...</source>
         <translation>合併圖片...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="515"/>
+        <location filename="ViewMenu.h" line="524"/>
         <source>Contact sheet...</source>
         <translation>底片印樣...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="516"/>
+        <location filename="ViewMenu.h" line="525"/>
         <source>Slideshow...</source>
         <translation>幻燈片...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="725"/>
+        <location filename="ViewMenu.h" line="735"/>
         <source>&amp;File</source>
         <translation>檔案(&amp;F)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="726"/>
+        <location filename="ViewMenu.h" line="736"/>
         <source>&amp;Edit</source>
         <oldsource>Edit</oldsource>
         <translation>編輯(&amp;E)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="727"/>
+        <location filename="ViewMenu.h" line="737"/>
         <source>&amp;View</source>
         <oldsource>View</oldsource>
         <translation>檢視(&amp;V)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="728"/>
+        <location filename="ViewMenu.h" line="738"/>
         <source>&amp;Image</source>
         <oldsource>Image</oldsource>
         <translation>圖片(&amp;I)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="731"/>
+        <location filename="ViewMenu.h" line="741"/>
         <source>&amp;Tools</source>
         <translation>工具(&amp;T)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="732"/>
+        <location filename="ViewMenu.h" line="742"/>
         <source>&amp;Help</source>
         <oldsource>Help</oldsource>
         <translation>輔助說明(&amp;H)</translation>
@@ -21614,12 +21627,12 @@ Do you want to continue?</oldsource>
         <translation>所有檔案</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="497"/>
+        <location filename="DlgIptc.cpp" line="498"/>
         <source>Open Text File</source>
         <translation>開啟文字檔</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="1185"/>
+        <location filename="DlgIptc.cpp" line="1186"/>
         <location filename="Helper.h" line="202"/>
         <source>Open Image</source>
         <translation>開啟圖片</translation>
@@ -22483,7 +22496,7 @@ You can change it in Settings › Catalog.</oldsource>
         <translation>屬性</translation>
     </message>
     <message>
-        <location filename="PreviewInfo.cpp" line="332"/>
+        <location filename="PreviewInfo.cpp" line="330"/>
         <source>Histogram</source>
         <translation>直方圖</translation>
     </message>
@@ -22499,12 +22512,12 @@ Right Click for pop-up menu with actions.</source>
         <translation>預覽</translation>
     </message>
     <message>
-        <location filename="PreviewInfo.cpp" line="490"/>
+        <location filename="PreviewInfo.cpp" line="480"/>
         <source>Map</source>
         <translation type="unfinished">對映</translation>
     </message>
     <message>
-        <location filename="PreviewInfo.cpp" line="568"/>
+        <location filename="PreviewInfo.cpp" line="558"/>
         <source>Categories</source>
         <translation>類別</translation>
     </message>
@@ -22520,7 +22533,7 @@ Right Click for pop-up menu with actions.</source>
 <context>
     <name>PreviewInfo</name>
     <message>
-        <location filename="PreviewInfo.cpp" line="730"/>
+        <location filename="PreviewInfo.cpp" line="718"/>
         <source>Preview</source>
         <translation>預覽</translation>
     </message>
@@ -23593,26 +23606,26 @@ Right Click for pop-up menu with actions.</source>
 <context>
     <name>xnview</name>
     <message>
-        <location filename="xnview.cpp" line="490"/>
-        <location filename="xnview.cpp" line="510"/>
+        <location filename="xnview.cpp" line="474"/>
+        <location filename="xnview.cpp" line="494"/>
         <source>Creating backup, please wait...</source>
         <oldsource>Creating backup, please wait... </oldsource>
         <translation>建立備份中, 請稍候...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="482"/>
-        <location filename="xnview.cpp" line="488"/>
-        <location filename="xnview.cpp" line="495"/>
+        <location filename="xnview.cpp" line="466"/>
+        <location filename="xnview.cpp" line="472"/>
+        <location filename="xnview.cpp" line="479"/>
         <source>Catalog</source>
         <translation>目錄</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="482"/>
+        <location filename="xnview.cpp" line="466"/>
         <source>XnViewMP - Catalog has a more recent version number than the expected one</source>
         <translation>XnViewMP - 目錄有比預期更加新的版本</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="488"/>
+        <location filename="xnview.cpp" line="472"/>
         <source>XnViewMP will upgrade the catalog. It may take a while. 
 
 Do you want to keep the thumbnails?
@@ -23620,83 +23633,83 @@ Do you want to keep the thumbnails?
         <translation>XnViewMP將升級目錄, 會花費一些時間.要保留縮圖嗎? (若選擇是,升級程序會執行較久)</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="492"/>
+        <location filename="xnview.cpp" line="476"/>
         <source>Upgrading catalog, please wait...</source>
         <oldsource>Upgrading catalog, please wait... </oldsource>
         <translation>升級目錄中, 請稍候...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="495"/>
+        <location filename="xnview.cpp" line="479"/>
         <source>XnViewMP - There is a problem to update catalog (Error: %1), please contact the developer.</source>
         <translation>XnViewMP - 更新目錄發生問題 (錯誤: %1), 請反應給開發者.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="602"/>
+        <location filename="xnview.cpp" line="597"/>
         <source>Catalog problem</source>
         <translation>目錄問題</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="602"/>
+        <location filename="xnview.cpp" line="597"/>
         <source>There is a problem to open catalog, check your settings or folder used!</source>
         <translation>開啟目錄時有錯誤, 請檢查設定或使用的資料夾!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="998"/>
+        <location filename="xnview.cpp" line="993"/>
         <source>Application is up to date.</source>
         <oldsource>XnView MP is currently up to date.</oldsource>
         <translation>應用程式已是最新版.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1696"/>
+        <location filename="xnview.cpp" line="1669"/>
         <source>Do you want to save session?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="3155"/>
+        <location filename="xnview.cpp" line="3141"/>
         <source>Catalog and Metadata are disabled - 
 Rating, Tag &amp; Color labels will not be saved.</source>
         <oldsource>Rating/Tag/Color label can&apos;t be saved if catalog and metadata export are disabled!</oldsource>
         <translation>目錄和詮釋資料被禁用 - 評分, 標籤和顏色等標記不會儲存.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1069"/>
+        <location filename="xnview.cpp" line="1064"/>
         <source>Your previous session contains many loaded images, this can cause a slowdown!</source>
         <translation>前次工作階段有過多載入圖片，可能拖慢速度!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1069"/>
+        <location filename="xnview.cpp" line="1064"/>
         <source>Session</source>
         <translation>工作階段</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1621"/>
+        <location filename="xnview.cpp" line="1594"/>
         <source>Do you want to quit?</source>
         <translation>確定要跳出XnViewMP@@?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1697"/>
+        <location filename="xnview.cpp" line="1670"/>
         <source>Saving many tabs may noticeably slow application reopening.</source>
         <oldsource>Saving many tabs may noticeably slow reopening XnView MP</oldsource>
         <translation>儲存太多頁籤可能明顯拖慢重開應用程式.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1703"/>
+        <location filename="xnview.cpp" line="1676"/>
         <source>Don&apos;t ask again</source>
         <oldsource>Do not ask again</oldsource>
         <translation>不再詢問</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1267"/>
+        <location filename="xnview.cpp" line="1240"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1267"/>
+        <location filename="xnview.cpp" line="1240"/>
         <source>File not found!</source>
         <translation>沒找到檔案!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1722"/>
+        <location filename="xnview.cpp" line="1695"/>
         <source>Do you want to save this session?</source>
         <translation>您要儲存這次的session嗎?</translation>
     </message>

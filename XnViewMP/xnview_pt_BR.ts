@@ -9620,14 +9620,6 @@ Thumbnail</source>
         <translation>Navegar com XnViewMP</translation>
     </message>
     <message>
-        <source>User (System)</source>
-        <translation>Usuário (Sistema)</translation>
-    </message>
-    <message>
-        <source>Program (XnView)</source>
-        <translation>Programa (XnView)</translation>
-    </message>
-    <message>
         <source>XnViewMP is a fast multi-format graphics browser, viewer, and converter. It reads more than 400 file formats.</source>
         <translation>XnViewMP é um navegador, visualizador e conversor muito rápido para diversos formatos de imagens, capaz de ler mais de 400 formatos de arquivos gráficos.</translation>
     </message>
@@ -9656,15 +9648,27 @@ Thumbnail</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Program (XnConvert)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>XnView Slide file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 Image file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>System - Current user</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>System - Current user (Windows registry)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>System - Local machine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Application folder</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9675,26 +9679,6 @@ Thumbnail</source>
         <translation>Integração</translation>
     </message>
     <message>
-        <source>XnView settings</source>
-        <translation>Configurações do XnView</translation>
-    </message>
-    <message>
-        <source>Use .ini file in folder</source>
-        <translation>Usar arquivo INI na pasta</translation>
-    </message>
-    <message>
-        <source>Use Windows registry</source>
-        <translation>Usar o registro do Windows</translation>
-    </message>
-    <message>
-        <source>Other settings</source>
-        <translation>Outras configurações</translation>
-    </message>
-    <message>
-        <source>Folder for other files</source>
-        <translation>Pasta para outros arquivos</translation>
-    </message>
-    <message>
         <source>Add &apos;Browse with XnViewMP&apos; to context menu (requires admin rights)</source>
         <translation>Adicionar &quot;Navegar com XnViewMP&quot; ao menu de contexto (requer direitos de administrador)</translation>
     </message>
@@ -9703,24 +9687,48 @@ Thumbnail</source>
         <translation>Caminhos</translation>
     </message>
     <message>
-        <source>Open Config Files Location</source>
-        <translation>Abra a localização dos arquivos de configuração</translation>
-    </message>
-    <message>
-        <source>Folder for Thumbnails Database</source>
-        <translation>Pasta para o banco de dados de miniaturas</translation>
-    </message>
-    <message>
-        <source>Folder for Catalog (.db)</source>
-        <translation>Pasta para Catálogo (.db)</translation>
-    </message>
-    <message>
-        <source>Open the Catalog Location</source>
-        <translation>Abrir a localização do Catálogo</translation>
-    </message>
-    <message>
         <source>Set file associations...</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings - General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current location</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings - Other</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Database - Catalog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Database - Thumbnails</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current user (recommended)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Local machine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Portable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <translation type="unfinished">Personalizado</translation>
     </message>
 </context>
 <context>
@@ -10570,10 +10578,6 @@ Do you want to reassign?</source>
         <translation>Cor de fundo</translation>
     </message>
     <message>
-        <source>Use checkboard pattern as background</source>
-        <translation>Usar modelo em xadrez como fundo</translation>
-    </message>
-    <message>
         <source>Zoom step</source>
         <translation>Etapa de zoom</translation>
     </message>
@@ -10588,10 +10592,6 @@ Do you want to reassign?</source>
     <message>
         <source>Use gamma correction</source>
         <translation>Usar correção gamma</translation>
-    </message>
-    <message>
-        <source>High zoom quality</source>
-        <translation>Zoom de alta qualidade</translation>
     </message>
     <message>
         <source>Pixel ratio</source>
@@ -10678,15 +10678,7 @@ Do you want to reassign?</source>
         <translation>Mostrar barras de rolagem</translation>
     </message>
     <message>
-        <source>Zoom on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Show highlight selection</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reset X/Y (No fit)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10839,6 +10831,22 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Show navigator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use transparency grid (checkerboard pattern)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Antialiasing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scale on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset X/Y position on file change (No fit)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11260,22 +11268,6 @@ Do you want to reassign?</source>
         <translation>Adicionar &quot;Navegar com XnViewMP&quot; ao menu de contexto</translation>
     </message>
     <message>
-        <source>Use .ini file in folder</source>
-        <translation>Usar arquivo INI na pasta</translation>
-    </message>
-    <message>
-        <source>Use Windows registry</source>
-        <translation>Usar o registro do Windows</translation>
-    </message>
-    <message>
-        <source>Other settings</source>
-        <translation>Outras configurações</translation>
-    </message>
-    <message>
-        <source>Folder for other files</source>
-        <translation>Pasta para outros arquivos</translation>
-    </message>
-    <message>
         <source>Check for program updates</source>
         <translation>Procurar por atualizações</translation>
     </message>
@@ -11298,14 +11290,6 @@ Do you want to reassign?</source>
     <message>
         <source>Run the File association(s) tool...</source>
         <translation>Executar a ferramenta de associação de arquivos...</translation>
-    </message>
-    <message>
-        <source>Folder for Thumbnails Database</source>
-        <translation>Pasta para o banco de dados de miniaturas</translation>
-    </message>
-    <message>
-        <source>Folder for Catalog (.db)</source>
-        <translation>Pasta para o Catálogo (.db)</translation>
     </message>
     <message>
         <source>General</source>
@@ -11332,12 +11316,24 @@ Do you want to reassign?</source>
         <translation type="unfinished">Preto</translation>
     </message>
     <message>
-        <source>Send anonymous logs</source>
+        <source>Settings</source>
+        <translation type="unfinished">Configurações</translation>
+    </message>
+    <message>
+        <source>Current user (recommended)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Settings</source>
-        <translation type="unfinished">Configurações</translation>
+        <source>Current user (Windows registry)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Local machine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Portable (application folder)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13944,6 +13940,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <source>Subject code</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Local caption</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>InfoPropertiesView</name>
@@ -15516,6 +15516,10 @@ Do you want to continue?</source>
         <source>Modified Date</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Show channel</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MenuGlobal</name>
@@ -16302,10 +16306,6 @@ Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>High zoom quality</source>
-        <translation type="unfinished">Zoom de alta qualidade</translation>
-    </message>
-    <message>
         <source>Edit IPTC...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -16331,10 +16331,6 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Acquire into (TWAIN)...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use checkerboard pattern</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16547,6 +16543,18 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Pan to coordinates...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use antialiasing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use transparency grid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show channel</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

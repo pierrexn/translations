@@ -9657,20 +9657,12 @@ Thumbnail</source>
 <context>
     <name>DlgSettingsIntegration</name>
     <message>
-        <source>Program (XnView)</source>
-        <translation>Ծրագրի  (XnView)</translation>
-    </message>
-    <message>
         <source>Custom</source>
         <translation>Ընտրել</translation>
     </message>
     <message>
         <source>Browse with XnViewMP</source>
         <translation>Նայել  XnViewMP-ով</translation>
-    </message>
-    <message>
-        <source>User (System)</source>
-        <translation>Օգտվողի (Համակարգային)</translation>
     </message>
     <message>
         <source>XnViewMP is a fast multi-format graphics browser, viewer, and converter. It reads more than 400 file formats.</source>
@@ -9701,10 +9693,6 @@ Thumbnail</source>
         <translation>Բացել XnViewMP-ը Վարիչի իրավունքներով (միայն առաջին անգամ)</translation>
     </message>
     <message>
-        <source>Program (XnConvert)</source>
-        <translation>Ծրագիր (XnConvert)</translation>
-    </message>
-    <message>
         <source>XnView Slide file</source>
         <translation>XnView-ի սահոցի ֆայլ</translation>
     </message>
@@ -9712,32 +9700,28 @@ Thumbnail</source>
         <source>%1 Image file</source>
         <translation>%1 պատկերի ֆայլ</translation>
     </message>
+    <message>
+        <source>System - Current user</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>System - Current user (Windows registry)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>System - Local machine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Application folder</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsIntegrationClass</name>
     <message>
-        <source>XnView settings</source>
-        <translation>XnView-ի կարգավորումները</translation>
-    </message>
-    <message>
-        <source>Other settings</source>
-        <translation>Այլ կարգավորումներ</translation>
-    </message>
-    <message>
-        <source>Use .ini file in folder</source>
-        <translation>Օգտ. .ini ֆայլը պանակում</translation>
-    </message>
-    <message>
-        <source>Folder for other files</source>
-        <translation>Այլ ֆայլերի պանակը</translation>
-    </message>
-    <message>
         <source>Integration</source>
         <translation>Ինտեգրում</translation>
-    </message>
-    <message>
-        <source>Use Windows registry</source>
-        <translation>Օգտ. Windows-ի Գրանցատեղին</translation>
     </message>
     <message>
         <source>Add &apos;Browse with XnViewMP&apos; to context menu (requires admin rights)</source>
@@ -9748,24 +9732,48 @@ Thumbnail</source>
         <translation>Ուղիներ</translation>
     </message>
     <message>
-        <source>Open Config Files Location</source>
-        <translation>Բացել կազմաձևման ֆայլերի տեղադրություն</translation>
-    </message>
-    <message>
-        <source>Folder for Catalog (.db)</source>
-        <translation>Գրացուցակի պանակ (.db)</translation>
-    </message>
-    <message>
-        <source>Open the Catalog Location</source>
-        <translation>Բացել գրացուցակի տեղադրությունը</translation>
-    </message>
-    <message>
-        <source>Folder for Thumbnails Database</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Set file associations...</source>
         <translation>Կայել ֆայլի ասոցիացումները...</translation>
+    </message>
+    <message>
+        <source>Settings - General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current location</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings - Other</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Database - Catalog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Database - Thumbnails</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current user (recommended)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Local machine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Portable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10634,14 +10642,6 @@ Do you want to reassign?</source>
         <translation>Այլ</translation>
     </message>
     <message>
-        <source>High zoom quality</source>
-        <translation>Բարձր որակ՝ դիտելիս</translation>
-    </message>
-    <message>
-        <source>Use checkboard pattern as background</source>
-        <translation>Ընտրվածը օգտագործել որպես խորք</translation>
-    </message>
-    <message>
         <source>Use gamma correction</source>
         <translation>Օգտագործել գամմա ուղղում</translation>
     </message>
@@ -10726,16 +10726,8 @@ Do you want to reassign?</source>
         <translation>Ցուցադրել Ոլորագոտիները</translation>
     </message>
     <message>
-        <source>Zoom on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
-        <translation>Չափափոխել HiDPI էկրանին. 1 պատկերի փիքսելը հավասար է 1 էկրանի փիքսելի</translation>
-    </message>
-    <message>
         <source>Show highlight selection</source>
         <translation>Ցուցադրել ընդգծված ընտրումը</translation>
-    </message>
-    <message>
-        <source>Reset X/Y (No fit)</source>
-        <translation>Վերակայել X/Y (չհարմարեցնել)</translation>
     </message>
     <message>
         <source>Selection</source>
@@ -10888,6 +10880,22 @@ Do you want to reassign?</source>
     <message>
         <source>Show navigator</source>
         <translation>Ցուցադրել նավիգատորը</translation>
+    </message>
+    <message>
+        <source>Use transparency grid (checkerboard pattern)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Antialiasing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scale on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset X/Y position on file change (No fit)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11316,20 +11324,8 @@ Do you want to reassign?</source>
         <translation>Ամեն շաբաթ</translation>
     </message>
     <message>
-        <source>Other settings</source>
-        <translation>Այլ կարգավորումներ</translation>
-    </message>
-    <message>
         <source>Language</source>
         <translation>Լեզուն</translation>
-    </message>
-    <message>
-        <source>Use .ini file in folder</source>
-        <translation>Օգտ. .ini ֆայլը պանակում</translation>
-    </message>
-    <message>
-        <source>Folder for other files</source>
-        <translation>Այլ ֆայլերի պանակը</translation>
     </message>
     <message>
         <source>Check for program updates</source>
@@ -11340,20 +11336,8 @@ Do you want to reassign?</source>
         <translation>Բացման ուղեցույց</translation>
     </message>
     <message>
-        <source>Use Windows registry</source>
-        <translation>Օգտ. Windows-ի Գրանցատեղին</translation>
-    </message>
-    <message>
         <source>Run the File association(s) tool...</source>
         <translation>Բացել Ֆայլի ասոցիացումների գործիքը...</translation>
-    </message>
-    <message>
-        <source>Folder for Catalog (.db)</source>
-        <translation>Գրացուցակի պանակ (.db)</translation>
-    </message>
-    <message>
-        <source>Folder for Thumbnails Database</source>
-        <translation>Մանրապատկերների շտեմարանի պանակ</translation>
     </message>
     <message>
         <source>General</source>
@@ -11380,12 +11364,24 @@ Do you want to reassign?</source>
         <translation>Սև</translation>
     </message>
     <message>
-        <source>Send anonymous logs</source>
-        <translation>Ուղարկել անանուն մատյաններ</translation>
-    </message>
-    <message>
         <source>Settings</source>
         <translation>Կարգավորումներ</translation>
+    </message>
+    <message>
+        <source>Current user (recommended)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current user (Windows registry)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Local machine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Portable (application folder)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13995,6 +13991,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <source>Subject code</source>
         <translation>Նյութի կոդը</translation>
     </message>
+    <message>
+        <source>Local caption</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>InfoPropertiesView</name>
@@ -15569,6 +15569,10 @@ Do you want to continue?</source>
         <source>Modified Date</source>
         <translation>Փոփոխված ամսաթիվ</translation>
     </message>
+    <message>
+        <source>Show channel</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MenuGlobal</name>
@@ -16355,10 +16359,6 @@ Do you want to continue?</source>
         <translation>Ցուցադրել մարդկանց տարածաշրջանը</translation>
     </message>
     <message>
-        <source>High zoom quality</source>
-        <translation>Դիտափոխման բարձր որակ</translation>
-    </message>
-    <message>
         <source>Edit IPTC...</source>
         <translation>Խմբագրել IPTC-ը...</translation>
     </message>
@@ -16385,10 +16385,6 @@ Do you want to continue?</source>
     <message>
         <source>Acquire into (TWAIN)...</source>
         <translation>Ձեռք բերել (TWAIN)-ում...</translation>
-    </message>
-    <message>
-        <source>Use checkerboard pattern</source>
-        <translation>Օգտ. ճատրակի նախշը</translation>
     </message>
     <message>
         <source>Acquire (TWAIN)</source>
@@ -16601,6 +16597,18 @@ Do you want to continue?</source>
     <message>
         <source>Pan to coordinates...</source>
         <translation>Անցնել կորդինատներին...</translation>
+    </message>
+    <message>
+        <source>Use antialiasing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use transparency grid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show channel</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

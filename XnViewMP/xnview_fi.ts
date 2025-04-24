@@ -9667,10 +9667,6 @@ pienoiskuvina</translation>
         <translation>Tiedostopolut</translation>
     </message>
     <message>
-        <source>Program (XnView)</source>
-        <translation>Ohjelma (XnView)</translation>
-    </message>
-    <message>
         <source>Custom</source>
         <translation>Mukautettu</translation>
     </message>
@@ -9685,10 +9681,6 @@ pienoiskuvina</translation>
     <message>
         <source>Please start XnViewMP with admin rights (only the first time).</source>
         <translation>Käynnistä XnViewMP järjestelmänvalvojan oikeuksilla (vain ensimmäisellä kerralla).</translation>
-    </message>
-    <message>
-        <source>User (System)</source>
-        <translation>Käyttäjä (Järjestelmä)</translation>
     </message>
     <message>
         <source>Same as Catalog</source>
@@ -9707,10 +9699,6 @@ pienoiskuvina</translation>
         <translation>Ole tarkkana kansio-oikeuksista jotka koskevat XnView-kansiota</translation>
     </message>
     <message>
-        <source>Program (XnConvert)</source>
-        <translation>Ohjelma (XnConvert)</translation>
-    </message>
-    <message>
         <source>XnView Slide file</source>
         <translation>XnView kuvaesitystiedosto</translation>
     </message>
@@ -9718,44 +9706,28 @@ pienoiskuvina</translation>
         <source>%1 Image file</source>
         <translation>%1 kuvatiedosto</translation>
     </message>
+    <message>
+        <source>System - Current user</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>System - Current user (Windows registry)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>System - Local machine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Application folder</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsIntegrationClass</name>
     <message>
-        <source>Folder for Catalog (.db)</source>
-        <translation>Kansio luettelolle (.db)</translation>
-    </message>
-    <message>
-        <source>XnView settings</source>
-        <translation>XnView-asetukset</translation>
-    </message>
-    <message>
         <source>Paths</source>
         <translation>Tiedostopolut</translation>
-    </message>
-    <message>
-        <source>Folder for Thumbnails Database</source>
-        <translation>Kansio pienoiskuvien tietokannalle</translation>
-    </message>
-    <message>
-        <source>Open the Catalog Location</source>
-        <translation>Avaa luttelon sijainti</translation>
-    </message>
-    <message>
-        <source>Other settings</source>
-        <translation>Muut asetukset</translation>
-    </message>
-    <message>
-        <source>Use .ini file in folder</source>
-        <translation>Käytä .ini-tiedostoa kansiossa</translation>
-    </message>
-    <message>
-        <source>Folder for other files</source>
-        <translation>Kansio muille tiedostoille</translation>
-    </message>
-    <message>
-        <source>Open Config Files Location</source>
-        <translation>Avaa Config-tiedoston sijainti</translation>
     </message>
     <message>
         <source>Set file associations...</source>
@@ -9770,8 +9742,44 @@ pienoiskuvina</translation>
         <translation>Lisää &apos;Avaa XnViewMP:llä&apos; hiiren pikavalikkoon</translation>
     </message>
     <message>
-        <source>Use Windows registry</source>
-        <translation>Käytä Windowsin rekisteriä</translation>
+        <source>Settings - General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current location</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings - Other</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Database - Catalog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Database - Thumbnails</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current user (recommended)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Local machine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Portable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <translation type="unfinished">Mukautettu</translation>
     </message>
 </context>
 <context>
@@ -10645,16 +10653,8 @@ Haluatko määrittää uudelleen?</translation>
         <translation>Jatkuva videon toisto</translation>
     </message>
     <message>
-        <source>High zoom quality</source>
-        <translation>Korkea zoomauslaatu</translation>
-    </message>
-    <message>
         <source>Zoom In</source>
         <translation>Lähennä</translation>
-    </message>
-    <message>
-        <source>Use checkboard pattern as background</source>
-        <translation>Käytä ruutukuviotaustaa</translation>
     </message>
     <message>
         <source>Always show in fullscreen</source>
@@ -10687,10 +10687,6 @@ Haluatko määrittää uudelleen?</translation>
     <message>
         <source>Multipage files</source>
         <translation>Monisivu-tiedostot</translation>
-    </message>
-    <message>
-        <source>Reset X/Y (No fit)</source>
-        <translation>Nollaa X/Y (Ei sovitusta)</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -10751,10 +10747,6 @@ Haluatko määrittää uudelleen?</translation>
     <message>
         <source>Keep current image</source>
         <translation>Säilytä nykyinen kuva</translation>
-    </message>
-    <message>
-        <source>Zoom on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
-        <translation>Zoomaa HiDPI-näytöllä: 1 kuvan pikseli vastaa yhtä näyttöpistettä</translation>
     </message>
     <message>
         <source>Fixed step</source>
@@ -10895,6 +10887,22 @@ Haluatko määrittää uudelleen?</translation>
     <message>
         <source>Show navigator</source>
         <translation>Näytä navigaattori</translation>
+    </message>
+    <message>
+        <source>Use transparency grid (checkerboard pattern)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Antialiasing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scale on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset X/Y position on file change (No fit)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11303,10 +11311,6 @@ Haluatko määrittää uudelleen?</translation>
         <translation>Tumma</translation>
     </message>
     <message>
-        <source>Folder for Catalog (.db)</source>
-        <translation>Kansio luettelolle (.db)</translation>
-    </message>
-    <message>
         <source>Black</source>
         <translation>Musta</translation>
     </message>
@@ -11327,10 +11331,6 @@ Haluatko määrittää uudelleen?</translation>
         <translation>Teema</translation>
     </message>
     <message>
-        <source>Send anonymous logs</source>
-        <translation>Lähetä nimettömiä lokeja</translation>
-    </message>
-    <message>
         <source>Add &apos;Browse with XnViewMP&apos; to context menu</source>
         <translation>Lisää &apos;Avaa XnViewMP:llä&apos; hiiren pikavalikkoon</translation>
     </message>
@@ -11347,32 +11347,16 @@ Haluatko määrittää uudelleen?</translation>
         <translation>Järjestelmän integrointi</translation>
     </message>
     <message>
-        <source>Folder for Thumbnails Database</source>
-        <translation>Kansio pienoiskuvien tietokannalle</translation>
-    </message>
-    <message>
         <source>Weekly</source>
         <translation>Viikottain</translation>
-    </message>
-    <message>
-        <source>Other settings</source>
-        <translation>Muut asetukset</translation>
     </message>
     <message>
         <source>Language</source>
         <translation>Kieli</translation>
     </message>
     <message>
-        <source>Use .ini file in folder</source>
-        <translation>Käytä .ini-tiedostoa kansiossa</translation>
-    </message>
-    <message>
         <source>Default</source>
         <translation>Oletus</translation>
-    </message>
-    <message>
-        <source>Folder for other files</source>
-        <translation>Kansio muille tiedostoille</translation>
     </message>
     <message>
         <source>General</source>
@@ -11387,12 +11371,24 @@ Haluatko määrittää uudelleen?</translation>
         <translation>Käynnistys-Velho</translation>
     </message>
     <message>
-        <source>Use Windows registry</source>
-        <translation>Käytä Windowsin rekisteriä</translation>
-    </message>
-    <message>
         <source>Settings</source>
         <translation>Asetukset</translation>
+    </message>
+    <message>
+        <source>Current user (recommended)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current user (Windows registry)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Local machine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Portable (application folder)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14002,6 +13998,10 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
         <source>Subject code</source>
         <translation>Aihekoodi</translation>
     </message>
+    <message>
+        <source>Local caption</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>InfoPropertiesView</name>
@@ -15576,6 +15576,10 @@ Jatketaanko?</translation>
         <source>Modified Date</source>
         <translation>Muokkauspäivä</translation>
     </message>
+    <message>
+        <source>Show channel</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MenuGlobal</name>
@@ -15890,10 +15894,6 @@ Jatketaanko?</translation>
         <translation>US Kirje (1.29)</translation>
     </message>
     <message>
-        <source>High zoom quality</source>
-        <translation>Korkea zoomauslaatu</translation>
-    </message>
-    <message>
         <source>Automatic levels</source>
         <translation>Automaattitasot</translation>
     </message>
@@ -15948,10 +15948,6 @@ Jatketaanko?</translation>
     <message>
         <source>Rotate 180°</source>
         <translation>Käännä 180°</translation>
-    </message>
-    <message>
-        <source>Use checkerboard pattern</source>
-        <translation>Käytä shakkitaulukuviota</translation>
     </message>
     <message>
         <source>&amp;Image</source>
@@ -16608,6 +16604,18 @@ Jatketaanko?</translation>
     <message>
         <source>Pan to coordinates...</source>
         <translation>Panoroi koordinaatteihin...</translation>
+    </message>
+    <message>
+        <source>Use antialiasing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use transparency grid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show channel</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

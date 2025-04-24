@@ -9677,10 +9677,6 @@ miniatură</translation>
         <translation>Căi</translation>
     </message>
     <message>
-        <source>Program (XnView)</source>
-        <translation>Program (XnView)</translation>
-    </message>
-    <message>
         <source>Custom</source>
         <translation>Personalizat</translation>
     </message>
@@ -9695,10 +9691,6 @@ miniatură</translation>
     <message>
         <source>Please start XnViewMP with admin rights (only the first time).</source>
         <translation>Te rugăm să pornești XnViewMP cu drepturi de administrator (doar pentru prima dată).</translation>
-    </message>
-    <message>
-        <source>User (System)</source>
-        <translation>Utilizator (sistem)</translation>
     </message>
     <message>
         <source>Same as Catalog</source>
@@ -9725,47 +9717,27 @@ miniatură</translation>
         <translation>Fișierul de imagine %1</translation>
     </message>
     <message>
-        <source>Program (XnConvert)</source>
-        <translation>Program (XnConvert)</translation>
+        <source>System - Current user</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>System - Current user (Windows registry)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>System - Local machine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Application folder</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>DlgSettingsIntegrationClass</name>
     <message>
-        <source>Folder for Catalog (.db)</source>
-        <translation>Dosar pentru catalog (.db)</translation>
-    </message>
-    <message>
-        <source>XnView settings</source>
-        <translation>Setări XnView</translation>
-    </message>
-    <message>
         <source>Paths</source>
         <translation>Căi</translation>
-    </message>
-    <message>
-        <source>Folder for Thumbnails Database</source>
-        <translation>Dosar pentru baza de date cu miniaturi</translation>
-    </message>
-    <message>
-        <source>Open the Catalog Location</source>
-        <translation>Deschide locația catalogului</translation>
-    </message>
-    <message>
-        <source>Other settings</source>
-        <translation>Alte setari</translation>
-    </message>
-    <message>
-        <source>Use .ini file in folder</source>
-        <translation>Folosește fișierul .ini în dosar (folder)</translation>
-    </message>
-    <message>
-        <source>Folder for other files</source>
-        <translation>Dosar pentru alte fișiere</translation>
-    </message>
-    <message>
-        <source>Open Config Files Location</source>
-        <translation>Deschide locația fișierelor de configurare</translation>
     </message>
     <message>
         <source>Set file associations...</source>
@@ -9780,8 +9752,44 @@ miniatură</translation>
         <translation>Adaugă „Navighează cu XnViewMP” în meniul contextual (necesită drepturi de administrator)</translation>
     </message>
     <message>
-        <source>Use Windows registry</source>
-        <translation>Folosește registrul Windows</translation>
+        <source>Settings - General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current location</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings - Other</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Database - Catalog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Database - Thumbnails</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current user (recommended)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Local machine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Portable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <translation type="unfinished">Personalizat</translation>
     </message>
 </context>
 <context>
@@ -10654,14 +10662,6 @@ Dorești să-l reatribui?</translation>
         <translation>Redare video în buclă</translation>
     </message>
     <message>
-        <source>High zoom quality</source>
-        <translation>Calitate înaltă pentru scalare</translation>
-    </message>
-    <message>
-        <source>Use checkboard pattern as background</source>
-        <translation>Folosește modelul de șah ca fundal</translation>
-    </message>
-    <message>
         <source>Always show in fullscreen</source>
         <translation>Afișează întotdeauna pe ecranul complet (pe tot ecranul)</translation>
     </message>
@@ -10692,10 +10692,6 @@ Dorești să-l reatribui?</translation>
     <message>
         <source>Multipage files</source>
         <translation>Fișiere cu mai multe pagini</translation>
-    </message>
-    <message>
-        <source>Reset X/Y (No fit)</source>
-        <translation>Resetează X/Y (nu se potrivește)</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -10752,10 +10748,6 @@ Dorești să-l reatribui?</translation>
     <message>
         <source>Keep current image</source>
         <translation>Păstrează imaginea curentă</translation>
-    </message>
-    <message>
-        <source>Zoom on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
-        <translation>Scalează pe ecranul HiDPI: 1 pixel de imagine este egal cu 1 pixel de ecran</translation>
     </message>
     <message>
         <source>Fixed step</source>
@@ -10904,6 +10896,22 @@ Dorești să-l reatribui?</translation>
     <message>
         <source>Show navigator</source>
         <translation>Afișează navigatorul</translation>
+    </message>
+    <message>
+        <source>Use transparency grid (checkerboard pattern)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Antialiasing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scale on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset X/Y position on file change (No fit)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11312,10 +11320,6 @@ Dorești să-l reatribui?</translation>
         <translation>Întunecat</translation>
     </message>
     <message>
-        <source>Folder for Catalog (.db)</source>
-        <translation>Dosar pentru catalog (.db)</translation>
-    </message>
-    <message>
         <source>Black</source>
         <translation>Negru</translation>
     </message>
@@ -11336,10 +11340,6 @@ Dorești să-l reatribui?</translation>
         <translation>Temă</translation>
     </message>
     <message>
-        <source>Send anonymous logs</source>
-        <translation>Trimite jurnale anonime</translation>
-    </message>
-    <message>
         <source>Add &apos;Browse with XnViewMP&apos; to context menu</source>
         <translation>Adaugă „Navighează cu XnViewMP” în meniul contextual</translation>
     </message>
@@ -11356,32 +11356,16 @@ Dorești să-l reatribui?</translation>
         <translation>Integrarea sistemului</translation>
     </message>
     <message>
-        <source>Folder for Thumbnails Database</source>
-        <translation>Dosar pentru baza de date cu miniaturi</translation>
-    </message>
-    <message>
         <source>Weekly</source>
         <translation>Săptămânal</translation>
-    </message>
-    <message>
-        <source>Other settings</source>
-        <translation>Alte setari</translation>
     </message>
     <message>
         <source>Language</source>
         <translation>Limbă</translation>
     </message>
     <message>
-        <source>Use .ini file in folder</source>
-        <translation>Folosește fișierul .ini în dosar (folder)</translation>
-    </message>
-    <message>
         <source>Default</source>
         <translation>Mod implicit</translation>
-    </message>
-    <message>
-        <source>Folder for other files</source>
-        <translation>Dosar pentru alte fișiere</translation>
     </message>
     <message>
         <source>General</source>
@@ -11396,12 +11380,24 @@ Dorești să-l reatribui?</translation>
         <translation>Expertul de pornire</translation>
     </message>
     <message>
-        <source>Use Windows registry</source>
-        <translation>Folosește registrul Windows</translation>
-    </message>
-    <message>
         <source>Settings</source>
         <translation>Setări</translation>
+    </message>
+    <message>
+        <source>Current user (recommended)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current user (Windows registry)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Local machine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Portable (application folder)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14011,6 +14007,10 @@ Dorești să ștergi favoritul „%1”?</translation>
         <source>Subject code</source>
         <translation>Codul subiectului</translation>
     </message>
+    <message>
+        <source>Local caption</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>InfoPropertiesView</name>
@@ -15585,6 +15585,10 @@ Vrei să continui?</translation>
         <source>Modified Date</source>
         <translation>Data modificată</translation>
     </message>
+    <message>
+        <source>Show channel</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MenuGlobal</name>
@@ -15899,10 +15903,6 @@ Vrei să continui?</translation>
         <translation>US Letter (Scrisoare americană) (1.29)</translation>
     </message>
     <message>
-        <source>High zoom quality</source>
-        <translation>Calitate ridicată a scalării</translation>
-    </message>
-    <message>
         <source>Automatic levels</source>
         <translation>Niveluri automate</translation>
     </message>
@@ -15953,10 +15953,6 @@ Vrei să continui?</translation>
     <message>
         <source>Rotate 180°</source>
         <translation>Rotește cu 180°</translation>
-    </message>
-    <message>
-        <source>Use checkerboard pattern</source>
-        <translation>Folosește modelul de șah</translation>
     </message>
     <message>
         <source>&amp;Image</source>
@@ -16617,6 +16613,18 @@ Vrei să continui?</translation>
     <message>
         <source>Effect</source>
         <translation>Efect</translation>
+    </message>
+    <message>
+        <source>Use antialiasing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use transparency grid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show channel</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
