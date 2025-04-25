@@ -12380,12 +12380,12 @@ Miniatuur</translation>
         <location filename="DlgSettingsIntegration.cpp" line="53"/>
         <source>System - Current user</source>
         <oldsource>User (System)</oldsource>
-        <translation type="unfinished">Gebruiker (Systeem)</translation>
+        <translation>Systeem - Huidige gebruiker</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="31"/>
         <source>System - Current user (Windows registry)</source>
-        <translation type="unfinished"></translation>
+        <translation>Systeem - Huidige gebruiker (Windows-register)</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="32"/>
@@ -12393,14 +12393,14 @@ Miniatuur</translation>
         <location filename="DlgSettingsIntegration.cpp" line="47"/>
         <location filename="DlgSettingsIntegration.cpp" line="55"/>
         <source>System - Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation>Systeem - Local machine</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="34"/>
         <location filename="DlgSettingsIntegration.cpp" line="42"/>
         <location filename="DlgSettingsIntegration.cpp" line="49"/>
         <source>Application folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Toepassingsmap</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="36"/>
@@ -12489,7 +12489,7 @@ Miniatuur</translation>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="120"/>
         <source>Settings - General</source>
-        <translation type="unfinished"></translation>
+        <translation>Instellingen - Algemeen</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="137"/>
@@ -12498,47 +12498,47 @@ Miniatuur</translation>
         <location filename="DlgSettingsIntegration.ui" line="299"/>
         <location filename="DlgSettingsIntegration.ui" line="347"/>
         <source>Current location</source>
-        <translation type="unfinished"></translation>
+        <translation>Huidige locatie</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="166"/>
         <source>Settings - Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Instellingen - Overig</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="216"/>
         <source>Database - Catalog</source>
-        <translation type="unfinished"></translation>
+        <translation>Database - Catalogus</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="272"/>
         <source>Database - Thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Database - Miniaturen</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="313"/>
         <source>Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuratie</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="324"/>
         <source>Current user (recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation>Huidige gebruiker (aanbevolen)</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="329"/>
         <source>Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation>Local machine</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="334"/>
         <source>Portable</source>
-        <translation type="unfinished"></translation>
+        <translation>Portable</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="339"/>
         <source>Custom</source>
-        <translation type="unfinished">Aangepast</translation>
+        <translation>Aangepast</translation>
     </message>
 </context>
 <context>
@@ -13767,7 +13767,7 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsView.ui" line="129"/>
         <source>Use transparency grid (checkerboard pattern)</source>
         <oldsource>Use checkboard pattern as background</oldsource>
-        <translation type="unfinished">Dambordpatroon als achtergrond gebruiken</translation>
+        <translation>Transparantieraster gebruiken (dambordpatroon)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="193"/>
@@ -13917,7 +13917,7 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsView.ui" line="528"/>
         <source>Reset X/Y position on file change (No fit)</source>
         <oldsource>Reset X/Y (No fit)</oldsource>
-        <translation type="unfinished">X/Y herstellen (niet passen)</translation>
+        <translation>X/Y-positie herstellen bij bestandswijziging (Niet passend)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="835"/>
@@ -13955,7 +13955,7 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsView.ui" line="493"/>
         <source>Scale on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
         <oldsource>Zoom on HiDPI screen: 1 image pixel equals 1 screen pixel</oldsource>
-        <translation type="unfinished">Zoom op HiDPI-scherm: 1 afbeeldingpixel = 1 schermpixel</translation>
+        <translation>Schaal op HiDPI-scherm: 1 afbeeldingpixel = 1 schermpixel</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="678"/>
@@ -13995,7 +13995,7 @@ Opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="435"/>
         <source>Antialiasing</source>
-        <translation type="unfinished"></translation>
+        <translation>Anti-aliasing</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="441"/>
@@ -14673,22 +14673,22 @@ Opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgStartupWizard.ui" line="87"/>
         <source>Current user (recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation>Huidige gebruiker (aanbevolen)</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="92"/>
         <source>Current user (Windows registry)</source>
-        <translation type="unfinished"></translation>
+        <translation>Huidige gebruiker (Windows-register)</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="97"/>
         <source>Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation>Local machine</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="102"/>
         <source>Portable (application folder)</source>
-        <translation type="unfinished"></translation>
+        <translation>Portable (toepassingsmap)</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="128"/>
@@ -17973,7 +17973,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
         <location filename="InfoIPTCView.cpp" line="26"/>
         <location filename="IptcHelper.cpp" line="18"/>
         <source>Local caption</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokaal bijschrift</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="65"/>
@@ -19312,7 +19312,7 @@ Doorgaan?</translation>
     <message>
         <location filename="BrowserMenu.h" line="644"/>
         <source>Show channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanaal weergeven</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="657"/>
@@ -20946,17 +20946,17 @@ Doorgaan?</translation>
     <message>
         <location filename="ViewMenu.h" line="449"/>
         <source>Use antialiasing</source>
-        <translation type="unfinished"></translation>
+        <translation>Anti-aliasing gebruiken</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="450"/>
         <source>Use transparency grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Transparantieraster gebruiken</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="451"/>
         <source>Show channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanaal weergeven</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="492"/>
