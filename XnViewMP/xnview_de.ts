@@ -12369,12 +12369,12 @@ Miniaturbild</translation>
         <location filename="DlgSettingsIntegration.cpp" line="53"/>
         <source>System - Current user</source>
         <oldsource>User (System)</oldsource>
-        <translation type="unfinished">Benutzer (System)</translation>
+        <translation>System - Aktueller Benutzer</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="31"/>
         <source>System - Current user (Windows registry)</source>
-        <translation type="unfinished"></translation>
+        <translation>System - Aktueller Benutzer (Windows-Registry)</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="32"/>
@@ -12382,14 +12382,14 @@ Miniaturbild</translation>
         <location filename="DlgSettingsIntegration.cpp" line="47"/>
         <location filename="DlgSettingsIntegration.cpp" line="55"/>
         <source>System - Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation>System - Lokaler Computer</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="34"/>
         <location filename="DlgSettingsIntegration.cpp" line="42"/>
         <location filename="DlgSettingsIntegration.cpp" line="49"/>
         <source>Application folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Programm-Ordner</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="36"/>
@@ -12478,7 +12478,7 @@ Miniaturbild</translation>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="120"/>
         <source>Settings - General</source>
-        <translation type="unfinished"></translation>
+        <translation>Einstellungen - Allgemein</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="137"/>
@@ -12487,47 +12487,47 @@ Miniaturbild</translation>
         <location filename="DlgSettingsIntegration.ui" line="299"/>
         <location filename="DlgSettingsIntegration.ui" line="347"/>
         <source>Current location</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktueller Standort</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="166"/>
         <source>Settings - Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Einstellungen - Andere</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="216"/>
         <source>Database - Catalog</source>
-        <translation type="unfinished"></translation>
+        <translation>Datenbank - Katalog</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="272"/>
         <source>Database - Thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Datenbank - Miniaturbilder</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="313"/>
         <source>Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfiguration</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="324"/>
         <source>Current user (recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktueller Benutzer (empfohlen)</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="329"/>
         <source>Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokaler Computer</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="334"/>
         <source>Portable</source>
-        <translation type="unfinished"></translation>
+        <translation>Portable</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="339"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerdefiniert</translation>
     </message>
 </context>
 <context>
@@ -13750,7 +13750,7 @@ Möchten Sie neu zuweisen?</translation>
         <location filename="DlgSettingsView.ui" line="129"/>
         <source>Use transparency grid (checkerboard pattern)</source>
         <oldsource>Use checkboard pattern as background</oldsource>
-        <translation type="unfinished">Schachbrettmuster als Hintergrund verwenden</translation>
+        <translation>Schachbrettmuster als Hintergrund verwenden</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="382"/>
@@ -13811,7 +13811,7 @@ Möchten Sie neu zuweisen?</translation>
         <location filename="DlgSettingsView.ui" line="528"/>
         <source>Reset X/Y position on file change (No fit)</source>
         <oldsource>Reset X/Y (No fit)</oldsource>
-        <translation type="unfinished">X/Y zurücksetzen (keine Anpassung)</translation>
+        <translation>X/Y zurücksetzen (keine Anpassung)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="848"/>
@@ -13839,7 +13839,7 @@ Möchten Sie neu zuweisen?</translation>
         <location filename="DlgSettingsView.ui" line="493"/>
         <source>Scale on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
         <oldsource>Zoom on HiDPI screen: 1 image pixel equals 1 screen pixel</oldsource>
-        <translation type="unfinished">Zoom auf HiDPI-Bildschirm: 1 Bildpixel entspricht 1 Bildschirmpixel</translation>
+        <translation>Zoom auf HiDPI-Bildschirm: 1 Bildpixel entspricht 1 Bildschirmpixel</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="549"/>
@@ -13925,7 +13925,7 @@ Möchten Sie neu zuweisen?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="435"/>
         <source>Antialiasing</source>
-        <translation type="unfinished"></translation>
+        <translation>Kantenglättung</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="441"/>
@@ -14663,22 +14663,22 @@ Möchten Sie neu zuweisen?</translation>
     <message>
         <location filename="DlgStartupWizard.ui" line="87"/>
         <source>Current user (recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktueller Benutzer (empfohlen)</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="92"/>
         <source>Current user (Windows registry)</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktueller Benutzer (Windows Registry)</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="97"/>
         <source>Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokaler Computer</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="102"/>
         <source>Portable (application folder)</source>
-        <translation type="unfinished"></translation>
+        <translation>Portable (Anwendungsordner)</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="128"/>
@@ -17962,7 +17962,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
         <location filename="InfoIPTCView.cpp" line="26"/>
         <location filename="IptcHelper.cpp" line="18"/>
         <source>Local caption</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokale Untertitel</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="65"/>
@@ -19504,7 +19504,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="BrowserMenu.h" line="644"/>
         <source>Show channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanal anzeigen</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="649"/>
@@ -21169,17 +21169,17 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="ViewMenu.h" line="449"/>
         <source>Use antialiasing</source>
-        <translation type="unfinished"></translation>
+        <translation>Kantenglättung verwenden</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="450"/>
         <source>Use transparency grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Schachbrettmuster als Hintergrund verwenden</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="451"/>
         <source>Show channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanal anzeigen</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="461"/>
