@@ -12363,12 +12363,12 @@ miniatűrként</translation>
         <location filename="DlgSettingsIntegration.cpp" line="53"/>
         <source>System - Current user</source>
         <oldsource>User (System)</oldsource>
-        <translation type="unfinished">Felhasználó (Rendszer)</translation>
+        <translation>Rendszer - Aktuális felhasználó</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="31"/>
         <source>System - Current user (Windows registry)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendszer - Aktuális felhasználó (Windows-beállításjegyzék)</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="32"/>
@@ -12376,14 +12376,14 @@ miniatűrként</translation>
         <location filename="DlgSettingsIntegration.cpp" line="47"/>
         <location filename="DlgSettingsIntegration.cpp" line="55"/>
         <source>System - Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendszer - Helyi számítógép</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="34"/>
         <location filename="DlgSettingsIntegration.cpp" line="42"/>
         <location filename="DlgSettingsIntegration.cpp" line="49"/>
         <source>Application folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Alkalmazásmappa</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="36"/>
@@ -12472,7 +12472,7 @@ miniatűrként</translation>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="120"/>
         <source>Settings - General</source>
-        <translation type="unfinished"></translation>
+        <translation>Beállítások - Általános</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="137"/>
@@ -12481,47 +12481,47 @@ miniatűrként</translation>
         <location filename="DlgSettingsIntegration.ui" line="299"/>
         <location filename="DlgSettingsIntegration.ui" line="347"/>
         <source>Current location</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuális hely</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="166"/>
         <source>Settings - Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Beállítások - Egyéb</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="216"/>
         <source>Database - Catalog</source>
-        <translation type="unfinished"></translation>
+        <translation>Adatbázis - Katalógus</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="272"/>
         <source>Database - Thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Adatbázis - Miniatűrök</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="313"/>
         <source>Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Beállítás</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="324"/>
         <source>Current user (recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuális felhasználó (ajánlott)</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="329"/>
         <source>Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation>Helyi számítógép</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="334"/>
         <source>Portable</source>
-        <translation type="unfinished"></translation>
+        <translation>Hordozható</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="339"/>
         <source>Custom</source>
-        <translation type="unfinished">Egyéni</translation>
+        <translation>Egyéni</translation>
     </message>
 </context>
 <context>
@@ -13750,7 +13750,7 @@ Szeretné újratársítani?</translation>
         <location filename="DlgSettingsView.ui" line="129"/>
         <source>Use transparency grid (checkerboard pattern)</source>
         <oldsource>Use checkboard pattern as background</oldsource>
-        <translation type="unfinished">Sakktábla minta használata háttérszínnek</translation>
+        <translation>Áttetszőségi rács használata (sakktábla minta)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="193"/>
@@ -13978,7 +13978,7 @@ Szeretné újratársítani?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="435"/>
         <source>Antialiasing</source>
-        <translation type="unfinished"></translation>
+        <translation>Élsimítás</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="441"/>
@@ -14656,22 +14656,22 @@ Szeretné újratársítani?</translation>
     <message>
         <location filename="DlgStartupWizard.ui" line="87"/>
         <source>Current user (recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuális felhasználó (ajánlott)</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="92"/>
         <source>Current user (Windows registry)</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuális felhasználó (Windows-beállításjegyzék)</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="97"/>
         <source>Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation>Helyi számítógép</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="102"/>
         <source>Portable (application folder)</source>
-        <translation type="unfinished"></translation>
+        <translation>Hordozható (alkalmazásmappa)</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="128"/>
@@ -17955,7 +17955,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <location filename="InfoIPTCView.cpp" line="26"/>
         <location filename="IptcHelper.cpp" line="18"/>
         <source>Local caption</source>
-        <translation type="unfinished"></translation>
+        <translation>Helyi képaláírás</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="65"/>
@@ -19184,7 +19184,7 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="BrowserMenu.h" line="644"/>
         <source>Show channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Csatorna megjelenítése</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="657"/>
@@ -20920,17 +20920,17 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="ViewMenu.h" line="449"/>
         <source>Use antialiasing</source>
-        <translation type="unfinished"></translation>
+        <translation>Élsimítás használata</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="450"/>
         <source>Use transparency grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Áttetszőségi rács használata</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="451"/>
         <source>Show channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Csatorna megjelenítése</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="493"/>
