@@ -9694,7 +9694,7 @@ miniatură</translation>
     </message>
     <message>
         <source>Same as Catalog</source>
-        <translation>La fel ca Catalog</translation>
+        <translation>La fel ca și catalogul</translation>
     </message>
     <message>
         <source>File Associations</source>
@@ -9718,19 +9718,19 @@ miniatură</translation>
     </message>
     <message>
         <source>System - Current user</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistem - Utilizatorul actual</translation>
     </message>
     <message>
         <source>System - Current user (Windows registry)</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistem - Utilizatorul actual (Regiștrii din Windows)</translation>
     </message>
     <message>
         <source>System - Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistem - Calculatorul local</translation>
     </message>
     <message>
         <source>Application folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Folderul (Dosarul) de aplicații</translation>
     </message>
 </context>
 <context>
@@ -9753,43 +9753,43 @@ miniatură</translation>
     </message>
     <message>
         <source>Settings - General</source>
-        <translation type="unfinished"></translation>
+        <translation>Setări - General</translation>
     </message>
     <message>
         <source>Current location</source>
-        <translation type="unfinished"></translation>
+        <translation>Locația curentă</translation>
     </message>
     <message>
         <source>Settings - Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Setări - Altele</translation>
     </message>
     <message>
         <source>Database - Catalog</source>
-        <translation type="unfinished"></translation>
+        <translation>Bază de date - Catalog</translation>
     </message>
     <message>
         <source>Database - Thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Bază de date - Miniaturi</translation>
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurații</translation>
     </message>
     <message>
         <source>Current user (recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizatorul actual (recomandat)</translation>
     </message>
     <message>
         <source>Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation>Calculatorul local</translation>
     </message>
     <message>
         <source>Portable</source>
-        <translation type="unfinished"></translation>
+        <translation>Portabil(ă)</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">Personalizat</translation>
+        <translation>Personalizat</translation>
     </message>
 </context>
 <context>
@@ -10899,19 +10899,19 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Use transparency grid (checkerboard pattern)</source>
-        <translation type="unfinished"></translation>
+        <translation>Folosește o grilă de transparență (modelul de tablă de șah)</translation>
     </message>
     <message>
         <source>Antialiasing</source>
-        <translation type="unfinished"></translation>
+        <translation>Antialiasare</translation>
     </message>
     <message>
         <source>Scale on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
-        <translation type="unfinished"></translation>
+        <translation>Scalează pe ecranul HiDPI: 1 pixel de imagine este egal cu 1 pixel de ecran</translation>
     </message>
     <message>
         <source>Reset X/Y position on file change (No fit)</source>
-        <translation type="unfinished"></translation>
+        <translation>Resetează poziția X/Y la modificarea fișierului (Fără potrivire)</translation>
     </message>
 </context>
 <context>
@@ -10934,7 +10934,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Add folder...</source>
-        <translation>Adaugă dosar...</translation>
+        <translation>Adaugă un dosar (un folder)...</translation>
     </message>
     <message>
         <source>Method</source>
@@ -10942,7 +10942,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Elimina</translation>
+        <translation>Elimină</translation>
     </message>
     <message>
         <source>Search similar files</source>
@@ -11385,19 +11385,19 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Current user (recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizatorul actual (recomandat)</translation>
     </message>
     <message>
         <source>Current user (Windows registry)</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizatorul actual (Regiștrii din Windows)</translation>
     </message>
     <message>
         <source>Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation>Calculatorul local</translation>
     </message>
     <message>
         <source>Portable (application folder)</source>
-        <translation type="unfinished"></translation>
+        <translation>Portabil(ă) (folderul (dosarul) aplicației)</translation>
     </message>
 </context>
 <context>
@@ -14009,7 +14009,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Local caption</source>
-        <translation type="unfinished"></translation>
+        <translation>Subtitrare locală</translation>
     </message>
 </context>
 <context>
@@ -15587,7 +15587,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Show channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Afișează canalul</translation>
     </message>
 </context>
 <context>
@@ -16616,15 +16616,15 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Use antialiasing</source>
-        <translation type="unfinished"></translation>
+        <translation>Folosește antialiasarea</translation>
     </message>
     <message>
         <source>Use transparency grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Folosește grila de transparență</translation>
     </message>
     <message>
         <source>Show channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Afișează canalul</translation>
     </message>
 </context>
 <context>
