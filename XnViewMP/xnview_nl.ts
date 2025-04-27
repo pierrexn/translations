@@ -7602,7 +7602,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
     <message>
         <location filename="DlgExport.cpp" line="341"/>
         <source>Adaptive</source>
-        <translation>Aangepast</translation>
+        <translation>Adaptief</translation>
     </message>
     <message>
         <location filename="DlgExport.cpp" line="601"/>
@@ -20552,7 +20552,7 @@ Doorgaan?</translation>
         <location filename="ViewCropAction.cpp" line="178"/>
         <location filename="ViewMenu.h" line="339"/>
         <source>Free</source>
-        <translation>Aangepast</translation>
+        <translation>Vrij</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="252"/>
