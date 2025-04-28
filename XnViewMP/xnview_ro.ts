@@ -412,7 +412,7 @@
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation>Acest favorit indică un folder care nu există. 
+        <translation>Acest favorit indică un folder (dosar) care nu există. 
 
 Vrei să ștergi favoritul „%1”?</translation>
     </message>
@@ -471,7 +471,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Current folder (Recursive)</source>
-        <translation>Dosar curent (Recursiv)</translation>
+        <translation>Dosar (Folder) curent (Recursiv)</translation>
     </message>
     <message>
         <source>Delete items</source>
@@ -531,7 +531,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Current folder</source>
-        <translation>Dosar curent</translation>
+        <translation>Dosar (Folder) curent</translation>
     </message>
     <message numerus="yes">
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
@@ -559,7 +559,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Folders</source>
-        <translation>Dosare</translation>
+        <translation>Dosare (Foldere)</translation>
     </message>
     <message>
         <source>Favorites</source>
@@ -579,7 +579,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>This folder doesn&apos;t exist!</source>
-        <translation>Acest dosar nu există!</translation>
+        <translation>Acest dosar (folder) nu există!</translation>
     </message>
     <message>
         <source>Add Favorite...</source>
@@ -615,7 +615,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Show files in subfolders</source>
-        <translation>Afișează fișierele în subfoldere</translation>
+        <translation>Afișează fișierele în subfoldere (în subdosare)</translation>
     </message>
     <message>
         <source>Start slideshow</source>
@@ -1585,7 +1585,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Folder</source>
-        <translation>Dosare</translation>
+        <translation>Dosar (Folder)</translation>
     </message>
     <message>
         <source>Format</source>
@@ -1975,7 +1975,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Folder</source>
-        <translation>Dosar</translation>
+        <translation>Dosar (Folder)</translation>
     </message>
     <message>
         <source>Format</source>
@@ -2368,7 +2368,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Save to folder</source>
-        <translation>Salvează în dosar (folder)</translation>
+        <translation>Salvează în dosar (în folder)</translation>
     </message>
     <message>
         <source>Open in Draw mode</source>
@@ -2770,7 +2770,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>You need to choose an output folder.</source>
-        <translation>Trebuie să alegi un dosar de ieșire.</translation>
+        <translation>Trebuie să alegi un dosar (folder) de ieșire.</translation>
     </message>
     <message>
         <source>A4 (21.0x29.7cm)</source>
@@ -3688,7 +3688,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Folder</source>
-        <translation>Dosar</translation>
+        <translation>Dosar (Folder)</translation>
     </message>
     <message>
         <source>Format</source>
@@ -3696,7 +3696,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Add folder...</source>
-        <translation>Adaugă dosar...</translation>
+        <translation>Adaugă dosarul (folderul)...</translation>
     </message>
     <message>
         <source>Registration...</source>
@@ -3912,11 +3912,11 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Hot folders...</source>
-        <translation>Dosare proaspete...</translation>
+        <translation>Dosare noi...</translation>
     </message>
     <message>
         <source>Source folder</source>
-        <translation>Dosarul sursă</translation>
+        <translation>Dosarul (Folderul) sursă</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -5579,7 +5579,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>ExifTool is not installed in AddOn folder!</source>
-        <translation>ExifTool nu este instalat în folderul AddOn!</translation>
+        <translation>ExifTool nu este instalat în folderul (dosarul) AddOn (de suplimente)!</translation>
     </message>
     <message>
         <source>Longitude</source>
@@ -6099,7 +6099,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Folder doesn&apos;t exist</source>
-        <translation>Dosarul nu există</translation>
+        <translation>Dosarul (Folderul) nu există</translation>
     </message>
 </context>
 <context>
@@ -6143,7 +6143,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     <name>DlgFileClass</name>
     <message>
         <source>Show selected folder in folder tree</source>
-        <translation>Afișează folderul (dosarul) selectat în arborele de dosar (folder)</translation>
+        <translation>Afișează folderul (dosarul) selectat în arborele de dosar (de folder)</translation>
     </message>
     <message>
         <source>Expand</source>
@@ -6241,7 +6241,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>The destination contains already a folder with same name, what do you want to do?</source>
-        <translation>Destinația conține deja un folder (dosar) cu același nume, ce vrei să faci?</translation>
+        <translation>Destinația conține deja un folder (un dosar) cu același nume, ce vrei să faci?</translation>
     </message>
     <message>
         <source>Status</source>
@@ -6257,7 +6257,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Folder conflict</source>
-        <translation>Conflict de dosar</translation>
+        <translation>Conflict de dosare (de foldere)</translation>
     </message>
     <message>
         <source>New name:</source>
@@ -6419,7 +6419,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Unable to go to folder %1</source>
-        <translation>Nu se poate accesa folderul %1</translation>
+        <translation>Nu se poate accesa folderul (dosarul) %1</translation>
     </message>
     <message>
         <source>Retry</source>
@@ -6652,11 +6652,11 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     <name>DlgHotFolder</name>
     <message>
         <source>Add folder...</source>
-        <translation>Adaugă dosar...</translation>
+        <translation>Adaugă dosarul (folderul)...</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Elimina</translation>
+        <translation>Elimină</translation>
     </message>
     <message>
         <source>Pathname</source>
@@ -6676,7 +6676,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Hot folders</source>
-        <translation>Dosare proaspete</translation>
+        <translation>Dosare (Foldere) noi</translation>
     </message>
 </context>
 <context>
@@ -6736,8 +6736,8 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     <message>
         <source>The source folder of the files to be transferred.
 The internal folder structure will be flattened. </source>
-        <translation>Dosarul sursă al fișierelor de transferat.
-Structura internă a folderului va fi aplatizată. </translation>
+        <translation>Dosarul (Folderul) sursă al fișierelor de transferat.
+Structura internă a folderului (dosarului) va fi aplatizată. </translation>
     </message>
     <message>
         <source>No files to import!</source>
@@ -6747,7 +6747,7 @@ Structura internă a folderului va fi aplatizată. </translation>
         <source>Here the files will be transfered.
 Subfolders will be created. </source>
         <translation>Aici fișierele vor fi transferate.
-Subfolderele vor fi create.. </translation>
+Subfolderele (Subdosarele) vor fi create.. </translation>
     </message>
     <message>
         <source>Move files</source>
@@ -6755,7 +6755,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>Subfolder</source>
-        <translation>Subdosar</translation>
+        <translation>Subdosar (Subfolder)</translation>
     </message>
     <message>
         <source>The &apos;Other Files&apos; folder if doesn&apos;t exist will be created as a subfolder of destination.</source>
@@ -6767,7 +6767,7 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>Transfer files with no EXIF to &apos;Other Files&apos; folder</source>
-        <translation>Transferă fișiere fără EXIF în folderul (dosarul) „Alte fișiere”</translation>
+        <translation>Transferă fișiere fără EXIF în folderul (în dosarul) „Alte fișiere”</translation>
     </message>
     <message>
         <source>Extensions (; to separate)</source>
@@ -6795,11 +6795,11 @@ Subfolderele vor fi create.. </translation>
     </message>
     <message>
         <source>Input folder</source>
-        <translation>Folderul de intrare</translation>
+        <translation>Folderul (Dosarul) de intrare</translation>
     </message>
     <message>
         <source>Output folder</source>
-        <translation>Folderul de ieșire</translation>
+        <translation>Folderul (Dosarul) de ieșire</translation>
     </message>
     <message>
         <source>IPTC Template</source>
@@ -8991,11 +8991,11 @@ Dorești să verifici mai întâi intrările afectate?</translation>
     </message>
     <message>
         <source>Synchronize Folders...</source>
-        <translation>Sincronizează dosarele...</translation>
+        <translation>Sincronizează dosarele (folderele)...</translation>
     </message>
     <message>
         <source>Import folder...</source>
-        <translation>Import dosar...</translation>
+        <translation>Importă dosarul (folderul)...</translation>
     </message>
     <message>
         <source>Rebuild thumbnails</source>
@@ -9019,7 +9019,7 @@ Dorești să verifici mai întâi intrările afectate?</translation>
     </message>
     <message>
         <source>Add folder...</source>
-        <translation>Adaugă dosar...</translation>
+        <translation>Adaugă dosarul (folderul)...</translation>
     </message>
     <message>
         <source>Enable thumbnail caching</source>
@@ -9125,7 +9125,7 @@ Dorești să verifici mai întâi intrările afectate?</translation>
     </message>
     <message>
         <source>Parent folder (&apos;..&apos;)</source>
-        <translation>Dosarul părinte („..”)</translation>
+        <translation>Dosarul (Folderul) părinte („..”)</translation>
     </message>
     <message>
         <source>Show as 
@@ -9159,7 +9159,7 @@ miniatură</translation>
     </message>
     <message>
         <source>Folders</source>
-        <translation>Dosare</translation>
+        <translation>Dosare (Foldere)</translation>
     </message>
     <message>
         <source>Companion</source>
@@ -9198,11 +9198,11 @@ miniatură</translation>
     </message>
     <message>
         <source>Folder always sorted alphabetically</source>
-        <translation>Dosar sortat întotdeauna alfabetic</translation>
+        <translation>Dosar (Folder) sortat întotdeauna alfabetic</translation>
     </message>
     <message>
         <source>Mixed file/folder sorting</source>
-        <translation>Sortare mixtă fișier/dosar</translation>
+        <translation>Sortare mixtă fișier/dosar (folder)</translation>
     </message>
     <message>
         <source>Scan file headers</source>
@@ -9234,7 +9234,7 @@ miniatură</translation>
     </message>
     <message>
         <source>Auto-select first item on entering folder</source>
-        <translation>Selectează automat primul element la intrarea în folder (dosar)</translation>
+        <translation>Selectează automat primul element la intrarea în folder (în dosar)</translation>
     </message>
     <message>
         <source>Auto-select new files</source>
@@ -9706,7 +9706,7 @@ miniatură</translation>
     </message>
     <message>
         <source>Please be careful to folder rights by using XnView folder</source>
-        <translation>Te rugăm să ai grijă la drepturile de dosar (de folder) utilizând folderul XnView</translation>
+        <translation>Te rugăm să ai grijă la drepturile pentru dosar (pentru folder) utilizând folderul (dosarul) pentru XnView</translation>
     </message>
     <message>
         <source>XnView Slide file</source>
@@ -9989,7 +9989,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Purge &apos;Recent files and folders&apos; on exit</source>
-        <translation>Șterge „Fișiere și foldere recente” la ieșire</translation>
+        <translation>Șterge „Fișiere și foldere (dosare) recente” la ieșire</translation>
     </message>
     <message>
         <source>characters</source>
@@ -10445,7 +10445,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Show 4 thumbnails in folder&apos;s thumbnail (instead of 1)</source>
-        <translation>Afișează 4 miniaturi în miniatura dosarului/folderului (în loc de 1)</translation>
+        <translation>Afișează 4 miniaturi în miniatura dosarului (folderului) (în loc de 1)</translation>
     </message>
     <message>
         <source>Color label</source>
@@ -10930,11 +10930,11 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Between folders only</source>
-        <translation>Doar între dosare</translation>
+        <translation>Doar între dosare (foldere)</translation>
     </message>
     <message>
         <source>Add folder...</source>
-        <translation>Adaugă un dosar (un folder)...</translation>
+        <translation>Adaugă dosarul (folderul)...</translation>
     </message>
     <message>
         <source>Method</source>
@@ -11041,7 +11041,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Folder</source>
-        <translation>Dosar</translation>
+        <translation>Dosar (Folder)</translation>
     </message>
     <message>
         <source>Zoom out</source>
@@ -12655,7 +12655,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Add folder...</source>
-        <translation>Adaugă dosar...</translation>
+        <translation>Adaugă dosarul (folderul)...</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -13087,7 +13087,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Folder name</source>
-        <translation>Numele fisierului</translation>
+        <translation>Numele folderului (dosarului)</translation>
     </message>
     <message>
         <source>Height (inch)</source>
@@ -14667,7 +14667,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Open containing folder</source>
-        <translation>Deschide folderul conținător</translation>
+        <translation>Deschide folderul (dosarul) conținător</translation>
     </message>
     <message>
         <source>Save layout A</source>
@@ -14803,7 +14803,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Videos (+folders)</source>
-        <translation>Videoclipuri (+dosare)</translation>
+        <translation>Videoclipuri (+dosare (+foldere))</translation>
     </message>
     <message>
         <source>Change timestamp...</source>
@@ -14847,7 +14847,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Folder</source>
-        <translation>Dosar</translation>
+        <translation>Dosar (Folder)</translation>
     </message>
     <message>
         <source>Images</source>
@@ -15147,7 +15147,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Images (+folders)</source>
-        <translation>Imagini (+dosare)</translation>
+        <translation>Imagini (+dosare (+foldere))</translation>
     </message>
     <message>
         <source>Thumbnails + Labels</source>
@@ -15499,7 +15499,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Show files in subfolders</source>
-        <translation>Afișează fișierele în subfoldere (subdosare)</translation>
+        <translation>Afișează fișierele în subfoldere (în subdosare)</translation>
     </message>
     <message>
         <source>Rotate 90° right</source>
@@ -16758,14 +16758,14 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Building catalog entries...</source>
-        <translation>Crearea intrărilor de catalog...</translation>
+        <translation>Se crează intrările de catalog...</translation>
     </message>
 </context>
 <context>
     <name>MyAddFolderProcess2</name>
     <message>
         <source>Build thumbnails...</source>
-        <translation>Crează miniaturi...</translation>
+        <translation>Crează miniaturile...</translation>
     </message>
 </context>
 <context>
@@ -16806,7 +16806,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Folders</source>
-        <translation>Dosare</translation>
+        <translation>Dosare (Foldere)</translation>
     </message>
     <message>
         <source>Volumes</source>
@@ -16842,11 +16842,11 @@ Vrei să continui?</translation>
     <name>MyFolderView</name>
     <message>
         <source>Are you sure to delete this folder?</source>
-        <translation>Ești sigur(ă) că ștergi acest folder?</translation>
+        <translation>Ești sigur(ă) că ștergi acest folder (dosar)?</translation>
     </message>
     <message>
         <source>Delete folder</source>
-        <translation>Șterge folderul</translation>
+        <translation>Șterge folderul (dosarul)</translation>
     </message>
 </context>
 <context>
