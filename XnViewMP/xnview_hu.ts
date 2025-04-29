@@ -3334,7 +3334,7 @@ Felül szeretné írni?</translation>
     <message>
         <location filename="DlgContactSheet.ui" line="358"/>
         <source>Spacing (pixels)</source>
-        <translation>Távolság (Pixel)</translation>
+        <translation>Távolság (pixel)</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="365"/>
@@ -10629,7 +10629,7 @@ El szeretné őket távolítani?</translation>
     <message>
         <location filename="DlgResize.ui" line="177"/>
         <source>Size (pixels)</source>
-        <translation>Méret (Pixelek)</translation>
+        <translation>Méret (pixel)</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="182"/>
@@ -10731,12 +10731,12 @@ El szeretné őket távolítani?</translation>
     <message>
         <location filename="DlgResize.ui" line="570"/>
         <source>pixels/inch</source>
-        <translation>Pixel/hüvelyk</translation>
+        <translation>pixel/hüvelyk</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="575"/>
         <source>pixels/cm</source>
-        <translation>Pixel/cm</translation>
+        <translation>pixel/cm</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="596"/>
@@ -13766,7 +13766,7 @@ Szeretné újratársítani?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="301"/>
         <source>Pixel ratio</source>
-        <translation>Pixel arány</translation>
+        <translation>Pixel-arány</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="382"/>
@@ -13900,7 +13900,7 @@ Szeretné újratársítani?</translation>
         <location filename="DlgSettingsView.ui" line="528"/>
         <source>Reset X/Y position on file change (No fit)</source>
         <oldsource>Reset X/Y (No fit)</oldsource>
-        <translation type="unfinished">X/Y alaphelyzetbe (Nem kitöltéssel)</translation>
+        <translation>X/Y pozíció alaphelyzetbe fájlmódosításkor (Nem kitöltéssel)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="835"/>
@@ -13938,7 +13938,7 @@ Szeretné újratársítani?</translation>
         <location filename="DlgSettingsView.ui" line="493"/>
         <source>Scale on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
         <oldsource>Zoom on HiDPI screen: 1 image pixel equals 1 screen pixel</oldsource>
-        <translation type="unfinished">Nagyítás HiDPI képernyőn: 1 fénykép pixel egyenlő 1 képernyő pixellel</translation>
+        <translation>Méretezés HiDPI képernyőn: 1 pixel egyenlő 1 képernyő pixellel</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="678"/>
@@ -14583,7 +14583,7 @@ Szeretné újratársítani?</translation>
     <message>
         <location filename="DlgSplit.ui" line="205"/>
         <source>Size (pixels)</source>
-        <translation>Méret (Pixelek)</translation>
+        <translation>Méret (pixel)</translation>
     </message>
     <message>
         <location filename="DlgSplit.ui" line="230"/>
@@ -21947,7 +21947,7 @@ Biztosan folytassuk?</translation>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
         <oldsource>Click to change between width of thumbnail
  and number of thumbnails per row</oldsource>
-        <translation>Kattintásra változtat a miniatűrök szélességén [képpontok] és az oszloponkénti számán</translation>
+        <translation>Kattintásra változtat a miniatűrök szélességén [pixel] és az oszloponkénti számán</translation>
     </message>
 </context>
 <context>
