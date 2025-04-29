@@ -12425,12 +12425,12 @@ Miniatura</translation>
         <location filename="DlgSettingsIntegration.cpp" line="53"/>
         <source>System - Current user</source>
         <oldsource>User (System)</oldsource>
-        <translation type="unfinished">Utilizador (Sistema)</translation>
+        <translation>Sistema - Utilizador actual</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="31"/>
         <source>System - Current user (Windows registry)</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistema - Utilizador actual (registo do Windows)</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="32"/>
@@ -12438,14 +12438,14 @@ Miniatura</translation>
         <location filename="DlgSettingsIntegration.cpp" line="47"/>
         <location filename="DlgSettingsIntegration.cpp" line="55"/>
         <source>System - Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistema - Máquina local</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="34"/>
         <location filename="DlgSettingsIntegration.cpp" line="42"/>
         <location filename="DlgSettingsIntegration.cpp" line="49"/>
         <source>Application folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasta de aplicação</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="36"/>
@@ -12534,7 +12534,7 @@ Miniatura</translation>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="120"/>
         <source>Settings - General</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurações - Geral</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="137"/>
@@ -12543,47 +12543,47 @@ Miniatura</translation>
         <location filename="DlgSettingsIntegration.ui" line="299"/>
         <location filename="DlgSettingsIntegration.ui" line="347"/>
         <source>Current location</source>
-        <translation type="unfinished"></translation>
+        <translation>Localização actual</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="166"/>
         <source>Settings - Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurações - Outras</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="216"/>
         <source>Database - Catalog</source>
-        <translation type="unfinished"></translation>
+        <translation>Base de dados - Catálogo</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="272"/>
         <source>Database - Thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Base de dados - Miniaturas</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="313"/>
         <source>Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuração</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="324"/>
         <source>Current user (recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizador actual (recomendado)</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="329"/>
         <source>Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation>Máquina local</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="334"/>
         <source>Portable</source>
-        <translation type="unfinished"></translation>
+        <translation>Portátil</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="339"/>
         <source>Custom</source>
-        <translation type="unfinished">Personalizado</translation>
+        <translation>Personalizado</translation>
     </message>
 </context>
 <context>
@@ -13814,7 +13814,7 @@ Pretende reatribuir?</translation>
         <location filename="DlgSettingsView.ui" line="129"/>
         <source>Use transparency grid (checkerboard pattern)</source>
         <oldsource>Use checkboard pattern as background</oldsource>
-        <translation type="unfinished">Usar padrão em xadrez como fundo</translation>
+        <translation>Usar grelha de transparência (padrão em xadrez)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="382"/>
@@ -13870,7 +13870,7 @@ Pretende reatribuir?</translation>
         <location filename="DlgSettingsView.ui" line="528"/>
         <source>Reset X/Y position on file change (No fit)</source>
         <oldsource>Reset X/Y (No fit)</oldsource>
-        <translation type="unfinished">Repor XY (não ajustar)</translation>
+        <translation>Na modificação do ficheiro, repor posição X/Y (não ajustar)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="549"/>
@@ -13954,7 +13954,7 @@ Pretende reatribuir?</translation>
         <location filename="DlgSettingsView.ui" line="493"/>
         <source>Scale on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
         <oldsource>Zoom on HiDPI screen: 1 image pixel equals 1 screen pixel</oldsource>
-        <translation type="unfinished">Ampliar em écran de alta resolução: 1 pixel de imaem por 1 pixel de écran</translation>
+        <translation>Ampliar em écran HiDPI: 1 pixel de imaem por 1 pixel de écran</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="678"/>
@@ -13994,7 +13994,7 @@ Pretende reatribuir?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="435"/>
         <source>Antialiasing</source>
-        <translation type="unfinished"></translation>
+        <translation>Anti-aliasing</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="441"/>
@@ -14723,22 +14723,22 @@ Pretende reatribuir?</translation>
     <message>
         <location filename="DlgStartupWizard.ui" line="87"/>
         <source>Current user (recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizador actual (recomendado)</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="92"/>
         <source>Current user (Windows registry)</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizador actual (registo do Windows)</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="97"/>
         <source>Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation>Máquina local</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="102"/>
         <source>Portable (application folder)</source>
-        <translation type="unfinished"></translation>
+        <translation>Portátil (pasta de aplicação)</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="128"/>
@@ -18032,7 +18032,7 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
         <location filename="InfoIPTCView.cpp" line="26"/>
         <location filename="IptcHelper.cpp" line="18"/>
         <source>Local caption</source>
-        <translation type="unfinished"></translation>
+        <translation>Legenda</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="65"/>
@@ -19261,7 +19261,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="BrowserMenu.h" line="644"/>
         <source>Show channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar canal</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="657"/>
@@ -21472,17 +21472,17 @@ Deseja continuar?</translation>
     <message>
         <location filename="ViewMenu.h" line="449"/>
         <source>Use antialiasing</source>
-        <translation type="unfinished"></translation>
+        <translation>Usar anti-aliasing</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="450"/>
         <source>Use transparency grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Usar grelha de transparência</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="451"/>
         <source>Show channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar canal</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="453"/>
