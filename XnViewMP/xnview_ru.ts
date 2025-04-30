@@ -6405,12 +6405,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertRotate.ui" line="208"/>
         <source>Only portrait</source>
-        <translation>Только портретный</translation>
+        <translation>Только портретные</translation>
     </message>
     <message>
         <location filename="DlgConvertRotate.ui" line="213"/>
         <source>Only landscape</source>
-        <translation>Только альбомный</translation>
+        <translation>Только альбомные</translation>
     </message>
 </context>
 <context>
