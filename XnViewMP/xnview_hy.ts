@@ -2037,7 +2037,7 @@ Drag and Drop over the desired node to assign.</translation>
     </message>
     <message>
         <source>Check for program updates</source>
-        <translation>Ստուգել  թարմացումները</translation>
+        <translation>Ստուգել թարմացումները</translation>
     </message>
     <message>
         <source>Never</source>
@@ -2705,11 +2705,11 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Letter (8.5x11 inch)</source>
-        <translation>Նամակ  (8.5x11 դյույմ)</translation>
+        <translation>Նամակ (8.5x11 դյույմ)</translation>
     </message>
     <message>
         <source>Legal (8.5x14 inch)</source>
-        <translation>Իրավական ( (8.5x14 դյույմ)</translation>
+        <translation>Իրավական (8.5x14 դյույմ)</translation>
     </message>
     <message>
         <source>A4 (21.0x29.7cm)</source>
@@ -3821,7 +3821,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Check for program updates</source>
-        <translation>Ստուգել  թարմացումները</translation>
+        <translation>Ստուգել թարմացումները</translation>
     </message>
     <message>
         <source>Keep folder structure</source>
@@ -11329,7 +11329,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Check for program updates</source>
-        <translation>Ստուգել  թարմացումները</translation>
+        <translation>Ստուգել թարմացումները</translation>
     </message>
     <message>
         <source>Startup Wizard</source>
