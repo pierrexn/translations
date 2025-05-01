@@ -11036,7 +11036,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSetDpi.ui" line="144"/>
         <source>Change EXIF DPI if exists</source>
-        <translation>Varsa EXIF ​​DPI&apos;yı değiştirin</translation>
+        <translation>Varsa EXIF DPI&apos;yı değiştirin</translation>
     </message>
 </context>
 <context>
@@ -22294,7 +22294,7 @@ You can change it in Settings › Catalog.</oldsource>
         <location filename="PaintWidget.ui" line="503"/>
         <source>Style</source>
         <oldsource>Style:</oldsource>
-        <translation type="unfinished">Stil:</translation>
+        <translation>Stil</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="531"/>
@@ -22315,13 +22315,13 @@ You can change it in Settings › Catalog.</oldsource>
         <location filename="PaintWidget.ui" line="520"/>
         <source>Fill</source>
         <oldsource>Fill:</oldsource>
-        <translation type="unfinished">Doldur:</translation>
+        <translation>Doldur</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="549"/>
         <source>Arrows</source>
         <oldsource>Arrows:</oldsource>
-        <translation type="unfinished">Oklar:</translation>
+        <translation>Oklar</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="829"/>
