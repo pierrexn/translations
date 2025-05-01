@@ -3586,7 +3586,9 @@ Do you want to overwrite it?</oldsource>
 
 Do you want to go on the download page?</source>
         <oldsource>The %1 version of XnConvert is available, do you want to go on the download page?</oldsource>
-        <translation>La versió %1 de XnConvert està disponible.  Voleu anar a la pàgina de descàrrega?</translation>
+        <translation>La versió %1 de XnConvert està disponible.
+
+Voleu anar a la pàgina de descàrrega?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1527"/>
@@ -8937,7 +8939,7 @@ Sisplau comproveu que els fitxers no siguin de sols lectura!</translation>
         <location filename="DlgIptc.ui" line="749"/>
         <source>Remember opened tab</source>
         <oldsource>Open last opened tab</oldsource>
-        <translation>Recorda la darrera pestanya oberta</translation>
+        <translation>Recorda la darrera pestanya usada</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="889"/>
@@ -16092,7 +16094,7 @@ Vols continuar?</translation>
     <message>
         <location filename="EditXMPWidget.ui" line="705"/>
         <source>Remember opened tab</source>
-        <translation>Recorda  la darrera pestanya usada</translation>
+        <translation>Recorda la darrera pestanya usada</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="70"/>
