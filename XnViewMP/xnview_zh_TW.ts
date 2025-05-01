@@ -340,8 +340,8 @@
         <oldsource>Do you want to save changes to
 &quot;%1&quot;?
 </oldsource>
-        <translation type="unfinished">您要將改變內容存到 &apos;%1&apos; 嗎?
-</translation>
+        <translation>您要將改變內容存到嗎
+&quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="238"/>
