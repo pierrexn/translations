@@ -258,7 +258,7 @@
     <message>
         <location filename="AboutWindow.h" line="24"/>
         <source>About</source>
-        <translation>Àcerca de</translation>
+        <translation>Acerca de</translation>
     </message>
 </context>
 <context>
@@ -2006,7 +2006,7 @@ Arrastar e largar sobre o nó pretendido.</translation>
     <message>
         <location filename="DlgAbout.ui" line="14"/>
         <source>About</source>
-        <translation>Àcerca de</translation>
+        <translation>Acerca de</translation>
     </message>
 </context>
 <context>
@@ -2646,7 +2646,7 @@ Arrastar e largar sobre o nó pretendido.</translation>
     <message>
         <location filename="DlgBatchResize.ui" line="1193"/>
         <source>Estimated end time:</source>
-        <translation>Tempo estimado até terminar:</translation>
+        <translation>Hora estimada da conclusão:</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1223"/>
@@ -2706,7 +2706,7 @@ Arrastar e largar sobre o nó pretendido.</translation>
     <message>
         <location filename="DlgBatchResize.ui" line="199"/>
         <source>About</source>
-        <translation>Àcerca de</translation>
+        <translation>Acerca de</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1364"/>
@@ -4841,7 +4841,7 @@ Deseja continuar?</translation>
         <location filename="DlgConvert.ui" line="1829"/>
         <location filename="DlgConvert-old.ui" line="1763"/>
         <source>About</source>
-        <translation>Àcerca de</translation>
+        <translation>Acerca de</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1543"/>
@@ -5110,7 +5110,7 @@ Deseja continuar?</translation>
         <location filename="DlgConvert.ui" line="1353"/>
         <location filename="DlgConvert-old.ui" line="1683"/>
         <source>Estimated end time:</source>
-        <translation>Tempo estimado até terminar:</translation>
+        <translation>Hora estimada da conclusão:</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1383"/>
@@ -20383,7 +20383,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="xnview.cpp" line="1445"/>
         <source>About</source>
-        <translation>Àcerca de</translation>
+        <translation>Acerca de</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1446"/>
