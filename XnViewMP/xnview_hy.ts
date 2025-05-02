@@ -3809,7 +3809,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Convert multipage file to multipage file (when possible)</source>
-        <translation>Փոխարկել բազմաէջային ֆայլը  բազմաէջային ֆայլի (երբ հնարավոր է)</translation>
+        <translation>Փոխարկել բազմաէջային ֆայլը բազմաէջային ֆայլի (երբ հնարավոր է)</translation>
     </message>
     <message>
         <source>Load last script used at startup</source>
@@ -4295,7 +4295,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Output profile (sRGB by default)</source>
-        <translation>Արտածել  պրոֆիլ (sRGB-ն սկզբնադիր)</translation>
+        <translation>Արտածել պրոֆիլ (sRGB-ն սկզբնադիր)</translation>
     </message>
     <message>
         <source>Ignore embedded profile</source>
@@ -4390,7 +4390,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>XMP, update or create IPTC-IIM</source>
-        <translation>XMP, թարմացրեք կամ ստեղծեք  IPTC-IIM</translation>
+        <translation>XMP, թարմացրեք կամ ստեղծեք IPTC-IIM</translation>
     </message>
     <message>
         <source>Works only for JPEG, TIFF, PNG output format</source>
@@ -6371,7 +6371,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Unable to load the file %1: %2.</source>
-        <translation>Հնարավոր չէ բեռնել  %1: %2 ֆայլը։</translation>
+        <translation>Հնարավոր չէ բեռնել %1: %2 ֆայլը։</translation>
     </message>
     <message>
         <source>The file called %1 doesn&apos;t exist.</source>
@@ -7040,7 +7040,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>IPTC-IIM, update or create XMP</source>
-        <translation>IPTC-IIM, թարմացրեք կամ ստեղծեք  XMP</translation>
+        <translation>IPTC-IIM, թարմացրեք կամ ստեղծեք XMP</translation>
     </message>
     <message>
         <source>XMP, update or create IPTC-IIM</source>
@@ -9455,7 +9455,7 @@ Thumbnail</source>
     </message>
     <message>
         <source>Make backup for lossless crop</source>
-        <translation>Դարձնել պահուստ անկորուստ եզրատելու  համար</translation>
+        <translation>Դարձնել պահուստ անկորուստ եզրատելու համար</translation>
     </message>
     <message>
         <source>Make backup for other lossless operations</source>
@@ -9662,7 +9662,7 @@ Thumbnail</source>
     </message>
     <message>
         <source>Browse with XnViewMP</source>
-        <translation>Նայել  XnViewMP-ով</translation>
+        <translation>Նայել XnViewMP-ով</translation>
     </message>
     <message>
         <source>XnViewMP is a fast multi-format graphics browser, viewer, and converter. It reads more than 400 file formats.</source>
@@ -12400,7 +12400,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>(Use | to separate keywords in hierarchy)</source>
-        <translation>(Օգտ.  | ՝ արժեքները տարանջատելու համար)</translation>
+        <translation>(Օգտ. | ՝ արժեքները տարանջատելու համար)</translation>
     </message>
     <message>
         <source>Apply parent categories</source>
@@ -12440,7 +12440,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>XMP, update or create IPTC-IIM</source>
-        <translation>XMP, թարմացնել կամ ստեղծել IPTC-IIM</translation>
+        <translation>XMP, թարմացրեք կամ ստեղծեք IPTC-IIM</translation>
     </message>
     <message>
         <source>Multiple selection</source>
@@ -14651,7 +14651,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Rotate based on EXIF orientation field</source>
-        <translation>Պտտել՝ հիմնվելով  EXIF նշանակության վրա</translation>
+        <translation>Պտտել՝ հիմնվելով EXIF նշանակության վրա</translation>
     </message>
     <message>
         <source>Reset EXIF orientation field</source>
@@ -15047,7 +15047,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Previous page</source>
-        <translation>Նախորդ  էջը</translation>
+        <translation>Նախորդ էջը</translation>
     </message>
     <message>
         <source>Categories</source>
@@ -15717,7 +15717,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>b - Abbreviated month name (eg. feb)</source>
-        <translation>b - Ամսվա կրճատ օրը  (Օր.՝ փետ)</translation>
+        <translation>b - Ամսվա կրճատ օրը (Օր.՝ փետ)</translation>
     </message>
     <message>
         <source>EXIF - Camera</source>
@@ -15868,7 +15868,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Rotate based on EXIF orientation field</source>
-        <translation>Պտտել՝ հիմնվելով  EXIF նշանակության վրա</translation>
+        <translation>Պտտել՝ հիմնվելով EXIF նշանակության վրա</translation>
     </message>
     <message>
         <source>Reset EXIF orientation field</source>
@@ -16964,7 +16964,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>[Free disk space: %1 %2]</source>
-        <translation>[Պնակի վրա ազատ է՝  %1 %2]</translation>
+        <translation>[Պնակի վրա ազատ է՝ %1 %2]</translation>
     </message>
     <message>
         <source>Updating catalog, please wait...</source>
@@ -17565,11 +17565,11 @@ Right Click for pop-up menu with actions.</source>
     </message>
     <message>
         <source>5 MB/s (00:00:15 remaining)</source>
-        <translation>5 Մբ/վ (Մնացել է  00:00:15)</translation>
+        <translation>5 Մբ/վ (Մնացել է 00:00:15)</translation>
     </message>
     <message>
         <source>10 MB of 100 MB completed</source>
-        <translation>10 ՄԲ-ը  100 ՄԲ-ից ավարտվել է</translation>
+        <translation>10 ՄԲ-ը 100 ՄԲ-ից ավարտվել է</translation>
     </message>
     <message>
         <source>0 / 1 dirs</source>
@@ -17589,7 +17589,7 @@ Right Click for pop-up menu with actions.</source>
     </message>
     <message>
         <source>100% of %1 (Done)</source>
-        <translation>100%  %1-ից (Պատրաստ է)</translation>
+        <translation>100% %1-ից (Պատրաստ է)</translation>
     </message>
     <message>
         <source>2 / 5 files</source>
@@ -17613,7 +17613,7 @@ Right Click for pop-up menu with actions.</source>
     </message>
     <message>
         <source>%1/s ( %2 remaining )</source>
-        <translation>%1/վ (Մնացել է  %2)</translation>
+        <translation>%1/վ (Մնացել է %2)</translation>
     </message>
     <message>
         <source>Moving...</source>
