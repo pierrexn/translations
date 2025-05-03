@@ -101,7 +101,7 @@
     </message>
     <message>
         <source>Unrated</source>
-        <translation>Luokittelematon</translation>
+        <translation>Arvioimattomat</translation>
     </message>
     <message>
         <source>Personal</source>
@@ -428,7 +428,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     <name>BookmarksModel</name>
     <message>
         <source>Label</source>
-        <translation>Ikkuna</translation>
+        <translation>Tunniste</translation>
     </message>
     <message>
         <source>Pathname</source>
@@ -593,11 +593,11 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>Catalog Filter</source>
-        <translation>Luettelosuodin</translation>
+        <translation>Katalogisuodatin</translation>
     </message>
     <message>
         <source>&lt;Catalog filter results&gt;</source>
-        <translation>&lt;Luettelon suodatustulokset&gt;</translation>
+        <translation>&lt;Katalogin suodatustulokset&gt;</translation>
     </message>
     <message>
         <source>Start slideshow</source>
@@ -638,7 +638,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <name>CategoryModel</name>
     <message>
         <source>Label</source>
-        <translation>Ikkuna</translation>
+        <translation>Tunniste</translation>
     </message>
 </context>
 <context>
@@ -1521,7 +1521,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>Colour Label</source>
-        <translation>Värimerkintä</translation>
+        <translation>Väritunniste</translation>
     </message>
     <message>
         <source>Uncategorized</source>
@@ -1537,7 +1537,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>Rating</source>
-        <translation>Luokitus</translation>
+        <translation>Arvio</translation>
     </message>
     <message>
         <source>Tag (%1)</source>
@@ -2172,7 +2172,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>Rotate images according to EXIF orientation tag</source>
-        <translation>Käännä kuvia EXIF-suuntaustunnisteen mukaan</translation>
+        <translation>Käännä kuvat Exif-tietojen suuntaustagien perusteella</translation>
     </message>
     <message>
         <source>+90° (clockwise)</source>
@@ -2464,7 +2464,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>EXIF thumbnail</source>
-        <translation>EXIF-pienoiskuva</translation>
+        <translation>Exif-pienoiskuva</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -3889,7 +3889,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Rotate images according to EXIF orientation tag</source>
-        <translation>Käännä kuvia EXIF-suuntaustunnisteen mukaan</translation>
+        <translation>Käännä kuvatExif-tietojen suuntaustagien perusteella</translation>
     </message>
     <message>
         <source>Add files...</source>
@@ -4008,7 +4008,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>EXIF thumbnail</source>
-        <translation>EXIF-eikkukuva</translation>
+        <translation>Exif-pienoiskuva</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -4194,7 +4194,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Magenta</source>
-        <translation>Purppura</translation>
+        <translation>Magenta</translation>
     </message>
     <message>
         <source>Yellow</source>
@@ -4452,7 +4452,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>based on EXIF rotation value</source>
-        <translation>EXIF suuntausmerkintöjen mukaisesti</translation>
+        <translation>Exif-tietojen suuntaustagien perusteella</translation>
     </message>
     <message>
         <source>90° to the left</source>
@@ -4940,7 +4940,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>EXIF Orientation</source>
-        <translation>EXIF-suuntaus</translation>
+        <translation>Exif-suuntaus</translation>
     </message>
 </context>
 <context>
@@ -5409,7 +5409,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>View as:</source>
-        <translation>Näytä:</translation>
+        <translation>Näyttötapa:</translation>
     </message>
 </context>
 <context>
@@ -5486,7 +5486,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Catalog maintenance</source>
-        <translation>Luettelon ylläpito</translation>
+        <translation>Katalogin ylläpito</translation>
     </message>
     <message>
         <source>Purge file data</source>
@@ -5564,7 +5564,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>ExifTool is not installed in AddOn folder!</source>
-        <translation>ExifToolia ei ole asennettu Liitännäiset-kansioon!</translation>
+        <translation>ExifToolia ei ole asennettu AddOn-kansioon!</translation>
     </message>
     <message>
         <source>Longitude</source>
@@ -5926,19 +5926,19 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     </message>
     <message>
         <source>Export all files from catalog</source>
-        <translation>Vie kaikki tiedostot luettelosta</translation>
+        <translation>Vie katalogin kaikki tiedostot</translation>
     </message>
     <message>
         <source>Categories file</source>
-        <translation>Kategoria-tiedosto</translation>
+        <translation>Kategoriatiedosto</translation>
     </message>
     <message>
         <source>Catalog export</source>
-        <translation>Luettelon vienti</translation>
+        <translation>Katalogin vienti</translation>
     </message>
     <message>
         <source>Export Rating &amp;&amp; Color labels</source>
-        <translation>Vie luokitus &amp;&amp; värimerkinnät</translation>
+        <translation>Vie arviot ja väritunnisteet</translation>
     </message>
 </context>
 <context>
@@ -6021,7 +6021,7 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     </message>
     <message>
         <source>Keep EXIF</source>
-        <translation>Pidä EXIF</translation>
+        <translation>Säilytä Exif-tiedot</translation>
     </message>
     <message>
         <source>Keep IPTC</source>
@@ -6567,7 +6567,7 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     </message>
     <message>
         <source>Label</source>
-        <translation>Ikkuna</translation>
+        <translation>Tunniste</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -6764,7 +6764,7 @@ ja luodaan alikansiot. </translation>
     </message>
     <message>
         <source>Extensions (; to separate)</source>
-        <translation>Tiedostopäätteet (erota ; llä)</translation>
+        <translation>Tiedostopäätteet (erottele puolipistein ;)</translation>
     </message>
     <message>
         <source>New filename</source>
@@ -6800,7 +6800,7 @@ ja luodaan alikansiot. </translation>
     </message>
     <message>
         <source>Categories to assign (use ; to separate categories)</source>
-        <translation>Määritettävät kategoriat (käytä ; kategorien erottamiseen)</translation>
+        <translation>Määritettävät kategoriat (erottele puolipistein ;)</translation>
     </message>
 </context>
 <context>
@@ -6840,7 +6840,7 @@ Haluatko tallentaa muutokset?</translation>
     </message>
     <message>
         <source>EXIF date/time modified (if exists)</source>
-        <translation>EXIF muokkauspäivä/aika (jos olemassa)</translation>
+        <translation>Exif-muokkauspäivä/aika (jos olemassa)</translation>
     </message>
     <message>
         <source>8: Low</source>
@@ -6892,7 +6892,7 @@ Haluatko tallentaa muutokset?</translation>
     </message>
     <message>
         <source>EXIF date/time digitized (if exists)</source>
-        <translation>EXIF digitointipäivä/aika (jos olemassa)</translation>
+        <translation>Exif-digitointipäivä/aika (jos olemassa)</translation>
     </message>
     <message>
         <source>Edit history...</source>
@@ -6912,7 +6912,7 @@ Haluatko tallentaa muutokset?</translation>
     </message>
     <message>
         <source>EXIF date/time taken (if exists)</source>
-        <translation>EXIF kuvauspäivä/aika (jos olemassa)</translation>
+        <translation>Exif-kuvauspäivä/aika (jos olemassa)</translation>
     </message>
     <message>
         <source>Required field</source>
@@ -7130,7 +7130,7 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     <name>DlgKeywordProperties</name>
     <message>
         <source>Label</source>
-        <translation>Ikkuna</translation>
+        <translation>Tunniste</translation>
     </message>
     <message>
         <source>Parent category</source>
@@ -7226,11 +7226,11 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     </message>
     <message>
         <source>Catalog</source>
-        <translation>Luettelo</translation>
+        <translation>Katalogi</translation>
     </message>
     <message>
         <source>Catalog Thumbnails</source>
-        <translation>Luettelokuvakkeet</translation>
+        <translation>Katalogin pienoiskuvat</translation>
     </message>
 </context>
 <context>
@@ -8585,7 +8585,7 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Search in Catalog only</source>
-        <translation>Hae vain katalogista</translation>
+        <translation>Etsi vain katalogista</translation>
     </message>
     <message>
         <source>Search in subfolders</source>
@@ -8634,7 +8634,7 @@ Haluatko poistaa ne?</translation>
     <name>DlgSetDpi</name>
     <message>
         <source>Change EXIF DPI if exists</source>
-        <translation>Muuta EXIF DPI jos sellainen on</translation>
+        <translation>Muuta Exif-tietojen DPI (jos olemassa)</translation>
     </message>
     <message>
         <source>Print size:</source>
@@ -8657,7 +8657,7 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Catalog</source>
-        <translation>Luettelo</translation>
+        <translation>Katalogi</translation>
     </message>
     <message>
         <source>Browser</source>
@@ -8744,7 +8744,7 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Luokitus</translation>
+        <translation>Arvio</translation>
     </message>
     <message>
         <source>Use lossless rotation (if possible)</source>
@@ -8772,15 +8772,15 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Thumbnails + Labels</source>
-        <translation>Pienoiskuvat + tietoikkuna</translation>
+        <translation>Pienoiskuvat + tunnisteet</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation>Tiedot</translation>
+        <translation>Lisätiedot</translation>
     </message>
     <message>
         <source>Thumbnails + Details</source>
-        <translation>Pienoiskuvat + tiedot</translation>
+        <translation>Pienoiskuvat + lisätiedot</translation>
     </message>
     <message>
         <source>ToolBar</source>
@@ -8792,11 +8792,11 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>View as</source>
-        <translation>Näytä</translation>
+        <translation>Näyttötapa</translation>
     </message>
     <message>
         <source>Show ratings</source>
-        <translation>Näytä luokitukset</translation>
+        <translation>Näytä arviot</translation>
     </message>
     <message>
         <source>Favorites</source>
@@ -8804,7 +8804,7 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Change EXIF orientation ONLY (if possible)</source>
-        <translation>Muuta VAIN EXIF-suuntaus (jos mahdolliata)</translation>
+        <translation>Muuta VAIN Exif-tietojen suuntaus (jos mahdollista)</translation>
     </message>
     <message>
         <source>Preview background color</source>
@@ -8867,7 +8867,7 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Catalog maintenance [Catalog size %1 %2 - %3 %4]</source>
-        <translation>Luettelon ylläpito [Luettelon koko %1 %2 - %3 %4]</translation>
+        <translation>Katalogin ylläpito [katalogin koko %1 %2 - %3 %4]</translation>
     </message>
     <message>
         <source>Excluded</source>
@@ -8875,7 +8875,7 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Catalog - Absolute/Relative paths</source>
-        <translation>Luettelo - Absoluuttiset-/Suhteelliset polut</translation>
+        <translation>Katalogi - Absoluuttiset/suhteelliset polut</translation>
     </message>
     <message>
         <source>Changing &apos;base path&apos; may disconnect files stored in database. 
@@ -8889,7 +8889,7 @@ Haluatko muuttaa &quot;peruspolkua&quot;?</translation>
     </message>
     <message>
         <source>Catalog - Remove Entries</source>
-        <translation>Luettelo - Poista merkinnät</translation>
+        <translation>Katalogi - Poista tietueet</translation>
     </message>
     <message>
         <source>Catalog entries with Categories, Rating &amp; Color labels will be removed. 
@@ -8898,43 +8898,43 @@ If information is exported into embedded or sidecar metadata,
 you&apos;ll be able to re-import later.
 
 Do you want to remove entries assigned to a Category?</source>
-        <translation>Luetteloimerkinnät, kategorioineen-, luokituksineen ja värmerkintöineen, poistetaan.
+        <translation>Katalogin tietueet, sekä niiden kategoriat, arviot ja väritunnisteet, poistetaan.
 
-Jos tiedot viedään upotettuihin tai sivuvaunu-metatietoihin,
+Jos tiedot viedään upotettuihin tai erillisiin metatietoihin,
 voit tuoda ne myöhemmin uudelleen.
 
-Haluatko poistaa luokkaan määritetyt merkinnät?</translation>
+Haluatko poistaa kategoriaan määritetyt tietueet?</translation>
     </message>
     <message>
         <source>Catalog - Synchronize Folders</source>
-        <translation>Luettelo - Synkronoi kansiot</translation>
+        <translation>Katalogi - Synkronoi kansiot</translation>
     </message>
     <message>
         <source>All orphaned files will be deleted from Catalog.
 
 Do you want to continue?</source>
-        <translation>Kaikki orvot tiedostot poistetaan luettelosta.
+        <translation>Katalogiista poistetaan kaikki orpotiedostot.
 
 Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Catalog - Relocate the folder</source>
-        <translation>Luettelo - Siirrä kansio</translation>
+        <translation>Katalogi - Siirrä kansio</translation>
     </message>
     <message>
         <source>Catalog Maintenance</source>
         <translatorcomment>Katalogin ylläpito</translatorcomment>
-        <translation>Luettelon ylläpito</translation>
+        <translation>Katalogin ylläpito</translation>
     </message>
     <message>
         <source>Some database entries with assigned Rating, 
 Color labels, Keywords may be deleted. 
 
 Do you want to check for affected entries first?</source>
-        <translation>Jotkut tietokantamerkinnät, joilla on määritetty luokitus,
-värimerkinnät, avainsanat voidaan poistaa.
+        <translation>Jotkin tietokantatietueita, joihin liittyy arvioita,
+väritunnisteita ja avainsanoja, saatetaan poistaa.
 
-Haluatko ensin tarkistaa vaikutuksen alaisia merkintöjä?</translation>
+Haluatko ensin tarkastaa tiedot, joihin tämä vaikuttaa?</translation>
     </message>
     <message>
         <source>Can&apos;t import XnView Classic category database</source>
@@ -9025,7 +9025,7 @@ Haluatko ensin tarkistaa vaikutuksen alaisia merkintöjä?</translation>
     </message>
     <message>
         <source>Catalog</source>
-        <translation>Luettelo</translation>
+        <translation>Katalogi</translation>
     </message>
     <message>
         <source>Relocate...</source>
@@ -9041,11 +9041,11 @@ Haluatko ensin tarkistaa vaikutuksen alaisia merkintöjä?</translation>
     </message>
     <message>
         <source>Enable Catalog</source>
-        <translation>Käytä luetteloa</translation>
+        <translation>Käytä katalogia</translation>
     </message>
     <message>
         <source>Check integrity of catalog at startup</source>
-        <translation>Tarkista luettelon eheys käynnistyksessä</translation>
+        <translation>Tarkasta katalogin eheys käynnistettäessä</translation>
     </message>
     <message>
         <source>Excluded/Included</source>
@@ -9248,7 +9248,7 @@ pienoiskuvina</translation>
     </message>
     <message>
         <source>View as</source>
-        <translation>Näytä</translation>
+        <translation>Näyttötapa</translation>
     </message>
     <message>
         <source>Display file size in bytes</source>
@@ -9465,7 +9465,7 @@ pienoiskuvina</translation>
     </message>
     <message>
         <source>Show all graphic formats</source>
-        <translation>Näytä kaikki kuvaformaatit</translation>
+        <translation>Näytä kaikki grafiikkamuodot</translation>
     </message>
     <message>
         <source>Directory</source>
@@ -9533,7 +9533,7 @@ pienoiskuvina</translation>
     </message>
     <message>
         <source>Use EXIF DPI (if exists)</source>
-        <translation>Käytä EXIF DPI:tä (jos mahdollista)</translation>
+        <translation>Käytä Exif-tietojen DPI-arvoa (jos olemassa)</translation>
     </message>
     <message>
         <source>Check for program updates</source>
@@ -9617,7 +9617,7 @@ pienoiskuvina</translation>
     </message>
     <message>
         <source>Auto-rotate images according to EXIF orientation tag</source>
-        <translation>Autom. kuvan kääntö EXIF-suuntaustunnisteen mukaan</translation>
+        <translation>Käännä kuvat automaattisesti Exif-tagien perusteella</translation>
     </message>
     <message>
         <source>Color management</source>
@@ -9625,7 +9625,7 @@ pienoiskuvina</translation>
     </message>
     <message>
         <source>Allow only one application instance</source>
-        <translation>Salli vain yksi sovellusesiintymä</translation>
+        <translation>Salli sovelluksesta vain yksi esiintymä</translation>
     </message>
     <message>
         <source>Save changes to file</source>
@@ -9684,7 +9684,7 @@ pienoiskuvina</translation>
     </message>
     <message>
         <source>Same as Catalog</source>
-        <translation>Sama kuin luettelo</translation>
+        <translation>Sama kuin katalogi</translation>
     </message>
     <message>
         <source>File Associations</source>
@@ -9708,19 +9708,19 @@ pienoiskuvina</translation>
     </message>
     <message>
         <source>System - Current user</source>
-        <translation type="unfinished"></translation>
+        <translation>Järjestelmä - Nykyinen käyttäjä</translation>
     </message>
     <message>
         <source>System - Current user (Windows registry)</source>
-        <translation type="unfinished"></translation>
+        <translation>Järjestelmä - Nykyinen käyttäjä (Windowsin rekisteri)</translation>
     </message>
     <message>
         <source>System - Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation>Järjestelmä - Paikallinen tietokone</translation>
     </message>
     <message>
         <source>Application folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Sovelluskansio</translation>
     </message>
 </context>
 <context>
@@ -9743,43 +9743,43 @@ pienoiskuvina</translation>
     </message>
     <message>
         <source>Settings - General</source>
-        <translation type="unfinished"></translation>
+        <translation>Asetukset - Yleiset</translation>
     </message>
     <message>
         <source>Current location</source>
-        <translation type="unfinished"></translation>
+        <translation>Nykyinen sijainti</translation>
     </message>
     <message>
         <source>Settings - Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Asetukset - Muut</translation>
     </message>
     <message>
         <source>Database - Catalog</source>
-        <translation type="unfinished"></translation>
+        <translation>Tietokanta - Katalogi</translation>
     </message>
     <message>
         <source>Database - Thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Tietokanta - Pienoiskuvat</translation>
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Asetukset</translation>
     </message>
     <message>
         <source>Current user (recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nykyinen käyttäjä (suositus)</translation>
     </message>
     <message>
         <source>Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation>Paikallinen tietokone</translation>
     </message>
     <message>
         <source>Portable</source>
-        <translation type="unfinished"></translation>
+        <translation>Kannettava</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">Mukautettu</translation>
+        <translation>Mukautettu</translation>
     </message>
 </context>
 <context>
@@ -9806,11 +9806,11 @@ pienoiskuvina</translation>
     </message>
     <message>
         <source>Label:</source>
-        <translation>Ikkuna:</translation>
+        <translation>Tunniste:</translation>
     </message>
     <message>
         <source>Set label</source>
-        <translation>Aseta ikkuna</translation>
+        <translation>Aseta tunniste</translation>
     </message>
     <message>
         <source>Browse mode</source>
@@ -9895,7 +9895,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Set label...</source>
-        <translation>Aseta ikkuna...</translation>
+        <translation>Aseta tunniste...</translation>
     </message>
     <message>
         <source>Close button</source>
@@ -10183,11 +10183,11 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>EXIF date taken</source>
-        <translation>EXIF kuvauspäivä</translation>
+        <translation>Exif-kuvauspäivä</translation>
     </message>
     <message>
         <source>EXIF date modified</source>
-        <translation>EXIF -muokkauspäivä</translation>
+        <translation>Exif-muokkauspäivä</translation>
     </message>
     <message>
         <source>Filename</source>
@@ -10249,7 +10249,7 @@ Haluatko määrittää uudelleen?</translation>
     <name>DlgSettingsKeywordsClass</name>
     <message>
         <source>Label</source>
-        <translation>Merkintä</translation>
+        <translation>Tunniste</translation>
     </message>
     <message>
         <source>Write</source>
@@ -10281,7 +10281,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Read (separated by ,)</source>
-        <translation>Lue (erota pilkulla , )</translation>
+        <translation>Luku (erottele pilkuin ,)</translation>
     </message>
     <message>
         <source>Read hierarchical keywords from images as categories</source>
@@ -10301,7 +10301,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>EXIF Copyright</source>
-        <translation>EXIF-tekijänoikeudet</translation>
+        <translation>Exif-tekijänoikeus</translation>
     </message>
     <message>
         <source>Use UTF-8 to write IPTC fields</source>
@@ -10345,7 +10345,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Color labels</source>
-        <translation>Värimerkinnät</translation>
+        <translation>Väritunnisteet</translation>
     </message>
     <message>
         <source>Import</source>
@@ -10357,11 +10357,11 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Luokitus</translation>
+        <translation>Arvio</translation>
     </message>
     <message>
         <source>Color label</source>
-        <translation>Värimerkintä</translation>
+        <translation>Väritunniste</translation>
     </message>
     <message>
         <source>Categories</source>
@@ -10416,7 +10416,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Spacing between labels</source>
-        <translation>Tyhjä tila Ikkunoiden välissä</translation>
+        <translation>Tyhjä tila tunnisteiden välissä</translation>
     </message>
     <message>
         <source>Go to Thumbnail DB related settings &gt;&gt;</source>
@@ -10440,7 +10440,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Color label</source>
-        <translation>Värimerkintä</translation>
+        <translation>Väritunniste</translation>
     </message>
     <message>
         <source>Border</source>
@@ -10456,7 +10456,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Labels</source>
-        <translation>Muuta värimerkintöjä</translation>
+        <translation>Tunnisteet</translation>
     </message>
     <message>
         <source>Margin</source>
@@ -10464,7 +10464,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Luokitus</translation>
+        <translation>Arvio</translation>
     </message>
     <message>
         <source>Reset color</source>
@@ -10476,7 +10476,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Label alignment</source>
-        <translation>Ikkunajärjestys</translation>
+        <translation>Tunnisteiden asettelu</translation>
     </message>
     <message>
         <source>Face tag</source>
@@ -10512,7 +10512,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Custom label</source>
-        <translation>Määrittele tietoikkuna</translation>
+        <translation>Mukautettu tunniste</translation>
     </message>
     <message>
         <source>Border size</source>
@@ -10608,7 +10608,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Browser › View › View as › Thumbnails + Labels</source>
-        <translation>Kuvaselain › Näkymä › Näkymä nimellä › Esikatselukuvat + Tiedot</translation>
+        <translation>Kuvaselain › Näytä › Näyttötapa › Pienoiskuvat + tiedot</translation>
     </message>
     <message>
         <source>Frame&apos;s count</source>
@@ -10854,7 +10854,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Show Rating &amp;&amp; Color labels</source>
-        <translation>Näytä luokitus &amp;&amp; värimerkinnät</translation>
+        <translation>Näytä arvio ja väritunnisteet</translation>
     </message>
     <message>
         <source>(From Settings › File list › Custom Filter)</source>
@@ -10890,19 +10890,19 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Use transparency grid (checkerboard pattern)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Käytä läpinäkyvyysruudukkoa (shakkikuvio)</translation>
     </message>
     <message>
         <source>Antialiasing</source>
-        <translation type="unfinished"></translation>
+        <translation>Reunanpehmennys</translation>
     </message>
     <message>
         <source>Scale on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
-        <translation type="unfinished"></translation>
+        <translation>Skaalaus korkean DPI:n näytöillä: kuvan pikseli vastaa näytön pikseliä</translation>
     </message>
     <message>
         <source>Reset X/Y position on file change (No fit)</source>
-        <translation type="unfinished"></translation>
+        <translation>Palauta X/Y-sijainti tiedoston vaihtuessa (ei sovitusta)</translation>
     </message>
 </context>
 <context>
@@ -10957,7 +10957,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Extensions to ignore (separated by a space)</source>
-        <translation>Tiedostopäätteet joita ei huomioida (erota välilyönnillä)</translation>
+        <translation>Ohitettavat päätteet (erota välilyönnein)</translation>
     </message>
     <message>
         <source>Choose a directory</source>
@@ -11376,19 +11376,19 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Current user (recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nykyinen käyttäjä (suositus)</translation>
     </message>
     <message>
         <source>Current user (Windows registry)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nykyinen käyttäjä (Windowsin rekisteri)</translation>
     </message>
     <message>
         <source>Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation>Paikallinen tietokone</translation>
     </message>
     <message>
         <source>Portable (application folder)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kannettava (sovelluskansio)</translation>
     </message>
 </context>
 <context>
@@ -11537,7 +11537,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>EXIF: Date modified</source>
-        <translation>EXIF: Muokkauspäivä</translation>
+        <translation>Exif: Muokkauspäivä</translation>
     </message>
     <message>
         <source>Problem</source>
@@ -11545,7 +11545,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>EXIF: Date digitized</source>
-        <translation>EXIF: Digitointipäivä</translation>
+        <translation>Exif: Digitointipäivä</translation>
     </message>
     <message>
         <source>File created date</source>
@@ -11553,7 +11553,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>EXIF: Date taken</source>
-        <translation>EXIF: Kuvauspäivä</translation>
+        <translation>Exif: Kuvauspäivä</translation>
     </message>
     <message>
         <source>Modifying timestamp, please wait...</source>
@@ -11600,7 +11600,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>EXIF: Date modified</source>
-        <translation>EXIF: Muokkauspäivä</translation>
+        <translation>Exif: Muokkauspäivä</translation>
     </message>
     <message>
         <source>day(s)</source>
@@ -11612,7 +11612,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Create EXIF metadata if needed</source>
-        <translation>Luo EXIF-metadata jos se tarvitaan</translation>
+        <translation>Luo Exif-metatiedot (tarvittaessa)</translation>
     </message>
     <message>
         <source>seconds</source>
@@ -11620,7 +11620,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>EXIF: Date digitized</source>
-        <translation>EXIF: Digitointipäivä</translation>
+        <translation>Exif: Digitointipäivä</translation>
     </message>
     <message>
         <source>File: Created date</source>
@@ -11632,7 +11632,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>EXIF: Date taken</source>
-        <translation>EXIF: Kuvauspäivä</translation>
+        <translation>Exif: Kuvauspäivä</translation>
     </message>
     <message>
         <source>Increment at each image by</source>
@@ -12046,7 +12046,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Compression rate: 1 to </source>
-        <translation>Pakkaussuhde: 1 - </translation>
+        <translation>Pakkaussuhde: 1– </translation>
     </message>
     <message>
         <source>Lowest</source>
@@ -12081,7 +12081,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Rebuild embedded EXIF thumbnail</source>
-        <translation>Päivitä upotetut EXIF-pienoiskuvat</translation>
+        <translation>Päivitä upotetut Exif-pienoiskuvat</translation>
     </message>
     <message>
         <source>Lowest</source>
@@ -12375,7 +12375,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Luokitus</translation>
+        <translation>Arvio</translation>
     </message>
     <message>
         <source>Copyright status</source>
@@ -12407,7 +12407,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>(Use | to separate keywords in hierarchy)</source>
-        <translation>(Käytä | avainsanojen erottamiseen hierarkiassa)</translation>
+        <translation>(erottele avainsanat hierarkiassa merkillä |)</translation>
     </message>
     <message>
         <source>Apply parent categories</source>
@@ -12467,7 +12467,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>(Use ; or , to separate the values)</source>
-        <translation>(Käytä ; tai , erottaaksesi arvot)</translation>
+        <translation>(erottele arvot pilkuin , tai puolipistein ;)</translation>
     </message>
     <message>
         <source>0: None</source>
@@ -12658,7 +12658,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation>Tiedot</translation>
+        <translation>Lisätiedot</translation>
     </message>
     <message>
         <source>Choose a directory</source>
@@ -12705,11 +12705,11 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Color label</source>
-        <translation>Värimerkintä</translation>
+        <translation>Väritunniste</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Luokitus</translation>
+        <translation>Arvio</translation>
     </message>
     <message>
         <source>Orientation</source>
@@ -12721,15 +12721,15 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>EXIF Date taken</source>
-        <translation>EXIF kuvauspäivä</translation>
+        <translation>Exif-kuvauspäivä</translation>
     </message>
     <message>
         <source>EXIF Date modified</source>
-        <translation>EXIF muokkauspäivä</translation>
+        <translation>Exif-muokkauspäivä</translation>
     </message>
     <message>
         <source>EXIF ISO</source>
-        <translation>EXIF ISO</translation>
+        <translation>Exif ISO</translation>
     </message>
     <message>
         <source>Keywords</source>
@@ -12858,7 +12858,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Colour label</source>
-        <translation>Värimerkintä</translation>
+        <translation>Väritunniste</translation>
     </message>
     <message>
         <source>Format profile</source>
@@ -12870,7 +12870,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Frame rate mode</source>
-        <translation>Kehysnopeusmuoto</translation>
+        <translation>Kuvanopeuden tila</translation>
     </message>
     <message>
         <source>MPixels</source>
@@ -12902,11 +12902,11 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Bit rate mode</source>
-        <translation>Bittinopeusmuoto</translation>
+        <translation>Bittinopeuden tila</translation>
     </message>
     <message>
         <source>Frame rate</source>
-        <translation>Kehysnopeus</translation>
+        <translation>Kuvanopeus</translation>
     </message>
     <message>
         <source>Compression mode</source>
@@ -12926,11 +12926,11 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Color label (number)</source>
-        <translation>Värimerkintä (numero)</translation>
+        <translation>Väritunniste (numero)</translation>
     </message>
     <message>
         <source>Color label</source>
-        <translation>Värimerkintä</translation>
+        <translation>Väritunniste</translation>
     </message>
     <message>
         <source>Color model</source>
@@ -12978,7 +12978,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Luokitus</translation>
+        <translation>Arvio</translation>
     </message>
     <message>
         <source>Annotation</source>
@@ -13102,7 +13102,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Rating (number)</source>
-        <translation>Luokitus (numero)</translation>
+        <translation>Arvio (numero)</translation>
     </message>
     <message>
         <source>Height (cm)</source>
@@ -13374,7 +13374,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Resolution unit</source>
-        <translation>Resoluutioyksikkö</translation>
+        <translation>Resoluution yksikkö</translation>
     </message>
     <message>
         <source>Colour space</source>
@@ -13390,11 +13390,11 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>X-Resolution</source>
-        <translation>X-Resoluutio</translation>
+        <translation>X-resoluutio</translation>
     </message>
     <message>
         <source>Y-Resolution</source>
-        <translation>Y-Resoluutio</translation>
+        <translation>Y-resoluutio</translation>
     </message>
     <message>
         <source>Focal Length</source>
@@ -13414,7 +13414,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>F-Number</source>
-        <translation>F-Numero</translation>
+        <translation>F-numero</translation>
     </message>
     <message>
         <source>Flash energy</source>
@@ -13434,7 +13434,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Digital zoom</source>
-        <translation>Digital- zoomaus</translation>
+        <translation>Digitaalinen zoomaus</translation>
     </message>
     <message>
         <source>Image-ID</source>
@@ -13446,7 +13446,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Altitude</source>
-        <translation>Korkeusaste</translation>
+        <translation>Korkeus</translation>
     </message>
     <message>
         <source>Image height</source>
@@ -13454,11 +13454,11 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>35mm Focal length</source>
-        <translation>35mm Polttoväli</translation>
+        <translation>35 mm polttoväli</translation>
     </message>
     <message>
         <source>Scene type</source>
-        <translation>Kohtaustyyppi</translation>
+        <translation>Kohtauksen tyyppi</translation>
     </message>
     <message>
         <source>Exposure Time</source>
@@ -13478,7 +13478,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>XP Author</source>
-        <translation>XP.Luoja</translation>
+        <translation>XP Tekijä</translation>
     </message>
     <message>
         <source>Camera</source>
@@ -14000,7 +14000,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Local caption</source>
-        <translation type="unfinished"></translation>
+        <translation>Paikallinen otsikko</translation>
     </message>
 </context>
 <context>
@@ -14047,7 +14047,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Colour Label</source>
-        <translation>Värimerkintä</translation>
+        <translation>Väritunniste</translation>
     </message>
     <message>
         <source>File size</source>
@@ -14063,7 +14063,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Luokitus</translation>
+        <translation>Arvio</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
@@ -14586,7 +14586,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Update catalog from files</source>
-        <translation>Päivitä luettelo tiedostoista</translation>
+        <translation>Päivitä katalogi tiedostoista</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
@@ -14638,7 +14638,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Colour label</source>
-        <translation>Värimerkintä</translation>
+        <translation>Väritunniste</translation>
     </message>
     <message>
         <source>EXIF thumbnail - Rebuild</source>
@@ -14830,7 +14830,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>View as Thumbnails+Details</source>
-        <translation>Näytä pienoiskuvat + tiedot</translation>
+        <translation>Näytä pienoiskuvat + lisätiedot</translation>
     </message>
     <message>
         <source>New Folder</source>
@@ -14882,7 +14882,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Luokitus</translation>
+        <translation>Arvio</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -14914,7 +14914,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Update files from catalog</source>
-        <translation>Päivitä tiedostot luettelosta</translation>
+        <translation>Päivitä tiedostot katalogista</translation>
     </message>
     <message>
         <source>Orientation</source>
@@ -14934,7 +14934,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>View as Details</source>
-        <translation>Näytä tiedot</translation>
+        <translation>Näytä lisätiedot</translation>
     </message>
     <message>
         <source>Zoom out</source>
@@ -15146,7 +15146,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Thumbnails + Labels</source>
-        <translation>Pienoiskuvat + tietoikkuna</translation>
+        <translation>Pienoiskuvat + tunnisteet</translation>
     </message>
     <message>
         <source>Select none</source>
@@ -15202,7 +15202,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation>Tiedot</translation>
+        <translation>Lisätiedot</translation>
     </message>
     <message>
         <source>EXIF Date Taken</source>
@@ -15226,7 +15226,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Thumbnails + Details</source>
-        <translation>Pienoiskuvat + tiedot</translation>
+        <translation>Pienoiskuvat + lisätiedot</translation>
     </message>
     <message>
         <source>Tagged file(s)</source>
@@ -15278,7 +15278,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Unrated</source>
-        <translation>Luokittelematon</translation>
+        <translation>Arvioimaton</translation>
     </message>
     <message>
         <source>Metadata</source>
@@ -15294,7 +15294,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>View as</source>
-        <translation>Näytä</translation>
+        <translation>Näyttötapa</translation>
     </message>
     <message>
         <source>Fit image to window</source>
@@ -15362,7 +15362,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Preview as tab</source>
-        <translation>Esikatselu välilehtenä tietoikkunassa</translation>
+        <translation>Esikatselu välilehtenä</translation>
     </message>
     <message>
         <source>Film strip 1</source>
@@ -15378,7 +15378,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>View as Thumbnails+Labels</source>
-        <translation>Näytä pienoiskuvat + tietoikkunat</translation>
+        <translation>Näytä pienoiskuvat + tunnisteet</translation>
     </message>
     <message>
         <source>Draw as tiled</source>
@@ -15430,7 +15430,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Catalog Filter</source>
-        <translation>Luettelosuodin</translation>
+        <translation>Katalogisuodin</translation>
     </message>
     <message>
         <source>Navigate to</source>
@@ -15450,7 +15450,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Catalog</source>
-        <translation>Luettelo</translation>
+        <translation>Katalogi</translation>
     </message>
     <message>
         <source>Tag/Untag current</source>
@@ -15550,7 +15550,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Unrated (go to next image)</source>
-        <translation>Luokittelematon (siirry seuraavaan kuvaan)</translation>
+        <translation>Arvioimaton (siirry seuraavaan kuvaan)</translation>
     </message>
     <message>
         <source>##label## (go to next image)</source>
@@ -15558,11 +15558,11 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Set Rating</source>
-        <translation>Aseta luokitus</translation>
+        <translation>Aseta arvio</translation>
     </message>
     <message>
         <source>Set Color label</source>
-        <translation>Aseta värimerkintä</translation>
+        <translation>Aseta väritunniste</translation>
     </message>
     <message>
         <source>Set Category</source>
@@ -15578,7 +15578,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Show channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytä kanava</translation>
     </message>
 </context>
 <context>
@@ -16343,7 +16343,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Unrated</source>
-        <translation>Luokittelematon</translation>
+        <translation>Arvioimaton</translation>
     </message>
     <message>
         <source>Sepia...</source>
@@ -16583,7 +16583,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Unrated (go to next image)</source>
-        <translation>Luokittelematon (siirry seuraavaan kuvaan)</translation>
+        <translation>Arvioimaton (siirry seuraavaan kuvaan)</translation>
     </message>
     <message>
         <source>##label## (go to next image)</source>
@@ -16591,11 +16591,11 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Set Rating</source>
-        <translation>Aseta luokitus</translation>
+        <translation>Aseta arvio</translation>
     </message>
     <message>
         <source>Set Color label</source>
-        <translation>Aseta värimerkintä</translation>
+        <translation>Aseta väritunniste</translation>
     </message>
     <message>
         <source>Automatic crop...</source>
@@ -16607,15 +16607,15 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Use antialiasing</source>
-        <translation type="unfinished"></translation>
+        <translation>Käytä reunanpehmennystä</translation>
     </message>
     <message>
         <source>Use transparency grid</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Käytä läpinäkyvyysruudukkoa</translation>
     </message>
     <message>
         <source>Show channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytä kanava</translation>
     </message>
 </context>
 <context>
@@ -16749,7 +16749,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Building catalog entries...</source>
-        <translation>Luodaan luettelomerkinnät...</translation>
+        <translation>Luodaan katalogitietueet...</translation>
     </message>
 </context>
 <context>
@@ -16950,7 +16950,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Updating catalog, please wait...</source>
-        <translation>Päivitetään luetteloa, odota...</translation>
+        <translation>Päivitetään katalogia, odota...</translation>
     </message>
     <message numerus="yes">
         <source>%n object(s)</source>
@@ -16984,8 +16984,8 @@ Jatketaanko?</translation>
     <message>
         <source>Size of cached thumbnails is smaller than chosen one. 
 You can change it in Settings › Catalog.</source>
-        <translation>Välimuistissa olevien pikkukuvien koko on pienempi kuin valittu.
-Voit muuttaa sitä kohdassa Asetukset › Luettelo.</translation>
+        <translation>Välimuistissa olevien pienoiskuvien koko on valittua pienempi.
+Voit muuttaa sitä asetusten kohdasta &quot;Katalogi&quot;.</translation>
     </message>
 </context>
 <context>
@@ -17991,11 +17991,11 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
     </message>
     <message>
         <source>Categories (catalog)</source>
-        <translation>Kategoriat (luettelo)</translation>
+        <translation>Kategoriat (katalogi)</translation>
     </message>
     <message>
         <source>Thumbnail&apos;s labels</source>
-        <translation>Esikatselukuvien tarrat</translation>
+        <translation>Pienoiskuvien tunnisteet</translation>
     </message>
 </context>
 <context>
@@ -18213,7 +18213,7 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
     </message>
     <message>
         <source>XnViewMP - There is a problem to update catalog (Error: %1), please contact the developer.</source>
-        <translation>XnViewMP - Ilmaantui ongelmia päivitettäessä luetteloa (Virhe:%1), ota yhteyttä kehittäjään.</translation>
+        <translation>XnViewMP - Katalogia päivitettäessä kohdattiin ongelma (virhe: %1). Ota yhteyttä kehittäjään.</translation>
     </message>
     <message>
         <source>Your previous session contains many loaded images, this can cause a slowdown!</source>
@@ -18221,11 +18221,11 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
     </message>
     <message>
         <source>Catalog</source>
-        <translation>Luettelo</translation>
+        <translation>Katalogi</translation>
     </message>
     <message>
         <source>Upgrading catalog, please wait...</source>
-        <translation>Päivitetään luetteloa, odota...</translation>
+        <translation>Päivitetään katalogia, odota...</translation>
     </message>
     <message>
         <source>Do you want to quit?</source>
@@ -18236,22 +18236,22 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
 
 Do you want to keep the thumbnails?
  (If you choose YES, the upgrade process will be slow)</source>
-        <translation>XnViewMP päivittää luetteloa. Se voi kestää jonkin aikaa.
+        <translation>XnViewMP päivittää katalogia. Tämä saattaa kestää jonkin aikaa.
 
 Haluatko säilyttää pienoiskuvat?
  (Jos valitset KYLLÄ, päivitys kestää kauemmin)</translation>
     </message>
     <message>
         <source>XnViewMP - Catalog has a more recent version number than the expected one</source>
-        <translation>XnViewMP - Luettelolla on odotettua uudempi versionumero</translation>
+        <translation>XnViewMP - Katalogin versionumero on odettua tuoreempi</translation>
     </message>
     <message>
         <source>Catalog problem</source>
-        <translation>Luettelo-ongelma</translation>
+        <translation>Katalogiongelma</translation>
     </message>
     <message>
         <source>There is a problem to open catalog, check your settings or folder used!</source>
-        <translation>Luettelon avaamisessa on ongelma. Tarkista asetukset tai käytetty kansio!</translation>
+        <translation>Ongelma avattaessa katalogia. Tarkista asetukset tai käytetty kansio!</translation>
     </message>
     <message>
         <source>Application is up to date.</source>
@@ -18272,8 +18272,8 @@ Haluatko säilyttää pienoiskuvat?
     <message>
         <source>Catalog and Metadata are disabled - 
 Rating, Tag &amp; Color labels will not be saved.</source>
-        <translation>Luettelo ja metatiedot on poistettu käytöstä -
-Luokituksia-, merkintöjä (tageja)- ja värimerkintöjä ei tallenneta.</translation>
+        <translation>Katalogi- ja metatiedot on poistettu käytöstä -
+Arvioita-, tageja ja väritunnisteita ei tallenneta.</translation>
     </message>
     <message>
         <source>Do you want to save session?</source>
