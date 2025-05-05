@@ -13716,7 +13716,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="342"/>
         <source>Border size</source>
-        <translation>Размер обрамления</translation>
+        <translation>Рамка</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="459"/>
