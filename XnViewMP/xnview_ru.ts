@@ -3073,7 +3073,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgCategorySetsSettings.ui" line="14"/>
         <source>Category Sets Settings</source>
-        <translation>Диспетчер наборов категорий</translation>
+        <translation>Настройки Наборов Категорий</translation>
     </message>
     <message>
         <location filename="DlgCategorySetsSettings.ui" line="22"/>
@@ -14010,7 +14010,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="435"/>
         <source>Anti-aliasing</source>
         <oldsource>Antialiasing</oldsource>
-        <translation type="unfinished">Сглаживание</translation>
+        <translation>Сглаживание</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="441"/>
@@ -15044,7 +15044,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgTimestamp.cpp" line="568"/>
         <source>An error occurred when updating these files:</source>
-        <translation type="unfinished"></translation>
+        <translation>Произошла ошибка при обновлении файлов:</translation>
     </message>
 </context>
 <context>
@@ -17324,12 +17324,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoCategoryView.cpp" line="139"/>
         <source>Import Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Импортировать Категории</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="141"/>
         <source>Export Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Экспортировать Категории</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="246"/>
@@ -21508,7 +21508,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="449"/>
         <source>Use anti-aliasing</source>
         <oldsource>Use antialiasing</oldsource>
-        <translation type="unfinished">Использовать сглаживание</translation>
+        <translation>Использовать сглаживание</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="450"/>
@@ -22080,7 +22080,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyLittleToolBar.h" line="374"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished">Переключить функцию ползунка: размер эскизов [в пикселях] или количество эскизов в столбце</translation>
+        <translation>Переключить функцию ползунка: размер эскизов [в пикселях] или количество эскизов в столбце</translation>
     </message>
 </context>
 <context>
@@ -22088,7 +22088,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyLittleToolBar.h" line="754"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished">Переключить функцию ползунка: размер эскизов [в пикселях] или количество эскизов в столбце</translation>
+        <translation>Переключить функцию ползунка: размер эскизов [в пикселях] или количество эскизов в столбце</translation>
     </message>
 </context>
 <context>
