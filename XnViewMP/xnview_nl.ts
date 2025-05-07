@@ -13996,7 +13996,7 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsView.ui" line="435"/>
         <source>Anti-aliasing</source>
         <oldsource>Antialiasing</oldsource>
-        <translation type="unfinished">Anti-aliasing</translation>
+        <translation>Anti-aliasing</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="441"/>
@@ -14956,7 +14956,7 @@ Doorgaan?</translation>
     <message>
         <location filename="DlgTimestamp.cpp" line="568"/>
         <source>An error occurred when updating these files:</source>
-        <translation type="unfinished"></translation>
+        <translation>Er is een fout opgetreden bij het bijwerken van deze bestanden:</translation>
     </message>
 </context>
 <context>
@@ -17227,12 +17227,12 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="139"/>
         <source>Import Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Categorieën importeren</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="141"/>
         <source>Export Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Categorieën exporteren</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="246"/>
@@ -20942,7 +20942,7 @@ Doorgaan?</translation>
         <location filename="ViewMenu.h" line="449"/>
         <source>Use anti-aliasing</source>
         <oldsource>Use antialiasing</oldsource>
-        <translation type="unfinished">Anti-aliasing gebruiken</translation>
+        <translation>Anti-aliasing gebruiken</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="450"/>
@@ -21962,7 +21962,7 @@ Doorgaan?</translation>
     <message>
         <location filename="MyLittleToolBar.h" line="374"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished">Schuifknopfunctie: miniatuurgrootte [pixels] of aantal miniaturen per kolom</translation>
+        <translation>Schuifknopfunctie: miniatuurgrootte [pixels] of aantal miniaturen per kolom</translation>
     </message>
 </context>
 <context>
@@ -21970,7 +21970,7 @@ Doorgaan?</translation>
     <message>
         <location filename="MyLittleToolBar.h" line="754"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished">Schuifknopfunctie: miniatuurgrootte [pixels] of aantal miniaturen per kolom</translation>
+        <translation>Schuifknopfunctie: miniatuurgrootte [pixels] of aantal miniaturen per kolom</translation>
     </message>
 </context>
 <context>
