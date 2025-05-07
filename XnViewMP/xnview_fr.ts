@@ -13923,7 +13923,7 @@ Voulez-vous le réaffecter ?</translation>
         <location filename="DlgSettingsView.ui" line="435"/>
         <source>Anti-aliasing</source>
         <oldsource>Antialiasing</oldsource>
-        <translation type="unfinished">Anti-crénelage</translation>
+        <translation>Anti-crénelage</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="441"/>
@@ -17229,12 +17229,12 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="139"/>
         <source>Import Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Importer les catégories</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="141"/>
         <source>Export Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporter les catégories</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="246"/>
@@ -21118,7 +21118,7 @@ Voulez-vous continuer ?</translation>
         <location filename="ViewMenu.h" line="449"/>
         <source>Use anti-aliasing</source>
         <oldsource>Use antialiasing</oldsource>
-        <translation type="unfinished">Utiliser l&apos;anticrénelage</translation>
+        <translation>Utiliser l&apos;anticrénelage</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="450"/>
@@ -21977,7 +21977,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="MyLittleToolBar.h" line="374"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished">Cliquez pour changer entre une vue avec un nombre fixe de vignettes par ligne
+        <translation>Cliquez pour changer entre une vue avec un nombre fixe de vignettes par ligne
 à une vue avec des vignettes de taille fixe</translation>
     </message>
 </context>
@@ -21986,7 +21986,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="MyLittleToolBar.h" line="754"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished">Cliquez pour changer entre une vue avec un nombre fixe de vignettes par ligne
+        <translation>Cliquez pour changer entre une vue avec un nombre fixe de vignettes par ligne
 à une vue avec des vignettes de taille fixe</translation>
     </message>
 </context>
