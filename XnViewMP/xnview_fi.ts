@@ -10890,7 +10890,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Use transparency grid (checkerboard pattern)</source>
-        <translation type="unfinished">Käytä läpinäkyvyysruudukkoa (shakkikuvio)</translation>
+        <translation>Käytä läpinäkyvyysruudukkoa (shakkikuvio)</translation>
     </message>
     <message>
         <source>Scale on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
@@ -10902,7 +10902,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Anti-aliasing</source>
-        <translation type="unfinished"></translation>
+        <translation>Pehmennys</translation>
     </message>
 </context>
 <context>
@@ -11561,7 +11561,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>An error occurred when updating these files:</source>
-        <translation type="unfinished"></translation>
+        <translation>Virhe päivitettäessä näitä tiedostoja:</translation>
     </message>
 </context>
 <context>
@@ -13304,11 +13304,11 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Import Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuo kategoriat</translation>
     </message>
     <message>
         <source>Export Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Vie kategoriat</translation>
     </message>
 </context>
 <context>
@@ -16603,7 +16603,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Use transparency grid</source>
-        <translation type="unfinished">Käytä läpinäkyvyysruudukkoa</translation>
+        <translation>Käytä läpinäkyvää ruudukkoa</translation>
     </message>
     <message>
         <source>Show channel</source>
@@ -16611,7 +16611,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Use anti-aliasing</source>
-        <translation type="unfinished">Käytä pehmennystä</translation>
+        <translation>Käytä pehmennystä</translation>
     </message>
 </context>
 <context>
@@ -16883,14 +16883,14 @@ Jatketaanko?</translation>
     <name>MyLittleToolBar2</name>
     <message>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished">Liukusäätimellä voit muuttaa pienoiskuvien kokoa [pikseleinä] ja määrää saraketta kohden</translation>
+        <translation>Liukusäätimellä voit muuttaa pienoiskuvien kokoa [pikselit] ja määrää saraketta kohden</translation>
     </message>
 </context>
 <context>
     <name>MyLittleToolBarOld</name>
     <message>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished">Liukusäätimellä voit muuttaa pienoiskuvien kokoa [pikseleinä] ja määrää saraketta kohden</translation>
+        <translation>Liukusäätimellä voit muuttaa pienoiskuvien kokoa [pikselit] ja määrää saraketta kohden</translation>
     </message>
 </context>
 <context>
