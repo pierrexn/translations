@@ -10887,15 +10887,15 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Antialiasing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Scale on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reset X/Y position on file change (No fit)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Anti-aliasing</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11552,6 +11552,10 @@ Do you want to continue?</source>
     <message>
         <source>Modifying timestamp, please wait...</source>
         <translation>Modificando la marca de tiempo, por favor espere...</translation>
+    </message>
+    <message>
+        <source>An error occurred when updating these files:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13213,14 +13217,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Utilizar expresiones regulares</translation>
     </message>
     <message>
-        <source>Export Categories File</source>
-        <translation>Exportar archivo de Categorías</translation>
-    </message>
-    <message>
-        <source>Import Categories File</source>
-        <translation>Importar archivo de Categorías</translation>
-    </message>
-    <message>
         <source>Categories Management</source>
         <translation>Administración de Categorías</translation>
     </message>
@@ -13243,10 +13239,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Import</source>
         <translation>Importar</translation>
-    </message>
-    <message>
-        <source>Options</source>
-        <translation>Opciones</translation>
     </message>
     <message>
         <source>Categories file</source>
@@ -13281,10 +13273,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Ocultar categorias asignadas</translation>
     </message>
     <message>
-        <source> [Create New]</source>
-        <translation> [Crear Nueva]</translation>
-    </message>
-    <message>
         <source>Delete unused categories...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -13306,6 +13294,14 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Do you want to delete unused categories?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import Categories</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export Categories</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16600,16 +16596,16 @@ Do you want to continue?</source>
         <translation>Desplazarse a coordenadas...</translation>
     </message>
     <message>
-        <source>Use antialiasing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Use transparency grid</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show channel</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use anti-aliasing</source>
+        <translation type="unfinished">Utilizar anti-aliasing</translation>
     </message>
 </context>
 <context>
@@ -16878,10 +16874,17 @@ Do you want to continue?</source>
     </message>
 </context>
 <context>
-    <name>MyLittleToolBar</name>
+    <name>MyLittleToolBar2</name>
     <message>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation>Alternar la función del control deslizante: tamaño de miniatura [píxeles] o miniaturas por columna</translation>
+        <translation type="unfinished">Alternar la función del control deslizante: tamaño de miniatura [píxeles] o miniaturas por columna</translation>
+    </message>
+</context>
+<context>
+    <name>MyLittleToolBarOld</name>
+    <message>
+        <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
+        <translation type="unfinished">Alternar la función del control deslizante: tamaño de miniatura [píxeles] o miniaturas por columna</translation>
     </message>
 </context>
 <context>

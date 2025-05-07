@@ -10902,16 +10902,16 @@ Dorești să-l reatribui?</translation>
         <translation>Folosește o grilă de transparență (modelul de tablă de șah)</translation>
     </message>
     <message>
-        <source>Antialiasing</source>
-        <translation>Antialiasare</translation>
-    </message>
-    <message>
         <source>Scale on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
         <translation>Scalează pe ecranul HiDPI: 1 pixel de imagine este egal cu 1 pixel de ecran</translation>
     </message>
     <message>
         <source>Reset X/Y position on file change (No fit)</source>
         <translation>Resetează poziția X/Y la modificarea fișierului (Fără potrivire)</translation>
+    </message>
+    <message>
+        <source>Anti-aliasing</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11567,6 +11567,10 @@ Vrei să continui?</translation>
     <message>
         <source>Modifying timestamp, please wait...</source>
         <translation>Se modifică marcajul de timp, te rugă să aștepți...</translation>
+    </message>
+    <message>
+        <source>An error occurred when updating these files:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13228,14 +13232,6 @@ Dorești să ștergi favoritul „%1”?</translation>
         <translation>Folosește expresiile regulate</translation>
     </message>
     <message>
-        <source>Export Categories File</source>
-        <translation>Exportă fișierul de categorii</translation>
-    </message>
-    <message>
-        <source>Import Categories File</source>
-        <translation>Importă fișierul de categorii</translation>
-    </message>
-    <message>
         <source>Categories Management</source>
         <translation>Managementul categoriilor</translation>
     </message>
@@ -13258,10 +13254,6 @@ Dorești să ștergi favoritul „%1”?</translation>
     <message>
         <source>Import</source>
         <translation>Importare</translation>
-    </message>
-    <message>
-        <source>Options</source>
-        <translation>Opțiuni</translation>
     </message>
     <message>
         <source>Categories file</source>
@@ -13296,10 +13288,6 @@ Dorești să ștergi favoritul „%1”?</translation>
         <translation>Ascunde categoriile atribuite</translation>
     </message>
     <message>
-        <source> [Create New]</source>
-        <translation> [Crează nou]</translation>
-    </message>
-    <message>
         <source>Delete unused categories...</source>
         <translation>Șterge categoriile nefolosite...</translation>
     </message>
@@ -13322,6 +13310,14 @@ Dorești să ștergi favoritul „%1”?</translation>
     <message>
         <source>Do you want to delete unused categories?</source>
         <translation>Vrei să ștergi categoriile nefolosite?</translation>
+    </message>
+    <message>
+        <source>Import Categories</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export Categories</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16615,16 +16611,16 @@ Vrei să continui?</translation>
         <translation>Efect</translation>
     </message>
     <message>
-        <source>Use antialiasing</source>
-        <translation>Folosește antialiasarea</translation>
-    </message>
-    <message>
         <source>Use transparency grid</source>
         <translation>Folosește grila de transparență</translation>
     </message>
     <message>
         <source>Show channel</source>
         <translation>Afișează canalul</translation>
+    </message>
+    <message>
+        <source>Use anti-aliasing</source>
+        <translation type="unfinished">Folosește anti-aliasarea</translation>
     </message>
 </context>
 <context>
@@ -16893,10 +16889,17 @@ Vrei să continui?</translation>
     </message>
 </context>
 <context>
-    <name>MyLittleToolBar</name>
+    <name>MyLittleToolBar2</name>
     <message>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation>Comută funcția de glisor: dimensiunea miniaturii [în pixeli] sau miniaturi pe coloană</translation>
+        <translation type="unfinished">Comută funcția de glisor: dimensiunea miniaturii [în pixeli] sau miniaturi pe coloană</translation>
+    </message>
+</context>
+<context>
+    <name>MyLittleToolBarOld</name>
+    <message>
+        <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
+        <translation type="unfinished">Comută funcția de glisor: dimensiunea miniaturii [în pixeli] sau miniaturi pe coloană</translation>
     </message>
 </context>
 <context>

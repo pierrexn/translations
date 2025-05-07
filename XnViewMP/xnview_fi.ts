@@ -10893,16 +10893,16 @@ Haluatko määrittää uudelleen?</translation>
         <translation type="unfinished">Käytä läpinäkyvyysruudukkoa (shakkikuvio)</translation>
     </message>
     <message>
-        <source>Antialiasing</source>
-        <translation>Reunanpehmennys</translation>
-    </message>
-    <message>
         <source>Scale on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
         <translation>Skaalaus korkean DPI:n näytöillä: kuvan pikseli vastaa näytön pikseliä</translation>
     </message>
     <message>
         <source>Reset X/Y position on file change (No fit)</source>
         <translation>Palauta X/Y-sijainti tiedoston vaihtuessa (ei sovitusta)</translation>
+    </message>
+    <message>
+        <source>Anti-aliasing</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11558,6 +11558,10 @@ Haluatko jatkaa?</translation>
     <message>
         <source>Modifying timestamp, please wait...</source>
         <translation>Muokataan aikaleimaa, odota...</translation>
+    </message>
+    <message>
+        <source>An error occurred when updating these files:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13219,14 +13223,6 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
         <translation>Käytä säännöllisiä lausekkeita</translation>
     </message>
     <message>
-        <source>Export Categories File</source>
-        <translation>Vie kategoriatiedosto</translation>
-    </message>
-    <message>
-        <source>Import Categories File</source>
-        <translation>Tuo kategoriatiedosto</translation>
-    </message>
-    <message>
         <source>Categories Management</source>
         <translation>Kategorioiden hallinta</translation>
     </message>
@@ -13249,10 +13245,6 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     <message>
         <source>Import</source>
         <translation>Tuo</translation>
-    </message>
-    <message>
-        <source>Options</source>
-        <translation>Valinnat</translation>
     </message>
     <message>
         <source>Categories file</source>
@@ -13287,10 +13279,6 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
         <translation>Piilota määritetyt luokat</translation>
     </message>
     <message>
-        <source> [Create New]</source>
-        <translation> [Luo uusi]</translation>
-    </message>
-    <message>
         <source>Delete unused categories...</source>
         <translation>Poista käyttämättömät kategoriat...</translation>
     </message>
@@ -13313,6 +13301,14 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     <message>
         <source>Do you want to delete unused categories?</source>
         <translation>Haluatko poistaa käyttämättömät kategoriat?</translation>
+    </message>
+    <message>
+        <source>Import Categories</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export Categories</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16606,16 +16602,16 @@ Jatketaanko?</translation>
         <translation>Panoroi koordinaatteihin...</translation>
     </message>
     <message>
-        <source>Use antialiasing</source>
-        <translation>Käytä reunanpehmennystä</translation>
-    </message>
-    <message>
         <source>Use transparency grid</source>
         <translation type="unfinished">Käytä läpinäkyvyysruudukkoa</translation>
     </message>
     <message>
         <source>Show channel</source>
         <translation>Näytä kanava</translation>
+    </message>
+    <message>
+        <source>Use anti-aliasing</source>
+        <translation type="unfinished">Käytä pehmennystä</translation>
     </message>
 </context>
 <context>
@@ -16884,10 +16880,17 @@ Jatketaanko?</translation>
     </message>
 </context>
 <context>
-    <name>MyLittleToolBar</name>
+    <name>MyLittleToolBar2</name>
     <message>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation>Liukusäätimellä voit muuttaa pienoiskuvien kokoa [pikseleinä] ja määrää saraketta kohden</translation>
+        <translation type="unfinished">Liukusäätimellä voit muuttaa pienoiskuvien kokoa [pikseleinä] ja määrää saraketta kohden</translation>
+    </message>
+</context>
+<context>
+    <name>MyLittleToolBarOld</name>
+    <message>
+        <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
+        <translation type="unfinished">Liukusäätimellä voit muuttaa pienoiskuvien kokoa [pikseleinä] ja määrää saraketta kohden</translation>
     </message>
 </context>
 <context>
