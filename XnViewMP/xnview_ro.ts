@@ -1367,7 +1367,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Adăugare</translation>
+        <translation>Adaugă</translation>
     </message>
     <message>
         <source>Channel</source>
@@ -1636,7 +1636,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     <name>DlgAdobeConfigure</name>
     <message>
         <source>Add...</source>
-        <translation>Adăuga...</translation>
+        <translation>Adaugă...</translation>
     </message>
     <message>
         <source>Select a folder</source>
@@ -3640,7 +3640,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Add &apos;Convert with XnConvert&apos; to context menu</source>
-        <translation>Adaugă „Convertire cu XnConvert” în meniul contextual</translation>
+        <translation>Adaugă „Convertește cu XnConvert” în meniul contextual</translation>
     </message>
     <message>
         <source>Save script as</source>
@@ -7295,7 +7295,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Add...</source>
-        <translation>Adăugă...</translation>
+        <translation>Adaugă...</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -7676,7 +7676,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Page setup...</source>
-        <translation>Configurare pagina...</translation>
+        <translation>Configurează pagina...</translation>
     </message>
     <message>
         <source>Single - Crop to page</source>
@@ -8210,7 +8210,7 @@ Vrei să le redenumești?</translation>
     <name>DlgRenameDupClass</name>
     <message>
         <source>Add</source>
-        <translation>Adăugare</translation>
+        <translation>Adaugă</translation>
     </message>
     <message>
         <source>Only if needed</source>
@@ -8524,7 +8524,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Add &gt;&gt;</source>
-        <translation>Adăugare &gt;&gt;</translation>
+        <translation>Adaugă &gt;&gt;</translation>
     </message>
     <message>
         <source>Search</source>
@@ -10911,7 +10911,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Anti-aliasing</source>
-        <translation type="unfinished"></translation>
+        <translation>Antialiasare</translation>
     </message>
 </context>
 <context>
@@ -11570,7 +11570,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>An error occurred when updating these files:</source>
-        <translation type="unfinished"></translation>
+        <translation>A apărut o eroare în timpul actualizării acestor fișiere:</translation>
     </message>
 </context>
 <context>
@@ -11656,7 +11656,7 @@ Vrei să continui?</translation>
     <name>DlgTransfer</name>
     <message>
         <source>Add&gt;&gt;</source>
-        <translation>Adăugare&gt;&gt;</translation>
+        <translation>Adaugă&gt;&gt;</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -13313,11 +13313,11 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Import Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Importă categoriile</translation>
     </message>
     <message>
         <source>Export Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportă categoriile</translation>
     </message>
 </context>
 <context>
@@ -13849,7 +13849,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation>Abordare</translation>
+        <translation>Adresă</translation>
     </message>
     <message>
         <source>Edit status</source>
@@ -16620,7 +16620,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Use anti-aliasing</source>
-        <translation type="unfinished">Folosește anti-aliasarea</translation>
+        <translation>Folosește antialiasarea</translation>
     </message>
 </context>
 <context>
@@ -16892,14 +16892,14 @@ Vrei să continui?</translation>
     <name>MyLittleToolBar2</name>
     <message>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished">Comută funcția de glisor: dimensiunea miniaturii [în pixeli] sau miniaturi pe coloană</translation>
+        <translation>Comută funcția de glisor: dimensiunea miniaturii [în pixeli] sau miniaturi pe coloană</translation>
     </message>
 </context>
 <context>
     <name>MyLittleToolBarOld</name>
     <message>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished">Comută funcția de glisor: dimensiunea miniaturii [în pixeli] sau miniaturi pe coloană</translation>
+        <translation>Comută funcția de glisor: dimensiunea miniaturii [în pixeli] sau miniaturi pe coloană</translation>
     </message>
 </context>
 <context>
