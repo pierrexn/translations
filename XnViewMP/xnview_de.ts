@@ -13926,7 +13926,7 @@ Möchten Sie neu zuweisen?</translation>
         <location filename="DlgSettingsView.ui" line="435"/>
         <source>Anti-aliasing</source>
         <oldsource>Antialiasing</oldsource>
-        <translation type="unfinished">Kantenglättung</translation>
+        <translation>Kantenglättung</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="441"/>
@@ -14946,7 +14946,7 @@ Wollen Sie fortfahren?</translation>
     <message>
         <location filename="DlgTimestamp.cpp" line="568"/>
         <source>An error occurred when updating these files:</source>
-        <translation type="unfinished"></translation>
+        <translation>Beim Aktualisieren dieser Dateien ist ein Fehler aufgetreten:</translation>
     </message>
 </context>
 <context>
@@ -17216,12 +17216,12 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="139"/>
         <source>Import Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Kategorien importieren</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="141"/>
         <source>Export Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Kategorien exportieren</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="246"/>
@@ -21165,7 +21165,7 @@ Möchten Sie fortfahren?</translation>
         <location filename="ViewMenu.h" line="449"/>
         <source>Use anti-aliasing</source>
         <oldsource>Use antialiasing</oldsource>
-        <translation type="unfinished">Kantenglättung verwenden</translation>
+        <translation>Kantenglättung verwenden</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="450"/>
@@ -21957,7 +21957,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="MyLittleToolBar.h" line="374"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished">Klicken Sie um zwischen der Breite der Miniaturbilder und der Anzahl Miniaturbilder je Zeile zu wechseln</translation>
+        <translation>Klicken Sie um zwischen der Breite der Miniaturbilder und der Anzahl der Miniaturbilder je Zeile zu wechseln</translation>
     </message>
 </context>
 <context>
@@ -21965,7 +21965,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="MyLittleToolBar.h" line="754"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished">Klicken Sie um zwischen der Breite der Miniaturbilder und der Anzahl Miniaturbilder je Zeile zu wechseln</translation>
+        <translation>Klicken Sie um zwischen der Breite der Miniaturbilder und der Anzahl der Miniaturbilder je Zeile zu wechseln</translation>
     </message>
 </context>
 <context>
