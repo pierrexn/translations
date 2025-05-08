@@ -13979,7 +13979,7 @@ Szeretné újratársítani?</translation>
         <location filename="DlgSettingsView.ui" line="435"/>
         <source>Anti-aliasing</source>
         <oldsource>Antialiasing</oldsource>
-        <translation type="unfinished">Élsimítás</translation>
+        <translation>Élsimítás</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="441"/>
@@ -20916,7 +20916,7 @@ Biztosan folytassuk?</translation>
         <location filename="ViewMenu.h" line="449"/>
         <source>Use anti-aliasing</source>
         <oldsource>Use antialiasing</oldsource>
-        <translation type="unfinished">Élsimítás használata</translation>
+        <translation>Élsimítás használata</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="450"/>
