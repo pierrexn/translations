@@ -13995,7 +13995,7 @@ Pretende reatribuir?</translation>
         <location filename="DlgSettingsView.ui" line="435"/>
         <source>Anti-aliasing</source>
         <oldsource>Antialiasing</oldsource>
-        <translation type="unfinished">Anti-aliasing</translation>
+        <translation>Anti-aliasing</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="441"/>
@@ -15007,7 +15007,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="DlgTimestamp.cpp" line="568"/>
         <source>An error occurred when updating these files:</source>
-        <translation type="unfinished"></translation>
+        <translation>Houve um erro quando actualizava estes ficheiros:</translation>
     </message>
 </context>
 <context>
@@ -17281,12 +17281,12 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="139"/>
         <source>Import Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar categorias</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="141"/>
         <source>Export Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar categorias</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="246"/>
@@ -21467,7 +21467,7 @@ Deseja continuar?</translation>
         <location filename="ViewMenu.h" line="449"/>
         <source>Use anti-aliasing</source>
         <oldsource>Use antialiasing</oldsource>
-        <translation type="unfinished">Usar anti-aliasing</translation>
+        <translation>Usar anti-aliasing</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="450"/>
@@ -22039,7 +22039,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="MyLittleToolBar.h" line="374"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished">Alternar a função do slider: tamanho das miniaturas [pixeis] ou número de miniaturas por coluna</translation>
+        <translation>Comutar funcionamento do slider: tamanho das miniaturas [pixeis] ou número de miniaturas por coluna</translation>
     </message>
 </context>
 <context>
@@ -22047,7 +22047,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="MyLittleToolBar.h" line="754"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished">Alternar a função do slider: tamanho das miniaturas [pixeis] ou número de miniaturas por coluna</translation>
+        <translation>Comutar funcionamento do slider: tamanho das miniaturas [pixeis] ou número de miniaturas por coluna</translation>
     </message>
 </context>
 <context>
