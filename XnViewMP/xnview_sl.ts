@@ -13944,7 +13944,7 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgSettingsView.ui" line="435"/>
         <source>Anti-aliasing</source>
         <oldsource>Antialiasing</oldsource>
-        <translation type="unfinished">Antialiasing</translation>
+        <translation>Zglajevanje</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="441"/>
@@ -14992,7 +14992,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgTimestamp.cpp" line="568"/>
         <source>An error occurred when updating these files:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pri posodabljanju teh datotek je prišlo do napake:</translation>
     </message>
 </context>
 <context>
@@ -17257,12 +17257,12 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="139"/>
         <source>Import Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Uvoz kategorije</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="141"/>
         <source>Export Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvoz kategorij</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="246"/>
@@ -21156,7 +21156,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="449"/>
         <source>Use anti-aliasing</source>
         <oldsource>Use antialiasing</oldsource>
-        <translation type="unfinished">Uporabi antialiasing</translation>
+        <translation>Uporabi zglajevanje</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="450"/>
@@ -22005,7 +22005,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyLittleToolBar.h" line="374"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished">Preklop funkcije drsnika: velikost sličic [pikslov] ali sličic na stolpec</translation>
+        <translation>Preklopi funkcijo drsnika: velikost sličice [piksli] ali število sličic na stolpec</translation>
     </message>
 </context>
 <context>
@@ -22013,7 +22013,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyLittleToolBar.h" line="754"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished">Preklop funkcije drsnika: velikost sličic [pikslov] ali sličic na stolpec</translation>
+        <translation>Preklopi funkcijo drsnika: velikost sličice [piksli] ali število sličic na stolpec</translation>
     </message>
 </context>
 <context>
