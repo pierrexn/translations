@@ -4097,7 +4097,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation>Fund</translation>
+        <translation>Jos</translation>
     </message>
     <message>
         <source>Height</source>
@@ -4113,7 +4113,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>from position</source>
-        <translation>din pozitie</translation>
+        <translation>din poziție</translation>
     </message>
 </context>
 <context>
@@ -4951,7 +4951,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Auto crop</source>
-        <translation>Decuparea automată</translation>
+        <translation>Decupare automată</translation>
     </message>
     <message>
         <source>EXIF Orientation</source>
@@ -5435,7 +5435,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Elimina</translation>
+        <translation>Eliminare</translation>
     </message>
     <message>
         <source>Crop size</source>
@@ -7173,7 +7173,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Shortcut</source>
-        <translation>Comandă rapidă</translation>
+        <translation>Comandă rapidă (Scurtătură)</translation>
     </message>
 </context>
 <context>
@@ -8482,7 +8482,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Auto crop</source>
-        <translation>Decuparea automată</translation>
+        <translation>Decupare automată</translation>
     </message>
 </context>
 <context>
@@ -9901,7 +9901,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Shortcut for selected action</source>
-        <translation>Comandă rapidă pentru acțiunea selectată</translation>
+        <translation>Comandă rapidă (Scurtătură) pentru acțiunea selectată</translation>
     </message>
     <message>
         <source>Set label...</source>
@@ -9961,7 +9961,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Shortcuts</source>
-        <translation>Comenzi rapide</translation>
+        <translation>Comenzi rapide (Scurtături)</translation>
     </message>
     <message>
         <source>Zoom in/out</source>
@@ -10157,7 +10157,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Shortcut</source>
-        <translation>Comandă rapidă (scurtătură)</translation>
+        <translation>Comandă rapidă (Scurtătură)</translation>
     </message>
     <message>
         <source>Command name</source>
@@ -10549,7 +10549,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Shortcut</source>
-        <translation>Comandă rapidă</translation>
+        <translation>Comandă rapidă (Scurtătură)</translation>
     </message>
     <message>
         <source>Create thumbnails for whole folder</source>
@@ -14236,7 +14236,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Lossless Crop</source>
-        <translation>Tăiere fără pierderi</translation>
+        <translation>Decupare fără pierderi</translation>
     </message>
     <message>
         <source>An error has occurred, the lossless rotation can&apos;t be executed.</source>
@@ -16528,7 +16528,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Automatic crop...</source>
-        <translation>Tăiere automată...</translation>
+        <translation>Decupare automată...</translation>
     </message>
     <message>
         <source>Rotate 90° right</source>
@@ -16592,7 +16592,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Crop (lossless)</source>
-        <translation>Tăiere (fără pierderi)</translation>
+        <translation>Decupare (fără pierderi)</translation>
     </message>
     <message>
         <source>Lossless transformations (JPEG)</source>
@@ -18039,7 +18039,7 @@ Fă clic dreapta pentru meniul pop-up cu acțiuni.</translation>
     <name>ViewCropAction</name>
     <message>
         <source>Crop</source>
-        <translation>A decupa</translation>
+        <translation>Decupare</translation>
     </message>
     <message>
         <source>Cancel</source>
