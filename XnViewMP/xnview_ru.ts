@@ -12458,12 +12458,12 @@ Thumbnail</source>
         <location filename="DlgSettingsIntegration.cpp" line="53"/>
         <source>System - Current user</source>
         <oldsource>User (System)</oldsource>
-        <translation>Система - Текущий пользователь</translation>
+        <translation>Система - текущий пользователь</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="31"/>
         <source>System - Current user (Windows registry)</source>
-        <translation>Система - Текущий пользователь (реестр Windows)</translation>
+        <translation>Система - текущий пользователь (реестр Windows)</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="32"/>
@@ -12613,7 +12613,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="334"/>
         <source>Portable</source>
-        <translation>Портативные</translation>
+        <translation>Портативная</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="339"/>
@@ -12843,7 +12843,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2139"/>
         <location filename="DlgSettingsInterface.ui" line="2180"/>
         <source>Previous/next file</source>
-        <translation>Предыдущий/Следующий файл</translation>
+        <translation>Предыдущий/следующий файл</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1421"/>
@@ -14797,7 +14797,7 @@ Do you want to reassign?</source>
         <location filename="DlgStartupWizard.ui" line="79"/>
         <source>Settings</source>
         <oldsource>XnView settings</oldsource>
-        <translation>Настройки XnView</translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="153"/>
@@ -20338,7 +20338,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="631"/>
         <source>Show alpha</source>
-        <translation>Показывать альфа-канал</translation>
+        <translation>Показать альфа-канал</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="632"/>
@@ -21116,7 +21116,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="434"/>
         <source>Show alpha</source>
-        <translation>Показывать альфа-канал</translation>
+        <translation>Показать альфа-канал</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="435"/>
