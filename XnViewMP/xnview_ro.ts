@@ -140,7 +140,7 @@
     </message>
     <message>
         <source>Plugins</source>
-        <translation>Pluginuri</translation>
+        <translation>Plugin-uri (Module)</translation>
     </message>
     <message>
         <source>Copyright</source>
@@ -1648,7 +1648,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Configure Adobe Plugin</source>
-        <translation>Configurează pluginul (modulul) Adobe</translation>
+        <translation>Configurează plugin-ul (modulul) Adobe</translation>
     </message>
 </context>
 <context>
@@ -7410,7 +7410,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     <name>DlgPluginsClass</name>
     <message>
         <source>AddOns &amp; Plugins</source>
-        <translation>Suplimente și pluginuri</translation>
+        <translation>Suplimente și plugin-uri (module)</translation>
     </message>
     <message>
         <source>AddOns</source>
@@ -7422,7 +7422,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Plugins</source>
-        <translation>Pluginuri (Module)</translation>
+        <translation>Plugin-uri (Module)</translation>
     </message>
 </context>
 <context>
@@ -8065,7 +8065,7 @@ Thank you for purchasing %1.</source>
     </message>
     <message>
         <source>Please install it by using Tools › Plugins</source>
-        <translation>Te rugăm să-l instalezi folosind Instrumente › Pluginuri</translation>
+        <translation>Te rugăm să-l instalezi folosind Instrumente › Plugin-uri (Module)</translation>
     </message>
 </context>
 <context>
@@ -15646,7 +15646,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>PlugIns...</source>
-        <translation>Pluginuri...</translation>
+        <translation>Plugin-uri (Module)...</translation>
     </message>
     <message>
         <source>Website...</source>
@@ -16324,7 +16324,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Adobe Photoshop Plugin...</source>
-        <translation>Pluginul Adobe Photoshop...</translation>
+        <translation>Plugin-ul (Modulul) Adobe Photoshop...</translation>
     </message>
     <message>
         <source>Open with</source>
