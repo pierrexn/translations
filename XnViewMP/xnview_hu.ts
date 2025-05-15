@@ -14939,7 +14939,7 @@ Biztos folytassuk?</translation>
     <message>
         <location filename="DlgTimestamp.cpp" line="568"/>
         <source>An error occurred when updating these files:</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiba lépett fel a fájlok frissítésekor:</translation>
     </message>
 </context>
 <context>
@@ -17209,12 +17209,12 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="139"/>
         <source>Import Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Kategóriák importálása</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="141"/>
         <source>Export Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Kategóriák exportálása</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="246"/>
