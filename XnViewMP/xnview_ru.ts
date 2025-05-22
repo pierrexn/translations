@@ -13443,7 +13443,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="366"/>
         <source>Update master file</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновлять основной файл</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="431"/>
@@ -20864,7 +20864,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="319"/>
         <source>Print opened images...</source>
-        <translation type="unfinished"></translation>
+        <translation>Печать открытых изображений...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="320"/>
