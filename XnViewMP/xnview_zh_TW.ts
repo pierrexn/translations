@@ -224,7 +224,7 @@
     <message>
         <location filename="AboutWidget.ui" line="500"/>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>更新日誌</translation>
     </message>
     <message>
         <location filename="AboutWidget.cpp" line="234"/>
@@ -293,20 +293,22 @@
         <location filename="ViewWindow.cpp" line="2280"/>
         <source>Would you like to discard your edits and delete 
 &quot;%1&quot;?</source>
-        <translation>確定要放棄編輯並刪除&quot;%1&quot;嗎?</translation>
+        <translation>確定要放棄編輯並刪除
+&quot;%1&quot;？</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2286"/>
         <source>Are you sure to delete 
 &quot;%1&quot;?</source>
         <translation>確定要刪除 
-&quot;%1&quot;?</translation>
+&quot;%1&quot;？</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2290"/>
         <source>Are you sure to delete 
 &quot;%1&quot; (%2 items)?</source>
-        <translation>確定要刪除 &quot;%1&quot; (%2 項)?</translation>
+        <translation>確定要刪除
+&quot;%1&quot; (%2 項)？</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2974"/>
@@ -316,12 +318,12 @@
     <message>
         <location filename="ViewWindow.cpp" line="2975"/>
         <source>&lt;%1&gt; already exists!</source>
-        <translation>&lt;%1&gt;已存在!</translation>
+        <translation>&lt;%1&gt;已存在！</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2975"/>
         <source>Do you want to overwrite it?</source>
-        <translation>確定要覆蓋?</translation>
+        <translation>確定要覆蓋？</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4412"/>
@@ -340,8 +342,8 @@
         <oldsource>Do you want to save changes to
 &quot;%1&quot;?
 </oldsource>
-        <translation>您要將改變內容存到嗎
-&quot;%1&quot;?</translation>
+        <translation>您要將改變內容存到
+&quot;%1&quot;嗎？</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="238"/>
@@ -383,7 +385,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="2966"/>
         <source>The file &lt;%1&gt; is read-only, please choose another file name.</source>
-        <translation>檔案 %1 是唯讀的, 請選用另一個檔名.</translation>
+        <translation>檔案 %1 是唯讀的，請選用另一個檔名。</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2999"/>
@@ -403,7 +405,7 @@
         <location filename="ViewWindow.cpp" line="3001"/>
         <location filename="ViewWindow.cpp" line="3182"/>
         <source>An error occurred during saving!</source>
-        <translation>儲存時發生錯誤!</translation>
+        <translation>儲存時發生錯誤！</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="3271"/>
@@ -477,12 +479,12 @@
         <location filename="ViewWindow.cpp" line="4887"/>
         <location filename="ViewWindow.cpp" line="4896"/>
         <source>File can&apos;t be loaded!</source>
-        <translation>無法載入檔案!</translation>
+        <translation>無法載入檔案！</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4887"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
-        <translation>您的系統要有安裝 Ghostscript %1, XnViewMP才能觀看和轉換PDF/PS/EPS/AI檔.</translation>
+        <translation>您的系統需要安裝 Ghostscript %1，XnViewMP 才能觀看和轉換 PDF/PS/EPS/AI 檔。</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4888"/>
@@ -574,7 +576,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="913"/>
         <source>The database is corrupted, please check it before to continue!</source>
-        <translation>資料庫檔有毀損, 繼續前請檢查!</translation>
+        <translation>資料庫已毀損，請在繼續前檢查！</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="1652"/>
@@ -632,7 +634,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="BrowserWindow.cpp" line="3202"/>
         <source>This folder doesn&apos;t exist!</source>
-        <translation>資料夾不存在!</translation>
+        <translation>資料夾不存在！</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3422"/>
@@ -643,13 +645,13 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="BrowserWindow.cpp" line="3667"/>
         <source>Are you sure to delete these %n item(s)?</source>
         <translation>
-            <numerusform>確定要刪除這 %n 個項目嗎?</numerusform>
+            <numerusform>確定要刪除這 %n 個項目嗎？</numerusform>
         </translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3752"/>
         <source>The files cannot be renamed, an error occurred.</source>
-        <translation>檔案重新命名時發生錯誤.</translation>
+        <translation>檔案重新命名時發生錯誤。</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3202"/>
@@ -696,7 +698,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="BrowserWindow.cpp" line="3661"/>
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
         <translation>
-            <numerusform>確定要刪除這 %n 個項目嗎(已勾選%1項)?</numerusform>
+            <numerusform>確定要刪除這 %n 個項目嗎(已勾選%1項)？</numerusform>
         </translation>
     </message>
     <message>
@@ -757,7 +759,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="BrowserWindow.cpp" line="4157"/>
         <source>Are you sure to delete this folder?</source>
-        <translation>確定要刪除這個資料夾嗎?</translation>
+        <translation>確定要刪除這個資料夾嗎？</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="627"/>
@@ -905,7 +907,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="CategoryView.cpp" line="531"/>
         <location filename="CategoryView.cpp" line="596"/>
         <source>Are you sure to delete this category?</source>
-        <translation>確定要刪除這個類別?</translation>
+        <translation>確定要刪除這個類別？</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="407"/>
@@ -930,7 +932,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CategoryView.cpp" line="437"/>
         <source>Are you sure to delete this album?</source>
-        <translation>確定要刪除這個相簿?</translation>
+        <translation>確定要刪除這個相簿？</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="443"/>
@@ -945,7 +947,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CategoryView.cpp" line="455"/>
         <source>Are you sure to clear this album?</source>
-        <translation>確定要清空這個相簿?</translation>
+        <translation>確定要清空這個相簿？</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="462"/>
@@ -1035,7 +1037,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CompareWidget.cpp" line="1172"/>
         <source>Do you want to delete this file?</source>
-        <translation>確定要刪除這個檔案嗎?</translation>
+        <translation>確定要刪除這個檔案嗎？</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="557"/>
@@ -2056,7 +2058,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgAcquireInto.cpp" line="74"/>
         <source>Please enter a valid output pathname!</source>
-        <translation>請輸入合法的輸出路徑!</translation>
+        <translation>請輸入合法的輸出路徑！</translation>
     </message>
     <message>
         <location filename="DlgAcquireInto.cpp" line="78"/>
@@ -2077,7 +2079,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgAcquireInto.cpp" line="173"/>
         <source>An error has occurred when saving %1</source>
         <oldsource>An error occured when saving %1</oldsource>
-        <translation>儲存 %1 時發生錯誤!</translation>
+        <translation>儲存 %1 時發生錯誤！</translation>
     </message>
     <message>
         <location filename="DlgAcquireInto.cpp" line="179"/>
@@ -2087,7 +2089,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgAcquireInto.cpp" line="179"/>
         <source>Do you want to continue to scan?</source>
-        <translation>要繼續掃描嗎?</translation>
+        <translation>要繼續掃描嗎？</translation>
     </message>
 </context>
 <context>
@@ -2160,7 +2162,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgBanner.cpp" line="121"/>
         <source>Are you sure to overwrite original files?</source>
-        <translation>確定要覆蓋原本檔案?</translation>
+        <translation>確定要覆蓋原本檔案？</translation>
     </message>
 </context>
 <context>
@@ -2830,12 +2832,12 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DlgBatchResize.cpp" line="1435"/>
         <source>has read-only attribute, and can&apos;t be overwritten!</source>
-        <translation>具唯獨屬性，故無法覆蓋!</translation>
+        <translation>具唯獨屬性，故無法覆蓋！</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1438"/>
         <source>skipped, file already exists!</source>
-        <translation>將跳過，因檔案已存在!</translation>
+        <translation>將跳過，因檔案已存在！</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1440"/>
@@ -2871,7 +2873,10 @@ Drag and Drop over the desired node to assign.</source>
 Do you want to overwrite it?</source>
         <oldsource>Destination already has a file named: %1
 Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">檔案 %1 已存在. 要覆蓋嗎?</translation>
+        <translation>目的地已存在檔案：
+%1
+
+要覆蓋嗎？</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1523"/>
@@ -3102,7 +3107,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgCategorySetsSettings.cpp" line="255"/>
         <source>Do you want to delete current category set?</source>
-        <translation>確定要刪除目前類別集嗎?</translation>
+        <translation>確定要刪除目前類別集嗎？</translation>
     </message>
 </context>
 <context>
@@ -3571,7 +3576,9 @@ Do you want to overwrite it?</oldsource>
 
 Do you want to go on the download page?</source>
         <oldsource>The %1 version of XnConvert is available, do you want to go on the download page?</oldsource>
-        <translation type="unfinished">XnConvert已有%1版,您要下載嗎?</translation>
+        <translation>XnConvert 已有 %1 版。
+
+您要前往下載頁面嗎？</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1690"/>
@@ -3581,7 +3588,7 @@ Do you want to go on the download page?</source>
     <message>
         <location filename="DlgConvert.cpp" line="1696"/>
         <source>Would you like to export filenames, too?</source>
-        <translation>也要匯出檔名嗎?</translation>
+        <translation>也要匯出檔名嗎？</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2043"/>
@@ -3624,7 +3631,7 @@ Do you want to go on the download page?</source>
     <message>
         <location filename="DlgConvert.cpp" line="2390"/>
         <source>Do you want to cancel current batch processing?</source>
-        <translation>確定要取消目前的批次處理?</translation>
+        <translation>確定要取消目前的批次處理？</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2442"/>
@@ -3647,7 +3654,9 @@ Do you want to go on the download page?</source>
 
 Do you want to overwrite it?</source>
         <oldsource>Output file exists already, do you want to overwrite it?</oldsource>
-        <translation type="unfinished">輸出檔已存在,要覆蓋嗎?</translation>
+        <translation>輸出檔已存在。
+
+要覆蓋嗎？</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2533"/>
@@ -3823,12 +3832,12 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgConvert.cpp" line="2687"/>
         <source>has read-only attribute, and can&apos;t be overwritten!</source>
-        <translation>具唯獨屬性，故無法覆蓋!</translation>
+        <translation>具唯獨屬性，故無法覆蓋！</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2690"/>
         <source>skipped, file already exists!</source>
-        <translation>將跳過，因檔案已存在!</translation>
+        <translation>將跳過，因檔案已存在！</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2692"/>
@@ -3874,7 +3883,10 @@ Do you want to overwrite it?</source>
 Do you want to overwrite it?</source>
         <oldsource>Destination already has a file named: %1
 Do you want to overwrite it?</oldsource>
-        <translation type="unfinished">檔案 %1 已存在. 要覆蓋嗎?</translation>
+        <translation>目的地已存在檔案：
+%1
+
+要覆蓋嗎？</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2802"/>
@@ -3906,7 +3918,9 @@ Do you want to overwrite it?</oldsource>
         <source>The &apos;Delete original&apos; option is enabled
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>「刪除原始檔案」選項已啟用
+
+要繼續嗎？</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2873"/>
@@ -3918,7 +3932,9 @@ Do you want to continue?</source>
         <source>Output filename will be the same for all converted files. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>輸出的檔名會與所有轉換過的檔案相同。
+
+要繼續嗎？</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2896"/>
@@ -4677,7 +4693,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert.ui" line="1122"/>
         <location filename="DlgConvert-old.ui" line="1561"/>
         <source>Delete original</source>
-        <translation>刪除原始</translation>
+        <translation>刪除原始檔案</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1131"/>
@@ -5666,7 +5682,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertLevels.ui" line="43"/>
         <source>RGB</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB</translation>
     </message>
     <message>
         <location filename="DlgConvertLevels.ui" line="48"/>
@@ -5968,7 +5984,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertQRcode.ui" line="104"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>中下</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="109"/>
@@ -6675,7 +6691,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertWatermark.ui" line="148"/>
         <source>Stretch</source>
-        <translation type="unfinished"></translation>
+        <translation>拉伸</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="155"/>
@@ -6918,7 +6934,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgCreateMulti.cpp" line="128"/>
         <source>An error occurred in multipage creating process!</source>
-        <translation>建立多頁檔時發生錯誤!</translation>
+        <translation>建立多頁檔時發生錯誤！</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.cpp" line="160"/>
@@ -7153,7 +7169,7 @@ Do you want to continue?</source>
         <location filename="DlgEditGps.cpp" line="34"/>
         <source>ExifTool is not installed in AddOn folder!</source>
         <oldsource>ExifTool is not installed in Addon folder!</oldsource>
-        <translation>未安裝Exif工具附加元件!</translation>
+        <translation>未安裝 Exif 工具附加元件！</translation>
     </message>
 </context>
 <context>
@@ -7221,8 +7237,8 @@ Do you want to continue?</source>
         <location filename="DlgEditXMP.cpp" line="226"/>
         <source>IPTC data has changed.
 Do you want to save your changes?</source>
-        <translation>IPTC資訊已變更.
-要儲存變更嗎?</translation>
+        <translation>IPTC資訊已變更。
+要儲存變更嗎？</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="386"/>
@@ -7232,7 +7248,8 @@ Do you want to save your changes?</source>
 Please make sure that files are not read-only!</source>
         <oldsource>An error occured during processing. 
 Please make sure that files are not read-only!</oldsource>
-        <translation>處理時發生錯誤. 請確認檔案沒有設成唯讀!</translation>
+        <translation>處理時發生錯誤。
+請確認檔案沒有設成唯讀！</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="424"/>
@@ -7768,7 +7785,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgFile.cpp" line="64"/>
         <source>Do you want to create this folder?</source>
-        <translation>您要建立這個資料夾嗎?</translation>
+        <translation>您要建立這個資料夾嗎？</translation>
     </message>
     <message>
         <location filename="DlgFile.cpp" line="97"/>
@@ -8017,7 +8034,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgFileReplace.cpp" line="121"/>
         <source>The destination contains already a folder with same name, what do you want to do?</source>
-        <translation>目的地已經有同名的資料夾,要如何處理?</translation>
+        <translation>目的地已經有同名的資料夾，要如何處理？</translation>
     </message>
     <message>
         <location filename="DlgFileReplace.cpp" line="124"/>
@@ -8034,7 +8051,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgFileReplace.cpp" line="227"/>
         <location filename="DlgFileReplace.cpp" line="238"/>
         <source>Are you sure to delete this file?</source>
-        <translation>確定要刪除這個檔案嗎?</translation>
+        <translation>確定要刪除這個檔案嗎？</translation>
     </message>
 </context>
 <context>
@@ -8660,7 +8677,7 @@ Subfolders will be created. </source>
     <message>
         <location filename="DlgImport.cpp" line="186"/>
         <source>Import can&apos;t be done, source and destination folder is the same!</source>
-        <translation>無法完成匯入,因來源和目的資料夾相同!</translation>
+        <translation>無法完成匯入，因來源和目的資料夾相同！</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="207"/>
@@ -8671,12 +8688,12 @@ Subfolders will be created. </source>
     <message>
         <location filename="DlgImport.cpp" line="207"/>
         <source>No files to import!</source>
-        <translation>無檔案可匯入!</translation>
+        <translation>無檔案可匯入！</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="218"/>
         <source>Files import finished!</source>
-        <translation>檔案匯入完成!</translation>
+        <translation>檔案匯入完成！</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="277"/>
@@ -8808,8 +8825,8 @@ Subfolders will be created. </source>
         <location filename="DlgIptc.cpp" line="898"/>
         <source>IPTC data has changed.
 Do you want to save your changes?</source>
-        <translation>IPTC資訊已變更.
-要儲存變更嗎?</translation>
+        <translation>IPTC資訊已變更。
+要儲存變更嗎？</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="918"/>
@@ -8819,7 +8836,7 @@ Do you want to save your changes?</source>
     <message>
         <location filename="DlgIptc.cpp" line="919"/>
         <source>Do you want to save your changes?</source>
-        <translation>要儲存變更嗎?</translation>
+        <translation>要儲存變更嗎？</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="1040"/>
@@ -8859,7 +8876,7 @@ Do you want to save your changes?</source>
     <message>
         <location filename="DlgIptc.cpp" line="1573"/>
         <source>Some fields are required, please fill them!</source>
-        <translation>某些欄位是必要的, 請填入它們的值!</translation>
+        <translation>某些欄位是必要的，請填入它們的值！</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="1644"/>
@@ -8869,12 +8886,13 @@ Do you want to save your changes?</source>
 Please make sure that files are not read-only!</source>
         <oldsource>An error occured during processing. 
 Please make sure that files are not read-only!</oldsource>
-        <translation>處理時發生錯誤. 請確認檔案沒有設成唯讀!</translation>
+        <translation>處理時發生錯誤。
+請確認檔案沒有設成唯讀！</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="1679"/>
         <source>Are you sure to overwrite IPTC/XMP data for ALL files with the current values of the fields?</source>
-        <translation>確定用目前設定值覆蓋所有檔案的 IPTC/XMP 資料?</translation>
+        <translation>確定用目前設定值覆蓋所有檔案的 IPTC/XMP 資料？</translation>
     </message>
 </context>
 <context>
@@ -9159,7 +9177,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgKeywordProperties.cpp" line="43"/>
         <source>This parent is already a child of current category!</source>
-        <translation>此父類別已是目前類別的子類別!</translation>
+        <translation>此父類別已是目前類別的子類別！</translation>
     </message>
 </context>
 <context>
@@ -9417,12 +9435,12 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPicasa.h" line="91"/>
         <source>An error occurred in uploading process!</source>
-        <translation>上傳時發生錯誤!</translation>
+        <translation>上傳時發生錯誤！</translation>
     </message>
     <message>
         <location filename="DlgPicasa.h" line="93"/>
         <source>An error occurred, please check your login data!</source>
-        <translation>發生錯誤, 請檢查登入資料!</translation>
+        <translation>發生錯誤！請檢查登入資料！</translation>
     </message>
 </context>
 <context>
@@ -10256,7 +10274,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgRegistration.cpp" line="198"/>
         <source>The name or code is invalid!</source>
-        <translation>姓名或代碼不合法!</translation>
+        <translation>姓名或代碼不合法！</translation>
     </message>
     <message>
         <location filename="DlgRegistration.cpp" line="211"/>
@@ -10304,7 +10322,7 @@ Do you want to remove them?</source>
         <location filename="DlgRename.cpp" line="1104"/>
         <source>Do you want to delete all your name templates?</source>
         <oldsource>Do you want to delete all your template&apos;s name?</oldsource>
-        <translation>確定要刪除您所有的名稱樣板?</translation>
+        <translation>確定要刪除您所有的名稱樣板？</translation>
     </message>
 </context>
 <context>
@@ -11307,10 +11325,10 @@ Do you want to remove them?</source>
 Do it only if you want to share same folder between several computers. 
 
 Do you want to change the &apos;base path&apos;?</source>
-        <translation>修改&apos;基礎路徑&apos;可能會切斷與已存在資料庫中的檔案關聯.
-只有在你想在電腦間分享同一個目錄時才會需要這樣做
+        <translation>修改「基礎路徑」可能會切斷與已存在資料庫中的檔案關聯。
+只有在你想在電腦間分享同一個目錄時才會需要這樣做。
 
-仍要修改&apos;基礎路徑&apos;嗎?</translation>
+仍要修改「基礎路徑」嗎？</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="359"/>
@@ -11329,9 +11347,9 @@ Do you want to change the &apos;base path&apos;?</source>
 
 Do you want to continue?</source>
         <oldsource>Warning! This operation will delete all orphaned files from catalog. Do you want to continue?</oldsource>
-        <translation>警告! 這個動作將會從目錄中刪除所有孤立檔案。
+        <translation>警告！這個動作將會從目錄中刪除所有孤立檔案。
 
-確定要繼續?</translation>
+確定要繼續？</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="545"/>
@@ -11361,9 +11379,10 @@ Color labels, Keywords may be deleted.
 
 Do you want to check for affected entries first?</source>
         <oldsource>Warning! This operation may delete some database entries with assigned ratings/colors/keywords. Do you want to check for affected entries first?</oldsource>
-        <translation>警告! 此動作會刪除DB中某些設有評分、顏色標籤、關鍵字等屬性的項目.
+        <translation>警告！此動作會刪除DB中某些設有評分、
+顏色標籤、關鍵字等屬性的項目。
 
-要先檢查受影響的項目嗎?</translation>
+要先檢查受影響的項目嗎？</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="882"/>
@@ -11374,7 +11393,7 @@ Do you want to check for affected entries first?</source>
     <message>
         <location filename="DlgSettingsCache.cpp" line="918"/>
         <source>Problem during database import!</source>
-        <translation>資料庫匯入時發生問題!</translation>
+        <translation>資料庫匯入時發生問題！</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="920"/>
@@ -11395,9 +11414,10 @@ Do you want to remove entries assigned to a Category?</source>
 (If information are exported into embedded or sidecar metadata, you&apos;ll be able to re-import them later)
 
 Do you want to remove entries assigned to a category?</oldsource>
-        <translation>注意，此動作會移除有類別、評分和顏色標籤的目錄項目
+        <translation>注意，此動作會移除有類別、評分和顏色標籤的目錄項目。
 
-(若資訊有匯出到嵌入或邊車詮釋資料，你之後可以重新匯入它們)
+（若資訊有匯出到嵌入或邊車詮釋資料，
+你之後可以重新匯入它們）。
 
 確定要移除設定到目錄的項目嗎？</translation>
     </message>
@@ -11897,7 +11917,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.cpp" line="457"/>
         <source>Do you want to delete the selected Auto Correct entry?</source>
-        <translation>確定要刪除選取的自動校正項目嗎?</translation>
+        <translation>確定要刪除選取的自動校正項目嗎？</translation>
     </message>
 </context>
 <context>
@@ -14157,7 +14177,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSimilar.cpp" line="87"/>
         <source>No files found!</source>
-        <translation>沒找到檔案!</translation>
+        <translation>沒找到檔案！</translation>
     </message>
 </context>
 <context>
@@ -14904,7 +14924,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgTimestamp.cpp" line="542"/>
         <source>An error occurred in updating process!</source>
-        <translation>更新時發生錯誤!</translation>
+        <translation>更新時發生錯誤！</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.cpp" line="557"/>
@@ -15179,7 +15199,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgUpload.ui" line="31"/>
         <source>Be careful, your image(s) will be uploaded on a public server!</source>
-        <translation>小心, 您的圖片將會上傳到公用伺服器!</translation>
+        <translation>小心，您的圖片將會被上傳到公開伺服器！</translation>
     </message>
     <message>
         <location filename="DlgUpload.ui" line="40"/>
@@ -15290,7 +15310,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgUserFilter.cpp" line="467"/>
         <source>Do you want to save changed filter(s)?</source>
-        <translation>要儲存變更的過濾器嗎?</translation>
+        <translation>要儲存變更的過濾器嗎？</translation>
     </message>
 </context>
 <context>
@@ -16417,7 +16437,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="Flickr.cpp" line="353"/>
         <source>An error has occurred!!</source>
         <oldsource>An error has occured!!</oldsource>
-        <translation>發生錯誤!!</translation>
+        <translation>發生錯誤！！</translation>
     </message>
     <message>
         <location filename="Flickr.cpp" line="378"/>
@@ -17083,7 +17103,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoCategoryView.cpp" line="1049"/>
         <location filename="InfoCategoryView.cpp" line="1108"/>
         <source>Are you sure to delete this category?</source>
-        <translation>確定要刪除這個類別?</translation>
+        <translation>確定要刪除這個類別？</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="1119"/>
@@ -17202,7 +17222,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoCategoryView.cpp" line="246"/>
         <location filename="InfoCategoryView.cpp" line="287"/>
         <source>Are you sure that you want to start importing categories file?</source>
-        <translation>確定要開始匯入類別檔?</translation>
+        <translation>確定要開始匯入類別檔？</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="251"/>
@@ -18448,9 +18468,9 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <source>JPEG lossless operation will modify original file(s), and may remove some unused pixels (width and height must be multiple of 8 pixels)!
 
 Do you want to continue?</source>
-        <translation>JPEG無失真操作將會修改原檔案，並可能移除一些無用的像素(寬高需8的倍數)!
+        <translation>JPEG無失真操作將會修改原檔案，並可能移除一些無用的像素（寬與高必須是8的倍數）！
 
-還要繼續嗎?</translation>
+要繼續嗎？</translation>
     </message>
     <message>
         <location filename="ItemProcess.cpp" line="324"/>
@@ -18500,8 +18520,9 @@ Do you want to continue?</source>
         <oldsource>The picture will be converted in 8 bits per component. 
 
 Do you want to continue?</oldsource>
-        <translation type="unfinished">這張圖片將會轉換成一個原色8位元(即真實色彩)
-還要繼續嗎?</translation>
+        <translation>這張圖片將會轉換成 24 位元 RGB （一個通道 8 位元）
+
+要繼續嗎？</translation>
     </message>
     <message>
         <location filename="ItemProcess.cpp" line="503"/>
@@ -18523,19 +18544,19 @@ Do you want to continue?</oldsource>
         <location filename="GFFHelper.h" line="20"/>
         <location filename="GFFHelper.h" line="64"/>
         <source>Saving in this format will discard comment and any existing metadata!</source>
-        <translation>用這種格式儲存將會丟棄註解和任何既存的詮釋資料!</translation>
+        <translation>用這種格式儲存將會丟棄註解和任何既存的詮釋資料！</translation>
     </message>
     <message>
         <location filename="GFFHelper.h" line="34"/>
         <location filename="GFFHelper.h" line="77"/>
         <source>Saving in this format will discard any existing metadata!</source>
-        <translation>用這種格式儲存將會丟棄既存的詮釋資料!</translation>
+        <translation>用這種格式儲存將會丟棄既存的詮釋資料！</translation>
     </message>
     <message>
         <location filename="GFFHelper.h" line="48"/>
         <location filename="GFFHelper.h" line="91"/>
         <source>Saving in this format will discard some metadata!</source>
-        <translation>用這種格式&apos;儲存&apos;會丟棄某些詮釋資料!</translation>
+        <translation>用這種格式儲存將會丟棄某些詮釋資料！</translation>
     </message>
 </context>
 <context>
@@ -21745,7 +21766,7 @@ Do you want to continue?</oldsource>
         <location filename="BitmapViewProcess.h" line="41"/>
         <source>An error occurred during processing!</source>
         <oldsource>An error occurs during process!</oldsource>
-        <translation>處理時發生錯誤!</translation>
+        <translation>處理時發生錯誤！</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.cpp" line="564"/>
@@ -21869,7 +21890,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyFolderView.cpp" line="537"/>
         <source>Are you sure to delete this folder?</source>
-        <translation>確定要刪除這個資料夾嗎?</translation>
+        <translation>確定要刪除這個資料夾嗎？</translation>
     </message>
 </context>
 <context>
@@ -22135,7 +22156,7 @@ You can change it in Settings › Catalog.</oldsource>
         <location filename="PaintDialog.cpp" line="64"/>
         <source>Do you want to exit drawing and discard your changes?</source>
         <oldsource>Do you want to close the draw tools?</oldsource>
-        <translation>確定退出繪圖並放棄已做的更改?</translation>
+        <translation>確定退出繪圖並放棄已做的更改？</translation>
     </message>
     <message>
         <location filename="PaintDialog.cpp" line="64"/>
@@ -23116,7 +23137,7 @@ Right Click for pop-up menu with actions.</source>
         <location filename="ItemModel.cpp" line="4599"/>
         <source>An error has occurred during renaming!</source>
         <oldsource>An error occured during renaming!</oldsource>
-        <translation>重新命名時發生錯誤!</translation>
+        <translation>重新命名時發生錯誤！</translation>
     </message>
 </context>
 <context>
@@ -23642,7 +23663,10 @@ Right Click for pop-up menu with actions.</source>
 
 Do you want to keep the thumbnails?
  (If you choose YES, the upgrade process will be slow)</source>
-        <translation>XnViewMP將升級目錄, 會花費一些時間.要保留縮圖嗎? (若選擇是,升級程序會執行較久)</translation>
+        <translation>XnViewMP將升級目錄。可能會花費一些時間。
+
+要保留縮圖嗎？
+（若選擇是，升級程序會執行得較久）</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="455"/>
@@ -23663,7 +23687,7 @@ Do you want to keep the thumbnails?
     <message>
         <location filename="xnview.cpp" line="525"/>
         <source>There is a problem to open catalog, check your settings or folder used!</source>
-        <translation>開啟目錄時有錯誤, 請檢查設定或使用的資料夾!</translation>
+        <translation>開啟目錄時有錯誤，請檢查設定或使用的資料夾！</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="921"/>
@@ -23686,7 +23710,7 @@ Rating, Tag &amp; Color labels will not be saved.</source>
     <message>
         <location filename="xnview.cpp" line="992"/>
         <source>Your previous session contains many loaded images, this can cause a slowdown!</source>
-        <translation>前次工作階段有過多載入圖片，可能拖慢速度!</translation>
+        <translation>前次工作階段有過多載入圖片，可能拖慢速度！</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="992"/>
@@ -23696,7 +23720,7 @@ Rating, Tag &amp; Color labels will not be saved.</source>
     <message>
         <location filename="xnview.cpp" line="1522"/>
         <source>Do you want to quit?</source>
-        <translation>確定要跳出XnViewMP@@?</translation>
+        <translation>確定要退出 XnViewMP @@？</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1598"/>
@@ -23718,12 +23742,12 @@ Rating, Tag &amp; Color labels will not be saved.</source>
     <message>
         <location filename="xnview.cpp" line="1168"/>
         <source>File not found!</source>
-        <translation>沒找到檔案!</translation>
+        <translation>沒找到檔案！</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1623"/>
         <source>Do you want to save this session?</source>
-        <translation>您要儲存這次的session嗎?</translation>
+        <translation>您要儲存這次的 session 嗎？</translation>
     </message>
 </context>
 </TS>
