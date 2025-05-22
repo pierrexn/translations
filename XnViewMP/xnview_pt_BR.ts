@@ -10317,6 +10317,10 @@ Do you want to reassign?</source>
         <source>Face tag</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Update master file</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsPanel</name>
@@ -16552,6 +16556,10 @@ Do you want to continue?</source>
     <message>
         <source>Use anti-aliasing</source>
         <translation type="unfinished">Usar antisserrilhado</translation>
+    </message>
+    <message>
+        <source>Print opened images...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

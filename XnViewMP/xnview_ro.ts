@@ -10381,6 +10381,10 @@ Dorești să-l reatribui?</translation>
         <source>Face tag</source>
         <translation>Etichetă facială</translation>
     </message>
+    <message>
+        <source>Update master file</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsPanel</name>
@@ -16621,6 +16625,10 @@ Vrei să continui?</translation>
     <message>
         <source>Use anti-aliasing</source>
         <translation>Folosește antialiasarea</translation>
+    </message>
+    <message>
+        <source>Print opened images...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

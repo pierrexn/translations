@@ -10371,6 +10371,10 @@ Haluatko määrittää uudelleen?</translation>
         <source>Face tag</source>
         <translation>Kasvojen tunnistus</translation>
     </message>
+    <message>
+        <source>Update master file</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsPanel</name>
@@ -16612,6 +16616,10 @@ Jatketaanko?</translation>
     <message>
         <source>Use anti-aliasing</source>
         <translation>Käytä pehmennystä</translation>
+    </message>
+    <message>
+        <source>Print opened images...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
