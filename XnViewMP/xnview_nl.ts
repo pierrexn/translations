@@ -13362,7 +13362,7 @@ Opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="366"/>
         <source>Update master file</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoofdbestand bijwerken</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="431"/>
@@ -20756,7 +20756,7 @@ Doorgaan?</translation>
     <message>
         <location filename="ViewMenu.h" line="319"/>
         <source>Print opened images...</source>
-        <translation type="unfinished"></translation>
+        <translation>Geopende afbeeldingen afdrukken…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="320"/>
