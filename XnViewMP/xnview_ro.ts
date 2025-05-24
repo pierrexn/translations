@@ -10383,7 +10383,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Update master file</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizați fișierul principal (master)</translation>
     </message>
 </context>
 <context>
@@ -16628,7 +16628,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Print opened images...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipărește imaginile deschise...</translation>
     </message>
 </context>
 <context>
