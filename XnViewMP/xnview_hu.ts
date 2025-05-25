@@ -20730,7 +20730,7 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="ViewMenu.h" line="319"/>
         <source>Print opened images...</source>
-        <translation type="unfinished"></translation>
+        <translation>Megnyitott képek nyomtatása...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="320"/>
