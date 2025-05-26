@@ -709,7 +709,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Export (Bridge format)...</source>
-        <translation>Export (format Bridge)...</translation>
+        <translation>Exportă (în formatul Bridge)...</translation>
     </message>
     <message>
         <source>Are you sure to delete this album?</source>
@@ -749,7 +749,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Export collection</source>
-        <translation>Export colecție</translation>
+        <translation>Exportă colecția</translation>
     </message>
     <message>
         <source>Import (Bridge format)...</source>
@@ -834,7 +834,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Copy to</source>
-        <translation>Copiaza in</translation>
+        <translation>Copiază în</translation>
     </message>
     <message>
         <source>Histogram</source>
@@ -1644,7 +1644,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Elimina</translation>
+        <translation>Elimină</translation>
     </message>
     <message>
         <source>Configure Adobe Plugin</source>
@@ -2419,7 +2419,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Copy Categories to Set...</source>
-        <translation>Copiază categoriile în set...</translation>
+        <translation>Copiază categoriile în setul...</translation>
     </message>
     <message>
         <source>Enter a name for this set</source>
@@ -2905,7 +2905,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Export log</source>
-        <translation>Export jurnal</translation>
+        <translation>Exportă jurnalul</translation>
     </message>
     <message>
         <source>failed</source>
@@ -2977,7 +2977,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Export script</source>
-        <translation>Export script</translation>
+        <translation>Exportă scriptul</translation>
     </message>
     <message numerus="yes">
         <source>Input: %n file(s)</source>
@@ -3936,7 +3936,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Export for NConvert...</source>
-        <translation>Export pentru NConvert...</translation>
+        <translation>Exportă pentru NConvert...</translation>
     </message>
     <message>
         <source>Convert multipage file to multipage file (when possible)</source>
@@ -4058,7 +4058,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Grayscale</source>
-        <translation>Scara tonurilor de gri</translation>
+        <translation>Tonuri de gri</translation>
     </message>
     <message>
         <source>Dithering</source>
@@ -5862,7 +5862,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>None</source>
-        <translation>Nmic</translation>
+        <translation>Nimic</translation>
     </message>
     <message>
         <source>Images</source>
@@ -5906,11 +5906,11 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Halftone 90</source>
-        <translation>Semiton 90</translation>
+        <translation>Semitonul 90</translation>
     </message>
     <message>
         <source>Halftone 45</source>
-        <translation>Semiton 45</translation>
+        <translation>Semitonul 45</translation>
     </message>
     <message>
         <source>Save File</source>
@@ -5918,7 +5918,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Greyscale</source>
-        <translation>Scara tonurilor de gri</translation>
+        <translation>Tonuri de gri</translation>
     </message>
     <message>
         <source>Floyd-Steinberg</source>
@@ -5926,7 +5926,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Black&amp;White</source>
-        <translation>Alb&amp;negru</translation>
+        <translation>Alb și negru</translation>
     </message>
     <message>
         <source>This is not an image file</source>
@@ -5945,7 +5945,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Categories file</source>
-        <translation>Fișierul categoriilor</translation>
+        <translation>Fișierul de categorii</translation>
     </message>
     <message>
         <source>Catalog export</source>
@@ -5953,7 +5953,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Export Rating &amp;&amp; Color labels</source>
-        <translation>Evaluare de export și etichete de culoare</translation>
+        <translation>Exportă evaluarea (nota/rating-ul) și etichetele de culoare</translation>
     </message>
 </context>
 <context>
@@ -5972,7 +5972,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Smoothing factor</source>
-        <translation>Factor de netezire</translation>
+        <translation>Factorul de netezire</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -5980,7 +5980,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Export</source>
-        <translation>Export</translation>
+        <translation>Exportă</translation>
     </message>
     <message>
         <source>Lowest</source>
@@ -5988,11 +5988,11 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>&amp;Export...</source>
-        <translation>&amp;Export...</translation>
+        <translation>&amp;Exportă...</translation>
     </message>
     <message>
         <source>Progressive</source>
-        <translation>Progresist</translation>
+        <translation>Progresiv</translation>
     </message>
     <message>
         <source>Quality</source>
@@ -6008,7 +6008,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Automatic preview refresh</source>
-        <translation>Reîmprospătare automată a previzualizării</translation>
+        <translation>Reîmprospătează în automat previzualizarea</translation>
     </message>
     <message>
         <source>Refresh preview</source>
@@ -6079,7 +6079,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     <name>DlgFile</name>
     <message>
         <source>Copy</source>
-        <translation>Copiaza</translation>
+        <translation>Copiere</translation>
     </message>
     <message>
         <source>Move</source>
@@ -6095,7 +6095,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Copy to</source>
-        <translation>Copiaza in</translation>
+        <translation>Copiază în</translation>
     </message>
     <message>
         <source>Folder doesn&apos;t exist</source>
@@ -6186,7 +6186,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Copy to Clipboard</source>
-        <translation>Copiază în Clipboard</translation>
+        <translation>Copiază în clipboard</translation>
     </message>
     <message>
         <source>File listing</source>
@@ -7284,7 +7284,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Greyscale</source>
-        <translation>Scara tonurilor de gri</translation>
+        <translation>Tonuri de gri</translation>
     </message>
 </context>
 <context>
@@ -9511,7 +9511,7 @@ miniatură</translation>
     </message>
     <message>
         <source>Copy (#) of &lt;Filename&gt;</source>
-        <translation>Copiază (#) &lt;Numele fișierului&gt;</translation>
+        <translation>Copie a (#) &lt;Numelui fișierului&gt;</translation>
     </message>
     <message>
         <source>Lossless transformations</source>
@@ -9519,7 +9519,7 @@ miniatură</translation>
     </message>
     <message>
         <source>Save as copy for &apos;Save&apos; action</source>
-        <translation>Salvează ca copie pentru acțiunea „Salvare”</translation>
+        <translation>Salvează ca o copie pentru acțiunea „Salvare”</translation>
     </message>
     <message>
         <source>Make backup for lossless crop</source>
@@ -9667,7 +9667,7 @@ miniatură</translation>
     </message>
     <message>
         <source>File copying</source>
-        <translation>Copierea fișierelor</translation>
+        <translation>Se copiază fișierele</translation>
     </message>
 </context>
 <context>
@@ -10311,7 +10311,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>EXIF Copyright</source>
-        <translation>Drepturi de autor EXIF</translation>
+        <translation>Drepturi de autor pentru EXIF</translation>
     </message>
     <message>
         <source>Use UTF-8 to write IPTC fields</source>
@@ -11061,7 +11061,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Copy to</source>
-        <translation>Copiaza in</translation>
+        <translation>Copiază în</translation>
     </message>
     <message>
         <source>Sort by</source>
@@ -12238,7 +12238,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Grayscale</source>
-        <translation>Scara tonurilor de gri</translation>
+        <translation>Tonuri de gri</translation>
     </message>
 </context>
 <context>
@@ -12404,7 +12404,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Protected by copyright</source>
-        <translation>Protejată prin drepturi de autor</translation>
+        <translation>Protejat(ă) prin drepturi de autor</translation>
     </message>
     <message>
         <source>Public domain</source>
@@ -12613,7 +12613,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     <name>File</name>
     <message>
         <source>Copy of %1%2</source>
-        <translation>Copia %1%2</translation>
+        <translation>Copie a lui %1%2</translation>
     </message>
     <message>
         <source>%1-Copy%2</source>
@@ -12621,7 +12621,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>%1 - Copy%2</source>
-        <translation>%1 - Copiere%2</translation>
+        <translation>%1 - Copie%2</translation>
     </message>
     <message>
         <source>%1-Copy (%3)%2</source>
@@ -12629,11 +12629,11 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Copy (%3) of %1%2</source>
-        <translation>Copie (%3) din %1%2</translation>
+        <translation>Copia (%3) din %1%2</translation>
     </message>
     <message>
         <source>%1 - Copy (%3)%2</source>
-        <translation>%1 - Copiază (%3)%2</translation>
+        <translation>%1 - Copia (%3)%2</translation>
     </message>
 </context>
 <context>
@@ -14539,7 +14539,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>Copie</translation>
+        <translation>Copiere</translation>
     </message>
     <message>
         <source>Dark</source>
@@ -14987,7 +14987,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Export...</source>
-        <translation>Export...</translation>
+        <translation>Exportă...</translation>
     </message>
     <message>
         <source>Filelist toolbar</source>
@@ -15243,7 +15243,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Copy to...</source>
-        <translation>Copiaza in...</translation>
+        <translation>Copiază în...</translation>
     </message>
     <message>
         <source>EXIF Date Modified</source>
@@ -15796,7 +15796,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>Copiază</translation>
+        <translation>Copiere</translation>
     </message>
     <message>
         <source>Fair</source>
@@ -16116,7 +16116,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Export...</source>
-        <translation>Export...</translation>
+        <translation>Exportă...</translation>
     </message>
     <message>
         <source>Save as...</source>
@@ -16292,7 +16292,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Copy to...</source>
-        <translation>Copiaza in...</translation>
+        <translation>Copiază în...</translation>
     </message>
     <message>
         <source>Draw...</source>
@@ -17041,7 +17041,7 @@ O poți schimba în Setări › Catalog.</translation>
     <name>OpenWithMenu</name>
     <message>
         <source>Configure programs...</source>
-        <translation>Configurează programe...</translation>
+        <translation>Configurează programele...</translation>
     </message>
     <message>
         <source>Associated program</source>
@@ -17579,27 +17579,27 @@ Fă clic dreapta pentru meniul pop-up cu acțiuni.</translation>
     </message>
     <message>
         <source>%1 GB</source>
-        <translation>%1 GB</translation>
+        <translation>%1 GB (GO)</translation>
     </message>
     <message>
         <source>%1 MB</source>
-        <translation>%1 MB</translation>
+        <translation>%1 MB (MO)</translation>
     </message>
     <message>
         <source>%1 kB</source>
-        <translation>%1 kB</translation>
+        <translation>%1 kB (kO)</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Închide</translation>
+        <translation>Închidere</translation>
     </message>
     <message>
         <source>5 MB/s (00:00:15 remaining)</source>
-        <translation>5 MB/s (00:00:15 rămas)</translation>
+        <translation>5 MB/s (MO/s) (00:00:15 rămas(e))</translation>
     </message>
     <message>
         <source>10 MB of 100 MB completed</source>
-        <translation>10 MB din 100 MB finalizați</translation>
+        <translation>10 MB (MO) din 100 MB (MO) finalizați</translation>
     </message>
     <message>
         <source>0 / 1 dirs</source>
@@ -17607,7 +17607,7 @@ Fă clic dreapta pentru meniul pop-up cu acțiuni.</translation>
     </message>
     <message>
         <source>%1 of %2 completed</source>
-        <translation>%1 din %2 finalizat</translation>
+        <translation>%1 din %2 finalizat(e)</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -17623,11 +17623,11 @@ Fă clic dreapta pentru meniul pop-up cu acțiuni.</translation>
     </message>
     <message>
         <source>2 / 5 files</source>
-        <translation>2/5 fișiere</translation>
+        <translation>2 / 5 fișiere</translation>
     </message>
     <message>
         <source>%1 / %2 dirs</source>
-        <translation>%1 / %2 directoare</translation>
+        <translation>%1 / %2 (de) directoare</translation>
     </message>
     <message>
         <source>%1% of %2 (%3)</source>
@@ -17635,19 +17635,19 @@ Fă clic dreapta pentru meniul pop-up cu acțiuni.</translation>
     </message>
     <message>
         <source>%1 / %2 files</source>
-        <translation>%1 / %2 fișiere</translation>
+        <translation>%1 / %2 (de) fișiere</translation>
     </message>
     <message>
         <source>24% of 100MB (Copying...)</source>
-        <translation>24% din 100MB (Se copiează...)</translation>
+        <translation>24% din 100MB (MO) (Se copiază...)</translation>
     </message>
     <message>
         <source>Moving...</source>
-        <translation>In miscare...</translation>
+        <translation>Se mută...</translation>
     </message>
     <message>
         <source>%1/s ( %2 remaining )</source>
-        <translation>%1/s (%2 rămase)</translation>
+        <translation>%1/s (%2 rămas(e))</translation>
     </message>
 </context>
 <context>
@@ -17658,7 +17658,7 @@ Fă clic dreapta pentru meniul pop-up cu acțiuni.</translation>
     </message>
     <message>
         <source>Force: Cannot remove destination file.</source>
-        <translation>Forțare: Nu se poate elimina fișierul destinație.</translation>
+        <translation>Forțare: Nu se poate șterge fișierul destinație.</translation>
     </message>
     <message>
         <source>Cannot open destination file. Please check permissions.</source>
@@ -17678,7 +17678,7 @@ Fă clic dreapta pentru meniul pop-up cu acțiuni.</translation>
     </message>
     <message>
         <source>Cannot remove source.</source>
-        <translation>Nu se poate elimina sursa.</translation>
+        <translation>Nu se poate șterge sursa.</translation>
     </message>
     <message>
         <source>Cannot create symbolic link targeting to source.</source>
@@ -17698,7 +17698,7 @@ Fă clic dreapta pentru meniul pop-up cu acțiuni.</translation>
     </message>
     <message>
         <source>Error code: %1</source>
-        <translation>Cod de eroare: %1</translation>
+        <translation>Codul de eroare: %1</translation>
     </message>
     <message>
         <source>Source file is a directory. Omitting source directory.</source>
