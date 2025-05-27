@@ -12513,27 +12513,27 @@ Miniatúru</translation>
         <location filename="DlgSettingsIntegration.ui" line="299"/>
         <location filename="DlgSettingsIntegration.ui" line="347"/>
         <source>Current location</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuálna poloha</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="166"/>
         <source>Settings - Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavenia - Ostatné</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="216"/>
         <source>Database - Catalog</source>
-        <translation type="unfinished"></translation>
+        <translation>Databáza - Katalóg</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="272"/>
         <source>Database - Thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Databáza - Miniatúry</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="313"/>
         <source>Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurácia</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="324"/>
@@ -13342,7 +13342,7 @@ Chcete ho priradiť znova?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="366"/>
         <source>Update master file</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizácia hlavného súboru</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="431"/>
@@ -13957,7 +13957,7 @@ Chcete ho priradiť znova?</translation>
         <location filename="DlgSettingsView.ui" line="435"/>
         <source>Anti-aliasing</source>
         <oldsource>Antialiasing</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Vyhladzovanie</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="441"/>
@@ -14700,7 +14700,7 @@ Chcete ho priradiť znova?</translation>
     <message>
         <location filename="DlgStartupWizard.ui" line="92"/>
         <source>Current user (Windows registry)</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuálny používateľ (register systému Windows)</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="97"/>
@@ -14710,7 +14710,7 @@ Chcete ho priradiť znova?</translation>
     <message>
         <location filename="DlgStartupWizard.ui" line="102"/>
         <source>Portable (application folder)</source>
-        <translation type="unfinished"></translation>
+        <translation>Prenosné (priečinok aplikácie)</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="128"/>
@@ -14977,7 +14977,7 @@ Chcette pokračovať?</translation>
     <message>
         <location filename="DlgTimestamp.cpp" line="568"/>
         <source>An error occurred when updating these files:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pri aktualizácii týchto súborov došlo ku chybe:</translation>
     </message>
 </context>
 <context>
@@ -17247,12 +17247,12 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="139"/>
         <source>Import Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Import kategórií</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="141"/>
         <source>Export Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Export kategórií</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="246"/>
@@ -17988,7 +17988,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="InfoIPTCView.cpp" line="26"/>
         <location filename="IptcHelper.cpp" line="18"/>
         <source>Local caption</source>
-        <translation type="unfinished"></translation>
+        <translation>Miestny titulok</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="65"/>
@@ -19478,7 +19478,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="BrowserMenu.h" line="644"/>
         <source>Show channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť kanál</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="649"/>
@@ -21145,7 +21145,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="ViewMenu.h" line="319"/>
         <source>Print opened images...</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytlačiť otvorené obrázky...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="327"/>
@@ -21201,17 +21201,17 @@ Chcete pokračovať?</translation>
         <location filename="ViewMenu.h" line="450"/>
         <source>Use anti-aliasing</source>
         <oldsource>Use antialiasing</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Použiť vyhladzovanie</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="451"/>
         <source>Use transparency grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Použiť mriežku priehľadnosti</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="452"/>
         <source>Show channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť kanál</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="462"/>
