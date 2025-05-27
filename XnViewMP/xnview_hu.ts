@@ -11696,7 +11696,7 @@ miniatűrként</translation>
     <message>
         <location filename="DlgSettingsFilelist.cpp" line="385"/>
         <source>Master extension</source>
-        <translation>Mester bővítmény</translation>
+        <translation>Fő-bővítmény</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.cpp" line="385"/>
@@ -13345,7 +13345,7 @@ Szeretné újratársítani?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="366"/>
         <source>Update master file</source>
-        <translation type="unfinished"></translation>
+        <translation>Főfájl frissítése</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="431"/>
@@ -21951,7 +21951,7 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="MyLittleToolBar.h" line="374"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished">Kattintásra változtat a miniatűrök szélességén [pixel] és az oszloponkénti számán</translation>
+        <translation>Csúszka funkció váltása: miniatűrök mérete [pixel] vagy miniatűrök oszloponkénti száma</translation>
     </message>
 </context>
 <context>
@@ -21959,7 +21959,7 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="MyLittleToolBar.h" line="754"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished">Kattintásra változtat a miniatűrök szélességén [pixel] és az oszloponkénti számán</translation>
+        <translation>Csúszka funkció váltása: miniatűrök mérete [pixel] vagy miniatűrök oszloponkénti száma</translation>
     </message>
 </context>
 <context>
