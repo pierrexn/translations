@@ -927,7 +927,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Tile</source>
-        <translation>Ţiglă</translation>
+        <translation>Dală (Mozaic)</translation>
     </message>
     <message>
         <source>Symmetry</source>
@@ -935,7 +935,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Bloom</source>
-        <translation>A inflori</translation>
+        <translation>Bloom (Lumină radiantă)</translation>
     </message>
     <message>
         <source>Phase</source>
@@ -1043,7 +1043,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Adjust</source>
-        <translation>Regla</translation>
+        <translation>Reglează</translation>
     </message>
     <message>
         <source>Amount</source>
@@ -1191,7 +1191,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Border 3D</source>
-        <translation>Border 3D</translation>
+        <translation>Margine 3D</translation>
     </message>
     <message>
         <source>Desaturate</source>
@@ -1223,7 +1223,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>ICC convert</source>
-        <translation>Convertit ICC</translation>
+        <translation>Convertește ICC-ul</translation>
     </message>
     <message>
         <source>Oil painting 2</source>
@@ -1231,7 +1231,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Crystallize</source>
-        <translation>Cristaliza</translation>
+        <translation>Cristalizează</translation>
     </message>
     <message>
         <source>Zealous crop</source>
@@ -1468,7 +1468,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Travel</source>
-        <translation>Voiaj</translation>
+        <translation>Călătorii</translation>
     </message>
     <message>
         <source>Photographs</source>
@@ -1827,7 +1827,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Skip</source>
-        <translation>Sari peste</translation>
+        <translation>Sari</translation>
     </message>
     <message>
         <source>Stop</source>
@@ -3065,7 +3065,7 @@ Vrei să mergi pe pagina de descărcare?</translation>
     </message>
     <message>
         <source>Cancel batch processing</source>
-        <translation>Anulează procesarea multiplă</translation>
+        <translation>Anulează procesarea în masă</translation>
     </message>
     <message>
         <source>Do you want to cancel current batch processing?</source>
@@ -3876,7 +3876,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>&amp;Convert</source>
-        <translation>&amp;Convertit</translation>
+        <translation>&amp;Convertire</translation>
     </message>
     <message>
         <source>Clear all</source>
@@ -4482,11 +4482,11 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Blur</source>
-        <translation>Estompa</translation>
+        <translation>Estompare</translation>
     </message>
     <message>
         <source>Mask</source>
-        <translation>Masca</translation>
+        <translation>Maschează</translation>
     </message>
     <message>
         <source>Color</source>
@@ -4498,7 +4498,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Use mask as alpha</source>
-        <translation>Folosește masca ca alfa</translation>
+        <translation>Folosește masca ca alfa (alpha)</translation>
     </message>
     <message>
         <source>Stretch</source>
@@ -4506,7 +4506,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Tile</source>
-        <translation>Dală</translation>
+        <translation>Dală (Mozaic)</translation>
     </message>
 </context>
 <context>
@@ -5291,7 +5291,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Tile</source>
-        <translation>Dală</translation>
+        <translation>Dală (Mozaic)</translation>
     </message>
     <message>
         <source>Anchor</source>
@@ -6763,7 +6763,7 @@ Subfolderele (Subdosarele) vor fi create.. </translation>
     </message>
     <message>
         <source>Create XMP sidecar for all files</source>
-        <translation>Crează un fișier însoțitor (sidecar) XMP pentru toate fișierele</translation>
+        <translation>Crează un fișier însoțitor (un sidecar) XMP pentru toate fișierele</translation>
     </message>
     <message>
         <source>Transfer files with no EXIF to &apos;Other Files&apos; folder</source>
@@ -8911,7 +8911,7 @@ you&apos;ll be able to re-import later.
 Do you want to remove entries assigned to a Category?</source>
         <translation>Intrările din catalog cu etichetele Categorii, Evaluare și Culoare vor fi eliminate. 
 
-Dacă informațiile sunt exportate în metadate încorporate (sidecar) sau cu dosar (folder) suplimentar, 
+Dacă informațiile sunt exportate în metadate încorporate din fișierul însoțitor (din sidecar) sau cu dosar (folder) suplimentar, 
 le vei putea reimporta mai târziu. 
 
 Dorești să elimini intrările atribuite unei categorii?</translation>
@@ -10299,7 +10299,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Sidecar</source>
-        <translation>Fișierul însoțitor (Sidecar)</translation>
+        <translation>Fișierul însoțitor (Sidecar-ul)</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -10767,7 +10767,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation>Redirecţiona</translation>
+        <translation>Redirecţionare</translation>
     </message>
     <message>
         <source>Pixel ratio</source>
@@ -11270,7 +11270,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Tiles</source>
-        <translation>Plăci</translation>
+        <translation>Dale (Mozaic)</translation>
     </message>
     <message>
         <source>Width</source>
@@ -11957,11 +11957,11 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Tile</source>
-        <translation>Dală</translation>
+        <translation>Dală (Mozaic)</translation>
     </message>
     <message>
         <source>Tile from center</source>
-        <translation>Dală din centru</translation>
+        <translation>Dală (Mozaic) din centru</translation>
     </message>
     <message>
         <source>Stretch</source>
@@ -15387,11 +15387,11 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Draw as tiled</source>
-        <translation>Desenează ca dale</translation>
+        <translation>Desenează ca dale (ca mozaic)</translation>
     </message>
     <message>
         <source>Batch rename...</source>
-        <translation>Redenumire în masă...</translation>
+        <translation>Redenumește în masă...</translation>
     </message>
     <message>
         <source>Archive...</source>
