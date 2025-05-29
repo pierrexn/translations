@@ -13351,7 +13351,7 @@ Möchten Sie neu zuweisen?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="366"/>
         <source>Update master file</source>
-        <translation type="unfinished"></translation>
+        <translation>Masterdatei aktualisieren</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="431"/>
@@ -21119,7 +21119,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="ViewMenu.h" line="319"/>
         <source>Print opened images...</source>
-        <translation type="unfinished"></translation>
+        <translation>Geöffnete Bilder drucken...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="327"/>
