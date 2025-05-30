@@ -12396,12 +12396,12 @@ miniatury</translation>
         <location filename="DlgSettingsIntegration.cpp" line="53"/>
         <source>System - Current user</source>
         <oldsource>User (System)</oldsource>
-        <translation type="unfinished">Użytkownika (system)</translation>
+        <translation>System - Bieżący użytkownik</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="31"/>
         <source>System - Current user (Windows registry)</source>
-        <translation type="unfinished"></translation>
+        <translation>System - Bieżący użytkownik (rejestr Windows)</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="32"/>
@@ -12409,14 +12409,14 @@ miniatury</translation>
         <location filename="DlgSettingsIntegration.cpp" line="47"/>
         <location filename="DlgSettingsIntegration.cpp" line="55"/>
         <source>System - Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation>System - Komputer lokalny</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="34"/>
         <location filename="DlgSettingsIntegration.cpp" line="42"/>
         <location filename="DlgSettingsIntegration.cpp" line="49"/>
         <source>Application folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Folder aplikacji</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="36"/>
@@ -12505,7 +12505,7 @@ miniatury</translation>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="120"/>
         <source>Settings - General</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustawienia - Ogólne</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="137"/>
@@ -12514,47 +12514,47 @@ miniatury</translation>
         <location filename="DlgSettingsIntegration.ui" line="299"/>
         <location filename="DlgSettingsIntegration.ui" line="347"/>
         <source>Current location</source>
-        <translation type="unfinished"></translation>
+        <translation>Bieżąca lokalizacja</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="166"/>
         <source>Settings - Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustawienia - Inne</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="216"/>
         <source>Database - Catalog</source>
-        <translation type="unfinished"></translation>
+        <translation>Baza danych - Katalog</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="272"/>
         <source>Database - Thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Baza danych - Miniatury</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="313"/>
         <source>Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfiguracja</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="324"/>
         <source>Current user (recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bieżący użytkownik (zalecane)</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="329"/>
         <source>Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation>Komputer lokalny</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="334"/>
         <source>Portable</source>
-        <translation type="unfinished"></translation>
+        <translation>Przenośna</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="339"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Własne</translation>
     </message>
 </context>
 <context>
@@ -13333,7 +13333,7 @@ Czy zmienić przypisanie?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="366"/>
         <source>Update master file</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaktualizuj plik główny</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="431"/>
@@ -13781,7 +13781,7 @@ Czy zmienić przypisanie?</translation>
         <location filename="DlgSettingsView.ui" line="129"/>
         <source>Use transparency grid (checkerboard pattern)</source>
         <oldsource>Use checkboard pattern as background</oldsource>
-        <translation type="unfinished">Użyj wzoru szachownicy jako tła</translation>
+        <translation>Użyj siatki dla przezroczystości (wzór szachownicy)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="382"/>
@@ -13842,7 +13842,7 @@ Czy zmienić przypisanie?</translation>
         <location filename="DlgSettingsView.ui" line="528"/>
         <source>Reset X/Y position on file change (No fit)</source>
         <oldsource>Reset X/Y (No fit)</oldsource>
-        <translation type="unfinished">Resetuj X/Y (bez dopasowania)</translation>
+        <translation>Resetuj pozycję X/Y po zmianie pliku (bez dopasowania)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="848"/>
@@ -13870,7 +13870,7 @@ Czy zmienić przypisanie?</translation>
         <location filename="DlgSettingsView.ui" line="493"/>
         <source>Scale on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
         <oldsource>Zoom on HiDPI screen: 1 image pixel equals 1 screen pixel</oldsource>
-        <translation type="unfinished">Powiększenie na ekranach HDPI: 1 piksel obrazu równa się 1 piksel ekranu</translation>
+        <translation>Skalowanie na ekranach HDPI: 1 piksel obrazu równa się 1 piksel ekranu</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="549"/>
@@ -13957,7 +13957,7 @@ Czy zmienić przypisanie?</translation>
         <location filename="DlgSettingsView.ui" line="435"/>
         <source>Anti-aliasing</source>
         <oldsource>Antialiasing</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Antyaliasing</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="441"/>
@@ -14695,22 +14695,22 @@ Czy zmienić przypisanie?</translation>
     <message>
         <location filename="DlgStartupWizard.ui" line="87"/>
         <source>Current user (recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bieżący użytkownik (zalecane)</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="92"/>
         <source>Current user (Windows registry)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bieżący użytkownik (rejestr Windows)</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="97"/>
         <source>Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation>Komputer lokalny</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="102"/>
         <source>Portable (application folder)</source>
-        <translation type="unfinished"></translation>
+        <translation>Przenośna (folder aplikacji)</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="128"/>
@@ -14977,7 +14977,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="DlgTimestamp.cpp" line="568"/>
         <source>An error occurred when updating these files:</source>
-        <translation type="unfinished"></translation>
+        <translation>Wystąpił błąd podczas aktualizacji tych plików:</translation>
     </message>
 </context>
 <context>
@@ -17247,12 +17247,12 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="139"/>
         <source>Import Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Importuj kategorie</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="141"/>
         <source>Export Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksportuj kategorie</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="246"/>
@@ -19437,7 +19437,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="BrowserMenu.h" line="644"/>
         <source>Show channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż kanał</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="652"/>
@@ -21148,7 +21148,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="ViewMenu.h" line="319"/>
         <source>Print opened images...</source>
-        <translation type="unfinished"></translation>
+        <translation>Drukuj otworzone obrazy...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="327"/>
@@ -21204,17 +21204,17 @@ Czy chcesz kontynuować?</translation>
         <location filename="ViewMenu.h" line="450"/>
         <source>Use anti-aliasing</source>
         <oldsource>Use antialiasing</oldsource>
-        <translation type="unfinished">Użyj wygładzania krawędzi</translation>
+        <translation>Użyj wygładzania krawędzi</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="451"/>
         <source>Use transparency grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Użyj siatki dla przezroczystości</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="452"/>
         <source>Show channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż kanał</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="462"/>
@@ -21996,7 +21996,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="MyLittleToolBar.h" line="374"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished">Zmień funkcję suwaka: wielkość miniatur (w pikselach), albo ilość miniatur w kolumnie</translation>
+        <translation>Zmień funkcję suwaka: wielkość miniatur (w pikselach), albo ilość miniatur w kolumnie</translation>
     </message>
 </context>
 <context>
@@ -22004,7 +22004,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="MyLittleToolBar.h" line="754"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished">Zmień funkcję suwaka: wielkość miniatur (w pikselach), albo ilość miniatur w kolumnie</translation>
+        <translation>Zmień funkcję suwaka: wielkość miniatur (w pikselach), albo ilość miniatur w kolumnie</translation>
     </message>
 </context>
 <context>
