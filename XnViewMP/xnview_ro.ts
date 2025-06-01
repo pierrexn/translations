@@ -5563,7 +5563,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>Copiază</translation>
+        <translation>Copiere</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -14523,7 +14523,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation>A tăia</translation>
+        <translation>Taie</translation>
     </message>
     <message>
         <source>Tag</source>
@@ -14919,7 +14919,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>C&amp;reate</source>
-        <translation>C&amp;rea</translation>
+        <translation>C&amp;reare</translation>
     </message>
     <message>
         <source>Update files from catalog</source>
