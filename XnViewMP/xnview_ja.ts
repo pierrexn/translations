@@ -11277,32 +11277,32 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="182"/>
         <source>Layout</source>
-        <translation type="unfinished">レイアウト</translation>
+        <translation>レイアウト</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="190"/>
         <source>1 bar v1</source>
-        <translation type="unfinished"></translation>
+        <translation>1バー v1</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="195"/>
         <source>1 bar v2</source>
-        <translation type="unfinished"></translation>
+        <translation>1バー v2</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="200"/>
         <source>2 bars (top and bottom)</source>
-        <translation type="unfinished"></translation>
+        <translation>2バー（上部と下部）</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="205"/>
         <source>2 bars (top)</source>
-        <translation type="unfinished"></translation>
+        <translation>2バー（上部）</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="237"/>
         <source>Delete</source>
-        <translation type="unfinished">削除</translation>
+        <translation>削除</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="332"/>
@@ -11412,17 +11412,17 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="346"/>
         <source>Rename</source>
-        <translation type="unfinished">名前の変更</translation>
+        <translation>名前の変更</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="353"/>
         <source>New folder</source>
-        <translation type="unfinished">新しいフォルダー</translation>
+        <translation>新しいフォルダー</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="374"/>
         <source>Rating (filter)</source>
-        <translation type="unfinished"></translation>
+        <translation>レーティング（フィルター）</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="465"/>
@@ -12545,12 +12545,12 @@ Thumbnail</source>
         <location filename="DlgSettingsIntegration.cpp" line="53"/>
         <source>System - Current user</source>
         <oldsource>User (System)</oldsource>
-        <translation type="unfinished">ユーザー（システム）</translation>
+        <translation>システム - 現在のユーザー</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="31"/>
         <source>System - Current user (Windows registry)</source>
-        <translation type="unfinished"></translation>
+        <translation>システム - 現在のユーザー（Windowsレジストリ）</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="32"/>
@@ -12558,14 +12558,14 @@ Thumbnail</source>
         <location filename="DlgSettingsIntegration.cpp" line="47"/>
         <location filename="DlgSettingsIntegration.cpp" line="55"/>
         <source>System - Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation>システム - ローカルマシン</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="34"/>
         <location filename="DlgSettingsIntegration.cpp" line="42"/>
         <location filename="DlgSettingsIntegration.cpp" line="49"/>
         <source>Application folder</source>
-        <translation type="unfinished"></translation>
+        <translation>アプリケーションフォルダー</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="36"/>
@@ -12655,7 +12655,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="120"/>
         <source>Settings - General</source>
-        <translation type="unfinished"></translation>
+        <translation>設定 - 全般</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="137"/>
@@ -12664,47 +12664,47 @@ Thumbnail</source>
         <location filename="DlgSettingsIntegration.ui" line="299"/>
         <location filename="DlgSettingsIntegration.ui" line="347"/>
         <source>Current location</source>
-        <translation type="unfinished"></translation>
+        <translation>現在の位置</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="166"/>
         <source>Settings - Other</source>
-        <translation type="unfinished"></translation>
+        <translation>設定 - その他</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="216"/>
         <source>Database - Catalog</source>
-        <translation type="unfinished"></translation>
+        <translation>データベース - カタログ</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="272"/>
         <source>Database - Thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>データベース - サムネイル</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="313"/>
         <source>Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>設定</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="324"/>
         <source>Current user (recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation>現在のユーザー（推奨）</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="329"/>
         <source>Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation>ローカルマシン</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="334"/>
         <source>Portable</source>
-        <translation type="unfinished"></translation>
+        <translation>ポータブル</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="339"/>
         <source>Custom</source>
-        <translation type="unfinished">カスタム</translation>
+        <translation>カスタム</translation>
     </message>
 </context>
 <context>
@@ -13493,7 +13493,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="366"/>
         <source>Update master file</source>
-        <translation type="unfinished"></translation>
+        <translation>マスターファイルの更新</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="431"/>
@@ -13932,7 +13932,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="129"/>
         <source>Use transparency grid (checkerboard pattern)</source>
         <oldsource>Use checkboard pattern as background</oldsource>
-        <translation type="unfinished">背景にチェック模様を使用</translation>
+        <translation>透明グリッド（市松模様）の使用</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="382"/>
@@ -13993,7 +13993,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="528"/>
         <source>Reset X/Y position on file change (No fit)</source>
         <oldsource>Reset X/Y (No fit)</oldsource>
-        <translation type="unfinished">X/Yをリセット(ズーム調整なし)</translation>
+        <translation>ファイル変更時にX/Y位置をリセット(ズーム調整なし)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="848"/>
@@ -14021,7 +14021,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="493"/>
         <source>Scale on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
         <oldsource>Zoom on HiDPI screen: 1 image pixel equals 1 screen pixel</oldsource>
-        <translation type="unfinished">HiDPI画面でズーム:画面ピクセル１つあたり１画像ピクセル</translation>
+        <translation>HiDPIスクリーンでのスケール：1画像ピクセルは画面上での1ピクセルに等しい</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="549"/>
@@ -14108,7 +14108,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="435"/>
         <source>Anti-aliasing</source>
         <oldsource>Antialiasing</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>アンチエイリアス</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="441"/>
@@ -14847,22 +14847,22 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgStartupWizard.ui" line="87"/>
         <source>Current user (recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation>現在のユーザー（推奨）</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="92"/>
         <source>Current user (Windows registry)</source>
-        <translation type="unfinished"></translation>
+        <translation>現在のユーザー（Windowsレジストリ）</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="97"/>
         <source>Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation>ローカルマシン</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="102"/>
         <source>Portable (application folder)</source>
-        <translation type="unfinished"></translation>
+        <translation>ポータブル（アプリケーションフォルダ）</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="128"/>
@@ -15129,7 +15129,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgTimestamp.cpp" line="569"/>
         <source>An error occurred when updating these files:</source>
-        <translation type="unfinished"></translation>
+        <translation>これらのファイルを更新する際にエラーが発生しました：</translation>
     </message>
 </context>
 <context>
@@ -17442,12 +17442,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoCategoryView.cpp" line="139"/>
         <source>Import Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>カテゴリーのインポート</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="141"/>
         <source>Export Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>カテゴリーのエクスポート</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="246"/>
@@ -17626,7 +17626,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="SearchField.cpp" line="82"/>
         <source>Exposure time (s)</source>
-        <translation type="unfinished"></translation>
+        <translation>露光時間（秒）</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2608"/>
@@ -18327,7 +18327,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="26"/>
         <location filename="IptcHelper.cpp" line="18"/>
         <source>Local caption</source>
-        <translation type="unfinished"></translation>
+        <translation>現地キャプション</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="65"/>
@@ -18482,67 +18482,67 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="SearchField.cpp" line="101"/>
         <source>Modify Date</source>
-        <translation type="unfinished"></translation>
+        <translation>更新日付</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="102"/>
         <source>Create Date</source>
-        <translation type="unfinished"></translation>
+        <translation>作成日付</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="103"/>
         <source>Hierarchical Subject</source>
-        <translation type="unfinished"></translation>
+        <translation>階層的サブジェクト</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="120"/>
         <source>Custom field 1</source>
-        <translation type="unfinished"></translation>
+        <translation>カスタムフィールド1</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="121"/>
         <source>Custom field 2</source>
-        <translation type="unfinished"></translation>
+        <translation>カスタムフィールド2</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="122"/>
         <source>Custom field 3</source>
-        <translation type="unfinished"></translation>
+        <translation>カスタムフィールド3</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="123"/>
         <source>Custom field 4</source>
-        <translation type="unfinished"></translation>
+        <translation>カスタムフィールド4</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="124"/>
         <source>Custom field 5</source>
-        <translation type="unfinished"></translation>
+        <translation>カスタムフィールド 5</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="125"/>
         <source>Custom field 6</source>
-        <translation type="unfinished"></translation>
+        <translation>カスタムフィールド 6</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="126"/>
         <source>Custom field 7</source>
-        <translation type="unfinished"></translation>
+        <translation>カスタムフィールド 7</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="127"/>
         <source>Custom field 8</source>
-        <translation type="unfinished"></translation>
+        <translation>カスタムフィールド 8</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="128"/>
         <source>Custom field 9</source>
-        <translation type="unfinished"></translation>
+        <translation>カスタムフィールド 9</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="129"/>
         <source>Custom field 10</source>
-        <translation type="unfinished"></translation>
+        <translation>カスタムフィールド 10</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="114"/>
@@ -20748,7 +20748,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="644"/>
         <source>Show channel</source>
-        <translation type="unfinished"></translation>
+        <translation>チャンネルを表示</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="645"/>
@@ -21658,7 +21658,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="319"/>
         <source>Print opened images...</source>
-        <translation type="unfinished"></translation>
+        <translation>開いた画像をプリントする...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="327"/>
@@ -21714,17 +21714,17 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="450"/>
         <source>Use anti-aliasing</source>
         <oldsource>Use antialiasing</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>アンチエイリアシングを使用</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="451"/>
         <source>Use transparency grid</source>
-        <translation type="unfinished"></translation>
+        <translation>透明グリッドの使用</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="452"/>
         <source>Show channel</source>
-        <translation type="unfinished"></translation>
+        <translation>チャンネルを表示</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="462"/>
@@ -22508,7 +22508,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyLittleToolBar.h" line="770"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished">トグルスライダー機能:サムネイルサイズ[ピクセル]または列あたりのサムネイル数</translation>
+        <translation>トグルスライダー機能:サムネイルサイズ[ピクセル]または列あたりのサムネイル数</translation>
     </message>
 </context>
 <context>
@@ -22516,7 +22516,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyLittleToolBar.h" line="381"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished">トグルスライダー機能:サムネイルサイズ[ピクセル]または列あたりのサムネイル数</translation>
+        <translation>トグルスライダー機能:サムネイルサイズ[ピクセル]または列あたりのサムネイル数</translation>
     </message>
 </context>
 <context>
