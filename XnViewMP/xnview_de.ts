@@ -3079,7 +3079,7 @@ Wollen Sie die Datei überschreiben?</translation>
         <location filename="DlgCategorySetsSettings.ui" line="97"/>
         <location filename="DlgCategorySetsSettings.cpp" line="255"/>
         <source>Delete Set</source>
-        <translation>Löschen</translation>
+        <translation>Gruppe Löschen</translation>
     </message>
     <message>
         <location filename="DlgCategorySetsSettings.cpp" line="148"/>
@@ -7108,7 +7108,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="DlgEditFav.ui" line="83"/>
         <source>Create subfolder</source>
-        <translation>Neuer Ordner</translation>
+        <translation>Neuen Unterordner erstellen</translation>
     </message>
     <message>
         <location filename="DlgEditFav.ui" line="93"/>
@@ -8000,7 +8000,7 @@ Bitte stellen Sie sicher, dass die Dateien nicht schreibgeschützt sind.</transl
         <location filename="DlgFileReplace.ui" line="352"/>
         <source>Re&amp;name</source>
         <oldsource>Rename</oldsource>
-        <translation>Umbenennen</translation>
+        <translation>Umbe&amp;nennen</translation>
     </message>
     <message>
         <location filename="DlgFileReplace.ui" line="362"/>
@@ -11153,32 +11153,32 @@ Möchten Sie sie entfernen?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="182"/>
         <source>Layout</source>
-        <translation type="unfinished">Anordnung</translation>
+        <translation>Anordnung</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="190"/>
         <source>1 bar v1</source>
-        <translation type="unfinished"></translation>
+        <translation>1 Leiste v1</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="195"/>
         <source>1 bar v2</source>
-        <translation type="unfinished"></translation>
+        <translation>1 Leiste v2</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="200"/>
         <source>2 bars (top and bottom)</source>
-        <translation type="unfinished"></translation>
+        <translation>2 Leisten (oben und unten)</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="205"/>
         <source>2 bars (top)</source>
-        <translation type="unfinished"></translation>
+        <translation>2 Leisten (oben)</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="237"/>
         <source>Delete</source>
-        <translation type="unfinished">Löschen</translation>
+        <translation>Löschen</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="332"/>
@@ -11288,17 +11288,17 @@ Möchten Sie sie entfernen?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="346"/>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Umbenennen</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="353"/>
         <source>New folder</source>
-        <translation type="unfinished">Neuer Ordner</translation>
+        <translation>Neuer Ordner</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="374"/>
         <source>Rating (filter)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewertung (Filter)</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="465"/>
@@ -12934,7 +12934,7 @@ Möchten Sie neu zuweisen?</translation>
         <location filename="DlgSettingsInterface.ui" line="727"/>
         <location filename="DlgSettingsInterface.ui" line="843"/>
         <source>File modified date</source>
-        <translation>Änderungsdatum</translation>
+        <translation>Datei Änderungsdatum</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="732"/>
@@ -14954,7 +14954,7 @@ Wollen Sie fortfahren?</translation>
     <message>
         <location filename="DlgTimestamp.cpp" line="146"/>
         <source>File modified date</source>
-        <translation>Änderungsdatum</translation>
+        <translation>Datei Änderungsdatum</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.cpp" line="147"/>
@@ -17441,7 +17441,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="SearchField.cpp" line="82"/>
         <source>Exposure time (s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Belichtungszeit (s)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2608"/>
@@ -18197,67 +18197,67 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="SearchField.cpp" line="101"/>
         <source>Modify Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Änderungsdatum</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="102"/>
         <source>Create Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Erstellungsdatum</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="103"/>
         <source>Hierarchical Subject</source>
-        <translation type="unfinished"></translation>
+        <translation>Hierarchisches Subjekt</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="120"/>
         <source>Custom field 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerdefiniertes Feld 1</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="121"/>
         <source>Custom field 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerdefiniertes Feld 2</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="122"/>
         <source>Custom field 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerdefiniertes Feld 3</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="123"/>
         <source>Custom field 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerdefiniertes Feld 4</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="124"/>
         <source>Custom field 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerdefiniertes Feld 5</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="125"/>
         <source>Custom field 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerdefiniertes Feld 6</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="126"/>
         <source>Custom field 7</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerdefiniertes Feld 7</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="127"/>
         <source>Custom field 8</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerdefiniertes Feld 8</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="128"/>
         <source>Custom field 9</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerdefiniertes Feld 9</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="129"/>
         <source>Custom field 10</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerdefiniertes Feld 10</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="114"/>
@@ -22159,7 +22159,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="MyLittleToolBar.h" line="770"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished">Klicken Sie um zwischen der Breite der Miniaturbilder und der Anzahl der Miniaturbilder je Zeile zu wechseln</translation>
+        <translation>Klicken Sie um zwischen der Breite der Miniaturbilder und der Anzahl der Miniaturbilder je Zeile zu wechseln</translation>
     </message>
 </context>
 <context>
@@ -22167,7 +22167,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="MyLittleToolBar.h" line="381"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished">Klicken Sie um zwischen der Breite der Miniaturbilder und der Anzahl der Miniaturbilder je Zeile zu wechseln</translation>
+        <translation>Klicken Sie um zwischen der Breite der Miniaturbilder und der Anzahl der Miniaturbilder je Zeile zu wechseln</translation>
     </message>
 </context>
 <context>
