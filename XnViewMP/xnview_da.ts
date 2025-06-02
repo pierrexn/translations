@@ -11208,32 +11208,32 @@ Vil du fjerne dem?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="182"/>
         <source>Layout</source>
-        <translation type="unfinished">Layout</translation>
+        <translation>Layout</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="190"/>
         <source>1 bar v1</source>
-        <translation type="unfinished"></translation>
+        <translation>1 bar v1</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="195"/>
         <source>1 bar v2</source>
-        <translation type="unfinished"></translation>
+        <translation>1 bar v2</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="200"/>
         <source>2 bars (top and bottom)</source>
-        <translation type="unfinished"></translation>
+        <translation>2 bars (top og bund)</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="205"/>
         <source>2 bars (top)</source>
-        <translation type="unfinished"></translation>
+        <translation>2 bars (top)</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="237"/>
         <source>Delete</source>
-        <translation type="unfinished">Slet</translation>
+        <translation>Slet</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="332"/>
@@ -11343,17 +11343,17 @@ Vil du fjerne dem?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="346"/>
         <source>Rename</source>
-        <translation type="unfinished">Omdøb</translation>
+        <translation>Omdøb</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="353"/>
         <source>New folder</source>
-        <translation type="unfinished">Ny mappe</translation>
+        <translation>Ny mappe</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="374"/>
         <source>Rating (filter)</source>
-        <translation type="unfinished"></translation>
+        <translation>Vurdering (filter)</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="465"/>
@@ -12470,12 +12470,12 @@ miniature</translation>
         <location filename="DlgSettingsIntegration.cpp" line="53"/>
         <source>System - Current user</source>
         <oldsource>User (System)</oldsource>
-        <translation type="unfinished">Bruger (system)</translation>
+        <translation>System - aktuelle bruger</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="31"/>
         <source>System - Current user (Windows registry)</source>
-        <translation type="unfinished"></translation>
+        <translation>System - aktuelle bruger (Windows registreringsdatabase)</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="32"/>
@@ -12483,14 +12483,14 @@ miniature</translation>
         <location filename="DlgSettingsIntegration.cpp" line="47"/>
         <location filename="DlgSettingsIntegration.cpp" line="55"/>
         <source>System - Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation>System - lokale anlæg</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="34"/>
         <location filename="DlgSettingsIntegration.cpp" line="42"/>
         <location filename="DlgSettingsIntegration.cpp" line="49"/>
         <source>Application folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Programmappe</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="36"/>
@@ -12579,7 +12579,7 @@ miniature</translation>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="120"/>
         <source>Settings - General</source>
-        <translation type="unfinished"></translation>
+        <translation>Indstillinger - generelt</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="137"/>
@@ -12588,47 +12588,47 @@ miniature</translation>
         <location filename="DlgSettingsIntegration.ui" line="299"/>
         <location filename="DlgSettingsIntegration.ui" line="347"/>
         <source>Current location</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuelle position</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="166"/>
         <source>Settings - Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Indstillinger - andet</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="216"/>
         <source>Database - Catalog</source>
-        <translation type="unfinished"></translation>
+        <translation>Databasekatalog</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="272"/>
         <source>Database - Thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Database - Miniaturer</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="313"/>
         <source>Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfiguration</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="324"/>
         <source>Current user (recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuelle bruger (anbefalet)</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="329"/>
         <source>Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokale anlæg</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="334"/>
         <source>Portable</source>
-        <translation type="unfinished"></translation>
+        <translation>Portabelt</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="339"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Bruger</translation>
     </message>
 </context>
 <context>
@@ -13421,7 +13421,7 @@ Vil du tilknytte igen?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="366"/>
         <source>Update master file</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdater masterfil</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="431"/>
@@ -13864,7 +13864,7 @@ Vil du tilknytte igen?</translation>
         <location filename="DlgSettingsView.ui" line="129"/>
         <source>Use transparency grid (checkerboard pattern)</source>
         <oldsource>Use checkboard pattern as background</oldsource>
-        <translation type="unfinished">Brug skakbrætmønster som baggrund</translation>
+        <translation>Brug skakbrætmønster som baggrund</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="382"/>
@@ -13925,7 +13925,7 @@ Vil du tilknytte igen?</translation>
         <location filename="DlgSettingsView.ui" line="528"/>
         <source>Reset X/Y position on file change (No fit)</source>
         <oldsource>Reset X/Y (No fit)</oldsource>
-        <translation type="unfinished">Nulstil X/Y (ingen tilpasning)</translation>
+        <translation>Nulstil X/Y -position ved fil-ændring (ingen tilpasning)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="549"/>
@@ -14010,7 +14010,7 @@ Vil du tilknytte igen?</translation>
         <location filename="DlgSettingsView.ui" line="493"/>
         <source>Scale on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
         <oldsource>Zoom on HiDPI screen: 1 image pixel equals 1 screen pixel</oldsource>
-        <translation type="unfinished">Zoom på HiDPI skærm: 1 billedpixel er lig med 1 skærmpixel</translation>
+        <translation>Skala på HiDPI skærm: 1 billedpixel er lig med 1 skærmpixel</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="678"/>
@@ -14051,7 +14051,7 @@ Vil du tilknytte igen?</translation>
         <location filename="DlgSettingsView.ui" line="435"/>
         <source>Anti-aliasing</source>
         <oldsource>Antialiasing</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Anti-aliasing</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="441"/>
@@ -14783,17 +14783,17 @@ Vil du tilknytte igen?</translation>
     <message>
         <location filename="DlgStartupWizard.ui" line="87"/>
         <source>Current user (recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuelle bruger (anbefalet)</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="92"/>
         <source>Current user (Windows registry)</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuelle bruger (Windows registreringsdatabase)</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="97"/>
         <source>Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokale anlæg</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="102"/>
@@ -21480,7 +21480,7 @@ Vil du fortsætte?</translation>
         <location filename="ViewMenu.h" line="450"/>
         <source>Use anti-aliasing</source>
         <oldsource>Use antialiasing</oldsource>
-        <translation type="unfinished">Brug anti-aliasing</translation>
+        <translation>Brug anti-aliasing</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="451"/>
@@ -22276,7 +22276,7 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="MyLittleToolBar.h" line="770"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished">Klik for at ændre miniaturebredde [pixels] og miniatureantal pr. kolonne</translation>
+        <translation>Klik for at ændre miniaturebredde [pixels] eller miniatureantal pr. kolonne</translation>
     </message>
 </context>
 <context>
@@ -22284,7 +22284,7 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="MyLittleToolBar.h" line="381"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished">Klik for at ændre miniaturebredde [pixels] og miniatureantal pr. kolonne</translation>
+        <translation>Klik for at ændre miniaturebredde [pixels] eller miniatureantal pr. kolonne</translation>
     </message>
 </context>
 <context>
