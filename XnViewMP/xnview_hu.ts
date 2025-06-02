@@ -11145,7 +11145,7 @@ El szeretné őket távolítani?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="182"/>
         <source>Layout</source>
-        <translation type="unfinished">Elrendezés</translation>
+        <translation>Elrendezés</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="190"/>
@@ -11170,7 +11170,7 @@ El szeretné őket távolítani?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="237"/>
         <source>Delete</source>
-        <translation type="unfinished">Törlés</translation>
+        <translation>Törlés</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="332"/>
@@ -11280,12 +11280,12 @@ El szeretné őket távolítani?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="346"/>
         <source>Rename</source>
-        <translation type="unfinished">Átnevezés</translation>
+        <translation>Átnevezés</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="353"/>
         <source>New folder</source>
-        <translation type="unfinished">Új mappa</translation>
+        <translation>Új mappa</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="374"/>
@@ -17434,7 +17434,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="SearchField.cpp" line="82"/>
         <source>Exposure time (s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Expozíciós idő (mp)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2608"/>
@@ -22143,7 +22143,7 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="MyLittleToolBar.h" line="770"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished">Csúszka funkció váltása: miniatűrök mérete [pixel] vagy miniatűrök oszloponkénti száma</translation>
+        <translation>Csúszka funkció váltása: miniatűrök mérete [pixel] vagy miniatűrök oszloponkénti száma</translation>
     </message>
 </context>
 <context>
@@ -22151,7 +22151,7 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="MyLittleToolBar.h" line="381"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished">Csúszka funkció váltása: miniatűrök mérete [pixel] vagy miniatűrök oszloponkénti száma</translation>
+        <translation>Csúszka funkció váltása: miniatűrök mérete [pixel] vagy miniatűrök oszloponkénti száma</translation>
     </message>
 </context>
 <context>
