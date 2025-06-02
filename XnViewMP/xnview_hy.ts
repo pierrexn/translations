@@ -8806,12 +8806,44 @@ Do you want to remove them?</source>
         <translation>Հուշումներ</translation>
     </message>
     <message>
-        <source>Rating</source>
-        <translation>Գնահատական</translation>
-    </message>
-    <message>
         <source>Preview</source>
         <translation>Նախատեսք</translation>
+    </message>
+    <message>
+        <source>Layout</source>
+        <translation type="unfinished">Դասավորություն</translation>
+    </message>
+    <message>
+        <source>1 bar v1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1 bar v2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2 bars (top and bottom)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2 bars (top)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation type="unfinished">Ջնջել</translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation type="unfinished">Վերանվանել</translation>
+    </message>
+    <message>
+        <source>New folder</source>
+        <translation type="unfinished">Նոր պանակ</translation>
+    </message>
+    <message>
+        <source>Rating (filter)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13701,6 +13733,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <source>Shutter speed (s)</source>
         <translation>Փակման արագություն(ներ)</translation>
     </message>
+    <message>
+        <source>Exposure time (s)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>InfoIPTCView</name>
@@ -13993,6 +14029,58 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Local caption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modify Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hierarchical Subject</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom field 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom field 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom field 3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom field 4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom field 5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom field 6</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom field 7</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom field 8</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom field 9</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom field 10</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16881,14 +16969,14 @@ Do you want to continue?</source>
     </message>
 </context>
 <context>
-    <name>MyLittleToolBar2</name>
+    <name>MyLittleToolBarV1</name>
     <message>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
         <translation type="unfinished">Փոխարկել շարժիչի գործառույթը. մանրապատկերի չափը [փիքսել] կամ մանրապատկերները մեկ սյունակում</translation>
     </message>
 </context>
 <context>
-    <name>MyLittleToolBarOld</name>
+    <name>MyLittleToolBarV2_2</name>
     <message>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
         <translation type="unfinished">Փոխարկել շարժիչի գործառույթը. մանրապատկերի չափը [փիքսել] կամ մանրապատկերները մեկ սյունակում</translation>

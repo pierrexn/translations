@@ -4,132 +4,132 @@
 <context>
     <name>@default</name>
     <message>
-        <location filename="MyThumbSettings.cpp" line="442"/>
+        <location filename="MyThumbSettings.cpp" line="444"/>
         <source>Uncolored</source>
         <translation>Sort/hvide</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="448"/>
+        <location filename="MyThumbSettings.cpp" line="450"/>
         <source>Important</source>
         <translation>Vigtigt</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="448"/>
+        <location filename="MyThumbSettings.cpp" line="450"/>
         <source>Red</source>
         <translation>Rød</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="448"/>
+        <location filename="MyThumbSettings.cpp" line="450"/>
         <source>Select</source>
         <translation>Vælg</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="449"/>
+        <location filename="MyThumbSettings.cpp" line="451"/>
         <source>Work</source>
         <translation>Arbejde</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="449"/>
+        <location filename="MyThumbSettings.cpp" line="451"/>
         <source>Yellow</source>
         <translation>Gul</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="449"/>
+        <location filename="MyThumbSettings.cpp" line="451"/>
         <source>Second</source>
         <translation>Anden</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="450"/>
+        <location filename="MyThumbSettings.cpp" line="452"/>
         <source>Personal</source>
         <translation>Personlig</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="450"/>
+        <location filename="MyThumbSettings.cpp" line="452"/>
         <source>Green</source>
         <translation>Grøn</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="450"/>
+        <location filename="MyThumbSettings.cpp" line="452"/>
         <source>Approved</source>
         <translation>Godkendt</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="451"/>
+        <location filename="MyThumbSettings.cpp" line="453"/>
         <source>To do</source>
         <translation>Tjek-liste</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="451"/>
+        <location filename="MyThumbSettings.cpp" line="453"/>
         <source>Blue</source>
         <translation>Blå</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="451"/>
+        <location filename="MyThumbSettings.cpp" line="453"/>
         <source>Review</source>
         <translation>Gennemsyn</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="452"/>
+        <location filename="MyThumbSettings.cpp" line="454"/>
         <source>Later</source>
         <translation>Senere</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="452"/>
+        <location filename="MyThumbSettings.cpp" line="454"/>
         <source>Purple</source>
         <translation>Violet</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="452"/>
+        <location filename="MyThumbSettings.cpp" line="454"/>
         <source>To Do</source>
         <translation>Skal gøres</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="453"/>
+        <location filename="MyThumbSettings.cpp" line="455"/>
         <source>Orange</source>
         <translation>Orange</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="454"/>
+        <location filename="MyThumbSettings.cpp" line="456"/>
         <source>Grey</source>
         <translation>Grå</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="455"/>
+        <location filename="MyThumbSettings.cpp" line="457"/>
         <source>Black</source>
         <translation>Sort</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="456"/>
+        <location filename="MyThumbSettings.cpp" line="458"/>
         <source>White</source>
         <translation>Hvid</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="348"/>
+        <location filename="MyThumbSettings.cpp" line="350"/>
         <source>Unrated</source>
         <translation>Ikke klassificeret</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="349"/>
+        <location filename="MyThumbSettings.cpp" line="351"/>
         <source>Poor</source>
         <translation>Ringe</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="350"/>
+        <location filename="MyThumbSettings.cpp" line="352"/>
         <source>Fair</source>
         <translation>Rimelig</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="351"/>
+        <location filename="MyThumbSettings.cpp" line="353"/>
         <source>Average</source>
         <translation>Gennemsnitlig</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="352"/>
+        <location filename="MyThumbSettings.cpp" line="354"/>
         <source>Good</source>
         <translation>God</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="353"/>
+        <location filename="MyThumbSettings.cpp" line="355"/>
         <source>Excellent</source>
         <translation>Fremragende</translation>
     </message>
@@ -264,80 +264,80 @@
 <context>
     <name>AbstractViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="1409"/>
+        <location filename="ViewWindow.cpp" line="1413"/>
         <source>Frame %1/%2</source>
         <translation>Ramme %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1412"/>
+        <location filename="ViewWindow.cpp" line="1416"/>
         <source>Icon %1/%2</source>
         <translation>Ikon %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1414"/>
+        <location filename="ViewWindow.cpp" line="1418"/>
         <source>Page %1/%2</source>
         <translation>Side %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2009"/>
+        <location filename="ViewWindow.cpp" line="2013"/>
         <source>Customize toolbar...</source>
         <translation>Tilpas værktøjslinien...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2280"/>
-        <location filename="ViewWindow.cpp" line="2286"/>
+        <location filename="ViewWindow.cpp" line="2284"/>
         <location filename="ViewWindow.cpp" line="2290"/>
+        <location filename="ViewWindow.cpp" line="2294"/>
         <source>Delete items</source>
         <translation>Slet emner</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2280"/>
+        <location filename="ViewWindow.cpp" line="2284"/>
         <source>Would you like to discard your edits and delete 
 &quot;%1&quot;?</source>
         <translation>Vil du kassere dine redigeringer og slette
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2286"/>
+        <location filename="ViewWindow.cpp" line="2290"/>
         <source>Are you sure to delete 
 &quot;%1&quot;?</source>
         <translation>Er du sikker pæå du vil slette 
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2290"/>
+        <location filename="ViewWindow.cpp" line="2294"/>
         <source>Are you sure to delete 
 &quot;%1&quot; (%2 items)?</source>
         <translation>Er du sikker på du vil slette 
 &quot;%1&quot; (%2 elementer)?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2974"/>
+        <location filename="ViewWindow.cpp" line="2978"/>
         <source>Confirm Save</source>
         <translation>Bekræft Gem</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2975"/>
+        <location filename="ViewWindow.cpp" line="2979"/>
         <source>&lt;%1&gt; already exists!</source>
         <translation>&lt;%1&gt; eksisterer allertede!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2975"/>
+        <location filename="ViewWindow.cpp" line="2979"/>
         <source>Do you want to overwrite it?</source>
         <translation>Vil du overskrive?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4412"/>
+        <location filename="ViewWindow.cpp" line="4416"/>
         <source>Number of unique colors: %1</source>
         <translation>Antal unikke farver: %1</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="234"/>
+        <location filename="ViewWindow.cpp" line="238"/>
         <source>Save changed file</source>
         <translation>Gem ændret fil</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="235"/>
+        <location filename="ViewWindow.cpp" line="239"/>
         <source>Do you want to save changes to
 &quot;%1&quot;?</source>
         <oldsource>Do you want to save changes to
@@ -347,74 +347,74 @@
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="238"/>
+        <location filename="ViewWindow.cpp" line="242"/>
         <source>Save &amp;as...</source>
         <translation>Gem som...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="246"/>
+        <location filename="ViewWindow.cpp" line="250"/>
         <source>&amp;Save</source>
         <translation>Gem</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="247"/>
+        <location filename="ViewWindow.cpp" line="251"/>
         <source>&amp;Don&apos;t Save</source>
         <translation>Gem ikke</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="250"/>
+        <location filename="ViewWindow.cpp" line="254"/>
         <source>Don&apos;t ask again</source>
         <translation>Spørg ikke igen</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1580"/>
-        <location filename="ViewWindow.cpp" line="1599"/>
+        <location filename="ViewWindow.cpp" line="1584"/>
+        <location filename="ViewWindow.cpp" line="1603"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt;Tom&gt;</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2956"/>
-        <location filename="ViewWindow.cpp" line="2966"/>
+        <location filename="ViewWindow.cpp" line="2960"/>
+        <location filename="ViewWindow.cpp" line="2970"/>
         <source>Save</source>
         <translation>Gem</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2956"/>
+        <location filename="ViewWindow.cpp" line="2960"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
         <translation>Billedet vil blive konverteret til 24-bit RGB (8 bits pr. kanal)</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2966"/>
+        <location filename="ViewWindow.cpp" line="2970"/>
         <source>The file &lt;%1&gt; is read-only, please choose another file name.</source>
         <translation>Filen &lt;%1&gt; er skrivebeskyttet, vælg venligst et andet filnavn.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2999"/>
-        <location filename="ViewWindow.cpp" line="3130"/>
-        <location filename="ViewWindow.cpp" line="3180"/>
+        <location filename="ViewWindow.cpp" line="3003"/>
+        <location filename="ViewWindow.cpp" line="3134"/>
+        <location filename="ViewWindow.cpp" line="3184"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
         <translation>Gemmer billede...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3001"/>
-        <location filename="ViewWindow.cpp" line="3182"/>
+        <location filename="ViewWindow.cpp" line="3005"/>
+        <location filename="ViewWindow.cpp" line="3186"/>
         <source>Error</source>
         <translation>Fejl</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3001"/>
-        <location filename="ViewWindow.cpp" line="3182"/>
+        <location filename="ViewWindow.cpp" line="3005"/>
+        <location filename="ViewWindow.cpp" line="3186"/>
         <source>An error occurred during saving!</source>
         <translation>Fejl opstået i forbindelse med Gem!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3271"/>
+        <location filename="ViewWindow.cpp" line="3275"/>
         <source>Properties</source>
         <translation>Egenskaber</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4412"/>
+        <location filename="ViewWindow.cpp" line="4416"/>
         <source>Colors count</source>
         <translation>Farveoptælling</translation>
     </message>
@@ -472,28 +472,28 @@
 <context>
     <name>BaseViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="4896"/>
+        <location filename="ViewWindow.cpp" line="4900"/>
         <source>Error</source>
         <translation>Fejl</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4887"/>
-        <location filename="ViewWindow.cpp" line="4896"/>
+        <location filename="ViewWindow.cpp" line="4891"/>
+        <location filename="ViewWindow.cpp" line="4900"/>
         <source>File can&apos;t be loaded!</source>
         <translation>Fil kan ikke indlæses!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4887"/>
+        <location filename="ViewWindow.cpp" line="4891"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <translation>For at se og konvertere PDF/PS/EPS/AI-filer kræver XnView MP at Ghostscript %1 er installeret i dit system.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4888"/>
+        <location filename="ViewWindow.cpp" line="4892"/>
         <source>Please visit the %1 for more information.</source>
         <translation>Besøg %1 for yderligere information.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4900"/>
+        <location filename="ViewWindow.cpp" line="4904"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt;Tom&gt;</translation>
     </message>
@@ -547,22 +547,22 @@ Vil du slette favoritten &quot;% 1&quot;?</translation>
 <context>
     <name>BrowserWindow</name>
     <message>
-        <location filename="BrowserWindow.cpp" line="1748"/>
+        <location filename="BrowserWindow.cpp" line="1750"/>
         <source>Folders</source>
         <translation>Mapper</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1752"/>
+        <location filename="BrowserWindow.cpp" line="1754"/>
         <source>Favorites</source>
         <translation>Favoritter</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1766"/>
+        <location filename="BrowserWindow.cpp" line="1768"/>
         <source>Categories</source>
         <translation>Kategorier</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1804"/>
+        <location filename="BrowserWindow.cpp" line="1806"/>
         <source>Info</source>
         <translatorcomment>Informationer</translatorcomment>
         <translation>Info</translation>
@@ -588,23 +588,23 @@ Vil du slette favoritten &quot;% 1&quot;?</translation>
         <translation>Tilføj til favoritter</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1756"/>
+        <location filename="BrowserWindow.cpp" line="1758"/>
         <source>Catalog Filter</source>
         <oldsource>Categories Filter</oldsource>
         <translation>Katalogfilter</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1771"/>
+        <location filename="BrowserWindow.cpp" line="1773"/>
         <source>Category Sets</source>
         <translation>Kategori-sæt</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1982"/>
+        <location filename="BrowserWindow.cpp" line="1984"/>
         <source>Match</source>
         <translation>Sammenlign</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1992"/>
+        <location filename="BrowserWindow.cpp" line="1994"/>
         <source>Click to filter - use Shift and Control for multiple selections.
 Right Click on different items for pop-up menus with actions.
 Drag and Drop over the desired node to assign.</source>
@@ -613,45 +613,45 @@ Højreklik på forskellige pop-op menuer med muligheder.
 Træk og slip over det ønskede knudepunktet for at tildele.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2015"/>
+        <location filename="BrowserWindow.cpp" line="2017"/>
         <source>Global</source>
         <translatorcomment>Globalt</translatorcomment>
         <translation>Globalt</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2022"/>
+        <location filename="BrowserWindow.cpp" line="2024"/>
         <source>Current folder</source>
         <translatorcomment>Aktuel mappe</translatorcomment>
         <translation>Aktuel mappe</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2029"/>
+        <location filename="BrowserWindow.cpp" line="2031"/>
         <source>Current folder (Recursive)</source>
         <translatorcomment>Aktuel mappe (Rekursive)</translatorcomment>
         <translation>Aktuel mappe (rekursiv)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3111"/>
+        <location filename="BrowserWindow.cpp" line="3113"/>
         <source>&lt;Search results&gt;</source>
         <translation>Søge-resultat</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3113"/>
+        <location filename="BrowserWindow.cpp" line="3115"/>
         <source>&lt;Tagged files&gt;</source>
         <translation>&lt;Markerede filer&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3202"/>
+        <location filename="BrowserWindow.cpp" line="3204"/>
         <source>This folder doesn&apos;t exist!</source>
         <translation>Mappen eksisterer ikke!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3422"/>
+        <location filename="BrowserWindow.cpp" line="3424"/>
         <source>Favorite name:</source>
         <translation>Favoritnavn:</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="3667"/>
+        <location filename="BrowserWindow.cpp" line="3669"/>
         <source>Are you sure to delete these %n item(s)?</source>
         <translation>
             <numerusform>Er du sikker på du vil slette dette emne?</numerusform>
@@ -659,53 +659,53 @@ Træk og slip over det ønskede knudepunktet for at tildele.</translation>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3752"/>
+        <location filename="BrowserWindow.cpp" line="3754"/>
         <source>The files cannot be renamed, an error occurred.</source>
         <translation>Filerne kan ikke omdøbes: Fejl opstået.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3202"/>
-        <location filename="BrowserWindow.cpp" line="3752"/>
+        <location filename="BrowserWindow.cpp" line="3204"/>
+        <location filename="BrowserWindow.cpp" line="3754"/>
         <source>Error</source>
         <translation>Fejl</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1812"/>
+        <location filename="BrowserWindow.cpp" line="1814"/>
         <source>Metadata</source>
         <translation>Metadata</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1821"/>
+        <location filename="BrowserWindow.cpp" line="1823"/>
         <source>Histogram</source>
         <translation>Histogram</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1998"/>
+        <location filename="BrowserWindow.cpp" line="2000"/>
         <source>Match any selected entry (OR)</source>
         <translation>Svarer til en hvilken som helst indtastning (OR)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2004"/>
+        <location filename="BrowserWindow.cpp" line="2006"/>
         <source>Match all selected entries (AND)</source>
         <translation>Svarer til alle indtastninger (AND)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3115"/>
+        <location filename="BrowserWindow.cpp" line="3117"/>
         <source>&lt;Catalog filter results&gt;</source>
         <translation>&lt;Katalog filter results&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3117"/>
+        <location filename="BrowserWindow.cpp" line="3119"/>
         <source>&lt;files&gt;</source>
         <translation>&lt;filer&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3660"/>
+        <location filename="BrowserWindow.cpp" line="3662"/>
         <source>Delete items &amp; companions</source>
         <translation>Slet elementer &amp; companions</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="3661"/>
+        <location filename="BrowserWindow.cpp" line="3663"/>
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
         <translation>
             <numerusform>Vil du virkelig fjerne dette %n-objekt? - %1 objekt markeret?</numerusform>
@@ -713,32 +713,32 @@ Træk og slip over det ønskede knudepunktet for at tildele.</translation>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4116"/>
+        <location filename="BrowserWindow.cpp" line="4118"/>
         <source>Search...</source>
         <translation>Søg...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4117"/>
+        <location filename="BrowserWindow.cpp" line="4119"/>
         <source>Add to favorites...</source>
         <translation>Tilføj til favoritter...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4120"/>
+        <location filename="BrowserWindow.cpp" line="4122"/>
         <source>Start slideshow</source>
         <translation>Start Slideshow</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4125"/>
+        <location filename="BrowserWindow.cpp" line="4127"/>
         <source>Properties</source>
         <translation>Egenskaber</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4234"/>
+        <location filename="BrowserWindow.cpp" line="4236"/>
         <source>Load filelist</source>
         <translation>Indlæs filliste</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3666"/>
+        <location filename="BrowserWindow.cpp" line="3668"/>
         <source>Delete items</source>
         <translation>Slet element</translation>
     </message>
@@ -753,22 +753,22 @@ Træk og slip over det ønskede knudepunktet for at tildele.</translation>
         <translation>Tilføj favorit ...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4114"/>
+        <location filename="BrowserWindow.cpp" line="4116"/>
         <source>Show files in subfolders</source>
         <translation>Vis filer i underliggende mapper</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4122"/>
+        <location filename="BrowserWindow.cpp" line="4124"/>
         <source>Explorer</source>
         <translation>Stifinder</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4157"/>
+        <location filename="BrowserWindow.cpp" line="4159"/>
         <source>Delete folder</source>
         <translation>Slet mappe</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4157"/>
+        <location filename="BrowserWindow.cpp" line="4159"/>
         <source>Are you sure to delete this folder?</source>
         <translation>Er du sikker på du vil slette denne mappe?</translation>
     </message>
@@ -7549,100 +7549,100 @@ Vær sikker på, at filerne ikke er read-only!</translation>
 <context>
     <name>DlgExport</name>
     <message>
-        <location filename="DlgExport.cpp" line="199"/>
+        <location filename="DlgExport.cpp" line="201"/>
         <source>Problem</source>
         <translation>Problem</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="200"/>
+        <location filename="DlgExport.cpp" line="202"/>
         <source>This is not an image file</source>
         <oldsource>This is not a picture file</oldsource>
         <translation>Dette er ikke en billedfil</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="303"/>
+        <location filename="DlgExport.cpp" line="305"/>
         <source>Black&amp;White</source>
         <translation>Sort&amp;Hvid</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="305"/>
+        <location filename="DlgExport.cpp" line="307"/>
         <source>8 colors</source>
         <translation>8 farver</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="307"/>
+        <location filename="DlgExport.cpp" line="309"/>
         <source>16 colors</source>
         <translation>16 farver</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="309"/>
+        <location filename="DlgExport.cpp" line="311"/>
         <source>32 colors</source>
         <translation>32 farver</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="311"/>
+        <location filename="DlgExport.cpp" line="313"/>
         <source>64 colors</source>
         <translation>64 farver</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="313"/>
+        <location filename="DlgExport.cpp" line="315"/>
         <source>128 colors</source>
         <translation>128 farver</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="315"/>
+        <location filename="DlgExport.cpp" line="317"/>
         <source>256 colors</source>
         <translation>256 farver</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="317"/>
+        <location filename="DlgExport.cpp" line="319"/>
         <source>Greyscale</source>
         <translation>Gråskala</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="320"/>
+        <location filename="DlgExport.cpp" line="322"/>
         <source>16m</source>
         <translation>16m</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="338"/>
+        <location filename="DlgExport.cpp" line="340"/>
         <source>None</source>
         <translation>Ingen</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="338"/>
-        <location filename="DlgExport.cpp" line="347"/>
+        <location filename="DlgExport.cpp" line="340"/>
+        <location filename="DlgExport.cpp" line="349"/>
         <source>Pattern</source>
         <translation>Mønster</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="338"/>
-        <location filename="DlgExport.cpp" line="347"/>
+        <location filename="DlgExport.cpp" line="340"/>
+        <location filename="DlgExport.cpp" line="349"/>
         <source>Floyd-Steinberg</source>
         <translation>Floyd-Steinberg</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="338"/>
+        <location filename="DlgExport.cpp" line="340"/>
         <source>Halftone 45</source>
         <translation>Halvtone 45</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="338"/>
+        <location filename="DlgExport.cpp" line="340"/>
         <source>Halftone 90</source>
         <translation>Halvtone 90</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="347"/>
+        <location filename="DlgExport.cpp" line="349"/>
         <source>Adaptive</source>
         <translation>Tilpasset</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="607"/>
+        <location filename="DlgExport.cpp" line="609"/>
         <source>Images</source>
         <translation>Billeder</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="626"/>
+        <location filename="DlgExport.cpp" line="628"/>
         <source>Save File</source>
         <translation>Gem fil</translation>
     </message>
@@ -9421,27 +9421,27 @@ Tjek at filerne ikke er read-only!</translation>
         <translation>Ret palette</translation>
     </message>
     <message>
-        <location filename="DlgPalette.ui" line="70"/>
+        <location filename="DlgPalette.ui" line="76"/>
         <source>Transparency</source>
         <translation>Transparens</translation>
     </message>
     <message>
-        <location filename="DlgPalette.ui" line="78"/>
+        <location filename="DlgPalette.ui" line="84"/>
         <source>Set</source>
         <translation>Angiv</translation>
     </message>
     <message>
-        <location filename="DlgPalette.ui" line="85"/>
+        <location filename="DlgPalette.ui" line="91"/>
         <source>Clear</source>
         <translation>Ryd</translation>
     </message>
     <message>
-        <location filename="DlgPalette.ui" line="124"/>
+        <location filename="DlgPalette.ui" line="117"/>
         <source>Load...</source>
         <translation>Indlæs...</translation>
     </message>
     <message>
-        <location filename="DlgPalette.ui" line="131"/>
+        <location filename="DlgPalette.ui" line="124"/>
         <source>Save...</source>
         <translation>Gem...</translation>
     </message>
@@ -9928,27 +9928,27 @@ Tjek at filerne ikke er read-only!</translation>
         <translation>Sideopsætning ...</translation>
     </message>
     <message>
-        <location filename="DlgPrint.cpp" line="1612"/>
+        <location filename="DlgPrint.cpp" line="1614"/>
         <source>Page %1/%2</source>
         <translation>Side %1/%2</translation>
     </message>
     <message>
-        <location filename="DlgPrint.cpp" line="1616"/>
+        <location filename="DlgPrint.cpp" line="1618"/>
         <source>Page size: %1x%2 inches, %3x%4 mm</source>
         <translation>Side størrelse: %1x%2 tommer, %3x%4 mm</translation>
     </message>
     <message>
-        <location filename="DlgPrint.cpp" line="1624"/>
+        <location filename="DlgPrint.cpp" line="1626"/>
         <source>Page number</source>
         <translation>Side nummer</translation>
     </message>
     <message>
-        <location filename="DlgPrint.cpp" line="1626"/>
+        <location filename="DlgPrint.cpp" line="1628"/>
         <source>Page count</source>
         <translation>Sidetæller</translation>
     </message>
     <message>
-        <location filename="DlgPrint.cpp" line="1628"/>
+        <location filename="DlgPrint.cpp" line="1630"/>
         <source>Current date</source>
         <translation>Nuværende dato</translation>
     </message>
@@ -10937,99 +10937,99 @@ Vil du fjerne dem?</translation>
         <translation>Søg</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="171"/>
+        <location filename="DlgSearch.ui" line="188"/>
         <source>Match</source>
         <translation>Sammenlign</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="178"/>
+        <location filename="DlgSearch.ui" line="195"/>
         <source>All</source>
         <translation>Alle</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="185"/>
+        <location filename="DlgSearch.ui" line="202"/>
         <source>Any</source>
         <translation>Enhver</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="238"/>
+        <location filename="DlgSearch.ui" line="255"/>
         <source>Current pathname:</source>
         <translation>Nuværende stinavn:</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="300"/>
+        <location filename="DlgSearch.ui" line="317"/>
         <source>Presets: </source>
         <translation>Forudindstillinger: </translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="399"/>
+        <location filename="DlgSearch.ui" line="416"/>
         <source>Close</source>
         <translation>Luk</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="406"/>
+        <location filename="DlgSearch.ui" line="423"/>
         <source>Abort</source>
         <translation>Afbryd</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="114"/>
+        <location filename="DlgSearch.ui" line="95"/>
         <source>Search in subfolders</source>
         <oldsource>Recurse through subfolders</oldsource>
         <translation>Søg i undermapper</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="63"/>
+        <location filename="DlgSearch.ui" line="102"/>
         <source>&amp;Use Regular Expression</source>
         <translation>&amp;Br&amp;ug regulært udtryk</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="70"/>
+        <location filename="DlgSearch.ui" line="63"/>
         <source>F&amp;older</source>
         <translation>&amp;Mappe</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="80"/>
+        <location filename="DlgSearch.ui" line="123"/>
         <source>&amp;Case sensitive</source>
         <translation>&amp;Case-følsomt</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="121"/>
+        <location filename="DlgSearch.ui" line="109"/>
         <source>Search in folder names</source>
         <oldsource>&amp;Include folders</oldsource>
         <translation>Søg i mappe-navne</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="317"/>
+        <location filename="DlgSearch.ui" line="334"/>
         <source>Save this request</source>
         <translation>Gem denne forespørgsel</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="331"/>
+        <location filename="DlgSearch.ui" line="348"/>
         <source>Save current search</source>
         <translation>Gem aktuel søgning</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="345"/>
+        <location filename="DlgSearch.ui" line="362"/>
         <source>Delete current search</source>
         <translation>Slet aktuel søgning</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="362"/>
+        <location filename="DlgSearch.ui" line="379"/>
         <source>&lt; Bac&amp;k</source>
         <translation>&lt;&amp;Tilbage</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="382"/>
+        <location filename="DlgSearch.ui" line="399"/>
         <source>&amp;Search</source>
         <translation>&amp;Søg</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="392"/>
+        <location filename="DlgSearch.ui" line="409"/>
         <source>&amp;Browse...</source>
         <translation>&amp;Gennemse...</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="133"/>
+        <location filename="DlgSearch.ui" line="150"/>
         <source>Conditions</source>
         <translation>Betingelser</translation>
     </message>
@@ -11040,19 +11040,19 @@ Vil du fjerne dem?</translation>
         <translation>&amp;Filnavn</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="87"/>
+        <location filename="DlgSearch.ui" line="116"/>
         <source>Search in Catalog only</source>
         <oldsource>Use catalog</oldsource>
         <translation>Søg kun i katalog</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="141"/>
+        <location filename="DlgSearch.ui" line="158"/>
         <source>Add &gt;&gt;</source>
         <oldsource>Add&gt;&gt;</oldsource>
         <translation>Tilføj&gt;&gt;</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="151"/>
+        <location filename="DlgSearch.ui" line="168"/>
         <source>Clear all</source>
         <translation>Ryd alt</translation>
     </message>
@@ -11207,51 +11207,81 @@ Vil du fjerne dem?</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="182"/>
+        <source>Layout</source>
+        <translation type="unfinished">Layout</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsBrowser.ui" line="190"/>
+        <source>1 bar v1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsBrowser.ui" line="195"/>
+        <source>1 bar v2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsBrowser.ui" line="200"/>
+        <source>2 bars (top and bottom)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsBrowser.ui" line="205"/>
+        <source>2 bars (top)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsBrowser.ui" line="237"/>
+        <source>Delete</source>
+        <translation type="unfinished">Slet</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsBrowser.ui" line="332"/>
         <source>Filter</source>
         <translation>Filter</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="189"/>
+        <location filename="DlgSettingsBrowser.ui" line="258"/>
         <source>Sort</source>
         <translation>Sortér</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="196"/>
+        <location filename="DlgSettingsBrowser.ui" line="325"/>
         <source>Thumbnails + Details</source>
         <translation>Miniaturer + detaljer</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="203"/>
+        <location filename="DlgSettingsBrowser.ui" line="230"/>
         <source>Thumbnails + Filename</source>
         <translation>Miniaturer + filnavn</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="210"/>
+        <location filename="DlgSettingsBrowser.ui" line="295"/>
         <source>Thumbnails</source>
         <translation>Miniaturer</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="217"/>
+        <location filename="DlgSettingsBrowser.ui" line="339"/>
         <source>Icons</source>
         <translation>Ikoner</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="224"/>
+        <location filename="DlgSettingsBrowser.ui" line="244"/>
         <source>List</source>
         <translation>Liste</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="247"/>
+        <location filename="DlgSettingsBrowser.ui" line="367"/>
         <source>Favorites</source>
         <translation>Favoritter</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="295"/>
+        <location filename="DlgSettingsBrowser.ui" line="251"/>
         <source>View as</source>
         <translation>Se som</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="254"/>
+        <location filename="DlgSettingsBrowser.ui" line="281"/>
         <source>Thumbnails + Labels</source>
         <translation>Miniaturer + etiketter</translation>
     </message>
@@ -11266,7 +11296,7 @@ Vil du fjerne dem?</translation>
         <translation>Værktøjstips</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="261"/>
+        <location filename="DlgSettingsBrowser.ui" line="360"/>
         <source>Details</source>
         <translation>Detaljer</translation>
     </message>
@@ -11276,62 +11306,72 @@ Vil du fjerne dem?</translation>
         <translation>Miniature-skalering</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="302"/>
-        <source>Rating</source>
-        <translation>Bedømmelse</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsBrowser.ui" line="325"/>
+        <location filename="DlgSettingsBrowser.ui" line="397"/>
         <source>Tag</source>
         <translation>Markering</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="333"/>
+        <location filename="DlgSettingsBrowser.ui" line="405"/>
         <source>Clear the list of tagged files</source>
         <translation>Ryd filliste med markerede filer</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="341"/>
+        <location filename="DlgSettingsBrowser.ui" line="413"/>
         <source>After an operation</source>
         <translation>Efter en handling</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="346"/>
+        <location filename="DlgSettingsBrowser.ui" line="418"/>
         <source>After folder change</source>
         <translation>Efter mappeændring</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="351"/>
+        <location filename="DlgSettingsBrowser.ui" line="423"/>
         <source>On exit</source>
         <translation>Ved afslutning</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="356"/>
+        <location filename="DlgSettingsBrowser.ui" line="428"/>
         <source>Never</source>
         <translation>Aldrig</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="268"/>
+        <location filename="DlgSettingsBrowser.ui" line="318"/>
         <source>Quick search</source>
         <translation>Hurtig søgning</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="393"/>
+        <location filename="DlgSettingsBrowser.ui" line="346"/>
+        <source>Rename</source>
+        <translation type="unfinished">Omdøb</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsBrowser.ui" line="353"/>
+        <source>New folder</source>
+        <translation type="unfinished">Ny mappe</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsBrowser.ui" line="374"/>
+        <source>Rating (filter)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsBrowser.ui" line="465"/>
         <source>Misc.</source>
         <translation>Diverse.</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="399"/>
+        <location filename="DlgSettingsBrowser.ui" line="471"/>
         <source>Rotation</source>
         <translation>Drejning</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="405"/>
+        <location filename="DlgSettingsBrowser.ui" line="477"/>
         <source>Change EXIF orientation ONLY (if possible)</source>
         <translation>Skift EXIF retning (hvis det er muligt)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="412"/>
+        <location filename="DlgSettingsBrowser.ui" line="484"/>
         <source>Use lossless rotation (if possible)</source>
         <translation>Brug tabsfri drejning (hvis det er muligt)</translation>
     </message>
@@ -14982,49 +15022,49 @@ Vil du fortsætte?</translation>
 <context>
     <name>DlgTimestamp</name>
     <message>
-        <location filename="DlgTimestamp.cpp" line="145"/>
+        <location filename="DlgTimestamp.cpp" line="146"/>
         <source>File created date</source>
         <translation>Fil oprettet dato</translation>
     </message>
     <message>
-        <location filename="DlgTimestamp.cpp" line="145"/>
+        <location filename="DlgTimestamp.cpp" line="146"/>
         <source>File modified date</source>
         <translation>Fil ændret dato</translation>
     </message>
     <message>
-        <location filename="DlgTimestamp.cpp" line="146"/>
+        <location filename="DlgTimestamp.cpp" line="147"/>
         <source>EXIF: Date modified</source>
         <translation>EXIF: Dato ændret</translation>
     </message>
     <message>
-        <location filename="DlgTimestamp.cpp" line="146"/>
+        <location filename="DlgTimestamp.cpp" line="147"/>
         <source>EXIF: Date taken</source>
         <translation>EXIF: Dato taget</translation>
     </message>
     <message>
-        <location filename="DlgTimestamp.cpp" line="146"/>
+        <location filename="DlgTimestamp.cpp" line="147"/>
         <source>EXIF: Date digitized</source>
         <translation>EXIF: Dato digitaliseret</translation>
     </message>
     <message>
-        <location filename="DlgTimestamp.cpp" line="542"/>
-        <location filename="DlgTimestamp.cpp" line="563"/>
+        <location filename="DlgTimestamp.cpp" line="543"/>
+        <location filename="DlgTimestamp.cpp" line="564"/>
         <source>Problem</source>
         <translation>Problem</translation>
     </message>
     <message>
-        <location filename="DlgTimestamp.cpp" line="542"/>
+        <location filename="DlgTimestamp.cpp" line="543"/>
         <source>An error occurred in updating process!</source>
         <translation>Der opstod en fejl i opdateringsprocessen!</translation>
     </message>
     <message>
-        <location filename="DlgTimestamp.cpp" line="557"/>
+        <location filename="DlgTimestamp.cpp" line="558"/>
         <source>Modifying timestamp, please wait...</source>
         <oldsource>Modifying timestamp, please wait... </oldsource>
         <translation>Ændrer tidsstempel, vent....</translation>
     </message>
     <message>
-        <location filename="DlgTimestamp.cpp" line="568"/>
+        <location filename="DlgTimestamp.cpp" line="569"/>
         <source>An error occurred when updating these files:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -16563,6 +16603,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
         <location filename="InfoPropertiesView.cpp" line="676"/>
         <location filename="InfoPropertiesView.cpp" line="694"/>
         <location filename="InfoPropertiesView.cpp" line="713"/>
+        <location filename="SearchField.cpp" line="31"/>
         <location filename="TemplateData.cpp" line="2567"/>
         <source>Format</source>
         <translation>Format</translation>
@@ -16571,6 +16612,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
         <location filename="InfoPropertiesView.cpp" line="73"/>
         <location filename="InfoPropertiesView.cpp" line="679"/>
         <location filename="ItemModel.cpp" line="1108"/>
+        <location filename="SearchField.cpp" line="32"/>
         <location filename="TemplateData.cpp" line="2570"/>
         <location filename="TemplateData.cpp" line="2593"/>
         <source>Width</source>
@@ -16580,6 +16622,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
         <location filename="InfoPropertiesView.cpp" line="74"/>
         <location filename="InfoPropertiesView.cpp" line="680"/>
         <location filename="ItemModel.cpp" line="1110"/>
+        <location filename="SearchField.cpp" line="33"/>
         <location filename="TemplateData.cpp" line="2571"/>
         <location filename="TemplateData.cpp" line="2594"/>
         <source>Height</source>
@@ -16850,6 +16893,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1094"/>
+        <location filename="SearchField.cpp" line="25"/>
         <location filename="TemplateData.cpp" line="2778"/>
         <source>Rating</source>
         <translation>Bedømmelse</translation>
@@ -16874,12 +16918,14 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
         <location filename="InfoPropertiesView.cpp" line="691"/>
         <location filename="InfoPropertiesView.cpp" line="731"/>
         <location filename="ItemModel.cpp" line="1100"/>
+        <location filename="SearchField.cpp" line="36"/>
         <location filename="TemplateData.cpp" line="2573"/>
         <source>Comment</source>
         <translation>Kommentar</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1106"/>
+        <location filename="SearchField.cpp" line="34"/>
         <location filename="TemplateData.cpp" line="2583"/>
         <source>Ratio</source>
         <translation>Forhold</translation>
@@ -16890,39 +16936,41 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
         <translation>Filendelse</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="25"/>
+        <location filename="SearchField.cpp" line="23"/>
         <source>Pathname</source>
         <translation>Stinavn</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="133"/>
+        <location filename="SearchField.cpp" line="131"/>
         <source>All fields (Number)</source>
         <translation>Alle felter (tal)</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="134"/>
+        <location filename="SearchField.cpp" line="132"/>
         <source>Field</source>
         <translation>Felt</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="135"/>
+        <location filename="SearchField.cpp" line="133"/>
         <source>Field (Number)</source>
         <translation>Felt (tal)</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1116"/>
+        <location filename="SearchField.cpp" line="24"/>
         <location filename="TemplateData.cpp" line="2782"/>
         <source>Categories</source>
         <translation>Kategorier</translation>
     </message>
     <message>
+        <location filename="SearchField.cpp" line="26"/>
         <location filename="TemplateData.cpp" line="2780"/>
         <source>Color label</source>
         <translatorcomment>farve etiket</translatorcomment>
         <translation>Farve Label</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="29"/>
+        <location filename="SearchField.cpp" line="27"/>
         <source>File size</source>
         <translation>Filstørrelse</translation>
     </message>
@@ -16931,15 +16979,16 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
         <location filename="IptcEditBase.cpp" line="83"/>
         <location filename="IptcEditBase.cpp" line="115"/>
         <location filename="ItemModel.cpp" line="1102"/>
+        <location filename="SearchField.cpp" line="35"/>
         <location filename="TemplateData.cpp" line="2802"/>
         <source>Annotation</source>
         <translation>Anmærkning</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="39"/>
-        <location filename="SearchField.cpp" line="70"/>
-        <location filename="SearchField.cpp" line="86"/>
-        <location filename="SearchField.cpp" line="132"/>
+        <location filename="SearchField.cpp" line="37"/>
+        <location filename="SearchField.cpp" line="68"/>
+        <location filename="SearchField.cpp" line="84"/>
+        <location filename="SearchField.cpp" line="130"/>
         <source>All fields</source>
         <translation>Alle felter</translation>
     </message>
@@ -17012,6 +17061,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     <message>
         <location filename="EditXMPWidget.cpp" line="363"/>
         <location filename="IptcEditBase.cpp" line="77"/>
+        <location filename="SearchField.cpp" line="30"/>
         <location filename="TemplateData.cpp" line="2795"/>
         <source>Accessed date</source>
         <translation>Åbningsdato</translation>
@@ -17019,6 +17069,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     <message>
         <location filename="EditXMPWidget.cpp" line="364"/>
         <location filename="IptcEditBase.cpp" line="78"/>
+        <location filename="SearchField.cpp" line="29"/>
         <location filename="TemplateData.cpp" line="2796"/>
         <source>Creation date</source>
         <translation>Oprettelses dato</translation>
@@ -17027,6 +17078,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
         <location filename="DlgImport.cpp" line="230"/>
         <location filename="EditXMPWidget.cpp" line="365"/>
         <location filename="IptcEditBase.cpp" line="79"/>
+        <location filename="SearchField.cpp" line="28"/>
         <location filename="TemplateData.cpp" line="2797"/>
         <source>Modified date</source>
         <translation>Ændret dato</translation>
@@ -17398,12 +17450,14 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1119"/>
+        <location filename="SearchField.cpp" line="71"/>
         <location filename="TemplateData.cpp" line="2605"/>
         <source>Maker</source>
         <translation>Skaber</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1121"/>
+        <location filename="SearchField.cpp" line="72"/>
         <location filename="TemplateData.cpp" line="2606"/>
         <source>Model</source>
         <translation>Model</translation>
@@ -17447,24 +17501,33 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
         <translation>Længdegrad</translation>
     </message>
     <message>
+        <location filename="SearchField.cpp" line="74"/>
         <location filename="TemplateData.cpp" line="2618"/>
         <source>Software</source>
         <translation>Programmer</translation>
     </message>
     <message>
+        <location filename="SearchField.cpp" line="73"/>
         <location filename="TemplateData.cpp" line="2607"/>
         <source>Artist</source>
         <translation>Kunstner</translation>
     </message>
     <message>
+        <location filename="SearchField.cpp" line="75"/>
         <location filename="TemplateData.cpp" line="2631"/>
         <source>User comment</source>
         <translation>Bruger kommentar</translation>
     </message>
     <message>
+        <location filename="SearchField.cpp" line="81"/>
         <location filename="TemplateData.cpp" line="2639"/>
         <source>F-Number</source>
         <translation>F-nummer</translation>
+    </message>
+    <message>
+        <location filename="SearchField.cpp" line="82"/>
+        <source>Exposure time (s)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2608"/>
@@ -17472,6 +17535,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
         <translation>Ophavsret</translation>
     </message>
     <message>
+        <location filename="SearchField.cpp" line="76"/>
         <location filename="TemplateData.cpp" line="2609"/>
         <source>Date/time modified</source>
         <translation>Dato/tidspunkt ændret</translation>
@@ -17547,11 +17611,13 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
         <translation>XP Emne</translation>
     </message>
     <message>
+        <location filename="SearchField.cpp" line="77"/>
         <location filename="TemplateData.cpp" line="2632"/>
         <source>Date taken</source>
         <translation>Dato taget</translation>
     </message>
     <message>
+        <location filename="SearchField.cpp" line="78"/>
         <location filename="TemplateData.cpp" line="2633"/>
         <source>Date digitized</source>
         <translation>Dato digitaliseret</translation>
@@ -17584,6 +17650,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
         <translation>Eksponerings Indeks</translation>
     </message>
     <message>
+        <location filename="SearchField.cpp" line="80"/>
         <location filename="TemplateData.cpp" line="2640"/>
         <source>Focal length (mm)</source>
         <oldsource>Focal length [mm]</oldsource>
@@ -17595,6 +17662,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
         <translation>35mm Brændvidde</translation>
     </message>
     <message>
+        <location filename="SearchField.cpp" line="79"/>
         <location filename="TemplateData.cpp" line="2642"/>
         <source>ISO Value</source>
         <translation>ISO Værdi</translation>
@@ -17636,6 +17704,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
         <translation>Emne placering</translation>
     </message>
     <message>
+        <location filename="SearchField.cpp" line="83"/>
         <location filename="TemplateData.cpp" line="2651"/>
         <source>Flash</source>
         <translation>Blitz</translation>
@@ -17875,6 +17944,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
         <location filename="InfoIPTCView.cpp" line="25"/>
         <location filename="IptcHelper.cpp" line="17"/>
         <location filename="ItemModel.cpp" line="1138"/>
+        <location filename="SearchField.cpp" line="40"/>
         <location filename="TemplateData.cpp" line="2706"/>
         <source>Caption</source>
         <translation>Tag skærmbillede</translation>
@@ -17884,6 +17954,8 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
         <location filename="InfoIPTCView.cpp" line="27"/>
         <location filename="IptcHelper.cpp" line="19"/>
         <location filename="ItemModel.cpp" line="1140"/>
+        <location filename="SearchField.cpp" line="41"/>
+        <location filename="SearchField.cpp" line="93"/>
         <location filename="TemplateData.cpp" line="2707"/>
         <location filename="TemplateData.cpp" line="2760"/>
         <source>Caption writer</source>
@@ -17894,6 +17966,8 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
         <location filename="InfoIPTCView.cpp" line="28"/>
         <location filename="IptcHelper.cpp" line="20"/>
         <location filename="ItemModel.cpp" line="1142"/>
+        <location filename="SearchField.cpp" line="42"/>
+        <location filename="SearchField.cpp" line="97"/>
         <location filename="TemplateData.cpp" line="2708"/>
         <location filename="TemplateData.cpp" line="2764"/>
         <source>Headline</source>
@@ -17902,6 +17976,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="29"/>
         <location filename="IptcHelper.cpp" line="21"/>
+        <location filename="SearchField.cpp" line="43"/>
         <location filename="TemplateData.cpp" line="2709"/>
         <source>Special instructions</source>
         <translation>Special instruktioner</translation>
@@ -17911,12 +17986,14 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
         <location filename="InfoIPTCView.cpp" line="34"/>
         <location filename="IptcHelper.cpp" line="23"/>
         <location filename="ItemModel.cpp" line="1144"/>
+        <location filename="SearchField.cpp" line="44"/>
         <location filename="TemplateData.cpp" line="2714"/>
         <source>Keywords</source>
         <translation>Nøgleord</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="35"/>
+        <location filename="SearchField.cpp" line="45"/>
         <location filename="TemplateData.cpp" line="2715"/>
         <source>Category</source>
         <translation>Kategori</translation>
@@ -17924,6 +18001,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="36"/>
         <location filename="IptcHelper.cpp" line="25"/>
+        <location filename="SearchField.cpp" line="46"/>
         <location filename="TemplateData.cpp" line="2716"/>
         <source>Supplemental categories</source>
         <translation>Supplerende kategorier</translation>
@@ -17932,6 +18010,8 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
         <location filename="InfoIPTCView.cpp" line="41"/>
         <location filename="IptcHelper.cpp" line="31"/>
         <location filename="ItemModel.cpp" line="1156"/>
+        <location filename="SearchField.cpp" line="47"/>
+        <location filename="SearchField.cpp" line="89"/>
         <location filename="TemplateData.cpp" line="2721"/>
         <location filename="TemplateData.cpp" line="2756"/>
         <source>Copyright</source>
@@ -17941,6 +18021,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
         <location filename="InfoIPTCView.cpp" line="42"/>
         <location filename="IptcHelper.cpp" line="27"/>
         <location filename="ItemModel.cpp" line="1148"/>
+        <location filename="SearchField.cpp" line="48"/>
         <location filename="TemplateData.cpp" line="2722"/>
         <source>Byline</source>
         <translation>Forfatterangivelse</translation>
@@ -17949,6 +18030,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
         <location filename="InfoIPTCView.cpp" line="43"/>
         <location filename="IptcHelper.cpp" line="28"/>
         <location filename="ItemModel.cpp" line="1150"/>
+        <location filename="SearchField.cpp" line="49"/>
         <location filename="TemplateData.cpp" line="2723"/>
         <source>Byline title</source>
         <translation>forfatterangivelses titel</translation>
@@ -17964,6 +18046,8 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
         <location filename="InfoIPTCView.cpp" line="45"/>
         <location filename="IptcHelper.cpp" line="30"/>
         <location filename="ItemModel.cpp" line="1154"/>
+        <location filename="SearchField.cpp" line="51"/>
+        <location filename="SearchField.cpp" line="99"/>
         <location filename="TemplateData.cpp" line="2725"/>
         <location filename="TemplateData.cpp" line="2766"/>
         <source>Source</source>
@@ -17972,6 +18056,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="50"/>
         <location filename="IptcHelper.cpp" line="34"/>
+        <location filename="SearchField.cpp" line="52"/>
         <location filename="TemplateData.cpp" line="2730"/>
         <source>Edit status</source>
         <translation>Redigerings status</translation>
@@ -17979,6 +18064,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="51"/>
         <location filename="IptcHelper.cpp" line="37"/>
+        <location filename="SearchField.cpp" line="55"/>
         <location filename="TemplateData.cpp" line="2733"/>
         <source>Job ID</source>
         <translation>Arbejds ID</translation>
@@ -17986,6 +18072,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="52"/>
         <location filename="IptcHelper.cpp" line="38"/>
+        <location filename="SearchField.cpp" line="56"/>
         <location filename="TemplateData.cpp" line="2734"/>
         <source>Program</source>
         <translation>Program</translation>
@@ -17999,6 +18086,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="54"/>
         <location filename="IptcHelper.cpp" line="35"/>
+        <location filename="SearchField.cpp" line="53"/>
         <location filename="TemplateData.cpp" line="2731"/>
         <source>Priority</source>
         <translation>Prioritet</translation>
@@ -18016,6 +18104,9 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
         <location filename="InfoIPTCView.cpp" line="61"/>
         <location filename="IptcHelper.cpp" line="43"/>
         <location filename="ItemModel.cpp" line="1160"/>
+        <location filename="SearchField.cpp" line="60"/>
+        <location filename="SearchField.cpp" line="94"/>
+        <location filename="SearchField.cpp" line="109"/>
         <location filename="TemplateData.cpp" line="2742"/>
         <location filename="TemplateData.cpp" line="2761"/>
         <source>City</source>
@@ -18023,6 +18114,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="74"/>
+        <location filename="SearchField.cpp" line="67"/>
         <location filename="TemplateData.cpp" line="2749"/>
         <source>Content location</source>
         <translation>Indholds placering</translation>
@@ -18040,6 +18132,9 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
         <location filename="InfoIPTCView.cpp" line="64"/>
         <location filename="IptcHelper.cpp" line="46"/>
         <location filename="ItemModel.cpp" line="1166"/>
+        <location filename="SearchField.cpp" line="63"/>
+        <location filename="SearchField.cpp" line="95"/>
+        <location filename="SearchField.cpp" line="112"/>
         <location filename="TemplateData.cpp" line="2745"/>
         <location filename="TemplateData.cpp" line="2762"/>
         <source>Country</source>
@@ -18054,6 +18149,8 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="65"/>
         <location filename="IptcHelper.cpp" line="47"/>
+        <location filename="SearchField.cpp" line="64"/>
+        <location filename="SearchField.cpp" line="107"/>
         <location filename="TemplateData.cpp" line="2746"/>
         <source>Country code</source>
         <translation>Lande kode</translation>
@@ -18065,6 +18162,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="67"/>
+        <location filename="SearchField.cpp" line="58"/>
         <location filename="TemplateData.cpp" line="2740"/>
         <source>Created date</source>
         <translation>Oprettelses dato</translation>
@@ -18076,6 +18174,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="69"/>
+        <location filename="SearchField.cpp" line="59"/>
         <location filename="TemplateData.cpp" line="2741"/>
         <source>Released date</source>
         <translation>Udgivelses dato</translation>
@@ -18099,6 +18198,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
         <location filename="InfoIPTCView.cpp" line="73"/>
         <location filename="IptcHelper.cpp" line="32"/>
         <location filename="ItemModel.cpp" line="1158"/>
+        <location filename="SearchField.cpp" line="66"/>
         <location filename="TemplateData.cpp" line="2748"/>
         <source>Contact</source>
         <translation>Kontakt</translation>
@@ -18108,6 +18208,8 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
         <location filename="InfoIPTCView.cpp" line="62"/>
         <location filename="IptcHelper.cpp" line="44"/>
         <location filename="ItemModel.cpp" line="1162"/>
+        <location filename="SearchField.cpp" line="61"/>
+        <location filename="SearchField.cpp" line="106"/>
         <location filename="TemplateData.cpp" line="2743"/>
         <source>Location</source>
         <translation>Placering</translation>
@@ -18141,6 +18243,8 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     <message>
         <location filename="EditXMPWidget.cpp" line="130"/>
         <location filename="ItemModel.cpp" line="1152"/>
+        <location filename="SearchField.cpp" line="50"/>
+        <location filename="SearchField.cpp" line="96"/>
         <location filename="TemplateData.cpp" line="2724"/>
         <location filename="TemplateData.cpp" line="2763"/>
         <source>Credit</source>
@@ -18151,50 +18255,126 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
         <location filename="EditXMPWidget.cpp" line="168"/>
         <location filename="EditXMPWidget.cpp" line="183"/>
         <location filename="ItemModel.cpp" line="1164"/>
+        <location filename="SearchField.cpp" line="62"/>
+        <location filename="SearchField.cpp" line="100"/>
+        <location filename="SearchField.cpp" line="110"/>
         <location filename="TemplateData.cpp" line="2744"/>
         <location filename="TemplateData.cpp" line="2767"/>
         <source>State</source>
         <translation>Stat</translation>
     </message>
     <message>
+        <location filename="SearchField.cpp" line="54"/>
         <location filename="TemplateData.cpp" line="2732"/>
         <source>Cycle</source>
         <translation>Kredsløb</translation>
     </message>
     <message>
+        <location filename="SearchField.cpp" line="65"/>
         <location filename="TemplateData.cpp" line="2747"/>
         <source>Original trans. ref.</source>
         <translation>Original trans. ref.</translation>
     </message>
     <message>
+        <location filename="SearchField.cpp" line="101"/>
+        <source>Modify Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="SearchField.cpp" line="102"/>
+        <source>Create Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="SearchField.cpp" line="103"/>
+        <source>Hierarchical Subject</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="SearchField.cpp" line="120"/>
+        <source>Custom field 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="SearchField.cpp" line="121"/>
+        <source>Custom field 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="SearchField.cpp" line="122"/>
+        <source>Custom field 3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="SearchField.cpp" line="123"/>
+        <source>Custom field 4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="SearchField.cpp" line="124"/>
+        <source>Custom field 5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="SearchField.cpp" line="125"/>
+        <source>Custom field 6</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="SearchField.cpp" line="126"/>
+        <source>Custom field 7</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="SearchField.cpp" line="127"/>
+        <source>Custom field 8</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="SearchField.cpp" line="128"/>
+        <source>Custom field 9</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="SearchField.cpp" line="129"/>
+        <source>Custom field 10</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="EditXMPWidget.cpp" line="133"/>
+        <location filename="SearchField.cpp" line="98"/>
         <location filename="TemplateData.cpp" line="2765"/>
         <source>Instructions</source>
         <translation>Instruktioner</translation>
     </message>
     <message>
+        <location filename="SearchField.cpp" line="87"/>
         <location filename="TemplateData.cpp" line="2754"/>
         <source>Creator</source>
         <translation>Skaber</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="114"/>
+        <location filename="SearchField.cpp" line="88"/>
         <location filename="TemplateData.cpp" line="2755"/>
         <source>Description</source>
         <translation>Beskrivelse</translation>
     </message>
     <message>
+        <location filename="SearchField.cpp" line="90"/>
         <location filename="TemplateData.cpp" line="2757"/>
         <source>Subject</source>
         <translation>Emne</translation>
     </message>
     <message>
+        <location filename="SearchField.cpp" line="91"/>
         <location filename="TemplateData.cpp" line="2758"/>
         <source>Title</source>
         <translation>Titel</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="113"/>
+        <location filename="SearchField.cpp" line="92"/>
         <location filename="TemplateData.cpp" line="2759"/>
         <source>Authors position</source>
         <translation>Forfatterens placering</translation>
@@ -18204,6 +18384,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
         <location filename="InfoIPTCView.cpp" line="60"/>
         <location filename="IptcHelper.cpp" line="49"/>
         <location filename="ItemModel.cpp" line="1168"/>
+        <location filename="SearchField.cpp" line="57"/>
         <location filename="TemplateData.cpp" line="2739"/>
         <source>Document title</source>
         <translation>Dokumentoverskrift</translation>
@@ -18220,6 +18401,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="118"/>
+        <location filename="SearchField.cpp" line="105"/>
         <source>Copyright info URL</source>
         <translation>Copyright URL</translation>
     </message>
@@ -18240,31 +18422,37 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="134"/>
+        <location filename="SearchField.cpp" line="104"/>
         <source>Transmission reference</source>
         <translation>Transmissions-henvisning</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="166"/>
+        <location filename="SearchField.cpp" line="108"/>
         <source>Address</source>
         <translation>Adresse</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="169"/>
+        <location filename="SearchField.cpp" line="111"/>
         <source>ZIP code</source>
         <translation>Postnummer</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="171"/>
+        <location filename="SearchField.cpp" line="113"/>
         <source>Telephon number</source>
         <translation>Telefonnummer</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="172"/>
+        <location filename="SearchField.cpp" line="114"/>
         <source>Email</source>
         <translation>Email</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="173"/>
+        <location filename="SearchField.cpp" line="115"/>
         <source>Web site</source>
         <translation>Web-site</translation>
     </message>
@@ -18275,21 +18463,25 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="177"/>
+        <location filename="SearchField.cpp" line="116"/>
         <source>Person in image</source>
         <translation>Person på billede</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="178"/>
+        <location filename="SearchField.cpp" line="117"/>
         <source>Name of organization represented</source>
         <translation>Navn på repræsenteret organisation</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="179"/>
+        <location filename="SearchField.cpp" line="118"/>
         <source>Code of organization represented</source>
         <translation>Kode for repræsenteret organisation</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="180"/>
+        <location filename="SearchField.cpp" line="119"/>
         <source>Event</source>
         <translation>Begivenhed</translation>
     </message>
@@ -18556,7 +18748,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
         <translation>Type</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="4981"/>
+        <location filename="ItemModel.cpp" line="4985"/>
         <source>New Folder %1</source>
         <translation>NY mappe %1</translation>
     </message>
@@ -19731,13 +19923,13 @@ Vil du fortsætte?</translation>
         <translation>Åbn filoversigt...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4097"/>
+        <location filename="BrowserWindow.cpp" line="4099"/>
         <location filename="BrowserMenu.h" line="420"/>
         <source>Cut</source>
         <translation>Klip</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4099"/>
+        <location filename="BrowserWindow.cpp" line="4101"/>
         <location filename="BrowserMenu.h" line="422"/>
         <source>Copy</source>
         <translation>Kopiér</translation>
@@ -19758,7 +19950,7 @@ Vil du fortsætte?</translation>
         <translation>Valgt(e) filnavn(e) og sti(er)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4101"/>
+        <location filename="BrowserWindow.cpp" line="4103"/>
         <location filename="BrowserMenu.h" line="427"/>
         <source>Paste</source>
         <translation>Indsæt</translation>
@@ -19789,19 +19981,19 @@ Vil du fortsætte?</translation>
         <translation>Vælg markerede billeder</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4109"/>
+        <location filename="BrowserWindow.cpp" line="4111"/>
         <location filename="BrowserMenu.h" line="437"/>
         <source>Copy to...</source>
         <translation>Kopiér til...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4111"/>
+        <location filename="BrowserWindow.cpp" line="4113"/>
         <location filename="BrowserMenu.h" line="438"/>
         <source>Move to...</source>
         <translation>Flyt til...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4104"/>
+        <location filename="BrowserWindow.cpp" line="4106"/>
         <location filename="BrowserMenu.h" line="439"/>
         <source>Delete</source>
         <translation>Slet</translation>
@@ -20378,12 +20570,12 @@ Vil du fortsætte?</translation>
         <translation>&amp;Hjælp</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4094"/>
+        <location filename="BrowserWindow.cpp" line="4096"/>
         <source>New Folder</source>
         <translation>Ny mappe</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4106"/>
+        <location filename="BrowserWindow.cpp" line="4108"/>
         <source>Rename</source>
         <translation>Omdøb</translation>
     </message>
@@ -22080,17 +22272,17 @@ Vil du fortsætte?</translation>
     </message>
 </context>
 <context>
-    <name>MyLittleToolBar2</name>
+    <name>MyLittleToolBarV1</name>
     <message>
-        <location filename="MyLittleToolBar.h" line="374"/>
+        <location filename="MyLittleToolBar.h" line="770"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
         <translation type="unfinished">Klik for at ændre miniaturebredde [pixels] og miniatureantal pr. kolonne</translation>
     </message>
 </context>
 <context>
-    <name>MyLittleToolBarOld</name>
+    <name>MyLittleToolBarV2_2</name>
     <message>
-        <location filename="MyLittleToolBar.h" line="754"/>
+        <location filename="MyLittleToolBar.h" line="381"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
         <translation type="unfinished">Klik for at ændre miniaturebredde [pixels] og miniatureantal pr. kolonne</translation>
     </message>
@@ -22156,7 +22348,7 @@ Vil du fortsætte?</translation>
 <context>
     <name>MyThumbView</name>
     <message>
-        <location filename="MyThumbView.cpp" line="501"/>
+        <location filename="MyThumbView.cpp" line="520"/>
         <source>Size of cached thumbnails is smaller than chosen one. 
 You can change it in Settings › Catalog.</source>
         <oldsource>Size of cached thumbnails is smaller than choosen one. 
@@ -22165,20 +22357,20 @@ You can change it in Settings › Catalog.</oldsource>
 Du kan ændre det i Indstillinger &gt; Katalog.</translation>
     </message>
     <message>
-        <location filename="MyThumbView.cpp" line="623"/>
+        <location filename="MyThumbView.cpp" line="642"/>
         <source>Updating catalog, please wait...</source>
         <oldsource>Updating catalog, please wait... </oldsource>
         <translation>Opdaterer katalog, vent venligst...</translation>
     </message>
     <message>
-        <location filename="MyThumbView.cpp" line="637"/>
+        <location filename="MyThumbView.cpp" line="656"/>
         <source>Updating files, please wait...</source>
         <oldsource>Updating files, please wait... </oldsource>
         <translation>Opdaterer filer, vent venligst...</translation>
     </message>
     <message numerus="yes">
-        <location filename="MyThumbView.cpp" line="1238"/>
-        <location filename="MyThumbView.cpp" line="1251"/>
+        <location filename="MyThumbView.cpp" line="1257"/>
+        <location filename="MyThumbView.cpp" line="1270"/>
         <source>%n object(s)</source>
         <translation>
             <numerusform>Emne</numerusform>
@@ -22186,7 +22378,7 @@ Du kan ændre det i Indstillinger &gt; Katalog.</translation>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="MyThumbView.cpp" line="1238"/>
+        <location filename="MyThumbView.cpp" line="1257"/>
         <source>%n object(s) selected [%3 %4]</source>
         <translation>
             <numerusform>Emne valgt [%3 %4]</numerusform>
@@ -22194,7 +22386,7 @@ Du kan ændre det i Indstillinger &gt; Katalog.</translation>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="MyThumbView.cpp" line="1249"/>
+        <location filename="MyThumbView.cpp" line="1268"/>
         <source>%n object(s) [%2 %3]</source>
         <oldsource>%1 object(s)</oldsource>
         <translation>
@@ -22203,17 +22395,17 @@ Du kan ændre det i Indstillinger &gt; Katalog.</translation>
         </translation>
     </message>
     <message>
-        <location filename="MyThumbView.cpp" line="1291"/>
+        <location filename="MyThumbView.cpp" line="1310"/>
         <source>[Free disk space: %1 %2]</source>
         <translation>[Ledig diskplads: %1 %2]</translation>
     </message>
     <message>
-        <location filename="MyThumbView.cpp" line="1618"/>
+        <location filename="MyThumbView.cpp" line="1637"/>
         <source>All</source>
         <translation>Alle</translation>
     </message>
     <message>
-        <location filename="MyThumbView.cpp" line="1622"/>
+        <location filename="MyThumbView.cpp" line="1641"/>
         <source>None</source>
         <translation>Ingen</translation>
     </message>
@@ -22670,7 +22862,7 @@ Du kan ændre det i Indstillinger &gt; Katalog.</translation>
         <translation>Histogram</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2079"/>
+        <location filename="BrowserWindow.cpp" line="2081"/>
         <source>Click on check-box to toggle the assignment
 Right Click for pop-up menu with actions.</source>
         <translation>Klik på afkrydsningsfeltet for at skifte tildeling.
@@ -23273,7 +23465,7 @@ Højreklik for pop-op-menu med handlinger.</translation>
 <context>
     <name>Rename</name>
     <message>
-        <location filename="ItemModel.cpp" line="4599"/>
+        <location filename="ItemModel.cpp" line="4603"/>
         <source>An error has occurred during renaming!</source>
         <oldsource>An error occured during renaming!</oldsource>
         <translation>En fejl opstod under omdøbning!</translation>
@@ -23282,140 +23474,140 @@ Højreklik for pop-op-menu med handlinger.</translation>
 <context>
     <name>SearchDlg</name>
     <message>
-        <location filename="SearchField.cpp" line="431"/>
-        <location filename="SearchField.cpp" line="654"/>
+        <location filename="SearchField.cpp" line="429"/>
+        <location filename="SearchField.cpp" line="652"/>
         <source>is</source>
         <translation>er</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="432"/>
+        <location filename="SearchField.cpp" line="430"/>
         <source>is not</source>
         <translation>er ikke</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="433"/>
-        <location filename="SearchField.cpp" line="552"/>
+        <location filename="SearchField.cpp" line="431"/>
+        <location filename="SearchField.cpp" line="550"/>
         <source>is any of</source>
         <translation>er enhver af</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="434"/>
-        <location filename="SearchField.cpp" line="553"/>
-        <location filename="SearchField.cpp" line="652"/>
+        <location filename="SearchField.cpp" line="432"/>
+        <location filename="SearchField.cpp" line="551"/>
+        <location filename="SearchField.cpp" line="650"/>
         <source>contains</source>
         <translation>indeholder</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="435"/>
-        <location filename="SearchField.cpp" line="653"/>
+        <location filename="SearchField.cpp" line="433"/>
+        <location filename="SearchField.cpp" line="651"/>
         <source>does not contain</source>
         <oldsource>does not contains</oldsource>
         <translation>Indeholder ikke</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="436"/>
+        <location filename="SearchField.cpp" line="434"/>
         <source>starts with</source>
         <translation>Begynder med</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="503"/>
+        <location filename="SearchField.cpp" line="501"/>
         <source>With at least one of the words</source>
         <translation>Med mindst et af ordene</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="505"/>
+        <location filename="SearchField.cpp" line="503"/>
         <source>With all of the words</source>
         <translation>Med alle ordene</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="507"/>
+        <location filename="SearchField.cpp" line="505"/>
         <source>With the exact phrase</source>
         <translation>Med den nøjagtige ordlyd</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="510"/>
+        <location filename="SearchField.cpp" line="508"/>
         <source>Whole word only</source>
         <translation>Kun hele ord</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="798"/>
+        <location filename="SearchField.cpp" line="796"/>
         <source>and</source>
         <translation>og</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="889"/>
+        <location filename="SearchField.cpp" line="887"/>
         <source>is before</source>
         <translation>er før</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="890"/>
+        <location filename="SearchField.cpp" line="888"/>
         <source>is after</source>
         <translation>er efter</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="891"/>
+        <location filename="SearchField.cpp" line="889"/>
         <source>is between</source>
         <translation>er mellem</translation>
+    </message>
+    <message>
+        <location filename="SearchField.cpp" line="949"/>
+        <location filename="SearchField.cpp" line="1078"/>
+        <location filename="SearchField.cpp" line="1163"/>
+        <source>is less than</source>
+        <translation>er mindre end</translation>
+    </message>
+    <message>
+        <location filename="SearchField.cpp" line="950"/>
+        <location filename="SearchField.cpp" line="1079"/>
+        <location filename="SearchField.cpp" line="1164"/>
+        <source>is less than or equal to</source>
+        <translation>er mindre end eller lig med</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="951"/>
         <location filename="SearchField.cpp" line="1080"/>
         <location filename="SearchField.cpp" line="1165"/>
-        <source>is less than</source>
-        <translation>er mindre end</translation>
+        <source>equal to</source>
+        <translation>lig med</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="952"/>
         <location filename="SearchField.cpp" line="1081"/>
         <location filename="SearchField.cpp" line="1166"/>
-        <source>is less than or equal to</source>
-        <translation>er mindre end eller lig med</translation>
+        <source>is greater than</source>
+        <translation>er større end</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="953"/>
         <location filename="SearchField.cpp" line="1082"/>
         <location filename="SearchField.cpp" line="1167"/>
-        <source>equal to</source>
-        <translation>lig med</translation>
+        <source>is greater than or equal to</source>
+        <translation>er større end eller lig med</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="954"/>
         <location filename="SearchField.cpp" line="1083"/>
         <location filename="SearchField.cpp" line="1168"/>
-        <source>is greater than</source>
-        <translation>er større end</translation>
-    </message>
-    <message>
-        <location filename="SearchField.cpp" line="955"/>
-        <location filename="SearchField.cpp" line="1084"/>
-        <location filename="SearchField.cpp" line="1169"/>
-        <source>is greater than or equal to</source>
-        <translation>er større end eller lig med</translation>
-    </message>
-    <message>
-        <location filename="SearchField.cpp" line="956"/>
-        <location filename="SearchField.cpp" line="1085"/>
-        <location filename="SearchField.cpp" line="1170"/>
         <source>between</source>
         <translation>mellem</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1010"/>
+        <location filename="SearchField.cpp" line="1008"/>
         <source>bytes</source>
         <translation>bytes</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1011"/>
+        <location filename="SearchField.cpp" line="1009"/>
         <source>KiB</source>
         <translation>KiB</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1012"/>
+        <location filename="SearchField.cpp" line="1010"/>
         <source>MiB</source>
         <translation>MiB</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1013"/>
+        <location filename="SearchField.cpp" line="1011"/>
         <source>GiB</source>
         <translation>GiB</translation>
     </message>
@@ -23842,7 +24034,7 @@ Vil du beholde miniaturerne?
         <translation>Vil du gemme sessionen?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="3075"/>
+        <location filename="xnview.cpp" line="3076"/>
         <source>Catalog and Metadata are disabled - 
 Rating, Tag &amp; Color labels will not be saved.</source>
         <oldsource>Rating/Tag/Color label can&apos;t be saved if catalog and metadata export are disabled!</oldsource>

@@ -5563,7 +5563,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>Copiere</translation>
+        <translation>Copiază</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -8754,10 +8754,6 @@ Vrei să le redenumești?</translation>
         <translation>Filtru</translation>
     </message>
     <message>
-        <source>Rating</source>
-        <translation>Evaluare</translation>
-    </message>
-    <message>
         <source>Use lossless rotation (if possible)</source>
         <translation>Folosește rotația fără pierderi (dacă este posibil)</translation>
     </message>
@@ -8828,6 +8824,42 @@ Vrei să le redenumești?</translation>
     <message>
         <source>Preview</source>
         <translation>Previzualizare</translation>
+    </message>
+    <message>
+        <source>Layout</source>
+        <translation type="unfinished">Aspect</translation>
+    </message>
+    <message>
+        <source>1 bar v1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1 bar v2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2 bars (top and bottom)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2 bars (top)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation type="unfinished">Redenumire</translation>
+    </message>
+    <message>
+        <source>New folder</source>
+        <translation type="unfinished">Dosar (Folder) nou</translation>
+    </message>
+    <message>
+        <source>Rating (filter)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13717,6 +13749,10 @@ Dorești să ștergi favoritul „%1”?</translation>
         <source>Shutter speed (s)</source>
         <translation>Viteza de expunere (s)</translation>
     </message>
+    <message>
+        <source>Exposure time (s)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>InfoIPTCView</name>
@@ -14010,6 +14046,58 @@ Dorești să ștergi favoritul „%1”?</translation>
     <message>
         <source>Local caption</source>
         <translation>Subtitrare locală</translation>
+    </message>
+    <message>
+        <source>Modify Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hierarchical Subject</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom field 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom field 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom field 3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom field 4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom field 5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom field 6</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom field 7</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom field 8</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom field 9</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom field 10</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14523,7 +14611,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation>Taie</translation>
+        <translation>A tăia</translation>
     </message>
     <message>
         <source>Tag</source>
@@ -14919,7 +15007,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>C&amp;reate</source>
-        <translation>C&amp;reare</translation>
+        <translation>C&amp;rea</translation>
     </message>
     <message>
         <source>Update files from catalog</source>
@@ -16897,17 +16985,17 @@ Vrei să continui?</translation>
     </message>
 </context>
 <context>
-    <name>MyLittleToolBar2</name>
+    <name>MyLittleToolBarV1</name>
     <message>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation>Comută funcția de glisor: dimensiunea miniaturii [în pixeli] sau miniaturi pe coloană</translation>
+        <translation type="unfinished">Comută funcția de glisor: dimensiunea miniaturii [în pixeli] sau miniaturi pe coloană</translation>
     </message>
 </context>
 <context>
-    <name>MyLittleToolBarOld</name>
+    <name>MyLittleToolBarV2_2</name>
     <message>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation>Comută funcția de glisor: dimensiunea miniaturii [în pixeli] sau miniaturi pe coloană</translation>
+        <translation type="unfinished">Comută funcția de glisor: dimensiunea miniaturii [în pixeli] sau miniaturi pe coloană</translation>
     </message>
 </context>
 <context>

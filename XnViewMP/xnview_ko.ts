@@ -4,132 +4,132 @@
 <context>
     <name>@default</name>
     <message>
-        <location filename="MyThumbSettings.cpp" line="442"/>
+        <location filename="MyThumbSettings.cpp" line="444"/>
         <source>Uncolored</source>
         <translation>무색</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="448"/>
+        <location filename="MyThumbSettings.cpp" line="450"/>
         <source>Important</source>
         <translation>중요</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="448"/>
+        <location filename="MyThumbSettings.cpp" line="450"/>
         <source>Red</source>
         <translation>빨강</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="448"/>
+        <location filename="MyThumbSettings.cpp" line="450"/>
         <source>Select</source>
         <translation>선택</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="449"/>
+        <location filename="MyThumbSettings.cpp" line="451"/>
         <source>Work</source>
         <translation>일</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="449"/>
+        <location filename="MyThumbSettings.cpp" line="451"/>
         <source>Yellow</source>
         <translation>노랑</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="449"/>
+        <location filename="MyThumbSettings.cpp" line="451"/>
         <source>Second</source>
         <translation>두번째</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="450"/>
+        <location filename="MyThumbSettings.cpp" line="452"/>
         <source>Personal</source>
         <translation>개인</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="450"/>
+        <location filename="MyThumbSettings.cpp" line="452"/>
         <source>Green</source>
         <translation>초록</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="450"/>
+        <location filename="MyThumbSettings.cpp" line="452"/>
         <source>Approved</source>
         <translation>승인</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="451"/>
+        <location filename="MyThumbSettings.cpp" line="453"/>
         <source>To do</source>
         <translation>할 일</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="451"/>
+        <location filename="MyThumbSettings.cpp" line="453"/>
         <source>Blue</source>
         <translation>파랑</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="451"/>
+        <location filename="MyThumbSettings.cpp" line="453"/>
         <source>Review</source>
         <translation>리뷰</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="452"/>
+        <location filename="MyThumbSettings.cpp" line="454"/>
         <source>Later</source>
         <translation>보류</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="452"/>
+        <location filename="MyThumbSettings.cpp" line="454"/>
         <source>Purple</source>
         <translation>보라</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="452"/>
+        <location filename="MyThumbSettings.cpp" line="454"/>
         <source>To Do</source>
         <translation>할 일</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="453"/>
+        <location filename="MyThumbSettings.cpp" line="455"/>
         <source>Orange</source>
         <translation>오렌지</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="454"/>
+        <location filename="MyThumbSettings.cpp" line="456"/>
         <source>Grey</source>
         <translation>회색</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="455"/>
+        <location filename="MyThumbSettings.cpp" line="457"/>
         <source>Black</source>
         <translation>검정</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="456"/>
+        <location filename="MyThumbSettings.cpp" line="458"/>
         <source>White</source>
         <translation>흰색</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="348"/>
+        <location filename="MyThumbSettings.cpp" line="350"/>
         <source>Unrated</source>
         <translation>무등급</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="349"/>
+        <location filename="MyThumbSettings.cpp" line="351"/>
         <source>Poor</source>
         <translation>별로임</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="350"/>
+        <location filename="MyThumbSettings.cpp" line="352"/>
         <source>Fair</source>
         <translation>괜찮음</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="351"/>
+        <location filename="MyThumbSettings.cpp" line="353"/>
         <source>Average</source>
         <translation>보통</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="352"/>
+        <location filename="MyThumbSettings.cpp" line="354"/>
         <source>Good</source>
         <translation>좋음</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="353"/>
+        <location filename="MyThumbSettings.cpp" line="355"/>
         <source>Excellent</source>
         <translation>훌륭함</translation>
     </message>
@@ -263,89 +263,89 @@
 <context>
     <name>AbstractViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="1409"/>
+        <location filename="ViewWindow.cpp" line="1413"/>
         <source>Frame %1/%2</source>
         <translation>프레임 %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1412"/>
+        <location filename="ViewWindow.cpp" line="1416"/>
         <source>Icon %1/%2</source>
         <translation>아이콘 %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1414"/>
+        <location filename="ViewWindow.cpp" line="1418"/>
         <source>Page %1/%2</source>
         <translation>페이지 %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1580"/>
-        <location filename="ViewWindow.cpp" line="1599"/>
+        <location filename="ViewWindow.cpp" line="1584"/>
+        <location filename="ViewWindow.cpp" line="1603"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; 비었음 &gt;</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2009"/>
+        <location filename="ViewWindow.cpp" line="2013"/>
         <source>Customize toolbar...</source>
         <translation>도구모음 사용자 정의...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2280"/>
-        <location filename="ViewWindow.cpp" line="2286"/>
+        <location filename="ViewWindow.cpp" line="2284"/>
         <location filename="ViewWindow.cpp" line="2290"/>
+        <location filename="ViewWindow.cpp" line="2294"/>
         <source>Delete items</source>
         <translation>항목 삭제</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2280"/>
+        <location filename="ViewWindow.cpp" line="2284"/>
         <source>Would you like to discard your edits and delete 
 &quot;%1&quot;?</source>
         <translation>변경사항을 저장하지 않고 삭제 하시겠습니까?
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2286"/>
+        <location filename="ViewWindow.cpp" line="2290"/>
         <source>Are you sure to delete 
 &quot;%1&quot;?</source>
         <translation>&quot;%1&quot;를 삭제 하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2290"/>
+        <location filename="ViewWindow.cpp" line="2294"/>
         <source>Are you sure to delete 
 &quot;%1&quot; (%2 items)?</source>
         <translation>&quot;%1&quot;를 삭제 하시겠습니까 (%2 항목)?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2956"/>
+        <location filename="ViewWindow.cpp" line="2960"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
         <translation>이미지가 24비트 RGB (채널당 8비트)로 변환될 것입니다</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2974"/>
+        <location filename="ViewWindow.cpp" line="2978"/>
         <source>Confirm Save</source>
         <translation>저장</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2975"/>
+        <location filename="ViewWindow.cpp" line="2979"/>
         <source>&lt;%1&gt; already exists!</source>
         <translation>&lt;%1&gt; 이 이미 존재합니다!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2975"/>
+        <location filename="ViewWindow.cpp" line="2979"/>
         <source>Do you want to overwrite it?</source>
         <translation>덮어쓰겠습니까?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4412"/>
+        <location filename="ViewWindow.cpp" line="4416"/>
         <source>Number of unique colors: %1</source>
         <translation>중요 색상 수: %1</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="234"/>
+        <location filename="ViewWindow.cpp" line="238"/>
         <source>Save changed file</source>
         <translation>변경된 파일 저장</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="235"/>
+        <location filename="ViewWindow.cpp" line="239"/>
         <source>Do you want to save changes to
 &quot;%1&quot;?</source>
         <oldsource>Do you want to save changes to
@@ -355,63 +355,63 @@
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="238"/>
+        <location filename="ViewWindow.cpp" line="242"/>
         <source>Save &amp;as...</source>
         <translation>다른 이름으로 저장... (%A)</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="246"/>
+        <location filename="ViewWindow.cpp" line="250"/>
         <source>&amp;Save</source>
         <translation>저장 (&amp;S)</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="247"/>
+        <location filename="ViewWindow.cpp" line="251"/>
         <source>&amp;Don&apos;t Save</source>
         <translation>저장하지 않음 (&amp;D)</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="250"/>
+        <location filename="ViewWindow.cpp" line="254"/>
         <source>Don&apos;t ask again</source>
         <translation>다시 묻지 않기</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2956"/>
-        <location filename="ViewWindow.cpp" line="2966"/>
+        <location filename="ViewWindow.cpp" line="2960"/>
+        <location filename="ViewWindow.cpp" line="2970"/>
         <source>Save</source>
         <translation>저장</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2966"/>
+        <location filename="ViewWindow.cpp" line="2970"/>
         <source>The file &lt;%1&gt; is read-only, please choose another file name.</source>
         <translation>&lt;%1&gt; 파일이 읽기 전용입니다, 다른 파일 이름을 선택하세요.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2999"/>
-        <location filename="ViewWindow.cpp" line="3130"/>
-        <location filename="ViewWindow.cpp" line="3180"/>
+        <location filename="ViewWindow.cpp" line="3003"/>
+        <location filename="ViewWindow.cpp" line="3134"/>
+        <location filename="ViewWindow.cpp" line="3184"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
         <translation>이미지 저장 중...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3001"/>
-        <location filename="ViewWindow.cpp" line="3182"/>
+        <location filename="ViewWindow.cpp" line="3005"/>
+        <location filename="ViewWindow.cpp" line="3186"/>
         <source>Error</source>
         <translation>오류</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3001"/>
-        <location filename="ViewWindow.cpp" line="3182"/>
+        <location filename="ViewWindow.cpp" line="3005"/>
+        <location filename="ViewWindow.cpp" line="3186"/>
         <source>An error occurred during saving!</source>
         <translation>저장중 오류가 발생하였습니다!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3271"/>
+        <location filename="ViewWindow.cpp" line="3275"/>
         <source>Properties</source>
         <translation>속성</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4412"/>
+        <location filename="ViewWindow.cpp" line="4416"/>
         <source>Colors count</source>
         <translation>색상 수</translation>
     </message>
@@ -469,28 +469,28 @@
 <context>
     <name>BaseViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="4896"/>
+        <location filename="ViewWindow.cpp" line="4900"/>
         <source>Error</source>
         <translation>오류</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4887"/>
-        <location filename="ViewWindow.cpp" line="4896"/>
+        <location filename="ViewWindow.cpp" line="4891"/>
+        <location filename="ViewWindow.cpp" line="4900"/>
         <source>File can&apos;t be loaded!</source>
         <translation>파일을 불러올 수 없습니다!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4887"/>
+        <location filename="ViewWindow.cpp" line="4891"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <translation>PDF/PS/EPS/AI 파일을 보거나 변환하는데 XnView MP를 사용하려면, Ghostscript %1을 시스템에 설치해야 합니다. </translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4888"/>
+        <location filename="ViewWindow.cpp" line="4892"/>
         <source>Please visit the %1 for more information.</source>
         <translation>추가 정보는 %1을 방문해 주세요.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4900"/>
+        <location filename="ViewWindow.cpp" line="4904"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; 비어 있음 &gt;</translation>
     </message>
@@ -554,33 +554,33 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>즐겨찾기 추가...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1748"/>
+        <location filename="BrowserWindow.cpp" line="1750"/>
         <source>Folders</source>
         <translation>폴더</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1752"/>
+        <location filename="BrowserWindow.cpp" line="1754"/>
         <source>Favorites</source>
         <translation>즐겨찾기</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1756"/>
+        <location filename="BrowserWindow.cpp" line="1758"/>
         <source>Catalog Filter</source>
         <oldsource>Categories Filter</oldsource>
         <translation>카탈로그 필터</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1766"/>
+        <location filename="BrowserWindow.cpp" line="1768"/>
         <source>Categories</source>
         <translation>카테고리</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1771"/>
+        <location filename="BrowserWindow.cpp" line="1773"/>
         <source>Category Sets</source>
         <translation>카테고리 세트</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1804"/>
+        <location filename="BrowserWindow.cpp" line="1806"/>
         <source>Info</source>
         <translation>정보</translation>
     </message>
@@ -605,17 +605,17 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>즐겨찾기에 추가</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1812"/>
+        <location filename="BrowserWindow.cpp" line="1814"/>
         <source>Metadata</source>
         <translation>메타데이터</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1821"/>
+        <location filename="BrowserWindow.cpp" line="1823"/>
         <source>Histogram</source>
         <translation>히스토그램</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1992"/>
+        <location filename="BrowserWindow.cpp" line="1994"/>
         <source>Click to filter - use Shift and Control for multiple selections.
 Right Click on different items for pop-up menus with actions.
 Drag and Drop over the desired node to assign.</source>
@@ -624,142 +624,142 @@ Drag and Drop over the desired node to assign.</source>
 할당하고 싶은 노드 위로 드래그 &amp; 드롭하세요.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1998"/>
+        <location filename="BrowserWindow.cpp" line="2000"/>
         <source>Match any selected entry (OR)</source>
         <translation>포함하는 항목 선택 (OR)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2004"/>
+        <location filename="BrowserWindow.cpp" line="2006"/>
         <source>Match all selected entries (AND)</source>
         <translation>일치하는 항목 선택 (AND)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2015"/>
+        <location filename="BrowserWindow.cpp" line="2017"/>
         <source>Global</source>
         <translation>전역</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2022"/>
+        <location filename="BrowserWindow.cpp" line="2024"/>
         <source>Current folder</source>
         <translation>현재 폴더</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2029"/>
+        <location filename="BrowserWindow.cpp" line="2031"/>
         <source>Current folder (Recursive)</source>
         <translation>현재 폴더 (하위 폴더 포함)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3111"/>
+        <location filename="BrowserWindow.cpp" line="3113"/>
         <source>&lt;Search results&gt;</source>
         <translation>&lt;검색 결과&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3113"/>
+        <location filename="BrowserWindow.cpp" line="3115"/>
         <source>&lt;Tagged files&gt;</source>
         <translation>&lt;태그된 파일&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3202"/>
+        <location filename="BrowserWindow.cpp" line="3204"/>
         <source>This folder doesn&apos;t exist!</source>
         <translation>이 폴더는 존재하지 않습니다!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3422"/>
+        <location filename="BrowserWindow.cpp" line="3424"/>
         <source>Favorite name:</source>
         <translation>즐겨찾기 이름:</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="3667"/>
+        <location filename="BrowserWindow.cpp" line="3669"/>
         <source>Are you sure to delete these %n item(s)?</source>
         <translation>
             <numerusform>이 %n개의 항목을 정말 삭제할까요?</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3752"/>
+        <location filename="BrowserWindow.cpp" line="3754"/>
         <source>The files cannot be renamed, an error occurred.</source>
         <translation>오류가 발생하여 파일 이름을 바꿀 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3202"/>
-        <location filename="BrowserWindow.cpp" line="3752"/>
+        <location filename="BrowserWindow.cpp" line="3204"/>
+        <location filename="BrowserWindow.cpp" line="3754"/>
         <source>Error</source>
         <translation>오류</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3115"/>
+        <location filename="BrowserWindow.cpp" line="3117"/>
         <source>&lt;Catalog filter results&gt;</source>
         <translation>&lt;카탈로그 필터 결과&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3117"/>
+        <location filename="BrowserWindow.cpp" line="3119"/>
         <source>&lt;files&gt;</source>
         <translation>&lt;files&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3660"/>
+        <location filename="BrowserWindow.cpp" line="3662"/>
         <source>Delete items &amp; companions</source>
         <translation>컴패니언과 항목 삭제</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="3661"/>
+        <location filename="BrowserWindow.cpp" line="3663"/>
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
         <translation>
             <numerusform>이 %n개의 항목을 정말 삭제할까요? - %1 항목 선택됨</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4116"/>
+        <location filename="BrowserWindow.cpp" line="4118"/>
         <source>Search...</source>
         <translation>검색...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4117"/>
+        <location filename="BrowserWindow.cpp" line="4119"/>
         <source>Add to favorites...</source>
         <translation>즐겨찾기에 추가</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4120"/>
+        <location filename="BrowserWindow.cpp" line="4122"/>
         <source>Start slideshow</source>
         <translation>슬라이드쇼 시작</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4125"/>
+        <location filename="BrowserWindow.cpp" line="4127"/>
         <source>Properties</source>
         <translation>속성</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4234"/>
+        <location filename="BrowserWindow.cpp" line="4236"/>
         <source>Load filelist</source>
         <translation>파일목록 불러오기</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1982"/>
+        <location filename="BrowserWindow.cpp" line="1984"/>
         <source>Match</source>
         <translation>일치</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3666"/>
+        <location filename="BrowserWindow.cpp" line="3668"/>
         <source>Delete items</source>
         <translation>항목 삭제</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4114"/>
+        <location filename="BrowserWindow.cpp" line="4116"/>
         <source>Show files in subfolders</source>
         <translation>하위폴더 내의 파일 보기</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4122"/>
+        <location filename="BrowserWindow.cpp" line="4124"/>
         <source>Explorer</source>
         <translation>탐색기</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4157"/>
+        <location filename="BrowserWindow.cpp" line="4159"/>
         <source>Delete folder</source>
         <translation>폴더 삭제</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4157"/>
+        <location filename="BrowserWindow.cpp" line="4159"/>
         <source>Are you sure to delete this folder?</source>
         <translation>이 폴더를 정말 삭제할까요?</translation>
     </message>
@@ -7482,100 +7482,100 @@ Please make sure that files are not read-only!</oldsource>
 <context>
     <name>DlgExport</name>
     <message>
-        <location filename="DlgExport.cpp" line="199"/>
+        <location filename="DlgExport.cpp" line="201"/>
         <source>Problem</source>
         <translation>문제점</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="200"/>
+        <location filename="DlgExport.cpp" line="202"/>
         <source>This is not an image file</source>
         <oldsource>This is not a picture file</oldsource>
         <translation>이미지 파일이 아닙니다</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="303"/>
+        <location filename="DlgExport.cpp" line="305"/>
         <source>Black&amp;White</source>
         <translation>흑백</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="305"/>
+        <location filename="DlgExport.cpp" line="307"/>
         <source>8 colors</source>
         <translation>8 색</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="307"/>
+        <location filename="DlgExport.cpp" line="309"/>
         <source>16 colors</source>
         <translation>16 색</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="309"/>
+        <location filename="DlgExport.cpp" line="311"/>
         <source>32 colors</source>
         <translation>32 색</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="311"/>
+        <location filename="DlgExport.cpp" line="313"/>
         <source>64 colors</source>
         <translation>64 색</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="313"/>
+        <location filename="DlgExport.cpp" line="315"/>
         <source>128 colors</source>
         <translation>128 색</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="315"/>
+        <location filename="DlgExport.cpp" line="317"/>
         <source>256 colors</source>
         <translation>256 색</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="317"/>
+        <location filename="DlgExport.cpp" line="319"/>
         <source>Greyscale</source>
         <translation>그레이스케일</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="320"/>
+        <location filename="DlgExport.cpp" line="322"/>
         <source>16m</source>
         <translation>16m</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="338"/>
+        <location filename="DlgExport.cpp" line="340"/>
         <source>None</source>
         <translation>없음</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="338"/>
-        <location filename="DlgExport.cpp" line="347"/>
+        <location filename="DlgExport.cpp" line="340"/>
+        <location filename="DlgExport.cpp" line="349"/>
         <source>Pattern</source>
         <translation>패턴</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="338"/>
-        <location filename="DlgExport.cpp" line="347"/>
+        <location filename="DlgExport.cpp" line="340"/>
+        <location filename="DlgExport.cpp" line="349"/>
         <source>Floyd-Steinberg</source>
         <translation>플로이드-스테인 버그</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="338"/>
+        <location filename="DlgExport.cpp" line="340"/>
         <source>Halftone 45</source>
         <translation>하프톤 45</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="338"/>
+        <location filename="DlgExport.cpp" line="340"/>
         <source>Halftone 90</source>
         <translation>하프톤 90</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="347"/>
+        <location filename="DlgExport.cpp" line="349"/>
         <source>Adaptive</source>
         <translation>적응형</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="607"/>
+        <location filename="DlgExport.cpp" line="609"/>
         <source>Images</source>
         <translation>이미지</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="626"/>
+        <location filename="DlgExport.cpp" line="628"/>
         <source>Save File</source>
         <translation>파일 저장</translation>
     </message>
@@ -9343,27 +9343,27 @@ Please make sure that files are not read-only!</oldsource>
         <translation>팔레트 수정</translation>
     </message>
     <message>
-        <location filename="DlgPalette.ui" line="70"/>
+        <location filename="DlgPalette.ui" line="76"/>
         <source>Transparency</source>
         <translation>투명도</translation>
     </message>
     <message>
-        <location filename="DlgPalette.ui" line="78"/>
+        <location filename="DlgPalette.ui" line="84"/>
         <source>Set</source>
         <translation>세트</translation>
     </message>
     <message>
-        <location filename="DlgPalette.ui" line="85"/>
+        <location filename="DlgPalette.ui" line="91"/>
         <source>Clear</source>
         <translation>지우기</translation>
     </message>
     <message>
-        <location filename="DlgPalette.ui" line="124"/>
+        <location filename="DlgPalette.ui" line="117"/>
         <source>Load...</source>
         <translation>불러오기...</translation>
     </message>
     <message>
-        <location filename="DlgPalette.ui" line="131"/>
+        <location filename="DlgPalette.ui" line="124"/>
         <source>Save...</source>
         <translation>저장...</translation>
     </message>
@@ -9846,27 +9846,27 @@ Please make sure that files are not read-only!</oldsource>
         <translation>페이지 설정...</translation>
     </message>
     <message>
-        <location filename="DlgPrint.cpp" line="1612"/>
+        <location filename="DlgPrint.cpp" line="1614"/>
         <source>Page %1/%2</source>
         <translation>페이지 %1/%2</translation>
     </message>
     <message>
-        <location filename="DlgPrint.cpp" line="1616"/>
+        <location filename="DlgPrint.cpp" line="1618"/>
         <source>Page size: %1x%2 inches, %3x%4 mm</source>
         <translation>페이지 크기: %1x%2 인치, %3x%4 mm</translation>
     </message>
     <message>
-        <location filename="DlgPrint.cpp" line="1624"/>
+        <location filename="DlgPrint.cpp" line="1626"/>
         <source>Page number</source>
         <translation>페이지 번호</translation>
     </message>
     <message>
-        <location filename="DlgPrint.cpp" line="1626"/>
+        <location filename="DlgPrint.cpp" line="1628"/>
         <source>Page count</source>
         <translation>페이지 총수</translation>
     </message>
     <message>
-        <location filename="DlgPrint.cpp" line="1628"/>
+        <location filename="DlgPrint.cpp" line="1630"/>
         <source>Current date</source>
         <translation>현재 날짜</translation>
     </message>
@@ -10847,63 +10847,63 @@ Do you want to remove them?</source>
         <translation>검색</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="114"/>
+        <location filename="DlgSearch.ui" line="95"/>
         <source>Search in subfolders</source>
         <oldsource>Recurse through subfolders</oldsource>
         <translation>하위폴더 검색</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="317"/>
+        <location filename="DlgSearch.ui" line="334"/>
         <source>Save this request</source>
         <translation>이 요청 저장하기</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="331"/>
+        <location filename="DlgSearch.ui" line="348"/>
         <source>Save current search</source>
         <translation>현재 검색 저장하기</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="345"/>
+        <location filename="DlgSearch.ui" line="362"/>
         <source>Delete current search</source>
         <translation>현재 검색 삭제하기</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="133"/>
+        <location filename="DlgSearch.ui" line="150"/>
         <source>Conditions</source>
         <translation>조건</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="171"/>
+        <location filename="DlgSearch.ui" line="188"/>
         <source>Match</source>
         <translation>일치</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="178"/>
+        <location filename="DlgSearch.ui" line="195"/>
         <source>All</source>
         <translation>모두</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="185"/>
+        <location filename="DlgSearch.ui" line="202"/>
         <source>Any</source>
         <translation>모두</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="238"/>
+        <location filename="DlgSearch.ui" line="255"/>
         <source>Current pathname:</source>
         <translation>현재 경로명:</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="300"/>
+        <location filename="DlgSearch.ui" line="317"/>
         <source>Presets: </source>
         <translation>프리셋: </translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="399"/>
+        <location filename="DlgSearch.ui" line="416"/>
         <source>Close</source>
         <translation>닫기</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="406"/>
+        <location filename="DlgSearch.ui" line="423"/>
         <source>Abort</source>
         <translation>중단</translation>
     </message>
@@ -10914,54 +10914,54 @@ Do you want to remove them?</source>
         <translation>파일명 (&amp;F)</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="63"/>
+        <location filename="DlgSearch.ui" line="102"/>
         <source>&amp;Use Regular Expression</source>
         <translation>정규 표현식 사용 (&amp;U)</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="70"/>
+        <location filename="DlgSearch.ui" line="63"/>
         <source>F&amp;older</source>
         <translation>폴더 (&amp;F)</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="80"/>
+        <location filename="DlgSearch.ui" line="123"/>
         <source>&amp;Case sensitive</source>
         <translation>대소문자 구분 (&amp;C)</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="87"/>
+        <location filename="DlgSearch.ui" line="116"/>
         <source>Search in Catalog only</source>
         <oldsource>Use catalog</oldsource>
         <translation>카탈로그만 검색하기</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="121"/>
+        <location filename="DlgSearch.ui" line="109"/>
         <source>Search in folder names</source>
         <oldsource>&amp;Include folders</oldsource>
         <translation>폴더명 검색</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="141"/>
+        <location filename="DlgSearch.ui" line="158"/>
         <source>Add &gt;&gt;</source>
         <translation>추가 &gt;&gt;</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="151"/>
+        <location filename="DlgSearch.ui" line="168"/>
         <source>Clear all</source>
         <translation>모두 지우기</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="362"/>
+        <location filename="DlgSearch.ui" line="379"/>
         <source>&lt; Bac&amp;k</source>
         <translation>&lt; 뒤로 (&amp;K)</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="382"/>
+        <location filename="DlgSearch.ui" line="399"/>
         <source>&amp;Search</source>
         <translation>검색 (&amp;S)</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="392"/>
+        <location filename="DlgSearch.ui" line="409"/>
         <source>&amp;Browse...</source>
         <translation>찾아보기 (&amp;B)...</translation>
     </message>
@@ -11116,51 +11116,81 @@ Do you want to remove them?</source>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="182"/>
+        <source>Layout</source>
+        <translation type="unfinished">레이아웃</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsBrowser.ui" line="190"/>
+        <source>1 bar v1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsBrowser.ui" line="195"/>
+        <source>1 bar v2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsBrowser.ui" line="200"/>
+        <source>2 bars (top and bottom)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsBrowser.ui" line="205"/>
+        <source>2 bars (top)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsBrowser.ui" line="237"/>
+        <source>Delete</source>
+        <translation type="unfinished">삭제</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsBrowser.ui" line="332"/>
         <source>Filter</source>
         <translation>필터</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="189"/>
+        <location filename="DlgSettingsBrowser.ui" line="258"/>
         <source>Sort</source>
         <translation>정렬</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="196"/>
+        <location filename="DlgSettingsBrowser.ui" line="325"/>
         <source>Thumbnails + Details</source>
         <translation>썸네일 + 자세히</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="203"/>
+        <location filename="DlgSettingsBrowser.ui" line="230"/>
         <source>Thumbnails + Filename</source>
         <translation>썸네일 + 파일명</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="210"/>
+        <location filename="DlgSettingsBrowser.ui" line="295"/>
         <source>Thumbnails</source>
         <translation>썸네일</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="217"/>
+        <location filename="DlgSettingsBrowser.ui" line="339"/>
         <source>Icons</source>
         <translation>아이콘</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="224"/>
+        <location filename="DlgSettingsBrowser.ui" line="244"/>
         <source>List</source>
         <translation>목록</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="247"/>
+        <location filename="DlgSettingsBrowser.ui" line="367"/>
         <source>Favorites</source>
         <translation>즐겨찾기</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="295"/>
+        <location filename="DlgSettingsBrowser.ui" line="251"/>
         <source>View as</source>
         <translation>보기 형식</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="254"/>
+        <location filename="DlgSettingsBrowser.ui" line="281"/>
         <source>Thumbnails + Labels</source>
         <translation>썸네일 + 레이블</translation>
     </message>
@@ -11175,7 +11205,7 @@ Do you want to remove them?</source>
         <translation>툴팁</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="261"/>
+        <location filename="DlgSettingsBrowser.ui" line="360"/>
         <source>Details</source>
         <translation>자세히</translation>
     </message>
@@ -11185,62 +11215,72 @@ Do you want to remove them?</source>
         <translation>썸네일 크기</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="302"/>
-        <source>Rating</source>
-        <translation>등급</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsBrowser.ui" line="325"/>
+        <location filename="DlgSettingsBrowser.ui" line="397"/>
         <source>Tag</source>
         <translation>태그</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="333"/>
+        <location filename="DlgSettingsBrowser.ui" line="405"/>
         <source>Clear the list of tagged files</source>
         <translation>태그된 파일목록 지우기</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="341"/>
+        <location filename="DlgSettingsBrowser.ui" line="413"/>
         <source>After an operation</source>
         <translation>작업 후</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="346"/>
+        <location filename="DlgSettingsBrowser.ui" line="418"/>
         <source>After folder change</source>
         <translation>폴더 변경 후</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="351"/>
+        <location filename="DlgSettingsBrowser.ui" line="423"/>
         <source>On exit</source>
         <translation>종료 시</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="356"/>
+        <location filename="DlgSettingsBrowser.ui" line="428"/>
         <source>Never</source>
         <translation>안 함</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="268"/>
+        <location filename="DlgSettingsBrowser.ui" line="318"/>
         <source>Quick search</source>
         <translation>빠른 검색</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="393"/>
+        <location filename="DlgSettingsBrowser.ui" line="346"/>
+        <source>Rename</source>
+        <translation type="unfinished">이름 변경</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsBrowser.ui" line="353"/>
+        <source>New folder</source>
+        <translation type="unfinished">새 폴더</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsBrowser.ui" line="374"/>
+        <source>Rating (filter)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsBrowser.ui" line="465"/>
         <source>Misc.</source>
         <translation>기타</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="399"/>
+        <location filename="DlgSettingsBrowser.ui" line="471"/>
         <source>Rotation</source>
         <translation>회전</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="405"/>
+        <location filename="DlgSettingsBrowser.ui" line="477"/>
         <source>Change EXIF orientation ONLY (if possible)</source>
         <translation>EXIF 방향만 변경하기 (가능하면)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="412"/>
+        <location filename="DlgSettingsBrowser.ui" line="484"/>
         <source>Use lossless rotation (if possible)</source>
         <translation>무손실 회전 사용하기 (가능하다면)</translation>
     </message>
@@ -14863,49 +14903,49 @@ Do you want to continue?</source>
 <context>
     <name>DlgTimestamp</name>
     <message>
-        <location filename="DlgTimestamp.cpp" line="145"/>
+        <location filename="DlgTimestamp.cpp" line="146"/>
         <source>File created date</source>
         <translation>파일 생성일</translation>
     </message>
     <message>
-        <location filename="DlgTimestamp.cpp" line="145"/>
+        <location filename="DlgTimestamp.cpp" line="146"/>
         <source>File modified date</source>
         <translation>파일 수정일</translation>
     </message>
     <message>
-        <location filename="DlgTimestamp.cpp" line="146"/>
+        <location filename="DlgTimestamp.cpp" line="147"/>
         <source>EXIF: Date modified</source>
         <translation>EXIF: 수정일</translation>
     </message>
     <message>
-        <location filename="DlgTimestamp.cpp" line="146"/>
+        <location filename="DlgTimestamp.cpp" line="147"/>
         <source>EXIF: Date taken</source>
         <translation>촬영한 날짜</translation>
     </message>
     <message>
-        <location filename="DlgTimestamp.cpp" line="146"/>
+        <location filename="DlgTimestamp.cpp" line="147"/>
         <source>EXIF: Date digitized</source>
         <translation>EXIF: 디지털화 날짜</translation>
     </message>
     <message>
-        <location filename="DlgTimestamp.cpp" line="542"/>
-        <location filename="DlgTimestamp.cpp" line="563"/>
+        <location filename="DlgTimestamp.cpp" line="543"/>
+        <location filename="DlgTimestamp.cpp" line="564"/>
         <source>Problem</source>
         <translation>문제</translation>
     </message>
     <message>
-        <location filename="DlgTimestamp.cpp" line="542"/>
+        <location filename="DlgTimestamp.cpp" line="543"/>
         <source>An error occurred in updating process!</source>
         <translation>업데이트 중 오류가 발생했습니다!</translation>
     </message>
     <message>
-        <location filename="DlgTimestamp.cpp" line="557"/>
+        <location filename="DlgTimestamp.cpp" line="558"/>
         <source>Modifying timestamp, please wait...</source>
         <oldsource>Modifying timestamp, please wait... </oldsource>
         <translation>타임스탬프를 수정합니다. 잠시 기다려주세요...</translation>
     </message>
     <message>
-        <location filename="DlgTimestamp.cpp" line="568"/>
+        <location filename="DlgTimestamp.cpp" line="569"/>
         <source>An error occurred when updating these files:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -16433,43 +16473,46 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <name>Info</name>
     <message>
         <location filename="ItemModel.cpp" line="1116"/>
+        <location filename="SearchField.cpp" line="24"/>
         <location filename="TemplateData.cpp" line="2782"/>
         <source>Categories</source>
         <translation>카테고리</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1094"/>
+        <location filename="SearchField.cpp" line="25"/>
         <location filename="TemplateData.cpp" line="2778"/>
         <source>Rating</source>
         <translation>등급</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="25"/>
+        <location filename="SearchField.cpp" line="23"/>
         <source>Pathname</source>
         <translation>경로명</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="133"/>
+        <location filename="SearchField.cpp" line="131"/>
         <source>All fields (Number)</source>
         <translation>모든 필드(번호)</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="134"/>
+        <location filename="SearchField.cpp" line="132"/>
         <source>Field</source>
         <translation>필드</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="135"/>
+        <location filename="SearchField.cpp" line="133"/>
         <source>Field (Number)</source>
         <translation>필드(번호)</translation>
     </message>
     <message>
+        <location filename="SearchField.cpp" line="26"/>
         <location filename="TemplateData.cpp" line="2780"/>
         <source>Color label</source>
         <translation>색 레이블</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="29"/>
+        <location filename="SearchField.cpp" line="27"/>
         <source>File size</source>
         <translation>파일 크기</translation>
     </message>
@@ -16478,6 +16521,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPropertiesView.cpp" line="676"/>
         <location filename="InfoPropertiesView.cpp" line="694"/>
         <location filename="InfoPropertiesView.cpp" line="713"/>
+        <location filename="SearchField.cpp" line="31"/>
         <location filename="TemplateData.cpp" line="2567"/>
         <source>Format</source>
         <translation>형식</translation>
@@ -16487,6 +16531,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="IptcEditBase.cpp" line="83"/>
         <location filename="IptcEditBase.cpp" line="115"/>
         <location filename="ItemModel.cpp" line="1102"/>
+        <location filename="SearchField.cpp" line="35"/>
         <location filename="TemplateData.cpp" line="2802"/>
         <source>Annotation</source>
         <translation>각주</translation>
@@ -16511,6 +16556,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DlgImport.cpp" line="230"/>
         <location filename="EditXMPWidget.cpp" line="365"/>
         <location filename="IptcEditBase.cpp" line="79"/>
+        <location filename="SearchField.cpp" line="28"/>
         <location filename="TemplateData.cpp" line="2797"/>
         <source>Modified date</source>
         <translation>수정일</translation>
@@ -16551,6 +16597,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPropertiesView.cpp" line="691"/>
         <location filename="InfoPropertiesView.cpp" line="731"/>
         <location filename="ItemModel.cpp" line="1100"/>
+        <location filename="SearchField.cpp" line="36"/>
         <location filename="TemplateData.cpp" line="2573"/>
         <source>Comment</source>
         <translation>코멘트</translation>
@@ -16564,6 +16611,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPropertiesView.cpp" line="73"/>
         <location filename="InfoPropertiesView.cpp" line="679"/>
         <location filename="ItemModel.cpp" line="1108"/>
+        <location filename="SearchField.cpp" line="32"/>
         <location filename="TemplateData.cpp" line="2570"/>
         <location filename="TemplateData.cpp" line="2593"/>
         <source>Width</source>
@@ -16573,6 +16621,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPropertiesView.cpp" line="74"/>
         <location filename="InfoPropertiesView.cpp" line="680"/>
         <location filename="ItemModel.cpp" line="1110"/>
+        <location filename="SearchField.cpp" line="33"/>
         <location filename="TemplateData.cpp" line="2571"/>
         <location filename="TemplateData.cpp" line="2594"/>
         <source>Height</source>
@@ -16948,6 +16997,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="EditXMPWidget.cpp" line="363"/>
         <location filename="IptcEditBase.cpp" line="77"/>
+        <location filename="SearchField.cpp" line="30"/>
         <location filename="TemplateData.cpp" line="2795"/>
         <source>Accessed date</source>
         <translation>접근일</translation>
@@ -16955,6 +17005,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="EditXMPWidget.cpp" line="364"/>
         <location filename="IptcEditBase.cpp" line="78"/>
+        <location filename="SearchField.cpp" line="29"/>
         <location filename="TemplateData.cpp" line="2796"/>
         <source>Creation date</source>
         <translation>생성일</translation>
@@ -16988,6 +17039,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1106"/>
+        <location filename="SearchField.cpp" line="34"/>
         <location filename="TemplateData.cpp" line="2583"/>
         <source>Ratio</source>
         <translation>비율</translation>
@@ -17017,10 +17069,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>색 레이블 (번호)</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="39"/>
-        <location filename="SearchField.cpp" line="70"/>
-        <location filename="SearchField.cpp" line="86"/>
-        <location filename="SearchField.cpp" line="132"/>
+        <location filename="SearchField.cpp" line="37"/>
+        <location filename="SearchField.cpp" line="68"/>
+        <location filename="SearchField.cpp" line="84"/>
+        <location filename="SearchField.cpp" line="130"/>
         <source>All fields</source>
         <translation>모든 필드</translation>
     </message>
@@ -17234,12 +17286,14 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <name>InfoExif</name>
     <message>
         <location filename="ItemModel.cpp" line="1119"/>
+        <location filename="SearchField.cpp" line="71"/>
         <location filename="TemplateData.cpp" line="2605"/>
         <source>Maker</source>
         <translation>제작사</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1121"/>
+        <location filename="SearchField.cpp" line="72"/>
         <location filename="TemplateData.cpp" line="2606"/>
         <source>Model</source>
         <translation>기종</translation>
@@ -17313,24 +17367,33 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>제작사노트</translation>
     </message>
     <message>
+        <location filename="SearchField.cpp" line="74"/>
         <location filename="TemplateData.cpp" line="2618"/>
         <source>Software</source>
         <translation>소프트웨어</translation>
     </message>
     <message>
+        <location filename="SearchField.cpp" line="73"/>
         <location filename="TemplateData.cpp" line="2607"/>
         <source>Artist</source>
         <translation>저작자</translation>
     </message>
     <message>
+        <location filename="SearchField.cpp" line="75"/>
         <location filename="TemplateData.cpp" line="2631"/>
         <source>User comment</source>
         <translation>사용자 코멘트</translation>
     </message>
     <message>
+        <location filename="SearchField.cpp" line="81"/>
         <location filename="TemplateData.cpp" line="2639"/>
         <source>F-Number</source>
         <translation>F-값</translation>
+    </message>
+    <message>
+        <location filename="SearchField.cpp" line="82"/>
+        <source>Exposure time (s)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2608"/>
@@ -17338,6 +17401,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>저작권</translation>
     </message>
     <message>
+        <location filename="SearchField.cpp" line="76"/>
         <location filename="TemplateData.cpp" line="2609"/>
         <source>Date/time modified</source>
         <translation>수정 날짜/시간</translation>
@@ -17413,11 +17477,13 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>XP 제목</translation>
     </message>
     <message>
+        <location filename="SearchField.cpp" line="77"/>
         <location filename="TemplateData.cpp" line="2632"/>
         <source>Date taken</source>
         <translation>촬영일</translation>
     </message>
     <message>
+        <location filename="SearchField.cpp" line="78"/>
         <location filename="TemplateData.cpp" line="2633"/>
         <source>Date digitized</source>
         <translation>디지털화 날짜</translation>
@@ -17449,6 +17515,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>노출 지수</translation>
     </message>
     <message>
+        <location filename="SearchField.cpp" line="80"/>
         <location filename="TemplateData.cpp" line="2640"/>
         <source>Focal length (mm)</source>
         <oldsource>Focal length [mm]</oldsource>
@@ -17460,6 +17527,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>35mm 초점 거리</translation>
     </message>
     <message>
+        <location filename="SearchField.cpp" line="79"/>
         <location filename="TemplateData.cpp" line="2642"/>
         <source>ISO Value</source>
         <translation>ISO 값</translation>
@@ -17501,6 +17569,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>피사체 위치</translation>
     </message>
     <message>
+        <location filename="SearchField.cpp" line="83"/>
         <location filename="TemplateData.cpp" line="2651"/>
         <source>Flash</source>
         <translation>플래시</translation>
@@ -17741,6 +17810,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="25"/>
         <location filename="IptcHelper.cpp" line="17"/>
         <location filename="ItemModel.cpp" line="1138"/>
+        <location filename="SearchField.cpp" line="40"/>
         <location filename="TemplateData.cpp" line="2706"/>
         <source>Caption</source>
         <translation>캡션</translation>
@@ -17750,6 +17820,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="27"/>
         <location filename="IptcHelper.cpp" line="19"/>
         <location filename="ItemModel.cpp" line="1140"/>
+        <location filename="SearchField.cpp" line="41"/>
+        <location filename="SearchField.cpp" line="93"/>
         <location filename="TemplateData.cpp" line="2707"/>
         <location filename="TemplateData.cpp" line="2760"/>
         <source>Caption writer</source>
@@ -17760,6 +17832,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="28"/>
         <location filename="IptcHelper.cpp" line="20"/>
         <location filename="ItemModel.cpp" line="1142"/>
+        <location filename="SearchField.cpp" line="42"/>
+        <location filename="SearchField.cpp" line="97"/>
         <location filename="TemplateData.cpp" line="2708"/>
         <location filename="TemplateData.cpp" line="2764"/>
         <source>Headline</source>
@@ -17770,6 +17844,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="34"/>
         <location filename="IptcHelper.cpp" line="23"/>
         <location filename="ItemModel.cpp" line="1144"/>
+        <location filename="SearchField.cpp" line="44"/>
         <location filename="TemplateData.cpp" line="2714"/>
         <source>Keywords</source>
         <translation>키워드</translation>
@@ -17799,6 +17874,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="42"/>
         <location filename="IptcHelper.cpp" line="27"/>
         <location filename="ItemModel.cpp" line="1148"/>
+        <location filename="SearchField.cpp" line="48"/>
         <location filename="TemplateData.cpp" line="2722"/>
         <source>Byline</source>
         <translation>바이라인</translation>
@@ -17807,6 +17883,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="43"/>
         <location filename="IptcHelper.cpp" line="28"/>
         <location filename="ItemModel.cpp" line="1150"/>
+        <location filename="SearchField.cpp" line="49"/>
         <location filename="TemplateData.cpp" line="2723"/>
         <source>Byline title</source>
         <translation>바이라인 제목</translation>
@@ -17814,6 +17891,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="EditXMPWidget.cpp" line="130"/>
         <location filename="ItemModel.cpp" line="1152"/>
+        <location filename="SearchField.cpp" line="50"/>
+        <location filename="SearchField.cpp" line="96"/>
         <location filename="TemplateData.cpp" line="2724"/>
         <location filename="TemplateData.cpp" line="2763"/>
         <source>Credit</source>
@@ -17824,6 +17903,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="45"/>
         <location filename="IptcHelper.cpp" line="30"/>
         <location filename="ItemModel.cpp" line="1154"/>
+        <location filename="SearchField.cpp" line="51"/>
+        <location filename="SearchField.cpp" line="99"/>
         <location filename="TemplateData.cpp" line="2725"/>
         <location filename="TemplateData.cpp" line="2766"/>
         <source>Source</source>
@@ -17833,6 +17914,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="41"/>
         <location filename="IptcHelper.cpp" line="31"/>
         <location filename="ItemModel.cpp" line="1156"/>
+        <location filename="SearchField.cpp" line="47"/>
+        <location filename="SearchField.cpp" line="89"/>
         <location filename="TemplateData.cpp" line="2721"/>
         <location filename="TemplateData.cpp" line="2756"/>
         <source>Copyright</source>
@@ -17852,6 +17935,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="73"/>
         <location filename="IptcHelper.cpp" line="32"/>
         <location filename="ItemModel.cpp" line="1158"/>
+        <location filename="SearchField.cpp" line="66"/>
         <location filename="TemplateData.cpp" line="2748"/>
         <source>Contact</source>
         <translation>연락처</translation>
@@ -17863,6 +17947,9 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="61"/>
         <location filename="IptcHelper.cpp" line="43"/>
         <location filename="ItemModel.cpp" line="1160"/>
+        <location filename="SearchField.cpp" line="60"/>
+        <location filename="SearchField.cpp" line="94"/>
+        <location filename="SearchField.cpp" line="109"/>
         <location filename="TemplateData.cpp" line="2742"/>
         <location filename="TemplateData.cpp" line="2761"/>
         <source>City</source>
@@ -17870,6 +17957,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="74"/>
+        <location filename="SearchField.cpp" line="67"/>
         <location filename="TemplateData.cpp" line="2749"/>
         <source>Content location</source>
         <translation>내용 지역</translation>
@@ -17879,6 +17967,9 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="EditXMPWidget.cpp" line="168"/>
         <location filename="EditXMPWidget.cpp" line="183"/>
         <location filename="ItemModel.cpp" line="1164"/>
+        <location filename="SearchField.cpp" line="62"/>
+        <location filename="SearchField.cpp" line="100"/>
+        <location filename="SearchField.cpp" line="110"/>
         <location filename="TemplateData.cpp" line="2744"/>
         <location filename="TemplateData.cpp" line="2767"/>
         <source>State</source>
@@ -17891,6 +17982,9 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="64"/>
         <location filename="IptcHelper.cpp" line="46"/>
         <location filename="ItemModel.cpp" line="1166"/>
+        <location filename="SearchField.cpp" line="63"/>
+        <location filename="SearchField.cpp" line="95"/>
+        <location filename="SearchField.cpp" line="112"/>
         <location filename="TemplateData.cpp" line="2745"/>
         <location filename="TemplateData.cpp" line="2762"/>
         <source>Country</source>
@@ -17905,12 +17999,14 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoIPTCView.cpp" line="29"/>
         <location filename="IptcHelper.cpp" line="21"/>
+        <location filename="SearchField.cpp" line="43"/>
         <location filename="TemplateData.cpp" line="2709"/>
         <source>Special instructions</source>
         <translation>특별 지침</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="35"/>
+        <location filename="SearchField.cpp" line="45"/>
         <location filename="TemplateData.cpp" line="2715"/>
         <source>Category</source>
         <translation>카테고리</translation>
@@ -17918,6 +18014,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoIPTCView.cpp" line="36"/>
         <location filename="IptcHelper.cpp" line="25"/>
+        <location filename="SearchField.cpp" line="46"/>
         <location filename="TemplateData.cpp" line="2716"/>
         <source>Supplemental categories</source>
         <translation>추가 카테고리</translation>
@@ -17931,6 +18028,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoIPTCView.cpp" line="50"/>
         <location filename="IptcHelper.cpp" line="34"/>
+        <location filename="SearchField.cpp" line="52"/>
         <location filename="TemplateData.cpp" line="2730"/>
         <source>Edit status</source>
         <translation>편집 상태</translation>
@@ -17938,6 +18036,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoIPTCView.cpp" line="51"/>
         <location filename="IptcHelper.cpp" line="37"/>
+        <location filename="SearchField.cpp" line="55"/>
         <location filename="TemplateData.cpp" line="2733"/>
         <source>Job ID</source>
         <translation>작업 ID</translation>
@@ -17945,6 +18044,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoIPTCView.cpp" line="52"/>
         <location filename="IptcHelper.cpp" line="38"/>
+        <location filename="SearchField.cpp" line="56"/>
         <location filename="TemplateData.cpp" line="2734"/>
         <source>Program</source>
         <translation>프로그램</translation>
@@ -17958,6 +18058,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoIPTCView.cpp" line="54"/>
         <location filename="IptcHelper.cpp" line="35"/>
+        <location filename="SearchField.cpp" line="53"/>
         <location filename="TemplateData.cpp" line="2731"/>
         <source>Priority</source>
         <translation>우선권</translation>
@@ -17977,6 +18078,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoIPTCView.cpp" line="65"/>
         <location filename="IptcHelper.cpp" line="47"/>
+        <location filename="SearchField.cpp" line="64"/>
+        <location filename="SearchField.cpp" line="107"/>
         <location filename="TemplateData.cpp" line="2746"/>
         <source>Country code</source>
         <translation>국가 코드</translation>
@@ -17988,6 +18091,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="67"/>
+        <location filename="SearchField.cpp" line="58"/>
         <location filename="TemplateData.cpp" line="2740"/>
         <source>Created date</source>
         <translation>생성일</translation>
@@ -17999,6 +18103,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="69"/>
+        <location filename="SearchField.cpp" line="59"/>
         <location filename="TemplateData.cpp" line="2741"/>
         <source>Released date</source>
         <translation>출시일</translation>
@@ -18013,6 +18118,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="62"/>
         <location filename="IptcHelper.cpp" line="44"/>
         <location filename="ItemModel.cpp" line="1162"/>
+        <location filename="SearchField.cpp" line="61"/>
+        <location filename="SearchField.cpp" line="106"/>
         <location filename="TemplateData.cpp" line="2743"/>
         <source>Location</source>
         <translation>위치</translation>
@@ -18023,44 +18130,117 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>기타</translation>
     </message>
     <message>
+        <location filename="SearchField.cpp" line="54"/>
         <location filename="TemplateData.cpp" line="2732"/>
         <source>Cycle</source>
         <translation>주기</translation>
     </message>
     <message>
+        <location filename="SearchField.cpp" line="65"/>
         <location filename="TemplateData.cpp" line="2747"/>
         <source>Original trans. ref.</source>
         <translation>원본 전송 참조</translation>
     </message>
     <message>
+        <location filename="SearchField.cpp" line="101"/>
+        <source>Modify Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="SearchField.cpp" line="102"/>
+        <source>Create Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="SearchField.cpp" line="103"/>
+        <source>Hierarchical Subject</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="SearchField.cpp" line="120"/>
+        <source>Custom field 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="SearchField.cpp" line="121"/>
+        <source>Custom field 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="SearchField.cpp" line="122"/>
+        <source>Custom field 3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="SearchField.cpp" line="123"/>
+        <source>Custom field 4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="SearchField.cpp" line="124"/>
+        <source>Custom field 5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="SearchField.cpp" line="125"/>
+        <source>Custom field 6</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="SearchField.cpp" line="126"/>
+        <source>Custom field 7</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="SearchField.cpp" line="127"/>
+        <source>Custom field 8</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="SearchField.cpp" line="128"/>
+        <source>Custom field 9</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="SearchField.cpp" line="129"/>
+        <source>Custom field 10</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="EditXMPWidget.cpp" line="133"/>
+        <location filename="SearchField.cpp" line="98"/>
         <location filename="TemplateData.cpp" line="2765"/>
         <source>Instructions</source>
         <translation>방법</translation>
     </message>
     <message>
+        <location filename="SearchField.cpp" line="87"/>
         <location filename="TemplateData.cpp" line="2754"/>
         <source>Creator</source>
         <translation>생성자</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="114"/>
+        <location filename="SearchField.cpp" line="88"/>
         <location filename="TemplateData.cpp" line="2755"/>
         <source>Description</source>
         <translation>설명</translation>
     </message>
     <message>
+        <location filename="SearchField.cpp" line="90"/>
         <location filename="TemplateData.cpp" line="2757"/>
         <source>Subject</source>
         <translation>제목</translation>
     </message>
     <message>
+        <location filename="SearchField.cpp" line="91"/>
         <location filename="TemplateData.cpp" line="2758"/>
         <source>Title</source>
         <translation>제목</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="113"/>
+        <location filename="SearchField.cpp" line="92"/>
         <location filename="TemplateData.cpp" line="2759"/>
         <source>Authors position</source>
         <translation>저자 위치</translation>
@@ -18070,6 +18250,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="60"/>
         <location filename="IptcHelper.cpp" line="49"/>
         <location filename="ItemModel.cpp" line="1168"/>
+        <location filename="SearchField.cpp" line="57"/>
         <location filename="TemplateData.cpp" line="2739"/>
         <source>Document title</source>
         <translation>문서 제목</translation>
@@ -18086,6 +18267,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="118"/>
+        <location filename="SearchField.cpp" line="105"/>
         <source>Copyright info URL</source>
         <translation>저작권 정보 URL</translation>
     </message>
@@ -18106,31 +18288,37 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="134"/>
+        <location filename="SearchField.cpp" line="104"/>
         <source>Transmission reference</source>
         <translation>전송 레퍼런스</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="166"/>
+        <location filename="SearchField.cpp" line="108"/>
         <source>Address</source>
         <translation>주소</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="169"/>
+        <location filename="SearchField.cpp" line="111"/>
         <source>ZIP code</source>
         <translation>우편번호</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="171"/>
+        <location filename="SearchField.cpp" line="113"/>
         <source>Telephon number</source>
         <translation>전화번호</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="172"/>
+        <location filename="SearchField.cpp" line="114"/>
         <source>Email</source>
         <translation>이메일</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="173"/>
+        <location filename="SearchField.cpp" line="115"/>
         <source>Web site</source>
         <translation>웹사이트</translation>
     </message>
@@ -18141,21 +18329,25 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="177"/>
+        <location filename="SearchField.cpp" line="116"/>
         <source>Person in image</source>
         <translation>이미지의 사람</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="178"/>
+        <location filename="SearchField.cpp" line="117"/>
         <source>Name of organization represented</source>
         <translation>단체명</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="179"/>
+        <location filename="SearchField.cpp" line="118"/>
         <source>Code of organization represented</source>
         <translation>단체 코드</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="180"/>
+        <location filename="SearchField.cpp" line="119"/>
         <source>Event</source>
         <translation>이벤트</translation>
     </message>
@@ -18418,7 +18610,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>종류</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="4981"/>
+        <location filename="ItemModel.cpp" line="4985"/>
         <source>New Folder %1</source>
         <translation>새 폴더 %1</translation>
     </message>
@@ -18819,12 +19011,12 @@ Do you want to continue?</oldsource>
 <context>
     <name>MenuBrowser</name>
     <message>
-        <location filename="BrowserWindow.cpp" line="4094"/>
+        <location filename="BrowserWindow.cpp" line="4096"/>
         <source>New Folder</source>
         <translation>새 폴더</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4106"/>
+        <location filename="BrowserWindow.cpp" line="4108"/>
         <source>Rename</source>
         <translation>이름 변경</translation>
     </message>
@@ -19574,13 +19766,13 @@ Do you want to continue?</oldsource>
         <translation>파일 목록 열기...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4097"/>
+        <location filename="BrowserWindow.cpp" line="4099"/>
         <location filename="BrowserMenu.h" line="420"/>
         <source>Cut</source>
         <translation>잘라내기</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4099"/>
+        <location filename="BrowserWindow.cpp" line="4101"/>
         <location filename="BrowserMenu.h" line="422"/>
         <source>Copy</source>
         <translation>복사</translation>
@@ -19591,7 +19783,7 @@ Do you want to continue?</oldsource>
         <translation>이미지</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4101"/>
+        <location filename="BrowserWindow.cpp" line="4103"/>
         <location filename="BrowserMenu.h" line="427"/>
         <source>Paste</source>
         <translation>붙여넣기</translation>
@@ -19627,19 +19819,19 @@ Do you want to continue?</oldsource>
         <translation>태그된 파일 선택</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4109"/>
+        <location filename="BrowserWindow.cpp" line="4111"/>
         <location filename="BrowserMenu.h" line="437"/>
         <source>Copy to...</source>
         <translation>복사...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4111"/>
+        <location filename="BrowserWindow.cpp" line="4113"/>
         <location filename="BrowserMenu.h" line="438"/>
         <source>Move to...</source>
         <translation>이동...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4104"/>
+        <location filename="BrowserWindow.cpp" line="4106"/>
         <location filename="BrowserMenu.h" line="439"/>
         <source>Delete</source>
         <translation>삭제</translation>
@@ -21891,17 +22083,17 @@ Do you want to continue?</oldsource>
     </message>
 </context>
 <context>
-    <name>MyLittleToolBar2</name>
+    <name>MyLittleToolBarV1</name>
     <message>
-        <location filename="MyLittleToolBar.h" line="374"/>
+        <location filename="MyLittleToolBar.h" line="770"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
         <translation type="unfinished">슬라이더 기능 토글: 썸네일 크기 [픽셀] 또는 세로줄 당 썸네일</translation>
     </message>
 </context>
 <context>
-    <name>MyLittleToolBarOld</name>
+    <name>MyLittleToolBarV2_2</name>
     <message>
-        <location filename="MyLittleToolBar.h" line="754"/>
+        <location filename="MyLittleToolBar.h" line="381"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
         <translation type="unfinished">슬라이더 기능 토글: 썸네일 크기 [픽셀] 또는 세로줄 당 썸네일</translation>
     </message>
@@ -21967,7 +22159,7 @@ Do you want to continue?</oldsource>
 <context>
     <name>MyThumbView</name>
     <message>
-        <location filename="MyThumbView.cpp" line="501"/>
+        <location filename="MyThumbView.cpp" line="520"/>
         <source>Size of cached thumbnails is smaller than chosen one. 
 You can change it in Settings › Catalog.</source>
         <oldsource>Size of cached thumbnails is smaller than choosen one. 
@@ -21976,51 +22168,51 @@ You can change it in Settings › Catalog.</oldsource>
 옵션&gt;카탈로그에서 바꿀 수 있습니다.</translation>
     </message>
     <message>
-        <location filename="MyThumbView.cpp" line="623"/>
+        <location filename="MyThumbView.cpp" line="642"/>
         <source>Updating catalog, please wait...</source>
         <oldsource>Updating catalog, please wait... </oldsource>
         <translation>카탈로그 업데이트 중, 잠시 기다리세요... </translation>
     </message>
     <message>
-        <location filename="MyThumbView.cpp" line="637"/>
+        <location filename="MyThumbView.cpp" line="656"/>
         <source>Updating files, please wait...</source>
         <oldsource>Updating files, please wait... </oldsource>
         <translation>파일 업데이트 중, 잠시 기다리세요... </translation>
     </message>
     <message numerus="yes">
-        <location filename="MyThumbView.cpp" line="1238"/>
-        <location filename="MyThumbView.cpp" line="1251"/>
+        <location filename="MyThumbView.cpp" line="1257"/>
+        <location filename="MyThumbView.cpp" line="1270"/>
         <source>%n object(s)</source>
         <translation>
             <numerusform>%n 개체</numerusform>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="MyThumbView.cpp" line="1238"/>
+        <location filename="MyThumbView.cpp" line="1257"/>
         <source>%n object(s) selected [%3 %4]</source>
         <translation>
             <numerusform>%n 개체 선택 [%3 %4]</numerusform>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="MyThumbView.cpp" line="1249"/>
+        <location filename="MyThumbView.cpp" line="1268"/>
         <source>%n object(s) [%2 %3]</source>
         <translation>
             <numerusform>%n 개체 [%2 %3]</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="MyThumbView.cpp" line="1291"/>
+        <location filename="MyThumbView.cpp" line="1310"/>
         <source>[Free disk space: %1 %2]</source>
         <translation>[여유 디스크 공간: %1 %2]</translation>
     </message>
     <message>
-        <location filename="MyThumbView.cpp" line="1618"/>
+        <location filename="MyThumbView.cpp" line="1637"/>
         <source>All</source>
         <translation>전체</translation>
     </message>
     <message>
-        <location filename="MyThumbView.cpp" line="1622"/>
+        <location filename="MyThumbView.cpp" line="1641"/>
         <source>None</source>
         <translation>없음</translation>
     </message>
@@ -22482,7 +22674,7 @@ You can change it in Settings › Catalog.</oldsource>
         <translation>카테고리</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2079"/>
+        <location filename="BrowserWindow.cpp" line="2081"/>
         <source>Click on check-box to toggle the assignment
 Right Click for pop-up menu with actions.</source>
         <translation>배치를 토글하려면 체크 박스를 누르세요
@@ -23078,7 +23270,7 @@ Right Click for pop-up menu with actions.</source>
 <context>
     <name>Rename</name>
     <message>
-        <location filename="ItemModel.cpp" line="4599"/>
+        <location filename="ItemModel.cpp" line="4603"/>
         <source>An error has occurred during renaming!</source>
         <oldsource>An error occured during renaming!</oldsource>
         <translation>파일 이름 변경 중에 오류가 발생했습니다!</translation>
@@ -23087,140 +23279,140 @@ Right Click for pop-up menu with actions.</source>
 <context>
     <name>SearchDlg</name>
     <message>
-        <location filename="SearchField.cpp" line="431"/>
-        <location filename="SearchField.cpp" line="654"/>
+        <location filename="SearchField.cpp" line="429"/>
+        <location filename="SearchField.cpp" line="652"/>
         <source>is</source>
         <translation>인 경우</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="432"/>
+        <location filename="SearchField.cpp" line="430"/>
         <source>is not</source>
         <translation>이 아닌 경우</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="433"/>
-        <location filename="SearchField.cpp" line="552"/>
+        <location filename="SearchField.cpp" line="431"/>
+        <location filename="SearchField.cpp" line="550"/>
         <source>is any of</source>
         <translation>모두</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="434"/>
-        <location filename="SearchField.cpp" line="553"/>
-        <location filename="SearchField.cpp" line="652"/>
+        <location filename="SearchField.cpp" line="432"/>
+        <location filename="SearchField.cpp" line="551"/>
+        <location filename="SearchField.cpp" line="650"/>
         <source>contains</source>
         <translation>포함</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="435"/>
-        <location filename="SearchField.cpp" line="653"/>
+        <location filename="SearchField.cpp" line="433"/>
+        <location filename="SearchField.cpp" line="651"/>
         <source>does not contain</source>
         <oldsource>does not contains</oldsource>
         <translation>포함하지 않음</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="436"/>
+        <location filename="SearchField.cpp" line="434"/>
         <source>starts with</source>
         <translation>시작</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="503"/>
+        <location filename="SearchField.cpp" line="501"/>
         <source>With at least one of the words</source>
         <translation>최소한 하나 이상의 단어로</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="505"/>
+        <location filename="SearchField.cpp" line="503"/>
         <source>With all of the words</source>
         <translation>모든 단어로</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="507"/>
+        <location filename="SearchField.cpp" line="505"/>
         <source>With the exact phrase</source>
         <translation>정확한 구문으로</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="510"/>
+        <location filename="SearchField.cpp" line="508"/>
         <source>Whole word only</source>
         <translation>단어 단위로</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="798"/>
+        <location filename="SearchField.cpp" line="796"/>
         <source>and</source>
         <translation>에서</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="889"/>
+        <location filename="SearchField.cpp" line="887"/>
         <source>is before</source>
         <translation>이전</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="890"/>
+        <location filename="SearchField.cpp" line="888"/>
         <source>is after</source>
         <translation>이후</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="891"/>
+        <location filename="SearchField.cpp" line="889"/>
         <source>is between</source>
         <translation>사이</translation>
+    </message>
+    <message>
+        <location filename="SearchField.cpp" line="949"/>
+        <location filename="SearchField.cpp" line="1078"/>
+        <location filename="SearchField.cpp" line="1163"/>
+        <source>is less than</source>
+        <translation>보다 작음</translation>
+    </message>
+    <message>
+        <location filename="SearchField.cpp" line="950"/>
+        <location filename="SearchField.cpp" line="1079"/>
+        <location filename="SearchField.cpp" line="1164"/>
+        <source>is less than or equal to</source>
+        <translation>미만 또는 동일</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="951"/>
         <location filename="SearchField.cpp" line="1080"/>
         <location filename="SearchField.cpp" line="1165"/>
-        <source>is less than</source>
-        <translation>보다 작음</translation>
+        <source>equal to</source>
+        <translation>동일</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="952"/>
         <location filename="SearchField.cpp" line="1081"/>
         <location filename="SearchField.cpp" line="1166"/>
-        <source>is less than or equal to</source>
-        <translation>미만 또는 동일</translation>
+        <source>is greater than</source>
+        <translation>보다 더 큼</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="953"/>
         <location filename="SearchField.cpp" line="1082"/>
         <location filename="SearchField.cpp" line="1167"/>
-        <source>equal to</source>
-        <translation>동일</translation>
+        <source>is greater than or equal to</source>
+        <translation>초과 또는 동일</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="954"/>
         <location filename="SearchField.cpp" line="1083"/>
         <location filename="SearchField.cpp" line="1168"/>
-        <source>is greater than</source>
-        <translation>보다 더 큼</translation>
-    </message>
-    <message>
-        <location filename="SearchField.cpp" line="955"/>
-        <location filename="SearchField.cpp" line="1084"/>
-        <location filename="SearchField.cpp" line="1169"/>
-        <source>is greater than or equal to</source>
-        <translation>초과 또는 동일</translation>
-    </message>
-    <message>
-        <location filename="SearchField.cpp" line="956"/>
-        <location filename="SearchField.cpp" line="1085"/>
-        <location filename="SearchField.cpp" line="1170"/>
         <source>between</source>
         <translation>범위</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1010"/>
+        <location filename="SearchField.cpp" line="1008"/>
         <source>bytes</source>
         <translation>바이트</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1011"/>
+        <location filename="SearchField.cpp" line="1009"/>
         <source>KiB</source>
         <translation>KiB</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1012"/>
+        <location filename="SearchField.cpp" line="1010"/>
         <source>MiB</source>
         <translation>MiB</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1013"/>
+        <location filename="SearchField.cpp" line="1011"/>
         <source>GiB</source>
         <translation>GiB</translation>
     </message>
@@ -23645,7 +23837,7 @@ Do you want to keep the thumbnails?
         <translation>세션을 저장 하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="3075"/>
+        <location filename="xnview.cpp" line="3076"/>
         <source>Catalog and Metadata are disabled - 
 Rating, Tag &amp; Color labels will not be saved.</source>
         <oldsource>Rating/Tag/Color label can&apos;t be saved if catalog and metadata export are disabled!</oldsource>
