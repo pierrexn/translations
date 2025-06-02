@@ -11196,22 +11196,22 @@ Ali jih želite odstraniti?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="182"/>
         <source>Layout</source>
-        <translation type="unfinished">Postavitev</translation>
+        <translation>Postavitev</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="190"/>
         <source>1 bar v1</source>
-        <translation type="unfinished"></translation>
+        <translation>1 takt v1</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="195"/>
         <source>1 bar v2</source>
-        <translation type="unfinished"></translation>
+        <translation>1 takt v2</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="200"/>
         <source>2 bars (top and bottom)</source>
-        <translation type="unfinished"></translation>
+        <translation>2 vrstici (zgoraj in spodaj)</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="205"/>
