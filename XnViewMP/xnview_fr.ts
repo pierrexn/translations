@@ -11163,32 +11163,32 @@ Voulez-vous les enlever?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="182"/>
         <source>Layout</source>
-        <translation type="unfinished">Disposition</translation>
+        <translation>Disposition</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="190"/>
         <source>1 bar v1</source>
-        <translation type="unfinished"></translation>
+        <translation>1 barre v1</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="195"/>
         <source>1 bar v2</source>
-        <translation type="unfinished"></translation>
+        <translation>1 barre v2</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="200"/>
         <source>2 bars (top and bottom)</source>
-        <translation type="unfinished"></translation>
+        <translation>2 barres (haut et bas)</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="205"/>
         <source>2 bars (top)</source>
-        <translation type="unfinished"></translation>
+        <translation>2 barres (haut)</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="237"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="332"/>
@@ -11298,17 +11298,17 @@ Voulez-vous les enlever?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="346"/>
         <source>Rename</source>
-        <translation type="unfinished">Renommer</translation>
+        <translation>Renommer</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="353"/>
         <source>New folder</source>
-        <translation type="unfinished">Nouveau dossier</translation>
+        <translation>Nouveau dossier</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="374"/>
         <source>Rating (filter)</source>
-        <translation type="unfinished"></translation>
+        <translation>Note (filtre)</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="465"/>
@@ -16570,7 +16570,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="SearchField.cpp" line="23"/>
         <source>Pathname</source>
-        <translation type="unfinished">Chemin</translation>
+        <translation>Chemin</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="27"/>
@@ -17454,7 +17454,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="SearchField.cpp" line="82"/>
         <source>Exposure time (s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Temps d&apos;exposition (s)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2608"/>
@@ -18204,67 +18204,67 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="SearchField.cpp" line="101"/>
         <source>Modify Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Date de modification</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="102"/>
         <source>Create Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Date de création</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="103"/>
         <source>Hierarchical Subject</source>
-        <translation type="unfinished"></translation>
+        <translation>Sujet hiérarchique</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="120"/>
         <source>Custom field 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Champ personnalisé 1</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="121"/>
         <source>Custom field 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Champ personnalisé 2</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="122"/>
         <source>Custom field 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Champ personnalisé 3</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="123"/>
         <source>Custom field 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Champ personnalisé 4</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="124"/>
         <source>Custom field 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Champ personnalisé 5</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="125"/>
         <source>Custom field 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Champ personnalisé 6</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="126"/>
         <source>Custom field 7</source>
-        <translation type="unfinished"></translation>
+        <translation>Champ personnalisé 7</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="127"/>
         <source>Custom field 8</source>
-        <translation type="unfinished"></translation>
+        <translation>Champ personnalisé 8</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="128"/>
         <source>Custom field 9</source>
-        <translation type="unfinished"></translation>
+        <translation>Champ personnalisé 9</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="129"/>
         <source>Custom field 10</source>
-        <translation type="unfinished"></translation>
+        <translation>Champ personnalisé 10</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="133"/>
@@ -22179,8 +22179,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="MyLittleToolBar.h" line="770"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished">Cliquez pour changer entre une vue avec un nombre fixe de vignettes par ligne
-à une vue avec des vignettes de taille fixe</translation>
+        <translation>Basculer la fonction du curseur : taille des vignettes [pixels] ou vignettes par colonne</translation>
     </message>
 </context>
 <context>
@@ -22188,8 +22187,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="MyLittleToolBar.h" line="381"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished">Cliquez pour changer entre une vue avec un nombre fixe de vignettes par ligne
-à une vue avec des vignettes de taille fixe</translation>
+        <translation>Basculer la fonction du curseur : taille des vignettes [pixels] ou vignettes par colonne</translation>
     </message>
 </context>
 <context>
