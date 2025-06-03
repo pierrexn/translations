@@ -8816,39 +8816,39 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Layout</source>
-        <translation type="unfinished">Asettelu</translation>
+        <translation>Asettelu</translation>
     </message>
     <message>
         <source>1 bar v1</source>
-        <translation type="unfinished"></translation>
+        <translation>Yksi palkki v1</translation>
     </message>
     <message>
         <source>1 bar v2</source>
-        <translation type="unfinished"></translation>
+        <translation>Yksi palkki v2</translation>
     </message>
     <message>
         <source>2 bars (top and bottom)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaksi palkkia (alhaalla ja ylhäällä)</translation>
     </message>
     <message>
         <source>2 bars (top)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaksi palkkia (ylhäällä)</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Poista</translation>
+        <translation>Poista</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished">Nimeä uudelleen</translation>
+        <translation>Nimeä uudelleen</translation>
     </message>
     <message>
         <source>New folder</source>
-        <translation type="unfinished">Uusi kansio</translation>
+        <translation>Uusi kansio</translation>
     </message>
     <message>
         <source>Rating (filter)</source>
-        <translation type="unfinished"></translation>
+        <translation>Arvio (suodatin)</translation>
     </message>
 </context>
 <context>
@@ -10405,7 +10405,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Update master file</source>
-        <translation type="unfinished"></translation>
+        <translation>Päätiedosto</translation>
     </message>
 </context>
 <context>
@@ -13742,7 +13742,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Exposure time (s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Valotusajat</translation>
     </message>
 </context>
 <context>
@@ -14040,11 +14040,11 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Modify Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Muokkauspäivä</translation>
     </message>
     <message>
         <source>Create Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Luontipäivä</translation>
     </message>
     <message>
         <source>Hierarchical Subject</source>
@@ -14052,43 +14052,43 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Custom field 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Mukautettu kenttä 1</translation>
     </message>
     <message>
         <source>Custom field 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Mukautettu kenttä 2</translation>
     </message>
     <message>
         <source>Custom field 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Mukautettu kenttä 3</translation>
     </message>
     <message>
         <source>Custom field 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Mukautettu kenttä 4</translation>
     </message>
     <message>
         <source>Custom field 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Mukautettu kenttä 5</translation>
     </message>
     <message>
         <source>Custom field 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Mukautettu kenttä 6</translation>
     </message>
     <message>
         <source>Custom field 7</source>
-        <translation type="unfinished"></translation>
+        <translation>Mukautettu kenttä 7</translation>
     </message>
     <message>
         <source>Custom field 8</source>
-        <translation type="unfinished"></translation>
+        <translation>Mukautettu kenttä 8</translation>
     </message>
     <message>
         <source>Custom field 9</source>
-        <translation type="unfinished"></translation>
+        <translation>Mukautettu kenttä 9</translation>
     </message>
     <message>
         <source>Custom field 10</source>
-        <translation type="unfinished"></translation>
+        <translation>Mukautettu kenttä 10</translation>
     </message>
 </context>
 <context>
@@ -16707,7 +16707,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Print opened images...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tulosta avatut kuvat...</translation>
     </message>
 </context>
 <context>
@@ -16979,14 +16979,14 @@ Jatketaanko?</translation>
     <name>MyLittleToolBarV1</name>
     <message>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished">Liukusäätimellä voit muuttaa pienoiskuvien kokoa [pikselit] ja määrää saraketta kohden</translation>
+        <translation>Vaihda liukusäätimen toiminto: Pienoiskuvien koko [pikselit] tai määrä saraketta kohden</translation>
     </message>
 </context>
 <context>
     <name>MyLittleToolBarV2_2</name>
     <message>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished">Liukusäätimellä voit muuttaa pienoiskuvien kokoa [pikselit] ja määrää saraketta kohden</translation>
+        <translation>Vaihda liukusäätimen toiminto: pienoiskuvien koko [pikselit] tai määrä saraketta kohden</translation>
     </message>
 </context>
 <context>
