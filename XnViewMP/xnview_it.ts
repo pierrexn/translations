@@ -10547,7 +10547,7 @@ Si desidera rimuoverli?</translation>
         <location filename="DlgRenameFile.ui" line="14"/>
         <source>File rename</source>
         <oldsource>Rename</oldsource>
-        <translation>Rinomina</translation>
+        <translation>Rinomina file</translation>
     </message>
     <message>
         <location filename="DlgRenameFile.ui" line="26"/>
@@ -11163,32 +11163,32 @@ Si desidera rimuoverli?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="182"/>
         <source>Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Disposizione</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="190"/>
         <source>1 bar v1</source>
-        <translation type="unfinished"></translation>
+        <translation>1 barra v1</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="195"/>
         <source>1 bar v2</source>
-        <translation type="unfinished"></translation>
+        <translation>1 barra v2</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="200"/>
         <source>2 bars (top and bottom)</source>
-        <translation type="unfinished"></translation>
+        <translation>2 barre (superiore e inferiore)</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="205"/>
         <source>2 bars (top)</source>
-        <translation type="unfinished"></translation>
+        <translation>2 barre (in alto)</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="237"/>
         <source>Delete</source>
-        <translation type="unfinished">Elimina</translation>
+        <translation>Elimina</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="332"/>
@@ -11298,17 +11298,17 @@ Si desidera rimuoverli?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="346"/>
         <source>Rename</source>
-        <translation type="unfinished">Rinomina</translation>
+        <translation>Rinomina</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="353"/>
         <source>New folder</source>
-        <translation type="unfinished">Nuova cartella</translation>
+        <translation>Nuova cartella</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="374"/>
         <source>Rating (filter)</source>
-        <translation type="unfinished"></translation>
+        <translation>Valutazione (filtro)</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="465"/>
@@ -12421,12 +12421,12 @@ miniatura</translation>
         <location filename="DlgSettingsIntegration.cpp" line="53"/>
         <source>System - Current user</source>
         <oldsource>User (System)</oldsource>
-        <translation type="unfinished">Utente (Sistema)</translation>
+        <translation>Sistema - Utente corrente</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="31"/>
         <source>System - Current user (Windows registry)</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistema - Utente corrente (registro di Windows)</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="32"/>
@@ -12434,14 +12434,14 @@ miniatura</translation>
         <location filename="DlgSettingsIntegration.cpp" line="47"/>
         <location filename="DlgSettingsIntegration.cpp" line="55"/>
         <source>System - Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistema - Local machine</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="34"/>
         <location filename="DlgSettingsIntegration.cpp" line="42"/>
         <location filename="DlgSettingsIntegration.cpp" line="49"/>
         <source>Application folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Cartella dell&apos;applicazione</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="36"/>
@@ -12530,7 +12530,7 @@ miniatura</translation>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="120"/>
         <source>Settings - General</source>
-        <translation type="unfinished"></translation>
+        <translation>Impostazioni - Generale</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="137"/>
@@ -12539,47 +12539,47 @@ miniatura</translation>
         <location filename="DlgSettingsIntegration.ui" line="299"/>
         <location filename="DlgSettingsIntegration.ui" line="347"/>
         <source>Current location</source>
-        <translation type="unfinished"></translation>
+        <translation>Posizione attuale</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="166"/>
         <source>Settings - Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Impostazioni - Altro</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="216"/>
         <source>Database - Catalog</source>
-        <translation type="unfinished"></translation>
+        <translation>Database - Catalogo</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="272"/>
         <source>Database - Thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Database - Miniature</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="313"/>
         <source>Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurazione</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="324"/>
         <source>Current user (recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation>Utente corrente (consigliato)</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="329"/>
         <source>Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation>Local machine</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="334"/>
         <source>Portable</source>
-        <translation type="unfinished"></translation>
+        <translation>Portatile</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="339"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizzato</translation>
     </message>
 </context>
 <context>
@@ -13403,7 +13403,7 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="366"/>
         <source>Update master file</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiorna il file master</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="431"/>
@@ -13814,7 +13814,7 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsView.ui" line="129"/>
         <source>Use transparency grid (checkerboard pattern)</source>
         <oldsource>Use checkboard pattern as background</oldsource>
-        <translation type="unfinished">Usa motivo a scacchiera come sfondo</translation>
+        <translation>Utilizza la griglia di trasparenza (motivo a scacchiera)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="382"/>
@@ -13885,7 +13885,7 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsView.ui" line="493"/>
         <source>Scale on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
         <oldsource>Zoom on HiDPI screen: 1 image pixel equals 1 screen pixel</oldsource>
-        <translation type="unfinished">Zoom su schermo HiDPI: 1 pixel immagine equivale 1 pixel schermo</translation>
+        <translation>Zoom su schermo HiDPI: 1 pixel immagine equivale a 1 pixel schermo</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="549"/>
@@ -13972,7 +13972,7 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsView.ui" line="435"/>
         <source>Anti-aliasing</source>
         <oldsource>Antialiasing</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Anti-aliasing</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="441"/>
@@ -14144,7 +14144,7 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsView.ui" line="528"/>
         <source>Reset X/Y position on file change (No fit)</source>
         <oldsource>Reset X/Y (No fit)</oldsource>
-        <translation type="unfinished">Reimposta XY (Non adattato)</translation>
+        <translation>Reimposta posizione X/Y al cambio di file (nessun adattamento)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="835"/>
@@ -14721,22 +14721,22 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgStartupWizard.ui" line="87"/>
         <source>Current user (recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation>Utente corrente (consigliato)</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="92"/>
         <source>Current user (Windows registry)</source>
-        <translation type="unfinished"></translation>
+        <translation>Utente corrente (registro di Windows)</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="97"/>
         <source>Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation>Local machine</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="102"/>
         <source>Portable (application folder)</source>
-        <translation type="unfinished"></translation>
+        <translation>Portatile (cartella dell&apos;applicazione)</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="128"/>
@@ -15003,7 +15003,7 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgTimestamp.cpp" line="569"/>
         <source>An error occurred when updating these files:</source>
-        <translation type="unfinished"></translation>
+        <translation>Si è verificato un errore durante l&apos;aggiornamento di questi file:</translation>
     </message>
 </context>
 <context>
@@ -17285,12 +17285,12 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="139"/>
         <source>Import Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Importa Categorie</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="141"/>
         <source>Export Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Esporta Categorie</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="246"/>
@@ -17453,7 +17453,7 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
     <message>
         <location filename="SearchField.cpp" line="82"/>
         <source>Exposure time (s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tempo di esposizione (s)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2608"/>
@@ -18069,7 +18069,7 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
         <location filename="InfoIPTCView.cpp" line="26"/>
         <location filename="IptcHelper.cpp" line="18"/>
         <source>Local caption</source>
-        <translation type="unfinished"></translation>
+        <translation>Didascalia locale</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="65"/>
@@ -18209,67 +18209,67 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
     <message>
         <location filename="SearchField.cpp" line="101"/>
         <source>Modify Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data di modifica</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="102"/>
         <source>Create Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data di creazione</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="103"/>
         <source>Hierarchical Subject</source>
-        <translation type="unfinished"></translation>
+        <translation>Soggetto gerarchico</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="120"/>
         <source>Custom field 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo personalizzato 1</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="121"/>
         <source>Custom field 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo personalizzato 2</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="122"/>
         <source>Custom field 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo personalizzato 3</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="123"/>
         <source>Custom field 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo personalizzato 4</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="124"/>
         <source>Custom field 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo personalizzato 5</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="125"/>
         <source>Custom field 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo personalizzato 6</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="126"/>
         <source>Custom field 7</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo personalizzato 7</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="127"/>
         <source>Custom field 8</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo personalizzato 8</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="128"/>
         <source>Custom field 9</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo personalizzato 9</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="129"/>
         <source>Custom field 10</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo personalizzato 10</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="114"/>
@@ -19678,7 +19678,7 @@ Volete continuare?</translation>
     <message>
         <location filename="BrowserMenu.h" line="644"/>
         <source>Show channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra canale</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="649"/>
@@ -20952,7 +20952,7 @@ Volete continuare?</translation>
     <message>
         <location filename="ViewMenu.h" line="319"/>
         <source>Print opened images...</source>
-        <translation type="unfinished"></translation>
+        <translation>Stampa immagini aperte...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="320"/>
@@ -21601,17 +21601,17 @@ Volete continuare?</translation>
         <location filename="ViewMenu.h" line="450"/>
         <source>Use anti-aliasing</source>
         <oldsource>Use antialiasing</oldsource>
-        <translation type="unfinished">Usa anti-aliansing</translation>
+        <translation>Usa anti-aliansing</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="451"/>
         <source>Use transparency grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Usa la griglia di trasparenza</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="452"/>
         <source>Show channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra canale</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="454"/>
@@ -22171,7 +22171,7 @@ Volete continuare?</translation>
     <message>
         <location filename="MyLittleToolBar.h" line="770"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished">Cliccate per scegliere tra larghezza delle miniature [pixel] o il numero di miniature per colonna</translation>
+        <translation>Cliccate per scegliere tra larghezza delle miniature [pixel] o il numero di miniature per colonna</translation>
     </message>
 </context>
 <context>
@@ -22179,7 +22179,7 @@ Volete continuare?</translation>
     <message>
         <location filename="MyLittleToolBar.h" line="381"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished">Cliccate per scegliere tra larghezza delle miniature [pixel] o il numero di miniature per colonna</translation>
+        <translation>Cliccate per scegliere tra larghezza delle miniature [pixel] o il numero di miniature per colonna</translation>
     </message>
 </context>
 <context>
