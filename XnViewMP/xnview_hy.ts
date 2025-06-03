@@ -1269,11 +1269,11 @@ Drag and Drop over the desired node to assign.</translation>
     </message>
     <message>
         <source>Symmetry</source>
-        <translation>Symmetry</translation>
+        <translation>Համաչափություն</translation>
     </message>
     <message>
         <source>Crystallize</source>
-        <translation>Crystallize</translation>
+        <translation>Բյուրեղացնել</translation>
     </message>
     <message>
         <source>Temperature</source>
@@ -1289,7 +1289,7 @@ Drag and Drop over the desired node to assign.</translation>
     </message>
     <message>
         <source>Halftone</source>
-        <translation>Halftone</translation>
+        <translation>Կիսաերանգ</translation>
     </message>
     <message>
         <source>Automatic deskew</source>
@@ -8815,19 +8815,19 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>1 bar v1</source>
-        <translation type="unfinished"></translation>
+        <translation>1 գոտի v1</translation>
     </message>
     <message>
         <source>1 bar v2</source>
-        <translation type="unfinished"></translation>
+        <translation>1 գոտի v2</translation>
     </message>
     <message>
         <source>2 bars (top and bottom)</source>
-        <translation type="unfinished"></translation>
+        <translation>2 գոտիներ (վերևում և ներքևում)</translation>
     </message>
     <message>
         <source>2 bars (top)</source>
-        <translation type="unfinished"></translation>
+        <translation>2 գոտինեոր (վերևում)</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -8843,7 +8843,7 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Rating (filter)</source>
-        <translation type="unfinished"></translation>
+        <translation>Վարկանիշ (զտիչ)</translation>
     </message>
 </context>
 <context>
@@ -9734,19 +9734,19 @@ Thumbnail</source>
     </message>
     <message>
         <source>System - Current user</source>
-        <translation type="unfinished"></translation>
+        <translation>Համակարգ՝ ընթացիկ օգտվող</translation>
     </message>
     <message>
         <source>System - Current user (Windows registry)</source>
-        <translation type="unfinished"></translation>
+        <translation>Համակարգ՝ ընթացիկ օգտվող (Windows-ի գրանցարան)</translation>
     </message>
     <message>
         <source>System - Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation>Համակարգ՝ տեղային մեքենա</translation>
     </message>
     <message>
         <source>Application folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Ծրագրի պանակ</translation>
     </message>
 </context>
 <context>
@@ -9769,43 +9769,43 @@ Thumbnail</source>
     </message>
     <message>
         <source>Settings - General</source>
-        <translation type="unfinished"></translation>
+        <translation>Կարգավորումներ - Գլխավոր</translation>
     </message>
     <message>
         <source>Current location</source>
-        <translation type="unfinished"></translation>
+        <translation>Ընթացիկ տեղադրություն</translation>
     </message>
     <message>
         <source>Settings - Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Կարգավորումներ - Այլ</translation>
     </message>
     <message>
         <source>Database - Catalog</source>
-        <translation type="unfinished"></translation>
+        <translation>Տվյալների շտեմարան - Գրացուցակ</translation>
     </message>
     <message>
         <source>Database - Thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Տվյալների շտեմարան - Մանրապատկերներ</translation>
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Կազմաձև</translation>
     </message>
     <message>
         <source>Current user (recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ընթացիկ օգտվող (հանձնարարելի)</translation>
     </message>
     <message>
         <source>Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation>Տեղային մեքենա</translation>
     </message>
     <message>
         <source>Portable</source>
-        <translation type="unfinished"></translation>
+        <translation>Դյուրակիր</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Հարմարեցված</translation>
     </message>
 </context>
 <context>
@@ -10399,7 +10399,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Update master file</source>
-        <translation type="unfinished"></translation>
+        <translation>Թարմացնել հիմնօրինակ ֆայլը</translation>
     </message>
 </context>
 <context>
@@ -10919,19 +10919,19 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Use transparency grid (checkerboard pattern)</source>
-        <translation type="unfinished"></translation>
+        <translation>Օգտագործել թափանցիկ ցանց (շախմատի տախտակի նախշ)</translation>
     </message>
     <message>
         <source>Scale on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
-        <translation type="unfinished"></translation>
+        <translation>Սանդղել HiDPI էկրանին. 1 պատկերի փիքսելը հավասար է 1 էկրանի փիքսելի</translation>
     </message>
     <message>
         <source>Reset X/Y position on file change (No fit)</source>
-        <translation type="unfinished"></translation>
+        <translation>Վերակայել X/Y դիրքը ֆայլը փոխելիս (չհարմարեցնել)</translation>
     </message>
     <message>
         <source>Anti-aliasing</source>
-        <translation type="unfinished"></translation>
+        <translation>Հակահարթում</translation>
     </message>
 </context>
 <context>
@@ -11405,19 +11405,19 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Current user (recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ընթացիկ օգտվող (հանձնարարելի)</translation>
     </message>
     <message>
         <source>Current user (Windows registry)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ընթացիկ օգտվող (Windows-ի գրանցարան)</translation>
     </message>
     <message>
         <source>Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation>Տեղային մեքենա</translation>
     </message>
     <message>
         <source>Portable (application folder)</source>
-        <translation type="unfinished"></translation>
+        <translation>Դյուրակիր (ծրագրի պանակ)</translation>
     </message>
 </context>
 <context>
@@ -11590,7 +11590,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>An error occurred when updating these files:</source>
-        <translation type="unfinished"></translation>
+        <translation>Սխալ՝ տվյալ ֆայլերը թարմացնելիս.</translation>
     </message>
 </context>
 <context>
@@ -13333,11 +13333,11 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Import Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Ներմուծել անվանակարգերը</translation>
     </message>
     <message>
         <source>Export Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Արտահանել անվանակարգերը</translation>
     </message>
 </context>
 <context>
@@ -13735,7 +13735,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Exposure time (s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Լուսակայման ժամանակ(ներ)</translation>
     </message>
 </context>
 <context>
@@ -14029,59 +14029,59 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Local caption</source>
-        <translation type="unfinished"></translation>
+        <translation>Տեղային խորագիր</translation>
     </message>
     <message>
         <source>Modify Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Փոփոխման ամսաթիվ</translation>
     </message>
     <message>
         <source>Create Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Ստեղծել ամսաթիվ</translation>
     </message>
     <message>
         <source>Hierarchical Subject</source>
-        <translation type="unfinished"></translation>
+        <translation>Հիերարխիկ վերնագիր</translation>
     </message>
     <message>
         <source>Custom field 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Հարմարեցված դաշտ 1</translation>
     </message>
     <message>
         <source>Custom field 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Հարմարեցված դաշտ 2</translation>
     </message>
     <message>
         <source>Custom field 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Հարմարեցված դաշտ 3</translation>
     </message>
     <message>
         <source>Custom field 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Հարմարեցված դաշտ 4</translation>
     </message>
     <message>
         <source>Custom field 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Հարմարեցված դաշտ 5</translation>
     </message>
     <message>
         <source>Custom field 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Հարմարեցված դաշտ 6</translation>
     </message>
     <message>
         <source>Custom field 7</source>
-        <translation type="unfinished"></translation>
+        <translation>Հարմարեցված դաշտ 7</translation>
     </message>
     <message>
         <source>Custom field 8</source>
-        <translation type="unfinished"></translation>
+        <translation>Հարմարեցված դաշտ 8</translation>
     </message>
     <message>
         <source>Custom field 9</source>
-        <translation type="unfinished"></translation>
+        <translation>Հարմարեցված դաշտ 9</translation>
     </message>
     <message>
         <source>Custom field 10</source>
-        <translation type="unfinished"></translation>
+        <translation>Հարմարեցված դաշտ 10</translation>
     </message>
 </context>
 <context>
@@ -15659,7 +15659,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Show channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Ցուցադրել ալիքը</translation>
     </message>
 </context>
 <context>
@@ -16688,19 +16688,19 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Use transparency grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Օգտագործել թափանցիկության ցանց</translation>
     </message>
     <message>
         <source>Show channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Ցուցադրել ալիքը</translation>
     </message>
     <message>
         <source>Use anti-aliasing</source>
-        <translation type="unfinished"></translation>
+        <translation>Օգտագործել հակահարթում</translation>
     </message>
     <message>
         <source>Print opened images...</source>
-        <translation type="unfinished"></translation>
+        <translation>Տպել բաց պատկերները...</translation>
     </message>
 </context>
 <context>
