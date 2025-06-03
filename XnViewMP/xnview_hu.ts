@@ -11150,22 +11150,22 @@ El szeretné őket távolítani?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="190"/>
         <source>1 bar v1</source>
-        <translation type="unfinished"></translation>
+        <translation>1 sor v1</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="195"/>
         <source>1 bar v2</source>
-        <translation type="unfinished"></translation>
+        <translation>1 sor v2</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="200"/>
         <source>2 bars (top and bottom)</source>
-        <translation type="unfinished"></translation>
+        <translation>2 sor (fent és lent)</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="205"/>
         <source>2 bars (top)</source>
-        <translation type="unfinished"></translation>
+        <translation>2 sor (fent)</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="237"/>
@@ -11290,7 +11290,7 @@ El szeretné őket távolítani?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="374"/>
         <source>Rating (filter)</source>
-        <translation type="unfinished"></translation>
+        <translation>Értékelés (szűrő)</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="465"/>
@@ -18197,67 +18197,67 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="SearchField.cpp" line="101"/>
         <source>Modify Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Módosítás dátuma</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="102"/>
         <source>Create Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Készítési dátum</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="103"/>
         <source>Hierarchical Subject</source>
-        <translation type="unfinished"></translation>
+        <translation>Hierarchikus téma</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="120"/>
         <source>Custom field 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Egyéni mező 1</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="121"/>
         <source>Custom field 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Egyéni mező 2</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="122"/>
         <source>Custom field 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Egyéni mező 3</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="123"/>
         <source>Custom field 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Egyéni mező 4</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="124"/>
         <source>Custom field 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Egyéni mező 5</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="125"/>
         <source>Custom field 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Egyéni mező 6</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="126"/>
         <source>Custom field 7</source>
-        <translation type="unfinished"></translation>
+        <translation>Egyéni mező 7</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="127"/>
         <source>Custom field 8</source>
-        <translation type="unfinished"></translation>
+        <translation>Egyéni mező 8</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="128"/>
         <source>Custom field 9</source>
-        <translation type="unfinished"></translation>
+        <translation>Egyéni mező 9</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="129"/>
         <source>Custom field 10</source>
-        <translation type="unfinished"></translation>
+        <translation>Egyéni mező 10</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="113"/>
