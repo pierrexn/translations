@@ -8827,39 +8827,39 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Layout</source>
-        <translation type="unfinished">Aspect</translation>
+        <translation>Aspect</translation>
     </message>
     <message>
         <source>1 bar v1</source>
-        <translation type="unfinished"></translation>
+        <translation>1 bară v1</translation>
     </message>
     <message>
         <source>1 bar v2</source>
-        <translation type="unfinished"></translation>
+        <translation>1 bară v2</translation>
     </message>
     <message>
         <source>2 bars (top and bottom)</source>
-        <translation type="unfinished"></translation>
+        <translation>2 bare (sus și jos)</translation>
     </message>
     <message>
         <source>2 bars (top)</source>
-        <translation type="unfinished"></translation>
+        <translation>2 bare (în sus)</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished">Redenumire</translation>
+        <translation>Redenumește</translation>
     </message>
     <message>
         <source>New folder</source>
-        <translation type="unfinished">Dosar (Folder) nou</translation>
+        <translation>Dosar (Folder) nou</translation>
     </message>
     <message>
         <source>Rating (filter)</source>
-        <translation type="unfinished"></translation>
+        <translation>Evaluare (filtru)</translation>
     </message>
 </context>
 <context>
@@ -13751,7 +13751,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Exposure time (s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Timpul de expunere (s)</translation>
     </message>
 </context>
 <context>
@@ -14049,55 +14049,55 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Modify Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data modificării</translation>
     </message>
     <message>
         <source>Create Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data creării</translation>
     </message>
     <message>
         <source>Hierarchical Subject</source>
-        <translation type="unfinished"></translation>
+        <translation>Subiectul ierarhic</translation>
     </message>
     <message>
         <source>Custom field 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Câmp personalizat 1</translation>
     </message>
     <message>
         <source>Custom field 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Câmp personalizat 2</translation>
     </message>
     <message>
         <source>Custom field 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Câmp personalizat 3</translation>
     </message>
     <message>
         <source>Custom field 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Câmp personalizat 4</translation>
     </message>
     <message>
         <source>Custom field 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Câmp personalizat 5</translation>
     </message>
     <message>
         <source>Custom field 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Câmp personalizat 6</translation>
     </message>
     <message>
         <source>Custom field 7</source>
-        <translation type="unfinished"></translation>
+        <translation>Câmp personalizat 7</translation>
     </message>
     <message>
         <source>Custom field 8</source>
-        <translation type="unfinished"></translation>
+        <translation>Câmp personalizat 8</translation>
     </message>
     <message>
         <source>Custom field 9</source>
-        <translation type="unfinished"></translation>
+        <translation>Câmp personalizat 9</translation>
     </message>
     <message>
         <source>Custom field 10</source>
-        <translation type="unfinished"></translation>
+        <translation>Câmp personalizat 10</translation>
     </message>
 </context>
 <context>
@@ -16988,14 +16988,14 @@ Vrei să continui?</translation>
     <name>MyLittleToolBarV1</name>
     <message>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished">Comută funcția de glisor: dimensiunea miniaturii [în pixeli] sau miniaturi pe coloană</translation>
+        <translation>Comută funcția de glisor: dimensiunea miniaturii [în pixeli] sau miniaturi pe coloană</translation>
     </message>
 </context>
 <context>
     <name>MyLittleToolBarV2_2</name>
     <message>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished">Comută funcția de glisor: dimensiunea miniaturii [în pixeli] sau miniaturi pe coloană</translation>
+        <translation>Comută funcția de glisor: dimensiunea miniaturii [în pixeli] sau miniaturi pe coloană</translation>
     </message>
 </context>
 <context>
