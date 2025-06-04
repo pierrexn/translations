@@ -14048,7 +14048,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Hierarchical Subject</source>
-        <translation type="unfinished"></translation>
+        <translation>Hierarkkian aihe</translation>
     </message>
     <message>
         <source>Custom field 1</source>
