@@ -11216,12 +11216,12 @@ Ali jih želite odstraniti?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="205"/>
         <source>2 bars (top)</source>
-        <translation type="unfinished"></translation>
+        <translation>2 vrstici (zgoraj)</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="237"/>
         <source>Delete</source>
-        <translation type="unfinished">Izbriši</translation>
+        <translation>Izbriši</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="332"/>
@@ -11331,17 +11331,17 @@ Ali jih želite odstraniti?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="346"/>
         <source>Rename</source>
-        <translation type="unfinished">Preimenuj</translation>
+        <translation>Preimenuj</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="353"/>
         <source>New folder</source>
-        <translation type="unfinished">Nova mapa</translation>
+        <translation>Nova mapa</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="374"/>
         <source>Rating (filter)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocena (filter)</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="465"/>
@@ -17482,7 +17482,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="SearchField.cpp" line="82"/>
         <source>Exposure time (s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Čas osvetlitve (s)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2608"/>
@@ -18238,67 +18238,67 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="SearchField.cpp" line="101"/>
         <source>Modify Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum spremembe</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="102"/>
         <source>Create Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum ustvarjanja</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="103"/>
         <source>Hierarchical Subject</source>
-        <translation type="unfinished"></translation>
+        <translation>Hierarhični subjekt</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="120"/>
         <source>Custom field 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Polje po meri 1</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="121"/>
         <source>Custom field 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Polje po meri 2</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="122"/>
         <source>Custom field 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Polje po meri 3</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="123"/>
         <source>Custom field 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Polje po meri 4</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="124"/>
         <source>Custom field 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Polje po meri 5</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="125"/>
         <source>Custom field 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Polje po meri 6</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="126"/>
         <source>Custom field 7</source>
-        <translation type="unfinished"></translation>
+        <translation>Polje po meri 7</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="127"/>
         <source>Custom field 8</source>
-        <translation type="unfinished"></translation>
+        <translation>Polje po meri 8</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="128"/>
         <source>Custom field 9</source>
-        <translation type="unfinished"></translation>
+        <translation>Polje po meri 9</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="129"/>
         <source>Custom field 10</source>
-        <translation type="unfinished"></translation>
+        <translation>Polje po meri 10</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="114"/>
@@ -22207,7 +22207,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyLittleToolBar.h" line="770"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished">Preklopi funkcijo drsnika: velikost sličice [piksli] ali število sličic na stolpec</translation>
+        <translation>Preklopi funkcijo drsnika: velikost sličice [piksli] ali število sličic na stolpec</translation>
     </message>
 </context>
 <context>
@@ -22215,7 +22215,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyLittleToolBar.h" line="381"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished">Preklopi funkcijo drsnika: velikost sličice [piksli] ali število sličic na stolpec</translation>
+        <translation>Preklopi funkcijo drsnika: velikost sličice [piksli] ali število sličic na stolpec</translation>
     </message>
 </context>
 <context>
