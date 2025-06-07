@@ -10010,7 +10010,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>characters</source>
-        <translation>carácteres</translation>
+        <translation>caracteres</translation>
     </message>
     <message>
         <source>Purge now</source>
@@ -10170,7 +10170,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Closing last tab exits application</source>
-        <translation>Al cerrar la última pestaña se sale de la aplicación</translation>
+        <translation>Salir de la aplicación al cerrar la última pestaña</translation>
     </message>
     <message>
         <source>Allow multiple Viewer tabs for same file</source>
@@ -10186,7 +10186,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Hide Tab header when only one is opened</source>
-        <translation>Ocultar la cabecera de la pestaña cuando se abre solo una</translation>
+        <translation>Ocultar encabezado de pestaña cuando solo haya una abierta</translation>
     </message>
     <message>
         <source>TitleBar</source>
@@ -12262,7 +12262,7 @@ Do you want to continue?</source>
     <name>DlgWritePNGClass</name>
     <message>
         <source>Up</source>
-        <translation>Principal (Up)</translation>
+        <translation>Alto</translation>
     </message>
     <message>
         <source>All</source>
@@ -12270,11 +12270,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Avg</source>
-        <translation>Promedio</translation>
+        <translation>Medio</translation>
     </message>
     <message>
         <source>Sub</source>
-        <translation>Secundario (Sub)</translation>
+        <translation>Bajo</translation>
     </message>
     <message>
         <source>None</source>
@@ -12327,11 +12327,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Compression for black&amp;white image</source>
-        <translation>Compresión de imágenes empreto&amp;branco</translation>
+        <translation>Compresión de imagen en blanco &amp;y negro</translation>
     </message>
     <message>
         <source>Compression for color image</source>
-        <translation>Compresión de imágenes colorida</translation>
+        <translation>Compresión de imagen en color</translation>
     </message>
 </context>
 <context>
@@ -15636,7 +15636,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>##label## (go to next image)</source>
-        <translation>##etiqueta## (ir a la siguiente imagen)</translation>
+        <translation>##label## (ir a la siguiente imagen)</translation>
     </message>
     <message>
         <source>Set Rating</source>
@@ -16669,7 +16669,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>##label## (go to next image)</source>
-        <translation>##etiqueta## (ir a la siguiente imagen)</translation>
+        <translation>##label## (ir a la siguiente imagen)</translation>
     </message>
     <message>
         <source>Set Rating</source>
@@ -16973,14 +16973,14 @@ Do you want to continue?</source>
     <name>MyLittleToolBarV1</name>
     <message>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished">Alternar la función del control deslizante: tamaño de miniatura [píxeles] o miniaturas por columna</translation>
+        <translation>Alternar la función del deslizador: tamaño de las miniaturas [píxeles] o miniaturas por columna</translation>
     </message>
 </context>
 <context>
     <name>MyLittleToolBarV2_2</name>
     <message>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished">Alternar la función del control deslizante: tamaño de miniatura [píxeles] o miniaturas por columna</translation>
+        <translation>Alternar la función del deslizador: tamaño de las miniaturas [píxeles] o miniaturas por columna</translation>
     </message>
 </context>
 <context>
