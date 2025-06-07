@@ -358,7 +358,7 @@
     <name>AutoHideButton</name>
     <message>
         <source>Pin</source>
-        <translation type="unfinished"></translation>
+        <translation>Anclar</translation>
     </message>
 </context>
 <context>
@@ -696,7 +696,7 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
     </message>
     <message>
         <source>Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Diseño</translation>
     </message>
 </context>
 <context>
@@ -6013,7 +6013,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Color</translation>
     </message>
     <message>
         <source>Metadata</source>
@@ -6033,19 +6033,19 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>DCT method</source>
-        <translation type="unfinished"></translation>
+        <translation>Método DCT</translation>
     </message>
     <message>
         <source>Integer</source>
-        <translation type="unfinished"></translation>
+        <translation>Entero</translation>
     </message>
     <message>
         <source>Fast integer (worst but fastest)</source>
-        <translation type="unfinished"></translation>
+        <translation>Entero rápido (el peor pero el más rápido)</translation>
     </message>
     <message>
         <source>Floating-point (best but slowest)</source>
-        <translation type="unfinished"></translation>
+        <translation>Punto flotante (mejor pero más lento)</translation>
     </message>
     <message>
         <source>Subsampling</source>
@@ -6053,7 +6053,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
-        <translation type="unfinished"></translation>
+        <translation>4:2:0 (2x2,1x1,1x1) archivo más pequeño</translation>
     </message>
     <message>
         <source>4:4:4 (1x1,1x1,1x1) best quality</source>
@@ -6800,7 +6800,7 @@ Se crearán subcarpetas. </translation>
     </message>
     <message>
         <source>Categories to assign (use ; to separate categories)</source>
-        <translation type="unfinished"></translation>
+        <translation>Categorías a asignar (utilice ; para separar las categorías)</translation>
     </message>
 </context>
 <context>
@@ -7826,7 +7826,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Full/Half size rendering</source>
-        <translation type="unfinished"></translation>
+        <translation>Renderizado a tamaño real/medio</translation>
     </message>
 </context>
 <context>
@@ -7871,23 +7871,23 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Ninguno</translation>
     </message>
     <message>
         <source>Ordered</source>
-        <translation type="unfinished"></translation>
+        <translation>Solicitado</translation>
     </message>
     <message>
         <source>Integer</source>
-        <translation type="unfinished"></translation>
+        <translation>Entero</translation>
     </message>
     <message>
         <source>Fast integer</source>
-        <translation type="unfinished"></translation>
+        <translation>Entero rápido</translation>
     </message>
     <message>
         <source>Floating-point</source>
-        <translation type="unfinished"></translation>
+        <translation>Punto flotante</translation>
     </message>
 </context>
 <context>
@@ -8812,23 +8812,23 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Diseño</translation>
     </message>
     <message>
         <source>1 bar v1</source>
-        <translation type="unfinished"></translation>
+        <translation>1 barra v1</translation>
     </message>
     <message>
         <source>1 bar v2</source>
-        <translation type="unfinished"></translation>
+        <translation>1 barra v2</translation>
     </message>
     <message>
         <source>2 bars (top and bottom)</source>
-        <translation type="unfinished"></translation>
+        <translation>2 barras (arriba y abajo)</translation>
     </message>
     <message>
         <source>2 bars (top)</source>
-        <translation type="unfinished"></translation>
+        <translation>2 barras (arriba)</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -8844,7 +8844,7 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Rating (filter)</source>
-        <translation type="unfinished"></translation>
+        <translation>Clasificación (filtro)</translation>
     </message>
 </context>
 <context>
@@ -9672,7 +9672,7 @@ miniatura</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Claro</translation>
     </message>
     <message>
         <source>Dark</source>
@@ -9684,7 +9684,7 @@ miniatura</translation>
     </message>
     <message>
         <source>File copying</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia de archivos</translation>
     </message>
 </context>
 <context>
@@ -9735,19 +9735,19 @@ miniatura</translation>
     </message>
     <message>
         <source>System - Current user</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistema - Usuario actual</translation>
     </message>
     <message>
         <source>System - Current user (Windows registry)</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistema - Usuario actual (registro de Windows)</translation>
     </message>
     <message>
         <source>System - Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistema - Equipo local</translation>
     </message>
     <message>
         <source>Application folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Carpeta de aplicaciones</translation>
     </message>
 </context>
 <context>
@@ -9770,39 +9770,39 @@ miniatura</translation>
     </message>
     <message>
         <source>Settings - General</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuración - General</translation>
     </message>
     <message>
         <source>Current location</source>
-        <translation type="unfinished"></translation>
+        <translation>Ubicación actual</translation>
     </message>
     <message>
         <source>Settings - Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuración - Otros</translation>
     </message>
     <message>
         <source>Database - Catalog</source>
-        <translation type="unfinished"></translation>
+        <translation>Base de datos - Catálogo</translation>
     </message>
     <message>
         <source>Database - Thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Base de datos - Miniaturas</translation>
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuración</translation>
     </message>
     <message>
         <source>Current user (recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuario actual (recomendado)</translation>
     </message>
     <message>
         <source>Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation>Equipo local</translation>
     </message>
     <message>
         <source>Portable</source>
-        <translation type="unfinished"></translation>
+        <translation>Portable</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -10400,7 +10400,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Update master file</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizar archivo maestro</translation>
     </message>
 </context>
 <context>
@@ -10642,7 +10642,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Frame&apos;s count</source>
-        <translation type="unfinished"></translation>
+        <translation>Cantidad de fotogramas</translation>
     </message>
 </context>
 <context>
@@ -10916,23 +10916,23 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Show navigator</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar navegador</translation>
     </message>
     <message>
         <source>Use transparency grid (checkerboard pattern)</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizar cuadrícula transparente (patrón de tablero de ajedrez)</translation>
     </message>
     <message>
         <source>Scale on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
-        <translation type="unfinished"></translation>
+        <translation>Escala en pantalla HiDPI: 1 píxel de imagen equivale a 1 píxel de pantalla</translation>
     </message>
     <message>
         <source>Reset X/Y position on file change (No fit)</source>
-        <translation type="unfinished"></translation>
+        <translation>Restablecer posición X/Y al cambiar de archivo (Sin ajuste)</translation>
     </message>
     <message>
         <source>Anti-aliasing</source>
-        <translation type="unfinished"></translation>
+        <translation>Antialiasing</translation>
     </message>
 </context>
 <context>
@@ -11406,19 +11406,19 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Current user (recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuario actual (recomendado)</translation>
     </message>
     <message>
         <source>Current user (Windows registry)</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuario actual (registro de Windows)</translation>
     </message>
     <message>
         <source>Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation>Equipo local</translation>
     </message>
     <message>
         <source>Portable (application folder)</source>
-        <translation type="unfinished"></translation>
+        <translation>Portable (carpeta de aplicaciones)</translation>
     </message>
 </context>
 <context>
@@ -11591,7 +11591,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>An error occurred when updating these files:</source>
-        <translation type="unfinished"></translation>
+        <translation>Se ha producido un error al actualizar estos archivos:</translation>
     </message>
 </context>
 <context>
@@ -12143,7 +12143,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Integer</source>
-        <translation type="unfinished"></translation>
+        <translation>Entero</translation>
     </message>
     <message>
         <source>Subsampling</source>
@@ -12151,11 +12151,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Floating-point (best but slowest)</source>
-        <translation type="unfinished"></translation>
+        <translation>Punto flotante (mejor pero más lento)</translation>
     </message>
     <message>
         <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
-        <translation type="unfinished"></translation>
+        <translation>4:2:0 (2x2,1x1,1x1) archivo más pequeño</translation>
     </message>
     <message>
         <source>4:4:4 (1x1,1x1,1x1) best quality</source>
@@ -12163,11 +12163,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Fast integer (worst but fastest)</source>
-        <translation type="unfinished"></translation>
+        <translation>Entero rápido (peor pero más rápido)</translation>
     </message>
     <message>
         <source>DCT method</source>
-        <translation type="unfinished"></translation>
+        <translation>Método DCT</translation>
     </message>
 </context>
 <context>
@@ -13310,35 +13310,35 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Delete unused categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar categorías no utilizadas...</translation>
     </message>
     <message>
         <source>Delete all categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar todas las categorías...</translation>
     </message>
     <message>
         <source>Delete all categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar todas las categorías</translation>
     </message>
     <message>
         <source>Do you want to delete all categories?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Desea eliminar todas las categorías?</translation>
     </message>
     <message>
         <source>Delete unused categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar categorías no utilizadas</translation>
     </message>
     <message>
         <source>Do you want to delete unused categories?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Desea eliminar las categorías no utilizadas?</translation>
     </message>
     <message>
         <source>Import Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar categorías</translation>
     </message>
     <message>
         <source>Export Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar categorías</translation>
     </message>
 </context>
 <context>
@@ -13424,7 +13424,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Focal Length</source>
-        <translation>Distancia Focal</translation>
+        <translation>Distancia focal</translation>
     </message>
     <message>
         <source>Focal Plane X-Resolution</source>
@@ -13476,7 +13476,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Image height</source>
-        <translation>Alto de imagen</translation>
+        <translation>Altura de la imagen</translation>
     </message>
     <message>
         <source>35mm Focal length</source>
@@ -13508,7 +13508,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Longitude</source>
-        <translation>Longitud sexagesimal</translation>
+        <translation>Longitud</translation>
     </message>
     <message>
         <source>Subject location</source>
@@ -13520,7 +13520,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>LensID</source>
-        <translation>Iddentificador (ID) de Lente</translation>
+        <translation>Identificador (ID) de Lente</translation>
     </message>
     <message>
         <source>Max. aperture</source>
@@ -13568,7 +13568,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>CFA pattern</source>
-        <translation>Patron CFA</translation>
+        <translation>Patrón CFA</translation>
     </message>
     <message>
         <source>White point</source>
@@ -13576,7 +13576,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Image width</source>
-        <translation>Ancho de imagen</translation>
+        <translation>Anchura de imagen</translation>
     </message>
     <message>
         <source>Location Code</source>
@@ -13616,7 +13616,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Latitude</source>
-        <translation>Latitud sexagesimal</translation>
+        <translation>Latitud</translation>
     </message>
     <message>
         <source>Direction</source>
@@ -13624,7 +13624,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Latitude ref.</source>
-        <translation>Latitud de referencia (N/S).</translation>
+        <translation>Latitud de referencia.</translation>
     </message>
     <message>
         <source>ShutterSpeed</source>
@@ -13640,7 +13640,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Focal Plane Res. Unit</source>
-        <translation>Unidad de Resolución del Plano Focal</translation>
+        <translation>Unidad de resolución del plano focal</translation>
     </message>
     <message>
         <source>Sensing method</source>
@@ -13668,7 +13668,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Longitude ref.</source>
-        <translation>Longitud de referencia (E/O).</translation>
+        <translation>Longitud de referencia.</translation>
     </message>
     <message>
         <source>Saturation</source>
@@ -13708,11 +13708,11 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Longitude (value)</source>
-        <translation>Longitud decimal</translation>
+        <translation>Longitud (valor)</translation>
     </message>
     <message>
         <source>Latitude (value)</source>
-        <translation>Latitud decimal</translation>
+        <translation>Latitud (valor)</translation>
     </message>
     <message>
         <source>YCbCr-Positioning</source>
@@ -13736,7 +13736,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Exposure time (s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiempo de exposición (s)</translation>
     </message>
 </context>
 <context>
@@ -13838,7 +13838,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Original tr. ref.</source>
-        <translation>Ref. tr. original</translation>
+        <translation>Referencia de transmisión original.</translation>
     </message>
     <message>
         <source>Location</source>
@@ -13862,7 +13862,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Original transmission reference</source>
-        <translation>Referencia de la transmisión original</translation>
+        <translation>Referencia de transmisión original</translation>
     </message>
     <message>
         <source>Address</source>
@@ -13934,7 +13934,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Headline</source>
-        <translation>Titular</translation>
+        <translation>Encabezado</translation>
     </message>
     <message>
         <source>Custom field</source>
@@ -13966,7 +13966,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>ZIP code</source>
-        <translation>Código ZIP (EEUU)</translation>
+        <translation>Código ZIP</translation>
     </message>
     <message>
         <source>Instructions</source>
@@ -13994,7 +13994,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Copyright info URL</source>
-        <translation>Dirección de red (URL) de información de derchos de autor</translation>
+        <translation>URL de información sobre derechos de autor</translation>
     </message>
     <message>
         <source>Created date</source>
@@ -14010,11 +14010,11 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Digitized time</source>
-        <translation>Fecha de digitalización</translation>
+        <translation>Hora de digitalización</translation>
     </message>
     <message>
         <source>Sublocation</source>
-        <translation>Sububicación</translation>
+        <translation>Sub-ubicación</translation>
     </message>
     <message>
         <source>Copyright usage terms</source>
@@ -14030,59 +14030,59 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Local caption</source>
-        <translation type="unfinished"></translation>
+        <translation>Pie de foto</translation>
     </message>
     <message>
         <source>Modify Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Fecha de modificación</translation>
     </message>
     <message>
         <source>Create Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Fecha de creación</translation>
     </message>
     <message>
         <source>Hierarchical Subject</source>
-        <translation type="unfinished"></translation>
+        <translation>Sujeto jerárquico</translation>
     </message>
     <message>
         <source>Custom field 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo personalizado 1</translation>
     </message>
     <message>
         <source>Custom field 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo personalizado 2</translation>
     </message>
     <message>
         <source>Custom field 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo personalizado 3</translation>
     </message>
     <message>
         <source>Custom field 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo personalizado 4</translation>
     </message>
     <message>
         <source>Custom field 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo personalizado 5</translation>
     </message>
     <message>
         <source>Custom field 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo personalizado 6</translation>
     </message>
     <message>
         <source>Custom field 7</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo personalizado 7</translation>
     </message>
     <message>
         <source>Custom field 8</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo personalizado 8</translation>
     </message>
     <message>
         <source>Custom field 9</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo personalizado 9</translation>
     </message>
     <message>
         <source>Custom field 10</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo personalizado 10</translation>
     </message>
 </context>
 <context>
@@ -14165,7 +14165,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Extra info</source>
-        <translation>Información Extra</translation>
+        <translation>Información extra</translation>
     </message>
     <message>
         <source>Description</source>
@@ -14181,7 +14181,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>File&apos;s icon</source>
-        <translation>Icono de archivo</translation>
+        <translation>Icono del archivo</translation>
     </message>
     <message>
         <source>Extra</source>
@@ -14200,19 +14200,19 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Tag</source>
-        <translation type="unfinished"></translation>
+        <translation>Etiqueta</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor</translation>
     </message>
     <message>
         <source>Copy value</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar valor</translation>
     </message>
     <message>
         <source>Copy item</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar elemento</translation>
     </message>
 </context>
 <context>
@@ -14293,7 +14293,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>This file uses a nonwritable format, so it&apos;s not possible to rotate it.</source>
-        <translation>Este archivo utiliza un formato que no se puede escribir, no es posible girarlo.</translation>
+        <translation>Este archivo utiliza un formato que no permite la escritura, por lo que no es posible girarlo.</translation>
     </message>
     <message>
         <source>JPEG lossless operation will modify original file(s), and may remove some unused pixels (width and height must be multiple of 8 pixels)!
@@ -14364,7 +14364,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>&amp;Tagged files</source>
-        <translation>Archivos &amp;marcados</translation>
+        <translation>Archivos &amp;etiquetados</translation>
     </message>
 </context>
 <context>
@@ -14418,7 +14418,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Korean</source>
-        <translation>Koreano</translation>
+        <translation>Coreano</translation>
     </message>
     <message>
         <source>Polish</source>
@@ -14559,7 +14559,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Can not create video renderer</source>
-        <translation>No se puede crear el renderizador de vídeo</translation>
+        <translation>No se puede crear el generador de vídeo</translation>
     </message>
 </context>
 <context>
@@ -15656,11 +15656,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Modified Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Fecha de modificación</translation>
     </message>
     <message>
         <source>Show channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar canal</translation>
     </message>
 </context>
 <context>
@@ -16689,11 +16689,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Use transparency grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizar rejilla transparente</translation>
     </message>
     <message>
         <source>Show channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar canal</translation>
     </message>
     <message>
         <source>Use anti-aliasing</source>
@@ -16701,7 +16701,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Print opened images...</source>
-        <translation type="unfinished"></translation>
+        <translation>Imprimir imágenes abiertas...</translation>
     </message>
 </context>
 <context>
