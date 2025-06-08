@@ -111,17 +111,17 @@
     <message>
         <location filename="MyThumbSettings.cpp" line="351"/>
         <source>Poor</source>
-        <translation>Дуже погано</translation>
+        <translation>Погано</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="352"/>
         <source>Fair</source>
-        <translation>Погано</translation>
+        <translation>Непогано</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="353"/>
         <source>Average</source>
-        <translation>Задовільно</translation>
+        <translation>Середньо</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="354"/>
@@ -873,7 +873,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CategorySets.cpp" line="421"/>
         <source>Enter a name for this set</source>
-        <translation>Введіть ім&apos;я для даного набору</translation>
+        <translation>Введіть ім&apos;я для цього набору</translation>
     </message>
     <message>
         <location filename="CategorySets.cpp" line="421"/>
@@ -1649,7 +1649,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvert.cpp" line="242"/>
         <location filename="DlgFilter.cpp" line="36"/>
         <source>Average</source>
-        <translation>Середнє</translation>
+        <translation>Середньо</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="243"/>
@@ -19439,7 +19439,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="508"/>
         <source>Set Category</source>
-        <translation>Встановити категорію</translation>
+        <translation>Задати категорію</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="535"/>
@@ -19564,7 +19564,7 @@ Do you want to continue?</oldsource>
         <location filename="CompareWidget.cpp" line="454"/>
         <location filename="BrowserMenu.h" line="464"/>
         <source>Average</source>
-        <translation>Задовільно</translation>
+        <translation>Середньо</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="445"/>
@@ -20014,13 +20014,13 @@ Do you want to continue?</oldsource>
         <location filename="CompareWidget.cpp" line="451"/>
         <location filename="BrowserMenu.h" line="465"/>
         <source>Fair</source>
-        <translation>Погано</translation>
+        <translation>Непогано</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="448"/>
         <location filename="BrowserMenu.h" line="466"/>
         <source>Poor</source>
-        <translation>Дуже погано</translation>
+        <translation>Погано</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="241"/>
@@ -20830,27 +20830,27 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="368"/>
         <source>Excellent</source>
-        <translation>Відмінне</translation>
+        <translation>Відмінно</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="369"/>
         <source>Good</source>
-        <translation>Хороше</translation>
+        <translation>Добре</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="370"/>
         <source>Average</source>
-        <translation>Середній</translation>
+        <translation>Середньо</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="371"/>
         <source>Fair</source>
-        <translation>Непогане</translation>
+        <translation>Непогано</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="372"/>
         <source>Poor</source>
-        <translation>Слабо</translation>
+        <translation>Погано</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="373"/>
