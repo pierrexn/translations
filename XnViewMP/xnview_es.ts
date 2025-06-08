@@ -73,7 +73,7 @@
     </message>
     <message>
         <source>Average</source>
-        <translation>Normal</translation>
+        <translation>Medio</translation>
     </message>
     <message>
         <source>Excellent</source>
@@ -1201,7 +1201,7 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
     </message>
     <message>
         <source>Average</source>
-        <translation>Media</translation>
+        <translation>Medio</translation>
     </message>
     <message>
         <source>Normalize</source>
