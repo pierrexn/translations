@@ -6068,11 +6068,11 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
-        <translation>Cel mai mic fișier 4:2:0 (2x2,1x1,1x1)</translation>
+        <translation>4:2:0 (2x2,1x1,1x1) Cel mai mic fișier</translation>
     </message>
     <message>
         <source>4:4:4 (1x1,1x1,1x1) best quality</source>
-        <translation>Cea mai bună calitate 4:4:4 (1x1,1x1,1x1)</translation>
+        <translation>4:4:4 (1x1,1x1,1x1) Cea mai bună calitate</translation>
     </message>
 </context>
 <context>
@@ -14643,7 +14643,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Good</source>
-        <translation>Bun</translation>
+        <translation>Bună</translation>
     </message>
     <message>
         <source>List</source>
@@ -15219,7 +15219,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Excellent</source>
-        <translation>Excelent</translation>
+        <translation>Excelentă</translation>
     </message>
     <message>
         <source>Ascending</source>
@@ -15571,7 +15571,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>##label## (go to next image)</source>
-        <translation>##etichetă## (mergi la imaginea următoare)</translation>
+        <translation>##label## (mergi la imaginea următoare)</translation>
     </message>
     <message>
         <source>Set Rating</source>
@@ -15900,7 +15900,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Good</source>
-        <translation>Bun</translation>
+        <translation>Bună</translation>
     </message>
     <message>
         <source>Left</source>
@@ -16288,7 +16288,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Excellent</source>
-        <translation>Excelent</translation>
+        <translation>Excelentă</translation>
     </message>
     <message>
         <source>Curves...</source>
@@ -16584,7 +16584,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>##label## (go to next image)</source>
-        <translation>##etichetă## (mergi la imaginea următoare)</translation>
+        <translation>##label## (mergi la imaginea următoare)</translation>
     </message>
     <message>
         <source>Set Rating</source>
