@@ -19915,7 +19915,7 @@ Vill du fortsätta?</translation>
         <location filename="CompareWidget.cpp" line="451"/>
         <location filename="BrowserMenu.h" line="465"/>
         <source>Fair</source>
-        <translation>Godkänd</translation>
+        <translation>Rimlig</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="448"/>
@@ -20786,7 +20786,7 @@ Vill du fortsätta?</translation>
     <message>
         <location filename="ViewMenu.h" line="371"/>
         <source>Fair</source>
-        <translation>Godkänd</translation>
+        <translation>Rimlig</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="372"/>
