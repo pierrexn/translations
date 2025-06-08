@@ -19078,7 +19078,7 @@ Doorgaan?</translation>
         <location filename="CompareWidget.cpp" line="448"/>
         <location filename="BrowserMenu.h" line="466"/>
         <source>Poor</source>
-        <translation>Pover</translation>
+        <translation>Matig</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="301"/>
