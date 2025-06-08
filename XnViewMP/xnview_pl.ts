@@ -20686,27 +20686,27 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2809"/>
         <source>EXIF - Camera</source>
-        <translation>Aparat EXIF</translation>
+        <translation>EXIF - Aparat</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2810"/>
         <source>EXIF - Image</source>
-        <translation>Obraz EXIF</translation>
+        <translation>EXIF - Obraz</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2811"/>
         <source>EXIF - GPS</source>
-        <translation>GPS EXIF</translation>
+        <translation>EXIF - GPS</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2812"/>
         <source>IPTC - Caption</source>
-        <translation>Nagłówek IPTC</translation>
+        <translation>IPTC - Nagłówek</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2813"/>
         <source>IPTC - Keywords&amp;&amp;Categories</source>
-        <translation>Słowa kluczowe i kategorie IPTC</translation>
+        <translation>IPTC - Słowa kluczowe i Kategorie</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2817"/>
@@ -20716,17 +20716,17 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2814"/>
         <source>IPTC - Credits</source>
-        <translation>Twórcy IPTC</translation>
+        <translation>IPTC - Twórcy</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2815"/>
         <source>IPTC - Status</source>
-        <translation>Stan IPTC</translation>
+        <translation>IPTC - Stan</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2816"/>
         <source>IPTC - Origin</source>
-        <translation>Pochodzenie IPTC</translation>
+        <translation>IPTC - Pochodzenie</translation>
     </message>
 </context>
 <context>
