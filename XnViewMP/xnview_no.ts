@@ -126,7 +126,7 @@
     <message>
         <location filename="MyThumbSettings.cpp" line="354"/>
         <source>Good</source>
-        <translation>God</translation>
+        <translation>Bra</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="355"/>
