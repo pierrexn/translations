@@ -111,12 +111,12 @@
     <message>
         <location filename="MyThumbSettings.cpp" line="351"/>
         <source>Poor</source>
-        <translation>беден</translation>
+        <translation>Беден</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="352"/>
         <source>Fair</source>
-        <translation>Справедлива</translation>
+        <translation>Задоволително</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="353"/>
@@ -19295,7 +19295,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="487"/>
         <source>##label## (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>##label## (преминете към следващото изображение)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="506"/>
@@ -19372,7 +19372,7 @@ Do you want to continue?</oldsource>
         <location filename="CompareWidget.cpp" line="457"/>
         <location filename="BrowserMenu.h" line="463"/>
         <source>Good</source>
-        <translation>Добрo</translation>
+        <translation>Добре</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="454"/>
@@ -19588,7 +19588,7 @@ Do you want to continue?</oldsource>
         <location filename="CompareWidget.cpp" line="451"/>
         <location filename="BrowserMenu.h" line="465"/>
         <source>Fair</source>
-        <translation>Хубав</translation>
+        <translation>Задоволително</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="448"/>
@@ -20694,7 +20694,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="371"/>
         <source>Fair</source>
-        <translation>Хубав</translation>
+        <translation>Задоволително</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="372"/>
@@ -21172,7 +21172,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="393"/>
         <source>##label## (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>##label## (преминете към следващото изображение)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="404"/>
