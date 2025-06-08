@@ -116,7 +116,7 @@
     <message>
         <location filename="MyThumbSettings.cpp" line="352"/>
         <source>Fair</source>
-        <translation>Rimelig</translation>
+        <translation>Retfærdigt</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="353"/>
