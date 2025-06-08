@@ -15790,7 +15790,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>EXIF - GPS</source>
-        <translation>GPS [EXIF]</translation>
+        <translation>EXIF - GPS</translation>
     </message>
     <message>
         <source>A - Weekday name (eg. wednesday)</source>
@@ -15798,23 +15798,23 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>IPTC - Origin</source>
-        <translation>Origen IPTC</translation>
+        <translation>IPTC - Origen</translation>
     </message>
     <message>
         <source>IPTC - Keywords&amp;&amp;Categories</source>
-        <translation>Palabras clave y Categorías IPTC</translation>
+        <translation>IPTC - Palabras clave y Categorías</translation>
     </message>
     <message>
         <source>EXIF - Image</source>
-        <translation>Imagen [EXIF]</translation>
+        <translation>EXIF - Imagen</translation>
     </message>
     <message>
         <source>IPTC - Status</source>
-        <translation>Estado IPTC</translation>
+        <translation>IPTC - Estado</translation>
     </message>
     <message>
         <source>IPTC - Caption</source>
-        <translation>Título IPTC</translation>
+        <translation>IPTC - Título</translation>
     </message>
     <message>
         <source>b - Abbreviated month name (eg. feb)</source>
@@ -15822,7 +15822,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>EXIF - Camera</source>
-        <translation>Cámara [EXIF]</translation>
+        <translation>EXIF - Cámara</translation>
     </message>
     <message>
         <source>y - Year without century (00-99)</source>
@@ -15830,7 +15830,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>IPTC - Credits</source>
-        <translation>Créditos IPTC</translation>
+        <translation>IPTC - Créditos</translation>
     </message>
     <message>
         <source>H - Hour (01-24)</source>
