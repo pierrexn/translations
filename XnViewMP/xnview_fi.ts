@@ -1897,7 +1897,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>Name &amp; extension lowercase</source>
-        <translation>Nimi &amp; tiedostopääte pienillä kirjaimilla</translation>
+        <translation>Nimi ja tiedostopääte pienillä kirjaimilla</translation>
     </message>
     <message>
         <source>Original size</source>
@@ -2144,7 +2144,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>Name &amp; extension uppercase</source>
-        <translation>Nimi &amp; tiedostopääte isoilla kirjaimilla</translation>
+        <translation>Nimi ja tiedostopääte isoilla kirjaimilla</translation>
     </message>
     <message>
         <source>&amp;Convert</source>
@@ -2511,7 +2511,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Use same text for description &amp;&amp; comment</source>
-        <translation>Käytä samaa tekstiä selityksille &amp;&amp; kommenteille</translation>
+        <translation>Käytä samaa tekstiä selityksille &amp;ja kommenteille</translation>
     </message>
     <message>
         <source>Edit comment</source>
@@ -3629,7 +3629,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Name &amp; extension lowercase</source>
-        <translation>Nimi &amp; tiedostopääte pienillä kirjaimilla</translation>
+        <translation>Nimi ja tiedostopääte pienillä kirjaimilla</translation>
     </message>
     <message>
         <source>Zoom in</source>
@@ -3865,7 +3865,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Name &amp; extension uppercase</source>
-        <translation>Nimi &amp; tiedostopääte isoilla kirjaimilla</translation>
+        <translation>Nimi ja tiedostopääte isoilla kirjaimilla</translation>
     </message>
     <message>
         <source>Convert</source>
@@ -4151,7 +4151,7 @@ Haluatko korvata sen?</translation>
     <name>DlgConvertDeinterlaceClass</name>
     <message>
         <source>Eliminate</source>
-        <translation>Poista</translation>
+        <translation>Eliminoi</translation>
     </message>
     <message>
         <source>Interpolation</source>
@@ -8112,7 +8112,7 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Name &amp; extension lowercase</source>
-        <translation>Nimi &amp; tiedostopääte pienillä kirjaimilla</translation>
+        <translation>Nimi ja tiedostopääte pienillä kirjaimilla</translation>
     </message>
     <message>
         <source>Exclude extension</source>
@@ -8160,7 +8160,7 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Name &amp; extension uppercase</source>
-        <translation>Nimi &amp; tiedostopääte isoilla kirjaimilla</translation>
+        <translation>Nimi ja tiedostopääte isoilla kirjaimilla</translation>
     </message>
     <message>
         <source>Extension</source>
@@ -11620,7 +11620,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Current date &amp;&amp; time</source>
-        <translation>Nykyinen päiväys &amp;&amp; aika</translation>
+        <translation>Nykyinen päiväys &amp;ja aika</translation>
     </message>
     <message>
         <source>File: Modified date</source>
@@ -11636,7 +11636,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Specific date &amp;&amp; time</source>
-        <translation>Määritelty päiväys &amp;&amp; aika</translation>
+        <translation>Määritelty päiväys &amp;ja aika</translation>
     </message>
     <message>
         <source>EXIF: Date modified</source>
@@ -15534,7 +15534,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Clear &amp;&amp; Import...</source>
-        <translation>Tyhjennä &amp;&amp; tuo...</translation>
+        <translation>Tyhjennä &amp;ja Tuo...</translation>
     </message>
     <message>
         <source>Catalog</source>
@@ -15808,7 +15808,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>IPTC - Keywords&amp;&amp;Categories</source>
-        <translation>IPTC-avainsanat &amp;&amp;kategoriat</translation>
+        <translation>IPTC-avainsanat &amp;ja kategoriat</translation>
     </message>
     <message>
         <source>EXIF - Image</source>
@@ -18148,7 +18148,7 @@ Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</transl
     </message>
     <message>
         <source>Crop, Save &amp;&amp; Next</source>
-        <translation>Rajaa, tallenna &amp;&amp; seuraava</translation>
+        <translation>Rajaa, Tallenna &amp;ja Seuraava</translation>
     </message>
     <message>
         <source>Save selection as...</source>
