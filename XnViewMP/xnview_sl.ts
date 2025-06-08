@@ -19368,7 +19368,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="472"/>
         <source>Fair (go to next image)</source>
-        <translation>Pošteno (pojdi na naslednjo sliko)</translation>
+        <translation>Razumno (pojdi na naslednjo sliko)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="474"/>
@@ -21327,7 +21327,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="378"/>
         <source>Fair (go to next image)</source>
-        <translation>Pošteno (pojdi na naslednjo sliko)</translation>
+        <translation>Razumno (pojdi na naslednjo sliko)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="379"/>
