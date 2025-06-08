@@ -15582,7 +15582,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>##label## (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>##label## (vá para a próxima imagem)</translation>
     </message>
     <message>
         <source>Set Rating</source>
@@ -16615,7 +16615,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>##label## (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>##label## (vá para a próxima imagem)</translation>
     </message>
     <message>
         <source>Set Rating</source>
