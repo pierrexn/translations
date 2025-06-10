@@ -4818,7 +4818,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Always</source>
-        <translation>Mereu</translation>
+        <translation>Întotdeauna</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -5571,11 +5571,11 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Write</source>
-        <translation>Scrie</translation>
+        <translation>Scriere</translation>
     </message>
     <message>
         <source>Write all</source>
-        <translation>Scrie totul</translation>
+        <translation>Scrie-le pe toate</translation>
     </message>
     <message>
         <source>ExifTool is not installed in AddOn folder!</source>
@@ -5656,7 +5656,7 @@ Dorești să-ți salvezi modificările?</translation>
     </message>
     <message>
         <source>&amp;Write</source>
-        <translation>&amp;Scrie</translation>
+        <translation>&amp;Scriere</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
@@ -6935,7 +6935,7 @@ Dorești să-ți salvezi modificările?</translation>
     </message>
     <message>
         <source>&amp;Write</source>
-        <translation>&amp;Scrie</translation>
+        <translation>&amp;Scriere</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
@@ -8015,15 +8015,15 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     <name>DlgReadWriteSettings</name>
     <message>
         <source>Read</source>
-        <translation>Citit</translation>
+        <translation>Citire</translation>
     </message>
     <message>
         <source>Write</source>
-        <translation>Scrie</translation>
+        <translation>Scriere</translation>
     </message>
     <message>
         <source>Format settings</source>
-        <translation>Setări de format</translation>
+        <translation>Setări pentru formate</translation>
     </message>
 </context>
 <context>
@@ -8218,7 +8218,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Always</source>
-        <translation>Mereu</translation>
+        <translation>Întotdeauna</translation>
     </message>
     <message>
         <source>Number</source>
@@ -8700,11 +8700,11 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Please restart application.</source>
-        <translation type="unfinished">Te rugăm să repornești aplicația.</translation>
+        <translation>Te rugăm să repornești aplicația.</translation>
     </message>
     <message>
         <source>Restart now</source>
-        <translation type="unfinished"></translation>
+        <translation>Repornește-o acum</translation>
     </message>
 </context>
 <context>
@@ -9234,7 +9234,7 @@ miniatură</translation>
     </message>
     <message>
         <source>Always</source>
-        <translation>Mereu</translation>
+        <translation>Întotdeauna</translation>
     </message>
     <message>
         <source>Folder always sorted alphabetically</source>
@@ -9313,11 +9313,11 @@ miniatură</translation>
     <name>DlgSettingsFormat</name>
     <message>
         <source>Read</source>
-        <translation>Citit</translation>
+        <translation>Citire</translation>
     </message>
     <message>
         <source>Write</source>
-        <translation>Scrie</translation>
+        <translation>Scriere</translation>
     </message>
     <message>
         <source>Select most used</source>
@@ -9467,7 +9467,7 @@ miniatură</translation>
     </message>
     <message>
         <source>Always</source>
-        <translation>Mereu</translation>
+        <translation>Întotdeauna</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -10303,7 +10303,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Write</source>
-        <translation>Scrie</translation>
+        <translation>Scriere</translation>
     </message>
     <message>
         <source>Video files</source>
@@ -10383,7 +10383,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Create or update XMP Sidecar</source>
-        <translation>Actualizează sau crează un fișier însoțitor (sidecar) XMP</translation>
+        <translation>Actualizează sau crează un fișier însoțitor (un sidecar) XMP</translation>
     </message>
     <message>
         <source>Naming convention</source>
@@ -10423,7 +10423,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Update master file</source>
-        <translation>Actualizați fișierul principal (master)</translation>
+        <translation>Actualizează fișierul principal (master)</translation>
     </message>
 </context>
 <context>
@@ -10538,7 +10538,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Sidecar</source>
-        <translation>Fișierul însoțitor (Sidecar)</translation>
+        <translation>Fișierul însoțitor (Sidecar-ul)</translation>
     </message>
     <message>
         <source>Spacing</source>
@@ -11705,7 +11705,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Edit Metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Editează metadatele</translation>
     </message>
 </context>
 <context>
@@ -12358,7 +12358,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Icon</source>
-        <translation>Pictograma</translation>
+        <translation>Pictogramă (Iconiță)</translation>
     </message>
     <message>
         <source>Text</source>
@@ -12382,7 +12382,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation>Poza</translation>
+        <translation>Poză</translation>
     </message>
     <message>
         <source>Save preset</source>
@@ -14612,7 +14612,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation>A tăia</translation>
+        <translation>Tăiere</translation>
     </message>
     <message>
         <source>Tag</source>
@@ -15008,7 +15008,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>C&amp;reate</source>
-        <translation>C&amp;rea</translation>
+        <translation>C&amp;reare</translation>
     </message>
     <message>
         <source>Update files from catalog</source>
@@ -15676,7 +15676,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Edit...</source>
-        <translation type="unfinished"></translation>
+        <translation>Editare...</translation>
     </message>
 </context>
 <context>
