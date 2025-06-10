@@ -11200,12 +11200,12 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettings.cpp" line="357"/>
         <source>Please restart application.</source>
-        <translation type="unfinished">Перезапустите приложение.</translation>
+        <translation>Перезапустите приложение.</translation>
     </message>
     <message>
         <location filename="DlgSettings.cpp" line="360"/>
         <source>Restart now</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезапустить сейчас</translation>
     </message>
 </context>
 <context>
@@ -15201,7 +15201,7 @@ Do you want to continue?</source>
         <location filename="DlgTransfer.ui" line="14"/>
         <source>Edit Metadata</source>
         <oldsource>Metadata transfer</oldsource>
-        <translation type="unfinished">Перенос метаданных</translation>
+        <translation>Изменение метаданных</translation>
     </message>
     <message>
         <location filename="DlgTransfer.ui" line="22"/>
@@ -20450,7 +20450,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="596"/>
         <source>Edit...</source>
-        <translation type="unfinished">Правка...</translation>
+        <translation>Изменить...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="597"/>
