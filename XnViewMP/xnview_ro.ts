@@ -8698,6 +8698,14 @@ Vrei să le redenumești?</translation>
         <source>Integration</source>
         <translation>Integrare</translation>
     </message>
+    <message>
+        <source>Please restart application.</source>
+        <translation type="unfinished">Te rugăm să repornești aplicația.</translation>
+    </message>
+    <message>
+        <source>Restart now</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsBrowserClass</name>
@@ -10419,13 +10427,6 @@ Dorești să-l reatribui?</translation>
     </message>
 </context>
 <context>
-    <name>DlgSettingsPanel</name>
-    <message>
-        <source>Please restart application.</source>
-        <translation>Te rugăm să repornești aplicația.</translation>
-    </message>
-</context>
-<context>
     <name>DlgSettingsThumbnailClass</name>
     <message>
         <source>%</source>
@@ -11699,12 +11700,12 @@ Vrei să continui?</translation>
         <translation>Aplică</translation>
     </message>
     <message>
-        <source>Metadata transfer</source>
-        <translation>Transferul de metadate</translation>
-    </message>
-    <message>
         <source>Clear all</source>
         <translation>Curăţă tot</translation>
+    </message>
+    <message>
+        <source>Edit Metadata</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15202,10 +15203,6 @@ Vrei să continui?</translation>
         <translation>Elimină din categorie</translation>
     </message>
     <message>
-        <source>Transfer...</source>
-        <translation>Transfer...</translation>
-    </message>
-    <message>
         <source>Fit image to window, large only</source>
         <translation>Potrivește imaginea pe fereastră, numai mare</translation>
     </message>
@@ -15676,6 +15673,10 @@ Vrei să continui?</translation>
     <message>
         <source>Show channel</source>
         <translation>Afișează canalul</translation>
+    </message>
+    <message>
+        <source>Edit...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

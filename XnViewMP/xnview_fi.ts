@@ -8687,6 +8687,14 @@ Haluatko poistaa ne?</translation>
         <source>Integration</source>
         <translation>Integraatio</translation>
     </message>
+    <message>
+        <source>Please restart application.</source>
+        <translation type="unfinished">Uudelleenkäynnistä sovellus.</translation>
+    </message>
+    <message>
+        <source>Restart now</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsBrowserClass</name>
@@ -10409,14 +10417,6 @@ Haluatko määrittää uudelleen?</translation>
     </message>
 </context>
 <context>
-    <name>DlgSettingsPanel</name>
-    <message>
-        <source>Please restart application.</source>
-        <translatorcomment>Uudelleenkäynnistä sovellus.</translatorcomment>
-        <translation>Uudelleenkäynnistä sovellus.</translation>
-    </message>
-</context>
-<context>
     <name>DlgSettingsThumbnailClass</name>
     <message>
         <source>%</source>
@@ -11690,12 +11690,12 @@ Haluatko jatkaa?</translation>
         <translation>Käytä</translation>
     </message>
     <message>
-        <source>Metadata transfer</source>
-        <translation>Metatietojen siirto</translation>
-    </message>
-    <message>
         <source>Clear all</source>
         <translation>Tyhjennä kaikki</translation>
+    </message>
+    <message>
+        <source>Edit Metadata</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15197,10 +15197,6 @@ Jatketaanko?</translation>
         <translation>Poista kategoriasta</translation>
     </message>
     <message>
-        <source>Transfer...</source>
-        <translation>Siirrä...</translation>
-    </message>
-    <message>
         <source>Fit image to window, large only</source>
         <translation>Sovita kuva ikkunaan (vain suuret kuvat)</translation>
     </message>
@@ -15667,6 +15663,10 @@ Jatketaanko?</translation>
     <message>
         <source>Show channel</source>
         <translation>Näytä kanava</translation>
+    </message>
+    <message>
+        <source>Edit...</source>
+        <translation type="unfinished">Muokkaa...</translation>
     </message>
 </context>
 <context>

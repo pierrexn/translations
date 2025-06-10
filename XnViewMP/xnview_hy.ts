@@ -8682,6 +8682,14 @@ Do you want to remove them?</source>
         <source>Formats</source>
         <translation>Ձևաչափեր</translation>
     </message>
+    <message>
+        <source>Please restart application.</source>
+        <translation type="unfinished">Վերամեկնարկեք ծրագիրը</translation>
+    </message>
+    <message>
+        <source>Restart now</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsBrowserClass</name>
@@ -10403,13 +10411,6 @@ Do you want to reassign?</source>
     </message>
 </context>
 <context>
-    <name>DlgSettingsPanel</name>
-    <message>
-        <source>Please restart application.</source>
-        <translation>Վերամեկնարկեք ծրագիրը</translation>
-    </message>
-</context>
-<context>
     <name>DlgSettingsThumbnailClass</name>
     <message>
         <source>%</source>
@@ -11675,10 +11676,6 @@ Do you want to continue?</source>
 <context>
     <name>DlgTransfer</name>
     <message>
-        <source>Metadata transfer</source>
-        <translation>Մետատվյալների փոխանցում</translation>
-    </message>
-    <message>
         <source>Add&gt;&gt;</source>
         <translation>Ավելացնել»»</translation>
     </message>
@@ -11689,6 +11686,10 @@ Do you want to continue?</source>
     <message>
         <source>Apply</source>
         <translation>Գործադրել</translation>
+    </message>
+    <message>
+        <source>Edit Metadata</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15358,10 +15359,6 @@ Do you want to continue?</source>
         <translation>Պատկեր</translation>
     </message>
     <message>
-        <source>Transfer...</source>
-        <translation>Փոխանցում...</translation>
-    </message>
-    <message>
         <source>New image...</source>
         <translation>Նոր պատկեր</translation>
     </message>
@@ -15660,6 +15657,10 @@ Do you want to continue?</source>
     <message>
         <source>Show channel</source>
         <translation>Ցուցադրել ալիքը</translation>
+    </message>
+    <message>
+        <source>Edit...</source>
+        <translation type="unfinished">Խմբագրել...</translation>
     </message>
 </context>
 <context>

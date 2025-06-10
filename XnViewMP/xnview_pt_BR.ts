@@ -8651,6 +8651,14 @@ Do you want to remove them?</source>
         <source>Catalog</source>
         <translation>Catálogo</translation>
     </message>
+    <message>
+        <source>Please restart application.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restart now</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsBrowserClass</name>
@@ -10355,13 +10363,6 @@ Do you want to reassign?</source>
     </message>
 </context>
 <context>
-    <name>DlgSettingsPanel</name>
-    <message>
-        <source>Please restart application.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>DlgSettingsThumbnailClass</name>
     <message>
         <source>Show 4 thumbnails in folder&apos;s thumbnail (instead of 1)</source>
@@ -11625,10 +11626,6 @@ Do you want to continue?</source>
 <context>
     <name>DlgTransfer</name>
     <message>
-        <source>Metadata transfer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Add&gt;&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11639,6 +11636,10 @@ Do you want to continue?</source>
     <message>
         <source>Apply</source>
         <translation type="unfinished">Aplicar</translation>
+    </message>
+    <message>
+        <source>Edit Metadata</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15305,10 +15306,6 @@ Do you want to continue?</source>
         <translation type="unfinished">Imagem</translation>
     </message>
     <message>
-        <source>Transfer...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>New image...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15607,6 +15604,10 @@ Do you want to continue?</source>
     <message>
         <source>Show channel</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit...</source>
+        <translation type="unfinished">Editar...</translation>
     </message>
 </context>
 <context>
