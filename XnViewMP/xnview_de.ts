@@ -11120,12 +11120,12 @@ Möchten Sie sie entfernen?</translation>
     <message>
         <location filename="DlgSettings.cpp" line="357"/>
         <source>Please restart application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitte starten Sie die Anwendung neu.</translation>
     </message>
     <message>
         <location filename="DlgSettings.cpp" line="360"/>
         <source>Restart now</source>
-        <translation type="unfinished"></translation>
+        <translation>Jetzt neu starten</translation>
     </message>
 </context>
 <context>
@@ -15103,7 +15103,7 @@ Wollen Sie fortfahren?</translation>
         <location filename="DlgTransfer.ui" line="14"/>
         <source>Edit Metadata</source>
         <oldsource>Metadata transfer</oldsource>
-        <translation type="unfinished">Metadaten übertragen</translation>
+        <translation>Metadaten bearbeiten</translation>
     </message>
     <message>
         <location filename="DlgTransfer.ui" line="22"/>
@@ -20336,7 +20336,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="BrowserMenu.h" line="596"/>
         <source>Edit...</source>
-        <translation type="unfinished">Bearbeiten...</translation>
+        <translation>Bearbeiten...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="597"/>
