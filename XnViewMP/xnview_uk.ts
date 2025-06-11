@@ -7237,7 +7237,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditXMP.ui" line="14"/>
         <source>Edit XMP</source>
-        <translation>Змінити дані XMP</translation>
+        <translation>Зміна даних XMP</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="73"/>
@@ -8979,7 +8979,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgIptc.ui" line="14"/>
         <source>Edit IPTC-IIM</source>
         <oldsource>Edit IPTC-IIM/XMP</oldsource>
-        <translation>Змінити дані IPTC/XMP</translation>
+        <translation>Зміна даних IPTC/XMP</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="749"/>
@@ -15170,7 +15170,7 @@ Do you want to continue?</source>
         <location filename="DlgTransfer.ui" line="14"/>
         <source>Edit Metadata</source>
         <oldsource>Metadata transfer</oldsource>
-        <translation type="unfinished">Перенесення метаданих</translation>
+        <translation>Зміна метаданих</translation>
     </message>
     <message>
         <location filename="DlgTransfer.ui" line="22"/>
@@ -19756,7 +19756,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="590"/>
         <source>Edit GPS data...</source>
         <oldsource>Edit GPS...</oldsource>
-        <translation>Правка GPS...</translation>
+        <translation>Змінити дані GPS...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="603"/>
@@ -20436,7 +20436,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="596"/>
         <source>Edit...</source>
-        <translation type="unfinished">Правка...</translation>
+        <translation>Змінити...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="597"/>
