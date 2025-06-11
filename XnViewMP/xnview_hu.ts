@@ -11112,12 +11112,12 @@ El szeretné őket távolítani?</translation>
     <message>
         <location filename="DlgSettings.cpp" line="357"/>
         <source>Please restart application.</source>
-        <translation type="unfinished">Kérem, indítsa újra az alkalmazást.</translation>
+        <translation>Kérem, indítsa újra az alkalmazást.</translation>
     </message>
     <message>
         <location filename="DlgSettings.cpp" line="360"/>
         <source>Restart now</source>
-        <translation type="unfinished"></translation>
+        <translation>Újraindítás</translation>
     </message>
 </context>
 <context>
@@ -15096,7 +15096,7 @@ Biztos folytassuk?</translation>
         <location filename="DlgTransfer.ui" line="14"/>
         <source>Edit Metadata</source>
         <oldsource>Metadata transfer</oldsource>
-        <translation type="unfinished">Metaadat átvitel</translation>
+        <translation>Metaadat szerkesztése</translation>
     </message>
     <message>
         <location filename="DlgTransfer.ui" line="22"/>
@@ -20214,7 +20214,7 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="BrowserMenu.h" line="596"/>
         <source>Edit...</source>
-        <translation type="unfinished">Szerkesztés...</translation>
+        <translation>Szerkesztés...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="597"/>
