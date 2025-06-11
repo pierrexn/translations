@@ -7162,7 +7162,7 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="DlgEditGps.ui" line="14"/>
         <source>Edit GPS Data</source>
-        <translation>Redigér</translation>
+        <translation>Redigér GPS data</translation>
     </message>
     <message>
         <location filename="DlgEditGps.ui" line="79"/>
@@ -15178,7 +15178,7 @@ Vil du fortsætte?</translation>
         <location filename="DlgTransfer.ui" line="14"/>
         <source>Edit Metadata</source>
         <oldsource>Metadata transfer</oldsource>
-        <translation type="unfinished">Overførsel af metadata</translation>
+        <translation>Redigér metadata</translation>
     </message>
     <message>
         <location filename="DlgTransfer.ui" line="22"/>
@@ -19634,7 +19634,7 @@ Vil du fortsætte?</translation>
         <location filename="BrowserMenu.h" line="590"/>
         <source>Edit GPS data...</source>
         <oldsource>Edit GPS...</oldsource>
-        <translation>Redigér GPS data...</translation>
+        <translation>Ret GPS data...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="612"/>
