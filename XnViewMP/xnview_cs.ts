@@ -8969,7 +8969,7 @@ Zkontrolujte prosím, že soubory nemají atribut Pouze pro čtení!</translatio
         <location filename="DlgIptc.ui" line="14"/>
         <source>Edit IPTC-IIM</source>
         <oldsource>Edit IPTC-IIM/XMP</oldsource>
-        <translation>Změnit IPTC-IIM</translation>
+        <translation>Upravit IPTC-IIM</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="821"/>
@@ -19696,7 +19696,7 @@ Chcete pokračovat?</translation>
     <message>
         <location filename="BrowserMenu.h" line="588"/>
         <source>Edit IPTC...</source>
-        <translation>Změnit IPTC...</translation>
+        <translation>Upravit IPTC...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="589"/>
@@ -19706,7 +19706,7 @@ Chcete pokračovat?</translation>
     <message>
         <location filename="BrowserMenu.h" line="596"/>
         <source>Edit...</source>
-        <translation type="unfinished">Změnit...</translation>
+        <translation>Upravit...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="603"/>
