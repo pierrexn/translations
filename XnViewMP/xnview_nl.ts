@@ -11129,12 +11129,12 @@ Wil je ze verwijderen?</translation>
     <message>
         <location filename="DlgSettings.cpp" line="357"/>
         <source>Please restart application.</source>
-        <translation type="unfinished">Toepassing opnieuw starten.</translation>
+        <translation>Toepassing opnieuw starten.</translation>
     </message>
     <message>
         <location filename="DlgSettings.cpp" line="360"/>
         <source>Restart now</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu opnieuw starten</translation>
     </message>
 </context>
 <context>
@@ -15113,7 +15113,7 @@ Doorgaan?</translation>
         <location filename="DlgTransfer.ui" line="14"/>
         <source>Edit Metadata</source>
         <oldsource>Metadata transfer</oldsource>
-        <translation type="unfinished">Metagegevensoverdracht</translation>
+        <translation>Metagegevens bewerken</translation>
     </message>
     <message>
         <location filename="DlgTransfer.ui" line="22"/>
@@ -20339,7 +20339,7 @@ Doorgaan?</translation>
     <message>
         <location filename="BrowserMenu.h" line="596"/>
         <source>Edit...</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewerken…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="597"/>
