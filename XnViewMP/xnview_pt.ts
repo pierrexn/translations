@@ -11169,12 +11169,12 @@ Prefere retirá-los?</translation>
     <message>
         <location filename="DlgSettings.cpp" line="357"/>
         <source>Please restart application.</source>
-        <translation type="unfinished">Por favor reinicie o programa.</translation>
+        <translation>Por favor reinicie o programa.</translation>
     </message>
     <message>
         <location filename="DlgSettings.cpp" line="360"/>
         <source>Restart now</source>
-        <translation type="unfinished"></translation>
+        <translation>Reinicie agora</translation>
     </message>
 </context>
 <context>
@@ -15165,7 +15165,7 @@ Deseja continuar?</translation>
         <location filename="DlgTransfer.ui" line="14"/>
         <source>Edit Metadata</source>
         <oldsource>Metadata transfer</oldsource>
-        <translation type="unfinished">Transferência de metadados</translation>
+        <translation>Modifique metadados</translation>
     </message>
     <message>
         <location filename="DlgTransfer.ui" line="22"/>
@@ -18279,57 +18279,57 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
     <message>
         <location filename="SearchField.cpp" line="103"/>
         <source>Hierarchical Subject</source>
-        <translation type="unfinished"></translation>
+        <translation>Assunto hierárquico</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="120"/>
         <source>Custom field 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo personalizado 1</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="121"/>
         <source>Custom field 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo personalizado 2</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="122"/>
         <source>Custom field 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo personalizado 3</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="123"/>
         <source>Custom field 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo personalizado 4</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="124"/>
         <source>Custom field 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo personalizado 5</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="125"/>
         <source>Custom field 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo personalizado 6</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="126"/>
         <source>Custom field 7</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo personalizado 7</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="127"/>
         <source>Custom field 8</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo personalizado 8</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="128"/>
         <source>Custom field 9</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo personalizado 9</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="129"/>
         <source>Custom field 10</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo personalizado 10</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="114"/>
@@ -20301,7 +20301,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="BrowserMenu.h" line="596"/>
         <source>Edit...</source>
-        <translation type="unfinished">Editar...</translation>
+        <translation>Editar...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="597"/>
@@ -21021,7 +21021,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="ViewMenu.h" line="319"/>
         <source>Print opened images...</source>
-        <translation type="unfinished"></translation>
+        <translation>Imprimir imagens abertas...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="320"/>
@@ -22243,7 +22243,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="MyLittleToolBar.h" line="770"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished">Comutar funcionamento do slider: tamanho das miniaturas [pixeis] ou número de miniaturas por coluna</translation>
+        <translation>Comutar funcionamento do slider: tamanho das miniaturas [pixeis] ou número de miniaturas por coluna</translation>
     </message>
 </context>
 <context>
@@ -22251,7 +22251,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="MyLittleToolBar.h" line="381"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished">Comutar funcionamento do slider: tamanho das miniaturas [pixeis] ou número de miniaturas por coluna</translation>
+        <translation>Comutar funcionamento do slider: tamanho das miniaturas [pixeis] ou número de miniaturas por coluna</translation>
     </message>
 </context>
 <context>
