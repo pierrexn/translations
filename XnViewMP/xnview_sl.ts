@@ -11163,12 +11163,12 @@ Ali jih želite odstraniti?</translation>
     <message>
         <location filename="DlgSettings.cpp" line="357"/>
         <source>Please restart application.</source>
-        <translation type="unfinished">Ponovno zaženite aplikacijo.</translation>
+        <translation>Ponovno zaženite aplikacijo.</translation>
     </message>
     <message>
         <location filename="DlgSettings.cpp" line="360"/>
         <source>Restart now</source>
-        <translation type="unfinished"></translation>
+        <translation>Znova zaženi zdaj</translation>
     </message>
 </context>
 <context>
@@ -15148,7 +15148,7 @@ Do you want to continue?</source>
         <location filename="DlgTransfer.ui" line="14"/>
         <source>Edit Metadata</source>
         <oldsource>Metadata transfer</oldsource>
-        <translation type="unfinished">Prenos metapodatkov</translation>
+        <translation>Urejanje metapodatkov</translation>
     </message>
     <message>
         <location filename="DlgTransfer.ui" line="22"/>
@@ -19466,7 +19466,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="596"/>
         <source>Edit...</source>
-        <translation type="unfinished">Uredi...</translation>
+        <translation>Uredi...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="643"/>
