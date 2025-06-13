@@ -7698,7 +7698,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="441"/>
         <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
-        <translation>4:2:0 (2x2, 1x1, 1x1) 작은 파일</translation>
+        <translation>4:2:0 (2x2,1x1,1x1) 작은 파일</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="477"/>
@@ -15663,7 +15663,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteJPEG.ui" line="201"/>
         <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
-        <translation>4:2:0 (2x2, 1x1, 1x1) 작은 파일</translation>
+        <translation>4:2:0 (2x2,1x1,1x1) 작은 파일</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="211"/>
