@@ -20232,7 +20232,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="BrowserMenu.h" line="561"/>
         <source>Info panels</source>
-        <translation>Fenêtres d&apos;infomations</translation>
+        <translation>Fenêtres d&apos;informations</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="575"/>
