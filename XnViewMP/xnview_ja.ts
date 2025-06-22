@@ -11244,12 +11244,12 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettings.cpp" line="357"/>
         <source>Please restart application.</source>
-        <translation type="unfinished"></translation>
+        <translation>アプリケーションを再起動してください。</translation>
     </message>
     <message>
         <location filename="DlgSettings.cpp" line="360"/>
         <source>Restart now</source>
-        <translation type="unfinished"></translation>
+        <translation>今すぐ再起動</translation>
     </message>
 </context>
 <context>
@@ -15241,7 +15241,7 @@ Do you want to continue?</source>
         <location filename="DlgTransfer.ui" line="14"/>
         <source>Edit Metadata</source>
         <oldsource>Metadata transfer</oldsource>
-        <translation type="unfinished">メタデータ転送</translation>
+        <translation>メタデータの編集</translation>
     </message>
     <message>
         <location filename="DlgTransfer.ui" line="22"/>
@@ -20629,7 +20629,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="596"/>
         <source>Edit...</source>
-        <translation type="unfinished">編集...</translation>
+        <translation>編集...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="597"/>
