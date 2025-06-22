@@ -14612,7 +14612,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation>Tăiere</translation>
+        <translation>Taie</translation>
     </message>
     <message>
         <source>Tag</source>
@@ -15008,7 +15008,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>C&amp;reate</source>
-        <translation>C&amp;reare</translation>
+        <translation>C&amp;rează</translation>
     </message>
     <message>
         <source>Update files from catalog</source>
