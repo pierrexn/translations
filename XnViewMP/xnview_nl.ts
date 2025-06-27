@@ -4823,7 +4823,7 @@ Doorgaan?</translation>
     <message>
         <location filename="DlgConvert.ui" line="1101"/>
         <source>Preserve extension</source>
-        <translation>Behoud de extension</translation>
+        <translation>Extensie behouden</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1695"/>
@@ -4974,7 +4974,7 @@ Doorgaan?</translation>
     <message>
         <location filename="DlgConvert.ui" line="1249"/>
         <source>Beep at the end of process</source>
-        <translation>Beep op einde verwerking</translation>
+        <translation>Pieptoon bij voltooiing</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1829"/>
@@ -8542,7 +8542,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
     <message>
         <location filename="DlgHotFolder.ui" line="42"/>
         <source>Extensions</source>
-        <translation>Uitbreidingen</translation>
+        <translation>Extensies</translation>
     </message>
     <message>
         <location filename="DlgHotFolder.ui" line="56"/>
@@ -8674,7 +8674,7 @@ Submappen worden aangemaakt. </translation>
     <message>
         <location filename="DlgImport.ui" line="428"/>
         <source>Extensions (; to separate)</source>
-        <translation>Uitbreidingen (scheidingsteken ; )</translation>
+        <translation>Extensies (scheidingsteken ; )</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="101"/>
@@ -10435,7 +10435,7 @@ Wil je ze verwijderen?</translation>
     <message>
         <location filename="DlgRename.ui" line="117"/>
         <source>Ignore extension for # enumerator</source>
-        <translation>Uitbreiding voor # enumerator negeren</translation>
+        <translation>Extensie voor # enumerator negeren</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="312"/>
@@ -10466,7 +10466,7 @@ Wil je ze verwijderen?</translation>
     <message>
         <location filename="DlgRename.ui" line="281"/>
         <source>Exclude extension</source>
-        <translation>Uitbreiding uitsluiten</translation>
+        <translation>Extensie uitsluiten</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="324"/>
@@ -10557,7 +10557,7 @@ Wil je ze verwijderen?</translation>
         <location filename="DlgRenameFile.ui" line="92"/>
         <source>Extension:</source>
         <oldsource>File extension:</oldsource>
-        <translation>Bestandsextensie:</translation>
+        <translation>Extensie:</translation>
     </message>
     <message>
         <location filename="DlgRenameFile.ui" line="99"/>
