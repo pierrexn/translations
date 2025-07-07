@@ -8689,11 +8689,11 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Please restart application.</source>
-        <translation type="unfinished">Uudelleenkäynnistä sovellus.</translation>
+        <translation>Uudelleenkäynnistä sovellus.</translation>
     </message>
     <message>
         <source>Restart now</source>
-        <translation type="unfinished"></translation>
+        <translation>Käynnistä uudelleen</translation>
     </message>
 </context>
 <context>
@@ -11695,7 +11695,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Edit Metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Muokkaa metatietoja</translation>
     </message>
 </context>
 <context>
@@ -15666,7 +15666,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Edit...</source>
-        <translation type="unfinished">Muokkaa...</translation>
+        <translation>Muokkaa...</translation>
     </message>
 </context>
 <context>
