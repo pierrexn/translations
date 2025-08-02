@@ -7476,7 +7476,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Single - Custom</source>
-        <translation>Unic - Personalizat</translation>
+        <translation>Singur - Personalizat</translation>
     </message>
     <message>
         <source>Pages</source>
@@ -7508,7 +7508,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Single - Stretch to page</source>
-        <translation>Single - Întinde la pagină</translation>
+        <translation>Singur - Întinde pe toată pagina</translation>
     </message>
     <message>
         <source>Top-Center</source>
@@ -7580,7 +7580,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Single - Best fit to page</source>
-        <translation>Single - Cel mai potrivit pentru pagină</translation>
+        <translation>Singur - Cel mai potrivit pentru pagină</translation>
     </message>
     <message>
         <source>Insert&gt;&gt;</source>
@@ -7680,7 +7680,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Single - Crop to page</source>
-        <translation>Single - Decupează în pagină</translation>
+        <translation>Singur - Decupează ca să încapă pe pagină</translation>
     </message>
     <message>
         <source>Y scale</source>
