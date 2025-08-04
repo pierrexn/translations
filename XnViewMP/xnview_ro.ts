@@ -284,7 +284,7 @@
     </message>
     <message>
         <source>Don&apos;t ask again</source>
-        <translation>Nu întreba din nou</translation>
+        <translation>Nu mai întreba din nou</translation>
     </message>
     <message>
         <source>Would you like to discard your edits and delete 
@@ -7233,7 +7233,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     <name>DlgMessage</name>
     <message>
         <source>Don&apos;t ask again</source>
-        <translation>Nu întreba din nou</translation>
+        <translation>Nu mai întreba din nou</translation>
     </message>
     <message>
         <source>Don&apos;t show again</source>
@@ -18382,7 +18382,7 @@ Vrei să păstrezi miniaturile?
     </message>
     <message>
         <source>Don&apos;t ask again</source>
-        <translation>Nu întreba din nou</translation>
+        <translation>Nu mai întreba din nou</translation>
     </message>
     <message>
         <source>Catalog and Metadata are disabled - 
