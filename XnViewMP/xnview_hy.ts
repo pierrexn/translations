@@ -1543,6 +1543,14 @@ Drag and Drop over the desired node to assign.</translation>
         <source>Album</source>
         <translation>Ալբոմ</translation>
     </message>
+    <message>
+        <source>No rating</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No colour label</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgAboutClass</name>
@@ -2782,6 +2790,13 @@ Do you want to overwrite it?</source>
     <message>
         <source>Source folder</source>
         <translation>Աղբյուր պանակ</translation>
+    </message>
+    <message numerus="yes">
+        <source>File list (%n)</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
     </message>
 </context>
 <context>
@@ -5628,10 +5643,6 @@ Do you want to save your changes?</source>
 Պահե՞լ փոփոխությունները։</translation>
     </message>
     <message>
-        <source>Changing files, please wait...</source>
-        <translation>Ֆայլերի փոփոխում, սպասեք...</translation>
-    </message>
-    <message>
         <source>Don&apos;t load field values</source>
         <translation>Չբեռնել դաշտի արժեքները</translation>
     </message>
@@ -5652,6 +5663,10 @@ Please make sure that files are not read-only!</source>
     <message>
         <source>&amp;Apply</source>
         <translation>&amp;Գործադրել</translation>
+    </message>
+    <message>
+        <source>Modifying files, please wait...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6938,6 +6953,10 @@ Please make sure that files are not read-only!</source>
     <message>
         <source>&amp;Apply</source>
         <translation>&amp;Գործադրել</translation>
+    </message>
+    <message>
+        <source>Modifying files, please wait...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8683,11 +8702,11 @@ Do you want to remove them?</source>
         <translation>Ձևաչափեր</translation>
     </message>
     <message>
-        <source>Please restart application.</source>
-        <translation type="unfinished">Վերամեկնարկեք ծրագիրը</translation>
+        <source>Restart now</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Restart now</source>
+        <source>The changes will be applied after restarting the application.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8893,22 +8912,6 @@ Do you want to remove them?</source>
         <translation>Նոր ուղի.</translation>
     </message>
     <message>
-        <source>Problem during database import!</source>
-        <translation>Խնդիր՝ շտեմարանը ներմուծելիս</translation>
-    </message>
-    <message>
-        <source>Category tree successfully imported into XnView categories</source>
-        <translation>Անվանակարգի ծառը հաջողությամբ ներմուծվել է XnView-ի անվանակարգերում</translation>
-    </message>
-    <message>
-        <source>Catalog maintenance [Catalog size %1 %2 - %3 %4]</source>
-        <translation>Գրացուցակի սպասարկում [Անվանակարգի չափ %1 %2 - %3 %4]</translation>
-    </message>
-    <message>
-        <source>Can&apos;t import XnView database</source>
-        <translation>Հնարավոր չէ ներմուծել XnView ՏՇ-ը</translation>
-    </message>
-    <message>
         <source>Catalog - Absolute/Relative paths</source>
         <translation>Գրացուցակ - բացարձակ/հարաբերական ուղիներ</translation>
     </message>
@@ -8971,8 +8974,8 @@ Do you want to check for affected entries first?</source>
 Ցանկանո՞ւմ եք նախ ստուգել ազդված գրառումները:</translation>
     </message>
     <message>
-        <source>Can&apos;t import XnView Classic category database</source>
-        <translation>ՀՆարավոր չէ ներմուծել XnView Classic անվանակարգի տվյալների շտեմարանը</translation>
+        <source>Database [catalog: %1 %2 - thumbnails: %3 %4]</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9062,10 +9065,6 @@ Do you want to check for affected entries first?</source>
         <translation>Վերատեղորոշել...</translation>
     </message>
     <message>
-        <source>Tools</source>
-        <translation>Գործիքներ</translation>
-    </message>
-    <message>
         <source>Enable Catalog</source>
         <translation>Միացնել Գրացուցակը</translation>
     </message>
@@ -9088,10 +9087,6 @@ Do you want to check for affected entries first?</source>
     <message>
         <source>Maintenance...</source>
         <translation>Սպասարկում...</translation>
-    </message>
-    <message>
-        <source>Import XnView Classic category db...</source>
-        <translation>Ներմուծել XnView Classic անվանակարգի տվյալների շտեմարանը...</translation>
     </message>
     <message>
         <source>Base path of files</source>
@@ -11684,12 +11679,12 @@ Do you want to continue?</source>
         <translation>Մաքրել բոլորը</translation>
     </message>
     <message>
-        <source>Apply</source>
-        <translation>Գործադրել</translation>
-    </message>
-    <message>
         <source>Edit Metadata</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Write</source>
+        <translation type="unfinished">Գրել</translation>
     </message>
 </context>
 <context>
@@ -12476,14 +12471,6 @@ Do you want to continue?</source>
         <translation>Կերպ՝</translation>
     </message>
     <message>
-        <source>XMP only</source>
-        <translation>Միայն XMP</translation>
-    </message>
-    <message>
-        <source>XMP, update or create IPTC-IIM</source>
-        <translation>XMP, թարմացրեք կամ ստեղծեք IPTC-IIM</translation>
-    </message>
-    <message>
         <source>Multiple selection</source>
         <translation>Բազմակի ընտրում</translation>
     </message>
@@ -12554,6 +12541,10 @@ Do you want to continue?</source>
     <message>
         <source>Keep and add new value (Keywords)</source>
         <translation>Պահել և հավելել նոր արժեք (հիմնաբառեր)</translation>
+    </message>
+    <message>
+        <source>XMP and IPTC-IIM</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13333,12 +13324,32 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Ցանկանո՞ւմ եք ջնջել չօգտագործվող անվանակարգերը:</translation>
     </message>
     <message>
-        <source>Import Categories</source>
-        <translation>Ներմուծել անվանակարգերը</translation>
+        <source>Import Categories...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Export Categories</source>
-        <translation>Արտահանել անվանակարգերը</translation>
+        <source>Import Categories (XnView Classic db)...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export Categories...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Can&apos;t import XnView Classic category database</source>
+        <translation type="unfinished">ՀՆարավոր չէ ներմուծել XnView Classic անվանակարգի տվյալների շտեմարանը</translation>
+    </message>
+    <message>
+        <source>Problem during database import!</source>
+        <translation type="unfinished">Խնդիր՝ շտեմարանը ներմուծելիս</translation>
+    </message>
+    <message>
+        <source>Category tree successfully imported into XnView categories</source>
+        <translation type="unfinished">Անվանակարգի ծառը հաջողությամբ ներմուծվել է XnView-ի անվանակարգերում</translation>
+    </message>
+    <message>
+        <source>Can&apos;t import XnView database</source>
+        <translation type="unfinished">Հնարավոր չէ ներմուծել XnView ՏՇ-ը</translation>
     </message>
 </context>
 <context>
@@ -13737,6 +13748,18 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Exposure time (s)</source>
         <translation>Լուսակայման ժամանակ(ներ)</translation>
+    </message>
+    <message>
+        <source>SubSecTime</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SubSecTime Original</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SubSecTime Digitized</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15311,10 +15334,6 @@ Do you want to continue?</source>
         <translation>Պատկերակներ</translation>
     </message>
     <message>
-        <source>Edit GPS data...</source>
-        <translation>Խմբագրել GPS տվյալը...</translation>
-    </message>
-    <message>
         <source>Category Sets</source>
         <translation>Անվանակարգի կայումներ</translation>
     </message>
@@ -15487,10 +15506,6 @@ Do you want to continue?</source>
         <translation>Դիտել որպես մանրամասներ</translation>
     </message>
     <message>
-        <source>Face tag...</source>
-        <translation>Դիմային պիտակ</translation>
-    </message>
-    <message>
         <source>Open GPS location in</source>
         <translation>Բացել GPS տեղադրությունը՝</translation>
     </message>
@@ -15659,8 +15674,16 @@ Do you want to continue?</source>
         <translation>Ցուցադրել ալիքը</translation>
     </message>
     <message>
-        <source>Edit...</source>
-        <translation type="unfinished">Խմբագրել...</translation>
+        <source>Edit GPS...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit metadata...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit face tag...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17435,12 +17458,6 @@ You can change it in Settings › Catalog.</source>
     <message>
         <source>Categories</source>
         <translation>Գրացուցակներ</translation>
-    </message>
-    <message>
-        <source>Click on check-box to toggle the assignment
-Right Click for pop-up menu with actions.</source>
-        <translation>Սեղմեք՝ նշանակումը փոխելու համար
-Աջ սեղմամբ կբացվի ընտրացանկը:</translation>
     </message>
     <message>
         <source>Map</source>

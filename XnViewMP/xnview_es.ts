@@ -1543,6 +1543,14 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
         <source>Tag (%1)</source>
         <translation>Marca (%1)</translation>
     </message>
+    <message>
+        <source>No rating</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No colour label</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgAboutClass</name>
@@ -2782,6 +2790,13 @@ Do you want to overwrite it?</source>
     <message>
         <source>Source folder</source>
         <translation>Carpeta de origen</translation>
+    </message>
+    <message numerus="yes">
+        <source>File list (%n)</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
     </message>
 </context>
 <context>
@@ -5594,10 +5609,6 @@ Do you want to overwrite it?</source>
 <context>
     <name>DlgEditXMP</name>
     <message>
-        <source>Changing files, please wait...</source>
-        <translation>Cambiando archivos, por favor espere...</translation>
-    </message>
-    <message>
         <source>IPTC data has changed.
 Do you want to save your changes?</source>
         <translation>Los datos IPTC han cambiado.
@@ -5652,6 +5663,10 @@ Please make sure that files are not read-only!</source>
     <message>
         <source>&amp;Apply</source>
         <translation>&amp;Aplicar</translation>
+    </message>
+    <message>
+        <source>Modifying files, please wait...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6939,6 +6954,10 @@ Please make sure that files are not read-only!</source>
     <message>
         <source>&amp;Apply</source>
         <translation>&amp;Aplicar</translation>
+    </message>
+    <message>
+        <source>Modifying files, please wait...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8684,11 +8703,11 @@ Do you want to remove them?</source>
         <translation>Integración</translation>
     </message>
     <message>
-        <source>Please restart application.</source>
-        <translation type="unfinished">Por favor, reiniciar la aplicación.</translation>
+        <source>Restart now</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Restart now</source>
+        <source>The changes will be applied after restarting the application.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8870,16 +8889,8 @@ Do you want to remove them?</source>
         <translation>Incluido</translation>
     </message>
     <message>
-        <source>Problem during database import!</source>
-        <translation>¡Problemas durante la importación de la base de datos!</translation>
-    </message>
-    <message>
         <source>Old path:</source>
         <translation>Antigua ruta:</translation>
-    </message>
-    <message>
-        <source>Category tree successfully imported into XnView categories</source>
-        <translation>Árbol de categorías importado correctamente en categorías XnView</translation>
     </message>
     <message>
         <source>New path:</source>
@@ -8890,20 +8901,12 @@ Do you want to remove them?</source>
         <translation>Con pérdida - Baja calidad (JPEG)</translation>
     </message>
     <message>
-        <source>Can&apos;t import XnView database</source>
-        <translation>No se puede importar la base de datos de categorías de XnView</translation>
-    </message>
-    <message>
         <source>Lossy - High quality (WebP)</source>
         <translation>Con pérdida - Alta calidad (WebP)</translation>
     </message>
     <message>
         <source>Lossy - High quality (JPEG)</source>
         <translation>Con pérdida - Alta calidad (JPEG)</translation>
-    </message>
-    <message>
-        <source>Catalog maintenance [Catalog size %1 %2 - %3 %4]</source>
-        <translation>Mantenimiento del catálogo [Tamaño del catálogo %1 %2 - %3 %4]</translation>
     </message>
     <message>
         <source>Excluded</source>
@@ -8972,8 +8975,8 @@ etiquetas de color o palabras clave pueden ser eliminadas.
 ¿Desea comprobar primero si hay entradas afectadas?</translation>
     </message>
     <message>
-        <source>Can&apos;t import XnView Classic category database</source>
-        <translation>No se puede importar la base de datos de categorías de XnView Classic</translation>
+        <source>Database [catalog: %1 %2 - thumbnails: %3 %4]</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8997,10 +9000,6 @@ etiquetas de color o palabras clave pueden ser eliminadas.
     <message>
         <source>Files</source>
         <translation>Archivos</translation>
-    </message>
-    <message>
-        <source>Tools</source>
-        <translation>Herramientas</translation>
     </message>
     <message>
         <source>Width</source>
@@ -9089,10 +9088,6 @@ etiquetas de color o palabras clave pueden ser eliminadas.
     <message>
         <source>Maintenance...</source>
         <translation>Mantenimiento...</translation>
-    </message>
-    <message>
-        <source>Import XnView Classic category db...</source>
-        <translation>Importar categoría XnView Classic db...</translation>
     </message>
     <message>
         <source>Base path of files</source>
@@ -11681,15 +11676,15 @@ Do you want to continue?</source>
         <translation>Añadir&gt;&gt;</translation>
     </message>
     <message>
-        <source>Apply</source>
-        <translation>Aplicar</translation>
-    </message>
-    <message>
         <source>Clear all</source>
         <translation>Limpiar todo</translation>
     </message>
     <message>
         <source>Edit Metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Write</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12477,14 +12472,6 @@ Do you want to continue?</source>
         <translation type="unfinished">Modo:</translation>
     </message>
     <message>
-        <source>XMP only</source>
-        <translation>Solo XMP</translation>
-    </message>
-    <message>
-        <source>XMP, update or create IPTC-IIM</source>
-        <translation type="unfinished">XMP, actualizar o crear IPTC-IIM</translation>
-    </message>
-    <message>
         <source>Multiple selection</source>
         <translation type="unfinished">Selección múltiple</translation>
     </message>
@@ -12555,6 +12542,10 @@ Do you want to continue?</source>
     <message>
         <source>Keep and add new value (Keywords)</source>
         <translation>Mantener y añadir nuevo valor (Palabras clave)</translation>
+    </message>
+    <message>
+        <source>XMP and IPTC-IIM</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13334,12 +13325,32 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>¿Desea eliminar las categorías no utilizadas?</translation>
     </message>
     <message>
-        <source>Import Categories</source>
-        <translation>Importar categorías</translation>
+        <source>Import Categories...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Export Categories</source>
-        <translation>Exportar categorías</translation>
+        <source>Import Categories (XnView Classic db)...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export Categories...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Can&apos;t import XnView Classic category database</source>
+        <translation type="unfinished">No se puede importar la base de datos de categorías de XnView Classic</translation>
+    </message>
+    <message>
+        <source>Problem during database import!</source>
+        <translation type="unfinished">¡Problemas durante la importación de la base de datos!</translation>
+    </message>
+    <message>
+        <source>Category tree successfully imported into XnView categories</source>
+        <translation type="unfinished">Árbol de categorías importado correctamente en categorías XnView</translation>
+    </message>
+    <message>
+        <source>Can&apos;t import XnView database</source>
+        <translation type="unfinished">No se puede importar la base de datos de categorías de XnView</translation>
     </message>
 </context>
 <context>
@@ -13738,6 +13749,18 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Exposure time (s)</source>
         <translation>Tiempo de exposición (s)</translation>
+    </message>
+    <message>
+        <source>SubSecTime</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SubSecTime Original</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SubSecTime Digitized</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15080,10 +15103,6 @@ Do you want to continue?</source>
         <translation>Tamaño real</translation>
     </message>
     <message>
-        <source>Face tag...</source>
-        <translation>Etiqueta de cara...</translation>
-    </message>
-    <message>
         <source>Select tagged files</source>
         <translation>Seleccionar archivos marcados</translation>
     </message>
@@ -15350,10 +15369,6 @@ Do you want to continue?</source>
     <message>
         <source>Metadata</source>
         <translation>Metadatos</translation>
-    </message>
-    <message>
-        <source>Edit GPS data...</source>
-        <translation>Editar datos de GPS...</translation>
     </message>
     <message>
         <source>Select all images</source>
@@ -15660,8 +15675,16 @@ Do you want to continue?</source>
         <translation>Mostrar canal</translation>
     </message>
     <message>
-        <source>Edit...</source>
-        <translation type="unfinished">Editar...</translation>
+        <source>Edit GPS...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit metadata...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit face tag...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17421,12 +17444,6 @@ Puedo cambiarlo en Configuración › Catálogo.</translation>
 </context>
 <context>
     <name>Panel</name>
-    <message>
-        <source>Click on check-box to toggle the assignment
-Right Click for pop-up menu with actions.</source>
-        <translation>Clic en la casilla de verificación para conmutar la asignacion
-Clic Derecho para menú contextual con acciones.</translation>
-    </message>
     <message>
         <source>Properties</source>
         <translation>Propiedades</translation>

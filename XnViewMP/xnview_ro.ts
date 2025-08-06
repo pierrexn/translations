@@ -1545,6 +1545,14 @@ Trage și plasează peste nodul dorit de alocat.</translation>
         <source>Tag (%1)</source>
         <translation>Etichetă (%1)</translation>
     </message>
+    <message>
+        <source>No rating</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No colour label</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgAboutClass</name>
@@ -2791,6 +2799,14 @@ Dorești să-l suprascrii?</translation>
     <message>
         <source>Source folder</source>
         <translation>Dosarul (folderul) sursă</translation>
+    </message>
+    <message numerus="yes">
+        <source>File list (%n)</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
     </message>
 </context>
 <context>
@@ -5609,10 +5625,6 @@ Vrei să continui?</translation>
 <context>
     <name>DlgEditXMP</name>
     <message>
-        <source>Changing files, please wait...</source>
-        <translation>Se schimbă fișierele, te rugăm să aștepți...</translation>
-    </message>
-    <message>
         <source>IPTC data has changed.
 Do you want to save your changes?</source>
         <translation>Datele IPTC s-au schimbat.
@@ -5667,6 +5679,10 @@ Dorești să-ți salvezi modificările?</translation>
 Please make sure that files are not read-only!</source>
         <translation>A apărut o eroare în timpul procesării. 
 Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</translation>
+    </message>
+    <message>
+        <source>Modifying files, please wait...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6954,6 +6970,10 @@ Dorești să-ți salvezi modificările?</translation>
 Please make sure that files are not read-only!</source>
         <translation>A apărut o eroare în timpul procesării. 
 Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translation>
+    </message>
+    <message>
+        <source>Modifying files, please wait...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8699,12 +8719,12 @@ Vrei să le redenumești?</translation>
         <translation>Integrare</translation>
     </message>
     <message>
-        <source>Please restart application.</source>
-        <translation>Te rugăm să repornești aplicația.</translation>
-    </message>
-    <message>
         <source>Restart now</source>
         <translation>Repornește-o acum</translation>
+    </message>
+    <message>
+        <source>The changes will be applied after restarting the application.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8885,16 +8905,8 @@ Vrei să le redenumești?</translation>
         <translation>Inclus</translation>
     </message>
     <message>
-        <source>Problem during database import!</source>
-        <translation>Problemă la importul bazei de date!</translation>
-    </message>
-    <message>
         <source>Old path:</source>
         <translation>Calea veche:</translation>
-    </message>
-    <message>
-        <source>Category tree successfully imported into XnView categories</source>
-        <translation>Arborele de categorii a fost importat cu succes în categoriile XnView</translation>
     </message>
     <message>
         <source>New path:</source>
@@ -8905,20 +8917,12 @@ Vrei să le redenumești?</translation>
         <translation>Cu pierdere - Calitate scăzută (JPEG)</translation>
     </message>
     <message>
-        <source>Can&apos;t import XnView database</source>
-        <translation>Nu se poate importa baza de date XnView</translation>
-    </message>
-    <message>
         <source>Lossy - High quality (WebP)</source>
         <translation>Lossy - Calitate înaltă (WebP)</translation>
     </message>
     <message>
         <source>Lossy - High quality (JPEG)</source>
         <translation>Cu pierderi - Calitate înaltă (JPEG)</translation>
-    </message>
-    <message>
-        <source>Catalog maintenance [Catalog size %1 %2 - %3 %4]</source>
-        <translation>Întreținerea catalogului [Dimensiunea catalogului %1 %2 - %3 %4]</translation>
     </message>
     <message>
         <source>Excluded</source>
@@ -8987,8 +8991,8 @@ Etichete de culoare, Cuvintele cheie pot fi șterse.
 Dorești să verifici mai întâi intrările afectate?</translation>
     </message>
     <message>
-        <source>Can&apos;t import XnView Classic category database</source>
-        <translation>Nu se poate importa baza de date din categoria XnView Classic</translation>
+        <source>Database [catalog: %1 %2 - thumbnails: %3 %4]</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9012,10 +9016,6 @@ Dorești să verifici mai întâi intrările afectate?</translation>
     <message>
         <source>Files</source>
         <translation>Fișiere</translation>
-    </message>
-    <message>
-        <source>Tools</source>
-        <translation>Instrumente</translation>
     </message>
     <message>
         <source>Width</source>
@@ -9108,10 +9108,6 @@ Dorești să verifici mai întâi intrările afectate?</translation>
     <message>
         <source>Maintenance...</source>
         <translation>Mentenanță...</translation>
-    </message>
-    <message>
-        <source>Import XnView Classic category db...</source>
-        <translation>Importă baza de date din categoria XnView Classic...</translation>
     </message>
 </context>
 <context>
@@ -11696,16 +11692,16 @@ Vrei să continui?</translation>
         <translation>Adaugă&gt;&gt;</translation>
     </message>
     <message>
-        <source>Apply</source>
-        <translation>Aplică</translation>
-    </message>
-    <message>
         <source>Clear all</source>
         <translation>Curăţă tot</translation>
     </message>
     <message>
         <source>Edit Metadata</source>
         <translation>Editează metadatele</translation>
+    </message>
+    <message>
+        <source>Write</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12492,14 +12488,6 @@ Vrei să continui?</translation>
         <translation>Modul:</translation>
     </message>
     <message>
-        <source>XMP only</source>
-        <translation>Doar XMP</translation>
-    </message>
-    <message>
-        <source>XMP, update or create IPTC-IIM</source>
-        <translation>XMP, actualizează sau crează IPTC-IIM-ul</translation>
-    </message>
-    <message>
         <source>Multiple selection</source>
         <translation>Selecție multiplă</translation>
     </message>
@@ -12570,6 +12558,10 @@ Vrei să continui?</translation>
     <message>
         <source>Sort alphabetically</source>
         <translation>Sortează alfabetic</translation>
+    </message>
+    <message>
+        <source>XMP and IPTC-IIM</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13349,12 +13341,32 @@ Dorești să ștergi favoritul „%1”?</translation>
         <translation>Vrei să ștergi categoriile nefolosite?</translation>
     </message>
     <message>
-        <source>Import Categories</source>
-        <translation>Importă categoriile</translation>
+        <source>Import Categories...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Export Categories</source>
-        <translation>Exportă categoriile</translation>
+        <source>Import Categories (XnView Classic db)...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export Categories...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Can&apos;t import XnView Classic category database</source>
+        <translation type="unfinished">Nu se poate importa baza de date din categoria XnView Classic</translation>
+    </message>
+    <message>
+        <source>Problem during database import!</source>
+        <translation type="unfinished">Problemă la importul bazei de date!</translation>
+    </message>
+    <message>
+        <source>Category tree successfully imported into XnView categories</source>
+        <translation type="unfinished">Arborele de categorii a fost importat cu succes în categoriile XnView</translation>
+    </message>
+    <message>
+        <source>Can&apos;t import XnView database</source>
+        <translation type="unfinished">Nu se poate importa baza de date XnView</translation>
     </message>
 </context>
 <context>
@@ -13753,6 +13765,18 @@ Dorești să ștergi favoritul „%1”?</translation>
     <message>
         <source>Exposure time (s)</source>
         <translation>Timpul de expunere (s)</translation>
+    </message>
+    <message>
+        <source>SubSecTime</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SubSecTime Original</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SubSecTime Digitized</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15099,10 +15123,6 @@ Vrei să continui?</translation>
         <translation>Marime adevarata</translation>
     </message>
     <message>
-        <source>Face tag...</source>
-        <translation>Etichetă facială...</translation>
-    </message>
-    <message>
         <source>Select tagged files</source>
         <translation>Selectează fișierele etichetate</translation>
     </message>
@@ -15373,10 +15393,6 @@ Vrei să continui?</translation>
     <message>
         <source>Metadata</source>
         <translation>Metadata</translation>
-    </message>
-    <message>
-        <source>Edit GPS data...</source>
-        <translation>Editează datele GPS-ului...</translation>
     </message>
     <message>
         <source>Select all images</source>
@@ -15675,8 +15691,16 @@ Vrei să continui?</translation>
         <translation>Afișează canalul</translation>
     </message>
     <message>
-        <source>Edit...</source>
-        <translation>Editare...</translation>
+        <source>Edit GPS...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit metadata...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit face tag...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17439,12 +17463,6 @@ O poți schimba în Setări › Catalog.</translation>
 </context>
 <context>
     <name>Panel</name>
-    <message>
-        <source>Click on check-box to toggle the assignment
-Right Click for pop-up menu with actions.</source>
-        <translation>Fă clic pe caseta de selectare pentru a comuta sarcina
-Fă clic dreapta pentru meniul pop-up cu acțiuni.</translation>
-    </message>
     <message>
         <source>Properties</source>
         <translation>Proprietăți</translation>

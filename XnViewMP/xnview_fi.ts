@@ -1543,6 +1543,14 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
         <source>Tag (%1)</source>
         <translation>Merkintä (Tagi) (%1)</translation>
     </message>
+    <message>
+        <source>No rating</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No colour label</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgAboutClass</name>
@@ -2782,6 +2790,13 @@ Haluatko korvata sen?</translation>
     <message>
         <source>Source folder</source>
         <translation>Lähdekansio</translation>
+    </message>
+    <message numerus="yes">
+        <source>File list (%n)</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
     </message>
 </context>
 <context>
@@ -5594,10 +5609,6 @@ Haluatko korvata sen?</translation>
 <context>
     <name>DlgEditXMP</name>
     <message>
-        <source>Changing files, please wait...</source>
-        <translation>Muutetaan tiedostoja, odota...</translation>
-    </message>
-    <message>
         <source>IPTC data has changed.
 Do you want to save your changes?</source>
         <translation>IPTC-data on muuttunut.
@@ -5652,6 +5663,10 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     <message>
         <source>&amp;Apply</source>
         <translation>&amp;Käytä</translation>
+    </message>
+    <message>
+        <source>Modifying files, please wait...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6939,6 +6954,10 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     <message>
         <source>&amp;Apply</source>
         <translation>&amp;Käytä</translation>
+    </message>
+    <message>
+        <source>Modifying files, please wait...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8688,12 +8707,12 @@ Haluatko poistaa ne?</translation>
         <translation>Integraatio</translation>
     </message>
     <message>
-        <source>Please restart application.</source>
-        <translation>Uudelleenkäynnistä sovellus.</translation>
-    </message>
-    <message>
         <source>Restart now</source>
         <translation>Käynnistä uudelleen</translation>
+    </message>
+    <message>
+        <source>The changes will be applied after restarting the application.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8874,16 +8893,8 @@ Haluatko poistaa ne?</translation>
         <translation>Sisältyvä</translation>
     </message>
     <message>
-        <source>Problem during database import!</source>
-        <translation>Ongelma tietokannan tuonnissa!</translation>
-    </message>
-    <message>
         <source>Old path:</source>
         <translation>Vanha polku:</translation>
-    </message>
-    <message>
-        <source>Category tree successfully imported into XnView categories</source>
-        <translation>Kategoriapuu tuotu onnistuneesti XnViewin kategorialuetteloon</translation>
     </message>
     <message>
         <source>New path:</source>
@@ -8894,20 +8905,12 @@ Haluatko poistaa ne?</translation>
         <translation>Häviöllinen - Heikkolaatu (JPEG)</translation>
     </message>
     <message>
-        <source>Can&apos;t import XnView database</source>
-        <translation>XnView-tietokantaa ei voi tuoda</translation>
-    </message>
-    <message>
         <source>Lossy - High quality (WebP)</source>
         <translation>Häviöllinen - Korkealaatu (WebP)</translation>
     </message>
     <message>
         <source>Lossy - High quality (JPEG)</source>
         <translation>Häviöllinen - Korkealaatu (JPEG)</translation>
-    </message>
-    <message>
-        <source>Catalog maintenance [Catalog size %1 %2 - %3 %4]</source>
-        <translation>Katalogin ylläpito [katalogin koko %1 %2 - %3 %4]</translation>
     </message>
     <message>
         <source>Excluded</source>
@@ -8977,8 +8980,8 @@ väritunnisteita ja avainsanoja, saatetaan poistaa.
 Haluatko ensin tarkastaa tiedot, joihin tämä vaikuttaa?</translation>
     </message>
     <message>
-        <source>Can&apos;t import XnView Classic category database</source>
-        <translation>XnView Classic kategoria tietokantaa ei voi tuoda</translation>
+        <source>Database [catalog: %1 %2 - thumbnails: %3 %4]</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9002,10 +9005,6 @@ Haluatko ensin tarkastaa tiedot, joihin tämä vaikuttaa?</translation>
     <message>
         <source>Files</source>
         <translation>Tiedostot</translation>
-    </message>
-    <message>
-        <source>Tools</source>
-        <translation>Työkalut</translation>
     </message>
     <message>
         <source>Width</source>
@@ -9094,10 +9093,6 @@ Haluatko ensin tarkastaa tiedot, joihin tämä vaikuttaa?</translation>
     <message>
         <source>Maintenance...</source>
         <translation>Huolto...</translation>
-    </message>
-    <message>
-        <source>Import XnView Classic category db...</source>
-        <translation>Tuo XnView Classic -kategoriatietokanta...</translation>
     </message>
     <message>
         <source>Base path of files</source>
@@ -11686,16 +11681,16 @@ Haluatko jatkaa?</translation>
         <translation>Lisää&gt;&gt;</translation>
     </message>
     <message>
-        <source>Apply</source>
-        <translation>Käytä</translation>
-    </message>
-    <message>
         <source>Clear all</source>
         <translation>Tyhjennä kaikki</translation>
     </message>
     <message>
         <source>Edit Metadata</source>
         <translation>Muokkaa metatietoja</translation>
+    </message>
+    <message>
+        <source>Write</source>
+        <translation type="unfinished">Kirjoita</translation>
     </message>
 </context>
 <context>
@@ -12482,14 +12477,6 @@ Haluatko jatkaa?</translation>
         <translation>Tila:</translation>
     </message>
     <message>
-        <source>XMP only</source>
-        <translation>Vain XMP</translation>
-    </message>
-    <message>
-        <source>XMP, update or create IPTC-IIM</source>
-        <translation>XMP, päivitä tai luo IPTC-IIM</translation>
-    </message>
-    <message>
         <source>Multiple selection</source>
         <translation>Monivalinta</translation>
     </message>
@@ -12560,6 +12547,10 @@ Haluatko jatkaa?</translation>
     <message>
         <source>Keep and add new value (Keywords)</source>
         <translation>Säilytä ja lisää uusi arvo (avainsanat)</translation>
+    </message>
+    <message>
+        <source>XMP and IPTC-IIM</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13339,12 +13330,32 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
         <translation>Haluatko poistaa käyttämättömät kategoriat?</translation>
     </message>
     <message>
-        <source>Import Categories</source>
-        <translation>Tuo kategoriat</translation>
+        <source>Import Categories...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Export Categories</source>
-        <translation>Vie kategoriat</translation>
+        <source>Import Categories (XnView Classic db)...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export Categories...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Can&apos;t import XnView Classic category database</source>
+        <translation type="unfinished">XnView Classic kategoria tietokantaa ei voi tuoda</translation>
+    </message>
+    <message>
+        <source>Problem during database import!</source>
+        <translation type="unfinished">Ongelma tietokannan tuonnissa!</translation>
+    </message>
+    <message>
+        <source>Category tree successfully imported into XnView categories</source>
+        <translation type="unfinished">Kategoriapuu tuotu onnistuneesti XnViewin kategorialuetteloon</translation>
+    </message>
+    <message>
+        <source>Can&apos;t import XnView database</source>
+        <translation type="unfinished">XnView-tietokantaa ei voi tuoda</translation>
     </message>
 </context>
 <context>
@@ -13743,6 +13754,18 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     <message>
         <source>Exposure time (s)</source>
         <translation>Valotusajat</translation>
+    </message>
+    <message>
+        <source>SubSecTime</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SubSecTime Original</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SubSecTime Digitized</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15089,10 +15112,6 @@ Jatketaanko?</translation>
         <translation>Todellinen koko</translation>
     </message>
     <message>
-        <source>Face tag...</source>
-        <translation>Kasvojen tunnistus...</translation>
-    </message>
-    <message>
         <source>Select tagged files</source>
         <translation>Valitse merkityt tiedostot</translation>
     </message>
@@ -15367,10 +15386,6 @@ Jatketaanko?</translation>
     <message>
         <source>Metadata</source>
         <translation>Metatiedot</translation>
-    </message>
-    <message>
-        <source>Edit GPS data...</source>
-        <translation>Muokkaa GPS-dataa...</translation>
     </message>
     <message>
         <source>Select all images</source>
@@ -15665,8 +15680,16 @@ Jatketaanko?</translation>
         <translation>Näytä kanava</translation>
     </message>
     <message>
-        <source>Edit...</source>
-        <translation>Muokkaa...</translation>
+        <source>Edit GPS...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit metadata...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit face tag...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17426,13 +17449,6 @@ Voit muuttaa sitä asetusten kohdasta &quot;Katalogi&quot;.</translation>
 </context>
 <context>
     <name>Panel</name>
-    <message>
-        <source>Click on check-box to toggle the assignment
-Right Click for pop-up menu with actions.</source>
-        <translation>Klikkaa ruutua valitaksesi tehtävä, 
-kaksoisklikkauksella voit nimetä sen uudelleen.
-Hiiren oikean näppäiimen klikkaus tuo pikavalikon toiminnot näkyviin.</translation>
-    </message>
     <message>
         <source>Properties</source>
         <translation>Ominaisuudet</translation>
