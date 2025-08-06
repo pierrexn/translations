@@ -1547,11 +1547,11 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>No rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Nicio evaluare</translation>
     </message>
     <message>
         <source>No colour label</source>
-        <translation type="unfinished"></translation>
+        <translation>Nicio etichetă de culoare</translation>
     </message>
 </context>
 <context>
@@ -2802,10 +2802,10 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message numerus="yes">
         <source>File list (%n)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Lista de fișiere (%n fișier)</numerusform>
+            <numerusform>Lista de fișiere (%n fișiere)</numerusform>
+            <numerusform>Lista de fișiere (%n de fișiere)</numerusform>
         </translation>
     </message>
 </context>
@@ -5682,7 +5682,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Modifying files, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Se modifică fișierele, te rugăm să aștepți...</translation>
     </message>
 </context>
 <context>
@@ -6973,7 +6973,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Modifying files, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Se modifică fișierele, te rugăm să aștepți...</translation>
     </message>
 </context>
 <context>
@@ -8724,7 +8724,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>The changes will be applied after restarting the application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modificările vor fi aplicate după repornirea aplicației.</translation>
     </message>
 </context>
 <context>
@@ -8992,7 +8992,7 @@ Dorești să verifici mai întâi intrările afectate?</translation>
     </message>
     <message>
         <source>Database [catalog: %1 %2 - thumbnails: %3 %4]</source>
-        <translation type="unfinished"></translation>
+        <translation>Baza de date [catalogul: %1 %2 - miniaturile: %3 %4]</translation>
     </message>
 </context>
 <context>
@@ -11701,7 +11701,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Write</source>
-        <translation type="unfinished"></translation>
+        <translation>Scriere</translation>
     </message>
 </context>
 <context>
@@ -12561,7 +12561,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>XMP and IPTC-IIM</source>
-        <translation type="unfinished"></translation>
+        <translation>XMP și IPTC-IIM</translation>
     </message>
 </context>
 <context>
@@ -13342,31 +13342,31 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Import Categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Importă categoriile...</translation>
     </message>
     <message>
         <source>Import Categories (XnView Classic db)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Importă categoriile (XnView Classic db)...</translation>
     </message>
     <message>
         <source>Export Categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportă categoriile...</translation>
     </message>
     <message>
         <source>Can&apos;t import XnView Classic category database</source>
-        <translation type="unfinished">Nu se poate importa baza de date din categoria XnView Classic</translation>
+        <translation>Nu se poate importa baza de date de tip categorie din XnView Classic</translation>
     </message>
     <message>
         <source>Problem during database import!</source>
-        <translation type="unfinished">Problemă la importul bazei de date!</translation>
+        <translation>A apărut o problemă la importul bazei de date!</translation>
     </message>
     <message>
         <source>Category tree successfully imported into XnView categories</source>
-        <translation type="unfinished">Arborele de categorii a fost importat cu succes în categoriile XnView</translation>
+        <translation>Arborele de categorii a fost importat cu succes în categoriile din XnView</translation>
     </message>
     <message>
         <source>Can&apos;t import XnView database</source>
-        <translation type="unfinished">Nu se poate importa baza de date XnView</translation>
+        <translation>Nu se poate importa baza de date din XnView</translation>
     </message>
 </context>
 <context>
@@ -13768,15 +13768,15 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>SubSecTime</source>
-        <translation type="unfinished"></translation>
+        <translation>SubSecTime</translation>
     </message>
     <message>
         <source>SubSecTime Original</source>
-        <translation type="unfinished"></translation>
+        <translation>SubSecTime Original</translation>
     </message>
     <message>
         <source>SubSecTime Digitized</source>
-        <translation type="unfinished"></translation>
+        <translation>SubSecTime Digitized (Digitizat)</translation>
     </message>
 </context>
 <context>
@@ -15692,15 +15692,15 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Edit GPS...</source>
-        <translation type="unfinished"></translation>
+        <translation>Edit GPS-ul...</translation>
     </message>
     <message>
         <source>Edit metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Editează metadatele...</translation>
     </message>
     <message>
         <source>Edit face tag...</source>
-        <translation type="unfinished"></translation>
+        <translation>Editează eticheta feței...</translation>
     </message>
 </context>
 <context>
