@@ -8884,12 +8884,12 @@ Subfolders will be created. </source>
     <message>
         <location filename="DlgIptc.cpp" line="215"/>
         <source>File created date/time</source>
-        <translation>Дата/время создания файла</translation>
+        <translation>Файл: Дата/время создания</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="215"/>
         <source>File modified date/time</source>
-        <translation>Дата/время изменения файла</translation>
+        <translation>Файл: Дата/время изменения</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="216"/>
@@ -13023,25 +13023,25 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="722"/>
         <location filename="DlgSettingsInterface.ui" line="838"/>
         <source>File created date</source>
-        <translation>Дата создания файла</translation>
+        <translation>Файл: Дата создания</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="727"/>
         <location filename="DlgSettingsInterface.ui" line="843"/>
         <source>File modified date</source>
-        <translation>Дата изменения файла</translation>
+        <translation>Файл: Дата изменения</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="732"/>
         <location filename="DlgSettingsInterface.ui" line="848"/>
         <source>EXIF date taken</source>
-        <translation>Дата съёмки EXIF</translation>
+        <translation>EXIF: Дата съёмки</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="737"/>
         <location filename="DlgSettingsInterface.ui" line="853"/>
         <source>EXIF date modified</source>
-        <translation>Дата изменения EXIF</translation>
+        <translation>EXIF: Дата изменения</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="698"/>
@@ -15042,12 +15042,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgTimestamp.cpp" line="146"/>
         <source>File created date</source>
-        <translation>Дата создания файла</translation>
+        <translation>Файл: Дата создания</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.cpp" line="146"/>
         <source>File modified date</source>
-        <translation>Дата изменения файла</translation>
+        <translation>Файл: Дата изменения</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.cpp" line="147"/>
@@ -22123,7 +22123,7 @@ Do you want to continue?</oldsource>
         <location filename="DlgSettingsView.cpp" line="18"/>
         <location filename="DlgSettingsView.cpp" line="267"/>
         <source>Last used</source>
-        <translation>Последняя использованная</translation>
+        <translation>Последнее использованное</translation>
     </message>
     <message>
         <location filename="BitmapViewProcess.h" line="41"/>
