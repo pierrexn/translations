@@ -1976,12 +1976,12 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
     <message>
         <location filename="DBFilterModel.cpp" line="139"/>
         <source>No rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Nincs értékelés</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="140"/>
         <source>No colour label</source>
-        <translation type="unfinished"></translation>
+        <translation>Nincs színcímke</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="141"/>
@@ -3560,8 +3560,8 @@ Felül szeretné írni?</translation>
     <message numerus="yes">
         <location filename="DlgContactSheet.cpp" line="462"/>
         <source>File list (%n)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Fájllista (%n)</numerusform>
         </translation>
     </message>
 </context>
@@ -7277,7 +7277,7 @@ Ellenőrizze, hogy a fájl nem írásvédett!</translation>
         <location filename="DlgEditXMP.cpp" line="420"/>
         <location filename="DlgEditXMP.cpp" line="447"/>
         <source>Modifying files, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Fájlok módosítása, kérem várjon...</translation>
     </message>
 </context>
 <context>
@@ -8841,7 +8841,7 @@ Az almappák jönnek létre. </translation>
         <location filename="DlgIptc.cpp" line="1698"/>
         <location filename="DlgIptc.cpp" line="1746"/>
         <source>Modifying files, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Fájlok módosítása, kérem várjon...</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="52"/>
@@ -11134,7 +11134,7 @@ El szeretné őket távolítani?</translation>
     <message>
         <location filename="DlgSettings.cpp" line="357"/>
         <source>The changes will be applied after restarting the application.</source>
-        <translation type="unfinished"></translation>
+        <translation>A módosítások az alkalmazás újraindítása után kerülnek alkalmazásra.</translation>
     </message>
     <message>
         <location filename="DlgSettings.cpp" line="360"/>
@@ -15103,7 +15103,7 @@ Biztos folytassuk?</translation>
     <message>
         <location filename="DlgTransfer.cpp" line="243"/>
         <source>Write</source>
-        <translation type="unfinished"></translation>
+        <translation>Írás</translation>
     </message>
 </context>
 <context>
@@ -16101,7 +16101,7 @@ Biztos folytassuk?</translation>
         <location filename="EditXMPWidget.ui" line="643"/>
         <source>XMP and IPTC-IIM</source>
         <oldsource>XMP, update or create IPTC-IIM</oldsource>
-        <translation type="unfinished">XMP, IPTC-IIM frissítése vagy létrehozása</translation>
+        <translation>XMP és IPTC-IIM</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="672"/>
@@ -17219,17 +17219,17 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="140"/>
         <source>Import Categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kategóriák importálása...</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="142"/>
         <source>Import Categories (XnView Classic db)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kategóriák importálása (XnView Classic adatbázis)...</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="144"/>
         <source>Export Categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kategóriák exportálása...</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="147"/>
@@ -17244,22 +17244,22 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="620"/>
         <source>Can&apos;t import XnView Classic category database</source>
-        <translation type="unfinished">Az XnView Classic kategória adatbázisa nem importálható</translation>
+        <translation>Az XnView Classic kategória adatbázisa nem importálható</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="656"/>
         <source>Problem during database import!</source>
-        <translation type="unfinished">Probléma lépett fel az adatbázis importálása közben!</translation>
+        <translation>Probléma lépett fel az adatbázis importálása közben!</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="658"/>
         <source>Category tree successfully imported into XnView categories</source>
-        <translation type="unfinished">Kategóriák sikeresen importálva az XnView kategóriákba</translation>
+        <translation>Kategóriák sikeresen importálva az XnView kategóriákba</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="668"/>
         <source>Can&apos;t import XnView database</source>
-        <translation type="unfinished">Nem lehet importálni az XnView adatbázist</translation>
+        <translation>Nem lehet importálni az XnView adatbázist</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="703"/>
@@ -19407,12 +19407,12 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="BrowserMenu.h" line="589"/>
         <source>Edit GPS...</source>
-        <translation type="unfinished"></translation>
+        <translation>GPS szerkesztése...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="595"/>
         <source>Edit metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Metaadat szerkesztése...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="642"/>
@@ -20422,7 +20422,7 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="BrowserMenu.h" line="659"/>
         <source>Edit face tag...</source>
-        <translation type="unfinished"></translation>
+        <translation>Arcmegjelölés szerkesztése...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="662"/>
