@@ -1974,12 +1974,12 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DBFilterModel.cpp" line="139"/>
         <source>No rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Keine Bewertung</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="140"/>
         <source>No colour label</source>
-        <translation type="unfinished"></translation>
+        <translation>Keine Farbmarkierung</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="141"/>
@@ -3566,9 +3566,9 @@ Wollen Sie die Datei überschreiben?</translation>
     <message numerus="yes">
         <location filename="DlgContactSheet.cpp" line="462"/>
         <source>File list (%n)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Dateiliste (%n)</numerusform>
+            <numerusform>Dateilisten (%n)</numerusform>
         </translation>
     </message>
 </context>
@@ -7251,7 +7251,7 @@ Möchten Sie fortfahren?</translation>
         <location filename="DlgEditXMP.cpp" line="44"/>
         <source>&amp;Write</source>
         <oldsource>Write</oldsource>
-        <translation>Schreiben</translation>
+        <translation>Sch&amp;reiben</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="45"/>
@@ -7286,7 +7286,7 @@ Bitte stellen Sie sicher, dass die Dateien nicht schreibgeschützt sind.</transl
         <location filename="DlgEditXMP.cpp" line="420"/>
         <location filename="DlgEditXMP.cpp" line="447"/>
         <source>Modifying files, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Dateien werden geändert, bitte warten…</translation>
     </message>
 </context>
 <context>
@@ -8850,7 +8850,7 @@ Unterordner werden erstellt. </translation>
         <location filename="DlgIptc.cpp" line="1698"/>
         <location filename="DlgIptc.cpp" line="1746"/>
         <source>Modifying files, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Dateien werden geändert, bitte warten…</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="52"/>
@@ -11143,7 +11143,7 @@ Möchten Sie sie entfernen?</translation>
     <message>
         <location filename="DlgSettings.cpp" line="357"/>
         <source>The changes will be applied after restarting the application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Änderungen werden nach einem Neustart der Anwendung übernommen.</translation>
     </message>
     <message>
         <location filename="DlgSettings.cpp" line="360"/>
@@ -11392,7 +11392,7 @@ Möchten Sie sie entfernen?</translation>
     <message>
         <location filename="DlgSettingsCache.cpp" line="150"/>
         <source>Database [catalog: %1 %2 - thumbnails: %3 %4]</source>
-        <translation type="unfinished"></translation>
+        <translation>Datenbank [Katalog: %1 %2 - Miniaturansichten: %3 %4]</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="262"/>
@@ -15111,7 +15111,7 @@ Wollen Sie fortfahren?</translation>
     <message>
         <location filename="DlgTransfer.cpp" line="243"/>
         <source>Write</source>
-        <translation type="unfinished"></translation>
+        <translation>Schreiben</translation>
     </message>
 </context>
 <context>
@@ -16109,7 +16109,7 @@ Wollen Sie fortfahren?</translation>
         <location filename="EditXMPWidget.ui" line="643"/>
         <source>XMP and IPTC-IIM</source>
         <oldsource>XMP, update or create IPTC-IIM</oldsource>
-        <translation type="unfinished">XMP, IPTC-IIM erstellen oder aktualisieren</translation>
+        <translation>XMP, IPTC-IIM erstellen oder aktualisieren</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="672"/>
@@ -17227,17 +17227,17 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="140"/>
         <source>Import Categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kategorien importieren...</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="142"/>
         <source>Import Categories (XnView Classic db)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kategorien importieren (XnView Classic-Datenbank)…</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="144"/>
         <source>Export Categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kategorien exportieren...</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="147"/>
@@ -17252,22 +17252,22 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="620"/>
         <source>Can&apos;t import XnView Classic category database</source>
-        <translation type="unfinished">Kategoriendatenbank von XnViewClassic konnte nicht importiert werden.</translation>
+        <translation>Kategoriendatenbank von XnView Classic konnte nicht importiert werden.</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="656"/>
         <source>Problem during database import!</source>
-        <translation type="unfinished">Fehler beim Datenbankimport!</translation>
+        <translation>Fehler beim Datenbankimport!</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="658"/>
         <source>Category tree successfully imported into XnView categories</source>
-        <translation type="unfinished">Kategorienbaum wurde erfolgreich in XnView-Kategoriendatenbank importiert</translation>
+        <translation>Kategorienbaum wurde erfolgreich in XnView-Kategoriendatenbank importiert</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="668"/>
         <source>Can&apos;t import XnView database</source>
-        <translation type="unfinished">XnView-Datenbank kann nicht importiert werden</translation>
+        <translation>XnView-Datenbank kann nicht importiert werden</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="703"/>
@@ -17797,17 +17797,17 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2683"/>
         <source>SubSecTime</source>
-        <translation type="unfinished"></translation>
+        <translation>SubSecTime</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2684"/>
         <source>SubSecTime Original</source>
-        <translation type="unfinished"></translation>
+        <translation>SubSecTime Original</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2685"/>
         <source>SubSecTime Digitized</source>
-        <translation type="unfinished"></translation>
+        <translation>SubSecTime Digitized</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2691"/>
@@ -19395,7 +19395,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="BrowserMenu.h" line="595"/>
         <source>Edit metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Metadaten bearbeiten...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="655"/>
@@ -19753,7 +19753,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="BrowserMenu.h" line="659"/>
         <source>Edit face tag...</source>
-        <translation type="unfinished"></translation>
+        <translation>Gesichtsmarkierung bearbeiten ...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="662"/>
@@ -20339,7 +20339,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="BrowserMenu.h" line="589"/>
         <source>Edit GPS...</source>
-        <translation type="unfinished"></translation>
+        <translation>GPS bearbeiten...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="590"/>
