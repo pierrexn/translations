@@ -1976,12 +1976,12 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="139"/>
         <source>No rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen waardering</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="140"/>
         <source>No colour label</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen kleurlabel</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="141"/>
@@ -3571,9 +3571,9 @@ Overschrijven?</translation>
     <message numerus="yes">
         <location filename="DlgContactSheet.cpp" line="462"/>
         <source>File list (%n)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Bestandenlijst (%n)</numerusform>
+            <numerusform>Bestandenlijst (%n)</numerusform>
         </translation>
     </message>
 </context>
@@ -7295,7 +7295,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
         <location filename="DlgEditXMP.cpp" line="420"/>
         <location filename="DlgEditXMP.cpp" line="447"/>
         <source>Modifying files, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestanden wijzigen, even geduld…</translation>
     </message>
 </context>
 <context>
@@ -8859,7 +8859,7 @@ Submappen worden aangemaakt. </translation>
         <location filename="DlgIptc.cpp" line="1698"/>
         <location filename="DlgIptc.cpp" line="1746"/>
         <source>Modifying files, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestanden wijzigen, even geduld…</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="52"/>
@@ -11152,7 +11152,7 @@ Wil je ze verwijderen?</translation>
     <message>
         <location filename="DlgSettings.cpp" line="357"/>
         <source>The changes will be applied after restarting the application.</source>
-        <translation type="unfinished"></translation>
+        <translation>De wijzigingen worden toegepast na het opnieuw opstarten van de toepassing.</translation>
     </message>
     <message>
         <location filename="DlgSettings.cpp" line="360"/>
@@ -11401,7 +11401,7 @@ Wil je ze verwijderen?</translation>
     <message>
         <location filename="DlgSettingsCache.cpp" line="150"/>
         <source>Database [catalog: %1 %2 - thumbnails: %3 %4]</source>
-        <translation type="unfinished"></translation>
+        <translation>Database [catalogus: %1 %2 - miniaturen: %3 %4]</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="262"/>
@@ -13380,7 +13380,7 @@ Opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="142"/>
         <source>Face tag</source>
-        <translation>Gezichtsherkenning</translation>
+        <translation>Gezichtslabel</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="169"/>
@@ -13743,7 +13743,7 @@ Opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="762"/>
         <source>Face tag</source>
-        <translation>Gezichts tag</translation>
+        <translation>Gezichtslabel</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="890"/>
@@ -15121,7 +15121,7 @@ Doorgaan?</translation>
     <message>
         <location filename="DlgTransfer.cpp" line="243"/>
         <source>Write</source>
-        <translation type="unfinished">Schrijven</translation>
+        <translation>Schrijven</translation>
     </message>
 </context>
 <context>
@@ -16120,7 +16120,7 @@ Doorgaan?</translation>
         <location filename="EditXMPWidget.ui" line="643"/>
         <source>XMP and IPTC-IIM</source>
         <oldsource>XMP, update or create IPTC-IIM</oldsource>
-        <translation type="unfinished">XMP, IPTC-IIM bijwerken of aanmaken</translation>
+        <translation>XMP en IPTC-IIM</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="672"/>
@@ -17238,17 +17238,17 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="140"/>
         <source>Import Categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Categorieën importeren…</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="142"/>
         <source>Import Categories (XnView Classic db)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Categorieën (XnView Classic db) importeren…</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="144"/>
         <source>Export Categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Categorieën exporteren…</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="147"/>
@@ -17263,22 +17263,22 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="620"/>
         <source>Can&apos;t import XnView Classic category database</source>
-        <translation type="unfinished">Kan XnView Classic categorieën-database niet importeren</translation>
+        <translation>Kan XnView Classic categorieën-database niet importeren</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="656"/>
         <source>Problem during database import!</source>
-        <translation type="unfinished">Probleem bij het importeren van database!</translation>
+        <translation>Probleem bij het importeren van database!</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="658"/>
         <source>Category tree successfully imported into XnView categories</source>
-        <translation type="unfinished">Categorieënstructuur met succes geïmporteerd in XnView&apos;s categorieën</translation>
+        <translation>Categorieënstructuur met succes geïmporteerd in XnView categorieën</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="668"/>
         <source>Can&apos;t import XnView database</source>
-        <translation type="unfinished">Kan XnView database niet Importeren</translation>
+        <translation>Kan XnView database niet Importeren</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="703"/>
@@ -17808,17 +17808,17 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2683"/>
         <source>SubSecTime</source>
-        <translation type="unfinished"></translation>
+        <translation>SubSecTime</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2684"/>
         <source>SubSecTime Original</source>
-        <translation type="unfinished"></translation>
+        <translation>SubSecTime Original</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2685"/>
         <source>SubSecTime Digitized</source>
-        <translation type="unfinished"></translation>
+        <translation>SubSecTime Digitized</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2691"/>
@@ -19526,7 +19526,7 @@ Doorgaan?</translation>
     <message>
         <location filename="BrowserMenu.h" line="595"/>
         <source>Edit metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Metagegevens bewerken…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="597"/>
@@ -19772,7 +19772,7 @@ Doorgaan?</translation>
     <message>
         <location filename="BrowserMenu.h" line="659"/>
         <source>Edit face tag...</source>
-        <translation type="unfinished"></translation>
+        <translation>Gezichtslabel bewerken…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="662"/>
@@ -20352,7 +20352,7 @@ Doorgaan?</translation>
     <message>
         <location filename="BrowserMenu.h" line="589"/>
         <source>Edit GPS...</source>
-        <translation type="unfinished"></translation>
+        <translation>GPS bewerken…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="590"/>
