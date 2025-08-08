@@ -9695,7 +9695,7 @@ miniatură</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation>Negru</translation>
+        <translation>Neagră</translation>
     </message>
     <message>
         <source>File copying</source>
@@ -9704,12 +9704,12 @@ miniatură</translation>
     <message>
         <source>Custom</source>
         <comment>theme</comment>
-        <translation type="unfinished">Personalizat</translation>
+        <translation>Personalizată</translation>
     </message>
     <message>
         <source>Custom</source>
         <comment>icc</comment>
-        <translation type="unfinished">Personalizat</translation>
+        <translation>Personalizată</translation>
     </message>
 </context>
 <context>
