@@ -12185,6 +12185,12 @@ Miniatúru</translation>
         <translation>Čierna</translation>
     </message>
     <message>
+        <location filename="DlgSettingsGeneral.ui" line="112"/>
+        <source>Custom</source>
+        <comment>theme</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="DlgSettingsGeneral.ui" line="311"/>
         <source>Daily</source>
         <translation>Denne</translation>
@@ -12301,6 +12307,14 @@ Miniatúru</translation>
         <translation>Farebný profil</translation>
     </message>
     <message>
+        <location filename="DlgSettingsGeneral.ui" line="868"/>
+        <location filename="DlgSettingsGeneral.ui" line="930"/>
+        <location filename="DlgSettingsGeneral.ui" line="997"/>
+        <source>Custom</source>
+        <comment>icc</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="DlgSettingsGeneral.ui" line="1097"/>
         <source>Auto correct</source>
         <translation>Automatická korekcia</translation>
@@ -12386,14 +12400,6 @@ Miniatúru</translation>
         <location filename="DlgSettingsGeneral.ui" line="881"/>
         <source>System</source>
         <translation>Systémový</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsGeneral.ui" line="112"/>
-        <location filename="DlgSettingsGeneral.ui" line="868"/>
-        <location filename="DlgSettingsGeneral.ui" line="930"/>
-        <location filename="DlgSettingsGeneral.ui" line="997"/>
-        <source>Custom</source>
-        <translation>Vlastný</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="908"/>
@@ -18717,7 +18723,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <translation>Typ</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="5087"/>
+        <location filename="ItemModel.cpp" line="5090"/>
         <source>New Folder %1</source>
         <translation>Nový priečinok %1</translation>
     </message>
@@ -23401,7 +23407,7 @@ Môžete to zmeniť v Nastavenia › Katalóg.</translation>
 <context>
     <name>Rename</name>
     <message>
-        <location filename="ItemModel.cpp" line="4705"/>
+        <location filename="ItemModel.cpp" line="4708"/>
         <source>An error has occurred during renaming!</source>
         <oldsource>An error occured during renaming!</oldsource>
         <translation>Počas premenovania nastala chyba!</translation>
@@ -23410,140 +23416,146 @@ Môžete to zmeniť v Nastavenia › Katalóg.</translation>
 <context>
     <name>SearchDlg</name>
     <message>
-        <location filename="SearchField.cpp" line="429"/>
-        <location filename="SearchField.cpp" line="652"/>
+        <location filename="SearchField.cpp" line="427"/>
+        <location filename="SearchField.cpp" line="650"/>
         <source>is</source>
         <translation>je</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="430"/>
+        <location filename="SearchField.cpp" line="428"/>
         <source>is not</source>
         <translation>nie je</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="431"/>
-        <location filename="SearchField.cpp" line="550"/>
+        <location filename="SearchField.cpp" line="429"/>
+        <location filename="SearchField.cpp" line="548"/>
         <source>is any of</source>
         <translation>je akékoľvek z</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="432"/>
-        <location filename="SearchField.cpp" line="551"/>
-        <location filename="SearchField.cpp" line="650"/>
+        <location filename="SearchField.cpp" line="430"/>
+        <location filename="SearchField.cpp" line="549"/>
+        <location filename="SearchField.cpp" line="648"/>
         <source>contains</source>
         <translation>obsahuje</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="433"/>
-        <location filename="SearchField.cpp" line="651"/>
+        <location filename="SearchField.cpp" line="431"/>
+        <location filename="SearchField.cpp" line="649"/>
         <source>does not contain</source>
         <oldsource>does not contains</oldsource>
         <translation>neobsahuje</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="434"/>
+        <location filename="SearchField.cpp" line="432"/>
         <source>starts with</source>
         <translation>začína s</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="501"/>
+        <location filename="SearchField.cpp" line="499"/>
         <source>With at least one of the words</source>
         <translation>Aspoň s jedným zo slov</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="503"/>
+        <location filename="SearchField.cpp" line="501"/>
         <source>With all of the words</source>
         <translation>So všetkými slovami</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="505"/>
+        <location filename="SearchField.cpp" line="503"/>
         <source>With the exact phrase</source>
         <translation>S presným slovným spojením</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="508"/>
+        <location filename="SearchField.cpp" line="506"/>
         <source>Whole word only</source>
         <translation>Iba celé slovo</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="796"/>
+        <location filename="SearchField.cpp" line="794"/>
         <source>and</source>
         <translation>a</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="887"/>
+        <location filename="SearchField.cpp" line="885"/>
         <source>is before</source>
         <translation>je pred</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="888"/>
+        <location filename="SearchField.cpp" line="886"/>
         <source>is after</source>
         <translation>je za</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="889"/>
+        <location filename="SearchField.cpp" line="887"/>
         <source>is between</source>
         <translation>je medzi</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="949"/>
-        <location filename="SearchField.cpp" line="1078"/>
-        <location filename="SearchField.cpp" line="1163"/>
+        <location filename="SearchField.cpp" line="947"/>
+        <location filename="SearchField.cpp" line="1076"/>
+        <location filename="SearchField.cpp" line="1135"/>
+        <location filename="SearchField.cpp" line="1204"/>
         <source>is less than</source>
         <translation>je menej ako</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="950"/>
-        <location filename="SearchField.cpp" line="1079"/>
-        <location filename="SearchField.cpp" line="1164"/>
+        <location filename="SearchField.cpp" line="948"/>
+        <location filename="SearchField.cpp" line="1077"/>
+        <location filename="SearchField.cpp" line="1136"/>
+        <location filename="SearchField.cpp" line="1205"/>
         <source>is less than or equal to</source>
         <translation>je menej alebo sa rovná</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="951"/>
-        <location filename="SearchField.cpp" line="1080"/>
-        <location filename="SearchField.cpp" line="1165"/>
+        <location filename="SearchField.cpp" line="949"/>
+        <location filename="SearchField.cpp" line="1078"/>
+        <location filename="SearchField.cpp" line="1137"/>
+        <location filename="SearchField.cpp" line="1206"/>
         <source>equal to</source>
         <translation>rovná sa</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="952"/>
-        <location filename="SearchField.cpp" line="1081"/>
-        <location filename="SearchField.cpp" line="1166"/>
+        <location filename="SearchField.cpp" line="950"/>
+        <location filename="SearchField.cpp" line="1079"/>
+        <location filename="SearchField.cpp" line="1138"/>
+        <location filename="SearchField.cpp" line="1207"/>
         <source>is greater than</source>
         <translation>je viac ako</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="953"/>
-        <location filename="SearchField.cpp" line="1082"/>
-        <location filename="SearchField.cpp" line="1167"/>
+        <location filename="SearchField.cpp" line="951"/>
+        <location filename="SearchField.cpp" line="1080"/>
+        <location filename="SearchField.cpp" line="1139"/>
+        <location filename="SearchField.cpp" line="1208"/>
         <source>is greater than or equal to</source>
         <translation>je viac alebo sa rovná</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="954"/>
-        <location filename="SearchField.cpp" line="1083"/>
-        <location filename="SearchField.cpp" line="1168"/>
+        <location filename="SearchField.cpp" line="952"/>
+        <location filename="SearchField.cpp" line="1081"/>
+        <location filename="SearchField.cpp" line="1140"/>
+        <location filename="SearchField.cpp" line="1209"/>
         <source>between</source>
         <translation>medzi</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1008"/>
+        <location filename="SearchField.cpp" line="1006"/>
         <source>bytes</source>
         <translation>bajtov</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1009"/>
+        <location filename="SearchField.cpp" line="1007"/>
         <source>KiB</source>
         <translation>KiB</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1010"/>
+        <location filename="SearchField.cpp" line="1008"/>
         <source>MiB</source>
         <translation>MiB</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1011"/>
+        <location filename="SearchField.cpp" line="1009"/>
         <source>GiB</source>
         <translation>GiB</translation>
     </message>

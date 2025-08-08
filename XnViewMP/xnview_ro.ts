@@ -9466,10 +9466,6 @@ miniatură</translation>
         <translation>Întotdeauna</translation>
     </message>
     <message>
-        <source>Custom</source>
-        <translation>Personalizat</translation>
-    </message>
-    <message>
         <source>Make backup for lossless flip/rotation</source>
         <translation>Fă o copie de rezervă pentru răsturnare/rotire fără pierderi</translation>
     </message>
@@ -9704,6 +9700,16 @@ miniatură</translation>
     <message>
         <source>File copying</source>
         <translation>Se copiază fișierele</translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <comment>theme</comment>
+        <translation type="unfinished">Personalizat</translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <comment>icc</comment>
+        <translation type="unfinished">Personalizat</translation>
     </message>
 </context>
 <context>

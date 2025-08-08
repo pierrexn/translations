@@ -12167,6 +12167,12 @@ miniatyr</translation>
         <translation>Svart</translation>
     </message>
     <message>
+        <location filename="DlgSettingsGeneral.ui" line="112"/>
+        <source>Custom</source>
+        <comment>theme</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="DlgSettingsGeneral.ui" line="311"/>
         <source>Daily</source>
         <translation>Dagligen</translation>
@@ -12288,6 +12294,14 @@ miniatyr</translation>
         <translation>Färghantering</translation>
     </message>
     <message>
+        <location filename="DlgSettingsGeneral.ui" line="868"/>
+        <location filename="DlgSettingsGeneral.ui" line="930"/>
+        <location filename="DlgSettingsGeneral.ui" line="997"/>
+        <source>Custom</source>
+        <comment>icc</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="DlgSettingsGeneral.ui" line="1097"/>
         <source>Auto correct</source>
         <translation>Autokorrigera</translation>
@@ -12373,14 +12387,6 @@ miniatyr</translation>
         <location filename="DlgSettingsGeneral.ui" line="881"/>
         <source>System</source>
         <translation>System</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsGeneral.ui" line="112"/>
-        <location filename="DlgSettingsGeneral.ui" line="868"/>
-        <location filename="DlgSettingsGeneral.ui" line="930"/>
-        <location filename="DlgSettingsGeneral.ui" line="997"/>
-        <source>Custom</source>
-        <translation>Anpassat</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="908"/>
@@ -18704,7 +18710,7 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
         <translation>Typ</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="5087"/>
+        <location filename="ItemModel.cpp" line="5090"/>
         <source>New Folder %1</source>
         <translation>Ny mapp %1</translation>
     </message>
@@ -23384,7 +23390,7 @@ Du kan ändra det i &quot;Inställningar › Katalog&quot;.</translation>
 <context>
     <name>Rename</name>
     <message>
-        <location filename="ItemModel.cpp" line="4705"/>
+        <location filename="ItemModel.cpp" line="4708"/>
         <source>An error has occurred during renaming!</source>
         <oldsource>An error occured during renaming!</oldsource>
         <translation>Ett fel inträffade vid namnbyte!</translation>
@@ -23393,140 +23399,146 @@ Du kan ändra det i &quot;Inställningar › Katalog&quot;.</translation>
 <context>
     <name>SearchDlg</name>
     <message>
-        <location filename="SearchField.cpp" line="429"/>
-        <location filename="SearchField.cpp" line="652"/>
+        <location filename="SearchField.cpp" line="427"/>
+        <location filename="SearchField.cpp" line="650"/>
         <source>is</source>
         <translation>är</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="430"/>
+        <location filename="SearchField.cpp" line="428"/>
         <source>is not</source>
         <translation>är inte</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="431"/>
-        <location filename="SearchField.cpp" line="550"/>
+        <location filename="SearchField.cpp" line="429"/>
+        <location filename="SearchField.cpp" line="548"/>
         <source>is any of</source>
         <translation>är något av</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="432"/>
-        <location filename="SearchField.cpp" line="551"/>
-        <location filename="SearchField.cpp" line="650"/>
+        <location filename="SearchField.cpp" line="430"/>
+        <location filename="SearchField.cpp" line="549"/>
+        <location filename="SearchField.cpp" line="648"/>
         <source>contains</source>
         <translation>innehåller</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="433"/>
-        <location filename="SearchField.cpp" line="651"/>
+        <location filename="SearchField.cpp" line="431"/>
+        <location filename="SearchField.cpp" line="649"/>
         <source>does not contain</source>
         <oldsource>does not contains</oldsource>
         <translation>innehåller inte</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="434"/>
+        <location filename="SearchField.cpp" line="432"/>
         <source>starts with</source>
         <translation>börjar med</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="501"/>
+        <location filename="SearchField.cpp" line="499"/>
         <source>With at least one of the words</source>
         <translation>Med åtminstone ett av orden</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="503"/>
+        <location filename="SearchField.cpp" line="501"/>
         <source>With all of the words</source>
         <translation>Med samtliga ord</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="505"/>
+        <location filename="SearchField.cpp" line="503"/>
         <source>With the exact phrase</source>
         <translation>Med den exakta frasen</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="508"/>
+        <location filename="SearchField.cpp" line="506"/>
         <source>Whole word only</source>
         <translation>Endast hela ord</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="796"/>
+        <location filename="SearchField.cpp" line="794"/>
         <source>and</source>
         <translation>och</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="887"/>
+        <location filename="SearchField.cpp" line="885"/>
         <source>is before</source>
         <translation>ligger före</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="888"/>
+        <location filename="SearchField.cpp" line="886"/>
         <source>is after</source>
         <translation>ligger efter</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="889"/>
+        <location filename="SearchField.cpp" line="887"/>
         <source>is between</source>
         <translation>ligger mellan</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="949"/>
-        <location filename="SearchField.cpp" line="1078"/>
-        <location filename="SearchField.cpp" line="1163"/>
+        <location filename="SearchField.cpp" line="947"/>
+        <location filename="SearchField.cpp" line="1076"/>
+        <location filename="SearchField.cpp" line="1135"/>
+        <location filename="SearchField.cpp" line="1204"/>
         <source>is less than</source>
         <translation>är mindre än</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="950"/>
-        <location filename="SearchField.cpp" line="1079"/>
-        <location filename="SearchField.cpp" line="1164"/>
+        <location filename="SearchField.cpp" line="948"/>
+        <location filename="SearchField.cpp" line="1077"/>
+        <location filename="SearchField.cpp" line="1136"/>
+        <location filename="SearchField.cpp" line="1205"/>
         <source>is less than or equal to</source>
         <translation>är mindre eller lika med</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="951"/>
-        <location filename="SearchField.cpp" line="1080"/>
-        <location filename="SearchField.cpp" line="1165"/>
+        <location filename="SearchField.cpp" line="949"/>
+        <location filename="SearchField.cpp" line="1078"/>
+        <location filename="SearchField.cpp" line="1137"/>
+        <location filename="SearchField.cpp" line="1206"/>
         <source>equal to</source>
         <translation>är lika med</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="952"/>
-        <location filename="SearchField.cpp" line="1081"/>
-        <location filename="SearchField.cpp" line="1166"/>
+        <location filename="SearchField.cpp" line="950"/>
+        <location filename="SearchField.cpp" line="1079"/>
+        <location filename="SearchField.cpp" line="1138"/>
+        <location filename="SearchField.cpp" line="1207"/>
         <source>is greater than</source>
         <translation>är större än</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="953"/>
-        <location filename="SearchField.cpp" line="1082"/>
-        <location filename="SearchField.cpp" line="1167"/>
+        <location filename="SearchField.cpp" line="951"/>
+        <location filename="SearchField.cpp" line="1080"/>
+        <location filename="SearchField.cpp" line="1139"/>
+        <location filename="SearchField.cpp" line="1208"/>
         <source>is greater than or equal to</source>
         <translation>är större eller lika med</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="954"/>
-        <location filename="SearchField.cpp" line="1083"/>
-        <location filename="SearchField.cpp" line="1168"/>
+        <location filename="SearchField.cpp" line="952"/>
+        <location filename="SearchField.cpp" line="1081"/>
+        <location filename="SearchField.cpp" line="1140"/>
+        <location filename="SearchField.cpp" line="1209"/>
         <source>between</source>
         <translation>mellan</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1008"/>
+        <location filename="SearchField.cpp" line="1006"/>
         <source>bytes</source>
         <translation>byte</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1009"/>
+        <location filename="SearchField.cpp" line="1007"/>
         <source>KiB</source>
         <translation>KiB</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1010"/>
+        <location filename="SearchField.cpp" line="1008"/>
         <source>MiB</source>
         <translation>MiB</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1011"/>
+        <location filename="SearchField.cpp" line="1009"/>
         <source>GiB</source>
         <translation>GiB</translation>
     </message>

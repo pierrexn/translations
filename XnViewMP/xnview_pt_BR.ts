@@ -9372,10 +9372,6 @@ Thumbnail</source>
         <translation>Sistema</translation>
     </message>
     <message>
-        <source>Custom</source>
-        <translation>Personalizado</translation>
-    </message>
-    <message>
         <source>Show all graphic formats</source>
         <translation>Mostrar todos os formatos gráficos</translation>
     </message>
@@ -9642,6 +9638,16 @@ Thumbnail</source>
     <message>
         <source>File copying</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <comment>theme</comment>
+        <translation type="unfinished">Personalizado</translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <comment>icc</comment>
+        <translation type="unfinished">Personalizado</translation>
     </message>
 </context>
 <context>

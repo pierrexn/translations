@@ -9446,10 +9446,6 @@ miniatura</translation>
         <translation>Siempre</translation>
     </message>
     <message>
-        <source>Custom</source>
-        <translation>Personalizado</translation>
-    </message>
-    <message>
         <source>Make backup for lossless flip/rotation</source>
         <translation>Hacer copia de seguridad para voltear/girar sin pérdidas</translation>
     </message>
@@ -9688,6 +9684,16 @@ miniatura</translation>
     <message>
         <source>File copying</source>
         <translation>Copia de archivos</translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <comment>theme</comment>
+        <translation type="unfinished">Personalizado</translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <comment>icc</comment>
+        <translation type="unfinished">Personalizado</translation>
     </message>
 </context>
 <context>

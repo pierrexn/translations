@@ -11879,6 +11879,12 @@ Thumbnail</source>
         <translation type="unfinished">Black</translation>
     </message>
     <message>
+        <location filename="DlgSettingsGeneral.ui" line="112"/>
+        <source>Custom</source>
+        <comment>theme</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="DlgSettingsGeneral.ui" line="151"/>
         <source>Show all graphic formats</source>
         <translation type="unfinished"></translation>
@@ -12122,6 +12128,14 @@ Thumbnail</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="DlgSettingsGeneral.ui" line="868"/>
+        <location filename="DlgSettingsGeneral.ui" line="930"/>
+        <location filename="DlgSettingsGeneral.ui" line="997"/>
+        <source>Custom</source>
+        <comment>icc</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="DlgSettingsGeneral.ui" line="674"/>
         <source>&lt;Filename&gt;-Copy (#)</source>
         <translation type="unfinished"></translation>
@@ -12200,14 +12214,6 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="837"/>
         <source>Use ICC profile for monitor (slower)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsGeneral.ui" line="112"/>
-        <location filename="DlgSettingsGeneral.ui" line="868"/>
-        <location filename="DlgSettingsGeneral.ui" line="930"/>
-        <location filename="DlgSettingsGeneral.ui" line="997"/>
-        <source>Custom</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18511,7 +18517,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="5087"/>
+        <location filename="ItemModel.cpp" line="5090"/>
         <source>New Folder %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -23118,7 +23124,7 @@ You can change it in Settings › Catalog.</oldsource>
 <context>
     <name>Rename</name>
     <message>
-        <location filename="ItemModel.cpp" line="4705"/>
+        <location filename="ItemModel.cpp" line="4708"/>
         <source>An error has occurred during renaming!</source>
         <translation type="unfinished"></translation>
     </message>
@@ -23126,139 +23132,145 @@ You can change it in Settings › Catalog.</oldsource>
 <context>
     <name>SearchDlg</name>
     <message>
-        <location filename="SearchField.cpp" line="429"/>
-        <location filename="SearchField.cpp" line="652"/>
+        <location filename="SearchField.cpp" line="427"/>
+        <location filename="SearchField.cpp" line="650"/>
         <source>is</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="430"/>
+        <location filename="SearchField.cpp" line="428"/>
         <source>is not</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="431"/>
-        <location filename="SearchField.cpp" line="550"/>
+        <location filename="SearchField.cpp" line="429"/>
+        <location filename="SearchField.cpp" line="548"/>
         <source>is any of</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="432"/>
-        <location filename="SearchField.cpp" line="551"/>
-        <location filename="SearchField.cpp" line="650"/>
+        <location filename="SearchField.cpp" line="430"/>
+        <location filename="SearchField.cpp" line="549"/>
+        <location filename="SearchField.cpp" line="648"/>
         <source>contains</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="433"/>
-        <location filename="SearchField.cpp" line="651"/>
+        <location filename="SearchField.cpp" line="431"/>
+        <location filename="SearchField.cpp" line="649"/>
         <source>does not contain</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="434"/>
+        <location filename="SearchField.cpp" line="432"/>
         <source>starts with</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="501"/>
+        <location filename="SearchField.cpp" line="499"/>
         <source>With at least one of the words</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="503"/>
+        <location filename="SearchField.cpp" line="501"/>
         <source>With all of the words</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="505"/>
+        <location filename="SearchField.cpp" line="503"/>
         <source>With the exact phrase</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="508"/>
+        <location filename="SearchField.cpp" line="506"/>
         <source>Whole word only</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="796"/>
+        <location filename="SearchField.cpp" line="794"/>
         <source>and</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="887"/>
+        <location filename="SearchField.cpp" line="885"/>
         <source>is before</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="888"/>
+        <location filename="SearchField.cpp" line="886"/>
         <source>is after</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="889"/>
+        <location filename="SearchField.cpp" line="887"/>
         <source>is between</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="SearchField.cpp" line="947"/>
+        <location filename="SearchField.cpp" line="1076"/>
+        <location filename="SearchField.cpp" line="1135"/>
+        <location filename="SearchField.cpp" line="1204"/>
+        <source>is less than</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="SearchField.cpp" line="948"/>
+        <location filename="SearchField.cpp" line="1077"/>
+        <location filename="SearchField.cpp" line="1136"/>
+        <location filename="SearchField.cpp" line="1205"/>
+        <source>is less than or equal to</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="949"/>
         <location filename="SearchField.cpp" line="1078"/>
-        <location filename="SearchField.cpp" line="1163"/>
-        <source>is less than</source>
+        <location filename="SearchField.cpp" line="1137"/>
+        <location filename="SearchField.cpp" line="1206"/>
+        <source>equal to</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="950"/>
         <location filename="SearchField.cpp" line="1079"/>
-        <location filename="SearchField.cpp" line="1164"/>
-        <source>is less than or equal to</source>
+        <location filename="SearchField.cpp" line="1138"/>
+        <location filename="SearchField.cpp" line="1207"/>
+        <source>is greater than</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="951"/>
         <location filename="SearchField.cpp" line="1080"/>
-        <location filename="SearchField.cpp" line="1165"/>
-        <source>equal to</source>
+        <location filename="SearchField.cpp" line="1139"/>
+        <location filename="SearchField.cpp" line="1208"/>
+        <source>is greater than or equal to</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="952"/>
         <location filename="SearchField.cpp" line="1081"/>
-        <location filename="SearchField.cpp" line="1166"/>
-        <source>is greater than</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="SearchField.cpp" line="953"/>
-        <location filename="SearchField.cpp" line="1082"/>
-        <location filename="SearchField.cpp" line="1167"/>
-        <source>is greater than or equal to</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="SearchField.cpp" line="954"/>
-        <location filename="SearchField.cpp" line="1083"/>
-        <location filename="SearchField.cpp" line="1168"/>
+        <location filename="SearchField.cpp" line="1140"/>
+        <location filename="SearchField.cpp" line="1209"/>
         <source>between</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1008"/>
+        <location filename="SearchField.cpp" line="1006"/>
         <source>bytes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1009"/>
+        <location filename="SearchField.cpp" line="1007"/>
         <source>KiB</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1010"/>
+        <location filename="SearchField.cpp" line="1008"/>
         <source>MiB</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1011"/>
+        <location filename="SearchField.cpp" line="1009"/>
         <source>GiB</source>
         <translation type="unfinished"></translation>
     </message>

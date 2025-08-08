@@ -12015,6 +12015,12 @@ Thumbnail</source>
         <translation>검정</translation>
     </message>
     <message>
+        <location filename="DlgSettingsGeneral.ui" line="112"/>
+        <source>Custom</source>
+        <comment>theme</comment>
+        <translation type="unfinished">사용자 정의</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsGeneral.ui" line="274"/>
         <source>Reset all confirm prompts</source>
         <translation>전체 확인 프롬프트 초기화</translation>
@@ -12161,6 +12167,14 @@ Thumbnail</source>
         <translation>색상 관리</translation>
     </message>
     <message>
+        <location filename="DlgSettingsGeneral.ui" line="868"/>
+        <location filename="DlgSettingsGeneral.ui" line="930"/>
+        <location filename="DlgSettingsGeneral.ui" line="997"/>
+        <source>Custom</source>
+        <comment>icc</comment>
+        <translation type="unfinished">사용자 정의</translation>
+    </message>
+    <message>
         <location filename="DlgSettingsGeneral.ui" line="1097"/>
         <source>Auto correct</source>
         <translation>자동 교정</translation>
@@ -12240,14 +12254,6 @@ Thumbnail</source>
         <location filename="DlgSettingsGeneral.ui" line="881"/>
         <source>System</source>
         <translation>시스템</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsGeneral.ui" line="112"/>
-        <location filename="DlgSettingsGeneral.ui" line="868"/>
-        <location filename="DlgSettingsGeneral.ui" line="930"/>
-        <location filename="DlgSettingsGeneral.ui" line="997"/>
-        <source>Custom</source>
-        <translation>사용자 정의</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="1073"/>
@@ -18641,7 +18647,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>종류</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="5087"/>
+        <location filename="ItemModel.cpp" line="5090"/>
         <source>New Folder %1</source>
         <translation>새 폴더 %1</translation>
     </message>
@@ -23294,7 +23300,7 @@ You can change it in Settings › Catalog.</oldsource>
 <context>
     <name>Rename</name>
     <message>
-        <location filename="ItemModel.cpp" line="4705"/>
+        <location filename="ItemModel.cpp" line="4708"/>
         <source>An error has occurred during renaming!</source>
         <oldsource>An error occured during renaming!</oldsource>
         <translation>파일 이름 변경 중에 오류가 발생했습니다!</translation>
@@ -23303,140 +23309,146 @@ You can change it in Settings › Catalog.</oldsource>
 <context>
     <name>SearchDlg</name>
     <message>
-        <location filename="SearchField.cpp" line="429"/>
-        <location filename="SearchField.cpp" line="652"/>
+        <location filename="SearchField.cpp" line="427"/>
+        <location filename="SearchField.cpp" line="650"/>
         <source>is</source>
         <translation>인 경우</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="430"/>
+        <location filename="SearchField.cpp" line="428"/>
         <source>is not</source>
         <translation>이 아닌 경우</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="431"/>
-        <location filename="SearchField.cpp" line="550"/>
+        <location filename="SearchField.cpp" line="429"/>
+        <location filename="SearchField.cpp" line="548"/>
         <source>is any of</source>
         <translation>모두</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="432"/>
-        <location filename="SearchField.cpp" line="551"/>
-        <location filename="SearchField.cpp" line="650"/>
+        <location filename="SearchField.cpp" line="430"/>
+        <location filename="SearchField.cpp" line="549"/>
+        <location filename="SearchField.cpp" line="648"/>
         <source>contains</source>
         <translation>포함</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="433"/>
-        <location filename="SearchField.cpp" line="651"/>
+        <location filename="SearchField.cpp" line="431"/>
+        <location filename="SearchField.cpp" line="649"/>
         <source>does not contain</source>
         <oldsource>does not contains</oldsource>
         <translation>포함하지 않음</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="434"/>
+        <location filename="SearchField.cpp" line="432"/>
         <source>starts with</source>
         <translation>시작</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="501"/>
+        <location filename="SearchField.cpp" line="499"/>
         <source>With at least one of the words</source>
         <translation>최소한 하나 이상의 단어로</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="503"/>
+        <location filename="SearchField.cpp" line="501"/>
         <source>With all of the words</source>
         <translation>모든 단어로</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="505"/>
+        <location filename="SearchField.cpp" line="503"/>
         <source>With the exact phrase</source>
         <translation>정확한 구문으로</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="508"/>
+        <location filename="SearchField.cpp" line="506"/>
         <source>Whole word only</source>
         <translation>단어 단위로</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="796"/>
+        <location filename="SearchField.cpp" line="794"/>
         <source>and</source>
         <translation>에서</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="887"/>
+        <location filename="SearchField.cpp" line="885"/>
         <source>is before</source>
         <translation>이전</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="888"/>
+        <location filename="SearchField.cpp" line="886"/>
         <source>is after</source>
         <translation>이후</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="889"/>
+        <location filename="SearchField.cpp" line="887"/>
         <source>is between</source>
         <translation>사이</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="949"/>
-        <location filename="SearchField.cpp" line="1078"/>
-        <location filename="SearchField.cpp" line="1163"/>
+        <location filename="SearchField.cpp" line="947"/>
+        <location filename="SearchField.cpp" line="1076"/>
+        <location filename="SearchField.cpp" line="1135"/>
+        <location filename="SearchField.cpp" line="1204"/>
         <source>is less than</source>
         <translation>보다 작음</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="950"/>
-        <location filename="SearchField.cpp" line="1079"/>
-        <location filename="SearchField.cpp" line="1164"/>
+        <location filename="SearchField.cpp" line="948"/>
+        <location filename="SearchField.cpp" line="1077"/>
+        <location filename="SearchField.cpp" line="1136"/>
+        <location filename="SearchField.cpp" line="1205"/>
         <source>is less than or equal to</source>
         <translation>미만 또는 동일</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="951"/>
-        <location filename="SearchField.cpp" line="1080"/>
-        <location filename="SearchField.cpp" line="1165"/>
+        <location filename="SearchField.cpp" line="949"/>
+        <location filename="SearchField.cpp" line="1078"/>
+        <location filename="SearchField.cpp" line="1137"/>
+        <location filename="SearchField.cpp" line="1206"/>
         <source>equal to</source>
         <translation>동일</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="952"/>
-        <location filename="SearchField.cpp" line="1081"/>
-        <location filename="SearchField.cpp" line="1166"/>
+        <location filename="SearchField.cpp" line="950"/>
+        <location filename="SearchField.cpp" line="1079"/>
+        <location filename="SearchField.cpp" line="1138"/>
+        <location filename="SearchField.cpp" line="1207"/>
         <source>is greater than</source>
         <translation>보다 더 큼</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="953"/>
-        <location filename="SearchField.cpp" line="1082"/>
-        <location filename="SearchField.cpp" line="1167"/>
+        <location filename="SearchField.cpp" line="951"/>
+        <location filename="SearchField.cpp" line="1080"/>
+        <location filename="SearchField.cpp" line="1139"/>
+        <location filename="SearchField.cpp" line="1208"/>
         <source>is greater than or equal to</source>
         <translation>초과 또는 동일</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="954"/>
-        <location filename="SearchField.cpp" line="1083"/>
-        <location filename="SearchField.cpp" line="1168"/>
+        <location filename="SearchField.cpp" line="952"/>
+        <location filename="SearchField.cpp" line="1081"/>
+        <location filename="SearchField.cpp" line="1140"/>
+        <location filename="SearchField.cpp" line="1209"/>
         <source>between</source>
         <translation>범위</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1008"/>
+        <location filename="SearchField.cpp" line="1006"/>
         <source>bytes</source>
         <translation>바이트</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1009"/>
+        <location filename="SearchField.cpp" line="1007"/>
         <source>KiB</source>
         <translation>KiB</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1010"/>
+        <location filename="SearchField.cpp" line="1008"/>
         <source>MiB</source>
         <translation>MiB</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1011"/>
+        <location filename="SearchField.cpp" line="1009"/>
         <source>GiB</source>
         <translation>GiB</translation>
     </message>

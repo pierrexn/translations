@@ -9455,10 +9455,6 @@ pienoiskuvina</translation>
         <translation>Aina</translation>
     </message>
     <message>
-        <source>Custom</source>
-        <translation>Mukautettu</translation>
-    </message>
-    <message>
         <source>Make backup for lossless flip/rotation</source>
         <translation>Luo kopio häviöttomälle peilikuva/käännä-toiminnolle</translation>
     </message>
@@ -9693,6 +9689,16 @@ pienoiskuvina</translation>
     <message>
         <source>File copying</source>
         <translation>Tiedoston kopiointi</translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <comment>theme</comment>
+        <translation type="unfinished">Mukautettu</translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <comment>icc</comment>
+        <translation type="unfinished">Mukautettu</translation>
     </message>
 </context>
 <context>

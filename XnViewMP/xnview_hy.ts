@@ -9389,10 +9389,6 @@ Thumbnail</source>
         <translation>Փոփոխման մեթոդ.</translation>
     </message>
     <message>
-        <source>Custom</source>
-        <translation>Ընտրել</translation>
-    </message>
-    <message>
         <source>System</source>
         <translation>Համակարգը</translation>
     </message>
@@ -9687,6 +9683,16 @@ Thumbnail</source>
     <message>
         <source>File copying</source>
         <translation>Ֆայլի պատճենում</translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <comment>theme</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <comment>icc</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
