@@ -11383,7 +11383,7 @@ El szeretné őket távolítani?</translation>
     <message>
         <location filename="DlgSettingsCache.cpp" line="150"/>
         <source>Database [catalog: %1 %2 - thumbnails: %3 %4]</source>
-        <translation type="unfinished"></translation>
+        <translation>Adatbázis [katalógus: %1 %2 - miniatűrök: %3 %4]</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="262"/>
@@ -12276,7 +12276,7 @@ miniatűrként</translation>
         <location filename="DlgSettingsGeneral.ui" line="112"/>
         <source>Custom</source>
         <comment>theme</comment>
-        <translation type="unfinished">Egyéni</translation>
+        <translation>Egyéni</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="679"/>
@@ -12334,7 +12334,7 @@ miniatűrként</translation>
         <location filename="DlgSettingsGeneral.ui" line="997"/>
         <source>Custom</source>
         <comment>icc</comment>
-        <translation type="unfinished">Egyéni</translation>
+        <translation>Egyéni</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="881"/>
