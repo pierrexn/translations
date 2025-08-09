@@ -1982,12 +1982,12 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="139"/>
         <source>No rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Brez ocene</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="140"/>
         <source>No colour label</source>
-        <translation type="unfinished"></translation>
+        <translation>Brez barvne oznake</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="141"/>
@@ -3589,11 +3589,11 @@ Ali jo želite prepisati?</translation>
     <message numerus="yes">
         <location filename="DlgContactSheet.cpp" line="462"/>
         <source>File list (%n)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Seznam datotek (%n)</numerusform>
+            <numerusform>Seznam datotek (%n)</numerusform>
+            <numerusform>Seznam datotek (%n)</numerusform>
+            <numerusform>Seznam datotek (%n)</numerusform>
         </translation>
     </message>
 </context>
@@ -7329,7 +7329,7 @@ Prepričajte se, da datoteke niso samo za branje!</translation>
         <location filename="DlgEditXMP.cpp" line="420"/>
         <location filename="DlgEditXMP.cpp" line="447"/>
         <source>Modifying files, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Spreminjanje datotek, prosimo počakajte...</translation>
     </message>
 </context>
 <context>
@@ -8893,7 +8893,7 @@ Ustvarjene bodo podmape. </translation>
         <location filename="DlgIptc.cpp" line="1698"/>
         <location filename="DlgIptc.cpp" line="1746"/>
         <source>Modifying files, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Spreminjanje datotek, prosimo počakajte...</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="52"/>
@@ -11188,7 +11188,7 @@ Ali jih želite odstraniti?</translation>
     <message>
         <location filename="DlgSettings.cpp" line="357"/>
         <source>The changes will be applied after restarting the application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spremembe bodo uporabljene po ponovnem zagonu aplikacije.</translation>
     </message>
     <message>
         <location filename="DlgSettings.cpp" line="360"/>
@@ -11437,7 +11437,7 @@ Ali jih želite odstraniti?</translation>
     <message>
         <location filename="DlgSettingsCache.cpp" line="150"/>
         <source>Database [catalog: %1 %2 - thumbnails: %3 %4]</source>
-        <translation type="unfinished"></translation>
+        <translation>Zbirka podatkov [katalog: %1 %2 - sličice: %3 %4]</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="262"/>
@@ -12151,7 +12151,7 @@ sličico</translation>
         <location filename="DlgSettingsGeneral.ui" line="112"/>
         <source>Custom</source>
         <comment>theme</comment>
-        <translation type="unfinished">Po meri</translation>
+        <translation>Po meri</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="402"/>
@@ -12250,7 +12250,7 @@ sličico</translation>
         <location filename="DlgSettingsGeneral.ui" line="997"/>
         <source>Custom</source>
         <comment>icc</comment>
-        <translation type="unfinished">Po meri</translation>
+        <translation>Po meri</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="1097"/>
@@ -15165,7 +15165,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgTransfer.cpp" line="243"/>
         <source>Write</source>
-        <translation type="unfinished"></translation>
+        <translation>Napiši</translation>
     </message>
 </context>
 <context>
@@ -16158,7 +16158,7 @@ Do you want to continue?</source>
         <location filename="EditXMPWidget.ui" line="643"/>
         <source>XMP and IPTC-IIM</source>
         <oldsource>XMP, update or create IPTC-IIM</oldsource>
-        <translation type="unfinished">XMP, posodobite ali ustvarite IPTC-IIM</translation>
+        <translation>XMP in IPTC-IIM</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="672"/>
@@ -17276,17 +17276,17 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="140"/>
         <source>Import Categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Uvozi kategorije...</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="142"/>
         <source>Import Categories (XnView Classic db)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Uvozi kategorije (XnView Classic baza podatkov)...</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="144"/>
         <source>Export Categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvozi kategorije...</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="147"/>
@@ -17301,22 +17301,22 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="620"/>
         <source>Can&apos;t import XnView Classic category database</source>
-        <translation type="unfinished">Ni mogoče uvoziti baze podatkov kategorij XnView Classic</translation>
+        <translation>Ni mogoče uvoziti baze podatkov kategorij XnView Classic</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="656"/>
         <source>Problem during database import!</source>
-        <translation type="unfinished">Težava med uvozom zbirke podatkov!</translation>
+        <translation>Težava med uvozom zbirke podatkov!</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="658"/>
         <source>Category tree successfully imported into XnView categories</source>
-        <translation type="unfinished">Drevo kategorij je uspešno uvoženo v kategorije XnView</translation>
+        <translation>Drevo kategorij je uspešno uvoženo v kategorije XnView</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="668"/>
         <source>Can&apos;t import XnView database</source>
-        <translation type="unfinished">Ne morem uvoziti XnView baze podatkov</translation>
+        <translation>Ne morem uvoziti XnView baze podatkov</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="703"/>
@@ -17846,17 +17846,17 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2683"/>
         <source>SubSecTime</source>
-        <translation type="unfinished"></translation>
+        <translation>Podsekundni čas</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2684"/>
         <source>SubSecTime Original</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvirnik podsekundnega časa</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2685"/>
         <source>SubSecTime Digitized</source>
-        <translation type="unfinished"></translation>
+        <translation>Podsekundni čas digitaliziran</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2691"/>
@@ -19788,7 +19788,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="659"/>
         <source>Edit face tag...</source>
-        <translation type="unfinished"></translation>
+        <translation>Uredi oznako obraza...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="662"/>
@@ -20455,7 +20455,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="589"/>
         <source>Edit GPS...</source>
-        <translation type="unfinished"></translation>
+        <translation>Uredi GPS...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="590"/>
@@ -20486,7 +20486,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="595"/>
         <source>Edit metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Uredi metapodatke...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="596"/>
