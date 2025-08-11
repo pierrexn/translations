@@ -128,7 +128,7 @@
     </message>
     <message>
         <source>Formats in reading: %1 | Formats in writing: %2</source>
-        <translation>Formate în citire: %1 | Formate în scris: %2</translation>
+        <translation>Formate în citire: %1 | Formate în scriere: %2</translation>
     </message>
     <message>
         <source>License</source>
@@ -2139,7 +2139,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>has read-only attribute, and can&apos;t be overwritten!</source>
-        <translation>are atribut numai pentru citire și nu poate fi suprascris!</translation>
+        <translation>are atribut numai în citire și nu poate fi suprascris!</translation>
     </message>
     <message>
         <source>Error(s):</source>
@@ -2195,7 +2195,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>First letters uppercase</source>
-        <translation>Primele litere mari</translation>
+        <translation>Primele litere să fie mari</translation>
     </message>
     <message>
         <source>Resample</source>
@@ -2634,7 +2634,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Letter (8.5x11 inch)</source>
-        <translation>Scrisoare (8,5x11 inchi)</translation>
+        <translation>Scrisoare (Letter) (8,5x11 inci)</translation>
     </message>
     <message>
         <source>9x12 inch</source>
@@ -2770,7 +2770,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Open Browser</source>
-        <translation>Deschide Browser</translation>
+        <translation>Deschide navigatorul</translation>
     </message>
     <message>
         <source>Spacing (pixels)</source>
@@ -2977,7 +2977,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>has read-only attribute, and can&apos;t be overwritten!</source>
-        <translation>are atribut numai pentru citire și nu poate fi suprascris!</translation>
+        <translation>are atribut numai în citire și nu poate fi suprascris!</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -3744,7 +3744,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Open in Browser</source>
-        <translation>Deschis în browser</translation>
+        <translation>Deschide în navigator</translation>
     </message>
     <message>
         <source>Status</source>
@@ -3916,7 +3916,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>First letters uppercase</source>
-        <translation>Primele litere mari</translation>
+        <translation>Primele litere să fie mari</translation>
     </message>
     <message>
         <source>You can drag&amp;drop your files on the list below.</source>
@@ -7124,7 +7124,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Remember opened tab</source>
-        <translation>Ține minte fila deschisă</translation>
+        <translation>Reține fila deschisă</translation>
     </message>
     <message>
         <source>Don&apos;t load field values</source>
@@ -7319,7 +7319,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Remove</source>
-        <translation>Elimina</translation>
+        <translation>Elimină</translation>
     </message>
     <message>
         <source>Select all</source>
@@ -7496,7 +7496,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Single - Custom</source>
-        <translation>Singur - Personalizat</translation>
+        <translation>O singură imagine - Personalizat</translation>
     </message>
     <message>
         <source>Pages</source>
@@ -7528,7 +7528,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Single - Stretch to page</source>
-        <translation>Singur - Întinde pe toată pagina</translation>
+        <translation>O singură imagine - Întinde pe toată pagina</translation>
     </message>
     <message>
         <source>Top-Center</source>
@@ -7548,7 +7548,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Single - DPI</source>
-        <translation>Singur - DPI</translation>
+        <translation>O singură imagine - DPI</translation>
     </message>
     <message>
         <source>Visiting card - 91x55mm (3.58x2.17&quot;)</source>
@@ -7600,7 +7600,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Single - Best fit to page</source>
-        <translation>Singur - Cel mai potrivit pentru pagină</translation>
+        <translation>O singură imagine - Cel mai potrivit pentru pagină</translation>
     </message>
     <message>
         <source>Insert&gt;&gt;</source>
@@ -7700,7 +7700,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Single - Crop to page</source>
-        <translation>Singur - Decupează ca să încapă pe pagină</translation>
+        <translation>O singură imagine - Decupează ca să încapă pe pagină</translation>
     </message>
     <message>
         <source>Y scale</source>
@@ -7955,7 +7955,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Letter</source>
-        <translation>Literă</translation>
+        <translation>Scrisoare</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -8203,7 +8203,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>First letters uppercase</source>
-        <translation>Primele litere mari</translation>
+        <translation>Primele litere să fie mari</translation>
     </message>
     <message>
         <source>New name</source>
@@ -9499,7 +9499,7 @@ miniatură</translation>
     </message>
     <message>
         <source>Browser - Fullscreen</source>
-        <translation>Browser - Ecran complet</translation>
+        <translation>Navigator - Ecran complet (Pe tot ecranul)</translation>
     </message>
     <message>
         <source>Language</source>
@@ -9559,7 +9559,7 @@ miniatură</translation>
     </message>
     <message>
         <source>Viewer - Fullscreen</source>
-        <translation>Vizualizator - Ecran complet</translation>
+        <translation>Vizualizator - Ecran complet (Pe tot ecranul)</translation>
     </message>
     <message>
         <source>General</source>
@@ -10263,7 +10263,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Browser ↔ Fullscreen | Viewer ↔ Fullscreen</source>
-        <translation>Navigator ↔ Ecran complet | Vizualizator ↔ Ecran complet</translation>
+        <translation>Navigator ↔ Ecran complet (Pe tot ecranul) | Vizualizator ↔ Ecran complet (Pe tot ecranul)</translation>
     </message>
     <message>
         <source>Browser ↔ Viewer</source>
@@ -10271,11 +10271,11 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Browser → Fullscreen → Viewer</source>
-        <translation>Navigator → Ecran complet → Vizualizator</translation>
+        <translation>Navigator → Ecran complet (Pe tot ecranul) → Vizualizator</translation>
     </message>
     <message>
         <source>Browser → Viewer → Fullscreen</source>
-        <translation>Navigator → Vizualizator→ Ecran complet</translation>
+        <translation>Navigator → Vizualizator→ Ecran complet (Pe tot ecranul)</translation>
     </message>
     <message>
         <source>Middle click</source>
@@ -10902,7 +10902,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Fullscreen</source>
-        <translation>Ecran complet</translation>
+        <translation>Ecran complet (Pe tot ecranul)</translation>
     </message>
     <message>
         <source>Show playbar</source>
@@ -11186,7 +11186,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Fullscreen</source>
-        <translation>Ecran complet</translation>
+        <translation>Ecran complet (Pe tot ecranul)</translation>
     </message>
     <message>
         <source>Height</source>
@@ -11274,7 +11274,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Auto hide cursor (fullscreen)</source>
-        <translation>Ascunde automat cursorul (ecran complet)</translation>
+        <translation>Ascunde automat cursorul (ecran complet (pe tot ecranul))</translation>
     </message>
     <message>
         <source>Opacity</source>
@@ -12511,7 +12511,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Remember opened tab</source>
-        <translation>Ține minte fila deschisă</translation>
+        <translation>Reține fila deschisă</translation>
     </message>
     <message>
         <source>(Use ; or , to separate the values)</source>
@@ -14686,7 +14686,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation>Deschis</translation>
+        <translation>Deschide</translation>
     </message>
     <message>
         <source>Page</source>
@@ -14878,7 +14878,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Fullscreen</source>
-        <translation>Ecran complet</translation>
+        <translation>Ecran complet (Pe tot ecranul)</translation>
     </message>
     <message>
         <source>Restore layout A</source>
@@ -14954,7 +14954,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Contact sheet...</source>
-        <translation>Fișa de contact...</translation>
+        <translation>Fișă de contact...</translation>
     </message>
     <message>
         <source>View as Thumbnails+Details</source>
@@ -15042,7 +15042,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Update files from catalog</source>
-        <translation>Actualizează fișierele de catalog</translation>
+        <translation>Actualizează fișierele din catalog</translation>
     </message>
     <message>
         <source>Orientation</source>
@@ -16095,7 +16095,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Fullscreen</source>
-        <translation>Ecran complet</translation>
+        <translation>Ecran complet (Pe tot ecranul)</translation>
     </message>
     <message>
         <source>Edit comment...</source>
