@@ -8314,7 +8314,8 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgFtp.cpp" line="570"/>
         <source>Unable to connect to the FTP server at %1. Please check that the host name is correct.</source>
-        <translation>Не удалось соединиться с FTP-сервером %1. Пожалуйста, проверьте, что имя FTP-сервера введено верно.</translation>
+        <translation>Не удалось соединиться с FTP-сервером %1.
+Пожалуйста, проверьте, что имя FTP-сервера введено верно.</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="575"/>
@@ -8446,7 +8447,8 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgFtp.h" line="311"/>
         <source>Unable to connect to the FTP server at %1. Please check that the host name is correct.</source>
-        <translation>Не удалось соединиться с FTP-сервером %1. Пожалуйста, проверьте, что имя FTP-сервера введено верно.</translation>
+        <translation>Не удалось соединиться с FTP-сервером %1.
+Пожалуйста, проверьте, что имя FTP-сервера введено верно.</translation>
     </message>
     <message>
         <location filename="DlgFtp.h" line="323"/>
@@ -8909,7 +8911,7 @@ Subfolders will be created. </source>
     <message>
         <location filename="DlgIptc.cpp" line="323"/>
         <source>If you want to edit XMP metadata, please check the new &apos;Edit XMP&apos; dialog. </source>
-        <translation>Для изменения метаданных XMP, используйте диалоговое окно &quot;Изменить данные XMP...&quot;. </translation>
+        <translation>Для изменения метаданных XMP, используйте диалоговое окно &quot;Изменить XMP...&quot;. </translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="367"/>
@@ -19744,12 +19746,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="587"/>
         <source>Edit IPTC...</source>
-        <translation>Изменить данные IPTC...</translation>
+        <translation>Изменить IPTC...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="588"/>
         <source>Edit XMP...</source>
-        <translation>Изменить данные XMP...</translation>
+        <translation>Изменить XMP...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="597"/>
@@ -21571,12 +21573,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="520"/>
         <source>Edit IPTC...</source>
-        <translation>Изменить данные IPTC...</translation>
+        <translation>Изменить IPTC...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="521"/>
         <source>Edit XMP...</source>
-        <translation>Изменить данные XMP...</translation>
+        <translation>Изменить XMP...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="523"/>
