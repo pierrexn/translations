@@ -1988,12 +1988,12 @@ Arrastar e largar sobre o nó pretendido.</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="139"/>
         <source>No rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Não classificado</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="140"/>
         <source>No colour label</source>
-        <translation type="unfinished"></translation>
+        <translation>Sem etiqueta de cor</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="141"/>
@@ -3592,9 +3592,9 @@ Deseja substituí-lo?</translation>
     <message numerus="yes">
         <location filename="DlgContactSheet.cpp" line="462"/>
         <source>File list (%n)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Lista de ficheiros (%n)</numerusform>
+            <numerusform>Listas de ficheiros (%n)</numerusform>
         </translation>
     </message>
 </context>
@@ -7319,7 +7319,7 @@ Por favor verifique se os ficheiros não estão protegidos!</translation>
         <location filename="DlgEditXMP.cpp" line="420"/>
         <location filename="DlgEditXMP.cpp" line="447"/>
         <source>Modifying files, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Modificando os ficheiros, por favor aguardar...</translation>
     </message>
 </context>
 <context>
@@ -8890,7 +8890,7 @@ Irão ser criadas subpastas. </translation>
         <location filename="DlgIptc.cpp" line="1698"/>
         <location filename="DlgIptc.cpp" line="1746"/>
         <source>Modifying files, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Modificando os ficheiros, por favor aguardar...</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="52"/>
@@ -11192,7 +11192,7 @@ Prefere retirá-los?</translation>
     <message>
         <location filename="DlgSettings.cpp" line="357"/>
         <source>The changes will be applied after restarting the application.</source>
-        <translation type="unfinished"></translation>
+        <translation>As alterações passam a aplicar-se após reiniciar o programa.</translation>
     </message>
     <message>
         <location filename="DlgSettings.cpp" line="360"/>
@@ -11442,7 +11442,7 @@ Prefere retirá-los?</translation>
     <message>
         <location filename="DlgSettingsCache.cpp" line="150"/>
         <source>Database [catalog: %1 %2 - thumbnails: %3 %4]</source>
-        <translation type="unfinished"></translation>
+        <translation>Base de dados [catálogo: %1 %2 - miniaturas: %3 %4]</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="262"/>
@@ -12226,7 +12226,7 @@ Miniatura</translation>
         <location filename="DlgSettingsGeneral.ui" line="112"/>
         <source>Custom</source>
         <comment>theme</comment>
-        <translation type="unfinished">Personalizado</translation>
+        <translation>Personalizado</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="311"/>
@@ -12397,7 +12397,7 @@ Miniatura</translation>
         <location filename="DlgSettingsGeneral.ui" line="997"/>
         <source>Custom</source>
         <comment>icc</comment>
-        <translation type="unfinished">Personalizado</translation>
+        <translation>Personalizado</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="881"/>
@@ -15179,7 +15179,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="DlgTransfer.cpp" line="243"/>
         <source>Write</source>
-        <translation type="unfinished"></translation>
+        <translation>Escrever</translation>
     </message>
 </context>
 <context>
@@ -16177,7 +16177,7 @@ Deseja continuar?</translation>
         <location filename="EditXMPWidget.ui" line="643"/>
         <source>XMP and IPTC-IIM</source>
         <oldsource>XMP, update or create IPTC-IIM</oldsource>
-        <translation type="unfinished">XMP, actualizar ou criar IPTC-IIM</translation>
+        <translation>XMP e IPTC-IIM</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="672"/>
@@ -17298,17 +17298,17 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="140"/>
         <source>Import Categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar categorias...</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="142"/>
         <source>Import Categories (XnView Classic db)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar categorias (base de dados do XnView Classic)...</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="144"/>
         <source>Export Categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar categorias...</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="147"/>
@@ -17323,22 +17323,22 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="620"/>
         <source>Can&apos;t import XnView Classic category database</source>
-        <translation type="unfinished">Falhou a importação da base de dados de categorias do XnView Classic</translation>
+        <translation>Não é possível importar a base de dados de categorias do XnView Classic</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="656"/>
         <source>Problem during database import!</source>
-        <translation type="unfinished">Problema durante a importação da base de dados!</translation>
+        <translation>Problema durante a importação da base de dados!</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="658"/>
         <source>Category tree successfully imported into XnView categories</source>
-        <translation type="unfinished">Hierarquia correctamente importada no catálogo de categorias do XnView</translation>
+        <translation>Importação para categorias do XnView bem sucedida</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="668"/>
         <source>Can&apos;t import XnView database</source>
-        <translation type="unfinished">Não foi possível importar a base de dados XnView</translation>
+        <translation>Não é possível importar a base de dados XnView</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="703"/>
@@ -17872,17 +17872,17 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2683"/>
         <source>SubSecTime</source>
-        <translation type="unfinished"></translation>
+        <translation>SubSecTime</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2684"/>
         <source>SubSecTime Original</source>
-        <translation type="unfinished"></translation>
+        <translation>SubSecTime original</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2685"/>
         <source>SubSecTime Digitized</source>
-        <translation type="unfinished"></translation>
+        <translation>SubSecTime digitalizado</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2691"/>
@@ -19490,12 +19490,12 @@ Deseja continuar?</translation>
     <message>
         <location filename="BrowserMenu.h" line="589"/>
         <source>Edit GPS...</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar GPS...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="595"/>
         <source>Edit metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar metadados...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="642"/>
@@ -20516,7 +20516,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="BrowserMenu.h" line="659"/>
         <source>Edit face tag...</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar etiqueta facial...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="662"/>
