@@ -1051,7 +1051,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Border</source>
-        <translation>Frontieră</translation>
+        <translation>Bordură</translation>
     </message>
     <message>
         <source>Center</source>
@@ -1191,7 +1191,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Border 3D</source>
-        <translation>Margine 3D</translation>
+        <translation>Bordură 3D</translation>
     </message>
     <message>
         <source>Desaturate</source>
@@ -1740,7 +1740,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Border</source>
-        <translation>Frontieră</translation>
+        <translation>Bordură</translation>
     </message>
     <message>
         <source>Bottom</source>
@@ -3788,7 +3788,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Remove all</source>
-        <translation>Inlătură tot</translation>
+        <translation>Șterge tot</translation>
     </message>
     <message>
         <source>Follow us on Facebook...</source>
@@ -3848,7 +3848,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Presets:</source>
-        <translation>Presetari:</translation>
+        <translation>Presetări:</translation>
     </message>
     <message>
         <source>Convert all pages from multipage file</source>
@@ -3888,7 +3888,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Convert</source>
-        <translation>Convertit</translation>
+        <translation>Convertește</translation>
     </message>
     <message>
         <source>&amp;Convert</source>
@@ -5878,7 +5878,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>None</source>
-        <translation>Nimic</translation>
+        <translation>Niciunul</translation>
     </message>
     <message>
         <source>Images</source>
@@ -5922,11 +5922,11 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Halftone 90</source>
-        <translation>Semitonul 90</translation>
+        <translation>Semitonul de 90</translation>
     </message>
     <message>
         <source>Halftone 45</source>
-        <translation>Semitonul 45</translation>
+        <translation>Semitonul de 45</translation>
     </message>
     <message>
         <source>Save File</source>
@@ -7810,7 +7810,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Presets:</source>
-        <translation>Presetari:</translation>
+        <translation>Presetări:</translation>
     </message>
     <message>
         <source>Remove preset</source>
@@ -8411,7 +8411,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Presets:</source>
-        <translation>Presetari:</translation>
+        <translation>Presetări:</translation>
     </message>
     <message>
         <source>Sharpen</source>
@@ -12702,7 +12702,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Remove all</source>
-        <translation>Inlătură tot</translation>
+        <translation>Șterge tot</translation>
     </message>
     <message>
         <source>Details</source>
