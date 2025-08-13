@@ -17795,17 +17795,17 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2683"/>
         <source>SubSecTime</source>
-        <translation type="unfinished"></translation>
+        <translation>SubSecTime</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2684"/>
         <source>SubSecTime Original</source>
-        <translation type="unfinished"></translation>
+        <translation>Eredeti SubSecTime</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2685"/>
         <source>SubSecTime Digitized</source>
-        <translation type="unfinished"></translation>
+        <translation>Digitalizált SubSecTime</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2691"/>
