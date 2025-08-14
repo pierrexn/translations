@@ -29,11 +29,11 @@
     </message>
     <message>
         <source>Uncolored</source>
-        <translation>Necolorat</translation>
+        <translation>Necolorată</translation>
     </message>
     <message>
         <source>Important</source>
-        <translation>Important</translation>
+        <translation>Importantă</translation>
     </message>
     <message>
         <source>Red</source>
@@ -41,11 +41,11 @@
     </message>
     <message>
         <source>Select</source>
-        <translation>Selectare</translation>
+        <translation>Selectează</translation>
     </message>
     <message>
         <source>Work</source>
-        <translation>Muncă</translation>
+        <translation>Lucru</translation>
     </message>
     <message>
         <source>Yellow</source>
@@ -53,7 +53,7 @@
     </message>
     <message>
         <source>Second</source>
-        <translation>Al doilea</translation>
+        <translation>A doua</translation>
     </message>
     <message>
         <source>Personal</source>
@@ -519,7 +519,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Delete items &amp; companions</source>
-        <translation>Șterge articole și însoțitori</translation>
+        <translation>Șterge articolele și însoțitoarele lor</translation>
     </message>
     <message>
         <source>Browser</source>
@@ -1907,7 +1907,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Name &amp; extension lowercase</source>
-        <translation>Nume și extensie litere mici</translation>
+        <translation>Numele și extensile cu minuscule (cu litere mici)</translation>
     </message>
     <message>
         <source>Original size</source>
@@ -1923,7 +1923,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Extension uppercase</source>
-        <translation>Extensie majuscule</translation>
+        <translation>Extensie cu majuscule (cu litere mari)</translation>
     </message>
     <message>
         <source>Keep ratio</source>
@@ -2147,7 +2147,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Extension lowercase</source>
-        <translation>Extensie litere mici</translation>
+        <translation>Extensie cu minuscule (cu litere mici)</translation>
     </message>
     <message>
         <source>Photo 4x6 inches (10x15 cm)</source>
@@ -2159,11 +2159,11 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Name &amp; extension uppercase</source>
-        <translation>Nume și extensie pentru majuscule</translation>
+        <translation>Numele și extensile cu majuscule (cu litere mari)</translation>
     </message>
     <message>
         <source>&amp;Convert</source>
-        <translation>&amp;Convertire</translation>
+        <translation>&amp;Convertește</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -2175,7 +2175,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>&amp;Rename</source>
-        <translation>&amp;Redenumire</translation>
+        <translation>&amp;Redenumește</translation>
     </message>
     <message>
         <source>Photo 6x8 inches (15x20 cm)</source>
@@ -2734,7 +2734,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>&amp;Create</source>
-        <translation>&amp;Creare</translation>
+        <translation>&amp;Crează</translation>
     </message>
     <message>
         <source>4x6 inch</source>
@@ -3005,7 +3005,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>&amp;Rename</source>
-        <translation>&amp;Redenumire</translation>
+        <translation>&amp;Redenumește</translation>
     </message>
     <message>
         <source>&lt;br&gt;XnConvert is provided as freeware for private (non commercial), or educational use, including non-profit organization. &lt;br&gt;Company must purchase licenses to be able to use it.&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
@@ -3648,7 +3648,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Name &amp; extension lowercase</source>
-        <translation>Nume și extensie litere mici</translation>
+        <translation>Numele și extensile cu minuscule (cu litere mici)</translation>
     </message>
     <message>
         <source>Zoom in</source>
@@ -3664,7 +3664,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Extension uppercase</source>
-        <translation>Extensie majuscule</translation>
+        <translation>Extensie cu majuscule (cu litere mari)</translation>
     </message>
     <message>
         <source>Batch convert</source>
@@ -3864,7 +3864,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Extension lowercase</source>
-        <translation>Extensie litere mici</translation>
+        <translation>Extensie cu minuscule (cu litere mici)</translation>
     </message>
     <message>
         <source>Remove script from list</source>
@@ -3884,7 +3884,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Name &amp; extension uppercase</source>
-        <translation>Nume și extensie majuscule</translation>
+        <translation>Numele și extensile cu majuscule (cu litere mari)</translation>
     </message>
     <message>
         <source>Convert</source>
@@ -8143,7 +8143,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Name &amp; extension lowercase</source>
-        <translation>Nume și extensie litere mici</translation>
+        <translation>Numele și extensile cu minuscule (cu litere mici)</translation>
     </message>
     <message>
         <source>Exclude extension</source>
@@ -8155,7 +8155,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Extension uppercase</source>
-        <translation>Extensie majuscule</translation>
+        <translation>Extensie cu majuscule (cu litere mari)</translation>
     </message>
     <message>
         <source>Batch rename</source>
@@ -8183,7 +8183,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Extension lowercase</source>
-        <translation>Extensie litere mici</translation>
+        <translation>Extensie cu minuscule (cu litere mici)</translation>
     </message>
     <message>
         <source>Double click on a filename to create a new name template</source>
@@ -8191,7 +8191,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Name &amp; extension uppercase</source>
-        <translation>Extensia &amp; nume majuscule</translation>
+        <translation>Numele și extensile cu majuscule (cu litere mari)</translation>
     </message>
     <message>
         <source>Extension</source>
@@ -9083,7 +9083,7 @@ Dorești să verifici mai întâi intrările afectate?</translation>
     </message>
     <message>
         <source>Delete all</source>
-        <translation>Șterge tot</translation>
+        <translation>Șterge-le pe toate</translation>
     </message>
     <message>
         <source>Maximum size for cached thumbnails</source>
