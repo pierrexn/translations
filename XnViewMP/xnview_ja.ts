@@ -2040,12 +2040,12 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DBFilterModel.cpp" line="139"/>
         <source>No rating</source>
-        <translation type="unfinished"></translation>
+        <translation>レーティングなし</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="140"/>
         <source>No colour label</source>
-        <translation type="unfinished"></translation>
+        <translation>カラーラベルなし</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="141"/>
@@ -3628,8 +3628,8 @@ Do you want to overwrite it?</oldsource>
     <message numerus="yes">
         <location filename="DlgContactSheet.cpp" line="462"/>
         <source>File list (%n)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>ファイルリスト（%n件）</numerusform>
         </translation>
     </message>
 </context>
@@ -7383,7 +7383,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgEditXMP.cpp" line="420"/>
         <location filename="DlgEditXMP.cpp" line="447"/>
         <source>Modifying files, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルを修正しています。お待ち下さい…</translation>
     </message>
 </context>
 <context>
@@ -8966,7 +8966,7 @@ Subfolders will be created. </source>
         <location filename="DlgIptc.cpp" line="1698"/>
         <location filename="DlgIptc.cpp" line="1746"/>
         <source>Modifying files, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルを修正しています。お待ち下さい…</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="52"/>
@@ -11266,7 +11266,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettings.cpp" line="357"/>
         <source>The changes will be applied after restarting the application.</source>
-        <translation type="unfinished"></translation>
+        <translation>この変更はアプリケーションの再起動後に適用されます。</translation>
     </message>
     <message>
         <location filename="DlgSettings.cpp" line="360"/>
@@ -11515,7 +11515,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsCache.cpp" line="150"/>
         <source>Database [catalog: %1 %2 - thumbnails: %3 %4]</source>
-        <translation type="unfinished"></translation>
+        <translation>データベース [カタログ: %1 %2 - サムネイル: %3 %4]</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="262"/>
@@ -12290,7 +12290,7 @@ Thumbnail</source>
         <location filename="DlgSettingsGeneral.ui" line="112"/>
         <source>Custom</source>
         <comment>theme</comment>
-        <translation type="unfinished">カスタム</translation>
+        <translation>カスタム</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="311"/>
@@ -12419,7 +12419,7 @@ Thumbnail</source>
         <location filename="DlgSettingsGeneral.ui" line="997"/>
         <source>Custom</source>
         <comment>icc</comment>
-        <translation type="unfinished">カスタム</translation>
+        <translation>カスタム</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="1097"/>
@@ -15253,7 +15253,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgTransfer.cpp" line="243"/>
         <source>Write</source>
-        <translation type="unfinished">書き込み</translation>
+        <translation>書き込み</translation>
     </message>
 </context>
 <context>
@@ -16251,7 +16251,7 @@ Do you want to continue?</source>
         <location filename="EditXMPWidget.ui" line="643"/>
         <source>XMP and IPTC-IIM</source>
         <oldsource>XMP, update or create IPTC-IIM</oldsource>
-        <translation type="unfinished">XMP、IPTC-IIMの更新または作成</translation>
+        <translation>XMPとIPTC-IIM</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="672"/>
@@ -17400,17 +17400,17 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoCategoryView.cpp" line="140"/>
         <source>Import Categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>カテゴリーのインポート…</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="142"/>
         <source>Import Categories (XnView Classic db)...</source>
-        <translation type="unfinished"></translation>
+        <translation>カテゴリのインポート (XnView Classic データベース)...</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="144"/>
         <source>Export Categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>カテゴリーのエクスポート…</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="147"/>
@@ -17425,22 +17425,22 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoCategoryView.cpp" line="620"/>
         <source>Can&apos;t import XnView Classic category database</source>
-        <translation type="unfinished">&quot;XnView Classic&quot;のカテゴリーデータベースをインポートできません</translation>
+        <translation>&quot;XnView Classic&quot;のカテゴリーデータベースをインポートできません</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="656"/>
         <source>Problem during database import!</source>
-        <translation type="unfinished">データベースのインポート中に問題が発生しました</translation>
+        <translation>データベースのインポート中に問題が発生しました</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="658"/>
         <source>Category tree successfully imported into XnView categories</source>
-        <translation type="unfinished">カテゴリーツリーがXnViewカテゴリーにインポートされました</translation>
+        <translation>カテゴリツリーを XnView のカテゴリにインポートしました</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="668"/>
         <source>Can&apos;t import XnView database</source>
-        <translation type="unfinished">XnViewデータベースをインポートできません</translation>
+        <translation>XnViewデータベースをインポートできませんでした</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="703"/>
@@ -18042,17 +18042,17 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2683"/>
         <source>SubSecTime</source>
-        <translation type="unfinished"></translation>
+        <translation>日時の秒以下</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2684"/>
         <source>SubSecTime Original</source>
-        <translation type="unfinished"></translation>
+        <translation>撮影日時の秒以下</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2685"/>
         <source>SubSecTime Digitized</source>
-        <translation type="unfinished"></translation>
+        <translation>デジタル化日時の秒以下</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2691"/>
@@ -19685,7 +19685,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="595"/>
         <source>Edit metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>メタデータの編集...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="655"/>
@@ -20000,7 +20000,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="659"/>
         <source>Edit face tag...</source>
-        <translation type="unfinished"></translation>
+        <translation>顔タグの編集...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="662"/>
@@ -20636,7 +20636,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="589"/>
         <source>Edit GPS...</source>
-        <translation type="unfinished"></translation>
+        <translation>GPSの編集...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="590"/>
