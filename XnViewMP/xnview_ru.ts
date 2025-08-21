@@ -15231,7 +15231,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgTransitionEffects.ui" line="24"/>
         <source>Transition Effects List:</source>
-        <translation>Список эффектов для переходов</translation>
+        <translation>Эффекты</translation>
     </message>
     <message>
         <location filename="DlgTransitionEffects.ui" line="49"/>
