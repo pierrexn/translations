@@ -728,7 +728,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="BrowserWindow.cpp" line="4114"/>
         <source>Open in file manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir le gestionnaire de fichiers</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4117"/>
@@ -10882,17 +10882,17 @@ Voulez-vous les enlever?</translation>
     <message>
         <location filename="DlgSearch.cpp" line="254"/>
         <source>Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Préréglage</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="255"/>
         <source>Preset search name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom préréglage:</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="258"/>
         <source>Save pathname</source>
-        <translation type="unfinished"></translation>
+        <translation>Sauvegarder le chemin d&apos;accès</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="370"/>
@@ -11959,7 +11959,7 @@ Vignette</translation>
     <message>
         <location filename="DlgSettingsGeneral.cpp" line="117"/>
         <source>Select a program</source>
-        <translation type="unfinished">Sélectionner un programme</translation>
+        <translation>Sélectionner un programme</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.cpp" line="302"/>
@@ -12136,7 +12136,7 @@ Vignette</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="369"/>
         <source>ExifTool path</source>
-        <translation type="unfinished"></translation>
+        <translation>Chemin ExifTool</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="446"/>
@@ -14491,7 +14491,7 @@ Voulez-vous le réaffecter ?</translation>
     <message>
         <location filename="DlgSlideshow.ui" line="343"/>
         <source>Watch folders for new files</source>
-        <translation type="unfinished"></translation>
+        <translation>Surveiller les dossiers pour les nouveaux fichiers</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="580"/>
@@ -16389,7 +16389,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="FileListWidget.cpp" line="297"/>
         <source>Do you want to add only the folder and not the filelist?</source>
-        <translation type="unfinished"></translation>
+        <translation>Voulez-vous ajouter uniquement le dossier et non la liste des fichiers ?</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="40"/>
@@ -18412,7 +18412,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="EditXMPWidget.cpp" line="171"/>
         <source>Telephone number</source>
-        <translation type="unfinished"></translation>
+        <translation>Numéro de téléphone</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="113"/>
@@ -19420,7 +19420,7 @@ Voulez-vous continuer ?</translation>
         <location filename="BrowserMenu.h" line="472"/>
         <source>##rating## (go to next image)</source>
         <oldsource>Poor (go to next image)</oldsource>
-        <translation type="unfinished">Médiocre (aller à la photo suivante)</translation>
+        <translation>##rating## (aller à la photo suivante)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="485"/>
@@ -19712,7 +19712,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="BrowserMenu.h" line="655"/>
         <source>Edit face tag...</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier l&apos;étiquette du visage...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="659"/>
@@ -19769,7 +19769,7 @@ Voulez-vous continuer ?</translation>
         <location filename="BrowserMenu.h" line="539"/>
         <source>Open all selected</source>
         <oldsource>Open in Finder</oldsource>
-        <translation type="unfinished">Afficher dans le Finder</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="19"/>
@@ -20344,12 +20344,12 @@ Voulez-vous continuer ?</translation>
         <location filename="BrowserMenu.h" line="464"/>
         <location filename="BrowserMenu.h" line="465"/>
         <source>##rating##</source>
-        <translation type="unfinished"></translation>
+        <translation>##rating##</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="538"/>
         <source>Open in file manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir le gestionnaire de fichiers</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="542"/>
@@ -23613,7 +23613,7 @@ Vous pouvez changer celle-ci dans Paramètres › Catalogue</translation>
     <message>
         <location filename="ToolbarSearch.cpp" line="158"/>
         <source>XMP fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Champs XMP</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="163"/>
