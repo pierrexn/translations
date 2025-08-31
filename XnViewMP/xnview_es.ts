@@ -584,10 +584,6 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
         <translation>Añadir favorito...</translation>
     </message>
     <message>
-        <source>Explorer</source>
-        <translation>Explorar</translation>
-    </message>
-    <message>
         <source>Favorite name:</source>
         <translation>Nombre favorito:</translation>
     </message>
@@ -618,6 +614,10 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
     <message>
         <source>Show files in subfolders</source>
         <translation>Mostrar archivos en subcarpetas</translation>
+    </message>
+    <message>
+        <source>Open in file manager</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8492,10 +8492,6 @@ Do you want to remove them?</source>
 <context>
     <name>DlgSearch</name>
     <message>
-        <source>Search name:</source>
-        <translation>Buscar nombre:</translation>
-    </message>
-    <message>
         <source>Finished: %1 file(s) found.</source>
         <translation>Finalizado:%1 archivo (s) encontrado(s) .</translation>
     </message>
@@ -8510,6 +8506,18 @@ Do you want to remove them?</source>
     <message>
         <source>Searching...</source>
         <translation>Buscando...</translation>
+    </message>
+    <message>
+        <source>Preset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preset search name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save pathname</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9358,6 +9366,10 @@ miniatura</translation>
         <source>Do you want to delete the selected Auto Correct entry?</source>
         <translation>¿Desea eliminar la entrada de Corrección Automática seleccionada?</translation>
     </message>
+    <message>
+        <source>Select a program</source>
+        <translation type="unfinished">Seleccionar un programa</translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsGeneralClass</name>
@@ -9694,6 +9706,10 @@ miniatura</translation>
         <source>Custom</source>
         <comment>icc</comment>
         <translation type="unfinished">Personalizado</translation>
+    </message>
+    <message>
+        <source>ExifTool path</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11268,6 +11284,10 @@ Do you want to reassign?</source>
         <source>Relative paths</source>
         <translation>Rutas relativas</translation>
     </message>
+    <message>
+        <source>Watch folders for new files</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSplit</name>
@@ -12561,26 +12581,6 @@ Do you want to continue?</source>
         <translation>Interrumpir</translation>
     </message>
     <message>
-        <source>Authentication failed: </source>
-        <translation>Error en la identificación: </translation>
-    </message>
-    <message>
-        <source>Sending of email failed: </source>
-        <translation>El envío del correo electrónico ha fallado: </translation>
-    </message>
-    <message>
-        <source>Recipient rejected: </source>
-        <translation>Destinatario rechazado: </translation>
-    </message>
-    <message>
-        <source>Connection failed: </source>
-        <translation>La conexión ha fallado: </translation>
-    </message>
-    <message>
-        <source>Sender rejected: </source>
-        <translation>Remitente rechazado: </translation>
-    </message>
-    <message>
         <source>Sending...</source>
         <translation>Enviando...</translation>
     </message>
@@ -12723,6 +12723,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Remove unfiltered</source>
         <translation type="unfinished">Eliminar no filtrado</translation>
+    </message>
+    <message>
+        <source>Do you want to add only the folder and not the filelist?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14114,6 +14118,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <source>Custom field 10</source>
         <translation>Campo personalizado 10</translation>
     </message>
+    <message>
+        <source>Telephone number</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>InfoPropertiesView</name>
@@ -14829,10 +14837,6 @@ Do you want to continue?</source>
         <translation>Seleccionar origen TWAIN...</translation>
     </message>
     <message>
-        <source>Open in Finder</source>
-        <translation>Abrir en buscador (Finder)</translation>
-    </message>
-    <message>
         <source>File size</source>
         <translation>Tamaño de archivo</translation>
     </message>
@@ -15461,10 +15465,6 @@ Do you want to continue?</source>
         <translation>Cinta de imágenes abajo</translation>
     </message>
     <message>
-        <source>Open in file explorer</source>
-        <translation>Abrir en explorador de archivos</translation>
-    </message>
-    <message>
         <source>View as Thumbnails+Labels</source>
         <translation>Ver como Miniaturas + Etiquetas</translation>
     </message>
@@ -15629,30 +15629,6 @@ Do you want to continue?</source>
         <translation>Pestaña vacía</translation>
     </message>
     <message>
-        <source>Excellent (go to next image)</source>
-        <translation>Excelente (ir a la siguiente imagen)</translation>
-    </message>
-    <message>
-        <source>Good (go to next image)</source>
-        <translation>Bueno (ir a la siguiente imagen)</translation>
-    </message>
-    <message>
-        <source>Average (go to next image)</source>
-        <translation>Medio (ir a la siguiente imagen)</translation>
-    </message>
-    <message>
-        <source>Fair (go to next image)</source>
-        <translation>Suficiente (ir a la siguiente imagen)</translation>
-    </message>
-    <message>
-        <source>Poor (go to next image)</source>
-        <translation>Deficiente (ir a la siguiente imagen)</translation>
-    </message>
-    <message>
-        <source>Unrated (go to next image)</source>
-        <translation>Sin calificar (ir a la siguiente imagen)</translation>
-    </message>
-    <message>
         <source>##label## (go to next image)</source>
         <translation>##label## (ir a la siguiente imagen)</translation>
     </message>
@@ -15690,6 +15666,18 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Edit face tag...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>##rating##</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>##rating## (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open in file manager</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16032,10 +16020,6 @@ Do you want to continue?</source>
     <message>
         <source>Select TWAIN source...</source>
         <translation>Seleccionar origen TWAIN...</translation>
-    </message>
-    <message>
-        <source>Open in Finder</source>
-        <translation>Abrir en buscador (Finder)</translation>
     </message>
     <message>
         <source>Red-Eye correction</source>
@@ -18112,6 +18096,10 @@ Puedo cambiarlo en Configuración › Catálogo.</translation>
     <message>
         <source>Thumbnail&apos;s labels</source>
         <translation>Etiquetas de las miniaturas</translation>
+    </message>
+    <message>
+        <source>XMP fields</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

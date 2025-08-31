@@ -505,10 +505,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Ավելացնել ընտրյալներին...</translation>
     </message>
     <message>
-        <source>Explorer</source>
-        <translation>Ուղեցույց</translation>
-    </message>
-    <message>
         <source>Favorite name:</source>
         <translation>Նոր անուն.</translation>
     </message>
@@ -618,6 +614,10 @@ Drag and Drop over the desired node to assign.</translation>
     <message>
         <source>Show files in subfolders</source>
         <translation>Ցուցադրել ֆայլերը ենթապանակներում</translation>
+    </message>
+    <message>
+        <source>Open in file manager</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8491,10 +8491,6 @@ Do you want to remove them?</source>
 <context>
     <name>DlgSearch</name>
     <message>
-        <source>Search name:</source>
-        <translation>Ի՞նչ որոնել.</translation>
-    </message>
-    <message>
         <source>Files found (%1):</source>
         <translation>Գտնվել են ֆայլեր (%1).</translation>
     </message>
@@ -8509,6 +8505,18 @@ Do you want to remove them?</source>
     <message>
         <source>Finished: %1 file(s) found.</source>
         <translation>Ավարտված. %1 ֆայլ(եր) են գտնվել:</translation>
+    </message>
+    <message>
+        <source>Preset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preset search name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save pathname</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9357,6 +9365,10 @@ Thumbnail</source>
         <source>Do you want to delete the selected Auto Correct entry?</source>
         <translation>Ջնջե՞լ ընտրված ինքնաշտկման գրառումը:</translation>
     </message>
+    <message>
+        <source>Select a program</source>
+        <translation type="unfinished">Ընտրել ծրագիր</translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsGeneralClass</name>
@@ -9692,6 +9704,10 @@ Thumbnail</source>
     <message>
         <source>Custom</source>
         <comment>icc</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ExifTool path</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11267,6 +11283,10 @@ Do you want to reassign?</source>
         <source>Relative paths</source>
         <translation>Հարաբերական ուղիներ</translation>
     </message>
+    <message>
+        <source>Watch folders for new files</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSplit</name>
@@ -12560,28 +12580,8 @@ Do you want to continue?</source>
         <translation>Ընդհատել</translation>
     </message>
     <message>
-        <source>Sending of email failed: </source>
-        <translation>Նամակի ուղարկումը ձախողվեց. </translation>
-    </message>
-    <message>
-        <source>Recipient rejected: </source>
-        <translation>Ստացողը մերժել է. </translation>
-    </message>
-    <message>
-        <source>Connection failed: </source>
-        <translation>Միացումը ձախողվեց.</translation>
-    </message>
-    <message>
-        <source>Sender rejected: </source>
-        <translation>Ուղարկողը մերժել է.</translation>
-    </message>
-    <message>
         <source>Sending...</source>
         <translation>Ուղարկվում է...</translation>
-    </message>
-    <message>
-        <source>Authentication failed: </source>
-        <translation>Վավերացումը ձախողվեց. </translation>
     </message>
 </context>
 <context>
@@ -12722,6 +12722,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Remove unfiltered</source>
         <translation>Հեռացնել չզտվածը</translation>
+    </message>
+    <message>
+        <source>Do you want to add only the folder and not the filelist?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14113,6 +14117,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <source>Custom field 10</source>
         <translation>Հարմարեցված դաշտ 10</translation>
     </message>
+    <message>
+        <source>Telephone number</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>InfoPropertiesView</name>
@@ -15232,10 +15240,6 @@ Do you want to continue?</source>
         <translation>Լայն գիծ 2</translation>
     </message>
     <message>
-        <source>Open in file explorer</source>
-        <translation>Բացել ցուցադրիչով</translation>
-    </message>
-    <message>
         <source>Draw as tiled</source>
         <translation>Ձգել որպես կծիկ</translation>
     </message>
@@ -15394,10 +15398,6 @@ Do you want to continue?</source>
     <message>
         <source>Select TWAIN source...</source>
         <translation>Ընտրել TWAIN աղբյուր...</translation>
-    </message>
-    <message>
-        <source>Open in Finder</source>
-        <translation>Բացել Որոնիչում</translation>
     </message>
     <message>
         <source>Fit window to image</source>
@@ -15628,30 +15628,6 @@ Do you want to continue?</source>
         <translation>Դատարկ ներդիր</translation>
     </message>
     <message>
-        <source>Excellent (go to next image)</source>
-        <translation>Գերազանց (անցնել հաջորդ պատկերին)</translation>
-    </message>
-    <message>
-        <source>Good (go to next image)</source>
-        <translation>Լավ (անցնել հաջորդ պատկերին)</translation>
-    </message>
-    <message>
-        <source>Average (go to next image)</source>
-        <translation>Միջին (անցնել հաջորդ պատկերին)</translation>
-    </message>
-    <message>
-        <source>Fair (go to next image)</source>
-        <translation>Բավարար (անցնել հաջորդ պատկերին)</translation>
-    </message>
-    <message>
-        <source>Poor (go to next image)</source>
-        <translation>Վատ (անցնել հաջորդ պատկերին)</translation>
-    </message>
-    <message>
-        <source>Unrated (go to next image)</source>
-        <translation>Առանց գնահատման (անցնել հաջորդ պատկերին)</translation>
-    </message>
-    <message>
         <source>##label## (go to next image)</source>
         <translation>##label## (անցնել հաջորդ պատկերին)</translation>
     </message>
@@ -15689,6 +15665,18 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Edit face tag...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>##rating##</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>##rating## (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open in file manager</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16431,10 +16419,6 @@ Do you want to continue?</source>
     <message>
         <source>Remove alpha channel</source>
         <translation>Ջնջել ալֆա ալիքը</translation>
-    </message>
-    <message>
-        <source>Open in Finder</source>
-        <translation>Բացել Որոնիչում</translation>
     </message>
     <message>
         <source>Fit window to image</source>
@@ -18111,6 +18095,10 @@ You can change it in Settings › Catalog.</source>
     <message>
         <source>Thumbnail&apos;s labels</source>
         <translation>Մանրապատկերների պիտակներ</translation>
+    </message>
+    <message>
+        <source>XMP fields</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

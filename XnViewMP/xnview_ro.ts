@@ -586,10 +586,6 @@ Trage și plasează peste nodul dorit de alocat.</translation>
         <translation>Adaugă la favorite...</translation>
     </message>
     <message>
-        <source>Explorer</source>
-        <translation>Explorator</translation>
-    </message>
-    <message>
         <source>Favorite name:</source>
         <translation>Nume preferate:</translation>
     </message>
@@ -620,6 +616,10 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     <message>
         <source>Start slideshow</source>
         <translation>Începe prezentarea</translation>
+    </message>
+    <message>
+        <source>Open in file manager</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8508,10 +8508,6 @@ Vrei să le redenumești?</translation>
 <context>
     <name>DlgSearch</name>
     <message>
-        <source>Search name:</source>
-        <translation>Căutare nume:</translation>
-    </message>
-    <message>
         <source>Finished: %1 file(s) found.</source>
         <translation>Terminat: %1 fișier(e) găsit(e).</translation>
     </message>
@@ -8526,6 +8522,18 @@ Vrei să le redenumești?</translation>
     <message>
         <source>Searching...</source>
         <translation>În căutarea...</translation>
+    </message>
+    <message>
+        <source>Preset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preset search name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save pathname</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9374,6 +9382,10 @@ miniatură</translation>
         <source>Do you want to delete the selected Auto Correct entry?</source>
         <translation>Doriești să ștergi intrarea de Corecție automată selectată?</translation>
     </message>
+    <message>
+        <source>Select a program</source>
+        <translation type="unfinished">Selectează un program</translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsGeneralClass</name>
@@ -9710,6 +9722,10 @@ miniatură</translation>
         <source>Custom</source>
         <comment>icc</comment>
         <translation>Personalizată</translation>
+    </message>
+    <message>
+        <source>ExifTool path</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11284,6 +11300,10 @@ Dorești să-l reatribui?</translation>
         <source>Relative paths</source>
         <translation>Căi relative</translation>
     </message>
+    <message>
+        <source>Watch folders for new files</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSplit</name>
@@ -12577,26 +12597,6 @@ Vrei să continui?</translation>
         <translation>Anulează</translation>
     </message>
     <message>
-        <source>Authentication failed: </source>
-        <translation>Autentificare esuata: </translation>
-    </message>
-    <message>
-        <source>Sending of email failed: </source>
-        <translation>Trimiterea e-mailului a eșuat: </translation>
-    </message>
-    <message>
-        <source>Recipient rejected: </source>
-        <translation>Destinatarul a fost respins: </translation>
-    </message>
-    <message>
-        <source>Connection failed: </source>
-        <translation>Conexiune esuata: </translation>
-    </message>
-    <message>
-        <source>Sender rejected: </source>
-        <translation>Expeditorul a fost respins: </translation>
-    </message>
-    <message>
         <source>Sending...</source>
         <translation>Se trimite...</translation>
     </message>
@@ -12739,6 +12739,10 @@ Dorești să ștergi favoritul „%1”?</translation>
     <message>
         <source>Remove unfiltered</source>
         <translation>Elimină elementele nefiltrate</translation>
+    </message>
+    <message>
+        <source>Do you want to add only the folder and not the filelist?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14130,6 +14134,10 @@ Dorești să ștergi favoritul „%1”?</translation>
         <source>Custom field 10</source>
         <translation>Câmp personalizat 10</translation>
     </message>
+    <message>
+        <source>Telephone number</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>InfoPropertiesView</name>
@@ -14845,10 +14853,6 @@ Vrei să continui?</translation>
         <translation>Selectează sursa TWAIN...</translation>
     </message>
     <message>
-        <source>Open in Finder</source>
-        <translation>Deschide în Finder</translation>
-    </message>
-    <message>
         <source>File size</source>
         <translation>Mărime fișier</translation>
     </message>
@@ -15485,10 +15489,6 @@ Vrei să continui?</translation>
         <translation>Banda de film 2</translation>
     </message>
     <message>
-        <source>Open in file explorer</source>
-        <translation>Deschide în exploratorul de fișiere</translation>
-    </message>
-    <message>
         <source>View as Thumbnails+Labels</source>
         <translation>Vizualizează ca miniaturi+etichete</translation>
     </message>
@@ -15563,30 +15563,6 @@ Vrei să continui?</translation>
     <message>
         <source>Navigate to</source>
         <translation>Navighează la</translation>
-    </message>
-    <message>
-        <source>Excellent (go to next image)</source>
-        <translation>Excelentă (mergi la imaginea următoare)</translation>
-    </message>
-    <message>
-        <source>Good (go to next image)</source>
-        <translation>Bună (mergi la imaginea următoare)</translation>
-    </message>
-    <message>
-        <source>Average (go to next image)</source>
-        <translation>Mediocră (mergi la imaginea următoare)</translation>
-    </message>
-    <message>
-        <source>Fair (go to next image)</source>
-        <translation>Slabă (mergi la imaginea următoare)</translation>
-    </message>
-    <message>
-        <source>Poor (go to next image)</source>
-        <translation>Foarte slabă (mergi la imaginea următoare)</translation>
-    </message>
-    <message>
-        <source>Unrated (go to next image)</source>
-        <translation>Neevaluată (mergi la imaginea următoare)</translation>
     </message>
     <message>
         <source>##label## (go to next image)</source>
@@ -15707,6 +15683,18 @@ Vrei să continui?</translation>
     <message>
         <source>Edit face tag...</source>
         <translation>Editează eticheta feței...</translation>
+    </message>
+    <message>
+        <source>##rating##</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>##rating## (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open in file manager</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16048,10 +16036,6 @@ Vrei să continui?</translation>
     <message>
         <source>Select TWAIN source...</source>
         <translation>Selectează sursa TWAIN...</translation>
-    </message>
-    <message>
-        <source>Open in Finder</source>
-        <translation>Deschide în Finder</translation>
     </message>
     <message>
         <source>Red-Eye correction</source>
@@ -18131,6 +18115,10 @@ O poți schimba în Setări › Catalog.</translation>
     <message>
         <source>Thumbnail&apos;s labels</source>
         <translation>Etichetele miniaturii</translation>
+    </message>
+    <message>
+        <source>XMP fields</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

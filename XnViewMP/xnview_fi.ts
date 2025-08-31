@@ -584,10 +584,6 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
         <translation>Lisää suosikeihin...</translation>
     </message>
     <message>
-        <source>Explorer</source>
-        <translation>Kuvaselain</translation>
-    </message>
-    <message>
         <source>Favorite name:</source>
         <translation>Suosikin nimi:</translation>
     </message>
@@ -618,6 +614,10 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message>
         <source>Show files in subfolders</source>
         <translation>Näytä tiedostot alikansioista</translation>
+    </message>
+    <message>
+        <source>Open in file manager</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8496,10 +8496,6 @@ Haluatko poistaa ne?</translation>
 <context>
     <name>DlgSearch</name>
     <message>
-        <source>Search name:</source>
-        <translation>Etsintä nimi:</translation>
-    </message>
-    <message>
         <source>Finished: %1 file(s) found.</source>
         <translation>Valmis: %1 tiedosto(a) löydetty.</translation>
     </message>
@@ -8514,6 +8510,18 @@ Haluatko poistaa ne?</translation>
     <message>
         <source>Searching...</source>
         <translation>Etsitään...</translation>
+    </message>
+    <message>
+        <source>Preset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preset search name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save pathname</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9363,6 +9371,10 @@ pienoiskuvina</translation>
         <source>Do you want to delete the selected Auto Correct entry?</source>
         <translation>Haluatko poistaa valitut automaattikorjauskohteet?</translation>
     </message>
+    <message>
+        <source>Select a program</source>
+        <translation type="unfinished">Valitse ohjelma</translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsGeneralClass</name>
@@ -9699,6 +9711,10 @@ pienoiskuvina</translation>
         <source>Custom</source>
         <comment>icc</comment>
         <translation type="unfinished">Mukautettu</translation>
+    </message>
+    <message>
+        <source>ExifTool path</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11273,6 +11289,10 @@ Haluatko määrittää uudelleen?</translation>
         <source>Relative paths</source>
         <translation>Suhteelliset polut</translation>
     </message>
+    <message>
+        <source>Watch folders for new files</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSplit</name>
@@ -12566,26 +12586,6 @@ Haluatko jatkaa?</translation>
         <translation>Keskeytä</translation>
     </message>
     <message>
-        <source>Authentication failed: </source>
-        <translation>Epäonnistunut todennus: </translation>
-    </message>
-    <message>
-        <source>Sending of email failed: </source>
-        <translation>Epäonnistunut sähköpostilähetys: </translation>
-    </message>
-    <message>
-        <source>Recipient rejected: </source>
-        <translation>Hylätty vastaaottaja: </translation>
-    </message>
-    <message>
-        <source>Connection failed: </source>
-        <translation>Epäonnistunut yhteys: </translation>
-    </message>
-    <message>
-        <source>Sender rejected: </source>
-        <translation>Hylätty lähettäjä: </translation>
-    </message>
-    <message>
         <source>Sending...</source>
         <translation>Lähetetään...</translation>
     </message>
@@ -12728,6 +12728,10 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     <message>
         <source>Remove unfiltered</source>
         <translation>Poista suodattamattomat</translation>
+    </message>
+    <message>
+        <source>Do you want to add only the folder and not the filelist?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14119,6 +14123,10 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
         <source>Custom field 10</source>
         <translation>Mukautettu kenttä 10</translation>
     </message>
+    <message>
+        <source>Telephone number</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>InfoPropertiesView</name>
@@ -14834,10 +14842,6 @@ Jatketaanko?</translation>
         <translation>Valitse skanneri...</translation>
     </message>
     <message>
-        <source>Open in Finder</source>
-        <translation>Avaa Etsimessä</translation>
-    </message>
-    <message>
         <source>File size</source>
         <translation>Tiedostokoko</translation>
     </message>
@@ -15478,10 +15482,6 @@ Jatketaanko?</translation>
         <translation>Filminauha 2</translation>
     </message>
     <message>
-        <source>Open in file explorer</source>
-        <translation>Avaa resurssienhallinassa</translation>
-    </message>
-    <message>
         <source>View as Thumbnails+Labels</source>
         <translation>Näytä pienoiskuvat + tunnisteet</translation>
     </message>
@@ -15634,30 +15634,6 @@ Jatketaanko?</translation>
         <translation>Tyhjä välilehti</translation>
     </message>
     <message>
-        <source>Excellent (go to next image)</source>
-        <translation>Erinomainen (siirry seuraavaan kuvaan)</translation>
-    </message>
-    <message>
-        <source>Good (go to next image)</source>
-        <translation>Hyvä (siirry seuraavaan kuvaan)</translation>
-    </message>
-    <message>
-        <source>Average (go to next image)</source>
-        <translation>Keskimääräinen (siirry seuraavaan kuvaan)</translation>
-    </message>
-    <message>
-        <source>Fair (go to next image)</source>
-        <translation>Kohtuullinen (siirry seuraavaan kuvaan)</translation>
-    </message>
-    <message>
-        <source>Poor (go to next image)</source>
-        <translation>Huono (siirry seuraavaan kuvaan)</translation>
-    </message>
-    <message>
-        <source>Unrated (go to next image)</source>
-        <translation>Arvioimaton (siirry seuraavaan kuvaan)</translation>
-    </message>
-    <message>
         <source>##label## (go to next image)</source>
         <translation>##label## (siirry seuraavaan kuvaan)</translation>
     </message>
@@ -15695,6 +15671,18 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Edit face tag...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>##rating##</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>##rating## (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open in file manager</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16041,10 +16029,6 @@ Jatketaanko?</translation>
     <message>
         <source>Select TWAIN source...</source>
         <translation>Valitse skanneri...</translation>
-    </message>
-    <message>
-        <source>Open in Finder</source>
-        <translation>Avaa Etsimessä</translation>
     </message>
     <message>
         <source>Red-Eye correction</source>
@@ -18117,6 +18101,10 @@ Voit muuttaa sitä asetusten kohdasta &quot;Katalogi&quot;.</translation>
     <message>
         <source>Thumbnail&apos;s labels</source>
         <translation>Pienoiskuvien tunnisteet</translation>
+    </message>
+    <message>
+        <source>XMP fields</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
