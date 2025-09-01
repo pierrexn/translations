@@ -20275,7 +20275,7 @@ Volete continuare?</translation>
         <location filename="BrowserMenu.h" line="539"/>
         <source>Open all selected</source>
         <oldsource>Open in Finder</oldsource>
-        <translation type="unfinished">Apri in Finder</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="541"/>
