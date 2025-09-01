@@ -19473,7 +19473,7 @@ Vil du fortsætte?</translation>
         <location filename="BrowserMenu.h" line="472"/>
         <source>##rating## (go to next image)</source>
         <oldsource>Excellent (go to next image)</oldsource>
-        <translation type="unfinished">Fremragende (flyt til næste billede)</translation>
+        <translation>##rating## (flyt til næste billede)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="485"/>
