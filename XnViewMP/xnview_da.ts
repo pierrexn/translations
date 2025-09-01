@@ -19462,7 +19462,7 @@ Vil du fortsætte?</translation>
         <location filename="BrowserMenu.h" line="464"/>
         <location filename="BrowserMenu.h" line="465"/>
         <source>##rating##</source>
-        <translation type="unfinished"></translation>
+        <translation>##rating##</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="467"/>
@@ -19608,7 +19608,7 @@ Vil du fortsætte?</translation>
         <location filename="BrowserMenu.h" line="539"/>
         <source>Open all selected</source>
         <oldsource>Open in Finder</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Åbn alle valgte</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="552"/>
@@ -23711,7 +23711,7 @@ Du kan ændre det i Indstillinger &gt; Katalog.</translation>
     <message>
         <location filename="ToolbarSearch.cpp" line="158"/>
         <source>XMP fields</source>
-        <translation type="unfinished"></translation>
+        <translation>XMP-felter</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="163"/>
