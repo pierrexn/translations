@@ -19162,7 +19162,7 @@ Doorgaan?</translation>
         <location filename="BrowserMenu.h" line="472"/>
         <source>##rating## (go to next image)</source>
         <oldsource>Poor (go to next image)</oldsource>
-        <translation>##waardering## (naar volgende afbeelding)</translation>
+        <translation>##rating## (naar volgende afbeelding)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="12"/>
@@ -19446,7 +19446,7 @@ Doorgaan?</translation>
         <location filename="BrowserMenu.h" line="464"/>
         <location filename="BrowserMenu.h" line="465"/>
         <source>##rating##</source>
-        <translation>#waardering #</translation>
+        <translation>##rating##</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="485"/>
