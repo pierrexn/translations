@@ -185,7 +185,7 @@
     <message>
         <location filename="AboutWidget.ui" line="373"/>
         <source>License</source>
-        <translation>Условия лицензии</translation>
+        <translation>Лицензия</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="387"/>
@@ -19685,7 +19685,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="539"/>
         <source>Open all selected</source>
         <oldsource>Open in Finder</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Открыть все выделенные</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="544"/>
