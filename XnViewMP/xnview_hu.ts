@@ -698,7 +698,7 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
     <message>
         <location filename="BrowserWindow.cpp" line="4114"/>
         <source>Open in file manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Megnyitás a fájlkezelőben</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4117"/>
@@ -11940,7 +11940,7 @@ miniatűrként</translation>
     <message>
         <location filename="DlgSettingsGeneral.cpp" line="117"/>
         <source>Select a program</source>
-        <translation type="unfinished">Program kiválasztása</translation>
+        <translation>Program kiválasztása</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.cpp" line="302"/>
@@ -18391,7 +18391,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="EditXMPWidget.cpp" line="171"/>
         <source>Telephone number</source>
-        <translation type="unfinished"></translation>
+        <translation>Telefonszám</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="113"/>
@@ -19410,7 +19410,7 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="BrowserMenu.h" line="538"/>
         <source>Open in file manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Megnyitás a fájlkezelőben</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="556"/>
@@ -20136,7 +20136,7 @@ Biztosan folytassuk?</translation>
         <location filename="BrowserMenu.h" line="539"/>
         <source>Open all selected</source>
         <oldsource>Open in Finder</oldsource>
-        <translation type="unfinished">Megnyitás Finderben</translation>
+        <translation>Minden kijelölt megnyitása</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="541"/>
