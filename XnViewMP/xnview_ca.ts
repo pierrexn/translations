@@ -19372,7 +19372,7 @@ Vols continuar?</translation>
         <location filename="BrowserMenu.h" line="464"/>
         <location filename="BrowserMenu.h" line="465"/>
         <source>##rating##</source>
-        <translation type="unfinished"></translation>
+        <translation>##rating##</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="467"/>
@@ -19819,7 +19819,7 @@ Vols continuar?</translation>
         <location filename="BrowserMenu.h" line="539"/>
         <source>Open all selected</source>
         <oldsource>Open in Finder</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Obre tot el seleccionat</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="547"/>
@@ -23601,7 +23601,7 @@ Podeu canviar-la en Opcions › Catàleg</translation>
     <message>
         <location filename="ToolbarSearch.cpp" line="158"/>
         <source>XMP fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Camps XMP</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="163"/>
