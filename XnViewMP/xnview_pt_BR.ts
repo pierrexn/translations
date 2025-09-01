@@ -15616,11 +15616,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>##rating##</source>
-        <translation type="unfinished"></translation>
+        <translation>##rating##</translation>
     </message>
     <message>
         <source>##rating## (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>##rating## (vá para a próxima imagem)</translation>
     </message>
     <message>
         <source>Open in file manager</source>
