@@ -19409,7 +19409,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="464"/>
         <location filename="BrowserMenu.h" line="465"/>
         <source>##rating##</source>
-        <translation type="unfinished"></translation>
+        <translation>##rating##</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="467"/>
@@ -19420,7 +19420,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="472"/>
         <source>##rating## (go to next image)</source>
         <oldsource>Excellent (go to next image)</oldsource>
-        <translation type="unfinished">极佳 (转到下一图)</translation>
+        <translation>##rating## (转到下一图)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="485"/>
@@ -19709,7 +19709,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="539"/>
         <source>Open all selected</source>
         <oldsource>Open in Finder</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>打开全部选中文件</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="547"/>
@@ -23627,7 +23627,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="ToolbarSearch.cpp" line="158"/>
         <source>XMP fields</source>
-        <translation type="unfinished"></translation>
+        <translation>XMP 字段</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="163"/>
