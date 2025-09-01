@@ -19372,7 +19372,7 @@ Vill du fortsätta?</translation>
         <location filename="BrowserMenu.h" line="472"/>
         <source>##rating## (go to next image)</source>
         <oldsource>Excellent (go to next image)</oldsource>
-        <translation type="unfinished">Utmärkt (gå till nästa bild)</translation>
+        <translation>##rating## (gå till nästa bild)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="485"/>
@@ -19553,7 +19553,7 @@ Vill du fortsätta?</translation>
         <location filename="BrowserMenu.h" line="464"/>
         <location filename="BrowserMenu.h" line="465"/>
         <source>##rating##</source>
-        <translation type="unfinished"></translation>
+        <translation>##rating##</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="524"/>
@@ -23605,7 +23605,7 @@ Du kan ändra det i &quot;Inställningar › Katalog&quot;.</translation>
     <message>
         <location filename="ToolbarSearch.cpp" line="158"/>
         <source>XMP fields</source>
-        <translation type="unfinished"></translation>
+        <translation>XMP-fält</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="163"/>
