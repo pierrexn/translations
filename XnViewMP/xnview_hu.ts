@@ -19380,7 +19380,7 @@ Biztosan folytassuk?</translation>
         <location filename="BrowserMenu.h" line="472"/>
         <source>##rating## (go to next image)</source>
         <oldsource>Excellent (go to next image)</oldsource>
-        <translation type="unfinished">Kiváló (tovább a következő képre)</translation>
+        <translation>##rating## (tovább a következő képre)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="485"/>
@@ -23572,7 +23572,7 @@ Megváltoztathatja a Beállítások › Katalógus alatt.</translation>
     <message>
         <location filename="ToolbarSearch.cpp" line="158"/>
         <source>XMP fields</source>
-        <translation type="unfinished"></translation>
+        <translation>XMP mezők</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="163"/>
