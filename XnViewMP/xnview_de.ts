@@ -19358,7 +19358,7 @@ Möchten Sie fortfahren?</translation>
         <location filename="BrowserMenu.h" line="472"/>
         <source>##rating## (go to next image)</source>
         <oldsource>Excellent (go to next image)</oldsource>
-        <translation type="unfinished">Sehr gut (zum nächsten Bild wechseln)</translation>
+        <translation>##rating## (zum nächsten Bild wechseln)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="485"/>
