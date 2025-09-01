@@ -19340,7 +19340,7 @@ Devam etmek istiyor musunuz?</translation>
         <location filename="BrowserMenu.h" line="464"/>
         <location filename="BrowserMenu.h" line="465"/>
         <source>##rating##</source>
-        <translation type="unfinished"></translation>
+        <translation>##rating##</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="467"/>
@@ -19351,7 +19351,7 @@ Devam etmek istiyor musunuz?</translation>
         <location filename="BrowserMenu.h" line="472"/>
         <source>##rating## (go to next image)</source>
         <oldsource>Excellent (go to next image)</oldsource>
-        <translation type="unfinished">Harika (sonraki resme geç)</translation>
+        <translation>##rating## (sonraki resme geç)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="485"/>
@@ -20154,7 +20154,7 @@ Devam etmek istiyor musunuz?</translation>
         <location filename="BrowserMenu.h" line="539"/>
         <source>Open all selected</source>
         <oldsource>Open in Finder</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Seçili olanların tümünü aç</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="541"/>
@@ -23536,7 +23536,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="ToolbarSearch.cpp" line="158"/>
         <source>XMP fields</source>
-        <translation type="unfinished"></translation>
+        <translation>XMP alanları</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="163"/>
