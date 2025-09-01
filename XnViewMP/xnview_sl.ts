@@ -735,7 +735,7 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="4114"/>
         <source>Open in file manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpri v upravitelju datotek</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4117"/>
@@ -10917,17 +10917,17 @@ Ali jih želite odstraniti?</translation>
     <message>
         <location filename="DlgSearch.cpp" line="254"/>
         <source>Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Prednastavitev</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="255"/>
         <source>Preset search name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ime prednastavljenega iskanja:</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="258"/>
         <source>Save pathname</source>
-        <translation type="unfinished"></translation>
+        <translation>Shrani ime poti</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="370"/>
@@ -11994,7 +11994,7 @@ sličico</translation>
     <message>
         <location filename="DlgSettingsGeneral.cpp" line="117"/>
         <source>Select a program</source>
-        <translation type="unfinished">Izberite program</translation>
+        <translation>Izberite program</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.cpp" line="302"/>
@@ -12171,7 +12171,7 @@ sličico</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="369"/>
         <source>ExifTool path</source>
-        <translation type="unfinished"></translation>
+        <translation>Pot do ExifTool</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="446"/>
@@ -14607,7 +14607,7 @@ Ali želite ponovno dodeliti?</translation>
     <message>
         <location filename="DlgSlideshow.ui" line="343"/>
         <source>Watch folders for new files</source>
-        <translation type="unfinished"></translation>
+        <translation>Spremljajte mape za nove datoteke</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="376"/>
@@ -16419,7 +16419,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="FileListWidget.cpp" line="297"/>
         <source>Do you want to add only the folder and not the filelist?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ali želite dodati samo mapo in ne seznama datotek?</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="40"/>
@@ -18442,7 +18442,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="EditXMPWidget.cpp" line="171"/>
         <source>Telephone number</source>
-        <translation type="unfinished"></translation>
+        <translation>Telefonska številka</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="113"/>
@@ -19409,7 +19409,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="464"/>
         <location filename="BrowserMenu.h" line="465"/>
         <source>##rating##</source>
-        <translation type="unfinished"></translation>
+        <translation>##ocena##</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="467"/>
@@ -19420,7 +19420,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="472"/>
         <source>##rating## (go to next image)</source>
         <oldsource>Excellent (go to next image)</oldsource>
-        <translation type="unfinished">Odlično (pojdi na naslednjo sliko)</translation>
+        <translation>##ocena## (pojdi na naslednjo sliko)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="485"/>
@@ -19502,7 +19502,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="538"/>
         <source>Open in file manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpri v upravitelju datotek</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="556"/>
@@ -19885,7 +19885,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="539"/>
         <source>Open all selected</source>
         <oldsource>Open in Finder</oldsource>
-        <translation type="unfinished">Odpri v Finder</translation>
+        <translation>Odpri vse izbrane</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="19"/>
@@ -23649,7 +23649,7 @@ Spremenite ga lahko v Nastavitve › Katalog.</translation>
     <message>
         <location filename="ToolbarSearch.cpp" line="158"/>
         <source>XMP fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Polja XMP</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="163"/>
