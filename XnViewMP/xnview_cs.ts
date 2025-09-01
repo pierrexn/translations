@@ -19557,7 +19557,7 @@ Chcete pokračovat?</translation>
         <source>Open all selected</source>
         <oldsource>Open in Finder</oldsource>
         <translatorcomment>I suppose this is on Mac :-)</translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation>Otevřít všechny vybrané</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="552"/>
@@ -19664,7 +19664,7 @@ Chcete pokračovat?</translation>
         <location filename="BrowserMenu.h" line="464"/>
         <location filename="BrowserMenu.h" line="465"/>
         <source>##rating##</source>
-        <translation type="unfinished"></translation>
+        <translation>##rating##</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="507"/>
@@ -23712,7 +23712,7 @@ Můžete ji změnit v nabídce Nastavení › Katalog.</translation>
     <message>
         <location filename="ToolbarSearch.cpp" line="158"/>
         <source>XMP fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Pole XMP</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="163"/>
