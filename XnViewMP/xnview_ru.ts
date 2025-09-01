@@ -744,7 +744,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="BrowserWindow.cpp" line="4114"/>
         <source>Open in file manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть в файловом менеджере</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4117"/>
@@ -10954,17 +10954,17 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.cpp" line="254"/>
         <source>Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Предустановка</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="255"/>
         <source>Preset search name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Название предустановки:</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="258"/>
         <source>Save pathname</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранять путь</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="370"/>
@@ -12038,7 +12038,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.cpp" line="117"/>
         <source>Select a program</source>
-        <translation type="unfinished">Выбор программы</translation>
+        <translation>Выбор программы</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.cpp" line="302"/>
@@ -12299,7 +12299,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="369"/>
         <source>ExifTool path</source>
-        <translation type="unfinished"></translation>
+        <translation>Путь к ExifTool</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="431"/>
@@ -14578,7 +14578,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSlideshow.ui" line="343"/>
         <source>Watch folders for new files</source>
-        <translation type="unfinished"></translation>
+        <translation>Отслеживать новые файлы в папках</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="580"/>
@@ -16481,7 +16481,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="FileListWidget.cpp" line="297"/>
         <source>Do you want to add only the folder and not the filelist?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы хотите добавить только папку, а не список файлов?</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="40"/>
@@ -18511,7 +18511,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="EditXMPWidget.cpp" line="171"/>
         <source>Telephone number</source>
-        <translation type="unfinished"></translation>
+        <translation>Номер телефона</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="113"/>
@@ -19478,7 +19478,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="472"/>
         <source>##rating## (go to next image)</source>
         <oldsource>Excellent (go to next image)</oldsource>
-        <translation type="unfinished">Отлично (перейти к следующему файлу)</translation>
+        <translation>##rating## (перейти к следующему файлу)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="485"/>
@@ -19644,7 +19644,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="464"/>
         <location filename="BrowserMenu.h" line="465"/>
         <source>##rating##</source>
-        <translation type="unfinished"></translation>
+        <translation>##rating##</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="507"/>
@@ -19679,7 +19679,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="538"/>
         <source>Open in file manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть в файловом менеджере</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="539"/>
@@ -23722,7 +23722,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="ToolbarSearch.cpp" line="158"/>
         <source>XMP fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Поля XMP</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="163"/>
