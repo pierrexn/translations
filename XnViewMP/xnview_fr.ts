@@ -19769,7 +19769,7 @@ Voulez-vous continuer ?</translation>
         <location filename="BrowserMenu.h" line="539"/>
         <source>Open all selected</source>
         <oldsource>Open in Finder</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir toute la selection</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="19"/>
