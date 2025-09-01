@@ -700,7 +700,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="4114"/>
         <source>Open in file manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Openen in bestandsbeheer</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4117"/>
@@ -10882,17 +10882,17 @@ Wil je ze verwijderen?</translation>
     <message>
         <location filename="DlgSearch.cpp" line="254"/>
         <source>Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Voorinstelling</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="255"/>
         <source>Preset search name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Voorinstelling zoekmachine:</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="258"/>
         <source>Save pathname</source>
-        <translation type="unfinished"></translation>
+        <translation>Padnaam opslaan</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="370"/>
@@ -11958,7 +11958,7 @@ Miniatuur</translation>
     <message>
         <location filename="DlgSettingsGeneral.cpp" line="117"/>
         <source>Select a program</source>
-        <translation type="unfinished">Programma selecteren</translation>
+        <translation>Programma selecteren</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.cpp" line="302"/>
@@ -12315,7 +12315,7 @@ Miniatuur</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="369"/>
         <source>ExifTool path</source>
-        <translation type="unfinished"></translation>
+        <translation>Pad ExifTool</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="723"/>
@@ -14488,7 +14488,7 @@ Opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgSlideshow.ui" line="343"/>
         <source>Watch folders for new files</source>
-        <translation type="unfinished"></translation>
+        <translation>Mappen controleren op nieuwe Bestanden</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="580"/>
@@ -15382,7 +15382,7 @@ Doorgaan?</translation>
     <message>
         <location filename="DlgUserFilter.ui" line="483"/>
         <source>Bias</source>
-        <translation>Voorinstelling</translation>
+        <translation>Vertekening</translation>
     </message>
     <message>
         <location filename="DlgUserFilter.ui" line="476"/>
@@ -16387,7 +16387,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <message>
         <location filename="FileListWidget.cpp" line="297"/>
         <source>Do you want to add only the folder and not the filelist?</source>
-        <translation type="unfinished"></translation>
+        <translation>Alleen de map toevoegen en niet de bestandslijst?</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="40"/>
@@ -18410,7 +18410,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <message>
         <location filename="EditXMPWidget.cpp" line="171"/>
         <source>Telephone number</source>
-        <translation type="unfinished"></translation>
+        <translation>Telefoonnummer</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="113"/>
@@ -19162,7 +19162,7 @@ Doorgaan?</translation>
         <location filename="BrowserMenu.h" line="472"/>
         <source>##rating## (go to next image)</source>
         <oldsource>Poor (go to next image)</oldsource>
-        <translation type="unfinished">Matig (naar volgende afbeelding)</translation>
+        <translation>##waardering## (naar volgende afbeelding)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="12"/>
@@ -19446,7 +19446,7 @@ Doorgaan?</translation>
         <location filename="BrowserMenu.h" line="464"/>
         <location filename="BrowserMenu.h" line="465"/>
         <source>##rating##</source>
-        <translation type="unfinished"></translation>
+        <translation>#waardering #</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="485"/>
@@ -19476,7 +19476,7 @@ Doorgaan?</translation>
     <message>
         <location filename="BrowserMenu.h" line="538"/>
         <source>Open in file manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Openen in bestandsbeheer</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="556"/>
@@ -20267,7 +20267,7 @@ Doorgaan?</translation>
         <location filename="BrowserMenu.h" line="539"/>
         <source>Open all selected</source>
         <oldsource>Open in Finder</oldsource>
-        <translation type="unfinished">Opên in Zoekfunctie</translation>
+        <translation>Selectie openen</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="541"/>
@@ -23609,7 +23609,7 @@ Dit is te wijzigen in Instellingen › Catalogus.</translation>
     <message>
         <location filename="ToolbarSearch.cpp" line="158"/>
         <source>XMP fields</source>
-        <translation type="unfinished"></translation>
+        <translation>XMP-velden</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="163"/>
