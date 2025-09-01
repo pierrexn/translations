@@ -19554,7 +19554,7 @@ Möchten Sie fortfahren?</translation>
         <location filename="BrowserMenu.h" line="464"/>
         <location filename="BrowserMenu.h" line="465"/>
         <source>##rating##</source>
-        <translation type="unfinished"></translation>
+        <translation>##rating##</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="524"/>
@@ -23592,7 +23592,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="ToolbarSearch.cpp" line="158"/>
         <source>XMP fields</source>
-        <translation type="unfinished"></translation>
+        <translation>XMP-Daten</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="163"/>
