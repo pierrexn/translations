@@ -19493,7 +19493,7 @@ Chcete pokračovat?</translation>
         <location filename="BrowserMenu.h" line="472"/>
         <source>##rating## (go to next image)</source>
         <oldsource>Excellent (go to next image)</oldsource>
-        <translation type="unfinished">Výborné (přejít k dalšímu obrázku)</translation>
+        <translation>##rating## (přejít k dalšímu obrázku)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="485"/>
