@@ -15675,11 +15675,11 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>##rating##</source>
-        <translation type="unfinished"></translation>
+        <translation>##rating##</translation>
     </message>
     <message>
         <source>##rating## (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>##rating## (siirry seuraavaan kuvaan)</translation>
     </message>
     <message>
         <source>Open in file manager</source>
@@ -18104,7 +18104,7 @@ Voit muuttaa sitä asetusten kohdasta &quot;Katalogi&quot;.</translation>
     </message>
     <message>
         <source>XMP fields</source>
-        <translation type="unfinished"></translation>
+        <translation>XMP-kentistä</translation>
     </message>
 </context>
 <context>
