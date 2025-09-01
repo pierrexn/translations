@@ -19557,12 +19557,12 @@ Chcete pokračovat?</translation>
         <source>Open all selected</source>
         <oldsource>Open in Finder</oldsource>
         <translatorcomment>I suppose this is on Mac :-)</translatorcomment>
-        <translation type="unfinished">Otevřít ve Finderu</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="552"/>
         <source>Add to favorites...</source>
-        <translation>Přidat k oblíbeným...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="559"/>
