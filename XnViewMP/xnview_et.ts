@@ -19336,7 +19336,7 @@ Kas soovite jätkata?</translation>
         <location filename="BrowserMenu.h" line="464"/>
         <location filename="BrowserMenu.h" line="465"/>
         <source>##rating##</source>
-        <translation type="unfinished"></translation>
+        <translation>##rating##</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="467"/>
@@ -19347,7 +19347,7 @@ Kas soovite jätkata?</translation>
         <location filename="BrowserMenu.h" line="472"/>
         <source>##rating## (go to next image)</source>
         <oldsource>Excellent (go to next image)</oldsource>
-        <translation type="unfinished">Suurepärane (liikuda järgmisele pildile)</translation>
+        <translation>##rating## (liikuda järgmisele pildile)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="485"/>
