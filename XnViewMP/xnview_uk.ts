@@ -19756,7 +19756,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="539"/>
         <source>Open all selected</source>
         <oldsource>Open in Finder</oldsource>
-        <translation type="unfinished">Відкрити в пошуковій системі</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="544"/>
