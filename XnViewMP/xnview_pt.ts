@@ -19446,7 +19446,7 @@ Deseja continuar?</translation>
         <location filename="BrowserMenu.h" line="464"/>
         <location filename="BrowserMenu.h" line="465"/>
         <source>##rating##</source>
-        <translation>##classificação##</translation>
+        <translation>##rating##</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="467"/>
@@ -19457,7 +19457,7 @@ Deseja continuar?</translation>
         <location filename="BrowserMenu.h" line="472"/>
         <source>##rating## (go to next image)</source>
         <oldsource>Excellent (go to next image)</oldsource>
-        <translation>##classificação## (passar à imagem seguinte)</translation>
+        <translation>##rating## (passar à imagem seguinte)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="485"/>
