@@ -19484,7 +19484,7 @@ Er du sikker på at du vil fortsette?</translation>
         <location filename="BrowserMenu.h" line="539"/>
         <source>Open all selected</source>
         <oldsource>Open in Finder</oldsource>
-        <translation type="unfinished">Åpne i XnViewMP sin utforsker</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="547"/>
