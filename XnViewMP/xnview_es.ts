@@ -15670,11 +15670,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>##rating##</source>
-        <translation type="unfinished"></translation>
+        <translation>##rating##</translation>
     </message>
     <message>
         <source>##rating## (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>##rating## (ir a la siguiente imagen)</translation>
     </message>
     <message>
         <source>Open in file manager</source>
@@ -18099,7 +18099,7 @@ Puedo cambiarlo en Configuración › Catálogo.</translation>
     </message>
     <message>
         <source>XMP fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Campos XMP</translation>
     </message>
 </context>
 <context>
