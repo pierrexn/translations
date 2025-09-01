@@ -730,7 +730,7 @@ Arrastar e largar sobre o nó pretendido.</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="4114"/>
         <source>Open in file manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir no gestor de ficheiros</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4117"/>
@@ -7233,7 +7233,7 @@ Deseja continuar?</translation>
         <location filename="DlgEditGps.cpp" line="34"/>
         <source>ExifTool is not installed in AddOn folder!</source>
         <oldsource>ExifTool is not installed in Addon folder!</oldsource>
-        <translation>A ExifTool não está instalada na pasta Addon!</translation>
+        <translation>A ferramenta EXIF não está instalada na pasta Addon!</translation>
     </message>
 </context>
 <context>
@@ -10920,17 +10920,17 @@ Prefere retirá-los?</translation>
     <message>
         <location filename="DlgSearch.cpp" line="254"/>
         <source>Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo pré-definido</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="255"/>
         <source>Preset search name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome do modelo pré-definido:</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="258"/>
         <source>Save pathname</source>
-        <translation type="unfinished"></translation>
+        <translation>Gravar caminho</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="370"/>
@@ -12001,7 +12001,7 @@ Miniatura</translation>
     <message>
         <location filename="DlgSettingsGeneral.cpp" line="117"/>
         <source>Select a program</source>
-        <translation type="unfinished">Seleccionar um programa</translation>
+        <translation>Seleccionar um programa</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.cpp" line="302"/>
@@ -12262,7 +12262,7 @@ Miniatura</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="369"/>
         <source>ExifTool path</source>
-        <translation type="unfinished"></translation>
+        <translation>Caminho da ferramenta EXIF</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="431"/>
@@ -14077,7 +14077,7 @@ Pretende reatribuir?</translation>
         <location filename="DlgSettingsView.ui" line="514"/>
         <source>Show Rating &amp;&amp; Color labels</source>
         <oldsource>Show Rating &amp;&amp; Label color</oldsource>
-        <translation>Mostrar rótulos de Classificação &amp;&amp;Cor</translation>
+        <translation>Mostrar Classificação &amp;&amp; rótulos de Cor</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="696"/>
@@ -14537,7 +14537,7 @@ Pretende reatribuir?</translation>
     <message>
         <location filename="DlgSlideshow.ui" line="343"/>
         <source>Watch folders for new files</source>
-        <translation type="unfinished"></translation>
+        <translation>Monitorizar pastas para novos ficheiros</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="580"/>
@@ -16438,7 +16438,7 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
     <message>
         <location filename="FileListWidget.cpp" line="297"/>
         <source>Do you want to add only the folder and not the filelist?</source>
-        <translation type="unfinished"></translation>
+        <translation>Deseja adicionar apenas a pasta e não a lista de ficheiros?</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="40"/>
@@ -18469,7 +18469,7 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
     <message>
         <location filename="EditXMPWidget.cpp" line="171"/>
         <source>Telephone number</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de telefone</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="113"/>
@@ -19446,7 +19446,7 @@ Deseja continuar?</translation>
         <location filename="BrowserMenu.h" line="464"/>
         <location filename="BrowserMenu.h" line="465"/>
         <source>##rating##</source>
-        <translation type="unfinished"></translation>
+        <translation>##classificação##</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="467"/>
@@ -19457,7 +19457,7 @@ Deseja continuar?</translation>
         <location filename="BrowserMenu.h" line="472"/>
         <source>##rating## (go to next image)</source>
         <oldsource>Excellent (go to next image)</oldsource>
-        <translation type="unfinished">Excelente (passar à imagem seguinte)</translation>
+        <translation>##classificação## (passar à imagem seguinte)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="485"/>
@@ -19487,7 +19487,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="BrowserMenu.h" line="538"/>
         <source>Open in file manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir o gestor de ficheiros</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="556"/>
@@ -20223,7 +20223,7 @@ Deseja continuar?</translation>
         <location filename="BrowserMenu.h" line="539"/>
         <source>Open all selected</source>
         <oldsource>Open in Finder</oldsource>
-        <translation type="unfinished">Abrir no Finder</translation>
+        <translation>Abrir todos os seleccionados</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="541"/>
@@ -23684,7 +23684,7 @@ Pode mudá-lo em Configurações &gt; Catálogo.</translation>
     <message>
         <location filename="ToolbarSearch.cpp" line="158"/>
         <source>XMP fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Campos XMP</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="163"/>
