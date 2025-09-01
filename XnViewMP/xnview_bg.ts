@@ -19326,7 +19326,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="472"/>
         <source>##rating## (go to next image)</source>
         <oldsource>Excellent (go to next image)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>##rating## (преминете към следващото изображение)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="485"/>
@@ -19840,7 +19840,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="464"/>
         <location filename="BrowserMenu.h" line="465"/>
         <source>##rating##</source>
-        <translation type="unfinished"></translation>
+        <translation>##rating##</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="498"/>
@@ -23527,7 +23527,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="ToolbarSearch.cpp" line="158"/>
         <source>XMP fields</source>
-        <translation type="unfinished"></translation>
+        <translation>XMP полета</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="163"/>
