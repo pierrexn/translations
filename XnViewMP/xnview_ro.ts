@@ -15686,11 +15686,11 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>##rating##</source>
-        <translation type="unfinished"></translation>
+        <translation>##rating##</translation>
     </message>
     <message>
         <source>##rating## (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>##rating## (mergi la imaginea următoare)</translation>
     </message>
     <message>
         <source>Open in file manager</source>
@@ -18118,7 +18118,7 @@ O poți schimba în Setări › Catalog.</translation>
     </message>
     <message>
         <source>XMP fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Câmpuri XMP</translation>
     </message>
 </context>
 <context>
