@@ -19350,7 +19350,7 @@ Er du sikker på at du vil fortsette?</translation>
         <location filename="BrowserMenu.h" line="472"/>
         <source>##rating## (go to next image)</source>
         <oldsource>Poor (go to next image)</oldsource>
-        <translation type="unfinished">Dårlig (Gå videre til neste bilde)</translation>
+        <translation>##rating## (Gå videre til neste bilde)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="507"/>
@@ -19438,7 +19438,7 @@ Er du sikker på at du vil fortsette?</translation>
         <location filename="BrowserMenu.h" line="464"/>
         <location filename="BrowserMenu.h" line="465"/>
         <source>##rating##</source>
-        <translation type="unfinished"></translation>
+        <translation>##rating##</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="485"/>
@@ -19484,7 +19484,7 @@ Er du sikker på at du vil fortsette?</translation>
         <location filename="BrowserMenu.h" line="539"/>
         <source>Open all selected</source>
         <oldsource>Open in Finder</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Åpne alle de valgte</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="547"/>
@@ -23570,7 +23570,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="ToolbarSearch.cpp" line="158"/>
         <source>XMP fields</source>
-        <translation type="unfinished"></translation>
+        <translation>XMP-felter</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="163"/>
