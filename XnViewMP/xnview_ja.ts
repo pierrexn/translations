@@ -19642,7 +19642,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="472"/>
         <source>##rating## (go to next image)</source>
         <oldsource>Excellent (go to next image)</oldsource>
-        <translation type="unfinished">最高（次の画像に移動）</translation>
+        <translation>##rating##（次の画像に移動）</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="485"/>
@@ -19734,7 +19734,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="539"/>
         <source>Open all selected</source>
         <oldsource>Open in Finder</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>選択したものをすべて開く</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="19"/>
@@ -19825,7 +19825,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="464"/>
         <location filename="BrowserMenu.h" line="465"/>
         <source>##rating##</source>
-        <translation type="unfinished"></translation>
+        <translation>##rating##</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="524"/>
