@@ -5093,7 +5093,7 @@ Biztos folytassuk?</translation>
     <message>
         <location filename="DlgConvert.ui" line="1763"/>
         <source>Clear filename field at startup</source>
-        <translation>Indításkor kiűríti a fájlnév mezőt</translation>
+        <translation>Indításkor kiüríti a fájlnév mezőt</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1777"/>
@@ -19369,7 +19369,7 @@ Biztosan folytassuk?</translation>
         <location filename="BrowserMenu.h" line="464"/>
         <location filename="BrowserMenu.h" line="465"/>
         <source>##rating##</source>
-        <translation type="unfinished"></translation>
+        <translation>##rating##</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="467"/>
