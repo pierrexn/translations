@@ -19819,7 +19819,7 @@ Vols continuar?</translation>
         <location filename="BrowserMenu.h" line="539"/>
         <source>Open all selected</source>
         <oldsource>Open in Finder</oldsource>
-        <translation type="unfinished">Obre en el buscador</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="547"/>
