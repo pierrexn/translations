@@ -15669,11 +15669,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>##rating##</source>
-        <translation type="unfinished"></translation>
+        <translation>##rating##</translation>
     </message>
     <message>
         <source>##rating## (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>##rating## (անցնել հաջորդ պատկերին)</translation>
     </message>
     <message>
         <source>Open in file manager</source>
@@ -18098,7 +18098,7 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>XMP fields</source>
-        <translation type="unfinished"></translation>
+        <translation>XMP դաշտեր</translation>
     </message>
 </context>
 <context>
