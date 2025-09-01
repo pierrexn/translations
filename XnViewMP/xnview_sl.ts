@@ -19409,7 +19409,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="464"/>
         <location filename="BrowserMenu.h" line="465"/>
         <source>##rating##</source>
-        <translation>##ocena##</translation>
+        <translation>##rating##</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="467"/>
@@ -19420,7 +19420,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="472"/>
         <source>##rating## (go to next image)</source>
         <oldsource>Excellent (go to next image)</oldsource>
-        <translation>##ocena## (pojdi na naslednjo sliko)</translation>
+        <translation>##rating## (pojdi na naslednjo sliko)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="485"/>
