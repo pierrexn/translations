@@ -732,7 +732,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="BrowserWindow.cpp" line="4114"/>
         <source>Open in file manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Im Dateimanager öffnen</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4117"/>
@@ -10873,17 +10873,17 @@ Möchten Sie sie entfernen?</translation>
     <message>
         <location filename="DlgSearch.cpp" line="254"/>
         <source>Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Preset</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="255"/>
         <source>Preset search name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nach Preset suchen:</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="258"/>
         <source>Save pathname</source>
-        <translation type="unfinished"></translation>
+        <translation>Pfadname speichern</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="370"/>
@@ -11946,7 +11946,7 @@ Miniaturbild</translation>
     <message>
         <location filename="DlgSettingsGeneral.cpp" line="117"/>
         <source>Select a program</source>
-        <translation type="unfinished">Programm auswählen</translation>
+        <translation>Programm auswählen</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.cpp" line="302"/>
@@ -12192,7 +12192,7 @@ Miniaturbild</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="369"/>
         <source>ExifTool path</source>
-        <translation type="unfinished"></translation>
+        <translation>ExifTool-Pfad</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="409"/>
@@ -14478,7 +14478,7 @@ Möchten Sie neu zuweisen?</translation>
     <message>
         <location filename="DlgSlideshow.ui" line="343"/>
         <source>Watch folders for new files</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordner auf neue Dateien überwachen</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="580"/>
@@ -16376,7 +16376,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="FileListWidget.cpp" line="297"/>
         <source>Do you want to add only the folder and not the filelist?</source>
-        <translation type="unfinished"></translation>
+        <translation>Möchten Sie nur den Ordner und nicht die Dateiliste hinzufügen?</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="40"/>
@@ -18399,7 +18399,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="EditXMPWidget.cpp" line="171"/>
         <source>Telephone number</source>
-        <translation type="unfinished"></translation>
+        <translation>Telefonnummer</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="113"/>
@@ -19574,7 +19574,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="BrowserMenu.h" line="538"/>
         <source>Open in file manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Im Dateimanager öffnen</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="544"/>
