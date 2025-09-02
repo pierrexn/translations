@@ -619,7 +619,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Open in file manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschide în managerul (gestionarul) de fișiere</translation>
     </message>
 </context>
 <context>
@@ -8525,15 +8525,15 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Presetare</translation>
     </message>
     <message>
         <source>Preset search name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nume presetat pentru căutare:</translation>
     </message>
     <message>
         <source>Save pathname</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvează numele căii</translation>
     </message>
 </context>
 <context>
@@ -9384,7 +9384,7 @@ miniatură</translation>
     </message>
     <message>
         <source>Select a program</source>
-        <translation type="unfinished">Selectează un program</translation>
+        <translation>Selectează un program</translation>
     </message>
 </context>
 <context>
@@ -9725,7 +9725,7 @@ miniatură</translation>
     </message>
     <message>
         <source>ExifTool path</source>
-        <translation type="unfinished"></translation>
+        <translation>Calea pentru ExifTool</translation>
     </message>
 </context>
 <context>
@@ -11302,7 +11302,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Watch folders for new files</source>
-        <translation type="unfinished"></translation>
+        <translation>Urmărește folderele (dosarele) pentru fișiere noi</translation>
     </message>
 </context>
 <context>
@@ -12742,7 +12742,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Do you want to add only the folder and not the filelist?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrei să adaugi numai folderul (dosarul) și nu lista de fișiere?</translation>
     </message>
 </context>
 <context>
@@ -14136,7 +14136,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Telephone number</source>
-        <translation type="unfinished"></translation>
+        <translation>Numărul de telefon</translation>
     </message>
 </context>
 <context>
@@ -15694,7 +15694,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Open in file manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschide în managerul (gestionarul) de fișiere</translation>
     </message>
 </context>
 <context>
