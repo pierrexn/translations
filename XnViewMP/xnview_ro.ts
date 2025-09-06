@@ -1555,7 +1555,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data</translation>
     </message>
 </context>
 <context>
@@ -16731,7 +16731,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Open in file manager</source>
-        <translation type="unfinished">Deschide în managerul (gestionarul) de fișiere</translation>
+        <translation>Deschide în managerul de fișiere (în gestionarul de fișiere)</translation>
     </message>
 </context>
 <context>
