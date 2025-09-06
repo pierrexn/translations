@@ -1551,6 +1551,10 @@ Drag and Drop over the desired node to assign.</translation>
         <source>No colour label</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Date</source>
+        <translation type="unfinished">Ամսաթիվ</translation>
+    </message>
 </context>
 <context>
     <name>DlgAboutClass</name>
@@ -15668,10 +15672,6 @@ Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>##rating##</source>
-        <translation>##rating##</translation>
-    </message>
-    <message>
         <source>##rating## (go to next image)</source>
         <translation>##rating## (անցնել հաջորդ պատկերին)</translation>
     </message>
@@ -16329,10 +16329,6 @@ Do you want to continue?</source>
         <translation>Սկսել/կանգնեցնել շարժապատկերումը</translation>
     </message>
     <message>
-        <source>Open in file explorer</source>
-        <translation>Բացել ցուցադրիչով</translation>
-    </message>
-    <message>
         <source>Print...</source>
         <translation>Տպել...</translation>
     </message>
@@ -16715,6 +16711,10 @@ Do you want to continue?</source>
     <message>
         <source>Print opened images...</source>
         <translation>Տպել բաց պատկերները...</translation>
+    </message>
+    <message>
+        <source>Open in file manager</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

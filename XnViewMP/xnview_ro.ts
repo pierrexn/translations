@@ -1553,6 +1553,10 @@ Trage și plasează peste nodul dorit de alocat.</translation>
         <source>No colour label</source>
         <translation>Nicio etichetă de culoare</translation>
     </message>
+    <message>
+        <source>Date</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgAboutClass</name>
@@ -15685,10 +15689,6 @@ Vrei să continui?</translation>
         <translation>Editează eticheta feței...</translation>
     </message>
     <message>
-        <source>##rating##</source>
-        <translation>##rating##</translation>
-    </message>
-    <message>
         <source>##rating## (go to next image)</source>
         <translation>##rating## (mergi la imaginea următoare)</translation>
     </message>
@@ -16486,10 +16486,6 @@ Vrei să continui?</translation>
         <translation>Echilibru alb...</translation>
     </message>
     <message>
-        <source>Open in file explorer</source>
-        <translation>Deschide în exploratorul de fișiere</translation>
-    </message>
-    <message>
         <source>Posterize...</source>
         <translation>Posterizează...</translation>
     </message>
@@ -16732,6 +16728,10 @@ Vrei să continui?</translation>
     <message>
         <source>Print opened images...</source>
         <translation>Tipărește imaginile deschise...</translation>
+    </message>
+    <message>
+        <source>Open in file manager</source>
+        <translation type="unfinished">Deschide în managerul (gestionarul) de fișiere</translation>
     </message>
 </context>
 <context>

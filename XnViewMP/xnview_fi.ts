@@ -1551,6 +1551,10 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
         <source>No colour label</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Date</source>
+        <translation type="unfinished">Päiväys</translation>
+    </message>
 </context>
 <context>
     <name>DlgAboutClass</name>
@@ -15674,10 +15678,6 @@ Jatketaanko?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>##rating##</source>
-        <translation>##rating##</translation>
-    </message>
-    <message>
         <source>##rating## (go to next image)</source>
         <translation>##rating## (siirry seuraavaan kuvaan)</translation>
     </message>
@@ -16495,10 +16495,6 @@ Jatketaanko?</translation>
         <translation>Valkotasapaino...</translation>
     </message>
     <message>
-        <source>Open in file explorer</source>
-        <translation>Avaa resurssienhallinassa</translation>
-    </message>
-    <message>
         <source>Posterize...</source>
         <translation>Porrastus...</translation>
     </message>
@@ -16721,6 +16717,10 @@ Jatketaanko?</translation>
     <message>
         <source>Print opened images...</source>
         <translation>Tulosta avatut kuvat...</translation>
+    </message>
+    <message>
+        <source>Open in file manager</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

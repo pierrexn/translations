@@ -791,7 +791,7 @@ Arrastar e largar sobre o nó pretendido.</translation>
     <name>CategoryManager</name>
     <message>
         <location filename="CategoryManager.cpp" line="203"/>
-        <location filename="CategoryManager.cpp" line="389"/>
+        <location filename="CategoryManager.cpp" line="392"/>
         <source>Categories</source>
         <translation>Categorias</translation>
     </message>
@@ -885,97 +885,97 @@ Arrastar e largar sobre o nó pretendido.</translation>
 <context>
     <name>CategoryView</name>
     <message>
-        <location filename="CategoryView.cpp" line="477"/>
-        <location filename="CategoryView.cpp" line="572"/>
+        <location filename="CategoryView.cpp" line="481"/>
+        <location filename="CategoryView.cpp" line="576"/>
         <source>New category</source>
         <translation>Nova categoria</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="404"/>
-        <location filename="CategoryView.cpp" line="479"/>
-        <location filename="CategoryView.cpp" line="574"/>
+        <location filename="CategoryView.cpp" line="408"/>
+        <location filename="CategoryView.cpp" line="483"/>
+        <location filename="CategoryView.cpp" line="578"/>
         <source>Rename</source>
         <translation>Mudar o nome</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="400"/>
+        <location filename="CategoryView.cpp" line="404"/>
         <source>New album...</source>
         <translation>Novo álbum...</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="405"/>
-        <location filename="CategoryView.cpp" line="480"/>
-        <location filename="CategoryView.cpp" line="575"/>
+        <location filename="CategoryView.cpp" line="409"/>
+        <location filename="CategoryView.cpp" line="484"/>
+        <location filename="CategoryView.cpp" line="579"/>
         <source>Delete</source>
         <translation>Apagar</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="365"/>
-        <location filename="CategoryView.cpp" line="531"/>
-        <location filename="CategoryView.cpp" line="596"/>
+        <location filename="CategoryView.cpp" line="369"/>
+        <location filename="CategoryView.cpp" line="535"/>
+        <location filename="CategoryView.cpp" line="600"/>
         <source>Delete category</source>
         <translation>Apagar a categoria</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="365"/>
-        <location filename="CategoryView.cpp" line="531"/>
-        <location filename="CategoryView.cpp" line="596"/>
+        <location filename="CategoryView.cpp" line="369"/>
+        <location filename="CategoryView.cpp" line="535"/>
+        <location filename="CategoryView.cpp" line="600"/>
         <source>Are you sure to delete this category?</source>
         <translation>Tem a certeza de apagar esta categoria?</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="407"/>
+        <location filename="CategoryView.cpp" line="411"/>
         <source>Empty</source>
         <translation>Vazio</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="409"/>
+        <location filename="CategoryView.cpp" line="413"/>
         <source>Export (Bridge format)...</source>
         <translation>Exportar (formato Bridge)...</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="412"/>
+        <location filename="CategoryView.cpp" line="416"/>
         <source>Import (Bridge format)...</source>
         <translation>Importar (formato Bridge)...</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="437"/>
+        <location filename="CategoryView.cpp" line="441"/>
         <source>Delete album</source>
         <translation>Apagar álbum</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="437"/>
+        <location filename="CategoryView.cpp" line="441"/>
         <source>Are you sure to delete this album?</source>
         <translation>Tem a certeza de apagar este álbum?</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="443"/>
+        <location filename="CategoryView.cpp" line="447"/>
         <source>New Album</source>
         <translation>Novo álbum</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="455"/>
+        <location filename="CategoryView.cpp" line="459"/>
         <source>Empty album</source>
         <translation>Álbum vazio</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="455"/>
+        <location filename="CategoryView.cpp" line="459"/>
         <source>Are you sure to clear this album?</source>
         <translation>Tem a certeza de limpar este álbum?</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="462"/>
+        <location filename="CategoryView.cpp" line="466"/>
         <source>Import collection</source>
         <translation>Importar colecção</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="468"/>
+        <location filename="CategoryView.cpp" line="472"/>
         <source>Export collection</source>
         <translation>Exportar colecção</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="544"/>
-        <location filename="CategoryView.cpp" line="608"/>
+        <location filename="CategoryView.cpp" line="548"/>
+        <location filename="CategoryView.cpp" line="612"/>
         <source>New Category</source>
         <translation>Nova Categoria</translation>
     </message>
@@ -1876,9 +1876,9 @@ Arrastar e largar sobre o nó pretendido.</translation>
     <name>DB</name>
     <message>
         <location filename="CategoryManager.cpp" line="151"/>
-        <location filename="MyDB.cpp" line="731"/>
-        <location filename="MyDB.cpp" line="1653"/>
-        <location filename="MyDB.cpp" line="2888"/>
+        <location filename="MyDB.cpp" line="732"/>
+        <location filename="MyDB.cpp" line="1768"/>
+        <location filename="MyDB.cpp" line="3003"/>
         <source>Other</source>
         <translation>Outra</translation>
     </message>
@@ -1888,72 +1888,72 @@ Arrastar e largar sobre o nó pretendido.</translation>
         <translation>Órfão</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="732"/>
+        <location filename="MyDB.cpp" line="733"/>
         <source>Photographs</source>
         <translation>Fotografias</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="733"/>
+        <location filename="MyDB.cpp" line="734"/>
         <source>Family</source>
         <translation>Família</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="734"/>
+        <location filename="MyDB.cpp" line="735"/>
         <source>Friends</source>
         <translation>Amigos</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="735"/>
+        <location filename="MyDB.cpp" line="736"/>
         <source>Pets</source>
         <translation>Animais de estimação</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="736"/>
+        <location filename="MyDB.cpp" line="737"/>
         <source>Travel</source>
         <translation>Viagem</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="737"/>
+        <location filename="MyDB.cpp" line="738"/>
         <source>Landscapes</source>
         <translation>Paisagens</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="738"/>
+        <location filename="MyDB.cpp" line="739"/>
         <source>Portraits</source>
         <translation>Retratos</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="739"/>
+        <location filename="MyDB.cpp" line="740"/>
         <source>Flowers</source>
         <translation>Flores</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="740"/>
+        <location filename="MyDB.cpp" line="741"/>
         <source>Animals</source>
         <translation>Animais</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="741"/>
+        <location filename="MyDB.cpp" line="742"/>
         <source>Pictures</source>
         <translation>Imagens</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="742"/>
+        <location filename="MyDB.cpp" line="743"/>
         <source>Icons</source>
         <translation>Ícones</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="743"/>
+        <location filename="MyDB.cpp" line="744"/>
         <source>Drawings</source>
         <translation>Desenhos</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="744"/>
+        <location filename="MyDB.cpp" line="745"/>
         <source>Videos</source>
         <translation>Vídeos</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="745"/>
+        <location filename="MyDB.cpp" line="746"/>
         <source>Audios</source>
         <translation>Áudios</translation>
     </message>
@@ -1961,52 +1961,58 @@ Arrastar e largar sobre o nó pretendido.</translation>
 <context>
     <name>DBFilterModel</name>
     <message>
-        <location filename="DBFilterModel.cpp" line="124"/>
+        <location filename="DBFilterModel.cpp" line="131"/>
         <source>Rating</source>
         <translation>Classificação</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="128"/>
+        <location filename="DBFilterModel.cpp" line="135"/>
         <source>Colour Label</source>
         <translation>Rótulo de cor</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="132"/>
+        <location filename="DBFilterModel.cpp" line="139"/>
         <source>People</source>
         <translation>Pessoas</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="135"/>
+        <location filename="DBFilterModel.cpp" line="142"/>
         <source>Special Items</source>
         <translation>Itens especiais</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="138"/>
+        <location filename="DBFilterModel.cpp" line="145"/>
         <source>Uncategorized</source>
         <translation>Sem Categoria</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="139"/>
+        <location filename="DBFilterModel.cpp" line="146"/>
         <source>No rating</source>
         <translation>Não classificado</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="140"/>
+        <location filename="DBFilterModel.cpp" line="147"/>
         <source>No colour label</source>
         <translation>Sem etiqueta de cor</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="141"/>
+        <location filename="DBFilterModel.cpp" line="148"/>
         <source>All</source>
         <translation>Tudo</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="144"/>
+        <location filename="DBFilterModel.cpp" line="150"/>
+        <location filename="DBFilterModel.cpp" line="1209"/>
+        <source>Date</source>
+        <translation type="unfinished">Data</translation>
+    </message>
+    <message>
+        <location filename="DBFilterModel.cpp" line="155"/>
         <source>Album</source>
         <translation>Álbum</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="329"/>
+        <location filename="DBFilterModel.cpp" line="339"/>
         <source>Tag (%1)</source>
         <translation>Etiqueta(s) (%1)</translation>
     </message>
@@ -12655,67 +12661,67 @@ Miniatura</translation>
 <context>
     <name>DlgSettingsInterface</name>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="145"/>
+        <location filename="DlgSettingsInterface.cpp" line="128"/>
         <source>-- COMMAND --</source>
         <translation>-- COMANDO --</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="149"/>
-        <location filename="DlgSettingsInterface.cpp" line="194"/>
-        <location filename="DlgSettingsInterface.cpp" line="339"/>
+        <location filename="DlgSettingsInterface.cpp" line="132"/>
+        <location filename="DlgSettingsInterface.cpp" line="177"/>
+        <location filename="DlgSettingsInterface.cpp" line="324"/>
         <source>-- SEPARATOR --</source>
         <translation>-- SEPARADOR --</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="154"/>
-        <location filename="DlgSettingsInterface.cpp" line="200"/>
+        <location filename="DlgSettingsInterface.cpp" line="137"/>
+        <location filename="DlgSettingsInterface.cpp" line="183"/>
         <source>-- NEW BAR --</source>
         <translation>-- NOVA BARRA --</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="160"/>
+        <location filename="DlgSettingsInterface.cpp" line="143"/>
         <source>-- NEW IPTC TEMPLATE --</source>
         <translation>-- NOVO MODELO IPTC --</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="166"/>
+        <location filename="DlgSettingsInterface.cpp" line="149"/>
         <source>-- NEW XMP TEMPLATE --</source>
         <translation>-- NOVO MODELO XMP --</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="506"/>
+        <location filename="DlgSettingsInterface.cpp" line="491"/>
         <source>Browse mode</source>
         <translation>Modo de explorador</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="507"/>
+        <location filename="DlgSettingsInterface.cpp" line="492"/>
         <source>Viewer mode</source>
         <oldsource>View mode</oldsource>
         <translation>Modo de visualizador</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="864"/>
-        <location filename="DlgSettingsInterface.cpp" line="884"/>
+        <location filename="DlgSettingsInterface.cpp" line="849"/>
+        <location filename="DlgSettingsInterface.cpp" line="869"/>
         <source>Set Icon...</source>
         <translation>Definir Ícone...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1062"/>
+        <location filename="DlgSettingsInterface.cpp" line="1047"/>
         <source>Set label</source>
         <translation>Definir rótulo</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1063"/>
+        <location filename="DlgSettingsInterface.cpp" line="1048"/>
         <source>Label:</source>
         <translation>Rótulo:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1211"/>
+        <location filename="DlgSettingsInterface.cpp" line="1196"/>
         <source>This shortcut is already assigned for </source>
         <translation>Este atalho já está atribuído </translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1227"/>
+        <location filename="DlgSettingsInterface.cpp" line="1212"/>
         <source>%1 is already assigned to:
 %2
 
@@ -12726,22 +12732,22 @@ Do you want to reassign?</source>
 Pretende reatribuir?</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1276"/>
+        <location filename="DlgSettingsInterface.cpp" line="1261"/>
         <source>Load toolbar</source>
         <translation>Carregar barra de ferramentas</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1294"/>
+        <location filename="DlgSettingsInterface.cpp" line="1279"/>
         <source>Save toolbar</source>
         <translation>Gravar barra de ferramentas</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1350"/>
+        <location filename="DlgSettingsInterface.cpp" line="1335"/>
         <source>Load shortcuts</source>
         <translation>Carregar atalhos</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1381"/>
+        <location filename="DlgSettingsInterface.cpp" line="1366"/>
         <source>Save shortcuts</source>
         <translation>Gravar os atalhos</translation>
     </message>
@@ -19439,16 +19445,6 @@ Deseja continuar?</translation>
         <translation>Navegar para</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="460"/>
-        <location filename="BrowserMenu.h" line="461"/>
-        <location filename="BrowserMenu.h" line="462"/>
-        <location filename="BrowserMenu.h" line="463"/>
-        <location filename="BrowserMenu.h" line="464"/>
-        <location filename="BrowserMenu.h" line="465"/>
-        <source>##rating##</source>
-        <translation>##rating##</translation>
-    </message>
-    <message>
         <location filename="BrowserMenu.h" line="467"/>
         <location filename="BrowserMenu.h" line="468"/>
         <location filename="BrowserMenu.h" line="469"/>
@@ -21001,8 +20997,9 @@ Deseja continuar?</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="307"/>
-        <source>Open in file explorer</source>
-        <translation>Abrir no explorador</translation>
+        <source>Open in file manager</source>
+        <oldsource>Open in file explorer</oldsource>
+        <translation type="unfinished">Abrir no explorador</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="308"/>
@@ -22055,12 +22052,12 @@ Deseja continuar?</translation>
         <translation>Baixo-Direita</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1006"/>
+        <location filename="DlgSettingsInterface.cpp" line="991"/>
         <source>Choose command</source>
         <translation>Escolha o comando</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1038"/>
+        <location filename="DlgSettingsInterface.cpp" line="1023"/>
         <source>Choose icon</source>
         <translation>Escolha o ícone</translation>
     </message>

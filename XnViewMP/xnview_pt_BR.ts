@@ -1543,6 +1543,10 @@ Drag and Drop over the desired node to assign.</source>
         <source>No colour label</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Date</source>
+        <translation type="unfinished">Data</translation>
+    </message>
 </context>
 <context>
     <name>DlgAboutClass</name>
@@ -15615,10 +15619,6 @@ Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>##rating##</source>
-        <translation>##rating##</translation>
-    </message>
-    <message>
         <source>##rating## (go to next image)</source>
         <translation>##rating## (vá para a próxima imagem)</translation>
     </message>
@@ -16280,10 +16280,6 @@ Do you want to continue?</source>
         <translation>Imprimir...</translation>
     </message>
     <message>
-        <source>Open in file explorer</source>
-        <translation>Abrir no gerenciador de arquivos</translation>
-    </message>
-    <message>
         <source>Path</source>
         <translation>Caminho</translation>
     </message>
@@ -16661,6 +16657,10 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Print opened images...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open in file manager</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

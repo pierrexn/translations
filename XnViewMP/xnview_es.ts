@@ -1551,6 +1551,10 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
         <source>No colour label</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Date</source>
+        <translation type="unfinished">Fecha</translation>
+    </message>
 </context>
 <context>
     <name>DlgAboutClass</name>
@@ -15669,10 +15673,6 @@ Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>##rating##</source>
-        <translation>##rating##</translation>
-    </message>
-    <message>
         <source>##rating## (go to next image)</source>
         <translation>##rating## (ir a la siguiente imagen)</translation>
     </message>
@@ -16462,10 +16462,6 @@ Do you want to continue?</source>
         <translation>Balance de blancos...</translation>
     </message>
     <message>
-        <source>Open in file explorer</source>
-        <translation>Abrir en explorador de archivos</translation>
-    </message>
-    <message>
         <source>Posterize...</source>
         <translation>Posterizar...</translation>
     </message>
@@ -16716,6 +16712,10 @@ Do you want to continue?</source>
     <message>
         <source>Print opened images...</source>
         <translation>Imprimir imágenes abiertas...</translation>
+    </message>
+    <message>
+        <source>Open in file manager</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
