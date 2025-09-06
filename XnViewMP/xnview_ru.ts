@@ -2011,7 +2011,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DBFilterModel.cpp" line="150"/>
         <location filename="DBFilterModel.cpp" line="1209"/>
         <source>Date</source>
-        <translation type="unfinished">Дата</translation>
+        <translation>Дата</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="155"/>
@@ -21039,7 +21039,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="307"/>
         <source>Open in file manager</source>
         <oldsource>Open in file explorer</oldsource>
-        <translation type="unfinished">Открыть в проводнике</translation>
+        <translation>Открыть в файловом менеджере</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="308"/>
