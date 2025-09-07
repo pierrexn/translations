@@ -1992,7 +1992,7 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
         <location filename="DBFilterModel.cpp" line="150"/>
         <location filename="DBFilterModel.cpp" line="1209"/>
         <source>Date</source>
-        <translation type="unfinished">Dátum</translation>
+        <translation>Dátum</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="155"/>
@@ -3451,7 +3451,7 @@ Felül szeretné írni?</translation>
         <location filename="DlgContactSheet.ui" line="722"/>
         <source>Open File Explorer</source>
         <oldsource>Open System Explorer</oldsource>
-        <translation>Megynyitás Intézőben</translation>
+        <translation>Megnyitás Intézőben</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="766"/>
@@ -6936,7 +6936,7 @@ Biztos folytassuk?</translation>
         <location filename="DlgCreateMulti.ui" line="251"/>
         <source>Open File Explorer</source>
         <oldsource>Open System Explorer</oldsource>
-        <translation>Megynyitás Intézőben</translation>
+        <translation>Megnyitás Intézőben</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.ui" line="209"/>
@@ -10880,7 +10880,7 @@ El szeretné őket távolítani?</translation>
     <message>
         <location filename="DlgSearch.cpp" line="258"/>
         <source>Save pathname</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Útvonal nevének mentése</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="370"/>
@@ -12303,7 +12303,7 @@ miniatűrként</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="369"/>
         <source>ExifTool path</source>
-        <translation type="unfinished"></translation>
+        <translation>ExifTool elérési útvonal</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="723"/>
@@ -14476,7 +14476,7 @@ Szeretné újratársítani?</translation>
     <message>
         <location filename="DlgSlideshow.ui" line="343"/>
         <source>Watch folders for new files</source>
-        <translation type="unfinished"></translation>
+        <translation>Mappák új fájljainak figyelése</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="580"/>
@@ -20901,7 +20901,7 @@ Biztosan folytassuk?</translation>
         <location filename="ViewMenu.h" line="307"/>
         <source>Open in file manager</source>
         <oldsource>Open in file explorer</oldsource>
-        <translation type="unfinished">Megynyitás Intézőben</translation>
+        <translation>Megnyitás fájlkezelőben</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="308"/>
