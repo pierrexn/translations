@@ -1992,7 +1992,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
         <location filename="DBFilterModel.cpp" line="150"/>
         <location filename="DBFilterModel.cpp" line="1209"/>
         <source>Date</source>
-        <translation type="unfinished">Datum</translation>
+        <translation>Datum</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="155"/>
@@ -20928,7 +20928,7 @@ Doorgaan?</translation>
         <location filename="ViewMenu.h" line="307"/>
         <source>Open in file manager</source>
         <oldsource>Open in file explorer</oldsource>
-        <translation type="unfinished">Openen in de verkenner</translation>
+        <translation>Openen in de verkenner</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="308"/>
