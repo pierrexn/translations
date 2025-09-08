@@ -2004,7 +2004,7 @@ Arrastar e largar sobre o nó pretendido.</translation>
         <location filename="DBFilterModel.cpp" line="150"/>
         <location filename="DBFilterModel.cpp" line="1209"/>
         <source>Date</source>
-        <translation type="unfinished">Data</translation>
+        <translation>Data</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="155"/>
@@ -20999,7 +20999,7 @@ Deseja continuar?</translation>
         <location filename="ViewMenu.h" line="307"/>
         <source>Open in file manager</source>
         <oldsource>Open in file explorer</oldsource>
-        <translation type="unfinished">Abrir no explorador</translation>
+        <translation>Abrir no gestor de ficheiros</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="308"/>
