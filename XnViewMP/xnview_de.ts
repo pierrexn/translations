@@ -910,22 +910,22 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CategoryView.cpp" line="430"/>
         <source>EXIF: Date taken</source>
-        <translation type="unfinished"></translation>
+        <translation>EXIF: Aufnahmedatum</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="432"/>
         <source>EXIF: Date modified</source>
-        <translation type="unfinished"></translation>
+        <translation>EXIF: Änderungsdatum</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="434"/>
         <source>File: Date modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Datei: Änderungsdatum</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="472"/>
         <source>New album</source>
-        <translation type="unfinished"></translation>
+        <translation>Neues Album</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="479"/>
@@ -2004,12 +2004,12 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DBFilterModel.cpp" line="152"/>
         <source>Taken in last 30 days</source>
-        <translation type="unfinished"></translation>
+        <translation>Aufgenommen in den letzten 30 Tagen</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="153"/>
         <source>Modified in last 30 days</source>
-        <translation type="unfinished"></translation>
+        <translation>In den letzten 30 Tagen geändert</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="155"/>
@@ -2020,37 +2020,37 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DBFilterModel.cpp" line="159"/>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Eigenschaften</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="164"/>
         <source>Albums</source>
-        <translation type="unfinished"></translation>
+        <translation>Alben</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="930"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Unbekannt</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1512"/>
         <source>Landscape</source>
-        <translation type="unfinished">Querformat</translation>
+        <translation>Querformat</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1514"/>
         <source>Portrait</source>
-        <translation type="unfinished">Hochformat</translation>
+        <translation>Hochformat</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1519"/>
         <source>Uncalibrated</source>
-        <translation type="unfinished"></translation>
+        <translation>Nicht kalibriert</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1521"/>
         <source>sRGB</source>
-        <translation type="unfinished">sRGB</translation>
+        <translation>sRGB</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="348"/>
@@ -12530,7 +12530,7 @@ Miniaturbild</translation>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="292"/>
         <source>Select a program</source>
-        <translation type="unfinished">Programm auswählen</translation>
+        <translation>Programm auswählen</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="338"/>
@@ -12653,12 +12653,12 @@ Miniaturbild</translation>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="381"/>
         <source>ExifTool path</source>
-        <translation type="unfinished">ExifTool-Pfad</translation>
+        <translation>ExifTool-Pfad</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="398"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
 </context>
 <context>
@@ -16921,7 +16921,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="1474"/>
         <source>File type</source>
-        <translation type="unfinished">Dateityp</translation>
+        <translation>Dateityp</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1116"/>
@@ -17481,7 +17481,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="1454"/>
         <source>Lens</source>
-        <translation type="unfinished">Objektiv</translation>
+        <translation>Objektiv</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1462"/>
@@ -17492,7 +17492,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="1470"/>
         <source>Shutter Speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Verschlusszeit</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1127"/>
