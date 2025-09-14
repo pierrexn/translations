@@ -726,10 +726,6 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
         <translation>Nimeä uudelleen</translation>
     </message>
     <message>
-        <source>New album...</source>
-        <translation>Uusi albumi...</translation>
-    </message>
-    <message>
         <source>New Album</source>
         <translation>Uusi albumi</translation>
     </message>
@@ -768,6 +764,22 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message>
         <source>Are you sure to delete this category?</source>
         <translation>Oletko varma että haluat poistaa tämän kategorian?</translation>
+    </message>
+    <message>
+        <source>EXIF: Date taken</source>
+        <translation type="unfinished">Exif: Kuvauspäivä</translation>
+    </message>
+    <message>
+        <source>EXIF: Date modified</source>
+        <translation type="unfinished">Exif: Muokkauspäivä</translation>
+    </message>
+    <message>
+        <source>File: Date modified</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New album</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1516,10 +1528,6 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
         <translation>Kaikki</translation>
     </message>
     <message>
-        <source>Album</source>
-        <translation>Albumi</translation>
-    </message>
-    <message>
         <source>Colour Label</source>
         <translation>Väritunniste</translation>
     </message>
@@ -1554,6 +1562,42 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message>
         <source>Date</source>
         <translation type="unfinished">Päiväys</translation>
+    </message>
+    <message>
+        <source>Taken in last 30 days</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modified in last 30 days</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Properties</source>
+        <translation type="unfinished">Ominaisuudet</translation>
+    </message>
+    <message>
+        <source>Albums</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Landscape</source>
+        <translation type="unfinished">Vaaka</translation>
+    </message>
+    <message>
+        <source>Portrait</source>
+        <translation type="unfinished">Pysty</translation>
+    </message>
+    <message>
+        <source>Uncalibrated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>sRGB</source>
+        <translation type="unfinished">sRGB</translation>
     </message>
 </context>
 <context>
@@ -9375,10 +9419,6 @@ pienoiskuvina</translation>
         <source>Do you want to delete the selected Auto Correct entry?</source>
         <translation>Haluatko poistaa valitut automaattikorjauskohteet?</translation>
     </message>
-    <message>
-        <source>Select a program</source>
-        <translation type="unfinished">Valitse ohjelma</translation>
-    </message>
 </context>
 <context>
     <name>DlgSettingsGeneralClass</name>
@@ -9716,10 +9756,6 @@ pienoiskuvina</translation>
         <comment>icc</comment>
         <translation type="unfinished">Mukautettu</translation>
     </message>
-    <message>
-        <source>ExifTool path</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>DlgSettingsIntegration</name>
@@ -9783,6 +9819,10 @@ pienoiskuvina</translation>
         <source>Application folder</source>
         <translation>Sovelluskansio</translation>
     </message>
+    <message>
+        <source>Select a program</source>
+        <translation type="unfinished">Valitse ohjelma</translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsIntegrationClass</name>
@@ -9841,6 +9881,14 @@ pienoiskuvina</translation>
     <message>
         <source>Custom</source>
         <translation>Mukautettu</translation>
+    </message>
+    <message>
+        <source>ExifTool path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation type="unfinished">...</translation>
     </message>
 </context>
 <context>
@@ -13213,6 +13261,10 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
         <source>Field (Number)</source>
         <translation>Kenttä (Numero)</translation>
     </message>
+    <message>
+        <source>File type</source>
+        <translation type="unfinished">Tiedostotyyppi</translation>
+    </message>
 </context>
 <context>
     <name>InfoCategoryTreeView</name>
@@ -13779,6 +13831,14 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>SubSecTime Digitized</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lens</source>
+        <translation type="unfinished">Linssit</translation>
+    </message>
+    <message>
+        <source>Shutter Speed</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

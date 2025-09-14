@@ -728,10 +728,6 @@ Trage și plasează peste nodul dorit de alocat.</translation>
         <translation>Redenumire</translation>
     </message>
     <message>
-        <source>New album...</source>
-        <translation>Album nou...</translation>
-    </message>
-    <message>
         <source>New Album</source>
         <translation>Album nou</translation>
     </message>
@@ -770,6 +766,22 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     <message>
         <source>Are you sure to delete this category?</source>
         <translation>Ești sigur(ă) că ștergi această categorie?</translation>
+    </message>
+    <message>
+        <source>EXIF: Date taken</source>
+        <translation type="unfinished">EXIF: Data luării</translation>
+    </message>
+    <message>
+        <source>EXIF: Date modified</source>
+        <translation type="unfinished">EXIF: Data modificării</translation>
+    </message>
+    <message>
+        <source>File: Date modified</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New album</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1518,10 +1530,6 @@ Trage și plasează peste nodul dorit de alocat.</translation>
         <translation>Tot</translation>
     </message>
     <message>
-        <source>Album</source>
-        <translation>Album</translation>
-    </message>
-    <message>
         <source>Colour Label</source>
         <translation>Etichetă de culoare</translation>
     </message>
@@ -1556,6 +1564,42 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     <message>
         <source>Date</source>
         <translation>Data</translation>
+    </message>
+    <message>
+        <source>Taken in last 30 days</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modified in last 30 days</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Properties</source>
+        <translation type="unfinished">Proprietăți</translation>
+    </message>
+    <message>
+        <source>Albums</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Landscape</source>
+        <translation type="unfinished">Peisaj</translation>
+    </message>
+    <message>
+        <source>Portrait</source>
+        <translation type="unfinished">Portret</translation>
+    </message>
+    <message>
+        <source>Uncalibrated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>sRGB</source>
+        <translation type="unfinished">sRGB</translation>
     </message>
 </context>
 <context>
@@ -9386,10 +9430,6 @@ miniatură</translation>
         <source>Do you want to delete the selected Auto Correct entry?</source>
         <translation>Doriești să ștergi intrarea de Corecție automată selectată?</translation>
     </message>
-    <message>
-        <source>Select a program</source>
-        <translation>Selectează un program</translation>
-    </message>
 </context>
 <context>
     <name>DlgSettingsGeneralClass</name>
@@ -9727,10 +9767,6 @@ miniatură</translation>
         <comment>icc</comment>
         <translation>Personalizată</translation>
     </message>
-    <message>
-        <source>ExifTool path</source>
-        <translation>Calea pentru ExifTool</translation>
-    </message>
 </context>
 <context>
     <name>DlgSettingsIntegration</name>
@@ -9794,6 +9830,10 @@ miniatură</translation>
         <source>Application folder</source>
         <translation>Folderul (Dosarul) de aplicații</translation>
     </message>
+    <message>
+        <source>Select a program</source>
+        <translation type="unfinished">Selectează un program</translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsIntegrationClass</name>
@@ -9852,6 +9892,14 @@ miniatură</translation>
     <message>
         <source>Custom</source>
         <translation>Personalizat</translation>
+    </message>
+    <message>
+        <source>ExifTool path</source>
+        <translation type="unfinished">Calea pentru ExifTool</translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation type="unfinished">...</translation>
     </message>
 </context>
 <context>
@@ -13224,6 +13272,10 @@ Dorești să ștergi favoritul „%1”?</translation>
         <source>Field (Number)</source>
         <translation>Câmp (Număr)</translation>
     </message>
+    <message>
+        <source>File type</source>
+        <translation type="unfinished">Tip fișier</translation>
+    </message>
 </context>
 <context>
     <name>InfoCategoryTreeView</name>
@@ -13791,6 +13843,14 @@ Dorești să ștergi favoritul „%1”?</translation>
     <message>
         <source>SubSecTime Digitized</source>
         <translation>SubSecTime Digitized (Digitizat)</translation>
+    </message>
+    <message>
+        <source>Lens</source>
+        <translation type="unfinished">Obiectiv</translation>
+    </message>
+    <message>
+        <source>Shutter Speed</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

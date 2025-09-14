@@ -4,140 +4,140 @@
 <context>
     <name>@default</name>
     <message>
-        <location filename="MyThumbSettings.cpp" line="446"/>
+        <location filename="MyThumbSettings.cpp" line="449"/>
         <source>Uncolored</source>
         <translatorcomment>TXT_BrowseMenu_Uncolored</translatorcomment>
         <translation>カラーラベルなし</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="452"/>
+        <location filename="MyThumbSettings.cpp" line="455"/>
         <source>Important</source>
         <translatorcomment>TXT_String_Label_1</translatorcomment>
         <translation>重要</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="452"/>
+        <location filename="MyThumbSettings.cpp" line="455"/>
         <source>Red</source>
         <translation>赤</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="452"/>
+        <location filename="MyThumbSettings.cpp" line="455"/>
         <source>Select</source>
         <translation>選択</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="453"/>
+        <location filename="MyThumbSettings.cpp" line="456"/>
         <source>Work</source>
         <translatorcomment>TXT_String_Label_2</translatorcomment>
         <translation>仕事</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="453"/>
+        <location filename="MyThumbSettings.cpp" line="456"/>
         <source>Yellow</source>
         <translation>黄色</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="453"/>
+        <location filename="MyThumbSettings.cpp" line="456"/>
         <source>Second</source>
         <translation>２番目</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="454"/>
+        <location filename="MyThumbSettings.cpp" line="457"/>
         <source>Personal</source>
         <translatorcomment>TXT_String_Label_3</translatorcomment>
         <translation>私用</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="454"/>
+        <location filename="MyThumbSettings.cpp" line="457"/>
         <source>Green</source>
         <translation>緑</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="454"/>
+        <location filename="MyThumbSettings.cpp" line="457"/>
         <source>Approved</source>
         <translation>承認</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="455"/>
+        <location filename="MyThumbSettings.cpp" line="458"/>
         <source>To do</source>
         <translatorcomment>TXT_String_Label_4</translatorcomment>
         <translation>To do</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="455"/>
+        <location filename="MyThumbSettings.cpp" line="458"/>
         <source>Blue</source>
         <translation>青</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="455"/>
+        <location filename="MyThumbSettings.cpp" line="458"/>
         <source>Review</source>
         <translation>レビュー</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="456"/>
+        <location filename="MyThumbSettings.cpp" line="459"/>
         <source>Later</source>
         <translatorcomment>TXT_String_Label_5</translatorcomment>
         <translation>後で</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="456"/>
+        <location filename="MyThumbSettings.cpp" line="459"/>
         <source>Purple</source>
         <translation>紫</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="456"/>
+        <location filename="MyThumbSettings.cpp" line="459"/>
         <source>To Do</source>
         <translation>To Do</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="457"/>
+        <location filename="MyThumbSettings.cpp" line="460"/>
         <source>Orange</source>
         <translation>オレンジ</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="458"/>
+        <location filename="MyThumbSettings.cpp" line="461"/>
         <source>Grey</source>
         <translation>グレー</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="459"/>
+        <location filename="MyThumbSettings.cpp" line="462"/>
         <source>Black</source>
         <translation>黒</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="460"/>
+        <location filename="MyThumbSettings.cpp" line="463"/>
         <source>White</source>
         <translation>白</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="350"/>
+        <location filename="MyThumbSettings.cpp" line="351"/>
         <source>Unrated</source>
         <translation>レートなし</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="351"/>
+        <location filename="MyThumbSettings.cpp" line="352"/>
         <source>Poor</source>
         <translation>最低</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="352"/>
+        <location filename="MyThumbSettings.cpp" line="353"/>
         <source>Fair</source>
         <translation>低</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="353"/>
+        <location filename="MyThumbSettings.cpp" line="354"/>
         <source>Average</source>
         <translatorcomment>TXT_String_Rating_Label_3</translatorcomment>
         <translation>ふつう</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="354"/>
+        <location filename="MyThumbSettings.cpp" line="355"/>
         <source>Good</source>
         <translatorcomment>TXT_String_Rating_Label_4</translatorcomment>
         <translation>良</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="355"/>
+        <location filename="MyThumbSettings.cpp" line="356"/>
         <source>Excellent</source>
         <translatorcomment>TXT_String_Rating_Label_5</translatorcomment>
         <translation>最高</translation>
@@ -333,7 +333,7 @@
         <translation>上書きしてよろしいですか？</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4401"/>
+        <location filename="ViewWindow.cpp" line="4406"/>
         <source>Number of unique colors: %1</source>
         <translation>色の種類数: %1</translation>
     </message>
@@ -420,7 +420,7 @@
         <translation>プロパティ</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4401"/>
+        <location filename="ViewWindow.cpp" line="4406"/>
         <source>Colors count</source>
         <translation>色数</translation>
     </message>
@@ -478,28 +478,28 @@
 <context>
     <name>BaseViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="4885"/>
+        <location filename="ViewWindow.cpp" line="4890"/>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4876"/>
-        <location filename="ViewWindow.cpp" line="4885"/>
+        <location filename="ViewWindow.cpp" line="4881"/>
+        <location filename="ViewWindow.cpp" line="4890"/>
         <source>File can&apos;t be loaded!</source>
         <translation>ファイルが読み込めません</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4876"/>
+        <location filename="ViewWindow.cpp" line="4881"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <translation>PDF/PS/EPS/AIファイルを閲覧、変換するにはGhostscript %1がシステムにインストールされている必要があります。</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4877"/>
+        <location filename="ViewWindow.cpp" line="4882"/>
         <source>Please visit the %1 for more information.</source>
         <translation>より詳細な情報な %1 をご覧ください。</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4889"/>
+        <location filename="ViewWindow.cpp" line="4894"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; Empty &gt;</translation>
     </message>
@@ -656,30 +656,30 @@ Drag and Drop over the desired node to assign.</source>
         <translation>&lt;Tagged files&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3194"/>
+        <location filename="BrowserWindow.cpp" line="3195"/>
         <source>This folder doesn&apos;t exist!</source>
         <translation>このフォルダーは存在しません</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3414"/>
+        <location filename="BrowserWindow.cpp" line="3416"/>
         <source>Favorite name:</source>
         <translation>お気に入り名:</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="3659"/>
+        <location filename="BrowserWindow.cpp" line="3661"/>
         <source>Are you sure to delete these %n item(s)?</source>
         <translation>
             <numerusform>%n個のファイルを削除してよろしいですか？</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3744"/>
+        <location filename="BrowserWindow.cpp" line="3746"/>
         <source>The files cannot be renamed, an error occurred.</source>
         <translation>ファイルの名前が変更できません。エラーが発生しました。</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3194"/>
-        <location filename="BrowserWindow.cpp" line="3744"/>
+        <location filename="BrowserWindow.cpp" line="3195"/>
+        <location filename="BrowserWindow.cpp" line="3746"/>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
@@ -714,64 +714,64 @@ Drag and Drop over the desired node to assign.</source>
         <translation>&lt;ファイル&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3652"/>
+        <location filename="BrowserWindow.cpp" line="3654"/>
         <source>Delete items &amp; companions</source>
         <translation>ファイルとコンパニオンの削除</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="3653"/>
+        <location filename="BrowserWindow.cpp" line="3655"/>
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
         <translation>
             <numerusform>これらの%n個のファイル-選択された%1ファイルを削除してよろしいですか？</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4108"/>
+        <location filename="BrowserWindow.cpp" line="4110"/>
         <source>Search...</source>
         <translation>検索...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4109"/>
+        <location filename="BrowserWindow.cpp" line="4111"/>
         <source>Add to favorites...</source>
         <translation>お気に入りに追加...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4112"/>
+        <location filename="BrowserWindow.cpp" line="4114"/>
         <source>Start slideshow</source>
         <translation>スライドショーを始める</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4114"/>
+        <location filename="BrowserWindow.cpp" line="4116"/>
         <source>Open in file manager</source>
         <translation type="unfinished">エクスプローラで開く</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4117"/>
+        <location filename="BrowserWindow.cpp" line="4119"/>
         <source>Properties</source>
         <translation>プロパティ</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4226"/>
+        <location filename="BrowserWindow.cpp" line="4228"/>
         <source>Load filelist</source>
         <translation>ファイルリストを読み込む</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3658"/>
+        <location filename="BrowserWindow.cpp" line="3660"/>
         <source>Delete items</source>
         <translation>アイテムを削除</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4106"/>
+        <location filename="BrowserWindow.cpp" line="4108"/>
         <source>Show files in subfolders</source>
         <translation>サブフォルダーのファイルを表示</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4149"/>
+        <location filename="BrowserWindow.cpp" line="4151"/>
         <source>Delete folder</source>
         <translation>フォルダーを削除</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4149"/>
+        <location filename="BrowserWindow.cpp" line="4151"/>
         <source>Are you sure to delete this folder?</source>
         <translation>このフォルダーを削除してよろしいですか？</translation>
     </message>
@@ -792,8 +792,8 @@ Drag and Drop over the desired node to assign.</source>
 <context>
     <name>CategoryManager</name>
     <message>
-        <location filename="CategoryManager.cpp" line="203"/>
-        <location filename="CategoryManager.cpp" line="392"/>
+        <location filename="CategoryManager.cpp" line="211"/>
+        <location filename="CategoryManager.cpp" line="400"/>
         <source>Categories</source>
         <translation>カテゴリー</translation>
     </message>
@@ -834,50 +834,50 @@ Drag and Drop over the desired node to assign.</source>
         <translation>レイアウト</translation>
     </message>
     <message>
-        <location filename="CategorySets.cpp" line="41"/>
+        <location filename="CategorySets.cpp" line="43"/>
         <source>&lt;Unsaved Layout&gt;</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="CategorySets.cpp" line="188"/>
+        <location filename="CategorySets.cpp" line="190"/>
         <source>Save layout...</source>
         <translation>レイアウトを保存...</translation>
     </message>
     <message>
-        <location filename="CategorySets.cpp" line="253"/>
-        <location filename="CategorySets.cpp" line="285"/>
+        <location filename="CategorySets.cpp" line="255"/>
+        <location filename="CategorySets.cpp" line="287"/>
         <source>Enter a name for this layout</source>
         <translation>このレイアウトの名前を入力して下さい</translation>
     </message>
     <message>
-        <location filename="CategorySets.cpp" line="253"/>
-        <location filename="CategorySets.cpp" line="285"/>
-        <location filename="CategorySets.cpp" line="425"/>
+        <location filename="CategorySets.cpp" line="255"/>
+        <location filename="CategorySets.cpp" line="287"/>
+        <location filename="CategorySets.cpp" line="427"/>
         <source>Name:</source>
         <translation>名前:</translation>
     </message>
     <message>
-        <location filename="CategorySets.cpp" line="355"/>
+        <location filename="CategorySets.cpp" line="357"/>
         <source>Assigned</source>
         <translation>割り当て</translation>
     </message>
     <message>
-        <location filename="CategorySets.cpp" line="368"/>
+        <location filename="CategorySets.cpp" line="370"/>
         <source>History</source>
         <translation>履歴</translation>
     </message>
     <message>
-        <location filename="CategorySets.cpp" line="382"/>
+        <location filename="CategorySets.cpp" line="384"/>
         <source>Suggested</source>
         <translation>提案</translation>
     </message>
     <message>
-        <location filename="CategorySets.cpp" line="425"/>
+        <location filename="CategorySets.cpp" line="427"/>
         <source>Enter a name for this set</source>
         <translation>このセットの名前を入力して下さい</translation>
     </message>
     <message>
-        <location filename="CategorySets.cpp" line="425"/>
+        <location filename="CategorySets.cpp" line="427"/>
         <source>New name</source>
         <translation>新しい名前</translation>
     </message>
@@ -885,98 +885,113 @@ Drag and Drop over the desired node to assign.</source>
 <context>
     <name>CategoryView</name>
     <message>
-        <location filename="CategoryView.cpp" line="481"/>
-        <location filename="CategoryView.cpp" line="576"/>
+        <location filename="CategoryView.cpp" line="549"/>
+        <location filename="CategoryView.cpp" line="644"/>
         <source>New category</source>
         <translatorcomment>TXT_String_New_Category</translatorcomment>
         <translation>新しいカテゴリー</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="408"/>
-        <location filename="CategoryView.cpp" line="483"/>
-        <location filename="CategoryView.cpp" line="578"/>
+        <location filename="CategoryView.cpp" line="476"/>
+        <location filename="CategoryView.cpp" line="551"/>
+        <location filename="CategoryView.cpp" line="646"/>
         <source>Rename</source>
         <translation>名前の変更</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="404"/>
-        <source>New album...</source>
-        <translation>新規アルバム...</translation>
-    </message>
-    <message>
-        <location filename="CategoryView.cpp" line="409"/>
-        <location filename="CategoryView.cpp" line="484"/>
-        <location filename="CategoryView.cpp" line="579"/>
+        <location filename="CategoryView.cpp" line="477"/>
+        <location filename="CategoryView.cpp" line="552"/>
+        <location filename="CategoryView.cpp" line="647"/>
         <source>Delete</source>
         <translation>削除</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="369"/>
-        <location filename="CategoryView.cpp" line="535"/>
-        <location filename="CategoryView.cpp" line="600"/>
+        <location filename="CategoryView.cpp" line="603"/>
+        <location filename="CategoryView.cpp" line="668"/>
         <source>Delete category</source>
         <translation>カテゴリーの削除</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="369"/>
-        <location filename="CategoryView.cpp" line="535"/>
-        <location filename="CategoryView.cpp" line="600"/>
+        <location filename="CategoryView.cpp" line="603"/>
+        <location filename="CategoryView.cpp" line="668"/>
         <source>Are you sure to delete this category?</source>
         <translation>このカテゴリーを削除してよろしいですか？</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="411"/>
+        <location filename="CategoryView.cpp" line="430"/>
+        <source>EXIF: Date taken</source>
+        <translation type="unfinished">EXIF: 撮影日付</translation>
+    </message>
+    <message>
+        <location filename="CategoryView.cpp" line="432"/>
+        <source>EXIF: Date modified</source>
+        <translation type="unfinished">EXIF: 更新日付</translation>
+    </message>
+    <message>
+        <location filename="CategoryView.cpp" line="434"/>
+        <source>File: Date modified</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CategoryView.cpp" line="472"/>
+        <source>New album</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CategoryView.cpp" line="479"/>
         <source>Empty</source>
         <translation>空</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="413"/>
+        <location filename="CategoryView.cpp" line="481"/>
         <source>Export (Bridge format)...</source>
         <translation>エクスポート（形式を橋渡し）...</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="416"/>
+        <location filename="CategoryView.cpp" line="484"/>
         <source>Import (Bridge format)...</source>
         <translation>インポート（形式を橋渡し）...</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="441"/>
+        <location filename="CategoryView.cpp" line="509"/>
         <source>Delete album</source>
         <translation>アルバムを削除</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="441"/>
+        <location filename="CategoryView.cpp" line="509"/>
         <source>Are you sure to delete this album?</source>
         <translation>このアルバムを削除してよろしいですか？</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="447"/>
+        <location filename="CategoryView.cpp" line="515"/>
         <source>New Album</source>
         <translation>新規アルバム</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="459"/>
+        <location filename="CategoryView.cpp" line="527"/>
         <source>Empty album</source>
         <translation>空のアルバム</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="459"/>
+        <location filename="CategoryView.cpp" line="527"/>
         <source>Are you sure to clear this album?</source>
         <translation>このアルバムをクリアしてよろしいですか？</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="466"/>
+        <location filename="CategoryView.cpp" line="534"/>
         <source>Import collection</source>
         <translation>コレクションをインポート</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="472"/>
+        <location filename="CategoryView.cpp" line="540"/>
         <source>Export collection</source>
         <translation>コレクションをエクスポート</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="548"/>
-        <location filename="CategoryView.cpp" line="612"/>
+        <location filename="CategoryView.cpp" line="616"/>
+        <location filename="CategoryView.cpp" line="680"/>
         <source>New Category</source>
         <translation>新しいカテゴリー</translation>
     </message>
@@ -1927,85 +1942,85 @@ Drag and Drop over the desired node to assign.</source>
 <context>
     <name>DB</name>
     <message>
-        <location filename="CategoryManager.cpp" line="151"/>
-        <location filename="MyDB.cpp" line="732"/>
-        <location filename="MyDB.cpp" line="1768"/>
-        <location filename="MyDB.cpp" line="3003"/>
+        <location filename="CategoryManager.cpp" line="159"/>
+        <location filename="MyDB.cpp" line="839"/>
+        <location filename="MyDB.cpp" line="2042"/>
+        <location filename="MyDB.cpp" line="3269"/>
         <source>Other</source>
         <translation>その他</translation>
     </message>
     <message>
-        <location filename="CategoryManager.cpp" line="171"/>
+        <location filename="CategoryManager.cpp" line="179"/>
         <source>Orphaned</source>
         <translation>孤立化</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="733"/>
+        <location filename="MyDB.cpp" line="840"/>
         <source>Photographs</source>
         <translation>写真</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="734"/>
+        <location filename="MyDB.cpp" line="841"/>
         <source>Family</source>
         <translation>家族</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="735"/>
+        <location filename="MyDB.cpp" line="842"/>
         <source>Friends</source>
         <translation>友達</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="736"/>
+        <location filename="MyDB.cpp" line="843"/>
         <source>Pets</source>
         <translation>ペット</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="737"/>
+        <location filename="MyDB.cpp" line="844"/>
         <source>Travel</source>
         <translation>旅行</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="738"/>
+        <location filename="MyDB.cpp" line="845"/>
         <source>Landscapes</source>
         <translation>風景</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="739"/>
+        <location filename="MyDB.cpp" line="846"/>
         <source>Portraits</source>
         <translation>ポートレイト</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="740"/>
+        <location filename="MyDB.cpp" line="847"/>
         <source>Flowers</source>
         <translation>花</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="741"/>
+        <location filename="MyDB.cpp" line="848"/>
         <source>Animals</source>
         <translation>動物</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="742"/>
+        <location filename="MyDB.cpp" line="849"/>
         <source>Pictures</source>
         <translation>絵画</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="743"/>
+        <location filename="MyDB.cpp" line="850"/>
         <source>Icons</source>
         <translation>アイコン</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="744"/>
+        <location filename="MyDB.cpp" line="851"/>
         <source>Drawings</source>
         <translation>ドローイング</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="745"/>
+        <location filename="MyDB.cpp" line="852"/>
         <source>Videos</source>
         <translation>映像</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="746"/>
+        <location filename="MyDB.cpp" line="853"/>
         <source>Audios</source>
         <translation>音声</translation>
     </message>
@@ -2013,58 +2028,98 @@ Drag and Drop over the desired node to assign.</source>
 <context>
     <name>DBFilterModel</name>
     <message>
-        <location filename="DBFilterModel.cpp" line="131"/>
+        <location filename="DBFilterModel.cpp" line="134"/>
         <source>Rating</source>
         <translation>レーティング</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="135"/>
+        <location filename="DBFilterModel.cpp" line="138"/>
         <source>Colour Label</source>
         <translation>カラーラベル</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="139"/>
+        <location filename="DBFilterModel.cpp" line="142"/>
         <source>People</source>
         <translation>人</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="142"/>
+        <location filename="DBFilterModel.cpp" line="145"/>
         <source>Special Items</source>
         <translation>特別なアイテム</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="145"/>
+        <location filename="DBFilterModel.cpp" line="148"/>
         <source>Uncategorized</source>
         <translation>カテゴリーなし</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="146"/>
+        <location filename="DBFilterModel.cpp" line="149"/>
         <source>No rating</source>
         <translation>レーティングなし</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="147"/>
+        <location filename="DBFilterModel.cpp" line="150"/>
         <source>No colour label</source>
         <translation>カラーラベルなし</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="148"/>
+        <location filename="DBFilterModel.cpp" line="151"/>
         <source>All</source>
         <translation>すべて</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="150"/>
-        <location filename="DBFilterModel.cpp" line="1209"/>
+        <location filename="DBFilterModel.cpp" line="152"/>
+        <source>Taken in last 30 days</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DBFilterModel.cpp" line="153"/>
+        <source>Modified in last 30 days</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DBFilterModel.cpp" line="155"/>
+        <location filename="DBFilterModel.cpp" line="1058"/>
         <source>Date</source>
         <translation type="unfinished">日付</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="155"/>
-        <source>Album</source>
-        <translation>アルバム</translation>
+        <location filename="DBFilterModel.cpp" line="159"/>
+        <source>Properties</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="339"/>
+        <location filename="DBFilterModel.cpp" line="164"/>
+        <source>Albums</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DBFilterModel.cpp" line="930"/>
+        <source>Unknown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DBFilterModel.cpp" line="1512"/>
+        <source>Landscape</source>
+        <translation type="unfinished">風景</translation>
+    </message>
+    <message>
+        <location filename="DBFilterModel.cpp" line="1514"/>
+        <source>Portrait</source>
+        <translation type="unfinished">ポートレイト</translation>
+    </message>
+    <message>
+        <location filename="DBFilterModel.cpp" line="1519"/>
+        <source>Uncalibrated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DBFilterModel.cpp" line="1521"/>
+        <source>sRGB</source>
+        <translation type="unfinished">sRPG</translation>
+    </message>
+    <message>
+        <location filename="DBFilterModel.cpp" line="348"/>
         <source>Tag (%1)</source>
         <translation>タグ (%1)</translation>
     </message>
@@ -4050,13 +4105,13 @@ Do you want to continue?</source>
 続行しますか？</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="3036"/>
+        <location filename="DlgConvert.cpp" line="3037"/>
         <source>The &apos;Use multiple CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</source>
         <oldsource>The &apos;Use CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</oldsource>
         <translation>&apos;使用するCPUコア&apos;設定が不可です。&apos;Ask&apos;モードやマルチページPDFファイルが使用できません。</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="3038"/>
+        <location filename="DlgConvert.cpp" line="3039"/>
         <source>Started at: </source>
         <translation>～で始まる: </translation>
     </message>
@@ -11000,38 +11055,38 @@ Do you want to remove them?</source>
 <context>
     <name>DlgSearch</name>
     <message>
-        <location filename="DlgSearch.cpp" line="254"/>
+        <location filename="DlgSearch.cpp" line="260"/>
         <source>Preset</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="255"/>
+        <location filename="DlgSearch.cpp" line="261"/>
         <source>Preset search name:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="258"/>
+        <location filename="DlgSearch.cpp" line="264"/>
         <source>Save pathname</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="370"/>
+        <location filename="DlgSearch.cpp" line="376"/>
         <source>Files found (%1):</source>
         <translation>検索件数 (%1):</translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="391"/>
+        <location filename="DlgSearch.cpp" line="397"/>
         <source>Searching...</source>
         <translation>検索中...</translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="422"/>
+        <location filename="DlgSearch.cpp" line="428"/>
         <source>Finished.</source>
         <translation>完了しました</translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="424"/>
-        <location filename="DlgSearch.cpp" line="425"/>
+        <location filename="DlgSearch.cpp" line="430"/>
+        <location filename="DlgSearch.cpp" line="431"/>
         <source>Finished: %1 file(s) found.</source>
         <oldsource>Finished: %1 file(s) found...</oldsource>
         <translation>完了: %1ファイルが見つかりました...</translation>
@@ -12080,47 +12135,42 @@ Thumbnail</source>
 <context>
     <name>DlgSettingsGeneral</name>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="117"/>
-        <source>Select a program</source>
-        <translation type="unfinished">プログラムの選択</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsGeneral.cpp" line="302"/>
-        <location filename="DlgSettingsGeneral.cpp" line="303"/>
+        <location filename="DlgSettingsGeneral.cpp" line="289"/>
+        <location filename="DlgSettingsGeneral.cpp" line="290"/>
         <source>Load profile</source>
         <translation>プロファイルを読み込む</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="310"/>
+        <location filename="DlgSettingsGeneral.cpp" line="297"/>
         <source>Perceptual</source>
         <translatorcomment>TXT_String_ICC_Perceptual</translatorcomment>
         <translation>知覚</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="310"/>
+        <location filename="DlgSettingsGeneral.cpp" line="297"/>
         <source>Relative colorimetric</source>
         <translatorcomment>TXT_String_ICC_Relative_Colorimetric</translatorcomment>
         <translation>相対的な色域を維持</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="310"/>
+        <location filename="DlgSettingsGeneral.cpp" line="297"/>
         <source>Saturation</source>
         <translatorcomment>TXT_String_ICC_Saturation</translatorcomment>
         <translation>彩度</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="310"/>
+        <location filename="DlgSettingsGeneral.cpp" line="297"/>
         <source>Absolute colorimetric</source>
         <translatorcomment>TXT_String_ICC_Absolute_Colorimetric</translatorcomment>
         <translation>絶対的な色域を維持</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="476"/>
+        <location filename="DlgSettingsGeneral.cpp" line="463"/>
         <source>Delete</source>
         <translation>削除</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="476"/>
+        <location filename="DlgSettingsGeneral.cpp" line="463"/>
         <source>Do you want to delete the selected Auto Correct entry?</source>
         <translation>選択した自動修正を削除しますか？</translation>
     </message>
@@ -12150,9 +12200,9 @@ Thumbnail</source>
         <translation>X/Y DPI が異なる場合、画像を調整する</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="548"/>
-        <location filename="DlgSettingsGeneral.ui" line="958"/>
-        <location filename="DlgSettingsGeneral.ui" line="1025"/>
+        <location filename="DlgSettingsGeneral.ui" line="504"/>
+        <location filename="DlgSettingsGeneral.ui" line="914"/>
+        <location filename="DlgSettingsGeneral.ui" line="981"/>
         <source>None</source>
         <translation>なし</translation>
     </message>
@@ -12188,41 +12238,40 @@ Thumbnail</source>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="239"/>
-        <location filename="DlgSettingsGeneral.ui" line="635"/>
+        <location filename="DlgSettingsGeneral.ui" line="591"/>
         <source>Ask</source>
         <translation>確認する</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="244"/>
-        <location filename="DlgSettingsGeneral.ui" line="640"/>
+        <location filename="DlgSettingsGeneral.ui" line="596"/>
         <source>Always</source>
         <translation>常に</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="249"/>
         <location filename="DlgSettingsGeneral.ui" line="306"/>
-        <location filename="DlgSettingsGeneral.ui" line="645"/>
+        <location filename="DlgSettingsGeneral.ui" line="601"/>
         <source>Never</source>
         <translation>しない</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="527"/>
+        <location filename="DlgSettingsGeneral.ui" line="483"/>
         <source>Directory</source>
         <translation>ディレクトリ</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="534"/>
+        <location filename="DlgSettingsGeneral.ui" line="490"/>
         <source>Last</source>
         <translation>前回終了時</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="541"/>
+        <location filename="DlgSettingsGeneral.ui" line="497"/>
         <source>Specified</source>
         <translation>指定する</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="386"/>
-        <location filename="DlgSettingsGeneral.ui" line="497"/>
+        <location filename="DlgSettingsGeneral.ui" line="453"/>
         <source>...</source>
         <translation>...</translation>
     </message>
@@ -12238,7 +12287,7 @@ Thumbnail</source>
         <translation>EXIF方向タグに基づき画像を自動回転させる</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="441"/>
+        <location filename="DlgSettingsGeneral.ui" line="397"/>
         <source>Browser</source>
         <translation>ブラウザ</translation>
     </message>
@@ -12253,27 +12302,27 @@ Thumbnail</source>
         <translation>匿名のログを送信する</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="590"/>
+        <location filename="DlgSettingsGeneral.ui" line="546"/>
         <source>File operations</source>
         <translation>ファイル操作</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="677"/>
+        <location filename="DlgSettingsGeneral.ui" line="633"/>
         <source>Confirm file delete</source>
         <translation>ファイル削除時に確認する</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="684"/>
+        <location filename="DlgSettingsGeneral.ui" line="640"/>
         <source>Use Recycle Bin</source>
         <translation>ごみ箱を使用する</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="611"/>
+        <location filename="DlgSettingsGeneral.ui" line="567"/>
         <source>For &apos;Save as&apos;, use original pathname</source>
         <translation>&apos;ファイル名を付けて保存&apos;で元のパス名を使用</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="436"/>
+        <location filename="DlgSettingsGeneral.ui" line="392"/>
         <source>Viewer - Fullscreen</source>
         <oldsource>Fullscreen - Viewer</oldsource>
         <translation>フルスクリーン - ビューア</translation>
@@ -12330,238 +12379,233 @@ Thumbnail</source>
         <translation>毎月</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="369"/>
-        <source>ExifTool path</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsGeneral.ui" line="409"/>
+        <location filename="DlgSettingsGeneral.ui" line="365"/>
         <source>Startup</source>
         <translation>スタートアップ</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="415"/>
+        <location filename="DlgSettingsGeneral.ui" line="371"/>
         <source>Start with file</source>
         <translation>ファイルとともに起動</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="423"/>
+        <location filename="DlgSettingsGeneral.ui" line="379"/>
         <source>Open</source>
         <translation>開く</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="431"/>
+        <location filename="DlgSettingsGeneral.ui" line="387"/>
         <source>Viewer</source>
         <translation>ビューア</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="446"/>
+        <location filename="DlgSettingsGeneral.ui" line="402"/>
         <source>Browser - Fullscreen</source>
         <translation>ブラウザ - フルスクリーン</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="472"/>
+        <location filename="DlgSettingsGeneral.ui" line="428"/>
         <source>Start without file</source>
         <translation>ファイルなしで起動</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="478"/>
+        <location filename="DlgSettingsGeneral.ui" line="434"/>
         <source>Open browser</source>
         <translation>ブラウザで開く</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="487"/>
+        <location filename="DlgSettingsGeneral.ui" line="443"/>
         <source>Remember selected filename</source>
         <translation>選択したファイル名を記憶しておく</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="598"/>
+        <location filename="DlgSettingsGeneral.ui" line="554"/>
         <source>Save</source>
         <translation>保存</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="604"/>
+        <location filename="DlgSettingsGeneral.ui" line="560"/>
         <source>Save as copy for &apos;Save&apos; action</source>
         <translation>&apos;保存&apos;の操作でコピーを保存</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="618"/>
+        <location filename="DlgSettingsGeneral.ui" line="574"/>
         <source>For &apos;Save as&apos;, use original format</source>
         <translation>&apos;名前を付けて保存&apos;で元の形式を使用</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="671"/>
+        <location filename="DlgSettingsGeneral.ui" line="627"/>
         <source>Delete</source>
         <translation>削除</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="694"/>
+        <location filename="DlgSettingsGeneral.ui" line="650"/>
         <source>Copy</source>
         <translation>コピー</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="759"/>
+        <location filename="DlgSettingsGeneral.ui" line="715"/>
         <source>Rename</source>
         <translation>名前の変更</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="765"/>
+        <location filename="DlgSettingsGeneral.ui" line="721"/>
         <source>Use dialog to rename file/folder</source>
         <translation>ファイル/フォルダーの名称変更にダイアログを使用する</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="792"/>
+        <location filename="DlgSettingsGeneral.ui" line="748"/>
         <source>Lossless operations</source>
         <translation>ロスレス操作</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="798"/>
+        <location filename="DlgSettingsGeneral.ui" line="754"/>
         <source>Make backup for lossless flip/rotation</source>
         <translation>ロスレス反転/回転のためにバックアップを作成</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="805"/>
+        <location filename="DlgSettingsGeneral.ui" line="761"/>
         <source>Make backup for lossless crop</source>
         <translation>ロスレス切り取りのためにバックアップを作成</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="812"/>
+        <location filename="DlgSettingsGeneral.ui" line="768"/>
         <source>Make backup for other lossless operations</source>
         <translation>その他のロスレス操作のためにバックアップを作成</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="835"/>
+        <location filename="DlgSettingsGeneral.ui" line="791"/>
         <source>File copying</source>
         <translation>ファイルコピー中</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="875"/>
+        <location filename="DlgSettingsGeneral.ui" line="831"/>
         <source>Color management</source>
         <oldsource>Color profile</oldsource>
         <translation>カラープロファイル</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="912"/>
-        <location filename="DlgSettingsGeneral.ui" line="974"/>
-        <location filename="DlgSettingsGeneral.ui" line="1041"/>
+        <location filename="DlgSettingsGeneral.ui" line="868"/>
+        <location filename="DlgSettingsGeneral.ui" line="930"/>
+        <location filename="DlgSettingsGeneral.ui" line="997"/>
         <source>Custom</source>
         <comment>icc</comment>
         <translation>カスタム</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="1141"/>
+        <location filename="DlgSettingsGeneral.ui" line="1097"/>
         <source>Auto correct</source>
         <translation>自動修正</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="1169"/>
+        <location filename="DlgSettingsGeneral.ui" line="1125"/>
         <source>Replace</source>
         <translation>置換</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="1174"/>
+        <location filename="DlgSettingsGeneral.ui" line="1130"/>
         <source>With</source>
         <translation>→</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="1211"/>
+        <location filename="DlgSettingsGeneral.ui" line="1167"/>
         <source>Delimiter character</source>
         <translation>区切り文字</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="702"/>
+        <location filename="DlgSettingsGeneral.ui" line="658"/>
         <source>Duplicate files naming</source>
         <oldsource>Duplicate files</oldsource>
         <translation>ファイル名の重複</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="627"/>
+        <location filename="DlgSettingsGeneral.ui" line="583"/>
         <source>Save changes to file</source>
         <translation>ファイルに変更を保存</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="713"/>
+        <location filename="DlgSettingsGeneral.ui" line="669"/>
         <source>&lt;Filename&gt; - Copy (#)</source>
         <translation>&lt;Filename&gt; - コピー (#)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="733"/>
+        <location filename="DlgSettingsGeneral.ui" line="689"/>
         <source>Copy (#) of &lt;Filename&gt;</source>
         <translation>コピー (#) of &lt;Filename&gt;</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="718"/>
+        <location filename="DlgSettingsGeneral.ui" line="674"/>
         <source>&lt;Filename&gt;-Copy (#)</source>
         <translation>&lt;Filename&gt;-コピー (#)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="723"/>
+        <location filename="DlgSettingsGeneral.ui" line="679"/>
         <source>&lt;Filename&gt;-(#)</source>
         <translation>&lt;Filename&gt;-(#)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="728"/>
+        <location filename="DlgSettingsGeneral.ui" line="684"/>
         <source>&lt;Filename&gt;-#</source>
         <translation>&lt;Filename&gt;-#</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="822"/>
+        <location filename="DlgSettingsGeneral.ui" line="778"/>
         <source>Keep original date/time</source>
         <translation>元の日付/時刻を保つ</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="828"/>
+        <location filename="DlgSettingsGeneral.ui" line="784"/>
         <source>File saving</source>
         <translation>ファイル保存</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="842"/>
+        <location filename="DlgSettingsGeneral.ui" line="798"/>
         <source>Lossless transformations</source>
         <translation>ロスレス変換</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="849"/>
+        <location filename="DlgSettingsGeneral.ui" line="805"/>
         <source>Embedded Metadata change</source>
         <translation>埋め込みメタデータの変更</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="881"/>
+        <location filename="DlgSettingsGeneral.ui" line="837"/>
         <source>Use ICC profile for monitor (slower)</source>
         <oldsource>Use ICC profile (slower)</oldsource>
         <translation>モニタのICCプロファイルを使用する（遅め）</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="925"/>
+        <location filename="DlgSettingsGeneral.ui" line="881"/>
         <source>System</source>
         <translation>システム</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="952"/>
+        <location filename="DlgSettingsGeneral.ui" line="908"/>
         <source>RGB Profile used when embedded profile doesn&apos;t exist</source>
         <translation>埋め込みプロファイルが存在しない時にRGBプロファイルを使用</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="965"/>
+        <location filename="DlgSettingsGeneral.ui" line="921"/>
         <source>sRGB</source>
         <translation>sRPG</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="1019"/>
+        <location filename="DlgSettingsGeneral.ui" line="975"/>
         <source>CMYK Profile used when embedded profile doesn&apos;t exist</source>
         <translation>埋め込みプロファイルが存在しない時にCMYKプロファイルを使用</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="1032"/>
+        <location filename="DlgSettingsGeneral.ui" line="988"/>
         <source>System profile</source>
         <translation>システムプロファイル</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="1088"/>
+        <location filename="DlgSettingsGeneral.ui" line="1044"/>
         <source>Rendering intent:</source>
         <translation>レンダリングインテント:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="1117"/>
+        <location filename="DlgSettingsGeneral.ui" line="1073"/>
         <source>Black Point Compensation</source>
         <translation>黒点補正</translation>
     </message>
@@ -12618,42 +12662,47 @@ Thumbnail</source>
         <translation>XnViewMPで開く</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="322"/>
+        <location filename="DlgSettingsIntegration.cpp" line="292"/>
+        <source>Select a program</source>
+        <translation type="unfinished">プログラムの選択</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsIntegration.cpp" line="338"/>
         <source>Paths</source>
         <translation>パス</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="322"/>
+        <location filename="DlgSettingsIntegration.cpp" line="338"/>
         <source>Please be careful to folder rights by using XnView folder</source>
         <translation>XnViewフォルダーの使用によるフォルダーの権利に注意してください</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="512"/>
+        <location filename="DlgSettingsIntegration.cpp" line="528"/>
         <source>XnViewMP is a fast multi-format graphics browser, viewer, and converter. It reads more than 400 file formats.</source>
         <translation>XnViewMPは高速でマルチフォーマット対応の画像ブラウザ・ビューア・コンバーターです。400種類以上のファイルを読み込めます。</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="513"/>
+        <location filename="DlgSettingsIntegration.cpp" line="529"/>
         <source>XnViewMP for Windows</source>
         <translation>XnViewMP for Windows</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="532"/>
+        <location filename="DlgSettingsIntegration.cpp" line="548"/>
         <source>XnView Slide file</source>
         <translation>XnViewスライドファイル</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="539"/>
+        <location filename="DlgSettingsIntegration.cpp" line="555"/>
         <source>%1 Image file</source>
         <translation>%1 画像ファイル</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="730"/>
+        <location filename="DlgSettingsIntegration.cpp" line="746"/>
         <source>File Associations</source>
         <translation>ファイルの関連付け</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="730"/>
+        <location filename="DlgSettingsIntegration.cpp" line="746"/>
         <source>Please start XnViewMP with admin rights (only the first time).</source>
         <translation>管理者権限でXnViewMPを起動してください（初回のみ）</translation>
     </message>
@@ -12735,6 +12784,16 @@ Thumbnail</source>
         <location filename="DlgSettingsIntegration.ui" line="339"/>
         <source>Custom</source>
         <translation>カスタム</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsIntegration.ui" line="381"/>
+        <source>ExifTool path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsIntegration.ui" line="398"/>
+        <source>...</source>
+        <translation type="unfinished">...</translation>
     </message>
 </context>
 <context>
@@ -17005,11 +17064,17 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>コメント</translation>
     </message>
     <message>
+        <location filename="DBFilterModel.cpp" line="1442"/>
         <location filename="ItemModel.cpp" line="1108"/>
         <location filename="SearchField.cpp" line="34"/>
         <location filename="TemplateData.cpp" line="2583"/>
         <source>Ratio</source>
         <translation>比率</translation>
+    </message>
+    <message>
+        <location filename="DBFilterModel.cpp" line="1474"/>
+        <source>File type</source>
+        <translation type="unfinished">ファイルの種類</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1116"/>
@@ -17570,6 +17635,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>メーカーノート</translation>
     </message>
     <message>
+        <location filename="DBFilterModel.cpp" line="1446"/>
         <location filename="ItemModel.cpp" line="1121"/>
         <location filename="SearchField.cpp" line="71"/>
         <location filename="TemplateData.cpp" line="2605"/>
@@ -17578,6 +17644,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>メーカー名</translation>
     </message>
     <message>
+        <location filename="DBFilterModel.cpp" line="1450"/>
         <location filename="ItemModel.cpp" line="1123"/>
         <location filename="SearchField.cpp" line="72"/>
         <location filename="TemplateData.cpp" line="2606"/>
@@ -17586,9 +17653,20 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>機種名</translation>
     </message>
     <message>
+        <location filename="DBFilterModel.cpp" line="1454"/>
+        <source>Lens</source>
+        <translation type="unfinished">球面レンズ</translation>
+    </message>
+    <message>
+        <location filename="DBFilterModel.cpp" line="1462"/>
         <location filename="ItemModel.cpp" line="1125"/>
         <source>ISO</source>
         <translation>ISO</translation>
+    </message>
+    <message>
+        <location filename="DBFilterModel.cpp" line="1470"/>
+        <source>Shutter Speed</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1127"/>
@@ -17602,6 +17680,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>露光時間</translation>
     </message>
     <message>
+        <location filename="DBFilterModel.cpp" line="1458"/>
         <location filename="ItemModel.cpp" line="1131"/>
         <source>Focal Length</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Focal_length</translatorcomment>
@@ -17650,6 +17729,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>ユーザーコメント</translation>
     </message>
     <message>
+        <location filename="DBFilterModel.cpp" line="1466"/>
         <location filename="ItemModel.cpp" line="1135"/>
         <location filename="SearchField.cpp" line="81"/>
         <location filename="TemplateData.cpp" line="2639"/>
@@ -17676,6 +17756,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>更新時</translation>
     </message>
     <message>
+        <location filename="DBFilterModel.cpp" line="1438"/>
         <location filename="TemplateData.cpp" line="2610"/>
         <source>Orientation</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Orientation</translatorcomment>
@@ -17833,6 +17914,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>最大絞り</translation>
     </message>
     <message>
+        <location filename="DBFilterModel.cpp" line="1478"/>
         <location filename="TemplateData.cpp" line="2646"/>
         <source>Colour space</source>
         <translation>色空間</translation>
@@ -20019,27 +20101,27 @@ Do you want to continue?</oldsource>
         <translation>TWAINを選択...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="802"/>
+        <location filename="BrowserMenu.h" line="803"/>
         <source>&amp;File</source>
         <translation>ファイル(&amp;F)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="803"/>
+        <location filename="BrowserMenu.h" line="804"/>
         <source>&amp;Edit</source>
         <translation>編集(&amp;E)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="804"/>
+        <location filename="BrowserMenu.h" line="805"/>
         <source>&amp;View</source>
         <translation>表示(&amp;V)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="805"/>
+        <location filename="BrowserMenu.h" line="806"/>
         <source>Meta&amp;data</source>
         <translation>メタデータ(&amp;D)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="806"/>
+        <location filename="BrowserMenu.h" line="807"/>
         <source>&amp;Tools</source>
         <translation>ツール(&amp;T)</translation>
     </message>
@@ -20049,12 +20131,12 @@ Do you want to continue?</oldsource>
         <translation>～に取得 (TWAIN)...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="807"/>
+        <location filename="BrowserMenu.h" line="808"/>
         <source>C&amp;reate</source>
         <translation>作成(&amp;R)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="808"/>
+        <location filename="BrowserMenu.h" line="809"/>
         <source>&amp;Help</source>
         <translation>ヘルプ(&amp;H)</translation>
     </message>
@@ -20254,13 +20336,13 @@ Do you want to continue?</oldsource>
         <translation>開く...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4089"/>
+        <location filename="BrowserWindow.cpp" line="4091"/>
         <location filename="BrowserMenu.h" line="418"/>
         <source>Cut</source>
         <translation>切り取り</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4091"/>
+        <location filename="BrowserWindow.cpp" line="4093"/>
         <location filename="BrowserMenu.h" line="420"/>
         <source>Copy</source>
         <translation>コピー</translation>
@@ -20271,7 +20353,7 @@ Do you want to continue?</oldsource>
         <translation>画像</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4093"/>
+        <location filename="BrowserWindow.cpp" line="4095"/>
         <location filename="BrowserMenu.h" line="425"/>
         <source>Paste</source>
         <translation>貼り付け</translation>
@@ -20309,19 +20391,19 @@ Do you want to continue?</oldsource>
         <translation>タグのついたファイルを選択</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4101"/>
+        <location filename="BrowserWindow.cpp" line="4103"/>
         <location filename="BrowserMenu.h" line="435"/>
         <source>Copy to...</source>
         <translation>フォルダーにコピー...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4103"/>
+        <location filename="BrowserWindow.cpp" line="4105"/>
         <location filename="BrowserMenu.h" line="436"/>
         <source>Move to...</source>
         <translation>フォルダーに移動...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4096"/>
+        <location filename="BrowserWindow.cpp" line="4098"/>
         <location filename="BrowserMenu.h" line="437"/>
         <source>Delete</source>
         <translatorcomment>TXT_TreeMenu_Delete</translatorcomment>
@@ -20798,13 +20880,13 @@ Do you want to continue?</oldsource>
         <translation>クイック検索</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4086"/>
+        <location filename="BrowserWindow.cpp" line="4088"/>
         <source>New Folder</source>
         <translatorcomment>0.60</translatorcomment>
         <translation>新しいフォルダー</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4098"/>
+        <location filename="BrowserWindow.cpp" line="4100"/>
         <source>Rename</source>
         <translatorcomment>0.60</translatorcomment>
         <translation>名前の変更</translation>
@@ -21653,13 +21735,13 @@ Do you want to continue?</oldsource>
         <translation>一括変換...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="738"/>
+        <location filename="ViewMenu.h" line="739"/>
         <source>Meta&amp;data</source>
         <oldsource>Metadata</oldsource>
         <translation>メタデータ(&amp;D)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="739"/>
+        <location filename="ViewMenu.h" line="740"/>
         <source>Effect</source>
         <translation>エフェクト</translation>
     </message>
@@ -22119,36 +22201,36 @@ Do you want to continue?</oldsource>
         <translation>新規画像...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="734"/>
+        <location filename="ViewMenu.h" line="735"/>
         <source>&amp;File</source>
         <translation>ファイル(&amp;F)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="735"/>
+        <location filename="ViewMenu.h" line="736"/>
         <source>&amp;Edit</source>
         <oldsource>Edit</oldsource>
         <translatorcomment>TXT_NviewMenu_Edit</translatorcomment>
         <translation>編集(&amp;E)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="736"/>
+        <location filename="ViewMenu.h" line="737"/>
         <source>&amp;View</source>
         <oldsource>View</oldsource>
         <translation>表示(&amp;V)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="737"/>
+        <location filename="ViewMenu.h" line="738"/>
         <source>&amp;Image</source>
         <oldsource>Image</oldsource>
         <translation>画像(&amp;I)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="740"/>
+        <location filename="ViewMenu.h" line="741"/>
         <source>&amp;Tools</source>
         <translation>ツール(&amp;T)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="741"/>
+        <location filename="ViewMenu.h" line="742"/>
         <source>&amp;Help</source>
         <oldsource>Help</oldsource>
         <translation>ヘルプ(&amp;H)</translation>
@@ -24139,17 +24221,17 @@ You can change it in Settings › Catalog.</oldsource>
 <context>
     <name>ViewWatermarkAction</name>
     <message>
-        <location filename="ViewWatermarkAction.cpp" line="95"/>
+        <location filename="ViewWatermarkAction.cpp" line="107"/>
         <source>Opacity</source>
         <translation>不透明度</translation>
     </message>
     <message>
-        <location filename="ViewWatermarkAction.cpp" line="104"/>
+        <location filename="ViewWatermarkAction.cpp" line="116"/>
         <source>Apply</source>
         <translation>適用</translation>
     </message>
     <message>
-        <location filename="ViewWatermarkAction.cpp" line="108"/>
+        <location filename="ViewWatermarkAction.cpp" line="120"/>
         <source>Cancel</source>
         <translation>キャンセル</translation>
     </message>

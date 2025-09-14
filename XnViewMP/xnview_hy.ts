@@ -750,10 +750,6 @@ Drag and Drop over the desired node to assign.</translation>
         <translation>Ցանկանո՞ւմ եք մաքրել այս ալբոմը:</translation>
     </message>
     <message>
-        <source>New album...</source>
-        <translation>Նոր ալբոմ...</translation>
-    </message>
-    <message>
         <source>Export (Bridge format)...</source>
         <translation>Արտահանել (կամուրջ ձևաչափ)...</translation>
     </message>
@@ -768,6 +764,22 @@ Drag and Drop over the desired node to assign.</translation>
     <message>
         <source>Export collection</source>
         <translation>Արտահանել հավաքածուն</translation>
+    </message>
+    <message>
+        <source>EXIF: Date taken</source>
+        <translation type="unfinished">EXIF: Տրման ամսաթիվ</translation>
+    </message>
+    <message>
+        <source>EXIF: Date modified</source>
+        <translation type="unfinished">EXIF: Փոփոխումը</translation>
+    </message>
+    <message>
+        <source>File: Date modified</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New album</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1540,10 +1552,6 @@ Drag and Drop over the desired node to assign.</translation>
         <translation>Մարդիկ</translation>
     </message>
     <message>
-        <source>Album</source>
-        <translation>Ալբոմ</translation>
-    </message>
-    <message>
         <source>No rating</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1554,6 +1562,42 @@ Drag and Drop over the desired node to assign.</translation>
     <message>
         <source>Date</source>
         <translation type="unfinished">Ամսաթիվ</translation>
+    </message>
+    <message>
+        <source>Taken in last 30 days</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modified in last 30 days</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Albums</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Landscape</source>
+        <translation type="unfinished">Բնապատկեր</translation>
+    </message>
+    <message>
+        <source>Portrait</source>
+        <translation type="unfinished">Դիմանկար</translation>
+    </message>
+    <message>
+        <source>Uncalibrated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>sRGB</source>
+        <translation type="unfinished">sRGB</translation>
     </message>
 </context>
 <context>
@@ -9369,10 +9413,6 @@ Thumbnail</source>
         <source>Do you want to delete the selected Auto Correct entry?</source>
         <translation>Ջնջե՞լ ընտրված ինքնաշտկման գրառումը:</translation>
     </message>
-    <message>
-        <source>Select a program</source>
-        <translation type="unfinished">Ընտրել ծրագիր</translation>
-    </message>
 </context>
 <context>
     <name>DlgSettingsGeneralClass</name>
@@ -9710,10 +9750,6 @@ Thumbnail</source>
         <comment>icc</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>ExifTool path</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>DlgSettingsIntegration</name>
@@ -9777,6 +9813,10 @@ Thumbnail</source>
         <source>Application folder</source>
         <translation>Ծրագրի պանակ</translation>
     </message>
+    <message>
+        <source>Select a program</source>
+        <translation type="unfinished">Ընտրել ծրագիր</translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsIntegrationClass</name>
@@ -9835,6 +9875,14 @@ Thumbnail</source>
     <message>
         <source>Custom</source>
         <translation>Հարմարեցված</translation>
+    </message>
+    <message>
+        <source>ExifTool path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation type="unfinished">...</translation>
     </message>
 </context>
 <context>
@@ -13207,6 +13255,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <source>Field (Number)</source>
         <translation>Դաշտ (թիվ)</translation>
     </message>
+    <message>
+        <source>File type</source>
+        <translation type="unfinished">Ֆայլի տեսակ</translation>
+    </message>
 </context>
 <context>
     <name>InfoCategoryTreeView</name>
@@ -13773,6 +13825,14 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>SubSecTime Digitized</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lens</source>
+        <translation type="unfinished">Լինզա</translation>
+    </message>
+    <message>
+        <source>Shutter Speed</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

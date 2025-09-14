@@ -726,10 +726,6 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
         <translation>Cambiar nombre</translation>
     </message>
     <message>
-        <source>New album...</source>
-        <translation>Nuevo álbum...</translation>
-    </message>
-    <message>
         <source>New Album</source>
         <translation>Nuevo Álbum</translation>
     </message>
@@ -768,6 +764,22 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
     <message>
         <source>Are you sure to delete this category?</source>
         <translation>¿Está seguro de eliminar esta categoría?</translation>
+    </message>
+    <message>
+        <source>EXIF: Date taken</source>
+        <translation type="unfinished">EXIF: Fecha de captura</translation>
+    </message>
+    <message>
+        <source>EXIF: Date modified</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File: Date modified</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New album</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1516,10 +1528,6 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
         <translation>Todos</translation>
     </message>
     <message>
-        <source>Album</source>
-        <translation>Álbum</translation>
-    </message>
-    <message>
         <source>Colour Label</source>
         <translation>Etiqueta de color</translation>
     </message>
@@ -1554,6 +1562,42 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
     <message>
         <source>Date</source>
         <translation type="unfinished">Fecha</translation>
+    </message>
+    <message>
+        <source>Taken in last 30 days</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modified in last 30 days</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Properties</source>
+        <translation type="unfinished">Propiedades</translation>
+    </message>
+    <message>
+        <source>Albums</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Landscape</source>
+        <translation type="unfinished">Paisaje</translation>
+    </message>
+    <message>
+        <source>Portrait</source>
+        <translation type="unfinished">Retrato</translation>
+    </message>
+    <message>
+        <source>Uncalibrated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>sRGB</source>
+        <translation type="unfinished">sRGB</translation>
     </message>
 </context>
 <context>
@@ -9370,10 +9414,6 @@ miniatura</translation>
         <source>Do you want to delete the selected Auto Correct entry?</source>
         <translation>¿Desea eliminar la entrada de Corrección Automática seleccionada?</translation>
     </message>
-    <message>
-        <source>Select a program</source>
-        <translation type="unfinished">Seleccionar un programa</translation>
-    </message>
 </context>
 <context>
     <name>DlgSettingsGeneralClass</name>
@@ -9711,10 +9751,6 @@ miniatura</translation>
         <comment>icc</comment>
         <translation type="unfinished">Personalizado</translation>
     </message>
-    <message>
-        <source>ExifTool path</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>DlgSettingsIntegration</name>
@@ -9778,6 +9814,10 @@ miniatura</translation>
         <source>Application folder</source>
         <translation>Carpeta de aplicaciones</translation>
     </message>
+    <message>
+        <source>Select a program</source>
+        <translation type="unfinished">Seleccionar un programa</translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsIntegrationClass</name>
@@ -9836,6 +9876,14 @@ miniatura</translation>
     <message>
         <source>Custom</source>
         <translation type="unfinished">Personalizado</translation>
+    </message>
+    <message>
+        <source>ExifTool path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation type="unfinished">...</translation>
     </message>
 </context>
 <context>
@@ -13208,6 +13256,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <source>Field (Number)</source>
         <translation type="unfinished">Campo (Número)</translation>
     </message>
+    <message>
+        <source>File type</source>
+        <translation type="unfinished">Tipo de archivo</translation>
+    </message>
 </context>
 <context>
     <name>InfoCategoryTreeView</name>
@@ -13774,6 +13826,14 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>SubSecTime Digitized</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lens</source>
+        <translation type="unfinished">Lente</translation>
+    </message>
+    <message>
+        <source>Shutter Speed</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

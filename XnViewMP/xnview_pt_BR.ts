@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="pt_BR">
+<TS version="2.1" language="pt_BR" sourcelanguage="en_US">
 <context>
     <name>@default</name>
     <message>
         <source>Uncolored</source>
-        <translation>Descolorido</translation>
+        <translation>Sem cor</translation>
     </message>
     <message>
         <source>Important</source>
@@ -21,15 +21,15 @@
     </message>
     <message>
         <source>To do</source>
-        <translation>Para fazer</translation>
+        <translation>Pendente</translation>
     </message>
     <message>
         <source>Later</source>
-        <translation>Mais tarde</translation>
+        <translation>Mais Tarde</translation>
     </message>
     <message>
         <source>Unrated</source>
-        <translation>Não avaliado</translation>
+        <translation>Sem avaliação</translation>
     </message>
     <message>
         <source>Average</source>
@@ -45,67 +45,67 @@
     </message>
     <message>
         <source>Poor</source>
-        <translation>Pobre</translation>
+        <translation>Ruim</translation>
     </message>
     <message>
         <source>Fair</source>
-        <translation>Aceitável</translation>
+        <translation>Razoável</translation>
     </message>
     <message>
         <source>Red</source>
-        <translation type="unfinished">Vermelho</translation>
+        <translation>Vermelho</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecionar</translation>
     </message>
     <message>
         <source>Yellow</source>
-        <translation type="unfinished">Amarelo</translation>
+        <translation>Amarelo</translation>
     </message>
     <message>
         <source>Second</source>
-        <translation type="unfinished"></translation>
+        <translation>Segundo</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished">Verde</translation>
+        <translation>Verde</translation>
     </message>
     <message>
         <source>Approved</source>
-        <translation type="unfinished"></translation>
+        <translation>Aprovado</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation type="unfinished">Azul</translation>
+        <translation>Azul</translation>
     </message>
     <message>
         <source>Review</source>
-        <translation type="unfinished"></translation>
+        <translation>Avaliação</translation>
     </message>
     <message>
         <source>Purple</source>
-        <translation type="unfinished"></translation>
+        <translation>Roxo</translation>
     </message>
     <message>
         <source>To Do</source>
-        <translation type="unfinished"></translation>
+        <translation>Pendente</translation>
     </message>
     <message>
         <source>Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Laranja</translation>
     </message>
     <message>
         <source>Grey</source>
-        <translation type="unfinished"></translation>
+        <translation>Cinza</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation type="unfinished">Preto</translation>
+        <translation>Preto</translation>
     </message>
     <message>
         <source>White</source>
-        <translation type="unfinished">Branco</translation>
+        <translation>Branco</translation>
     </message>
 </context>
 <context>
@@ -128,11 +128,11 @@
     </message>
     <message>
         <source>Plugins</source>
-        <translation>Extensões</translation>
+        <translation>Plugins</translation>
     </message>
     <message>
         <source>Filename</source>
-        <translation>Nome do arquivo</translation>
+        <translation>Nome do Arquivo</translation>
     </message>
     <message>
         <source>Description</source>
@@ -140,7 +140,7 @@
     </message>
     <message>
         <source>Copyright</source>
-        <translation>Copyright</translation>
+        <translation>Direitos Autorais</translation>
     </message>
     <message>
         <source>Command line</source>
@@ -152,11 +152,11 @@
     </message>
     <message>
         <source>Read</source>
-        <translation>Ler</translation>
+        <translation>Leitura</translation>
     </message>
     <message>
         <source>Write</source>
-        <translation>Escrever</translation>
+        <translation>Escrita</translation>
     </message>
     <message>
         <source>Extension</source>
@@ -164,39 +164,39 @@
     </message>
     <message>
         <source>Formats in reading: %1 | Formats in writing: %2</source>
-        <translation>Formatos de leitura %1 | Formatos de escrita %2</translation>
+        <translation>Formatos de leitura: %1 | Formatos de escrita: %2</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished">Data</translation>
+        <translation>Data</translation>
     </message>
     <message>
         <source>Social</source>
-        <translation type="unfinished"></translation>
+        <translation>Mídias sociais</translation>
     </message>
     <message>
         <source>Email</source>
-        <translation type="unfinished"></translation>
+        <translation>E-mail</translation>
     </message>
     <message>
         <source>Website</source>
-        <translation type="unfinished"></translation>
+        <translation>Site</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versão</translation>
     </message>
     <message>
         <source>Forum</source>
-        <translation type="unfinished"></translation>
+        <translation>Fórum</translation>
     </message>
     <message>
         <source>Wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiki</translation>
     </message>
     <message>
         <source>INI filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome do arquivo INI</translation>
     </message>
     <message>
         <source>Changelog</source>
@@ -214,11 +214,11 @@
     <name>AbstractViewWindow</name>
     <message>
         <source>Frame %1/%2</source>
-        <translation>Moldura %1/%2</translation>
+        <translation>Quadro %1/%2</translation>
     </message>
     <message>
         <source>Icon %1/%2</source>
-        <translation>Icone %1/%2</translation>
+        <translation>Ícone %1/%2</translation>
     </message>
     <message>
         <source>Page %1/%2</source>
@@ -226,11 +226,11 @@
     </message>
     <message>
         <source>Customize toolbar...</source>
-        <translation>Personalizar a barra de ferramentas...</translation>
+        <translation>Personalizar barra de ferramentas...</translation>
     </message>
     <message>
         <source>Delete items</source>
-        <translation>Apagar itens</translation>
+        <translation>Excluir itens</translation>
     </message>
     <message>
         <source>Save</source>
@@ -238,7 +238,7 @@
     </message>
     <message>
         <source>The file &lt;%1&gt; is read-only, please choose another file name.</source>
-        <translation>O arquivo &lt;%1&gt; está protegido contra gravação, escolha outro nome de arquivo.</translation>
+        <translation>O arquivo &lt;%1&gt; é somente leitura. Escolha outro nome de arquivo.</translation>
     </message>
     <message>
         <source>Save changed file</source>
@@ -246,7 +246,7 @@
     </message>
     <message>
         <source>&lt; Empty &gt;</source>
-        <translation>&lt;Vazio&gt;</translation>
+        <translation>&lt; Vazio &gt;</translation>
     </message>
     <message>
         <source>Properties</source>
@@ -258,52 +258,60 @@
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Erro</translation>
+        <translation>Erro</translation>
     </message>
     <message>
         <source>An error occurred during saving!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocorreu um erro ao salvar!</translation>
     </message>
     <message>
         <source>Save &amp;as...</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvar &amp;como...</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Salvar</translation>
     </message>
     <message>
         <source>&amp;Don&apos;t Save</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Não Salvar</translation>
     </message>
     <message>
         <source>Don&apos;t ask again</source>
-        <translation type="unfinished"></translation>
+        <translation>Não perguntar novamente</translation>
     </message>
     <message>
         <source>Are you sure to delete 
 &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Você tem certeza de que deseja excluir 
+&quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Are you sure to delete 
 &quot;%1&quot; (%2 items)?</source>
-        <translation type="unfinished"></translation>
+        <translation>Você tem certeza de que deseja excluir 
+&quot;%1&quot; (%2 itens)?</translation>
     </message>
     <message>
         <source>Confirm Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar Salvamento</translation>
     </message>
     <message>
         <source>&lt;%1&gt; already exists!</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;%1&gt; já existe!</translation>
     </message>
     <message>
         <source>Do you want to overwrite it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Você deseja sobrescrevê-lo?</translation>
     </message>
     <message>
         <source>Would you like to discard your edits and delete 
+&quot;%1&quot;?</source>
+        <translation>Você gostaria de descartar suas edições e excluir 
+&quot;%1&quot;?</translation>
+    </message>
+    <message>
+        <source>Do you want to save changes to
 &quot;%1&quot;?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -312,16 +320,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Number of unique colors: %1</source>
-        <translation>Número de cores exclusivas: %1</translation>
-    </message>
-    <message>
-        <source>Do you want to save changes to
-&quot;%1&quot;?</source>
+        <source>Saving image...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Saving image...</source>
+        <source>Number of unique colors: %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -340,14 +343,14 @@
     </message>
     <message>
         <source>Create Set from selection...</source>
-        <translation>Criar ajuste a partir da seleção...</translation>
+        <translation>Criar conjunto a partir da seleção...</translation>
     </message>
 </context>
 <context>
     <name>Audio</name>
     <message>
         <source>Audio Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivos de Áudio</translation>
     </message>
 </context>
 <context>
@@ -361,11 +364,11 @@
     <name>BannerProcess</name>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">Abortar</translation>
+        <translation>Interromper</translation>
     </message>
     <message>
         <source>Creating contact sheet...</source>
-        <translation type="unfinished"></translation>
+        <translation>Criando folha de contato...</translation>
     </message>
 </context>
 <context>
@@ -376,7 +379,7 @@
     </message>
     <message>
         <source>File can&apos;t be loaded!</source>
-        <translation>O arquivo não pode ser carregado!</translation>
+        <translation>O arquivo não pôde ser carregado!</translation>
     </message>
     <message>
         <source>&lt; Empty &gt;</source>
@@ -384,25 +387,25 @@
     </message>
     <message>
         <source>Please visit the %1 for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Visite o site %1 para obter mais informações.</translation>
     </message>
     <message>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Para visualizar e converter arquivos PDF/PS/EPS/AI, o XnView MP requer que o Ghostscript %1 esteja instalado em seu sistema.</translation>
     </message>
 </context>
 <context>
     <name>BatchRenameProcess</name>
     <message>
         <source>Renaming files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Renomeando arquivos...</translation>
     </message>
 </context>
 <context>
     <name>BookmarksManager</name>
     <message>
         <source>Favorite doesn&apos;t exist</source>
-        <translation type="unfinished"></translation>
+        <translation>O favorito não existe</translation>
     </message>
     <message>
         <source>This favorite points to a folder which doesn&apos;t exist. 
@@ -415,18 +418,18 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <name>BookmarksMenu</name>
     <message>
         <source>No favorites</source>
-        <translation>Sem favoritos</translation>
+        <translation>Não há favoritos</translation>
     </message>
 </context>
 <context>
     <name>BookmarksModel</name>
     <message>
         <source>Label</source>
-        <translation>Etiqueta</translation>
+        <translation>Rótulo</translation>
     </message>
     <message>
         <source>Pathname</source>
-        <translation>Caminho</translation>
+        <translation>Nome do caminho</translation>
     </message>
 </context>
 <context>
@@ -445,7 +448,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Info</source>
-        <translation>Informações</translation>
+        <translation>Info</translation>
     </message>
     <message>
         <source>Match</source>
@@ -453,7 +456,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>&lt;Search results&gt;</source>
-        <translation>&lt;Procurar resultados&gt;</translation>
+        <translation>&lt;Resultados da pesquisa&gt;</translation>
     </message>
     <message>
         <source>&lt;Tagged files&gt;</source>
@@ -466,21 +469,21 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message numerus="yes">
         <source>Are you sure to delete these %n item(s)?</source>
         <translation>
-            <numerusform>Você tem certeza que deseja apagar esse %n item?</numerusform>
-            <numerusform>Você tem certeza que deseja apagar esses %n itens?</numerusform>
+            <numerusform>Você tem certeza de que deseja excluir esse(s) item(ns) do %n?</numerusform>
+            <numerusform>Você tem certeza de que deseja excluir este(s) %n item(ns)?</numerusform>
         </translation>
     </message>
     <message>
         <source>Delete items</source>
-        <translation>Apagar itens</translation>
+        <translation>Excluir itens</translation>
     </message>
     <message>
         <source>Delete folder</source>
-        <translation>Apagar pasta</translation>
+        <translation>Excluir pasta</translation>
     </message>
     <message>
         <source>Are you sure to delete this folder?</source>
-        <translation>Você tem certeza que deseja apagar essa pasta?</translation>
+        <translation>Você Você tem certeza de que deseja excluir esta pasta?</translation>
     </message>
     <message>
         <source>Browser</source>
@@ -488,11 +491,11 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Add Favorite...</source>
-        <translation>Adicionar favorito...</translation>
+        <translation>Adicionar Favorito...</translation>
     </message>
     <message>
         <source>Customize toolbar...</source>
-        <translation>Personalizar a barra de ferramentas...</translation>
+        <translation>Personalizar barra de ferramentas...</translation>
     </message>
     <message>
         <source>Load filelist</source>
@@ -504,11 +507,11 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Category Sets</source>
-        <translation>Ajustes de categorias</translation>
+        <translation>Conjunto de categorias</translation>
     </message>
     <message>
         <source>This folder doesn&apos;t exist!</source>
-        <translation>Esta pasta não existe!</translation>
+        <translation>Essa pasta não existe!</translation>
     </message>
     <message>
         <source>Global</source>
@@ -520,92 +523,94 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Current folder (Recursive)</source>
-        <translation>Pasta atual (recursivamente)</translation>
+        <translation>Pasta atual (Recursivo)</translation>
     </message>
     <message>
         <source>Detach preview panel</source>
-        <translation type="unfinished">Destacar painel de previsão</translation>
+        <translation>Desanexar painel de visualização</translation>
     </message>
     <message>
         <source>Attach preview panel</source>
-        <translation type="unfinished">Painel de previsão de &quot;attach&quot;</translation>
+        <translation>Anexar painel de visualização</translation>
     </message>
     <message>
         <source>Search...</source>
-        <translation type="unfinished">Procurar...</translation>
+        <translation>Pesquisar...</translation>
     </message>
     <message>
         <source>Add to Favorites</source>
-        <translation type="unfinished"></translation>
+        <translation>Adicionar aos Favoritos</translation>
     </message>
     <message>
         <source>Click to filter - use Shift and Control for multiple selections.
 Right Click on different items for pop-up menus with actions.
 Drag and Drop over the desired node to assign.</source>
-        <translation type="unfinished"></translation>
+        <translation>Clique para filtrar - Pressione Shift + Control para realizar múltiplas seleções.
+Clique com o botão direito do mouse em diferentes itens para obter menus pop-up com ações.
+Arraste e solte sobre o nó desejado para atribuir.</translation>
     </message>
     <message>
         <source>Add to favorites...</source>
-        <translation type="unfinished"></translation>
+        <translation>Adicionar aos Favoritos...</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished">Propriedades</translation>
+        <translation>Propriedades</translation>
     </message>
     <message>
         <source>The database is corrupted, please check it before to continue!</source>
-        <translation type="unfinished"></translation>
+        <translation>O banco de dados está corrompido. Verifique-o antes de continuar!</translation>
     </message>
     <message>
         <source>Delete items &amp; companions</source>
-        <translation type="unfinished"></translation>
+        <translation>Excluir itens e acompanhamentos</translation>
     </message>
     <message numerus="yes">
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Você tem certeza de que deseja excluir este(s) item(ns) %n - %1 item(ns) selecionado(s)?</numerusform>
+            <numerusform>Você tem certeza de que deseja excluir este(s) item(ns) %n - %1 item(ns) selecionado(s)?</numerusform>
         </translation>
     </message>
     <message>
         <source>The files cannot be renamed, an error occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível renomear os arquivos, ocorreu um erro.</translation>
     </message>
     <message>
         <source>Match any selected entry (OR)</source>
-        <translation type="unfinished"></translation>
+        <translation>Corresponder a qualquer entrada selecionada (OU)</translation>
     </message>
     <message>
         <source>Match all selected entries (AND)</source>
-        <translation type="unfinished"></translation>
+        <translation>Corresponder a todas as entradas selecionadas (E)</translation>
     </message>
     <message>
         <source>Catalog Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtro de Catálogo</translation>
     </message>
     <message>
         <source>&lt;Catalog filter results&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Resultados do filtro do catálogo&gt;</translation>
     </message>
     <message>
         <source>Start slideshow</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar apresentação de slides</translation>
     </message>
     <message>
         <source>Metadata</source>
-        <translation type="unfinished">Metadados</translation>
+        <translation>Metadados</translation>
     </message>
     <message>
         <source>Histogram</source>
-        <translation type="unfinished">Histograma</translation>
+        <translation>Histograma</translation>
     </message>
     <message>
         <source>&lt;files&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;arquivos&gt;</translation>
     </message>
     <message>
         <source>Show files in subfolders</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar arquivos nas subpastas</translation>
     </message>
     <message>
         <source>Open in file manager</source>
@@ -616,7 +621,7 @@ Drag and Drop over the desired node to assign.</source>
     <name>CategoryCompleterModel</name>
     <message>
         <source> [Create New]</source>
-        <translation> [Criar novo]</translation>
+        <translation> [Criar Novo]</translation>
     </message>
 </context>
 <context>
@@ -630,7 +635,7 @@ Drag and Drop over the desired node to assign.</source>
     <name>CategoryModel</name>
     <message>
         <source>Label</source>
-        <translation>Etiqueta</translation>
+        <translation>Rótulo</translation>
     </message>
 </context>
 <context>
@@ -660,11 +665,11 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <source>Enter a name for this layout</source>
-        <translation>Digite um nome para esse layout</translation>
+        <translation>Insira um nome para este layout</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation>Nome :</translation>
+        <translation>Nome:</translation>
     </message>
     <message>
         <source>Assigned</source>
@@ -680,7 +685,7 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <source>Enter a name for this set</source>
-        <translation>Digite um nome para esse conjunto</translation>
+        <translation>Insira um nome para este conjunto</translation>
     </message>
     <message>
         <source>New name</source>
@@ -703,62 +708,74 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Apagar</translation>
+        <translation>Excluir</translation>
     </message>
     <message>
         <source>Delete category</source>
-        <translation>Apagar categoria</translation>
+        <translation>Excluir categoria</translation>
     </message>
     <message>
         <source>Are you sure to delete this category?</source>
-        <translation>Você tem certeza que deseja apagar esta categoria?</translation>
+        <translation>Você tem certeza de que deseja excluir esta categoria?</translation>
     </message>
     <message>
         <source>New Category</source>
-        <translation>Nova categoria</translation>
+        <translation>Adicionar categoria</translation>
     </message>
     <message>
         <source>Empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Vazio</translation>
     </message>
     <message>
         <source>Delete album</source>
-        <translation type="unfinished"></translation>
+        <translation>Excluir Álbum</translation>
     </message>
     <message>
         <source>Are you sure to delete this album?</source>
-        <translation type="unfinished"></translation>
+        <translation>Você deseja mesmo excluir este álbum?</translation>
     </message>
     <message>
         <source>New Album</source>
-        <translation type="unfinished"></translation>
+        <translation>Novo Álbum</translation>
     </message>
     <message>
         <source>Empty album</source>
-        <translation type="unfinished"></translation>
+        <translation>Álbum vazio</translation>
     </message>
     <message>
         <source>Are you sure to clear this album?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New album...</source>
-        <translation type="unfinished"></translation>
+        <translation>Você deseja mesmo limpar este álbum?</translation>
     </message>
     <message>
         <source>Export (Bridge format)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar (formato Bridge)...</translation>
     </message>
     <message>
         <source>Import (Bridge format)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar (formato Bridge)...</translation>
     </message>
     <message>
         <source>Import collection</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar Coleção</translation>
     </message>
     <message>
         <source>Export collection</source>
+        <translation>Exportar coleção</translation>
+    </message>
+    <message>
+        <source>EXIF: Date taken</source>
+        <translation type="unfinished">EXIF: Data de captura</translation>
+    </message>
+    <message>
+        <source>EXIF: Date modified</source>
+        <translation type="unfinished">EXIF: Data de modificação</translation>
+    </message>
+    <message>
+        <source>File: Date modified</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New album</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -780,11 +797,11 @@ Drag and Drop over the desired node to assign.</source>
     <name>CompareWidget</name>
     <message>
         <source>Grid</source>
-        <translation>Malha</translation>
+        <translation>Grade</translation>
     </message>
     <message>
         <source>Info</source>
-        <translation>Informações</translation>
+        <translation>Info</translation>
     </message>
     <message>
         <source>Histogram</source>
@@ -800,11 +817,11 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <source>Zoom 100%</source>
-        <translation>Zoom em 100%</translation>
+        <translation>Zoom 100%</translation>
     </message>
     <message>
         <source>Best fit</source>
-        <translation>Melhor tamanho</translation>
+        <translation>Melhor ajuste</translation>
     </message>
     <message>
         <source>Close</source>
@@ -812,7 +829,7 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Apagar</translation>
+        <translation>Excluir</translation>
     </message>
     <message>
         <source>Copy to</source>
@@ -824,23 +841,23 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <source>Delete file</source>
-        <translation>Apagar arquivo</translation>
+        <translation>Excluir arquivo</translation>
     </message>
     <message>
         <source>Do you want to delete this file?</source>
-        <translation>Você gostaria de apagar este arquivo?</translation>
+        <translation>Você deseja excluir este arquivo?</translation>
     </message>
     <message>
         <source>CRC</source>
-        <translation type="unfinished"></translation>
+        <translation>CRC</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished">Normal</translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>Tabs</source>
-        <translation type="unfinished">Abas</translation>
+        <translation>Guias</translation>
     </message>
     <message>
         <source>Auto fit</source>
@@ -874,11 +891,11 @@ Drag and Drop over the desired node to assign.</source>
     <name>ContactSheetProcess</name>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">Abortar</translation>
+        <translation>Interromper</translation>
     </message>
     <message>
         <source>Creating contact sheet...</source>
-        <translation type="unfinished"></translation>
+        <translation>Criando folha de contatos...</translation>
     </message>
 </context>
 <context>
@@ -889,23 +906,23 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <source>Pattern</source>
-        <translation>Modelo</translation>
+        <translation>Padrão</translation>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation>Margem superior esquerda</translation>
+        <translation>Superior Esquerdo</translation>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation>Margem superior direita</translation>
+        <translation>Superior Direito</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation>Borda inferior esquerda</translation>
+        <translation>Inferior à esquerda</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation>Borda inferior direita</translation>
+        <translation>Inferior à direita</translation>
     </message>
     <message>
         <source>Length</source>
@@ -921,11 +938,11 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <source>Black limit %</source>
-        <translation>Limite preto %</translation>
+        <translation>Limite de preto (%)</translation>
     </message>
     <message>
         <source>White limit %</source>
-        <translation>Limite branco %</translation>
+        <translation>Limite de branco (%)</translation>
     </message>
     <message>
         <source>Expansion limit</source>
@@ -977,7 +994,7 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <source>Negative</source>
-        <translation>Negativo</translation>
+        <translation>Inverter cores</translation>
     </message>
     <message>
         <source>Normalize</source>
@@ -993,31 +1010,31 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <source>Solarize</source>
-        <translation>Ensolarar</translation>
+        <translation>Solarizar</translation>
     </message>
     <message>
         <source>Enhance detail</source>
-        <translation>Intensificar detalhes</translation>
+        <translation>Aprimorar detalhes</translation>
     </message>
     <message>
         <source>Enhance focus</source>
-        <translation>Intensificar o foco</translation>
+        <translation>Aprimorar foco</translation>
     </message>
     <message>
         <source>Enhance edges</source>
-        <translation>Intensificar bordas</translation>
+        <translation>Realçar bordas</translation>
     </message>
     <message>
         <source>Focus restoration</source>
-        <translation>Restauração do foco</translation>
+        <translation>Restauração de foco</translation>
     </message>
     <message>
         <source>Emboss</source>
-        <translation>Alto relevo</translation>
+        <translation>Relevo</translation>
     </message>
     <message>
         <source>Emboss more</source>
-        <translation>Aumentar o alto relevo</translation>
+        <translation>Relevo intenso</translation>
     </message>
     <message>
         <source>Average</source>
@@ -1025,7 +1042,7 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <source>Blur</source>
-        <translation>Desfocar</translation>
+        <translation>Desfoque</translation>
     </message>
     <message>
         <source>Soften</source>
@@ -1037,7 +1054,7 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <source>Maximum</source>
-        <translation>Máximo</translation>
+        <translation>Máxima</translation>
     </message>
     <message>
         <source>Minimum</source>
@@ -1045,11 +1062,11 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <source>Median box</source>
-        <translation>Caixa mediana</translation>
+        <translation>Mediana em caixa</translation>
     </message>
     <message>
         <source>Median cross</source>
-        <translation>Cruz mediana</translation>
+        <translation>Mediana em cruz</translation>
     </message>
     <message>
         <source>Sharpen</source>
@@ -1065,7 +1082,7 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <source>Slice</source>
-        <translation>Fatiar</translation>
+        <translation>Cortar</translation>
     </message>
     <message>
         <source>Tile</source>
@@ -1073,7 +1090,7 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <source>Shear</source>
-        <translation>Cisalhamento</translation>
+        <translation>Cortar</translation>
     </message>
     <message>
         <source>Oil painting</source>
@@ -1089,11 +1106,11 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <source>Lens</source>
-        <translation>Lentes</translation>
+        <translation>Lente</translation>
     </message>
     <message>
         <source>Change color depth</source>
-        <translation>Mudar a profundidade da cor</translation>
+        <translation>Alterar profundidade de cor</translation>
     </message>
     <message>
         <source>Adjust</source>
@@ -1101,7 +1118,7 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <source>Automatic crop</source>
-        <translation>Corte automático</translation>
+        <translation>Recortar automaticamente</translation>
     </message>
     <message>
         <source>Clean metadata</source>
@@ -1121,7 +1138,7 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <source>Canvas resize</source>
-        <translation>Redimensionar canvas</translation>
+        <translation>Redimensionar tela</translation>
     </message>
     <message>
         <source>Resize</source>
@@ -1141,7 +1158,7 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <source>Mirror</source>
-        <translation>Espelho</translation>
+        <translation>Espelhar</translation>
     </message>
     <message>
         <source>Replace color</source>
@@ -1157,7 +1174,7 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <source>Shadow-Highlight</source>
-        <translation>Sombra-Destaque</translation>
+        <translation>Intensidade da Sombra</translation>
     </message>
     <message>
         <source>Add noise</source>
@@ -1165,11 +1182,11 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <source>Edge detect</source>
-        <translation>Detectar bordas</translation>
+        <translation>Detecção de bordas</translation>
     </message>
     <message>
         <source>De-interlace</source>
-        <translation>Desentrelaçamento</translation>
+        <translation>Desentrelaçar</translation>
     </message>
     <message>
         <source>Posterize</source>
@@ -1205,7 +1222,7 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <source>Vignetting</source>
-        <translation>Vignete</translation>
+        <translation>Aplicar vinheta</translation>
     </message>
     <message>
         <source>Add mask</source>
@@ -1213,7 +1230,7 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <source>Set DPI</source>
-        <translation>Configurar DPI</translation>
+        <translation>Definir DPI</translation>
     </message>
     <message>
         <source>JPEG Lossless rotation</source>
@@ -1221,11 +1238,11 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <source>Enhance colors</source>
-        <translation>Realçar cores</translation>
+        <translation>Aprimorar cores</translation>
     </message>
     <message>
         <source>Pointillize</source>
-        <translation>Pontilhar</translation>
+        <translation>Pontilhismo</translation>
     </message>
     <message>
         <source>Retro</source>
@@ -1233,7 +1250,7 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <source>Bloom</source>
-        <translation>Incandescência</translation>
+        <translation>Bloom</translation>
     </message>
     <message>
         <source>Fantasy</source>
@@ -1246,6 +1263,10 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <source>No settings</source>
         <translation>Nenhuma configuração</translation>
+    </message>
+    <message>
+        <source>Exposure</source>
+        <translation>Exposição</translation>
     </message>
     <message>
         <source>Oil painting 2</source>
@@ -1265,7 +1286,7 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <source>Photo Spread</source>
-        <translation>Espalhar Foto</translation>
+        <translation>Dispersão de Fotos</translation>
     </message>
     <message>
         <source>Frequency</source>
@@ -1273,7 +1294,7 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <source>Halftone</source>
-        <translation>Meio tom</translation>
+        <translation>Meio-tom</translation>
     </message>
     <message>
         <source>Band</source>
@@ -1281,95 +1302,91 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <source>%1 file(s) - %2% - %3</source>
-        <translation>%1 arquivo(s) - %2 - %3</translation>
+        <translation>%1 arquivo(s) - %2% - %3</translation>
     </message>
     <message>
         <source>Automatic deskew</source>
-        <translation type="unfinished"></translation>
+        <translation>Correção automática de inclinação</translation>
     </message>
     <message>
         <source>Zealous crop</source>
-        <translation type="unfinished"></translation>
+        <translation>Corte preciso</translation>
     </message>
     <message>
         <source>Film simulation</source>
-        <translation type="unfinished"></translation>
+        <translation>Simulação de filme</translation>
     </message>
     <message>
         <source>Curves</source>
-        <translation type="unfinished"></translation>
+        <translation>Curvas</translation>
     </message>
     <message>
         <source>Black/White Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Pontos Preto/Branco</translation>
     </message>
     <message>
         <source>Unsharp Mask</source>
-        <translation type="unfinished"></translation>
+        <translation>Máscara Desfocada</translation>
     </message>
     <message>
         <source>Offset</source>
-        <translation type="unfinished">Offset</translation>
+        <translation>Deslocamento</translation>
     </message>
     <message>
         <source>Desaturate</source>
-        <translation type="unfinished"></translation>
+        <translation>Desaturar</translation>
     </message>
     <message>
         <source>White Balance</source>
-        <translation type="unfinished"></translation>
+        <translation>Equilíbrio de Branco</translation>
     </message>
     <message>
         <source>Transparent color</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor transparente</translation>
     </message>
     <message>
         <source>Mono Mixer</source>
-        <translation type="unfinished"></translation>
+        <translation>Mixer mono</translation>
     </message>
     <message>
         <source>Clear transparent pixels</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpar pixels transparentes</translation>
     </message>
     <message>
         <source>QR Code</source>
-        <translation type="unfinished"></translation>
+        <translation>QR Code</translation>
     </message>
     <message>
         <source>Film Simulation</source>
-        <translation type="unfinished"></translation>
+        <translation>Simulação de filme</translation>
     </message>
     <message>
         <source>Blurred frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Quadro desfocado</translation>
     </message>
     <message>
         <source>Aspect Pad</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajuste de proporção</translation>
     </message>
     <message>
         <source>Inner Frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Quadro interno</translation>
     </message>
     <message>
         <source>Effect</source>
-        <translation type="unfinished"></translation>
+        <translation>Efeito</translation>
     </message>
     <message>
         <source>Swap color</source>
-        <translation type="unfinished"></translation>
+        <translation>Inverter cores</translation>
     </message>
     <message>
         <source>Remove alpha channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Remover canal alfa</translation>
     </message>
     <message>
         <source>Logarithmic LUT</source>
-        <translation>Logarítmica LUT</translation>
-    </message>
-    <message>
-        <source>Exposure</source>
-        <translation type="unfinished">Exposição</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add</source>
@@ -1420,18 +1437,18 @@ Drag and Drop over the desired node to assign.</source>
     <name>ConvertThread</name>
     <message>
         <source>WARNING: Image will be converted to 24-bit RGB (8bits per channel)</source>
-        <translation>AVISO: A imagem será convertida em RGB de 24-bit (8 bits por canal)</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>CustomTreeWidgetItem</name>
     <message>
         <source>Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalar</translation>
     </message>
     <message>
         <source>Installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalado</translation>
     </message>
 </context>
 <context>
@@ -1454,11 +1471,11 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <source>Pets</source>
-        <translation>Bichinhos de estimação</translation>
+        <translation>Animais</translation>
     </message>
     <message>
         <source>Travel</source>
-        <translation>Viagens</translation>
+        <translation>Viagem</translation>
     </message>
     <message>
         <source>Landscapes</source>
@@ -1478,11 +1495,11 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <source>Pictures</source>
-        <translation>Figuras</translation>
+        <translation>Imagens</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation>Icones</translation>
+        <translation>Ícones</translation>
     </message>
     <message>
         <source>Drawings</source>
@@ -1505,19 +1522,19 @@ Drag and Drop over the desired node to assign.</source>
     <name>DBFilterModel</name>
     <message>
         <source>Rating</source>
-        <translation>Classificação</translation>
+        <translation>Avaliação</translation>
     </message>
     <message>
         <source>Colour Label</source>
-        <translation>Cor da etiqueta</translation>
+        <translation>Rótulo de cor</translation>
     </message>
     <message>
         <source>Tag (%1)</source>
-        <translation>Marcador %1</translation>
+        <translation>Etiqueta (%1)</translation>
     </message>
     <message>
         <source>Special Items</source>
-        <translation>Itens especiais</translation>
+        <translation>Itens Especiais</translation>
     </message>
     <message>
         <source>Uncategorized</source>
@@ -1529,11 +1546,7 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <source>People</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Album</source>
-        <translation type="unfinished"></translation>
+        <translation>Pessoas</translation>
     </message>
     <message>
         <source>No rating</source>
@@ -1544,8 +1557,44 @@ Drag and Drop over the desired node to assign.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Taken in last 30 days</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modified in last 30 days</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Date</source>
         <translation type="unfinished">Data</translation>
+    </message>
+    <message>
+        <source>Properties</source>
+        <translation type="unfinished">Propriedades</translation>
+    </message>
+    <message>
+        <source>Albums</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Landscape</source>
+        <translation type="unfinished">Paisagem</translation>
+    </message>
+    <message>
+        <source>Portrait</source>
+        <translation type="unfinished">Retrato</translation>
+    </message>
+    <message>
+        <source>Uncalibrated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>sRGB</source>
+        <translation type="unfinished">sRGB</translation>
     </message>
 </context>
 <context>
@@ -1559,86 +1608,86 @@ Drag and Drop over the desired node to assign.</source>
     <name>DlgAcquireInto</name>
     <message>
         <source>Folder</source>
-        <translation type="unfinished">Pasta</translation>
+        <translation>Pasta</translation>
     </message>
     <message>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome do Arquivo</translation>
     </message>
     <message>
         <source>Use subfolder based on current date</source>
-        <translation type="unfinished"></translation>
+        <translation>Usar subpasta com base na data atual</translation>
     </message>
     <message>
         <source>Start index</source>
-        <translation type="unfinished"></translation>
+        <translation>Índice inicial</translation>
     </message>
     <message>
         <source>Decrease</source>
-        <translation type="unfinished"></translation>
+        <translation>Diminuir</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation type="unfinished">Formato</translation>
+        <translation>Formato</translation>
     </message>
     <message>
         <source>Settings...</source>
-        <translation type="unfinished">Configurações...</translation>
+        <translation>Configurações...</translation>
     </message>
     <message>
         <source>Save as multipage (TIFF/PDF)</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvar como multipágina (TIFF/PDF)</translation>
     </message>
     <message>
         <source>Restart TWAIN driver</source>
-        <translation type="unfinished"></translation>
+        <translation>Reiniciar o driver TWAIN</translation>
     </message>
     <message>
         <source>Scan</source>
-        <translation type="unfinished"></translation>
+        <translation>Escanear</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Please enter a valid output pathname!</source>
-        <translation type="unfinished"></translation>
+        <translation>Insira um caminho de saída válido!</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Fechar</translation>
+        <translation>Fechar</translation>
     </message>
     <message>
         <source>Scan started...</source>
-        <translation type="unfinished"></translation>
+        <translation>Escaneamento iniciado...</translation>
     </message>
     <message>
         <source>Scan saved in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Escaneamento salvo em %1</translation>
     </message>
     <message>
         <source>Continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Continuar?</translation>
     </message>
     <message>
         <source>Do you want to continue to scan?</source>
-        <translation type="unfinished"></translation>
+        <translation>Você deseja continuar a digitalização?</translation>
     </message>
     <message>
         <source>Batch acquire (TWAIN)</source>
-        <translation type="unfinished"></translation>
+        <translation>Adquirido em lote (TWAIN)</translation>
     </message>
     <message>
         <source>An error has occurred when saving %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocorreu um erro ao salvar %1</translation>
     </message>
 </context>
 <context>
     <name>DlgAdobeConfigure</name>
     <message>
         <source>Configure Adobe Plugin</source>
-        <translation>Configurar o Adobe Plugin</translation>
+        <translation>Configurar plug-in da Adobe</translation>
     </message>
     <message>
         <source>Add...</source>
@@ -1646,7 +1695,7 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Remover</translation>
+        <translation>Excluir</translation>
     </message>
     <message>
         <source>Select a folder</source>
@@ -1672,109 +1721,109 @@ Drag and Drop over the desired node to assign.</source>
     <name>DlgArchive</name>
     <message>
         <source>Please enter the full path of the archive file</source>
-        <translation>Por favor, entre com o caminho completo para arquivar</translation>
+        <translation>Insira o caminho completo do arquivo de pacote</translation>
     </message>
     <message>
         <source>Open File Explorer after compressing</source>
-        <translation>Abrir o gerenciador de arquivos após comprimir</translation>
+        <translation>Abrir o Explorador de Arquivos após compactar</translation>
     </message>
     <message>
         <source>Archive file</source>
-        <translation>Arquivar</translation>
+        <translation>Arquivo de arquivo</translation>
     </message>
     <message>
         <source>Creating archive, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Criando pacote. Aguarde...</translation>
     </message>
 </context>
 <context>
     <name>DlgBanner</name>
     <message>
         <source>Are you sure to overwrite original files?</source>
-        <translation type="unfinished"></translation>
+        <translation>Você tem certeza de que deseja sobrescrever os arquivos originais?</translation>
     </message>
 </context>
 <context>
     <name>DlgBannerClass</name>
     <message>
         <source>Banner</source>
-        <translation type="unfinished"></translation>
+        <translation>Banner</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Configurações</translation>
+        <translation>Configurações</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished">Texto</translation>
+        <translation>Texto</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished">Fonte</translation>
+        <translation>Fonte</translation>
     </message>
     <message>
         <source>Alignment</source>
-        <translation type="unfinished">Alinhamento</translation>
+        <translation>Alinhamento</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished">Esquerda</translation>
+        <translation>Esquerda</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation type="unfinished">Centro</translation>
+        <translation>Centro</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished">Direita</translation>
+        <translation>Direita</translation>
     </message>
     <message>
         <source>Text color</source>
-        <translation type="unfinished">Cor do texto</translation>
+        <translation>Cor do texto</translation>
     </message>
     <message>
         <source>Background color</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor de fundo</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation type="unfinished">Posição</translation>
+        <translation>Posição</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished">Superior</translation>
+        <translation>Superior</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Inferior</translation>
     </message>
     <message>
         <source>Left (top-bottom)</source>
-        <translation type="unfinished"></translation>
+        <translation>Esquerda (parte superior)</translation>
     </message>
     <message>
         <source>Left (bottom-top)</source>
-        <translation type="unfinished"></translation>
+        <translation>Esquerda (parte inferior)</translation>
     </message>
     <message>
         <source>Right (top-bottom)</source>
-        <translation type="unfinished"></translation>
+        <translation>Direita (parte superior)</translation>
     </message>
     <message>
         <source>Right (bottom-top)</source>
-        <translation type="unfinished"></translation>
+        <translation>Direita (parte inferior)</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Tamanho</translation>
+        <translation>Tamanho</translation>
     </message>
     <message>
         <source>Border</source>
-        <translation type="unfinished">Borda</translation>
+        <translation>Borda</translation>
     </message>
     <message>
         <source>Overwrite original file(s) when saving</source>
-        <translation type="unfinished"></translation>
+        <translation>Sobrescrever o(s) arquivo(s) original ao salvar</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;p&gt;All banner specifications (font, color, size, etc.) carry forward from the previously created banner. An exception is text size, which is calculated to &apos;Best fit&apos; for banner height.&lt;/p&gt;&lt;p&gt;You may select multiple images to apply the same banner to several images at once. Note that the text will be the same size in all images, then.&lt;/p&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; align=&quot;left&quot; style=&quot;border-bottom:1px solid gray;padding-top:15px&quot;&gt;Shortcuts&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Increase/decrease font size by 2 points&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Shift+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Increase/decrease banner size by 1%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+S&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Start banner creation&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</source>
@@ -1785,510 +1834,510 @@ Drag and Drop over the desired node to assign.</source>
     <name>DlgBatchResize</name>
     <message>
         <source>Select Photos</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecionar fotos</translation>
     </message>
     <message>
         <source>Action</source>
-        <translation type="unfinished">Ação</translation>
+        <translation>Ação</translation>
     </message>
     <message>
         <source>Resize</source>
-        <translation type="unfinished">Redimensionar</translation>
+        <translation>Redimensionar</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation type="unfinished">Definições prévias</translation>
+        <translation>Predefinições</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">Personalizado</translation>
+        <translation>Personalizado</translation>
     </message>
     <message>
         <source>Original size</source>
-        <translation type="unfinished">Tamanho original</translation>
+        <translation>Tamanho original</translation>
     </message>
     <message>
         <source>Photo 4x6 inches (10x15 cm)</source>
-        <translation type="unfinished">Fotografia 8x10 polegadas (20x25)cm {4x?} {6 ?} {10x?} {15 ?}</translation>
+        <translation>Foto 4x6 polegadas (10x15 cm)</translation>
     </message>
     <message>
         <source>Photo 5x7 inches (13x18 cm)</source>
-        <translation type="unfinished">Fotografia 5x7 polegadas (13x18)cm</translation>
+        <translation>Foto 5x7 polegadas (13x18 cm)</translation>
     </message>
     <message>
         <source>Photo 6x8 inches (15x20 cm)</source>
-        <translation type="unfinished">Fotografia 6x8 polegadas (15x20)cm</translation>
+        <translation>Foto 6x8 polegadas (15x20 cm)</translation>
     </message>
     <message>
         <source>Photo 8x10 inches (20x25 cm)</source>
-        <translation type="unfinished">Fotografia 8x10 polegadas (20x25)cm</translation>
+        <translation>Foto 8x10 polegadas (20x25 cm)</translation>
     </message>
     <message>
         <source>Mode</source>
-        <translation type="unfinished">Modo</translation>
+        <translation>Modo</translation>
     </message>
     <message>
         <source>Fit</source>
-        <translation type="unfinished">Ajustar</translation>
+        <translation>Ajustar</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished">Preencher</translation>
+        <translation>Preencher</translation>
     </message>
     <message>
         <source>Longest side</source>
-        <translation type="unfinished">Lado mais comprido</translation>
+        <translation>Lado mais longo</translation>
     </message>
     <message>
         <source>Shortest side</source>
-        <translation type="unfinished">Lado mais curto</translation>
+        <translation>Lado mais curto</translation>
     </message>
     <message>
         <source>Mpixels</source>
-        <translation type="unfinished">Mpixels</translation>
+        <translation>Mpixels</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished">Largura</translation>
+        <translation>Largura</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation type="unfinished">Altura</translation>
+        <translation>Altura</translation>
     </message>
     <message>
         <source>Image size</source>
-        <translation type="unfinished">Tamanho da imagem</translation>
+        <translation>Tamanho da imagem</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Tamanho</translation>
+        <translation>Tamanho</translation>
     </message>
     <message>
         <source>%</source>
-        <translation type="unfinished">%</translation>
+        <translation>%</translation>
     </message>
     <message>
         <source>pixels</source>
-        <translation type="unfinished">pixels</translation>
+        <translation>pixels</translation>
     </message>
     <message>
         <source>percent</source>
-        <translation type="unfinished">Percentual</translation>
+        <translation>percentual</translation>
     </message>
     <message>
         <source>inches</source>
-        <translation type="unfinished">polegadas</translation>
+        <translation>polegadas</translation>
     </message>
     <message>
         <source>cm</source>
-        <translation type="unfinished">cm</translation>
+        <translation>cm</translation>
     </message>
     <message>
         <source>mm</source>
-        <translation type="unfinished">mm</translation>
+        <translation>mm</translation>
     </message>
     <message>
         <source>Keep ratio</source>
-        <translation type="unfinished">Manter taxa</translation>
+        <translation>Manter proporção</translation>
     </message>
     <message>
         <source>Use gamma correction</source>
-        <translation type="unfinished">Usar correção gamma</translation>
+        <translation>Usar correção gamma</translation>
     </message>
     <message>
         <source>Resample</source>
-        <translation type="unfinished">Refazer amostra</translation>
+        <translation>Reamostrar</translation>
     </message>
     <message>
         <source>Nearest Neighbour</source>
-        <translation type="unfinished">Vizinho mais próximo</translation>
+        <translation>Vizinho mais próximo</translation>
     </message>
     <message>
         <source>Bilinear</source>
-        <translation type="unfinished">Bi linear</translation>
+        <translation>Bilinear</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished">Girar</translation>
+        <translation>Girar</translation>
     </message>
     <message>
         <source>180°</source>
-        <translation type="unfinished">16:10 (1.6) {180°?}</translation>
+        <translation>180°</translation>
     </message>
     <message>
         <source>Output</source>
-        <translation type="unfinished">Saída</translation>
+        <translation>Saída</translation>
     </message>
     <message>
         <source>Output Filename</source>
-        <translation>Arquivo de saída</translation>
+        <translation>Nome do arquivo de saída</translation>
     </message>
     <message>
         <source>Folder</source>
-        <translation type="unfinished">Pasta</translation>
+        <translation>Pasta</translation>
     </message>
     <message>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome do Arquivo</translation>
     </message>
     <message>
         <source>Case</source>
-        <translation type="unfinished">Maiúscula / Minúscula</translation>
+        <translation>Maiúsculas/Minúsculas</translation>
     </message>
     <message>
         <source>No change</source>
-        <translation type="unfinished">Nenhuma alteração</translation>
+        <translation>Sem alteração</translation>
     </message>
     <message>
         <source>Name &amp; extension lowercase</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome e extensão em minúsculas</translation>
     </message>
     <message>
         <source>Name &amp; extension uppercase</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome e extensão em maiúsculas</translation>
     </message>
     <message>
         <source>Name lowercase</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome em minúsculas</translation>
     </message>
     <message>
         <source>Name uppercase</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome em maiúsculas</translation>
     </message>
     <message>
         <source>Extension lowercase</source>
-        <translation type="unfinished"></translation>
+        <translation>Extensão em minúscula</translation>
     </message>
     <message>
         <source>Extension uppercase</source>
-        <translation type="unfinished">Extensão em letras maiúsculas</translation>
+        <translation>Extensão com letras maiúsculas</translation>
     </message>
     <message>
         <source>First letters uppercase</source>
-        <translation type="unfinished"></translation>
+        <translation>Primeiras letras em maiúsculas</translation>
     </message>
     <message>
         <source>Start index</source>
-        <translation type="unfinished"></translation>
+        <translation>Índice inicial</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation type="unfinished">Formato</translation>
+        <translation>Formato</translation>
     </message>
     <message>
         <source>Settings...</source>
-        <translation type="unfinished">Configurações...</translation>
+        <translation>Configurações...</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished">Opções</translation>
+        <translation>Opções</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished">Substituir</translation>
+        <translation>Substituir</translation>
     </message>
     <message>
         <source>Ask</source>
-        <translation type="unfinished">Perguntar</translation>
+        <translation>Perguntar</translation>
     </message>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">Saltar</translation>
+        <translation>Ignorar</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished">Renomear</translation>
+        <translation>Renomear</translation>
     </message>
     <message>
         <source>Keep folder structure</source>
-        <translation type="unfinished">Manter a estrtura da pasta</translation>
+        <translation>Manter a estrutura da pasta</translation>
     </message>
     <message>
         <source>Keep parent folder</source>
-        <translation type="unfinished">Manter pasta superior</translation>
+        <translation>Manter pasta pai</translation>
     </message>
     <message>
         <source>Keep original date/time attributes</source>
-        <translation type="unfinished">Manter os atributos originais de data e horário</translation>
+        <translation>Manter atributos originais de data/hora</translation>
     </message>
     <message>
         <source>Preserve Metadata</source>
-        <translation type="unfinished">Preservar metadada</translation>
+        <translation>Preservar metadados</translation>
     </message>
     <message>
         <source>Preserve color profile</source>
-        <translation type="unfinished">Preservar o perfil de cores</translation>
+        <translation>Preservar perfil de cores</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Status</translation>
     </message>
     <message>
         <source>Estimated end time:</source>
-        <translation type="unfinished">Tempo estimado para terminar:</translation>
+        <translation>Tempo estimado:</translation>
     </message>
     <message>
         <source>Remaining:</source>
-        <translation type="unfinished">Faltando:</translation>
+        <translation>Restante:</translation>
     </message>
     <message>
         <source>Error(s):</source>
-        <translation type="unfinished">Erro (s):</translation>
+        <translation>Erro(s):</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Configurações</translation>
+        <translation>Configurações</translation>
     </message>
     <message>
         <source>Check for program updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificar se há atualizações de programa</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation type="unfinished">Nunca</translation>
+        <translation>Nunca</translation>
     </message>
     <message>
         <source>Daily</source>
-        <translation type="unfinished">Diariamente</translation>
+        <translation>Diariamente</translation>
     </message>
     <message>
         <source>Weekly</source>
-        <translation type="unfinished">Semanalmente</translation>
+        <translation>Semanal</translation>
     </message>
     <message>
         <source>Monthly</source>
-        <translation type="unfinished">Mensalmente</translation>
+        <translation>Mensal</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished">Linguagem</translation>
+        <translation>Idioma</translation>
     </message>
     <message>
         <source>Rotate images according to EXIF orientation tag</source>
-        <translation type="unfinished">Girar imagem de acordo com a etiqueta de orientação EXIF</translation>
+        <translation>Girar imagens de acordo com a tag de orientação EXIF</translation>
     </message>
     <message>
         <source>Load format settings...</source>
-        <translation type="unfinished">Carregar formato das configurações...</translation>
+        <translation>Carregar configurações de formato...</translation>
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished">Sobre</translation>
+        <translation>Sobre</translation>
     </message>
     <message>
         <source>&lt; Back</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt; de volta</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished">Parar</translation>
+        <translation>Parar</translation>
     </message>
     <message>
         <source>&amp;Convert</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Converter</translation>
     </message>
     <message>
         <source>Next &gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Próximo &gt;</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Fechar</translation>
+        <translation>Fechar</translation>
     </message>
     <message numerus="yes">
         <source>Select Photos: %n file(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Selecionar Fotos: %n arquivo(s)</numerusform>
+            <numerusform>Selecionar Fotos: %n arquivo(s)</numerusform>
         </translation>
     </message>
     <message>
         <source>Choose output pathname</source>
-        <translation type="unfinished">Escolha um caminho para a saída</translation>
+        <translation>Escolher nome do caminho de saída</translation>
     </message>
     <message>
         <source>Input files:</source>
-        <translation type="unfinished">Arquivos de entrada:</translation>
+        <translation>Arquivo de entrada:</translation>
     </message>
     <message>
         <source>Extracted pages:</source>
-        <translation type="unfinished">Páginas extraídas:</translation>
+        <translation>Páginas extraídas:</translation>
     </message>
     <message>
         <source>New files:</source>
-        <translation type="unfinished">Novos arquivos:</translation>
+        <translation>Novos arquivos:</translation>
     </message>
     <message>
         <source>Overwritten:</source>
-        <translation type="unfinished">Sobrescrever:</translation>
+        <translation>Sobrescrever:</translation>
     </message>
     <message>
         <source>Skipped:</source>
-        <translation type="unfinished">Desconsiderado:</translation>
+        <translation>Ignorado(s):</translation>
     </message>
     <message>
         <source>Total Duration:</source>
-        <translation type="unfinished">Duração total:</translation>
+        <translation>Duração Total:</translation>
     </message>
     <message numerus="yes">
         <source>%n second(s)</source>
-        <translation type="unfinished">
-            <numerusform>%n segundo</numerusform>
-            <numerusform>%n segundos</numerusform>
+        <translation>
+            <numerusform>%n segundo(s)</numerusform>
+            <numerusform>%n segundo(s)</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s)</source>
-        <translation type="unfinished">
-            <numerusform>%n minuto</numerusform>
-            <numerusform>%n minutos</numerusform>
+        <translation>
+            <numerusform>%n minuto(s)</numerusform>
+            <numerusform>%n minuto(s)</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s) and </source>
-        <translation type="unfinished">
-            <numerusform>%n hora e </numerusform>
-            <numerusform>%n horas e </numerusform>
+        <translation>
+            <numerusform>%n hora(s) e </numerusform>
+            <numerusform>%n hora(s) e </numerusform>
         </translation>
     </message>
     <message>
         <source>[Finished]</source>
-        <translation type="unfinished">Terminado</translation>
+        <translation>[Finalizado]</translation>
     </message>
     <message>
         <source>&lt;br&gt;XnResize is provided as freeware for private or commercial use. &lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;br&gt;O XnResize é fornecido como freeware para uso privado ou comercial. &lt;br&gt;Você tem o direito de usar e fazer um número ilimitado de cópias desses softwares.&lt;br&gt;&lt;br&gt;Esses softwares são fornecidos &quot;no estado em que se encontram&quot;.&lt;br&gt;Nenhuma garantia de qualquer tipo é expressa ou implícita.&lt;br&gt;O autor não se responsabiliza por perda de dados, danos, perda de lucros ou qualquer outro tipo de perda durante o uso ou mau uso deste software.&lt;br&gt;&lt;br&gt;Quaisquer sugestões, feedback e comentários são bem-vindos. </translation>
     </message>
     <message numerus="yes">
         <source>%n file(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n arquivo(s)</numerusform>
+            <numerusform>%n arquivo(s)</numerusform>
         </translation>
     </message>
     <message>
         <source>Source: %1 %2 - Output (estimated): %3 %4</source>
-        <translation type="unfinished"></translation>
+        <translation>Origem: %1 %2 - Saída (estimada): %3 %4</translation>
     </message>
     <message>
         <source>open error</source>
-        <translation type="unfinished">Erro de abertura</translation>
+        <translation>Erro ao abrir</translation>
     </message>
     <message>
         <source>create error</source>
-        <translation type="unfinished">Erro de criação</translation>
+        <translation>Erro de criação</translation>
     </message>
     <message>
         <source>has read-only attribute, and can&apos;t be overwritten!</source>
-        <translation type="unfinished">tem atributo somente leitura e não pode ser sobrescrito!</translation>
+        <translation>tem atributo somente leitura e não pode ser sobrescrito!</translation>
     </message>
     <message>
         <source>skipped, file already exists!</source>
-        <translation type="unfinished">Desconsiderado. O arquivo já existe!</translation>
+        <translation>ignorado. O arquivo já existe!</translation>
     </message>
     <message>
         <source>failed</source>
-        <translation type="unfinished">Falha</translation>
+        <translation>falhou</translation>
     </message>
     <message>
         <source>loading</source>
-        <translation type="unfinished"></translation>
+        <translation>carregando</translation>
     </message>
     <message>
         <source>loaded</source>
-        <translation type="unfinished">Carregado</translation>
+        <translation>carregado</translation>
     </message>
     <message>
         <source>saved</source>
-        <translation type="unfinished">salvo</translation>
+        <translation>salvo</translation>
     </message>
     <message>
         <source>Yes to &amp;all</source>
-        <translation type="unfinished">Sim para &amp;todos</translation>
+        <translation>Sim para &amp;todos</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="unfinished">&amp;Sim</translation>
+        <translation>&amp;Sim</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="unfinished">&amp;Não</translation>
+        <translation>&amp;Não</translation>
     </message>
     <message>
         <source>&amp;Rename</source>
-        <translation type="unfinished">&amp;Renomear</translation>
+        <translation>&amp;Renomear</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;Cancelar</translation>
+        <translation>&amp;Cancelar</translation>
     </message>
     <message numerus="yes">
         <source>%n second(s) remaining</source>
-        <translation type="unfinished">
-            <numerusform>faltando %n segundo</numerusform>
-            <numerusform>faltando %n segundos</numerusform>
+        <translation>
+            <numerusform>faltam %n segundo(s)</numerusform>
+            <numerusform>faltam %n segundo(s)</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) remaining</source>
-        <translation type="unfinished">
-            <numerusform>faltando %n minuto</numerusform>
-            <numerusform>faltando %n minutos</numerusform>
+        <translation>
+            <numerusform>faltam %n minuto(s)</numerusform>
+            <numerusform>faltam %n minuto(s)</numerusform>
         </translation>
     </message>
     <message>
         <source>+90° (clockwise)</source>
-        <translation type="unfinished"></translation>
+        <translation>+90° (Sentido Horário)</translation>
     </message>
     <message>
         <source>-90° (counter clockwise)</source>
-        <translation type="unfinished"></translation>
+        <translation>-90° (anti-horário)</translation>
     </message>
     <message>
         <source>Same as original</source>
-        <translation type="unfinished"></translation>
+        <translation>Mesmo que o original</translation>
     </message>
     <message>
         <source>Use multiple CPU Cores</source>
-        <translation type="unfinished"></translation>
+        <translation>Usar vários núcleos de CPU</translation>
     </message>
     <message>
         <source>If an output file already exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Se um arquivo de saída já existir</translation>
     </message>
     <message>
         <source>The &apos;Use multiple CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</source>
-        <translation type="unfinished"></translation>
+        <translation>A configuração &apos;Usar múltiplos núcleos da CPU&apos; foi desativada. Essa configuração não pode&apos;ser combinada com o modo &apos;Ask&apos; ou com arquivos PDF de várias páginas.</translation>
     </message>
     <message>
         <source>Enlarge/Reduce</source>
-        <translation type="unfinished">Alargar/Reduzir</translation>
+        <translation>Ampliar/Reduzir</translation>
     </message>
     <message>
         <source>Always</source>
-        <translation type="unfinished">Sempre</translation>
+        <translation>Sempre</translation>
     </message>
     <message>
         <source>Reduce only</source>
-        <translation type="unfinished">Apenas reduzir</translation>
+        <translation>Reduzir apenas</translation>
     </message>
     <message>
         <source>Enlarge only</source>
-        <translation type="unfinished">Apenas alargar</translation>
+        <translation>Apenas ampliar</translation>
+    </message>
+    <message>
+        <source>not an image</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Overwrite file</source>
-        <translation>Sobrescrever arquivo</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Destination already has a file named: 
 %1
 
 Do you want to overwrite it?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>not an image</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2304,7 +2353,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Desktop</source>
-        <translation>Área de trabalho</translation>
+        <translation>Área de Trabalho</translation>
     </message>
     <message>
         <source>Active window</source>
@@ -2336,43 +2385,43 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Client area</source>
-        <translation>Área de cliente</translation>
+        <translation>Área do cliente</translation>
     </message>
     <message>
         <source>Play sound when done</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproduzir som ao concluir</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation type="unfinished">Copiar para a área de transferência</translation>
+        <translation>Copiar para a Área de Transferência</translation>
     </message>
     <message>
         <source>Output</source>
-        <translation type="unfinished">Saída</translation>
+        <translation>Saída</translation>
     </message>
     <message>
         <source>Save to folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvar na pasta</translation>
     </message>
     <message>
         <source>Settings...</source>
-        <translation type="unfinished">Configurações...</translation>
+        <translation>Configurações...</translation>
     </message>
     <message>
         <source>Open in View mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir no modo de exibição</translation>
     </message>
     <message>
         <source>Open in Draw mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir no modo Desenho</translation>
     </message>
     <message>
         <source>Delay</source>
-        <translation type="unfinished"></translation>
+        <translation>Atraso</translation>
     </message>
     <message>
         <source>second(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>segundo(s)</translation>
     </message>
     <message>
         <source>Hide XnView MP</source>
@@ -2383,11 +2432,11 @@ Do you want to overwrite it?</source>
     <name>DlgCategorySetsSettings</name>
     <message>
         <source>Category Sets Settings</source>
-        <translation>Ajustes para o conjunto de categorias</translation>
+        <translation>Configurações de categorias</translation>
     </message>
     <message>
         <source>Category search:</source>
-        <translation>Pesquisa de categorias:</translation>
+        <translation>Pesquisar nas categorias:</translation>
     </message>
     <message>
         <source>Edit...</source>
@@ -2395,11 +2444,11 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Remover</translation>
+        <translation>Excluir</translation>
     </message>
     <message>
         <source>Copy Categories to Set...</source>
-        <translation>Copiar categorias para o conjunto...</translation>
+        <translation>Copiar categorias para conjunto...</translation>
     </message>
     <message>
         <source>Add Set...</source>
@@ -2411,15 +2460,15 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Delete Set</source>
-        <translation>Apagar conjunto</translation>
+        <translation>Excluir conjunto</translation>
     </message>
     <message>
         <source>Enter a name for this set</source>
-        <translation>Digite um nome para esse conjunto</translation>
+        <translation>Insira um nome para este conjunto</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation>Nome :</translation>
+        <translation>Nome:</translation>
     </message>
     <message>
         <source>New name</source>
@@ -2431,18 +2480,18 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Set:</source>
-        <translation>Conjunto:</translation>
+        <translation>Definir:</translation>
     </message>
     <message>
         <source>Do you want to delete current category set?</source>
-        <translation>Você gostaria de apagar o conjunto de categorias atual?</translation>
+        <translation>Você deseja excluir o conjunto de categorias atual?</translation>
     </message>
 </context>
 <context>
     <name>DlgChangeDepthClass</name>
     <message>
         <source>Change color depth</source>
-        <translation>Mudar profundidade de cor</translation>
+        <translation>Alterar profundidade de cor</translation>
     </message>
     <message>
         <source>Apply to image</source>
@@ -2457,11 +2506,11 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Optimize Huffman table</source>
-        <translation>Otimizar a tabela Huffman</translation>
+        <translation>Otimizar tabela Huffman</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Remover</translation>
+        <translation>Excluir</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -2500,7 +2549,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Embedded comment (not available for all formats)</source>
-        <translation>Comentários embutidos (não disponível para todos os formatos)</translation>
+        <translation>Comentário incorporado (nem todos os formatos suportam)</translation>
     </message>
     <message>
         <source>&amp;Write</source>
@@ -2508,15 +2557,15 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Edit comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar comentário</translation>
     </message>
     <message>
         <source>Use same text for description &amp;&amp; comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Use o mesmo texto para a descrição e o comentário</translation>
     </message>
     <message>
         <source>Write &amp;all</source>
-        <translation type="unfinished"></translation>
+        <translation>Escrever &amp;todos</translation>
     </message>
 </context>
 <context>
@@ -2527,262 +2576,262 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Gammasat</source>
-        <translation>Saturação gama</translation>
+        <translation>Gama e Saturação</translation>
     </message>
 </context>
 <context>
     <name>DlgContactSheet</name>
     <message>
         <source>Create Contact Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar folha de contatos</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Configurações</translation>
+        <translation>Configurações</translation>
     </message>
     <message>
         <source>Sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Folha</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished">Largura</translation>
+        <translation>Largura</translation>
     </message>
     <message>
         <source>pixels</source>
-        <translation type="unfinished">pixels</translation>
+        <translation>pixels</translation>
     </message>
     <message>
         <source>inches</source>
-        <translation type="unfinished">polegadas</translation>
+        <translation>polegadas</translation>
     </message>
     <message>
         <source>cm</source>
-        <translation type="unfinished">cm</translation>
+        <translation>cm</translation>
     </message>
     <message>
         <source>mm</source>
-        <translation type="unfinished">mm</translation>
+        <translation>mm</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation type="unfinished">Altura</translation>
+        <translation>Altura</translation>
     </message>
     <message>
         <source>DPI</source>
-        <translation type="unfinished">DPI</translation>
+        <translation>DPI</translation>
     </message>
     <message>
         <source>Margin (pixels)</source>
-        <translation type="unfinished"></translation>
+        <translation>Margem (pixels)</translation>
     </message>
     <message>
         <source>Horizontal margin</source>
-        <translation type="unfinished"></translation>
+        <translation>Margem horizontal</translation>
     </message>
     <message>
         <source>Vertical margin</source>
-        <translation type="unfinished"></translation>
+        <translation>Margem vertical</translation>
     </message>
     <message>
         <source>Background color</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor de fundo</translation>
     </message>
     <message>
         <source>Thumbnail</source>
-        <translation type="unfinished">Miniatura</translation>
+        <translation>Miniatura</translation>
     </message>
     <message>
         <source>Columns</source>
-        <translation type="unfinished">Colunas</translation>
+        <translation>Colunas</translation>
     </message>
     <message>
         <source>Rows</source>
-        <translation type="unfinished">Linhas</translation>
+        <translation>Linhas</translation>
     </message>
     <message>
         <source>Spacing (pixels)</source>
-        <translation type="unfinished"></translation>
+        <translation>Espaçamento (pixels)</translation>
     </message>
     <message>
         <source>Horizontal spacing</source>
-        <translation type="unfinished">Espaçamento horizontal</translation>
+        <translation>Espaçamento horizontal</translation>
     </message>
     <message>
         <source>Vertical spacing</source>
-        <translation type="unfinished">Espaçamento vertical</translation>
+        <translation>Espaçamento vertical</translation>
     </message>
     <message>
         <source>Fill mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo de preenchimento</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished">Informação</translation>
+        <translation>Informação</translation>
     </message>
     <message>
         <source>Header</source>
-        <translation type="unfinished">Cabeçalho</translation>
+        <translation>Cabeçalho</translation>
     </message>
     <message>
         <source>Footer</source>
-        <translation type="unfinished">Rodapé</translation>
+        <translation>Rodapé</translation>
     </message>
     <message>
         <source>Show information</source>
-        <translation type="unfinished">Mostrar informações</translation>
+        <translation>Mostrar informações</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished">Cor</translation>
+        <translation>Cor</translation>
     </message>
     <message>
         <source>Text background color</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor de fundo</translation>
     </message>
     <message>
         <source>Text color</source>
-        <translation type="unfinished">Cor do texto</translation>
+        <translation>Cor do texto</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished">Fonte</translation>
+        <translation>Fonte</translation>
     </message>
     <message>
         <source>Output</source>
-        <translation type="unfinished">Saída</translation>
+        <translation>Saída</translation>
     </message>
     <message>
         <source>Folder</source>
-        <translation type="unfinished">Pasta</translation>
+        <translation>Pasta</translation>
     </message>
     <message>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome do Arquivo</translation>
     </message>
     <message>
         <source>Settings...</source>
-        <translation type="unfinished">Configurações...</translation>
+        <translation>Configurações...</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished">Previsão</translation>
+        <translation>Pré-Visualização</translation>
     </message>
     <message>
         <source>Previous file</source>
-        <translation type="unfinished">Arquivo anterior</translation>
+        <translation>Arquivo anterior</translation>
     </message>
     <message>
         <source>Next file</source>
-        <translation type="unfinished">Próximo arquivo</translation>
+        <translation>Próximo arquivo</translation>
     </message>
     <message>
         <source>Zoom in</source>
-        <translation type="unfinished">Aumentar zoom</translation>
+        <translation>Aumentar zoom</translation>
     </message>
     <message>
         <source>Best fit</source>
-        <translation type="unfinished">Melhor tamanho</translation>
+        <translation>Melhor ajuste</translation>
     </message>
     <message>
         <source>Zoom out</source>
-        <translation type="unfinished">Diminuir zoom</translation>
+        <translation>Diminuir zoom</translation>
     </message>
     <message>
         <source>&amp;Create</source>
-        <translation type="unfinished">&amp;Criar</translation>
+        <translation>&amp;Criar</translation>
     </message>
     <message>
         <source>Page number</source>
-        <translation type="unfinished">Número da página</translation>
+        <translation>Número da página</translation>
     </message>
     <message>
         <source>Page count</source>
-        <translation type="unfinished">Contagem de páginas</translation>
+        <translation>Número de páginas</translation>
     </message>
     <message>
         <source>Current date</source>
-        <translation type="unfinished">Data atual</translation>
+        <translation>Data atual</translation>
     </message>
     <message>
         <source>Letter (8.5x11 inch)</source>
-        <translation type="unfinished"></translation>
+        <translation>Carta (8,5x11 polegadas)</translation>
     </message>
     <message>
         <source>Legal (8.5x14 inch)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ofício (8,5x14 polegadas)</translation>
     </message>
     <message>
         <source>A4 (21.0x29.7cm)</source>
-        <translation type="unfinished"></translation>
+        <translation>A4 (21.0x29.7cm)</translation>
     </message>
     <message>
         <source>4x6 inch</source>
-        <translation type="unfinished"></translation>
+        <translation>4x6 polegadas</translation>
     </message>
     <message>
         <source>5x7 inch</source>
-        <translation type="unfinished"></translation>
+        <translation>5x7 polegadas</translation>
     </message>
     <message>
         <source>6x8 inch</source>
-        <translation type="unfinished"></translation>
+        <translation>6x8 polegadas</translation>
     </message>
     <message>
         <source>8x10 inch</source>
-        <translation type="unfinished"></translation>
+        <translation>8x10 polegadas</translation>
     </message>
     <message>
         <source>9x12 inch</source>
-        <translation type="unfinished"></translation>
+        <translation>9x12 polegadas</translation>
     </message>
     <message>
         <source>11x14 inch</source>
-        <translation type="unfinished"></translation>
+        <translation>11x14 polegadas</translation>
     </message>
     <message>
         <source>A3 (29.7x42.0cm)</source>
-        <translation type="unfinished"></translation>
+        <translation>A3 (29.7x42.0cm)</translation>
     </message>
     <message>
         <source>Thumbnails per page</source>
-        <translation type="unfinished"></translation>
+        <translation>Miniaturas por página</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Erro</translation>
+        <translation>Erro</translation>
     </message>
     <message>
         <source>You need to choose an output folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Você precisa escolher uma pasta de saída.</translation>
     </message>
     <message>
         <source>File list</source>
-        <translation type="unfinished">Lista de arquivos</translation>
+        <translation>Lista de arquivos</translation>
     </message>
     <message>
         <source>After finish</source>
-        <translation type="unfinished"></translation>
+        <translation>Depois de terminar</translation>
     </message>
     <message>
         <source>Do Nothing</source>
-        <translation type="unfinished"></translation>
+        <translation>Não Fazer Nada</translation>
     </message>
     <message>
         <source>Open Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir Navegador</translation>
     </message>
     <message>
         <source>Open File Explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir Explorador de Arquivos</translation>
     </message>
     <message>
         <source>Background image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem de fundo</translation>
     </message>
     <message>
         <source>Source folder</source>
-        <translation type="unfinished">Pasta de origem</translation>
+        <translation>Pasta de origem</translation>
     </message>
     <message numerus="yes">
         <source>File list (%n)</source>
@@ -2808,7 +2857,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>open error</source>
-        <translation>Erro de abertura</translation>
+        <translation>Erro ao abrir</translation>
     </message>
     <message>
         <source>create error</source>
@@ -2816,11 +2865,11 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>failed</source>
-        <translation>Falha</translation>
+        <translation>falhou</translation>
     </message>
     <message>
         <source>loaded</source>
-        <translation>Carregado</translation>
+        <translation>carregado</translation>
     </message>
     <message>
         <source>saved</source>
@@ -2841,13 +2890,13 @@ Do you want to overwrite it?</source>
     <message numerus="yes">
         <source>Input: %n file(s)</source>
         <translation>
-            <numerusform>Entrada: %n arquivo</numerusform>
-            <numerusform>Entrada: %n arquivos</numerusform>
+            <numerusform>Entrada: %n arquivo(s)</numerusform>
+            <numerusform>Entrada: %n arquivo(s)</numerusform>
         </translation>
     </message>
     <message>
         <source>Choose a directory</source>
-        <translation>Escolha uma pasta</translation>
+        <translation>Escolher um diretório</translation>
     </message>
     <message>
         <source>has read-only attribute, and can&apos;t be overwritten!</source>
@@ -2859,7 +2908,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>skipped, file already exists!</source>
-        <translation>Desconsiderado. O arquivo já existe!</translation>
+        <translation>ignorado. O arquivo já existe!</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -2867,7 +2916,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Choose ZIP filename</source>
-        <translation>Escolha um nome para o arquivo ZIP</translation>
+        <translation>Escolher nome do arquivo ZIP</translation>
     </message>
     <message>
         <source>Overwrite</source>
@@ -2875,11 +2924,11 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Saving ZIP file...</source>
-        <translation>Salvando o arquivo ZIP...</translation>
+        <translation>Salvando arquivo ZIP...</translation>
     </message>
     <message>
         <source>: saved</source>
-        <translation>:salvo</translation>
+        <translation>: salvo</translation>
     </message>
     <message>
         <source>uploaded</source>
@@ -2891,31 +2940,31 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Uploading image(s) to server...</source>
-        <translation>Carregando imagem (ens) para o servidor...</translation>
+        <translation>Enviando imagem(s) ao servidor...</translation>
     </message>
     <message>
         <source>[Finished]</source>
-        <translation>Terminado</translation>
+        <translation>[Finalizado]</translation>
     </message>
     <message numerus="yes">
         <source>%n second(s) remaining</source>
         <translation>
-            <numerusform>faltando %n segundo</numerusform>
-            <numerusform>faltando %n segundos</numerusform>
+            <numerusform>faltam %n segundo(s)</numerusform>
+            <numerusform>faltam %n segundo(s)</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) remaining</source>
         <translation>
-            <numerusform>faltando %n minuto</numerusform>
-            <numerusform>faltando %n minutos</numerusform>
+            <numerusform>faltam %n minuto(s)</numerusform>
+            <numerusform>faltam %n minuto(s)</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s) and </source>
         <translation>
-            <numerusform>%n hora e </numerusform>
-            <numerusform>%n horas e </numerusform>
+            <numerusform>%n hora(s) e </numerusform>
+            <numerusform>%n hora(s) e </numerusform>
         </translation>
     </message>
     <message>
@@ -2925,15 +2974,15 @@ Do you want to overwrite it?</source>
     <message numerus="yes">
         <source>%n second(s)</source>
         <translation>
-            <numerusform>%n segundo</numerusform>
-            <numerusform>%n segundos</numerusform>
+            <numerusform>%n segundo(s)</numerusform>
+            <numerusform>%n segundo(s)</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s)</source>
         <translation>
-            <numerusform>%n minuto</numerusform>
-            <numerusform>%n minutos</numerusform>
+            <numerusform>%n minuto(s)</numerusform>
+            <numerusform>%n minuto(s)</numerusform>
         </translation>
     </message>
     <message>
@@ -2942,7 +2991,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Input files:</source>
-        <translation>Arquivos de entrada:</translation>
+        <translation>Arquivo de entrada:</translation>
     </message>
     <message>
         <source>Extracted pages:</source>
@@ -2958,11 +3007,11 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Skipped:</source>
-        <translation>Desconsiderado:</translation>
+        <translation>Ignorado(s):</translation>
     </message>
     <message>
         <source>Total Duration:</source>
-        <translation>Duração total:</translation>
+        <translation>Duração Total:</translation>
     </message>
     <message>
         <source>Convert with XnConvert</source>
@@ -2978,11 +3027,11 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Use image from input files</source>
-        <translation>Usar imagem dos arquivos de entrada</translation>
+        <translation>Usar imagem a partir de arquivos de entrada</translation>
     </message>
     <message>
         <source>Choose output pathname</source>
-        <translation>Escolha um caminho para a saída</translation>
+        <translation>Escolher nome do caminho de saída</translation>
     </message>
     <message>
         <source>Yes to &amp;all</source>
@@ -2990,79 +3039,79 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>loading</source>
-        <translation type="unfinished"></translation>
+        <translation>carregando</translation>
     </message>
     <message>
         <source>&lt;br&gt;XnConvert is provided as freeware for private (non commercial), or educational use, including non-profit organization. &lt;br&gt;Company must purchase licenses to be able to use it.&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;br&gt;O XnConvert é fornecido como freeware para uso privado (não comercial) ou educacional, incluindo organizações sem fins lucrativos. &lt;br&gt;A empresa deve adquirir licenças para poder usá-lo.&lt;br&gt;&lt;br&gt;Você tem o direito de usar e fazer um número ilimitado de cópias desses softwares.&lt;br&gt;&lt;br&gt;Estes softwares são fornecidos &quot;no estado em que se encontram&quot;.&lt;br&gt;Nenhuma garantia de qualquer tipo é expressa ou implícita.&lt;br&gt;O autor não será responsável por perda de dados, danos, perda de lucros ou qualquer outro tipo de perda durante o uso ou uso indevido deste software.&lt;br&gt;&lt;br&gt;Quaisquer sugestões, feedback e comentários são bem-vindos. </translation>
     </message>
     <message>
         <source>Save log as...</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvar log como...</translation>
     </message>
     <message>
         <source>Export log</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar log</translation>
     </message>
     <message>
         <source>Finished at: </source>
-        <translation type="unfinished"></translation>
+        <translation>Concluído em: </translation>
     </message>
     <message>
         <source>Started at: </source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciado em: </translation>
     </message>
     <message>
         <source>Same as original</source>
-        <translation type="unfinished"></translation>
+        <translation>Mesmo que o original</translation>
     </message>
     <message>
         <source>The &apos;Use multiple CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</source>
-        <translation type="unfinished"></translation>
+        <translation>A configuração &apos;Usar múltiplos núcleos da CPU&apos; foi desativada. Essa configuração não pode&apos;ser combinada com o modo &apos;Ask&apos; ou com arquivos PDF de várias páginas.</translation>
     </message>
     <message>
         <source>Would you like to export filenames, too?</source>
-        <translation type="unfinished"></translation>
+        <translation>Gostaria de exportar nomes de arquivos também?</translation>
     </message>
     <message>
         <source>Total input file size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho total do arquivo de entrada:</translation>
     </message>
     <message>
         <source>Total output file size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho total do arquivo de saída:</translation>
     </message>
     <message>
         <source>File size ratio:</source>
-        <translation type="unfinished"></translation>
+        <translation>Proporção do tamanho do arquivo:</translation>
     </message>
     <message>
         <source>%1 of %2 files</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 de arquivos %2</translation>
     </message>
     <message>
         <source>Cancel batch processing</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar processamento em lote</translation>
     </message>
     <message>
         <source>Do you want to cancel current batch processing?</source>
-        <translation type="unfinished"></translation>
+        <translation>Você deseja cancelar o processamento em lote atual?</translation>
     </message>
     <message>
         <source>Loading error(s):</source>
-        <translation type="unfinished"></translation>
+        <translation>Erro(s) de carregamento:</translation>
     </message>
     <message>
         <source>Saving error(s):</source>
-        <translation type="unfinished"></translation>
+        <translation>Erro(s) ao salvar:</translation>
     </message>
     <message>
         <source>copied</source>
-        <translation type="unfinished"></translation>
+        <translation>copiado</translation>
     </message>
     <message>
         <source>Please restart application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Reinicie o aplicativo.</translation>
     </message>
     <message>
         <source>The %1 version of XnConvert is available. 
@@ -3071,14 +3120,29 @@ Do you want to go on the download page?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Remove file from filelist</source>
+        <translation type="unfinished">Remover arquivo da lista</translation>
+    </message>
+    <message>
         <source>Output file already exist. 
 
 Do you want to overwrite it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>not an image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Overwrite file</source>
-        <translation>Sobrescrever arquivo</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Destination already has a file named: 
+%1
+
+Do you want to overwrite it?</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The &apos;Delete original&apos; option is enabled
@@ -3096,21 +3160,6 @@ Do you want to continue?</source>
         <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Destination already has a file named: 
-%1
-
-Do you want to overwrite it?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>not an image</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remove file from filelist</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3137,37 +3186,37 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Gamma</source>
-        <translation>Gamma</translation>
+        <translation>Gama</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertAspectPadClass</name>
     <message>
         <source>Ratio</source>
-        <translation type="unfinished">Taxa</translation>
+        <translation>Proporção</translation>
     </message>
     <message>
         <source>Background color</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor de fundo</translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation type="unfinished"></translation>
+        <translation>Paisagem</translation>
     </message>
     <message>
         <source>Portrait</source>
-        <translation type="unfinished"></translation>
+        <translation>Retrato</translation>
     </message>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished">Orientação</translation>
+        <translation>Orientação</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertAutoCropClass</name>
     <message>
         <source>Color of pixel at</source>
-        <translation>Cor do pixel a</translation>
+        <translation>Cor de pixel em</translation>
     </message>
     <message>
         <source>Color</source>
@@ -3179,61 +3228,61 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Edges:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bordas:</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Inferior</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished">Superior</translation>
+        <translation>Superior</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished">Esquerda</translation>
+        <translation>Esquerda</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished">Direita</translation>
+        <translation>Direita</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertAutoDeskew</name>
     <message>
         <source>Background color</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor de fundo</translation>
     </message>
     <message>
         <source>Smooth</source>
-        <translation type="unfinished">Suave</translation>
+        <translation>Suavizar</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertBlackWhite</name>
     <message>
         <source>Mono mixer</source>
-        <translation type="unfinished"></translation>
+        <translation>Mixer mono</translation>
     </message>
     <message>
         <source>Red</source>
-        <translation type="unfinished">Vermelho</translation>
+        <translation>Vermelho</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished">Verde</translation>
+        <translation>Verde</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation type="unfinished">Azul</translation>
+        <translation>Azul</translation>
     </message>
     <message>
         <source>Colorize</source>
-        <translation type="unfinished">Colorir</translation>
+        <translation>Colorir</translation>
     </message>
     <message>
         <source>Saturation</source>
-        <translation type="unfinished">Saturação</translation>
+        <translation>Saturação</translation>
     </message>
 </context>
 <context>
@@ -3255,23 +3304,23 @@ Do you want to overwrite it?</source>
     <name>DlgConvertBlurredFrameClass</name>
     <message>
         <source>Square</source>
-        <translation type="unfinished">Quadrado</translation>
+        <translation>Quadrado</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished">Largura</translation>
+        <translation>Largura</translation>
     </message>
     <message>
         <source> X </source>
-        <translation type="unfinished"></translation>
+        <translation> X </translation>
     </message>
     <message>
         <source>Height</source>
-        <translation type="unfinished">Altura</translation>
+        <translation>Altura</translation>
     </message>
     <message>
         <source>Blur</source>
-        <translation type="unfinished"></translation>
+        <translation>Desfoque</translation>
     </message>
 </context>
 <context>
@@ -3302,7 +3351,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Drop shadow</source>
-        <translation>Sombra</translation>
+        <translation>Sombra projetada</translation>
     </message>
     <message>
         <source>Radius</source>
@@ -3314,50 +3363,22 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Use anti-aliasing</source>
-        <translation>Usar antisserrilhado</translation>
+        <translation>Usar anti-aliasing</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation type="unfinished">Direção</translation>
+        <translation>Direção</translation>
     </message>
     <message>
         <source>Background color</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor de fundo</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation type="unfinished">Centro</translation>
+        <translation>Centro</translation>
     </message>
     <message>
-        <source>Top-Left</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Top-Center</source>
-        <translation type="unfinished">Centro da borda superior</translation>
-    </message>
-    <message>
-        <source>Top-Right</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Center-Left</source>
-        <translation type="unfinished">Centro da borda esquerda</translation>
-    </message>
-    <message>
-        <source>Center-Right</source>
-        <translation type="unfinished">Centro da borda direita</translation>
-    </message>
-    <message>
-        <source>Bottom-Left</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bottom-Center</source>
-        <translation type="unfinished">Centro da borda inferior</translation>
-    </message>
-    <message>
-        <source>Bottom-Right</source>
+        <source>Enlarge</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3365,123 +3386,12 @@ Do you want to overwrite it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enlarge</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>DlgConvertCanvas</name>
-    <message>
-        <source>Presets</source>
-        <translation type="unfinished">Definições prévias</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <translation type="unfinished">Personalizado</translation>
-    </message>
-    <message>
-        <source>Original size</source>
-        <translation type="unfinished">Tamanho original</translation>
-    </message>
-    <message>
-        <source>Photo 4x6 inches (10x15 cm)</source>
-        <translation type="unfinished">Fotografia 8x10 polegadas (20x25)cm {4x?} {6 ?} {10x?} {15 ?}</translation>
-    </message>
-    <message>
-        <source>Photo 5x7 inches (13x18 cm)</source>
-        <translation type="unfinished">Fotografia 5x7 polegadas (13x18)cm</translation>
-    </message>
-    <message>
-        <source>Photo 6x8 inches (15x20 cm)</source>
-        <translation type="unfinished">Fotografia 6x8 polegadas (15x20)cm</translation>
-    </message>
-    <message>
-        <source>Photo 8x10 inches (20x25 cm)</source>
-        <translation type="unfinished">Fotografia 8x10 polegadas (20x25)cm</translation>
-    </message>
-    <message>
-        <source>Mode</source>
-        <translation type="unfinished">Modo</translation>
-    </message>
-    <message>
-        <source>Normal</source>
-        <translation type="unfinished">Normal</translation>
-    </message>
-    <message>
-        <source>Square - Longest side</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Square - Shortest side</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Height</source>
-        <translation type="unfinished">Altura</translation>
-    </message>
-    <message>
-        <source>Width</source>
-        <translation type="unfinished">Largura</translation>
-    </message>
-    <message>
-        <source>pixels</source>
-        <translation type="unfinished">pixels</translation>
-    </message>
-    <message>
-        <source>percent</source>
-        <translation type="unfinished">Percentual</translation>
-    </message>
-    <message>
-        <source>inches</source>
-        <translation type="unfinished">polegadas</translation>
-    </message>
-    <message>
-        <source>cm</source>
-        <translation type="unfinished">cm</translation>
-    </message>
-    <message>
-        <source>mm</source>
-        <translation type="unfinished">mm</translation>
-    </message>
-    <message>
-        <source>Relative</source>
-        <translation type="unfinished">Relativo</translation>
-    </message>
-    <message>
-        <source>Keep ratio</source>
-        <translation type="unfinished">Manter taxa</translation>
-    </message>
-    <message>
-        <source>Follow orientation</source>
-        <translation type="unfinished">Seguir orientação</translation>
-    </message>
-    <message>
-        <source>Background color</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Alpha</source>
-        <translation type="unfinished">Alpha</translation>
-    </message>
-    <message>
-        <source>Position</source>
-        <translation type="unfinished">Posição</translation>
-    </message>
-    <message>
-        <source>Center</source>
-        <translation type="unfinished">Centro</translation>
-    </message>
-    <message>
-        <source>Color of pixel at</source>
-        <translation type="unfinished">Cor do pixel a</translation>
-    </message>
-    <message>
         <source>Top-Left</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Top-Center</source>
-        <translation type="unfinished">Centro da borda superior</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Top-Right</source>
@@ -3489,34 +3399,173 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Center-Left</source>
-        <translation type="unfinished">Centro da borda esquerda</translation>
+        <translation type="unfinished">Centro à esquerda</translation>
     </message>
     <message>
         <source>Center-Right</source>
-        <translation type="unfinished">Centro da borda direita</translation>
+        <translation type="unfinished">Centro à direita</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inferior à esquerda</translation>
     </message>
     <message>
         <source>Bottom-Center</source>
-        <translation type="unfinished">Centro da borda inferior</translation>
+        <translation type="unfinished">Centro inferior</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
+        <translation type="unfinished">Inferior à direita</translation>
+    </message>
+</context>
+<context>
+    <name>DlgConvertCanvas</name>
+    <message>
+        <source>Presets</source>
+        <translation>Predefinições</translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <translation>Personalizado</translation>
+    </message>
+    <message>
+        <source>Original size</source>
+        <translation>Tamanho original</translation>
+    </message>
+    <message>
+        <source>Photo 4x6 inches (10x15 cm)</source>
+        <translation>Foto 4x6 polegadas (10x15 cm)</translation>
+    </message>
+    <message>
+        <source>Photo 5x7 inches (13x18 cm)</source>
+        <translation>Foto 5x7 polegadas (13x18 cm)</translation>
+    </message>
+    <message>
+        <source>Photo 6x8 inches (15x20 cm)</source>
+        <translation>Foto 6x8 polegadas (15x20 cm)</translation>
+    </message>
+    <message>
+        <source>Photo 8x10 inches (20x25 cm)</source>
+        <translation>Foto 8x10 polegadas (20x25 cm)</translation>
+    </message>
+    <message>
+        <source>Mode</source>
+        <translation>Modo</translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation>Normal</translation>
+    </message>
+    <message>
+        <source>Square - Longest side</source>
+        <translation>Quadrado - Lado mais longo</translation>
+    </message>
+    <message>
+        <source>Square - Shortest side</source>
+        <translation>Quadrado - Lado menor</translation>
+    </message>
+    <message>
+        <source>Height</source>
+        <translation>Altura</translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation>Largura</translation>
+    </message>
+    <message>
+        <source>pixels</source>
+        <translation>pixels</translation>
+    </message>
+    <message>
+        <source>percent</source>
+        <translation>percentual</translation>
+    </message>
+    <message>
+        <source>inches</source>
+        <translation>polegadas</translation>
+    </message>
+    <message>
+        <source>cm</source>
+        <translation>cm</translation>
+    </message>
+    <message>
+        <source>mm</source>
+        <translation>mm</translation>
+    </message>
+    <message>
+        <source>Relative</source>
+        <translation>Relativo</translation>
+    </message>
+    <message>
+        <source>Keep ratio</source>
+        <translation>Manter proporção</translation>
+    </message>
+    <message>
+        <source>Follow orientation</source>
+        <translation>Seguir orientação</translation>
+    </message>
+    <message>
+        <source>Background color</source>
+        <translation>Cor de fundo</translation>
+    </message>
+    <message>
+        <source>Alpha</source>
+        <translation>Alfa</translation>
+    </message>
+    <message>
+        <source>Position</source>
+        <translation>Posição</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation>Centro</translation>
+    </message>
+    <message>
+        <source>Color of pixel at</source>
+        <translation>Cor de pixel em</translation>
+    </message>
+    <message>
+        <source>Top-Left</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top-Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top-Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center-Left</source>
+        <translation type="unfinished">Centro à esquerda</translation>
+    </message>
+    <message>
+        <source>Center-Right</source>
+        <translation type="unfinished">Centro à direita</translation>
+    </message>
+    <message>
+        <source>Bottom-Left</source>
+        <translation type="unfinished">Inferior à esquerda</translation>
+    </message>
+    <message>
+        <source>Bottom-Center</source>
+        <translation type="unfinished">Centro inferior</translation>
+    </message>
+    <message>
+        <source>Bottom-Right</source>
+        <translation type="unfinished">Inferior à direita</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertClass</name>
     <message>
         <source>Batch convert</source>
-        <translation>Conversão em lote</translation>
+        <translation>Converter em lote</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Remover</translation>
+        <translation>Excluir</translation>
     </message>
     <message>
         <source>Actions</source>
@@ -3528,39 +3577,39 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Clear all</source>
-        <translation>Limpar todos</translation>
+        <translation>Limpar tudo</translation>
     </message>
     <message>
         <source>Case</source>
-        <translation></translation>
+        <translation>Maiúsculas/Minúsculas</translation>
     </message>
     <message>
         <source>Name &amp; extension lowercase</source>
-        <translation>Nome &amp; extensão em letras minúsculas</translation>
+        <translation>Nome e extensão em minúsculas</translation>
     </message>
     <message>
         <source>Name &amp; extension uppercase</source>
-        <translation>Nome &amp; extensão em letras maiúsculas</translation>
+        <translation>Nome e extensão em maiúsculas</translation>
     </message>
     <message>
         <source>Name lowercase</source>
-        <translation>Nome em letras minúsculas</translation>
+        <translation>Nome em minúsculas</translation>
     </message>
     <message>
         <source>Name uppercase</source>
-        <translation>Nome em letras maiúsculas</translation>
+        <translation>Nome em maiúsculas</translation>
     </message>
     <message>
         <source>Extension lowercase</source>
-        <translation>Em letras minúsculas</translation>
+        <translation>Extensão em minúscula</translation>
     </message>
     <message>
         <source>Extension uppercase</source>
-        <translation>Extensão em letras maiúsculas</translation>
+        <translation>Extensão com letras maiúsculas</translation>
     </message>
     <message>
         <source>First letters uppercase</source>
-        <translation>Primeiras letras maiúsculas</translation>
+        <translation>Primeiras letras em maiúsculas</translation>
     </message>
     <message>
         <source>Settings...</source>
@@ -3576,7 +3625,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Skip</source>
-        <translation>Saltar</translation>
+        <translation>Ignorar</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -3584,31 +3633,31 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Keep original date/time attributes</source>
-        <translation>Manter os atributos originais de data e horário</translation>
+        <translation>Manter atributos originais de data/hora</translation>
     </message>
     <message>
         <source>Preserve Metadata</source>
-        <translation>Preservar metadada</translation>
+        <translation>Preservar metadados</translation>
     </message>
     <message>
         <source>Preserve color profile</source>
-        <translation>Preservar o perfil de cores</translation>
+        <translation>Preservar perfil de cores</translation>
     </message>
     <message>
         <source>Delete original</source>
-        <translation>Apagar original</translation>
+        <translation>Excluir original</translation>
     </message>
     <message>
         <source>Multipage</source>
-        <translation>Páginas múltiplas</translation>
+        <translation>Múltiplas páginas</translation>
     </message>
     <message>
         <source>Convert multipage file to multipage file (when possible)</source>
-        <translation>Converter arquivo de múltiplas páginas para arquivo de múltiplas páginas (se possível)</translation>
+        <translation>Converter arquivo multipágina em arquivo multipágina (quando possível)</translation>
     </message>
     <message>
         <source>Convert all pages from multipage file</source>
-        <translation>Converter todas as páginas de um arquivo de múltiplas páginas</translation>
+        <translation>Converter todas as páginas do arquivo multipágina</translation>
     </message>
     <message>
         <source>Load script</source>
@@ -3620,7 +3669,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Export for NConvert...</source>
-        <translation>Exportar para o NConvert...</translation>
+        <translation>Exportar para NConvert...</translation>
     </message>
     <message>
         <source>Stop</source>
@@ -3648,7 +3697,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Best fit</source>
-        <translation>Melhor tamanho</translation>
+        <translation>Melhor ajuste</translation>
     </message>
     <message>
         <source>Load image...</source>
@@ -3656,7 +3705,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation>Previsão</translation>
+        <translation>Pré-Visualização</translation>
     </message>
     <message>
         <source>&gt;</source>
@@ -3664,7 +3713,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Update preview</source>
-        <translation>Atualizar previsão</translation>
+        <translation>Visualizar atualização</translation>
     </message>
     <message>
         <source>Apply actions</source>
@@ -3676,7 +3725,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Filename</source>
-        <translation>Nome de arquivo</translation>
+        <translation>Nome do Arquivo</translation>
     </message>
     <message>
         <source>Options</source>
@@ -3684,7 +3733,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>As original</source>
-        <translation>Como o original</translation>
+        <translation>Como original</translation>
     </message>
     <message>
         <source>Format</source>
@@ -3712,15 +3761,15 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Fechar</translation>
+        <translation>Fechar</translation>
     </message>
     <message>
         <source>When output files already exist</source>
-        <translation>Quando arquivos de saída já existem</translation>
+        <translation>Quando os arquivos de saída já existem</translation>
     </message>
     <message>
         <source>No change</source>
-        <translation>Nenhuma alteração</translation>
+        <translation>Sem alteração</translation>
     </message>
     <message>
         <source>About</source>
@@ -3728,27 +3777,27 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Keep folder structure</source>
-        <translation>Manter a estrtura da pasta</translation>
+        <translation>Manter a estrutura da pasta</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation>Linguagem</translation>
+        <translation>Idioma</translation>
     </message>
     <message>
         <source>Load format settings...</source>
-        <translation>Carregar formato das configurações...</translation>
+        <translation>Carregar configurações de formato...</translation>
     </message>
     <message>
         <source>After conversion</source>
-        <translation>Após conversão</translation>
+        <translation>Depois da conversão</translation>
     </message>
     <message>
         <source>Open file explorer</source>
-        <translation>Abrir o gerenciador de arquivos</translation>
+        <translation>Abrir gerenciador de arquivos</translation>
     </message>
     <message>
         <source>Load last script used at startup</source>
-        <translation>Carregar o último &quot;script&quot; usado no carregamento</translation>
+        <translation>Carregar o último script usado na inicialização</translation>
     </message>
     <message>
         <source>E-Mail</source>
@@ -3760,7 +3809,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Output filename:</source>
-        <translation>Nome do arquivo de saída:</translation>
+        <translation>Arquivo de saída:</translation>
     </message>
     <message>
         <source>Album:</source>
@@ -3772,7 +3821,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Remove all</source>
-        <translation>Remover tudo</translation>
+        <translation>Excluir tudo</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3780,7 +3829,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>You can drag&amp;drop your files on the list below.</source>
-        <translation>Você pode arrastar&amp;soltar seus arquivos para a lista acima.</translation>
+        <translation>Você pode arrasta&amp;soltar seus arquivos na lista abaixo.</translation>
     </message>
     <message>
         <source>Remove filtered</source>
@@ -3796,27 +3845,27 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>You can switch between tabs with &apos;space&apos; key</source>
-        <translation>Você pode alternar entre as abas usando a tecla de espaço</translation>
+        <translation>Você pode alternar entre as guias com a tecla &apos;Espaço&apos;</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation>Situação</translation>
+        <translation>Status</translation>
     </message>
     <message>
         <source>Estimated end time:</source>
-        <translation>Tempo estimado para terminar:</translation>
+        <translation>Tempo estimado:</translation>
     </message>
     <message>
         <source>Remaining:</source>
-        <translation>Faltando:</translation>
+        <translation>Restante:</translation>
     </message>
     <message>
         <source>Error(s):</source>
-        <translation>Erro (s):</translation>
+        <translation>Erro(s):</translation>
     </message>
     <message>
         <source>Clear the &apos;Input&apos; file(s)</source>
-        <translation>Limpar o(s) arquivo(s) de &apos;entrada&apos;</translation>
+        <translation>Limpe o(s) arquivo(s) de &apos;Entrada&apos;</translation>
     </message>
     <message>
         <source>Save script as</source>
@@ -3828,7 +3877,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Check for program updates</source>
-        <translation>Verificar atualizações</translation>
+        <translation>Verificar se há atualizações de programa</translation>
     </message>
     <message>
         <source>Never</source>
@@ -3840,23 +3889,23 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Weekly</source>
-        <translation>Semanalmente</translation>
+        <translation>Semanal</translation>
     </message>
     <message>
         <source>Monthly</source>
-        <translation>Mensalmente</translation>
+        <translation>Mensal</translation>
     </message>
     <message>
         <source>Add &apos;Convert with XnConvert&apos; to context menu</source>
-        <translation>Adicionar &apos;Converter com o XnConvert&apos; no menu de contexto</translation>
+        <translation>Adicionar &apos;Converter com XnConverter&apos; para menu de contexto</translation>
     </message>
     <message>
         <source>Save actions list at exiting</source>
-        <translation>Salvar lista de ações ao encerrar</translation>
+        <translation>Salvar lista de ações ao sair</translation>
     </message>
     <message>
         <source>Add action&gt;</source>
-        <translation>Adicionar ação</translation>
+        <translation>Adicionar ação&gt;</translation>
     </message>
     <message>
         <source>Zoom in</source>
@@ -3868,19 +3917,19 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Rotate images according to EXIF orientation tag</source>
-        <translation>Girar imagem de acordo com a etiqueta de orientação EXIF</translation>
+        <translation>Girar imagens de acordo com a tag de orientação EXIF</translation>
     </message>
     <message>
         <source>Hot folders...</source>
-        <translation>Pastas quentes...</translation>
+        <translation>Pastas em Destaque...</translation>
     </message>
     <message>
         <source>Open in Browser</source>
-        <translation>Abrir no navegador</translation>
+        <translation>Abrir no Navegador</translation>
     </message>
     <message>
         <source>Preview background color</source>
-        <translation>Previsão de cor do fundo</translation>
+        <translation>Pré-visualizar cor de fundo</translation>
     </message>
     <message>
         <source>Follow us on Facebook...</source>
@@ -3892,95 +3941,95 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Keep parent folder</source>
-        <translation>Manter pasta superior</translation>
+        <translation>Manter pasta pai</translation>
     </message>
     <message>
         <source>Clear filename field at startup</source>
-        <translation>Limpar campo nome de arquivo ao iniciar</translation>
+        <translation>Limpar nome do arquivo na inicialização</translation>
     </message>
     <message>
         <source>Start index</source>
-        <translation type="unfinished"></translation>
+        <translation>Índice inicial</translation>
     </message>
     <message>
         <source>Preserve extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Preservar extensão</translation>
     </message>
     <message>
         <source>Note: You need to start with admin rights to be able to change this setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Observação: Você precisa iniciar com direitos de administrador para poder alterar essa configuração</translation>
     </message>
     <message>
         <source>Restore previous input file list</source>
-        <translation type="unfinished"></translation>
+        <translation>Restaurar lista anterior de arquivos de entrada</translation>
     </message>
     <message>
         <source>&amp;Convert</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Converter</translation>
     </message>
     <message>
         <source>Registration...</source>
-        <translation type="unfinished">Registro...</translation>
+        <translation>Registro...</translation>
     </message>
     <message>
         <source>Use multiple CPU Cores</source>
-        <translation type="unfinished"></translation>
+        <translation>Usar vários núcleos de CPU</translation>
     </message>
     <message>
         <source>Exit after conversion</source>
-        <translation type="unfinished"></translation>
+        <translation>Sair após conversão</translation>
     </message>
     <message>
         <source>If an output file already exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Se um arquivo de saída já existir</translation>
     </message>
     <message>
         <source>Presets:</source>
-        <translation type="unfinished">Padrões:</translation>
+        <translation>Predefinições:</translation>
     </message>
     <message>
         <source>Load preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Carregar predefinição</translation>
     </message>
     <message>
         <source>Save preset</source>
-        <translation type="unfinished">Salvar padrão</translation>
+        <translation>Salvar predefinição</translation>
     </message>
     <message>
         <source>Remove preset from list</source>
-        <translation type="unfinished"></translation>
+        <translation>Excluir predefinição da lista</translation>
     </message>
     <message>
         <source>Use color based on file format</source>
-        <translation type="unfinished">Use cores baseadas em arquivo de formatos</translation>
+        <translation>Usar cores com base no formato do arquivo</translation>
     </message>
     <message>
         <source>Beep at the end of process</source>
-        <translation type="unfinished"></translation>
+        <translation>Beep ao concluir o processamento</translation>
     </message>
     <message>
         <source>Processing list:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista de processamento:</translation>
     </message>
     <message>
         <source>Theme</source>
-        <translation type="unfinished">Tema</translation>
+        <translation>Tema</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished">Padrão</translation>
+        <translation>Padrão</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished">Leve</translation>
+        <translation>Claro</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Escuro</translation>
     </message>
     <message>
         <source>Keep original file when encoded result is larger (experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation>Manter arquivo original quando o resultado codificado for maior (experimental)</translation>
     </message>
     <message>
         <source>Show original</source>
@@ -4030,7 +4079,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Alpha</source>
-        <translation>Alpha</translation>
+        <translation>Alfa</translation>
     </message>
     <message>
         <source>Binary</source>
@@ -4038,11 +4087,11 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Background color to use if image has an alpha channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor de fundo usada se a imagem tiver um canal alfa</translation>
     </message>
     <message>
         <source>Grayscale</source>
-        <translation type="unfinished"></translation>
+        <translation>Tons de cinza</translation>
     </message>
     <message>
         <source>Replace alpha for 32bits images</source>
@@ -4053,7 +4102,7 @@ Do you want to overwrite it?</source>
     <name>DlgConvertCropClass</name>
     <message>
         <source>from position</source>
-        <translation>A partir da posição</translation>
+        <translation>da posição</translation>
     </message>
     <message>
         <source>X</source>
@@ -4073,7 +4122,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>from edge</source>
-        <translation>A partir da extremidade</translation>
+        <translation>da borda</translation>
     </message>
     <message>
         <source>Top</source>
@@ -4132,7 +4181,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Fade edges</source>
-        <translation>Suavizar bordas</translation>
+        <translation>Desvanecer bordas</translation>
     </message>
 </context>
 <context>
@@ -4150,11 +4199,11 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Odd fields</source>
-        <translation>Campos antigos</translation>
+        <translation>Campos ímpares</translation>
     </message>
     <message>
         <source>Even fields</source>
-        <translation>Campos nivelados</translation>
+        <translation>Campos pares</translation>
     </message>
     <message>
         <source>New fields</source>
@@ -4208,7 +4257,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Keep print size</source>
-        <translation>Manter o tamanho da impressão</translation>
+        <translation>Manter tamanho da impressão</translation>
     </message>
 </context>
 <context>
@@ -4219,7 +4268,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Light</source>
-        <translation>Leve</translation>
+        <translation>Claro</translation>
     </message>
     <message>
         <source>Medium</source>
@@ -4246,7 +4295,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Alpha</source>
-        <translation>Alpha</translation>
+        <translation>Alfa</translation>
     </message>
 </context>
 <context>
@@ -4260,11 +4309,11 @@ Do you want to overwrite it?</source>
     <name>DlgConvertHLSClass</name>
     <message>
         <source>Hue</source>
-        <translation>Nuace</translation>
+        <translation>Hue</translation>
     </message>
     <message>
         <source>Lightness</source>
-        <translation>Iluminação</translation>
+        <translation>Luminosidade</translation>
     </message>
     <message>
         <source>Saturation</source>
@@ -4294,15 +4343,15 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Rendering intent</source>
-        <translation>Tentativa de renderização</translation>
+        <translation>Intenção de renderização</translation>
     </message>
     <message>
         <source>Perceptual</source>
-        <translation>Percentual</translation>
+        <translation>Perceptivo</translation>
     </message>
     <message>
         <source>Relative colorimetric</source>
-        <translation>Colorimétrico relativo</translation>
+        <translation>Colorimetria relativa</translation>
     </message>
     <message>
         <source>Saturation</source>
@@ -4310,34 +4359,34 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Absolute colorimetric</source>
-        <translation>Colorimétrico absoluto</translation>
+        <translation>Colorimetria absoluta</translation>
     </message>
     <message>
         <source>Ignore embedded profile</source>
-        <translation>Ignorar perfil embutido</translation>
+        <translation>Ignorar perfil incorporado</translation>
     </message>
     <message>
         <source>Black point compensation</source>
-        <translation>Compensação de ponto negro</translation>
+        <translation>Compensação de ponto preto</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertInnerFrameClass</name>
     <message>
         <source>Color</source>
-        <translation type="unfinished">Cor</translation>
+        <translation>Cor</translation>
     </message>
     <message>
         <source>Fill color</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor de preenchimento</translation>
     </message>
     <message>
         <source>Offset</source>
-        <translation type="unfinished">Offset</translation>
+        <translation>Deslocamento</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished">Largura</translation>
+        <translation>Largura</translation>
     </message>
 </context>
 <context>
@@ -4371,59 +4420,60 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Works only for JPEG, TIFF, PNG output format</source>
-        <translation>Funciona somente nos formatos de saída JPEG, TIFF, PNG</translation>
+        <translation>Funciona somente para JPEG, TIFF, formato de saída PNG</translation>
     </message>
     <message>
         <source>Keep and add new value
  (Keywords and supplemental categories)</source>
-        <translation>Manter e adicionar novo valor (Palavras-chave e categorias suplementares)</translation>
+        <translation>Manter e adicionar novo valor
+ (Palavras-chave e categorias complementares)</translation>
     </message>
     <message>
         <source>IPTC-IIM only</source>
-        <translation>Somente IPTC-IIM</translation>
+        <translation>Apenas IPTC-IIM</translation>
     </message>
     <message>
         <source>IPTC-IIM, update or create XMP</source>
-        <translation>IIPTC-IIM, atualizar ou criar XMP</translation>
+        <translation>IPTC-IIM, atualizar ou criar XMP</translation>
     </message>
     <message>
         <source>XMP, update or create IPTC-IIM</source>
-        <translation>XMP, atualizar ou criar IPTC-IIM</translation>
+        <translation>XMP, atualizar ou criar o IPTC-IIM</translation>
     </message>
     <message>
         <source>Load template...</source>
-        <translation type="unfinished">Carregar modelo...</translation>
+        <translation>Carregar modelo...</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished">Inserir</translation>
+        <translation>Inserir</translation>
     </message>
     <message>
         <source>Insert from</source>
-        <translation type="unfinished">Inserir de</translation>
+        <translation>Inserir de</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertLevelsClass</name>
     <message>
         <source>Red</source>
-        <translation type="unfinished">Vermelho</translation>
+        <translation>Vermelho</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished">Verde</translation>
+        <translation>Verde</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation type="unfinished">Azul</translation>
+        <translation>Azul</translation>
     </message>
     <message>
         <source>Output</source>
-        <translation type="unfinished">Saída</translation>
+        <translation>Saída</translation>
     </message>
     <message>
         <source>Luminance</source>
-        <translation type="unfinished">Luminosidade</translation>
+        <translation type="unfinished">Luminância</translation>
     </message>
     <message>
         <source>RGB</source>
@@ -4431,22 +4481,22 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>RGB+Luminance</source>
-        <translation type="unfinished">RGB + Luminosidade</translation>
+        <translation type="unfinished">RGB+Luminance</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertLossless</name>
     <message>
         <source>90° to the left</source>
-        <translation>90° para a esquerda</translation>
+        <translation>90° à esquerda</translation>
     </message>
     <message>
         <source>90° to the right</source>
-        <translation>90° para a direita</translation>
+        <translation>90° à direita</translation>
     </message>
     <message>
         <source>180°</source>
-        <translation>16:10 (1.6) {180°?}</translation>
+        <translation>180°</translation>
     </message>
     <message>
         <source>based on EXIF rotation value</source>
@@ -4473,7 +4523,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Blur</source>
-        <translation>Manchar</translation>
+        <translation>Desfoque</translation>
     </message>
     <message>
         <source>Use mask as alpha</source>
@@ -4515,7 +4565,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Poisson</source>
-        <translation>Veneno</translation>
+        <translation>Poisson</translation>
     </message>
     <message>
         <source>Uniform</source>
@@ -4530,54 +4580,54 @@ Do you want to overwrite it?</source>
     <name>DlgConvertOffset</name>
     <message>
         <source>Repeat edges pixels</source>
-        <translation type="unfinished"></translation>
+        <translation>Repetir pixels das bordas</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished">Esquerda</translation>
+        <translation>Esquerda</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished">Direita</translation>
+        <translation>Direita</translation>
     </message>
     <message>
         <source>Offset X</source>
-        <translation type="unfinished">Offset X</translation>
+        <translation>Deslocamento X</translation>
     </message>
     <message>
         <source>pixels</source>
-        <translation type="unfinished">pixels</translation>
+        <translation>pixels</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Para baixo</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation type="unfinished">Acima</translation>
+        <translation>Acima</translation>
     </message>
     <message>
         <source>Offset Y</source>
-        <translation type="unfinished">Offset Y</translation>
+        <translation>Deslocamento Y</translation>
     </message>
     <message>
         <source>Empty Area</source>
-        <translation type="unfinished"></translation>
+        <translation>Área vazia</translation>
     </message>
     <message>
         <source>Background color</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor de fundo</translation>
     </message>
     <message>
         <source>Wrap image around</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustar imagem ao redor</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertOldCameraClass</name>
     <message>
         <source>Power</source>
-        <translation>Força</translation>
+        <translation>Liga/Desliga</translation>
     </message>
     <message>
         <source>Sepia</source>
@@ -4603,11 +4653,11 @@ Do you want to overwrite it?</source>
     <name>DlgConvertPointsClass</name>
     <message>
         <source>Black point</source>
-        <translation type="unfinished">Ponto negro</translation>
+        <translation>Ponto preto</translation>
     </message>
     <message>
         <source>White point</source>
-        <translation type="unfinished">Ponto branco</translation>
+        <translation>Ponto branco</translation>
     </message>
 </context>
 <context>
@@ -4621,27 +4671,27 @@ Do you want to overwrite it?</source>
     <name>DlgConvertQRcode</name>
     <message>
         <source>Position</source>
-        <translation type="unfinished">Posição</translation>
+        <translation>Posição</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation type="unfinished">Centro</translation>
+        <translation>Centro</translation>
     </message>
     <message>
         <source>X margin</source>
-        <translation type="unfinished">Margem X</translation>
+        <translation>Margem X</translation>
     </message>
     <message>
         <source>Y margin</source>
-        <translation type="unfinished">Margem Y</translation>
+        <translation>Margem Y</translation>
     </message>
     <message>
         <source>Scale</source>
-        <translation type="unfinished">Escala</translation>
+        <translation>Escala</translation>
     </message>
     <message>
         <source>Border</source>
-        <translation type="unfinished">Borda</translation>
+        <translation>Borda</translation>
     </message>
     <message>
         <source>Top-Left</source>
@@ -4649,7 +4699,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Top-Center</source>
-        <translation type="unfinished">Centro da borda superior</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Top-Right</source>
@@ -4657,23 +4707,23 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Center-Left</source>
-        <translation type="unfinished">Centro da borda esquerda</translation>
+        <translation type="unfinished">Centro à esquerda</translation>
     </message>
     <message>
         <source>Center-Right</source>
-        <translation type="unfinished">Centro da borda direita</translation>
+        <translation type="unfinished">Centro à direita</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inferior à esquerda</translation>
     </message>
     <message>
         <source>Bottom-Center</source>
-        <translation type="unfinished">Centro da borda inferior</translation>
+        <translation type="unfinished">Centro inferior</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inferior à direita</translation>
     </message>
 </context>
 <context>
@@ -4695,19 +4745,19 @@ Do you want to overwrite it?</source>
     <name>DlgConvertRemoveColor</name>
     <message>
         <source>Green</source>
-        <translation type="unfinished">Verde</translation>
+        <translation>Verde</translation>
     </message>
     <message>
         <source>Red</source>
-        <translation type="unfinished">Vermelho</translation>
+        <translation>Vermelho</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation type="unfinished">Azul</translation>
+        <translation>Azul</translation>
     </message>
     <message>
         <source>Tolerance</source>
-        <translation type="unfinished">Tolerância</translation>
+        <translation>Tolerância</translation>
     </message>
 </context>
 <context>
@@ -4733,7 +4783,7 @@ Do you want to overwrite it?</source>
     <name>DlgConvertResizeClass</name>
     <message>
         <source>Presets</source>
-        <translation>Definições prévias</translation>
+        <translation>Predefinições</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -4745,19 +4795,19 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Photo 4x6 inches (10x15 cm)</source>
-        <translation>Fotografia 2x6 polegadas (10x15)cm</translation>
+        <translation>Foto 4x6 polegadas (10x15 cm)</translation>
     </message>
     <message>
         <source>Photo 5x7 inches (13x18 cm)</source>
-        <translation>Fotografia 5x7 polegadas (13x18)cm</translation>
+        <translation>Foto 5x7 polegadas (13x18 cm)</translation>
     </message>
     <message>
         <source>Photo 6x8 inches (15x20 cm)</source>
-        <translation>Fotografia 6x8 polegadas (15x20)cm</translation>
+        <translation>Foto 6x8 polegadas (15x20 cm)</translation>
     </message>
     <message>
         <source>Photo 8x10 inches (20x25 cm)</source>
-        <translation>Fotografia 8x10 polegadas (20x25)cm</translation>
+        <translation>Foto 8x10 polegadas (20x25 cm)</translation>
     </message>
     <message>
         <source>Mode</source>
@@ -4769,7 +4819,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Longest side</source>
-        <translation>Lado mais comprido</translation>
+        <translation>Lado mais longo</translation>
     </message>
     <message>
         <source>Shortest side</source>
@@ -4793,7 +4843,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>percent</source>
-        <translation>Percentual</translation>
+        <translation>percentual</translation>
     </message>
     <message>
         <source>inches</source>
@@ -4809,7 +4859,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Keep ratio</source>
-        <translation>Manter taxa</translation>
+        <translation>Manter proporção</translation>
     </message>
     <message>
         <source>Follow orientation</source>
@@ -4817,7 +4867,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Enlarge/Reduce</source>
-        <translation>Alargar/Reduzir</translation>
+        <translation>Ampliar/Reduzir</translation>
     </message>
     <message>
         <source>Always</source>
@@ -4825,15 +4875,15 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Reduce only</source>
-        <translation>Apenas reduzir</translation>
+        <translation>Reduzir apenas</translation>
     </message>
     <message>
         <source>Enlarge only</source>
-        <translation>Apenas alargar</translation>
+        <translation>Apenas ampliar</translation>
     </message>
     <message>
         <source>Resample</source>
-        <translation>Refazer amostra</translation>
+        <translation>Reamostrar</translation>
     </message>
     <message>
         <source>Nearest Neighbour</source>
@@ -4841,7 +4891,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Bilinear</source>
-        <translation>Bi linear</translation>
+        <translation>Bilinear</translation>
     </message>
     <message>
         <source>Mpixels</source>
@@ -4868,30 +4918,30 @@ Do you want to overwrite it?</source>
     <name>DlgConvertRetro</name>
     <message>
         <source>Vignette</source>
-        <translation>Vignete</translation>
+        <translation>Vinheta</translation>
     </message>
     <message>
         <source>Power</source>
-        <translation>Força</translation>
+        <translation>Liga/Desliga</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertRotate</name>
     <message>
         <source>180° left</source>
-        <translation>180° para a esquerda</translation>
+        <translation>180° restante</translation>
     </message>
     <message>
         <source>90° left</source>
-        <translation>90° para a esquerda</translation>
+        <translation>90° restante</translation>
     </message>
     <message>
         <source>90° right</source>
-        <translation>90° para a direita</translation>
+        <translation>90° à direita</translation>
     </message>
     <message>
         <source>180° right</source>
-        <translation>180° para a direita</translation>
+        <translation>180° à direita</translation>
     </message>
 </context>
 <context>
@@ -4902,11 +4952,11 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Background color</source>
-        <translation>Cor do fundo</translation>
+        <translation>Cor de fundo</translation>
     </message>
     <message>
         <source>Smooth</source>
-        <translation>Suave</translation>
+        <translation>Suavizar</translation>
     </message>
     <message>
         <source>All</source>
@@ -4914,11 +4964,11 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Only portrait</source>
-        <translation>Apenas retrato</translation>
+        <translation>Somente retrato</translation>
     </message>
     <message>
         <source>Only landscape</source>
-        <translation>Apenas paisagem</translation>
+        <translation>Somente paisagem</translation>
     </message>
     <message>
         <source>-180°</source>
@@ -4934,7 +4984,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Auto crop</source>
-        <translation type="unfinished">Recorte automático</translation>
+        <translation>Recorte automático</translation>
     </message>
 </context>
 <context>
@@ -4952,7 +5002,7 @@ Do you want to overwrite it?</source>
     <name>DlgConvertSwapClass</name>
     <message>
         <source>RGB →</source>
-        <translation>RGB →</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4971,7 +5021,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Vertical and Horizontal</source>
-        <translation>Vertical e horizontal</translation>
+        <translation>Vertical e Horizontal</translation>
     </message>
     <message>
         <source>Kaleidoscope</source>
@@ -4990,11 +5040,11 @@ Do you want to overwrite it?</source>
     <name>DlgConvertTemperature</name>
     <message>
         <source>Cooler</source>
-        <translation>Resfriador</translation>
+        <translation>Mais frio</translation>
     </message>
     <message>
         <source>Warmer</source>
-        <translation>Aquecedor</translation>
+        <translation>Mais quente</translation>
     </message>
 </context>
 <context>
@@ -5053,7 +5103,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Aspect</source>
-        <translation>Aspecto</translation>
+        <translation>Proporção</translation>
     </message>
     <message>
         <source>Border</source>
@@ -5065,7 +5115,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Outline</source>
-        <translation>Fora da linha</translation>
+        <translation>Contorno</translation>
     </message>
     <message>
         <source>Shadow</source>
@@ -5077,15 +5127,15 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Offset X</source>
-        <translation>Offset X</translation>
+        <translation>Deslocamento X</translation>
     </message>
     <message>
         <source>Offset Y</source>
-        <translation>Offset Y</translation>
+        <translation>Deslocamento Y</translation>
     </message>
     <message>
         <source>Blur</source>
-        <translation>Manchar</translation>
+        <translation>Desfoque</translation>
     </message>
     <message>
         <source>Text</source>
@@ -5109,23 +5159,23 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Adjust to image&apos;s width</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustar à largura da imagem</translation>
     </message>
     <message>
         <source>% (Height)</source>
-        <translation type="unfinished"></translation>
+        <translation>% (altura)</translation>
     </message>
     <message>
         <source>% (Width)</source>
-        <translation type="unfinished"></translation>
+        <translation>% (largura)</translation>
     </message>
     <message>
         <source>% (Minimum)</source>
-        <translation type="unfinished"></translation>
+        <translation>% (Mínimo)</translation>
     </message>
     <message>
         <source>Use anti-aliasing</source>
-        <translation type="unfinished">Usar antisserrilhado</translation>
+        <translation>Usar antialiasing</translation>
     </message>
     <message>
         <source>Top-Left</source>
@@ -5133,7 +5183,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Top-Center</source>
-        <translation type="unfinished">Centro da borda superior</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Top-Right</source>
@@ -5141,45 +5191,45 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Center-Left</source>
-        <translation type="unfinished">Centro da borda esquerda</translation>
+        <translation type="unfinished">Centro à esquerda</translation>
     </message>
     <message>
         <source>Center-Right</source>
-        <translation type="unfinished">Centro da borda direita</translation>
+        <translation type="unfinished">Centro à direita</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inferior à esquerda</translation>
     </message>
     <message>
         <source>Bottom-Center</source>
-        <translation type="unfinished">Centro da borda inferior</translation>
+        <translation type="unfinished">Centro inferior</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inferior à direita</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertUnsharp</name>
     <message>
         <source>Radius</source>
-        <translation type="unfinished">Raio</translation>
+        <translation>Raio</translation>
     </message>
     <message>
         <source>Amount</source>
-        <translation type="unfinished">Quantidade</translation>
+        <translation>Quantidade</translation>
     </message>
     <message>
         <source>Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Limiar</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertVignetteClass</name>
     <message>
         <source>Power</source>
-        <translation>Força</translation>
+        <translation>Liga/Desliga</translation>
     </message>
     <message>
         <source>Radius</source>
@@ -5187,22 +5237,22 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>X-Offset</source>
-        <translation>Offset X</translation>
+        <translation>Deslocamento X</translation>
     </message>
     <message>
         <source>Y-Offset</source>
-        <translation>Offset Y</translation>
+        <translation>Deslocamento Y</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished">Cor</translation>
+        <translation>Cor</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertWatermarkClass</name>
     <message>
         <source>Image filename</source>
-        <translation>Nome do arquivo da imagem</translation>
+        <translation>Nome do arquivo</translation>
     </message>
     <message>
         <source>Opacity</source>
@@ -5238,71 +5288,39 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Proportional</source>
-        <translation type="unfinished"></translation>
+        <translation>Proporcional</translation>
     </message>
     <message>
         <source>Relative to target image</source>
-        <translation type="unfinished"></translation>
+        <translation>Relativo à imagem de destino</translation>
     </message>
     <message>
         <source>Smallest side</source>
-        <translation type="unfinished"></translation>
+        <translation>Lado menor</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished">Largura</translation>
+        <translation>Largura</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation type="unfinished">Altura</translation>
+        <translation>Altura</translation>
     </message>
     <message>
         <source>Fit</source>
-        <translation type="unfinished">Ajustar</translation>
+        <translation>Ajustar</translation>
     </message>
     <message>
         <source>Anchor</source>
-        <translation type="unfinished"></translation>
+        <translation>Âncora</translation>
     </message>
     <message>
         <source>Offset</source>
-        <translation type="unfinished">Offset</translation>
+        <translation>Deslocamento</translation>
     </message>
     <message>
         <source>Longest side</source>
-        <translation type="unfinished">Lado mais comprido</translation>
-    </message>
-    <message>
-        <source>Top-Left</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Top-Center</source>
-        <translation type="unfinished">Centro da borda superior</translation>
-    </message>
-    <message>
-        <source>Top-Right</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Center-Left</source>
-        <translation type="unfinished">Centro da borda esquerda</translation>
-    </message>
-    <message>
-        <source>Center-Right</source>
-        <translation type="unfinished">Centro da borda direita</translation>
-    </message>
-    <message>
-        <source>Bottom-Left</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bottom-Center</source>
-        <translation type="unfinished">Centro da borda inferior</translation>
-    </message>
-    <message>
-        <source>Bottom-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Lado maior</translation>
     </message>
     <message>
         <source>Stretch</source>
@@ -5312,16 +5330,48 @@ Do you want to overwrite it?</source>
         <source>Tile</source>
         <translation type="unfinished">Ladrilho</translation>
     </message>
+    <message>
+        <source>Top-Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top-Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top-Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center-Left</source>
+        <translation type="unfinished">Centro à esquerda</translation>
+    </message>
+    <message>
+        <source>Center-Right</source>
+        <translation type="unfinished">Centro à direita</translation>
+    </message>
+    <message>
+        <source>Bottom-Left</source>
+        <translation type="unfinished">Inferior à esquerda</translation>
+    </message>
+    <message>
+        <source>Bottom-Center</source>
+        <translation type="unfinished">Centro inferior</translation>
+    </message>
+    <message>
+        <source>Bottom-Right</source>
+        <translation type="unfinished">Inferior à direita</translation>
+    </message>
 </context>
 <context>
     <name>DlgConvertWhiteBalanceClass</name>
     <message>
         <source>Cut limit</source>
-        <translation type="unfinished"></translation>
+        <translation>Limite de corte</translation>
     </message>
     <message>
         <source>Contrast</source>
-        <translation type="unfinished">Contraste</translation>
+        <translation>Contraste</translation>
     </message>
 </context>
 <context>
@@ -5335,7 +5385,7 @@ Do you want to overwrite it?</source>
     <name>DlgCreateMulti</name>
     <message>
         <source>Create multi-page file</source>
-        <translation>Criar arquivo com múltiplas páginas</translation>
+        <translation>Criar arquivo multipágina</translation>
     </message>
     <message>
         <source>Add...</source>
@@ -5343,19 +5393,19 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Remover</translation>
+        <translation>Excluir</translation>
     </message>
     <message>
         <source>Insert all pages from multipage source files</source>
-        <translation>IInserir todas as páginas do arquivo fonte de múltiplas páginas</translation>
+        <translation>Inserir todas as páginas dos arquivos de origem multipágina</translation>
     </message>
     <message>
         <source>Directory</source>
-        <translation>Pasta</translation>
+        <translation>Diretório</translation>
     </message>
     <message>
         <source>Filename</source>
-        <translation>Nome do arquivo</translation>
+        <translation>Nome do Arquivo</translation>
     </message>
     <message>
         <source>Settings...</source>
@@ -5367,101 +5417,101 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>An error occurred in multipage creating process!</source>
-        <translation>Aconteceu um erro durante a criação das páginas múltiplas!</translation>
+        <translation>Ocorreu um erro no processo de criação de múltiplas páginas!</translation>
     </message>
     <message>
         <source>Loading file(s). Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Carregando arquivo(s). Aguarde...</translation>
     </message>
     <message>
         <source>View as:</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualizar como:</translation>
     </message>
     <message>
         <source>Thumbnails</source>
-        <translation type="unfinished">Miniaturas</translation>
+        <translation>Miniaturas</translation>
     </message>
     <message>
         <source>List</source>
-        <translation type="unfinished">Lista</translation>
+        <translation>Lista</translation>
     </message>
     <message>
         <source>After finish</source>
-        <translation type="unfinished"></translation>
+        <translation>Depois de terminar</translation>
     </message>
     <message>
         <source>Do Nothing</source>
-        <translation type="unfinished"></translation>
+        <translation>Não Fazer Nada</translation>
     </message>
     <message>
         <source>Open Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir Navegador</translation>
     </message>
     <message>
         <source>Open File Explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir Explorador de Arquivos</translation>
     </message>
     <message>
         <source>Creating multipage file, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Criando arquivo multipágina. Aguarde...</translation>
     </message>
 </context>
 <context>
     <name>DlgCropSize</name>
     <message>
         <source>Crop size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho do corte</translation>
     </message>
     <message>
         <source>Edit...</source>
-        <translation type="unfinished">Editar...</translation>
+        <translation>Editar...</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Remover</translation>
+        <translation>Excluir</translation>
     </message>
     <message>
         <source>Defaults</source>
-        <translation type="unfinished">Padrões</translation>
+        <translation>Padrões</translation>
     </message>
     <message>
         <source>New...</source>
-        <translation type="unfinished"></translation>
+        <translation>Novo...</translation>
     </message>
 </context>
 <context>
     <name>DlgCurves</name>
     <message>
         <source>Curves</source>
-        <translation type="unfinished"></translation>
+        <translation>Curvas</translation>
     </message>
     <message>
         <source>RGB</source>
-        <translation type="unfinished">RGB</translation>
+        <translation>RGB</translation>
     </message>
     <message>
         <source>Right click to remove control point</source>
-        <translation type="unfinished"></translation>
+        <translation>Clique com o botão direito para remover o ponto de controle</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Redefinir</translation>
     </message>
     <message>
         <source>Red</source>
-        <translation type="unfinished">Vermelho</translation>
+        <translation>Vermelho</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished">Verde</translation>
+        <translation>Verde</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation type="unfinished">Azul</translation>
+        <translation>Azul</translation>
     </message>
     <message>
         <source>Luminance</source>
-        <translation type="unfinished">Luminosidade</translation>
+        <translation type="unfinished">Luminância</translation>
     </message>
 </context>
 <context>
@@ -5472,39 +5522,39 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Optimize database (long process)</source>
-        <translation type="unfinished"></translation>
+        <translation>Otimizar banco de dados (processo demorado)</translation>
     </message>
     <message>
         <source>Remove data for empty directories</source>
-        <translation type="unfinished"></translation>
+        <translation>Remover dados de diretórios vazios</translation>
     </message>
     <message>
         <source>Purge all thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpar todas as miniaturas</translation>
     </message>
     <message>
         <source>Purge file data</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpar dados do arquivo</translation>
     </message>
     <message>
         <source>Remove data for orphaned directories</source>
-        <translation type="unfinished"></translation>
+        <translation>Remover dados de diretórios órfãos</translation>
     </message>
     <message>
         <source>Remove data for orphaned files</source>
-        <translation type="unfinished"></translation>
+        <translation>Remover dados de arquivos órfãos</translation>
     </message>
     <message>
         <source>Clean up</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpar limpeza</translation>
     </message>
     <message>
         <source>Purge</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpar</translation>
     </message>
     <message>
         <source>Run</source>
-        <translation type="unfinished"></translation>
+        <translation>Executar</translation>
     </message>
 </context>
 <context>
@@ -5523,124 +5573,125 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Create subfolder</source>
-        <translation>Criar subpastas</translation>
+        <translation>Criar subpasta</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Apagar</translation>
+        <translation>Excluir</translation>
     </message>
 </context>
 <context>
     <name>DlgEditGps</name>
     <message>
         <source>Edit GPS Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar dados de GPS</translation>
     </message>
     <message>
         <source>Longitude</source>
-        <translation type="unfinished">Longitude</translation>
+        <translation>Longitude</translation>
     </message>
     <message>
         <source>Altitude (m)</source>
-        <translation type="unfinished"></translation>
+        <translation>Altitude (m)</translation>
     </message>
     <message>
         <source>Decimal</source>
-        <translation type="unfinished"></translation>
+        <translation>Decimal</translation>
     </message>
     <message>
         <source>Sexagesimal</source>
-        <translation type="unfinished"></translation>
+        <translation>Sexagesimal</translation>
     </message>
     <message>
         <source>Latitude</source>
-        <translation type="unfinished">Latitude</translation>
+        <translation>Latitude</translation>
     </message>
     <message>
         <source>&lt;</source>
-        <translation type="unfinished">&lt;</translation>
+        <translation>&lt;</translation>
     </message>
     <message>
         <source>&gt;</source>
-        <translation type="unfinished">&gt;</translation>
+        <translation>&gt;</translation>
     </message>
     <message>
         <source>Write</source>
-        <translation type="unfinished"></translation>
+        <translation>Escrita</translation>
     </message>
     <message>
         <source>Write all</source>
-        <translation type="unfinished"></translation>
+        <translation>Gravar tudo</translation>
     </message>
     <message>
         <source>ExifTool is not installed in AddOn folder!</source>
-        <translation type="unfinished"></translation>
+        <translation>O ExifTool não está instalado na pasta AddOn!</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished">Copiar</translation>
+        <translation>Copiar</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished">Colar</translation>
+        <translation>Colar</translation>
     </message>
 </context>
 <context>
     <name>DlgEditXMP</name>
     <message>
         <source>Edit XMP</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar XMP</translation>
     </message>
     <message>
         <source>Ctrl+Left</source>
-        <translation type="unfinished">Ctrl+Left</translation>
+        <translation>Ctrl+Esquerda</translation>
     </message>
     <message>
         <source>Ctrl+Right</source>
-        <translation type="unfinished">Ctrl+Right</translation>
+        <translation>Ctrl+Direita</translation>
     </message>
     <message>
         <source>Save template...</source>
-        <translation type="unfinished">Salvar modelo...</translation>
+        <translation>Salvar modelo...</translation>
     </message>
     <message>
         <source>Load template...</source>
-        <translation type="unfinished">Carregar modelo...</translation>
+        <translation>Carregar modelo...</translation>
     </message>
     <message>
         <source>Clear all fields</source>
-        <translation type="unfinished">Limpar todos os campos</translation>
+        <translation>Limpar todos os campos</translation>
     </message>
     <message>
         <source>Field values are not loaded because &apos;Do not load field values&apos; is checked</source>
-        <translation type="unfinished"></translation>
+        <translation>Os valores dos campos não foram carregados porque &quot;Não carregar valores de campo&quot; está marcado</translation>
     </message>
     <message>
         <source>IPTC data has changed.
 Do you want to save your changes?</source>
-        <translation type="unfinished">Os dados IPTC foram alterados.(new line)
-Você gostaria de salvar as alterações?</translation>
+        <translation>Os dados IPTC foram alterados.
+Deseja salvar suas alterações?</translation>
     </message>
     <message>
         <source>Don&apos;t load field values</source>
-        <translation type="unfinished"></translation>
+        <translation>Não carregar valores de campo</translation>
     </message>
     <message>
         <source>An error has occurred during processing. 
 Please make sure that files are not read-only!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocorreu um erro durante o processamento.
+Certifique-se de que os arquivos não sejam somente de leitura!</translation>
     </message>
     <message>
         <source>Write &amp;to all files</source>
-        <translation type="unfinished"></translation>
+        <translation>Escrever &amp;para todos os arquivos</translation>
     </message>
     <message>
         <source>&amp;Write</source>
-        <translation type="unfinished">&amp;Gravar</translation>
+        <translation>&amp;Gravar</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Aplicar</translation>
     </message>
     <message>
         <source>Modifying files, please wait...</source>
@@ -5651,7 +5702,7 @@ Please make sure that files are not read-only!</source>
     <name>DlgEmail</name>
     <message>
         <source>Send email</source>
-        <translation>Enviar email</translation>
+        <translation>Enviar e-mail</translation>
     </message>
     <message>
         <source>Recipient:</source>
@@ -5667,15 +5718,15 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Use default mail client</source>
-        <translation>Usar o cliente de email padrão</translation>
+        <translation>Usar cliente de e-mail padrão</translation>
     </message>
     <message>
         <source>SMTP settings...</source>
-        <translation>Configurar SMTP...</translation>
+        <translation>Configurações de SMTP...</translation>
     </message>
     <message>
         <source>Image(s)</source>
-        <translation>Imagem (ens)</translation>
+        <translation>Imagem(s)</translation>
     </message>
     <message>
         <source>Size:</source>
@@ -5723,18 +5774,18 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Delete metadata</source>
-        <translation>Apagar metadados</translation>
+        <translation>Limpar metadados</translation>
     </message>
     <message>
         <source>Compress file(s) as ZIP file</source>
-        <translation>Comprimir arquivo(s) como ZIP</translation>
+        <translation>Comprimir arquivo(s) como arquivo ZIP</translation>
     </message>
 </context>
 <context>
     <name>DlgEmailSettings</name>
     <message>
         <source>Email settings</source>
-        <translation>Configurar Emai</translation>
+        <translation>Configurações de email</translation>
     </message>
     <message>
         <source>Sender address:</source>
@@ -5754,11 +5805,11 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Login</source>
-        <translation>Login</translation>
+        <translation>Entrar</translation>
     </message>
     <message>
         <source>User name:</source>
-        <translation>Nome de usuário:</translation>
+        <translation>Nome de Usuário:</translation>
     </message>
     <message>
         <source>User password:</source>
@@ -5801,7 +5852,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Hue</source>
-        <translation>Nuance</translation>
+        <translation>Hue</translation>
     </message>
     <message>
         <source>Green</source>
@@ -5809,7 +5860,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Lightness</source>
-        <translation>Iluminação</translation>
+        <translation>Luminosidade</translation>
     </message>
     <message>
         <source>Blue</source>
@@ -5825,11 +5876,11 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Exposure</source>
-        <translation type="unfinished">Exposição</translation>
+        <translation>Exposição</translation>
     </message>
     <message>
         <source>Tint</source>
-        <translation type="unfinished"></translation>
+        <translation>Tonalidade</translation>
     </message>
 </context>
 <context>
@@ -5840,7 +5891,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Black&amp;White</source>
-        <translation>Preto&amp;branco</translation>
+        <translation>Branco&amp;Preto</translation>
     </message>
     <message>
         <source>8 colors</source>
@@ -5880,7 +5931,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Pattern</source>
-        <translation>Modelo</translation>
+        <translation>Padrão</translation>
     </message>
     <message>
         <source>Floyd-Steinberg</source>
@@ -5888,15 +5939,15 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Halftone 45</source>
-        <translation>Halftone 45</translation>
+        <translation>Meio-tom 45</translation>
     </message>
     <message>
         <source>Halftone 90</source>
-        <translation>Halftone 90</translation>
+        <translation>Meio-tom 90</translation>
     </message>
     <message>
         <source>Adaptive</source>
-        <translation>Adaptivo</translation>
+        <translation>Adaptativo</translation>
     </message>
     <message>
         <source>Images</source>
@@ -5904,7 +5955,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Save File</source>
-        <translation>Salvar arquivo</translation>
+        <translation>Salvar Arquivo</translation>
     </message>
     <message>
         <source>This is not an image file</source>
@@ -5915,19 +5966,19 @@ Please make sure that files are not read-only!</source>
     <name>DlgExportCatalog</name>
     <message>
         <source>Catalog export</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar Catálogo</translation>
     </message>
     <message>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome do Arquivo</translation>
     </message>
     <message>
         <source>Export all files from catalog</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar todos os arquivos do catálogo</translation>
     </message>
     <message>
         <source>Categories file</source>
-        <translation type="unfinished">Arquivo de categorias</translation>
+        <translation>Arquivo de categorias</translation>
     </message>
     <message>
         <source>Export Rating &amp;&amp; Color labels</source>
@@ -5958,19 +6009,19 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Progressive</source>
-        <translation>Progressiva</translation>
+        <translation>Progressivo</translation>
     </message>
     <message>
         <source>Optimize Huffman table</source>
-        <translation>Otimizar a tabela Huffman</translation>
+        <translation>Otimizar tabela Huffman</translation>
     </message>
     <message>
         <source>Smoothing factor</source>
-        <translation>Fator de refinamento</translation>
+        <translation>Fator de suavização</translation>
     </message>
     <message>
         <source>Lowest</source>
-        <translation>Mais baixo</translation>
+        <translation>Mínimo</translation>
     </message>
     <message>
         <source>Best</source>
@@ -5986,43 +6037,15 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Automatic preview refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualização de pré-visualização automática</translation>
     </message>
     <message>
         <source>Refresh preview</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Edit palette...</source>
-        <translation>Editar paleta...</translation>
+        <translation>Atualizar pré-visualização</translation>
     </message>
     <message>
         <source>Use JPEG-li</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Convert to XYB colorspace</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Color</source>
-        <translation type="unfinished">Cor</translation>
-    </message>
-    <message>
-        <source>Metadata</source>
-        <translation type="unfinished">Metadados</translation>
-    </message>
-    <message>
-        <source>Keep EXIF</source>
-        <translation type="unfinished">Manter EXIF</translation>
-    </message>
-    <message>
-        <source>Keep IPTC</source>
-        <translation type="unfinished">Manter IPTC</translation>
-    </message>
-    <message>
-        <source>Keep XMP</source>
-        <translation type="unfinished">Manter XMP</translation>
     </message>
     <message>
         <source>DCT method</source>
@@ -6052,6 +6075,34 @@ Please make sure that files are not read-only!</source>
         <source>4:4:4 (1x1,1x1,1x1) best quality</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Convert to XYB colorspace</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished">Cor</translation>
+    </message>
+    <message>
+        <source>Edit palette...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Metadata</source>
+        <translation type="unfinished">Metadados</translation>
+    </message>
+    <message>
+        <source>Keep EXIF</source>
+        <translation type="unfinished">Manter EXIF</translation>
+    </message>
+    <message>
+        <source>Keep IPTC</source>
+        <translation type="unfinished">Manter IPTC</translation>
+    </message>
+    <message>
+        <source>Keep XMP</source>
+        <translation type="unfinished">Manter XMP</translation>
+    </message>
 </context>
 <context>
     <name>DlgFile</name>
@@ -6073,18 +6124,18 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Folder doesn&apos;t exist</source>
-        <translation>Pasta não existe</translation>
+        <translation>A pasta não existe</translation>
     </message>
     <message>
         <source>Do you want to create this folder?</source>
-        <translation>Você gostaria de criar esta pasta?</translation>
+        <translation>Você deseja criar esta pasta?</translation>
     </message>
 </context>
 <context>
     <name>DlgFileAssociation</name>
     <message>
         <source>File association</source>
-        <translation>Associação de arquivos</translation>
+        <translation>Associação de arquivo</translation>
     </message>
     <message>
         <source>Extension</source>
@@ -6096,25 +6147,25 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Select none</source>
-        <translation>Selecionar nenhum</translation>
+        <translation>Não selecionar nenhum</translation>
     </message>
     <message>
         <source>Select all</source>
-        <translation>Selecionar tudo</translation>
+        <translation>Selecionar todos</translation>
     </message>
     <message>
         <source>Unregister XnViewMP</source>
-        <translation>Suspender o registro do XnView</translation>
+        <translation>Cancelar registro do XnViewMP</translation>
     </message>
     <message>
         <source>Problem to change file association. Please try to start with admin rights.</source>
-        <translation>Encontrados problemas ao mudar a associação do arquivo. Tente novamente com direitos de administrador.</translation>
+        <translation>Problema para alterar a associação de arquivos. Tente iniciar com direitos de administrador.</translation>
     </message>
     <message>
         <source>Select the file-types which you would like to associate with XnViewMP
 (E.g. when double-clicking on a file to open under Windows Explorer)</source>
         <translation>Selecione os tipos de arquivo que você gostaria de associar ao XnViewMP
-(Por exemplo, ao clicar duas vezes sobre um arquivo para abri-lo no Windows Explorer)</translation>
+(E. Por exemplo, quando clicar duas vezes em um arquivo para abrir em um Windows Explorer)</translation>
     </message>
 </context>
 <context>
@@ -6125,7 +6176,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Show selected folder in folder tree</source>
-        <translation>Mostrar pastas selecionadas na árvore de pastas</translation>
+        <translation>Exibir pasta selecionada na árvore de pastas</translation>
     </message>
     <message>
         <source>Expand</source>
@@ -6133,14 +6184,14 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Clear history entries</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpar histórico</translation>
     </message>
 </context>
 <context>
     <name>DlgFileListing</name>
     <message>
         <source>File listing</source>
-        <translation>Listando arquivos</translation>
+        <translation>Lista de arquivos</translation>
     </message>
     <message>
         <source>Format</source>
@@ -6156,11 +6207,11 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Export file listing</source>
-        <translation>Exportar lista de arquivos</translation>
+        <translation>Exportar listagem de arquivos</translation>
     </message>
     <message>
         <source>Only image files</source>
-        <translation>Apenas arquivos de imagem</translation>
+        <translation>Somente arquivos de imagem</translation>
     </message>
     <message>
         <source>Add column</source>
@@ -6168,11 +6219,11 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation>Previsão</translation>
+        <translation>Pré-Visualização</translation>
     </message>
     <message>
         <source>Copy to Clipboard</source>
-        <translation>Copiar para a área de transferência</translation>
+        <translation>Copiar para a Área de Transferência</translation>
     </message>
     <message>
         <source>Save as...</source>
@@ -6184,7 +6235,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Append to file</source>
-        <translation type="unfinished"></translation>
+        <translation>Anexar ao arquivo</translation>
     </message>
 </context>
 <context>
@@ -6195,7 +6246,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Apagar</translation>
+        <translation>Excluir</translation>
     </message>
     <message>
         <source>Zoom out</source>
@@ -6207,11 +6258,11 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Original zoom</source>
-        <translation>Tamanho original</translation>
+        <translation>Zoom original</translation>
     </message>
     <message>
         <source>Best fit</source>
-        <translation>Melhor tamanho</translation>
+        <translation>Melhor ajuste</translation>
     </message>
     <message>
         <source>With</source>
@@ -6223,7 +6274,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Skip</source>
-        <translation>Saltar</translation>
+        <translation>Ignorar</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -6231,11 +6282,11 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Delete file</source>
-        <translation>Apagar arquivo</translation>
+        <translation>Excluir arquivo</translation>
     </message>
     <message>
         <source>Are you sure to delete this file?</source>
-        <translation>Você tem certeza que deseja apagar este arquivo?</translation>
+        <translation>Você tem certeza de que deseja excluir este arquivo?</translation>
     </message>
     <message>
         <source>Status</source>
@@ -6243,11 +6294,11 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Folder conflict</source>
-        <translation>Conflito de pastas</translation>
+        <translation>Conflito de pasta</translation>
     </message>
     <message>
         <source>The destination contains already a folder with same name, what do you want to do?</source>
-        <translation>O destino já contém uma pasta com o mesmo nome. O que você gostaria de fazer?</translation>
+        <translation>O destino já contém uma pasta com o mesmo nome, o que você deseja fazer?</translation>
     </message>
     <message>
         <source>Overwrite</source>
@@ -6255,34 +6306,34 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>&amp;Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Substituir</translation>
     </message>
     <message>
         <source>Replace &amp;all</source>
-        <translation type="unfinished"></translation>
+        <translation>Substituir &amp;tudo</translation>
     </message>
     <message>
         <source>&amp;Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ignorar</translation>
     </message>
     <message>
         <source>Skip a&amp;ll</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorar &amp;todos</translation>
     </message>
     <message>
         <source>Re&amp;name</source>
-        <translation type="unfinished"></translation>
+        <translation>Re&amp;nomear</translation>
     </message>
 </context>
 <context>
     <name>DlgFilm</name>
     <message>
         <source>Film simulation</source>
-        <translation type="unfinished"></translation>
+        <translation>Simulação de filme</translation>
     </message>
     <message>
         <source>Intensity</source>
-        <translation type="unfinished">Intensidade</translation>
+        <translation>Intensidade</translation>
     </message>
 </context>
 <context>
@@ -6300,26 +6351,26 @@ Please make sure that files are not read-only!</source>
     <name>DlgFilterPanel</name>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">Filtro</translation>
+        <translation>Filtro</translation>
     </message>
     <message>
         <source>Misc</source>
-        <translation type="unfinished">Miscelânea</translation>
+        <translation>Diversos</translation>
     </message>
     <message>
         <source>Map</source>
-        <translation type="unfinished">Mapa</translation>
+        <translation>Mapa</translation>
     </message>
 </context>
 <context>
     <name>DlgFlickr</name>
     <message>
         <source>Abort</source>
-        <translation>Abortar</translation>
+        <translation>Interromper</translation>
     </message>
     <message>
         <source>Uploading image(s) to Flickr album</source>
-        <translation>Enviando imagem (ens) para álbum Flickr</translation>
+        <translation>Enviando imagem(s) para o álbum do Flickr</translation>
     </message>
     <message>
         <source>Error</source>
@@ -6327,14 +6378,14 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Uploading image(s) to Picasa album</source>
-        <translation>Enviando imagem (ens) para álbum Picasa</translation>
+        <translation>Enviando imagem(s) para o álbum Picasa</translation>
     </message>
 </context>
 <context>
     <name>DlgFlickrSettings</name>
     <message>
         <source>Flickr settings</source>
-        <translation>Configurar Flickr</translation>
+        <translation>Configurações do Flickr</translation>
     </message>
     <message>
         <source>User</source>
@@ -6361,11 +6412,11 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Abort</source>
-        <translation>Abortar</translation>
+        <translation>Interromper</translation>
     </message>
     <message>
         <source>Connecting to FTP server %1...</source>
-        <translation>Conectando com o servidor FTP %1...</translation>
+        <translation>Conectando ao servidor FTP %1...</translation>
     </message>
     <message>
         <source>FTP</source>
@@ -6373,7 +6424,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>The file called %1 already exists.</source>
-        <translation>O arquivo %1 já existe.</translation>
+        <translation>O arquivo chamado %1 já existe.</translation>
     </message>
     <message>
         <source>Unable to load the file %1: %2.</source>
@@ -6381,50 +6432,50 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Unable to connect to the FTP server at %1. Please check that the host name is correct.</source>
-        <translation>Não foi possível conectar com o servidor FTP em %1. Verifique se o nome do &quot;host&quot; está correto. </translation>
+        <translation>Não foi possível conectar ao servidor FTP em %1. Verifique se o nome do host está correto.</translation>
     </message>
     <message>
         <source>Logged onto %1.</source>
-        <translation>Logado em %1.</translation>
+        <translation>Conectado a %1.</translation>
     </message>
     <message>
         <source>Unable to go to folder %1</source>
-        <translation>Não foi possível acessar a pasta %1</translation>
+        <translation>Não foi possível ir para a pasta %1</translation>
     </message>
     <message>
         <source>The file called %1 doesn&apos;t exist.</source>
-        <translation>O arquivo chamado %1 não existe.</translation>
+        <translation>O arquivo chamado %1 d não existe.</translation>
     </message>
     <message>
         <source>Unable to connect to the FTP server at %1. Please check if the username and password is correct.</source>
-        <translation>Não foi possível conectar com o servidor FTP em %1. Verifique se o nome do usuário e a senha estão corretos. </translation>
+        <translation>Não foi possível conectar ao servidor FTP em %1. Verifique se o nome de usuário e a senha estão corretos.</translation>
     </message>
     <message>
         <source>Retry</source>
-        <translation type="unfinished">Tentar novamente</translation>
+        <translation>Tentar novamente</translation>
     </message>
     <message>
         <source>Uploading...</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviando...</translation>
     </message>
     <message>
         <source>Upload canceled</source>
-        <translation type="unfinished"></translation>
+        <translation>Envio cancelado</translation>
     </message>
     <message>
         <source>Uploaded</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviado</translation>
     </message>
     <message>
         <source>Directory changed to %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diretório alterado para %1.</translation>
     </message>
 </context>
 <context>
     <name>DlgFtpClass</name>
     <message>
         <source>Save settings</source>
-        <translation>Salvar configurações</translation>
+        <translation>Salvar Configurações</translation>
     </message>
     <message>
         <source>Remove entry</source>
@@ -6432,7 +6483,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Remote host</source>
-        <translation>Remover &quot;host&quot;</translation>
+        <translation>Host remoto</translation>
     </message>
     <message>
         <source>Port</source>
@@ -6448,7 +6499,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Directory</source>
-        <translation>Pasta</translation>
+        <translation>Diretório</translation>
     </message>
     <message>
         <source>Passive mode</source>
@@ -6472,18 +6523,18 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>&lt; Back</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt; Voltar</translation>
     </message>
 </context>
 <context>
     <name>DlgFtpUpload</name>
     <message>
         <source>Abort</source>
-        <translation>Abortar</translation>
+        <translation>Interromper</translation>
     </message>
     <message>
         <source>Uploading: </source>
-        <translation>Carregando:</translation>
+        <translation>Carregando: </translation>
     </message>
     <message>
         <source>FTP</source>
@@ -6491,7 +6542,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>The file called %1 already exists.</source>
-        <translation>O arquivo %1 já existe.</translation>
+        <translation>O arquivo chamado %1 já existe.</translation>
     </message>
     <message>
         <source>The file called %1 doesn&apos;t exist.</source>
@@ -6503,38 +6554,38 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Unable to connect to the FTP server at %1. Please check that the host name is correct.</source>
-        <translation>Não foi possível conectar com o servidor FTP em %1. Verifique se o nome do &quot;host&quot; está correto. </translation>
+        <translation>Não foi possível conectar com o servidor FTP em %1. Verifique se o nome do &quot;host&quot; está correto.</translation>
     </message>
     <message>
         <source>Logged onto %1.</source>
-        <translation>Logado em %1.</translation>
+        <translation>Conectado a %1.</translation>
     </message>
     <message>
         <source>Unable to go to folder %1</source>
-        <translation>Não foi possível acessar a pasta %1</translation>
+        <translation>Não foi possível ir para a pasta %1</translation>
     </message>
     <message>
         <source>Unable to connect to the FTP server at %1. Please check if the username and password is correct.</source>
-        <translation>Não foi possível conectar com o servidor FTP em %1. Verifique se o nome do usuário e a senha estão corretos. </translation>
+        <translation>Não foi possível conectar com o servidor FTP em %1. Verifique se o nome do usuário e a senha estão corretos.</translation>
     </message>
     <message>
         <source>Aborted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Interrompido.</translation>
     </message>
 </context>
 <context>
     <name>DlgGoXY</name>
     <message>
         <source>You can paste values as Xx, Yy</source>
-        <translation type="unfinished"></translation>
+        <translation>Você pode colar valores como Xx, Yy</translation>
     </message>
     <message>
         <source>Current zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom atual</translation>
     </message>
     <message>
         <source>Real size</source>
-        <translation type="unfinished">Tamanho real</translation>
+        <translation>Tamanho real</translation>
     </message>
     <message>
         <source>Pan to coordinates</source>
@@ -6580,15 +6631,15 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Label</source>
-        <translation>Etiqueta</translation>
+        <translation>Rótulo</translation>
     </message>
     <message>
         <source>Grids</source>
-        <translation>Malha</translation>
+        <translation>Grades</translation>
     </message>
     <message>
         <source>Defined grids</source>
-        <translation>Malhas definidas</translation>
+        <translation>Grades definidas</translation>
     </message>
     <message>
         <source>Save script</source>
@@ -6609,11 +6660,11 @@ Please make sure that files are not read-only!</source>
     <message>
         <source>Offset</source>
         <translatorcomment>Opção : Compensar</translatorcomment>
-        <translation>Offset</translation>
+        <translation>Deslocamento</translation>
     </message>
     <message>
         <source>Sub-divisions</source>
-        <translation>Sub-divisões</translation>
+        <translation>Subdivisões</translation>
     </message>
 </context>
 <context>
@@ -6631,7 +6682,7 @@ Please make sure that files are not read-only!</source>
     <name>DlgHotFolder</name>
     <message>
         <source>Hot folders</source>
-        <translation>Pastas quentes</translation>
+        <translation>Pastas em Destaque</translation>
     </message>
     <message>
         <source>Add folder...</source>
@@ -6639,34 +6690,34 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Remover</translation>
+        <translation>Excluir</translation>
     </message>
     <message>
         <source>Choose a directory</source>
-        <translation>Escolha uma pasta</translation>
+        <translation>Escolher um diretório</translation>
     </message>
     <message>
         <source>Recursive</source>
-        <translation type="unfinished">Recursivo</translation>
+        <translation>Recursivo</translation>
     </message>
     <message>
         <source>Pathname</source>
-        <translation type="unfinished">Caminho</translation>
+        <translation>Nome do caminho</translation>
     </message>
     <message>
         <source>Extensions</source>
-        <translation type="unfinished">Extensões</translation>
+        <translation>Extensões</translation>
     </message>
 </context>
 <context>
     <name>DlgImport</name>
     <message>
         <source>Import and sort</source>
-        <translation>Importar e ordenar</translation>
+        <translation>Importar e classificar</translation>
     </message>
     <message>
         <source>Source</source>
-        <translation>Fonte</translation>
+        <translation>Origem</translation>
     </message>
     <message>
         <source>Include subfolders</source>
@@ -6675,15 +6726,16 @@ Please make sure that files are not read-only!</source>
     <message>
         <source>Here the files will be transfered.
 Subfolders will be created. </source>
-        <translation>Os arquivos serão transferidos para cá. Sub-pastas serão criadas.</translation>
+        <translation>Os arquivos serão transferidos para cá.
+As subpastas serão criadas. </translation>
     </message>
     <message>
         <source>Destination</source>
-        <translation>Destino</translation>
+        <translation>Local de destino</translation>
     </message>
     <message>
         <source>Subfolder</source>
-        <translation>Sub-pasta</translation>
+        <translation>Subpasta</translation>
     </message>
     <message>
         <source>New filename</source>
@@ -6699,7 +6751,7 @@ Subfolders will be created. </source>
     </message>
     <message>
         <source>from</source>
-        <translation>a partir de</translation>
+        <translation>de</translation>
     </message>
     <message>
         <source>to</source>
@@ -6707,76 +6759,77 @@ Subfolders will be created. </source>
     </message>
     <message>
         <source>The &apos;Other Files&apos; folder if doesn&apos;t exist will be created as a subfolder of destination.</source>
-        <translation>Quando não existir, a pasta &apos;Outros arquivos&apos; será criada como uma sub-pasta da pasta destino. </translation>
+        <translation>A pasta &quot;Outros arquivos&quot;, se não existir, será criada como uma subpasta do destino.</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation type="unfinished">Importar</translation>
+        <translation>Importar</translation>
     </message>
     <message>
         <source>No files to import!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum arquivo para importar!</translation>
     </message>
     <message>
         <source>Files import finished!</source>
-        <translation type="unfinished"></translation>
+        <translation>Importação de arquivos concluída!</translation>
     </message>
     <message>
         <source>The source folder of the files to be transferred.
 The internal folder structure will be flattened. </source>
-        <translation type="unfinished"></translation>
+        <translation>Pasta de origem dos arquivos a serem transferidos.
+A estrutura interna da pasta será nivelada. </translation>
     </message>
     <message>
         <source>Photos</source>
-        <translation type="unfinished"></translation>
+        <translation>Fotos</translation>
     </message>
     <message>
         <source>Videos</source>
-        <translation type="unfinished">Vídeos</translation>
+        <translation>Vídeos</translation>
     </message>
     <message>
         <source>Rename like photos</source>
-        <translation type="unfinished"></translation>
+        <translation>Renomear como fotos</translation>
     </message>
     <message>
         <source>Extensions (; to separate)</source>
-        <translation type="unfinished"></translation>
+        <translation>Extensões (; para separar)</translation>
     </message>
     <message>
         <source>Write to embedded metadata (JPEG/TIFF/PNG)</source>
-        <translation type="unfinished"></translation>
+        <translation>Escrever para metadados embutidos (JPEG/TIFF/PNG)</translation>
     </message>
     <message>
         <source>Write to embedded metadata (JPEG/TIFF/PNG) and create XMP sidecar (others)</source>
-        <translation type="unfinished"></translation>
+        <translation>Gravar em metadados incorporados (JPEG/TIFF/PNG) e criação de sidecar XMP (outros)</translation>
     </message>
     <message>
         <source>Create XMP sidecar for all files</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar sidecar XMP para todos os arquivos</translation>
     </message>
     <message>
         <source>Transfer files with no EXIF to &apos;Other Files&apos; folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Transferir arquivos sem EXIF para a pasta &quot;Outros arquivos&quot;</translation>
     </message>
     <message>
         <source>Move files</source>
-        <translation type="unfinished"></translation>
+        <translation>Mover arquivos</translation>
     </message>
     <message>
         <source>IPTC Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo IPTC</translation>
     </message>
     <message>
         <source>Output folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasta de saída</translation>
     </message>
     <message>
         <source>Import can&apos;t be done, source and destination folder is the same!</source>
-        <translation type="unfinished"></translation>
+        <translation>A importação não pode ser feita, a pasta de origem e de destino são a mesma!</translation>
     </message>
     <message>
         <source>Sort by</source>
-        <translation type="unfinished">Ordenar por</translation>
+        <translation>Classificar por</translation>
     </message>
     <message>
         <source># enumerator per</source>
@@ -6787,11 +6840,11 @@ The internal folder structure will be flattened. </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>No action</source>
+        <source>Categories to assign (use ; to separate categories)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Categories to assign (use ; to separate categories)</source>
+        <source>No action</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6799,11 +6852,11 @@ The internal folder structure will be flattened. </source>
     <name>DlgImportThread</name>
     <message>
         <source>Abort</source>
-        <translation>Abortar</translation>
+        <translation>Interromper</translation>
     </message>
     <message>
         <source>Import and sort files...</source>
-        <translation>Importar e ordenar arquivos...</translation>
+        <translation>Importar e classificar arquivos...</translation>
     </message>
 </context>
 <context>
@@ -6818,7 +6871,7 @@ The internal folder structure will be flattened. </source>
     </message>
     <message>
         <source>5: Normal</source>
-        <translation>5 : Normal</translation>
+        <translation>5: Normal</translation>
     </message>
     <message>
         <source>8: Low</source>
@@ -6826,45 +6879,45 @@ The internal folder structure will be flattened. </source>
     </message>
     <message>
         <source>a: Morning</source>
-        <translation>a : Manhã</translation>
+        <translation>a: Manhã</translation>
     </message>
     <message>
         <source>b: Afternoon</source>
-        <translation>b : Tarde</translation>
+        <translation>b: Tarde</translation>
     </message>
     <message>
         <source>c: Evening</source>
-        <translation>c : Entardecer</translation>
+        <translation>c: Noite</translation>
     </message>
     <message>
         <source>File created date/time</source>
-        <translation>Data e horário de criação do arquivo</translation>
+        <translation>Data/hora de criação do arquivo</translation>
     </message>
     <message>
         <source>File modified date/time</source>
-        <translation>Data e horário de modificação do arquivo</translation>
+        <translation>Data/hora de modificação do arquivo</translation>
     </message>
     <message>
         <source>EXIF date/time taken (if exists)</source>
-        <translation>EXIF data e horário da fotografia (se houver)</translation>
+        <translation>Data/hora de captura EXIF (se existir)</translation>
     </message>
     <message>
         <source>EXIF date/time digitized (if exists)</source>
-        <translation>EXIF data e horário de digitalização (se houver)</translation>
+        <translation>Data/hora de digitalização EXIF (se existir)</translation>
     </message>
     <message>
         <source>EXIF date/time modified (if exists)</source>
-        <translation>EXIF data e horário de alteração (se houver)</translation>
+        <translation>Data/hora de modificação EXIF (se existir)</translation>
     </message>
     <message>
         <source>IPTC data has changed.
 Do you want to save your changes?</source>
-        <translation>Os dados IPTC foram alterados.(new line)
-Você gostaria de salvar as alterações?</translation>
+        <translation>Os dados IPTC foram alterados.
+Deseja salvar suas alterações?</translation>
     </message>
     <message>
         <source>IPTC has changed</source>
-        <translation>IPTC foi alterado</translation>
+        <translation>O IPTC foi alterado</translation>
     </message>
     <message>
         <source>Do you want to save your changes?</source>
@@ -6872,64 +6925,65 @@ Você gostaria de salvar as alterações?</translation>
     </message>
     <message>
         <source>Field values are not loaded because &apos;Do not load field values&apos; is checked</source>
-        <translation type="unfinished"></translation>
+        <translation>Os valores dos campos não foram carregados porque &quot;Não carregar valores de campo&quot; está marcado</translation>
     </message>
     <message>
         <source>Are you sure to overwrite IPTC/XMP data for ALL files with the current values of the fields?</source>
-        <translation type="unfinished"></translation>
+        <translation>Você tem certeza de que deseja sobrescrever dados IPTC/XMP para TODOS os arquivos com os valores atuais dos campos?</translation>
     </message>
     <message>
         <source>If you want to edit XMP metadata, please check the new &apos;Edit XMP&apos; dialog. </source>
-        <translation type="unfinished"></translation>
+        <translation>Se quiser editar metadados XMP, verifique a nova janela &quot;Editar XMP&quot;. </translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished">Inserir</translation>
+        <translation>Inserir</translation>
     </message>
     <message>
         <source>Insert from</source>
-        <translation type="unfinished">Inserir de</translation>
+        <translation>Inserir de</translation>
     </message>
     <message>
         <source>Copy into</source>
-        <translation type="unfinished">Copiar em</translation>
+        <translation>Copiar em</translation>
     </message>
     <message>
         <source>Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Biblioteca</translation>
     </message>
     <message>
         <source>Edit history...</source>
-        <translation type="unfinished">Editar histórico...</translation>
+        <translation>Editar histórico...</translation>
     </message>
     <message>
         <source>Sort alphabetically</source>
-        <translation type="unfinished">Ordem alfabética</translation>
+        <translation>Classificar por nome</translation>
     </message>
     <message>
         <source>Required field</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo obrigatório</translation>
     </message>
     <message>
         <source>Some fields are required, please fill them!</source>
-        <translation type="unfinished"></translation>
+        <translation>Preencha os campos obrigatórios!</translation>
     </message>
     <message>
         <source>An error has occurred during processing. 
 Please make sure that files are not read-only!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocorreu um erro durante o processamento.
+Certifique-se de que os arquivos não sejam somente de leitura!</translation>
     </message>
     <message>
         <source>Write &amp;to all files</source>
-        <translation type="unfinished"></translation>
+        <translation>Escrever &amp;para todos os arquivos</translation>
     </message>
     <message>
         <source>&amp;Write</source>
-        <translation type="unfinished">&amp;Gravar</translation>
+        <translation>&amp;Gravar</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Aplicar</translation>
     </message>
     <message>
         <source>Modifying files, please wait...</source>
@@ -6952,7 +7006,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Keywords</source>
-        <translation>Palavras-chave</translation>
+        <translation>Palavras-chaves</translation>
     </message>
     <message>
         <source>Categories</source>
@@ -6972,23 +7026,23 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Object cycle</source>
-        <translation>Ciclo de objeto</translation>
+        <translation>Ciclo do objeto</translation>
     </message>
     <message>
         <source>Date/Time</source>
-        <translation>Data e horário</translation>
+        <translation>Data/Hora</translation>
     </message>
     <message>
         <source>Created date/time</source>
-        <translation>Data e horário de criação</translation>
+        <translation>Data/hora de criação</translation>
     </message>
     <message>
         <source>Released date/time</source>
-        <translation>Data e horário de liberação</translation>
+        <translation>Data/hora do lançamento</translation>
     </message>
     <message>
         <source>Source</source>
-        <translation>Fonte</translation>
+        <translation>Origem</translation>
     </message>
     <message>
         <source>Country code</source>
@@ -7004,15 +7058,15 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Keep original value if new value is empty</source>
-        <translation>Manter os valores originais quando os novos valores estiverem vazios</translation>
+        <translation>Manter valor original se o novo valor estiver vazio</translation>
     </message>
     <message>
         <source>Replace only if original value is empty</source>
-        <translation>Substituir somente se o valor original estiver vazio</translation>
+        <translation>Substituir apenas se o valor original estiver vazio</translation>
     </message>
     <message>
         <source>Mode:</source>
-        <translation>Modo :</translation>
+        <translation>Modo:</translation>
     </message>
     <message>
         <source>XMP only</source>
@@ -7020,11 +7074,11 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>YYYYMMDD</source>
-        <translation>YYYYMMDD</translation>
+        <translation>DDMMYYYY</translation>
     </message>
     <message>
         <source>Keep and add new value (Keywords and supplemental categories)</source>
-        <translation>Manter e adicionar novo valor (Palavras-chave e categorias suplementares)</translation>
+        <translation>Manter e adicionar novo valor (Palavras-chave e categorias complementares)</translation>
     </message>
     <message>
         <source>Clear all fields</source>
@@ -7032,15 +7086,15 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>IPTC-IIM only</source>
-        <translation>Somente IPTC-IIM</translation>
+        <translation>Apenas IPTC-IIM</translation>
     </message>
     <message>
         <source>IPTC-IIM, update or create XMP</source>
-        <translation>IIPTC-IIM, atualizar ou criar XMP</translation>
+        <translation>IPTC-IIM, atualizar ou criar XMP</translation>
     </message>
     <message>
         <source>XMP, update or create IPTC-IIM</source>
-        <translation>XMP, atualizar ou criar IPTC-IIM</translation>
+        <translation>XMP, atualizar ou criar o IPTC-IIM</translation>
     </message>
     <message>
         <source>History</source>
@@ -7052,7 +7106,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Text file</source>
-        <translation>Arquivo texto</translation>
+        <translation>Arquivo de texto</translation>
     </message>
     <message>
         <source>...</source>
@@ -7064,31 +7118,31 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Load template V1...</source>
-        <translation>Carregar modelos V1...</translation>
+        <translation>Carregar modelo V1...</translation>
     </message>
     <message>
         <source>Ctrl+Left</source>
-        <translation>Ctrl+Left</translation>
+        <translation>Ctrl+Esquerda</translation>
     </message>
     <message>
         <source>Ctrl+Right</source>
-        <translation>Ctrl+Right</translation>
+        <translation>Ctrl+Direita</translation>
     </message>
     <message>
         <source>Use parent keywords</source>
-        <translation type="unfinished"></translation>
+        <translation>Usar palavras-chave pai</translation>
     </message>
     <message>
         <source>Edit IPTC-IIM</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Don&apos;t load field values</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar IPTC-IIM</translation>
     </message>
     <message>
         <source>Remember opened tab</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t load field values</source>
+        <translation type="unfinished">Não carregar valores de campo</translation>
     </message>
 </context>
 <context>
@@ -7102,34 +7156,34 @@ Please make sure that files are not read-only!</source>
     <name>DlgIptcTemplate</name>
     <message>
         <source>Choose template file</source>
-        <translation type="unfinished">Escolher modelo de arquivo</translation>
+        <translation>Escolher arquivo modelo</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished">Nome :</translation>
+        <translation>Nome:</translation>
     </message>
     <message>
         <source>IPTC file</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo IPTC</translation>
     </message>
     <message>
         <source>XMP file</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo XMP</translation>
     </message>
     <message>
         <source>Merge data</source>
-        <translation type="unfinished"></translation>
+        <translation>Mesclar dados</translation>
     </message>
 </context>
 <context>
     <name>DlgKeywordProperties</name>
     <message>
         <source>Label</source>
-        <translation>Etiqueta</translation>
+        <translation>Rótulo</translation>
     </message>
     <message>
         <source>Parent</source>
-        <translation>Anterior</translation>
+        <translation>Pai</translation>
     </message>
     <message>
         <source>Description</source>
@@ -7145,29 +7199,29 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Parent category</source>
-        <translation>Categoria anterior</translation>
+        <translation>Categoria pai</translation>
     </message>
     <message>
         <source>This parent is already a child of current category!</source>
-        <translation>Esse antecessor já é um derivado da categoria atual!</translation>
+        <translation>Este pai já é um filho da categoria atual!</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished">Propriedades</translation>
+        <translation>Propriedades</translation>
     </message>
 </context>
 <context>
     <name>DlgKeywordTree</name>
     <message>
         <source>Select new parent</source>
-        <translation>Selecionar novo antecessor</translation>
+        <translation>Selecione o novo pai</translation>
     </message>
 </context>
 <context>
     <name>DlgLayoutClass</name>
     <message>
         <source>Change layout...</source>
-        <translation>Mudar layout...</translation>
+        <translation>Alterar layout...</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -7213,58 +7267,58 @@ Please make sure that files are not read-only!</source>
     <name>DlgMessage</name>
     <message>
         <source>Don&apos;t ask again</source>
-        <translation type="unfinished"></translation>
+        <translation>Não perguntar novamente</translation>
     </message>
     <message>
         <source>Don&apos;t show again</source>
-        <translation type="unfinished"></translation>
+        <translation>Não mostrar novamente</translation>
     </message>
     <message>
         <source>Catalog</source>
-        <translation type="unfinished">Catálogo</translation>
+        <translation>Catálogo</translation>
     </message>
     <message>
         <source>Catalog Thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Miniaturas do Catálogo</translation>
     </message>
 </context>
 <context>
     <name>DlgNew</name>
     <message>
         <source>Create image</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar imagem</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation type="unfinished">Altura</translation>
+        <translation>Altura</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished">Largura</translation>
+        <translation>Largura</translation>
     </message>
     <message>
         <source>DPI</source>
-        <translation type="unfinished">DPI</translation>
+        <translation>DPI</translation>
     </message>
     <message>
         <source>Greyscale</source>
-        <translation type="unfinished">Tons de cinza</translation>
+        <translation>Tons de cinza</translation>
     </message>
     <message>
         <source>256 Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>256 Cores</translation>
     </message>
     <message>
         <source>RGB</source>
-        <translation type="unfinished">RGB</translation>
+        <translation>RGB</translation>
     </message>
     <message>
         <source>Mode</source>
-        <translation type="unfinished">Modo</translation>
+        <translation>Modo</translation>
     </message>
     <message>
         <source>Background color</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor de fundo</translation>
     </message>
 </context>
 <context>
@@ -7279,15 +7333,15 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Select all</source>
-        <translation>Selecionar tudo</translation>
+        <translation>Selecionar todos</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Remover</translation>
+        <translation>Excluir</translation>
     </message>
     <message>
         <source>Arguments</source>
-        <translation type="unfinished"></translation>
+        <translation>Argumentos</translation>
     </message>
     <message>
         <source>Configure programs</source>
@@ -7302,54 +7356,54 @@ Please make sure that files are not read-only!</source>
     <name>DlgPalette</name>
     <message>
         <source>Edit Palette</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar paleta</translation>
     </message>
     <message>
         <source>Transparency</source>
-        <translation type="unfinished"></translation>
+        <translation>Transparência</translation>
     </message>
     <message>
         <source>Load...</source>
-        <translation type="unfinished">Carregar...</translation>
+        <translation>Carregar...</translation>
     </message>
     <message>
         <source>Save...</source>
-        <translation type="unfinished">Salvar...</translation>
+        <translation>Salvar...</translation>
     </message>
     <message>
         <source>Index: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Índice: %1</translation>
     </message>
     <message>
         <source>RGB: %1 %2 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB: %1 %2 %3</translation>
     </message>
     <message>
         <source>Choose Palette file</source>
-        <translation type="unfinished"></translation>
+        <translation>Escolha o arquivo Paleta</translation>
     </message>
     <message>
         <source>Set</source>
-        <translation type="unfinished"></translation>
+        <translation>Definir</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Limpar</translation>
+        <translation>Limpar</translation>
     </message>
 </context>
 <context>
     <name>DlgPicasa</name>
     <message>
         <source>Abort</source>
-        <translation>Abortar</translation>
+        <translation>Interromper</translation>
     </message>
     <message>
         <source>Updating album list from Picasa</source>
-        <translation>Atualizando a lista de álbuns do Picasa</translation>
+        <translation>Atualizando lista de álbuns do Picasa</translation>
     </message>
     <message>
         <source>Uploading image(s) to Picasa album</source>
-        <translation>Enviando imagem (ens) para álbum Picasa</translation>
+        <translation>Enviando imagem(s) para o álbum Picasa</translation>
     </message>
     <message>
         <source>Problem</source>
@@ -7357,59 +7411,59 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>An error occurred in uploading process!</source>
-        <translation>Aconteceu um erro durante o processo de envio!</translation>
+        <translation>Ocorreu um erro no envio do processo!</translation>
     </message>
     <message>
         <source>An error occurred, please check your login data!</source>
-        <translation>Aconteceu um erro. Verifique seus dados de login!</translation>
+        <translation>Ocorreu um erro, verifique seus dados de login!</translation>
     </message>
 </context>
 <context>
     <name>DlgPicasaSettings</name>
     <message>
         <source>Picasa settings</source>
-        <translation>Configurar Picasa</translation>
+        <translation>Configurações do Picasa</translation>
     </message>
     <message>
         <source>User email:</source>
-        <translation>Email do usuário:</translation>
+        <translation>E-mail:</translation>
     </message>
     <message>
         <source>User password:</source>
-        <translation>Senha do usuário:</translation>
+        <translation>Senha:</translation>
     </message>
 </context>
 <context>
     <name>DlgPlugins</name>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">Abortar</translation>
+        <translation>Interromper</translation>
     </message>
 </context>
 <context>
     <name>DlgPluginsClass</name>
     <message>
         <source>AddOns &amp; Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Addons e Plugins</translation>
     </message>
     <message>
         <source>AddOns</source>
-        <translation type="unfinished"></translation>
+        <translation>Addons</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished">Descrição</translation>
+        <translation>Descrição</translation>
     </message>
     <message>
         <source>Plugins</source>
-        <translation type="unfinished">Extensões</translation>
+        <translation>Plugins</translation>
     </message>
 </context>
 <context>
     <name>DlgPresetsManageClass</name>
     <message>
         <source>Edit presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar predefinições</translation>
     </message>
 </context>
 <context>
@@ -7424,19 +7478,19 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Page layout</source>
-        <translation>Layout de página</translation>
+        <translation>Layout da página</translation>
     </message>
     <message>
         <source>Single - Best fit to page</source>
-        <translation>Único - Melhor ajuste para a página</translation>
+        <translation>Único - Melhor ajuste à página</translation>
     </message>
     <message>
         <source>Single - Stretch to page</source>
-        <translation>Único - Esticar para se ajustar à página</translation>
+        <translation>Único - Esticar para a página</translation>
     </message>
     <message>
         <source>Single - Crop to page</source>
-        <translation>Único - Cortar para se ajustar à página</translation>
+        <translation>Único - Cortar para a página</translation>
     </message>
     <message>
         <source>Single - DPI</source>
@@ -7444,7 +7498,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Single - Custom</source>
-        <translation>Único - Ajuste pessoal</translation>
+        <translation>Único - Personalizado</translation>
     </message>
     <message>
         <source>Thumbnails</source>
@@ -7452,7 +7506,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Presets</source>
-        <translation>Definições prévias</translation>
+        <translation>Predefinições</translation>
     </message>
     <message>
         <source>Width</source>
@@ -7464,7 +7518,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Maintain aspect ratio</source>
-        <translation>Manter o aspecto original</translation>
+        <translation>Manter proporção da tela</translation>
     </message>
     <message>
         <source>Y scale</source>
@@ -7536,7 +7590,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Crop to size</source>
-        <translation>Cortar para o tamanho</translation>
+        <translation>Cortar para tamanho</translation>
     </message>
     <message>
         <source>Print count</source>
@@ -7572,19 +7626,19 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation>Margem superior esquerda</translation>
+        <translation>Superior à esquerda</translation>
     </message>
     <message>
         <source>Top-Center</source>
-        <translation>Centro da borda superior</translation>
+        <translation>Superior ao centro</translation>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation>Margem superior direita</translation>
+        <translation>Superior à direita</translation>
     </message>
     <message>
         <source>Center-Left</source>
-        <translation>Centro da borda esquerda</translation>
+        <translation>Centro à esquerda</translation>
     </message>
     <message>
         <source>Center</source>
@@ -7592,19 +7646,19 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Center-Right</source>
-        <translation>Centro da borda direita</translation>
+        <translation>Centro à direita</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation>Borda inferior esquerda</translation>
+        <translation>Inferior à esquerda</translation>
     </message>
     <message>
         <source>Bottom-Center</source>
-        <translation>Centro da borda inferior</translation>
+        <translation>Centro inferior</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation>Borda inferior direita</translation>
+        <translation>Inferior à direita</translation>
     </message>
     <message>
         <source>Units</source>
@@ -7616,7 +7670,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>inch</source>
-        <translation>polegadas</translation>
+        <translation>polegada</translation>
     </message>
     <message>
         <source>Caption</source>
@@ -7660,11 +7714,11 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Multi-page files</source>
-        <translation>Arquivos com múltiplas páginas</translation>
+        <translation>Arquivos de várias páginas</translation>
     </message>
     <message>
         <source>Insert all Pages/Images of multi-page source images</source>
-        <translation>Inserir todasas páginas ou imagens da fonte de imagens de múltiplas páginas</translation>
+        <translation>Inserir todas as Páginas/Imagens de imagens de origem de várias páginas</translation>
     </message>
     <message>
         <source>Pages</source>
@@ -7676,7 +7730,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation>Previsão</translation>
+        <translation>Pré-Visualização</translation>
     </message>
     <message>
         <source>...</source>
@@ -7692,7 +7746,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Page size: %1x%2 inches, %3x%4 mm</source>
-        <translation>Tamanho de página: %1x%2 polegadas, %3x%4 mm</translation>
+        <translation>Tamanho da página: %1x%2 polegadas, %3x%4 mm</translation>
     </message>
     <message>
         <source>Page number</source>
@@ -7700,7 +7754,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Page count</source>
-        <translation>Contagem de páginas</translation>
+        <translation>Número de páginas</translation>
     </message>
     <message>
         <source>Current date</source>
@@ -7708,7 +7762,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Print as grayscale</source>
-        <translation>Imprimir em tons de cinza</translation>
+        <translation>Imprimir como escala de cinza</translation>
     </message>
     <message>
         <source>Collection</source>
@@ -7723,11 +7777,11 @@ Please make sure that files are not read-only!</source>
     <name>DlgProcess</name>
     <message>
         <source>&lt;Last Used&gt;</source>
-        <translation>&lt;Último usado&gt;</translation>
+        <translation>&lt;Último Usado&gt;</translation>
     </message>
     <message>
         <source>&lt;Default&gt;</source>
-        <translation>Padrão</translation>
+        <translation>&lt;Padrão&gt;</translation>
     </message>
     <message>
         <source>Zoom out</source>
@@ -7739,26 +7793,26 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Zoom 100%</source>
-        <translation>Zoom para 100%</translation>
+        <translation>Zoom 100%</translation>
     </message>
     <message>
         <source>Best fit</source>
-        <translation>Melhor tamanho</translation>
+        <translation>Melhor ajuste</translation>
     </message>
 </context>
 <context>
     <name>DlgProcessClass</name>
     <message>
         <source>Presets:</source>
-        <translation>Padrões:</translation>
+        <translation>Predefinições:</translation>
     </message>
     <message>
         <source>Save preset</source>
-        <translation>Salvar padrão</translation>
+        <translation>Salvar predefinição</translation>
     </message>
     <message>
         <source>Remove preset</source>
-        <translation>Remover padrão</translation>
+        <translation>Excluir predefinição</translation>
     </message>
     <message>
         <source>Apply to image</source>
@@ -7766,22 +7820,22 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation>Previsão</translation>
+        <translation>Pré-Visualização</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished">Desfazer</translation>
+        <translation>Desfazer</translation>
     </message>
 </context>
 <context>
     <name>DlgReadCRaw</name>
     <message>
         <source>Embedded preview</source>
-        <translation>Previsão embutida</translation>
+        <translation>Pré-visualização incorporada</translation>
     </message>
     <message>
         <source>Half size</source>
@@ -7789,15 +7843,15 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Full size</source>
-        <translation>Tamanho inteiro</translation>
+        <translation>Tamanho total</translation>
     </message>
     <message>
         <source>Use Automatic white balance</source>
-        <translation>Usar balanço de branco automático</translation>
+        <translation>Usar Balanço de branco automático</translation>
     </message>
     <message>
         <source>Use Camera white balance</source>
-        <translation>Usar balanço de branco da câmera</translation>
+        <translation>Usar balanço branco da câmera</translation>
     </message>
     <message>
         <source>Automatic brightness</source>
@@ -7805,11 +7859,11 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Use Embedded color matrix</source>
-        <translation type="unfinished"></translation>
+        <translation>Usar matriz de cores embutida</translation>
     </message>
     <message>
         <source>Convert to sRGB</source>
-        <translation type="unfinished"></translation>
+        <translation>Converter para sRGB</translation>
     </message>
     <message>
         <source>View</source>
@@ -7828,27 +7882,27 @@ Please make sure that files are not read-only!</source>
     <name>DlgReadFITS</name>
     <message>
         <source>FITS Display</source>
-        <translation type="unfinished"></translation>
+        <translation>Exibição FITS</translation>
     </message>
     <message>
         <source>Min/Max</source>
-        <translation type="unfinished"></translation>
+        <translation>Mín/Max</translation>
     </message>
     <message>
         <source>Linear</source>
-        <translation type="unfinished"></translation>
+        <translation>Linear</translation>
     </message>
     <message>
         <source>Logarithm</source>
-        <translation type="unfinished"></translation>
+        <translation>Logaritmo</translation>
     </message>
     <message>
         <source>Squared root</source>
-        <translation type="unfinished"></translation>
+        <translation>Raiz quadrada</translation>
     </message>
     <message>
         <source>Square</source>
-        <translation type="unfinished">Quadrado</translation>
+        <translation>Quadrado</translation>
     </message>
 </context>
 <context>
@@ -7915,11 +7969,11 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Ledger</source>
-        <translation>&quot;Ledger&quot;</translation>
+        <translation>Ledger</translation>
     </message>
     <message>
         <source>Legal</source>
-        <translation>&quot;Legal&quot;</translation>
+        <translation>Ofício</translation>
     </message>
     <message>
         <source>Letter</source>
@@ -7927,7 +7981,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Note</source>
-        <translation>Nota</translation>
+        <translation>Observação</translation>
     </message>
     <message>
         <source>Use CIE color</source>
@@ -7938,7 +7992,7 @@ Please make sure that files are not read-only!</source>
     <name>DlgReadPSD</name>
     <message>
         <source>Fix alpha channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Corrigir canal alfa</translation>
     </message>
 </context>
 <context>
@@ -7961,27 +8015,27 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Header size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho do cabeçalho</translation>
     </message>
     <message>
         <source>Interleaved</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrelaçado</translation>
     </message>
     <message>
         <source>Byte order</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordem de bytes</translation>
     </message>
     <message>
         <source>LSBF</source>
-        <translation type="unfinished"></translation>
+        <translation>LSBF</translation>
     </message>
     <message>
         <source>MSBF</source>
-        <translation type="unfinished"></translation>
+        <translation>MSBF</translation>
     </message>
     <message>
         <source>Greyscale</source>
-        <translation type="unfinished">Tons de cinza</translation>
+        <translation>Tons de cinza</translation>
     </message>
 </context>
 <context>
@@ -7995,22 +8049,22 @@ Please make sure that files are not read-only!</source>
     <name>DlgReadWriteSettings</name>
     <message>
         <source>Format settings</source>
-        <translation>Configurações do formato</translation>
+        <translation>Configurações de formato</translation>
     </message>
     <message>
         <source>Read</source>
-        <translation>Ler</translation>
+        <translation>Leitura</translation>
     </message>
     <message>
         <source>Write</source>
-        <translation>Salvar</translation>
+        <translation>Escrita</translation>
     </message>
 </context>
 <context>
     <name>DlgRegistration</name>
     <message>
         <source>Registration</source>
-        <translation>Registro</translation>
+        <translation>Cadastro</translation>
     </message>
     <message>
         <source>Code:</source>
@@ -8028,7 +8082,9 @@ Please make sure that files are not read-only!</source>
         <source>Registration successful.
 
 Thank you for purchasing %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Registro concluído com sucesso.
+
+Agradecemos por adquirir o %1.</translation>
     </message>
     <message>
         <source>Person/Company name:</source>
@@ -8039,7 +8095,7 @@ Thank you for purchasing %1.</source>
     <name>DlgRemoveBg</name>
     <message>
         <source>Background remover</source>
-        <translation type="unfinished"></translation>
+        <translation>Removedor de fundo</translation>
     </message>
     <message>
         <source>Please install it by using Tools › Plugins</source>
@@ -8054,11 +8110,11 @@ Thank you for purchasing %1.</source>
     </message>
     <message>
         <source>Do you want to delete all your name templates?</source>
-        <translation type="unfinished"></translation>
+        <translation>Você deseja excluir todos os seus modelos de nomes?</translation>
     </message>
     <message>
         <source>Companion renaming</source>
-        <translation type="unfinished"></translation>
+        <translation>Renomeando complementarmente</translation>
     </message>
     <message>
         <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. 
@@ -8071,7 +8127,7 @@ Do you want to remove them?</source>
     <name>DlgRenameClass</name>
     <message>
         <source>Batch rename</source>
-        <translation></translation>
+        <translation>Renomear lote</translation>
     </message>
     <message>
         <source>Name template</source>
@@ -8079,11 +8135,11 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Start</source>
-        <translation>Iniciar</translation>
+        <translation>Início</translation>
     </message>
     <message>
         <source>Step</source>
-        <translation>Passo</translation>
+        <translation>Etapa</translation>
     </message>
     <message>
         <source>Duplicate...</source>
@@ -8091,7 +8147,7 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Create new name template when opening dialog</source>
-        <translation>Criar novo nome de modelo quando abrir diálogo</translation>
+        <translation>Criar novo modelo de nome ao abrir a janela de diálogo</translation>
     </message>
     <message>
         <source>Extension</source>
@@ -8099,15 +8155,15 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Case</source>
-        <translation>Maiúscula / Minúscula</translation>
+        <translation>Maiúsculas/Minúsculas</translation>
     </message>
     <message>
         <source>Name &amp; extension lowercase</source>
-        <translation>Nome &amp; Extensão em minúsculas</translation>
+        <translation>Nome e extensão em minúsculas</translation>
     </message>
     <message>
         <source>Name &amp; extension uppercase</source>
-        <translation>Nome &amp; Extensão em maiúsculas</translation>
+        <translation>Nome e extensão em maiúsculas</translation>
     </message>
     <message>
         <source>Name lowercase</source>
@@ -8119,11 +8175,11 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Extension lowercase</source>
-        <translation>Extensão em letras minúsculas</translation>
+        <translation>Extensão em minúscula</translation>
     </message>
     <message>
         <source>Extension uppercase</source>
-        <translation>Extensão em letras maiúsculas</translation>
+        <translation>Extensão com letras maiúsculas</translation>
     </message>
     <message>
         <source>First letters uppercase</source>
@@ -8139,11 +8195,11 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Case sensitive</source>
-        <translation>Sensível a maiúscula / minúscula</translation>
+        <translation>Sensível a maiúsculas/minúsculas</translation>
     </message>
     <message>
         <source>Double click on a filename to create a new name template</source>
-        <translation>Clique duplo sobre um nome de arquivo para criar um novo nome de modelo</translation>
+        <translation>Clique duas vezes em um nome de arquivo para criar um novo modelo de nome</translation>
     </message>
     <message>
         <source>Old name</source>
@@ -8155,7 +8211,7 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Directory</source>
-        <translation>Pasta</translation>
+        <translation>Diretório</translation>
     </message>
     <message>
         <source>...</source>
@@ -8167,26 +8223,26 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Use Regular Expression</source>
-        <translation>Usar expressão regular</translation>
+        <translation>Usar Expressão Regular</translation>
     </message>
     <message>
         <source>Exclude extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Excluir extensão</translation>
     </message>
     <message>
         <source>Ignore extension for # enumerator</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorar extensão para o enumerador #</translation>
     </message>
     <message>
         <source>Clean diacritic characters</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpar caracteres diacríticos</translation>
     </message>
 </context>
 <context>
     <name>DlgRenameDupClass</name>
     <message>
         <source>Duplicate name</source>
-        <translation>Duplicar nome</translation>
+        <translation>Nome duplicado</translation>
     </message>
     <message>
         <source>Suffix</source>
@@ -8202,11 +8258,11 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Only if needed</source>
-        <translation>Apenas se for necessário</translation>
+        <translation>Somente se necessário</translation>
     </message>
     <message>
         <source>Replace &apos;#&apos; with</source>
-        <translation>Substituir por &quot;#&quot;</translation>
+        <translation>Substituir &apos;#&apos; por</translation>
     </message>
     <message>
         <source>Number</source>
@@ -8214,7 +8270,7 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Character</source>
-        <translation>Caracter</translation>
+        <translation>Caractere</translation>
     </message>
 </context>
 <context>
@@ -8225,15 +8281,15 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Insert Date/Time&gt;&gt;</source>
-        <translation>Inserir Data/Hora&gt;&gt;</translation>
+        <translation>Inserir data/hora&gt;&gt;</translation>
     </message>
     <message>
         <source>File rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Renomear arquivo</translation>
     </message>
     <message>
         <source>Extension:</source>
-        <translation type="unfinished"></translation>
+        <translation>Extensão:</translation>
     </message>
 </context>
 <context>
@@ -8244,15 +8300,15 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>&lt;Default&gt;</source>
-        <translation>Padrão</translation>
+        <translation>&lt;Padrão&gt;</translation>
     </message>
     <message>
         <source>Result image size: %1x%2 - %3 Mpixels</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho da imagem resultante: %1x%2 - %3 Mpixels</translation>
     </message>
     <message>
         <source>Canvas resize</source>
-        <translation type="unfinished">Redimensionar canvas</translation>
+        <translation>Redimensionar tela</translation>
     </message>
 </context>
 <context>
@@ -8263,15 +8319,15 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Presets:</source>
-        <translation>Padrões:</translation>
+        <translation>Predefinições:</translation>
     </message>
     <message>
         <source>Remove preset</source>
-        <translation>Remover padrão</translation>
+        <translation>Excluir predefinição</translation>
     </message>
     <message>
         <source>Resample</source>
-        <translation>Refazer amostra</translation>
+        <translation>Reamostrar</translation>
     </message>
     <message>
         <source>Width</source>
@@ -8279,7 +8335,7 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>percent</source>
-        <translation>Percentual</translation>
+        <translation>percentual</translation>
     </message>
     <message>
         <source>Height</source>
@@ -8295,15 +8351,15 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Bilinear</source>
-        <translation>Bi linear</translation>
+        <translation>Bilinear</translation>
     </message>
     <message>
         <source>Keep ratio</source>
-        <translation>Manter taxa</translation>
+        <translation>Manter proporção</translation>
     </message>
     <message>
         <source>Print size</source>
-        <translation>Tamanho do impresso</translation>
+        <translation>Tamanho de impressão</translation>
     </message>
     <message>
         <source>inches</source>
@@ -8319,7 +8375,7 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>dots</source>
-        <translation>dots (pontos)</translation>
+        <translation>pontos</translation>
     </message>
     <message>
         <source>Resolution</source>
@@ -8351,51 +8407,51 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Save current settings as new preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvar as configurações atuais como nova predefinição</translation>
     </message>
     <message>
         <source>Mode</source>
-        <translation type="unfinished">Modo</translation>
+        <translation>Modo</translation>
     </message>
     <message>
         <source>Size (pixels)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho (pixels)</translation>
     </message>
     <message>
         <source>Size (%)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho (%)</translation>
     </message>
     <message>
         <source>Longest side</source>
-        <translation type="unfinished">Lado mais comprido</translation>
+        <translation>Lado maior</translation>
     </message>
     <message>
         <source>Shortest side</source>
-        <translation type="unfinished">Lado mais curto</translation>
+        <translation>Lado mais curto</translation>
     </message>
     <message>
         <source>Mpixels</source>
-        <translation type="unfinished">Mpixels</translation>
+        <translation>Mpixels</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Tamanho</translation>
+        <translation>Tamanho</translation>
     </message>
     <message>
         <source>%</source>
-        <translation type="unfinished">%</translation>
+        <translation>%</translation>
     </message>
     <message>
         <source>Image size</source>
-        <translation type="unfinished">Tamanho da imagem</translation>
+        <translation>Tamanho da imagem</translation>
     </message>
     <message>
         <source>Sharpen</source>
-        <translation type="unfinished">Nitidez</translation>
+        <translation>Nitidez</translation>
     </message>
     <message>
         <source>Load &apos;Default values&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Carregar &quot;valores padrão&quot;</translation>
     </message>
     <message>
         <source>Top-Left</source>
@@ -8403,7 +8459,7 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Top-Center</source>
-        <translation type="unfinished">Centro da borda superior</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Top-Right</source>
@@ -8411,23 +8467,23 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Center-Left</source>
-        <translation type="unfinished">Centro da borda esquerda</translation>
+        <translation type="unfinished">Centro à esquerda</translation>
     </message>
     <message>
         <source>Center-Right</source>
-        <translation type="unfinished">Centro da borda direita</translation>
+        <translation type="unfinished">Centro à direita</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inferior à esquerda</translation>
     </message>
     <message>
         <source>Bottom-Center</source>
-        <translation type="unfinished">Centro da borda inferior</translation>
+        <translation type="unfinished">Centro inferior</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inferior à direita</translation>
     </message>
 </context>
 <context>
@@ -8450,7 +8506,7 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Show grid</source>
-        <translation>Mostrar malha</translation>
+        <translation>Mostrar grade</translation>
     </message>
     <message>
         <source>Apply to image</source>
@@ -8458,26 +8514,26 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Use anti-aliasing</source>
-        <translation type="unfinished">Usar antisserrilhado</translation>
+        <translation>Usar anti-aliasing</translation>
     </message>
 </context>
 <context>
     <name>DlgSearch</name>
     <message>
         <source>Files found (%1):</source>
-        <translation type="unfinished">Arquivos encontrados (%1):</translation>
+        <translation>Arquivos encontrados (%1):</translation>
     </message>
     <message>
         <source>Searching...</source>
-        <translation type="unfinished">Procurando...</translation>
+        <translation>Pesquisando...</translation>
     </message>
     <message>
         <source>Finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>Finalizado.</translation>
     </message>
     <message>
         <source>Finished: %1 file(s) found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Concluído: %1 arquivo(s) encontrado(s).</translation>
     </message>
     <message>
         <source>Preset</source>
@@ -8496,7 +8552,7 @@ Do you want to remove them?</source>
     <name>DlgSearchClass</name>
     <message>
         <source>Search</source>
-        <translation>Procurar</translation>
+        <translation>Pesquisar</translation>
     </message>
     <message>
         <source>Add &gt;&gt;</source>
@@ -8504,7 +8560,7 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Clear all</source>
-        <translation>Limpar todos</translation>
+        <translation>Limpar tudo</translation>
     </message>
     <message>
         <source>Conditions</source>
@@ -8512,46 +8568,54 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Save this request</source>
-        <translation>Gravar essa requisição</translation>
+        <translation>Salvar esta solicitação</translation>
     </message>
     <message>
         <source>Save current search</source>
-        <translation>Gravar a pesquisa atual</translation>
+        <translation>Salvar a pesquisa atual</translation>
     </message>
     <message>
         <source>Delete current search</source>
-        <translation>Apagar a pesquisa atual</translation>
+        <translation>Excluir pesquisa atual</translation>
     </message>
     <message>
         <source>Current pathname:</source>
-        <translation type="unfinished">Nome do caminho atual:</translation>
+        <translation>Caminho atual:</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Fechar</translation>
+        <translation>Fechar</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">Abortar</translation>
+        <translation>Interromper</translation>
     </message>
     <message>
         <source>Match</source>
-        <translation type="unfinished">Equivalente</translation>
+        <translation>Corresponder</translation>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Tudo</translation>
     </message>
     <message>
         <source>Any</source>
-        <translation type="unfinished">Qualquer</translation>
+        <translation>Qualquer</translation>
     </message>
     <message>
         <source>Presets: </source>
-        <translation type="unfinished"></translation>
+        <translation>Predefinições: </translation>
     </message>
     <message>
         <source>&amp;Filename</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>F&amp;older</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search in subfolders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8559,7 +8623,11 @@ Do you want to remove them?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>F&amp;older</source>
+        <source>Search in folder names</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search in Catalog only</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8578,18 +8646,6 @@ Do you want to remove them?</source>
         <source>&amp;Browse...</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Search in Catalog only</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Search in subfolders</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Search in folder names</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>DlgSearchProgress</name>
@@ -8599,45 +8655,45 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Searching...</source>
-        <translation>Procurando...</translation>
+        <translation>Pesquisando...</translation>
     </message>
     <message>
         <source>Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation>Procurar…</translation>
     </message>
     <message>
         <source>Finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>Finalizado.</translation>
     </message>
     <message>
         <source>Finished: %1 file(s) found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Concluído: %1 arquivo(s) encontrado(s).</translation>
     </message>
 </context>
 <context>
     <name>DlgSearchProgressClass</name>
     <message>
         <source>Searching</source>
-        <translation>Procurando</translation>
+        <translation>Pesquisando</translation>
     </message>
     <message>
         <source>Current pathname:</source>
-        <translation>Nome do caminho atual:</translation>
+        <translation>Caminho atual:</translation>
     </message>
 </context>
 <context>
     <name>DlgSetDpi</name>
     <message>
         <source>Print size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho da impressão:</translation>
     </message>
     <message>
         <source>Change EXIF DPI if exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Alterar EXIF DPI se existir</translation>
     </message>
     <message>
         <source>Set DPI</source>
-        <translation type="unfinished">Configurar DPI</translation>
+        <translation>Definir DPI</translation>
     </message>
 </context>
 <context>
@@ -8683,11 +8739,11 @@ Do you want to remove them?</source>
         <translation>Catálogo</translation>
     </message>
     <message>
-        <source>Restart now</source>
+        <source>The changes will be applied after restarting the application.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The changes will be applied after restarting the application.</source>
+        <source>Restart now</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8699,15 +8755,15 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Use tooltips</source>
-        <translation>Usar ferramenta de dicas</translation>
+        <translation>Usar dicas</translation>
     </message>
     <message>
         <source>Preview background color</source>
-        <translation>Previsão de cor do fundo</translation>
+        <translation>Pré-visualizar cor de fundo</translation>
     </message>
     <message>
         <source>Tag</source>
-        <translation>Marcação</translation>
+        <translation>Etiqueta</translation>
     </message>
     <message>
         <source>After an operation</source>
@@ -8715,11 +8771,11 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>After folder change</source>
-        <translation>Após mudança de pasta</translation>
+        <translation>Após a alteração da pasta</translation>
     </message>
     <message>
         <source>On exit</source>
-        <translation>Na saída</translation>
+        <translation>Ao sair</translation>
     </message>
     <message>
         <source>Never</source>
@@ -8727,7 +8783,7 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Misc.</source>
-        <translation>Miscelânea.</translation>
+        <translation>Diversos</translation>
     </message>
     <message>
         <source>Rotation</source>
@@ -8735,7 +8791,7 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Change EXIF orientation ONLY (if possible)</source>
-        <translation>Mudar somente a orientação EXIF (se possível)</translation>
+        <translation>Alterar SOMENTE a orientação do EXIF (se possível)</translation>
     </message>
     <message>
         <source>Use lossless rotation (if possible)</source>
@@ -8747,75 +8803,75 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>View scroll the content by thumbnail</source>
-        <translation>Ver e rolar o conteúdo por miniaturas</translation>
+        <translation>Visualizar a rolagem do conteúdo na miniatura</translation>
     </message>
     <message>
         <source>Show ratings</source>
-        <translation>Mostrar avaliações</translation>
+        <translation>Exibir avaliações</translation>
     </message>
     <message>
         <source>Clear the list of tagged files</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpar a lista de arquivos marcados</translation>
     </message>
     <message>
         <source>ToolBar</source>
-        <translation type="unfinished">Barra de ferramentas</translation>
+        <translation>Barra de Ferramentas</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">Filtro</translation>
+        <translation>Filtro</translation>
     </message>
     <message>
         <source>Sort</source>
-        <translation type="unfinished"></translation>
+        <translation>Classificar</translation>
     </message>
     <message>
         <source>Thumbnails + Details</source>
-        <translation type="unfinished">Miniaturas + Detalhes</translation>
+        <translation>Miniaturas + Detalhes</translation>
     </message>
     <message>
         <source>Thumbnails + Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Miniaturas + Nome dos Arquivos</translation>
     </message>
     <message>
         <source>Thumbnails</source>
-        <translation type="unfinished">Miniaturas</translation>
+        <translation>Miniaturas</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation type="unfinished">Icones</translation>
+        <translation>Ícones</translation>
     </message>
     <message>
         <source>List</source>
-        <translation type="unfinished">Lista</translation>
+        <translation>Lista</translation>
     </message>
     <message>
         <source>Favorites</source>
-        <translation type="unfinished">Favoritos</translation>
+        <translation>Favoritos</translation>
     </message>
     <message>
         <source>View as</source>
-        <translation type="unfinished">Visualizar como</translation>
+        <translation>Visualizar como</translation>
     </message>
     <message>
         <source>Thumbnails + Labels</source>
-        <translation type="unfinished">Miniaturas + Etiquetas</translation>
+        <translation>Miniaturas + Rótulos</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished">Detalhes</translation>
+        <translation>Detalhes</translation>
     </message>
     <message>
         <source>Thumbnails scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimensionamento de miniaturas</translation>
     </message>
     <message>
         <source>Tooltip</source>
-        <translation type="unfinished"></translation>
+        <translation>Dica de Ferramenta</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished">Previsão</translation>
+        <translation type="unfinished">Pré-Visualização</translation>
     </message>
     <message>
         <source>Layout</source>
@@ -8839,7 +8895,7 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Apagar</translation>
+        <translation type="unfinished">Excluir</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -8847,7 +8903,7 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>New folder</source>
-        <translation type="unfinished">Nova pasta</translation>
+        <translation type="unfinished">Adicionar Pasta</translation>
     </message>
     <message>
         <source>Rating (filter)</source>
@@ -8862,19 +8918,19 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Lossless (ZIP)</source>
-        <translation>Compressão sem perdas (ZIP)</translation>
+        <translation>Sem perdas (ZIP)</translation>
     </message>
     <message>
         <source>Lossy - High quality (JPEG)</source>
-        <translation>Compressão com perdas - Alta qualidade (JPEG)</translation>
+        <translation>Com perdas - Alta qualidade (JPEG)</translation>
     </message>
     <message>
         <source>Lossy - Low quality (JPEG)</source>
-        <translation>Compressão com perdas - Baixa qualidade (JPEG)</translation>
+        <translation>Com perdas - Baixa qualidade (JPEG)</translation>
     </message>
     <message>
         <source>Excluded</source>
-        <translation>Eliminado</translation>
+        <translation>Excluído</translation>
     </message>
     <message>
         <source>Included</source>
@@ -8882,7 +8938,7 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Lossy - High quality (WebP)</source>
-        <translation>Alta qualidade (WebP) com perdas</translation>
+        <translation>Com perdas - Alta qualidade (WebP)</translation>
     </message>
     <message>
         <source>New path:</source>
@@ -8894,18 +8950,21 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Catalog - Absolute/Relative paths</source>
-        <translation type="unfinished"></translation>
+        <translation>Catálogo - Caminhos Absolutos/Relativos</translation>
     </message>
     <message>
         <source>Changing &apos;base path&apos; may disconnect files stored in database. 
 Do it only if you want to share same folder between several computers. 
 
 Do you want to change the &apos;base path&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>A alteração do &quot;caminho base&quot; pode desconectar os arquivos armazenados no banco de dados.
+Faça isso somente se quiser compartilhar a mesma pasta entre vários computadores.
+
+Deseja alterar o &quot;caminho base&quot;?</translation>
     </message>
     <message>
         <source>Catalog - Remove Entries</source>
-        <translation type="unfinished"></translation>
+        <translation>Catálogo - Excluir Entradas</translation>
     </message>
     <message>
         <source>Catalog entries with Categories, Rating &amp; Color labels will be removed. 
@@ -8914,32 +8973,42 @@ If information is exported into embedded or sidecar metadata,
 you&apos;ll be able to re-import later.
 
 Do you want to remove entries assigned to a Category?</source>
-        <translation type="unfinished"></translation>
+        <translation>As entradas do catálogo com rótulos de Categorias, Avaliação e Cor serão removidas.
+
+Se as informações forem exportadas para metadados incorporados ou sidecar,
+você poderá reimportar mais tarde.
+
+Deseja remover entradas atribuídas a uma categoria?</translation>
     </message>
     <message>
         <source>Catalog - Synchronize Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Catálogo - Sincronizar Pastas</translation>
     </message>
     <message>
         <source>All orphaned files will be deleted from Catalog.
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos os arquivos órfãos serão excluídos do Catálogo.
+
+Você deseja continuar?</translation>
     </message>
     <message>
         <source>Catalog - Relocate the folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Catálogo - Realocar a pasta</translation>
     </message>
     <message>
         <source>Catalog Maintenance</source>
-        <translation type="unfinished"></translation>
+        <translation>Manutenção de Catálogo</translation>
     </message>
     <message>
         <source>Some database entries with assigned Rating, 
 Color labels, Keywords may be deleted. 
 
 Do you want to check for affected entries first?</source>
-        <translation type="unfinished"></translation>
+        <translation>Algumas entradas do banco de dados com avaliação atribuída,
+Rótulos de cores e Palavras-chave podem ser excluídos.
+
+Deseja verificar primeiro se há entradas afetadas?</translation>
     </message>
     <message>
         <source>Database [catalog: %1 %2 - thumbnails: %3 %4]</source>
@@ -8950,7 +9019,7 @@ Do you want to check for affected entries first?</source>
     <name>DlgSettingsCacheClass</name>
     <message>
         <source>Compression:</source>
-        <translation>Compressão :</translation>
+        <translation>Compressão:</translation>
     </message>
     <message>
         <source>Files</source>
@@ -8962,11 +9031,11 @@ Do you want to check for affected entries first?</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Apagar</translation>
+        <translation>Excluir</translation>
     </message>
     <message>
         <source>Delete all</source>
-        <translation>Apagar tudo</translation>
+        <translation>Excluir tudo</translation>
     </message>
     <message>
         <source>Add folder...</source>
@@ -8974,7 +9043,7 @@ Do you want to check for affected entries first?</source>
     </message>
     <message>
         <source>Excluded/Included</source>
-        <translation>Eliminados / Inseridos</translation>
+        <translation>Excluído/Incluído</translation>
     </message>
     <message>
         <source>1</source>
@@ -8986,19 +9055,19 @@ Do you want to check for affected entries first?</source>
     </message>
     <message>
         <source>Always exclude removable drives</source>
-        <translation>Sempre excluir dispositivos removíveis</translation>
+        <translation>Sempre excluir unidades removíveis</translation>
     </message>
     <message>
         <source>Always exclude CD/DVD drives</source>
-        <translation>Sempre excluir dispositivos de CD / DVD</translation>
+        <translation>Sempre excluir drives de CD/DVD</translation>
     </message>
     <message>
         <source>Enable thumbnail caching</source>
-        <translation>Habilitar cache de miniaturas</translation>
+        <translation>Ativar cache de miniaturas</translation>
     </message>
     <message>
         <source>Maximum size for cached thumbnails</source>
-        <translation>Tamanho máximo para o cache de miniaturas</translation>
+        <translation>Tamanho máximo para miniaturas em cache</translation>
     </message>
     <message>
         <source>MiB</source>
@@ -9014,11 +9083,11 @@ Do you want to check for affected entries first?</source>
     </message>
     <message>
         <source>Get thumbnail size</source>
-        <translation>Obter o tamanho da miniatura</translation>
+        <translation>Obter tamanho da miniatura</translation>
     </message>
     <message>
         <source>Memory usage for database engine</source>
-        <translation>Uso de memória para as rotinas do banco de dados</translation>
+        <translation>Uso de memória para o mecanismo de banco de dados</translation>
     </message>
     <message>
         <source>Rebuild thumbnails</source>
@@ -9034,27 +9103,27 @@ Do you want to check for affected entries first?</source>
     </message>
     <message>
         <source>Enable Catalog</source>
-        <translation type="unfinished"></translation>
+        <translation>Ativar catálogo</translation>
     </message>
     <message>
         <source>Check integrity of catalog at startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Verifique a integridade do catálogo ao iniciar</translation>
     </message>
     <message>
         <source>Directory</source>
-        <translation type="unfinished">Pasta</translation>
+        <translation>Diretório</translation>
     </message>
     <message>
         <source>Import folder...</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar pasta...</translation>
     </message>
     <message>
         <source>Synchronize Folders...</source>
-        <translation type="unfinished"></translation>
+        <translation>Sincronizar Pastas...</translation>
     </message>
     <message>
         <source>Maintenance...</source>
-        <translation type="unfinished"></translation>
+        <translation>Manutenção ...</translation>
     </message>
     <message>
         <source>Base path of files</source>
@@ -9069,7 +9138,7 @@ Do you want to check for affected entries first?</source>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">Filtro</translation>
+        <translation>Filtro</translation>
     </message>
 </context>
 <context>
@@ -9089,7 +9158,8 @@ Do you want to check for affected entries first?</source>
     <message>
         <source>Show as 
 Thumbnail</source>
-        <translation>Mostrar como miniatura</translation>
+        <translation>Mostrar como 
+miniatura</translation>
     </message>
     <message>
         <source>Extensions</source>
@@ -9121,11 +9191,11 @@ Thumbnail</source>
     </message>
     <message>
         <source>Parent folder (&apos;..&apos;)</source>
-        <translation>Pasta mãe (&quot;..&quot;)</translation>
+        <translation>Pasta pai (&apos;..&apos;)</translation>
     </message>
     <message>
         <source>All others files</source>
-        <translation>Todos os demais arquivos</translation>
+        <translation>Todos os outros arquivos</translation>
     </message>
     <message>
         <source>Open with</source>
@@ -9141,15 +9211,15 @@ Thumbnail</source>
     </message>
     <message>
         <source>Master extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Extensão principal</translation>
     </message>
     <message>
         <source>Delete...</source>
-        <translation type="unfinished">Apagar...</translation>
+        <translation>Excluir...</translation>
     </message>
     <message>
         <source>Companion</source>
-        <translation type="unfinished"></translation>
+        <translation>Complementares</translation>
     </message>
 </context>
 <context>
@@ -9160,11 +9230,11 @@ Thumbnail</source>
     </message>
     <message>
         <source>Show hidden files &amp;&amp; folders</source>
-        <translation>Mostrar arquivos &amp;&amp; pastas escondidas</translation>
+        <translation>Mostrar arquivos e pastas ocultas</translation>
     </message>
     <message>
         <source>Show companion files</source>
-        <translation>Mostrar arquivos semelhantes</translation>
+        <translation>Mostrar arquivos acompanhados</translation>
     </message>
     <message>
         <source>Custom filter</source>
@@ -9172,59 +9242,59 @@ Thumbnail</source>
     </message>
     <message>
         <source>Mixed file/folder sorting</source>
-        <translation>Ordenar arquivos / pastas misturadas</translation>
+        <translation>Classificação mista de arquivos/pastas</translation>
     </message>
     <message>
         <source>New files are added at the end of the list</source>
-        <translation>Arquivos novos são adicionados no final da lista</translation>
+        <translation>Novos arquivos são adicionados ao final da lista</translation>
     </message>
     <message>
         <source>Companion files</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivos complementares</translation>
     </message>
     <message>
         <source>Folder always sorted alphabetically</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasta sempre ordenada alfabeticamente</translation>
     </message>
     <message>
         <source>Recognize only by extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Reconhecer somente por extensão</translation>
     </message>
     <message>
         <source>Scan file headers</source>
-        <translation type="unfinished"></translation>
+        <translation>Escanear cabeçalhos de arquivos</translation>
     </message>
     <message>
         <source>Always</source>
-        <translation type="unfinished">Sempre</translation>
+        <translation>Sempre</translation>
     </message>
     <message>
         <source>Exclude Floppy/CD/DVD</source>
-        <translation type="unfinished"></translation>
+        <translation>Excluir disquete/CD/DVD</translation>
     </message>
     <message>
         <source>Only fixed disks</source>
-        <translation type="unfinished"></translation>
+        <translation>Somente discos fixos</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation type="unfinished">Nunca</translation>
+        <translation>Nunca</translation>
     </message>
     <message>
         <source>Link companion files for the following actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Vincular arquivos acompanhantes para as seguintes ações</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Apagar</translation>
+        <translation>Excluir</translation>
     </message>
     <message>
         <source>Copy/move/rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar/mover/renomear</translation>
     </message>
     <message>
         <source>Association list (use ; as separator)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista de associação (usar ; como separador)</translation>
     </message>
     <message>
         <source>Sorting</source>
@@ -9232,7 +9302,7 @@ Thumbnail</source>
     </message>
     <message>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seleção</translation>
     </message>
     <message>
         <source>Auto-select first item on entering folder</source>
@@ -9248,7 +9318,7 @@ Thumbnail</source>
     </message>
     <message>
         <source>Display file size in bytes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Exibir tamanho do arquivo em bytes</translation>
     </message>
     <message>
         <source>Used by Filter › Custom</source>
@@ -9259,35 +9329,35 @@ Thumbnail</source>
     <name>DlgSettingsFormat</name>
     <message>
         <source>Choose the formats which you use for saving.</source>
-        <translation>Escolha o formato a ser usado para gravar.</translation>
+        <translation>Escolha os formatos que você usa para salvar.</translation>
     </message>
     <message>
         <source>Select all</source>
-        <translation>Selecionar tudo</translation>
+        <translation>Selecionar todos</translation>
     </message>
     <message>
         <source>Clear all</source>
-        <translation>Limpar todos</translation>
+        <translation>Limpar tudo</translation>
     </message>
     <message>
         <source>Read</source>
-        <translation type="unfinished">Ler</translation>
+        <translation>Leitura</translation>
     </message>
     <message>
         <source>Write</source>
-        <translation type="unfinished"></translation>
+        <translation>Escrita</translation>
     </message>
     <message>
         <source>Show write settings before saving</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar configurações de gravação antes de salvar</translation>
     </message>
     <message>
         <source>Select most used</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione os mais utilizados</translation>
     </message>
     <message>
         <source>Formats</source>
-        <translation type="unfinished">Formatos</translation>
+        <translation>Formatos</translation>
     </message>
     <message>
         <source>Show most used formats at beginning</source>
@@ -9306,7 +9376,7 @@ Thumbnail</source>
     </message>
     <message>
         <source>Relative colorimetric</source>
-        <translation>Colorimétrico relativo</translation>
+        <translation>Colorimetria relativa</translation>
     </message>
     <message>
         <source>Saturation</source>
@@ -9314,19 +9384,15 @@ Thumbnail</source>
     </message>
     <message>
         <source>Absolute colorimetric</source>
-        <translation>Colorimétrico absoluto</translation>
+        <translation>Colorimetria absoluta</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Apagar</translation>
+        <translation>Excluir</translation>
     </message>
     <message>
         <source>Do you want to delete the selected Auto Correct entry?</source>
-        <translation type="unfinished">Você gostaria de apagar a entrada Auto-Correção selecionada?</translation>
-    </message>
-    <message>
-        <source>Select a program</source>
-        <translation type="unfinished">Selecionar um programa</translation>
+        <translation>Você deseja excluir a entrada selecionada de Correção Automática?</translation>
     </message>
 </context>
 <context>
@@ -9357,19 +9423,19 @@ Thumbnail</source>
     </message>
     <message>
         <source>Language</source>
-        <translation>Linguagem</translation>
+        <translation>Idioma</translation>
     </message>
     <message>
         <source>File operations</source>
-        <translation>Operações com arquivos</translation>
+        <translation>Operações de arquivo</translation>
     </message>
     <message>
         <source>Confirm file delete</source>
-        <translation>Confirmar apagamento de arquivo</translation>
+        <translation>Confirmar exclusão de arquivo</translation>
     </message>
     <message>
         <source>Use Recycle Bin</source>
-        <translation>Usar a lata de lixo</translation>
+        <translation>Usar Lixeira</translation>
     </message>
     <message>
         <source>sRGB</source>
@@ -9377,11 +9443,11 @@ Thumbnail</source>
     </message>
     <message>
         <source>Rendering intent:</source>
-        <translation>Tentativa de renderizar:</translation>
+        <translation>Intenção de renderização:</translation>
     </message>
     <message>
         <source>Use ICC profile for monitor (slower)</source>
-        <translation>Usar perfil ICC para monitorar (mais lento)</translation>
+        <translation>Usar perfil ICC para monitor (mais lento)</translation>
     </message>
     <message>
         <source>System</source>
@@ -9393,19 +9459,19 @@ Thumbnail</source>
     </message>
     <message>
         <source>Reset all confirm prompts</source>
-        <translation>Redefinir todas as solicitações de confirmação</translation>
+        <translation>Redefinir todos os avisos de confirmação</translation>
     </message>
     <message>
         <source>Use dialog to rename file/folder</source>
-        <translation>Usar diálogo para renomear arquivo  / pasta</translation>
+        <translation>Use o diálogo para renomear arquivo/pasta</translation>
     </message>
     <message>
         <source>Keep original date/time</source>
-        <translation>Manter data/hora originais</translation>
+        <translation>Manter data/hora original</translation>
     </message>
     <message>
         <source>File saving</source>
-        <translation>Gravando arquivo</translation>
+        <translation>Salvar arquivo</translation>
     </message>
     <message>
         <source>Lossless transformations</source>
@@ -9417,219 +9483,207 @@ Thumbnail</source>
     </message>
     <message>
         <source>For &apos;Save as&apos;, use original pathname</source>
-        <translation>Use nome de caminho original para &quot;Salvar como&quot;</translation>
+        <translation>Para &quot;Salvar como&quot;, usar o caminho original</translation>
     </message>
     <message>
         <source>Browser</source>
-        <translation type="unfinished">Navegador</translation>
+        <translation>Navegador</translation>
     </message>
     <message>
         <source>Save session on program exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvar sessão ao sair do programa</translation>
     </message>
     <message>
         <source>Ask</source>
-        <translation type="unfinished">Perguntar</translation>
+        <translation>Perguntar</translation>
     </message>
     <message>
         <source>Always</source>
-        <translation type="unfinished">Sempre</translation>
+        <translation>Sempre</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation type="unfinished">Nunca</translation>
+        <translation>Nunca</translation>
     </message>
     <message>
         <source>Check for program updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificar se há atualizações de programa</translation>
     </message>
     <message>
         <source>Daily</source>
-        <translation type="unfinished">Diariamente</translation>
+        <translation>Diariamente</translation>
     </message>
     <message>
         <source>Weekly</source>
-        <translation type="unfinished">Semanalmente</translation>
+        <translation>Semanal</translation>
     </message>
     <message>
         <source>Monthly</source>
-        <translation type="unfinished">Mensalmente</translation>
+        <translation>Mensal</translation>
     </message>
     <message>
         <source>Make backup for lossless flip/rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar backup para inversão/rotação sem perdas</translation>
     </message>
     <message>
         <source>Make backup for lossless crop</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar backup para corte sem perdas</translation>
     </message>
     <message>
         <source>Make backup for other lossless operations</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar backup para outras operações sem perdas</translation>
     </message>
     <message>
         <source>RGB Profile used when embedded profile doesn&apos;t exist</source>
-        <translation type="unfinished"></translation>
+        <translation>Perfil RGB usado quando não existe um perfil incorporado</translation>
     </message>
     <message>
         <source>CMYK Profile used when embedded profile doesn&apos;t exist</source>
-        <translation type="unfinished"></translation>
+        <translation>Perfil CMYK usado quando não existe um perfil incorporado</translation>
     </message>
     <message>
         <source>System profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Perfil do sistema</translation>
     </message>
     <message>
         <source>Unit for print size</source>
-        <translation type="unfinished"></translation>
+        <translation>Unidade para tamanho da impressão</translation>
     </message>
     <message>
         <source>inch</source>
-        <translation type="unfinished">polegadas</translation>
+        <translation>polegada</translation>
     </message>
     <message>
         <source>cm</source>
-        <translation type="unfinished">cm</translation>
+        <translation>cm</translation>
     </message>
     <message>
         <source>mm</source>
-        <translation type="unfinished">mm</translation>
+        <translation>mm</translation>
     </message>
     <message>
         <source>Save as copy for &apos;Save&apos; action</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvar como cópia para a ação &quot;Salvar&quot;</translation>
     </message>
     <message>
         <source>For &apos;Save as&apos;, use original format</source>
-        <translation type="unfinished"></translation>
+        <translation>Para &quot;Salvar como&quot;, usar o formato original</translation>
     </message>
     <message>
         <source>&lt;Filename&gt; - Copy (#)</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Filename&gt; - Copiar (#)</translation>
     </message>
     <message>
         <source>Copy (#) of &lt;Filename&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Cópia (#) de &lt;Nome do arquivo&gt;</translation>
     </message>
     <message>
         <source>&lt;Filename&gt;-Copy (#)</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Filename&gt;-Cópia (#)</translation>
     </message>
     <message>
         <source>&lt;Filename&gt;-(#)</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Filename&gt;-(#)</translation>
     </message>
     <message>
         <source>&lt;Filename&gt;-#</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Filename&gt;-#</translation>
     </message>
     <message>
         <source>Send anonymous logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar registros anônimos</translation>
     </message>
     <message>
         <source>Directory</source>
-        <translation type="unfinished">Pasta</translation>
+        <translation>Diretório</translation>
     </message>
     <message>
         <source>Viewer</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualizador</translation>
     </message>
     <message>
         <source>Viewer - Fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualizador - Tela cheia</translation>
     </message>
     <message>
         <source>Browser - Fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation>Navegador - Tela cheia</translation>
     </message>
     <message>
         <source>Black Point Compensation</source>
-        <translation type="unfinished"></translation>
+        <translation>Compensação do Ponto Negro</translation>
     </message>
     <message>
         <source>Startup</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Start with file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open</source>
-        <translation type="unfinished">Abrir</translation>
-    </message>
-    <message>
-        <source>Start without file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open browser</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remember selected filename</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Save</source>
-        <translation type="unfinished">Salvar</translation>
-    </message>
-    <message>
-        <source>Delete</source>
-        <translation type="unfinished">Apagar</translation>
-    </message>
-    <message>
-        <source>Copy</source>
-        <translation type="unfinished">Copiar</translation>
-    </message>
-    <message>
-        <source>Rename</source>
-        <translation type="unfinished">Renomear</translation>
-    </message>
-    <message>
-        <source>Lossless operations</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Auto correct</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Replace</source>
-        <translation type="unfinished">Substituir</translation>
-    </message>
-    <message>
-        <source>With</source>
-        <translation type="unfinished">Com</translation>
-    </message>
-    <message>
-        <source>Adjust image if X/Y DPI are different</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delimiter character</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Auto-rotate images according to EXIF orientation tag</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicialização</translation>
     </message>
     <message>
         <source>Color management</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerenciamento de cores</translation>
     </message>
     <message>
-        <source>Allow only one application instance</source>
-        <translation type="unfinished"></translation>
+        <source>Start with file</source>
+        <translation>Iniciar com o arquivo</translation>
     </message>
     <message>
-        <source>Save changes to file</source>
-        <translation type="unfinished"></translation>
+        <source>Open</source>
+        <translation>Abrir</translation>
     </message>
     <message>
-        <source>Duplicate files naming</source>
-        <translation type="unfinished"></translation>
+        <source>Start without file</source>
+        <translation>Iniciar sem arquivo</translation>
+    </message>
+    <message>
+        <source>Open browser</source>
+        <translation>Abrir navegador</translation>
+    </message>
+    <message>
+        <source>Remember selected filename</source>
+        <translation>Lembrar nome do arquivo selecionado</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation>Salvar</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>Excluir</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation>Copiar</translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation>Renomear</translation>
+    </message>
+    <message>
+        <source>Lossless operations</source>
+        <translation>Operações sem perdas</translation>
+    </message>
+    <message>
+        <source>Auto correct</source>
+        <translation>Correção automática</translation>
+    </message>
+    <message>
+        <source>Replace</source>
+        <translation>Substituir</translation>
+    </message>
+    <message>
+        <source>With</source>
+        <translation>Com</translation>
+    </message>
+    <message>
+        <source>Adjust image if X/Y DPI are different</source>
+        <translation>Ajustar imagem se o DPI X/Y for diferente</translation>
+    </message>
+    <message>
+        <source>Delimiter character</source>
+        <translation>Caractere delimitador</translation>
+    </message>
+    <message>
+        <source>Auto-rotate images according to EXIF orientation tag</source>
+        <translation>Girar imagens automaticamente de acordo com a etiqueta de orientação EXIF</translation>
     </message>
     <message>
         <source>Theme</source>
@@ -9641,19 +9695,15 @@ Thumbnail</source>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished">Leve</translation>
+        <translation type="unfinished">Claro</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Escuro</translation>
     </message>
     <message>
         <source>Black</source>
         <translation type="unfinished">Preto</translation>
-    </message>
-    <message>
-        <source>File copying</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Custom</source>
@@ -9661,13 +9711,25 @@ Thumbnail</source>
         <translation type="unfinished">Personalizado</translation>
     </message>
     <message>
+        <source>Allow only one application instance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save changes to file</source>
+        <translation type="unfinished">Salvar alterações no arquivo</translation>
+    </message>
+    <message>
+        <source>Duplicate files naming</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File copying</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Custom</source>
         <comment>icc</comment>
         <translation type="unfinished">Personalizado</translation>
-    </message>
-    <message>
-        <source>ExifTool path</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9678,11 +9740,11 @@ Thumbnail</source>
     </message>
     <message>
         <source>Browse with XnViewMP</source>
-        <translation>Navegar com XnViewMP</translation>
+        <translation>Navegar com o XnViewMP</translation>
     </message>
     <message>
         <source>XnViewMP is a fast multi-format graphics browser, viewer, and converter. It reads more than 400 file formats.</source>
-        <translation>XnViewMP é um navegador, visualizador e conversor muito rápido para diversos formatos de imagens, capaz de ler mais de 400 formatos de arquivos gráficos.</translation>
+        <translation>O XnViewMP é um navegador, visualizador e conversor rápido de gráficos multiformato. Ele lê mais de 400 formatos de arquivo.</translation>
     </message>
     <message>
         <source>XnViewMP for Windows</source>
@@ -9690,31 +9752,23 @@ Thumbnail</source>
     </message>
     <message>
         <source>File Associations</source>
-        <translation>Associações de arquivos</translation>
+        <translation>Associações de arquivo</translation>
     </message>
     <message>
         <source>Same as Catalog</source>
-        <translation>Salvar como Catálogo</translation>
+        <translation>Igual ao catálogo</translation>
     </message>
     <message>
         <source>Paths</source>
-        <translation type="unfinished">Caminhos</translation>
+        <translation>Caminhos</translation>
     </message>
     <message>
         <source>Please be careful to folder rights by using XnView folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Tenha cuidado com os direitos de pasta usando a pasta XnView</translation>
     </message>
     <message>
         <source>Please start XnViewMP with admin rights (only the first time).</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>XnView Slide file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%1 Image file</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicie o XnViewMP com direitos de administrador (apenas na primeira vez).</translation>
     </message>
     <message>
         <source>System - Current user</source>
@@ -9732,6 +9786,18 @@ Thumbnail</source>
         <source>Application folder</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Select a program</source>
+        <translation type="unfinished">Selecione um programa</translation>
+    </message>
+    <message>
+        <source>XnView Slide file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 Image file</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsIntegrationClass</name>
@@ -9740,8 +9806,12 @@ Thumbnail</source>
         <translation>Integração</translation>
     </message>
     <message>
+        <source>...</source>
+        <translation>...</translation>
+    </message>
+    <message>
         <source>Add &apos;Browse with XnViewMP&apos; to context menu (requires admin rights)</source>
-        <translation>Adicionar &quot;Navegar com XnViewMP&quot; ao menu de contexto (requer direitos de administrador)</translation>
+        <translation>Adicionar &apos;Navegar com XnViewMP&apos; ao menu de contexto (requer direitos de administrador)</translation>
     </message>
     <message>
         <source>Paths</source>
@@ -9749,7 +9819,7 @@ Thumbnail</source>
     </message>
     <message>
         <source>Set file associations...</source>
-        <translation type="unfinished"></translation>
+        <translation>Definir associações de arquivos...</translation>
     </message>
     <message>
         <source>Settings - General</source>
@@ -9791,6 +9861,10 @@ Thumbnail</source>
         <source>Custom</source>
         <translation type="unfinished">Personalizado</translation>
     </message>
+    <message>
+        <source>ExifTool path</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsInterface</name>
@@ -9804,7 +9878,7 @@ Thumbnail</source>
     </message>
     <message>
         <source>-- NEW BAR --</source>
-        <translation>-- NOVA BARRA --</translation>
+        <translation>-- NOVA BARA --</translation>
     </message>
     <message>
         <source>Browse mode</source>
@@ -9828,31 +9902,31 @@ Thumbnail</source>
     </message>
     <message>
         <source>Set label</source>
-        <translation>Definir etiqueta</translation>
+        <translation>Definir Rótulo</translation>
     </message>
     <message>
         <source>Label:</source>
-        <translation>Etiqueta:</translation>
+        <translation>Rótulo:</translation>
     </message>
     <message>
         <source>This shortcut is already assigned for </source>
-        <translation>Este atalho já está atribuído para</translation>
+        <translation>Este atalho já está atribuído para </translation>
     </message>
     <message>
         <source>Set Icon...</source>
-        <translation type="unfinished">Definir ícone...</translation>
+        <translation>Definir Ícone...</translation>
     </message>
     <message>
         <source>Viewer mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo visualizador</translation>
     </message>
     <message>
         <source>-- NEW IPTC TEMPLATE --</source>
-        <translation type="unfinished"></translation>
+        <translation>-- NOVO MODELO DE IPTC --</translation>
     </message>
     <message>
         <source>-- NEW XMP TEMPLATE --</source>
-        <translation type="unfinished"></translation>
+        <translation>-- NOVO MODELO XMP --</translation>
     </message>
     <message>
         <source>%1 is already assigned to:
@@ -9874,7 +9948,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>ToolBar</source>
-        <translation>Barra de ferramentas</translation>
+        <translation>Barra de Ferramentas</translation>
     </message>
     <message>
         <source>Load...</source>
@@ -9886,7 +9960,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Set command...</source>
-        <translation>Ajustar comando...</translation>
+        <translation>Definir comando...</translation>
     </message>
     <message>
         <source>Defaults</source>
@@ -9898,7 +9972,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Shortcut for selected action</source>
-        <translation>Atalho para ação selecionada</translation>
+        <translation>Atalho para a ação selecionada</translation>
     </message>
     <message>
         <source>None</source>
@@ -9914,7 +9988,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Tab</source>
-        <translation>Aba</translation>
+        <translation>Guia</translation>
     </message>
     <message>
         <source>Close button</source>
@@ -9934,27 +10008,27 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Purge now</source>
-        <translation>Eliminar agora</translation>
+        <translation>Limpar agora</translation>
     </message>
     <message>
         <source>Tabs</source>
-        <translation>Abas</translation>
+        <translation>Guias</translation>
     </message>
     <message>
         <source>Purge &apos;Recent files and folders&apos; on exit</source>
-        <translation>Apagar o histórico de pastas e arquivos recentes ao sair</translation>
+        <translation>Limpar Arquivos e Pastas &apos;Recentes&apos; ao sair</translation>
     </message>
     <message>
         <source>Maximum of view tabs:</source>
-        <translation>Máximo de abas visíveis:</translation>
+        <translation>Máximo de guias de visualização:</translation>
     </message>
     <message>
         <source>Display:</source>
-        <translation>Tela:</translation>
+        <translation>Exibir:</translation>
     </message>
     <message>
         <source>Icon</source>
-        <translation>Icone</translation>
+        <translation>Ícone</translation>
     </message>
     <message>
         <source>pixels</source>
@@ -9962,27 +10036,27 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Double-click on tab: </source>
-        <translation>Clique duplo na aba:</translation>
+        <translation>Clique duas vezes na guia: </translation>
     </message>
     <message>
         <source>Do nothing</source>
-        <translation>Fazer nada</translation>
+        <translation>Não fazer nada</translation>
     </message>
     <message>
         <source>Close tab</source>
-        <translation>Fechar aba</translation>
+        <translation>Fechar guia</translation>
     </message>
     <message>
         <source>Duplicate tab</source>
-        <translation>Duplicar aba</translation>
+        <translation>Duplicar guia</translation>
     </message>
     <message>
         <source>Set label...</source>
-        <translation>Definir etiqueta...</translation>
+        <translation>Definir Rótulo...</translation>
     </message>
     <message>
         <source>Set Icon...</source>
-        <translation>Definir ícone...</translation>
+        <translation>Definir Ícone...</translation>
     </message>
     <message>
         <source>Keyboard</source>
@@ -9990,15 +10064,15 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Left/Right</source>
-        <translation>Esquerda / Direita</translation>
+        <translation>Esquerda/Direita</translation>
     </message>
     <message>
         <source>Previous/next file</source>
-        <translation>Arquivo anterior / posterior</translation>
+        <translation>Arquivo anterior/seguinte</translation>
     </message>
     <message>
         <source>Up/Down</source>
-        <translation>Para cima / Para baixo</translation>
+        <translation>Cima/Baixo</translation>
     </message>
     <message>
         <source>Mouse</source>
@@ -10022,7 +10096,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Zoom in/out</source>
-        <translation>Aumentar / diminuir zoom</translation>
+        <translation>Ampliar ou diminuir</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -10030,71 +10104,83 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Large icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Ícones grandes</translation>
     </message>
     <message>
         <source>Maximum entries:</source>
-        <translation type="unfinished"></translation>
+        <translation>Entradas máximas:</translation>
     </message>
     <message>
         <source>SPACE</source>
-        <translation type="unfinished"></translation>
+        <translation>ESPAÇO</translation>
     </message>
     <message>
         <source>Next file</source>
-        <translation type="unfinished">Próximo arquivo</translation>
+        <translation>Próximo arquivo</translation>
     </message>
     <message>
         <source>Quick Slideshow</source>
-        <translation type="unfinished">Exibição de slides rápida</translation>
+        <translation>Exibição Rápida de Slides</translation>
     </message>
     <message>
         <source>Previous file</source>
-        <translation type="unfinished">Arquivo anterior</translation>
+        <translation>Arquivo anterior</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">Filtro</translation>
+        <translation>Filtro</translation>
     </message>
     <message>
         <source>Browser</source>
-        <translation type="unfinished">Navegador</translation>
+        <translation>Navegador</translation>
     </message>
     <message>
         <source>Viewer</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualizador</translation>
     </message>
     <message>
         <source>Context menu</source>
         <translation>Menu de contexto</translation>
     </message>
     <message>
+        <source>TitleBar</source>
+        <translation>Barra de Título</translation>
+    </message>
+    <message>
+        <source>StatusBar</source>
+        <translation>Barra de Status</translation>
+    </message>
+    <message>
+        <source>Switching modes</source>
+        <translation>Alternando modos</translation>
+    </message>
+    <message>
         <source>Browser - Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Navegador - Pré-visualização</translation>
     </message>
     <message>
         <source>Middle click</source>
-        <translation type="unfinished"></translation>
+        <translation>Clique do meio</translation>
     </message>
     <message>
         <source>Enter</source>
-        <translation type="unfinished"></translation>
+        <translation>Enter</translation>
     </message>
     <message>
         <source>Double click</source>
-        <translation type="unfinished"></translation>
+        <translation>Clique duplo</translation>
     </message>
     <message>
         <source>Action</source>
-        <translation type="unfinished">Ação</translation>
+        <translation>Ação</translation>
     </message>
     <message>
         <source>Shortcut</source>
-        <translation type="unfinished">Atalho</translation>
+        <translation>Atalho</translation>
     </message>
     <message>
         <source>Command name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome do comando</translation>
     </message>
     <message>
         <source>Pressing ESC closes</source>
@@ -10133,60 +10219,44 @@ Do you want to reassign?</source>
         <translation>Roda</translation>
     </message>
     <message>
-        <source>Browser ↔ Fullscreen | Viewer ↔ Fullscreen</source>
-        <translation>Navegador ↔ Tela cheia | Visualizador ↔ Tela cheia</translation>
-    </message>
-    <message>
-        <source>Browser ↔ Viewer</source>
-        <translation>Navegador ↔ Visualizador</translation>
-    </message>
-    <message>
-        <source>Browser → Fullscreen → Viewer</source>
-        <translation>Navegador →Tela cheia → Visualizador</translation>
-    </message>
-    <message>
-        <source>Browser → Viewer → Fullscreen</source>
-        <translation>Navegador → Visualizador → Tela cheia</translation>
-    </message>
-    <message>
-        <source>Closing last tab exits application</source>
-        <translation>O fechamento da última guia encerra o aplicativo</translation>
-    </message>
-    <message>
         <source>Allow multiple Viewer tabs for same file</source>
-        <translation>Permitir várias guias do Viewer para o mesmo arquivo</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select file in Browser when Viewer tab is closed</source>
-        <translation>Selecione o arquivo no navegador quando a guia Viewer estiver fechada</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Drag&amp;&amp;Drop: Open single Viewer tab for filelist</source>
-        <translation type="unfinished">Arrastar e soltar: abra uma única guia do Viewer para a lista de arquivos</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hide Tab header when only one is opened</source>
-        <translation type="unfinished">Ocultar o cabeçalho da guia quando apenas uma estiver aberta</translation>
-    </message>
-    <message>
-        <source>TitleBar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>StatusBar</source>
+        <source>Closing last tab exits application</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filename</source>
+        <translation type="unfinished">Nome do Arquivo</translation>
+    </message>
+    <message>
+        <source>File size</source>
+        <translation type="unfinished">Tamanho do arquivo</translation>
     </message>
     <message>
         <source>File date</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Data do arquivo</translation>
     </message>
     <message>
         <source>File created date</source>
-        <translation type="unfinished">Data de criação do arquivo</translation>
+        <translation type="unfinished">Data de criação</translation>
     </message>
     <message>
         <source>File modified date</source>
-        <translation type="unfinished">Data de modificação do arquivo</translation>
+        <translation type="unfinished">Data da modificação</translation>
     </message>
     <message>
         <source>EXIF date taken</source>
@@ -10197,24 +10267,16 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Filename</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Properties</source>
         <translation type="unfinished">Propriedades</translation>
     </message>
     <message>
         <source>Print size</source>
-        <translation type="unfinished">Tamanho do impresso</translation>
-    </message>
-    <message>
-        <source>File size</source>
-        <translation type="unfinished">Tamanho do arquivo</translation>
+        <translation type="unfinished">Tamanho de impressão</translation>
     </message>
     <message>
         <source>Embedded comment</source>
-        <translation type="unfinished">Comentário embutido</translation>
+        <translation type="unfinished">Comentário incorporado</translation>
     </message>
     <message>
         <source>Description</source>
@@ -10225,7 +10287,7 @@ Do you want to reassign?</source>
         <translation type="unfinished">Zoom</translation>
     </message>
     <message>
-        <source>Switching modes</source>
+        <source>Browser - Filelist</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10241,7 +10303,19 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Browser - Filelist</source>
+        <source>Browser ↔ Fullscreen | Viewer ↔ Fullscreen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Browser ↔ Viewer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Browser → Fullscreen → Viewer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Browser → Viewer → Fullscreen</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10249,7 +10323,7 @@ Do you want to reassign?</source>
     <name>DlgSettingsKeywords</name>
     <message>
         <source>Locale</source>
-        <translation>Regionalização</translation>
+        <translation>Localidade</translation>
     </message>
 </context>
 <context>
@@ -10260,83 +10334,107 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Use UTF-8 to write IPTC fields</source>
-        <translation>Usar UTF-8 para gravar campos IPTC</translation>
+        <translation>Use UTF-8 para escrever campos IPTC</translation>
     </message>
     <message>
         <source>Write comment in XMP (dc:description and exif:UserComment)</source>
-        <translation>Escrever comentário em XMP (dc:Descrição e exif:Comentários do usuário)</translation>
+        <translation>Escreva um comentário no XMP (dc:description e exif:UserComment)</translation>
     </message>
     <message>
         <source>&lt;filename&gt;.xmp</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;filename&gt;.xmp</translation>
     </message>
     <message>
         <source>&lt;filename&gt;.&lt;extension&gt;.xmp</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;filename&gt;.&lt;extension&gt;.xmp</translation>
     </message>
     <message>
         <source>Encoding</source>
-        <translation type="unfinished"></translation>
+        <translation>Codificação</translation>
     </message>
     <message>
         <source>Default encoding</source>
-        <translation type="unfinished"></translation>
+        <translation>Codificação padrão</translation>
     </message>
     <message>
         <source>Label</source>
-        <translation type="unfinished">Etiqueta</translation>
+        <translation>Rótulo</translation>
     </message>
     <message>
         <source>Read (separated by ,)</source>
-        <translation type="unfinished"></translation>
+        <translation>Leitura (separada por ,)</translation>
     </message>
     <message>
         <source>Write</source>
-        <translation type="unfinished"></translation>
+        <translation>Escrita</translation>
     </message>
     <message>
         <source>Update when file is changed outside (date/size)</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualizar quando o arquivo for alterado fora (data/tamanho)</translation>
     </message>
     <message>
         <source>Embedded comment</source>
-        <translation type="unfinished">Comentário embutido</translation>
+        <translation>Comentário incorporado</translation>
     </message>
     <message>
         <source>EXIF Copyright</source>
-        <translation type="unfinished"></translation>
+        <translation>Direitos autorais EXIF</translation>
     </message>
     <message>
         <source>Categories and keywords</source>
-        <translation type="unfinished"></translation>
+        <translation>Categorias e palavras-chave</translation>
     </message>
     <message>
         <source>Read hierarchical keywords from images as categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Ler palavras-chave hierárquicas das imagens como categorias</translation>
     </message>
     <message>
         <source>Sidecar</source>
-        <translation type="unfinished"></translation>
+        <translation>Sidecar</translation>
     </message>
     <message>
         <source>Video files</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivos de vídeo</translation>
     </message>
     <message>
         <source>Other files</source>
-        <translation type="unfinished"></translation>
+        <translation>Outros arquivos</translation>
     </message>
     <message>
         <source>Metadata</source>
-        <translation type="unfinished">Metadados</translation>
+        <translation>Metadados</translation>
     </message>
     <message>
         <source>Naming convention</source>
-        <translation type="unfinished"></translation>
+        <translation>Convenção de nomenclatura</translation>
     </message>
     <message>
         <source>Supported formats</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatos suportados</translation>
+    </message>
+    <message>
+        <source>Import</source>
+        <translation type="unfinished">Importar</translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation type="unfinished">Exportar</translation>
+    </message>
+    <message>
+        <source>Rating</source>
+        <translation type="unfinished">Avaliação</translation>
+    </message>
+    <message>
+        <source>Color label</source>
+        <translation type="unfinished">Cor do rótulo</translation>
+    </message>
+    <message>
+        <source>Categories</source>
+        <translation type="unfinished">Categorias</translation>
+    </message>
+    <message>
+        <source>Face tag</source>
+        <translation type="unfinished">Marcação de rosto</translation>
     </message>
     <message>
         <source>Write categories into images as hierarchical keywords</source>
@@ -10351,51 +10449,27 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Color labels</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Import</source>
-        <translation type="unfinished">Importar</translation>
-    </message>
-    <message>
-        <source>Export</source>
-        <translation type="unfinished">Exportar</translation>
-    </message>
-    <message>
-        <source>Rating</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Color label</source>
-        <translation type="unfinished">Cor da etiqueta</translation>
-    </message>
-    <message>
-        <source>Categories</source>
-        <translation type="unfinished">Categorias</translation>
-    </message>
-    <message>
-        <source>Face tag</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Update master file</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color labels</source>
+        <translation type="unfinished">Rótulos de cor</translation>
     </message>
 </context>
 <context>
     <name>DlgSettingsThumbnailClass</name>
     <message>
         <source>Show 4 thumbnails in folder&apos;s thumbnail (instead of 1)</source>
-        <translation>Mostrar 4 miniaturas na miniatura da pasta (em lugar de 1)</translation>
+        <translation>Mostrar 4 miniaturas na pasta&apos;s (em vez de 1)</translation>
     </message>
     <message>
         <source>Use embedded thumbnail</source>
-        <translation>Usar miniatura embutida</translation>
+        <translation>Usar miniatura incorporada</translation>
     </message>
     <message>
         <source>Create from original image if embedded thumbnail is smaller than thumbnail size</source>
-        <translation>Criar a partir da imagem original se a miniatura embutida for menor que o tamanho de miniatura estabelecido</translation>
+        <translation>Criar a partir da imagem original se a miniatura incorporada for menor que o tamanho da miniatura</translation>
     </message>
     <message>
         <source>Use gamma correction</source>
@@ -10431,7 +10505,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Spacing between labels</source>
-        <translation>Espaçamento entre etiquetas</translation>
+        <translation>Espaçamento entre rótulos</translation>
     </message>
     <message>
         <source>Left</source>
@@ -10447,7 +10521,11 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Overlay icons</source>
-        <translation>Ícones Revestimento (Overlay)</translation>
+        <translation>Ícones de sobreposição</translation>
+    </message>
+    <message>
+        <source>Label colors</source>
+        <translation>Cores dos rótulos</translation>
     </message>
     <message>
         <source>Shortcut</source>
@@ -10455,7 +10533,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Tag</source>
-        <translation>Marcação</translation>
+        <translation>Etiqueta</translation>
     </message>
     <message>
         <source>Automatic rotation</source>
@@ -10463,15 +10541,15 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Pontuação</translation>
+        <translation>Avaliação</translation>
     </message>
     <message>
         <source>Embedded thumbnail</source>
-        <translation>Miniatura embutida</translation>
+        <translation>Miniatura incorporada</translation>
     </message>
     <message>
         <source>Color label</source>
-        <translation>Cor da etiqueta</translation>
+        <translation>Cor do rótulo</translation>
     </message>
     <message>
         <source>Color profile</source>
@@ -10479,19 +10557,19 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Labels</source>
-        <translation>Etiquetas</translation>
+        <translation>Rótulos</translation>
     </message>
     <message>
         <source>Reset color</source>
-        <translation>Reajuste de cor</translation>
+        <translation>Redefinir cor</translation>
     </message>
     <message>
         <source>Custom label</source>
-        <translation>Etiqueta personalizada</translation>
+        <translation>Rótulo personalizado</translation>
     </message>
     <message>
         <source>For video files, extract frame at</source>
-        <translation>Extrair &quot;frames&quot; de arquivos de vídeo a</translation>
+        <translation>Para arquivos de vídeo, extrair quadro em</translation>
     </message>
     <message>
         <source>%</source>
@@ -10499,7 +10577,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Label alignment</source>
-        <translation>Alinhamento de etiquetas</translation>
+        <translation>Alinhamento do rótulo</translation>
     </message>
     <message>
         <source>Margin</source>
@@ -10511,19 +10589,19 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Show 4 thumbnails in video&apos;s thumbnail (instead of 1)</source>
-        <translation>Mostrar 4 miniaturas na miniatura de vídeo (em lugar de 1)</translation>
+        <translation>Exibir 4 miniaturas em miniatura de vídeo&apos;s (em vez de 1)</translation>
     </message>
     <message>
         <source>Go to Thumbnail DB related settings &gt;&gt;</source>
-        <translation>Ir para as configurações relacionadas ao banco de dados de miniaturas &gt;&gt;</translation>
+        <translation>Ir para as configurações relacionadas ao Banco de Dados de Miniaturas &gt;&gt;</translation>
     </message>
     <message>
         <source>Use alpha channel</source>
-        <translation>Usar canal alpha</translation>
+        <translation>Usar canal alfa</translation>
     </message>
     <message>
         <source>Custom thumbnail size</source>
-        <translation>Tamanho personalizado de miniatura</translation>
+        <translation>Tamanho personalizado da miniatura</translation>
     </message>
     <message>
         <source>Width</source>
@@ -10535,23 +10613,31 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Has category</source>
-        <translation>Tem categoria</translation>
+        <translation>Possui categoria</translation>
     </message>
     <message>
         <source>Face tag</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcação de rosto</translation>
     </message>
     <message>
         <source>Sidecar</source>
-        <translation type="unfinished"></translation>
+        <translation>Sidecar</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished">Cor</translation>
+        <translation>Cor</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished">Texto</translation>
+        <translation>Texto</translation>
+    </message>
+    <message>
+        <source>Create high quality thumbnail (bilinear filter)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use sharpen</source>
+        <translation type="unfinished">Use afiação</translation>
     </message>
     <message>
         <source>Create thumbnails for whole folder</source>
@@ -10567,46 +10653,14 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inferior</translation>
     </message>
     <message>
         <source>Companion</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Complementares</translation>
     </message>
     <message>
-        <source>Label colors</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use color based on file format</source>
-        <translation type="unfinished">Use cores baseadas em arquivo de formatos</translation>
-    </message>
-    <message>
-        <source>Enter an extension:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>or choose a format:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation type="unfinished">Remover</translation>
-    </message>
-    <message>
-        <source>Default color</source>
-        <translation type="unfinished">Cor padrão</translation>
-    </message>
-    <message>
-        <source>Create high quality thumbnail (bilinear filter)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use sharpen</source>
+        <source>Frame&apos;s count</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10614,15 +10668,35 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Frame&apos;s count</source>
+        <source>Use color based on file format</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter an extension:</source>
+        <translation type="unfinished">Insira uma extensão:</translation>
+    </message>
+    <message>
+        <source>or choose a format:</source>
+        <translation type="unfinished">ou escolha um formato:</translation>
+    </message>
+    <message>
+        <source>New</source>
+        <translation type="unfinished">Novo</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="unfinished">Excluir</translation>
+    </message>
+    <message>
+        <source>Default color</source>
+        <translation type="unfinished">Cor padrão</translation>
     </message>
 </context>
 <context>
     <name>DlgSettingsView</name>
     <message>
         <source>None</source>
-        <translation type="unfinished">Nenhum</translation>
+        <translation>Nenhum</translation>
     </message>
 </context>
 <context>
@@ -10637,15 +10711,15 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Zoom step</source>
-        <translation>Etapa de zoom</translation>
+        <translation>Aumento do zoom</translation>
     </message>
     <message>
         <source>Fixed step</source>
-        <translation>Etapa fixa</translation>
+        <translation>Passo fixo</translation>
     </message>
     <message>
         <source>Relative step</source>
-        <translation>Etapa relativa</translation>
+        <translation>Passo relativo</translation>
     </message>
     <message>
         <source>Use gamma correction</source>
@@ -10653,15 +10727,15 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Pixel ratio</source>
-        <translation>Taxa de pixels</translation>
+        <translation>Proporção de pixel</translation>
     </message>
     <message>
         <source>Misc.</source>
-        <translation>Miscelânea.</translation>
+        <translation>Diversos</translation>
     </message>
     <message>
         <source>Loop on the file list</source>
-        <translation>Reiniciar ao terminar a lista de arquivos</translation>
+        <translation>Repetir na lista de arquivos</translation>
     </message>
     <message>
         <source>Cache</source>
@@ -10673,15 +10747,15 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Keep current image</source>
-        <translation>Manter imagem atual</translation>
+        <translation>Manter a imagem atual</translation>
     </message>
     <message>
         <source>Quick slideshow</source>
-        <translation>Exibição rápida</translation>
+        <translation>Exibição Rápida de Slides</translation>
     </message>
     <message>
         <source>Delay (ms)</source>
-        <translation>Tempo de retardo ou delay (ms)</translation>
+        <translation>Atraso (ms)</translation>
     </message>
     <message>
         <source>Direction</source>
@@ -10689,11 +10763,11 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Forward</source>
-        <translation>Encaminhar</translation>
+        <translation>Avançar</translation>
     </message>
     <message>
         <source>Backward</source>
-        <translation>Fundos</translation>
+        <translation>Retroceder</translation>
     </message>
     <message>
         <source>Random</source>
@@ -10721,15 +10795,15 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Multipage files</source>
-        <translation>Arquivos com múltiplas páginas</translation>
+        <translation>Arquivos de múltiplas páginas</translation>
     </message>
     <message>
         <source>Disable GIF/JIF/APNG/ANI animation</source>
-        <translation>Desabilitar animação GIF / JIF / APNG / ANI</translation>
+        <translation>Desativar animação GIF/JIF/APNG/ANI</translation>
     </message>
     <message>
         <source>Auto play (video)</source>
-        <translation>Executar vídeos automaticamente</translation>
+        <translation>Reprodução automática (vídeo)</translation>
     </message>
     <message>
         <source>Show scrollbars</source>
@@ -10737,134 +10811,122 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Show highlight selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar seleção de destaque</translation>
     </message>
     <message>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleção</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished">Normal</translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <source>Rule of thirds</source>
-        <translation type="unfinished"></translation>
+        <translation>Regra de terços</translation>
     </message>
     <message>
         <source>Loop video playing</source>
-        <translation type="unfinished"></translation>
+        <translation>Repetir reprodução de vídeo</translation>
     </message>
     <message>
         <source>Two-pass rendering at loading</source>
-        <translation type="unfinished"></translation>
+        <translation>Renderização de duas etapas ao carregar</translation>
     </message>
     <message>
         <source>Use sharpen</source>
-        <translation type="unfinished"></translation>
+        <translation>Use afiação</translation>
     </message>
     <message>
         <source>Always show in fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation>Sempre mostrar em tela cheia</translation>
     </message>
     <message>
         <source>Zoom Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Diminuir o zoom</translation>
     </message>
     <message>
         <source>Zoom In</source>
-        <translation type="unfinished"></translation>
+        <translation>Aumentar zoom</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">Filtro</translation>
+        <translation>Filtro</translation>
     </message>
     <message>
         <source>Like Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Como o Navegador</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">Personalizado</translation>
+        <translation>Personalizado</translation>
     </message>
     <message>
         <source>Audio</source>
-        <translation type="unfinished">Áudio</translation>
+        <translation>Áudio</translation>
     </message>
     <message>
         <source>Video</source>
-        <translation type="unfinished">Vídeo</translation>
+        <translation>Vídeo</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished">Texto</translation>
+        <translation>Texto</translation>
     </message>
     <message>
         <source>Exclude</source>
-        <translation type="unfinished">Excluir</translation>
+        <translation>Excluir</translation>
     </message>
     <message>
         <source>Include</source>
-        <translation type="unfinished">Incluir</translation>
+        <translation>Incluir</translation>
     </message>
     <message>
         <source>Support HTML tags</source>
-        <translation type="unfinished"></translation>
+        <translation>Suporte a tags HTML</translation>
     </message>
     <message>
         <source>Fullscreen</source>
-        <translation type="unfinished">Tela cheia</translation>
+        <translation>Tela cheia</translation>
     </message>
     <message>
         <source>Show playbar</source>
-        <translation type="unfinished">Mostrar a barra &quot;Executar&quot;</translation>
+        <translation>Mostrar barra de reprodução</translation>
     </message>
     <message>
         <source>Show info</source>
-        <translation type="unfinished">Mostrar informações</translation>
+        <translation>Mostrar informações</translation>
     </message>
     <message>
         <source>Show toolbar</source>
-        <translation type="unfinished">Mostrar a barra de ferramentas</translation>
+        <translation>Mostrar barra de ferramentas</translation>
     </message>
     <message>
         <source>Hide mouse cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocultar cursor do mouse</translation>
     </message>
     <message>
         <source>Dual monitor: Use second monitor</source>
-        <translation type="unfinished">Monitor duplo: Usar o segundo monitor</translation>
+        <translation>Monitor duplo: Usar segundo monitor</translation>
     </message>
     <message>
         <source>Floating views</source>
-        <translation type="unfinished">Vistas flutuantes</translation>
+        <translation>Visualizações flutuantes</translation>
     </message>
     <message>
         <source>(appear when the mouse is moved to the top or right of the screen)</source>
-        <translation type="unfinished">(aparece quando o mouse para o topo ou para a direita da tela)</translation>
+        <translation>(aparecer quando o mouse é movido para a parte superior ou direita da tela)</translation>
     </message>
     <message>
         <source>Auto zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom automático</translation>
     </message>
     <message>
         <source>Reset &apos;Auto zoom&apos; setting with next/previous file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Golden ratio (Phi)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show Rating &amp;&amp; Color labels</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>(From Settings › File list › Custom Filter)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Draw multi-resolution icons as Snapshots</source>
+        <source>Use transparency grid (checkerboard pattern)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10884,15 +10946,7 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Stretch horizontally</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show navigator</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use transparency grid (checkerboard pattern)</source>
+        <source>Anti-aliasing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10900,11 +10954,31 @@ Do you want to reassign?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Show navigator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Rating &amp;&amp; Color labels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Reset X/Y position on file change (No fit)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Anti-aliasing</source>
+        <source>(From Settings › File list › Custom Filter)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Golden ratio (Phi)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Draw multi-resolution icons as Snapshots</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stretch horizontally</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10912,7 +10986,7 @@ Do you want to reassign?</source>
     <name>DlgSimilar</name>
     <message>
         <source>Search similar files</source>
-        <translation>Pesquisar arquivos semelhantes</translation>
+        <translation>Pesquisar arquivos similares</translation>
     </message>
     <message>
         <source>Recursive</source>
@@ -10920,7 +10994,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Pathname</source>
-        <translation>Caminho</translation>
+        <translation>Nome do caminho</translation>
     </message>
     <message>
         <source>Add files...</source>
@@ -10932,7 +11006,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Remover</translation>
+        <translation>Excluir</translation>
     </message>
     <message>
         <source>Method</source>
@@ -10948,15 +11022,15 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Similarity</source>
-        <translation>Semelhança</translation>
+        <translation>Similaridade</translation>
     </message>
     <message>
         <source>Extensions to ignore (separated by a space)</source>
-        <translation>Extensões para ignorar (separadas por um espaço)</translation>
+        <translation>Extensões a ignorar (separadas por espaço)</translation>
     </message>
     <message>
         <source>Choose a directory</source>
-        <translation>Escolha uma pasta</translation>
+        <translation>Escolher um diretório</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -10972,7 +11046,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Between folders only</source>
-        <translation type="unfinished"></translation>
+        <translation>Entre apenas pastas</translation>
     </message>
     <message>
         <source>Similar image content (slow)</source>
@@ -10983,7 +11057,7 @@ Do you want to reassign?</source>
     <name>DlgSimilarResult</name>
     <message>
         <source>Similar files result</source>
-        <translation>Resultado de arquivos semelhantes</translation>
+        <translation>Arquivos similares resultado</translation>
     </message>
     <message>
         <source>First</source>
@@ -10991,7 +11065,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Filename</source>
-        <translation>Nome do arquivo</translation>
+        <translation>Nome do Arquivo</translation>
     </message>
     <message>
         <source>Folder</source>
@@ -11003,7 +11077,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Modified date</source>
-        <translation>Data de alteração</translation>
+        <translation>Data de modificação</translation>
     </message>
     <message>
         <source>Type</source>
@@ -11023,11 +11097,11 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Similarity</source>
-        <translation>Semelhança</translation>
+        <translation>Similaridade</translation>
     </message>
     <message>
         <source>Sort by</source>
-        <translation>Ordenar por</translation>
+        <translation>Classificar por</translation>
     </message>
     <message>
         <source>Date</source>
@@ -11039,7 +11113,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Delete file</source>
-        <translation>Apagar arquivo</translation>
+        <translation>Excluir arquivo</translation>
     </message>
     <message>
         <source>Copy file to...</source>
@@ -11059,11 +11133,11 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Original zoom</source>
-        <translation>Tamanho original</translation>
+        <translation>Zoom original</translation>
     </message>
     <message>
         <source>Best fit</source>
-        <translation>Melhor tamanho</translation>
+        <translation>Melhor ajuste</translation>
     </message>
     <message>
         <source>Copy to</source>
@@ -11075,169 +11149,169 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Apagar</translation>
+        <translation>Excluir</translation>
     </message>
 </context>
 <context>
     <name>DlgSizeEdit</name>
     <message>
         <source>Size edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar tamanho</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished">Largura</translation>
+        <translation>Largura</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation type="unfinished">Altura</translation>
+        <translation>Altura</translation>
     </message>
     <message>
         <source>inch</source>
-        <translation type="unfinished">polegadas</translation>
+        <translation>polegada</translation>
     </message>
     <message>
         <source>cm</source>
-        <translation type="unfinished">cm</translation>
+        <translation>cm</translation>
     </message>
     <message>
         <source>pixel</source>
-        <translation type="unfinished"></translation>
+        <translation>pixel</translation>
     </message>
     <message>
         <source>ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>proporção</translation>
     </message>
 </context>
 <context>
     <name>DlgSlideshow</name>
     <message>
         <source>Slideshow</source>
-        <translation type="unfinished"></translation>
+        <translation>Apresentação de slides</translation>
     </message>
     <message>
         <source>Filelist</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista de Arquivos</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Configurações</translation>
+        <translation>Configurações</translation>
     </message>
     <message>
         <source>Transition</source>
-        <translation type="unfinished"></translation>
+        <translation>Transição</translation>
     </message>
     <message>
         <source>Use timer</source>
-        <translation type="unfinished"></translation>
+        <translation>Temporizador de uso</translation>
     </message>
     <message>
         <source>seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>segundos</translation>
     </message>
     <message>
         <source>Use keyboard press or mouse click</source>
-        <translation type="unfinished"></translation>
+        <translation>Use o toque do teclado ou clique do mouse</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Tamanho</translation>
+        <translation>Tamanho</translation>
     </message>
     <message>
         <source>Fixed size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho fixo</translation>
     </message>
     <message>
         <source>Fullscreen</source>
-        <translation type="unfinished">Tela cheia</translation>
+        <translation>Tela cheia</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation type="unfinished">Altura</translation>
+        <translation>Altura</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished">Largura</translation>
+        <translation>Largura</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished">Opções</translation>
+        <translation>Opções</translation>
     </message>
     <message>
         <source>Random order</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordem aleatória</translation>
     </message>
     <message>
         <source>Loop</source>
-        <translation type="unfinished"></translation>
+        <translation>Repetir</translation>
     </message>
     <message>
         <source>Stretch small images</source>
-        <translation type="unfinished"></translation>
+        <translation>Esticar pequenas imagens</translation>
     </message>
     <message>
         <source>Window title bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Barra de título da janela</translation>
     </message>
     <message>
         <source>Always on Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Sempre no Topo</translation>
     </message>
     <message>
         <source>Background color</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor de fundo</translation>
     </message>
     <message>
         <source>Use transition effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Usar efeitos de transição</translation>
     </message>
     <message>
         <source>Show information</source>
-        <translation type="unfinished">Mostrar informações</translation>
+        <translation>Mostrar informações</translation>
     </message>
     <message>
         <source>Text color</source>
-        <translation type="unfinished">Cor do texto</translation>
+        <translation>Cor do texto</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished">Fonte</translation>
+        <translation>Fonte</translation>
     </message>
     <message>
         <source>Open...</source>
-        <translation type="unfinished">Abrir...</translation>
+        <translation>Abrir...</translation>
     </message>
     <message>
         <source>Save...</source>
-        <translation type="unfinished">Salvar...</translation>
+        <translation>Salvar...</translation>
     </message>
     <message>
         <source>Import Slideshow</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar Apresentação de Slides</translation>
     </message>
     <message>
         <source>Export Slideshow</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar Apresentação de Slides</translation>
     </message>
     <message>
         <source>Use audio file</source>
-        <translation type="unfinished"></translation>
+        <translation>Usar arquivo de áudio</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation type="unfinished">Posição</translation>
+        <translation>Posição</translation>
     </message>
     <message>
         <source>Auto hide cursor (fullscreen)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocultar cursor automaticamente (tela cheia)</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation type="unfinished">Opacidade</translation>
+        <translation>Opacidade</translation>
     </message>
     <message>
         <source>Relative paths</source>
-        <translation type="unfinished"></translation>
+        <translation>Caminhos relativos</translation>
     </message>
     <message>
         <source>Watch folders for new files</source>
@@ -11248,90 +11322,90 @@ Do you want to reassign?</source>
     <name>DlgSplit</name>
     <message>
         <source>Split</source>
-        <translation type="unfinished"></translation>
+        <translation>Divisão</translation>
     </message>
     <message>
         <source>Count</source>
-        <translation type="unfinished">Contagem</translation>
+        <translation>Contagem</translation>
     </message>
     <message>
         <source>Columns</source>
-        <translation type="unfinished">Colunas</translation>
+        <translation>Colunas</translation>
     </message>
     <message>
         <source>Rows</source>
-        <translation type="unfinished">Linhas</translation>
+        <translation>Linhas</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished">Largura</translation>
+        <translation>Largura</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation type="unfinished">Altura</translation>
+        <translation>Altura</translation>
     </message>
     <message>
         <source>Output</source>
-        <translation type="unfinished">Saída</translation>
+        <translation>Saída</translation>
     </message>
     <message>
         <source>Folder</source>
-        <translation type="unfinished">Pasta</translation>
+        <translation>Pasta</translation>
     </message>
     <message>
         <source>Settings...</source>
-        <translation type="unfinished">Configurações...</translation>
+        <translation>Configurações...</translation>
     </message>
     <message>
         <source>Tiles</source>
-        <translation type="unfinished"></translation>
+        <translation>Ladrilhos</translation>
     </message>
     <message>
         <source>Size (pixels)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho (pixels)</translation>
     </message>
     <message>
         <source>Create</source>
-        <translation type="unfinished">Criar</translation>
+        <translation>Criar</translation>
     </message>
     <message>
         <source>Splitting image(s), please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Dividindo imagem(ns). Aguarde...</translation>
     </message>
     <message>
         <source>Best fit</source>
-        <translation type="unfinished">Melhor tamanho</translation>
+        <translation>Melhor ajuste</translation>
     </message>
     <message>
         <source>Zoom in</source>
-        <translation type="unfinished">Aumentar zoom</translation>
+        <translation>Aumentar zoom</translation>
     </message>
     <message>
         <source>Zoom out</source>
-        <translation type="unfinished">Diminuir zoom</translation>
+        <translation>Diminuir zoom</translation>
     </message>
 </context>
 <context>
     <name>DlgStartupWizard</name>
     <message>
         <source>Startup Wizard</source>
-        <translation>Auxiliar de iniciação</translation>
+        <translation>Assistente de Inicialização</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation>Linguagem</translation>
+        <translation>Idioma</translation>
     </message>
     <message>
         <source>System integration</source>
-        <translation>Integração ao sistema</translation>
+        <translation>Integração do sistema</translation>
     </message>
     <message>
         <source>Add &apos;Browse with XnViewMP&apos; to context menu</source>
-        <translation>Adicionar &quot;Navegar com XnViewMP&quot; ao menu de contexto</translation>
+        <translation>Adicionar &apos;Navegar com XnViewMP&apos; ao menu de contexto</translation>
     </message>
     <message>
         <source>Check for program updates</source>
-        <translation>Procurar por atualizações</translation>
+        <translation>Verificar se há atualizações de programa</translation>
     </message>
     <message>
         <source>Never</source>
@@ -11343,11 +11417,11 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Weekly</source>
-        <translation>Semanalmente</translation>
+        <translation>Semanal</translation>
     </message>
     <message>
         <source>Monthly</source>
-        <translation>Mensalmente</translation>
+        <translation>Mensal</translation>
     </message>
     <message>
         <source>Run the File association(s) tool...</source>
@@ -11355,31 +11429,31 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished">Geral</translation>
+        <translation>Geral</translation>
     </message>
     <message>
         <source>Theme</source>
-        <translation type="unfinished">Tema</translation>
+        <translation>Tema</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished">Padrão</translation>
+        <translation>Padrão</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished">Leve</translation>
+        <translation>Claro</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Escuro</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation type="unfinished">Preto</translation>
+        <translation>Preto</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Configurações</translation>
+        <translation>Configurações</translation>
     </message>
     <message>
         <source>Current user (recommended)</source>
@@ -11402,126 +11476,126 @@ Do you want to reassign?</source>
     <name>DlgStrip</name>
     <message>
         <source>File list</source>
-        <translation type="unfinished">Lista de arquivos</translation>
+        <translation>Lista de arquivos</translation>
     </message>
     <message>
         <source>Layout</source>
-        <translation type="unfinished">Layout</translation>
+        <translation>Layout</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished">Vertical</translation>
+        <translation>Vertical</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished">Horizontal</translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <source>Alignment</source>
-        <translation type="unfinished">Alinhamento</translation>
+        <translation>Alinhamento</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation type="unfinished">Centro</translation>
+        <translation>Centro</translation>
     </message>
     <message>
         <source>Spacing</source>
-        <translation type="unfinished">Espaçamento</translation>
+        <translation>Espaçamento</translation>
     </message>
     <message>
         <source>Mosaic</source>
-        <translation type="unfinished">Mosaico</translation>
+        <translation>Mosaico</translation>
     </message>
     <message>
         <source>Thumbnails per row</source>
-        <translation type="unfinished"></translation>
+        <translation>Miniaturas por linha</translation>
     </message>
     <message>
         <source>Collage</source>
-        <translation type="unfinished"></translation>
+        <translation>Colagem</translation>
     </message>
     <message>
         <source>Output size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho da saída</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished">Largura</translation>
+        <translation>Largura</translation>
     </message>
     <message>
         <source>pixel</source>
-        <translation type="unfinished"></translation>
+        <translation>pixel</translation>
     </message>
     <message>
         <source>inch</source>
-        <translation type="unfinished">polegadas</translation>
+        <translation>polegada</translation>
     </message>
     <message>
         <source>cm</source>
-        <translation type="unfinished">cm</translation>
+        <translation>cm</translation>
     </message>
     <message>
         <source>Height</source>
-        <translation type="unfinished">Altura</translation>
+        <translation>Altura</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Configurações</translation>
+        <translation>Configurações</translation>
     </message>
     <message>
         <source>Background color</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor de fundo</translation>
     </message>
     <message>
         <source>Left / Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Esquerda / Superior</translation>
     </message>
     <message>
         <source>Right / Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Direito / Inferior</translation>
     </message>
     <message>
         <source>Fit width or height</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustar à largura ou altura</translation>
     </message>
     <message>
         <source>Join images</source>
-        <translation type="unfinished"></translation>
+        <translation>Juntar imagens</translation>
     </message>
 </context>
 <context>
     <name>DlgTagPhoto</name>
     <message>
         <source>Threshold</source>
-        <translation type="unfinished"></translation>
+        <translation>Limiar</translation>
     </message>
     <message>
         <source>Search face</source>
-        <translation type="unfinished"></translation>
+        <translation>Pesquisar rosto</translation>
     </message>
     <message>
         <source>Clear regions</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpar regiões</translation>
     </message>
     <message>
         <source>Write...</source>
-        <translation type="unfinished"></translation>
+        <translation>Gravar...</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Remover</translation>
+        <translation>Excluir</translation>
     </message>
     <message>
         <source>Overwrite face regions</source>
-        <translation type="unfinished"></translation>
+        <translation>Sobrescrever regiões de rosto</translation>
     </message>
     <message>
         <source>Face Tag</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcação de Rosto</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Adicionar</translation>
+        <translation>Adicionar</translation>
     </message>
     <message>
         <source>This will overwrite XMP face&apos;s regions of the file. 
@@ -11534,11 +11608,11 @@ Do you want to continue?</source>
     <name>DlgTimestamp</name>
     <message>
         <source>File created date</source>
-        <translation>Data de criação do arquivo</translation>
+        <translation>Data de criação</translation>
     </message>
     <message>
         <source>File modified date</source>
-        <translation>Data de modificação do arquivo</translation>
+        <translation>Data da modificação</translation>
     </message>
     <message>
         <source>EXIF: Date modified</source>
@@ -11546,23 +11620,23 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>EXIF: Date taken</source>
-        <translation>EXIF: Data da fotografia</translation>
+        <translation>EXIF: Data de captura</translation>
     </message>
     <message>
         <source>EXIF: Date digitized</source>
-        <translation>EXIF: Data da digitalização</translation>
+        <translation>EXIF: Data de digitalização</translation>
     </message>
     <message>
         <source>Problem</source>
-        <translation type="unfinished">Problema</translation>
+        <translation>Problema</translation>
     </message>
     <message>
         <source>An error occurred in updating process!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocorreu um erro na atualização do processo!</translation>
     </message>
     <message>
         <source>Modifying timestamp, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Modificando carimbo de data e hora. Aguarde...</translation>
     </message>
     <message>
         <source>An error occurred when updating these files:</source>
@@ -11573,7 +11647,7 @@ Do you want to continue?</source>
     <name>DlgTimestampClass</name>
     <message>
         <source>Change timestamp</source>
-        <translation>Alterar &quot;timestamp&quot;</translation>
+        <translation>Alterar registro de data e hora</translation>
     </message>
     <message>
         <source>Use</source>
@@ -11581,11 +11655,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Current date &amp;&amp; time</source>
-        <translation>Data e horário atuais</translation>
+        <translation>Data e hora atuais</translation>
     </message>
     <message>
         <source>Specific date &amp;&amp; time</source>
-        <translation>Data e horário específicos</translation>
+        <translation>Data e hora específicas</translation>
     </message>
     <message>
         <source>+</source>
@@ -11597,7 +11671,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>day(s)</source>
-        <translation>Dia(s)</translation>
+        <translation>dia(s)</translation>
     </message>
     <message>
         <source>Change</source>
@@ -11605,27 +11679,27 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>File: Created date</source>
-        <translation>Data de criação do arquivo</translation>
+        <translation>Arquivo: Data de criação</translation>
     </message>
     <message>
         <source>File: Modified date</source>
-        <translation>Data de alteração do arquivo</translation>
+        <translation>Arquivo: Data de modificação</translation>
     </message>
     <message>
         <source>EXIF: Date taken</source>
-        <translation>EXIF :EXIF Data da fotografia</translation>
+        <translation>EXIF: Data de captura</translation>
     </message>
     <message>
         <source>EXIF: Date digitized</source>
-        <translation>EXIF : Data de digitalização</translation>
+        <translation>EXIF: Data de digitalização</translation>
     </message>
     <message>
         <source>EXIF: Date modified</source>
-        <translation>EXIF : Data de alteração</translation>
+        <translation>EXIF: Data de modificação</translation>
     </message>
     <message>
         <source>Write</source>
-        <translation>Escrever</translation>
+        <translation>Escrita</translation>
     </message>
     <message>
         <source>Create EXIF metadata if needed</source>
@@ -11633,15 +11707,15 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Write to all files</source>
-        <translation type="unfinished"></translation>
+        <translation>Escrever para todos os arquivos</translation>
     </message>
     <message>
         <source>seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>segundos</translation>
     </message>
     <message>
         <source>Force the update in case of anomaly</source>
-        <translation type="unfinished"></translation>
+        <translation>Forçar a atualização em caso de anomalia</translation>
     </message>
     <message>
         <source>Increment at each image by</source>
@@ -11652,11 +11726,11 @@ Do you want to continue?</source>
     <name>DlgTransfer</name>
     <message>
         <source>Add&gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Adicionar&gt;&gt;</translation>
     </message>
     <message>
         <source>Clear all</source>
-        <translation type="unfinished">Limpar todos</translation>
+        <translation>Limpar tudo</translation>
     </message>
     <message>
         <source>Edit Metadata</source>
@@ -11664,84 +11738,84 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Write</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Escrita</translation>
     </message>
 </context>
 <context>
     <name>DlgTransitionEffects</name>
     <message>
         <source>Transition effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Efeitos de transição</translation>
     </message>
     <message>
         <source>Transition Effects List:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista de Efeitos de Transição:</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Nenhum</translation>
+        <translation>Nenhum</translation>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Tudo</translation>
     </message>
     <message>
         <source>Speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Velocidade</translation>
     </message>
     <message>
         <source>Very fast (0.25 s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Muito rápido (0,25)</translation>
     </message>
     <message>
         <source>Fast (0.5 s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rápido (0.5 s)</translation>
     </message>
     <message>
         <source>Normal (1 s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Normal (1 s)</translation>
     </message>
     <message>
         <source>Slow (1.5 s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lento (1.5 s)</translation>
     </message>
     <message>
         <source>Very slow (2 s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Muito lento (2 s)</translation>
     </message>
 </context>
 <context>
     <name>DlgUpdate</name>
     <message>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualização</translation>
     </message>
     <message>
         <source>A new version is available</source>
-        <translation type="unfinished"></translation>
+        <translation>Uma nova versão está disponível</translation>
     </message>
     <message>
         <source>New version: </source>
-        <translation type="unfinished"></translation>
+        <translation>Nova versão: </translation>
     </message>
     <message>
         <source>Current version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Versão atual:</translation>
     </message>
     <message>
         <source>Changelog:</source>
-        <translation type="unfinished"></translation>
+        <translation>Registro de alterações:</translation>
     </message>
     <message>
         <source>Download new version...</source>
-        <translation type="unfinished"></translation>
+        <translation>Baixar nova versão...</translation>
     </message>
 </context>
 <context>
     <name>DlgUpload</name>
     <message>
         <source>Upload</source>
-        <translation>Enviar</translation>
+        <translation>Transferir</translation>
     </message>
     <message>
         <source>Error</source>
@@ -11757,14 +11831,14 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Unable to upload image file...</source>
-        <translation>Não foi possível enviar o arquivo de imagem...</translation>
+        <translation>Não foi possível carregar o arquivo de imagem...</translation>
     </message>
 </context>
 <context>
     <name>DlgUploadClass</name>
     <message>
         <source>Upload image</source>
-        <translation>Enviar imagem</translation>
+        <translation>Upload de imagem</translation>
     </message>
     <message>
         <source>Service</source>
@@ -11800,11 +11874,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Thumbnail link</source>
-        <translation>&quot;Link&quot; da miniatura</translation>
+        <translation>Link da miniatura</translation>
     </message>
     <message>
         <source>Image link</source>
-        <translation>&quot;Link&quot; da imagem</translation>
+        <translation>Link da imagem</translation>
     </message>
     <message>
         <source>Authentication</source>
@@ -11812,14 +11886,14 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Be careful, your image(s) will be uploaded on a public server!</source>
-        <translation>Tome cuidado. Suas imagens serão enviadas para um servidor público!!</translation>
+        <translation>Cuidado, sua(s) imagem(s) será(ão) enviada(s) em um servidor público!</translation>
     </message>
 </context>
 <context>
     <name>DlgUserFilter</name>
     <message>
         <source>User filter</source>
-        <translation>Usar filtro</translation>
+        <translation>Filtro de usuário</translation>
     </message>
     <message>
         <source>Filter list</source>
@@ -11827,19 +11901,19 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Add filter</source>
-        <translation>Adicionar filtros</translation>
+        <translation>Adicionar filtro</translation>
     </message>
     <message>
         <source>Delete filter</source>
-        <translation>Apagar filtro</translation>
+        <translation>Excluir filtro</translation>
     </message>
     <message>
         <source>Filter matrix</source>
-        <translation>Matriz de filtros</translation>
+        <translation>Matriz de filtro</translation>
     </message>
     <message>
         <source>Bias</source>
-        <translation>Bias</translation>
+        <translation>Viés</translation>
     </message>
     <message>
         <source>Divisor</source>
@@ -11855,14 +11929,14 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Do you want to save changed filter(s)?</source>
-        <translation type="unfinished"></translation>
+        <translation>Você deseja salvar o(s) filtro(s) alterado(s)?</translation>
     </message>
 </context>
 <context>
     <name>DlgVideoGallery</name>
     <message>
         <source>Create Video Gallery</source>
-        <translation>Criar galeria de vídeos</translation>
+        <translation>Criar Galeria de Vídeos</translation>
     </message>
     <message>
         <source>Width</source>
@@ -11906,7 +11980,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Show timecode</source>
-        <translation>Mostrar códigos de tempo</translation>
+        <translation>Mostrar código de tempo</translation>
     </message>
     <message>
         <source>Show information</source>
@@ -11914,18 +11988,18 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Creating video thumbnails, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Criando miniaturas de vídeo. Aguarde...</translation>
     </message>
     <message>
         <source>Starting frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Quadro inicial</translation>
     </message>
 </context>
 <context>
     <name>DlgWallpaper</name>
     <message>
         <source>Set as wallpaper</source>
-        <translation>Usar como papel de parede</translation>
+        <translation>Definir como plano de fundo</translation>
     </message>
     <message>
         <source>Position</source>
@@ -11941,7 +12015,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Background color</source>
-        <translation>Cor do fundo</translation>
+        <translation>Cor de fundo</translation>
     </message>
     <message>
         <source>Center</source>
@@ -11964,7 +12038,7 @@ Do you want to continue?</source>
     <name>DlgWebCaptureClass</name>
     <message>
         <source>Web capture</source>
-        <translation>Captura Web</translation>
+        <translation>Captura web</translation>
     </message>
     <message>
         <source>URL</source>
@@ -11979,23 +12053,19 @@ Do you want to continue?</source>
     <name>DlgWriteAvif</name>
     <message>
         <source>Speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Velocidade</translation>
     </message>
     <message>
         <source>(10 = fastest)</source>
-        <translation type="unfinished"></translation>
+        <translation>(10 = mais rápido)</translation>
     </message>
     <message>
         <source>Quality</source>
-        <translation type="unfinished">Qualidade</translation>
+        <translation>Qualidade</translation>
     </message>
     <message>
         <source>Lowest</source>
-        <translation type="unfinished">Mais baixo</translation>
-    </message>
-    <message>
-        <source>Subsampling</source>
-        <translation type="unfinished"></translation>
+        <translation>Mínimo</translation>
     </message>
     <message>
         <source>Best</source>
@@ -12005,23 +12075,27 @@ Do you want to continue?</source>
         <source>Lossless compression</source>
         <translation type="unfinished">Compressão sem perdas</translation>
     </message>
+    <message>
+        <source>Subsampling</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgWriteBMPClass</name>
     <message>
         <source>RLE compression (4,8 bits)</source>
-        <translation>Compressão RLE (4,8 bits)</translation>
+        <translation>Compressão RLE (4 e 8 bits)</translation>
     </message>
     <message>
         <source>OS/2 BMP</source>
-        <translation>OS/2 BMP</translation>
+        <translation>BMP OS/2</translation>
     </message>
 </context>
 <context>
     <name>DlgWriteGIFClass</name>
     <message>
         <source>Interlaced</source>
-        <translation>Intercalado</translation>
+        <translation>Entrelaçado</translation>
     </message>
     <message>
         <source>GIF 87a</source>
@@ -12032,11 +12106,11 @@ Do you want to continue?</source>
     <name>DlgWriteHeic</name>
     <message>
         <source>Lowest</source>
-        <translation type="unfinished">Mais baixo</translation>
+        <translation>Mínimo</translation>
     </message>
     <message>
         <source>Quality</source>
-        <translation type="unfinished">Qualidade</translation>
+        <translation>Qualidade</translation>
     </message>
     <message>
         <source>Best</source>
@@ -12059,7 +12133,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Lowest</source>
-        <translation>Mais baixo</translation>
+        <translation>Mínimo</translation>
     </message>
     <message>
         <source>Best</source>
@@ -12067,18 +12141,18 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>File size (kbytes)</source>
-        <translation>Tamanho do arquivo (kbytes)</translation>
+        <translation>Tamanho do arquivo (KB)</translation>
     </message>
     <message>
         <source>Compression rate: 1 to </source>
-        <translation>Taxa de compressão: 1 para</translation>
+        <translation>Taxa de compressão: 1 para </translation>
     </message>
 </context>
 <context>
     <name>DlgWriteJPEGClass</name>
     <message>
         <source>Lowest</source>
-        <translation>Mais baixo</translation>
+        <translation>Mínimo</translation>
     </message>
     <message>
         <source>Best</source>
@@ -12090,27 +12164,23 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Progressive</source>
-        <translation>Progressiva</translation>
+        <translation>Progressivo</translation>
     </message>
     <message>
         <source>Optimize Huffman table</source>
-        <translation>Otimizar a tabela Huffman</translation>
+        <translation>Optimize Huffman table</translation>
     </message>
     <message>
         <source>Smoothing factor</source>
-        <translation>Fator de refinamento</translation>
+        <translation>Fator de suavização</translation>
     </message>
     <message>
         <source>Use estimated quality (when possible)</source>
-        <translation>Usar qualidade estimada (se possível)</translation>
+        <translation>Usar qualidade estimada (quando possível)</translation>
     </message>
     <message>
         <source>Rebuild embedded EXIF thumbnail</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Convert to XYB colorspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Reconstruir miniatura EXIF incorporada</translation>
     </message>
     <message>
         <source>Use JPEG-li</source>
@@ -12121,11 +12191,19 @@ Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Subsampling</source>
+        <source>Fast integer (worst but fastest)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Floating-point (best but slowest)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subsampling</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DCT method</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12137,11 +12215,7 @@ Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Fast integer (worst but fastest)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DCT method</source>
+        <source>Convert to XYB colorspace</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12149,30 +12223,30 @@ Do you want to continue?</source>
     <name>DlgWriteJPEGXLClass</name>
     <message>
         <source>Lossless compression</source>
-        <translation type="unfinished">Compressão sem perdas</translation>
+        <translation>Compressão sem perdas</translation>
     </message>
     <message>
         <source>Quality</source>
-        <translation type="unfinished">Qualidade</translation>
+        <translation>Qualidade</translation>
     </message>
     <message>
         <source>Lowest</source>
-        <translation type="unfinished">Mais baixo</translation>
+        <translation>Mínimo</translation>
     </message>
     <message>
         <source>Best</source>
-        <translation type="unfinished">Melhor</translation>
+        <translation>Melhor</translation>
     </message>
     <message>
         <source>Compression</source>
-        <translation type="unfinished">Compressão</translation>
+        <translation>Compressão</translation>
     </message>
 </context>
 <context>
     <name>DlgWriteJpegXR</name>
     <message>
         <source>Lowest</source>
-        <translation>Mais baixo</translation>
+        <translation>Mínimo</translation>
     </message>
     <message>
         <source>Best (lossless)</source>
@@ -12184,11 +12258,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Overlapped block filtering</source>
-        <translation>Bloco de filtro ultrapassado</translation>
+        <translation>Filtragem de blocos sobrepostos</translation>
     </message>
     <message>
         <source>Off</source>
-        <translation>Desligar</translation>
+        <translation>Desligado</translation>
     </message>
     <message>
         <source>HP only</source>
@@ -12196,7 +12270,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>All</source>
-        <translation>Todos</translation>
+        <translation>Tudo</translation>
     </message>
     <message>
         <source>Subsampling</source>
@@ -12218,26 +12292,26 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Compression type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de compressão</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished">Cor</translation>
+        <translation>Cor</translation>
     </message>
     <message>
         <source>B&amp;W</source>
-        <translation type="unfinished"></translation>
+        <translation>B&amp;P</translation>
     </message>
     <message>
         <source>Grayscale</source>
-        <translation type="unfinished"></translation>
+        <translation>Tons de cinza</translation>
     </message>
 </context>
 <context>
     <name>DlgWritePNGClass</name>
     <message>
         <source>Interlaced</source>
-        <translation>Intercalado</translation>
+        <translation>Entrelaçado</translation>
     </message>
     <message>
         <source>Compression level</source>
@@ -12269,21 +12343,21 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>All</source>
-        <translation>Todos</translation>
+        <translation>Tudo</translation>
     </message>
 </context>
 <context>
     <name>DlgWriteSettingsClass</name>
     <message>
         <source>Write settings</source>
-        <translation>Escrever configurações</translation>
+        <translation>Gravar configurações</translation>
     </message>
 </context>
 <context>
     <name>DlgWriteTGAClass</name>
     <message>
         <source>Bottom-up orientation</source>
-        <translation>Orientação de baixo para cima</translation>
+        <translation>Orientação de baixo</translation>
     </message>
     <message>
         <source>RLE compression</source>
@@ -12294,7 +12368,7 @@ Do you want to continue?</source>
     <name>DlgWriteTIFFClass</name>
     <message>
         <source>Only one strip</source>
-        <translation>Apenas um &quot;strip&quot;</translation>
+        <translation>Apenas uma faixa</translation>
     </message>
     <message>
         <source>Quality</source>
@@ -12313,7 +12387,7 @@ Do you want to continue?</source>
     <name>DlgWriteWebPClass</name>
     <message>
         <source>Lowest</source>
-        <translation>Mais baixo</translation>
+        <translation>Mínimo</translation>
     </message>
     <message>
         <source>Best</source>
@@ -12325,7 +12399,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>File size (kbytes)</source>
-        <translation>Tamanho do arquivo (kbytes)</translation>
+        <translation>Tamanho do arquivo (KB)</translation>
     </message>
     <message>
         <source>Compression method</source>
@@ -12337,7 +12411,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Filter sharpness</source>
-        <translation>Acuidade do filtro</translation>
+        <translation>Nitidez do filtro</translation>
     </message>
     <message>
         <source>Lossless</source>
@@ -12345,35 +12419,35 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Save preset</source>
-        <translation type="unfinished">Salvar padrão</translation>
+        <translation>Salvar predefinição</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished">Padrão</translation>
+        <translation>Padrão</translation>
     </message>
     <message>
         <source>Photo</source>
-        <translation type="unfinished"></translation>
+        <translation>Foto</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem</translation>
     </message>
     <message>
         <source>Drawing</source>
-        <translation type="unfinished"></translation>
+        <translation>Desenho</translation>
     </message>
     <message>
         <source>Icon</source>
-        <translation type="unfinished">Icone</translation>
+        <translation>Ícone</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished">Texto</translation>
+        <translation>Texto</translation>
     </message>
     <message>
         <source>Use sharp (and slow) RGB→YUV conversion</source>
-        <translation>Use conversão RGB→YUV nítida (e lenta)</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12384,43 +12458,43 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Rating</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avaliação</translation>
     </message>
     <message>
         <source>Copyright status</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Status do copyright</translation>
     </message>
     <message>
         <source>Undefined</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Indefinido</translation>
     </message>
     <message>
         <source>Protected by copyright</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Protegido por Direitos Autorais</translation>
     </message>
     <message>
         <source>Public domain</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Domínio público</translation>
     </message>
     <message>
         <source>Creation Date: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Data de criação: </translation>
     </message>
     <message>
         <source>Modification Date: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Data de modificação: </translation>
     </message>
     <message>
         <source>Keywords</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Palavras-chaves</translation>
     </message>
     <message>
         <source>(Use | to separate keywords in hierarchy)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">(Use-o para separar palavras-chave na hierarquia)</translation>
     </message>
     <message>
         <source>Apply parent categories</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aplicar à categorias pai</translation>
     </message>
     <message>
         <source>Origin</source>
@@ -12432,15 +12506,15 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Urgency</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Urgência</translation>
     </message>
     <message>
         <source>IPTC Contact</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Contato IPTC</translation>
     </message>
     <message>
         <source>IPTC extensions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Extensões IPTC</translation>
     </message>
     <message>
         <source>Options</source>
@@ -12448,6 +12522,10 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Mode:</source>
+        <translation type="unfinished">Modo:</translation>
+    </message>
+    <message>
+        <source>XMP and IPTC-IIM</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12455,12 +12533,16 @@ Do you want to continue?</source>
         <translation type="unfinished">Seleção múltipla</translation>
     </message>
     <message>
+        <source>Keep and add new value (Keywords)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Keep original value if new value is empty</source>
-        <translation type="unfinished">Manter os valores originais quando os novos valores estiverem vazios</translation>
+        <translation type="unfinished">Manter valor original se o novo valor estiver vazio</translation>
     </message>
     <message>
         <source>Replace only if original value is empty</source>
-        <translation type="unfinished">Substituir somente se o valor original estiver vazio</translation>
+        <translation type="unfinished">Substituir apenas se o valor original estiver vazio</translation>
     </message>
     <message>
         <source>Remember opened tab</source>
@@ -12468,7 +12550,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>(Use ; or , to separate the values)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">(Usar ; ou , para separar os valores)</translation>
     </message>
     <message>
         <source>0: None</source>
@@ -12480,7 +12562,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>5: Normal</source>
-        <translation type="unfinished">5 : Normal</translation>
+        <translation type="unfinished">5: Normal</translation>
     </message>
     <message>
         <source>8: Low</source>
@@ -12488,11 +12570,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Required field</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Campo obrigatório</translation>
     </message>
     <message>
         <source>Some fields are required, please fill them!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Preencha os campos obrigatórios!</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -12508,7 +12590,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Library</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Biblioteca</translation>
     </message>
     <message>
         <source>Edit history...</source>
@@ -12516,15 +12598,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Sort alphabetically</source>
-        <translation type="unfinished">Ordem alfabética</translation>
-    </message>
-    <message>
-        <source>Keep and add new value (Keywords)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>XMP and IPTC-IIM</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Classificar por nome</translation>
     </message>
 </context>
 <context>
@@ -12535,14 +12609,14 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Abort</source>
-        <translation>Abortar</translation>
+        <translation>Interromper</translation>
     </message>
 </context>
 <context>
     <name>FavoritesView</name>
     <message>
         <source>Delete</source>
-        <translation>Apagar</translation>
+        <translation>Excluir</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -12558,15 +12632,15 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>New Folder</source>
-        <translation>Nova pasta</translation>
+        <translation>Nova Pasta</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Remover</translation>
+        <translation>Excluir</translation>
     </message>
     <message>
         <source>Favorite doesn&apos;t exist</source>
-        <translation type="unfinished"></translation>
+        <translation>O favorito não existe</translation>
     </message>
     <message>
         <source>This favorite points to a folder which doesn&apos;t exist. 
@@ -12579,7 +12653,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <name>File</name>
     <message>
         <source>Copy of %1%2</source>
-        <translation>Copiar de %1%2</translation>
+        <translation>Cópia do %1%2</translation>
     </message>
     <message>
         <source>Copy (%3) of %1%2</source>
@@ -12587,7 +12661,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>%1 - Copy%2</source>
-        <translation>%1 - Copiar %2</translation>
+        <translation>%1 - Copiar%2</translation>
     </message>
     <message>
         <source>%1 - Copy (%3)%2</source>
@@ -12595,65 +12669,69 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>%1-Copy%2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-Copiar%2</translation>
     </message>
     <message>
         <source>%1-Copy (%3)%2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1-Cópia (%3)%2</translation>
     </message>
 </context>
 <context>
     <name>FileListViewEx</name>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Tudo</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Nenhum</translation>
+        <translation>Nenhum</translation>
     </message>
     <message>
         <source>Paste filenames</source>
-        <translation type="unfinished"></translation>
+        <translation>Colar nomes dos arquivos</translation>
     </message>
 </context>
 <context>
     <name>FileListWidget</name>
     <message>
         <source>Thumbnails</source>
-        <translation type="unfinished">Miniaturas</translation>
+        <translation>Miniaturas</translation>
     </message>
     <message>
         <source>Add files...</source>
-        <translation type="unfinished">Adicionar arquivos...</translation>
+        <translation>Adicionar arquivos...</translation>
     </message>
     <message>
         <source>Add folder...</source>
-        <translation type="unfinished">Adicionar pasta...</translation>
+        <translation>Adicionar pasta...</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Remover</translation>
+        <translation>Excluir</translation>
     </message>
     <message>
         <source>Remove all</source>
-        <translation type="unfinished">Remover tudo</translation>
+        <translation>Excluir tudo</translation>
     </message>
     <message>
         <source>Choose a directory</source>
-        <translation type="unfinished">Escolha uma pasta</translation>
+        <translation>Escolher um diretório</translation>
     </message>
     <message>
         <source>Drag&amp;Drop your files here</source>
-        <translation type="unfinished"></translation>
+        <translation>Arraste&amp;solte seus arquivos aqui</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished">Detalhes</translation>
+        <translation>Detalhes</translation>
     </message>
     <message>
         <source>List</source>
-        <translation type="unfinished">Lista</translation>
+        <translation>Lista</translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation type="unfinished">...</translation>
     </message>
     <message>
         <source>Thumbnails small</source>
@@ -12662,10 +12740,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Thumbnails large</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>...</source>
-        <translation type="unfinished">...</translation>
     </message>
     <message>
         <source>Remove filtered</source>
@@ -12684,7 +12758,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <name>FilterView</name>
     <message>
         <source>File type</source>
-        <translation>EXIF tipo</translation>
+        <translation>Tipo de arquivo</translation>
     </message>
     <message>
         <source>Orientation</source>
@@ -12692,19 +12766,19 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Ratio</source>
-        <translation>Taxa</translation>
+        <translation>Proporção</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Pontuação</translation>
+        <translation>Avaliação</translation>
     </message>
     <message>
         <source>Color label</source>
-        <translation>Cor da etiqueta</translation>
+        <translation>Cor do rótulo</translation>
     </message>
     <message>
         <source>Keywords</source>
-        <translation>Palavras chave</translation>
+        <translation>Palavras-chaves</translation>
     </message>
     <message>
         <source>Date created</source>
@@ -12716,19 +12790,23 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>EXIF Date taken</source>
-        <translation>EXIF Data da fotografia</translation>
+        <translation>Data de captura EXIF</translation>
     </message>
     <message>
         <source>EXIF Date modified</source>
-        <translation>EXIF Data de modificação</translation>
+        <translation>Data de modificação EXIF</translation>
     </message>
     <message>
         <source>EXIF Maker</source>
-        <translation>EXIF Criador</translation>
+        <translation>Fabricante EXIF</translation>
+    </message>
+    <message>
+        <source></source>
+        <translation>EXIF ISO</translation>
     </message>
     <message>
         <source>EXIF ISO</source>
-        <translation>EXIF ISO</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12739,18 +12817,18 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Press OK button when the autorization is done through web browser</source>
-        <translation>Aperte o botão OK quando for feita a autorização pelo navegador Web</translation>
+        <translation>Pressione o botão OK quando a autorização for concluída através do navegador web</translation>
     </message>
     <message>
         <source>An error has occurred!!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocorreu um erro!!</translation>
     </message>
 </context>
 <context>
     <name>ImgurAPI3</name>
     <message>
         <source>Could not open file</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível abrir o arquivo</translation>
     </message>
 </context>
 <context>
@@ -12781,7 +12859,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Print size</source>
-        <translation>Tamanho do impresso</translation>
+        <translation>Tamanho de impressão</translation>
     </message>
     <message>
         <source>Compression</source>
@@ -12789,7 +12867,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Progressive mode</source>
-        <translation>Modo progressivo</translation>
+        <translation>Modo Progressivo</translation>
     </message>
     <message>
         <source>Estimated quality</source>
@@ -12797,7 +12875,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Images/frames count</source>
-        <translation>Contagem de imagens / quadros</translation>
+        <translation>Contagem de imagens/quadros</translation>
     </message>
     <message>
         <source>Origin</source>
@@ -12805,7 +12883,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Embedded comment</source>
-        <translation>Comentário embutido</translation>
+        <translation>Comentário incorporado</translation>
     </message>
     <message>
         <source>Description</source>
@@ -12821,7 +12899,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Copyright</source>
-        <translation>Copyright</translation>
+        <translation>Direitos Autorais</translation>
     </message>
     <message>
         <source>Properties</source>
@@ -12829,15 +12907,15 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Pontuação</translation>
+        <translation>Avaliação</translation>
     </message>
     <message>
         <source>Colour label</source>
-        <translation>Cor da etiqueta</translation>
+        <translation>Rótulo de cor</translation>
     </message>
     <message>
         <source>Tag</source>
-        <translation>Marcação</translation>
+        <translation>Etiqueta</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -12845,7 +12923,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Ratio</source>
-        <translation>Taxa</translation>
+        <translation>Proporção</translation>
     </message>
     <message>
         <source>Categories</source>
@@ -12853,7 +12931,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Color label</source>
-        <translation>Cor da etiqueta</translation>
+        <translation>Cor do rótulo</translation>
     </message>
     <message>
         <source>File size</source>
@@ -12873,15 +12951,15 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Width (inch)</source>
-        <translation>Largura (em polegadas)</translation>
+        <translation>Largura (polegada)</translation>
     </message>
     <message>
         <source>Height (inch)</source>
-        <translation>Altura (em polegadas)</translation>
+        <translation>Altura (polegada)</translation>
     </message>
     <message>
         <source>Filename</source>
-        <translation>Nome do arquivo</translation>
+        <translation>Nome do Arquivo</translation>
     </message>
     <message>
         <source>Filename without extension</source>
@@ -12893,7 +12971,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Folder name</source>
-        <translation>Nome da pasta</translation>
+        <translation>Nome Pasta</translation>
     </message>
     <message>
         <source>Accessed date</source>
@@ -12905,15 +12983,15 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Modified date</source>
-        <translation>Data de alteração</translation>
+        <translation>Data de modificação</translation>
     </message>
     <message>
         <source>Size (Auto)</source>
-        <translation>Tamanho (Automático)</translation>
+        <translation>Tamanho (automático)</translation>
     </message>
     <message>
         <source>Size (Bytes)</source>
-        <translation>Tamanho (Bytes)</translation>
+        <translation>Tamanho (binários)</translation>
     </message>
     <message>
         <source>Size (KB)</source>
@@ -12933,15 +13011,15 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Tag status</source>
-        <translation>Status de marcação</translation>
+        <translation>Status da etiqueta</translation>
     </message>
     <message>
         <source>Rating (number)</source>
-        <translation>Taxa (número)</translation>
+        <translation>Avaliação (numeração)</translation>
     </message>
     <message>
         <source>Color label (number)</source>
-        <translation>Etiqueta da cor (número)</translation>
+        <translation>Cor do rótulo (número)</translation>
     </message>
     <message>
         <source>None</source>
@@ -12949,7 +13027,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Black&amp;White</source>
-        <translation>Preto&amp;branco</translation>
+        <translation>Branco&amp;Preto</translation>
     </message>
     <message>
         <source>Extension</source>
@@ -12957,15 +13035,15 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Width (cm)</source>
-        <translation>Largura (em centímetros)</translation>
+        <translation>Largura (cm)</translation>
     </message>
     <message>
         <source>Height (cm)</source>
-        <translation>Altura (em centímetros)</translation>
+        <translation>Altura (cm)</translation>
     </message>
     <message>
         <source>Info</source>
-        <translation>Informações</translation>
+        <translation>Info</translation>
     </message>
     <message>
         <source>Date</source>
@@ -12977,7 +13055,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Date taken</source>
-        <translation>Data da fotografia</translation>
+        <translation>Data da captura</translation>
     </message>
     <message>
         <source>Type</source>
@@ -12985,134 +13063,142 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Dimension</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimensão</translation>
     </message>
     <message>
         <source>MPixels</source>
-        <translation type="unfinished"></translation>
+        <translation>MPixels</translation>
     </message>
     <message>
         <source>Codec</source>
-        <translation type="unfinished"></translation>
+        <translation>Codec</translation>
     </message>
     <message>
         <source>Duration</source>
-        <translation type="unfinished"></translation>
+        <translation>Duração</translation>
     </message>
     <message>
         <source>Bit rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Taxa de bits</translation>
     </message>
     <message>
         <source>Aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Proporção da tela</translation>
     </message>
     <message>
         <source>Frame rate mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo de taxa de quadros</translation>
     </message>
     <message>
         <source>Frame rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Taxa de quadros</translation>
     </message>
     <message>
         <source>Compression mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo de compressão</translation>
     </message>
     <message>
         <source>Bits/sample</source>
-        <translation type="unfinished"></translation>
+        <translation>Bits/amostra</translation>
     </message>
     <message>
         <source>Format version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versão do formato</translation>
     </message>
     <message>
         <source>Format profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatar perfil</translation>
     </message>
     <message>
         <source>Format settings</source>
-        <translation type="unfinished">Configurações do formato</translation>
+        <translation>Configurações de formato</translation>
     </message>
     <message>
         <source>Bit rate mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo taxa de bits</translation>
     </message>
     <message>
         <source>Sampling rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Taxa de amostragem</translation>
     </message>
     <message>
         <source>Album</source>
-        <translation type="unfinished"></translation>
+        <translation>Álbum</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation type="unfinished">Título</translation>
+        <translation>Título</translation>
     </message>
     <message>
         <source>Performer</source>
-        <translation type="unfinished"></translation>
+        <translation>Artista</translation>
     </message>
     <message>
         <source>Genre</source>
-        <translation type="unfinished"></translation>
+        <translation>Gênero</translation>
     </message>
     <message>
         <source>Recorded date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data da gravação</translation>
     </message>
     <message>
         <source>Encoded date</source>
-        <translation type="unfinished"></translation>
+        <translation>Data de codificação</translation>
     </message>
     <message>
         <source>Pathname</source>
-        <translation type="unfinished">Caminho</translation>
+        <translation>Nome do caminho</translation>
     </message>
     <message>
         <source>Width (mm)</source>
-        <translation type="unfinished"></translation>
+        <translation>Largura (mm)</translation>
     </message>
     <message>
         <source>Height (mm)</source>
-        <translation type="unfinished"></translation>
+        <translation>Altura (mm)</translation>
     </message>
     <message>
         <source>Output filename</source>
-        <translation type="unfinished">Arquivo de saída</translation>
+        <translation>Arquivo de saída</translation>
     </message>
     <message>
         <source>Colors used</source>
-        <translation type="unfinished"></translation>
+        <translation>Cores usadas</translation>
     </message>
     <message>
         <source>Lens model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo da lente</translation>
     </message>
     <message>
         <source>Focal length (mm)</source>
-        <translation type="unfinished"></translation>
+        <translation>Distância focal (mm)</translation>
     </message>
     <message>
         <source>Width/Height Ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Proporção Largura/Altura</translation>
     </message>
     <message>
         <source>Height/Width Ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Proporção altura/largura</translation>
     </message>
     <message>
         <source>Filename (with extension)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome do arquivo (com extensão)</translation>
     </message>
     <message>
         <source>Path</source>
-        <translation type="unfinished">Caminho</translation>
+        <translation>Caminho</translation>
     </message>
     <message>
         <source>Ratio Decimal</source>
+        <translation>Razão decimal</translation>
+    </message>
+    <message>
+        <source>File type</source>
+        <translation type="unfinished">Tipo de arquivo</translation>
+    </message>
+    <message>
+        <source>Filename (last number)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13120,11 +13206,23 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Output filename (with extension)</source>
+        <source>All fields (Number)</source>
+        <translation type="unfinished">Todos os campos (Número)</translation>
+    </message>
+    <message>
+        <source>Field</source>
+        <translation type="unfinished">Campo</translation>
+    </message>
+    <message>
+        <source>Field (Number)</source>
+        <translation type="unfinished">Campo (Número)</translation>
+    </message>
+    <message>
+        <source>DPI-X</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Filename (last number)</source>
+        <source>DPI-Y</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13136,23 +13234,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>DPI-X</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DPI-Y</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>All fields (Number)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Field</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Field (Number)</source>
+        <source>Output filename (with extension)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13176,11 +13258,11 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Merge with...</source>
-        <translation>Agrupar com...</translation>
+        <translation>Mesclar com...</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Apagar</translation>
+        <translation>Excluir</translation>
     </message>
     <message>
         <source>Edit...</source>
@@ -13188,15 +13270,15 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Delete category</source>
-        <translation>Apagar categoria</translation>
+        <translation>Excluir categoria</translation>
     </message>
     <message>
         <source>Are you sure to delete this category?</source>
-        <translation>Você tem certeza que deseja apagar esta categoria?</translation>
+        <translation>Você tem certeza de que deseja excluir esta categoria?</translation>
     </message>
     <message>
         <source>New Category</source>
-        <translation>Nova categoria</translation>
+        <translation>Adicionar categoria</translation>
     </message>
 </context>
 <context>
@@ -13207,15 +13289,15 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Partial Match at the Beginning</source>
-        <translation>Padrão parcial encontrado no início</translation>
+        <translation>Correspondência parcial no início</translation>
     </message>
     <message>
         <source>Partial Match Anywhere</source>
-        <translation>Padrão parcial encontrado em qualquer parte</translation>
+        <translation>Correspondência parcial em qualquer lugar</translation>
     </message>
     <message>
         <source>Use Regular Expressions</source>
-        <translation>Usar expressão regular</translation>
+        <translation>Usar Expressões Regulares</translation>
     </message>
     <message>
         <source>Action</source>
@@ -13235,8 +13317,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Are you sure that you want to start importing categories file?</source>
-        <translatorcomment>Você tem certeza que deseja iniciar a importação do arquivo de categorias?</translatorcomment>
-        <translation></translation>
+        <translatorcomment>Você Você tem certeza de que deseja iniciar a importação do arquivo de categorias?</translatorcomment>
+        <translation>Você tem certeza de que deseja começar a importar o arquivo de categorias?</translation>
     </message>
     <message>
         <source>Assign Category</source>
@@ -13244,22 +13326,34 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Open Tree</source>
-        <translation>Abrir árvore</translation>
+        <translation>Abrir Árvore</translation>
     </message>
     <message>
         <source>Auto Correct...</source>
-        <translation>Auto-Correção...</translation>
+        <translation>Correção automática...</translation>
     </message>
     <message>
         <source>Hide assigned categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocultar categorias atribuídas</translation>
     </message>
     <message>
         <source>Importing categories file, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Importando arquivo de categorias. Aguarde...</translation>
     </message>
     <message>
         <source>Exporting categories file, please wait...</source>
+        <translation>Exportando o arquivo de categorias. Aguarde...</translation>
+    </message>
+    <message>
+        <source>Import Categories...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import Categories (XnView Classic db)...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export Categories...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13269,6 +13363,22 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Delete all categories...</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Can&apos;t import XnView Classic category database</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Problem during database import!</source>
+        <translation type="unfinished">Problema durante a importação do banco de dados!</translation>
+    </message>
+    <message>
+        <source>Category tree successfully imported into XnView categories</source>
+        <translation type="unfinished">Árvore de categorias importada com sucesso para as categorias do XnView</translation>
+    </message>
+    <message>
+        <source>Can&apos;t import XnView database</source>
+        <translation type="unfinished">Não foi possível importar o banco de dados do XnView</translation>
     </message>
     <message>
         <source>Delete all categories</source>
@@ -13284,34 +13394,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Do you want to delete unused categories?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Import Categories...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Import Categories (XnView Classic db)...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Export Categories...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Can&apos;t import XnView Classic category database</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Problem during database import!</source>
-        <translation type="unfinished">Problemas ao importar o banco de dados!</translation>
-    </message>
-    <message>
-        <source>Category tree successfully imported into XnView categories</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Can&apos;t import XnView database</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13331,7 +13413,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Makernotes</source>
-        <translation>Anotações do criador</translation>
+        <translation>Informações do fabricante</translation>
     </message>
 </context>
 <context>
@@ -13358,11 +13440,11 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Makernotes</source>
-        <translation>Anotações do criador</translation>
+        <translation>Informações do fabricante</translation>
     </message>
     <message>
         <source>Maker</source>
-        <translation>Criador</translation>
+        <translation>Fabricante</translation>
     </message>
     <message>
         <source>Model</source>
@@ -13374,7 +13456,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>ShutterSpeed</source>
-        <translation>Velocidade do obturador</translation>
+        <translation>Velocidade do Obturador</translation>
     </message>
     <message>
         <source>Focal Length</source>
@@ -13394,7 +13476,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Software</source>
-        <translation>Software utilizado</translation>
+        <translation>Software</translation>
     </message>
     <message>
         <source>Artist</source>
@@ -13402,7 +13484,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>User comment</source>
-        <translation>Comentários do usuário</translation>
+        <translation>Comentário do usuário</translation>
     </message>
     <message>
         <source>F-Number</source>
@@ -13410,11 +13492,11 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Copyright</source>
-        <translation>Copyright</translation>
+        <translation>Direitos Autorais</translation>
     </message>
     <message>
         <source>Date/time modified</source>
-        <translation>Data e horário de alteração</translation>
+        <translation>Data/hora de modificação</translation>
     </message>
     <message>
         <source>Orientation</source>
@@ -13422,11 +13504,11 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>X-Resolution</source>
-        <translation>Resolução X</translation>
+        <translation>Resolução-X</translation>
     </message>
     <message>
         <source>Y-Resolution</source>
-        <translation>Resolução Y</translation>
+        <translation>Resoluções-Y</translation>
     </message>
     <message>
         <source>Resolution unit</source>
@@ -13438,27 +13520,27 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>YCbCr-Coefficients</source>
-        <translation>Coeficientes YCbCr</translation>
+        <translation>Coeficientes YCbCr-</translation>
     </message>
     <message>
         <source>YCbCr-Positioning</source>
-        <translation>Posicionamento YCbCr</translation>
+        <translation>Posição do YCbCr-Posicionamento</translation>
     </message>
     <message>
         <source>Ref. black/white</source>
-        <translation>Referência de preto e branco</translation>
+        <translation>Ref. preto/branco</translation>
     </message>
     <message>
         <source>XP Title</source>
-        <translation>Título XP</translation>
+        <translation>Título de XP</translation>
     </message>
     <message>
         <source>XP Comment</source>
-        <translation>Comentário XP</translation>
+        <translation>Comentário de XP</translation>
     </message>
     <message>
         <source>XP Author</source>
-        <translation>Autor XP</translation>
+        <translation>Autor do XP</translation>
     </message>
     <message>
         <source>XP Keywords</source>
@@ -13466,43 +13548,43 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>XP Subject</source>
-        <translation>Sujeito XP</translation>
+        <translation>Assunto de XP</translation>
     </message>
     <message>
         <source>Date taken</source>
-        <translation>Data da fotografia</translation>
+        <translation>Data da captura</translation>
     </message>
     <message>
         <source>Date digitized</source>
-        <translation>Data de digitação</translation>
+        <translation>Data da digitalização</translation>
     </message>
     <message>
         <source>Exposure Program</source>
-        <translation>Programa de exposição</translation>
+        <translation>Programa de Exposição</translation>
     </message>
     <message>
         <source>Exposure Mode</source>
-        <translation>Modo de exposição</translation>
+        <translation>Modo de Exposição</translation>
     </message>
     <message>
         <source>Exposure Bias</source>
-        <translation>Bias da exposição</translation>
+        <translation>Compensação de Exposição</translation>
     </message>
     <message>
         <source>Exposure Index</source>
-        <translation>Índice de exposição</translation>
+        <translation>Índice de Exposição</translation>
     </message>
     <message>
         <source>35mm Focal length</source>
-        <translation>Distância focal de 35mm</translation>
+        <translation>Comprimento do Focal de 35mm</translation>
     </message>
     <message>
         <source>ISO Value</source>
-        <translation>Valor do ISO</translation>
+        <translation>Valor ISO</translation>
     </message>
     <message>
         <source>Max. aperture</source>
-        <translation>Abertura máxima</translation>
+        <translation>Documentação máxima</translation>
     </message>
     <message>
         <source>Colour space</source>
@@ -13518,11 +13600,11 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Subj. Dist. Range</source>
-        <translation>Taxa de distância do objeto</translation>
+        <translation>Distância do objeto - alcance</translation>
     </message>
     <message>
         <source>Subject location</source>
-        <translation>Localização do objeto</translation>
+        <translation>Localização do assunto</translation>
     </message>
     <message>
         <source>Flash</source>
@@ -13530,11 +13612,11 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Flash energy</source>
-        <translation>Enrgia do flash</translation>
+        <translation>Energia do flash</translation>
     </message>
     <message>
         <source>Metering mode</source>
-        <translation>Modo de medida</translation>
+        <translation>Modo de medição</translation>
     </message>
     <message>
         <source>Gain control</source>
@@ -13542,11 +13624,11 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Light source</source>
-        <translation>Fonte luminosa</translation>
+        <translation>Fonte de luz</translation>
     </message>
     <message>
         <source>White balance</source>
-        <translation>Balanço branco</translation>
+        <translation>Equilíbrio de branco</translation>
     </message>
     <message>
         <source>Contrast</source>
@@ -13570,19 +13652,19 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Spatial freq. response</source>
-        <translation>Resposta de frequencia espacial</translation>
+        <translation>Resposta de frequência espacial</translation>
     </message>
     <message>
         <source>Sensing method</source>
-        <translation>Método de sensibilização</translation>
+        <translation>Método de detecção</translation>
     </message>
     <message>
         <source>File source</source>
-        <translation>Arquivo fonte</translation>
+        <translation>Arquivo de origem</translation>
     </message>
     <message>
         <source>CFA pattern</source>
-        <translation>ModeloCFA</translation>
+        <translation>Padrão CFA</translation>
     </message>
     <message>
         <source>Custom rendered</source>
@@ -13590,19 +13672,19 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Device settings desc.</source>
-        <translation>Descrição de configuração do dispositivo.</translation>
+        <translation>Descr. das config. do dispositivo.</translation>
     </message>
     <message>
         <source>Scene type</source>
-        <translation>Tipo de cenário</translation>
+        <translation>Tipo de cena</translation>
     </message>
     <message>
         <source>Scene capture type</source>
-        <translation>Tipo de captura de cenário</translation>
+        <translation>Tipo de captura de cena</translation>
     </message>
     <message>
         <source>Image-ID</source>
-        <translation>Identificador da imagem</translation>
+        <translation>ID da Imagem</translation>
     </message>
     <message>
         <source>Image width</source>
@@ -13614,7 +13696,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Image description</source>
-        <translation>Descrição da imagem</translation>
+        <translation>Descrição da Imagem</translation>
     </message>
     <message>
         <source>Components configuration</source>
@@ -13626,15 +13708,15 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Focal Plane X-Resolution</source>
-        <translation>Plano focal Resolução X</translation>
+        <translation>Resolução X do Plano Focal</translation>
     </message>
     <message>
         <source>Focal Plane Y-Resolution</source>
-        <translation>Plano focal Resolução Y</translation>
+        <translation>Resolução Y do Plano Focal</translation>
     </message>
     <message>
         <source>Focal Plane Res. Unit</source>
-        <translation>Unidade do plano de resolução focal</translation>
+        <translation>Unid. de Res. do Plano Focal</translation>
     </message>
     <message>
         <source>EXIF Version</source>
@@ -13646,15 +13728,15 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Latitude ref.</source>
-        <translation>Referência de latitude.</translation>
+        <translation>Ref. de Latitude.</translation>
     </message>
     <message>
         <source>Longitude ref.</source>
-        <translation>Referência de longitude.</translation>
+        <translation>Ref. de Longitude.</translation>
     </message>
     <message>
         <source>Altitude ref.</source>
-        <translation>Referência de altitude.</translation>
+        <translation>Ref. de Altitude.</translation>
     </message>
     <message>
         <source>Altitude</source>
@@ -13662,38 +13744,54 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>LensID</source>
-        <translation>LensID</translation>
+        <translation>ID da Lente</translation>
     </message>
     <message>
         <source>Direction ref.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ref. de Direção.</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation type="unfinished">Direção</translation>
+        <translation>Direção</translation>
     </message>
     <message>
         <source>Lens Make</source>
-        <translation type="unfinished"></translation>
+        <translation>Fabricante da Lente</translation>
     </message>
     <message>
         <source>Lens Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelo da Lente</translation>
     </message>
     <message>
         <source>Latitude (value)</source>
-        <translation type="unfinished"></translation>
+        <translation>Latitude (valor)</translation>
     </message>
     <message>
         <source>Longitude (value)</source>
-        <translation type="unfinished"></translation>
+        <translation>Longitude (valor)</translation>
     </message>
     <message>
         <source>Location Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Código de localização</translation>
     </message>
     <message>
         <source>Exposure Time</source>
+        <translation>Tempo de Exposição</translation>
+    </message>
+    <message>
+        <source>Lens</source>
+        <translation type="unfinished">Lente</translation>
+    </message>
+    <message>
+        <source>Shutter Speed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Focal length (mm)</source>
+        <translation type="unfinished">Distância focal (mm)</translation>
+    </message>
+    <message>
+        <source>Exposure time (s)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13701,15 +13799,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Focal length (mm)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Shutter speed (s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Exposure time (s)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13733,7 +13823,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Keywords &amp; Categories</source>
-        <translation>Palavras chave &amp; Categorias</translation>
+        <translation>Palavras-chave e categorias</translation>
     </message>
     <message>
         <source>Credits</source>
@@ -13756,11 +13846,11 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Caption writer</source>
-        <translation>Escritor da legenda</translation>
+        <translation>Escritor de legenda</translation>
     </message>
     <message>
         <source>Headline</source>
-        <translation>Linha &quot;headline&quot;</translation>
+        <translation>Título</translation>
     </message>
     <message>
         <source>Special instructions</source>
@@ -13768,7 +13858,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Keywords</source>
-        <translation>Palavras-chave</translation>
+        <translation>Palavras-chaves</translation>
     </message>
     <message>
         <source>Category</source>
@@ -13780,15 +13870,15 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Copyright</source>
-        <translation>Copyright</translation>
+        <translation>Direitos Autorais</translation>
     </message>
     <message>
         <source>Byline</source>
-        <translation>Por linha</translation>
+        <translation>Créditos</translation>
     </message>
     <message>
         <source>Byline title</source>
-        <translation>Título por linha</translation>
+        <translation>Título dos créditos</translation>
     </message>
     <message>
         <source>Credits</source>
@@ -13796,7 +13886,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Source</source>
-        <translation>Fonte</translation>
+        <translation>Origem</translation>
     </message>
     <message>
         <source>Edit status</source>
@@ -13804,7 +13894,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Job ID</source>
-        <translation>Identificação do trabalho</translation>
+        <translation>ID do Trabalho</translation>
     </message>
     <message>
         <source>Program</source>
@@ -13828,7 +13918,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>State/Province</source>
-        <translation>Estado / Província</translation>
+        <translation>Estado/Província</translation>
     </message>
     <message>
         <source>Country</source>
@@ -13840,7 +13930,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Original tr. ref.</source>
-        <translation>Referência de transmissão original.</translation>
+        <translation>Ref. de tr. original.</translation>
     </message>
     <message>
         <source>Created date</source>
@@ -13848,15 +13938,15 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Created time</source>
-        <translation>Horário de criação</translation>
+        <translation>Hora de criação</translation>
     </message>
     <message>
         <source>Released date</source>
-        <translation>Data de liberação</translation>
+        <translation>Data do lançamento</translation>
     </message>
     <message>
         <source>Release time</source>
-        <translation>Horário de liberação</translation>
+        <translation>Hora do lançamento</translation>
     </message>
     <message>
         <source>Contact</source>
@@ -13864,7 +13954,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Location</source>
-        <translation>Localização</translation>
+        <translation>Local</translation>
     </message>
     <message>
         <source>Categories</source>
@@ -13872,11 +13962,11 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Content location code</source>
-        <translation>Código de localização de conteúdo</translation>
+        <translation>Código da localização do conteúdo</translation>
     </message>
     <message>
         <source>Content location name</source>
-        <translation>Nome da localização de conteúdo</translation>
+        <translation>Nome da localização do conteúdo</translation>
     </message>
     <message>
         <source>Original transmission reference</source>
@@ -13896,7 +13986,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Original trans. ref.</source>
-        <translation>Referência de transmissão original.</translation>
+        <translation>Ref. de trans. original.</translation>
     </message>
     <message>
         <source>Creator</source>
@@ -13908,7 +13998,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Subject</source>
-        <translation>Assunto</translation>
+        <translation>Objeto</translation>
     </message>
     <message>
         <source>Title</source>
@@ -13916,7 +14006,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Authors position</source>
-        <translation>Posição do autor</translation>
+        <translation>Cargo do autor</translation>
     </message>
     <message>
         <source>Other</source>
@@ -13924,90 +14014,94 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Content location</source>
-        <translation>Local do conteúdo</translation>
+        <translation>Localização do conteúdo</translation>
     </message>
     <message>
         <source>Instructions</source>
-        <translation type="unfinished"></translation>
+        <translation>Instruções</translation>
     </message>
     <message>
         <source>Document title</source>
-        <translation type="unfinished"></translation>
+        <translation>Título do documento</translation>
     </message>
     <message>
         <source>Author</source>
-        <translation type="unfinished"></translation>
+        <translation>Autor</translation>
     </message>
     <message>
         <source>Copyright Notice</source>
-        <translation type="unfinished"></translation>
+        <translation>Declaração de Direitos Autorais</translation>
     </message>
     <message>
         <source>Copyright info URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL das informações de direitos autorais</translation>
     </message>
     <message>
         <source>Transmission reference</source>
-        <translation type="unfinished"></translation>
+        <translation>Referência de transmissão</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Endereço</translation>
     </message>
     <message>
         <source>ZIP code</source>
-        <translation type="unfinished"></translation>
+        <translation>CEP</translation>
     </message>
     <message>
         <source>Telephon number</source>
-        <translation type="unfinished"></translation>
+        <translation>Telefone</translation>
     </message>
     <message>
         <source>Email</source>
-        <translation type="unfinished"></translation>
+        <translation>E-mail</translation>
     </message>
     <message>
         <source>Web site</source>
-        <translation type="unfinished"></translation>
+        <translation>Site</translation>
     </message>
     <message>
         <source>Person in image</source>
-        <translation type="unfinished"></translation>
+        <translation>Pessoa na imagem</translation>
     </message>
     <message>
         <source>Name of organization represented</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome da organização representada</translation>
     </message>
     <message>
         <source>Code of organization represented</source>
-        <translation type="unfinished"></translation>
+        <translation>Código de organização representado</translation>
     </message>
     <message>
         <source>Event</source>
-        <translation type="unfinished"></translation>
+        <translation>Evento</translation>
     </message>
     <message>
         <source>Custom field</source>
-        <translation type="unfinished"></translation>
+        <translation>Campo personalizado</translation>
     </message>
     <message>
         <source>Digitized date</source>
-        <translation type="unfinished">Data da digitalização</translation>
+        <translation>Data de digitalização</translation>
     </message>
     <message>
         <source>Digitized time</source>
-        <translation type="unfinished"></translation>
+        <translation>Hora da digitalização</translation>
     </message>
     <message>
         <source>Sublocation</source>
-        <translation type="unfinished"></translation>
+        <translation>Sublocagem</translation>
     </message>
     <message>
         <source>Copyright usage terms</source>
-        <translation type="unfinished"></translation>
+        <translation>Termos de uso de direitos autorais</translation>
     </message>
     <message>
         <source>Country Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Telephone number</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14070,10 +14164,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <source>Custom field 10</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Telephone number</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>InfoPropertiesView</name>
@@ -14091,27 +14181,27 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation>Margem superior direita</translation>
+        <translation>Superior Direito</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation>Borda inferior esquerda</translation>
+        <translation>Inferior à esquerda</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation>Borda inferior direita</translation>
+        <translation>Inferior à direita</translation>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation>Margem superior esquerda</translation>
+        <translation>Superior Esquerdo</translation>
     </message>
     <message>
         <source>Color Profile</source>
-        <translation>Perfil de cores</translation>
+        <translation>Perfil de cor</translation>
     </message>
     <message>
         <source>Extra info</source>
-        <translation>Informações adicionais</translation>
+        <translation>Extra info</translation>
     </message>
     <message>
         <source>File</source>
@@ -14119,11 +14209,11 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Filename</source>
-        <translation>Nome do arquivo</translation>
+        <translation>Nome do Arquivo</translation>
     </message>
     <message>
         <source>Filepath</source>
-        <translation>Caminho de arquivos</translation>
+        <translation>Caminho</translation>
     </message>
     <message>
         <source>Description</source>
@@ -14135,19 +14225,19 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Creation date/time</source>
-        <translation>Data e horário da criação</translation>
+        <translation>Data/hora de criação</translation>
     </message>
     <message>
         <source>Accessed date/time</source>
-        <translation>Data e horário de acesso</translation>
+        <translation>Data/hora do acesso</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Pontuação</translation>
+        <translation>Avaliação</translation>
     </message>
     <message>
         <source>Colour Label</source>
-        <translation>Cor da etiqueta</translation>
+        <translation>Rótulo de Cor</translation>
     </message>
     <message>
         <source>Annotation</source>
@@ -14155,7 +14245,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Modified date/time</source>
-        <translation>Data e hora de modificação</translation>
+        <translation>Data/hora de modificação</translation>
     </message>
     <message>
         <source>Camera</source>
@@ -14167,15 +14257,15 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Video</source>
-        <translation type="unfinished">Vídeo</translation>
+        <translation>Vídeo</translation>
     </message>
     <message>
         <source>Audio</source>
-        <translation type="unfinished">Áudio</translation>
+        <translation>Áudio</translation>
     </message>
     <message>
         <source>Extra</source>
-        <translation type="unfinished"></translation>
+        <translation>Extra</translation>
     </message>
 </context>
 <context>
@@ -14190,7 +14280,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Tag</source>
-        <translation type="unfinished">Marcação</translation>
+        <translation type="unfinished">Etiqueta</translation>
     </message>
     <message>
         <source>Value</source>
@@ -14225,11 +14315,11 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Sort alphabetically</source>
-        <translation>Ordem alfabética</translation>
+        <translation>Classificar por nome</translation>
     </message>
     <message>
         <source>Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Biblioteca</translation>
     </message>
 </context>
 <context>
@@ -14248,15 +14338,15 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>New Folder %1</source>
-        <translation>Novo arquivo %1</translation>
+        <translation>Nova Pasta %1</translation>
     </message>
     <message>
         <source>Modified date</source>
-        <translation>Data de alteração</translation>
+        <translation>Data de modificação</translation>
     </message>
     <message>
         <source>Info</source>
-        <translation>Informação</translation>
+        <translation>Info</translation>
     </message>
     <message>
         <source>Created date</source>
@@ -14268,11 +14358,11 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>EXIF Date Taken</source>
-        <translation type="unfinished"></translation>
+        <translation>Data de Captura do EXIF</translation>
     </message>
     <message>
         <source>EXIF Date Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Data de Modificação do EXIF</translation>
     </message>
 </context>
 <context>
@@ -14281,9 +14371,9 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <source>JPEG lossless operation will modify original file(s), and may remove some unused pixels (width and height must be multiple of 8 pixels)!
 
 Do you want to continue?</source>
-        <translation>A operação sem perdas JPEG irá modificar o arquivo original e pode rá remover alguns pixels não usados (largura e altura devem ser múltiplos de 8 pixels)!
+        <translation>A operação sem perdas de JPEG modificará o(s) arquivo(s) original(is) e poderá remover alguns pixels não utilizados (a largura e a altura devem ser múltiplas de 8 pixels)!
 
-Você quer continuar?</translation>
+Deseja continuar?</translation>
     </message>
     <message>
         <source>Problem</source>
@@ -14291,47 +14381,47 @@ Você quer continuar?</translation>
     </message>
     <message>
         <source>Info</source>
-        <translation>Informações</translation>
+        <translation>Info</translation>
     </message>
     <message>
         <source>This file contains more than one page/image, so it&apos;s not possible to rotate it.</source>
-        <translation>Esse arquivo contém mais de uma página ou imagem e por isso não pode ser girado.</translation>
+        <translation>Esse arquivo contém mais de uma página/imagem, portanto, não é possível girá-lo.</translation>
     </message>
     <message>
         <source>This file uses a nonwritable format, so it&apos;s not possible to rotate it.</source>
-        <translation>Esse arquivo usa um formato somente para leitura e por isso não pode ser girado.</translation>
+        <translation>Esse arquivo usa um formato não gravável, portanto, não é possível girá-lo.</translation>
     </message>
     <message>
         <source>Lossless Crop</source>
-        <translation type="unfinished"></translation>
+        <translation>Corte Sem Perdas</translation>
     </message>
     <message>
         <source>Lossless Operation</source>
-        <translation type="unfinished"></translation>
+        <translation>Operação Sem Perdas</translation>
     </message>
     <message>
         <source>Confirm Save - Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar Salvamento - Formato</translation>
     </message>
     <message>
         <source>Saving in this format will discard comment and any existing metadata!</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvar nesse formato descartará comentários e quaisquer metadados existentes!</translation>
     </message>
     <message>
         <source>Saving in this format will discard any existing metadata!</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvar neste formato irá descartar quaisquer metadados existentes!</translation>
     </message>
     <message>
         <source>Saving in this format will discard some metadata!</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvar neste formato irá descartar alguns metadados!</translation>
     </message>
     <message>
         <source>An error has occurred, the lossless rotation can&apos;t be executed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocorreu um erro, a rotação sem perdas não pode ser executada.</translation>
     </message>
     <message>
         <source>An error has occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocorreu um erro.</translation>
     </message>
     <message>
         <source>Image will be converted to 24-bit RGB (8bits per channel). 
@@ -14352,14 +14442,14 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Please select which group to use</source>
-        <translation>Por favor selecione: Qual grupo usar</translation>
+        <translation>Selecione qual grupo usar</translation>
     </message>
 </context>
 <context>
     <name>KeywordsModel</name>
     <message>
         <source>Label</source>
-        <translation>Etiqueta</translation>
+        <translation>Rótulo</translation>
     </message>
 </context>
 <context>
@@ -14410,7 +14500,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Galician</source>
-        <translation>Galício</translation>
+        <translation>Galego</translation>
     </message>
     <message>
         <source>Hungarian</source>
@@ -14438,7 +14528,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Dutch</source>
-        <translation>Holandês</translation>
+        <translation>Alemão</translation>
     </message>
     <message>
         <source>Polish</source>
@@ -14446,11 +14536,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Portuguese - Brazil</source>
-        <translation>Português do Brasil</translation>
+        <translation>Português - Brasil</translation>
     </message>
     <message>
         <source>Portuguese - Portugal</source>
-        <translation>Português de Portugal</translation>
+        <translation>Português - Portugal</translation>
     </message>
     <message>
         <source>Romanian</source>
@@ -14481,8 +14571,12 @@ Do you want to continue?</source>
         <translation>Ucraniano</translation>
     </message>
     <message>
+        <source>Hebrew</source>
+        <translation>Hebraico</translation>
+    </message>
+    <message>
         <source>your name</source>
-        <translation>Elias do Carmo Corrêdo</translation>
+        <translation>seu nome</translation>
     </message>
     <message>
         <source>Armenian</source>
@@ -14494,27 +14588,23 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>&lt;Autodetect&gt;</source>
-        <translation>&lt;Detecção automática&gt;</translation>
+        <translation>&lt;Autodetect&gt;</translation>
     </message>
     <message>
         <source>Estonian</source>
-        <translation type="unfinished"></translation>
+        <translation>Estônio</translation>
     </message>
     <message>
         <source>Slovenian</source>
-        <translation type="unfinished"></translation>
+        <translation>Esloveno</translation>
     </message>
     <message>
         <source>Chinese Simplified</source>
-        <translation type="unfinished"></translation>
+        <translation>Chinês simplificado</translation>
     </message>
     <message>
         <source>Chinese Traditional</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hebrew</source>
-        <translation type="unfinished"></translation>
+        <translation>Chinês Tradicional</translation>
     </message>
 </context>
 <context>
@@ -14528,48 +14618,48 @@ Do you want to continue?</source>
     <name>MediaPlayer</name>
     <message>
         <source>Show playbar</source>
-        <translation type="unfinished">Mostrar a barra &quot;Executar&quot;</translation>
+        <translation>Mostrar barra de reprodução</translation>
     </message>
     <message>
         <source>Extract current frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Extrair o quadro atual</translation>
     </message>
 </context>
 <context>
     <name>MediaPlayerAv</name>
     <message>
         <source>Show playbar</source>
-        <translation type="unfinished">Mostrar a barra &quot;Executar&quot;</translation>
+        <translation>Mostrar barra de reprodução</translation>
     </message>
     <message>
         <source>Can not create video renderer</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível criar renderizador de vídeo</translation>
     </message>
     <message>
         <source>Extract current frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Extrair o quadro atual</translation>
     </message>
 </context>
 <context>
     <name>MediaPlayerBase</name>
     <message>
         <source>Adjust volume</source>
-        <translation type="unfinished">Ajustar o volume</translation>
+        <translation>Ajustar volume</translation>
     </message>
 </context>
 <context>
     <name>MediaPlayerMDK</name>
     <message>
         <source>Show playbar</source>
-        <translation type="unfinished">Mostrar a barra &quot;Executar&quot;</translation>
+        <translation>Mostrar barra de reprodução</translation>
     </message>
     <message>
         <source>Extract current frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Extrair o quadro atual</translation>
     </message>
     <message>
         <source>Save frame as...</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvar quadro como...</translation>
     </message>
 </context>
 <context>
@@ -14608,11 +14698,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Film strip 1</source>
-        <translation>Film strip 1</translation>
+        <translation>Faixa de filme 1</translation>
     </message>
     <message>
         <source>Film strip 2</source>
-        <translation>Film strip 2</translation>
+        <translation>Faixa de filme 2</translation>
     </message>
     <message>
         <source>Free</source>
@@ -14624,7 +14714,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Thumbnails + Labels</source>
-        <translation>Miniaturas + Etiquetas</translation>
+        <translation>Miniaturas + Rótulos</translation>
     </message>
     <message>
         <source>Thumbnails + Details</source>
@@ -14664,7 +14754,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Image Height</source>
-        <translation>Altura da imagem</translation>
+        <translation>Altura da Imagem</translation>
     </message>
     <message>
         <source>Orientation</source>
@@ -14672,11 +14762,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Ratio</source>
-        <translation>Taxa</translation>
+        <translation>Proporção</translation>
     </message>
     <message>
         <source>Print size</source>
-        <translation>Tamanho do impresso</translation>
+        <translation>Tamanho de impressão</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -14684,11 +14774,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Pontuação</translation>
+        <translation>Avaliação</translation>
     </message>
     <message>
         <source>Colour label</source>
-        <translation></translation>
+        <translation>Rótulo de cor</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -14696,11 +14786,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Ascending</source>
-        <translation>Crescente</translation>
+        <translation>Ascendente</translation>
     </message>
     <message>
         <source>Descending</source>
-        <translation>Decrescente</translation>
+        <translation>Descendente</translation>
     </message>
     <message>
         <source>Images</source>
@@ -14720,7 +14810,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>All</source>
-        <translation>Todos</translation>
+        <translation>Tudo</translation>
     </message>
     <message>
         <source>Excellent</source>
@@ -14736,15 +14826,15 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Unrated</source>
-        <translation>Não avaliado</translation>
+        <translation>Sem avaliação</translation>
     </message>
     <message>
         <source>Uncolored</source>
-        <translation>Descolorido</translation>
+        <translation>Sem cor</translation>
     </message>
     <message>
         <source>No fit</source>
-        <translation>Não ajustar</translation>
+        <translation>Sem ajuste</translation>
     </message>
     <message>
         <source>Fit image to window</source>
@@ -14752,7 +14842,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Fit image to window, large only</source>
-        <translation>Ajustar imagem à janela (maiores somente)</translation>
+        <translation>Ajustar imagem à janela (somente imagens grandes)</translation>
     </message>
     <message>
         <source>Fit image to window width</source>
@@ -14768,7 +14858,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Back</source>
-        <translation>Retroceder</translation>
+        <translation>Voltar</translation>
     </message>
     <message>
         <source>Toolbar</source>
@@ -14792,11 +14882,15 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation>Previsão</translation>
+        <translation>Pré-Visualização</translation>
     </message>
     <message>
         <source>Histogram</source>
         <translation>Histograma</translation>
+    </message>
+    <message>
+        <source>Open with</source>
+        <translation>Abrir com</translation>
     </message>
     <message>
         <source>Recent files</source>
@@ -14808,7 +14902,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Cut</source>
-        <translation>Cortar</translation>
+        <translation>Recortar</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -14820,11 +14914,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Select all</source>
-        <translation>Selecionar tudo</translation>
+        <translation>Selecionar todos</translation>
     </message>
     <message>
         <source>Select none</source>
-        <translation>Selecionar nenhum</translation>
+        <translation>Não selecionar nenhum</translation>
     </message>
     <message>
         <source>Invert selection</source>
@@ -14836,7 +14930,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Select tagged files</source>
-        <translation>Selecionar arquivos marcados</translation>
+        <translation>Selecionar arquivos com etiquetas</translation>
+    </message>
+    <message>
+        <source>Paste as image</source>
+        <translation>Colar como imagem</translation>
     </message>
     <message>
         <source>Copy to...</source>
@@ -14848,7 +14946,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Apagar</translation>
+        <translation>Excluir</translation>
     </message>
     <message>
         <source>Rename...</source>
@@ -14856,7 +14954,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>New folder</source>
-        <translation>Nova pasta</translation>
+        <translation>Adicionar Pasta</translation>
     </message>
     <message>
         <source>Previous file</source>
@@ -14900,11 +14998,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Untag all</source>
-        <translation>Desmarcar todos</translation>
+        <translation>Excluir todas as etiquetas</translation>
     </message>
     <message>
         <source>Clear all tags</source>
-        <translation>Limpar todas as marcações</translation>
+        <translation>Limpar todas as etiquetas</translation>
     </message>
     <message>
         <source>Show tagged files</source>
@@ -14912,7 +15010,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Show tag box</source>
-        <translation>Mostrar caixa de marcação</translation>
+        <translation>Mostrar caixa de etiquetas</translation>
     </message>
     <message>
         <source>Layout</source>
@@ -14924,7 +15022,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Sort by</source>
-        <translation>Ordenar por</translation>
+        <translation>Classificar por</translation>
     </message>
     <message>
         <source>Filter by</source>
@@ -14936,7 +15034,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Tag</source>
-        <translation>Marcação</translation>
+        <translation>Etiqueta</translation>
     </message>
     <message>
         <source>Up</source>
@@ -14960,7 +15058,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Open containing folder</source>
-        <translation>Abrir a pasta que contém</translation>
+        <translation>Abrir com a pasta</translation>
     </message>
     <message>
         <source>Fullscreen</source>
@@ -14972,11 +15070,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Use tabs</source>
-        <translation>Usar abas</translation>
+        <translation>Usar guias</translation>
     </message>
     <message>
         <source>Vertical tabs</source>
-        <translation>Abas verticais</translation>
+        <translation>Guias verticais</translation>
     </message>
     <message>
         <source>Rotate 180°</source>
@@ -14984,15 +15082,15 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Batch rename...</source>
-        <translation>Renomear em lote...</translation>
+        <translation>Renomear lote...</translation>
     </message>
     <message>
         <source>Search...</source>
-        <translation>Procurar...</translation>
+        <translation>Pesquisar...</translation>
     </message>
     <message>
         <source>Change timestamp...</source>
-        <translation>Aterar &quot;timestamp&quot;...</translation>
+        <translation>Alterar registro de data e hora...</translation>
     </message>
     <message>
         <source>Export...</source>
@@ -15012,7 +15110,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Batch convert...</source>
-        <translation>Conversão em lote...</translation>
+        <translation>Converter em lote...</translation>
     </message>
     <message>
         <source>Real size</source>
@@ -15020,7 +15118,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>100%</source>
-        <translation>Zoom para 100%</translation>
+        <translation>100%</translation>
     </message>
     <message>
         <source>Zoom in</source>
@@ -15032,15 +15130,15 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Lock zoom</source>
-        <translation>Travar zoom</translation>
+        <translation>Bloquear zoom</translation>
     </message>
     <message>
         <source>Use alpha channel</source>
-        <translation>Usar &quot;alpha channel&quot;</translation>
+        <translation>Usar canal alfa</translation>
     </message>
     <message>
         <source>Show alpha</source>
-        <translation>Mostrar &quot;alpha&quot;</translation>
+        <translation>Mostrar &quot;alfa&quot;</translation>
     </message>
     <message>
         <source>Show red</source>
@@ -15048,11 +15146,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Show green</source>
-        <translation>Mostrar verde</translation>
+        <translation>Exibir verde</translation>
     </message>
     <message>
         <source>Show blue</source>
-        <translation>Mostrar azul</translation>
+        <translation>Exibir azul</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -15060,7 +15158,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Quick Filter</source>
-        <translation>Filtro rápido</translation>
+        <translation>Filtro Rápido</translation>
     </message>
     <message>
         <source>Forward</source>
@@ -15112,19 +15210,19 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Filelist toolbar</source>
-        <translation>Barra de ferramentas da lista de arquivos</translation>
+        <translation>Barra de Arquivos</translation>
     </message>
     <message>
         <source>Send by FTP...</source>
-        <translation>Enviar por FTP...</translation>
+        <translation>Enviar via FTP...</translation>
     </message>
     <message>
         <source>Upload on web...</source>
-        <translation>Enviar para a Web...</translation>
+        <translation>Enviar na web...</translation>
     </message>
     <message>
         <source>Thumbnails view only</source>
-        <translation>Visualização apenas de miniaturas</translation>
+        <translation>Apenas visualização de miniaturas</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -15148,7 +15246,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Preview as tab</source>
-        <translation>Previsão como aba</translation>
+        <translation>Visualizar como guia</translation>
     </message>
     <message>
         <source>Default</source>
@@ -15164,15 +15262,15 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>File listing...</source>
-        <translation>Listando arquivos...</translation>
+        <translation>Listagem de arquivos...</translation>
     </message>
     <message>
         <source>Send by email...</source>
-        <translation>Enviar por email...</translation>
+        <translation>Enviar por e-mail...</translation>
     </message>
     <message>
         <source>Draw as tiled</source>
-        <translation>Desenhar como mosaico</translation>
+        <translation>Desenhar como ladrilho</translation>
     </message>
     <message>
         <source>Open file list...</source>
@@ -15180,7 +15278,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Tagged file(s)</source>
-        <translation>Arquivos marcados</translation>
+        <translation>Arquivo(s) etiquetado(s)</translation>
     </message>
     <message>
         <source>Selected path(s)</source>
@@ -15188,27 +15286,27 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Selected filename(s)</source>
-        <translation>Nomes de arquivos selecionados</translation>
+        <translation>Nome(s) do(s) arquivo(s) selecionado(s)</translation>
     </message>
     <message>
         <source>Selected filename(s) and path(s)</source>
-        <translation>Nomes de arquivos e caminhos selecionados</translation>
+        <translation>Nome(s) do(s) arquivo(s) e caminho(s) selecionado(s)</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation>Copiar para a área de transferência</translation>
+        <translation>Copiar para a Área de Transferência</translation>
     </message>
     <message>
         <source>Created Date</source>
-        <translation>Data de criação</translation>
+        <translation>Data de Criação</translation>
     </message>
     <message>
         <source>Fair</source>
-        <translation>Aceitável</translation>
+        <translation>Razoável</translation>
     </message>
     <message>
         <source>Poor</source>
-        <translation>Pobre</translation>
+        <translation>Ruim</translation>
     </message>
     <message>
         <source>Rotate based on EXIF orientation field</source>
@@ -15216,11 +15314,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Reset EXIF orientation field</source>
-        <translation>Reiniciar o campo de orientação EXIF</translation>
+        <translation>Redefinir campo de orientação EXIF</translation>
     </message>
     <message>
         <source>Set as wallpaper...</source>
-        <translation>Usar como papel de parede...</translation>
+        <translation>Definir como papel de parede...</translation>
     </message>
     <message>
         <source>Print...</source>
@@ -15240,7 +15338,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>New Folder</source>
-        <translation>Nova pasta</translation>
+        <translation>Nova Pasta</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -15248,7 +15346,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Fit image to window, small only</source>
-        <translation>Ajustar imagem à janela, apenas pequenas</translation>
+        <translation>Ajustar imagem à janela (somente imagens pequenas)</translation>
     </message>
     <message>
         <source>Convert into</source>
@@ -15256,314 +15354,354 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Archive...</source>
-        <translation>Arquivar...</translation>
+        <translation>Arquivo...</translation>
     </message>
     <message>
         <source>Import and sort...</source>
-        <translation>Importar e ordenar...</translation>
+        <translation>Importar e classificar...</translation>
     </message>
     <message>
         <source>Multi-page file...</source>
-        <translation>Arquivo com múltiplas páginas...</translation>
+        <translation>Arquivo de múltiplas páginas...</translation>
     </message>
     <message>
         <source>Category Search</source>
-        <translation>Pesquisa de categorias</translation>
+        <translation>Pesquisar Categoria</translation>
     </message>
     <message>
         <source>Update catalog from files</source>
-        <translation>Atualizar Categorias a partir de arquivos</translation>
+        <translation>Atualizar catálogo de arquivos</translation>
     </message>
     <message>
         <source>Update files from catalog</source>
-        <translation>Atualizar arquivos a partir de catálogo</translation>
+        <translation>Atualizar arquivos do catálogo</translation>
     </message>
     <message>
         <source>Join images...</source>
-        <translation type="unfinished"></translation>
+        <translation>Juntar imagens...</translation>
     </message>
     <message>
         <source>Open all selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir todos selecionados</translation>
     </message>
     <message>
         <source>Thumbnails + Filenames</source>
-        <translation type="unfinished"></translation>
+        <translation>Miniaturas e nomes de arquivos</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation type="unfinished">Icones</translation>
+        <translation>Ícones</translation>
     </message>
     <message>
         <source>Category Sets</source>
-        <translation type="unfinished">Ajustes de categorias</translation>
+        <translation>Conjunto de Categorias</translation>
+    </message>
+    <message>
+        <source>Set Category</source>
+        <translation>Definir Categoria</translation>
+    </message>
+    <message>
+        <source>Set Rating</source>
+        <translation>Definir Avaliação</translation>
+    </message>
+    <message>
+        <source>Set Color label</source>
+        <translation>Definir Rótulo de Cor</translation>
+    </message>
+    <message>
+        <source>Lossless transformations (JPEG)</source>
+        <translation>Transformações sem perda (JPEG)</translation>
     </message>
     <message>
         <source>Contact sheet...</source>
-        <translation type="unfinished"></translation>
+        <translation>Folha de contatos...</translation>
     </message>
     <message>
         <source>File operations</source>
-        <translation type="unfinished">Operações com arquivos</translation>
+        <translation>Operações de arquivo</translation>
     </message>
     <message>
         <source>Edit comment...</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar comentário...</translation>
     </message>
     <message>
         <source>Slideshow...</source>
-        <translation type="unfinished"></translation>
+        <translation>Apresentação de slides...</translation>
     </message>
     <message>
         <source>Split image(s)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Dividir imagem(s)...</translation>
     </message>
     <message>
         <source>Add to favorites...</source>
-        <translation type="unfinished"></translation>
+        <translation>Adicionar aos Favoritos...</translation>
     </message>
     <message>
         <source>Banner...</source>
-        <translation type="unfinished"></translation>
+        <translation>Banner...</translation>
     </message>
     <message>
         <source>EXIF Date Taken</source>
-        <translation type="unfinished"></translation>
+        <translation>Data de Captura do EXIF</translation>
     </message>
     <message>
         <source>EXIF Date Modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Data de Modificação do EXIF</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Imagem</translation>
+        <translation>Imagem</translation>
     </message>
     <message>
         <source>New image...</source>
-        <translation type="unfinished"></translation>
+        <translation>Nova imagem...</translation>
     </message>
     <message>
         <source>Capture...</source>
-        <translation type="unfinished">Capturar...</translation>
+        <translation>Capturar...</translation>
     </message>
     <message>
         <source>Select TWAIN source...</source>
-        <translation type="unfinished">Selecionar fonte TWAIN...</translation>
+        <translation>Selecionar origem TWAIN...</translation>
     </message>
     <message>
         <source>Fit window to image</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustar janela à imagem</translation>
     </message>
     <message>
         <source>Select all files</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecionar todos os arquivos</translation>
     </message>
     <message>
         <source>Edit IPTC...</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar IPTC...</translation>
     </message>
     <message>
         <source>Edit XMP...</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar XMP...</translation>
+    </message>
+    <message>
+        <source>Edit GPS...</source>
+        <translation>Editar GPS...</translation>
+    </message>
+    <message>
+        <source>Edit metadata...</source>
+        <translation>Editar metadados...</translation>
+    </message>
+    <message>
+        <source>Edit face tag...</source>
+        <translation>Editar etiqueta de rosto...</translation>
     </message>
     <message>
         <source>Name - numeric order</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome - ordem numérica</translation>
     </message>
     <message>
         <source>Name - normal order</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome - ordem normal</translation>
     </message>
     <message>
         <source>Name - alphabetic order</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome - ordem alfabética</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished">Leve</translation>
+        <translation>Claro</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Escuro</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation type="unfinished">Preto</translation>
+        <translation>Preto</translation>
     </message>
     <message>
         <source>Panels</source>
-        <translation type="unfinished"></translation>
+        <translation>Painéis</translation>
     </message>
     <message>
         <source>Acquire into (TWAIN)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Adquirir em (TWAIN)...</translation>
     </message>
     <message>
         <source>Images (+folders)</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagens (+pastas)</translation>
     </message>
     <message>
         <source>Videos (+folders)</source>
-        <translation type="unfinished"></translation>
+        <translation>Vídeos (+pastas)</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished">Informação</translation>
+        <translation>Informação</translation>
     </message>
     <message>
         <source>Show source panels</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar painéis fonte</translation>
     </message>
     <message>
         <source>Info panels</source>
-        <translation type="unfinished"></translation>
+        <translation>Painéis de informação</translation>
     </message>
     <message>
         <source>Find similar files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Encontrar arquivos semelhantes...</translation>
     </message>
     <message>
         <source>Acquire (TWAIN)</source>
-        <translation type="unfinished"></translation>
+        <translation>Adquirir (TWAIN)</translation>
     </message>
     <message>
         <source>Show hidden files</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar arquivos ocultos</translation>
     </message>
     <message>
         <source>Show title of panels</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar título dos painéis</translation>
     </message>
     <message>
         <source>View as Thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver como miniaturas</translation>
     </message>
     <message>
         <source>View as Thumbnails+Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualizar como miniaturas+Nome de Arquivo</translation>
     </message>
     <message>
         <source>View as Thumbnails+Labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualizar como miniaturas+Etiquetas</translation>
     </message>
     <message>
         <source>View as Thumbnails+Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualizar como miniaturas+Detalhes</translation>
     </message>
     <message>
         <source>View as Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver como Ícones</translation>
     </message>
     <message>
         <source>View as List</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualizar como Lista</translation>
     </message>
     <message>
         <source>View as Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualizar como Detalhes</translation>
     </message>
     <message>
         <source>Open GPS location in</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir localização do GPS em</translation>
     </message>
     <message>
         <source>Video thumbnails gallery...</source>
-        <translation type="unfinished"></translation>
+        <translation>Miniaturas de vídeo...</translation>
     </message>
     <message>
         <source>EXIF Thumbnail</source>
-        <translation type="unfinished"></translation>
+        <translation>Miniatura EXIF</translation>
     </message>
     <message>
         <source>Filter by All</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrar por Todos</translation>
     </message>
     <message>
         <source>Navigate to</source>
-        <translation type="unfinished"></translation>
+        <translation>Navegar para</translation>
     </message>
     <message>
         <source>Catalog Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtro de Catálogo</translation>
     </message>
     <message>
         <source>Path</source>
-        <translation type="unfinished">Caminho</translation>
+        <translation>Caminho</translation>
     </message>
     <message>
         <source>Meta&amp;data</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta&amp;dados</translation>
     </message>
     <message>
         <source>Clear &amp;&amp; Import...</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpar &amp;&amp; Importar...</translation>
     </message>
     <message>
         <source>Catalog</source>
-        <translation type="unfinished">Catálogo</translation>
+        <translation>Catálogo</translation>
     </message>
     <message>
         <source>Tag/Untag current</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcar/Desmarcar atual</translation>
     </message>
     <message>
         <source>Fit image to desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustar imagem à área de trabalho</translation>
     </message>
     <message>
         <source>Show files in subfolders</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar arquivos nas subpastas</translation>
     </message>
     <message>
         <source>Rotate 90° right</source>
-        <translation type="unfinished"></translation>
+        <translation>Girar 90° à direita</translation>
     </message>
     <message>
         <source>Rotate 90° left</source>
-        <translation type="unfinished"></translation>
+        <translation>Girar 90° para esquerda</translation>
     </message>
     <message>
         <source>Rotate 90° right (lossless)</source>
-        <translation type="unfinished"></translation>
+        <translation>Girar a direita 90° (sem perda)</translation>
     </message>
     <message>
         <source>Rotate 90° left (lossless)</source>
-        <translation type="unfinished"></translation>
+        <translation>Girar 90° para a esquerda (sem perda)</translation>
     </message>
     <message>
         <source>Rotate 180° (lossless)</source>
-        <translation type="unfinished"></translation>
+        <translation>Girar 180° (sem perda)</translation>
     </message>
     <message>
         <source>Flip horizontally (lossless)</source>
-        <translation type="unfinished"></translation>
+        <translation>Inverter horizontalmente (sem perdas)</translation>
     </message>
     <message>
         <source>Flip vertically (lossless)</source>
-        <translation type="unfinished"></translation>
+        <translation>Inverter verticalmente (sem perdas)</translation>
     </message>
     <message>
         <source>EXIF thumbnail - Rotate 90° left</source>
-        <translation type="unfinished"></translation>
+        <translation>Miniatura EXIF - Girar 90° à esquerda</translation>
     </message>
     <message>
         <source>EXIF thumbnail - Rotate 90° right</source>
+        <translation>Miniatura EXIF - Girar 90° à direita</translation>
+    </message>
+    <message>
+        <source>Modified Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Untagged file(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>##rating## (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>##label## (go to next image)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open in file manager</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use transparent index (≤ 8bits)</source>
-        <translation>Usar índice de transparência (≤ 8bits)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Open with</source>
-        <translation type="unfinished">Abrir com</translation>
-    </message>
-    <message>
-        <source>Paste as image</source>
-        <translation>Colar como imagem</translation>
-    </message>
-    <message>
-        <source>Lossless transformations (JPEG)</source>
+        <source>Show channel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15576,54 +15714,6 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Empty tab</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>##label## (go to next image)</source>
-        <translation>##label## (vá para a próxima imagem)</translation>
-    </message>
-    <message>
-        <source>Set Rating</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Color label</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Category</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Untagged file(s)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Modified Date</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show channel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Edit GPS...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Edit metadata...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Edit face tag...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>##rating## (go to next image)</source>
-        <translation>##rating## (vá para a próxima imagem)</translation>
-    </message>
-    <message>
-        <source>Open in file manager</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15643,19 +15733,19 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Bottom</source>
-        <translation>Para baixo</translation>
+        <translation>Inferior</translation>
     </message>
     <message>
         <source>Tab</source>
-        <translation>Aba</translation>
+        <translation>Guia</translation>
     </message>
     <message>
         <source>Make a donation...</source>
-        <translation>Faça uma doação...</translation>
+        <translation>Fazer uma doação...</translation>
     </message>
     <message>
         <source>Always on top</source>
-        <translation>Sempre em cima</translation>
+        <translation>Sempre no topo</translation>
     </message>
     <message>
         <source>About</source>
@@ -15667,46 +15757,46 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Check for update...</source>
-        <translation type="unfinished"></translation>
+        <translation>Procurar por atualização...</translation>
     </message>
     <message>
         <source>Titlebar</source>
-        <translation type="unfinished"></translation>
+        <translation>Barra de título</translation>
     </message>
     <message>
         <source>Technical Support...</source>
-        <translation type="unfinished"></translation>
+        <translation>Suporte Técnico...</translation>
     </message>
     <message>
         <source>Report a Bug...</source>
-        <translation type="unfinished"></translation>
+        <translation>Reportar um erro...</translation>
     </message>
     <message>
         <source>Wiki...</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiki...</translation>
     </message>
     <message>
         <source>Website...</source>
-        <translation type="unfinished"></translation>
+        <translation>Site...</translation>
     </message>
     <message>
         <source>Forum...</source>
-        <translation type="unfinished"></translation>
+        <translation>Fórum...</translation>
     </message>
     <message>
         <source>Purchase...</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprar...</translation>
     </message>
     <message>
         <source>PlugIns...</source>
-        <translation type="unfinished"></translation>
+        <translation>Plugins...</translation>
     </message>
 </context>
 <context>
     <name>MenuTemplate</name>
     <message>
         <source>Date format variables</source>
-        <translation>Variáveis de formatação de datas</translation>
+        <translation>Variáveis do formato de data</translation>
     </message>
     <message>
         <source>Y - Year</source>
@@ -15718,11 +15808,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>m - Month as decimal (01-12)</source>
-        <translation>m - Mês usando decimais (01-12)</translation>
+        <translation>m - Mês como decimal (01-12)</translation>
     </message>
     <message>
         <source>d - Day as decimal (01-31)</source>
-        <translation>d - Dia usando decimais (01-31)</translation>
+        <translation>d - Dia como decimal (01-31)</translation>
     </message>
     <message>
         <source>H - Hour (01-24)</source>
@@ -15738,19 +15828,19 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>B - Month name (eg. february)</source>
-        <translation>B - Nome do mês (exemplo : fevereiro)</translation>
+        <translation>B - Nome do mês (ex. medo)</translation>
     </message>
     <message>
         <source>b - Abbreviated month name (eg. feb)</source>
-        <translation>b - Nome abreviado do mês (exemplo : fev)</translation>
+        <translation>b - Nome do mês abreviado (ex. feb)</translation>
     </message>
     <message>
         <source>A - Weekday name (eg. wednesday)</source>
-        <translation>A - Nome do dia da semana (exemplo : quarta-feira)</translation>
+        <translation>A - Nome do dia da semana (ex. dia da casa)</translation>
     </message>
     <message>
         <source>a - Abbreviated weekday name (eg. wed)</source>
-        <translation>a - Nome abreviado do dia da semana (exemplo : qua)</translation>
+        <translation>a - Nome abreviado do dia da semana (ex: seg)</translation>
     </message>
     <message>
         <source>Image</source>
@@ -15790,15 +15880,15 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>IPTC - Keywords&amp;&amp;Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>IPTC - Palavras-chave e Categorias</translation>
     </message>
     <message>
         <source>XMP</source>
-        <translation type="unfinished">XMP</translation>
+        <translation>XMP</translation>
     </message>
     <message>
         <source>Extra</source>
-        <translation type="unfinished"></translation>
+        <translation>Extra</translation>
     </message>
     <message>
         <source># - Numeric enumerator</source>
@@ -15809,7 +15899,7 @@ Do you want to continue?</source>
     <name>MenuView</name>
     <message>
         <source>No fit</source>
-        <translation>Não ajustar</translation>
+        <translation>Sem ajuste</translation>
     </message>
     <message>
         <source>Fit image to window</source>
@@ -15817,7 +15907,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Fit image to window, large only</source>
-        <translation>Ajustar imagem à janela, maiores soment</translation>
+        <translation>Ajustar imagem à janela (somente imagens grandes)</translation>
     </message>
     <message>
         <source>Fit image to window width</source>
@@ -15829,7 +15919,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Fit image to window width or height</source>
-        <translation>Ajustar imagem à largura ou altura da janela</translation>
+        <translation>Ajustar imagem à largura ou à altura da janela</translation>
     </message>
     <message>
         <source>Free</source>
@@ -15837,7 +15927,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Same as image</source>
-        <translation>Manter a mesma da imagem</translation>
+        <translation>Igual à imagem</translation>
     </message>
     <message>
         <source>Open...</source>
@@ -15853,7 +15943,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Browse</source>
-        <translation>Navegador</translation>
+        <translation>Procurar</translation>
     </message>
     <message>
         <source>Save as...</source>
@@ -15869,7 +15959,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Cut</source>
-        <translation>Cortar</translation>
+        <translation>Recortar</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -15885,15 +15975,15 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Select all</source>
-        <translation>Selecionar tudo</translation>
+        <translation>Selecionar todos</translation>
     </message>
     <message>
         <source>Select none</source>
-        <translation>Selecionar nenhum</translation>
+        <translation>Não selecionar nenhum</translation>
     </message>
     <message>
         <source>Selection - swap width &amp;&amp; height</source>
-        <translation>Seleção - Trocar largura &amp;&amp; altura</translation>
+        <translation>Seleção - trocar largura e altura</translation>
     </message>
     <message>
         <source>Copy to...</source>
@@ -15905,7 +15995,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Delete...</source>
-        <translation>Apagar...</translation>
+        <translation>Excluir...</translation>
     </message>
     <message>
         <source>Rename...</source>
@@ -15945,7 +16035,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Quick Slideshow</source>
-        <translation>Exibição de slides rápida</translation>
+        <translation>Exibição Rápida de Slides</translation>
     </message>
     <message>
         <source>Fullscreen</source>
@@ -15969,7 +16059,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Lock zoom</source>
-        <translation>Travar zoom</translation>
+        <translation>Bloquear zoom</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -15985,19 +16075,19 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Use alpha channel</source>
-        <translation>Usar &quot;alpha channel&quot;</translation>
+        <translation>Usar canal alfa</translation>
     </message>
     <message>
         <source>Show alpha</source>
-        <translation>Mostrar &quot;alpha&quot;</translation>
+        <translation>Mostrar &quot;alfa&quot;</translation>
     </message>
     <message>
         <source>Show grid</source>
-        <translation>Mostrar malha</translation>
+        <translation>Mostrar grade</translation>
     </message>
     <message>
         <source>Grid settings...</source>
-        <translation>Configurações da malha...</translation>
+        <translation>Configurações da grade...</translation>
     </message>
     <message>
         <source>Show information</source>
@@ -16009,7 +16099,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Show colour information</source>
-        <translation>Mostrar informações das cores</translation>
+        <translation>Mostrar informações de cores</translation>
     </message>
     <message>
         <source>Toolbar</source>
@@ -16021,7 +16111,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Format settings...</source>
-        <translation>Formato das configurações...</translation>
+        <translation>Configurações de formato...</translation>
     </message>
     <message>
         <source>Export...</source>
@@ -16029,7 +16119,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Change color depth...</source>
-        <translation>Alterar profundidade de cor...</translation>
+        <translation>Mudar profundidade da cor...</translation>
     </message>
     <message>
         <source>Automatic levels</source>
@@ -16041,7 +16131,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Negative</source>
-        <translation>Negativo</translation>
+        <translation>Inverter cores</translation>
     </message>
     <message>
         <source>Normalize</source>
@@ -16065,15 +16155,15 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Old camera...</source>
-        <translation>Câmera antiga...</translation>
+        <translation>Câmara velha...</translation>
     </message>
     <message>
         <source>Vignetting...</source>
-        <translation>Vignete...</translation>
+        <translation>Aplicar vinheta...</translation>
     </message>
     <message>
         <source>Enhance colors...</source>
-        <translation>Realçar cores...</translation>
+        <translation>Aprimorar cores...</translation>
     </message>
     <message>
         <source>Levels...</source>
@@ -16081,7 +16171,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Shadow/Highlight...</source>
-        <translation>Sombra/Destaque...</translation>
+        <translation>Sombra/realce...</translation>
     </message>
     <message>
         <source>Map</source>
@@ -16093,19 +16183,19 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Rotate</source>
-        <translation>Girar</translation>
+        <translation>Rotate</translation>
     </message>
     <message>
         <source>A4, A3, ... (1.41)</source>
-        <translation>A4, A3, ...(1.41)</translation>
+        <translation>A4, A3, ... (1.41)</translation>
     </message>
     <message>
         <source>US Letter (1.29)</source>
-        <translation>US Letter (1.29)</translation>
+        <translation>Carta dos EUA (1.29)</translation>
     </message>
     <message>
         <source>Cinema 1 (1.85)</source>
-        <translation>Cinema 1 (1.85)</translation>
+        <translation>Esquema 1 (1.85)</translation>
     </message>
     <message>
         <source>Cinema 2 (2.35)</source>
@@ -16113,7 +16203,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Fixed ratio</source>
-        <translation>Taxa fixa</translation>
+        <translation>Proporção fixa</translation>
     </message>
     <message>
         <source>Resize...</source>
@@ -16121,11 +16211,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Canvas resize...</source>
-        <translation>Redimensionar &quot;canvas&quot;...</translation>
+        <translation>Redimensionar tela...</translation>
     </message>
     <message>
         <source>Crop...</source>
-        <translation>Cortar...</translation>
+        <translation>Recortar...</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -16161,15 +16251,15 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Unrated</source>
-        <translation>Não avaliado</translation>
+        <translation>Sem avaliação</translation>
     </message>
     <message>
         <source>Uncolored</source>
-        <translation>Descolorido</translation>
+        <translation>Sem cor</translation>
     </message>
     <message>
         <source>Fit image to window, small only</source>
-        <translation>Ajustar imagem à janela, apenas pequenas</translation>
+        <translation>Ajustar imagem à janela (somente imagens pequenas)</translation>
     </message>
     <message>
         <source>Save</source>
@@ -16177,7 +16267,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Spotlight...</source>
-        <translation>Foco...</translation>
+        <translation>Brilhante...</translation>
     </message>
     <message>
         <source>Show red</source>
@@ -16185,11 +16275,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Show green</source>
-        <translation>Mostrar verde</translation>
+        <translation>Exibir verde</translation>
     </message>
     <message>
         <source>Show blue</source>
-        <translation>Mostrar azul</translation>
+        <translation>Exibir azul</translation>
     </message>
     <message>
         <source>Start/stop animation</source>
@@ -16197,11 +16287,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Fair</source>
-        <translation>Aceitável</translation>
+        <translation>Razoável</translation>
     </message>
     <message>
         <source>Poor</source>
-        <translation>Pobre</translation>
+        <translation>Ruim</translation>
     </message>
     <message>
         <source>Red</source>
@@ -16217,7 +16307,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Alpha</source>
-        <translation>Alpha</translation>
+        <translation>Alfa</translation>
     </message>
     <message>
         <source>Reload</source>
@@ -16225,11 +16315,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Batch convert...</source>
-        <translation>Conversão em lote...</translation>
+        <translation>Converter em lote...</translation>
     </message>
     <message>
         <source>Set as wallpaper...</source>
-        <translation>Usar como papel de parede...</translation>
+        <translation>Definir como papel de parede...</translation>
     </message>
     <message>
         <source>Properties...</source>
@@ -16241,11 +16331,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Mirror</source>
-        <translation>Espelho</translation>
+        <translation>Espelhar</translation>
     </message>
     <message>
         <source>Count colors used</source>
-        <translation>Contar as cores usadas</translation>
+        <translation>Contagem de cores</translation>
     </message>
     <message>
         <source>Extract channel</source>
@@ -16253,11 +16343,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation>Copiar para a área de transferência</translation>
+        <translation>Copiar para a Área de Transferência</translation>
     </message>
     <message>
         <source>Adobe Photoshop Plugin...</source>
-        <translation>Adobe Photoshop Plugin...</translation>
+        <translation>Plugin do Adobe Photoshop...</translation>
     </message>
     <message>
         <source>Rotate 180°</source>
@@ -16269,7 +16359,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Reset EXIF orientation field</source>
-        <translation>Reiniciar o campo de orientação EXIF</translation>
+        <translation>Redefinir campo de orientação EXIF</translation>
     </message>
     <message>
         <source>&amp;Tools</source>
@@ -16285,11 +16375,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Filename</source>
-        <translation>Nome do arquivo</translation>
+        <translation>Nome do Arquivo</translation>
     </message>
     <message>
         <source>Filename and path</source>
-        <translation>Nome de arquivo e caminho</translation>
+        <translation>Nome do arquivo e caminho</translation>
     </message>
     <message>
         <source>Save selection...</source>
@@ -16297,279 +16387,271 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>User filter...</source>
-        <translation>Filtro do usuário...</translation>
+        <translation>Filtro de usuário...</translation>
     </message>
     <message>
         <source>Red-Eye correction</source>
-        <translation type="unfinished"></translation>
+        <translation>Correção do Olho Vermelho</translation>
     </message>
     <message>
         <source>Draw...</source>
-        <translation type="unfinished"></translation>
+        <translation>Desenhar...</translation>
     </message>
     <message>
         <source>Save selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvar seleção</translation>
     </message>
     <message>
         <source>Restore selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Restaurar seleção</translation>
     </message>
     <message>
         <source>Edit comment...</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar comentário...</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Fechar</translation>
+        <translation>Fechar</translation>
     </message>
     <message>
         <source>Film simulation...</source>
-        <translation type="unfinished"></translation>
+        <translation>Simulação de filme...</translation>
     </message>
     <message>
         <source>Automatic Deskew</source>
-        <translation type="unfinished"></translation>
+        <translation>Correção Automática de Inclinação</translation>
     </message>
     <message>
         <source>Print selection...</source>
-        <translation type="unfinished"></translation>
+        <translation>Imprimir seleção...</translation>
     </message>
     <message>
         <source>Curves...</source>
-        <translation type="unfinished"></translation>
+        <translation>Curvas...</translation>
     </message>
     <message>
         <source>Desaturate</source>
-        <translation type="unfinished"></translation>
+        <translation>Desaturate</translation>
     </message>
     <message>
         <source>Offset...</source>
-        <translation type="unfinished"></translation>
+        <translation>Deslocamento...</translation>
     </message>
     <message>
         <source>Capture...</source>
-        <translation type="unfinished">Capturar...</translation>
+        <translation>Capturar...</translation>
     </message>
     <message>
         <source>Empty tab...</source>
-        <translation type="unfinished">Aba vazia...</translation>
+        <translation>Guia vazia...</translation>
     </message>
     <message>
         <source>Select TWAIN source...</source>
-        <translation type="unfinished">Selecionar fonte TWAIN...</translation>
+        <translation>Selecionar origem TWAIN...</translation>
     </message>
     <message>
         <source>Remove alpha channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Remover canal alfa</translation>
     </message>
     <message>
         <source>Fit window to image</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustar janela à imagem</translation>
     </message>
     <message>
         <source>New image...</source>
-        <translation type="unfinished"></translation>
+        <translation>Nova imagem...</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished">Esquerda</translation>
+        <translation>Esquerda</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished">Direita</translation>
+        <translation>Direita</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished">Superior</translation>
+        <translation>Superior</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Inferior</translation>
     </message>
     <message>
         <source>Image content</source>
-        <translation type="unfinished"></translation>
+        <translation>Conteúdo da imagem</translation>
     </message>
     <message>
         <source>Paste outside</source>
-        <translation type="unfinished"></translation>
+        <translation>Colar fora</translation>
     </message>
     <message>
         <source>Random file</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivo aleatório</translation>
     </message>
     <message>
         <source>Show people&apos;s region</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar região das pessoas</translation>
     </message>
     <message>
         <source>Edit IPTC...</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar IPTC...</translation>
     </message>
     <message>
         <source>Edit XMP...</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar XMP...</translation>
     </message>
     <message>
         <source>Save All</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvar Tudo</translation>
     </message>
     <message>
         <source>Add text...</source>
-        <translation type="unfinished"></translation>
+        <translation>Adicionar texto...</translation>
     </message>
     <message>
         <source>White Balance...</source>
-        <translation type="unfinished"></translation>
+        <translation>Equilíbrio de Branco...</translation>
     </message>
     <message>
         <source>Set DPI...</source>
-        <translation type="unfinished"></translation>
+        <translation>Definir DPI...</translation>
     </message>
     <message>
         <source>Acquire into (TWAIN)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Adquirir em (TWAIN)...</translation>
     </message>
     <message>
         <source>Acquire (TWAIN)</source>
-        <translation type="unfinished"></translation>
+        <translation>Adquirir (TWAIN)</translation>
     </message>
     <message>
         <source>Open GPS location in</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir localização do GPS em</translation>
     </message>
     <message>
         <source>Clean metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpar metadados...</translation>
     </message>
     <message>
         <source>Send by FTP...</source>
-        <translation type="unfinished">Enviar por FTP...</translation>
+        <translation>Enviar via FTP...</translation>
     </message>
     <message>
         <source>Effect...</source>
-        <translation type="unfinished"></translation>
+        <translation>Efeito...</translation>
     </message>
     <message>
         <source>Join images...</source>
-        <translation type="unfinished"></translation>
+        <translation>Juntar imagens...</translation>
     </message>
     <message>
         <source>Contact sheet...</source>
-        <translation type="unfinished"></translation>
+        <translation>Folha de contatos...</translation>
     </message>
     <message>
         <source>Slideshow...</source>
-        <translation type="unfinished"></translation>
+        <translation>Apresentação de slides...</translation>
     </message>
     <message>
         <source>Effect</source>
-        <translation type="unfinished"></translation>
+        <translation>Efeito</translation>
     </message>
     <message>
         <source>Navigate to</source>
-        <translation type="unfinished"></translation>
+        <translation>Navegar para</translation>
     </message>
     <message>
         <source>Add watermark...</source>
-        <translation type="unfinished"></translation>
+        <translation>Adicionar marca d&apos;água...</translation>
     </message>
     <message>
         <source>Swap color</source>
-        <translation type="unfinished"></translation>
+        <translation>Inverter cores</translation>
     </message>
     <message>
         <source>Fit image to desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustar imagem à área de trabalho</translation>
     </message>
     <message>
         <source>Tag/Untag current</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcar/Desmarcar atual</translation>
     </message>
     <message>
         <source>Remove Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Remover Fundo</translation>
     </message>
     <message>
         <source>Rotate 90° right</source>
-        <translation type="unfinished"></translation>
+        <translation>Girar 90° à direita</translation>
     </message>
     <message>
         <source>Rotate 90° left</source>
-        <translation type="unfinished"></translation>
+        <translation>Girar 90° para esquerda</translation>
     </message>
     <message>
         <source>Flip horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>Inverter horizontalmente</translation>
     </message>
     <message>
         <source>Flip vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>Inverter verticalmente</translation>
     </message>
     <message>
         <source>Rotate 90° right (lossless)</source>
-        <translation type="unfinished"></translation>
+        <translation>Girar a direita 90° (sem perda)</translation>
     </message>
     <message>
         <source>Rotate 90° left (lossless)</source>
-        <translation type="unfinished"></translation>
+        <translation>Girar 90° para a esquerda (sem perda)</translation>
     </message>
     <message>
         <source>Rotate 180° (lossless)</source>
-        <translation type="unfinished"></translation>
+        <translation>Girar 180° (sem perda)</translation>
     </message>
     <message>
         <source>Flip horizontally (lossless)</source>
-        <translation type="unfinished"></translation>
+        <translation>Inverter horizontalmente (sem perdas)</translation>
     </message>
     <message>
         <source>Flip vertically (lossless)</source>
-        <translation type="unfinished"></translation>
+        <translation>Inverter verticalmente (sem perdas)</translation>
     </message>
     <message>
         <source>Crop (lossless)</source>
-        <translation type="unfinished"></translation>
+        <translation>Cortar (sem perdas)</translation>
     </message>
     <message>
         <source>RGB→RBG</source>
-        <translation>RGB→RBG</translation>
-    </message>
-    <message>
-        <source>RGB→BGR</source>
-        <translation>RGB→BGR</translation>
-    </message>
-    <message>
-        <source>RGB→BRG</source>
-        <translation>RGB→BRG</translation>
-    </message>
-    <message>
-        <source>RGB→GRB</source>
-        <translation>RGB→GRB</translation>
-    </message>
-    <message>
-        <source>RGB→GBR</source>
-        <translation>RGB→GBR</translation>
-    </message>
-    <message>
-        <source>Edit palette...</source>
-        <translation>Editar paleta...</translation>
-    </message>
-    <message>
-        <source>Use transparent index (≤ 8bits)</source>
-        <translation>Usar índice de transparência (≤ 8bits)</translation>
-    </message>
-    <message>
-        <source>Draw as Snapshot (icons only)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Logarithmic LUT</source>
-        <translation>Logarítmica LUT</translation>
+        <source>RGB→BGR</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Send by email...</source>
-        <translation type="unfinished">Enviar por email...</translation>
+        <source>RGB→BRG</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RGB→GRB</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RGB→GBR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open in file manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save a copy...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print opened images...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clear selection</source>
@@ -16577,26 +16659,10 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Selection - set ratio</source>
-        <translation>Seleção - proporção definida</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Selection - set size</source>
-        <translation>Seleção - tamanho do conjunto</translation>
-    </message>
-    <message>
-        <source>Paste as image</source>
-        <translation>Colar como imagem</translation>
-    </message>
-    <message>
-        <source>Lossless transformations (JPEG)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Meta&amp;data</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Save a copy...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16625,22 +16691,30 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>##label## (go to next image)</source>
-        <translation>##label## (vá para a próxima imagem)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set Rating</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Definir Avaliação</translation>
     </message>
     <message>
         <source>Set Color label</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Automatic crop...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Definir Rótulo de Cor</translation>
     </message>
     <message>
         <source>Pan to coordinates...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use transparent index (≤ 8bits)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Draw as Snapshot (icons only)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use anti-aliasing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16652,16 +16726,32 @@ Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Use anti-aliasing</source>
-        <translation type="unfinished">Usar antisserrilhado</translation>
-    </message>
-    <message>
-        <source>Print opened images...</source>
+        <source>Logarithmic LUT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Open in file manager</source>
+        <source>Automatic crop...</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit palette...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send by email...</source>
+        <translation type="unfinished">Enviar por e-mail...</translation>
+    </message>
+    <message>
+        <source>Lossless transformations (JPEG)</source>
+        <translation type="unfinished">Transformações sem perda (JPEG)</translation>
+    </message>
+    <message>
+        <source>Paste as image</source>
+        <translation type="unfinished">Colar como imagem</translation>
+    </message>
+    <message>
+        <source>Meta&amp;data</source>
+        <translation type="unfinished">Meta&amp;dados</translation>
     </message>
 </context>
 <context>
@@ -16696,23 +16786,23 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Save File</source>
-        <translation>Salvar imagem</translation>
+        <translation>Salvar Arquivo</translation>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation>Esquerda da borda superior</translation>
+        <translation>Superior Esquerdo</translation>
     </message>
     <message>
         <source>Top-Center</source>
-        <translation>Centro da borda superior</translation>
+        <translation>Superior Central</translation>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation>Direita da borda superior</translation>
+        <translation>Superior Direito</translation>
     </message>
     <message>
         <source>Center-Left</source>
-        <translation>Centro da borda esquerda</translation>
+        <translation>Centro à esquerda</translation>
     </message>
     <message>
         <source>Center</source>
@@ -16720,23 +16810,23 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Center-Right</source>
-        <translation>Centro da borda direita</translation>
+        <translation>Centro à direita</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation>Esquerda da borda inferior</translation>
+        <translation>Inferior à esquerda</translation>
     </message>
     <message>
         <source>Bottom-Center</source>
-        <translation>Centro da borda inferior</translation>
+        <translation>Centro inferior</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation>Direita da borda inferior</translation>
+        <translation>Inferior à direita</translation>
     </message>
     <message>
         <source>Open Image(s)</source>
-        <translation>Abrir imagem (s)</translation>
+        <translation>Abrir imagem(ens)</translation>
     </message>
     <message>
         <source>Choose command</source>
@@ -16749,35 +16839,35 @@ Do you want to continue?</source>
     <message>
         <source>Choose a directory</source>
         <translatorcomment>Escolher uma pasta</translatorcomment>
-        <translation>Escolha uma pasta</translation>
+        <translation>Escolher um diretório</translation>
     </message>
     <message>
         <source>Open Text File</source>
-        <translation>Abrir arquivo texto</translation>
+        <translation>Abrir arquivo de texto</translation>
     </message>
     <message>
         <source>Open XnView database</source>
-        <translation>Abrir o banco de dados do XnView</translation>
+        <translation>Abrir banco de dados XnView</translation>
     </message>
     <message>
         <source>All Files</source>
-        <translation>Todos os arquivos</translation>
+        <translation>Todos os Arquivos</translation>
     </message>
     <message>
         <source>Last used</source>
-        <translation type="unfinished"></translation>
+        <translation>Último usado</translation>
     </message>
     <message>
         <source>Choose audio file</source>
-        <translation type="unfinished"></translation>
+        <translation>Escolher arquivo de áudio</translation>
     </message>
     <message>
         <source>mm</source>
-        <translation type="unfinished">mm</translation>
+        <translation>mm</translation>
     </message>
     <message>
         <source>An error occurred during processing!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocorreu um erro durante o processamento!</translation>
     </message>
     <message>
         <source>Save a copy</source>
@@ -16792,7 +16882,7 @@ Do you want to continue?</source>
     <name>MyAddFolderProcess</name>
     <message>
         <source>Abort</source>
-        <translation>Abortar</translation>
+        <translation>Interromper</translation>
     </message>
     <message>
         <source>Building catalog entries...</source>
@@ -16810,11 +16900,11 @@ Do you want to continue?</source>
     <name>MyAddFolderProcess3</name>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">Abortar</translation>
+        <translation>Interromper</translation>
     </message>
     <message>
         <source>Check folders...</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificar pastas...</translation>
     </message>
 </context>
 <context>
@@ -16836,7 +16926,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Home</source>
-        <translation>Home</translation>
+        <translation>Início</translation>
     </message>
     <message>
         <source>Folders</source>
@@ -16844,18 +16934,18 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>New Folder %1</source>
-        <translation>Nova pasta %1</translation>
+        <translation>Nova Pasta %1</translation>
     </message>
     <message>
         <source>Desktop</source>
-        <translation>Área de trabalho</translation>
+        <translation>Área de Trabalho</translation>
     </message>
 </context>
 <context>
     <name>MyFileComboEdit</name>
     <message>
         <source>Choose a file</source>
-        <translation>Escolha um arquivo</translation>
+        <translation>Escolher um arquivo</translation>
     </message>
     <message>
         <source>Images</source>
@@ -16866,25 +16956,25 @@ Do you want to continue?</source>
     <name>MyFolderComboEdit</name>
     <message>
         <source>Choose a pathname</source>
-        <translation>Escolher um caminho</translation>
+        <translation>Escolha um caminho</translation>
     </message>
 </context>
 <context>
     <name>MyFolderEdit</name>
     <message>
         <source>Choose a pathname</source>
-        <translation>Escolher um caminho</translation>
+        <translation>Escolha um caminho</translation>
     </message>
 </context>
 <context>
     <name>MyFolderView</name>
     <message>
         <source>Delete folder</source>
-        <translation type="unfinished">Apagar pasta</translation>
+        <translation>Excluir pasta</translation>
     </message>
     <message>
         <source>Are you sure to delete this folder?</source>
-        <translation type="unfinished">Você tem certeza que deseja apagar essa pasta?</translation>
+        <translation>Você Você tem certeza de que deseja excluir esta pasta?</translation>
     </message>
 </context>
 <context>
@@ -16903,7 +16993,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Luminance</source>
-        <translation>Luminosidade</translation>
+        <translation>Luminância</translation>
     </message>
     <message>
         <source>RGB</source>
@@ -16911,7 +17001,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>RGB+Luminance</source>
-        <translation>RGB + Luminosidade</translation>
+        <translation>RGB+Luminance</translation>
     </message>
     <message>
         <source>Dark background</source>
@@ -16927,28 +17017,28 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Transparent</source>
-        <translation type="unfinished"></translation>
+        <translation>Transparência</translation>
     </message>
 </context>
 <context>
     <name>MyLittleToolBarV1</name>
     <message>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Alternar função deslizante: tamanho de miniatura [pixels] ou miniaturas por coluna</translation>
     </message>
 </context>
 <context>
     <name>MyLittleToolBarV2_2</name>
     <message>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Alternar função deslizante: tamanho de miniatura [pixels] ou miniaturas por coluna</translation>
     </message>
 </context>
 <context>
     <name>MyProgressDialog</name>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">Abortar</translation>
+        <translation>Interromper</translation>
     </message>
 </context>
 <context>
@@ -16959,30 +17049,30 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Aguarde...</translation>
     </message>
 </context>
 <context>
     <name>MyTabBar</name>
     <message>
         <source>Tab settings...</source>
-        <translation>Configurações da aba...</translation>
+        <translation>Configurações da guia...</translation>
     </message>
     <message>
         <source>Iconify tabs</source>
-        <translation>Aba para ícone</translation>
+        <translation>Mostrar guias como ícones</translation>
     </message>
     <message>
         <source>&amp;Close tab</source>
-        <translation>&amp;Fechar aba</translation>
+        <translation>&amp;Fechar guia</translation>
     </message>
     <message>
         <source>Close &amp;other tabs</source>
-        <translation>Fechar &amp;Outras abas</translation>
+        <translation>Fechar &amp;outras guias</translation>
     </message>
     <message>
         <source>Duplicate tab</source>
-        <translation>Duplicar aba</translation>
+        <translation>Duplicar guia</translation>
     </message>
 </context>
 <context>
@@ -16997,31 +17087,31 @@ Do you want to continue?</source>
     <message numerus="yes">
         <source>%n object(s)</source>
         <translation>
-            <numerusform>%n objeto</numerusform>
-            <numerusform>%n objetos</numerusform>
+            <numerusform>%n objeto(s)</numerusform>
+            <numerusform>%n objeto(s)</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n object(s) selected [%3 %4]</source>
         <translation>
-            <numerusform>%n objeto selecionado [%3 %4]</numerusform>
-            <numerusform>%n objetos selecionados [%3 %4]</numerusform>
+            <numerusform>%n objeto(s) selecionado [%3 %4]</numerusform>
+            <numerusform>%n objeto(s) selecionado [%3 %4]</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n object(s) [%2 %3]</source>
         <translation>
-            <numerusform>%n objeto [%2 %3]</numerusform>
-            <numerusform>%n objetos [%2 %3]</numerusform>
+            <numerusform>%n objeto(s) [%2 %3]</numerusform>
+            <numerusform>%n objeto(s) [%2 %3]</numerusform>
         </translation>
     </message>
     <message>
         <source>[Free disk space: %1 %2]</source>
-        <translation>[Espaço livre no disco: %1 %2]</translation>
+        <translation>[Espaço livre em disco: %1 %2]</translation>
     </message>
     <message>
         <source>All</source>
-        <translation>Todos</translation>
+        <translation>Tudo</translation>
     </message>
     <message>
         <source>None</source>
@@ -17029,11 +17119,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Updating catalog, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualizando catálogo. Aguarde...</translation>
     </message>
     <message>
         <source>Updating files, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualizando arquivos. Aguarde...</translation>
     </message>
     <message>
         <source>Size of cached thumbnails is smaller than chosen one. 
@@ -17053,18 +17143,18 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>Please visit the XnView %1 for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Para mais informações, visite o XnView %1.</translation>
     </message>
     <message>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Para visualizar e converter arquivos PDF/PS/EPS/AI, o XnView MP requer que o Ghostscript %1 esteja instalado em seu sistema.</translation>
     </message>
 </context>
 <context>
     <name>OpenWith</name>
     <message>
         <source>Select a program</source>
-        <translation>Selecionar um programa</translation>
+        <translation>Selecione um programa</translation>
     </message>
 </context>
 <context>
@@ -17079,299 +17169,299 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>Configure programs...</source>
-        <translation>Configurar programas...</translation>
+        <translation>Configure programs...</translation>
     </message>
 </context>
 <context>
     <name>PaintBitmapView</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Apagar</translation>
+        <translation>Excluir</translation>
     </message>
     <message>
         <source>Move to front</source>
-        <translation type="unfinished"></translation>
+        <translation>Trazer para frente</translation>
     </message>
     <message>
         <source>Move to back</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar para trás</translation>
     </message>
 </context>
 <context>
     <name>PaintDialog</name>
     <message>
         <source>Do you want to exit drawing and discard your changes?</source>
-        <translation type="unfinished"></translation>
+        <translation>Você deseja sair do desenho e descartar suas alterações?</translation>
     </message>
     <message>
         <source>Draw</source>
-        <translation type="unfinished"></translation>
+        <translation>Desenhar</translation>
     </message>
 </context>
 <context>
     <name>PaintText</name>
     <message>
         <source>Enter your text</source>
-        <translation type="unfinished"></translation>
+        <translation>Insira seu texto</translation>
     </message>
 </context>
 <context>
     <name>PaintWidget</name>
     <message>
         <source>Logo</source>
-        <translation type="unfinished"></translation>
+        <translation>Logotipo</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished">Texto</translation>
+        <translation>Texto</translation>
     </message>
     <message>
         <source>Rectangle</source>
-        <translation type="unfinished">Retângulo</translation>
+        <translation>Retângulo</translation>
     </message>
     <message>
         <source>Ellipse</source>
-        <translation type="unfinished"></translation>
+        <translation>Elipse</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation type="unfinished">Linha</translation>
+        <translation>Linha</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation type="unfinished">Opacidade</translation>
+        <translation>Opacidade</translation>
     </message>
     <message>
         <source>Enter your text</source>
-        <translation type="unfinished"></translation>
+        <translation>Insira seu texto</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished">Fonte</translation>
+        <translation>Fonte</translation>
     </message>
     <message>
         <source>Effect</source>
-        <translation type="unfinished"></translation>
+        <translation>Efeito</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Tamanho</translation>
+        <translation>Tamanho</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation type="unfinished">Fora da linha</translation>
+        <translation>Contorno</translation>
     </message>
     <message>
         <source>Blur</source>
-        <translation type="unfinished"></translation>
+        <translation>Desfoque</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished">Sombra</translation>
+        <translation>Sombra</translation>
     </message>
     <message>
         <source>Offset Y</source>
-        <translation type="unfinished">Offset Y</translation>
+        <translation>Deslocamento Y</translation>
     </message>
     <message>
         <source>Offset X</source>
-        <translation type="unfinished">Offset X</translation>
+        <translation>Deslocamento X</translation>
     </message>
     <message>
         <source>Choose an image</source>
-        <translation type="unfinished"></translation>
+        <translation>Escolha uma imagem</translation>
     </message>
     <message>
         <source>Images</source>
-        <translation type="unfinished">Imagens</translation>
+        <translation>Imagens</translation>
     </message>
     <message>
         <source>Draw</source>
-        <translation type="unfinished"></translation>
+        <translation>Desenhar</translation>
     </message>
     <message>
         <source>Best fit</source>
-        <translation type="unfinished">Melhor tamanho</translation>
+        <translation>Melhor ajuste</translation>
     </message>
     <message>
         <source>Zoom in</source>
-        <translation type="unfinished">Aumentar zoom</translation>
+        <translation>Aumentar zoom</translation>
     </message>
     <message>
         <source>Zoom 100%</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom 100%</translation>
     </message>
     <message>
         <source>Add text</source>
-        <translation type="unfinished"></translation>
+        <translation>Adicionar texto</translation>
     </message>
     <message>
         <source>Add a watermark</source>
-        <translation type="unfinished"></translation>
+        <translation>Adicionar uma marca d&apos;água</translation>
     </message>
     <message>
         <source>Draw an ellipse</source>
-        <translation type="unfinished"></translation>
+        <translation>Desenhar uma elipse</translation>
     </message>
     <message>
         <source>Zoom out</source>
-        <translation type="unfinished">Diminuir zoom</translation>
+        <translation>Diminuir zoom</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecionar</translation>
     </message>
     <message>
         <source>Draw a rectangle</source>
-        <translation type="unfinished"></translation>
+        <translation>Desenhar um retângulo</translation>
     </message>
     <message>
         <source>Draw a line</source>
-        <translation type="unfinished"></translation>
+        <translation>Desenhar uma linha</translation>
     </message>
     <message>
         <source>Eyedropper</source>
-        <translation type="unfinished"></translation>
+        <translation>Conta-gotas</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished">Refazer</translation>
+        <translation>Refazer</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished">Desfazer</translation>
+        <translation>Desfazer</translation>
     </message>
     <message>
         <source>Fill + Contour</source>
-        <translation type="unfinished"></translation>
+        <translation>Preenchimento + Contorno</translation>
     </message>
     <message>
         <source>Fill only</source>
-        <translation type="unfinished"></translation>
+        <translation>Apenas preenchimento</translation>
     </message>
     <message>
         <source>Contour only</source>
-        <translation type="unfinished"></translation>
+        <translation>Apenas contorno</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Sublinhado</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Itálico</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Negrito</translation>
     </message>
     <message>
         <source>Strike</source>
-        <translation type="unfinished"></translation>
+        <translation>Tachado</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished">Esquerda</translation>
+        <translation>Esquerda</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished">Centralizado</translation>
+        <translation>Centralizado</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished">Direita</translation>
+        <translation>Direita</translation>
     </message>
     <message>
         <source>Draw [%1]</source>
-        <translation type="unfinished"></translation>
+        <translation>Desenhar [%1]</translation>
     </message>
     <message>
         <source>X: %1, Y: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>X: %1, Y: %2</translation>
     </message>
     <message>
         <source>R: %1, G: %2, B: %3 [#%4]</source>
-        <translation type="unfinished"></translation>
+        <translation>R: %1, G: %2, B: %3 [#%4]</translation>
     </message>
     <message>
         <source>Background</source>
-        <translation type="unfinished">Fundo</translation>
+        <translation>Fundo</translation>
     </message>
     <message>
         <source>Margin X</source>
-        <translation type="unfinished"></translation>
+        <translation>Margem X</translation>
     </message>
     <message>
         <source>Margin Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Margem Y</translation>
     </message>
     <message>
         <source>Set</source>
-        <translation type="unfinished"></translation>
+        <translation>Definir</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation type="unfinished">Posição</translation>
+        <translation>Posição</translation>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Superior Esquerdo</translation>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Superior Direito</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation type="unfinished">Centro</translation>
+        <translation>Centro</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Inferior à esquerda</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Inferior à direita</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation type="unfinished">Definições prévias</translation>
+        <translation>Predefinições</translation>
     </message>
     <message>
         <source>Include color</source>
-        <translation type="unfinished"></translation>
+        <translation>Incluir cor</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished">Nome :</translation>
+        <translation>Nome:</translation>
     </message>
     <message>
         <source>Preset name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome da predefinição</translation>
     </message>
     <message>
         <source>Add...</source>
-        <translation type="unfinished">Adicionar...</translation>
+        <translation>Adicionar...</translation>
     </message>
     <message>
         <source>Manage...</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerenciar...</translation>
     </message>
     <message>
         <source>Thickness</source>
-        <translation type="unfinished">Espessura</translation>
+        <translation>Espessura</translation>
     </message>
     <message>
         <source>Style</source>
-        <translation type="unfinished">Estilo</translation>
+        <translation>Estilo</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished">Preencher</translation>
+        <translation>Preencher</translation>
     </message>
     <message>
         <source>Arrows</source>
-        <translation type="unfinished"></translation>
+        <translation>Setas</translation>
     </message>
     <message>
         <source>Stretch</source>
@@ -17390,7 +17480,7 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation>Previsão</translation>
+        <translation>Pré-Visualização</translation>
     </message>
     <message>
         <source>Categories</source>
@@ -17405,14 +17495,14 @@ You can change it in Settings › Catalog.</source>
     <name>PathEditWidget</name>
     <message>
         <source>Choose a pathname</source>
-        <translation>Escolher um caminho</translation>
+        <translation>Escolha um caminho</translation>
     </message>
 </context>
 <context>
     <name>PreviewInfo</name>
     <message>
         <source>Preview</source>
-        <translation>Previsão</translation>
+        <translation>Pré-Visualização</translation>
     </message>
 </context>
 <context>
@@ -17427,11 +17517,11 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>Connection refused to host %1</source>
-        <translation>Conexão recusada para o host %1</translation>
+        <translation>Conexão recusada pelo host %1</translation>
     </message>
     <message>
         <source>Connection timed out to host %1</source>
-        <translation>Conexão com tempo excedido para o host %1</translation>
+        <translation>Esgotado o tempo de conexão com o host %1</translation>
     </message>
     <message>
         <source>Connected to host %1</source>
@@ -17439,7 +17529,7 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>Connection refused for data connection</source>
-        <translation>Recusada conexão de dados</translation>
+        <translation>Conexão recusada para conexão de dados</translation>
     </message>
     <message>
         <source>Unknown error</source>
@@ -17448,55 +17538,55 @@ You can change it in Settings › Catalog.</source>
     <message>
         <source>Connecting to host failed:
 %1</source>
-        <translation>Falha de conexão
+        <translation>Falha ao conectar ao host:
 %1</translation>
     </message>
     <message>
         <source>Login failed:
 %1</source>
-        <translation>Falha ao logar
+        <translation>Falha no login:
 %1</translation>
     </message>
     <message>
         <source>Listing directory failed:
 %1</source>
-        <translation>Falha ao listar pastas
+        <translation>Falha ao listar o diretório:
 %1</translation>
     </message>
     <message>
         <source>Changing directory failed:
 %1</source>
-        <translation>Falha ao mudar de pasta
+        <translation>Falha ao alterar diretório:
 %1</translation>
     </message>
     <message>
         <source>Downloading file failed:
 %1</source>
-        <translation>Falha ao fazer o download de arquivo
+        <translation>Falha ao baixar o arquivo:
 %1</translation>
     </message>
     <message>
         <source>Uploading file failed:
 %1</source>
-        <translation>Falha ao fazer o upload de arquivo
+        <translation>O envio do arquivo falhou:
 %1</translation>
     </message>
     <message>
         <source>Removing file failed:
 %1</source>
-        <translation>Falha ao remover arquivo
+        <translation>Falha ao remover arquivo:
 %1</translation>
     </message>
     <message>
         <source>Creating directory failed:
 %1</source>
-        <translation>Falha ao criar pasta
+        <translation>Falha ao criar o diretório:
 %1</translation>
     </message>
     <message>
         <source>Removing directory failed:
 %1</source>
-        <translation>Falha ao remover pasta
+        <translation>Falha ao remover diretório:
 %1</translation>
     </message>
     <message>
@@ -17520,7 +17610,7 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>Dark red</source>
-        <translation>Vesmelho escuro</translation>
+        <translation>Vermelho escuro</translation>
     </message>
     <message>
         <source>Green</source>
@@ -17564,7 +17654,7 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>Gray</source>
-        <translation>Cinza</translation>
+        <translation>Cinzento</translation>
     </message>
     <message>
         <source>Dark gray</source>
@@ -17599,19 +17689,19 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>100% of %1 (Done)</source>
-        <translation>100% de %1 (Feito)</translation>
+        <translation>100% de %1 (Concluído)</translation>
     </message>
     <message>
         <source>%1 / %2 files</source>
-        <translation>%1 / %2 arquivos</translation>
+        <translation>Arquivos %1 / %2</translation>
     </message>
     <message>
         <source>%1 / %2 dirs</source>
-        <translation>%1 / %2 pastas</translation>
+        <translation>%1 / %2 dirs</translation>
     </message>
     <message>
         <source>%1 of %2 completed</source>
-        <translation>%1 de %2 terminado</translation>
+        <translation>%1 de %2 concluído</translation>
     </message>
     <message>
         <source>Copying...</source>
@@ -17619,7 +17709,7 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>Done</source>
-        <translation>Feito</translation>
+        <translation>Concluído</translation>
     </message>
     <message>
         <source>%1% of %2 (%3)</source>
@@ -17631,7 +17721,7 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>%1/s ( %2 remaining )</source>
-        <translation>%1/s ( %2 faltando )</translation>
+        <translation>%1/s ( Restam: %2 )</translation>
     </message>
     <message>
         <source>24% of 100MB (Copying...)</source>
@@ -17639,15 +17729,15 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>Destination</source>
-        <translation>Destino</translation>
+        <translation>Local de destino</translation>
     </message>
     <message>
         <source>Source</source>
-        <translation>Fonte</translation>
+        <translation>Origem</translation>
     </message>
     <message>
         <source>10 MB of 100 MB completed</source>
-        <translation>10 MB de 100 MB terminado</translation>
+        <translation>10 MB de 100 MB concluídos</translation>
     </message>
     <message>
         <source>2 / 5 files</source>
@@ -17655,11 +17745,11 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>5 MB/s (00:00:15 remaining)</source>
-        <translation>5 MB/s (00:00:15 faltando)</translation>
+        <translation>5 MB/s (00:00:15 restantes)</translation>
     </message>
     <message>
         <source>0 / 1 dirs</source>
-        <translation>0 / 1 pastas</translation>
+        <translation>0 / 1 dirs</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -17678,51 +17768,51 @@ You can change it in Settings › Catalog.</source>
     <name>QtCopyDialogPrivate</name>
     <message>
         <source>Copy Warning</source>
-        <translation>Aviso de cópia</translation>
+        <translation>Aviso de Cópia</translation>
     </message>
     <message>
         <source>Source doesn&apos;t exist.</source>
-        <translation>Fonte não existe.</translation>
+        <translation>A origem não existe.</translation>
     </message>
     <message>
         <source>Source file is a directory. Omitting source directory.</source>
-        <translation>O arquivo fonte é uma pasta. Omitindo a pasta fonte.</translation>
+        <translation>O arquivo de origem é um diretório. Diretório de origem ignorado.</translation>
     </message>
     <message>
         <source>Source directory is a file. Omitting source file.</source>
-        <translation>A pasta fonte é um arquivo. Omitindo o arquivo fonte.</translation>
+        <translation>O diretório de origem é um arquivo. Arquivo de origem ignorado.</translation>
     </message>
     <message>
         <source>Cannot create destination directory.</source>
-        <translation>Não foi possível criar a pasta destino.</translation>
+        <translation>Impossível criar diretório de destino.</translation>
     </message>
     <message>
         <source>Cannot open source file. Please check permissions.</source>
-        <translation>Não foi possível abrir o arquivo fonte. Por favor verifique as permissões.</translation>
+        <translation>Não foi possível abrir arquivo de origem. Verifique suas permissões.</translation>
     </message>
     <message>
         <source>Cannot open destination file. Please check permissions.</source>
-        <translation>Não foi possível abrir o arquivo destino. Por favor verifique as permissões.</translation>
+        <translation>Não foi possível abrir o arquivo de destino. Verifique suas permissões.</translation>
     </message>
     <message>
         <source>Force: Cannot remove destination file.</source>
-        <translation>Forçar. Não foi possível remover o arquivo destino.</translation>
+        <translation>Forçar: Não foi possível remover o arquivo de destino.</translation>
     </message>
     <message>
         <source>Cannot create symbolic link targeting to source.</source>
-        <translation>Não foi possível criar ligações simbólicas apontando para a fonte.</translation>
+        <translation>Não foi possível criar um link simbólico direcionado à origem.</translation>
     </message>
     <message>
         <source>Cannot read source file.</source>
-        <translation>Não foi possível ler o arquivo fonte.</translation>
+        <translation>Impossível ler o arquivo fonte.</translation>
     </message>
     <message>
         <source>Cannot write destination file.</source>
-        <translation>Não foi possível gravar no arquivo destino.</translation>
+        <translation>Não foi possível escrever o arquivo de destino.</translation>
     </message>
     <message>
         <source>Cannot remove source.</source>
-        <translation>Não foi possível remover a fonte.</translation>
+        <translation>Não foi possível remover fonte.</translation>
     </message>
     <message>
         <source>Error code: %1</source>
@@ -17730,26 +17820,26 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>Destination path does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>O caminho de destino não existe.</translation>
     </message>
 </context>
 <context>
     <name>QtOtherDialog</name>
     <message>
         <source>File Already Exists</source>
-        <translation>Arquivo já existe</translation>
+        <translation>O Arquivo já Existe</translation>
     </message>
     <message>
         <source>Source</source>
-        <translation>Fonte</translation>
+        <translation>Origem</translation>
     </message>
     <message>
         <source>Destination</source>
-        <translation>Destino</translation>
+        <translation>Local de destino</translation>
     </message>
     <message>
         <source>Destination file already exists.</source>
-        <translation>Arquivo de destino já existe.</translation>
+        <translation>O arquivo de destino já existe.</translation>
     </message>
     <message>
         <source>Retry</source>
@@ -17757,11 +17847,11 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>Skip</source>
-        <translation>Saltar</translation>
+        <translation>Ignorar</translation>
     </message>
     <message>
         <source>Skip All</source>
-        <translation>Saltar tudo</translation>
+        <translation>Ignorar Tudo</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -17772,27 +17862,27 @@ You can change it in Settings › Catalog.</source>
     <name>QtOverwriteDialog</name>
     <message>
         <source>Copy Warning</source>
-        <translation>Aviso de cópia</translation>
+        <translation>Aviso de Cópia</translation>
     </message>
     <message>
         <source>Destination</source>
-        <translation>Destino</translation>
+        <translation>Local de destino</translation>
     </message>
     <message>
         <source>Source</source>
-        <translation>Fonte</translation>
+        <translation>Origem</translation>
     </message>
     <message>
         <source>Destination already exists.</source>
-        <translation>Destino já existe.</translation>
+        <translation>O destino já existe.</translation>
     </message>
     <message>
         <source>Skip</source>
-        <translation>Saltar</translation>
+        <translation>Ignorar</translation>
     </message>
     <message>
         <source>Skip All</source>
-        <translation>Saltar tudo</translation>
+        <translation>Ignorar Tudo</translation>
     </message>
     <message>
         <source>Overwrite</source>
@@ -17800,7 +17890,7 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>Overwrite All</source>
-        <translation>Sobrescrever tudo</translation>
+        <translation>Sobrescrever Tudo</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -17815,15 +17905,15 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>At most</source>
-        <translation>No máximo</translation>
+        <translation>Ao máximo</translation>
     </message>
     <message>
         <source>Exactly</source>
-        <translation>Exatamente</translation>
+        <translation>Exato</translation>
     </message>
     <message>
         <source>At least</source>
-        <translation>No mínimo</translation>
+        <translation>Ao mínimo</translation>
     </message>
 </context>
 <context>
@@ -17852,7 +17942,7 @@ You can change it in Settings › Catalog.</source>
     <name>Rename</name>
     <message>
         <source>An error has occurred during renaming!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocorreu um erro durante a renomeação!</translation>
     </message>
 </context>
 <context>
@@ -17867,7 +17957,7 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>is any of</source>
-        <translation>é qualquer entre</translation>
+        <translation>é qualquer um de</translation>
     </message>
     <message>
         <source>contains</source>
@@ -17879,19 +17969,19 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>With at least one of the words</source>
-        <translation>com pelo menos uma das palavreas</translation>
+        <translation>Com pelo menos uma das palavras</translation>
     </message>
     <message>
         <source>With all of the words</source>
-        <translation>com todas as palavras</translation>
+        <translation>Com todas as palavras</translation>
     </message>
     <message>
         <source>With the exact phrase</source>
-        <translation>Com exatamente a mesma frase</translation>
+        <translation>Com a frase exata</translation>
     </message>
     <message>
         <source>Whole word only</source>
-        <translation>Apenas com a palavra inteira</translation>
+        <translation>Apenas palavra inteira</translation>
     </message>
     <message>
         <source>and</source>
@@ -17899,11 +17989,11 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>is before</source>
-        <translation>está antes</translation>
+        <translation>é antes de</translation>
     </message>
     <message>
         <source>is after</source>
-        <translation>está depois</translation>
+        <translation>é depois de</translation>
     </message>
     <message>
         <source>is between</source>
@@ -17919,7 +18009,7 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>equal to</source>
-        <translation>é igual a</translation>
+        <translation>igual a</translation>
     </message>
     <message>
         <source>is greater than</source>
@@ -17939,81 +18029,81 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>KiB</source>
-        <translation>KiB</translation>
+        <translation>KB</translation>
     </message>
     <message>
         <source>MiB</source>
-        <translation>MiB</translation>
+        <translation>MB</translation>
     </message>
     <message>
         <source>GiB</source>
-        <translation>GiB</translation>
+        <translation>GB</translation>
     </message>
     <message>
         <source>does not contain</source>
-        <translation type="unfinished"></translation>
+        <translation>não contém</translation>
     </message>
 </context>
 <context>
     <name>SearchLineEdit</name>
     <message>
         <source>Quick filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtro rápido</translation>
     </message>
 </context>
 <context>
     <name>Slideshow</name>
     <message>
         <source>Slideshow</source>
-        <translation type="unfinished"></translation>
+        <translation>Apresentação de slides</translation>
     </message>
 </context>
 <context>
     <name>TagEntryModel</name>
     <message>
         <source>Enter a name</source>
-        <translation type="unfinished"></translation>
+        <translation>Insira um nome</translation>
     </message>
 </context>
 <context>
     <name>TemplateModel</name>
     <message>
         <source>Default</source>
-        <translation type="unfinished">Padrão</translation>
+        <translation>Padrão</translation>
     </message>
 </context>
 <context>
     <name>TemplateWidget</name>
     <message>
         <source>Insert &gt;&gt;</source>
-        <translation>Inserir&gt;&gt;</translation>
+        <translation>Inserir &gt;&gt;</translation>
     </message>
     <message>
         <source>Save preset</source>
-        <translation>Salvar padrão</translation>
+        <translation>Salvar predefinição</translation>
     </message>
     <message>
         <source>Remove preset</source>
-        <translation>Remover padrão</translation>
+        <translation>Excluir predefinição</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished">Padrão</translation>
+        <translation>Padrão</translation>
     </message>
 </context>
 <context>
     <name>ToolbarSearch</name>
     <message>
         <source>No Recent Searches</source>
-        <translation>Nenhuma pesquisa recente</translation>
+        <translation>Nenhuma Pesquisa Recente</translation>
     </message>
     <message>
         <source>Recent Searches</source>
-        <translation>Pesquisas recentes</translation>
+        <translation>Pesquisas Recentes</translation>
     </message>
     <message>
         <source>Clear Recent Searches</source>
-        <translation>Limpar pesquisas recentes</translation>
+        <translation>Limpar Pesquisas Recentes</translation>
     </message>
     <message>
         <source>Advanced search</source>
@@ -18021,15 +18111,19 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>Search in</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pesquisar em</translation>
     </message>
     <message>
         <source>IPTC fields</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Campos IPTC</translation>
+    </message>
+    <message>
+        <source>XMP fields</source>
+        <translation type="unfinished">Campos XMP</translation>
     </message>
     <message>
         <source>Embedded comment</source>
-        <translation type="unfinished">Comentário embutido</translation>
+        <translation type="unfinished">Comentário incorporado</translation>
     </message>
     <message>
         <source>Description</source>
@@ -18037,14 +18131,10 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>Categories (catalog)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Categorias (catálogo)</translation>
     </message>
     <message>
         <source>Thumbnail&apos;s labels</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>XMP fields</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18052,23 +18142,23 @@ You can change it in Settings › Catalog.</source>
     <name>VideoGalleryProcess</name>
     <message>
         <source>Filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome do Arquivo</translation>
     </message>
     <message>
         <source>File size</source>
-        <translation type="unfinished">Tamanho do arquivo</translation>
+        <translation>Tamanho do arquivo</translation>
     </message>
     <message>
         <source>Dimensions</source>
-        <translation type="unfinished">Dimensões</translation>
+        <translation>Dimensões</translation>
     </message>
     <message>
         <source>Duration</source>
-        <translation type="unfinished"></translation>
+        <translation>Duração</translation>
     </message>
     <message>
         <source>Bit rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Taxa de bits</translation>
     </message>
 </context>
 <context>
@@ -18083,31 +18173,31 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>Save selection as...</source>
-        <translation>Salvar a seleção como...</translation>
+        <translation>Salvar seleção como...</translation>
     </message>
     <message>
         <source>Crop, Save &amp;&amp; Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Cortar, Salvar &amp;&amp; Próximo</translation>
     </message>
     <message>
         <source>Selection horizontal position</source>
-        <translation type="unfinished"></translation>
+        <translation>Posição horizontal de seleção</translation>
     </message>
     <message>
         <source>Selection vertical position</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecionar posição vertical</translation>
     </message>
     <message>
         <source>Swap selection width and height</source>
-        <translation type="unfinished"></translation>
+        <translation>Trocar largura e altura da seleção</translation>
     </message>
     <message>
         <source>Show selection grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar grade de seleção</translation>
     </message>
     <message>
         <source>Center selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleção central</translation>
     </message>
 </context>
 <context>
@@ -18134,7 +18224,7 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>Remove last drawn rectangle</source>
-        <translation>Remover o último retângulo desenhado</translation>
+        <translation>Remover último retângulo desenhado</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -18150,49 +18240,49 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>Blur</source>
-        <translation>Desfocar</translation>
+        <translation>Desfoque</translation>
     </message>
 </context>
 <context>
     <name>ViewTextAction</name>
     <message>
         <source>TYPE YOUR TEXT</source>
-        <translation type="unfinished"></translation>
+        <translation>DIGITE SEU TEXTO</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished">Fonte</translation>
+        <translation>Fonte</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Text...</source>
-        <translation type="unfinished"></translation>
+        <translation>Texto...</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished">Texto</translation>
+        <translation>Texto</translation>
     </message>
 </context>
 <context>
     <name>ViewWatermarkAction</name>
     <message>
         <source>Opacity</source>
-        <translation type="unfinished">Opacidade</translation>
+        <translation>Opacidade</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished">Aplicar</translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -18203,14 +18293,14 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>Abort</source>
-        <translation>Abortar</translation>
+        <translation>Interromper</translation>
     </message>
 </context>
 <context>
     <name>WebError</name>
     <message>
         <source>No error</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum erro</translation>
     </message>
 </context>
 <context>
@@ -18221,7 +18311,7 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>PackBits</source>
-        <translation>PackBits</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18247,7 +18337,7 @@ You can change it in Settings › Catalog.</source>
     <name>xnview</name>
     <message>
         <source>Do you want to save this session?</source>
-        <translation>Você gostaria de salvar esta sessão?</translation>
+        <translation>Você deseja salvar esta sessão?</translation>
     </message>
     <message>
         <source>Error</source>
@@ -18263,65 +18353,67 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>XnViewMP - Catalog has a more recent version number than the expected one</source>
-        <translation>XnViewMP - O Catálogo tem um número de versão mais recente que o esperado.</translation>
+        <translation>XnViewMP - O catálogo tem um número de versão mais recente do que o número esperado</translation>
     </message>
     <message>
         <source>XnViewMP will upgrade the catalog. It may take a while. 
 
 Do you want to keep the thumbnails?
  (If you choose YES, the upgrade process will be slow)</source>
-        <translation>O XnViewMP vai atualizar o Catálogo. Isso pode demorar um pouco.
-Você gostaria de preservar as miniaturas?
-(Se você escolher Sim, o processo de atualização será mais demorado)</translation>
+        <translation>O XnViewMP atualizará o catálogo. Isso pode demorar um pouco.
+
+Você deseja manter as miniaturas?
+ (Se você escolher SIM, o processo de atualização será lento)</translation>
     </message>
     <message>
         <source>XnViewMP - There is a problem to update catalog (Error: %1), please contact the developer.</source>
-        <translation>XnViewMP - Ocorreu um problema durante a atualização do Catálogo (Erro %1). Por favor, entre em contato com o desenvolvedor.</translation>
+        <translation>XnViewMP - Ocorreu um problema ao atualizar o catálogo (Erro: %1). Entre em contato com o desenvolvedor.</translation>
     </message>
     <message>
         <source>Your previous session contains many loaded images, this can cause a slowdown!</source>
-        <translation type="unfinished"></translation>
+        <translation>Sua sessão anterior contém muitas imagens carregadas, isso pode causar lentidão!</translation>
     </message>
     <message>
         <source>Do you want to quit?</source>
-        <translation type="unfinished"></translation>
+        <translation>Você deseja sair?</translation>
     </message>
     <message>
         <source>Creating backup, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Criando backup. Aguarde...</translation>
     </message>
     <message>
         <source>Upgrading catalog, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualizando catálogo. Aguarde...</translation>
     </message>
     <message>
         <source>Catalog problem</source>
-        <translation type="unfinished"></translation>
+        <translation>Problema no catálogo</translation>
     </message>
     <message>
         <source>There is a problem to open catalog, check your settings or folder used!</source>
-        <translation type="unfinished"></translation>
+        <translation>Há um problema ao abrir o catálogo. Verifique suas configurações ou a pasta utilizada!</translation>
     </message>
     <message>
         <source>Application is up to date.</source>
-        <translation type="unfinished"></translation>
+        <translation>O aplicativo está atualizado.</translation>
     </message>
     <message>
         <source>Session</source>
-        <translation type="unfinished"></translation>
+        <translation>Sessão</translation>
     </message>
     <message>
         <source>Saving many tabs may noticeably slow application reopening.</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvar muitas guias pode deixar mais lenta a reabertura do aplicativo.</translation>
     </message>
     <message>
         <source>Don&apos;t ask again</source>
-        <translation type="unfinished"></translation>
+        <translation>Não perguntar novamente</translation>
     </message>
     <message>
         <source>Catalog and Metadata are disabled - 
 Rating, Tag &amp; Color labels will not be saved.</source>
-        <translation type="unfinished"></translation>
+        <translation>O catálogo e os metadados estão desativados - 
+As avaliações, etiquetas e os rótulos de cor não serão salvos.</translation>
     </message>
     <message>
         <source>Do you want to save session?</source>
