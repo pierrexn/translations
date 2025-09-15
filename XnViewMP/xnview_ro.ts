@@ -769,15 +769,15 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>EXIF: Date taken</source>
-        <translation type="unfinished">EXIF: Data luării</translation>
+        <translation>EXIF: Data facerii pozei</translation>
     </message>
     <message>
         <source>EXIF: Date modified</source>
-        <translation type="unfinished">EXIF: Data modificării</translation>
+        <translation>EXIF: Data când a fost modificată</translation>
     </message>
     <message>
         <source>File: Date modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișier: Data când a fost modificată</translation>
     </message>
     <message>
         <source>New album</source>
