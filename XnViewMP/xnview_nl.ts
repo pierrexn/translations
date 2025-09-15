@@ -913,22 +913,22 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="CategoryView.cpp" line="430"/>
         <source>EXIF: Date taken</source>
-        <translation type="unfinished"></translation>
+        <translation>EXIF: Datum opname</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="432"/>
         <source>EXIF: Date modified</source>
-        <translation type="unfinished">EXIF: datum gewijzigd</translation>
+        <translation>EXIF: Datum aangepast</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="434"/>
         <source>File: Date modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestand: Datum aangepast</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="472"/>
         <source>New album</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw album</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="479"/>
@@ -2006,12 +2006,12 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="152"/>
         <source>Taken in last 30 days</source>
-        <translation type="unfinished"></translation>
+        <translation>Opnames in afgelopen 30 dagen</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="153"/>
         <source>Modified in last 30 days</source>
-        <translation type="unfinished"></translation>
+        <translation>Aangepast in afgelopen 30 dagen</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="155"/>
@@ -2022,37 +2022,37 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="159"/>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Eigenschappen</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="164"/>
         <source>Albums</source>
-        <translation type="unfinished"></translation>
+        <translation>Albums</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="930"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Onbekend</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1512"/>
         <source>Landscape</source>
-        <translation type="unfinished">Afdrukstand liggend</translation>
+        <translation>Liggend</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1514"/>
         <source>Portrait</source>
-        <translation type="unfinished">Afdrukstand staand</translation>
+        <translation>Staand</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1519"/>
         <source>Uncalibrated</source>
-        <translation type="unfinished"></translation>
+        <translation>Ongecalibreerd</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1521"/>
         <source>sRGB</source>
-        <translation type="unfinished">sRGB</translation>
+        <translation>sRGB</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="348"/>
@@ -12541,7 +12541,7 @@ Miniatuur</translation>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="292"/>
         <source>Select a program</source>
-        <translation type="unfinished">Programma selecteren</translation>
+        <translation>Programma selecteren</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="338"/>
@@ -12664,12 +12664,12 @@ Miniatuur</translation>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="381"/>
         <source>ExifTool path</source>
-        <translation type="unfinished">Pad ExifTool</translation>
+        <translation>Pad ExifTool</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="398"/>
         <source>...</source>
-        <translation type="unfinished">…</translation>
+        <translation>…</translation>
     </message>
 </context>
 <context>
@@ -16939,7 +16939,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="1474"/>
         <source>File type</source>
-        <translation type="unfinished">Bestandstype</translation>
+        <translation>Bestandstype</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1116"/>
@@ -17492,7 +17492,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="1454"/>
         <source>Lens</source>
-        <translation type="unfinished">Lens</translation>
+        <translation>Lens</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1462"/>
@@ -17503,7 +17503,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="1470"/>
         <source>Shutter Speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluitertijd</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1127"/>
