@@ -911,22 +911,22 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
     <message>
         <location filename="CategoryView.cpp" line="430"/>
         <source>EXIF: Date taken</source>
-        <translation type="unfinished">EXIF: Készítés dátuma</translation>
+        <translation>EXIF: Készítés dátuma</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="432"/>
         <source>EXIF: Date modified</source>
-        <translation type="unfinished">EXIT: Módosítás dátuma</translation>
+        <translation>EXIT: Módosítás dátuma</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="434"/>
         <source>File: Date modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Fájl: Módosítás dátuma</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="472"/>
         <source>New album</source>
-        <translation type="unfinished"></translation>
+        <translation>Új album</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="479"/>
@@ -2006,12 +2006,12 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
     <message>
         <location filename="DBFilterModel.cpp" line="152"/>
         <source>Taken in last 30 days</source>
-        <translation type="unfinished"></translation>
+        <translation>Az elmúlt 30 napban készült</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="153"/>
         <source>Modified in last 30 days</source>
-        <translation type="unfinished"></translation>
+        <translation>Az elmúlt 30 napban módosult</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="155"/>
@@ -2022,37 +2022,37 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
     <message>
         <location filename="DBFilterModel.cpp" line="159"/>
         <source>Properties</source>
-        <translation type="unfinished">Tulajdonságok</translation>
+        <translation>Tulajdonságok</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="164"/>
         <source>Albums</source>
-        <translation type="unfinished"></translation>
+        <translation>Albumok</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="930"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Ismeretlen</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1512"/>
         <source>Landscape</source>
-        <translation type="unfinished">Fekvő</translation>
+        <translation>Fekvő</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1514"/>
         <source>Portrait</source>
-        <translation type="unfinished">Álló</translation>
+        <translation>Álló</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1519"/>
         <source>Uncalibrated</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nem kalibrált</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1521"/>
         <source>sRGB</source>
-        <translation type="unfinished">sRGB</translation>
+        <translation>sRGB</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="348"/>
@@ -12523,7 +12523,7 @@ miniatűrként</translation>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="292"/>
         <source>Select a program</source>
-        <translation type="unfinished">Program kiválasztása</translation>
+        <translation>Program kiválasztása</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="338"/>
@@ -12651,7 +12651,7 @@ miniatűrként</translation>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="398"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
 </context>
 <context>
@@ -16920,7 +16920,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="1474"/>
         <source>File type</source>
-        <translation type="unfinished">Fájltípus</translation>
+        <translation>Fájltípus</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1116"/>
@@ -17473,7 +17473,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="1454"/>
         <source>Lens</source>
-        <translation type="unfinished">Objektív</translation>
+        <translation>Objektív</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1462"/>
@@ -17484,7 +17484,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="1470"/>
         <source>Shutter Speed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zársebesség</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1127"/>
