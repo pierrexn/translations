@@ -773,15 +773,15 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>EXIF: Date modified</source>
-        <translation>EXIF: Data când a fost modificată</translation>
+        <translation>EXIF: Data modificării</translation>
     </message>
     <message>
         <source>File: Date modified</source>
-        <translation>Fișier: Data când a fost modificată</translation>
+        <translation>Fișier: Data modificării</translation>
     </message>
     <message>
         <source>New album</source>
-        <translation type="unfinished"></translation>
+        <translation>Album nou</translation>
     </message>
 </context>
 <context>
@@ -1567,39 +1567,39 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Taken in last 30 days</source>
-        <translation type="unfinished"></translation>
+        <translation>Poze făcute în ultimele 30 de zile</translation>
     </message>
     <message>
         <source>Modified in last 30 days</source>
-        <translation type="unfinished"></translation>
+        <translation>Poze modificate în ultimele 30 de zile</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished">Proprietăți</translation>
+        <translation>Proprietăți</translation>
     </message>
     <message>
         <source>Albums</source>
-        <translation type="unfinished"></translation>
+        <translation>Albume</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Necunoscută</translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation type="unfinished">Peisaj</translation>
+        <translation>Peisaj</translation>
     </message>
     <message>
         <source>Portrait</source>
-        <translation type="unfinished">Portret</translation>
+        <translation>Portret</translation>
     </message>
     <message>
         <source>Uncalibrated</source>
-        <translation type="unfinished"></translation>
+        <translation>Necalibrată</translation>
     </message>
     <message>
         <source>sRGB</source>
-        <translation type="unfinished">sRGB</translation>
+        <translation>sRGB</translation>
     </message>
 </context>
 <context>
@@ -9832,7 +9832,7 @@ miniatură</translation>
     </message>
     <message>
         <source>Select a program</source>
-        <translation type="unfinished">Selectează un program</translation>
+        <translation>Selectează un program</translation>
     </message>
 </context>
 <context>
@@ -9895,11 +9895,11 @@ miniatură</translation>
     </message>
     <message>
         <source>ExifTool path</source>
-        <translation type="unfinished">Calea pentru ExifTool</translation>
+        <translation>Calea pentru ExifTool</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
 </context>
 <context>
@@ -13274,7 +13274,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>File type</source>
-        <translation type="unfinished">Tip fișier</translation>
+        <translation>Tipul fișierului</translation>
     </message>
 </context>
 <context>
@@ -13846,11 +13846,11 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Lens</source>
-        <translation type="unfinished">Obiectiv</translation>
+        <translation>Obiectiv</translation>
     </message>
     <message>
         <source>Shutter Speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Viteza obturatorului</translation>
     </message>
 </context>
 <context>
