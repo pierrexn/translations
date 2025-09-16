@@ -918,22 +918,22 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
     <message>
         <location filename="CategoryView.cpp" line="430"/>
         <source>EXIF: Date taken</source>
-        <translation type="unfinished">EXIF: datum posnetka</translation>
+        <translation>EXIF: datum posnetka</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="432"/>
         <source>EXIF: Date modified</source>
-        <translation type="unfinished">EXIF: datum spremembe</translation>
+        <translation>EXIF: datum spremembe</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="434"/>
         <source>File: Date modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Datoteka: Datum spremembe</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="472"/>
         <source>New album</source>
-        <translation type="unfinished"></translation>
+        <translation>Nov album</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="479"/>
@@ -2012,53 +2012,53 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="152"/>
         <source>Taken in last 30 days</source>
-        <translation type="unfinished"></translation>
+        <translation>Posneto v zadnjih 30 dneh</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="153"/>
         <source>Modified in last 30 days</source>
-        <translation type="unfinished"></translation>
+        <translation>Spremenjeno v zadnjih 30 dneh</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="155"/>
         <location filename="DBFilterModel.cpp" line="1058"/>
         <source>Date</source>
-        <translation type="unfinished">Datum</translation>
+        <translation>Datum</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="159"/>
         <source>Properties</source>
-        <translation type="unfinished">Lastnosti</translation>
+        <translation>Lastnosti</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="164"/>
         <source>Albums</source>
-        <translation type="unfinished"></translation>
+        <translation>Albumi</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="930"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Neznano</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1512"/>
         <source>Landscape</source>
-        <translation type="unfinished">Pokrajina</translation>
+        <translation>Pokrajina</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1514"/>
         <source>Portrait</source>
-        <translation type="unfinished">Portret</translation>
+        <translation>Portret</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1519"/>
         <source>Uncalibrated</source>
-        <translation type="unfinished"></translation>
+        <translation>Nekalibrirano</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1521"/>
         <source>sRGB</source>
-        <translation type="unfinished">sRGB</translation>
+        <translation>sRGB</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="348"/>
@@ -12578,7 +12578,7 @@ sličico</translation>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="292"/>
         <source>Select a program</source>
-        <translation type="unfinished">Izberite program</translation>
+        <translation>Izberite program</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="338"/>
@@ -12701,12 +12701,12 @@ sličico</translation>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="381"/>
         <source>ExifTool path</source>
-        <translation type="unfinished">Pot do ExifTool</translation>
+        <translation>Pot do ExifTool</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="398"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
 </context>
 <context>
@@ -17208,7 +17208,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="1474"/>
         <source>File type</source>
-        <translation type="unfinished">Vrsta datoteke</translation>
+        <translation>Vrsta datoteke</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="366"/>
@@ -17494,7 +17494,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="1454"/>
         <source>Lens</source>
-        <translation type="unfinished">Objektiv</translation>
+        <translation>Objektiv</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1462"/>
@@ -17505,7 +17505,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="1470"/>
         <source>Shutter Speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Hitrost zaklopa</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1127"/>
@@ -17694,7 +17694,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <location filename="SearchField.cpp" line="78"/>
         <location filename="TemplateData.cpp" line="2633"/>
         <source>Date digitized</source>
-        <translation>Datum</translation>
+        <translation>Datum digitalizacije</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2634"/>
@@ -21246,7 +21246,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="307"/>
         <source>Open in file manager</source>
         <oldsource>Open in file explorer</oldsource>
-        <translation type="unfinished">Odpri v raziskovalcu datotek</translation>
+        <translation>Odpri v upravitelju datotek</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="308"/>
