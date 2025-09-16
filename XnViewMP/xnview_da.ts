@@ -17578,7 +17578,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="1470"/>
         <source>Shutter Speed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">LukkerHastighed</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1127"/>
