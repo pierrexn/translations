@@ -13839,7 +13839,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Shutter Speed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Suljinnopeus</translation>
     </message>
 </context>
 <context>
