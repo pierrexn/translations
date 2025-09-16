@@ -923,22 +923,22 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CategoryView.cpp" line="430"/>
         <source>EXIF: Date taken</source>
-        <translation type="unfinished">EXIF: Дата съёмки</translation>
+        <translation>EXIF: Дата съёмки</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="432"/>
         <source>EXIF: Date modified</source>
-        <translation type="unfinished">EXIF: Дата изменения</translation>
+        <translation>EXIF: Дата изменения</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="434"/>
         <source>File: Date modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл: Дата изменения</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="472"/>
         <source>New album</source>
-        <translation type="unfinished"></translation>
+        <translation>Новый альбом</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="479"/>
@@ -1778,7 +1778,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgConvert.cpp" line="269"/>
         <location filename="DlgFilter.cpp" line="76"/>
         <source>Lens</source>
-        <translation>Линза</translation>
+        <translation>Объектив</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="272"/>
@@ -2025,12 +2025,12 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DBFilterModel.cpp" line="152"/>
         <source>Taken in last 30 days</source>
-        <translation type="unfinished"></translation>
+        <translation>Снято за последние 30 дней</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="153"/>
         <source>Modified in last 30 days</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменено за последние 30 дней</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="155"/>
@@ -2041,37 +2041,37 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DBFilterModel.cpp" line="159"/>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Свойства</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="164"/>
         <source>Albums</source>
-        <translation type="unfinished"></translation>
+        <translation>Альбомы</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="930"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Неизвестно</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1512"/>
         <source>Landscape</source>
-        <translation type="unfinished">Альбомная</translation>
+        <translation>Альбомная</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1514"/>
         <source>Portrait</source>
-        <translation type="unfinished">Портретная</translation>
+        <translation>Портретная</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1519"/>
         <source>Uncalibrated</source>
-        <translation type="unfinished"></translation>
+        <translation>Некалиброванный</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1521"/>
         <source>sRGB</source>
-        <translation type="unfinished">sRGB</translation>
+        <translation>sRGB</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="348"/>
@@ -12623,7 +12623,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="292"/>
         <source>Select a program</source>
-        <translation type="unfinished">Выбор программы</translation>
+        <translation>Выбор программы</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="338"/>
@@ -12747,12 +12747,12 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="381"/>
         <source>ExifTool path</source>
-        <translation type="unfinished">Путь к ExifTool</translation>
+        <translation>Путь к ExifTool</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="398"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
 </context>
 <context>
@@ -17029,7 +17029,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DBFilterModel.cpp" line="1474"/>
         <source>File type</source>
-        <translation type="unfinished">Тип файла</translation>
+        <translation>Тип файла</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1116"/>
@@ -17592,7 +17592,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DBFilterModel.cpp" line="1454"/>
         <source>Lens</source>
-        <translation type="unfinished">Линза</translation>
+        <translation>Объектив</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1462"/>
@@ -17603,7 +17603,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DBFilterModel.cpp" line="1470"/>
         <source>Shutter Speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Скорость затвора</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1127"/>
