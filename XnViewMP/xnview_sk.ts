@@ -17519,7 +17519,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="1470"/>
         <source>Shutter Speed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rýchlosť uzávierky</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1127"/>
