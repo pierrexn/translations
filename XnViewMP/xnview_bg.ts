@@ -2048,7 +2048,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DBFilterModel.cpp" line="1521"/>
         <source>sRGB</source>
-        <translation type="unfinished">sRGB</translation>
+        <translation>sRGB</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="348"/>
