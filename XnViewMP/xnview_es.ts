@@ -13834,7 +13834,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Shutter Speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Velocidad obturador</translation>
     </message>
 </context>
 <context>
