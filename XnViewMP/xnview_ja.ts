@@ -17666,7 +17666,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DBFilterModel.cpp" line="1470"/>
         <source>Shutter Speed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">シャッタースピード</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1127"/>
