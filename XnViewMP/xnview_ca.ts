@@ -2053,7 +2053,7 @@ Cliqueu i arrossegueu sobre el node desitjat per assignar.</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="1521"/>
         <source>sRGB</source>
-        <translation type="unfinished">sRGB</translation>
+        <translation>sRGB</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="348"/>
@@ -17463,7 +17463,7 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="1470"/>
         <source>Shutter Speed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Velocitat d&apos;obturació</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1127"/>
