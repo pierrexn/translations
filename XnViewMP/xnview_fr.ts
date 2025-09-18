@@ -2021,7 +2021,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DBFilterModel.cpp" line="159"/>
         <source>Properties</source>
-        <translation type="unfinished">Propriétés</translation>
+        <translation>Propriétés</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="164"/>
@@ -2042,7 +2042,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DBFilterModel.cpp" line="1551"/>
         <source>Landscape</source>
-        <translation type="unfinished">Paysage</translation>
+        <translation>Paysage</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1553"/>
@@ -2052,12 +2052,12 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DBFilterModel.cpp" line="1626"/>
         <source>Panoramic</source>
-        <translation type="unfinished"></translation>
+        <translation>Panorama</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1652"/>
         <source>No Color Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Sans profil couleur</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="348"/>
@@ -11527,7 +11527,7 @@ Voulez-vous continuer?</translation>
     <message>
         <location filename="DlgSettingsCache.cpp" line="543"/>
         <source>Updating database, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise à jour de la base de données, veuillez patienter...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="560"/>
@@ -11694,7 +11694,7 @@ Voulez-vous supprimer les entrées attribuées à une catégorie?</translation>
     <message>
         <location filename="DlgSettingsCache.ui" line="430"/>
         <source>Update metadatas...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mettre à jour les métadonnées...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="493"/>
@@ -12559,7 +12559,7 @@ Vignette</translation>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="292"/>
         <source>Select a program</source>
-        <translation type="unfinished">Sélectionner un programme</translation>
+        <translation>Sélectionner un programme</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="338"/>
@@ -12682,12 +12682,12 @@ Vignette</translation>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="381"/>
         <source>ExifTool path</source>
-        <translation type="unfinished">Chemin ExifTool</translation>
+        <translation>Chemin ExifTool</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="398"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
 </context>
 <context>
@@ -17189,12 +17189,12 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="1442"/>
         <source>Aspect Ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Rapport d&apos;aspect</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1478"/>
         <source>File type</source>
-        <translation type="unfinished">Type de fichier</translation>
+        <translation>Type de fichier</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="366"/>
@@ -17480,7 +17480,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="1454"/>
         <source>Lens</source>
-        <translation type="unfinished">Lentille</translation>
+        <translation>Lentille</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1462"/>
@@ -17496,52 +17496,52 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="1482"/>
         <source>Colour Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Espace colorimétrique</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1563"/>
         <source>Not Defined</source>
-        <translation type="unfinished"></translation>
+        <translation>Non défini</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1565"/>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Manuel</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1567"/>
         <source>Program AE</source>
-        <translation type="unfinished"></translation>
+        <translation>Programme AE</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1569"/>
         <source>Aperture-priority AE</source>
-        <translation type="unfinished"></translation>
+        <translation>Priorité à l&apos;ouverture AE</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1571"/>
         <source>Shutter speed priority AE</source>
-        <translation type="unfinished"></translation>
+        <translation>Priorité à la vitesse d&apos;obturation AE</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1573"/>
         <source>Creative</source>
-        <translation type="unfinished"></translation>
+        <translation>Créatif</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1575"/>
         <source>Action</source>
-        <translation type="unfinished"></translation>
+        <translation>Action</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1577"/>
         <source>Portrait</source>
-        <translation type="unfinished">Portrait</translation>
+        <translation>Portrait</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1579"/>
         <source>Landscape</source>
-        <translation type="unfinished">Paysage</translation>
+        <translation>Paysage</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1127"/>
@@ -24097,12 +24097,12 @@ Souhaitez-vous conserver les vignettes ?
     <message>
         <location filename="xnview.cpp" line="533"/>
         <source>Catalog update</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise à jour du catalogue</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="533"/>
         <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
-        <translation type="unfinished"></translation>
+        <translation>Vous devez mettre à jour le catalogue (Paramètres&gt;Catalogue&gt;Mise à jour des métadonnées) si vous voulez utiliser le nouveau noeud dans le &apos;Filtre Catalogue&apos;. </translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="928"/>
