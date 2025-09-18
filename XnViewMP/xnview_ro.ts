@@ -1594,12 +1594,12 @@ Trage și plasează peste nodul dorit de alocat.</translation>
         <translation>Portret</translation>
     </message>
     <message>
-        <source>Uncalibrated</source>
-        <translation>Necalibrată</translation>
+        <source>Panoramic</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>sRGB</source>
-        <translation>sRGB</translation>
+        <source>No Color Profile</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9050,6 +9050,10 @@ Dorești să verifici mai întâi intrările afectate?</translation>
         <source>Database [catalog: %1 %2 - thumbnails: %3 %4]</source>
         <translation>Baza de date [catalogul: %1 %2 - miniaturile: %3 %4]</translation>
     </message>
+    <message>
+        <source>Updating database, please wait...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsCacheClass</name>
@@ -9164,6 +9168,10 @@ Dorești să verifici mai întâi intrările afectate?</translation>
     <message>
         <source>Maintenance...</source>
         <translation>Mentenanță...</translation>
+    </message>
+    <message>
+        <source>Update metadatas...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13276,6 +13284,10 @@ Dorești să ștergi favoritul „%1”?</translation>
         <source>File type</source>
         <translation>Tipul fișierului</translation>
     </message>
+    <message>
+        <source>Aspect Ratio</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>InfoCategoryTreeView</name>
@@ -13851,6 +13863,46 @@ Dorești să ștergi favoritul „%1”?</translation>
     <message>
         <source>Shutter Speed</source>
         <translation>Viteza obturatorului</translation>
+    </message>
+    <message>
+        <source>Colour Space</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Defined</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manual</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Program AE</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Aperture-priority AE</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shutter speed priority AE</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Creative</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Action</source>
+        <translation type="unfinished">Acțiune</translation>
+    </message>
+    <message>
+        <source>Portrait</source>
+        <translation type="unfinished">Portret</translation>
+    </message>
+    <message>
+        <source>Landscape</source>
+        <translation type="unfinished">Peisaj</translation>
     </message>
 </context>
 <context>
@@ -18461,6 +18513,14 @@ Vrei să păstrezi miniaturile?
 Rating, Tag &amp; Color labels will not be saved.</source>
         <translation>Catalogul și metadatele sunt dezactivate -
 Etichetele de evaluare (de rating), etichetare și culoare nu vor fi salvate.</translation>
+    </message>
+    <message>
+        <source>Catalog update</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

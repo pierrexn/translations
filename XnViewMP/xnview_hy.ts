@@ -1592,12 +1592,12 @@ Drag and Drop over the desired node to assign.</translation>
         <translation type="unfinished">Դիմանկար</translation>
     </message>
     <message>
-        <source>Uncalibrated</source>
+        <source>Panoramic</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>sRGB</source>
-        <translation type="unfinished">sRGB</translation>
+        <source>No Color Profile</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9033,6 +9033,10 @@ Do you want to check for affected entries first?</source>
         <source>Database [catalog: %1 %2 - thumbnails: %3 %4]</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Updating database, please wait...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsCacheClass</name>
@@ -9147,6 +9151,10 @@ Do you want to check for affected entries first?</source>
     <message>
         <source>Base path of files</source>
         <translation>Ֆայլերի հիմնական ուղին</translation>
+    </message>
+    <message>
+        <source>Update metadatas...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13259,6 +13267,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <source>File type</source>
         <translation type="unfinished">Ֆայլի տեսակ</translation>
     </message>
+    <message>
+        <source>Aspect Ratio</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>InfoCategoryTreeView</name>
@@ -13834,6 +13846,46 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Shutter Speed</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colour Space</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Defined</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manual</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Program AE</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Aperture-priority AE</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shutter speed priority AE</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Creative</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Action</source>
+        <translation type="unfinished">Գործողություն</translation>
+    </message>
+    <message>
+        <source>Portrait</source>
+        <translation type="unfinished">Դիմանկար</translation>
+    </message>
+    <message>
+        <source>Landscape</source>
+        <translation type="unfinished">Բնապատկեր</translation>
     </message>
 </context>
 <context>
@@ -18441,6 +18493,14 @@ Rating, Tag &amp; Color labels will not be saved.</source>
     <message>
         <source>Do you want to save session?</source>
         <translation>Պահպանե՞լ աշխատաշրջանը:</translation>
+    </message>
+    <message>
+        <source>Catalog update</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

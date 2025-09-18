@@ -1592,12 +1592,12 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
         <translation type="unfinished">Pysty</translation>
     </message>
     <message>
-        <source>Uncalibrated</source>
+        <source>Panoramic</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>sRGB</source>
-        <translation type="unfinished">sRGB</translation>
+        <source>No Color Profile</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9039,6 +9039,10 @@ Haluatko ensin tarkastaa tiedot, joihin tämä vaikuttaa?</translation>
         <source>Database [catalog: %1 %2 - thumbnails: %3 %4]</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Updating database, please wait...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsCacheClass</name>
@@ -9153,6 +9157,10 @@ Haluatko ensin tarkastaa tiedot, joihin tämä vaikuttaa?</translation>
     <message>
         <source>Base path of files</source>
         <translation>Tiedostojen peruspolku</translation>
+    </message>
+    <message>
+        <source>Update metadatas...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13265,6 +13273,10 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
         <source>File type</source>
         <translation type="unfinished">Tiedostotyyppi</translation>
     </message>
+    <message>
+        <source>Aspect Ratio</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>InfoCategoryTreeView</name>
@@ -13840,6 +13852,46 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     <message>
         <source>Shutter Speed</source>
         <translation type="unfinished">Suljinnopeus</translation>
+    </message>
+    <message>
+        <source>Colour Space</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Defined</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manual</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Program AE</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Aperture-priority AE</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shutter speed priority AE</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Creative</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Action</source>
+        <translation type="unfinished">Toiminto</translation>
+    </message>
+    <message>
+        <source>Portrait</source>
+        <translation type="unfinished">Pysty</translation>
+    </message>
+    <message>
+        <source>Landscape</source>
+        <translation type="unfinished">Vaaka</translation>
     </message>
 </context>
 <context>
@@ -18447,6 +18499,14 @@ Arvioita-, tageja ja väritunnisteita ei tallenneta.</translation>
     <message>
         <source>Do you want to save session?</source>
         <translation>Haluatko tallentaa istunnon?</translation>
+    </message>
+    <message>
+        <source>Catalog update</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

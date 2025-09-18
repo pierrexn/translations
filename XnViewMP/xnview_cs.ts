@@ -549,74 +549,74 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
 <context>
     <name>BrowserWindow</name>
     <message>
-        <location filename="BrowserWindow.cpp" line="680"/>
+        <location filename="BrowserWindow.cpp" line="675"/>
         <source>Customize toolbar...</source>
         <translation>Nastavitelný nástrojový pruh...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1663"/>
+        <location filename="BrowserWindow.cpp" line="1655"/>
         <source>Add Favorite...</source>
         <translation>Přidat k oblíbeným...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1753"/>
+        <location filename="BrowserWindow.cpp" line="1745"/>
         <source>Folders</source>
         <translation>Složky</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1757"/>
+        <location filename="BrowserWindow.cpp" line="1749"/>
         <source>Favorites</source>
         <translation>Oblíbené</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1771"/>
+        <location filename="BrowserWindow.cpp" line="1763"/>
         <source>Categories</source>
         <translation>Kategorie</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1809"/>
+        <location filename="BrowserWindow.cpp" line="1801"/>
         <source>Info</source>
         <translation>Informace</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="684"/>
+        <location filename="BrowserWindow.cpp" line="679"/>
         <source>Detach preview panel</source>
         <translation>Oddělit panel náhledu</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="686"/>
+        <location filename="BrowserWindow.cpp" line="681"/>
         <source>Attach preview panel</source>
         <translation>Připojit panel náhledu</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="916"/>
+        <location filename="BrowserWindow.cpp" line="908"/>
         <source>The database is corrupted, please check it before to continue!</source>
         <translatorcomment>Better as two sentences...</translatorcomment>
         <translation>Databáze je poškozená. Než budete pokračovat, zkontrolujte ji, prosím.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1655"/>
+        <location filename="BrowserWindow.cpp" line="1647"/>
         <source>Add to Favorites</source>
         <translation>Přidat k oblíbeným</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1761"/>
+        <location filename="BrowserWindow.cpp" line="1753"/>
         <source>Catalog Filter</source>
         <oldsource>Categories Filter</oldsource>
         <translation>Filtr katalogu</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1776"/>
+        <location filename="BrowserWindow.cpp" line="1768"/>
         <source>Category Sets</source>
         <translation>Sady kategorií</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1986"/>
+        <location filename="BrowserWindow.cpp" line="1978"/>
         <source>Match</source>
         <translation>Odpovídá</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1996"/>
+        <location filename="BrowserWindow.cpp" line="1988"/>
         <source>Click to filter - use Shift and Control for multiple selections.
 Right Click on different items for pop-up menus with actions.
 Drag and Drop over the desired node to assign.</source>
@@ -625,42 +625,42 @@ Kliknutím pravým tlačítkem na položku zobrazíte kontextovou nabídku s akc
 Položky můžete přiřazovat přetažením.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2019"/>
+        <location filename="BrowserWindow.cpp" line="2011"/>
         <source>Global</source>
         <translation>Globálně</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2026"/>
+        <location filename="BrowserWindow.cpp" line="2018"/>
         <source>Current folder</source>
         <translation>Aktuální složka</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2033"/>
+        <location filename="BrowserWindow.cpp" line="2025"/>
         <source>Current folder (Recursive)</source>
         <translation>Aktuální složka (včetně podsložek)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3103"/>
+        <location filename="BrowserWindow.cpp" line="3095"/>
         <source>&lt;Search results&gt;</source>
         <translation>&lt;Výsledky hledání&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3105"/>
+        <location filename="BrowserWindow.cpp" line="3097"/>
         <source>&lt;Tagged files&gt;</source>
         <translation>&lt;Označené soubory&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3195"/>
+        <location filename="BrowserWindow.cpp" line="3187"/>
         <source>This folder doesn&apos;t exist!</source>
         <translation>Tato složka neexistuje!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3416"/>
+        <location filename="BrowserWindow.cpp" line="3400"/>
         <source>Favorite name:</source>
         <translation>Název oblíbené položky:</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="3661"/>
+        <location filename="BrowserWindow.cpp" line="3645"/>
         <source>Are you sure to delete these %n item(s)?</source>
         <translation>
             <numerusform>Skutečně chcete smazat tuto položku?</numerusform>
@@ -669,48 +669,48 @@ Položky můžete přiřazovat přetažením.</translation>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3195"/>
-        <location filename="BrowserWindow.cpp" line="3746"/>
+        <location filename="BrowserWindow.cpp" line="3187"/>
+        <location filename="BrowserWindow.cpp" line="3730"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1817"/>
+        <location filename="BrowserWindow.cpp" line="1809"/>
         <source>Metadata</source>
         <translation>Metadata</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1826"/>
+        <location filename="BrowserWindow.cpp" line="1818"/>
         <source>Histogram</source>
         <translation>Histogram</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2002"/>
+        <location filename="BrowserWindow.cpp" line="1994"/>
         <source>Match any selected entry (OR)</source>
         <translation>Musí odpovídat alespoň jeden z vybraných záznamů (NEBO)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2008"/>
+        <location filename="BrowserWindow.cpp" line="2000"/>
         <source>Match all selected entries (AND)</source>
         <translation>Musí odpovídat všechny vybrané záznamy (A)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3107"/>
+        <location filename="BrowserWindow.cpp" line="3099"/>
         <source>&lt;Catalog filter results&gt;</source>
         <translation>&lt;Výsledky filtrování katalogu&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3109"/>
+        <location filename="BrowserWindow.cpp" line="3101"/>
         <source>&lt;files&gt;</source>
         <translation>&lt;soubory&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3654"/>
+        <location filename="BrowserWindow.cpp" line="3638"/>
         <source>Delete items &amp; companions</source>
         <translation>Smazat položky a doprovodné soubory</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="3655"/>
+        <location filename="BrowserWindow.cpp" line="3639"/>
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
         <translation>
             <numerusform>Skutečně chcete smazat tuto %n položku - %1 vybranou položku?</numerusform>
@@ -719,62 +719,62 @@ Položky můžete přiřazovat přetažením.</translation>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4110"/>
+        <location filename="BrowserWindow.cpp" line="4094"/>
         <source>Search...</source>
         <translation>Hledat...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4111"/>
+        <location filename="BrowserWindow.cpp" line="4095"/>
         <source>Add to favorites...</source>
         <translation>Přidat k oblíbeným...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4114"/>
+        <location filename="BrowserWindow.cpp" line="4098"/>
         <source>Start slideshow</source>
         <translation>Spustit prezentaci</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4116"/>
+        <location filename="BrowserWindow.cpp" line="4100"/>
         <source>Open in file manager</source>
         <translation type="unfinished">Otevřít v průzkumníku</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4119"/>
+        <location filename="BrowserWindow.cpp" line="4103"/>
         <source>Properties</source>
         <translation>Vlastnosti</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4228"/>
+        <location filename="BrowserWindow.cpp" line="4212"/>
         <source>Load filelist</source>
         <translation>Načíst seznam souborů</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3660"/>
+        <location filename="BrowserWindow.cpp" line="3644"/>
         <source>Delete items</source>
         <translation>Odstranit položky</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3746"/>
+        <location filename="BrowserWindow.cpp" line="3730"/>
         <source>The files cannot be renamed, an error occurred.</source>
         <translation>Soubory nelze přejmenovat, došlo k chybě.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4108"/>
+        <location filename="BrowserWindow.cpp" line="4092"/>
         <source>Show files in subfolders</source>
         <translation>Zobrazit soubory v podsložkách</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4151"/>
+        <location filename="BrowserWindow.cpp" line="4135"/>
         <source>Delete folder</source>
         <translation>Odstranit složku</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4151"/>
+        <location filename="BrowserWindow.cpp" line="4135"/>
         <source>Are you sure to delete this folder?</source>
         <translation>Skutečně chcete odstranit tuto složku?</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="632"/>
+        <location filename="BrowserWindow.cpp" line="630"/>
         <source>Browser</source>
         <translation>Průzkumník</translation>
     </message>
@@ -884,113 +884,113 @@ Položky můžete přiřazovat přetažením.</translation>
 <context>
     <name>CategoryView</name>
     <message>
-        <location filename="CategoryView.cpp" line="549"/>
-        <location filename="CategoryView.cpp" line="644"/>
+        <location filename="CategoryView.cpp" line="563"/>
+        <location filename="CategoryView.cpp" line="658"/>
         <source>New category</source>
         <translation>Nová kategorie</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="476"/>
-        <location filename="CategoryView.cpp" line="551"/>
-        <location filename="CategoryView.cpp" line="646"/>
+        <location filename="CategoryView.cpp" line="490"/>
+        <location filename="CategoryView.cpp" line="565"/>
+        <location filename="CategoryView.cpp" line="660"/>
         <source>Rename</source>
         <translation>Přejmenovat</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="477"/>
-        <location filename="CategoryView.cpp" line="552"/>
-        <location filename="CategoryView.cpp" line="647"/>
+        <location filename="CategoryView.cpp" line="491"/>
+        <location filename="CategoryView.cpp" line="566"/>
+        <location filename="CategoryView.cpp" line="661"/>
         <source>Delete</source>
         <translation>Odstranit</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="369"/>
-        <location filename="CategoryView.cpp" line="603"/>
-        <location filename="CategoryView.cpp" line="668"/>
+        <location filename="CategoryView.cpp" line="383"/>
+        <location filename="CategoryView.cpp" line="617"/>
+        <location filename="CategoryView.cpp" line="682"/>
         <source>Delete category</source>
         <translation>Odstranit kategorii</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="369"/>
-        <location filename="CategoryView.cpp" line="603"/>
-        <location filename="CategoryView.cpp" line="668"/>
+        <location filename="CategoryView.cpp" line="383"/>
+        <location filename="CategoryView.cpp" line="617"/>
+        <location filename="CategoryView.cpp" line="682"/>
         <source>Are you sure to delete this category?</source>
         <translation>Skutečně chcete odstranit tuto kategorii?</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="430"/>
+        <location filename="CategoryView.cpp" line="444"/>
         <source>EXIF: Date taken</source>
         <translation type="unfinished">EXIF: Datum pořízení</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="432"/>
+        <location filename="CategoryView.cpp" line="446"/>
         <source>EXIF: Date modified</source>
         <translation type="unfinished">EXIF: Datum poslední změny</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="434"/>
+        <location filename="CategoryView.cpp" line="448"/>
         <source>File: Date modified</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="472"/>
+        <location filename="CategoryView.cpp" line="486"/>
         <source>New album</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="479"/>
+        <location filename="CategoryView.cpp" line="493"/>
         <source>Empty</source>
         <translation>Prázdný</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="481"/>
+        <location filename="CategoryView.cpp" line="495"/>
         <source>Export (Bridge format)...</source>
         <translation>Export (přechodný formát)...</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="484"/>
+        <location filename="CategoryView.cpp" line="498"/>
         <source>Import (Bridge format)...</source>
         <translatorcomment>What does &quot;bridge format&quot; mean? An intermediate format?</translatorcomment>
         <translation>Import (přechodný formát)...</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="509"/>
+        <location filename="CategoryView.cpp" line="523"/>
         <source>Delete album</source>
         <translation>Odstranit album</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="509"/>
+        <location filename="CategoryView.cpp" line="523"/>
         <source>Are you sure to delete this album?</source>
         <translation>Skutečně chcete smazat toto album?</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="515"/>
+        <location filename="CategoryView.cpp" line="529"/>
         <source>New Album</source>
         <translation>Nové album</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="527"/>
+        <location filename="CategoryView.cpp" line="541"/>
         <source>Empty album</source>
         <translation>Prázdné album</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="527"/>
+        <location filename="CategoryView.cpp" line="541"/>
         <source>Are you sure to clear this album?</source>
         <translation>Skutečně chcete vyprázdnit toto album?</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="534"/>
+        <location filename="CategoryView.cpp" line="548"/>
         <source>Import collection</source>
         <translation>Importovat kolekci</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="540"/>
+        <location filename="CategoryView.cpp" line="554"/>
         <source>Export collection</source>
         <translation>Exportovat kolekci</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="616"/>
-        <location filename="CategoryView.cpp" line="680"/>
+        <location filename="CategoryView.cpp" line="630"/>
+        <location filename="CategoryView.cpp" line="694"/>
         <source>New Category</source>
         <translation>Nová kategorie</translation>
     </message>
@@ -1892,9 +1892,9 @@ Položky můžete přiřazovat přetažením.</translation>
     <name>DB</name>
     <message>
         <location filename="CategoryManager.cpp" line="159"/>
-        <location filename="MyDB.cpp" line="839"/>
-        <location filename="MyDB.cpp" line="2042"/>
-        <location filename="MyDB.cpp" line="3269"/>
+        <location filename="MyDB.cpp" line="847"/>
+        <location filename="MyDB.cpp" line="2101"/>
+        <location filename="MyDB.cpp" line="3350"/>
         <source>Other</source>
         <translation>Jiná</translation>
     </message>
@@ -1904,72 +1904,72 @@ Položky můžete přiřazovat přetažením.</translation>
         <translation>Osiřelý</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="840"/>
+        <location filename="MyDB.cpp" line="848"/>
         <source>Photographs</source>
         <translation>Fotografie</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="841"/>
+        <location filename="MyDB.cpp" line="849"/>
         <source>Family</source>
         <translation>Rodina</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="842"/>
+        <location filename="MyDB.cpp" line="850"/>
         <source>Friends</source>
         <translation>Přátelé</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="843"/>
+        <location filename="MyDB.cpp" line="851"/>
         <source>Pets</source>
         <translation>Domácí zvířata</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="844"/>
+        <location filename="MyDB.cpp" line="852"/>
         <source>Travel</source>
         <translation>Cestování</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="845"/>
+        <location filename="MyDB.cpp" line="853"/>
         <source>Landscapes</source>
         <translation>Krajiny</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="846"/>
+        <location filename="MyDB.cpp" line="854"/>
         <source>Portraits</source>
         <translation>Portréty</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="847"/>
+        <location filename="MyDB.cpp" line="855"/>
         <source>Flowers</source>
         <translation>Květiny</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="848"/>
+        <location filename="MyDB.cpp" line="856"/>
         <source>Animals</source>
         <translation>Zvířata</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="849"/>
+        <location filename="MyDB.cpp" line="857"/>
         <source>Pictures</source>
         <translation>Obrazy</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="850"/>
+        <location filename="MyDB.cpp" line="858"/>
         <source>Icons</source>
         <translation>Ikony</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="851"/>
+        <location filename="MyDB.cpp" line="859"/>
         <source>Drawings</source>
         <translation>Nákresy</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="852"/>
+        <location filename="MyDB.cpp" line="860"/>
         <source>Videos</source>
         <translation>Videa</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="853"/>
+        <location filename="MyDB.cpp" line="861"/>
         <source>Audios</source>
         <translation>Zvukové nahrávky</translation>
     </message>
@@ -2044,28 +2044,34 @@ Položky můžete přiřazovat přetažením.</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="930"/>
+        <location filename="DBFilterModel.cpp" line="1512"/>
+        <location filename="DBFilterModel.cpp" line="1519"/>
+        <location filename="DBFilterModel.cpp" line="1524"/>
+        <location filename="DBFilterModel.cpp" line="1529"/>
+        <location filename="DBFilterModel.cpp" line="1546"/>
+        <location filename="DBFilterModel.cpp" line="1561"/>
         <source>Unknown</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1512"/>
+        <location filename="DBFilterModel.cpp" line="1551"/>
         <source>Landscape</source>
         <translation type="unfinished">Krajina</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1514"/>
+        <location filename="DBFilterModel.cpp" line="1553"/>
         <source>Portrait</source>
         <translation type="unfinished">Portrét</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1519"/>
-        <source>Uncalibrated</source>
+        <location filename="DBFilterModel.cpp" line="1626"/>
+        <source>Panoramic</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1521"/>
-        <source>sRGB</source>
-        <translation type="unfinished">sRGB</translation>
+        <location filename="DBFilterModel.cpp" line="1652"/>
+        <source>No Color Profile</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="348"/>
@@ -11501,56 +11507,56 @@ Chcete je odstranit?</translation>
 <context>
     <name>DlgSettingsCache</name>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="258"/>
+        <location filename="DlgSettingsCache.cpp" line="260"/>
         <source>None</source>
         <translation>Žádná</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="259"/>
+        <location filename="DlgSettingsCache.cpp" line="261"/>
         <source>Lossless (ZIP)</source>
         <translation>Bezeztrátová (ZIP)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="260"/>
+        <location filename="DlgSettingsCache.cpp" line="262"/>
         <source>Lossy - High quality (JPEG)</source>
         <translation>Ztrátová - vysoká kvalita (JPEG)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="261"/>
+        <location filename="DlgSettingsCache.cpp" line="263"/>
         <source>Lossy - Low quality (JPEG)</source>
         <translation>Ztrátová - nízká kvalita (JPEG)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="91"/>
-        <location filename="DlgSettingsCache.cpp" line="292"/>
-        <location filename="DlgSettingsCache.cpp" line="695"/>
+        <location filename="DlgSettingsCache.cpp" line="92"/>
+        <location filename="DlgSettingsCache.cpp" line="294"/>
+        <location filename="DlgSettingsCache.cpp" line="711"/>
         <source>Excluded</source>
         <translation>Mimo</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="92"/>
-        <location filename="DlgSettingsCache.cpp" line="292"/>
+        <location filename="DlgSettingsCache.cpp" line="93"/>
+        <location filename="DlgSettingsCache.cpp" line="294"/>
         <source>Included</source>
         <translation>Včetně</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="150"/>
+        <location filename="DlgSettingsCache.cpp" line="152"/>
         <source>Database [catalog: %1 %2 - thumbnails: %3 %4]</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="262"/>
+        <location filename="DlgSettingsCache.cpp" line="264"/>
         <source>Lossy - High quality (WebP)</source>
         <translation>Ztrátová - vysoká kvalita (WebP)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="271"/>
+        <location filename="DlgSettingsCache.cpp" line="273"/>
         <source>Catalog - Absolute/Relative paths</source>
         <oldsource>Change absolute/relative paths</oldsource>
         <translation>Katalog - změnit absolutní / relativní cesty</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="271"/>
+        <location filename="DlgSettingsCache.cpp" line="273"/>
         <source>Changing &apos;base path&apos; may disconnect files stored in database. 
 Do it only if you want to share same folder between several computers. 
 
@@ -11561,18 +11567,18 @@ Základní cestu&apos; měňte prosím pouze v případě, kdy chcete sdílet st
 Skutečně chcete změnit &apos;základní cestu&apos;?</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="358"/>
-        <location filename="DlgSettingsCache.cpp" line="585"/>
+        <location filename="DlgSettingsCache.cpp" line="360"/>
+        <location filename="DlgSettingsCache.cpp" line="601"/>
         <source>Catalog - Remove Entries</source>
         <translation>Katalog - odebrat záznamy</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="509"/>
+        <location filename="DlgSettingsCache.cpp" line="511"/>
         <source>Catalog - Synchronize Folders</source>
         <translation>Katalog - synchronizovat složky</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="510"/>
+        <location filename="DlgSettingsCache.cpp" line="512"/>
         <source>All orphaned files will be deleted from Catalog.
 
 Do you want to continue?</source>
@@ -11582,28 +11588,33 @@ Do you want to continue?</source>
 Skutečně chcete pokračovat?</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="544"/>
+        <location filename="DlgSettingsCache.cpp" line="543"/>
+        <source>Updating database, please wait...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsCache.cpp" line="560"/>
         <source>Catalog - Relocate the folder</source>
         <oldsource>Relocate the folder</oldsource>
         <translation>Katalog - přemístit složku</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="544"/>
+        <location filename="DlgSettingsCache.cpp" line="560"/>
         <source>New path:</source>
         <translation>Nová cesta:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="544"/>
+        <location filename="DlgSettingsCache.cpp" line="560"/>
         <source>Old path:</source>
         <translation>Původní cesta:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="562"/>
+        <location filename="DlgSettingsCache.cpp" line="578"/>
         <source>Catalog Maintenance</source>
         <translation>Údržba katalogu</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="563"/>
+        <location filename="DlgSettingsCache.cpp" line="579"/>
         <source>Some database entries with assigned Rating, 
 Color labels, Keywords may be deleted. 
 
@@ -11615,8 +11626,8 @@ Do you want to check for affected entries first?</source>
 Chcete je nejprve zkontrolovat?</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="359"/>
-        <location filename="DlgSettingsCache.cpp" line="586"/>
+        <location filename="DlgSettingsCache.cpp" line="361"/>
+        <location filename="DlgSettingsCache.cpp" line="602"/>
         <source>Catalog entries with Categories, Rating &amp; Color labels will be removed. 
 
 If information is exported into embedded or sidecar metadata, 
@@ -11719,13 +11730,13 @@ Skutečně chcete odebrat záznamy přiřazené ke kategorii?</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="329"/>
-        <location filename="DlgSettingsCache.ui" line="512"/>
+        <location filename="DlgSettingsCache.ui" line="519"/>
         <source>Delete</source>
         <translation>Odstranit</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="336"/>
-        <location filename="DlgSettingsCache.ui" line="519"/>
+        <location filename="DlgSettingsCache.ui" line="526"/>
         <source>Delete all</source>
         <translation>Odstranit vše</translation>
     </message>
@@ -11745,7 +11756,12 @@ Skutečně chcete odebrat záznamy přiřazené ke kategorii?</translation>
         <translation>Přegenerovat náhledy</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="486"/>
+        <location filename="DlgSettingsCache.ui" line="430"/>
+        <source>Update metadatas...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsCache.ui" line="493"/>
         <source>Add folder...</source>
         <translation>Přidat složku...</translation>
     </message>
@@ -11761,27 +11777,27 @@ Skutečně chcete odebrat záznamy přiřazené ke kategorii?</translation>
         <translation>Synchronizovat složky...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="446"/>
+        <location filename="DlgSettingsCache.ui" line="453"/>
         <source>Excluded/Included</source>
         <translation>Mimo / včetně</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="471"/>
+        <location filename="DlgSettingsCache.ui" line="478"/>
         <source>1</source>
         <translation>1</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="476"/>
+        <location filename="DlgSettingsCache.ui" line="483"/>
         <source>2</source>
         <translation>2</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="541"/>
+        <location filename="DlgSettingsCache.ui" line="548"/>
         <source>Always exclude removable drives</source>
         <translation>Vždy vynechat vyměnitelné disky</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="548"/>
+        <location filename="DlgSettingsCache.ui" line="555"/>
         <source>Always exclude CD/DVD drives</source>
         <translation>Vždy vynechat disky CD/DVD</translation>
     </message>
@@ -16682,18 +16698,18 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
 <context>
     <name>Info</name>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="72"/>
-        <location filename="InfoPropertiesView.cpp" line="675"/>
-        <location filename="InfoPropertiesView.cpp" line="693"/>
-        <location filename="InfoPropertiesView.cpp" line="712"/>
+        <location filename="InfoPropertiesView.cpp" line="68"/>
+        <location filename="InfoPropertiesView.cpp" line="644"/>
+        <location filename="InfoPropertiesView.cpp" line="662"/>
+        <location filename="InfoPropertiesView.cpp" line="681"/>
         <location filename="SearchField.cpp" line="31"/>
         <location filename="TemplateData.cpp" line="2567"/>
         <source>Format</source>
         <translation>Formát</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="73"/>
-        <location filename="InfoPropertiesView.cpp" line="678"/>
+        <location filename="InfoPropertiesView.cpp" line="69"/>
+        <location filename="InfoPropertiesView.cpp" line="647"/>
         <location filename="ItemModel.cpp" line="1110"/>
         <location filename="SearchField.cpp" line="32"/>
         <location filename="TemplateData.cpp" line="2570"/>
@@ -16702,8 +16718,8 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
         <translation>Šířka</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="74"/>
-        <location filename="InfoPropertiesView.cpp" line="679"/>
+        <location filename="InfoPropertiesView.cpp" line="70"/>
+        <location filename="InfoPropertiesView.cpp" line="648"/>
         <location filename="ItemModel.cpp" line="1112"/>
         <location filename="SearchField.cpp" line="33"/>
         <location filename="TemplateData.cpp" line="2571"/>
@@ -16712,34 +16728,34 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
         <translation>Výška</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="76"/>
+        <location filename="InfoPropertiesView.cpp" line="72"/>
         <source>Dimension</source>
         <translation>Rozměr</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="77"/>
+        <location filename="InfoPropertiesView.cpp" line="73"/>
         <source># of bits</source>
         <translation>počet bitů</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="79"/>
-        <location filename="InfoPropertiesView.cpp" line="81"/>
+        <location filename="InfoPropertiesView.cpp" line="75"/>
+        <location filename="InfoPropertiesView.cpp" line="77"/>
         <location filename="TemplateData.cpp" line="2568"/>
         <source>Color model</source>
         <translation>Barevný model</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="79"/>
+        <location filename="InfoPropertiesView.cpp" line="75"/>
         <source>Black&amp;White</source>
         <translation>Černo&amp;bílý</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="83"/>
+        <location filename="InfoPropertiesView.cpp" line="79"/>
         <source>Colors used</source>
         <translation>Použité barvy</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="85"/>
+        <location filename="InfoPropertiesView.cpp" line="81"/>
         <location filename="ItemModel.cpp" line="1114"/>
         <location filename="TemplateData.cpp" line="2574"/>
         <location filename="TemplateData.cpp" line="2596"/>
@@ -16747,224 +16763,220 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
         <translation>DPI</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="90"/>
+        <location filename="InfoPropertiesView.cpp" line="86"/>
         <location filename="ItemModel.cpp" line="1092"/>
         <source>Print size</source>
         <translation>Velikost pro tisk</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="93"/>
-        <location filename="InfoPropertiesView.cpp" line="98"/>
+        <location filename="InfoPropertiesView.cpp" line="89"/>
+        <location filename="InfoPropertiesView.cpp" line="94"/>
         <location filename="TemplateData.cpp" line="2569"/>
         <source>Compression</source>
         <translation>Komprese</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="227"/>
-        <location filename="InfoPropertiesView.cpp" line="93"/>
+        <location filename="InfoPropertiesView.cpp" line="89"/>
         <source>None</source>
         <translation>Žádná</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="103"/>
+        <location filename="InfoPropertiesView.cpp" line="99"/>
         <source>Progressive mode</source>
         <translation>Progresivní režim</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="112"/>
+        <location filename="InfoPropertiesView.cpp" line="108"/>
         <source>Subsampling</source>
         <oldsource>Sub-sampling</oldsource>
         <translation>Subvzorkování</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="116"/>
+        <location filename="InfoPropertiesView.cpp" line="112"/>
         <source>Estimated quality</source>
         <translation>Odhadovaná kvalita</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="118"/>
+        <location filename="InfoPropertiesView.cpp" line="114"/>
         <source>Images/frames count</source>
         <translation>Počet obrázků / snímků</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="135"/>
+        <location filename="InfoPropertiesView.cpp" line="131"/>
         <source>Origin</source>
         <translation>Původ</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="138"/>
-        <location filename="InfoPropertiesView.cpp" line="141"/>
+        <location filename="InfoPropertiesView.cpp" line="134"/>
+        <location filename="InfoPropertiesView.cpp" line="137"/>
         <source>Embedded comment</source>
         <translation>Připojený komentář</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="249"/>
-        <location filename="InfoPropertiesView.cpp" line="339"/>
+        <location filename="InfoPropertiesView.cpp" line="245"/>
+        <location filename="InfoPropertiesView.cpp" line="335"/>
         <source>Info</source>
         <translation>Informace</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="254"/>
+        <location filename="InfoPropertiesView.cpp" line="250"/>
         <source>Date</source>
         <translation>Datum</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="256"/>
-        <location filename="InfoPropertiesView.cpp" line="346"/>
+        <location filename="InfoPropertiesView.cpp" line="252"/>
+        <location filename="InfoPropertiesView.cpp" line="342"/>
         <source>Lens ID</source>
         <translation>Označení čočky</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="344"/>
+        <location filename="InfoPropertiesView.cpp" line="340"/>
         <source>Date taken</source>
         <translation>Datum pořízení</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="348"/>
+        <location filename="InfoPropertiesView.cpp" line="344"/>
         <source>Lens model</source>
         <translation>Model čočky</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="350"/>
+        <location filename="InfoPropertiesView.cpp" line="346"/>
         <source>Focal length (mm)</source>
         <translation>Ohnisková vzdálenost (mm)</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="369"/>
-        <location filename="InfoPropertiesView.cpp" line="393"/>
+        <location filename="InfoPropertiesView.cpp" line="364"/>
         <source>Description</source>
         <translation>Popis</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="374"/>
-        <location filename="InfoPropertiesView.cpp" line="401"/>
+        <location filename="InfoPropertiesView.cpp" line="369"/>
         <source>Manufacturer</source>
         <translation>Výrobce</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="676"/>
+        <location filename="InfoPropertiesView.cpp" line="645"/>
         <source>Encoded date</source>
         <translation>Datum digitalizace</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="677"/>
-        <location filename="InfoPropertiesView.cpp" line="697"/>
-        <location filename="InfoPropertiesView.cpp" line="716"/>
+        <location filename="InfoPropertiesView.cpp" line="646"/>
+        <location filename="InfoPropertiesView.cpp" line="666"/>
+        <location filename="InfoPropertiesView.cpp" line="685"/>
         <source>Codec</source>
         <translation>Kodek</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="680"/>
-        <location filename="InfoPropertiesView.cpp" line="698"/>
-        <location filename="InfoPropertiesView.cpp" line="717"/>
+        <location filename="InfoPropertiesView.cpp" line="649"/>
+        <location filename="InfoPropertiesView.cpp" line="667"/>
+        <location filename="InfoPropertiesView.cpp" line="686"/>
         <source>Duration</source>
         <translation>Délka</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="682"/>
-        <location filename="InfoPropertiesView.cpp" line="700"/>
-        <location filename="InfoPropertiesView.cpp" line="719"/>
+        <location filename="InfoPropertiesView.cpp" line="651"/>
+        <location filename="InfoPropertiesView.cpp" line="669"/>
+        <location filename="InfoPropertiesView.cpp" line="688"/>
         <source>Bit rate</source>
         <translation>Bitová rychlost</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="683"/>
+        <location filename="InfoPropertiesView.cpp" line="652"/>
         <source>Aspect ratio</source>
         <translation>Poměr stran</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="684"/>
+        <location filename="InfoPropertiesView.cpp" line="653"/>
         <source>Frame rate mode</source>
         <translation>Režim rychlosti snímků</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="685"/>
-        <location filename="InfoPropertiesView.cpp" line="702"/>
-        <location filename="InfoPropertiesView.cpp" line="721"/>
+        <location filename="InfoPropertiesView.cpp" line="654"/>
+        <location filename="InfoPropertiesView.cpp" line="671"/>
+        <location filename="InfoPropertiesView.cpp" line="690"/>
         <source>Frame rate</source>
         <translation>Rychlost snímků</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="686"/>
-        <location filename="InfoPropertiesView.cpp" line="703"/>
-        <location filename="InfoPropertiesView.cpp" line="722"/>
+        <location filename="InfoPropertiesView.cpp" line="655"/>
+        <location filename="InfoPropertiesView.cpp" line="672"/>
+        <location filename="InfoPropertiesView.cpp" line="691"/>
         <source>Compression mode</source>
         <translation>Režim komprese</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="687"/>
+        <location filename="InfoPropertiesView.cpp" line="656"/>
         <source>Bits/sample</source>
         <translatorcomment>Maybe &quot;bit per sample&quot; would be more appropriate</translatorcomment>
         <translation>Bitů na vzorek</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="694"/>
-        <location filename="InfoPropertiesView.cpp" line="713"/>
+        <location filename="InfoPropertiesView.cpp" line="663"/>
+        <location filename="InfoPropertiesView.cpp" line="682"/>
         <source>Format version</source>
         <translation>Verze formátu</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="695"/>
-        <location filename="InfoPropertiesView.cpp" line="714"/>
+        <location filename="InfoPropertiesView.cpp" line="664"/>
+        <location filename="InfoPropertiesView.cpp" line="683"/>
         <source>Format profile</source>
         <translation>Profil formátu</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="696"/>
-        <location filename="InfoPropertiesView.cpp" line="715"/>
+        <location filename="InfoPropertiesView.cpp" line="665"/>
+        <location filename="InfoPropertiesView.cpp" line="684"/>
         <source>Format settings</source>
         <translation>Nastavení formátu</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="699"/>
-        <location filename="InfoPropertiesView.cpp" line="718"/>
+        <location filename="InfoPropertiesView.cpp" line="668"/>
+        <location filename="InfoPropertiesView.cpp" line="687"/>
         <source>Bit rate mode</source>
         <translation>Režim bitové rychlosti</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="701"/>
-        <location filename="InfoPropertiesView.cpp" line="720"/>
+        <location filename="InfoPropertiesView.cpp" line="670"/>
+        <location filename="InfoPropertiesView.cpp" line="689"/>
         <source>Sampling rate</source>
         <translation>Vzorkovací frekvence</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="724"/>
+        <location filename="InfoPropertiesView.cpp" line="693"/>
         <source>Album</source>
         <translation>Album</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="725"/>
+        <location filename="InfoPropertiesView.cpp" line="694"/>
         <source>Title</source>
         <translation>Název</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="726"/>
+        <location filename="InfoPropertiesView.cpp" line="695"/>
         <source>Performer</source>
         <translation>Interpret</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="727"/>
+        <location filename="InfoPropertiesView.cpp" line="696"/>
         <source>Genre</source>
         <translation>Žánr</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="728"/>
+        <location filename="InfoPropertiesView.cpp" line="697"/>
         <source>Recorded date</source>
         <translation>Datum nahrávky</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="252"/>
-        <location filename="InfoPropertiesView.cpp" line="342"/>
-        <location filename="InfoPropertiesView.cpp" line="379"/>
-        <location filename="InfoPropertiesView.cpp" line="405"/>
+        <location filename="InfoPropertiesView.cpp" line="248"/>
+        <location filename="InfoPropertiesView.cpp" line="338"/>
+        <location filename="InfoPropertiesView.cpp" line="374"/>
         <source>Model</source>
         <translation>Model</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="384"/>
-        <location filename="InfoPropertiesView.cpp" line="409"/>
-        <location filename="InfoPropertiesView.cpp" line="689"/>
-        <location filename="InfoPropertiesView.cpp" line="729"/>
+        <location filename="InfoPropertiesView.cpp" line="379"/>
+        <location filename="InfoPropertiesView.cpp" line="658"/>
+        <location filename="InfoPropertiesView.cpp" line="698"/>
         <source>Copyright</source>
         <translatorcomment>We usually do not translate this word.</translatorcomment>
         <translation>Copyright</translation>
@@ -16997,8 +17009,8 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
         <translation>Cesta</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="690"/>
-        <location filename="InfoPropertiesView.cpp" line="730"/>
+        <location filename="InfoPropertiesView.cpp" line="659"/>
+        <location filename="InfoPropertiesView.cpp" line="699"/>
         <location filename="ItemModel.cpp" line="1102"/>
         <location filename="SearchField.cpp" line="36"/>
         <location filename="TemplateData.cpp" line="2573"/>
@@ -17006,7 +17018,6 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
         <translation>Komentář</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1442"/>
         <location filename="ItemModel.cpp" line="1108"/>
         <location filename="SearchField.cpp" line="34"/>
         <location filename="TemplateData.cpp" line="2583"/>
@@ -17014,7 +17025,12 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
         <translation>Poměr</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1474"/>
+        <location filename="DBFilterModel.cpp" line="1442"/>
+        <source>Aspect Ratio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DBFilterModel.cpp" line="1478"/>
         <source>File type</source>
         <translation type="unfinished">Typ souboru</translation>
     </message>
@@ -17590,6 +17606,56 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
         <translation type="unfinished">Rychlost závěrky</translation>
     </message>
     <message>
+        <location filename="DBFilterModel.cpp" line="1482"/>
+        <source>Colour Space</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DBFilterModel.cpp" line="1563"/>
+        <source>Not Defined</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DBFilterModel.cpp" line="1565"/>
+        <source>Manual</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DBFilterModel.cpp" line="1567"/>
+        <source>Program AE</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DBFilterModel.cpp" line="1569"/>
+        <source>Aperture-priority AE</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DBFilterModel.cpp" line="1571"/>
+        <source>Shutter speed priority AE</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DBFilterModel.cpp" line="1573"/>
+        <source>Creative</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DBFilterModel.cpp" line="1575"/>
+        <source>Action</source>
+        <translation type="unfinished">Akce</translation>
+    </message>
+    <message>
+        <location filename="DBFilterModel.cpp" line="1577"/>
+        <source>Portrait</source>
+        <translation type="unfinished">Portrét</translation>
+    </message>
+    <message>
+        <location filename="DBFilterModel.cpp" line="1579"/>
+        <source>Landscape</source>
+        <translation type="unfinished">Krajina</translation>
+    </message>
+    <message>
         <location filename="ItemModel.cpp" line="1127"/>
         <source>ShutterSpeed</source>
         <translation>Rychlost závěrky</translation>
@@ -17755,6 +17821,7 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
         <translation>Čas expozice (s)</translation>
     </message>
     <message>
+        <location filename="DBFilterModel.cpp" line="1474"/>
         <location filename="TemplateData.cpp" line="2635"/>
         <source>Exposure Program</source>
         <translation>Program expozice</translation>
@@ -17804,7 +17871,6 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
         <translation>Max. závěrka</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1478"/>
         <location filename="TemplateData.cpp" line="2646"/>
         <source>Colour space</source>
         <translation>Barevný prostor</translation>
@@ -18658,130 +18724,130 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
 <context>
     <name>InfoPropertiesView</name>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="68"/>
+        <location filename="InfoPropertiesView.cpp" line="64"/>
         <source>Image</source>
         <translation>Obrázek</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="103"/>
+        <location filename="InfoPropertiesView.cpp" line="99"/>
         <source>Yes</source>
         <translation>Ano</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="103"/>
+        <location filename="InfoPropertiesView.cpp" line="99"/>
         <source>No</source>
         <translation>Ne</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="123"/>
+        <location filename="InfoPropertiesView.cpp" line="119"/>
         <source>Top-Right</source>
         <translation>Vpravo nahoře</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="126"/>
+        <location filename="InfoPropertiesView.cpp" line="122"/>
         <source>Bottom-Left</source>
         <translation>Vlevo dole</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="129"/>
+        <location filename="InfoPropertiesView.cpp" line="125"/>
         <source>Bottom-Right</source>
         <translation>Vpravo dole</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="133"/>
+        <location filename="InfoPropertiesView.cpp" line="129"/>
         <source>Top-Left</source>
         <translation>Vlevo nahoře</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="150"/>
+        <location filename="InfoPropertiesView.cpp" line="146"/>
         <source>Extra</source>
         <translation>Rozšířené</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="236"/>
-        <location filename="InfoPropertiesView.cpp" line="326"/>
+        <location filename="InfoPropertiesView.cpp" line="232"/>
+        <location filename="InfoPropertiesView.cpp" line="322"/>
         <source>Camera</source>
         <translation>Fotoaparát</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="361"/>
+        <location filename="InfoPropertiesView.cpp" line="357"/>
         <source>Color Profile</source>
         <translation>Barevný profil</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="422"/>
+        <location filename="InfoPropertiesView.cpp" line="391"/>
         <source>Extra info</source>
         <translation>Doplňkové informace</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="608"/>
+        <location filename="InfoPropertiesView.cpp" line="577"/>
         <source>File</source>
         <translation>Soubor</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="609"/>
+        <location filename="InfoPropertiesView.cpp" line="578"/>
         <source>Filename</source>
         <translation>Jméno souboru</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="610"/>
+        <location filename="InfoPropertiesView.cpp" line="579"/>
         <source>Filepath</source>
         <translation>Cesta k souboru</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="615"/>
+        <location filename="InfoPropertiesView.cpp" line="584"/>
         <source>Description</source>
         <translation>Popis</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="621"/>
+        <location filename="InfoPropertiesView.cpp" line="590"/>
         <source>File size</source>
         <translation>Velikost souboru</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="622"/>
+        <location filename="InfoPropertiesView.cpp" line="591"/>
         <source>Creation date/time</source>
         <translation>Datum a čas vytvoření</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="623"/>
+        <location filename="InfoPropertiesView.cpp" line="592"/>
         <source>Modified date/time</source>
         <oldsource>Changed date/time</oldsource>
         <translation>Datum a čas poslední změny</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="624"/>
+        <location filename="InfoPropertiesView.cpp" line="593"/>
         <source>Accessed date/time</source>
         <translation>Datum a čas posledního přístupu</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="626"/>
+        <location filename="InfoPropertiesView.cpp" line="595"/>
         <source>Rating</source>
         <translation>Hodnocení</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="630"/>
+        <location filename="InfoPropertiesView.cpp" line="599"/>
         <source>Colour Label</source>
         <translation>Barevné označení</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="640"/>
+        <location filename="InfoPropertiesView.cpp" line="609"/>
         <source>File&apos;s icon</source>
         <translation>Ikona souboru</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="655"/>
+        <location filename="InfoPropertiesView.cpp" line="624"/>
         <source>Annotation</source>
         <translation>Anotace</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="674"/>
+        <location filename="InfoPropertiesView.cpp" line="643"/>
         <source>Video</source>
         <translation>Video</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="692"/>
-        <location filename="InfoPropertiesView.cpp" line="711"/>
+        <location filename="InfoPropertiesView.cpp" line="661"/>
+        <location filename="InfoPropertiesView.cpp" line="680"/>
         <source>Audio</source>
         <translation>Zvuk</translation>
     </message>
@@ -20128,19 +20194,19 @@ Chcete pokračovat?</translation>
         <translation>Otevřít...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4091"/>
+        <location filename="BrowserWindow.cpp" line="4075"/>
         <location filename="BrowserMenu.h" line="418"/>
         <source>Cut</source>
         <translation>Vyjmout</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4093"/>
+        <location filename="BrowserWindow.cpp" line="4077"/>
         <location filename="BrowserMenu.h" line="420"/>
         <source>Copy</source>
         <translation>Zkopírovat</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4095"/>
+        <location filename="BrowserWindow.cpp" line="4079"/>
         <location filename="BrowserMenu.h" line="425"/>
         <source>Paste</source>
         <translation>Vložit</translation>
@@ -20177,19 +20243,19 @@ Chcete pokračovat?</translation>
         <translation>Vybrat obrázky se štítky</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4103"/>
+        <location filename="BrowserWindow.cpp" line="4087"/>
         <location filename="BrowserMenu.h" line="435"/>
         <source>Copy to...</source>
         <translation>Zkopírovat do...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4105"/>
+        <location filename="BrowserWindow.cpp" line="4089"/>
         <location filename="BrowserMenu.h" line="436"/>
         <source>Move to...</source>
         <translation>Přesunout do...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4098"/>
+        <location filename="BrowserWindow.cpp" line="4082"/>
         <location filename="BrowserMenu.h" line="437"/>
         <source>Delete</source>
         <translation>Odstranit</translation>
@@ -20680,12 +20746,12 @@ Chcete pokračovat?</translation>
         <translation>Rychlý filtr</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4088"/>
+        <location filename="BrowserWindow.cpp" line="4072"/>
         <source>New Folder</source>
         <translation>Nová složka</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4100"/>
+        <location filename="BrowserWindow.cpp" line="4084"/>
         <source>Rename</source>
         <translation>Přejmenovat</translation>
     </message>
@@ -20698,95 +20764,95 @@ Chcete pokračovat?</translation>
 <context>
     <name>MenuGlobal</name>
     <message>
-        <location filename="xnview.cpp" line="1370"/>
+        <location filename="xnview.cpp" line="1377"/>
         <source>Quit</source>
         <translation>Konec</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1373"/>
+        <location filename="xnview.cpp" line="1380"/>
         <source>Website...</source>
         <oldsource>Visit XnView&apos;s Website...</oldsource>
         <translation>WWW stránka...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1378"/>
+        <location filename="xnview.cpp" line="1385"/>
         <source>Make a donation...</source>
         <translation>Poslat příspěvek...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1371"/>
+        <location filename="xnview.cpp" line="1378"/>
         <source>About</source>
         <translation>O programu</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1372"/>
+        <location filename="xnview.cpp" line="1379"/>
         <source>PlugIns...</source>
         <translation>Zásuvné moduly...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1374"/>
+        <location filename="xnview.cpp" line="1381"/>
         <source>Forum...</source>
         <translation>Fórum...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1375"/>
+        <location filename="xnview.cpp" line="1382"/>
         <source>Technical Support...</source>
         <translation>Technická podpora...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1376"/>
+        <location filename="xnview.cpp" line="1383"/>
         <source>Report a Bug...</source>
         <oldsource>Report a Bug......</oldsource>
         <translation>Nahlásit problém...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1377"/>
+        <location filename="xnview.cpp" line="1384"/>
         <source>Wiki...</source>
         <translation>Wiki...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1379"/>
+        <location filename="xnview.cpp" line="1386"/>
         <source>Check for update...</source>
         <translation>Zkontrolovat aktualizace...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1380"/>
+        <location filename="xnview.cpp" line="1387"/>
         <source>Registration...</source>
         <translation>Registrace...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1381"/>
+        <location filename="xnview.cpp" line="1388"/>
         <source>Purchase...</source>
         <translation>Koupit...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1391"/>
-        <location filename="xnview.cpp" line="1393"/>
+        <location filename="xnview.cpp" line="1398"/>
+        <location filename="xnview.cpp" line="1400"/>
         <source>Settings...</source>
         <translation>Nastavení...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1397"/>
+        <location filename="xnview.cpp" line="1404"/>
         <source>Always on top</source>
         <translation>Vždy na vrchu</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1399"/>
+        <location filename="xnview.cpp" line="1406"/>
         <source>Titlebar</source>
         <translation>Titulek</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1400"/>
+        <location filename="xnview.cpp" line="1407"/>
         <source>Show</source>
         <translation>Zobrazit</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1401"/>
+        <location filename="xnview.cpp" line="1408"/>
         <source>Bottom</source>
         <translation>Dole</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1402"/>
+        <location filename="xnview.cpp" line="1409"/>
         <source>Tab</source>
         <translation>Záložka</translation>
     </message>
@@ -22399,13 +22465,13 @@ Chcete pokračovat?</translation>
 <context>
     <name>MyProgressThreadDialog</name>
     <message>
-        <location filename="MyProgressThreadDialog.h" line="32"/>
+        <location filename="MyProgressThreadDialog.h" line="29"/>
         <source>Please wait...</source>
         <oldsource>Please wait... </oldsource>
         <translation>Čekejte prosím...</translation>
     </message>
     <message>
-        <location filename="MyProgressThreadDialog.h" line="42"/>
+        <location filename="MyProgressThreadDialog.h" line="44"/>
         <source>Cancel</source>
         <translation>Storno</translation>
     </message>
@@ -24131,18 +24197,28 @@ Chcete zachovat náhledy?
         <translation>Došlo k problému s otevřením katalogu. Zkontrolujte vaše nastavení a použitou složku!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="921"/>
+        <location filename="xnview.cpp" line="533"/>
+        <source>Catalog update</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="xnview.cpp" line="533"/>
+        <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="xnview.cpp" line="928"/>
         <source>Application is up to date.</source>
         <oldsource>XnView MP is currently up to date.</oldsource>
         <translation>Aplikace je aktuální.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1595"/>
+        <location filename="xnview.cpp" line="1602"/>
         <source>Do you want to save session?</source>
         <translation>Chcete uložit sezení?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="3060"/>
+        <location filename="xnview.cpp" line="3067"/>
         <source>Catalog and Metadata are disabled - 
 Rating, Tag &amp; Color labels will not be saved.</source>
         <oldsource>Rating/Tag/Color label can&apos;t be saved if catalog and metadata export are disabled!</oldsource>
@@ -24150,44 +24226,44 @@ Rating, Tag &amp; Color labels will not be saved.</source>
 hodnocení, štítek a barevné označení nebudou uloženy.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="992"/>
+        <location filename="xnview.cpp" line="999"/>
         <source>Your previous session contains many loaded images, this can cause a slowdown!</source>
         <translation>Ve vaší předchozí relaci je načteno mnoho obrázků. To může způsobit zpomalení aplikace!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="992"/>
+        <location filename="xnview.cpp" line="999"/>
         <source>Session</source>
         <translation>Sezení</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1520"/>
+        <location filename="xnview.cpp" line="1527"/>
         <source>Do you want to quit?</source>
         <translation>Skutečně chcete program ukočit?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1596"/>
+        <location filename="xnview.cpp" line="1603"/>
         <source>Saving many tabs may noticeably slow application reopening.</source>
         <oldsource>Saving many tabs may noticeably slow reopening XnView MP</oldsource>
         <translation>Uložení mnoha záložek může způsobit výrazné zpomalení při dalším spuštění aplikace.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1602"/>
+        <location filename="xnview.cpp" line="1609"/>
         <source>Don&apos;t ask again</source>
         <oldsource>Do not ask again</oldsource>
         <translation>Znovu se již nedotazovat</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1168"/>
+        <location filename="xnview.cpp" line="1175"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1168"/>
+        <location filename="xnview.cpp" line="1175"/>
         <source>File not found!</source>
         <translation>Soubor nenalezen!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1621"/>
+        <location filename="xnview.cpp" line="1628"/>
         <source>Do you want to save this session?</source>
         <translation>Chcete uložit toto sezení?</translation>
     </message>

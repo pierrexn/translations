@@ -1589,12 +1589,12 @@ Arraste e solte sobre o nó desejado para atribuir.</translation>
         <translation type="unfinished">Retrato</translation>
     </message>
     <message>
-        <source>Uncalibrated</source>
+        <source>Panoramic</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>sRGB</source>
-        <translation type="unfinished">sRGB</translation>
+        <source>No Color Profile</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9014,6 +9014,10 @@ Deseja verificar primeiro se há entradas afetadas?</translation>
         <source>Database [catalog: %1 %2 - thumbnails: %3 %4]</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Updating database, please wait...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsCacheClass</name>
@@ -9127,6 +9131,10 @@ Deseja verificar primeiro se há entradas afetadas?</translation>
     </message>
     <message>
         <source>Base path of files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update metadatas...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10669,7 +10677,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Use color based on file format</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Usar cores com base no formato do arquivo</translation>
     </message>
     <message>
         <source>Enter an extension:</source>
@@ -13237,6 +13245,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <source>Output filename (with extension)</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Aspect Ratio</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>InfoCategoryTreeView</name>
@@ -13813,6 +13825,46 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>SubSecTime Digitized</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colour Space</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Defined</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manual</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Program AE</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Aperture-priority AE</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shutter speed priority AE</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Creative</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Action</source>
+        <translation type="unfinished">Ação</translation>
+    </message>
+    <message>
+        <source>Portrait</source>
+        <translation type="unfinished">Retrato</translation>
+    </message>
+    <message>
+        <source>Landscape</source>
+        <translation type="unfinished">Paisagem</translation>
     </message>
 </context>
 <context>
@@ -18417,6 +18469,14 @@ As avaliações, etiquetas e os rótulos de cor não serão salvos.</translation
     </message>
     <message>
         <source>Do you want to save session?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Catalog update</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
         <translation type="unfinished"></translation>
     </message>
 </context>
