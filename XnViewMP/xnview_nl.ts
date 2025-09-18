@@ -2053,12 +2053,12 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="1626"/>
         <source>Panoramic</source>
-        <translation type="unfinished"></translation>
+        <translation>Panoramisch</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1652"/>
         <source>No Color Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen kleurprofiel</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="348"/>
@@ -4122,7 +4122,7 @@ Doorgaan?</translation>
     <message>
         <location filename="DlgConvertAspectPad.ui" line="90"/>
         <source>Portrait</source>
-        <translation>Afdrukstand staand</translation>
+        <translation>Staand</translation>
     </message>
 </context>
 <context>
@@ -6441,7 +6441,7 @@ Doorgaan?</translation>
     <message>
         <location filename="DlgConvertRotate.ui" line="208"/>
         <source>Only portrait</source>
-        <translation>Alleen portret</translation>
+        <translation>Alleen staand</translation>
     </message>
     <message>
         <location filename="DlgConvertRotate.ui" line="213"/>
@@ -9686,7 +9686,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
     <message>
         <location filename="DlgPrint.ui" line="163"/>
         <source>Maintain aspect ratio</source>
-        <translation>Verhouding behouden</translation>
+        <translation>Beeldverhouding behouden</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="227"/>
@@ -11526,7 +11526,7 @@ Wilt u doorgaan?</translation>
     <message>
         <location filename="DlgSettingsCache.cpp" line="543"/>
         <source>Updating database, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Database bijwerken, even geduld…</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="560"/>
@@ -11693,7 +11693,7 @@ Wilt u items verwijderen die zijn toegewezen aan een categorie?</translation>
     <message>
         <location filename="DlgSettingsCache.ui" line="430"/>
         <source>Update metadatas...</source>
-        <translation type="unfinished"></translation>
+        <translation>Metagegevens bijwerken…</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="493"/>
@@ -16802,7 +16802,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="652"/>
         <source>Aspect ratio</source>
-        <translation>Hoogte/breedte verhouding</translation>
+        <translation>Beeldverhouding</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="653"/>
@@ -16950,7 +16950,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="1442"/>
         <source>Aspect Ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Beeldverhouding</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1478"/>
@@ -17524,52 +17524,52 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="1482"/>
         <source>Colour Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleurruimte</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1563"/>
         <source>Not Defined</source>
-        <translation type="unfinished"></translation>
+        <translation>Niet gedefinieerd</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1565"/>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Handmatig</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1567"/>
         <source>Program AE</source>
-        <translation type="unfinished"></translation>
+        <translation>Program AE</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1569"/>
         <source>Aperture-priority AE</source>
-        <translation type="unfinished"></translation>
+        <translation>Aperture-priority AE</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1571"/>
         <source>Shutter speed priority AE</source>
-        <translation type="unfinished"></translation>
+        <translation>Shutter speed priority AE</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1573"/>
         <source>Creative</source>
-        <translation type="unfinished"></translation>
+        <translation>Creatief</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1575"/>
         <source>Action</source>
-        <translation type="unfinished">Actie</translation>
+        <translation>Actie</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1577"/>
         <source>Portrait</source>
-        <translation type="unfinished"></translation>
+        <translation>Portret</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1579"/>
         <source>Landscape</source>
-        <translation type="unfinished"></translation>
+        <translation>Liggend</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1127"/>
@@ -24093,12 +24093,12 @@ Wilt u de miniaturen behouden?
     <message>
         <location filename="xnview.cpp" line="533"/>
         <source>Catalog update</source>
-        <translation type="unfinished"></translation>
+        <translation>Catalogus bijwerken</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="533"/>
         <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
-        <translation type="unfinished"></translation>
+        <translation>Je moet de catalogus bijwerken (Instellingen&gt;Catalogus&gt;Metadatas bijwerken) als je een nieuw knooppunt in &apos;Catalogusfilter&apos; wilt gebruiken. </translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="928"/>
