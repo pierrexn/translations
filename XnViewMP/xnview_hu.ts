@@ -2058,7 +2058,7 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
     <message>
         <location filename="DBFilterModel.cpp" line="1652"/>
         <source>No Color Profile</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nincs színprofil</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="348"/>
@@ -11508,7 +11508,7 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="DlgSettingsCache.cpp" line="543"/>
         <source>Updating database, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Adatbázis frissítése, kérem várjon...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="560"/>
@@ -11675,7 +11675,7 @@ El szeretné távolítani a kategóriához rendelt bejegyzéseket?</translation>
     <message>
         <location filename="DlgSettingsCache.ui" line="430"/>
         <source>Update metadatas...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Metaadatok frissítése...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="493"/>
@@ -16931,7 +16931,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="1442"/>
         <source>Aspect Ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Képarány</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1478"/>
@@ -17500,7 +17500,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="1470"/>
         <source>Shutter Speed</source>
-        <translation type="unfinished">Zársebesség</translation>
+        <translation>Zársebesség</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1482"/>
