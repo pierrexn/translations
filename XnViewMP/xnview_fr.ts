@@ -3072,7 +3072,7 @@ Voulez-vous l&apos;écraser?</translation>
     <message>
         <location filename="DlgCapture.ui" line="166"/>
         <source>Open in Draw mode</source>
-        <translation>Ouvrir dnas le module de dessin</translation>
+        <translation>Ouvrir dans le module de dessin</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="175"/>
