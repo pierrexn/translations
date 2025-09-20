@@ -2059,12 +2059,12 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="1626"/>
         <source>Panoramic</source>
-        <translation type="unfinished"></translation>
+        <translation>Panoramsko</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1652"/>
         <source>No Color Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Brez barvnega profila</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="348"/>
@@ -11562,7 +11562,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgSettingsCache.cpp" line="543"/>
         <source>Updating database, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Posodabljanje baze podatkov, počakajte...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="560"/>
@@ -11729,7 +11729,7 @@ Ali želite najprej preveriti prizadete vnose?</translation>
     <message>
         <location filename="DlgSettingsCache.ui" line="430"/>
         <source>Update metadatas...</source>
-        <translation type="unfinished"></translation>
+        <translation>Posodobi metapodatke...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="493"/>
@@ -17219,7 +17219,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="1442"/>
         <source>Aspect Ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Razmerje stranic</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1478"/>
@@ -17526,52 +17526,52 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="1482"/>
         <source>Colour Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Barvni prostor</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1563"/>
         <source>Not Defined</source>
-        <translation type="unfinished"></translation>
+        <translation>Ni definirano</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1565"/>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Ročno</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1567"/>
         <source>Program AE</source>
-        <translation type="unfinished"></translation>
+        <translation>rogram AE</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1569"/>
         <source>Aperture-priority AE</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaslonka-prioriteta AE</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1571"/>
         <source>Shutter speed priority AE</source>
-        <translation type="unfinished"></translation>
+        <translation>Hitrost zaklopa prioriteta AE</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1573"/>
         <source>Creative</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustvarjalno</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1575"/>
         <source>Action</source>
-        <translation type="unfinished">Ukrep</translation>
+        <translation>Ukrep</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1577"/>
         <source>Portrait</source>
-        <translation type="unfinished">Portret</translation>
+        <translation>Portret</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1579"/>
         <source>Landscape</source>
-        <translation type="unfinished">Pokrajina</translation>
+        <translation>Pokrajina</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1127"/>
@@ -17821,7 +17821,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2646"/>
         <source>Colour space</source>
-        <translation>Barvni prostor</translation>
+        <translation>Barva prostora</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2647"/>
@@ -24133,12 +24133,12 @@ Do you want to keep the thumbnails?
     <message>
         <location filename="xnview.cpp" line="533"/>
         <source>Catalog update</source>
-        <translation type="unfinished"></translation>
+        <translation>Posodobitev kataloga</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="533"/>
         <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
-        <translation type="unfinished"></translation>
+        <translation>Posodobiti morate katalog (Nastavitve&gt;Katalog&gt;Posodobi metapodatke), če želite uporabiti novo vozlišče v &apos;Filter kataloga&apos;. </translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="928"/>
