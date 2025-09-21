@@ -2051,12 +2051,12 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DBFilterModel.cpp" line="1626"/>
         <source>Panoramic</source>
-        <translation type="unfinished"></translation>
+        <translation>Panorama</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1652"/>
         <source>No Color Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Kein Farbprofil</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="348"/>
@@ -4094,7 +4094,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="DlgConvertAspectPad.ui" line="19"/>
         <source>Ratio</source>
-        <translation>Seitenverhältnis</translation>
+        <translation>Verhältnis</translation>
     </message>
     <message>
         <location filename="DlgConvertAspectPad.ui" line="50"/>
@@ -11517,7 +11517,7 @@ Wollen Sie fortsetzen?</translation>
     <message>
         <location filename="DlgSettingsCache.cpp" line="543"/>
         <source>Updating database, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Datenbank wird aktualisiert, bitte warten…</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="560"/>
@@ -11681,7 +11681,7 @@ Wollen Sie alle Einträge, denen eine Kategorie zugewiesen, sind löschen?</tran
     <message>
         <location filename="DlgSettingsCache.ui" line="430"/>
         <source>Update metadatas...</source>
-        <translation type="unfinished"></translation>
+        <translation>Metadaten aktualisieren...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="493"/>
@@ -16146,7 +16146,7 @@ Wollen Sie fortfahren?</translation>
     <message>
         <location filename="EditXMPWidget.ui" line="152"/>
         <source>Undefined</source>
-        <translation>Nicht definiert</translation>
+        <translation>Undefiniert</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="157"/>
@@ -16932,7 +16932,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="1442"/>
         <source>Aspect Ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Seitenverhältnis</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1478"/>
@@ -17513,52 +17513,52 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="1482"/>
         <source>Colour Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Farbraum</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1563"/>
         <source>Not Defined</source>
-        <translation type="unfinished"></translation>
+        <translation>Nicht definiert</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1565"/>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Manuell</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1567"/>
         <source>Program AE</source>
-        <translation type="unfinished"></translation>
+        <translation>Programmautomatik</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1569"/>
         <source>Aperture-priority AE</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatische Belichtung</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1571"/>
         <source>Shutter speed priority AE</source>
-        <translation type="unfinished"></translation>
+        <translation>Blendenpriorität</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1573"/>
         <source>Creative</source>
-        <translation type="unfinished"></translation>
+        <translation>Kreativ</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1575"/>
         <source>Action</source>
-        <translation type="unfinished">Aktion</translation>
+        <translation>Actionmodus</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1577"/>
         <source>Portrait</source>
-        <translation type="unfinished">Hochformat</translation>
+        <translation>Hochformat</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1579"/>
         <source>Landscape</source>
-        <translation type="unfinished">Querformat</translation>
+        <translation>Querformat</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1127"/>
@@ -19407,7 +19407,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="BrowserMenu.h" line="54"/>
         <source>Ratio</source>
-        <translation>Seitenverhältnis</translation>
+        <translation>Verhältnis</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="55"/>
@@ -21977,7 +21977,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="ViewCropAction.cpp" line="179"/>
         <source>Fixed ratio</source>
-        <translation>Seitenverhältnis</translation>
+        <translation>Festes Verhältnis</translation>
     </message>
 </context>
 <context>
@@ -24076,12 +24076,12 @@ Wollen Sie die Miniaturbilder beibehalten?
     <message>
         <location filename="xnview.cpp" line="533"/>
         <source>Catalog update</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalog aktualisieren</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="533"/>
         <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
-        <translation type="unfinished"></translation>
+        <translation>Sie müssen den Katalog aktualisieren (Einstellungen &gt; Katalog &gt; Metadaten aktualisieren), wenn Sie einen neuen Knoten im &apos;Katalogfilter&apos; verwenden möchten. </translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="928"/>
