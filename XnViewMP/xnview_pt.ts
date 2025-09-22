@@ -2065,12 +2065,12 @@ Arrastar e largar sobre o nó pretendido.</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="1626"/>
         <source>Panoramic</source>
-        <translation type="unfinished"></translation>
+        <translation>Panorâmico</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1652"/>
         <source>No Color Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum perfil de cor</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="348"/>
@@ -11567,7 +11567,7 @@ Pretende continuar?</translation>
     <message>
         <location filename="DlgSettingsCache.cpp" line="543"/>
         <source>Updating database, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizando a base de dados, por favor aguarde...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="560"/>
@@ -11734,7 +11734,7 @@ Deseja remover registos atribuídos a uma categoria?</translation>
     <message>
         <location filename="DlgSettingsCache.ui" line="430"/>
         <source>Update metadatas...</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizar os metadados...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="493"/>
@@ -16996,7 +16996,7 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="1442"/>
         <source>Aspect Ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Proporções</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1478"/>
@@ -17580,52 +17580,52 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="1482"/>
         <source>Colour Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Gama de cores</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1563"/>
         <source>Not Defined</source>
-        <translation type="unfinished"></translation>
+        <translation>Não definido</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1565"/>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Manual</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1567"/>
         <source>Program AE</source>
-        <translation type="unfinished"></translation>
+        <translation>Programa de auto-exposição</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1569"/>
         <source>Aperture-priority AE</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto-exposição com prioridade para abertura</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1571"/>
         <source>Shutter speed priority AE</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto-exposição com prioridade para velocidade do obturador</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1573"/>
         <source>Creative</source>
-        <translation type="unfinished"></translation>
+        <translation>Creativo</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1575"/>
         <source>Action</source>
-        <translation type="unfinished">Operação</translation>
+        <translation>Operação</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1577"/>
         <source>Portrait</source>
-        <translation type="unfinished"></translation>
+        <translation>Retrato</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1579"/>
         <source>Landscape</source>
-        <translation type="unfinished"></translation>
+        <translation>Paisagem</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1127"/>
@@ -24170,12 +24170,12 @@ Quer manter as miniaturas?
     <message>
         <location filename="xnview.cpp" line="533"/>
         <source>Catalog update</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualização do catálogo</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="533"/>
         <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
-        <translation type="unfinished"></translation>
+        <translation>Tem de actualizar o catálogo (Parâmetros&gt;Catálogo&gt;Actualizar metadados) para poder usar o novo nó no &apos;Filtro de catálogo&apos;. </translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="928"/>
