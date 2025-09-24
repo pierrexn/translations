@@ -617,7 +617,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>Open in file manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Avaa tiedostohallinnassa</translation>
     </message>
 </context>
 <context>
@@ -767,19 +767,19 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>EXIF: Date taken</source>
-        <translation type="unfinished">Exif: Kuvauspäivä</translation>
+        <translation>Exif: Kuvauspäivä</translation>
     </message>
     <message>
         <source>EXIF: Date modified</source>
-        <translation type="unfinished">Exif: Muokkauspäivä</translation>
+        <translation>Exif: Muokkauspäivä</translation>
     </message>
     <message>
         <source>File: Date modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiedosto: Muokkauspäivä</translation>
     </message>
     <message>
         <source>New album</source>
-        <translation type="unfinished"></translation>
+        <translation>Uusi albumi</translation>
     </message>
 </context>
 <context>
@@ -1553,51 +1553,51 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>No rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei luokitusta</translation>
     </message>
     <message>
         <source>No colour label</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei värimerkintää</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished">Päiväys</translation>
+        <translation>Päiväys</translation>
     </message>
     <message>
         <source>Taken in last 30 days</source>
-        <translation type="unfinished"></translation>
+        <translation>Otettu viimeisten 30 päivän aikana</translation>
     </message>
     <message>
         <source>Modified in last 30 days</source>
-        <translation type="unfinished"></translation>
+        <translation>Muokattu viimeisten 30 päivän aikana</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished">Ominaisuudet</translation>
+        <translation>Ominaisuudet</translation>
     </message>
     <message>
         <source>Albums</source>
-        <translation type="unfinished"></translation>
+        <translation>Albumit</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuntematon</translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation type="unfinished">Vaaka</translation>
+        <translation>Vaaka</translation>
     </message>
     <message>
         <source>Portrait</source>
-        <translation type="unfinished">Pysty</translation>
+        <translation>Pysty</translation>
     </message>
     <message>
         <source>Panoramic</source>
-        <translation type="unfinished"></translation>
+        <translation>Panoraama</translation>
     </message>
     <message>
         <source>No Color Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei väriprofiilia</translation>
     </message>
 </context>
 <context>
@@ -2841,9 +2841,9 @@ Haluatko korvata sen?</translation>
     </message>
     <message numerus="yes">
         <source>File list (%n)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Tiedostolista (%n)</numerusform>
+            <numerusform>Tiedostolistat (%n)</numerusform>
         </translation>
     </message>
 </context>
@@ -5714,7 +5714,7 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     </message>
     <message>
         <source>Modifying files, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Muokataan tiedostoja, odota hetki...</translation>
     </message>
 </context>
 <context>
@@ -7005,7 +7005,7 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     </message>
     <message>
         <source>Modifying files, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Muokataan tiedostoja, odota hetki...</translation>
     </message>
 </context>
 <context>
@@ -8561,15 +8561,15 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Esiasetus</translation>
     </message>
     <message>
         <source>Preset search name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Esiasetetun haun nimi:</translation>
     </message>
     <message>
         <source>Save pathname</source>
-        <translation type="unfinished"></translation>
+        <translation>Tallenna tiedostopolku</translation>
     </message>
 </context>
 <context>
@@ -8768,7 +8768,7 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>The changes will be applied after restarting the application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Muutokset tulevat voimaan sovelluksen uudelleenkäynnistyksen jälkeen.</translation>
     </message>
 </context>
 <context>
@@ -9037,11 +9037,11 @@ Haluatko ensin tarkastaa tiedot, joihin tämä vaikuttaa?</translation>
     </message>
     <message>
         <source>Database [catalog: %1 %2 - thumbnails: %3 %4]</source>
-        <translation type="unfinished"></translation>
+        <translation>Tietokanta [luettelo: %1 %2 - pienoiskuvat: %3 %4]</translation>
     </message>
     <message>
         <source>Updating database, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tietokantaa päivitetään, odota hetki...</translation>
     </message>
 </context>
 <context>
@@ -9160,7 +9160,7 @@ Haluatko ensin tarkastaa tiedot, joihin tämä vaikuttaa?</translation>
     </message>
     <message>
         <source>Update metadatas...</source>
-        <translation type="unfinished"></translation>
+        <translation>Päivitä metatiedot...</translation>
     </message>
 </context>
 <context>
@@ -9757,12 +9757,12 @@ pienoiskuvina</translation>
     <message>
         <source>Custom</source>
         <comment>theme</comment>
-        <translation type="unfinished">Mukautettu</translation>
+        <translation>Mukautettu</translation>
     </message>
     <message>
         <source>Custom</source>
         <comment>icc</comment>
-        <translation type="unfinished">Mukautettu</translation>
+        <translation>Mukautettu</translation>
     </message>
 </context>
 <context>
@@ -9829,7 +9829,7 @@ pienoiskuvina</translation>
     </message>
     <message>
         <source>Select a program</source>
-        <translation type="unfinished">Valitse ohjelma</translation>
+        <translation>Valitse ohjelma</translation>
     </message>
 </context>
 <context>
@@ -9892,11 +9892,11 @@ pienoiskuvina</translation>
     </message>
     <message>
         <source>ExifTool path</source>
-        <translation type="unfinished"></translation>
+        <translation>ExifTool-polku</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
 </context>
 <context>
@@ -11351,7 +11351,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Watch folders for new files</source>
-        <translation type="unfinished"></translation>
+        <translation>Tarkkaile kansioita uusien tiedostojen varalta</translation>
     </message>
 </context>
 <context>
@@ -11776,7 +11776,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Write</source>
-        <translation type="unfinished">Kirjoita</translation>
+        <translation>Kirjoita</translation>
     </message>
 </context>
 <context>
@@ -12636,7 +12636,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>XMP and IPTC-IIM</source>
-        <translation type="unfinished"></translation>
+        <translation>XMP ja IPTC-IIM</translation>
     </message>
 </context>
 <context>
@@ -12791,7 +12791,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Do you want to add only the folder and not the filelist?</source>
-        <translation type="unfinished"></translation>
+        <translation>Haluatko lisätä vain kansion etkä tiedostolistaa?</translation>
     </message>
 </context>
 <context>
@@ -13271,11 +13271,11 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>File type</source>
-        <translation type="unfinished">Tiedostotyyppi</translation>
+        <translation>Tiedostotyyppi</translation>
     </message>
     <message>
         <source>Aspect Ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Kuvasuhde</translation>
     </message>
 </context>
 <context>
@@ -13409,31 +13409,31 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Import Categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuo kategoria...</translation>
     </message>
     <message>
         <source>Import Categories (XnView Classic db)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuo kategoria (XnView Classic db)..</translation>
     </message>
     <message>
         <source>Export Categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Vie kategoria...</translation>
     </message>
     <message>
         <source>Can&apos;t import XnView Classic category database</source>
-        <translation type="unfinished">XnView Classic kategoria tietokantaa ei voi tuoda</translation>
+        <translation>XnView Classic kategoria tietokantaa ei voi tuoda</translation>
     </message>
     <message>
         <source>Problem during database import!</source>
-        <translation type="unfinished">Ongelma tietokannan tuonnissa!</translation>
+        <translation>Ongelma tietokannan tuonnissa!</translation>
     </message>
     <message>
         <source>Category tree successfully imported into XnView categories</source>
-        <translation type="unfinished">Kategoriapuu tuotu onnistuneesti XnViewin kategorialuetteloon</translation>
+        <translation>Kategoriapuu tuotu onnistuneesti XnViewin kategorialuetteloon</translation>
     </message>
     <message>
         <source>Can&apos;t import XnView database</source>
-        <translation type="unfinished">XnView-tietokantaa ei voi tuoda</translation>
+        <translation>XnView-tietokantaa ei voi tuoda</translation>
     </message>
 </context>
 <context>
@@ -13835,63 +13835,63 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>SubSecTime</source>
-        <translation type="unfinished"></translation>
+        <translation>SubSecTime (sekunnin murto-osat)</translation>
     </message>
     <message>
         <source>SubSecTime Original</source>
-        <translation type="unfinished"></translation>
+        <translation>SubSecTime alkuperäinen (sekunnin murto-osat)</translation>
     </message>
     <message>
         <source>SubSecTime Digitized</source>
-        <translation type="unfinished"></translation>
+        <translation>SubSecTime Digitoitu (sekunnin murto-osat)</translation>
     </message>
     <message>
         <source>Lens</source>
-        <translation type="unfinished">Linssit</translation>
+        <translation>Linssit</translation>
     </message>
     <message>
         <source>Shutter Speed</source>
-        <translation type="unfinished">Suljinnopeus</translation>
+        <translation>Suljinnopeus</translation>
     </message>
     <message>
         <source>Colour Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Väriavaruus</translation>
     </message>
     <message>
         <source>Not Defined</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei määritelty</translation>
     </message>
     <message>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Manuaalinen</translation>
     </message>
     <message>
         <source>Program AE</source>
-        <translation type="unfinished"></translation>
+        <translation>Ohjelma -automaattivalotus</translation>
     </message>
     <message>
         <source>Aperture-priority AE</source>
-        <translation type="unfinished"></translation>
+        <translation>Aukon esivalinta -automaattivalotus</translation>
     </message>
     <message>
         <source>Shutter speed priority AE</source>
-        <translation type="unfinished"></translation>
+        <translation>Suljinajan esivalinta -automaattivalotus</translation>
     </message>
     <message>
         <source>Creative</source>
-        <translation type="unfinished"></translation>
+        <translation>Luova</translation>
     </message>
     <message>
         <source>Action</source>
-        <translation type="unfinished">Toiminto</translation>
+        <translation>Toiminto</translation>
     </message>
     <message>
         <source>Portrait</source>
-        <translation type="unfinished">Pysty</translation>
+        <translation>Pysty</translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation type="unfinished">Vaaka</translation>
+        <translation>Vaaka</translation>
     </message>
 </context>
 <context>
@@ -14241,7 +14241,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Telephone number</source>
-        <translation type="unfinished"></translation>
+        <translation>Puhelinnumero</translation>
     </message>
 </context>
 <context>
@@ -15779,15 +15779,15 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Edit GPS...</source>
-        <translation type="unfinished"></translation>
+        <translation>Muokaa GPS-tietoja...</translation>
     </message>
     <message>
         <source>Edit metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Muokkaa metatietoja...</translation>
     </message>
     <message>
         <source>Edit face tag...</source>
-        <translation type="unfinished"></translation>
+        <translation>Muokkaa kasvotunnistusta...</translation>
     </message>
     <message>
         <source>##rating## (go to next image)</source>
@@ -15795,7 +15795,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Open in file manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Avaa tiedostonhallinnassa</translation>
     </message>
 </context>
 <context>
@@ -16832,7 +16832,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Open in file manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Avaa tiedostonhallinnassa</translation>
     </message>
 </context>
 <context>
@@ -18502,11 +18502,11 @@ Arvioita-, tageja ja väritunnisteita ei tallenneta.</translation>
     </message>
     <message>
         <source>Catalog update</source>
-        <translation type="unfinished"></translation>
+        <translation>Luettelon päivitys</translation>
     </message>
     <message>
         <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
-        <translation type="unfinished"></translation>
+        <translation>Sinun on päivitettävä luettelo (Asetukset&gt;Luettelo&gt;Päivitä metatiedot), jos haluat käyttää uutta solmua kohdassa &apos;Luettelosuodatin&apos;. </translation>
     </message>
 </context>
 </TS>
