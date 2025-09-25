@@ -9159,8 +9159,13 @@ Haluatko ensin tarkastaa tiedot, joihin tämä vaikuttaa?</translation>
         <translation>Tiedostojen peruspolku</translation>
     </message>
     <message>
+<<<<<<< HEAD
         <source>Update metadatas...</source>
         <translation>Päivitä metatiedot...</translation>
+=======
+        <source>Update metadata...</source>
+        <translation type="unfinished"></translation>
+>>>>>>> 640e93d (update)
     </message>
 </context>
 <context>
@@ -13895,6 +13900,21 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
 </context>
 <context>
+    <name>InfoFavoritesView</name>
+    <message>
+        <source>Tag</source>
+        <translation type="unfinished">Merkintä (Tagit)</translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <translation type="unfinished">Arvo</translation>
+    </message>
+    <message>
+        <source>Remove from Favorites panel</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>InfoIPTCView</name>
     <message>
         <source>Origin</source>
@@ -14372,6 +14392,10 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     <message>
         <source>Copy item</source>
         <translation>Kopioi nimike</translation>
+    </message>
+    <message>
+        <source>Add to Favorites panel</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
