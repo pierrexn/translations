@@ -2034,7 +2034,7 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="155"/>
-        <location filename="DBFilterModel.cpp" line="1064"/>
+        <location filename="DBFilterModel.cpp" line="1058"/>
         <source>Date</source>
         <translation>Дата</translation>
     </message>
@@ -2049,34 +2049,33 @@ Drag and Drop over the desired node to assign.</source>
         <translation>Альбомы</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="927"/>
-        <location filename="DBFilterModel.cpp" line="1217"/>
-        <location filename="DBFilterModel.cpp" line="1526"/>
-        <location filename="DBFilterModel.cpp" line="1533"/>
-        <location filename="DBFilterModel.cpp" line="1538"/>
-        <location filename="DBFilterModel.cpp" line="1543"/>
-        <location filename="DBFilterModel.cpp" line="1560"/>
-        <location filename="DBFilterModel.cpp" line="1575"/>
+        <location filename="DBFilterModel.cpp" line="930"/>
+        <location filename="DBFilterModel.cpp" line="1512"/>
+        <location filename="DBFilterModel.cpp" line="1519"/>
+        <location filename="DBFilterModel.cpp" line="1524"/>
+        <location filename="DBFilterModel.cpp" line="1529"/>
+        <location filename="DBFilterModel.cpp" line="1546"/>
+        <location filename="DBFilterModel.cpp" line="1561"/>
         <source>Unknown</source>
         <translation>Неизвестно</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1565"/>
+        <location filename="DBFilterModel.cpp" line="1551"/>
         <source>Landscape</source>
         <translation>Альбомная</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1567"/>
+        <location filename="DBFilterModel.cpp" line="1553"/>
         <source>Portrait</source>
         <translation>Портретная</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1640"/>
+        <location filename="DBFilterModel.cpp" line="1626"/>
         <source>Panoramic</source>
         <translation>Панорамное</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1666"/>
+        <location filename="DBFilterModel.cpp" line="1652"/>
         <source>No Color Profile</source>
         <translation>Нет цветового профиля</translation>
     </message>
@@ -11769,9 +11768,8 @@ Do you want to remove entries assigned to a category?</oldsource>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="430"/>
-        <source>Update metadata...</source>
-        <oldsource>Update metadatas...</oldsource>
-        <translation type="unfinished">Обновить метаданные...</translation>
+        <source>Update metadatas...</source>
+        <translation>Обновить метаданные...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="493"/>
@@ -13219,13 +13217,13 @@ Do you want to reassign?</source>
         <translation>Действие</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1226"/>
+        <location filename="DlgSettingsInterface.ui" line="1221"/>
         <location filename="DlgSettingsInterface.ui" line="1269"/>
         <source>Shortcut</source>
         <translation>Ярлык</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1221"/>
+        <location filename="DlgSettingsInterface.ui" line="1226"/>
         <location filename="DlgSettingsInterface.ui" line="1264"/>
         <source>Command name</source>
         <translation>Имя команды</translation>
@@ -17040,12 +17038,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Соотношение</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1456"/>
+        <location filename="DBFilterModel.cpp" line="1442"/>
         <source>Aspect Ratio</source>
         <translation>Соотношение</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1492"/>
+        <location filename="DBFilterModel.cpp" line="1478"/>
         <source>File type</source>
         <translation>Тип файла</translation>
     </message>
@@ -17592,7 +17590,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Теги производителя</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1460"/>
+        <location filename="DBFilterModel.cpp" line="1446"/>
         <location filename="ItemModel.cpp" line="1121"/>
         <location filename="SearchField.cpp" line="71"/>
         <location filename="TemplateData.cpp" line="2605"/>
@@ -17600,7 +17598,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Камера, производитель</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1464"/>
+        <location filename="DBFilterModel.cpp" line="1450"/>
         <location filename="ItemModel.cpp" line="1123"/>
         <location filename="SearchField.cpp" line="72"/>
         <location filename="TemplateData.cpp" line="2606"/>
@@ -17608,68 +17606,68 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Камера, модель</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1468"/>
+        <location filename="DBFilterModel.cpp" line="1454"/>
         <source>Lens</source>
         <translation>Объектив</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1476"/>
+        <location filename="DBFilterModel.cpp" line="1462"/>
         <location filename="ItemModel.cpp" line="1125"/>
         <source>ISO</source>
         <translation>ISO</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1484"/>
+        <location filename="DBFilterModel.cpp" line="1470"/>
         <source>Shutter Speed</source>
         <translation>Скорость затвора</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1496"/>
+        <location filename="DBFilterModel.cpp" line="1482"/>
         <source>Colour Space</source>
         <translation>Цветовое пространство</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1577"/>
+        <location filename="DBFilterModel.cpp" line="1563"/>
         <source>Not Defined</source>
         <translation>Не определено</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1579"/>
+        <location filename="DBFilterModel.cpp" line="1565"/>
         <source>Manual</source>
         <translation>Ручное</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1581"/>
+        <location filename="DBFilterModel.cpp" line="1567"/>
         <source>Program AE</source>
         <translation>АЭ - программная линия</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1583"/>
+        <location filename="DBFilterModel.cpp" line="1569"/>
         <source>Aperture-priority AE</source>
         <translation>АЭ - приоритет диафрагмы</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1585"/>
+        <location filename="DBFilterModel.cpp" line="1571"/>
         <source>Shutter speed priority AE</source>
         <translation>АЭ - приоритет выдержки</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1587"/>
+        <location filename="DBFilterModel.cpp" line="1573"/>
         <source>Creative</source>
         <translation>Креативный</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1589"/>
+        <location filename="DBFilterModel.cpp" line="1575"/>
         <source>Action</source>
         <translation>Действие</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1591"/>
+        <location filename="DBFilterModel.cpp" line="1577"/>
         <source>Portrait</source>
         <translation>Портретная</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1593"/>
+        <location filename="DBFilterModel.cpp" line="1579"/>
         <source>Landscape</source>
         <translation>Альбомная</translation>
     </message>
@@ -17684,7 +17682,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Время экспозиции</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1472"/>
+        <location filename="DBFilterModel.cpp" line="1458"/>
         <location filename="ItemModel.cpp" line="1131"/>
         <source>Focal Length</source>
         <translation>Фокусное расстояние</translation>
@@ -17726,7 +17724,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Комментарий пользователя</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1480"/>
+        <location filename="DBFilterModel.cpp" line="1466"/>
         <location filename="ItemModel.cpp" line="1135"/>
         <location filename="SearchField.cpp" line="81"/>
         <location filename="TemplateData.cpp" line="2639"/>
@@ -17750,7 +17748,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Дата/время изменения</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1452"/>
+        <location filename="DBFilterModel.cpp" line="1438"/>
         <location filename="TemplateData.cpp" line="2610"/>
         <source>Orientation</source>
         <translation>Ориентация</translation>
@@ -17839,7 +17837,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Выдержка (c)</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1488"/>
+        <location filename="DBFilterModel.cpp" line="1474"/>
         <location filename="TemplateData.cpp" line="2635"/>
         <source>Exposure Program</source>
         <translation>Программа экспозиции</translation>
@@ -18133,24 +18131,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2701"/>
         <source>Location Code</source>
         <translation>Код местоположения</translation>
-    </message>
-</context>
-<context>
-    <name>InfoFavoritesView</name>
-    <message>
-        <location filename="InfoFavoritesView.cpp" line="19"/>
-        <source>Tag</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="InfoFavoritesView.cpp" line="19"/>
-        <source>Value</source>
-        <translation type="unfinished">Значение</translation>
-    </message>
-    <message>
-        <location filename="InfoFavoritesView.cpp" line="45"/>
-        <source>Remove from Favorites panel</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18911,11 +18891,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPanel.cpp" line="85"/>
         <source>Copy all items</source>
         <translation>Копировать все элементы</translation>
-    </message>
-    <message>
-        <location filename="InfoPanel.cpp" line="91"/>
-        <source>Add to Favorites panel</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -23057,27 +23032,27 @@ You can change it in Settings › Catalog.</oldsource>
 <context>
     <name>Panel</name>
     <message>
-        <location filename="PreviewInfo.cpp" line="286"/>
+        <location filename="PreviewInfo.cpp" line="299"/>
         <source>Properties</source>
         <translation>Свойства</translation>
     </message>
     <message>
-        <location filename="PreviewInfo.cpp" line="320"/>
+        <location filename="PreviewInfo.cpp" line="332"/>
         <source>Histogram</source>
         <translation>Гистограмма</translation>
     </message>
     <message>
-        <location filename="PreviewInfo.cpp" line="243"/>
+        <location filename="PreviewInfo.cpp" line="256"/>
         <source>Preview</source>
         <translation>Предпросмотр</translation>
     </message>
     <message>
-        <location filename="PreviewInfo.cpp" line="525"/>
+        <location filename="PreviewInfo.cpp" line="482"/>
         <source>Map</source>
         <translation>Карта</translation>
     </message>
     <message>
-        <location filename="PreviewInfo.cpp" line="603"/>
+        <location filename="PreviewInfo.cpp" line="560"/>
         <source>Categories</source>
         <translation>Категории</translation>
     </message>
@@ -23093,7 +23068,7 @@ You can change it in Settings › Catalog.</oldsource>
 <context>
     <name>PreviewInfo</name>
     <message>
-        <location filename="PreviewInfo.cpp" line="773"/>
+        <location filename="PreviewInfo.cpp" line="720"/>
         <source>Preview</source>
         <translation>Предпросмотр</translation>
     </message>

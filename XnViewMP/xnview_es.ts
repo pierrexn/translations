@@ -9154,7 +9154,7 @@ etiquetas de color o palabras clave pueden ser eliminadas.
         <translation>Ruta base de los archivos</translation>
     </message>
     <message>
-        <source>Update metadata...</source>
+        <source>Update metadatas...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13890,21 +13890,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
 </context>
 <context>
-    <name>InfoFavoritesView</name>
-    <message>
-        <source>Tag</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Value</source>
-        <translation type="unfinished">Valor</translation>
-    </message>
-    <message>
-        <source>Remove from Favorites panel</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>InfoIPTCView</name>
     <message>
         <source>Origin</source>
@@ -14382,10 +14367,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Copy item</source>
         <translation>Copiar elemento</translation>
-    </message>
-    <message>
-        <source>Add to Favorites panel</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
