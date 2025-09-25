@@ -2028,7 +2028,7 @@ Položky můžete přiřazovat přetažením.</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="155"/>
-        <location filename="DBFilterModel.cpp" line="1064"/>
+        <location filename="DBFilterModel.cpp" line="1058"/>
         <source>Date</source>
         <translation type="unfinished">Datum</translation>
     </message>
@@ -2043,34 +2043,33 @@ Položky můžete přiřazovat přetažením.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="927"/>
-        <location filename="DBFilterModel.cpp" line="1217"/>
-        <location filename="DBFilterModel.cpp" line="1526"/>
-        <location filename="DBFilterModel.cpp" line="1533"/>
-        <location filename="DBFilterModel.cpp" line="1538"/>
-        <location filename="DBFilterModel.cpp" line="1543"/>
-        <location filename="DBFilterModel.cpp" line="1560"/>
-        <location filename="DBFilterModel.cpp" line="1575"/>
+        <location filename="DBFilterModel.cpp" line="930"/>
+        <location filename="DBFilterModel.cpp" line="1512"/>
+        <location filename="DBFilterModel.cpp" line="1519"/>
+        <location filename="DBFilterModel.cpp" line="1524"/>
+        <location filename="DBFilterModel.cpp" line="1529"/>
+        <location filename="DBFilterModel.cpp" line="1546"/>
+        <location filename="DBFilterModel.cpp" line="1561"/>
         <source>Unknown</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1565"/>
+        <location filename="DBFilterModel.cpp" line="1551"/>
         <source>Landscape</source>
         <translation type="unfinished">Krajina</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1567"/>
+        <location filename="DBFilterModel.cpp" line="1553"/>
         <source>Portrait</source>
         <translation type="unfinished">Portrét</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1640"/>
+        <location filename="DBFilterModel.cpp" line="1626"/>
         <source>Panoramic</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1666"/>
+        <location filename="DBFilterModel.cpp" line="1652"/>
         <source>No Color Profile</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11758,8 +11757,7 @@ Skutečně chcete odebrat záznamy přiřazené ke kategorii?</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="430"/>
-        <source>Update metadata...</source>
-        <oldsource>Update metadatas...</oldsource>
+        <source>Update metadatas...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13208,13 +13206,13 @@ Chcete znovu přiřadit?</translation>
         <translation>Akce</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1226"/>
+        <location filename="DlgSettingsInterface.ui" line="1221"/>
         <location filename="DlgSettingsInterface.ui" line="1269"/>
         <source>Shortcut</source>
         <translation>Klávesová zkratka</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1221"/>
+        <location filename="DlgSettingsInterface.ui" line="1226"/>
         <location filename="DlgSettingsInterface.ui" line="1264"/>
         <source>Command name</source>
         <translation>Název příkazu</translation>
@@ -17027,12 +17025,12 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
         <translation>Poměr</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1456"/>
+        <location filename="DBFilterModel.cpp" line="1442"/>
         <source>Aspect Ratio</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1492"/>
+        <location filename="DBFilterModel.cpp" line="1478"/>
         <source>File type</source>
         <translation type="unfinished">Typ souboru</translation>
     </message>
@@ -17576,7 +17574,7 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
         <translation>Poznámky tvůrce</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1460"/>
+        <location filename="DBFilterModel.cpp" line="1446"/>
         <location filename="ItemModel.cpp" line="1121"/>
         <location filename="SearchField.cpp" line="71"/>
         <location filename="TemplateData.cpp" line="2605"/>
@@ -17584,7 +17582,7 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
         <translation>Tvůrce</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1464"/>
+        <location filename="DBFilterModel.cpp" line="1450"/>
         <location filename="ItemModel.cpp" line="1123"/>
         <location filename="SearchField.cpp" line="72"/>
         <location filename="TemplateData.cpp" line="2606"/>
@@ -17592,68 +17590,68 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
         <translation>Model</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1468"/>
+        <location filename="DBFilterModel.cpp" line="1454"/>
         <source>Lens</source>
         <translation type="unfinished">Čočka</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1476"/>
+        <location filename="DBFilterModel.cpp" line="1462"/>
         <location filename="ItemModel.cpp" line="1125"/>
         <source>ISO</source>
         <translation>ISO</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1484"/>
+        <location filename="DBFilterModel.cpp" line="1470"/>
         <source>Shutter Speed</source>
         <translation type="unfinished">Rychlost závěrky</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1496"/>
+        <location filename="DBFilterModel.cpp" line="1482"/>
         <source>Colour Space</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1577"/>
+        <location filename="DBFilterModel.cpp" line="1563"/>
         <source>Not Defined</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1579"/>
+        <location filename="DBFilterModel.cpp" line="1565"/>
         <source>Manual</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1581"/>
+        <location filename="DBFilterModel.cpp" line="1567"/>
         <source>Program AE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1583"/>
+        <location filename="DBFilterModel.cpp" line="1569"/>
         <source>Aperture-priority AE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1585"/>
+        <location filename="DBFilterModel.cpp" line="1571"/>
         <source>Shutter speed priority AE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1587"/>
+        <location filename="DBFilterModel.cpp" line="1573"/>
         <source>Creative</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1589"/>
+        <location filename="DBFilterModel.cpp" line="1575"/>
         <source>Action</source>
         <translation type="unfinished">Akce</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1591"/>
+        <location filename="DBFilterModel.cpp" line="1577"/>
         <source>Portrait</source>
         <translation type="unfinished">Portrét</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1593"/>
+        <location filename="DBFilterModel.cpp" line="1579"/>
         <source>Landscape</source>
         <translation type="unfinished">Krajina</translation>
     </message>
@@ -17668,7 +17666,7 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
         <translation>Čas expozice</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1472"/>
+        <location filename="DBFilterModel.cpp" line="1458"/>
         <location filename="ItemModel.cpp" line="1131"/>
         <source>Focal Length</source>
         <translation>Ohnisková vzdálenost</translation>
@@ -17710,7 +17708,7 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
         <translation>Uživatelský komentář</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1480"/>
+        <location filename="DBFilterModel.cpp" line="1466"/>
         <location filename="ItemModel.cpp" line="1135"/>
         <location filename="SearchField.cpp" line="81"/>
         <location filename="TemplateData.cpp" line="2639"/>
@@ -17734,7 +17732,7 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
         <translation>Datum a čas poslední změny</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1452"/>
+        <location filename="DBFilterModel.cpp" line="1438"/>
         <location filename="TemplateData.cpp" line="2610"/>
         <source>Orientation</source>
         <translation>Orientace</translation>
@@ -17823,7 +17821,7 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
         <translation>Čas expozice (s)</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1488"/>
+        <location filename="DBFilterModel.cpp" line="1474"/>
         <location filename="TemplateData.cpp" line="2635"/>
         <source>Exposure Program</source>
         <translation>Program expozice</translation>
@@ -18119,24 +18117,6 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
         <location filename="TemplateData.cpp" line="2701"/>
         <source>Location Code</source>
         <translation>Kód umístění</translation>
-    </message>
-</context>
-<context>
-    <name>InfoFavoritesView</name>
-    <message>
-        <location filename="InfoFavoritesView.cpp" line="19"/>
-        <source>Tag</source>
-        <translation type="unfinished">Štítek</translation>
-    </message>
-    <message>
-        <location filename="InfoFavoritesView.cpp" line="19"/>
-        <source>Value</source>
-        <translation type="unfinished">Hodnota</translation>
-    </message>
-    <message>
-        <location filename="InfoFavoritesView.cpp" line="45"/>
-        <source>Remove from Favorites panel</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18903,11 +18883,6 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
         <location filename="InfoPanel.cpp" line="85"/>
         <source>Copy all items</source>
         <translation>Zkopírovat všechny položky</translation>
-    </message>
-    <message>
-        <location filename="InfoPanel.cpp" line="91"/>
-        <source>Add to Favorites panel</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -23046,27 +23021,27 @@ Můžete ji změnit v nabídce Nastavení › Katalog.</translation>
 <context>
     <name>Panel</name>
     <message>
-        <location filename="PreviewInfo.cpp" line="286"/>
+        <location filename="PreviewInfo.cpp" line="299"/>
         <source>Properties</source>
         <translation>Vlastnosti</translation>
     </message>
     <message>
-        <location filename="PreviewInfo.cpp" line="320"/>
+        <location filename="PreviewInfo.cpp" line="332"/>
         <source>Histogram</source>
         <translation>Histogram</translation>
     </message>
     <message>
-        <location filename="PreviewInfo.cpp" line="243"/>
+        <location filename="PreviewInfo.cpp" line="256"/>
         <source>Preview</source>
         <translation>Náhled</translation>
     </message>
     <message>
-        <location filename="PreviewInfo.cpp" line="525"/>
+        <location filename="PreviewInfo.cpp" line="482"/>
         <source>Map</source>
         <translation>Mapa</translation>
     </message>
     <message>
-        <location filename="PreviewInfo.cpp" line="603"/>
+        <location filename="PreviewInfo.cpp" line="560"/>
         <source>Categories</source>
         <translation>Kategorie</translation>
     </message>
@@ -23082,7 +23057,7 @@ Můžete ji změnit v nabídce Nastavení › Katalog.</translation>
 <context>
     <name>PreviewInfo</name>
     <message>
-        <location filename="PreviewInfo.cpp" line="773"/>
+        <location filename="PreviewInfo.cpp" line="720"/>
         <source>Preview</source>
         <translation>Náhled</translation>
     </message>
