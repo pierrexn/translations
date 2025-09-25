@@ -1504,7 +1504,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Landscapes</source>
-        <translation>Peisaje</translation>
+        <translation>Peisaje (Vederi)</translation>
     </message>
     <message>
         <source>Flowers</source>
@@ -1587,7 +1587,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation>Peisaj</translation>
+        <translation>Peisaj (Vedere)</translation>
     </message>
     <message>
         <source>Portrait</source>
@@ -1595,11 +1595,11 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Panoramic</source>
-        <translation type="unfinished"></translation>
+        <translation>Panoramic</translation>
     </message>
     <message>
         <source>No Color Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Fără profil de culoare</translation>
     </message>
 </context>
 <context>
@@ -3232,7 +3232,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation>Peisaj</translation>
+        <translation>Peisaj (Vedere)</translation>
     </message>
     <message>
         <source>Orientation</source>
@@ -4999,7 +4999,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Only landscape</source>
-        <translation>Doar peisaj</translation>
+        <translation>Doar peisaj (Doar vedere)</translation>
     </message>
     <message>
         <source>-180°</source>
@@ -9052,7 +9052,7 @@ Dorești să verifici mai întâi intrările afectate?</translation>
     </message>
     <message>
         <source>Updating database, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Se actualizează baza de date, te rugăm să aștepți...</translation>
     </message>
 </context>
 <context>
@@ -9171,7 +9171,7 @@ Dorești să verifici mai întâi intrările afectate?</translation>
     </message>
     <message>
         <source>Update metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Se actualizează metadatele...</translation>
     </message>
 </context>
 <context>
@@ -13286,7 +13286,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Aspect Ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Raportul de aspect</translation>
     </message>
 </context>
 <context>
@@ -13866,58 +13866,58 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Colour Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Spațiul de culori</translation>
     </message>
     <message>
         <source>Not Defined</source>
-        <translation type="unfinished"></translation>
+        <translation>Nedefinit</translation>
     </message>
     <message>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Manual</translation>
     </message>
     <message>
         <source>Program AE</source>
-        <translation type="unfinished"></translation>
+        <translation>Program de expunere automată (de AE)</translation>
     </message>
     <message>
         <source>Aperture-priority AE</source>
-        <translation type="unfinished"></translation>
+        <translation>AE (Expunere automată) cu prioritate de diafragmă</translation>
     </message>
     <message>
         <source>Shutter speed priority AE</source>
-        <translation type="unfinished"></translation>
+        <translation>AE (Expunere automată) cu prioritate la viteza obturatorului</translation>
     </message>
     <message>
         <source>Creative</source>
-        <translation type="unfinished"></translation>
+        <translation>Creativ</translation>
     </message>
     <message>
         <source>Action</source>
-        <translation type="unfinished">Acțiune</translation>
+        <translation>Acțiune</translation>
     </message>
     <message>
         <source>Portrait</source>
-        <translation type="unfinished">Portret</translation>
+        <translation>Portret</translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation type="unfinished">Peisaj</translation>
+        <translation>Peisaj (Vedere)</translation>
     </message>
 </context>
 <context>
     <name>InfoFavoritesView</name>
     <message>
         <source>Tag</source>
-        <translation type="unfinished">Etichetă</translation>
+        <translation>Etichetă</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished">Valoare</translation>
+        <translation>Valoarea</translation>
     </message>
     <message>
         <source>Remove from Favorites panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge din panoul Favorite</translation>
     </message>
 </context>
 <context>
@@ -14401,7 +14401,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Add to Favorites panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Adaugă în panoul Favorite</translation>
     </message>
 </context>
 <context>
@@ -18535,11 +18535,11 @@ Etichetele de evaluare (de rating), etichetare și culoare nu vor fi salvate.</t
     </message>
     <message>
         <source>Catalog update</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizează catalogul</translation>
     </message>
     <message>
         <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
-        <translation type="unfinished"></translation>
+        <translation>Trebuie să actualizezi catalogul (Setări&gt;Catalog&gt;Actualizează metadatele) dacă vrei să folosești un nod nou în „Filtru de catalog”. </translation>
     </message>
 </context>
 </TS>
