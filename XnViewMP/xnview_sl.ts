@@ -11731,7 +11731,7 @@ Ali želite najprej preveriti prizadete vnose?</translation>
         <location filename="DlgSettingsCache.ui" line="430"/>
         <source>Update metadata...</source>
         <oldsource>Update metadatas...</oldsource>
-        <translation type="unfinished">Posodobi metapodatke...</translation>
+        <translation>Posodobi metapodatke...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="493"/>
@@ -18072,17 +18072,17 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoFavoritesView.cpp" line="19"/>
         <source>Tag</source>
-        <translation type="unfinished">Oznaka</translation>
+        <translation>Oznaka</translation>
     </message>
     <message>
         <location filename="InfoFavoritesView.cpp" line="19"/>
         <source>Value</source>
-        <translation type="unfinished">Vrednost</translation>
+        <translation>Vrednost</translation>
     </message>
     <message>
         <location filename="InfoFavoritesView.cpp" line="45"/>
         <source>Remove from Favorites panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstrani s panela Priljubljene</translation>
     </message>
 </context>
 <context>
@@ -18845,7 +18845,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoPanel.cpp" line="91"/>
         <source>Add to Favorites panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj na panel Priljubljene</translation>
     </message>
 </context>
 <context>
