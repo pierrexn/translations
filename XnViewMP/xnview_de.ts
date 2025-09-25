@@ -11683,7 +11683,7 @@ Wollen Sie alle Einträge, denen eine Kategorie zugewiesen, sind löschen?</tran
         <location filename="DlgSettingsCache.ui" line="430"/>
         <source>Update metadata...</source>
         <oldsource>Update metadatas...</oldsource>
-        <translation type="unfinished">Metadaten aktualisieren...</translation>
+        <translation>Metadaten aktualisieren...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="493"/>
@@ -18029,17 +18029,17 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="InfoFavoritesView.cpp" line="19"/>
         <source>Tag</source>
-        <translation type="unfinished">Kennzeichnung</translation>
+        <translation>Kennzeichnung</translation>
     </message>
     <message>
         <location filename="InfoFavoritesView.cpp" line="19"/>
         <source>Value</source>
-        <translation type="unfinished">Wert</translation>
+        <translation>Wert</translation>
     </message>
     <message>
         <location filename="InfoFavoritesView.cpp" line="45"/>
         <source>Remove from Favorites panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Aus dem Favoritenbereich entfernen</translation>
     </message>
 </context>
 <context>
@@ -18802,7 +18802,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="InfoPanel.cpp" line="91"/>
         <source>Add to Favorites panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Zum Favoritenbereich hinzufügen</translation>
     </message>
 </context>
 <context>
