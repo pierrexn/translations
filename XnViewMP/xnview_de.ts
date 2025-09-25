@@ -2013,7 +2013,7 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="155"/>
-        <location filename="DBFilterModel.cpp" line="1058"/>
+        <location filename="DBFilterModel.cpp" line="1064"/>
         <source>Date</source>
         <translation>Datum</translation>
     </message>
@@ -2028,33 +2028,34 @@ Drag and Drop over the desired node to assign.</source>
         <translation>Alben</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="930"/>
-        <location filename="DBFilterModel.cpp" line="1512"/>
-        <location filename="DBFilterModel.cpp" line="1519"/>
-        <location filename="DBFilterModel.cpp" line="1524"/>
-        <location filename="DBFilterModel.cpp" line="1529"/>
-        <location filename="DBFilterModel.cpp" line="1546"/>
-        <location filename="DBFilterModel.cpp" line="1561"/>
+        <location filename="DBFilterModel.cpp" line="927"/>
+        <location filename="DBFilterModel.cpp" line="1217"/>
+        <location filename="DBFilterModel.cpp" line="1526"/>
+        <location filename="DBFilterModel.cpp" line="1533"/>
+        <location filename="DBFilterModel.cpp" line="1538"/>
+        <location filename="DBFilterModel.cpp" line="1543"/>
+        <location filename="DBFilterModel.cpp" line="1560"/>
+        <location filename="DBFilterModel.cpp" line="1575"/>
         <source>Unknown</source>
         <translation>Unbekannt</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1551"/>
+        <location filename="DBFilterModel.cpp" line="1565"/>
         <source>Landscape</source>
         <translation>Querformat</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1553"/>
+        <location filename="DBFilterModel.cpp" line="1567"/>
         <source>Portrait</source>
         <translation>Hochformat</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1626"/>
+        <location filename="DBFilterModel.cpp" line="1640"/>
         <source>Panoramic</source>
         <translation>Panorama</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1652"/>
+        <location filename="DBFilterModel.cpp" line="1666"/>
         <source>No Color Profile</source>
         <translation>Kein Farbprofil</translation>
     </message>
@@ -11680,8 +11681,9 @@ Wollen Sie alle Einträge, denen eine Kategorie zugewiesen, sind löschen?</tran
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="430"/>
-        <source>Update metadatas...</source>
-        <translation>Metadaten aktualisieren...</translation>
+        <source>Update metadata...</source>
+        <oldsource>Update metadatas...</oldsource>
+        <translation type="unfinished">Metadaten aktualisieren...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="493"/>
@@ -13123,13 +13125,13 @@ Möchten Sie neu zuweisen?</translation>
         <translation>Aktion</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1221"/>
+        <location filename="DlgSettingsInterface.ui" line="1226"/>
         <location filename="DlgSettingsInterface.ui" line="1269"/>
         <source>Shortcut</source>
         <translation>Verknüpfung</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1226"/>
+        <location filename="DlgSettingsInterface.ui" line="1221"/>
         <location filename="DlgSettingsInterface.ui" line="1264"/>
         <source>Command name</source>
         <translation>Befehlsname</translation>
@@ -16930,12 +16932,12 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
         <translation>Verhältnis</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1442"/>
+        <location filename="DBFilterModel.cpp" line="1456"/>
         <source>Aspect Ratio</source>
         <translation>Seitenverhältnis</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1478"/>
+        <location filename="DBFilterModel.cpp" line="1492"/>
         <source>File type</source>
         <translation>Dateityp</translation>
     </message>
@@ -17479,7 +17481,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
         <translation>Herstellerdaten</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1446"/>
+        <location filename="DBFilterModel.cpp" line="1460"/>
         <location filename="ItemModel.cpp" line="1121"/>
         <location filename="SearchField.cpp" line="71"/>
         <location filename="TemplateData.cpp" line="2605"/>
@@ -17487,7 +17489,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
         <translation>Ersteller</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1450"/>
+        <location filename="DBFilterModel.cpp" line="1464"/>
         <location filename="ItemModel.cpp" line="1123"/>
         <location filename="SearchField.cpp" line="72"/>
         <location filename="TemplateData.cpp" line="2606"/>
@@ -17495,68 +17497,68 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
         <translation>Modell</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1454"/>
+        <location filename="DBFilterModel.cpp" line="1468"/>
         <source>Lens</source>
         <translation>Objektiv</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1462"/>
+        <location filename="DBFilterModel.cpp" line="1476"/>
         <location filename="ItemModel.cpp" line="1125"/>
         <source>ISO</source>
         <translation>ISO</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1470"/>
+        <location filename="DBFilterModel.cpp" line="1484"/>
         <source>Shutter Speed</source>
         <translation>Verschlusszeit</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1482"/>
+        <location filename="DBFilterModel.cpp" line="1496"/>
         <source>Colour Space</source>
         <translation>Farbraum</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1563"/>
+        <location filename="DBFilterModel.cpp" line="1577"/>
         <source>Not Defined</source>
         <translation>Nicht definiert</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1565"/>
+        <location filename="DBFilterModel.cpp" line="1579"/>
         <source>Manual</source>
         <translation>Manuell</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1567"/>
+        <location filename="DBFilterModel.cpp" line="1581"/>
         <source>Program AE</source>
         <translation>Programmautomatik</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1569"/>
+        <location filename="DBFilterModel.cpp" line="1583"/>
         <source>Aperture-priority AE</source>
         <translation>Automatische Belichtung</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1571"/>
+        <location filename="DBFilterModel.cpp" line="1585"/>
         <source>Shutter speed priority AE</source>
         <translation>Blendenpriorität</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1573"/>
+        <location filename="DBFilterModel.cpp" line="1587"/>
         <source>Creative</source>
         <translation>Kreativ</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1575"/>
+        <location filename="DBFilterModel.cpp" line="1589"/>
         <source>Action</source>
         <translation>Actionmodus</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1577"/>
+        <location filename="DBFilterModel.cpp" line="1591"/>
         <source>Portrait</source>
         <translation>Hochformat</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1579"/>
+        <location filename="DBFilterModel.cpp" line="1593"/>
         <source>Landscape</source>
         <translation>Querformat</translation>
     </message>
@@ -17571,7 +17573,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
         <translation>Belichtungszeit</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1458"/>
+        <location filename="DBFilterModel.cpp" line="1472"/>
         <location filename="ItemModel.cpp" line="1131"/>
         <source>Focal Length</source>
         <translation>Brennweite</translation>
@@ -17613,7 +17615,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
         <translation>Benutzerkommentar</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1466"/>
+        <location filename="DBFilterModel.cpp" line="1480"/>
         <location filename="ItemModel.cpp" line="1135"/>
         <location filename="SearchField.cpp" line="81"/>
         <location filename="TemplateData.cpp" line="2639"/>
@@ -17637,7 +17639,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
         <translation>Änderungsdatum/-uhrzeit</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1438"/>
+        <location filename="DBFilterModel.cpp" line="1452"/>
         <location filename="TemplateData.cpp" line="2610"/>
         <source>Orientation</source>
         <translation>Ausrichtung</translation>
@@ -17726,7 +17728,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
         <translation>Belichtungszeit (s)</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1474"/>
+        <location filename="DBFilterModel.cpp" line="1488"/>
         <location filename="TemplateData.cpp" line="2635"/>
         <source>Exposure Program</source>
         <translation>Belichtungsmethode</translation>
@@ -18020,6 +18022,24 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
         <location filename="TemplateData.cpp" line="2701"/>
         <source>Location Code</source>
         <translation>ISO-Ländercode</translation>
+    </message>
+</context>
+<context>
+    <name>InfoFavoritesView</name>
+    <message>
+        <location filename="InfoFavoritesView.cpp" line="19"/>
+        <source>Tag</source>
+        <translation type="unfinished">Kennzeichnung</translation>
+    </message>
+    <message>
+        <location filename="InfoFavoritesView.cpp" line="19"/>
+        <source>Value</source>
+        <translation type="unfinished">Wert</translation>
+    </message>
+    <message>
+        <location filename="InfoFavoritesView.cpp" line="45"/>
+        <source>Remove from Favorites panel</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18778,6 +18798,11 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
         <location filename="InfoPanel.cpp" line="85"/>
         <source>Copy all items</source>
         <translation>Alle Einträge kopieren</translation>
+    </message>
+    <message>
+        <location filename="InfoPanel.cpp" line="91"/>
+        <source>Add to Favorites panel</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -22901,27 +22926,27 @@ You can change it in Settings › Catalog.</oldsource>
 <context>
     <name>Panel</name>
     <message>
-        <location filename="PreviewInfo.cpp" line="299"/>
+        <location filename="PreviewInfo.cpp" line="286"/>
         <source>Properties</source>
         <translation>Eigenschaften</translation>
     </message>
     <message>
-        <location filename="PreviewInfo.cpp" line="332"/>
+        <location filename="PreviewInfo.cpp" line="320"/>
         <source>Histogram</source>
         <translation>Histogramm</translation>
     </message>
     <message>
-        <location filename="PreviewInfo.cpp" line="256"/>
+        <location filename="PreviewInfo.cpp" line="243"/>
         <source>Preview</source>
         <translation>Vorschau</translation>
     </message>
     <message>
-        <location filename="PreviewInfo.cpp" line="482"/>
+        <location filename="PreviewInfo.cpp" line="525"/>
         <source>Map</source>
         <translation>Karte</translation>
     </message>
     <message>
-        <location filename="PreviewInfo.cpp" line="560"/>
+        <location filename="PreviewInfo.cpp" line="603"/>
         <source>Categories</source>
         <translation>Kategorien</translation>
     </message>
@@ -22937,7 +22962,7 @@ You can change it in Settings › Catalog.</oldsource>
 <context>
     <name>PreviewInfo</name>
     <message>
-        <location filename="PreviewInfo.cpp" line="720"/>
+        <location filename="PreviewInfo.cpp" line="773"/>
         <source>Preview</source>
         <translation>Vorschau</translation>
     </message>

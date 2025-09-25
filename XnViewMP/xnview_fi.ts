@@ -9159,13 +9159,8 @@ Haluatko ensin tarkastaa tiedot, joihin tämä vaikuttaa?</translation>
         <translation>Tiedostojen peruspolku</translation>
     </message>
     <message>
-<<<<<<< HEAD
-        <source>Update metadatas...</source>
-        <translation>Päivitä metatiedot...</translation>
-=======
         <source>Update metadata...</source>
         <translation type="unfinished"></translation>
->>>>>>> 640e93d (update)
     </message>
 </context>
 <context>

@@ -9170,7 +9170,7 @@ Dorești să verifici mai întâi intrările afectate?</translation>
         <translation>Mentenanță...</translation>
     </message>
     <message>
-        <source>Update metadatas...</source>
+        <source>Update metadata...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13906,6 +13906,21 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
 </context>
 <context>
+    <name>InfoFavoritesView</name>
+    <message>
+        <source>Tag</source>
+        <translation type="unfinished">Etichetă</translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <translation type="unfinished">Valoare</translation>
+    </message>
+    <message>
+        <source>Remove from Favorites panel</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>InfoIPTCView</name>
     <message>
         <source>Origin</source>
@@ -14383,6 +14398,10 @@ Dorești să ștergi favoritul „%1”?</translation>
     <message>
         <source>Copy item</source>
         <translation>Copiază elementul</translation>
+    </message>
+    <message>
+        <source>Add to Favorites panel</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

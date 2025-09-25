@@ -2017,7 +2017,7 @@ Dra och släpp över önskad nod för att tilldela.</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="155"/>
-        <location filename="DBFilterModel.cpp" line="1058"/>
+        <location filename="DBFilterModel.cpp" line="1064"/>
         <source>Date</source>
         <translation type="unfinished">Datum</translation>
     </message>
@@ -2032,33 +2032,34 @@ Dra och släpp över önskad nod för att tilldela.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="930"/>
-        <location filename="DBFilterModel.cpp" line="1512"/>
-        <location filename="DBFilterModel.cpp" line="1519"/>
-        <location filename="DBFilterModel.cpp" line="1524"/>
-        <location filename="DBFilterModel.cpp" line="1529"/>
-        <location filename="DBFilterModel.cpp" line="1546"/>
-        <location filename="DBFilterModel.cpp" line="1561"/>
+        <location filename="DBFilterModel.cpp" line="927"/>
+        <location filename="DBFilterModel.cpp" line="1217"/>
+        <location filename="DBFilterModel.cpp" line="1526"/>
+        <location filename="DBFilterModel.cpp" line="1533"/>
+        <location filename="DBFilterModel.cpp" line="1538"/>
+        <location filename="DBFilterModel.cpp" line="1543"/>
+        <location filename="DBFilterModel.cpp" line="1560"/>
+        <location filename="DBFilterModel.cpp" line="1575"/>
         <source>Unknown</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1551"/>
+        <location filename="DBFilterModel.cpp" line="1565"/>
         <source>Landscape</source>
         <translation type="unfinished">Liggande</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1553"/>
+        <location filename="DBFilterModel.cpp" line="1567"/>
         <source>Portrait</source>
         <translation type="unfinished">Stående</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1626"/>
+        <location filename="DBFilterModel.cpp" line="1640"/>
         <source>Panoramic</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1652"/>
+        <location filename="DBFilterModel.cpp" line="1666"/>
         <source>No Color Profile</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11694,7 +11695,8 @@ Vill du ta bort poster som tilldelats en kategori?</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="430"/>
-        <source>Update metadatas...</source>
+        <source>Update metadata...</source>
+        <oldsource>Update metadatas...</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13137,13 +13139,13 @@ Vill du ta bort tilldelningen?</translation>
         <translation>Åtgärd</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1221"/>
+        <location filename="DlgSettingsInterface.ui" line="1226"/>
         <location filename="DlgSettingsInterface.ui" line="1269"/>
         <source>Shortcut</source>
         <translation>Genväg</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1226"/>
+        <location filename="DlgSettingsInterface.ui" line="1221"/>
         <location filename="DlgSettingsInterface.ui" line="1264"/>
         <source>Command name</source>
         <translation>Kommandonamn</translation>
@@ -16944,12 +16946,12 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
         <translation>Proportioner</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1442"/>
+        <location filename="DBFilterModel.cpp" line="1456"/>
         <source>Aspect Ratio</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1478"/>
+        <location filename="DBFilterModel.cpp" line="1492"/>
         <source>File type</source>
         <translation type="unfinished">Filtyp</translation>
     </message>
@@ -17493,7 +17495,7 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
         <translation>Skaparnoteringar</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1446"/>
+        <location filename="DBFilterModel.cpp" line="1460"/>
         <location filename="ItemModel.cpp" line="1121"/>
         <location filename="SearchField.cpp" line="71"/>
         <location filename="TemplateData.cpp" line="2605"/>
@@ -17501,7 +17503,7 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
         <translation>Skapare</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1450"/>
+        <location filename="DBFilterModel.cpp" line="1464"/>
         <location filename="ItemModel.cpp" line="1123"/>
         <location filename="SearchField.cpp" line="72"/>
         <location filename="TemplateData.cpp" line="2606"/>
@@ -17509,68 +17511,68 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
         <translation>Modell</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1454"/>
+        <location filename="DBFilterModel.cpp" line="1468"/>
         <source>Lens</source>
         <translation type="unfinished">Lins</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1462"/>
+        <location filename="DBFilterModel.cpp" line="1476"/>
         <location filename="ItemModel.cpp" line="1125"/>
         <source>ISO</source>
         <translation>ISO</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1470"/>
+        <location filename="DBFilterModel.cpp" line="1484"/>
         <source>Shutter Speed</source>
         <translation type="unfinished">Slutarhastighet</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1482"/>
+        <location filename="DBFilterModel.cpp" line="1496"/>
         <source>Colour Space</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1563"/>
+        <location filename="DBFilterModel.cpp" line="1577"/>
         <source>Not Defined</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1565"/>
+        <location filename="DBFilterModel.cpp" line="1579"/>
         <source>Manual</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1567"/>
+        <location filename="DBFilterModel.cpp" line="1581"/>
         <source>Program AE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1569"/>
+        <location filename="DBFilterModel.cpp" line="1583"/>
         <source>Aperture-priority AE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1571"/>
+        <location filename="DBFilterModel.cpp" line="1585"/>
         <source>Shutter speed priority AE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1573"/>
+        <location filename="DBFilterModel.cpp" line="1587"/>
         <source>Creative</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1575"/>
+        <location filename="DBFilterModel.cpp" line="1589"/>
         <source>Action</source>
         <translation type="unfinished">Åtgärd</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1577"/>
+        <location filename="DBFilterModel.cpp" line="1591"/>
         <source>Portrait</source>
         <translation type="unfinished">Stående</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1579"/>
+        <location filename="DBFilterModel.cpp" line="1593"/>
         <source>Landscape</source>
         <translation type="unfinished">Liggande</translation>
     </message>
@@ -17585,7 +17587,7 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
         <translation>Exponeringstid</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1458"/>
+        <location filename="DBFilterModel.cpp" line="1472"/>
         <location filename="ItemModel.cpp" line="1131"/>
         <source>Focal Length</source>
         <translation>Brännvidd</translation>
@@ -17627,7 +17629,7 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
         <translation>Användarkommentar</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1466"/>
+        <location filename="DBFilterModel.cpp" line="1480"/>
         <location filename="ItemModel.cpp" line="1135"/>
         <location filename="SearchField.cpp" line="81"/>
         <location filename="TemplateData.cpp" line="2639"/>
@@ -17651,7 +17653,7 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
         <translation>Ändrad datum/tid</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1438"/>
+        <location filename="DBFilterModel.cpp" line="1452"/>
         <location filename="TemplateData.cpp" line="2610"/>
         <source>Orientation</source>
         <translation>Orientering</translation>
@@ -17740,7 +17742,7 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
         <translation>Exponeringstid (s)</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1474"/>
+        <location filename="DBFilterModel.cpp" line="1488"/>
         <location filename="TemplateData.cpp" line="2635"/>
         <source>Exposure Program</source>
         <translation>Exponeringsprogram</translation>
@@ -18034,6 +18036,24 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
         <location filename="TemplateData.cpp" line="2701"/>
         <source>Location Code</source>
         <translation>Platskod</translation>
+    </message>
+</context>
+<context>
+    <name>InfoFavoritesView</name>
+    <message>
+        <location filename="InfoFavoritesView.cpp" line="19"/>
+        <source>Tag</source>
+        <translation type="unfinished">Tagg</translation>
+    </message>
+    <message>
+        <location filename="InfoFavoritesView.cpp" line="19"/>
+        <source>Value</source>
+        <translation type="unfinished">Värde</translation>
+    </message>
+    <message>
+        <location filename="InfoFavoritesView.cpp" line="45"/>
+        <source>Remove from Favorites panel</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18792,6 +18812,11 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
         <location filename="InfoPanel.cpp" line="85"/>
         <source>Copy all items</source>
         <translation>Kopiera alla objekt</translation>
+    </message>
+    <message>
+        <location filename="InfoPanel.cpp" line="91"/>
+        <source>Add to Favorites panel</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -22915,27 +22940,27 @@ Du kan ändra det i &quot;Inställningar › Katalog&quot;.</translation>
 <context>
     <name>Panel</name>
     <message>
-        <location filename="PreviewInfo.cpp" line="299"/>
+        <location filename="PreviewInfo.cpp" line="286"/>
         <source>Properties</source>
         <translation>Egenskaper</translation>
     </message>
     <message>
-        <location filename="PreviewInfo.cpp" line="332"/>
+        <location filename="PreviewInfo.cpp" line="320"/>
         <source>Histogram</source>
         <translation>Histogram</translation>
     </message>
     <message>
-        <location filename="PreviewInfo.cpp" line="256"/>
+        <location filename="PreviewInfo.cpp" line="243"/>
         <source>Preview</source>
         <translation>Förhandsvisning</translation>
     </message>
     <message>
-        <location filename="PreviewInfo.cpp" line="482"/>
+        <location filename="PreviewInfo.cpp" line="525"/>
         <source>Map</source>
         <translation>Karta</translation>
     </message>
     <message>
-        <location filename="PreviewInfo.cpp" line="560"/>
+        <location filename="PreviewInfo.cpp" line="603"/>
         <source>Categories</source>
         <translation>Kategorier</translation>
     </message>
@@ -22951,7 +22976,7 @@ Du kan ändra det i &quot;Inställningar › Katalog&quot;.</translation>
 <context>
     <name>PreviewInfo</name>
     <message>
-        <location filename="PreviewInfo.cpp" line="720"/>
+        <location filename="PreviewInfo.cpp" line="773"/>
         <source>Preview</source>
         <translation>Förhandsvisning</translation>
     </message>
