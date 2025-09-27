@@ -18140,7 +18140,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoFavoritesView.cpp" line="19"/>
         <source>Tag</source>
-        <translation>Метка</translation>
+        <translation>Тег</translation>
     </message>
     <message>
         <location filename="InfoFavoritesView.cpp" line="19"/>
@@ -18890,7 +18890,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPanel.cpp" line="35"/>
         <source>Tag</source>
-        <translation>Метка</translation>
+        <translation>Тег</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="35"/>
