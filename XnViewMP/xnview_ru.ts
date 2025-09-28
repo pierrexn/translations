@@ -4294,7 +4294,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertBlurredFrame.ui" line="96"/>
         <source>Margin</source>
-        <translation type="unfinished">Смещение</translation>
+        <translation>Отступ</translation>
     </message>
     <message>
         <location filename="DlgConvertBlurredFrame.ui" line="141"/>
@@ -6169,7 +6169,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertQRcode.ui" line="216"/>
         <source>Border</source>
-        <translation>Обрамление</translation>
+        <translation>Рамка</translation>
     </message>
 </context>
 <context>
@@ -13831,7 +13831,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="375"/>
         <source>Margin</source>
-        <translation>Смещение</translation>
+        <translation>Отступ</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="397"/>
@@ -19818,7 +19818,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="321"/>
         <source>Map</source>
-        <translation type="unfinished">Карта</translation>
+        <translation>Карта</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="417"/>
