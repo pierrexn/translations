@@ -3359,7 +3359,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Margin</source>
-        <translation type="unfinished">Margine</translation>
+        <translation>Margine</translation>
     </message>
 </context>
 <context>
@@ -15833,7 +15833,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Map</source>
-        <translation type="unfinished">Hartă</translation>
+        <translation>Hartă</translation>
     </message>
 </context>
 <context>
