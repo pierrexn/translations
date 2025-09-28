@@ -227,27 +227,27 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="241"/>
+        <location filename="AboutWidget.cpp" line="242"/>
         <source>Format</source>
         <translation>Dosta türü</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="241"/>
+        <location filename="AboutWidget.cpp" line="242"/>
         <source>Read</source>
         <translation>Okuma</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="241"/>
+        <location filename="AboutWidget.cpp" line="242"/>
         <source>Write</source>
         <translation>Yazma</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="241"/>
+        <location filename="AboutWidget.cpp" line="242"/>
         <source>Extension</source>
         <translation>Uzantı</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="284"/>
+        <location filename="AboutWidget.cpp" line="285"/>
         <source>Formats in reading: %1 | Formats in writing: %2</source>
         <translation>Okunabilen dosya türleri: %1 | Yazılabilen dosya türleri: %2</translation>
     </message>
@@ -875,112 +875,112 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
 <context>
     <name>CategoryView</name>
     <message>
-        <location filename="CategoryView.cpp" line="563"/>
-        <location filename="CategoryView.cpp" line="658"/>
+        <location filename="CategoryView.cpp" line="564"/>
+        <location filename="CategoryView.cpp" line="659"/>
         <source>New category</source>
         <translation>Yeni Kategori</translation>
-    </message>
-    <message>
-        <location filename="CategoryView.cpp" line="490"/>
-        <location filename="CategoryView.cpp" line="565"/>
-        <location filename="CategoryView.cpp" line="660"/>
-        <source>Rename</source>
-        <translation>Yeniden Adlandır</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="491"/>
         <location filename="CategoryView.cpp" line="566"/>
         <location filename="CategoryView.cpp" line="661"/>
+        <source>Rename</source>
+        <translation>Yeniden Adlandır</translation>
+    </message>
+    <message>
+        <location filename="CategoryView.cpp" line="492"/>
+        <location filename="CategoryView.cpp" line="567"/>
+        <location filename="CategoryView.cpp" line="662"/>
         <source>Delete</source>
         <translation>Sil</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="383"/>
-        <location filename="CategoryView.cpp" line="617"/>
-        <location filename="CategoryView.cpp" line="682"/>
+        <location filename="CategoryView.cpp" line="384"/>
+        <location filename="CategoryView.cpp" line="618"/>
+        <location filename="CategoryView.cpp" line="683"/>
         <source>Delete category</source>
         <translation>Kategori Sil</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="383"/>
-        <location filename="CategoryView.cpp" line="617"/>
-        <location filename="CategoryView.cpp" line="682"/>
+        <location filename="CategoryView.cpp" line="384"/>
+        <location filename="CategoryView.cpp" line="618"/>
+        <location filename="CategoryView.cpp" line="683"/>
         <source>Are you sure to delete this category?</source>
         <translation>Bu kategoriyi silmek istiyor musunuz?</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="444"/>
+        <location filename="CategoryView.cpp" line="445"/>
         <source>EXIF: Date taken</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="446"/>
+        <location filename="CategoryView.cpp" line="447"/>
         <source>EXIF: Date modified</source>
         <translation type="unfinished">EXIF: Değiştirilme Tarihi</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="448"/>
+        <location filename="CategoryView.cpp" line="449"/>
         <source>File: Date modified</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="486"/>
+        <location filename="CategoryView.cpp" line="487"/>
         <source>New album</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="493"/>
+        <location filename="CategoryView.cpp" line="494"/>
         <source>Empty</source>
         <translation>Boş</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="495"/>
+        <location filename="CategoryView.cpp" line="496"/>
         <source>Export (Bridge format)...</source>
         <translation>Dışa Aktar (Köprü biçimi)...</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="498"/>
+        <location filename="CategoryView.cpp" line="499"/>
         <source>Import (Bridge format)...</source>
         <translation>İçeri Aktar (Köprü biçimi)...</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="523"/>
+        <location filename="CategoryView.cpp" line="524"/>
         <source>Delete album</source>
         <translation>Albümü sil</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="523"/>
+        <location filename="CategoryView.cpp" line="524"/>
         <source>Are you sure to delete this album?</source>
         <translation>Bu albümü sileceğinden emin misiniz?</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="529"/>
+        <location filename="CategoryView.cpp" line="530"/>
         <source>New Album</source>
         <translation>Yeni Albüm</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="541"/>
+        <location filename="CategoryView.cpp" line="542"/>
         <source>Empty album</source>
         <translation>Boş albüm</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="541"/>
+        <location filename="CategoryView.cpp" line="542"/>
         <source>Are you sure to clear this album?</source>
         <translation>Bu albümü temize çıkarmak için emin misiniz?</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="548"/>
+        <location filename="CategoryView.cpp" line="549"/>
         <source>Import collection</source>
         <translation>Koleksiyonu içeri aktar</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="554"/>
+        <location filename="CategoryView.cpp" line="555"/>
         <source>Export collection</source>
         <translation>Koleksiyonu dışarı aktar</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="630"/>
-        <location filename="CategoryView.cpp" line="694"/>
+        <location filename="CategoryView.cpp" line="631"/>
+        <location filename="CategoryView.cpp" line="695"/>
         <source>New Category</source>
         <translation>Yeni Kategori</translation>
     </message>
@@ -1260,7 +1260,7 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
         <translation>Eğriler</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4733"/>
+        <location filename="DlgConvertProcess.h" line="4738"/>
         <location filename="DlgWhiteBalance.h" line="68"/>
         <source>White Balance</source>
         <translation>Beyaz Dengesi</translation>
@@ -1327,98 +1327,98 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
         <translation>Bulanık çerçeve</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3541"/>
+        <location filename="DlgConvertProcess.h" line="3546"/>
         <source>Inner Frame</source>
         <translation>İç Çerçeve</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3895"/>
+        <location filename="DlgConvertProcess.h" line="3900"/>
         <source>JPEG Lossless rotation</source>
         <translation>JPEG Kayıpsız Çevirme</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4306"/>
+        <location filename="DlgConvertProcess.h" line="4311"/>
         <source>Retro</source>
         <translation>Retro</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4535"/>
+        <location filename="DlgConvertProcess.h" line="4540"/>
         <source>Film Simulation</source>
         <translation>Film Simülasyonu</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4575"/>
+        <location filename="DlgConvertProcess.h" line="4580"/>
         <source>Bloom</source>
         <translation>Çiçeklenme</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4599"/>
+        <location filename="DlgConvertProcess.h" line="4604"/>
         <source>Unsharp Mask</source>
         <translation>Keslinliği Azaltma Maskesi</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4631"/>
+        <location filename="DlgConvertProcess.h" line="4636"/>
         <source>Clear transparent pixels</source>
         <translation>Saydam pikselleri temizleme</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4645"/>
+        <location filename="DlgConvertProcess.h" line="4650"/>
         <source>Remove alpha channel</source>
         <translation type="unfinished">Alfa kanalını kaldırma</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4659"/>
+        <location filename="DlgConvertProcess.h" line="4664"/>
         <location filename="DlgOffset.h" line="108"/>
         <source>Offset</source>
         <translation>Ofset</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4685"/>
+        <location filename="DlgConvertProcess.h" line="4690"/>
         <source>Symmetry</source>
         <translation>Simetri</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4706"/>
+        <location filename="DlgConvertProcess.h" line="4711"/>
         <source>Saturation</source>
         <translation>Doygunluk (Saturation)</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4749"/>
+        <location filename="DlgConvertProcess.h" line="4754"/>
         <source>Mono Mixer</source>
         <translation>Tek Karıştırıcı</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4774"/>
+        <location filename="DlgConvertProcess.h" line="4779"/>
         <source>Fantasy</source>
         <translation>Fantezi</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4794"/>
+        <location filename="DlgConvertProcess.h" line="4799"/>
         <source>Crystallize</source>
         <translation>Kristalize</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4812"/>
+        <location filename="DlgConvertProcess.h" line="4817"/>
         <source>Temperature</source>
         <translation>Sıcaklık</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4829"/>
+        <location filename="DlgConvertProcess.h" line="4834"/>
         <source>Photo Spread</source>
         <translation>Resim Dağıtma</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4856"/>
+        <location filename="DlgConvertProcess.h" line="4861"/>
         <source>Frequency</source>
         <translation>Frekans</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4861"/>
+        <location filename="DlgConvertProcess.h" line="4866"/>
         <source>Halftone</source>
         <translation>Yarım Ton</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4995"/>
+        <location filename="DlgConvertProcess.h" line="5000"/>
         <source>QR Code</source>
         <translation>QR Kod</translation>
     </message>
@@ -1496,24 +1496,24 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
         <translation>ICC Dönüştürme</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3347"/>
+        <location filename="DlgConvertProcess.h" line="3352"/>
         <source>Border</source>
         <translation>Kenarlık</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3587"/>
+        <location filename="DlgConvertProcess.h" line="3592"/>
         <location filename="DlgOldCamera.h" line="86"/>
         <source>Old camera</source>
         <translation>Eski Kamera</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3608"/>
+        <location filename="DlgConvertProcess.h" line="3613"/>
         <location filename="DlgVignetting.h" line="94"/>
         <source>Vignetting</source>
         <translation>Süs Çiz (Vignetting)</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3787"/>
+        <location filename="DlgConvertProcess.h" line="3792"/>
         <source>Add mask</source>
         <translation>Maske Ekle</translation>
     </message>
@@ -2014,7 +2014,7 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="155"/>
-        <location filename="DBFilterModel.cpp" line="1064"/>
+        <location filename="DBFilterModel.cpp" line="1068"/>
         <source>Date</source>
         <translation type="unfinished">Tarih</translation>
     </message>
@@ -2029,34 +2029,34 @@ Açılır pencere menülerin farklı öğrelerinin eylemleri için Sağ Tıklay�
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="927"/>
-        <location filename="DBFilterModel.cpp" line="1217"/>
-        <location filename="DBFilterModel.cpp" line="1526"/>
-        <location filename="DBFilterModel.cpp" line="1533"/>
-        <location filename="DBFilterModel.cpp" line="1538"/>
-        <location filename="DBFilterModel.cpp" line="1543"/>
-        <location filename="DBFilterModel.cpp" line="1560"/>
-        <location filename="DBFilterModel.cpp" line="1575"/>
+        <location filename="DBFilterModel.cpp" line="931"/>
+        <location filename="DBFilterModel.cpp" line="1221"/>
+        <location filename="DBFilterModel.cpp" line="1530"/>
+        <location filename="DBFilterModel.cpp" line="1537"/>
+        <location filename="DBFilterModel.cpp" line="1542"/>
+        <location filename="DBFilterModel.cpp" line="1547"/>
+        <location filename="DBFilterModel.cpp" line="1564"/>
+        <location filename="DBFilterModel.cpp" line="1579"/>
         <source>Unknown</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1565"/>
+        <location filename="DBFilterModel.cpp" line="1569"/>
         <source>Landscape</source>
         <translation type="unfinished">Peyzaj</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1567"/>
+        <location filename="DBFilterModel.cpp" line="1571"/>
         <source>Portrait</source>
         <translation type="unfinished">Portre</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1640"/>
+        <location filename="DBFilterModel.cpp" line="1644"/>
         <source>Panoramic</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1666"/>
+        <location filename="DBFilterModel.cpp" line="1670"/>
         <source>No Color Profile</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4231,6 +4231,11 @@ Devam etmek istiyor musun?</translation>
     </message>
     <message>
         <location filename="DlgConvertBlurredFrame.ui" line="96"/>
+        <source>Margin</source>
+        <translation type="unfinished">Boşluk</translation>
+    </message>
+    <message>
+        <location filename="DlgConvertBlurredFrame.ui" line="141"/>
         <source>Blur</source>
         <translation>Bulanıklık</translation>
     </message>
@@ -16895,12 +16900,12 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <translation>Oran</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1456"/>
+        <location filename="DBFilterModel.cpp" line="1460"/>
         <source>Aspect Ratio</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1492"/>
+        <location filename="DBFilterModel.cpp" line="1496"/>
         <source>File type</source>
         <translation type="unfinished">Dosya Türü</translation>
     </message>
@@ -17414,7 +17419,7 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
 <context>
     <name>InfoExif</name>
     <message>
-        <location filename="DBFilterModel.cpp" line="1460"/>
+        <location filename="DBFilterModel.cpp" line="1464"/>
         <location filename="ItemModel.cpp" line="1121"/>
         <location filename="SearchField.cpp" line="71"/>
         <location filename="TemplateData.cpp" line="2605"/>
@@ -17422,7 +17427,7 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <translation>Yapımcı</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1464"/>
+        <location filename="DBFilterModel.cpp" line="1468"/>
         <location filename="ItemModel.cpp" line="1123"/>
         <location filename="SearchField.cpp" line="72"/>
         <location filename="TemplateData.cpp" line="2606"/>
@@ -17430,68 +17435,68 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <translation>Model</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1468"/>
+        <location filename="DBFilterModel.cpp" line="1472"/>
         <source>Lens</source>
         <translation type="unfinished">Lens</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1476"/>
+        <location filename="DBFilterModel.cpp" line="1480"/>
         <location filename="ItemModel.cpp" line="1125"/>
         <source>ISO</source>
         <translation>ISO</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1484"/>
+        <location filename="DBFilterModel.cpp" line="1488"/>
         <source>Shutter Speed</source>
         <translation type="unfinished">Poz Süresi</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1496"/>
+        <location filename="DBFilterModel.cpp" line="1500"/>
         <source>Colour Space</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1577"/>
+        <location filename="DBFilterModel.cpp" line="1581"/>
         <source>Not Defined</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1579"/>
+        <location filename="DBFilterModel.cpp" line="1583"/>
         <source>Manual</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1581"/>
+        <location filename="DBFilterModel.cpp" line="1585"/>
         <source>Program AE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1583"/>
+        <location filename="DBFilterModel.cpp" line="1587"/>
         <source>Aperture-priority AE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1585"/>
+        <location filename="DBFilterModel.cpp" line="1589"/>
         <source>Shutter speed priority AE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1587"/>
+        <location filename="DBFilterModel.cpp" line="1591"/>
         <source>Creative</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1589"/>
+        <location filename="DBFilterModel.cpp" line="1593"/>
         <source>Action</source>
         <translation type="unfinished">Görev</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1591"/>
+        <location filename="DBFilterModel.cpp" line="1595"/>
         <source>Portrait</source>
         <translation type="unfinished">Portre</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1593"/>
+        <location filename="DBFilterModel.cpp" line="1597"/>
         <source>Landscape</source>
         <translation type="unfinished">Peyzaj</translation>
     </message>
@@ -17506,7 +17511,7 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1472"/>
+        <location filename="DBFilterModel.cpp" line="1476"/>
         <location filename="ItemModel.cpp" line="1131"/>
         <source>Focal Length</source>
         <translation>Odak boyutu</translation>
@@ -17548,7 +17553,7 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <translation>Kullanıcı Yorumu</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1480"/>
+        <location filename="DBFilterModel.cpp" line="1484"/>
         <location filename="ItemModel.cpp" line="1135"/>
         <location filename="SearchField.cpp" line="81"/>
         <location filename="TemplateData.cpp" line="2639"/>
@@ -17572,7 +17577,7 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <translation>Değiştirilen Tarih/Zaman</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1452"/>
+        <location filename="DBFilterModel.cpp" line="1456"/>
         <location filename="TemplateData.cpp" line="2610"/>
         <source>Orientation</source>
         <translation>Yönelim</translation>
@@ -17661,7 +17666,7 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <translation>Poz Zamanı (s)</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1488"/>
+        <location filename="DBFilterModel.cpp" line="1492"/>
         <location filename="TemplateData.cpp" line="2635"/>
         <source>Exposure Program</source>
         <translation>Poz Programı</translation>
@@ -19507,165 +19512,170 @@ Devam etmek istiyor musunuz?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="450"/>
+        <location filename="BrowserMenu.h" line="321"/>
+        <source>Map</source>
+        <translation type="unfinished">Harita</translation>
+    </message>
+    <message>
+        <location filename="BrowserMenu.h" line="451"/>
         <source>Navigate to</source>
         <translation>Şuraya gidin</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="467"/>
         <location filename="BrowserMenu.h" line="468"/>
         <location filename="BrowserMenu.h" line="469"/>
         <location filename="BrowserMenu.h" line="470"/>
         <location filename="BrowserMenu.h" line="471"/>
         <location filename="BrowserMenu.h" line="472"/>
+        <location filename="BrowserMenu.h" line="473"/>
         <source>##rating## (go to next image)</source>
         <oldsource>Excellent (go to next image)</oldsource>
         <translation>##rating## (sonraki resme geç)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="485"/>
+        <location filename="BrowserMenu.h" line="486"/>
         <source>##label## (go to next image)</source>
         <translation>##label## (sonraki resme geç)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="504"/>
+        <location filename="BrowserMenu.h" line="505"/>
         <source>Set Rating</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="505"/>
+        <location filename="BrowserMenu.h" line="506"/>
         <source>Set Color label</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="506"/>
+        <location filename="BrowserMenu.h" line="507"/>
         <source>Set Category</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="533"/>
+        <location filename="BrowserMenu.h" line="534"/>
         <source>Show files in subfolders</source>
         <translation>Alt klasörlerdeki dosyaları göster</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="538"/>
+        <location filename="BrowserMenu.h" line="539"/>
         <source>Open in file manager</source>
         <translation type="unfinished">Dosya Gezgininde Aç</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="556"/>
+        <location filename="BrowserMenu.h" line="557"/>
         <source>Info panels</source>
         <translation>Bilgi panelleri</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="559"/>
+        <location filename="BrowserMenu.h" line="560"/>
         <source>Rotate 90° right</source>
         <translation>90° sağa döndürün</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="560"/>
+        <location filename="BrowserMenu.h" line="561"/>
         <source>Rotate 90° left</source>
         <translation type="unfinished">90° sola döndürün</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="563"/>
+        <location filename="BrowserMenu.h" line="564"/>
         <source>Rotate 90° right (lossless)</source>
         <translation>90° sağa döndür (kayıpsız)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="564"/>
+        <location filename="BrowserMenu.h" line="565"/>
         <source>Rotate 90° left (lossless)</source>
         <translation>90° sola döndür (kayıpsız)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="565"/>
+        <location filename="BrowserMenu.h" line="566"/>
         <source>Rotate 180° (lossless)</source>
         <translation>180° döndürme (kayıpsız)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="568"/>
+        <location filename="BrowserMenu.h" line="569"/>
         <source>Flip horizontally (lossless)</source>
         <translation>Yatay çevirme (kayıpsız)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="569"/>
+        <location filename="BrowserMenu.h" line="570"/>
         <source>Flip vertically (lossless)</source>
         <translation>Dikey olarak çevirin (kayıpsız)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="578"/>
+        <location filename="BrowserMenu.h" line="579"/>
         <source>Open GPS location in</source>
         <translation>GPS konumunu şurada açın</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="585"/>
+        <location filename="BrowserMenu.h" line="586"/>
         <source>Edit GPS...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="588"/>
+        <location filename="BrowserMenu.h" line="589"/>
         <source>EXIF thumbnail - Rotate 90° left</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="589"/>
+        <location filename="BrowserMenu.h" line="590"/>
         <source>EXIF thumbnail - Rotate 90° right</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="591"/>
+        <location filename="BrowserMenu.h" line="592"/>
         <source>Edit metadata...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="593"/>
+        <location filename="BrowserMenu.h" line="594"/>
         <source>EXIF Thumbnail</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="615"/>
+        <location filename="BrowserMenu.h" line="616"/>
         <source>Video thumbnails gallery...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="638"/>
+        <location filename="BrowserMenu.h" line="639"/>
         <source>Show channel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="646"/>
+        <location filename="BrowserMenu.h" line="647"/>
         <source>Clear &amp;&amp; Import...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="647"/>
+        <location filename="BrowserMenu.h" line="648"/>
         <source>Catalog</source>
         <translation type="unfinished">Katalog</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="651"/>
+        <location filename="BrowserMenu.h" line="652"/>
         <source>Switch panel</source>
         <oldsource>Switch panel...</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="652"/>
+        <location filename="BrowserMenu.h" line="653"/>
         <source>Path focus</source>
         <oldsource>Path focus...</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="653"/>
+        <location filename="BrowserMenu.h" line="654"/>
         <source>Filter by All</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="659"/>
+        <location filename="BrowserMenu.h" line="660"/>
         <source>Paste as image</source>
         <translation>Resim olarak yapıştır</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="663"/>
+        <location filename="BrowserMenu.h" line="664"/>
         <source>Acquire (TWAIN)</source>
         <translation>Edin (TWAIN)</translation>
     </message>
@@ -19692,7 +19702,7 @@ Devam etmek istiyor musunuz?</translation>
     <message>
         <location filename="CompareWidget.cpp" line="467"/>
         <location filename="BrowserMenu.h" line="110"/>
-        <location filename="BrowserMenu.h" line="483"/>
+        <location filename="BrowserMenu.h" line="484"/>
         <source>Uncolored</source>
         <translation>Renksiz</translation>
     </message>
@@ -19708,130 +19718,130 @@ Devam etmek istiyor musunuz?</translation>
         <translation>Kategori Setleri</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="555"/>
+        <location filename="BrowserMenu.h" line="556"/>
         <source>Panels</source>
         <translation>Paneller</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="421"/>
+        <location filename="BrowserMenu.h" line="422"/>
         <source>Image</source>
         <translation>Resim</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="530"/>
+        <location filename="BrowserMenu.h" line="531"/>
         <source>Update catalog from files</source>
         <translation>Katalogu dosyalardan güncelle</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="531"/>
+        <location filename="BrowserMenu.h" line="532"/>
         <source>Update files from catalog</source>
         <translation>Dosyaları katalogdan güncelle</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="561"/>
+        <location filename="BrowserMenu.h" line="562"/>
         <source>Rotate 180°</source>
         <translation>180° Döndür</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="580"/>
+        <location filename="BrowserMenu.h" line="581"/>
         <source>Find similar files...</source>
         <translation>Benzer dosyaları bul...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="581"/>
+        <location filename="BrowserMenu.h" line="582"/>
         <source>Edit comment...</source>
         <translation>Yorumu düzenle...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="583"/>
+        <location filename="BrowserMenu.h" line="584"/>
         <source>Edit IPTC...</source>
         <translation>IPTC&apos;yi Düzenle...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="584"/>
+        <location filename="BrowserMenu.h" line="585"/>
         <source>Edit XMP...</source>
         <translation>XMP&apos;yi Düzenle...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="607"/>
+        <location filename="BrowserMenu.h" line="608"/>
         <source>Import and sort...</source>
         <translation>Al ve Sırala...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="608"/>
+        <location filename="BrowserMenu.h" line="609"/>
         <source>Multi-page file...</source>
         <translation>Çoklu Sayfa Dosyası...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="609"/>
+        <location filename="BrowserMenu.h" line="610"/>
         <source>Join images...</source>
         <translation>Resimleri birleştir...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="610"/>
+        <location filename="BrowserMenu.h" line="611"/>
         <source>Contact sheet...</source>
         <translation>İletişim formu...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="611"/>
+        <location filename="BrowserMenu.h" line="612"/>
         <source>Slideshow...</source>
         <translation>Slayt gösterisi...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="612"/>
+        <location filename="BrowserMenu.h" line="613"/>
         <source>Split image(s)...</source>
         <oldsource>Split...</oldsource>
         <translation>Resim(ler)i böl...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="613"/>
+        <location filename="BrowserMenu.h" line="614"/>
         <source>Banner...</source>
         <translation>Afiş...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="614"/>
+        <location filename="BrowserMenu.h" line="615"/>
         <source>New image...</source>
         <translation>Yeni resim...</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="19"/>
         <location filename="DlgSettingsView.cpp" line="268"/>
-        <location filename="BrowserMenu.h" line="630"/>
+        <location filename="BrowserMenu.h" line="631"/>
         <source>No fit</source>
         <translation>Sığdırma</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="20"/>
         <location filename="DlgSettingsView.cpp" line="269"/>
-        <location filename="BrowserMenu.h" line="631"/>
+        <location filename="BrowserMenu.h" line="632"/>
         <source>Fit image to window</source>
         <translation>Resmi pencereye sığdır</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="22"/>
         <location filename="DlgSettingsView.cpp" line="271"/>
-        <location filename="BrowserMenu.h" line="632"/>
+        <location filename="BrowserMenu.h" line="633"/>
         <source>Fit image to window, large only</source>
         <translation>Resim pencereden büyükse, pencereye sığdır</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="23"/>
         <location filename="DlgSettingsView.cpp" line="272"/>
-        <location filename="BrowserMenu.h" line="634"/>
+        <location filename="BrowserMenu.h" line="635"/>
         <source>Fit image to window width</source>
         <translation>Resmi pencere genişliğine gığdır</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="24"/>
         <location filename="DlgSettingsView.cpp" line="273"/>
-        <location filename="BrowserMenu.h" line="635"/>
+        <location filename="BrowserMenu.h" line="636"/>
         <source>Fit image to window height</source>
         <translation>Resmi pencere yüksekliğine sığdır</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="25"/>
         <location filename="DlgSettingsView.cpp" line="274"/>
-        <location filename="BrowserMenu.h" line="636"/>
+        <location filename="BrowserMenu.h" line="637"/>
         <source>Fit image to window width or height</source>
         <translation>Resmi pencere yüksekliği veya genişliğine sığdır</translation>
     </message>
@@ -19846,7 +19856,7 @@ Devam etmek istiyor musunuz?</translation>
         <translation>Şablon D yi Kaydet</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="524"/>
+        <location filename="BrowserMenu.h" line="525"/>
         <source>Filelist toolbar</source>
         <translation>Dosya Listesi Araç Çubuğu</translation>
     </message>
@@ -19924,6 +19934,7 @@ Devam etmek istiyor musunuz?</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="300"/>
+        <location filename="BrowserMenu.h" line="322"/>
         <source>Favorites</source>
         <translation>Favoriler</translation>
     </message>
@@ -19940,8 +19951,8 @@ Devam etmek istiyor musunuz?</translation>
     <message>
         <location filename="BrowserMenu.h" line="305"/>
         <location filename="BrowserMenu.h" line="315"/>
-        <location filename="BrowserMenu.h" line="550"/>
-        <location filename="BrowserMenu.h" line="640"/>
+        <location filename="BrowserMenu.h" line="551"/>
+        <location filename="BrowserMenu.h" line="641"/>
         <source>Preview</source>
         <translation>Önizleme</translation>
     </message>
@@ -19983,646 +19994,646 @@ Devam etmek istiyor musunuz?</translation>
         <translation>Kötü</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="411"/>
+        <location filename="BrowserMenu.h" line="412"/>
         <source>Open with</source>
         <oldsource>Open with test</oldsource>
         <translation type="unfinished">Birlikte Aç</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="412"/>
+        <location filename="BrowserMenu.h" line="413"/>
         <source>Recent files</source>
         <translation>Eski Dosyalar</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="415"/>
+        <location filename="BrowserMenu.h" line="416"/>
         <source>Open...</source>
         <translation>Aç...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="416"/>
+        <location filename="BrowserMenu.h" line="417"/>
         <source>Open file list...</source>
         <translation>Dosya Listesi Aç...</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4075"/>
-        <location filename="BrowserMenu.h" line="418"/>
+        <location filename="BrowserMenu.h" line="419"/>
         <source>Cut</source>
         <translation>Kes</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4077"/>
-        <location filename="BrowserMenu.h" line="420"/>
+        <location filename="BrowserMenu.h" line="421"/>
         <source>Copy</source>
         <translation>Kopyala</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="422"/>
+        <location filename="BrowserMenu.h" line="423"/>
         <source>Selected path(s)</source>
         <translation>Seçili Yol(lar)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="423"/>
+        <location filename="BrowserMenu.h" line="424"/>
         <source>Selected filename(s)</source>
         <translation>Seçili Dosya Ad(lar)ı</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="424"/>
+        <location filename="BrowserMenu.h" line="425"/>
         <source>Selected filename(s) and path(s)</source>
         <translation>Seçili Dosya Ad(lar)ı ve Yol(lar)</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4079"/>
-        <location filename="BrowserMenu.h" line="425"/>
+        <location filename="BrowserMenu.h" line="426"/>
         <source>Paste</source>
         <translation>Yapıştır</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="428"/>
+        <location filename="BrowserMenu.h" line="429"/>
         <source>Select all</source>
         <translation>Hepsini Seç</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="429"/>
+        <location filename="BrowserMenu.h" line="430"/>
         <source>Select none</source>
         <translation>Hiçbirini Seçme</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="430"/>
+        <location filename="BrowserMenu.h" line="431"/>
         <source>Invert selection</source>
         <translation>Seçimi Ters Çevir</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="431"/>
+        <location filename="BrowserMenu.h" line="432"/>
         <source>Select all images</source>
         <translation>Bütün Resimleri Seç</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="432"/>
+        <location filename="BrowserMenu.h" line="433"/>
         <source>Select all files</source>
         <translation>Tüm dosyaları seç</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="433"/>
+        <location filename="BrowserMenu.h" line="434"/>
         <source>Select tagged files</source>
         <translation>Etiketlenen Dosyaları Seç</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4087"/>
-        <location filename="BrowserMenu.h" line="435"/>
+        <location filename="BrowserMenu.h" line="436"/>
         <source>Copy to...</source>
         <translation>Kopyala...</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4089"/>
-        <location filename="BrowserMenu.h" line="436"/>
+        <location filename="BrowserMenu.h" line="437"/>
         <source>Move to...</source>
         <translation>Taşı...</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4082"/>
-        <location filename="BrowserMenu.h" line="437"/>
+        <location filename="BrowserMenu.h" line="438"/>
         <source>Delete</source>
         <translation>Sil</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="438"/>
+        <location filename="BrowserMenu.h" line="439"/>
         <source>Rename...</source>
         <translation>Yeniden Adlandır...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="439"/>
+        <location filename="BrowserMenu.h" line="440"/>
         <source>New folder</source>
         <translation>Yeni Klasör</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="441"/>
+        <location filename="BrowserMenu.h" line="442"/>
         <source>Previous file</source>
         <translation>Önceki Dosya</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="442"/>
+        <location filename="BrowserMenu.h" line="443"/>
         <source>Next file</source>
         <translation>Sonraki Dosya</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="443"/>
+        <location filename="BrowserMenu.h" line="444"/>
         <source>First file</source>
         <translation>İlk Dosya</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="444"/>
+        <location filename="BrowserMenu.h" line="445"/>
         <source>Last file</source>
         <translation>Son Dosya</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="445"/>
+        <location filename="BrowserMenu.h" line="446"/>
         <source>Previous page</source>
         <translation>Önceki Sayfa</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="446"/>
+        <location filename="BrowserMenu.h" line="447"/>
         <source>Next page</source>
         <translation>Sonraki Sayfa</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="447"/>
+        <location filename="BrowserMenu.h" line="448"/>
         <source>First page</source>
         <translation>İlk Sayfa</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="448"/>
+        <location filename="BrowserMenu.h" line="449"/>
         <source>Last page</source>
         <translation>Son Sayfa</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="449"/>
+        <location filename="BrowserMenu.h" line="450"/>
         <source>Page</source>
         <translation>Sayfa</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="452"/>
+        <location filename="BrowserMenu.h" line="453"/>
         <source>Show header</source>
         <translation>Başlığı Göster</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="443"/>
-        <location filename="BrowserMenu.h" line="453"/>
+        <location filename="BrowserMenu.h" line="454"/>
         <source>Tag/Untag current</source>
         <oldsource>Tag current</oldsource>
         <translation type="unfinished">Etiketle</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="454"/>
+        <location filename="BrowserMenu.h" line="455"/>
         <source>Invert</source>
         <translation>Ters Çevir</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="455"/>
+        <location filename="BrowserMenu.h" line="456"/>
         <source>Untag all</source>
         <translation>Bütün Etiketleri Kaldır</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="456"/>
+        <location filename="BrowserMenu.h" line="457"/>
         <source>Clear all tags</source>
         <translation>Bütün Etiketleri Temizle</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="457"/>
+        <location filename="BrowserMenu.h" line="458"/>
         <source>Show tagged files</source>
         <translation>Etiketlenen Dosyaları Göster</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="458"/>
+        <location filename="BrowserMenu.h" line="459"/>
         <source>Show tag box</source>
         <translation>Etiket Kutusunu Göster</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="498"/>
-        <location filename="BrowserMenu.h" line="641"/>
+        <location filename="BrowserMenu.h" line="499"/>
+        <location filename="BrowserMenu.h" line="642"/>
         <source>Layout</source>
         <translation>Şablon</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="499"/>
+        <location filename="BrowserMenu.h" line="500"/>
         <source>View as</source>
         <translation>Gösterim şekli</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="500"/>
+        <location filename="BrowserMenu.h" line="501"/>
         <source>Sort by</source>
         <translation>Sıralama</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="501"/>
+        <location filename="BrowserMenu.h" line="502"/>
         <source>Filter by</source>
         <translation>Filtreleme</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="502"/>
+        <location filename="BrowserMenu.h" line="503"/>
         <source>Thumbnails size</source>
         <translation>Küçük Resim Boyutu</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="503"/>
+        <location filename="BrowserMenu.h" line="504"/>
         <source>Tag</source>
         <translation>Etiket</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="507"/>
+        <location filename="BrowserMenu.h" line="508"/>
         <source>Remove from category</source>
         <translation>Kategoriden Kaldır</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="508"/>
+        <location filename="BrowserMenu.h" line="509"/>
         <source>Remove from all categories</source>
         <translation>Bütün Kategorilerden Kaldır</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="510"/>
+        <location filename="BrowserMenu.h" line="511"/>
         <source>View as Thumbnails</source>
         <oldsource>Views as Thumbnails</oldsource>
         <translation>Küçük Resim Olarak Görüntüle</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="511"/>
+        <location filename="BrowserMenu.h" line="512"/>
         <source>View as Thumbnails+Filename</source>
         <oldsource>Views as Thumbnails+Filename</oldsource>
         <translation>Küçük Resimler+Dosya Adı Olarak Görüntüle</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="512"/>
+        <location filename="BrowserMenu.h" line="513"/>
         <source>View as Thumbnails+Labels</source>
         <oldsource>Views as Thumbnails+Labels</oldsource>
         <translation>Küçük Resimler+Etiketler Olarak Görüntüle</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="513"/>
+        <location filename="BrowserMenu.h" line="514"/>
         <source>View as Thumbnails+Details</source>
         <oldsource>Views as Thumbnails+Details</oldsource>
         <translation>Küçük Resimler+Ayrıntılar Olarak Görüntüle</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="514"/>
+        <location filename="BrowserMenu.h" line="515"/>
         <source>View as Icons</source>
         <oldsource>Views as Icons</oldsource>
         <translation>Simge Olarak Görüntüle</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="515"/>
+        <location filename="BrowserMenu.h" line="516"/>
         <source>View as List</source>
         <oldsource>Views as List</oldsource>
         <translation>Liste Olarak Görüntüle</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="516"/>
+        <location filename="BrowserMenu.h" line="517"/>
         <source>View as Details</source>
         <oldsource>Views as Details</oldsource>
         <translation>Ayrıntılar olarak görüntüle</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="518"/>
+        <location filename="BrowserMenu.h" line="519"/>
         <source>Show hidden files</source>
         <translation>Gizli dosyaları göster</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="520"/>
+        <location filename="BrowserMenu.h" line="521"/>
         <source>Back</source>
         <translation>Geri</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="521"/>
+        <location filename="BrowserMenu.h" line="522"/>
         <source>Forward</source>
         <translation>İleri</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="522"/>
+        <location filename="BrowserMenu.h" line="523"/>
         <source>Up</source>
         <translation>Yukarı</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="525"/>
+        <location filename="BrowserMenu.h" line="526"/>
         <source>Toolbar</source>
         <translation>Araç Çubuğu</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="526"/>
+        <location filename="BrowserMenu.h" line="527"/>
         <source>Status bar</source>
         <translation>Durum Çubuğu</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="527"/>
+        <location filename="BrowserMenu.h" line="528"/>
         <source>Show title of panels</source>
         <translation>Panellerin başlığını göster</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="529"/>
+        <location filename="BrowserMenu.h" line="530"/>
         <source>Rebuild thumbnails</source>
         <translation>Küçük Resimleri Tekrar Oluştur</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="532"/>
+        <location filename="BrowserMenu.h" line="533"/>
         <source>Refresh</source>
         <translation>Yenile</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="534"/>
+        <location filename="BrowserMenu.h" line="535"/>
         <source>Stop</source>
         <translation>Dur</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="536"/>
+        <location filename="BrowserMenu.h" line="537"/>
         <source>Open</source>
         <translation>Aç</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="537"/>
+        <location filename="BrowserMenu.h" line="538"/>
         <source>Open containing folder</source>
         <translation>İçeren Klasörü Aç</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="539"/>
+        <location filename="BrowserMenu.h" line="540"/>
         <source>Open all selected</source>
         <oldsource>Open in Finder</oldsource>
         <translation>Seçili olanların tümünü aç</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="541"/>
+        <location filename="BrowserMenu.h" line="542"/>
         <source>Fullscreen</source>
         <translation>Tam Ekran</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="542"/>
+        <location filename="BrowserMenu.h" line="543"/>
         <source>Show</source>
         <translation>Göster</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="543"/>
+        <location filename="BrowserMenu.h" line="544"/>
         <source>Use tabs</source>
         <translation>Sekmeleri Kullan</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="544"/>
+        <location filename="BrowserMenu.h" line="545"/>
         <source>Preview as tab</source>
         <translation>Önizlemeyi sekme olarak göster</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="547"/>
+        <location filename="BrowserMenu.h" line="548"/>
         <source>Show source panels</source>
         <translation>Kaynak panellerini göster</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="549"/>
+        <location filename="BrowserMenu.h" line="550"/>
         <source>Vertical tabs</source>
         <translation>Dikey Sekmeler</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="552"/>
+        <location filename="BrowserMenu.h" line="553"/>
         <source>Add to favorites...</source>
         <translation>Favorilere ekle...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="554"/>
+        <location filename="BrowserMenu.h" line="555"/>
         <source>Thumbnails view only</source>
         <translation>Sadece Küçük Resim Görünümü</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="566"/>
+        <location filename="BrowserMenu.h" line="567"/>
         <source>Rotate based on EXIF orientation field</source>
         <translation>EXIF Yönelim Alanına Göre Döndür</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="567"/>
+        <location filename="BrowserMenu.h" line="568"/>
         <source>Reset EXIF orientation field</source>
         <translation>EXIF Yönelim Alanını Sıfırla</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="570"/>
+        <location filename="BrowserMenu.h" line="571"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
         <translation type="unfinished">JPEG Kayıpsız Döndürme</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="572"/>
+        <location filename="BrowserMenu.h" line="573"/>
         <source>Batch rename...</source>
         <translation>Çoklu Yeniden Adlandırma...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="573"/>
+        <location filename="BrowserMenu.h" line="574"/>
         <source>Compare...</source>
         <translation>Karşılaştır...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="579"/>
+        <location filename="BrowserMenu.h" line="580"/>
         <source>Search...</source>
         <translation>Ara...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="582"/>
+        <location filename="BrowserMenu.h" line="583"/>
         <source>Change timestamp...</source>
         <translation>Tarih Değerini Değiştir...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="586"/>
-        <location filename="BrowserMenu.h" line="645"/>
+        <location filename="BrowserMenu.h" line="587"/>
+        <location filename="BrowserMenu.h" line="646"/>
         <source>Export...</source>
         <translation>Dışa Aktar...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="587"/>
+        <location filename="BrowserMenu.h" line="588"/>
         <source>Clean...</source>
         <translation>Temizle...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="590"/>
+        <location filename="BrowserMenu.h" line="591"/>
         <source>EXIF thumbnail - Rebuild</source>
         <translation>EXIF Küçük Resim - Yeniden Oluştur</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="592"/>
+        <location filename="BrowserMenu.h" line="593"/>
         <source>Metadata</source>
         <translation>Metaveri</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="594"/>
+        <location filename="BrowserMenu.h" line="595"/>
         <source>Convert into</source>
         <translation>İçinde Dönüştür</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="595"/>
+        <location filename="BrowserMenu.h" line="596"/>
         <source>Batch convert...</source>
         <translation>Çoklu Dönüştürme...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="596"/>
+        <location filename="BrowserMenu.h" line="597"/>
         <source>Send by FTP...</source>
         <translation>FTP ile Gönder...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="597"/>
+        <location filename="BrowserMenu.h" line="598"/>
         <source>Upload on web...</source>
         <translation>Webe Yükle...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="598"/>
+        <location filename="BrowserMenu.h" line="599"/>
         <source>File listing...</source>
         <translation>Dosya Listeleme...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="599"/>
+        <location filename="BrowserMenu.h" line="600"/>
         <source>Archive...</source>
         <translation>Arşiv...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="600"/>
+        <location filename="BrowserMenu.h" line="601"/>
         <source>Send by email...</source>
         <translation>E-posta ile gönder...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="601"/>
+        <location filename="BrowserMenu.h" line="602"/>
         <source>Set as wallpaper...</source>
         <translation>Duvar Kağıdı Yap...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="602"/>
+        <location filename="BrowserMenu.h" line="603"/>
         <source>Print...</source>
         <translation>Yazdır...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="604"/>
+        <location filename="BrowserMenu.h" line="605"/>
         <source>Properties...</source>
         <translation>Özellikler...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="618"/>
+        <location filename="BrowserMenu.h" line="619"/>
         <source>Real size</source>
         <translation>Gerçek Boyut</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="619"/>
+        <location filename="BrowserMenu.h" line="620"/>
         <source>100%</source>
         <translation>100%</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="620"/>
+        <location filename="BrowserMenu.h" line="621"/>
         <source>Zoom in</source>
         <translation>Yakınlaştır</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="621"/>
+        <location filename="BrowserMenu.h" line="622"/>
         <source>Zoom out</source>
         <translation>Uzaklaştır</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="622"/>
+        <location filename="BrowserMenu.h" line="623"/>
         <source>Lock zoom</source>
         <translation>Yakınlaştırmayı Sabitle</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="623"/>
+        <location filename="BrowserMenu.h" line="624"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
         <translation>Transparan İndex Kullan(≤ 8bits)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="624"/>
+        <location filename="BrowserMenu.h" line="625"/>
         <source>Use alpha channel</source>
         <translation>Alfa Kanalı Kullan</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="625"/>
+        <location filename="BrowserMenu.h" line="626"/>
         <source>Show alpha</source>
         <translation>Alpha Göster</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="626"/>
+        <location filename="BrowserMenu.h" line="627"/>
         <source>Show red</source>
         <translation>Kırmızı Göster</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="627"/>
+        <location filename="BrowserMenu.h" line="628"/>
         <source>Show green</source>
         <translation>Yeşil Göster</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="628"/>
+        <location filename="BrowserMenu.h" line="629"/>
         <source>Show blue</source>
         <translation>Mavi Göster</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="629"/>
+        <location filename="BrowserMenu.h" line="630"/>
         <source>Draw as tiled</source>
         <translation>Döşeyerek çiz</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="21"/>
         <location filename="DlgSettingsView.cpp" line="270"/>
-        <location filename="BrowserMenu.h" line="633"/>
+        <location filename="BrowserMenu.h" line="634"/>
         <source>Fit image to window, small only</source>
         <translation>Resim pencerden küçükse,pencereye sığdır</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="639"/>
+        <location filename="BrowserMenu.h" line="640"/>
         <source>Zoom</source>
         <translation>Yakınlaştır</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="642"/>
+        <location filename="BrowserMenu.h" line="643"/>
         <source>Copy to clipboard</source>
         <translation>Panoya Kopyala</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="643"/>
+        <location filename="BrowserMenu.h" line="644"/>
         <source>File operations</source>
         <translation>Dosya işlemleri</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="649"/>
+        <location filename="BrowserMenu.h" line="650"/>
         <source>Quick Filter</source>
         <translation>Hızlı Süz</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="650"/>
+        <location filename="BrowserMenu.h" line="651"/>
         <source>Category Search</source>
         <translation>Kategori Araması</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="655"/>
+        <location filename="BrowserMenu.h" line="656"/>
         <source>Edit face tag...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="658"/>
+        <location filename="BrowserMenu.h" line="659"/>
         <source>Capture...</source>
         <translation>Yakala...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="660"/>
+        <location filename="BrowserMenu.h" line="661"/>
         <source>Empty tab</source>
         <oldsource>Empty tab...</oldsource>
         <translation>Boş sekme</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="662"/>
+        <location filename="BrowserMenu.h" line="663"/>
         <source>Select TWAIN source...</source>
         <translation>TWAIN kaynağı seç...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="803"/>
+        <location filename="BrowserMenu.h" line="804"/>
         <source>&amp;File</source>
         <translation>&amp;Dosya</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="804"/>
+        <location filename="BrowserMenu.h" line="805"/>
         <source>&amp;Edit</source>
         <translation>Düz&amp;en</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="805"/>
+        <location filename="BrowserMenu.h" line="806"/>
         <source>&amp;View</source>
         <translation>&amp;Görünüm</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="806"/>
+        <location filename="BrowserMenu.h" line="807"/>
         <source>Meta&amp;data</source>
         <translation type="unfinished">Metaveri</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="807"/>
+        <location filename="BrowserMenu.h" line="808"/>
         <source>&amp;Tools</source>
         <translation>&amp;Araçlar</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="664"/>
+        <location filename="BrowserMenu.h" line="665"/>
         <source>Acquire into (TWAIN)...</source>
         <translation>(TWAIN) içine al...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="808"/>
+        <location filename="BrowserMenu.h" line="809"/>
         <source>C&amp;reate</source>
         <translation>Oluştu&amp;r</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="809"/>
+        <location filename="BrowserMenu.h" line="810"/>
         <source>&amp;Help</source>
         <translation>&amp;Yardım</translation>
     </message>

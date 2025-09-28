@@ -3357,6 +3357,10 @@ Vrei să continui?</translation>
         <source>Square</source>
         <translation>Pătrat</translation>
     </message>
+    <message>
+        <source>Margin</source>
+        <translation type="unfinished">Margine</translation>
+    </message>
 </context>
 <context>
     <name>DlgConvertBorderClass</name>
@@ -15826,6 +15830,10 @@ Vrei să continui?</translation>
     <message>
         <source>Open in file manager</source>
         <translation>Deschide în managerul (gestionarul) de fișiere</translation>
+    </message>
+    <message>
+        <source>Map</source>
+        <translation type="unfinished">Hartă</translation>
     </message>
 </context>
 <context>

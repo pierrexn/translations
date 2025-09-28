@@ -3341,6 +3341,10 @@ Do you want to overwrite it?</source>
         <source>Blur</source>
         <translation>Լղոզում</translation>
     </message>
+    <message>
+        <source>Margin</source>
+        <translation type="unfinished">Լուսանցք</translation>
+    </message>
 </context>
 <context>
     <name>DlgConvertBorderClass</name>
@@ -15808,6 +15812,10 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Open in file manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Map</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

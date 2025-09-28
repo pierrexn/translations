@@ -3341,6 +3341,10 @@ Deseja continuar?</translation>
         <source>Blur</source>
         <translation>Desfoque</translation>
     </message>
+    <message>
+        <source>Margin</source>
+        <translation type="unfinished">Margem</translation>
+    </message>
 </context>
 <context>
     <name>DlgConvertBorderClass</name>
@@ -15816,6 +15820,10 @@ Deseja continuar?</translation>
     <message>
         <source>Empty tab</source>
         <translation>Aba vazia</translation>
+    </message>
+    <message>
+        <source>Map</source>
+        <translation type="unfinished">Mapa</translation>
     </message>
 </context>
 <context>

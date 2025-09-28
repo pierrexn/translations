@@ -3341,6 +3341,10 @@ Do you want to overwrite it?</source>
         <source>Square</source>
         <translation>Cuadrado</translation>
     </message>
+    <message>
+        <source>Margin</source>
+        <translation type="unfinished">Margen</translation>
+    </message>
 </context>
 <context>
     <name>DlgConvertBorderClass</name>
@@ -15810,6 +15814,10 @@ Do you want to continue?</source>
     <message>
         <source>Open in file manager</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Map</source>
+        <translation type="unfinished">Mapa</translation>
     </message>
 </context>
 <context>

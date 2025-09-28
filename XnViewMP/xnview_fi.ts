@@ -3341,6 +3341,10 @@ Haluatko korvata sen?</translation>
         <source>Square</source>
         <translation>Neliö</translation>
     </message>
+    <message>
+        <source>Margin</source>
+        <translation type="unfinished">Marginaali</translation>
+    </message>
 </context>
 <context>
     <name>DlgConvertBorderClass</name>
@@ -15815,6 +15819,10 @@ Jatketaanko?</translation>
     <message>
         <source>Open in file manager</source>
         <translation>Avaa tiedostonhallinnassa</translation>
+    </message>
+    <message>
+        <source>Map</source>
+        <translation type="unfinished">Kartta</translation>
     </message>
 </context>
 <context>
