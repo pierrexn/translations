@@ -4250,7 +4250,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="DlgConvertBlurredFrame.ui" line="96"/>
         <source>Margin</source>
-        <translation type="unfinished">Abstand</translation>
+        <translation>Abstand</translation>
     </message>
     <message>
         <location filename="DlgConvertBlurredFrame.ui" line="141"/>
@@ -19723,7 +19723,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="BrowserMenu.h" line="321"/>
         <source>Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Karte</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="422"/>
