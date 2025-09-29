@@ -2054,12 +2054,12 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
     <message>
         <location filename="DBFilterModel.cpp" line="1644"/>
         <source>Panoramic</source>
-        <translation type="unfinished"></translation>
+        <translation>Panoráma</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1670"/>
         <source>No Color Profile</source>
-        <translation type="unfinished">Nincs színprofil</translation>
+        <translation>Nincs színprofil</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="348"/>
@@ -4241,7 +4241,7 @@ Biztos folytassuk?</translation>
     <message>
         <location filename="DlgConvertBlurredFrame.ui" line="96"/>
         <source>Margin</source>
-        <translation type="unfinished">Margó</translation>
+        <translation>Margó</translation>
     </message>
     <message>
         <location filename="DlgConvertBlurredFrame.ui" line="141"/>
@@ -10947,7 +10947,7 @@ El szeretné őket távolítani?</translation>
     <message>
         <location filename="DlgSearch.cpp" line="264"/>
         <source>Save pathname</source>
-        <translation type="unfinished">Útvonal nevének mentése</translation>
+        <translation>Útvonal nevének mentése</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="376"/>
@@ -11514,7 +11514,7 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="DlgSettingsCache.cpp" line="543"/>
         <source>Updating database, please wait...</source>
-        <translation type="unfinished">Adatbázis frissítése, kérem várjon...</translation>
+        <translation>Adatbázis frissítése, kérem várjon...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="560"/>
@@ -11682,7 +11682,7 @@ El szeretné távolítani a kategóriához rendelt bejegyzéseket?</translation>
         <location filename="DlgSettingsCache.ui" line="430"/>
         <source>Update metadata...</source>
         <oldsource>Update metadatas...</oldsource>
-        <translation type="unfinished">Metaadatok frissítése...</translation>
+        <translation>Metaadatok frissítése...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="493"/>
@@ -12669,7 +12669,7 @@ miniatűrként</translation>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="381"/>
         <source>ExifTool path</source>
-        <translation type="unfinished">ExifTool elérési útvonal</translation>
+        <translation>ExifTool elérési útvonal</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="398"/>
@@ -17507,57 +17507,57 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="1488"/>
         <source>Shutter Speed</source>
-        <translation>Zársebesség</translation>
+        <translation>Záridő</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1500"/>
         <source>Colour Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Színtér</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1581"/>
         <source>Not Defined</source>
-        <translation type="unfinished"></translation>
+        <translation>Nincs megadva</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1583"/>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Manuális</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1585"/>
         <source>Program AE</source>
-        <translation type="unfinished"></translation>
+        <translation>AE program</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1587"/>
         <source>Aperture-priority AE</source>
-        <translation type="unfinished"></translation>
+        <translation>Rekeszprioritású AE</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1589"/>
         <source>Shutter speed priority AE</source>
-        <translation type="unfinished"></translation>
+        <translation>Záridő prioritású AE</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1591"/>
         <source>Creative</source>
-        <translation type="unfinished"></translation>
+        <translation>Kreatív</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1593"/>
         <source>Action</source>
-        <translation type="unfinished">Művelet</translation>
+        <translation>Művelet</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1595"/>
         <source>Portrait</source>
-        <translation type="unfinished">Álló</translation>
+        <translation>Álló</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1597"/>
         <source>Landscape</source>
-        <translation type="unfinished">Fekvő</translation>
+        <translation>Fekvő</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1127"/>
@@ -17767,7 +17767,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <location filename="TemplateData.cpp" line="2643"/>
         <source>Shutter speed (s)</source>
         <oldsource>Shutter speed [s]</oldsource>
-        <translation>Zársebesség (mp)</translation>
+        <translation>Záridő (mp)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2645"/>
@@ -18026,12 +18026,12 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoFavoritesView.cpp" line="19"/>
         <source>Tag</source>
-        <translation type="unfinished">Címke</translation>
+        <translation>Címke</translation>
     </message>
     <message>
         <location filename="InfoFavoritesView.cpp" line="19"/>
         <source>Value</source>
-        <translation type="unfinished">Érték</translation>
+        <translation>Érték</translation>
     </message>
     <message>
         <location filename="InfoFavoritesView.cpp" line="45"/>
@@ -19543,7 +19543,7 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="BrowserMenu.h" line="321"/>
         <source>Map</source>
-        <translation type="unfinished">Térkép</translation>
+        <translation>Térkép</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="451"/>
