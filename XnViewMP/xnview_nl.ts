@@ -4141,7 +4141,7 @@ Doorgaan?</translation>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="73"/>
         <source>Tolerance</source>
-        <translation>Marge</translation>
+        <translation>Tolerantie</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="104"/>
@@ -4258,7 +4258,7 @@ Doorgaan?</translation>
     <message>
         <location filename="DlgConvertBlurredFrame.ui" line="96"/>
         <source>Margin</source>
-        <translation type="unfinished">Kantlijn</translation>
+        <translation>Marge</translation>
     </message>
     <message>
         <location filename="DlgConvertBlurredFrame.ui" line="141"/>
@@ -6190,7 +6190,7 @@ Doorgaan?</translation>
     <message>
         <location filename="DlgConvertReplaceColor.ui" line="78"/>
         <source>Tolerance</source>
-        <translation>Marge</translation>
+        <translation>Tolerantie</translation>
     </message>
 </context>
 <context>
@@ -19620,7 +19620,7 @@ Doorgaan?</translation>
     <message>
         <location filename="BrowserMenu.h" line="321"/>
         <source>Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaart</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="451"/>
