@@ -3944,7 +3944,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>&amp;Convert</source>
-        <translation>&amp;Convertire</translation>
+        <translation>&amp;Convertește</translation>
     </message>
     <message>
         <source>Clear all</source>
