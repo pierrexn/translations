@@ -22376,7 +22376,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyDirModel.cpp" line="1167"/>
         <source>Home</source>
-        <translation>Дом</translation>
+        <translation>Главная</translation>
     </message>
     <message>
         <location filename="MyDirModel.cpp" line="1663"/>
