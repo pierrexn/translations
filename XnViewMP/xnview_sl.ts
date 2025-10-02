@@ -4290,7 +4290,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertBlurredFrame.ui" line="96"/>
         <source>Margin</source>
-        <translation type="unfinished">Obroba</translation>
+        <translation>Obroba</translation>
     </message>
     <message>
         <location filename="DlgConvertBlurredFrame.ui" line="141"/>
@@ -19583,7 +19583,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="321"/>
         <source>Map</source>
-        <translation type="unfinished">Mapa</translation>
+        <translation>Zemljevid</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="451"/>
