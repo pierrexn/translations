@@ -737,7 +737,7 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="4100"/>
         <source>Open in file manager</source>
-        <translation type="unfinished">Otvoriť v prieskumníkovi</translation>
+        <translation>Otvoriť v prieskumníkovi</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4103"/>
@@ -915,22 +915,22 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
     <message>
         <location filename="CategoryView.cpp" line="445"/>
         <source>EXIF: Date taken</source>
-        <translation type="unfinished">EXIF: Dátum zhotovenia</translation>
+        <translation>EXIF: Dátum zhotovenia</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="447"/>
         <source>EXIF: Date modified</source>
-        <translation type="unfinished">EXIF: Dátum poslednej zmeny</translation>
+        <translation>EXIF: Dátum poslednej zmeny</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="449"/>
         <source>File: Date modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Súbor: Dátum poslednej zmeny</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="487"/>
         <source>New album</source>
-        <translation type="unfinished"></translation>
+        <translation>Nový album</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="494"/>
@@ -1993,12 +1993,12 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="149"/>
         <source>No rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Nehodnotené</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="150"/>
         <source>No colour label</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez farebného značenia</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="151"/>
@@ -2008,28 +2008,28 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="152"/>
         <source>Taken in last 30 days</source>
-        <translation type="unfinished"></translation>
+        <translation>Zhotovené za posledných 30 dní</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="153"/>
         <source>Modified in last 30 days</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmenené za posledných 30 dní</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="155"/>
         <location filename="DBFilterModel.cpp" line="1068"/>
         <source>Date</source>
-        <translation type="unfinished">Dátum</translation>
+        <translation>Dátum</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="159"/>
         <source>Properties</source>
-        <translation type="unfinished">Vlastnosti</translation>
+        <translation>Vlastnosti</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="164"/>
         <source>Albums</source>
-        <translation type="unfinished"></translation>
+        <translation>Albumy</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="931"/>
@@ -2041,27 +2041,27 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
         <location filename="DBFilterModel.cpp" line="1564"/>
         <location filename="DBFilterModel.cpp" line="1579"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Neznáme</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1569"/>
         <source>Landscape</source>
-        <translation type="unfinished">Na šírku</translation>
+        <translation>Na šírku</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1571"/>
         <source>Portrait</source>
-        <translation type="unfinished">Na výšku</translation>
+        <translation>Na výšku</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1644"/>
         <source>Panoramic</source>
-        <translation type="unfinished"></translation>
+        <translation>Panoramatické</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1670"/>
         <source>No Color Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Žiaden farebný profil</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="348"/>
@@ -3646,10 +3646,10 @@ Chcete ho prepísať?</translation>
     <message numerus="yes">
         <location filename="DlgContactSheet.cpp" line="462"/>
         <source>File list (%n)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Zoznam súborov (%n)</numerusform>
+            <numerusform>Zoznam súborov (%n)</numerusform>
+            <numerusform>Zoznam súborov (%n)</numerusform>
         </translation>
     </message>
 </context>
@@ -4274,7 +4274,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="DlgConvertBlurredFrame.ui" line="96"/>
         <source>Margin</source>
-        <translation type="unfinished">Odstup</translation>
+        <translation>Okraj</translation>
     </message>
     <message>
         <location filename="DlgConvertBlurredFrame.ui" line="141"/>
@@ -7383,7 +7383,7 @@ Uistite sa, že súbory nie sú len na čítanie!</translation>
         <location filename="DlgEditXMP.cpp" line="431"/>
         <location filename="DlgEditXMP.cpp" line="456"/>
         <source>Modifying files, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravujem súbory, čakajte prosím...</translation>
     </message>
 </context>
 <context>
@@ -8947,7 +8947,7 @@ Budú vytvorené podpriečinky. </translation>
         <location filename="DlgIptc.cpp" line="1697"/>
         <location filename="DlgIptc.cpp" line="1743"/>
         <source>Modifying files, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravujem súbory, čakajte prosím...</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="52"/>
@@ -10271,7 +10271,7 @@ Uistite sa, že súbory nie sú len na čítanie!</translation>
     <message>
         <location filename="DlgReadPDF.ui" line="69"/>
         <source>Ledger</source>
-        <translation>Ledger</translation>
+        <translation>Hlavná kniha</translation>
     </message>
     <message>
         <location filename="DlgReadPDF.ui" line="74"/>
@@ -10970,17 +10970,17 @@ Chcete ich odstrániť?</translation>
     <message>
         <location filename="DlgSearch.cpp" line="260"/>
         <source>Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Prednastavené</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="261"/>
         <source>Preset search name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Prednastavené vyhľadávanie názvu:</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="264"/>
         <source>Save pathname</source>
-        <translation type="unfinished"></translation>
+        <translation>Uložiť názov cesty</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="376"/>
@@ -11250,7 +11250,7 @@ Chcete ich odstrániť?</translation>
     <message>
         <location filename="DlgSettings.cpp" line="357"/>
         <source>The changes will be applied after restarting the application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmeny budú uplatnené po reštartovaní aplikácie.</translation>
     </message>
     <message>
         <location filename="DlgSettings.cpp" line="360"/>
@@ -11499,7 +11499,7 @@ Chcete ich odstrániť?</translation>
     <message>
         <location filename="DlgSettingsCache.cpp" line="152"/>
         <source>Database [catalog: %1 %2 - thumbnails: %3 %4]</source>
-        <translation type="unfinished"></translation>
+        <translation>Databáza [katalóg: %1 %2 – miniatúry: %3 %4]</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="264"/>
@@ -11547,7 +11547,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="DlgSettingsCache.cpp" line="543"/>
         <source>Updating database, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizácia databázy, čakajte prosím...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="560"/>
@@ -11715,7 +11715,7 @@ Chcete odstrániť položky priradené ku kategórii?</translation>
         <location filename="DlgSettingsCache.ui" line="430"/>
         <source>Update metadata...</source>
         <oldsource>Update metadatas...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizovať metadáta...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="493"/>
@@ -12282,7 +12282,7 @@ Miniatúru</translation>
         <location filename="DlgSettingsGeneral.ui" line="112"/>
         <source>Custom</source>
         <comment>theme</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vlastná</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="311"/>
@@ -12406,7 +12406,7 @@ Miniatúru</translation>
         <location filename="DlgSettingsGeneral.ui" line="997"/>
         <source>Custom</source>
         <comment>icc</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vlastné</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="1097"/>
@@ -12580,7 +12580,7 @@ Miniatúru</translation>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="292"/>
         <source>Select a program</source>
-        <translation type="unfinished">Vybrať program</translation>
+        <translation>Vybrať program</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="338"/>
@@ -12703,12 +12703,12 @@ Miniatúru</translation>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="381"/>
         <source>ExifTool path</source>
-        <translation type="unfinished"></translation>
+        <translation>Cesta k ExifTool</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="398"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
 </context>
 <context>
@@ -14550,7 +14550,7 @@ Chcete ho priradiť znova?</translation>
     <message>
         <location filename="DlgSizeEdit.ui" line="66"/>
         <source>ratio</source>
-        <translation>Pomer strán</translation>
+        <translation>pomer strán</translation>
     </message>
 </context>
 <context>
@@ -14593,7 +14593,7 @@ Chcete ho priradiť znova?</translation>
     <message>
         <location filename="DlgSlideshow.ui" line="343"/>
         <source>Watch folders for new files</source>
-        <translation type="unfinished"></translation>
+        <translation>Sledovať priečinky pre nové súbory</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="580"/>
@@ -15208,7 +15208,7 @@ Chcette pokračovať?</translation>
     <message>
         <location filename="DlgTimestamp.ui" line="459"/>
         <source>File: Modified date</source>
-        <translation>Súbor: Dátum poslednej zmeny</translation>
+        <translation>Súbor: Dátum úpravy</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="472"/>
@@ -15258,7 +15258,7 @@ Chcette pokračovať?</translation>
     <message>
         <location filename="DlgTransfer.cpp" line="243"/>
         <source>Write</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapísať</translation>
     </message>
 </context>
 <context>
@@ -16256,7 +16256,7 @@ Chcette pokračovať?</translation>
         <location filename="EditXMPWidget.ui" line="643"/>
         <source>XMP and IPTC-IIM</source>
         <oldsource>XMP, update or create IPTC-IIM</oldsource>
-        <translation type="unfinished">XMP, aktualizovať alebo vytvoriť IPTC-IIM</translation>
+        <translation>XMP a IPTC-IIM</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="672"/>
@@ -16491,7 +16491,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="FileListWidget.cpp" line="297"/>
         <source>Do you want to add only the folder and not the filelist?</source>
-        <translation type="unfinished"></translation>
+        <translation>Chcete pridať len priečinok a nie zoznam súborov?</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="40"/>
@@ -16966,12 +16966,12 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="1460"/>
         <source>Aspect Ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomer strán</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1496"/>
         <source>File type</source>
-        <translation type="unfinished">Typ súboru</translation>
+        <translation>Typ súboru</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1116"/>
@@ -17361,17 +17361,17 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="140"/>
         <source>Import Categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Importovať kategórie...</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="142"/>
         <source>Import Categories (XnView Classic db)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Importovať kategórie (XnView Classic db)...</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="144"/>
         <source>Export Categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportovať kategórie...</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="147"/>
@@ -17386,22 +17386,22 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="620"/>
         <source>Can&apos;t import XnView Classic category database</source>
-        <translation type="unfinished">Databázu kategórií XnView Classic nemožno importovať</translation>
+        <translation>Nie je možné importovať databázu kategórií XnView Classic</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="656"/>
         <source>Problem during database import!</source>
-        <translation type="unfinished">Nastal problém počas importovania databázy!</translation>
+        <translation>Nastal problém pri importe databázy!</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="658"/>
         <source>Category tree successfully imported into XnView categories</source>
-        <translation type="unfinished">Strom kategórii bol úspešne importovaný do kategórii XnView</translation>
+        <translation>Strom kategórií bol úspešne importovaný do kategórií XnView.</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="668"/>
         <source>Can&apos;t import XnView database</source>
-        <translation type="unfinished">Nemožno importovať databázu XnView</translation>
+        <translation>Nemožno importovať databázu XnView</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="703"/>
@@ -17531,7 +17531,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="1472"/>
         <source>Lens</source>
-        <translation type="unfinished">Šošovka</translation>
+        <translation>Šošovka</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1480"/>
@@ -17542,57 +17542,57 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="1488"/>
         <source>Shutter Speed</source>
-        <translation type="unfinished">Rýchlosť uzávierky</translation>
+        <translation>Rýchlosť uzávierky</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1500"/>
         <source>Colour Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Farebný priestor</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1581"/>
         <source>Not Defined</source>
-        <translation type="unfinished"></translation>
+        <translation>Nedefinované</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1583"/>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Návod</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1585"/>
         <source>Program AE</source>
-        <translation type="unfinished"></translation>
+        <translation>Program AE</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1587"/>
         <source>Aperture-priority AE</source>
-        <translation type="unfinished"></translation>
+        <translation>Priorita clony AE</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1589"/>
         <source>Shutter speed priority AE</source>
-        <translation type="unfinished"></translation>
+        <translation>Priorita rýchlosti uzávierky AE</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1591"/>
         <source>Creative</source>
-        <translation type="unfinished"></translation>
+        <translation>Kreatívny</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1593"/>
         <source>Action</source>
-        <translation type="unfinished">Operácia</translation>
+        <translation>Operácia</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1595"/>
         <source>Portrait</source>
-        <translation type="unfinished">Na výšku</translation>
+        <translation>Na výšku</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1597"/>
         <source>Landscape</source>
-        <translation type="unfinished">Na šírku</translation>
+        <translation>Na šírku</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1127"/>
@@ -17998,17 +17998,17 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2683"/>
         <source>SubSecTime</source>
-        <translation type="unfinished"></translation>
+        <translation>SubSec Čas</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2684"/>
         <source>SubSecTime Original</source>
-        <translation type="unfinished"></translation>
+        <translation>SubSec Čas Originál</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2685"/>
         <source>SubSecTime Digitized</source>
-        <translation type="unfinished"></translation>
+        <translation>SubSec Čas Digitalizovaný</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2691"/>
@@ -18061,17 +18061,17 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="InfoFavoritesView.cpp" line="19"/>
         <source>Tag</source>
-        <translation type="unfinished"></translation>
+        <translation>Štítok</translation>
     </message>
     <message>
         <location filename="InfoFavoritesView.cpp" line="19"/>
         <source>Value</source>
-        <translation type="unfinished">Hodnota</translation>
+        <translation>Hodnota</translation>
     </message>
     <message>
         <location filename="InfoFavoritesView.cpp" line="45"/>
         <source>Remove from Favorites panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstrániť z panela Obľúbené</translation>
     </message>
 </context>
 <context>
@@ -18605,7 +18605,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="EditXMPWidget.cpp" line="171"/>
         <source>Telephone number</source>
-        <translation type="unfinished"></translation>
+        <translation>Telefónne číslo</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="113"/>
@@ -18834,7 +18834,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="InfoPanel.cpp" line="91"/>
         <source>Add to Favorites panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Pridať do panela Obľúbené</translation>
     </message>
 </context>
 <context>
@@ -19619,7 +19619,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="BrowserMenu.h" line="592"/>
         <source>Edit metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Upraviť metadáta...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="652"/>
@@ -19730,7 +19730,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="BrowserMenu.h" line="321"/>
         <source>Map</source>
-        <translation type="unfinished">Mapa</translation>
+        <translation>Mapa</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="525"/>
@@ -19750,7 +19750,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="BrowserMenu.h" line="539"/>
         <source>Open in file manager</source>
-        <translation type="unfinished">Otvoriť v prieskumníkovi</translation>
+        <translation>Otvoriť v prieskumníkovi</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="560"/>
@@ -19917,7 +19917,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="BrowserMenu.h" line="656"/>
         <source>Edit face tag...</source>
-        <translation type="unfinished"></translation>
+        <translation>Upraviť štítok tváre...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="659"/>
@@ -20543,7 +20543,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="BrowserMenu.h" line="586"/>
         <source>Edit GPS...</source>
-        <translation type="unfinished"></translation>
+        <translation>Upraviť GPS...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="587"/>
@@ -21131,7 +21131,7 @@ Chcete pokračovať?</translation>
         <location filename="ViewMenu.h" line="307"/>
         <source>Open in file manager</source>
         <oldsource>Open in file explorer</oldsource>
-        <translation type="unfinished">Otvoriť v prieskumníkovi</translation>
+        <translation>Otvoriť v prieskumníkovi</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="308"/>
@@ -24143,12 +24143,12 @@ Chcete v ňom ponechať miniatúry?
     <message>
         <location filename="xnview.cpp" line="533"/>
         <source>Catalog update</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizácia katalógu</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="533"/>
         <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
-        <translation type="unfinished"></translation>
+        <translation>Ak chcete použiť nový uzol v „Filter katalógu“, musíte aktualizovať katalóg (Nastavenia&gt;Katalóg&gt;Aktualizovať metadáta). </translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="928"/>
