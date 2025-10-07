@@ -519,5 +519,8 @@
   "settingsSelectLanguage": "Selezionare una lingua",
   "@settingsSelectLanguage": {},
   "settingsSelectCurrency": "Selezionare una valuta",
-  "@settingsSelectCurrency": {}
+  "@settingsSelectCurrency": {},
+    "settingsSubscription": "Sussistere", 
+  "settingsLinks": "Link", 
+  "needToLogin" : "Devi accedere al tuo account"
 }

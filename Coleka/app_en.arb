@@ -429,5 +429,8 @@
   "settingsLanguage": "Language",
   "settingsCurrency": "Currency",
   "settingsSelectLanguage": "Select a language",
-  "settingsSelectCurrency": "Select a currency"
+  "settingsSelectCurrency": "Select a currency",
+  "settingsSubscription": "Subscription", 
+  "settingsLinks": "Links", 
+  "needToLogin" : "You need to log into your account"
 }

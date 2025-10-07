@@ -512,5 +512,8 @@
   "settingsSelectLanguage": "Seleccione un idioma",
   "@settingsSelectLanguage": {},
   "settingsSelectCurrency": "Seleccione una moneda",
-  "@settingsSelectCurrency": {}
+  "@settingsSelectCurrency": {},
+    "settingsSubscription": "Subsistir", 
+  "settingsLinks": "Campo de golf", 
+  "needToLogin" : "Necesita iniciar sesión en su cuenta"
 }

@@ -519,5 +519,8 @@
   "settingsSelectLanguage": "Velg et språk",
   "@settingsSelectLanguage": {},
   "settingsSelectCurrency": "Velg en valuta",
-  "@settingsSelectCurrency": {}
+  "@settingsSelectCurrency": {},
+    "settingsSubscription": "Eksistens", 
+  "settingsLinks": "Lenker", 
+  "needToLogin" : "Du må logge deg på kontoen din"
 }

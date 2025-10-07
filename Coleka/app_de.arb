@@ -505,5 +505,15 @@
   "searchOpenScan": "Scan öffnen",
   "@searchOpenScan": {},
   "searchAINoResult": "Kein Ergebnis gefunden!",
-  "@searchAINoResult": {}
+  "@searchAINoResult": {},
+  "settings": "Setings",
+  "settingsCommon": "Allgemein",
+  "settingsAccount": "Geburt",
+  "settingsLanguage": "Sprache",
+  "settingsCurrency": "Währung",
+  "settingsSelectLanguage": "Wählen Sie eine Sprache",
+  "settingsSelectCurrency": "Wählen Sie eine Währung",
+    "settingsSubscription": "Aushöre", 
+  "settingsLinks": "Links", 
+  "needToLogin" : "Sie müssen sich in Ihr Konto anmelden"
 }
