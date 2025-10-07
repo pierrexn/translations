@@ -513,7 +513,10 @@
   "@settingsSelectLanguage": {},
   "settingsSelectCurrency": "Seleccione una moneda",
   "@settingsSelectCurrency": {},
-    "settingsSubscription": "Subsistir", 
-  "settingsLinks": "Campo de golf", 
-  "needToLogin" : "Necesita iniciar sesión en su cuenta"
+  "settingsSubscription": "Subsistir",
+  "@settingsSubscription": {},
+  "settingsLinks": "Campo de golf",
+  "@settingsLinks": {},
+  "needToLogin": "Necesita iniciar sesión en su cuenta",
+  "@needToLogin": {}
 }
