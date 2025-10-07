@@ -520,7 +520,10 @@
   "@settingsSelectLanguage": {},
   "settingsSelectCurrency": "Selezionare una valuta",
   "@settingsSelectCurrency": {},
-    "settingsSubscription": "Sussistere", 
-  "settingsLinks": "Link", 
-  "needToLogin" : "Devi accedere al tuo account"
+  "settingsSubscription": "Sussistere",
+  "@settingsSubscription": {},
+  "settingsLinks": "Link",
+  "@settingsLinks": {},
+  "needToLogin": "Devi accedere al tuo account",
+  "@needToLogin": {}
 }
