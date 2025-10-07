@@ -520,7 +520,10 @@
   "@settingsSelectLanguage": {},
   "settingsSelectCurrency": "Velg en valuta",
   "@settingsSelectCurrency": {},
-    "settingsSubscription": "Eksistens", 
-  "settingsLinks": "Lenker", 
-  "needToLogin" : "Du må logge deg på kontoen din"
+  "settingsSubscription": "Eksistens",
+  "@settingsSubscription": {},
+  "settingsLinks": "Lenker",
+  "@settingsLinks": {},
+  "needToLogin": "Du må logge deg på kontoen din",
+  "@needToLogin": {}
 }
