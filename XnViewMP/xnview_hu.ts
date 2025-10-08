@@ -10937,12 +10937,12 @@ El szeretné őket távolítani?</translation>
     <message>
         <location filename="DlgSearch.cpp" line="260"/>
         <source>Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Készlet</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="261"/>
         <source>Preset search name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Készlet keresett neve:</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="264"/>
@@ -16456,7 +16456,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="FileListWidget.cpp" line="297"/>
         <source>Do you want to add only the folder and not the filelist?</source>
-        <translation type="unfinished"></translation>
+        <translation>Csak a mappát szeretné hozzáadni, és nem a fájllistát?</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="40"/>
@@ -18036,7 +18036,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoFavoritesView.cpp" line="45"/>
         <source>Remove from Favorites panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Eltávolítás a Kedvencek panelről</translation>
     </message>
 </context>
 <context>
@@ -18798,7 +18798,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoPanel.cpp" line="91"/>
         <source>Add to Favorites panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Hozzáadás a Kedvencek panelhez</translation>
     </message>
 </context>
 <context>
@@ -24092,12 +24092,12 @@ Megőrizzük a miniatűröket?
     <message>
         <location filename="xnview.cpp" line="533"/>
         <source>Catalog update</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalógus frissítése</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="533"/>
         <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
-        <translation type="unfinished"></translation>
+        <translation>Ha új csomópontot szeretne használni a „Katalógus szűrőben”, frissítenie kell a katalógust (Beállítások &gt; Katalógus &gt; Metaadatok frissítése). </translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="928"/>
