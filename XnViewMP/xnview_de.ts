@@ -311,7 +311,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="2956"/>
         <source>The file &lt;%1&gt; is read-only. Please choose another file name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Datei &lt;%1&gt; ist schreibgeschützt. Bitte wählen Sie einen anderen Dateinamen.</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2964"/>
@@ -586,7 +586,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
         <location filename="BrowserWindow.cpp" line="908"/>
         <source>The database is corrupted. Please check it before you continue!</source>
         <oldsource>The database is corrupted, please check it before to continue!</oldsource>
-        <translation type="unfinished">Die Datenbank ist beschädigt. Bitte führen Sie eine Überprüfung durch bevor Sie weiterarbeiten!</translation>
+        <translation>Die Datenbank ist beschädigt. Bitte führen Sie eine Überprüfung durch bevor Sie weiterarbeiten!</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="1648"/>
@@ -7955,7 +7955,8 @@ Bitte stellen Sie sicher, dass die Dateien nicht schreibgeschützt sind.</transl
         <location filename="DlgFileAssociation.cpp" line="111"/>
         <source>Problem to change file association. 
 Please try to start with admin rights.</source>
-        <translation type="unfinished"></translation>
+        <translation>Problem beim Ändern der Dateizuordnung.
+Bitte versuchen Sie, mit Administratorrechten zu starten.</translation>
     </message>
     <message>
         <location filename="DlgFileAssociation.cpp" line="138"/>
@@ -10413,7 +10414,8 @@ Thank you for purchasing %1.</source>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Plugin is not installed. 
 Please install it via Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Plug-In ist nicht installiert.
+Bitte installieren Sie es über Werkzeuge › PlugIns.</translation>
     </message>
 </context>
 <context>
@@ -15759,7 +15761,7 @@ Wollen Sie fortfahren?</translation>
         <location filename="DlgWriteJP2K.ui" line="138"/>
         <source>File size (kB)</source>
         <oldsource>File size (kbytes)</oldsource>
-        <translation type="unfinished">Dateigröße [KB]</translation>
+        <translation>Dateigröße [kB]</translation>
     </message>
 </context>
 <context>
@@ -16124,7 +16126,7 @@ Wollen Sie fortfahren?</translation>
         <location filename="DlgWriteWebP.ui" line="173"/>
         <source>File size (kB)</source>
         <oldsource>File size (kbytes)</oldsource>
-        <translation type="unfinished">Dateigröße [KB]</translation>
+        <translation>Dateigröße [kB]</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="207"/>
@@ -17127,7 +17129,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
         <location filename="TemplateData.cpp" line="2800"/>
         <source>Size (kB)</source>
         <oldsource>Size (KB)</oldsource>
-        <translation type="unfinished">Größe (KB)</translation>
+        <translation>Größe (kB)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2581"/>
@@ -20718,7 +20720,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="xnview.cpp" line="1379"/>
         <source>PlugIns...</source>
-        <translation>I/O-Plug-Ins...</translation>
+        <translation>Plug-Ins...</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1381"/>
@@ -21805,7 +21807,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="ViewMenu.h" line="513"/>
         <source>Adobe Photoshop Plugin...</source>
-        <translation>Adobe Photoshop-Plug-Ins...</translation>
+        <translation>Adobe Photoshop-Plug-In...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="516"/>
@@ -24160,7 +24162,9 @@ Rating, Tag &amp; Color labels will not be saved.</source>
         <source>There is a problem to update Catalog:
 (Error: % 1)
 Please contact the developer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Beim Aktualisieren des Katalogs ist ein Problem aufgetreten:
+(Fehler: % 1)
+Bitte wenden Sie sich an den Entwickler.</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="999"/>
