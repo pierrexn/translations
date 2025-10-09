@@ -249,10 +249,6 @@
         <translation>A apărut o eroare la salvare!</translation>
     </message>
     <message>
-        <source>The file &lt;%1&gt; is read-only, please choose another file name.</source>
-        <translation>Fișierul &lt;%1&gt; este doar pentru citire, alege alt nume pentru fișier.</translation>
-    </message>
-    <message>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; Gol &gt;</translation>
     </message>
@@ -327,6 +323,10 @@
     <message>
         <source>Number of unique colors: %1</source>
         <translation>Numărul de culori unice: %1</translation>
+    </message>
+    <message>
+        <source>The file &lt;%1&gt; is read-only. Please choose another file name.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -478,10 +478,6 @@ Vrei să ștergi favoritul „%1”?</translation>
         <translation>Șterge articole</translation>
     </message>
     <message>
-        <source>The database is corrupted, please check it before to continue!</source>
-        <translation>Baza de date este coruptă, te rugăm să o verifici înainte pentru a continua!</translation>
-    </message>
-    <message>
         <source>&lt;Search results&gt;</source>
         <translation>&lt;Rezultatele căutării&gt;</translation>
     </message>
@@ -620,6 +616,10 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     <message>
         <source>Open in file manager</source>
         <translation>Deschide în managerul (gestionarul) de fișiere</translation>
+    </message>
+    <message>
+        <source>The database is corrupted. Please check it before you continue!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6206,6 +6206,11 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
         <source>File association</source>
         <translation>Asocierea fișierelor</translation>
     </message>
+    <message>
+        <source>Problem to change file association. 
+Please try to start with admin rights.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgFileClass</name>
@@ -8136,8 +8141,9 @@ Thank you for purchasing %1.</source>
         <translation>Eliminatorul de fundal</translation>
     </message>
     <message>
-        <source>Please install it by using Tools › Plugins</source>
-        <translation>Te rugăm să-l instalezi folosind Instrumente › Plugin-uri (Module)</translation>
+        <source>Plugin is not installed. 
+Please install it via Tools › Plugins</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12197,8 +12203,8 @@ Vrei să continui?</translation>
         <translation>Compresie fără pierderi</translation>
     </message>
     <message>
-        <source>File size (kbytes)</source>
-        <translation>Dimensiunea fișierului (kbytes/kocteți)</translation>
+        <source>File size (kB)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12495,12 +12501,12 @@ Vrei să continui?</translation>
         <translation>Metoda de compresie</translation>
     </message>
     <message>
-        <source>File size (kbytes)</source>
-        <translation>Dimensiunea fișierului (kbytes/kocteți)</translation>
-    </message>
-    <message>
         <source>Use sharp (and slow) RGB→YUV conversion</source>
         <translation>Folosește o conversia RGB → YUV curată (și lentă)</translation>
+    </message>
+    <message>
+        <source>File size (kB)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12957,10 +12963,6 @@ Dorești să ștergi favoritul „%1”?</translation>
         <translation>Raport lățime/înălțime</translation>
     </message>
     <message>
-        <source>Size (KB)</source>
-        <translation>Dimensiune (KB)</translation>
-    </message>
-    <message>
         <source>Images/frames count</source>
         <translation>Numărul de imagini/cadre</translation>
     </message>
@@ -13291,6 +13293,10 @@ Dorești să ștergi favoritul „%1”?</translation>
     <message>
         <source>Aspect Ratio</source>
         <translation>Raportul de aspect</translation>
+    </message>
+    <message>
+        <source>Size (kB)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18474,10 +18480,6 @@ O poți schimba în Setări › Catalog.</translation>
         <translation>Fișierul nu a fost găsit!</translation>
     </message>
     <message>
-        <source>XnViewMP - There is a problem to update catalog (Error: %1), please contact the developer.</source>
-        <translation>XnViewMP - Există o problemă la actualizarea catalogului (Eroare: %1), te rugăm să contactezi dezvoltatorul.</translation>
-    </message>
-    <message>
         <source>Your previous session contains many loaded images, this can cause a slowdown!</source>
         <translation>Sesiunea anterioară conține multe imagini încărcate, acest lucru poate provoca o încetinire!</translation>
     </message>
@@ -18548,6 +18550,12 @@ Etichetele de evaluare (de rating), etichetare și culoare nu vor fi salvate.</t
     <message>
         <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
         <translation>Trebuie să actualizezi catalogul (Setări&gt;Catalog&gt;Actualizează metadatele) dacă vrei să folosești un nod nou în „Filtru de catalog”. </translation>
+    </message>
+    <message>
+        <source>There is a problem to update Catalog:
+(Error: % 1)
+Please contact the developer.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

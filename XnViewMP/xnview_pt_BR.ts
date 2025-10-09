@@ -237,10 +237,6 @@
         <translation>Salvar</translation>
     </message>
     <message>
-        <source>The file &lt;%1&gt; is read-only, please choose another file name.</source>
-        <translation>O arquivo &lt;%1&gt; é somente leitura. Escolha outro nome de arquivo.</translation>
-    </message>
-    <message>
         <source>Save changed file</source>
         <translation>Salvar arquivo modificado</translation>
     </message>
@@ -327,6 +323,10 @@
     <message>
         <source>Number of unique colors: %1</source>
         <translation>Número de cores exclusivas: %1</translation>
+    </message>
+    <message>
+        <source>The file &lt;%1&gt; is read-only. Please choose another file name.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -561,10 +561,6 @@ Arraste e solte sobre o nó desejado para atribuir.</translation>
         <translation>Propriedades</translation>
     </message>
     <message>
-        <source>The database is corrupted, please check it before to continue!</source>
-        <translation>O banco de dados está corrompido. Verifique-o antes de continuar!</translation>
-    </message>
-    <message>
         <source>Delete items &amp; companions</source>
         <translation>Excluir itens e acompanhamentos</translation>
     </message>
@@ -618,6 +614,10 @@ Arraste e solte sobre o nó desejado para atribuir.</translation>
     <message>
         <source>Open in file manager</source>
         <translation>Abrir no gerenciador de arquivos</translation>
+    </message>
+    <message>
+        <source>The database is corrupted. Please check it before you continue!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6190,6 +6190,11 @@ Certifique-se de que os arquivos não sejam somente de leitura!</translation>
         <translation>Selecione os tipos de arquivo que você gostaria de associar ao XnViewMP
 (E. Por exemplo, quando clicar duas vezes em um arquivo para abrir em um Windows Explorer)</translation>
     </message>
+    <message>
+        <source>Problem to change file association. 
+Please try to start with admin rights.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgFileClass</name>
@@ -8121,8 +8126,9 @@ Agradecemos por adquirir o %1.</translation>
         <translation>Removedor de fundo</translation>
     </message>
     <message>
-        <source>Please install it by using Tools › Plugins</source>
-        <translation>Instale usando Ferramentas › Plugins</translation>
+        <source>Plugin is not installed. 
+Please install it via Tools › Plugins</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12178,12 +12184,12 @@ Deseja continuar?</translation>
         <translation>Melhor</translation>
     </message>
     <message>
-        <source>File size (kbytes)</source>
-        <translation>Tamanho do arquivo (KB)</translation>
-    </message>
-    <message>
         <source>Compression rate: 1 to </source>
         <translation>Taxa de compressão: 1 para </translation>
+    </message>
+    <message>
+        <source>File size (kB)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12436,10 +12442,6 @@ Deseja continuar?</translation>
         <translation>Qualidade</translation>
     </message>
     <message>
-        <source>File size (kbytes)</source>
-        <translation>Tamanho do arquivo (KB)</translation>
-    </message>
-    <message>
         <source>Compression method</source>
         <translation>Método de compressão</translation>
     </message>
@@ -12486,6 +12488,10 @@ Deseja continuar?</translation>
     <message>
         <source>Use sharp (and slow) RGB→YUV conversion</source>
         <translation>Usar conversão RGB→YUV nítida (e lenta)</translation>
+    </message>
+    <message>
+        <source>File size (kB)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13034,10 +13040,6 @@ Deseja excluir o favorito &quot;%1&quot;?</translation>
         <translation>Tamanho (binários)</translation>
     </message>
     <message>
-        <source>Size (KB)</source>
-        <translation>Tamanho (KB)</translation>
-    </message>
-    <message>
         <source>File index</source>
         <translation>Índice do arquivo</translation>
     </message>
@@ -13280,6 +13282,10 @@ Deseja excluir o favorito &quot;%1&quot;?</translation>
     <message>
         <source>Aspect Ratio</source>
         <translation>Proporção</translation>
+    </message>
+    <message>
+        <source>Size (kB)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18476,10 +18482,6 @@ Você deseja manter as miniaturas?
  (Se você escolher SIM, o processo de atualização será lento)</translation>
     </message>
     <message>
-        <source>XnViewMP - There is a problem to update catalog (Error: %1), please contact the developer.</source>
-        <translation>XnViewMP - Ocorreu um problema ao atualizar o catálogo (Erro: %1). Entre em contato com o desenvolvedor.</translation>
-    </message>
-    <message>
         <source>Your previous session contains many loaded images, this can cause a slowdown!</source>
         <translation>Sua sessão anterior contém muitas imagens carregadas, isso pode causar lentidão!</translation>
     </message>
@@ -18536,6 +18538,12 @@ As avaliações, etiquetas e os rótulos de cor não serão salvos.</translation
     <message>
         <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
         <translation>Você precisa atualizar o catálogo (Configurações&gt;Catálogo&gt;Atualizar metadados) se desejar usar o novo nó no &apos;Filtro do Catálogo&apos;. </translation>
+    </message>
+    <message>
+        <source>There is a problem to update Catalog:
+(Error: % 1)
+Please contact the developer.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

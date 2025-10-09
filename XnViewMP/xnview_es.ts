@@ -249,10 +249,6 @@
         <translation>¡Se ha producido un error al guardar!</translation>
     </message>
     <message>
-        <source>The file &lt;%1&gt; is read-only, please choose another file name.</source>
-        <translation>El archivo &lt;%1&gt; es de sólo lectura, por favor seleccione otro nombre de archivo.</translation>
-    </message>
-    <message>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; Vacío &gt;</translation>
     </message>
@@ -327,6 +323,10 @@
     <message>
         <source>Saving image...</source>
         <translation>Guardando imagen...</translation>
+    </message>
+    <message>
+        <source>The file &lt;%1&gt; is read-only. Please choose another file name.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -478,10 +478,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Eliminar elementos</translation>
     </message>
     <message>
-        <source>The database is corrupted, please check it before to continue!</source>
-        <translation>¡La base de datos está dañada, por favor, compruébela antes de continuar!</translation>
-    </message>
-    <message>
         <source>&lt;Search results&gt;</source>
         <translation>&lt;Buscar resultados&gt;</translation>
     </message>
@@ -617,6 +613,10 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
     </message>
     <message>
         <source>Open in file manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The database is corrupted. Please check it before you continue!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6190,6 +6190,11 @@ Please make sure that files are not read-only!</source>
         <source>File association</source>
         <translation>Asociación de archivos</translation>
     </message>
+    <message>
+        <source>Problem to change file association. 
+Please try to start with admin rights.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgFileClass</name>
@@ -8120,8 +8125,9 @@ Gracias por su compra %1.</translation>
         <translation>Eliminador de fondo</translation>
     </message>
     <message>
-        <source>Please install it by using Tools › Plugins</source>
-        <translation>Instalar utilizando Herramientas › Complementos</translation>
+        <source>Plugin is not installed. 
+Please install it via Tools › Plugins</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12181,8 +12187,8 @@ Do you want to continue?</source>
         <translation>Compresión sin pérdidas</translation>
     </message>
     <message>
-        <source>File size (kbytes)</source>
-        <translation>Tamaño de archivo (kbytes)</translation>
+        <source>File size (kB)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12479,12 +12485,12 @@ Do you want to continue?</source>
         <translation>Método de compresión</translation>
     </message>
     <message>
-        <source>File size (kbytes)</source>
-        <translation>Tamaño de archivo (kbytes)</translation>
-    </message>
-    <message>
         <source>Use sharp (and slow) RGB→YUV conversion</source>
         <translation>Utilizar conversión RGB→YUV nítida (pero lenta)</translation>
+    </message>
+    <message>
+        <source>File size (kB)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12941,10 +12947,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Relación Ancho/Alto</translation>
     </message>
     <message>
-        <source>Size (KB)</source>
-        <translation>Tamaño (KB)</translation>
-    </message>
-    <message>
         <source>Images/frames count</source>
         <translation>Recuento de imágenes/fotogramas</translation>
     </message>
@@ -13274,6 +13276,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Aspect Ratio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Size (kB)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18455,10 +18461,6 @@ Puedo cambiarlo en Configuración › Catálogo.</translation>
         <translation>¡No se ha encontrado el archivo!</translation>
     </message>
     <message>
-        <source>XnViewMP - There is a problem to update catalog (Error: %1), please contact the developer.</source>
-        <translation>XnViewMP - Hay un problema para actualizar el catálogo (Error:%1), por favor, póngase en contacto con el desarrollador.</translation>
-    </message>
-    <message>
         <source>Your previous session contains many loaded images, this can cause a slowdown!</source>
         <translation>¡Su sesión anterior contiene muchas imágenes cargadas, ¡esto puede causar una ralentización!</translation>
     </message>
@@ -18528,6 +18530,12 @@ Evaluación, Marcas y Etiquetas de color no se guardarán.</translation>
     </message>
     <message>
         <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There is a problem to update Catalog:
+(Error: % 1)
+Please contact the developer.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

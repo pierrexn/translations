@@ -257,10 +257,6 @@
         <translation>Tallennuksen aikana tapahtui virhe!</translation>
     </message>
     <message>
-        <source>The file &lt;%1&gt; is read-only, please choose another file name.</source>
-        <translation>Tiedostoon &lt;%1&gt; on vain lukuoikeudet, valitse toinen tiedostonimi.</translation>
-    </message>
-    <message>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; Tyhjä &gt;</translation>
     </message>
@@ -327,6 +323,10 @@
     <message>
         <source>Saving image...</source>
         <translation>Tallennetaan kuvaa...</translation>
+    </message>
+    <message>
+        <source>The file &lt;%1&gt; is read-only. Please choose another file name.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -478,10 +478,6 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
         <translation>Poista kohteet</translation>
     </message>
     <message>
-        <source>The database is corrupted, please check it before to continue!</source>
-        <translation>Tietokanta on vioittunut, tarkasta se ennen kuin jatkat!</translation>
-    </message>
-    <message>
         <source>&lt;Search results&gt;</source>
         <translation>&lt;Etsintätulokset&gt;</translation>
     </message>
@@ -618,6 +614,10 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message>
         <source>Open in file manager</source>
         <translation>Avaa tiedostohallinnassa</translation>
+    </message>
+    <message>
+        <source>The database is corrupted. Please check it before you continue!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6190,6 +6190,11 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
         <source>File association</source>
         <translation>Tiedostokytkentä</translation>
     </message>
+    <message>
+        <source>Problem to change file association. 
+Please try to start with admin rights.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgFileClass</name>
@@ -8124,8 +8129,9 @@ Kiitos että tilasit %1.</translation>
         <translation>Taustan poistaja</translation>
     </message>
     <message>
-        <source>Please install it by using Tools › Plugins</source>
-        <translation>Asenna se kohdasta Työkalut › -Lisäosat</translation>
+        <source>Plugin is not installed. 
+Please install it via Tools › Plugins</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12186,8 +12192,8 @@ Haluatko jatkaa?</translation>
         <translation>Häviötön pakkaus</translation>
     </message>
     <message>
-        <source>File size (kbytes)</source>
-        <translation>Tiedostokoko (kbittiä)</translation>
+        <source>File size (kB)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12484,12 +12490,12 @@ Haluatko jatkaa?</translation>
         <translation>Pakkausmenetelmä</translation>
     </message>
     <message>
-        <source>File size (kbytes)</source>
-        <translation>Tiedostokoko (kbittiä)</translation>
-    </message>
-    <message>
         <source>Use sharp (and slow) RGB→YUV conversion</source>
         <translation>Käytä terävää (ja hidasta) RGB→YUV-muuntoa</translation>
+    </message>
+    <message>
+        <source>File size (kB)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12946,10 +12952,6 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
         <translation>Leveys/korkeus-suhde</translation>
     </message>
     <message>
-        <source>Size (KB)</source>
-        <translation>Koko (KB)</translation>
-    </message>
-    <message>
         <source>Images/frames count</source>
         <translation>Kuvia/kuvien määrä</translation>
     </message>
@@ -13280,6 +13282,10 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     <message>
         <source>Aspect Ratio</source>
         <translation>Kuvasuhde</translation>
+    </message>
+    <message>
+        <source>Size (kB)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18460,10 +18466,6 @@ Voit muuttaa sitä asetusten kohdasta &quot;Katalogi&quot;.</translation>
         <translation>Tiedostoa ei löytynyt!</translation>
     </message>
     <message>
-        <source>XnViewMP - There is a problem to update catalog (Error: %1), please contact the developer.</source>
-        <translation>XnViewMP - Katalogia päivitettäessä kohdattiin ongelma (virhe: %1). Ota yhteyttä kehittäjään.</translation>
-    </message>
-    <message>
         <source>Your previous session contains many loaded images, this can cause a slowdown!</source>
         <translation>Hitauden syy, edellinen istuntosi sisältää useita ladattavia kuvia!</translation>
     </message>
@@ -18534,6 +18536,12 @@ Arvioita-, tageja ja väritunnisteita ei tallenneta.</translation>
     <message>
         <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
         <translation>Sinun on päivitettävä luettelo (Asetukset&gt;Luettelo&gt;Päivitä metatiedot), jos haluat käyttää uutta solmua kohdassa &apos;Luettelosuodatin&apos;. </translation>
+    </message>
+    <message>
+        <source>There is a problem to update Catalog:
+(Error: % 1)
+Please contact the developer.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

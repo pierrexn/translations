@@ -241,10 +241,6 @@
         <translation>Կադրը %1/%2</translation>
     </message>
     <message>
-        <source>The file &lt;%1&gt; is read-only, please choose another file name.</source>
-        <translation>&lt;%1&gt; ֆայլը միայն կարդալու համար է, ընտրեք այլ անուն:</translation>
-    </message>
-    <message>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; Դատարկ &gt;</translation>
     </message>
@@ -327,6 +323,10 @@
     <message>
         <source>Saving image...</source>
         <translation>Պատկերը պահվում է...</translation>
+    </message>
+    <message>
+        <source>The file &lt;%1&gt; is read-only. Please choose another file name.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -561,10 +561,6 @@ Drag and Drop over the desired node to assign.</translation>
         <translation>Հատկություններ</translation>
     </message>
     <message>
-        <source>The database is corrupted, please check it before to continue!</source>
-        <translation>Շտեմարանը վնասված է, շարունակելուց առաջ ստուգեք այն:</translation>
-    </message>
-    <message>
         <source>Delete items &amp; companions</source>
         <translation>Ջնջել միույթները և ուղեկիցները</translation>
     </message>
@@ -617,6 +613,10 @@ Drag and Drop over the desired node to assign.</translation>
     </message>
     <message>
         <source>Open in file manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The database is corrupted. Please check it before you continue!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6189,6 +6189,11 @@ Please make sure that files are not read-only!</source>
 (E.g. when double-clicking on a file to open under Windows Explorer)</source>
         <translation>Նշեք ֆայլի տեսակները, որոնք ցանկանում եք ասոցիացնել XnViewMP-ի հետ</translation>
     </message>
+    <message>
+        <source>Problem to change file association. 
+Please try to start with admin rights.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgFileClass</name>
@@ -8119,8 +8124,9 @@ Thank you for purchasing %1.</source>
         <translation>Հեռացնել խորքը</translation>
     </message>
     <message>
-        <source>Please install it by using Tools › Plugins</source>
-        <translation>Տեղադրեք այն օգտագործելով Գորևծիքներ » Օժանդակիչներ</translation>
+        <source>Plugin is not installed. 
+Please install it via Tools › Plugins</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12180,8 +12186,8 @@ Do you want to continue?</source>
         <translation>Սեղմում՝ առանց կորստի</translation>
     </message>
     <message>
-        <source>File size (kbytes)</source>
-        <translation>Ֆայլի չափ (ԿԲ)</translation>
+        <source>File size (kB)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12434,10 +12440,6 @@ Do you want to continue?</source>
         <translation>Որակը</translation>
     </message>
     <message>
-        <source>File size (kbytes)</source>
-        <translation>Ֆայլի չափ (ԿԲ)</translation>
-    </message>
-    <message>
         <source>Lossless</source>
         <translation>Անկորուստ</translation>
     </message>
@@ -12484,6 +12486,10 @@ Do you want to continue?</source>
     <message>
         <source>Use sharp (and slow) RGB→YUV conversion</source>
         <translation>Օգտագործել sharp (և դանդաղ) RGB→YUV փոխարկում</translation>
+    </message>
+    <message>
+        <source>File size (kB)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12912,10 +12918,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Լայնություն</translation>
     </message>
     <message>
-        <source>Size (KB)</source>
-        <translation>Չափ (Կբ)</translation>
-    </message>
-    <message>
         <source>Images/frames count</source>
         <translation>Պատկերների/Կադրերի քանակ</translation>
     </message>
@@ -13273,6 +13275,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Aspect Ratio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Size (kB)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18468,10 +18474,6 @@ Do you want to keep the thumbnails?
  (Եթե ընտրեք ԱՅՈ, ապա արդիացումը կդանդաղի)</translation>
     </message>
     <message>
-        <source>XnViewMP - There is a problem to update catalog (Error: %1), please contact the developer.</source>
-        <translation>XnViewMP՝ խնդիր՝ գրացուցակը թարմացնելիս (սխալ՝ %1): Գրեք մեզ:</translation>
-    </message>
-    <message>
         <source>Your previous session contains many loaded images, this can cause a slowdown!</source>
         <translation>Ձեր նախորդ աշխատաշրջանը պարունակում է բազմաթիվ բեռնված պատկերներ, ինչը կարող է դանդաղեցնել ծրագրի աշխատանքը:</translation>
     </message>
@@ -18527,6 +18529,12 @@ Rating, Tag &amp; Color labels will not be saved.</source>
     </message>
     <message>
         <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There is a problem to update Catalog:
+(Error: % 1)
+Please contact the developer.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

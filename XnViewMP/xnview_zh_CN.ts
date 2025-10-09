@@ -279,78 +279,83 @@
 “%1”？</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1411"/>
+        <location filename="ViewWindow.cpp" line="1413"/>
         <source>Frame %1/%2</source>
         <translation>帧 %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1414"/>
+        <location filename="ViewWindow.cpp" line="1416"/>
         <source>Icon %1/%2</source>
         <translation>图标 %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1416"/>
+        <location filename="ViewWindow.cpp" line="1418"/>
         <source>Page %1/%2</source>
         <translation>页 %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1582"/>
-        <location filename="ViewWindow.cpp" line="1601"/>
+        <location filename="ViewWindow.cpp" line="1584"/>
+        <location filename="ViewWindow.cpp" line="1603"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; 空 &gt;</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2944"/>
+        <location filename="ViewWindow.cpp" line="2946"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
         <translation type="unfinished">图像将转换为 24 位 RGB（每个通道 8 位）</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2962"/>
+        <location filename="ViewWindow.cpp" line="2956"/>
+        <source>The file &lt;%1&gt; is read-only. Please choose another file name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ViewWindow.cpp" line="2964"/>
         <source>Confirm Save</source>
         <translation>确认保存</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2963"/>
+        <location filename="ViewWindow.cpp" line="2965"/>
         <source>&lt;%1&gt; already exists!</source>
         <translation>&lt;%1&gt; 已存在！</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2963"/>
+        <location filename="ViewWindow.cpp" line="2965"/>
         <source>Do you want to overwrite it?</source>
         <translation>你想覆盖它吗？</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2987"/>
-        <location filename="ViewWindow.cpp" line="3118"/>
-        <location filename="ViewWindow.cpp" line="3168"/>
+        <location filename="ViewWindow.cpp" line="2989"/>
+        <location filename="ViewWindow.cpp" line="3120"/>
+        <location filename="ViewWindow.cpp" line="3170"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
         <translation>保存图片…</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2989"/>
-        <location filename="ViewWindow.cpp" line="3170"/>
+        <location filename="ViewWindow.cpp" line="2991"/>
+        <location filename="ViewWindow.cpp" line="3172"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2989"/>
-        <location filename="ViewWindow.cpp" line="3170"/>
+        <location filename="ViewWindow.cpp" line="2991"/>
+        <location filename="ViewWindow.cpp" line="3172"/>
         <source>An error occurred during saving!</source>
         <translation>保存时出错！</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3260"/>
+        <location filename="ViewWindow.cpp" line="3262"/>
         <source>Properties</source>
         <translation>属性</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4406"/>
+        <location filename="ViewWindow.cpp" line="4427"/>
         <source>Colors count</source>
         <translation>颜色统计</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2012"/>
+        <location filename="ViewWindow.cpp" line="2014"/>
         <source>Customize toolbar...</source>
         <translation>自定义工具栏…</translation>
     </message>
@@ -375,46 +380,41 @@
         <translation>不要再次询问</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2268"/>
-        <location filename="ViewWindow.cpp" line="2274"/>
-        <location filename="ViewWindow.cpp" line="2278"/>
+        <location filename="ViewWindow.cpp" line="2270"/>
+        <location filename="ViewWindow.cpp" line="2276"/>
+        <location filename="ViewWindow.cpp" line="2280"/>
         <source>Delete items</source>
         <translation>删除文件</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2268"/>
+        <location filename="ViewWindow.cpp" line="2270"/>
         <source>Would you like to discard your edits and delete 
 &quot;%1&quot;?</source>
         <translation>是否要放弃编辑并删除
 &quot;%1&quot;？</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2274"/>
+        <location filename="ViewWindow.cpp" line="2276"/>
         <source>Are you sure to delete 
 &quot;%1&quot;?</source>
         <translation>您确定要删除 
 &quot;%1&quot;？</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2278"/>
+        <location filename="ViewWindow.cpp" line="2280"/>
         <source>Are you sure to delete 
 &quot;%1&quot; (%2 items)?</source>
         <translation>您确定要删除 
 &quot;%1&quot;（%2 项）？</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2944"/>
-        <location filename="ViewWindow.cpp" line="2954"/>
+        <location filename="ViewWindow.cpp" line="2946"/>
+        <location filename="ViewWindow.cpp" line="2956"/>
         <source>Save</source>
         <translation>保存</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2954"/>
-        <source>The file &lt;%1&gt; is read-only, please choose another file name.</source>
-        <translation>文件&lt;%1&gt;是只读的，请选择另外一个文件名。</translation>
-    </message>
-    <message>
-        <location filename="ViewWindow.cpp" line="4406"/>
+        <location filename="ViewWindow.cpp" line="4427"/>
         <source>Number of unique colors: %1</source>
         <translation>独特颜色的数量： %1</translation>
     </message>
@@ -472,28 +472,28 @@
 <context>
     <name>BaseViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="4890"/>
+        <location filename="ViewWindow.cpp" line="4911"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4881"/>
-        <location filename="ViewWindow.cpp" line="4890"/>
+        <location filename="ViewWindow.cpp" line="4902"/>
+        <location filename="ViewWindow.cpp" line="4911"/>
         <source>File can&apos;t be loaded!</source>
         <translation>无法加载文件！</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4881"/>
+        <location filename="ViewWindow.cpp" line="4902"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <translation>为了浏览及转换PDF/PS/EPS/AI文件，XnView MP需要系统中装有Ghostscript %1。</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4882"/>
+        <location filename="ViewWindow.cpp" line="4903"/>
         <source>Please visit the %1 for more information.</source>
         <translation>请访问 %1 以获取更多信息。</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4894"/>
+        <location filename="ViewWindow.cpp" line="4915"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; 空 &gt;</translation>
     </message>
@@ -547,94 +547,94 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 <context>
     <name>BrowserWindow</name>
     <message>
-        <location filename="BrowserWindow.cpp" line="1745"/>
+        <location filename="BrowserWindow.cpp" line="1746"/>
         <source>Folders</source>
         <translation>文件夹</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1749"/>
+        <location filename="BrowserWindow.cpp" line="1750"/>
         <source>Favorites</source>
         <translation>收藏夹</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1753"/>
+        <location filename="BrowserWindow.cpp" line="1754"/>
         <source>Catalog Filter</source>
         <oldsource>Categories Filter</oldsource>
         <translation>分类筛选器</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1763"/>
+        <location filename="BrowserWindow.cpp" line="1764"/>
         <source>Categories</source>
         <translation>分类</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1768"/>
+        <location filename="BrowserWindow.cpp" line="1769"/>
         <source>Category Sets</source>
         <translation>分类合集</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1801"/>
+        <location filename="BrowserWindow.cpp" line="1802"/>
         <source>Info</source>
         <translation>信息</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1978"/>
+        <location filename="BrowserWindow.cpp" line="1979"/>
         <source>Match</source>
         <translatorcomment>匹配筛选条件的意思吧，一致则无法理解其意义</translatorcomment>
         <translation>匹配</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2011"/>
+        <location filename="BrowserWindow.cpp" line="2012"/>
         <source>Global</source>
         <translatorcomment>整个电脑内的文件？</translatorcomment>
         <translation>全局</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2018"/>
+        <location filename="BrowserWindow.cpp" line="2019"/>
         <source>Current folder</source>
         <translation>当前目录</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2025"/>
+        <location filename="BrowserWindow.cpp" line="2026"/>
         <source>Current folder (Recursive)</source>
         <translatorcomment>包含子目录</translatorcomment>
         <translation>当前目录（递归）</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3095"/>
+        <location filename="BrowserWindow.cpp" line="3096"/>
         <source>&lt;Search results&gt;</source>
         <translation>&lt;搜索 结果&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3097"/>
+        <location filename="BrowserWindow.cpp" line="3098"/>
         <source>&lt;Tagged files&gt;</source>
         <translation>&lt;标记的文件&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3187"/>
+        <location filename="BrowserWindow.cpp" line="3188"/>
         <source>This folder doesn&apos;t exist!</source>
         <translation>文件夹不存在!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3400"/>
+        <location filename="BrowserWindow.cpp" line="3401"/>
         <source>Favorite name:</source>
         <translation>收藏夹名称:</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="3645"/>
+        <location filename="BrowserWindow.cpp" line="3646"/>
         <source>Are you sure to delete these %n item(s)?</source>
         <translation>
             <numerusform>确定要删除这%n个文件吗?</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3730"/>
+        <location filename="BrowserWindow.cpp" line="3731"/>
         <source>The files cannot be renamed, an error occurred.</source>
         <translation>文件不能被重命名，发生了一个错误。</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3187"/>
-        <location filename="BrowserWindow.cpp" line="3730"/>
+        <location filename="BrowserWindow.cpp" line="3188"/>
+        <location filename="BrowserWindow.cpp" line="3731"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
@@ -650,26 +650,27 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="908"/>
-        <source>The database is corrupted, please check it before to continue!</source>
-        <translation>数据库已损坏，请检查后再继续！</translation>
+        <source>The database is corrupted. Please check it before you continue!</source>
+        <oldsource>The database is corrupted, please check it before to continue!</oldsource>
+        <translation type="unfinished">数据库已损坏，请检查后再继续！</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1647"/>
+        <location filename="BrowserWindow.cpp" line="1648"/>
         <source>Add to Favorites</source>
         <translation>添加到收藏夹</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1809"/>
+        <location filename="BrowserWindow.cpp" line="1810"/>
         <source>Metadata</source>
         <translation>元数据</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1818"/>
+        <location filename="BrowserWindow.cpp" line="1819"/>
         <source>Histogram</source>
         <translation>直方图</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1988"/>
+        <location filename="BrowserWindow.cpp" line="1989"/>
         <source>Click to filter - use Shift and Control for multiple selections.
 Right Click on different items for pop-up menus with actions.
 Drag and Drop over the desired node to assign.</source>
@@ -678,70 +679,70 @@ Drag and Drop over the desired node to assign.</source>
 拖放到期望的节点上完成分配。</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1994"/>
+        <location filename="BrowserWindow.cpp" line="1995"/>
         <source>Match any selected entry (OR)</source>
         <translation>匹配任何选定的条目（充分）</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2000"/>
+        <location filename="BrowserWindow.cpp" line="2001"/>
         <source>Match all selected entries (AND)</source>
         <translation>匹配所有选定的条目（必要）</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3099"/>
+        <location filename="BrowserWindow.cpp" line="3100"/>
         <source>&lt;Catalog filter results&gt;</source>
         <translation>&lt;分类筛选结果&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3101"/>
+        <location filename="BrowserWindow.cpp" line="3102"/>
         <source>&lt;files&gt;</source>
         <translation>&lt;文件&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3638"/>
+        <location filename="BrowserWindow.cpp" line="3639"/>
         <source>Delete items &amp; companions</source>
         <translatorcomment>companions应该是与之相关的XMP sidecar之类的相关文件意思吧？</translatorcomment>
         <translation>删除文件及相关文件</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="3639"/>
+        <location filename="BrowserWindow.cpp" line="3640"/>
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
         <translation>
             <numerusform>确定要删除选中的 %n 项 - %1 项吗?</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4094"/>
+        <location filename="BrowserWindow.cpp" line="4095"/>
         <source>Search...</source>
         <translation>搜索…</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4095"/>
+        <location filename="BrowserWindow.cpp" line="4096"/>
         <source>Add to favorites...</source>
         <translation>添加到收藏夹…</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4098"/>
+        <location filename="BrowserWindow.cpp" line="4099"/>
         <source>Start slideshow</source>
         <translation>启动幻灯片</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4100"/>
+        <location filename="BrowserWindow.cpp" line="4101"/>
         <source>Open in file manager</source>
         <translation type="unfinished">用资源管理器打开文件</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4103"/>
+        <location filename="BrowserWindow.cpp" line="4104"/>
         <source>Properties</source>
         <translation>属性</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4212"/>
+        <location filename="BrowserWindow.cpp" line="4213"/>
         <source>Load filelist</source>
         <translation>加载文件列表</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3644"/>
+        <location filename="BrowserWindow.cpp" line="3645"/>
         <source>Delete items</source>
         <translation>删除文件</translation>
     </message>
@@ -751,22 +752,22 @@ Drag and Drop over the desired node to assign.</source>
         <translation>自定义工具栏…</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1655"/>
+        <location filename="BrowserWindow.cpp" line="1656"/>
         <source>Add Favorite...</source>
         <translation>添加到收藏夹…</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4092"/>
+        <location filename="BrowserWindow.cpp" line="4093"/>
         <source>Show files in subfolders</source>
         <translation>显示子文件夹中的文件</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4135"/>
+        <location filename="BrowserWindow.cpp" line="4136"/>
         <source>Delete folder</source>
         <translation>删除文件夹</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4135"/>
+        <location filename="BrowserWindow.cpp" line="4136"/>
         <source>Are you sure to delete this folder?</source>
         <translation>您确定要把此文件夹放入回收站吗?</translation>
     </message>
@@ -7947,6 +7948,11 @@ Please make sure that files are not read-only!</oldsource>
     </message>
     <message>
         <location filename="DlgFileAssociation.cpp" line="111"/>
+        <source>Problem to change file association. 
+Please try to start with admin rights.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="DlgFileAssociation.cpp" line="138"/>
         <source>Problem to change file association. Please try to start with admin rights.</source>
         <translation>无法更改文件关联。请确保您具有管理员权限。</translation>
@@ -10402,8 +10408,9 @@ Thank you for purchasing %1.</source>
     </message>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
-        <source>Please install it by using Tools › Plugins</source>
-        <translation type="unfinished">请使用 工具 › 插件 安装</translation>
+        <source>Plugin is not installed. 
+Please install it via Tools › Plugins</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12029,38 +12036,38 @@ Thumbnail</source>
 <context>
     <name>DlgSettingsGeneral</name>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="289"/>
-        <location filename="DlgSettingsGeneral.cpp" line="290"/>
+        <location filename="DlgSettingsGeneral.cpp" line="283"/>
+        <location filename="DlgSettingsGeneral.cpp" line="284"/>
         <source>Load profile</source>
         <translation>加载配置文件</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="297"/>
+        <location filename="DlgSettingsGeneral.cpp" line="291"/>
         <source>Perceptual</source>
         <translation>感知式</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="297"/>
+        <location filename="DlgSettingsGeneral.cpp" line="291"/>
         <source>Relative colorimetric</source>
         <translation>相对色度</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="297"/>
+        <location filename="DlgSettingsGeneral.cpp" line="291"/>
         <source>Saturation</source>
         <translation>饱和度</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="297"/>
+        <location filename="DlgSettingsGeneral.cpp" line="291"/>
         <source>Absolute colorimetric</source>
         <translation>绝对色度</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="463"/>
+        <location filename="DlgSettingsGeneral.cpp" line="457"/>
         <source>Delete</source>
         <translation>删除</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="463"/>
+        <location filename="DlgSettingsGeneral.cpp" line="457"/>
         <source>Do you want to delete the selected Auto Correct entry?</source>
         <translation>是否想要删除选择的自动替换条目?</translation>
     </message>
@@ -12559,42 +12566,42 @@ Thumbnail</source>
         <translation type="unfinished">选择程序</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="338"/>
+        <location filename="DlgSettingsIntegration.cpp" line="344"/>
         <source>Paths</source>
         <translation>路径</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="338"/>
+        <location filename="DlgSettingsIntegration.cpp" line="344"/>
         <source>Please be careful to folder rights by using XnView folder</source>
         <translation>使用XnView文件夹时，请留意文件夹权限</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="528"/>
+        <location filename="DlgSettingsIntegration.cpp" line="534"/>
         <source>XnViewMP is a fast multi-format graphics browser, viewer, and converter. It reads more than 400 file formats.</source>
         <translation>XnViewMP是一款集图像浏览、查看及转换于一身的便捷软件。它支持读取400余种文件格式。</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="529"/>
+        <location filename="DlgSettingsIntegration.cpp" line="535"/>
         <source>XnViewMP for Windows</source>
         <translation>XnViewMP Windows版</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="548"/>
+        <location filename="DlgSettingsIntegration.cpp" line="554"/>
         <source>XnView Slide file</source>
         <translation type="unfinished">XnView 幻灯片文件</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="555"/>
+        <location filename="DlgSettingsIntegration.cpp" line="561"/>
         <source>%1 Image file</source>
         <translation>%1 图像文件</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="746"/>
+        <location filename="DlgSettingsIntegration.cpp" line="752"/>
         <source>File Associations</source>
         <translation>文件关联</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="746"/>
+        <location filename="DlgSettingsIntegration.cpp" line="752"/>
         <source>Please start XnViewMP with admin rights (only the first time).</source>
         <translation>请以管理员权限启动 XnViewMP（只需一次）。</translation>
     </message>
@@ -15755,8 +15762,9 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="DlgWriteJP2K.ui" line="138"/>
-        <source>File size (kbytes)</source>
-        <translation>文件大小(KB)</translation>
+        <source>File size (kB)</source>
+        <oldsource>File size (kbytes)</oldsource>
+        <translation type="unfinished">文件大小(KB)</translation>
     </message>
 </context>
 <context>
@@ -16121,8 +16129,9 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="173"/>
-        <source>File size (kbytes)</source>
-        <translation>文件大小(KB)</translation>
+        <source>File size (kB)</source>
+        <oldsource>File size (kbytes)</oldsource>
+        <translation type="unfinished">文件大小(KB)</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="207"/>
@@ -16630,7 +16639,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="69"/>
         <location filename="InfoPropertiesView.cpp" line="647"/>
-        <location filename="ItemModel.cpp" line="1110"/>
+        <location filename="ItemModel.cpp" line="1103"/>
         <location filename="SearchField.cpp" line="32"/>
         <location filename="TemplateData.cpp" line="2570"/>
         <location filename="TemplateData.cpp" line="2593"/>
@@ -16640,7 +16649,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="70"/>
         <location filename="InfoPropertiesView.cpp" line="648"/>
-        <location filename="ItemModel.cpp" line="1112"/>
+        <location filename="ItemModel.cpp" line="1105"/>
         <location filename="SearchField.cpp" line="33"/>
         <location filename="TemplateData.cpp" line="2571"/>
         <location filename="TemplateData.cpp" line="2594"/>
@@ -16678,7 +16687,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="81"/>
-        <location filename="ItemModel.cpp" line="1114"/>
+        <location filename="ItemModel.cpp" line="1107"/>
         <location filename="TemplateData.cpp" line="2574"/>
         <location filename="TemplateData.cpp" line="2596"/>
         <source>DPI</source>
@@ -16686,7 +16695,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="86"/>
-        <location filename="ItemModel.cpp" line="1092"/>
+        <location filename="ItemModel.cpp" line="1085"/>
         <source>Print size</source>
         <translation>打印尺寸</translation>
     </message>
@@ -16908,43 +16917,43 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>版权</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1090"/>
+        <location filename="ItemModel.cpp" line="1083"/>
         <source>Properties</source>
         <translation>属性</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1096"/>
+        <location filename="ItemModel.cpp" line="1089"/>
         <location filename="SearchField.cpp" line="25"/>
         <location filename="TemplateData.cpp" line="2778"/>
         <source>Rating</source>
         <translation>评级</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1098"/>
+        <location filename="ItemModel.cpp" line="1091"/>
         <source>Colour label</source>
         <translation>颜色标签</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1100"/>
+        <location filename="ItemModel.cpp" line="1093"/>
         <source>Tag</source>
         <translation>标记</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1106"/>
+        <location filename="ItemModel.cpp" line="1099"/>
         <source>Path</source>
         <translation type="unfinished">路径</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="659"/>
         <location filename="InfoPropertiesView.cpp" line="699"/>
-        <location filename="ItemModel.cpp" line="1102"/>
+        <location filename="ItemModel.cpp" line="1095"/>
         <location filename="SearchField.cpp" line="36"/>
         <location filename="TemplateData.cpp" line="2573"/>
         <source>Comment</source>
         <translation>注释</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1108"/>
+        <location filename="ItemModel.cpp" line="1101"/>
         <location filename="SearchField.cpp" line="34"/>
         <location filename="TemplateData.cpp" line="2583"/>
         <source>Ratio</source>
@@ -16961,7 +16970,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation type="unfinished">文件类型</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1116"/>
+        <location filename="ItemModel.cpp" line="1109"/>
         <source>Extension</source>
         <translation>扩展名</translation>
     </message>
@@ -16986,7 +16995,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation type="unfinished">栏目(数字)</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1118"/>
+        <location filename="ItemModel.cpp" line="1111"/>
         <location filename="SearchField.cpp" line="24"/>
         <location filename="TemplateData.cpp" line="2782"/>
         <source>Categories</source>
@@ -17007,7 +17016,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="EditXMPWidget.cpp" line="369"/>
         <location filename="IptcEditBase.cpp" line="83"/>
         <location filename="IptcEditBase.cpp" line="115"/>
-        <location filename="ItemModel.cpp" line="1104"/>
+        <location filename="ItemModel.cpp" line="1097"/>
         <location filename="SearchField.cpp" line="35"/>
         <location filename="TemplateData.cpp" line="2802"/>
         <source>Annotation</source>
@@ -17131,8 +17140,9 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="EditXMPWidget.cpp" line="368"/>
         <location filename="IptcEditBase.cpp" line="82"/>
         <location filename="TemplateData.cpp" line="2800"/>
-        <source>Size (KB)</source>
-        <translation>大小（KB)</translation>
+        <source>Size (kB)</source>
+        <oldsource>Size (KB)</oldsource>
+        <translation type="unfinished">大小（KB)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2581"/>
@@ -17502,7 +17512,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1464"/>
-        <location filename="ItemModel.cpp" line="1121"/>
+        <location filename="ItemModel.cpp" line="1114"/>
         <location filename="SearchField.cpp" line="71"/>
         <location filename="TemplateData.cpp" line="2605"/>
         <source>Maker</source>
@@ -17510,7 +17520,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1468"/>
-        <location filename="ItemModel.cpp" line="1123"/>
+        <location filename="ItemModel.cpp" line="1116"/>
         <location filename="SearchField.cpp" line="72"/>
         <location filename="TemplateData.cpp" line="2606"/>
         <source>Model</source>
@@ -17523,7 +17533,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1480"/>
-        <location filename="ItemModel.cpp" line="1125"/>
+        <location filename="ItemModel.cpp" line="1118"/>
         <source>ISO</source>
         <translation type="unfinished">ISO感光度</translation>
     </message>
@@ -17583,35 +17593,35 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation type="unfinished">风景</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1127"/>
+        <location filename="ItemModel.cpp" line="1120"/>
         <source>ShutterSpeed</source>
         <translation>快门速度</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1129"/>
+        <location filename="ItemModel.cpp" line="1122"/>
         <source>Exposure Time</source>
         <translation>曝光时间</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1476"/>
-        <location filename="ItemModel.cpp" line="1131"/>
+        <location filename="ItemModel.cpp" line="1124"/>
         <source>Focal Length</source>
         <translation>焦距</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1133"/>
+        <location filename="ItemModel.cpp" line="1126"/>
         <location filename="TemplateData.cpp" line="2644"/>
         <source>Aperture</source>
         <translation>光圈</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1137"/>
+        <location filename="ItemModel.cpp" line="1130"/>
         <location filename="TemplateData.cpp" line="2692"/>
         <source>Latitude</source>
         <translation>纬度</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1139"/>
+        <location filename="ItemModel.cpp" line="1132"/>
         <location filename="TemplateData.cpp" line="2695"/>
         <source>Longitude</source>
         <translation>经度</translation>
@@ -17636,7 +17646,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1484"/>
-        <location filename="ItemModel.cpp" line="1135"/>
+        <location filename="ItemModel.cpp" line="1128"/>
         <location filename="SearchField.cpp" line="81"/>
         <location filename="TemplateData.cpp" line="2639"/>
         <source>F-Number</source>
@@ -18101,7 +18111,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoIPTCView.cpp" line="25"/>
         <location filename="IptcHelper.cpp" line="17"/>
-        <location filename="ItemModel.cpp" line="1142"/>
+        <location filename="ItemModel.cpp" line="1135"/>
         <location filename="SearchField.cpp" line="40"/>
         <location filename="TemplateData.cpp" line="2706"/>
         <source>Caption</source>
@@ -18111,7 +18121,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="EditXMPWidget.cpp" line="116"/>
         <location filename="InfoIPTCView.cpp" line="27"/>
         <location filename="IptcHelper.cpp" line="19"/>
-        <location filename="ItemModel.cpp" line="1144"/>
+        <location filename="ItemModel.cpp" line="1137"/>
         <location filename="SearchField.cpp" line="41"/>
         <location filename="SearchField.cpp" line="93"/>
         <location filename="TemplateData.cpp" line="2707"/>
@@ -18123,7 +18133,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="EditXMPWidget.cpp" line="132"/>
         <location filename="InfoIPTCView.cpp" line="28"/>
         <location filename="IptcHelper.cpp" line="20"/>
-        <location filename="ItemModel.cpp" line="1146"/>
+        <location filename="ItemModel.cpp" line="1139"/>
         <location filename="SearchField.cpp" line="42"/>
         <location filename="SearchField.cpp" line="97"/>
         <location filename="TemplateData.cpp" line="2708"/>
@@ -18144,7 +18154,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="EditXMPWidget.cpp" line="122"/>
         <location filename="InfoIPTCView.cpp" line="34"/>
         <location filename="IptcHelper.cpp" line="23"/>
-        <location filename="ItemModel.cpp" line="1148"/>
+        <location filename="ItemModel.cpp" line="1141"/>
         <location filename="SearchField.cpp" line="44"/>
         <location filename="TemplateData.cpp" line="2714"/>
         <source>Keywords</source>
@@ -18168,7 +18178,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoIPTCView.cpp" line="41"/>
         <location filename="IptcHelper.cpp" line="31"/>
-        <location filename="ItemModel.cpp" line="1160"/>
+        <location filename="ItemModel.cpp" line="1153"/>
         <location filename="SearchField.cpp" line="47"/>
         <location filename="SearchField.cpp" line="89"/>
         <location filename="TemplateData.cpp" line="2721"/>
@@ -18179,7 +18189,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoIPTCView.cpp" line="42"/>
         <location filename="IptcHelper.cpp" line="27"/>
-        <location filename="ItemModel.cpp" line="1152"/>
+        <location filename="ItemModel.cpp" line="1145"/>
         <location filename="SearchField.cpp" line="48"/>
         <location filename="TemplateData.cpp" line="2722"/>
         <source>Byline</source>
@@ -18188,7 +18198,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoIPTCView.cpp" line="43"/>
         <location filename="IptcHelper.cpp" line="28"/>
-        <location filename="ItemModel.cpp" line="1154"/>
+        <location filename="ItemModel.cpp" line="1147"/>
         <location filename="SearchField.cpp" line="49"/>
         <location filename="TemplateData.cpp" line="2723"/>
         <source>Byline title</source>
@@ -18205,7 +18215,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="EditXMPWidget.cpp" line="131"/>
         <location filename="InfoIPTCView.cpp" line="45"/>
         <location filename="IptcHelper.cpp" line="30"/>
-        <location filename="ItemModel.cpp" line="1158"/>
+        <location filename="ItemModel.cpp" line="1151"/>
         <location filename="SearchField.cpp" line="51"/>
         <location filename="SearchField.cpp" line="99"/>
         <location filename="TemplateData.cpp" line="2725"/>
@@ -18263,7 +18273,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="EditXMPWidget.cpp" line="184"/>
         <location filename="InfoIPTCView.cpp" line="61"/>
         <location filename="IptcHelper.cpp" line="43"/>
-        <location filename="ItemModel.cpp" line="1164"/>
+        <location filename="ItemModel.cpp" line="1157"/>
         <location filename="SearchField.cpp" line="60"/>
         <location filename="SearchField.cpp" line="94"/>
         <location filename="SearchField.cpp" line="109"/>
@@ -18291,7 +18301,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="EditXMPWidget.cpp" line="185"/>
         <location filename="InfoIPTCView.cpp" line="64"/>
         <location filename="IptcHelper.cpp" line="46"/>
-        <location filename="ItemModel.cpp" line="1170"/>
+        <location filename="ItemModel.cpp" line="1163"/>
         <location filename="SearchField.cpp" line="63"/>
         <location filename="SearchField.cpp" line="95"/>
         <location filename="SearchField.cpp" line="112"/>
@@ -18357,7 +18367,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoIPTCView.cpp" line="73"/>
         <location filename="IptcHelper.cpp" line="32"/>
-        <location filename="ItemModel.cpp" line="1162"/>
+        <location filename="ItemModel.cpp" line="1155"/>
         <location filename="SearchField.cpp" line="66"/>
         <location filename="TemplateData.cpp" line="2748"/>
         <source>Contact</source>
@@ -18367,7 +18377,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="EditXMPWidget.cpp" line="182"/>
         <location filename="InfoIPTCView.cpp" line="62"/>
         <location filename="IptcHelper.cpp" line="44"/>
-        <location filename="ItemModel.cpp" line="1166"/>
+        <location filename="ItemModel.cpp" line="1159"/>
         <location filename="SearchField.cpp" line="61"/>
         <location filename="SearchField.cpp" line="106"/>
         <location filename="TemplateData.cpp" line="2743"/>
@@ -18381,7 +18391,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="IptcHelper.cpp" line="24"/>
-        <location filename="ItemModel.cpp" line="1150"/>
+        <location filename="ItemModel.cpp" line="1143"/>
         <source>Categories</source>
         <translation>分类</translation>
     </message>
@@ -18402,7 +18412,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="130"/>
-        <location filename="ItemModel.cpp" line="1156"/>
+        <location filename="ItemModel.cpp" line="1149"/>
         <location filename="SearchField.cpp" line="50"/>
         <location filename="SearchField.cpp" line="96"/>
         <location filename="TemplateData.cpp" line="2724"/>
@@ -18415,7 +18425,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="EditXMPWidget.cpp" line="127"/>
         <location filename="EditXMPWidget.cpp" line="168"/>
         <location filename="EditXMPWidget.cpp" line="183"/>
-        <location filename="ItemModel.cpp" line="1168"/>
+        <location filename="ItemModel.cpp" line="1161"/>
         <location filename="SearchField.cpp" line="62"/>
         <location filename="SearchField.cpp" line="100"/>
         <location filename="SearchField.cpp" line="110"/>
@@ -18545,7 +18555,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="EditXMPWidget.cpp" line="111"/>
         <location filename="InfoIPTCView.cpp" line="60"/>
         <location filename="IptcHelper.cpp" line="49"/>
-        <location filename="ItemModel.cpp" line="1172"/>
+        <location filename="ItemModel.cpp" line="1165"/>
         <location filename="SearchField.cpp" line="57"/>
         <location filename="TemplateData.cpp" line="2739"/>
         <source>Document title</source>
@@ -18873,52 +18883,52 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 <context>
     <name>ItemModel</name>
     <message>
-        <location filename="ItemModel.cpp" line="1074"/>
+        <location filename="ItemModel.cpp" line="1067"/>
         <source>No.</source>
         <translation>编号</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1076"/>
+        <location filename="ItemModel.cpp" line="1069"/>
         <source>Name</source>
         <translation>文件名</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1078"/>
+        <location filename="ItemModel.cpp" line="1071"/>
         <source>Size</source>
         <translation>尺寸</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1080"/>
+        <location filename="ItemModel.cpp" line="1073"/>
         <source>Info</source>
         <translation>信息</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1082"/>
+        <location filename="ItemModel.cpp" line="1075"/>
         <source>Modified date</source>
         <translation>修改日期</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1084"/>
+        <location filename="ItemModel.cpp" line="1077"/>
         <source>Created date</source>
         <translation>创建日期</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1086"/>
+        <location filename="ItemModel.cpp" line="1079"/>
         <source>EXIF Date Taken</source>
         <translation>EXIF 拍摄日期</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1088"/>
+        <location filename="ItemModel.cpp" line="1081"/>
         <source>EXIF Date Modified</source>
         <translation>EXIF 修改日期</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1094"/>
+        <location filename="ItemModel.cpp" line="1087"/>
         <source>Type</source>
         <translation>类型</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="5093"/>
+        <location filename="ItemModel.cpp" line="5086"/>
         <source>New Folder %1</source>
         <translation>新建文件夹 %1</translation>
     </message>
@@ -20182,19 +20192,19 @@ Do you want to continue?</oldsource>
         <translation>打开文件列表…</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4075"/>
+        <location filename="BrowserWindow.cpp" line="4076"/>
         <location filename="BrowserMenu.h" line="419"/>
         <source>Cut</source>
         <translation>剪切</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4077"/>
+        <location filename="BrowserWindow.cpp" line="4078"/>
         <location filename="BrowserMenu.h" line="421"/>
         <source>Copy</source>
         <translation>复制</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4079"/>
+        <location filename="BrowserWindow.cpp" line="4080"/>
         <location filename="BrowserMenu.h" line="426"/>
         <source>Paste</source>
         <translation>粘贴</translation>
@@ -20225,19 +20235,19 @@ Do you want to continue?</oldsource>
         <translation>选择标记的文件</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4087"/>
+        <location filename="BrowserWindow.cpp" line="4088"/>
         <location filename="BrowserMenu.h" line="436"/>
         <source>Copy to...</source>
         <translation>复制到…</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4089"/>
+        <location filename="BrowserWindow.cpp" line="4090"/>
         <location filename="BrowserMenu.h" line="437"/>
         <source>Move to...</source>
         <translation>移动到…</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4082"/>
+        <location filename="BrowserWindow.cpp" line="4083"/>
         <location filename="BrowserMenu.h" line="438"/>
         <source>Delete</source>
         <translation>删除</translation>
@@ -20704,12 +20714,12 @@ Do you want to continue?</oldsource>
         <translation>帮助(&amp;H)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4072"/>
+        <location filename="BrowserWindow.cpp" line="4073"/>
         <source>New Folder</source>
         <translation>新建文件夹</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4084"/>
+        <location filename="BrowserWindow.cpp" line="4085"/>
         <source>Rename</source>
         <translation>重命名</translation>
     </message>
@@ -23576,7 +23586,7 @@ You can change it in Settings › Catalog.</oldsource>
 <context>
     <name>Rename</name>
     <message>
-        <location filename="ItemModel.cpp" line="4711"/>
+        <location filename="ItemModel.cpp" line="4704"/>
         <source>An error has occurred during renaming!</source>
         <oldsource>An error occured during renaming!</oldsource>
         <translation>重命名时出现一个错误！</translation>
@@ -24011,17 +24021,17 @@ You can change it in Settings › Catalog.</oldsource>
 <context>
     <name>ViewWatermarkAction</name>
     <message>
-        <location filename="ViewWatermarkAction.cpp" line="107"/>
+        <location filename="ViewWatermarkAction.cpp" line="229"/>
         <source>Opacity</source>
         <translation>不透明度</translation>
     </message>
     <message>
-        <location filename="ViewWatermarkAction.cpp" line="116"/>
+        <location filename="ViewWatermarkAction.cpp" line="238"/>
         <source>Apply</source>
         <translation>应用</translation>
     </message>
     <message>
-        <location filename="ViewWatermarkAction.cpp" line="120"/>
+        <location filename="ViewWatermarkAction.cpp" line="242"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
@@ -24130,11 +24140,6 @@ Do you want to keep the thumbnails?
         <translation>正在更新缓存数据库，请稍候…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="458"/>
-        <source>XnViewMP - There is a problem to update catalog (Error: %1), please contact the developer.</source>
-        <translation type="unfinished">XnViewMP - 升级缓存数据库时出现问题 (错误: %1), 请联系开发者。</translation>
-    </message>
-    <message>
         <location filename="xnview.cpp" line="525"/>
         <source>Catalog problem</source>
         <translation>分类出错</translation>
@@ -24177,6 +24182,13 @@ Rating, Tag &amp; Color labels will not be saved.</source>
         <location filename="xnview.cpp" line="999"/>
         <source>Your previous session contains many loaded images, this can cause a slowdown!</source>
         <translation>上一次的会话包含了大量已加载的图像，可能会影响流畅度！</translation>
+    </message>
+    <message>
+        <location filename="xnview.cpp" line="458"/>
+        <source>There is a problem to update Catalog:
+(Error: % 1)
+Please contact the developer.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="999"/>

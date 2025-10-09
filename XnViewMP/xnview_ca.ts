@@ -263,29 +263,29 @@
 <context>
     <name>AbstractViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="1411"/>
+        <location filename="ViewWindow.cpp" line="1413"/>
         <source>Frame %1/%2</source>
         <translation>Imatge %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1414"/>
+        <location filename="ViewWindow.cpp" line="1416"/>
         <source>Icon %1/%2</source>
         <translation>Icona %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1416"/>
+        <location filename="ViewWindow.cpp" line="1418"/>
         <source>Page %1/%2</source>
         <translation>Pàgina %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2012"/>
+        <location filename="ViewWindow.cpp" line="2014"/>
         <source>Customize toolbar...</source>
         <translation>Personalitza barra d&apos;eines...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2268"/>
-        <location filename="ViewWindow.cpp" line="2274"/>
-        <location filename="ViewWindow.cpp" line="2278"/>
+        <location filename="ViewWindow.cpp" line="2270"/>
+        <location filename="ViewWindow.cpp" line="2276"/>
+        <location filename="ViewWindow.cpp" line="2280"/>
         <source>Delete items</source>
         <translation>Supressió d&apos;objectes</translation>
     </message>
@@ -325,95 +325,95 @@
         <translation>No ho tornis a preguntar</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1582"/>
-        <location filename="ViewWindow.cpp" line="1601"/>
+        <location filename="ViewWindow.cpp" line="1584"/>
+        <location filename="ViewWindow.cpp" line="1603"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt;Buit&gt;</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2944"/>
-        <location filename="ViewWindow.cpp" line="2954"/>
+        <location filename="ViewWindow.cpp" line="2946"/>
+        <location filename="ViewWindow.cpp" line="2956"/>
         <source>Save</source>
         <translation>Desa-ho</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2954"/>
-        <source>The file &lt;%1&gt; is read-only, please choose another file name.</source>
-        <translation>El fitxer &lt;%1&gt; es de sols lectura, sisplau trieu un altre nom.</translation>
-    </message>
-    <message>
-        <location filename="ViewWindow.cpp" line="2268"/>
+        <location filename="ViewWindow.cpp" line="2270"/>
         <source>Would you like to discard your edits and delete 
 &quot;%1&quot;?</source>
         <translation>Voleu descartar i anular les vostres edicions
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2274"/>
+        <location filename="ViewWindow.cpp" line="2276"/>
         <source>Are you sure to delete 
 &quot;%1&quot;?</source>
         <translation>Esteu segur d&apos;esborrar 
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2278"/>
+        <location filename="ViewWindow.cpp" line="2280"/>
         <source>Are you sure to delete 
 &quot;%1&quot; (%2 items)?</source>
         <translation>Esteu segur d&apos;esborrar 
 &quot;%1&quot;(%2 Items)?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2944"/>
+        <location filename="ViewWindow.cpp" line="2946"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
         <translation>La imatge es convertirà a RGB de 24-bit (8 bits per canal)</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2962"/>
+        <location filename="ViewWindow.cpp" line="2956"/>
+        <source>The file &lt;%1&gt; is read-only. Please choose another file name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ViewWindow.cpp" line="2964"/>
         <source>Confirm Save</source>
         <translation>Confirmeu Desa</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2963"/>
+        <location filename="ViewWindow.cpp" line="2965"/>
         <source>&lt;%1&gt; already exists!</source>
         <translation>&lt;%1&gt; ja existeix!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2963"/>
+        <location filename="ViewWindow.cpp" line="2965"/>
         <source>Do you want to overwrite it?</source>
         <translation>El voleu sobrescriure?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2987"/>
-        <location filename="ViewWindow.cpp" line="3118"/>
-        <location filename="ViewWindow.cpp" line="3168"/>
+        <location filename="ViewWindow.cpp" line="2989"/>
+        <location filename="ViewWindow.cpp" line="3120"/>
+        <location filename="ViewWindow.cpp" line="3170"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
         <translation>Desant la imatge...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2989"/>
-        <location filename="ViewWindow.cpp" line="3170"/>
+        <location filename="ViewWindow.cpp" line="2991"/>
+        <location filename="ViewWindow.cpp" line="3172"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2989"/>
-        <location filename="ViewWindow.cpp" line="3170"/>
+        <location filename="ViewWindow.cpp" line="2991"/>
+        <location filename="ViewWindow.cpp" line="3172"/>
         <source>An error occurred during saving!</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3260"/>
+        <location filename="ViewWindow.cpp" line="3262"/>
         <source>Properties</source>
         <translation>Propietats</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4406"/>
+        <location filename="ViewWindow.cpp" line="4427"/>
         <source>Colors count</source>
         <translation>Recompte de colors</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4406"/>
+        <location filename="ViewWindow.cpp" line="4427"/>
         <source>Number of unique colors: %1</source>
         <translation>Nombre de colors únics: %1</translation>
     </message>
@@ -471,28 +471,28 @@
 <context>
     <name>BaseViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="4890"/>
+        <location filename="ViewWindow.cpp" line="4911"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4881"/>
-        <location filename="ViewWindow.cpp" line="4890"/>
+        <location filename="ViewWindow.cpp" line="4902"/>
+        <location filename="ViewWindow.cpp" line="4911"/>
         <source>File can&apos;t be loaded!</source>
         <translation>No es pot carregar el fitxer!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4881"/>
+        <location filename="ViewWindow.cpp" line="4902"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <translation>Per veure i convertir els fitxers PDF/PS/EPS/AI, XnView MP necessita Ghostscript %1 instal·lat en el vostre sistema.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4882"/>
+        <location filename="ViewWindow.cpp" line="4903"/>
         <source>Please visit the %1 for more information.</source>
         <translation>Sisplau, visiteu la %1 per més informació.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4894"/>
+        <location filename="ViewWindow.cpp" line="4915"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt;Buit&gt;</translation>
     </message>
@@ -551,38 +551,38 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
         <translation>Personalitzar la barra d&apos;eines...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1655"/>
+        <location filename="BrowserWindow.cpp" line="1656"/>
         <source>Add Favorite...</source>
         <translation>Afegeix preferit...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1745"/>
+        <location filename="BrowserWindow.cpp" line="1746"/>
         <source>Folders</source>
         <translation>Carpetes</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1749"/>
+        <location filename="BrowserWindow.cpp" line="1750"/>
         <source>Favorites</source>
         <translation>Preferits</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1753"/>
+        <location filename="BrowserWindow.cpp" line="1754"/>
         <source>Catalog Filter</source>
         <oldsource>Categories Filter</oldsource>
         <translation>Filtre de categories</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1763"/>
+        <location filename="BrowserWindow.cpp" line="1764"/>
         <source>Categories</source>
         <translation>Categories</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1768"/>
+        <location filename="BrowserWindow.cpp" line="1769"/>
         <source>Category Sets</source>
         <translation>Conjunts de categories</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1801"/>
+        <location filename="BrowserWindow.cpp" line="1802"/>
         <source>Info</source>
         <translation>Informació</translation>
     </message>
@@ -598,26 +598,27 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="908"/>
-        <source>The database is corrupted, please check it before to continue!</source>
-        <translation>La base de dades està corrompuda, comproveu-la abans de continuar!</translation>
+        <source>The database is corrupted. Please check it before you continue!</source>
+        <oldsource>The database is corrupted, please check it before to continue!</oldsource>
+        <translation type="unfinished">La base de dades està corrompuda, comproveu-la abans de continuar!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1647"/>
+        <location filename="BrowserWindow.cpp" line="1648"/>
         <source>Add to Favorites</source>
         <translation>Afegeix a preferits</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1809"/>
+        <location filename="BrowserWindow.cpp" line="1810"/>
         <source>Metadata</source>
         <translation>Metadades</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1818"/>
+        <location filename="BrowserWindow.cpp" line="1819"/>
         <source>Histogram</source>
         <translation>Histograma</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1988"/>
+        <location filename="BrowserWindow.cpp" line="1989"/>
         <source>Click to filter - use Shift and Control for multiple selections.
 Right Click on different items for pop-up menus with actions.
 Drag and Drop over the desired node to assign.</source>
@@ -626,52 +627,52 @@ Clic dret en ítems diferents per a menús emergents amb accions.
 Cliqueu i arrossegueu sobre el node desitjat per assignar.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1994"/>
+        <location filename="BrowserWindow.cpp" line="1995"/>
         <source>Match any selected entry (OR)</source>
         <translation>Encaixa qualsevol entrada triada (OR)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2000"/>
+        <location filename="BrowserWindow.cpp" line="2001"/>
         <source>Match all selected entries (AND)</source>
         <translation>Encaixa totes les entrades triades (AND)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2011"/>
+        <location filename="BrowserWindow.cpp" line="2012"/>
         <source>Global</source>
         <translation>Global</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2018"/>
+        <location filename="BrowserWindow.cpp" line="2019"/>
         <source>Current folder</source>
         <translation>Carpeta actual</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2025"/>
+        <location filename="BrowserWindow.cpp" line="2026"/>
         <source>Current folder (Recursive)</source>
         <translation>Carpeta actual (Recursiva)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3095"/>
+        <location filename="BrowserWindow.cpp" line="3096"/>
         <source>&lt;Search results&gt;</source>
         <translation>&lt;Resultat de la recerca&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3097"/>
+        <location filename="BrowserWindow.cpp" line="3098"/>
         <source>&lt;Tagged files&gt;</source>
         <translation>&lt;Fitxers marcats&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3187"/>
+        <location filename="BrowserWindow.cpp" line="3188"/>
         <source>This folder doesn&apos;t exist!</source>
         <translation>La carpeta no existeix!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3400"/>
+        <location filename="BrowserWindow.cpp" line="3401"/>
         <source>Favorite name:</source>
         <translation>Nom del preferit:</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="3645"/>
+        <location filename="BrowserWindow.cpp" line="3646"/>
         <source>Are you sure to delete these %n item(s)?</source>
         <translation>
             <numerusform></numerusform>
@@ -679,33 +680,33 @@ Cliqueu i arrossegueu sobre el node desitjat per assignar.</translation>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3730"/>
+        <location filename="BrowserWindow.cpp" line="3731"/>
         <source>The files cannot be renamed, an error occurred.</source>
         <translation>Els fitxers no es poden renomenar, ha ocorregut un error</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3187"/>
-        <location filename="BrowserWindow.cpp" line="3730"/>
+        <location filename="BrowserWindow.cpp" line="3188"/>
+        <location filename="BrowserWindow.cpp" line="3731"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3099"/>
+        <location filename="BrowserWindow.cpp" line="3100"/>
         <source>&lt;Catalog filter results&gt;</source>
         <translation>&lt;Resultats filtre de catàlegs</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3101"/>
+        <location filename="BrowserWindow.cpp" line="3102"/>
         <source>&lt;files&gt;</source>
         <translation>&lt;Fitxers&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3638"/>
+        <location filename="BrowserWindow.cpp" line="3639"/>
         <source>Delete items &amp; companions</source>
         <translation>Suprimeix els ítems i acompanyants</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="3639"/>
+        <location filename="BrowserWindow.cpp" line="3640"/>
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
         <translation>
             <numerusform>Esteu segur de voler esborrar aquests %n objecte(s) - %1 objecte(s) triat(s)?</numerusform>
@@ -713,57 +714,57 @@ Cliqueu i arrossegueu sobre el node desitjat per assignar.</translation>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4094"/>
+        <location filename="BrowserWindow.cpp" line="4095"/>
         <source>Search...</source>
         <translation>Cerca...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4095"/>
+        <location filename="BrowserWindow.cpp" line="4096"/>
         <source>Add to favorites...</source>
         <translation>Afegeix a preferits...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4098"/>
+        <location filename="BrowserWindow.cpp" line="4099"/>
         <source>Start slideshow</source>
         <translation>Comença presentació</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4100"/>
+        <location filename="BrowserWindow.cpp" line="4101"/>
         <source>Open in file manager</source>
         <translation type="unfinished">Obre el fitxer en el navegador</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4103"/>
+        <location filename="BrowserWindow.cpp" line="4104"/>
         <source>Properties</source>
         <translation>Propietats</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4212"/>
+        <location filename="BrowserWindow.cpp" line="4213"/>
         <source>Load filelist</source>
         <translation>Carrega lllistat de fitxers</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1978"/>
+        <location filename="BrowserWindow.cpp" line="1979"/>
         <source>Match</source>
         <translation>Correspon</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3644"/>
+        <location filename="BrowserWindow.cpp" line="3645"/>
         <source>Delete items</source>
         <translation>Supressió d&apos;objectes</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4092"/>
+        <location filename="BrowserWindow.cpp" line="4093"/>
         <source>Show files in subfolders</source>
         <translation>Mostra els fitxers de les subcarpetes</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4135"/>
+        <location filename="BrowserWindow.cpp" line="4136"/>
         <source>Delete folder</source>
         <translation>Esborra el directori</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4135"/>
+        <location filename="BrowserWindow.cpp" line="4136"/>
         <source>Are you sure to delete this folder?</source>
         <translation>Esteu segur de voler esborrar aquest directori?</translation>
     </message>
@@ -7955,6 +7956,11 @@ Sisplau comproveu que els fitxers no siguin de sols lectura!</translation>
     </message>
     <message>
         <location filename="DlgFileAssociation.cpp" line="111"/>
+        <source>Problem to change file association. 
+Please try to start with admin rights.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="DlgFileAssociation.cpp" line="138"/>
         <source>Problem to change file association. Please try to start with admin rights.</source>
         <translation>Hi ha problema per canviar l&apos;associació. Sisplau, proveu de començar amb drets d&apos;administrador.</translation>
@@ -10409,8 +10415,9 @@ Gràcies per comprar %1.</translation>
     </message>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
-        <source>Please install it by using Tools › Plugins</source>
-        <translation>Si us plau instal.leu-lo amb el plugin d&apos;eines</translation>
+        <source>Plugin is not installed. 
+Please install it via Tools › Plugins</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12029,38 +12036,38 @@ Thumbnail</source>
 <context>
     <name>DlgSettingsGeneral</name>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="289"/>
-        <location filename="DlgSettingsGeneral.cpp" line="290"/>
+        <location filename="DlgSettingsGeneral.cpp" line="283"/>
+        <location filename="DlgSettingsGeneral.cpp" line="284"/>
         <source>Load profile</source>
         <translation>Carrega un perfil</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="297"/>
+        <location filename="DlgSettingsGeneral.cpp" line="291"/>
         <source>Perceptual</source>
         <translation>Perceptual</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="297"/>
+        <location filename="DlgSettingsGeneral.cpp" line="291"/>
         <source>Relative colorimetric</source>
         <translation>Colorimètric relatiu</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="297"/>
+        <location filename="DlgSettingsGeneral.cpp" line="291"/>
         <source>Saturation</source>
         <translation>Saturació</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="297"/>
+        <location filename="DlgSettingsGeneral.cpp" line="291"/>
         <source>Absolute colorimetric</source>
         <translation>Colorimètric absolut</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="463"/>
+        <location filename="DlgSettingsGeneral.cpp" line="457"/>
         <source>Delete</source>
         <translation>Esborra</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="463"/>
+        <location filename="DlgSettingsGeneral.cpp" line="457"/>
         <source>Do you want to delete the selected Auto Correct entry?</source>
         <translation>Voleu suprimir l&apos;entrada d&apos;autocorrecció triada?</translation>
     </message>
@@ -12557,42 +12564,42 @@ Thumbnail</source>
         <translation type="unfinished">Tria un programa</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="338"/>
+        <location filename="DlgSettingsIntegration.cpp" line="344"/>
         <source>Paths</source>
         <translation>Camins</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="338"/>
+        <location filename="DlgSettingsIntegration.cpp" line="344"/>
         <source>Please be careful to folder rights by using XnView folder</source>
         <translation>Si us plau vigileu els drets de carpeta en usar la carpeta XnView</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="528"/>
+        <location filename="DlgSettingsIntegration.cpp" line="534"/>
         <source>XnViewMP is a fast multi-format graphics browser, viewer, and converter. It reads more than 400 file formats.</source>
         <translation>XnViewMP és un navegador multiformat de gràfics. visor i conversor. Llegeix més de 400 formats de fitxer.</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="529"/>
+        <location filename="DlgSettingsIntegration.cpp" line="535"/>
         <source>XnViewMP for Windows</source>
         <translation>XnViewMP per a Windows</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="548"/>
+        <location filename="DlgSettingsIntegration.cpp" line="554"/>
         <source>XnView Slide file</source>
         <translation>Fitxer diapo. XnView</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="555"/>
+        <location filename="DlgSettingsIntegration.cpp" line="561"/>
         <source>%1 Image file</source>
         <translation>Fitxer imatge %1</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="746"/>
+        <location filename="DlgSettingsIntegration.cpp" line="752"/>
         <source>File Associations</source>
         <translation>Associacions de fitxers</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="746"/>
+        <location filename="DlgSettingsIntegration.cpp" line="752"/>
         <source>Please start XnViewMP with admin rights (only the first time).</source>
         <translation>Sisplsu, engegueu XnView amb drets d&apos;administrador (sols la primera vegada).</translation>
     </message>
@@ -15751,8 +15758,9 @@ Vols continuar?</translation>
     </message>
     <message>
         <location filename="DlgWriteJP2K.ui" line="138"/>
-        <source>File size (kbytes)</source>
-        <translation>Mida fitxer (kbytes)</translation>
+        <source>File size (kB)</source>
+        <oldsource>File size (kbytes)</oldsource>
+        <translation type="unfinished">Mida fitxer (kbytes)</translation>
     </message>
 </context>
 <context>
@@ -16115,8 +16123,9 @@ Vols continuar?</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="173"/>
-        <source>File size (kbytes)</source>
-        <translation>Mida fitxer (KBytes)</translation>
+        <source>File size (kB)</source>
+        <oldsource>File size (kbytes)</oldsource>
+        <translation type="unfinished">Mida fitxer (KBytes)</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="207"/>
@@ -16613,14 +16622,14 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
 <context>
     <name>Info</name>
     <message>
-        <location filename="ItemModel.cpp" line="1118"/>
+        <location filename="ItemModel.cpp" line="1111"/>
         <location filename="SearchField.cpp" line="24"/>
         <location filename="TemplateData.cpp" line="2782"/>
         <source>Categories</source>
         <translation>Categories</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1096"/>
+        <location filename="ItemModel.cpp" line="1089"/>
         <location filename="SearchField.cpp" line="25"/>
         <location filename="TemplateData.cpp" line="2778"/>
         <source>Rating</source>
@@ -16671,7 +16680,7 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
         <location filename="EditXMPWidget.cpp" line="369"/>
         <location filename="IptcEditBase.cpp" line="83"/>
         <location filename="IptcEditBase.cpp" line="115"/>
-        <location filename="ItemModel.cpp" line="1104"/>
+        <location filename="ItemModel.cpp" line="1097"/>
         <location filename="SearchField.cpp" line="35"/>
         <location filename="TemplateData.cpp" line="2802"/>
         <source>Annotation</source>
@@ -16707,49 +16716,49 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
         <translation>Comentari integrat</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1090"/>
+        <location filename="ItemModel.cpp" line="1083"/>
         <source>Properties</source>
         <translation>Propietats</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="86"/>
-        <location filename="ItemModel.cpp" line="1092"/>
+        <location filename="ItemModel.cpp" line="1085"/>
         <source>Print size</source>
         <translation>Mida d&apos;impressió</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1098"/>
+        <location filename="ItemModel.cpp" line="1091"/>
         <source>Colour label</source>
         <translation>Etiqueta de color</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1100"/>
+        <location filename="ItemModel.cpp" line="1093"/>
         <source>Tag</source>
         <translation>Marca</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1106"/>
+        <location filename="ItemModel.cpp" line="1099"/>
         <source>Path</source>
         <translation>Camí</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="659"/>
         <location filename="InfoPropertiesView.cpp" line="699"/>
-        <location filename="ItemModel.cpp" line="1102"/>
+        <location filename="ItemModel.cpp" line="1095"/>
         <location filename="SearchField.cpp" line="36"/>
         <location filename="TemplateData.cpp" line="2573"/>
         <source>Comment</source>
         <translation>Comentari</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1116"/>
+        <location filename="ItemModel.cpp" line="1109"/>
         <source>Extension</source>
         <translation>Extensió</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="69"/>
         <location filename="InfoPropertiesView.cpp" line="647"/>
-        <location filename="ItemModel.cpp" line="1110"/>
+        <location filename="ItemModel.cpp" line="1103"/>
         <location filename="SearchField.cpp" line="32"/>
         <location filename="TemplateData.cpp" line="2570"/>
         <location filename="TemplateData.cpp" line="2593"/>
@@ -16759,7 +16768,7 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="70"/>
         <location filename="InfoPropertiesView.cpp" line="648"/>
-        <location filename="ItemModel.cpp" line="1112"/>
+        <location filename="ItemModel.cpp" line="1105"/>
         <location filename="SearchField.cpp" line="33"/>
         <location filename="TemplateData.cpp" line="2571"/>
         <location filename="TemplateData.cpp" line="2594"/>
@@ -16795,7 +16804,7 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="81"/>
-        <location filename="ItemModel.cpp" line="1114"/>
+        <location filename="ItemModel.cpp" line="1107"/>
         <location filename="TemplateData.cpp" line="2574"/>
         <location filename="TemplateData.cpp" line="2596"/>
         <source>DPI</source>
@@ -17151,8 +17160,9 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
         <location filename="EditXMPWidget.cpp" line="368"/>
         <location filename="IptcEditBase.cpp" line="82"/>
         <location filename="TemplateData.cpp" line="2800"/>
-        <source>Size (KB)</source>
-        <translation>Mida (Kb)</translation>
+        <source>Size (kB)</source>
+        <oldsource>Size (KB)</oldsource>
+        <translation type="unfinished">Mida (Kb)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2774"/>
@@ -17175,7 +17185,7 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
         <translation>Marca</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1108"/>
+        <location filename="ItemModel.cpp" line="1101"/>
         <location filename="SearchField.cpp" line="34"/>
         <location filename="TemplateData.cpp" line="2583"/>
         <source>Ratio</source>
@@ -17458,7 +17468,7 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
     <name>InfoExif</name>
     <message>
         <location filename="DBFilterModel.cpp" line="1464"/>
-        <location filename="ItemModel.cpp" line="1121"/>
+        <location filename="ItemModel.cpp" line="1114"/>
         <location filename="SearchField.cpp" line="71"/>
         <location filename="TemplateData.cpp" line="2605"/>
         <source>Maker</source>
@@ -17466,7 +17476,7 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1468"/>
-        <location filename="ItemModel.cpp" line="1123"/>
+        <location filename="ItemModel.cpp" line="1116"/>
         <location filename="SearchField.cpp" line="72"/>
         <location filename="TemplateData.cpp" line="2606"/>
         <source>Model</source>
@@ -17479,7 +17489,7 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1480"/>
-        <location filename="ItemModel.cpp" line="1125"/>
+        <location filename="ItemModel.cpp" line="1118"/>
         <source>ISO</source>
         <translation>ISO</translation>
     </message>
@@ -17539,35 +17549,35 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
         <translation type="unfinished">Paisatge</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1127"/>
+        <location filename="ItemModel.cpp" line="1120"/>
         <source>ShutterSpeed</source>
         <translation>Velocitat d&apos;obturació</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1129"/>
+        <location filename="ItemModel.cpp" line="1122"/>
         <source>Exposure Time</source>
         <translation>Temps d&apos;exposició</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1476"/>
-        <location filename="ItemModel.cpp" line="1131"/>
+        <location filename="ItemModel.cpp" line="1124"/>
         <source>Focal Length</source>
         <translation>Longitud focal</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1133"/>
+        <location filename="ItemModel.cpp" line="1126"/>
         <location filename="TemplateData.cpp" line="2644"/>
         <source>Aperture</source>
         <translation>Obertura</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1137"/>
+        <location filename="ItemModel.cpp" line="1130"/>
         <location filename="TemplateData.cpp" line="2692"/>
         <source>Latitude</source>
         <translation>Latitud</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1139"/>
+        <location filename="ItemModel.cpp" line="1132"/>
         <location filename="TemplateData.cpp" line="2695"/>
         <source>Longitude</source>
         <translation>Longitud</translation>
@@ -17622,7 +17632,7 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1484"/>
-        <location filename="ItemModel.cpp" line="1135"/>
+        <location filename="ItemModel.cpp" line="1128"/>
         <location filename="SearchField.cpp" line="81"/>
         <location filename="TemplateData.cpp" line="2639"/>
         <source>F-Number</source>
@@ -18081,7 +18091,7 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="25"/>
         <location filename="IptcHelper.cpp" line="17"/>
-        <location filename="ItemModel.cpp" line="1142"/>
+        <location filename="ItemModel.cpp" line="1135"/>
         <location filename="SearchField.cpp" line="40"/>
         <location filename="TemplateData.cpp" line="2706"/>
         <source>Caption</source>
@@ -18091,7 +18101,7 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
         <location filename="EditXMPWidget.cpp" line="116"/>
         <location filename="InfoIPTCView.cpp" line="27"/>
         <location filename="IptcHelper.cpp" line="19"/>
-        <location filename="ItemModel.cpp" line="1144"/>
+        <location filename="ItemModel.cpp" line="1137"/>
         <location filename="SearchField.cpp" line="41"/>
         <location filename="SearchField.cpp" line="93"/>
         <location filename="TemplateData.cpp" line="2707"/>
@@ -18103,7 +18113,7 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
         <location filename="EditXMPWidget.cpp" line="132"/>
         <location filename="InfoIPTCView.cpp" line="28"/>
         <location filename="IptcHelper.cpp" line="20"/>
-        <location filename="ItemModel.cpp" line="1146"/>
+        <location filename="ItemModel.cpp" line="1139"/>
         <location filename="SearchField.cpp" line="42"/>
         <location filename="SearchField.cpp" line="97"/>
         <location filename="TemplateData.cpp" line="2708"/>
@@ -18115,7 +18125,7 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
         <location filename="EditXMPWidget.cpp" line="122"/>
         <location filename="InfoIPTCView.cpp" line="34"/>
         <location filename="IptcHelper.cpp" line="23"/>
-        <location filename="ItemModel.cpp" line="1148"/>
+        <location filename="ItemModel.cpp" line="1141"/>
         <location filename="SearchField.cpp" line="44"/>
         <location filename="TemplateData.cpp" line="2714"/>
         <source>Keywords</source>
@@ -18123,7 +18133,7 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
     </message>
     <message>
         <location filename="IptcHelper.cpp" line="24"/>
-        <location filename="ItemModel.cpp" line="1150"/>
+        <location filename="ItemModel.cpp" line="1143"/>
         <source>Categories</source>
         <translation>Categories</translation>
     </message>
@@ -18145,7 +18155,7 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="42"/>
         <location filename="IptcHelper.cpp" line="27"/>
-        <location filename="ItemModel.cpp" line="1152"/>
+        <location filename="ItemModel.cpp" line="1145"/>
         <location filename="SearchField.cpp" line="48"/>
         <location filename="TemplateData.cpp" line="2722"/>
         <source>Byline</source>
@@ -18154,7 +18164,7 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="43"/>
         <location filename="IptcHelper.cpp" line="28"/>
-        <location filename="ItemModel.cpp" line="1154"/>
+        <location filename="ItemModel.cpp" line="1147"/>
         <location filename="SearchField.cpp" line="49"/>
         <location filename="TemplateData.cpp" line="2723"/>
         <source>Byline title</source>
@@ -18162,7 +18172,7 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="130"/>
-        <location filename="ItemModel.cpp" line="1156"/>
+        <location filename="ItemModel.cpp" line="1149"/>
         <location filename="SearchField.cpp" line="50"/>
         <location filename="SearchField.cpp" line="96"/>
         <location filename="TemplateData.cpp" line="2724"/>
@@ -18174,7 +18184,7 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
         <location filename="EditXMPWidget.cpp" line="131"/>
         <location filename="InfoIPTCView.cpp" line="45"/>
         <location filename="IptcHelper.cpp" line="30"/>
-        <location filename="ItemModel.cpp" line="1158"/>
+        <location filename="ItemModel.cpp" line="1151"/>
         <location filename="SearchField.cpp" line="51"/>
         <location filename="SearchField.cpp" line="99"/>
         <location filename="TemplateData.cpp" line="2725"/>
@@ -18185,7 +18195,7 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="41"/>
         <location filename="IptcHelper.cpp" line="31"/>
-        <location filename="ItemModel.cpp" line="1160"/>
+        <location filename="ItemModel.cpp" line="1153"/>
         <location filename="SearchField.cpp" line="47"/>
         <location filename="SearchField.cpp" line="89"/>
         <location filename="TemplateData.cpp" line="2721"/>
@@ -18206,7 +18216,7 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="73"/>
         <location filename="IptcHelper.cpp" line="32"/>
-        <location filename="ItemModel.cpp" line="1162"/>
+        <location filename="ItemModel.cpp" line="1155"/>
         <location filename="SearchField.cpp" line="66"/>
         <location filename="TemplateData.cpp" line="2748"/>
         <source>Contact</source>
@@ -18218,7 +18228,7 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
         <location filename="EditXMPWidget.cpp" line="184"/>
         <location filename="InfoIPTCView.cpp" line="61"/>
         <location filename="IptcHelper.cpp" line="43"/>
-        <location filename="ItemModel.cpp" line="1164"/>
+        <location filename="ItemModel.cpp" line="1157"/>
         <location filename="SearchField.cpp" line="60"/>
         <location filename="SearchField.cpp" line="94"/>
         <location filename="SearchField.cpp" line="109"/>
@@ -18238,7 +18248,7 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
         <location filename="EditXMPWidget.cpp" line="127"/>
         <location filename="EditXMPWidget.cpp" line="168"/>
         <location filename="EditXMPWidget.cpp" line="183"/>
-        <location filename="ItemModel.cpp" line="1168"/>
+        <location filename="ItemModel.cpp" line="1161"/>
         <location filename="SearchField.cpp" line="62"/>
         <location filename="SearchField.cpp" line="100"/>
         <location filename="SearchField.cpp" line="110"/>
@@ -18253,7 +18263,7 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
         <location filename="EditXMPWidget.cpp" line="185"/>
         <location filename="InfoIPTCView.cpp" line="64"/>
         <location filename="IptcHelper.cpp" line="46"/>
-        <location filename="ItemModel.cpp" line="1170"/>
+        <location filename="ItemModel.cpp" line="1163"/>
         <location filename="SearchField.cpp" line="63"/>
         <location filename="SearchField.cpp" line="95"/>
         <location filename="SearchField.cpp" line="112"/>
@@ -18389,7 +18399,7 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
         <location filename="EditXMPWidget.cpp" line="182"/>
         <location filename="InfoIPTCView.cpp" line="62"/>
         <location filename="IptcHelper.cpp" line="44"/>
-        <location filename="ItemModel.cpp" line="1166"/>
+        <location filename="ItemModel.cpp" line="1159"/>
         <location filename="SearchField.cpp" line="61"/>
         <location filename="SearchField.cpp" line="106"/>
         <location filename="TemplateData.cpp" line="2743"/>
@@ -18521,7 +18531,7 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
         <location filename="EditXMPWidget.cpp" line="111"/>
         <location filename="InfoIPTCView.cpp" line="60"/>
         <location filename="IptcHelper.cpp" line="49"/>
-        <location filename="ItemModel.cpp" line="1172"/>
+        <location filename="ItemModel.cpp" line="1165"/>
         <location filename="SearchField.cpp" line="57"/>
         <location filename="TemplateData.cpp" line="2739"/>
         <source>Document title</source>
@@ -18847,52 +18857,52 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
 <context>
     <name>ItemModel</name>
     <message>
-        <location filename="ItemModel.cpp" line="1074"/>
+        <location filename="ItemModel.cpp" line="1067"/>
         <source>No.</source>
         <translation>Núm.</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1076"/>
+        <location filename="ItemModel.cpp" line="1069"/>
         <source>Name</source>
         <translation>Nom</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1078"/>
+        <location filename="ItemModel.cpp" line="1071"/>
         <source>Size</source>
         <translation>Mida</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1080"/>
+        <location filename="ItemModel.cpp" line="1073"/>
         <source>Info</source>
         <translation>Info</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1082"/>
+        <location filename="ItemModel.cpp" line="1075"/>
         <source>Modified date</source>
         <translation>Data de modificació</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1084"/>
+        <location filename="ItemModel.cpp" line="1077"/>
         <source>Created date</source>
         <translation>Data de creació</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1086"/>
+        <location filename="ItemModel.cpp" line="1079"/>
         <source>EXIF Date Taken</source>
         <translation>Data EXIF de presa</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1088"/>
+        <location filename="ItemModel.cpp" line="1081"/>
         <source>EXIF Date Modified</source>
         <translation>EXIF: Data de modificació</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1094"/>
+        <location filename="ItemModel.cpp" line="1087"/>
         <source>Type</source>
         <translation>Tipus</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="5093"/>
+        <location filename="ItemModel.cpp" line="5086"/>
         <source>New Folder %1</source>
         <translation>Carpeta nova %1</translation>
     </message>
@@ -19295,12 +19305,12 @@ Vols continuar?</translation>
 <context>
     <name>MenuBrowser</name>
     <message>
-        <location filename="BrowserWindow.cpp" line="4072"/>
+        <location filename="BrowserWindow.cpp" line="4073"/>
         <source>New Folder</source>
         <translation>Carpeta nova</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4084"/>
+        <location filename="BrowserWindow.cpp" line="4085"/>
         <source>Rename</source>
         <translation>Reanomena</translation>
     </message>
@@ -20282,19 +20292,19 @@ Vols continuar?</translation>
         <translation>Obre llistat de fitxers...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4075"/>
+        <location filename="BrowserWindow.cpp" line="4076"/>
         <location filename="BrowserMenu.h" line="419"/>
         <source>Cut</source>
         <translation>Talla</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4077"/>
+        <location filename="BrowserWindow.cpp" line="4078"/>
         <location filename="BrowserMenu.h" line="421"/>
         <source>Copy</source>
         <translation>Copia</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4079"/>
+        <location filename="BrowserWindow.cpp" line="4080"/>
         <location filename="BrowserMenu.h" line="426"/>
         <source>Paste</source>
         <translation>Enganxa</translation>
@@ -20330,19 +20340,19 @@ Vols continuar?</translation>
         <translation>Selecciona els fitxers marcats</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4087"/>
+        <location filename="BrowserWindow.cpp" line="4088"/>
         <location filename="BrowserMenu.h" line="436"/>
         <source>Copy to...</source>
         <translation>Copia a...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4089"/>
+        <location filename="BrowserWindow.cpp" line="4090"/>
         <location filename="BrowserMenu.h" line="437"/>
         <source>Move to...</source>
         <translation>Mou a...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4082"/>
+        <location filename="BrowserWindow.cpp" line="4083"/>
         <location filename="BrowserMenu.h" line="438"/>
         <source>Delete</source>
         <translation>Suprimeix</translation>
@@ -23552,7 +23562,7 @@ Podeu canviar-la en Opcions › Catàleg</translation>
 <context>
     <name>Rename</name>
     <message>
-        <location filename="ItemModel.cpp" line="4711"/>
+        <location filename="ItemModel.cpp" line="4704"/>
         <source>An error has occurred during renaming!</source>
         <oldsource>An error occured during renaming!</oldsource>
         <translation>Error en reanomenar!</translation>
@@ -23985,17 +23995,17 @@ Podeu canviar-la en Opcions › Catàleg</translation>
 <context>
     <name>ViewWatermarkAction</name>
     <message>
-        <location filename="ViewWatermarkAction.cpp" line="107"/>
+        <location filename="ViewWatermarkAction.cpp" line="229"/>
         <source>Opacity</source>
         <translation>Opacitat</translation>
     </message>
     <message>
-        <location filename="ViewWatermarkAction.cpp" line="116"/>
+        <location filename="ViewWatermarkAction.cpp" line="238"/>
         <source>Apply</source>
         <translation>Aplica-ho</translation>
     </message>
     <message>
-        <location filename="ViewWatermarkAction.cpp" line="120"/>
+        <location filename="ViewWatermarkAction.cpp" line="242"/>
         <source>Cancel</source>
         <translation>Cancel·la</translation>
     </message>
@@ -24104,11 +24114,6 @@ Voleu mantenir les miniatures?
         <translation>Actualització del catàleg, sisplau espereu... </translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="458"/>
-        <source>XnViewMP - There is a problem to update catalog (Error: %1), please contact the developer.</source>
-        <translation>XnViewMP - Hi ha un problema per actualitzar el catàleg.(Error:%1), sisplau consulteu el programador.</translation>
-    </message>
-    <message>
         <location filename="xnview.cpp" line="525"/>
         <source>Catalog problem</source>
         <translation>Problema de catàleg</translation>
@@ -24150,6 +24155,13 @@ Rating, Tag &amp; Color labels will not be saved.</source>
         <location filename="xnview.cpp" line="999"/>
         <source>Your previous session contains many loaded images, this can cause a slowdown!</source>
         <translation>La sessió prèvia conté moltes imatges, això pot causar alentiment!</translation>
+    </message>
+    <message>
+        <location filename="xnview.cpp" line="458"/>
+        <source>There is a problem to update Catalog:
+(Error: % 1)
+Please contact the developer.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="999"/>
