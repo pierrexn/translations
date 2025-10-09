@@ -326,7 +326,7 @@
     </message>
     <message>
         <source>The file &lt;%1&gt; is read-only. Please choose another file name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișierul &lt;%1&gt; e în modul doar în citire. Te rugăm să alegi un alt nume pentru fișier.</translation>
     </message>
 </context>
 <context>
@@ -619,7 +619,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>The database is corrupted. Please check it before you continue!</source>
-        <translation type="unfinished"></translation>
+        <translation>Baza de date e coruptă. Te rugăm să o verifici înainte să continui!</translation>
     </message>
 </context>
 <context>
@@ -6209,7 +6209,8 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     <message>
         <source>Problem to change file association. 
 Please try to start with admin rights.</source>
-        <translation type="unfinished"></translation>
+        <translation>A apărut o problemă la schimbarea asocierii fișierelor.
+Te rugăm să încerci să pornești programul cu drepturi de administrator.</translation>
     </message>
 </context>
 <context>
@@ -8143,7 +8144,8 @@ Thank you for purchasing %1.</source>
     <message>
         <source>Plugin is not installed. 
 Please install it via Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Plugin-ul nu fost instalat.
+Te rugăm să-l instalezi folosind Unelte › Pluginuri</translation>
     </message>
 </context>
 <context>
@@ -12204,7 +12206,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>File size (kB)</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimensiunea fișierului (în kB/kO)</translation>
     </message>
 </context>
 <context>
@@ -12506,7 +12508,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>File size (kB)</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimensiunea fișierului (în kB/kO)</translation>
     </message>
 </context>
 <context>
@@ -13296,7 +13298,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Size (kB)</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimensiunea (în kB/kO)</translation>
     </message>
 </context>
 <context>
@@ -18555,7 +18557,9 @@ Etichetele de evaluare (de rating), etichetare și culoare nu vor fi salvate.</t
         <source>There is a problem to update Catalog:
 (Error: % 1)
 Please contact the developer.</source>
-        <translation type="unfinished"></translation>
+        <translation>E o problemă cu actualizarea Catalogului:
+(Eroare: % 1)
+Te rugăm să contactezi dezvoltatorul.</translation>
     </message>
 </context>
 </TS>
