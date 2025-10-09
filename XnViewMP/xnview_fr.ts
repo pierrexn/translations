@@ -324,7 +324,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="2956"/>
         <source>The file &lt;%1&gt; is read-only. Please choose another file name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le fichier &lt;%1&gt; est en lecture-seule, merci de choisir un autre nom de fichier.</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2964"/>
@@ -600,7 +600,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
         <location filename="BrowserWindow.cpp" line="908"/>
         <source>The database is corrupted. Please check it before you continue!</source>
         <oldsource>The database is corrupted, please check it before to continue!</oldsource>
-        <translation type="unfinished">La base de données est corromptue, merci de vérifier avant de continuer!</translation>
+        <translation>La base de données est corromptue, merci de vérifier avant de continuer!</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="1648"/>
@@ -4256,7 +4256,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="DlgConvertBlurredFrame.ui" line="96"/>
         <source>Margin</source>
-        <translation type="unfinished">Marge</translation>
+        <translation>Marge</translation>
     </message>
     <message>
         <location filename="DlgConvertBlurredFrame.ui" line="141"/>
@@ -7963,7 +7963,8 @@ Merci de vérifier si les fichiers ne sont pas en lecture seule!</translation>
         <location filename="DlgFileAssociation.cpp" line="111"/>
         <source>Problem to change file association. 
 Please try to start with admin rights.</source>
-        <translation type="unfinished"></translation>
+        <translation>Problème pour modifier les associations. 
+Essayez de relancer avec les droits administrateur.</translation>
     </message>
     <message>
         <location filename="DlgFileAssociation.cpp" line="138"/>
@@ -10421,7 +10422,8 @@ Merci d&apos;avoir acheté %1.</translation>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Plugin is not installed. 
 Please install it via Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Le plugin n&apos;est pas installé. 
+Veuillez l&apos;installer via Outils &apos; Plugins</translation>
     </message>
 </context>
 <context>
@@ -15772,7 +15774,7 @@ Voulez-vous continuer?</translation>
         <location filename="DlgWriteJP2K.ui" line="138"/>
         <source>File size (kB)</source>
         <oldsource>File size (kbytes)</oldsource>
-        <translation type="unfinished">Taille de fichier (koctets)</translation>
+        <translation>Taille de fichier (koctets)</translation>
     </message>
 </context>
 <context>
@@ -16137,7 +16139,7 @@ Voulez-vous continuer?</translation>
         <location filename="DlgWriteWebP.ui" line="173"/>
         <source>File size (kB)</source>
         <oldsource>File size (kbytes)</oldsource>
-        <translation type="unfinished">Taille de fichier (koctets)</translation>
+        <translation>Taille de fichier (koctets)</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="207"/>
@@ -17174,7 +17176,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
         <location filename="TemplateData.cpp" line="2800"/>
         <source>Size (kB)</source>
         <oldsource>Size (KB)</oldsource>
-        <translation type="unfinished">Taille (Kio)</translation>
+        <translation>Taille (Kio)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2774"/>
@@ -19588,7 +19590,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="BrowserMenu.h" line="321"/>
         <source>Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Carte</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="423"/>
@@ -24174,7 +24176,9 @@ Les étiquettes de classement, d&apos;étiquette et de couleur ne seront pas sau
         <source>There is a problem to update Catalog:
 (Error: % 1)
 Please contact the developer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il y a un problème pour mettre à jour le catalogue :
+(Erreur : % 1)
+Veuillez contacter le développeur.</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="999"/>
