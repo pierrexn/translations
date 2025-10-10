@@ -7958,7 +7958,8 @@ Sisplau comproveu que els fitxers no siguin de sols lectura!</translation>
         <location filename="DlgFileAssociation.cpp" line="111"/>
         <source>Problem to change file association. 
 Please try to start with admin rights.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hi ha problema per canviar l&apos;associació.
+Sisplau, proveu de començar amb drets d&apos;administrador.</translation>
     </message>
     <message>
         <location filename="DlgFileAssociation.cpp" line="138"/>
