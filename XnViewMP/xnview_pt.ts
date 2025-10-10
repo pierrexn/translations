@@ -7990,7 +7990,8 @@ Por favor verifique se os ficheiros não estão protegidos!</translation>
         <location filename="DlgFileAssociation.cpp" line="111"/>
         <source>Problem to change file association. 
 Please try to start with admin rights.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Problema com a associação do ficheiro.
+Tente novamente por favor, mas como administrador.</translation>
     </message>
     <message>
         <location filename="DlgFileAssociation.cpp" line="138"/>
