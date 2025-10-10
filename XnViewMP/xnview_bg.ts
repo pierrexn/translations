@@ -7935,7 +7935,8 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgFileAssociation.cpp" line="111"/>
         <source>Problem to change file association. 
 Please try to start with admin rights.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Проблем при промяна на файловата асоциация.
+Моля, опитайте да започнете с права на администратор.</translation>
     </message>
     <message>
         <location filename="DlgFileAssociation.cpp" line="138"/>
