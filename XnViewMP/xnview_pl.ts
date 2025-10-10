@@ -7980,7 +7980,8 @@ Upewnij się, że pliki nie są tylko do odczytu!</translation>
         <location filename="DlgFileAssociation.cpp" line="111"/>
         <source>Problem to change file association. 
 Please try to start with admin rights.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wystąpił problem ze zmianą skojarzeń plików.
+Spróbuj ponownie, uruchamiając program z prawami administratora.</translation>
     </message>
     <message>
         <location filename="DlgFileAssociation.cpp" line="138"/>
