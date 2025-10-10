@@ -584,7 +584,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <location filename="BrowserWindow.cpp" line="908"/>
         <source>The database is corrupted. Please check it before you continue!</source>
         <oldsource>The database is corrupted, please check it before to continue!</oldsource>
-        <translation type="unfinished">Az adatbázis megsérült, kérem ellenőrizze!</translation>
+        <translation>Az adatbázis megsérült. Folytatás előtt kérem, ellenőrizze!</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="1648"/>
@@ -7946,7 +7946,7 @@ Ellenőrizze, hogy a fájl nem írásvédett!</translation>
         <location filename="DlgFileAssociation.cpp" line="111"/>
         <source>Problem to change file association. 
 Please try to start with admin rights.</source>
-        <translation type="unfinished">Hiba történt a fájltársítás során.
+        <translation>Hiba történt a fájltársítás során. 
 Próbálja rendszergazdai jogokkal.</translation>
     </message>
     <message>
@@ -10405,7 +10405,8 @@ Köszönjük a(z) %1 megvásárlását.</translation>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Plugin is not installed. 
 Please install it via Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>A beépülő nincs telepítve. 
+Telepítse az Eszközök › Beépülők alól</translation>
     </message>
 </context>
 <context>
@@ -24134,7 +24135,9 @@ Az értékelés, címke, színcímke nem kerül mentésre.</translation>
         <source>There is a problem to update Catalog:
 (Error: % 1)
 Please contact the developer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Probléma lépett fel a katalógus frissítéseko:
+(Hiba: % 1)
+Lépjen kapcsolatba a fejlesztővel.</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="999"/>
