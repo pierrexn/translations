@@ -306,7 +306,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="2956"/>
         <source>The file &lt;%1&gt; is read-only. Please choose another file name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het bestand &lt;%1&gt; is alleen-lezen. Kies een andere bestandsnaam.</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2964"/>
@@ -584,7 +584,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen?</translation>
         <location filename="BrowserWindow.cpp" line="908"/>
         <source>The database is corrupted. Please check it before you continue!</source>
         <oldsource>The database is corrupted, please check it before to continue!</oldsource>
-        <translation type="unfinished">De database is corrupt, controleer deze voordat u verder gaat!</translation>
+        <translation>De database is corrupt, controleer deze voordat u verder gaat!</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="1648"/>
@@ -7964,7 +7964,8 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
         <location filename="DlgFileAssociation.cpp" line="111"/>
         <source>Problem to change file association. 
 Please try to start with admin rights.</source>
-        <translation type="unfinished"></translation>
+        <translation>Probleem om bestandsassociatie te wijzigen. 
+Probeer te beginnen met beheerdersrechten.</translation>
     </message>
     <message>
         <location filename="DlgFileAssociation.cpp" line="138"/>
@@ -10422,7 +10423,8 @@ Dank u voor de aanschaf van %1.</translation>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Plugin is not installed. 
 Please install it via Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Plug-in is niet geïnstalleerd. 
+Installeer het via Hulpmiddelen › Plug-ins</translation>
     </message>
 </context>
 <context>
@@ -15770,7 +15772,7 @@ Doorgaan?</translation>
         <location filename="DlgWriteJP2K.ui" line="138"/>
         <source>File size (kB)</source>
         <oldsource>File size (kbytes)</oldsource>
-        <translation type="unfinished">Bestandsgrootte (kB)</translation>
+        <translation>Bestandsgrootte (kB)</translation>
     </message>
 </context>
 <context>
@@ -16135,7 +16137,7 @@ Doorgaan?</translation>
         <location filename="DlgWriteWebP.ui" line="173"/>
         <source>File size (kB)</source>
         <oldsource>File size (kbytes)</oldsource>
-        <translation type="unfinished">Bestandsgrootte (kB)</translation>
+        <translation>Bestandsgrootte (kB)</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="207"/>
@@ -17138,7 +17140,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
         <location filename="TemplateData.cpp" line="2800"/>
         <source>Size (kB)</source>
         <oldsource>Size (KB)</oldsource>
-        <translation type="unfinished">Grootte (KB)</translation>
+        <translation>Grootte (kB)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2581"/>
@@ -24170,7 +24172,9 @@ Waardering, Labels en Kleurlabels worden niet opgeslagen.</translation>
         <source>There is a problem to update Catalog:
 (Error: % 1)
 Please contact the developer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Er is een probleem met het bijwerken van de Catalogus:
+(Fout: %1)
+Meld dit a.u.b. bij de ontwikkelaar.</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="999"/>
