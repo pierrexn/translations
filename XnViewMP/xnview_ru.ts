@@ -302,7 +302,8 @@
     <message>
         <location filename="ViewWindow.cpp" line="2956"/>
         <source>The file &lt;%1&gt; is read-only. Please choose another file name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл &lt;%1&gt; доступен только для чтения.
+Попробуйте сохранить файл под другим именем.</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2964"/>
@@ -593,7 +594,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="BrowserWindow.cpp" line="908"/>
         <source>The database is corrupted. Please check it before you continue!</source>
         <oldsource>The database is corrupted, please check it before to continue!</oldsource>
-        <translation type="unfinished">База данных повреждена, пожалуйста, проверьте данные перед продолжением!</translation>
+        <translation>База данных повреждена.
+Пожалуйста, проверьте данные перед продолжением!</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="1648"/>
@@ -8015,7 +8017,8 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgFileAssociation.cpp" line="111"/>
         <source>Problem to change file association. 
 Please try to start with admin rights.</source>
-        <translation type="unfinished"></translation>
+        <translation>Проблема при изменении ассоциаций файлов.
+Попробуйте запустить программу с правами администратора.</translation>
     </message>
     <message>
         <location filename="DlgFileAssociation.cpp" line="138"/>
@@ -10489,7 +10492,8 @@ Thank you for purchasing %1.</source>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Plugin is not installed. 
 Please install it via Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Плагин не установлен.
+Пожалуйста, установите его с помощью Инструменты › Плагины</translation>
     </message>
 </context>
 <context>
@@ -15859,7 +15863,7 @@ Do you want to continue?</source>
         <location filename="DlgWriteJP2K.ui" line="138"/>
         <source>File size (kB)</source>
         <oldsource>File size (kbytes)</oldsource>
-        <translation type="unfinished">Размер файла (Кбайт)</translation>
+        <translation>Размер файла (Кб)</translation>
     </message>
 </context>
 <context>
@@ -16227,7 +16231,7 @@ Do you want to continue?</source>
         <location filename="DlgWriteWebP.ui" line="173"/>
         <source>File size (kB)</source>
         <oldsource>File size (kbytes)</oldsource>
-        <translation type="unfinished">Размер файла (Кбайт)</translation>
+        <translation>Размер файла (Кб)</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="207"/>
@@ -17234,7 +17238,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2800"/>
         <source>Size (kB)</source>
         <oldsource>Size (KB)</oldsource>
-        <translation type="unfinished">Размер (Кб)</translation>
+        <translation>Размер (Кб)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2581"/>
@@ -24281,7 +24285,9 @@ Rating, Tag &amp; Color labels will not be saved.</source>
         <source>There is a problem to update Catalog:
 (Error: % 1)
 Please contact the developer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Возникла проблема с обновлением каталога:
+(Ошибка: % 1)
+Пожалуйста, свяжитесь с разработчиком.</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="999"/>
