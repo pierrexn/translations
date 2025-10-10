@@ -17200,7 +17200,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2800"/>
         <source>Size (kB)</source>
         <oldsource>Size (KB)</oldsource>
-        <translation type="unfinished">Розмір (кбайт)</translation>
+        <translation>Розмір (Кб)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2581"/>
