@@ -6193,7 +6193,8 @@ Please make sure that files are not read-only!</source>
     <message>
         <source>Problem to change file association. 
 Please try to start with admin rights.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Problema al cambiar la asociación de archivos.
+Por favor, intente iniciar con derechos de Administrador.</translation>
     </message>
 </context>
 <context>
