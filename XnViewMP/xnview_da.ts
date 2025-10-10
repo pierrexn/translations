@@ -7998,7 +7998,8 @@ Vær sikker på, at filerne ikke er read-only!</translation>
         <location filename="DlgFileAssociation.cpp" line="111"/>
         <source>Problem to change file association. 
 Please try to start with admin rights.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Problem med at ændre filtilknytning.
+Prøv at starte med administrator rettigheder.</translation>
     </message>
     <message>
         <location filename="DlgFileAssociation.cpp" line="138"/>
