@@ -7979,7 +7979,8 @@ Uistite sa, že súbory nie sú len na čítanie!</translation>
         <location filename="DlgFileAssociation.cpp" line="111"/>
         <source>Problem to change file association. 
 Please try to start with admin rights.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastal problém so zmenou asociácie súboru.
+Vyskúšajte prosím spustiť program s administrátorskými právami.</translation>
     </message>
     <message>
         <location filename="DlgFileAssociation.cpp" line="138"/>
