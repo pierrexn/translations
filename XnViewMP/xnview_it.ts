@@ -7964,7 +7964,8 @@ Si prega di controllare che i file non siano a sola lettura!</translation>
         <location filename="DlgFileAssociation.cpp" line="111"/>
         <source>Problem to change file association. 
 Please try to start with admin rights.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Problema nel riassegnare l&apos;associazione del file.
+Si prega di avviare con i privilegi di Amministratore.</translation>
     </message>
     <message>
         <location filename="DlgFileAssociation.cpp" line="138"/>
