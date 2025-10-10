@@ -6193,7 +6193,8 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     <message>
         <source>Problem to change file association. 
 Please try to start with admin rights.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ongelmia muutettaessa tiedostokytkentöjä.
+Käynnistä ohjelma uudelleen ylläpitäjän oikeuksilla.</translation>
     </message>
 </context>
 <context>
