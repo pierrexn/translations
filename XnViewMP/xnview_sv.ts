@@ -7965,7 +7965,8 @@ Tillse att filerna inte är skrivskyddade!</translation>
         <location filename="DlgFileAssociation.cpp" line="111"/>
         <source>Problem to change file association. 
 Please try to start with admin rights.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Problem med att ändra filassociering.
+Försök starta med administatörsrättigheter.</translation>
     </message>
     <message>
         <location filename="DlgFileAssociation.cpp" line="138"/>
