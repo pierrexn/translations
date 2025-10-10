@@ -7950,7 +7950,8 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgFileAssociation.cpp" line="111"/>
         <source>Problem to change file association. 
 Please try to start with admin rights.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无法更改文件关联。
+请确保您具有管理员权限。</translation>
     </message>
     <message>
         <location filename="DlgFileAssociation.cpp" line="138"/>
