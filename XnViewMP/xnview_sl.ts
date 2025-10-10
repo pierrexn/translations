@@ -7998,7 +7998,8 @@ Prepričajte se, da datoteke niso samo za branje!</translation>
         <location filename="DlgFileAssociation.cpp" line="111"/>
         <source>Problem to change file association. 
 Please try to start with admin rights.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Težava pri spreminjanju pridruženosti datoteke.
+Poskusite znova zagnati s skrbniškimi pravicami.</translation>
     </message>
     <message>
         <location filename="DlgFileAssociation.cpp" line="138"/>
