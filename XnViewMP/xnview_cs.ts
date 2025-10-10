@@ -8006,7 +8006,8 @@ Zkontrolujte prosím, že soubory nemají atribut Pouze pro čtení!</translatio
         <location filename="DlgFileAssociation.cpp" line="111"/>
         <source>Problem to change file association. 
 Please try to start with admin rights.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nepodařilo se změnit asociaci souboru.
+Zkuste prosím spustit program XnView s právy administrátora.</translation>
     </message>
     <message>
         <location filename="DlgFileAssociation.cpp" line="138"/>
