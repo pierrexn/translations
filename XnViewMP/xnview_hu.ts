@@ -313,7 +313,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="2956"/>
         <source>The file &lt;%1&gt; is read-only. Please choose another file name.</source>
-        <translation type="unfinished"></translation>
+        <translation>A fájl írásvédett: &lt;%1&gt;. Kérem, válasszon másik fájlnevet.</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2964"/>
@@ -15751,7 +15751,7 @@ Biztos folytassuk?</translation>
         <location filename="DlgWriteJP2K.ui" line="138"/>
         <source>File size (kB)</source>
         <oldsource>File size (kbytes)</oldsource>
-        <translation type="unfinished">Fájlméret (kbyte)</translation>
+        <translation>Fájlméret (kB)</translation>
     </message>
 </context>
 <context>
@@ -16117,7 +16117,7 @@ Biztos folytassuk?</translation>
         <location filename="DlgWriteWebP.ui" line="173"/>
         <source>File size (kB)</source>
         <oldsource>File size (kbytes)</oldsource>
-        <translation type="unfinished">Fájlméret (kbyte)</translation>
+        <translation>Fájlméret (kB)</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="207"/>
@@ -17120,7 +17120,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <location filename="TemplateData.cpp" line="2800"/>
         <source>Size (kB)</source>
         <oldsource>Size (KB)</oldsource>
-        <translation type="unfinished">Méter (KB)</translation>
+        <translation>Méter (kB)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2581"/>
