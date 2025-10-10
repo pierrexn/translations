@@ -8002,7 +8002,8 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgFileAssociation.cpp" line="111"/>
         <source>Problem to change file association. 
 Please try to start with admin rights.</source>
-        <translation type="unfinished"></translation>
+        <translation>Проблема при зміні асоціацій файлів.
+Спробуйте запустити програму з правами адміністратора.</translation>
     </message>
     <message>
         <location filename="DlgFileAssociation.cpp" line="138"/>
@@ -10467,7 +10468,8 @@ Thank you for purchasing %1.</source>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Plugin is not installed. 
 Please install it via Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Плагін не встановлено.
+Будь ласка, встановіть його за допомогою Інструменти › Плагіни</translation>
     </message>
 </context>
 <context>
