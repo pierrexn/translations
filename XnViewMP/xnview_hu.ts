@@ -7946,7 +7946,8 @@ Ellenőrizze, hogy a fájl nem írásvédett!</translation>
         <location filename="DlgFileAssociation.cpp" line="111"/>
         <source>Problem to change file association. 
 Please try to start with admin rights.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hiba történt a fájltársítás során.
+Próbálja rendszergazdai jogokkal.</translation>
     </message>
     <message>
         <location filename="DlgFileAssociation.cpp" line="138"/>
