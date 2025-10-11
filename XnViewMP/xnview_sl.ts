@@ -324,7 +324,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="2956"/>
         <source>The file &lt;%1&gt; is read-only. Please choose another file name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Datoteka &lt;%1&gt; je samo za branje. Izberite drugo ime datoteke.</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2964"/>
@@ -601,7 +601,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <location filename="BrowserWindow.cpp" line="908"/>
         <source>The database is corrupted. Please check it before you continue!</source>
         <oldsource>The database is corrupted, please check it before to continue!</oldsource>
-        <translation type="unfinished">Baza podatkov je poškodovana, preverite jo pred nadaljevanjem!</translation>
+        <translation>Podatkovna baza je poškodovana. Preden nadaljujete, jo preverite!</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="1648"/>
@@ -7998,7 +7998,7 @@ Prepričajte se, da datoteke niso samo za branje!</translation>
         <location filename="DlgFileAssociation.cpp" line="111"/>
         <source>Problem to change file association. 
 Please try to start with admin rights.</source>
-        <translation type="unfinished">Težava pri spreminjanju pridruženosti datoteke.
+        <translation>Težava pri spreminjanju pridruženosti datoteke.
 Poskusite znova zagnati s skrbniškimi pravicami.</translation>
     </message>
     <message>
@@ -10458,7 +10458,8 @@ Hvala za nakup %1.</translation>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Plugin is not installed. 
 Please install it via Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Vtičnik ni nameščen. 
+Namestite ga prek Orodja › Vtičniki</translation>
     </message>
 </context>
 <context>
@@ -15803,7 +15804,7 @@ Do you want to continue?</source>
         <location filename="DlgWriteJP2K.ui" line="138"/>
         <source>File size (kB)</source>
         <oldsource>File size (kbytes)</oldsource>
-        <translation type="unfinished">Velikost datoteke (kbajtov)</translation>
+        <translation>Velikost datoteke (kB)</translation>
     </message>
 </context>
 <context>
@@ -16168,7 +16169,7 @@ Do you want to continue?</source>
         <location filename="DlgWriteWebP.ui" line="173"/>
         <source>File size (kB)</source>
         <oldsource>File size (kbytes)</oldsource>
-        <translation type="unfinished">Velikost datoteke (kbajtov)</translation>
+        <translation>Velikost datoteke (kB)</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="207"/>
@@ -17205,7 +17206,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <location filename="TemplateData.cpp" line="2800"/>
         <source>Size (kB)</source>
         <oldsource>Size (KB)</oldsource>
-        <translation type="unfinished">Velikost (KB)</translation>
+        <translation>Velikost (kB)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2774"/>
@@ -24211,7 +24212,9 @@ Oznake z oceno, oznako in barvo ne bodo shranjene.</translation>
         <source>There is a problem to update Catalog:
 (Error: % 1)
 Please contact the developer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pri posodabljanju kataloga je prišlo do težave.:
+(Napaka: % 1)
+Prosimo, obrnite se na razvijalca.</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="999"/>
