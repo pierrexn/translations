@@ -725,7 +725,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation>Redenumire</translation>
+        <translation>Redenumește</translation>
     </message>
     <message>
         <source>New Album</source>
@@ -1335,7 +1335,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>No settings</source>
-        <translation>Fără setări</translation>
+        <translation>Nicio setare</translation>
     </message>
     <message>
         <source>JPEG Lossless rotation</source>
@@ -1756,7 +1756,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation>Font</translation>
+        <translation>Font (Scris)</translation>
     </message>
     <message>
         <source>Left</source>
@@ -1832,7 +1832,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;p&gt;All banner specifications (font, color, size, etc.) carry forward from the previously created banner. An exception is text size, which is calculated to &apos;Best fit&apos; for banner height.&lt;/p&gt;&lt;p&gt;You may select multiple images to apply the same banner to several images at once. Note that the text will be the same size in all images, then.&lt;/p&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; align=&quot;left&quot; style=&quot;border-bottom:1px solid gray;padding-top:15px&quot;&gt;Shortcuts&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Increase/decrease font size by 2 points&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Shift+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Increase/decrease banner size by 1%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+S&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Start banner creation&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;p&gt;Toate specificațiile pancartei (bannerului) (font, culoare, dimensiune etc.) sunt transferate de la pancarta (bannerul) creat(ă) anterior. O excepție este dimensiunea textului, care este calculată la „Cel mai potrivită” pentru înălțimea pancartei (bannerului)..&lt;/p&gt;&lt;p&gt;Poți selecta mai multe imagini pentru a aplica aceeași pancartă (același banner) mai multor imagini simultan. Reține că textul va avea atunci aceeași dimensiune în toate imaginile.&lt;/p&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; align=&quot;left&quot; style=&quot;border-bottom:1px solid gray;padding-top:15px&quot;&gt;Comenzi rapide (Scurtături)&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Crește/scade mărimea fontului cu 2 puncte&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Shift+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Crește/scade mărimea pancartei (bannerului) cu 1%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+S&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Pornește creare pancartei (bannerului)&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;p&gt;Toate specificațiile pancartei (bannerului) (font/scris, culoare, dimensiune etc.) sunt transferate de la pancarta (bannerul) creat(ă) anterior. O excepție este dimensiunea textului, care este calculată la „Cel mai potrivită” pentru înălțimea pancartei (bannerului)..&lt;/p&gt;&lt;p&gt;Poți selecta mai multe imagini pentru a aplica aceeași pancartă (același banner) mai multor imagini simultan. Reține că textul va avea atunci aceeași dimensiune în toate imaginile.&lt;/p&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; align=&quot;left&quot; style=&quot;border-bottom:1px solid gray;padding-top:15px&quot;&gt;Comenzi rapide (Scurtături)&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Crește/scade mărimea fontului/scrisului cu 2 puncte&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Shift+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Crește/scade mărimea pancartei (bannerului) cu 1%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+S&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Pornește creare pancartei (bannerului)&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -2071,7 +2071,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation>Redenumire</translation>
+        <translation>Redenumește</translation>
     </message>
     <message>
         <source>Resize</source>
@@ -2183,7 +2183,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Photo 5x7 inches (13x18 cm)</source>
-        <translation>Fotografie 5x7 inchi (13x18 cm)</translation>
+        <translation>Fotografie de 5x7 inci (de 13x18 cm)</translation>
     </message>
     <message>
         <source>has read-only attribute, and can&apos;t be overwritten!</source>
@@ -2199,7 +2199,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Photo 4x6 inches (10x15 cm)</source>
-        <translation>Fotografie 4x6 inchi (10x15 cm)</translation>
+        <translation>Fotografie de 4x6 inci (de 10x15 cm)</translation>
     </message>
     <message>
         <source>&lt;br&gt;XnResize is provided as freeware for private or commercial use. &lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
@@ -2227,7 +2227,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Photo 6x8 inches (15x20 cm)</source>
-        <translation>Fotografie 6x8 inchi (15x20 cm)</translation>
+        <translation>Fotografie 6x8 de inci (de 15x20 cm)</translation>
     </message>
     <message>
         <source>-90° (counter clockwise)</source>
@@ -2291,7 +2291,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Photo 8x10 inches (20x25 cm)</source>
-        <translation>Fotografie 8x10 inchi (20x25 cm)</translation>
+        <translation>Fotografie 8x10 de inci (de 20x25 cm)</translation>
     </message>
     <message>
         <source>skipped, file already exists!</source>
@@ -2467,7 +2467,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Elimina</translation>
+        <translation>Elimină</translation>
     </message>
     <message>
         <source>Add Set...</source>
@@ -2610,7 +2610,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation>Font</translation>
+        <translation>Font (Scris)</translation>
     </message>
     <message>
         <source>Rows</source>
@@ -2834,7 +2834,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Legal (8.5x14 inch)</source>
-        <translation>Legal (8,5x14 inchi)</translation>
+        <translation>Legal (8,5x14 inci)</translation>
     </message>
     <message>
         <source>Next file</source>
@@ -3537,11 +3537,11 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Photo 5x7 inches (13x18 cm)</source>
-        <translation>Fotografie 5x7 inchi (13x18 cm)</translation>
+        <translation>Fotografie 5x7 de inci (de 13x18 cm)</translation>
     </message>
     <message>
         <source>Photo 4x6 inches (10x15 cm)</source>
-        <translation>Fotografie 4x6 inchi (10x15 cm)</translation>
+        <translation>Fotografie 4x6 de inci (de 10x15 cm)</translation>
     </message>
     <message>
         <source>Square - Longest side</source>
@@ -3553,7 +3553,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Photo 6x8 inches (15x20 cm)</source>
-        <translation>Fotografie 6x8 inchi (15x20 cm)</translation>
+        <translation>Fotografie 6x8 de inci (de 15x20 cm)</translation>
     </message>
     <message>
         <source>Relative</source>
@@ -3561,7 +3561,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Photo 8x10 inches (20x25 cm)</source>
-        <translation>Fotografie 8x10 inchi (20x25 cm)</translation>
+        <translation>Fotografie 8x10 de inci (de 20x25 cm)</translation>
     </message>
     <message>
         <source>Top-Left</source>
@@ -3788,11 +3788,11 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Elimina</translation>
+        <translation>Elimină</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation>Redenumire</translation>
+        <translation>Redenumește</translation>
     </message>
     <message>
         <source>Open in Browser</source>
@@ -4188,7 +4188,7 @@ Vrei să continui?</translation>
     <name>DlgConvertCrystallize</name>
     <message>
         <source>Edges</source>
-        <translation>Margini</translation>
+        <translation>Marginile</translation>
     </message>
     <message>
         <source>Scale</source>
@@ -4234,7 +4234,7 @@ Vrei să continui?</translation>
     <name>DlgConvertDeinterlaceClass</name>
     <message>
         <source>Eliminate</source>
-        <translation>Înlătura</translation>
+        <translation>Înlătură</translation>
     </message>
     <message>
         <source>Interpolation</source>
@@ -4918,7 +4918,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Photo 5x7 inches (13x18 cm)</source>
-        <translation>Fotografie 5x7 inchi (13x18 cm)</translation>
+        <translation>Fotografie de 5x7 inci (de 13x18 cm)</translation>
     </message>
     <message>
         <source>Reduce only</source>
@@ -4930,11 +4930,11 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Photo 4x6 inches (10x15 cm)</source>
-        <translation>Fotografie 4x6 inchi (10x15 cm)</translation>
+        <translation>Fotografie de 4x6 inci (de 10x15 cm)</translation>
     </message>
     <message>
         <source>Photo 6x8 inches (15x20 cm)</source>
-        <translation>Fotografie 6x8 inchi (15x20 cm)</translation>
+        <translation>Fotografie de 6x8 inci (de 15x20 cm)</translation>
     </message>
     <message>
         <source>Resample</source>
@@ -4946,7 +4946,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Photo 8x10 inches (20x25 cm)</source>
-        <translation>Fotografie 8x10 inchi (20x25 cm)</translation>
+        <translation>Fotografie de 8x10 inci (de 20x25 cm)</translation>
     </message>
     <message>
         <source>Longest side</source>
@@ -5114,7 +5114,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation>Font</translation>
+        <translation>Font (Scris)</translation>
     </message>
     <message>
         <source>Size</source>
@@ -5492,7 +5492,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>View as:</source>
-        <translation>Vizualizare ca:</translation>
+        <translation>Vizualizează ca:</translation>
     </message>
 </context>
 <context>
@@ -5503,7 +5503,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Eliminare</translation>
+        <translation>Elimină</translation>
     </message>
     <message>
         <source>Crop size</source>
@@ -5604,7 +5604,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Rename...</source>
-        <translation>Redenumire...</translation>
+        <translation>Redenumește...</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -7530,7 +7530,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Font</source>
-        <translation>Font</translation>
+        <translation>Font (Scris)</translation>
     </message>
     <message>
         <source>Left</source>
@@ -7622,7 +7622,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Margins</source>
-        <translation>Margini</translation>
+        <translation>Marginile</translation>
     </message>
     <message>
         <source>Thumbnails</source>
@@ -7742,7 +7742,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Page size: %1x%2 inches, %3x%4 mm</source>
-        <translation>Dimensiunea paginii: %1x%2 inchi, %3x%4 mm</translation>
+        <translation>Dimensiunea paginii: %1x%2 (de) inci, %3x%4 (de) mm</translation>
     </message>
     <message>
         <source>Columns</source>
@@ -8895,7 +8895,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>View as</source>
-        <translation>Vizualizare ca</translation>
+        <translation>Vizualizează ca</translation>
     </message>
     <message>
         <source>Show ratings</source>
@@ -9079,7 +9079,7 @@ Dorești să verifici mai întâi intrările afectate?</translation>
     </message>
     <message>
         <source>MiB</source>
-        <translation>MiB</translation>
+        <translation>MiB (MO)</translation>
     </message>
     <message>
         <source>Size</source>
@@ -9139,7 +9139,7 @@ Dorești să verifici mai întâi intrările afectate?</translation>
     </message>
     <message>
         <source>Compression:</source>
-        <translation>Comprimare:</translation>
+        <translation>Comprimarea:</translation>
     </message>
     <message>
         <source>Directory</source>
@@ -9201,7 +9201,7 @@ Dorești să verifici mai întâi intrările afectate?</translation>
     <name>DlgSettingsFilelist</name>
     <message>
         <source>None</source>
-        <translation>Nmic</translation>
+        <translation>Niciuna</translation>
     </message>
     <message>
         <source>Text</source>
@@ -9370,7 +9370,7 @@ miniatură</translation>
     </message>
     <message>
         <source>Copy/move/rename</source>
-        <translation>Copiere/mutare/redenumire</translation>
+        <translation>Copiază/mută/redenumește</translation>
     </message>
     <message>
         <source>Association list (use ; as separator)</source>
@@ -9727,7 +9727,7 @@ miniatură</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation>Redenumire</translation>
+        <translation>Redenumește</translation>
     </message>
     <message>
         <source>Lossless operations</source>
@@ -10481,7 +10481,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Supported formats</source>
-        <translation>Formate suportate</translation>
+        <translation>Formatele suportate</translation>
     </message>
     <message>
         <source>Color labels</source>
@@ -10762,7 +10762,7 @@ Dorești să-l reatribui?</translation>
     <name>DlgSettingsViewClass</name>
     <message>
         <source>Font</source>
-        <translation>Font</translation>
+        <translation>Font (Scris)</translation>
     </message>
     <message>
         <source>Info</source>
@@ -11246,7 +11246,7 @@ Dorești să-l reatribui?</translation>
     <name>DlgSlideshow</name>
     <message>
         <source>Font</source>
-        <translation>Font</translation>
+        <translation>Font (Scris)</translation>
     </message>
     <message>
         <source>Loop</source>
@@ -11630,7 +11630,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Elimina</translation>
+        <translation>Elimină</translation>
     </message>
     <message>
         <source>Overwrite face regions</source>
@@ -11962,7 +11962,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>User filter</source>
-        <translation>Filtru utilizator</translation>
+        <translation>Filtrul utilizatorului</translation>
     </message>
     <message>
         <source>New filter</source>
@@ -12689,11 +12689,11 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Elimina</translation>
+        <translation>Elimină</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation>Redenumire</translation>
+        <translation>Redenumește</translation>
     </message>
     <message>
         <source>Favorite doesn&apos;t exist</source>
@@ -12770,7 +12770,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Elimina</translation>
+        <translation>Elimină</translation>
     </message>
     <message>
         <source>Remove all</source>
@@ -12998,7 +12998,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>File size</source>
-        <translation>Mărime fișier</translation>
+        <translation>Mărimea fișierului</translation>
     </message>
     <message>
         <source>Size (Auto)</source>
@@ -13313,7 +13313,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation>Redenumire</translation>
+        <translation>Redenumește</translation>
     </message>
     <message>
         <source>Move to...</source>
@@ -13774,7 +13774,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Date/time modified</source>
-        <translation>Data/ora modificate</translation>
+        <translation>Data/ora modificării</translation>
     </message>
     <message>
         <source>Subject Distance (m)</source>
@@ -14322,7 +14322,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Modified date/time</source>
-        <translation>Data/ora modificate</translation>
+        <translation>Data/ora modificării</translation>
     </message>
     <message>
         <source>Colour Label</source>
@@ -14330,7 +14330,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>File size</source>
-        <translation>Mărime fișier</translation>
+        <translation>Mărimea fișierului</translation>
     </message>
     <message>
         <source>Top-Right</source>
@@ -15001,7 +15001,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>File size</source>
-        <translation>Mărime fișier</translation>
+        <translation>Mărimea fișierului</translation>
     </message>
     <message>
         <source>Rotate 180°</source>
@@ -15093,7 +15093,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Rename...</source>
-        <translation>Redenumire...</translation>
+        <translation>Redenumește...</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -15165,7 +15165,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation>Redenumire</translation>
+        <translation>Redenumește</translation>
     </message>
     <message>
         <source>Open file list...</source>
@@ -15425,7 +15425,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Uncolored</source>
-        <translation>Necolorat</translation>
+        <translation>Necolorată</translation>
     </message>
     <message>
         <source>First page</source>
@@ -15557,7 +15557,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>View as</source>
-        <translation>Vizualizare ca</translation>
+        <translation>Vizualizează ca</translation>
     </message>
     <message>
         <source>Fit image to window</source>
@@ -15613,7 +15613,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Invert selection</source>
-        <translation>Inverseaza selectia</translation>
+        <translation>Inversează selecția</translation>
     </message>
     <message>
         <source>View as Thumbnails</source>
@@ -15872,7 +15872,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Report a Bug...</source>
-        <translation>Raporteaza o eroare...</translation>
+        <translation>Raportează o eroare (un bug)...</translation>
     </message>
     <message>
         <source>Bottom</source>
@@ -16250,7 +16250,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Rename...</source>
-        <translation>Redenumire...</translation>
+        <translation>Redenumește...</translation>
     </message>
     <message>
         <source>Set DPI...</source>
@@ -16466,7 +16466,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Grid settings...</source>
-        <translation>Setări grilă...</translation>
+        <translation>Setări pentru grilă...</translation>
     </message>
     <message>
         <source>Select none</source>
@@ -16478,7 +16478,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Uncolored</source>
-        <translation>Necolorat</translation>
+        <translation>Necolorată</translation>
     </message>
     <message>
         <source>First page</source>
@@ -16494,7 +16494,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>User filter...</source>
-        <translation>Filtru utilizator...</translation>
+        <translation>Filtrul utilizatorului...</translation>
     </message>
     <message>
         <source>Image content</source>
@@ -16901,7 +16901,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>MiB</source>
-        <translation>MiB</translation>
+        <translation>MiB (MO)</translation>
     </message>
     <message>
         <source>Bytes</source>
@@ -17351,7 +17351,7 @@ O poți schimba în Setări › Catalog.</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation>Font</translation>
+        <translation>Font (Scris)</translation>
     </message>
     <message>
         <source>Left</source>
@@ -17780,11 +17780,11 @@ O poți schimba în Setări › Catalog.</translation>
     </message>
     <message>
         <source>Dark gray</source>
-        <translation>Gri inchis</translation>
+        <translation>Gri închis</translation>
     </message>
     <message>
         <source>Dark blue</source>
-        <translation>Albastru inchis</translation>
+        <translation>Albastru închis</translation>
     </message>
     <message>
         <source>Dark cyan</source>
@@ -17792,7 +17792,7 @@ O poți schimba în Setări › Catalog.</translation>
     </message>
     <message>
         <source>Dark green</source>
-        <translation>Verde inchis</translation>
+        <translation>Verde închis</translation>
     </message>
     <message>
         <source>Light gray</source>
@@ -18091,7 +18091,7 @@ O poți schimba în Setări › Catalog.</translation>
     </message>
     <message>
         <source>MiB</source>
-        <translation>MiB</translation>
+        <translation>MiB (MO)</translation>
     </message>
     <message>
         <source>and</source>
@@ -18377,7 +18377,7 @@ O poți schimba în Setări › Catalog.</translation>
     <name>ViewTextAction</name>
     <message>
         <source>Font</source>
-        <translation>Font</translation>
+        <translation>Font (Scris)</translation>
     </message>
     <message>
         <source>Text</source>
