@@ -307,7 +307,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="2956"/>
         <source>The file &lt;%1&gt; is read-only. Please choose another file name.</source>
-        <translation type="unfinished"></translation>
+        <translation>O ficheiro &lt;%1&gt; é só de leitura. Por favor escolha outro nome.</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2964"/>
@@ -584,7 +584,7 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
         <location filename="BrowserWindow.cpp" line="908"/>
         <source>The database is corrupted. Please check it before you continue!</source>
         <oldsource>The database is corrupted, please check it before to continue!</oldsource>
-        <translation type="unfinished">A base de dados está corrupta, por favor verifique-a antes de continuar!</translation>
+        <translation>A base de dados está corrupta. Por favor verifique-a antes de continuar!</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="1648"/>
@@ -7990,8 +7990,8 @@ Por favor verifique se os ficheiros não estão protegidos!</translation>
         <location filename="DlgFileAssociation.cpp" line="111"/>
         <source>Problem to change file association. 
 Please try to start with admin rights.</source>
-        <translation type="unfinished">Problema com a associação do ficheiro.
-Tente novamente por favor, mas como administrador.</translation>
+        <translation>Problema a alterar a associação do ficheiro.
+Por favor tente, abrindo o programa como administrador.</translation>
     </message>
     <message>
         <location filename="DlgFileAssociation.cpp" line="138"/>
@@ -10459,7 +10459,8 @@ Obrigado por adquirir o %1.</translation>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Plugin is not installed. 
 Please install it via Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>O plugin não está instalado. 
+Por favor instale via Ferramentas › Plugins</translation>
     </message>
 </context>
 <context>
@@ -15822,7 +15823,7 @@ Deseja continuar?</translation>
         <location filename="DlgWriteJP2K.ui" line="138"/>
         <source>File size (kB)</source>
         <oldsource>File size (kbytes)</oldsource>
-        <translation type="unfinished">Tamanho do ficheiro (kB)</translation>
+        <translation>Tamanho do ficheiro (kB)</translation>
     </message>
 </context>
 <context>
@@ -16187,7 +16188,7 @@ Deseja continuar?</translation>
         <location filename="DlgWriteWebP.ui" line="173"/>
         <source>File size (kB)</source>
         <oldsource>File size (kbytes)</oldsource>
-        <translation type="unfinished">Tamanho do ficheiro (kB)</translation>
+        <translation>Tamanho do ficheiro (kB)</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="207"/>
@@ -17192,7 +17193,7 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
         <location filename="TemplateData.cpp" line="2800"/>
         <source>Size (kB)</source>
         <oldsource>Size (KB)</oldsource>
-        <translation type="unfinished">Tamanho (kB)</translation>
+        <translation>Tamanho (kB)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2581"/>
@@ -24248,7 +24249,9 @@ Classificação, Etiqueta e rótulos de Cor não serão gravados.</translation>
         <source>There is a problem to update Catalog:
 (Error: % 1)
 Please contact the developer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Há um problema com a actualização do Catálogo:
+(Erro: % 1)
+Por favor contacte o autor do programa.</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="999"/>
