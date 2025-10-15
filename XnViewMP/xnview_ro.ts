@@ -3228,7 +3228,7 @@ Vrei să continui?</translation>
     <name>DlgConvertAspectPadClass</name>
     <message>
         <source>Ratio</source>
-        <translation>Raport</translation>
+        <translation>Raportul</translation>
     </message>
     <message>
         <source>Landscape</source>
@@ -3688,7 +3688,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Exit after conversion</source>
-        <translation>Ieșire după conversie</translation>
+        <translation>Închide programul după conversie</translation>
     </message>
     <message>
         <source>When output files already exist</source>
@@ -11235,7 +11235,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>ratio</source>
-        <translation>raport</translation>
+        <translation>raportul</translation>
     </message>
     <message>
         <source>Height</source>
@@ -12821,7 +12821,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     <name>FilterView</name>
     <message>
         <source>Ratio</source>
-        <translation>Raport</translation>
+        <translation>Raportul</translation>
     </message>
     <message>
         <source>File type</source>
@@ -12946,7 +12946,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Ratio</source>
-        <translation>Raport</translation>
+        <translation>Raportul</translation>
     </message>
     <message>
         <source>Title</source>
@@ -12962,7 +12962,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Width/Height Ratio</source>
-        <translation>Raport lățime/înălțime</translation>
+        <translation>Raportul lățime/înălțime</translation>
     </message>
     <message>
         <source>Images/frames count</source>
@@ -13162,7 +13162,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Height/Width Ratio</source>
-        <translation>Raport înălțime/lățime</translation>
+        <translation>Raportul înălțime/lățime</translation>
     </message>
     <message>
         <source>Format version</source>
@@ -13262,7 +13262,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Ratio Decimal</source>
-        <translation>Raport zecimal</translation>
+        <translation>Raportul zecimal</translation>
     </message>
     <message>
         <source>Create date</source>
@@ -14913,7 +14913,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Ratio</source>
-        <translation>Raport</translation>
+        <translation>Raportul</translation>
     </message>
     <message>
         <source>Clear all tags</source>
