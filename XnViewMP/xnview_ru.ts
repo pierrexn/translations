@@ -180,7 +180,7 @@
     <message>
         <location filename="AboutWidget.ui" line="154"/>
         <source>INI filename</source>
-        <translation>Расположение файла INI</translation>
+        <translation>INI файл</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="373"/>
@@ -617,7 +617,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="BrowserWindow.cpp" line="1979"/>
         <source>Match</source>
         <translatorcomment>Еще раз проверить?</translatorcomment>
-        <translation>Соответствовать</translation>
+        <translation>Совпадение</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="1989"/>
@@ -697,12 +697,12 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="BrowserWindow.cpp" line="1995"/>
         <source>Match any selected entry (OR)</source>
-        <translation>Совпадение с любой из выбранных записей (ИЛИ)</translation>
+        <translation>Совпадение с любым из выбранных (ИЛИ)</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2001"/>
         <source>Match all selected entries (AND)</source>
-        <translation>Совпадение со всеми выбранными записями (И)</translation>
+        <translation>Совпадение со всеми выбранными (И)</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3100"/>
@@ -945,7 +945,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CategoryView.cpp" line="494"/>
         <source>Empty</source>
-        <translation>Пустой</translation>
+        <translation>Очистить</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="496"/>
@@ -965,7 +965,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CategoryView.cpp" line="524"/>
         <source>Are you sure to delete this album?</source>
-        <translation>Вы уверены, что хотите удалить этот альбом?</translation>
+        <translation>Вы действительно хотите удалить этот альбом?</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="530"/>
@@ -975,12 +975,12 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CategoryView.cpp" line="542"/>
         <source>Empty album</source>
-        <translation>Пустой альбом</translation>
+        <translation>Очистить альбом</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="542"/>
         <source>Are you sure to clear this album?</source>
-        <translation>Вы уверены, что хотите очистить этот альбом?</translation>
+        <translation>Вы действительно хотите очистить этот альбом?</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="549"/>
@@ -5298,12 +5298,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="1756"/>
         <source>Save actions list at exiting</source>
-        <translation>Сохранять список преобразований при выходе</translation>
+        <translation>Сохранять список Действий при выходе</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1763"/>
         <source>Clear filename field at startup</source>
-        <translation>Очистить поле имя файла при запуске</translation>
+        <translation>Очищать поле Имя файла при запуске</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1777"/>
@@ -8226,7 +8226,7 @@ Please try to start with admin rights.</source>
         <location filename="DlgFileReplace.cpp" line="227"/>
         <location filename="DlgFileReplace.cpp" line="238"/>
         <source>Are you sure to delete this file?</source>
-        <translation>Вы уверены, что хотите удалить файл?</translation>
+        <translation>Вы действительно хотите удалить файл?</translation>
     </message>
 </context>
 <context>
@@ -9027,7 +9027,7 @@ Do you want to save your changes?</source>
     <message>
         <location filename="DlgIptc.cpp" line="921"/>
         <source>Do you want to save your changes?</source>
-        <translation>Вы уверены, что хотите сохранить изменения?</translation>
+        <translation>Вы действительно хотите сохранить изменения?</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="1042"/>
@@ -11125,17 +11125,17 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.ui" line="188"/>
         <source>Match</source>
-        <translation>Соответствовать</translation>
+        <translation>Совпадение</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="195"/>
         <source>All</source>
-        <translation>всем</translation>
+        <translation>Все</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="202"/>
         <source>Any</source>
-        <translation>любому</translation>
+        <translation>Любое</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="317"/>
@@ -17648,12 +17648,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DBFilterModel.cpp" line="1581"/>
         <source>Not Defined</source>
-        <translation>Не определено</translation>
+        <translation>Не определена</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1583"/>
         <source>Manual</source>
-        <translation>Ручное</translation>
+        <translation>Ручная</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1585"/>
@@ -17748,7 +17748,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="SearchField.cpp" line="81"/>
         <location filename="TemplateData.cpp" line="2639"/>
         <source>F-Number</source>
-        <translation>Светосила</translation>
+        <translation>Диафрагменное число</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="82"/>
@@ -17892,7 +17892,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="SearchField.cpp" line="79"/>
         <location filename="TemplateData.cpp" line="2642"/>
         <source>ISO Value</source>
-        <translation>Скорость ISO</translation>
+        <translation>ISO</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2643"/>
