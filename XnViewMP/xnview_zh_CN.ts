@@ -143,112 +143,113 @@
         <translation>综述</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="119"/>
-        <source>Date</source>
-        <translation>日期</translation>
-    </message>
-    <message>
-        <location filename="AboutWidget.ui" line="126"/>
+        <location filename="AboutWidget.ui" line="191"/>
         <source>Social</source>
         <translation>社交</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="133"/>
+        <location filename="AboutWidget.ui" line="110"/>
         <source>Email</source>
         <translation>电子邮箱</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="203"/>
+        <location filename="AboutWidget.ui" line="152"/>
         <source>Website</source>
         <translation>网站</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="210"/>
-        <source>Version</source>
-        <translation>版本</translation>
-    </message>
-    <message>
-        <location filename="AboutWidget.ui" line="217"/>
+        <location filename="AboutWidget.ui" line="83"/>
         <source>Forum</source>
         <translation>论坛</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="276"/>
+        <location filename="AboutWidget.ui" line="103"/>
         <source>Wiki</source>
         <translation>维基</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="154"/>
+        <location filename="AboutWidget.ui" line="224"/>
         <source>INI filename</source>
         <translation>INI 文件名</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="373"/>
+        <location filename="AboutWidget.ui" line="247"/>
         <source>License</source>
         <translation>许可协议</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="387"/>
+        <location filename="AboutWidget.ui" line="261"/>
         <source>Credits</source>
         <translation>授权</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="401"/>
+        <location filename="AboutWidget.ui" line="275"/>
+        <location filename="AboutWidget.ui" line="299"/>
+        <source>Translators</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="AboutWidget.ui" line="294"/>
+        <source>Language</source>
+        <translation type="unfinished">语言</translation>
+    </message>
+    <message>
+        <location filename="AboutWidget.ui" line="308"/>
         <source>Formats</source>
         <translation>格式</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="439"/>
+        <location filename="AboutWidget.ui" line="346"/>
         <source>Plugins</source>
         <translation>插件</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="464"/>
+        <location filename="AboutWidget.ui" line="371"/>
         <source>Filename</source>
         <translation>文件名</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="469"/>
+        <location filename="AboutWidget.ui" line="376"/>
         <source>Description</source>
         <translation>描述</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="474"/>
+        <location filename="AboutWidget.ui" line="381"/>
         <source>Copyright</source>
         <translation>版权</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="490"/>
+        <location filename="AboutWidget.ui" line="397"/>
         <source>Command line</source>
         <translation>命令行</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="500"/>
+        <location filename="AboutWidget.ui" line="407"/>
         <source>Changelog</source>
         <translation type="unfinished">更新日志</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="242"/>
+        <location filename="AboutWidget.cpp" line="219"/>
         <source>Format</source>
         <translation>格式</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="242"/>
+        <location filename="AboutWidget.cpp" line="219"/>
         <source>Read</source>
         <translation>读取</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="242"/>
+        <location filename="AboutWidget.cpp" line="219"/>
         <source>Write</source>
         <translation>写入</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="242"/>
+        <location filename="AboutWidget.cpp" line="219"/>
         <source>Extension</source>
         <translation>文件扩展名</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="285"/>
+        <location filename="AboutWidget.cpp" line="262"/>
         <source>Formats in reading: %1 | Formats in writing: %2</source>
         <translation>读取格式：%1 | 写入格式： %2</translation>
     </message>
@@ -797,7 +798,7 @@ Drag and Drop over the desired node to assign.</source>
 <context>
     <name>CategoryModel</name>
     <message>
-        <location filename="CategoryModel.cpp" line="549"/>
+        <location filename="CategoryModel.cpp" line="551"/>
         <source>Label</source>
         <translation>标签</translation>
     </message>
@@ -8514,7 +8515,7 @@ Please try to start with admin rights.</source>
     </message>
     <message>
         <location filename="DlgGrid.ui" line="114"/>
-        <location filename="DlgGrid.ui" line="224"/>
+        <location filename="DlgGrid.ui" line="227"/>
         <source>pixels</source>
         <translation>像素</translation>
     </message>
@@ -8562,7 +8563,7 @@ Please try to start with admin rights.</source>
     </message>
     <message>
         <location filename="DlgGrid.ui" line="166"/>
-        <location filename="DlgGrid.ui" line="249"/>
+        <location filename="DlgGrid.ui" line="252"/>
         <source>Offset</source>
         <translation>偏置</translation>
     </message>
@@ -8572,22 +8573,22 @@ Please try to start with admin rights.</source>
         <translation>垂直</translation>
     </message>
     <message>
-        <location filename="DlgGrid.ui" line="275"/>
+        <location filename="DlgGrid.ui" line="278"/>
         <source>Sub-divisions</source>
         <translation>细分</translation>
     </message>
     <message>
-        <location filename="DlgGrid.ui" line="322"/>
+        <location filename="DlgGrid.ui" line="325"/>
         <source>Color</source>
         <translation>颜色</translation>
     </message>
     <message>
-        <location filename="DlgGrid.ui" line="345"/>
+        <location filename="DlgGrid.ui" line="348"/>
         <source>Thickness</source>
         <translation>厚度</translation>
     </message>
     <message>
-        <location filename="DlgGrid.ui" line="359"/>
+        <location filename="DlgGrid.ui" line="362"/>
         <source>Label</source>
         <translation>标签</translation>
     </message>
@@ -15053,17 +15054,17 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgTagPhoto.ui" line="134"/>
-        <location filename="DlgTagPhoto.cpp" line="446"/>
+        <location filename="DlgTagPhoto.cpp" line="452"/>
         <source>Remove</source>
         <translation>移除</translation>
     </message>
     <message>
-        <location filename="DlgTagPhoto.cpp" line="465"/>
+        <location filename="DlgTagPhoto.cpp" line="471"/>
         <source>Overwrite face regions</source>
         <translation>覆盖人脸区域</translation>
     </message>
     <message>
-        <location filename="DlgTagPhoto.cpp" line="465"/>
+        <location filename="DlgTagPhoto.cpp" line="471"/>
         <source>This will overwrite XMP face&apos;s regions of the file. 
 
 Do you want to continue?</source>
@@ -20733,95 +20734,95 @@ Do you want to continue?</oldsource>
 <context>
     <name>MenuGlobal</name>
     <message>
-        <location filename="xnview.cpp" line="1377"/>
+        <location filename="xnview.cpp" line="1378"/>
         <source>Quit</source>
         <translation>退出</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1380"/>
+        <location filename="xnview.cpp" line="1381"/>
         <source>Website...</source>
         <oldsource>Visit XnView&apos;s Website...</oldsource>
         <translation>网站…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1385"/>
+        <location filename="xnview.cpp" line="1386"/>
         <source>Make a donation...</source>
         <translation>捐赠…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1378"/>
+        <location filename="xnview.cpp" line="1379"/>
         <source>About</source>
         <translation>关于</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1379"/>
+        <location filename="xnview.cpp" line="1380"/>
         <source>PlugIns...</source>
         <translation>插件…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1381"/>
+        <location filename="xnview.cpp" line="1382"/>
         <source>Forum...</source>
         <translation>论坛…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1382"/>
+        <location filename="xnview.cpp" line="1383"/>
         <source>Technical Support...</source>
         <translation>技术支持…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1383"/>
+        <location filename="xnview.cpp" line="1384"/>
         <source>Report a Bug...</source>
         <oldsource>Report a Bug......</oldsource>
         <translation>报告Bug问题……</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1384"/>
+        <location filename="xnview.cpp" line="1385"/>
         <source>Wiki...</source>
         <translation>维基百科…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1386"/>
+        <location filename="xnview.cpp" line="1387"/>
         <source>Check for update...</source>
         <translation>检查更新…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1387"/>
+        <location filename="xnview.cpp" line="1388"/>
         <source>Registration...</source>
         <translation>注册…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1388"/>
+        <location filename="xnview.cpp" line="1389"/>
         <source>Purchase...</source>
         <translation>购买…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1398"/>
-        <location filename="xnview.cpp" line="1400"/>
+        <location filename="xnview.cpp" line="1399"/>
+        <location filename="xnview.cpp" line="1401"/>
         <source>Settings...</source>
         <translation>设置…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1404"/>
+        <location filename="xnview.cpp" line="1405"/>
         <source>Always on top</source>
         <translation>总在最前</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1406"/>
+        <location filename="xnview.cpp" line="1407"/>
         <source>Titlebar</source>
         <translation>标题栏</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1407"/>
+        <location filename="xnview.cpp" line="1408"/>
         <source>Show</source>
         <translation>显示</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1408"/>
+        <location filename="xnview.cpp" line="1409"/>
         <source>Bottom</source>
         <translation>窗口底部</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1409"/>
+        <location filename="xnview.cpp" line="1410"/>
         <source>Tab</source>
         <translation>标签卡</translation>
     </message>
@@ -22552,13 +22553,13 @@ You can change it in Settings › Catalog.</oldsource>
         <translation>RGB</translation>
     </message>
     <message>
-        <location filename="MyView.cpp" line="901"/>
+        <location filename="MyView.cpp" line="903"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <oldsource>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system. </oldsource>
         <translation>为了浏览及转换PDF/PS/EPS/AI文件，XnView MP需要系统中装有Ghostscript %1。</translation>
     </message>
     <message>
-        <location filename="MyView.cpp" line="902"/>
+        <location filename="MyView.cpp" line="904"/>
         <source>Please visit the XnView %1 for more information.</source>
         <translation>请访问 XnView %1 以获取更多信息。</translation>
     </message>
@@ -24105,27 +24106,27 @@ You can change it in Settings › Catalog.</oldsource>
 <context>
     <name>xnview</name>
     <message>
-        <location filename="xnview.cpp" line="453"/>
-        <location filename="xnview.cpp" line="473"/>
+        <location filename="xnview.cpp" line="454"/>
+        <location filename="xnview.cpp" line="474"/>
         <source>Creating backup, please wait...</source>
         <oldsource>Creating backup, please wait... </oldsource>
         <translation>正在创建备份, 请稍候…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="445"/>
-        <location filename="xnview.cpp" line="451"/>
-        <location filename="xnview.cpp" line="458"/>
+        <location filename="xnview.cpp" line="446"/>
+        <location filename="xnview.cpp" line="452"/>
+        <location filename="xnview.cpp" line="459"/>
         <source>Catalog</source>
         <translatorcomment>设置下的，应该叫做缩略图缓存目录或数据库文件</translatorcomment>
         <translation>缓存数据库</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="445"/>
+        <location filename="xnview.cpp" line="446"/>
         <source>XnViewMP - Catalog has a more recent version number than the expected one</source>
         <translation>XnViewMP - 缓存数据库的版本号比预期的新</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="451"/>
+        <location filename="xnview.cpp" line="452"/>
         <source>XnViewMP will upgrade the catalog. It may take a while. 
 
 Do you want to keep the thumbnails?
@@ -24135,44 +24136,44 @@ Do you want to keep the thumbnails?
 （若选“是”，则更新过程将需要较长时间）</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="455"/>
+        <location filename="xnview.cpp" line="456"/>
         <source>Upgrading catalog, please wait...</source>
         <oldsource>Upgrading catalog, please wait... </oldsource>
         <translation>正在更新缓存数据库，请稍候…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="525"/>
+        <location filename="xnview.cpp" line="526"/>
         <source>Catalog problem</source>
         <translation>分类出错</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="525"/>
+        <location filename="xnview.cpp" line="526"/>
         <source>There is a problem to open catalog, check your settings or folder used!</source>
         <translation type="unfinished">打开目录有问题，请检查设置或使用的文件夹！</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="533"/>
+        <location filename="xnview.cpp" line="534"/>
         <source>Catalog update</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="533"/>
+        <location filename="xnview.cpp" line="534"/>
         <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="928"/>
+        <location filename="xnview.cpp" line="929"/>
         <source>Application is up to date.</source>
         <oldsource>XnView MP is currently up to date.</oldsource>
         <translation>软件已经是最新版本。</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1602"/>
+        <location filename="xnview.cpp" line="1603"/>
         <source>Do you want to save session?</source>
         <translation>你是否要保存进程？</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="3067"/>
+        <location filename="xnview.cpp" line="3068"/>
         <source>Catalog and Metadata are disabled - 
 Rating, Tag &amp; Color labels will not be saved.</source>
         <oldsource>Rating/Tag/Color label can&apos;t be saved if catalog and metadata export are disabled!</oldsource>
@@ -24180,51 +24181,51 @@ Rating, Tag &amp; Color labels will not be saved.</source>
 评级、标记、颜色等标签无法被保存。</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="999"/>
+        <location filename="xnview.cpp" line="1000"/>
         <source>Your previous session contains many loaded images, this can cause a slowdown!</source>
         <translation>上一次的会话包含了大量已加载的图像，可能会影响流畅度！</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="458"/>
+        <location filename="xnview.cpp" line="459"/>
         <source>There is a problem to update Catalog:
 (Error: % 1)
 Please contact the developer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="999"/>
+        <location filename="xnview.cpp" line="1000"/>
         <source>Session</source>
         <translation>进程</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1527"/>
+        <location filename="xnview.cpp" line="1528"/>
         <source>Do you want to quit?</source>
         <translation>是否想要退出？</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1603"/>
+        <location filename="xnview.cpp" line="1604"/>
         <source>Saving many tabs may noticeably slow application reopening.</source>
         <oldsource>Saving many tabs may noticeably slow reopening XnView MP</oldsource>
         <translation type="unfinished">保存多个标签卡可能会导致再次打开软件的速度变慢。</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1609"/>
+        <location filename="xnview.cpp" line="1610"/>
         <source>Don&apos;t ask again</source>
         <oldsource>Do not ask again</oldsource>
         <translation>不要再次询问</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1175"/>
+        <location filename="xnview.cpp" line="1176"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1175"/>
+        <location filename="xnview.cpp" line="1176"/>
         <source>File not found!</source>
         <translation>未找到文件！</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1628"/>
+        <location filename="xnview.cpp" line="1629"/>
         <source>Do you want to save this session?</source>
         <translation>是否想要保存本次会话？</translation>
     </message>

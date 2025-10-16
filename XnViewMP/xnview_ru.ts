@@ -143,112 +143,113 @@
         <translation>Общее</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="119"/>
-        <source>Date</source>
-        <translation>Дата</translation>
-    </message>
-    <message>
-        <location filename="AboutWidget.ui" line="126"/>
+        <location filename="AboutWidget.ui" line="191"/>
         <source>Social</source>
         <translation>Социальные сети</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="133"/>
+        <location filename="AboutWidget.ui" line="110"/>
         <source>Email</source>
         <translation>Электронная почта</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="203"/>
+        <location filename="AboutWidget.ui" line="152"/>
         <source>Website</source>
         <translation>Веб-сайт</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="210"/>
-        <source>Version</source>
-        <translation>Версия</translation>
-    </message>
-    <message>
-        <location filename="AboutWidget.ui" line="217"/>
+        <location filename="AboutWidget.ui" line="83"/>
         <source>Forum</source>
         <translation>Форум</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="276"/>
+        <location filename="AboutWidget.ui" line="103"/>
         <source>Wiki</source>
         <translation>Wiki</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="154"/>
+        <location filename="AboutWidget.ui" line="224"/>
         <source>INI filename</source>
         <translation>INI файл</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="373"/>
+        <location filename="AboutWidget.ui" line="247"/>
         <source>License</source>
         <translation>Лицензия</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="387"/>
+        <location filename="AboutWidget.ui" line="261"/>
         <source>Credits</source>
         <translation>Благодарности</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="401"/>
+        <location filename="AboutWidget.ui" line="275"/>
+        <location filename="AboutWidget.ui" line="299"/>
+        <source>Translators</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="AboutWidget.ui" line="294"/>
+        <source>Language</source>
+        <translation type="unfinished">Язык</translation>
+    </message>
+    <message>
+        <location filename="AboutWidget.ui" line="308"/>
         <source>Formats</source>
         <translation>Поддерживаемые форматы</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="439"/>
+        <location filename="AboutWidget.ui" line="346"/>
         <source>Plugins</source>
         <translation>Подключаемые модули</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="464"/>
+        <location filename="AboutWidget.ui" line="371"/>
         <source>Filename</source>
         <translation>Имя файла</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="469"/>
+        <location filename="AboutWidget.ui" line="376"/>
         <source>Description</source>
         <translation>Описание</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="474"/>
+        <location filename="AboutWidget.ui" line="381"/>
         <source>Copyright</source>
         <translation>Авторские права</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="490"/>
+        <location filename="AboutWidget.ui" line="397"/>
         <source>Command line</source>
         <translation>Командная строка</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="500"/>
+        <location filename="AboutWidget.ui" line="407"/>
         <source>Changelog</source>
         <translation>Изменения</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="242"/>
+        <location filename="AboutWidget.cpp" line="219"/>
         <source>Format</source>
         <translation>Формат</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="242"/>
+        <location filename="AboutWidget.cpp" line="219"/>
         <source>Read</source>
         <translation>Чтение</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="242"/>
+        <location filename="AboutWidget.cpp" line="219"/>
         <source>Write</source>
         <translation>Запись</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="242"/>
+        <location filename="AboutWidget.cpp" line="219"/>
         <source>Extension</source>
         <translation>Расширение</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="285"/>
+        <location filename="AboutWidget.cpp" line="262"/>
         <source>Formats in reading: %1 | Formats in writing: %2</source>
         <translation>Чтение форматов: %1 | Запись форматов: %2</translation>
     </message>
@@ -804,7 +805,7 @@ Drag and Drop over the desired node to assign.</source>
 <context>
     <name>CategoryModel</name>
     <message>
-        <location filename="CategoryModel.cpp" line="549"/>
+        <location filename="CategoryModel.cpp" line="551"/>
         <source>Label</source>
         <translation>Нумерация</translation>
     </message>
@@ -8587,7 +8588,7 @@ Please try to start with admin rights.</source>
     </message>
     <message>
         <location filename="DlgGrid.ui" line="114"/>
-        <location filename="DlgGrid.ui" line="224"/>
+        <location filename="DlgGrid.ui" line="227"/>
         <source>pixels</source>
         <translation>пикс.</translation>
     </message>
@@ -8637,7 +8638,7 @@ Please try to start with admin rights.</source>
     </message>
     <message>
         <location filename="DlgGrid.ui" line="166"/>
-        <location filename="DlgGrid.ui" line="249"/>
+        <location filename="DlgGrid.ui" line="252"/>
         <source>Offset</source>
         <translation>Смещение</translation>
     </message>
@@ -8649,22 +8650,22 @@ Please try to start with admin rights.</source>
         <translation>Вертикальные</translation>
     </message>
     <message>
-        <location filename="DlgGrid.ui" line="275"/>
+        <location filename="DlgGrid.ui" line="278"/>
         <source>Sub-divisions</source>
         <translation>Промежуточные деления</translation>
     </message>
     <message>
-        <location filename="DlgGrid.ui" line="322"/>
+        <location filename="DlgGrid.ui" line="325"/>
         <source>Color</source>
         <translation>Цвет</translation>
     </message>
     <message>
-        <location filename="DlgGrid.ui" line="345"/>
+        <location filename="DlgGrid.ui" line="348"/>
         <source>Thickness</source>
         <translation>Толщина</translation>
     </message>
     <message>
-        <location filename="DlgGrid.ui" line="359"/>
+        <location filename="DlgGrid.ui" line="362"/>
         <source>Label</source>
         <translation>Нумерация</translation>
     </message>
@@ -15149,17 +15150,17 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgTagPhoto.ui" line="134"/>
-        <location filename="DlgTagPhoto.cpp" line="446"/>
+        <location filename="DlgTagPhoto.cpp" line="452"/>
         <source>Remove</source>
         <translation>Удалить</translation>
     </message>
     <message>
-        <location filename="DlgTagPhoto.cpp" line="465"/>
+        <location filename="DlgTagPhoto.cpp" line="471"/>
         <source>Overwrite face regions</source>
         <translation>Перезаписать области с лицами</translation>
     </message>
     <message>
-        <location filename="DlgTagPhoto.cpp" line="465"/>
+        <location filename="DlgTagPhoto.cpp" line="471"/>
         <source>This will overwrite XMP face&apos;s regions of the file. 
 
 Do you want to continue?</source>
@@ -20817,95 +20818,95 @@ Do you want to continue?</oldsource>
 <context>
     <name>MenuGlobal</name>
     <message>
-        <location filename="xnview.cpp" line="1377"/>
+        <location filename="xnview.cpp" line="1378"/>
         <source>Quit</source>
         <translation>Выход</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1380"/>
+        <location filename="xnview.cpp" line="1381"/>
         <source>Website...</source>
         <oldsource>Visit XnView&apos;s Website...</oldsource>
         <translation>Веб-сайт...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1385"/>
+        <location filename="xnview.cpp" line="1386"/>
         <source>Make a donation...</source>
         <translation>Пожертвовать...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1378"/>
+        <location filename="xnview.cpp" line="1379"/>
         <source>About</source>
         <translation>О программе</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1379"/>
+        <location filename="xnview.cpp" line="1380"/>
         <source>PlugIns...</source>
         <translation>Подключаемые модули...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1381"/>
+        <location filename="xnview.cpp" line="1382"/>
         <source>Forum...</source>
         <translation>Форум...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1382"/>
+        <location filename="xnview.cpp" line="1383"/>
         <source>Technical Support...</source>
         <translation>Техническая поддержка...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1383"/>
+        <location filename="xnview.cpp" line="1384"/>
         <source>Report a Bug...</source>
         <oldsource>Report a Bug......</oldsource>
         <translation>Сообщить об ошибке...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1384"/>
+        <location filename="xnview.cpp" line="1385"/>
         <source>Wiki...</source>
         <translation>Wiki...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1386"/>
+        <location filename="xnview.cpp" line="1387"/>
         <source>Check for update...</source>
         <translation>Проверить обновление...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1387"/>
+        <location filename="xnview.cpp" line="1388"/>
         <source>Registration...</source>
         <translation>Регистрация...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1388"/>
+        <location filename="xnview.cpp" line="1389"/>
         <source>Purchase...</source>
         <translation>Купить...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1398"/>
-        <location filename="xnview.cpp" line="1400"/>
+        <location filename="xnview.cpp" line="1399"/>
+        <location filename="xnview.cpp" line="1401"/>
         <source>Settings...</source>
         <translation>Настройки...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1404"/>
+        <location filename="xnview.cpp" line="1405"/>
         <source>Always on top</source>
         <translation>Всегда поверх окон</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1406"/>
+        <location filename="xnview.cpp" line="1407"/>
         <source>Titlebar</source>
         <translation>Заголовок окна</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1407"/>
+        <location filename="xnview.cpp" line="1408"/>
         <source>Show</source>
         <translation>Показывать</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1408"/>
+        <location filename="xnview.cpp" line="1409"/>
         <source>Bottom</source>
         <translation>Располагать снизу</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1409"/>
+        <location filename="xnview.cpp" line="1410"/>
         <source>Tab</source>
         <translation>Вкладка</translation>
     </message>
@@ -22650,13 +22651,13 @@ You can change it in Settings › Catalog.</oldsource>
         <translation>RGB</translation>
     </message>
     <message>
-        <location filename="MyView.cpp" line="901"/>
+        <location filename="MyView.cpp" line="903"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <oldsource>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system. </oldsource>
         <translation>Для просмотра и конвертирования файлов PDF/PS/EPS/AI необходимо установить Ghostscript %1.</translation>
     </message>
     <message>
-        <location filename="MyView.cpp" line="902"/>
+        <location filename="MyView.cpp" line="904"/>
         <source>Please visit the XnView %1 for more information.</source>
         <translation>Для получения более подробной информации, пожалуйста, посетите %1.</translation>
     </message>
@@ -24201,26 +24202,26 @@ You can change it in Settings › Catalog.</oldsource>
 <context>
     <name>xnview</name>
     <message>
-        <location filename="xnview.cpp" line="453"/>
-        <location filename="xnview.cpp" line="473"/>
+        <location filename="xnview.cpp" line="454"/>
+        <location filename="xnview.cpp" line="474"/>
         <source>Creating backup, please wait...</source>
         <oldsource>Creating backup, please wait... </oldsource>
         <translation>Создание резервной копии...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="445"/>
-        <location filename="xnview.cpp" line="451"/>
-        <location filename="xnview.cpp" line="458"/>
+        <location filename="xnview.cpp" line="446"/>
+        <location filename="xnview.cpp" line="452"/>
+        <location filename="xnview.cpp" line="459"/>
         <source>Catalog</source>
         <translation>Каталог</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="445"/>
+        <location filename="xnview.cpp" line="446"/>
         <source>XnViewMP - Catalog has a more recent version number than the expected one</source>
         <translation>XnViewMP - Каталог имеет более новую версию, чем ожидалось.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="451"/>
+        <location filename="xnview.cpp" line="452"/>
         <source>XnViewMP will upgrade the catalog. It may take a while. 
 
 Do you want to keep the thumbnails?
@@ -24231,44 +24232,44 @@ Do you want to keep the thumbnails?
 (Если вы выберете ДА, то на обновление потребуется больше времени)</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="455"/>
+        <location filename="xnview.cpp" line="456"/>
         <source>Upgrading catalog, please wait...</source>
         <oldsource>Upgrading catalog, please wait... </oldsource>
         <translation>Обновление Каталога...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="525"/>
+        <location filename="xnview.cpp" line="526"/>
         <source>Catalog problem</source>
         <translation>Проблема с Каталогом</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="525"/>
+        <location filename="xnview.cpp" line="526"/>
         <source>There is a problem to open catalog, check your settings or folder used!</source>
         <translation>Возникла проблема с открытием Каталога, проверьте ваши настройки или используемую папку!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="533"/>
+        <location filename="xnview.cpp" line="534"/>
         <source>Catalog update</source>
         <translation>Обновление Каталога</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="533"/>
+        <location filename="xnview.cpp" line="534"/>
         <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
         <translation>Вам необходимо обновить Каталог (Настройки&gt;Каталог&gt;Обновить метаданные), если вы хотите использовать новые фильтры в &apos;Фильтре Каталога&apos;. </translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="928"/>
+        <location filename="xnview.cpp" line="929"/>
         <source>Application is up to date.</source>
         <oldsource>XnView MP is currently up to date.</oldsource>
         <translation>Обновлений нет. Вы используете последнюю версию программы.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1602"/>
+        <location filename="xnview.cpp" line="1603"/>
         <source>Do you want to save session?</source>
         <translation>Вы хотите сохранять сессию?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="3067"/>
+        <location filename="xnview.cpp" line="3068"/>
         <source>Catalog and Metadata are disabled - 
 Rating, Tag &amp; Color labels will not be saved.</source>
         <oldsource>Rating/Tag/Color label can&apos;t be saved if catalog and metadata export are disabled!</oldsource>
@@ -24276,12 +24277,12 @@ Rating, Tag &amp; Color labels will not be saved.</source>
 Теги, Рейтинг и Цветовые метки не будут сохранены.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="999"/>
+        <location filename="xnview.cpp" line="1000"/>
         <source>Your previous session contains many loaded images, this can cause a slowdown!</source>
         <translation>Ваша предыдущая сессия содержит много открытых изображений, это может привести к замедлению работы программы!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="458"/>
+        <location filename="xnview.cpp" line="459"/>
         <source>There is a problem to update Catalog:
 (Error: % 1)
 Please contact the developer.</source>
@@ -24290,39 +24291,39 @@ Please contact the developer.</source>
 Пожалуйста, свяжитесь с разработчиком.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="999"/>
+        <location filename="xnview.cpp" line="1000"/>
         <source>Session</source>
         <translation>Сессия</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1527"/>
+        <location filename="xnview.cpp" line="1528"/>
         <source>Do you want to quit?</source>
         <translation>Вы действительно хотите выйти?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1603"/>
+        <location filename="xnview.cpp" line="1604"/>
         <source>Saving many tabs may noticeably slow application reopening.</source>
         <oldsource>Saving many tabs may noticeably slow reopening XnView MP</oldsource>
         <translation>Сохранение большого количества вкладок может заметно замедлить открытие программы.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1609"/>
+        <location filename="xnview.cpp" line="1610"/>
         <source>Don&apos;t ask again</source>
         <oldsource>Do not ask again</oldsource>
         <translation>Больше не спрашивать</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1175"/>
+        <location filename="xnview.cpp" line="1176"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1175"/>
+        <location filename="xnview.cpp" line="1176"/>
         <source>File not found!</source>
         <translation>Файл не найден.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1628"/>
+        <location filename="xnview.cpp" line="1629"/>
         <source>Do you want to save this session?</source>
         <translation>Хотите сохранить эту сессию?</translation>
     </message>

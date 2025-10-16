@@ -167,10 +167,6 @@
         <translation>Formatos de leitura: %1 | Formatos de escrita: %2</translation>
     </message>
     <message>
-        <source>Date</source>
-        <translation>Data</translation>
-    </message>
-    <message>
         <source>Social</source>
         <translation>Mídias sociais</translation>
     </message>
@@ -181,10 +177,6 @@
     <message>
         <source>Website</source>
         <translation>Site</translation>
-    </message>
-    <message>
-        <source>Version</source>
-        <translation>Versão</translation>
     </message>
     <message>
         <source>Forum</source>
@@ -201,6 +193,14 @@
     <message>
         <source>Changelog</source>
         <translation>Registro de alterações</translation>
+    </message>
+    <message>
+        <source>Translators</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation type="unfinished">Idioma</translation>
     </message>
 </context>
 <context>

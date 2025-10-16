@@ -151,112 +151,113 @@
         <translation>全般</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="119"/>
-        <source>Date</source>
-        <translation>日付</translation>
-    </message>
-    <message>
-        <location filename="AboutWidget.ui" line="126"/>
+        <location filename="AboutWidget.ui" line="191"/>
         <source>Social</source>
         <translation>SNS</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="133"/>
+        <location filename="AboutWidget.ui" line="110"/>
         <source>Email</source>
         <translation>電子メール</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="203"/>
+        <location filename="AboutWidget.ui" line="152"/>
         <source>Website</source>
         <translation>ウェブサイト</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="210"/>
-        <source>Version</source>
-        <translation>バージョン</translation>
-    </message>
-    <message>
-        <location filename="AboutWidget.ui" line="217"/>
+        <location filename="AboutWidget.ui" line="83"/>
         <source>Forum</source>
         <translation>フォーラム</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="276"/>
+        <location filename="AboutWidget.ui" line="103"/>
         <source>Wiki</source>
         <translation>Wiki</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="154"/>
+        <location filename="AboutWidget.ui" line="224"/>
         <source>INI filename</source>
         <translation>INIファイル名</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="373"/>
+        <location filename="AboutWidget.ui" line="247"/>
         <source>License</source>
         <translation>ライセンス</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="387"/>
+        <location filename="AboutWidget.ui" line="261"/>
         <source>Credits</source>
         <translation>クレジット</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="401"/>
+        <location filename="AboutWidget.ui" line="275"/>
+        <location filename="AboutWidget.ui" line="299"/>
+        <source>Translators</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="AboutWidget.ui" line="294"/>
+        <source>Language</source>
+        <translation type="unfinished">言語</translation>
+    </message>
+    <message>
+        <location filename="AboutWidget.ui" line="308"/>
         <source>Formats</source>
         <translation>形式</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="439"/>
+        <location filename="AboutWidget.ui" line="346"/>
         <source>Plugins</source>
         <translation>プラグイン</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="464"/>
+        <location filename="AboutWidget.ui" line="371"/>
         <source>Filename</source>
         <translation>ファイル名</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="469"/>
+        <location filename="AboutWidget.ui" line="376"/>
         <source>Description</source>
         <translation>説明</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="474"/>
+        <location filename="AboutWidget.ui" line="381"/>
         <source>Copyright</source>
         <translation>著作権</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="490"/>
+        <location filename="AboutWidget.ui" line="397"/>
         <source>Command line</source>
         <translation>コマンドライン</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="500"/>
+        <location filename="AboutWidget.ui" line="407"/>
         <source>Changelog</source>
         <translation>更新履歴</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="242"/>
+        <location filename="AboutWidget.cpp" line="219"/>
         <source>Format</source>
         <translation>形式</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="242"/>
+        <location filename="AboutWidget.cpp" line="219"/>
         <source>Read</source>
         <translation>読み込み</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="242"/>
+        <location filename="AboutWidget.cpp" line="219"/>
         <source>Write</source>
         <translation>書き込み</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="242"/>
+        <location filename="AboutWidget.cpp" line="219"/>
         <source>Extension</source>
         <translation>拡張子</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="285"/>
+        <location filename="AboutWidget.cpp" line="262"/>
         <source>Formats in reading: %1 | Formats in writing: %2</source>
         <translation>読み込み形式: %1 | 書き込み形式 %2</translation>
     </message>
@@ -802,7 +803,7 @@ Drag and Drop over the desired node to assign.</source>
 <context>
     <name>CategoryModel</name>
     <message>
-        <location filename="CategoryModel.cpp" line="549"/>
+        <location filename="CategoryModel.cpp" line="551"/>
         <source>Label</source>
         <translation>ラベル</translation>
     </message>
@@ -8625,7 +8626,7 @@ Please try to start with admin rights.</source>
     </message>
     <message>
         <location filename="DlgGrid.ui" line="114"/>
-        <location filename="DlgGrid.ui" line="224"/>
+        <location filename="DlgGrid.ui" line="227"/>
         <source>pixels</source>
         <translation>ピクセル</translation>
     </message>
@@ -8673,7 +8674,7 @@ Please try to start with admin rights.</source>
     </message>
     <message>
         <location filename="DlgGrid.ui" line="166"/>
-        <location filename="DlgGrid.ui" line="249"/>
+        <location filename="DlgGrid.ui" line="252"/>
         <source>Offset</source>
         <translation>オフセット</translation>
     </message>
@@ -8683,22 +8684,22 @@ Please try to start with admin rights.</source>
         <translation>垂直方向</translation>
     </message>
     <message>
-        <location filename="DlgGrid.ui" line="275"/>
+        <location filename="DlgGrid.ui" line="278"/>
         <source>Sub-divisions</source>
         <translation>細分</translation>
     </message>
     <message>
-        <location filename="DlgGrid.ui" line="322"/>
+        <location filename="DlgGrid.ui" line="325"/>
         <source>Color</source>
         <translation>色</translation>
     </message>
     <message>
-        <location filename="DlgGrid.ui" line="345"/>
+        <location filename="DlgGrid.ui" line="348"/>
         <source>Thickness</source>
         <translation>太さ</translation>
     </message>
     <message>
-        <location filename="DlgGrid.ui" line="359"/>
+        <location filename="DlgGrid.ui" line="362"/>
         <source>Label</source>
         <translation>ラベル</translation>
     </message>
@@ -15183,17 +15184,17 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgTagPhoto.ui" line="134"/>
-        <location filename="DlgTagPhoto.cpp" line="446"/>
+        <location filename="DlgTagPhoto.cpp" line="452"/>
         <source>Remove</source>
         <translation>除去</translation>
     </message>
     <message>
-        <location filename="DlgTagPhoto.cpp" line="465"/>
+        <location filename="DlgTagPhoto.cpp" line="471"/>
         <source>Overwrite face regions</source>
         <translation>顔領域を上書き</translation>
     </message>
     <message>
-        <location filename="DlgTagPhoto.cpp" line="465"/>
+        <location filename="DlgTagPhoto.cpp" line="471"/>
         <source>This will overwrite XMP face&apos;s regions of the file. 
 
 Do you want to continue?</source>
@@ -21013,95 +21014,95 @@ Do you want to continue?</oldsource>
 <context>
     <name>MenuGlobal</name>
     <message>
-        <location filename="xnview.cpp" line="1377"/>
+        <location filename="xnview.cpp" line="1378"/>
         <source>Quit</source>
         <translation>終了</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1380"/>
+        <location filename="xnview.cpp" line="1381"/>
         <source>Website...</source>
         <oldsource>Visit XnView&apos;s Website...</oldsource>
         <translation>ウェブサイト...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1385"/>
+        <location filename="xnview.cpp" line="1386"/>
         <source>Make a donation...</source>
         <translation>寄付をする...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1378"/>
+        <location filename="xnview.cpp" line="1379"/>
         <source>About</source>
         <translation>XnViewMPについて</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1379"/>
+        <location filename="xnview.cpp" line="1380"/>
         <source>PlugIns...</source>
         <translation>プラグイン...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1381"/>
+        <location filename="xnview.cpp" line="1382"/>
         <source>Forum...</source>
         <translation>フォーラム...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1382"/>
+        <location filename="xnview.cpp" line="1383"/>
         <source>Technical Support...</source>
         <translation>テクニカルサポート...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1383"/>
+        <location filename="xnview.cpp" line="1384"/>
         <source>Report a Bug...</source>
         <oldsource>Report a Bug......</oldsource>
         <translation>バグを報告......</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1384"/>
+        <location filename="xnview.cpp" line="1385"/>
         <source>Wiki...</source>
         <translation>Wiki...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1386"/>
+        <location filename="xnview.cpp" line="1387"/>
         <source>Check for update...</source>
         <translation>更新の確認...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1387"/>
+        <location filename="xnview.cpp" line="1388"/>
         <source>Registration...</source>
         <translation>登録...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1388"/>
+        <location filename="xnview.cpp" line="1389"/>
         <source>Purchase...</source>
         <translation>購入...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1398"/>
-        <location filename="xnview.cpp" line="1400"/>
+        <location filename="xnview.cpp" line="1399"/>
+        <location filename="xnview.cpp" line="1401"/>
         <source>Settings...</source>
         <translation>設定...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1404"/>
+        <location filename="xnview.cpp" line="1405"/>
         <source>Always on top</source>
         <translation>常に手前に表示</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1406"/>
+        <location filename="xnview.cpp" line="1407"/>
         <source>Titlebar</source>
         <translation>タイトルバー</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1407"/>
+        <location filename="xnview.cpp" line="1408"/>
         <source>Show</source>
         <translation>表示</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1408"/>
+        <location filename="xnview.cpp" line="1409"/>
         <source>Bottom</source>
         <translation>最下部</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1409"/>
+        <location filename="xnview.cpp" line="1410"/>
         <source>Tab</source>
         <translation>タブ</translation>
     </message>
@@ -22864,13 +22865,13 @@ You can change it in Settings › Catalog.</oldsource>
         <translation>RGB</translation>
     </message>
     <message>
-        <location filename="MyView.cpp" line="901"/>
+        <location filename="MyView.cpp" line="903"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <oldsource>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system. </oldsource>
         <translation>PDF/PS/EPS/AIファイルを閲覧、変換するにはXnViewMPはGhostscript %1がシステムにインストールされていることを必要とします。</translation>
     </message>
     <message>
-        <location filename="MyView.cpp" line="902"/>
+        <location filename="MyView.cpp" line="904"/>
         <source>Please visit the XnView %1 for more information.</source>
         <translation>より詳細な情報は XnView %1 をご覧ください</translation>
     </message>
@@ -24417,27 +24418,27 @@ You can change it in Settings › Catalog.</oldsource>
 <context>
     <name>xnview</name>
     <message>
-        <location filename="xnview.cpp" line="453"/>
-        <location filename="xnview.cpp" line="473"/>
+        <location filename="xnview.cpp" line="454"/>
+        <location filename="xnview.cpp" line="474"/>
         <source>Creating backup, please wait...</source>
         <oldsource>Creating backup, please wait... </oldsource>
         <translation>バックアップを作成中。お待ちください...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="445"/>
-        <location filename="xnview.cpp" line="451"/>
-        <location filename="xnview.cpp" line="458"/>
+        <location filename="xnview.cpp" line="446"/>
+        <location filename="xnview.cpp" line="452"/>
+        <location filename="xnview.cpp" line="459"/>
         <source>Catalog</source>
         <translation>カタログ</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="445"/>
+        <location filename="xnview.cpp" line="446"/>
         <source>XnViewMP - Catalog has a more recent version number than the expected one</source>
         <translatorcomment>未完成</translatorcomment>
         <translation>XnViewMP - カタログは予期されたものより新しいバージョン番号です</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="451"/>
+        <location filename="xnview.cpp" line="452"/>
         <source>XnViewMP will upgrade the catalog. It may take a while. 
 
 Do you want to keep the thumbnails?
@@ -24448,44 +24449,44 @@ Do you want to keep the thumbnails?
 （はいを選択すると、アップグレードプロセスが遅くなります）</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="455"/>
+        <location filename="xnview.cpp" line="456"/>
         <source>Upgrading catalog, please wait...</source>
         <oldsource>Upgrading catalog, please wait... </oldsource>
         <translation>カタログの更新中。お待ちください...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="525"/>
+        <location filename="xnview.cpp" line="526"/>
         <source>Catalog problem</source>
         <translation>カタログの問題</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="525"/>
+        <location filename="xnview.cpp" line="526"/>
         <source>There is a problem to open catalog, check your settings or folder used!</source>
         <translation>カタログを開く時に問題が発生しました。設定や使用しているフォルダをチェックしてください</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="533"/>
+        <location filename="xnview.cpp" line="534"/>
         <source>Catalog update</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="533"/>
+        <location filename="xnview.cpp" line="534"/>
         <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="928"/>
+        <location filename="xnview.cpp" line="929"/>
         <source>Application is up to date.</source>
         <oldsource>XnView MP is currently up to date.</oldsource>
         <translation>アプリケーションは最新版を使用しています。</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1602"/>
+        <location filename="xnview.cpp" line="1603"/>
         <source>Do you want to save session?</source>
         <translation>セッションを保存しますか？</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="3067"/>
+        <location filename="xnview.cpp" line="3068"/>
         <source>Catalog and Metadata are disabled - 
 Rating, Tag &amp; Color labels will not be saved.</source>
         <oldsource>Rating/Tag/Color label can&apos;t be saved if catalog and metadata export are disabled!</oldsource>
@@ -24493,51 +24494,51 @@ Rating, Tag &amp; Color labels will not be saved.</source>
 レーティング、タグ、カラーラベルは保存されません。</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="999"/>
+        <location filename="xnview.cpp" line="1000"/>
         <source>Your previous session contains many loaded images, this can cause a slowdown!</source>
         <translation>以前のセッションには多くの画像が含まれています。速度低下の原因になる可能性があります。</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="458"/>
+        <location filename="xnview.cpp" line="459"/>
         <source>There is a problem to update Catalog:
 (Error: % 1)
 Please contact the developer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="999"/>
+        <location filename="xnview.cpp" line="1000"/>
         <source>Session</source>
         <translation>セッション</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1527"/>
+        <location filename="xnview.cpp" line="1528"/>
         <source>Do you want to quit?</source>
         <translation>終了しますか？</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1603"/>
+        <location filename="xnview.cpp" line="1604"/>
         <source>Saving many tabs may noticeably slow application reopening.</source>
         <oldsource>Saving many tabs may noticeably slow reopening XnView MP</oldsource>
         <translation>多くのタブを保存すると、アプリケーションの再開が著しく遅くなることがあります。</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1609"/>
+        <location filename="xnview.cpp" line="1610"/>
         <source>Don&apos;t ask again</source>
         <oldsource>Do not ask again</oldsource>
         <translation>次回から確認しない</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1175"/>
+        <location filename="xnview.cpp" line="1176"/>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1175"/>
+        <location filename="xnview.cpp" line="1176"/>
         <source>File not found!</source>
         <translation>ファイルが見つかりません</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1628"/>
+        <location filename="xnview.cpp" line="1629"/>
         <source>Do you want to save this session?</source>
         <translation>このセッションを保存しますか？</translation>
     </message>

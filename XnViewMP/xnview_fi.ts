@@ -167,10 +167,6 @@
         <translation>Yleiset</translation>
     </message>
     <message>
-        <source>Date</source>
-        <translation>Päiväys</translation>
-    </message>
-    <message>
         <source>Social</source>
         <translation>Sosiaalinen</translation>
     </message>
@@ -181,10 +177,6 @@
     <message>
         <source>Website</source>
         <translation>Verkkosivu</translation>
-    </message>
-    <message>
-        <source>Version</source>
-        <translation>Versio</translation>
     </message>
     <message>
         <source>Forum</source>
@@ -201,6 +193,14 @@
     <message>
         <source>Changelog</source>
         <translation>Muutosloki</translation>
+    </message>
+    <message>
+        <source>Translators</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation type="unfinished">Kieli</translation>
     </message>
 </context>
 <context>

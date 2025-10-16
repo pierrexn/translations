@@ -142,112 +142,113 @@
         <translation>Ogólne</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="119"/>
-        <source>Date</source>
-        <translation>Data</translation>
-    </message>
-    <message>
-        <location filename="AboutWidget.ui" line="126"/>
+        <location filename="AboutWidget.ui" line="191"/>
         <source>Social</source>
         <translation>Media społecznościowe</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="133"/>
+        <location filename="AboutWidget.ui" line="110"/>
         <source>Email</source>
         <translation>Adres e-mail</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="203"/>
+        <location filename="AboutWidget.ui" line="152"/>
         <source>Website</source>
         <translation>Witryna internetowa</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="210"/>
-        <source>Version</source>
-        <translation>Wersja</translation>
-    </message>
-    <message>
-        <location filename="AboutWidget.ui" line="217"/>
+        <location filename="AboutWidget.ui" line="83"/>
         <source>Forum</source>
         <translation>Forum</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="276"/>
+        <location filename="AboutWidget.ui" line="103"/>
         <source>Wiki</source>
         <translation>Wiki</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="154"/>
+        <location filename="AboutWidget.ui" line="224"/>
         <source>INI filename</source>
         <translation>Nazwa pliku INI</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="373"/>
+        <location filename="AboutWidget.ui" line="247"/>
         <source>License</source>
         <translation>Licencja</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="387"/>
+        <location filename="AboutWidget.ui" line="261"/>
         <source>Credits</source>
         <translation>Autorzy</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="401"/>
+        <location filename="AboutWidget.ui" line="275"/>
+        <location filename="AboutWidget.ui" line="299"/>
+        <source>Translators</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="AboutWidget.ui" line="294"/>
+        <source>Language</source>
+        <translation type="unfinished">Język</translation>
+    </message>
+    <message>
+        <location filename="AboutWidget.ui" line="308"/>
         <source>Formats</source>
         <translation>Formaty</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="439"/>
+        <location filename="AboutWidget.ui" line="346"/>
         <source>Plugins</source>
         <translation>Wtyczki</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="464"/>
+        <location filename="AboutWidget.ui" line="371"/>
         <source>Filename</source>
         <translation>Nazwa pliku</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="469"/>
+        <location filename="AboutWidget.ui" line="376"/>
         <source>Description</source>
         <translation>Opis</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="474"/>
+        <location filename="AboutWidget.ui" line="381"/>
         <source>Copyright</source>
         <translation>Prawa autorskie</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="490"/>
+        <location filename="AboutWidget.ui" line="397"/>
         <source>Command line</source>
         <translation>Wiersz poleceń</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="500"/>
+        <location filename="AboutWidget.ui" line="407"/>
         <source>Changelog</source>
         <translation>Lista zmian</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="242"/>
+        <location filename="AboutWidget.cpp" line="219"/>
         <source>Format</source>
         <translation>Format</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="242"/>
+        <location filename="AboutWidget.cpp" line="219"/>
         <source>Read</source>
         <translation>Odczyt</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="242"/>
+        <location filename="AboutWidget.cpp" line="219"/>
         <source>Write</source>
         <translation>Zapis</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="242"/>
+        <location filename="AboutWidget.cpp" line="219"/>
         <source>Extension</source>
         <translation>Rozszerzenie</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="285"/>
+        <location filename="AboutWidget.cpp" line="262"/>
         <source>Formats in reading: %1 | Formats in writing: %2</source>
         <translation>Formaty odczytu: %1 | Formaty zapisu: %2</translation>
     </message>
@@ -796,7 +797,7 @@ Przeciągnij i upuść na wybranym węźle, żeby przypisać.</translation>
 <context>
     <name>CategoryModel</name>
     <message>
-        <location filename="CategoryModel.cpp" line="549"/>
+        <location filename="CategoryModel.cpp" line="551"/>
         <source>Label</source>
         <translation>Etykieta</translation>
     </message>
@@ -8544,7 +8545,7 @@ Spróbuj ponownie, uruchamiając program z prawami administratora.</translation>
     </message>
     <message>
         <location filename="DlgGrid.ui" line="114"/>
-        <location filename="DlgGrid.ui" line="224"/>
+        <location filename="DlgGrid.ui" line="227"/>
         <source>pixels</source>
         <translation>pikseli</translation>
     </message>
@@ -8592,7 +8593,7 @@ Spróbuj ponownie, uruchamiając program z prawami administratora.</translation>
     </message>
     <message>
         <location filename="DlgGrid.ui" line="166"/>
-        <location filename="DlgGrid.ui" line="249"/>
+        <location filename="DlgGrid.ui" line="252"/>
         <source>Offset</source>
         <translation>Przesunięcie</translation>
     </message>
@@ -8602,22 +8603,22 @@ Spróbuj ponownie, uruchamiając program z prawami administratora.</translation>
         <translation>Podziel w pionie</translation>
     </message>
     <message>
-        <location filename="DlgGrid.ui" line="275"/>
+        <location filename="DlgGrid.ui" line="278"/>
         <source>Sub-divisions</source>
         <translation>Podpodziały</translation>
     </message>
     <message>
-        <location filename="DlgGrid.ui" line="322"/>
+        <location filename="DlgGrid.ui" line="325"/>
         <source>Color</source>
         <translation>Kolor</translation>
     </message>
     <message>
-        <location filename="DlgGrid.ui" line="345"/>
+        <location filename="DlgGrid.ui" line="348"/>
         <source>Thickness</source>
         <translation>Grubość</translation>
     </message>
     <message>
-        <location filename="DlgGrid.ui" line="359"/>
+        <location filename="DlgGrid.ui" line="362"/>
         <source>Label</source>
         <translation>Etykieta</translation>
     </message>
@@ -15074,17 +15075,17 @@ Czy zmienić przypisanie?</translation>
     </message>
     <message>
         <location filename="DlgTagPhoto.ui" line="134"/>
-        <location filename="DlgTagPhoto.cpp" line="446"/>
+        <location filename="DlgTagPhoto.cpp" line="452"/>
         <source>Remove</source>
         <translation>Usuń</translation>
     </message>
     <message>
-        <location filename="DlgTagPhoto.cpp" line="465"/>
+        <location filename="DlgTagPhoto.cpp" line="471"/>
         <source>Overwrite face regions</source>
         <translation>Nadpisz regiony twarzy</translation>
     </message>
     <message>
-        <location filename="DlgTagPhoto.cpp" line="465"/>
+        <location filename="DlgTagPhoto.cpp" line="471"/>
         <source>This will overwrite XMP face&apos;s regions of the file. 
 
 Do you want to continue?</source>
@@ -20726,95 +20727,95 @@ Czy chcesz kontynuować?</translation>
 <context>
     <name>MenuGlobal</name>
     <message>
-        <location filename="xnview.cpp" line="1377"/>
+        <location filename="xnview.cpp" line="1378"/>
         <source>Quit</source>
         <translation>Wyjście</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1380"/>
+        <location filename="xnview.cpp" line="1381"/>
         <source>Website...</source>
         <oldsource>Visit XnView&apos;s Website...</oldsource>
         <translation>Odwiedź witrynę XnView...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1385"/>
+        <location filename="xnview.cpp" line="1386"/>
         <source>Make a donation...</source>
         <translation>Wesprzyj finansowo...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1378"/>
+        <location filename="xnview.cpp" line="1379"/>
         <source>About</source>
         <translation>O programie</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1379"/>
+        <location filename="xnview.cpp" line="1380"/>
         <source>PlugIns...</source>
         <translation>Wtyczki...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1381"/>
+        <location filename="xnview.cpp" line="1382"/>
         <source>Forum...</source>
         <translation>Forum...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1382"/>
+        <location filename="xnview.cpp" line="1383"/>
         <source>Technical Support...</source>
         <translation>Wsparcie techniczne...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1383"/>
+        <location filename="xnview.cpp" line="1384"/>
         <source>Report a Bug...</source>
         <oldsource>Report a Bug......</oldsource>
         <translation>Zgłoś błąd w programie...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1384"/>
+        <location filename="xnview.cpp" line="1385"/>
         <source>Wiki...</source>
         <translation>Wiki...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1386"/>
+        <location filename="xnview.cpp" line="1387"/>
         <source>Check for update...</source>
         <translation>Szukaj aktualizacji...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1387"/>
+        <location filename="xnview.cpp" line="1388"/>
         <source>Registration...</source>
         <translation>Rejestracja...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1388"/>
+        <location filename="xnview.cpp" line="1389"/>
         <source>Purchase...</source>
         <translation>Kup...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1398"/>
-        <location filename="xnview.cpp" line="1400"/>
+        <location filename="xnview.cpp" line="1399"/>
+        <location filename="xnview.cpp" line="1401"/>
         <source>Settings...</source>
         <translation>Ustawienia...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1404"/>
+        <location filename="xnview.cpp" line="1405"/>
         <source>Always on top</source>
         <translation>Zawsze na wierzchu</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1406"/>
+        <location filename="xnview.cpp" line="1407"/>
         <source>Titlebar</source>
         <translation>Pasek tytułu</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1407"/>
+        <location filename="xnview.cpp" line="1408"/>
         <source>Show</source>
         <translation>Pokazuj</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1408"/>
+        <location filename="xnview.cpp" line="1409"/>
         <source>Bottom</source>
         <translation>Pokazuj u dołu okna</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1409"/>
+        <location filename="xnview.cpp" line="1410"/>
         <source>Tab</source>
         <translation>Pasek kart</translation>
     </message>
@@ -22552,13 +22553,13 @@ Można go zmienić w Ustawienia&gt;Katalog</translation>
         <translation>RGB</translation>
     </message>
     <message>
-        <location filename="MyView.cpp" line="901"/>
+        <location filename="MyView.cpp" line="903"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <oldsource>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system. </oldsource>
         <translation>Do wyświetlania i konwertowania plików PDF/PS/EPS/AI, XnView MP wymaga zainstalowanej aplikacji Ghostscript %1.</translation>
     </message>
     <message>
-        <location filename="MyView.cpp" line="902"/>
+        <location filename="MyView.cpp" line="904"/>
         <source>Please visit the XnView %1 for more information.</source>
         <translation>Aby uzyskać więcej informacji, odwiedź XnView %1.</translation>
     </message>
@@ -24102,26 +24103,26 @@ Można go zmienić w Ustawienia&gt;Katalog</translation>
 <context>
     <name>xnview</name>
     <message>
-        <location filename="xnview.cpp" line="453"/>
-        <location filename="xnview.cpp" line="473"/>
+        <location filename="xnview.cpp" line="454"/>
+        <location filename="xnview.cpp" line="474"/>
         <source>Creating backup, please wait...</source>
         <oldsource>Creating backup, please wait... </oldsource>
         <translation>Tworzenie kopii zapasowej, proszę czekać...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="445"/>
-        <location filename="xnview.cpp" line="451"/>
-        <location filename="xnview.cpp" line="458"/>
+        <location filename="xnview.cpp" line="446"/>
+        <location filename="xnview.cpp" line="452"/>
+        <location filename="xnview.cpp" line="459"/>
         <source>Catalog</source>
         <translation>Katalog</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="445"/>
+        <location filename="xnview.cpp" line="446"/>
         <source>XnViewMP - Catalog has a more recent version number than the expected one</source>
         <translation>XnViewMP - Katalog posiada wyższy numer wersji niż oczekiwany</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="451"/>
+        <location filename="xnview.cpp" line="452"/>
         <source>XnViewMP will upgrade the catalog. It may take a while. 
 
 Do you want to keep the thumbnails?
@@ -24132,44 +24133,44 @@ Czy chcesz zachować miniatury?
  (Jeśli wybierzesz TAK, proces aktualizacji wydłuży się)</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="455"/>
+        <location filename="xnview.cpp" line="456"/>
         <source>Upgrading catalog, please wait...</source>
         <oldsource>Upgrading catalog, please wait... </oldsource>
         <translation>Aktualizacja katalogu, proszę czekać...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="525"/>
+        <location filename="xnview.cpp" line="526"/>
         <source>Catalog problem</source>
         <translation>Problem z katalogiem</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="525"/>
+        <location filename="xnview.cpp" line="526"/>
         <source>There is a problem to open catalog, check your settings or folder used!</source>
         <translation>Wystąpił problem podczas otwierania katalogu. Sprawdź ustawienia, albo używany folder!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="533"/>
+        <location filename="xnview.cpp" line="534"/>
         <source>Catalog update</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="533"/>
+        <location filename="xnview.cpp" line="534"/>
         <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="928"/>
+        <location filename="xnview.cpp" line="929"/>
         <source>Application is up to date.</source>
         <oldsource>XnView MP is currently up to date.</oldsource>
         <translation>Posiadasz najnowszą wersję aplikacji.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1602"/>
+        <location filename="xnview.cpp" line="1603"/>
         <source>Do you want to save session?</source>
         <translation>Czy zapisać obecną sesję?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="3067"/>
+        <location filename="xnview.cpp" line="3068"/>
         <source>Catalog and Metadata are disabled - 
 Rating, Tag &amp; Color labels will not be saved.</source>
         <oldsource>Rating/Tag/Color label can&apos;t be saved if catalog and metadata export are disabled!</oldsource>
@@ -24177,51 +24178,51 @@ Rating, Tag &amp; Color labels will not be saved.</source>
 Ocena, znacznik, kolorowa etykieta nie zostaną zapisane.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="999"/>
+        <location filename="xnview.cpp" line="1000"/>
         <source>Your previous session contains many loaded images, this can cause a slowdown!</source>
         <translation>Poprzednia sesja zawiera dużo otworzonych obrazów, może to spowodować spowolnienia!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="458"/>
+        <location filename="xnview.cpp" line="459"/>
         <source>There is a problem to update Catalog:
 (Error: % 1)
 Please contact the developer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="999"/>
+        <location filename="xnview.cpp" line="1000"/>
         <source>Session</source>
         <translation>Sesja</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1527"/>
+        <location filename="xnview.cpp" line="1528"/>
         <source>Do you want to quit?</source>
         <translation>Czy na pewno zamknąć program?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1603"/>
+        <location filename="xnview.cpp" line="1604"/>
         <source>Saving many tabs may noticeably slow application reopening.</source>
         <oldsource>Saving many tabs may noticeably slow reopening XnView MP</oldsource>
         <translation>Zapisywanie wielu kart może wyraźnie spowolnić otwieranie aplikacji.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1609"/>
+        <location filename="xnview.cpp" line="1610"/>
         <source>Don&apos;t ask again</source>
         <oldsource>Do not ask again</oldsource>
         <translation>Nie pytaj ponownie</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1175"/>
+        <location filename="xnview.cpp" line="1176"/>
         <source>Error</source>
         <translation>Błąd</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1175"/>
+        <location filename="xnview.cpp" line="1176"/>
         <source>File not found!</source>
         <translation>Nie można znaleźć pliku!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1628"/>
+        <location filename="xnview.cpp" line="1629"/>
         <source>Do you want to save this session?</source>
         <translation>Czy zapisać tę sesję?</translation>
     </message>

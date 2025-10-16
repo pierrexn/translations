@@ -142,112 +142,113 @@
         <translation>Generelt</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="119"/>
-        <source>Date</source>
-        <translation type="unfinished">Dato</translation>
-    </message>
-    <message>
-        <location filename="AboutWidget.ui" line="126"/>
+        <location filename="AboutWidget.ui" line="191"/>
         <source>Social</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="133"/>
+        <location filename="AboutWidget.ui" line="110"/>
         <source>Email</source>
         <translation type="unfinished">E-post</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="203"/>
+        <location filename="AboutWidget.ui" line="152"/>
         <source>Website</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="210"/>
-        <source>Version</source>
-        <translation type="unfinished">Versjon</translation>
-    </message>
-    <message>
-        <location filename="AboutWidget.ui" line="217"/>
+        <location filename="AboutWidget.ui" line="83"/>
         <source>Forum</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="276"/>
+        <location filename="AboutWidget.ui" line="103"/>
         <source>Wiki</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="154"/>
+        <location filename="AboutWidget.ui" line="224"/>
         <source>INI filename</source>
         <translation type="unfinished">INI-filnavn</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="373"/>
+        <location filename="AboutWidget.ui" line="247"/>
         <source>License</source>
         <translation>Lisens</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="387"/>
+        <location filename="AboutWidget.ui" line="261"/>
         <source>Credits</source>
         <translation>Rulletekster</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="401"/>
+        <location filename="AboutWidget.ui" line="275"/>
+        <location filename="AboutWidget.ui" line="299"/>
+        <source>Translators</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="AboutWidget.ui" line="294"/>
+        <source>Language</source>
+        <translation type="unfinished">Språk</translation>
+    </message>
+    <message>
+        <location filename="AboutWidget.ui" line="308"/>
         <source>Formats</source>
         <translation>Formater</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="439"/>
+        <location filename="AboutWidget.ui" line="346"/>
         <source>Plugins</source>
         <translation>Utvidelser</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="464"/>
+        <location filename="AboutWidget.ui" line="371"/>
         <source>Filename</source>
         <translation>Filnavn</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="469"/>
+        <location filename="AboutWidget.ui" line="376"/>
         <source>Description</source>
         <translation>Beskrivelse</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="474"/>
+        <location filename="AboutWidget.ui" line="381"/>
         <source>Copyright</source>
         <translation>Opphavsrett</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="490"/>
+        <location filename="AboutWidget.ui" line="397"/>
         <source>Command line</source>
         <translation>Kommandolinje</translation>
     </message>
     <message>
-        <location filename="AboutWidget.ui" line="500"/>
+        <location filename="AboutWidget.ui" line="407"/>
         <source>Changelog</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="242"/>
+        <location filename="AboutWidget.cpp" line="219"/>
         <source>Format</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="242"/>
+        <location filename="AboutWidget.cpp" line="219"/>
         <source>Read</source>
         <translation>Les</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="242"/>
+        <location filename="AboutWidget.cpp" line="219"/>
         <source>Write</source>
         <translation>Skriv</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="242"/>
+        <location filename="AboutWidget.cpp" line="219"/>
         <source>Extension</source>
         <translation>Utvidelse</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="285"/>
+        <location filename="AboutWidget.cpp" line="262"/>
         <source>Formats in reading: %1 | Formats in writing: %2</source>
         <translation>Formatering i lesing: %1 | Formatering i skriving: %2</translation>
     </message>
@@ -792,7 +793,7 @@ Dra og slipp over den ønskede noden for å tilegne.</translation>
 <context>
     <name>CategoryModel</name>
     <message>
-        <location filename="CategoryModel.cpp" line="549"/>
+        <location filename="CategoryModel.cpp" line="551"/>
         <source>Label</source>
         <translation>Merke/etikett</translation>
     </message>
@@ -8509,7 +8510,7 @@ Vennligst start programmet med admin-rettigheter.</translation>
     </message>
     <message>
         <location filename="DlgGrid.ui" line="114"/>
-        <location filename="DlgGrid.ui" line="224"/>
+        <location filename="DlgGrid.ui" line="227"/>
         <source>pixels</source>
         <translation>piksler</translation>
     </message>
@@ -8557,7 +8558,7 @@ Vennligst start programmet med admin-rettigheter.</translation>
     </message>
     <message>
         <location filename="DlgGrid.ui" line="166"/>
-        <location filename="DlgGrid.ui" line="249"/>
+        <location filename="DlgGrid.ui" line="252"/>
         <source>Offset</source>
         <translation>Avvik</translation>
     </message>
@@ -8567,22 +8568,22 @@ Vennligst start programmet med admin-rettigheter.</translation>
         <translation>Loddrett</translation>
     </message>
     <message>
-        <location filename="DlgGrid.ui" line="275"/>
+        <location filename="DlgGrid.ui" line="278"/>
         <source>Sub-divisions</source>
         <translation>Underoppdelinger</translation>
     </message>
     <message>
-        <location filename="DlgGrid.ui" line="322"/>
+        <location filename="DlgGrid.ui" line="325"/>
         <source>Color</source>
         <translation>Farge</translation>
     </message>
     <message>
-        <location filename="DlgGrid.ui" line="345"/>
+        <location filename="DlgGrid.ui" line="348"/>
         <source>Thickness</source>
         <translation>Tykkelse</translation>
     </message>
     <message>
-        <location filename="DlgGrid.ui" line="359"/>
+        <location filename="DlgGrid.ui" line="362"/>
         <source>Label</source>
         <translation>Etikett</translation>
     </message>
@@ -15025,17 +15026,17 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgTagPhoto.ui" line="134"/>
-        <location filename="DlgTagPhoto.cpp" line="446"/>
+        <location filename="DlgTagPhoto.cpp" line="452"/>
         <source>Remove</source>
         <translation>Fjern</translation>
     </message>
     <message>
-        <location filename="DlgTagPhoto.cpp" line="465"/>
+        <location filename="DlgTagPhoto.cpp" line="471"/>
         <source>Overwrite face regions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgTagPhoto.cpp" line="465"/>
+        <location filename="DlgTagPhoto.cpp" line="471"/>
         <source>This will overwrite XMP face&apos;s regions of the file. 
 
 Do you want to continue?</source>
@@ -20673,95 +20674,95 @@ Er du sikker på at du vil fortsette?</translation>
 <context>
     <name>MenuGlobal</name>
     <message>
-        <location filename="xnview.cpp" line="1377"/>
+        <location filename="xnview.cpp" line="1378"/>
         <source>Quit</source>
         <translation>Avslutt</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1380"/>
+        <location filename="xnview.cpp" line="1381"/>
         <source>Website...</source>
         <oldsource>Visit XnView&apos;s Website...</oldsource>
         <translation type="unfinished">Besøk XnView sitt nettsted...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1385"/>
+        <location filename="xnview.cpp" line="1386"/>
         <source>Make a donation...</source>
         <translation>Gi en donasjon...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1378"/>
+        <location filename="xnview.cpp" line="1379"/>
         <source>About</source>
         <translation>Om</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1379"/>
+        <location filename="xnview.cpp" line="1380"/>
         <source>PlugIns...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1381"/>
+        <location filename="xnview.cpp" line="1382"/>
         <source>Forum...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1382"/>
+        <location filename="xnview.cpp" line="1383"/>
         <source>Technical Support...</source>
         <translation>Teknisk brukerstøtte …</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1383"/>
+        <location filename="xnview.cpp" line="1384"/>
         <source>Report a Bug...</source>
         <oldsource>Report a Bug......</oldsource>
         <translation>Meld inn om en feil …</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1384"/>
+        <location filename="xnview.cpp" line="1385"/>
         <source>Wiki...</source>
         <translation>Wiki …</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1386"/>
+        <location filename="xnview.cpp" line="1387"/>
         <source>Check for update...</source>
         <translation>Let etter en oppdatering...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1387"/>
+        <location filename="xnview.cpp" line="1388"/>
         <source>Registration...</source>
         <translation>Registrering...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1388"/>
+        <location filename="xnview.cpp" line="1389"/>
         <source>Purchase...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1398"/>
-        <location filename="xnview.cpp" line="1400"/>
+        <location filename="xnview.cpp" line="1399"/>
+        <location filename="xnview.cpp" line="1401"/>
         <source>Settings...</source>
         <translation>Innstillinger...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1404"/>
+        <location filename="xnview.cpp" line="1405"/>
         <source>Always on top</source>
         <translation>Alltid øverst</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1406"/>
+        <location filename="xnview.cpp" line="1407"/>
         <source>Titlebar</source>
         <translation>Tittellinje</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1407"/>
+        <location filename="xnview.cpp" line="1408"/>
         <source>Show</source>
         <translation>Vis</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1408"/>
+        <location filename="xnview.cpp" line="1409"/>
         <source>Bottom</source>
         <translation>Bunn</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1409"/>
+        <location filename="xnview.cpp" line="1410"/>
         <source>Tab</source>
         <translation>Fane</translation>
     </message>
@@ -22498,13 +22499,13 @@ You can change it in Settings › Catalog.</oldsource>
         <translation>RGB</translation>
     </message>
     <message>
-        <location filename="MyView.cpp" line="901"/>
+        <location filename="MyView.cpp" line="903"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <oldsource>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system. </oldsource>
         <translation type="unfinished">For å se og konvertere [PDF/PS/EPS/AI]-filer, krever XnViewMP at GhostScript %1 er installert på ditt system. </translation>
     </message>
     <message>
-        <location filename="MyView.cpp" line="902"/>
+        <location filename="MyView.cpp" line="904"/>
         <source>Please visit the XnView %1 for more information.</source>
         <translation>Vennligst besøk XnView-%1 for mer informasjon.</translation>
     </message>
@@ -24048,26 +24049,26 @@ You can change it in Settings › Catalog.</oldsource>
 <context>
     <name>xnview</name>
     <message>
-        <location filename="xnview.cpp" line="453"/>
-        <location filename="xnview.cpp" line="473"/>
+        <location filename="xnview.cpp" line="454"/>
+        <location filename="xnview.cpp" line="474"/>
         <source>Creating backup, please wait...</source>
         <oldsource>Creating backup, please wait... </oldsource>
         <translation>Opprettet sikkerhetskopi, vennligst vent …</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="445"/>
-        <location filename="xnview.cpp" line="451"/>
-        <location filename="xnview.cpp" line="458"/>
+        <location filename="xnview.cpp" line="446"/>
+        <location filename="xnview.cpp" line="452"/>
+        <location filename="xnview.cpp" line="459"/>
         <source>Catalog</source>
         <translation>Katalog</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="445"/>
+        <location filename="xnview.cpp" line="446"/>
         <source>XnViewMP - Catalog has a more recent version number than the expected one</source>
         <translation>XnViewMP - Katalogen har en nyere versjonsnummer enn det som var forventet</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="451"/>
+        <location filename="xnview.cpp" line="452"/>
         <source>XnViewMP will upgrade the catalog. It may take a while. 
 
 Do you want to keep the thumbnails?
@@ -24078,95 +24079,95 @@ Vil du beholde småbildene?
  (Hvis du velger JA, vil oppgraderingsprosessen gå tregt)</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="455"/>
+        <location filename="xnview.cpp" line="456"/>
         <source>Upgrading catalog, please wait...</source>
         <oldsource>Upgrading catalog, please wait... </oldsource>
         <translation>Oppgraderer katalogen, vennligst vent …</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="525"/>
+        <location filename="xnview.cpp" line="526"/>
         <source>Catalog problem</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="525"/>
+        <location filename="xnview.cpp" line="526"/>
         <source>There is a problem to open catalog, check your settings or folder used!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="533"/>
+        <location filename="xnview.cpp" line="534"/>
         <source>Catalog update</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="533"/>
+        <location filename="xnview.cpp" line="534"/>
         <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="928"/>
+        <location filename="xnview.cpp" line="929"/>
         <source>Application is up to date.</source>
         <oldsource>XnView MP is currently up to date.</oldsource>
         <translation type="unfinished">XnView MP er for øyeblikket fullt oppdatert.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1602"/>
+        <location filename="xnview.cpp" line="1603"/>
         <source>Do you want to save session?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="3067"/>
+        <location filename="xnview.cpp" line="3068"/>
         <source>Catalog and Metadata are disabled - 
 Rating, Tag &amp; Color labels will not be saved.</source>
         <oldsource>Rating/Tag/Color label can&apos;t be saved if catalog and metadata export are disabled!</oldsource>
         <translation type="unfinished">Rangerings-/Etikett-/Fargestempelet kan ikke lagres dersom katalogen og metadataeksport er skrudd av!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="999"/>
+        <location filename="xnview.cpp" line="1000"/>
         <source>Your previous session contains many loaded images, this can cause a slowdown!</source>
         <translation>Din forrige økt inneholder mange innlastede bilder, som kan forårsake en nedsløving!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="458"/>
+        <location filename="xnview.cpp" line="459"/>
         <source>There is a problem to update Catalog:
 (Error: % 1)
 Please contact the developer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="999"/>
+        <location filename="xnview.cpp" line="1000"/>
         <source>Session</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1527"/>
+        <location filename="xnview.cpp" line="1528"/>
         <source>Do you want to quit?</source>
         <translation>Vil du avslutte?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1603"/>
+        <location filename="xnview.cpp" line="1604"/>
         <source>Saving many tabs may noticeably slow application reopening.</source>
         <oldsource>Saving many tabs may noticeably slow reopening XnView MP</oldsource>
         <translation type="unfinished">Å lagre mange faner kan sløve ned gjenåpninger av XnViewMP betraktelig</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1609"/>
+        <location filename="xnview.cpp" line="1610"/>
         <source>Don&apos;t ask again</source>
         <oldsource>Do not ask again</oldsource>
         <translation type="unfinished">Ikke spør igjen</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1175"/>
+        <location filename="xnview.cpp" line="1176"/>
         <source>Error</source>
         <translation>Feil</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1175"/>
+        <location filename="xnview.cpp" line="1176"/>
         <source>File not found!</source>
         <translation>Filen ble ikke funnet!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1628"/>
+        <location filename="xnview.cpp" line="1629"/>
         <source>Do you want to save this session?</source>
         <translation>Vil du lagre denne økten?</translation>
     </message>

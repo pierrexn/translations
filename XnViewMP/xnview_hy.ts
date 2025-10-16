@@ -167,10 +167,6 @@
         <translation>Գլխավոր</translation>
     </message>
     <message>
-        <source>Date</source>
-        <translation>Ամսաթիվ</translation>
-    </message>
-    <message>
         <source>Social</source>
         <translation>Սոցիալական</translation>
     </message>
@@ -181,10 +177,6 @@
     <message>
         <source>Website</source>
         <translation>Կայք</translation>
-    </message>
-    <message>
-        <source>Version</source>
-        <translation>Տարբերակ</translation>
     </message>
     <message>
         <source>Forum</source>
@@ -201,6 +193,14 @@
     <message>
         <source>Changelog</source>
         <translation>Փոփոխությունները</translation>
+    </message>
+    <message>
+        <source>Translators</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation type="unfinished">Լեզուն</translation>
     </message>
 </context>
 <context>

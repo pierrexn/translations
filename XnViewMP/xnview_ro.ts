@@ -167,10 +167,6 @@
         <translation>General</translation>
     </message>
     <message>
-        <source>Date</source>
-        <translation>Dată</translation>
-    </message>
-    <message>
         <source>Social</source>
         <translation>Rețele de socializare</translation>
     </message>
@@ -187,10 +183,6 @@
         <translation>Site-ul web</translation>
     </message>
     <message>
-        <source>Version</source>
-        <translation>Versiune</translation>
-    </message>
-    <message>
         <source>Forum</source>
         <translation>Forum</translation>
     </message>
@@ -201,6 +193,14 @@
     <message>
         <source>Changelog</source>
         <translation>Jurnal de modificări</translation>
+    </message>
+    <message>
+        <source>Translators</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation type="unfinished">Limbă</translation>
     </message>
 </context>
 <context>

@@ -167,10 +167,6 @@
         <translation>General</translation>
     </message>
     <message>
-        <source>Date</source>
-        <translation>Fecha</translation>
-    </message>
-    <message>
         <source>Social</source>
         <translation>Social</translation>
     </message>
@@ -181,10 +177,6 @@
     <message>
         <source>Website</source>
         <translation>Sitio web</translation>
-    </message>
-    <message>
-        <source>Version</source>
-        <translation>Versión</translation>
     </message>
     <message>
         <source>Forum</source>
@@ -201,6 +193,14 @@
     <message>
         <source>Changelog</source>
         <translation>Registro de cambios</translation>
+    </message>
+    <message>
+        <source>Translators</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation type="unfinished">Idioma</translation>
     </message>
 </context>
 <context>
