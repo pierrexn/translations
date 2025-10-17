@@ -185,12 +185,12 @@
         <location filename="AboutWidget.ui" line="275"/>
         <location filename="AboutWidget.ui" line="299"/>
         <source>Translators</source>
-        <translation type="unfinished"></translation>
+        <translation>Fordítók</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="294"/>
         <source>Language</source>
-        <translation type="unfinished">Nyelv</translation>
+        <translation>Nyelv</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="308"/>
