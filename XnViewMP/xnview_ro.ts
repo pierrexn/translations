@@ -196,11 +196,11 @@
     </message>
     <message>
         <source>Translators</source>
-        <translation type="unfinished"></translation>
+        <translation>Traducători</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished">Limbă</translation>
+        <translation>Limba</translation>
     </message>
 </context>
 <context>
@@ -1943,7 +1943,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Load format settings...</source>
-        <translation>Încarcă setările de format...</translation>
+        <translation>Încarcă setările pentru formate...</translation>
     </message>
     <message>
         <source>The &apos;Use multiple CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</source>
@@ -13090,7 +13090,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Format settings</source>
-        <translation>Setări de format</translation>
+        <translation>Setări pentru formate</translation>
     </message>
     <message>
         <source># of bits</source>
@@ -16642,7 +16642,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Format settings...</source>
-        <translation>Setări de format...</translation>
+        <translation>Setări pentru formate...</translation>
     </message>
     <message>
         <source>Fit image to window width or height</source>
