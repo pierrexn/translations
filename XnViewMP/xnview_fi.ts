@@ -196,11 +196,11 @@
     </message>
     <message>
         <source>Translators</source>
-        <translation type="unfinished"></translation>
+        <translation>Kääntäjät</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished">Kieli</translation>
+        <translation>Kieli</translation>
     </message>
 </context>
 <context>
@@ -326,7 +326,7 @@
     </message>
     <message>
         <source>The file &lt;%1&gt; is read-only. Please choose another file name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiedosto &lt;%1&gt; on &apos;vain luku&apos; -tilassa. Valitse toinen tiedostonimi.</translation>
     </message>
 </context>
 <context>
@@ -617,7 +617,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>The database is corrupted. Please check it before you continue!</source>
-        <translation type="unfinished"></translation>
+        <translation>Tietokanta on vioittunut. Tarkista se ennen kuin jatkat!</translation>
     </message>
 </context>
 <context>
@@ -3343,7 +3343,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Margin</source>
-        <translation type="unfinished">Marginaali</translation>
+        <translation>Marginaali</translation>
     </message>
 </context>
 <context>
@@ -6193,7 +6193,7 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     <message>
         <source>Problem to change file association. 
 Please try to start with admin rights.</source>
-        <translation type="unfinished">Ongelmia muutettaessa tiedostokytkentöjä.
+        <translation>Ongelmia muutettaessa tiedostokytkentöjä.
 Käynnistä ohjelma uudelleen ylläpitäjän oikeuksilla.</translation>
     </message>
 </context>
@@ -8132,7 +8132,8 @@ Kiitos että tilasit %1.</translation>
     <message>
         <source>Plugin is not installed. 
 Please install it via Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisäosaa ei ole asennettu.
+Asenna se Työkalut › Lisäosat -kohdasta</translation>
     </message>
 </context>
 <context>
@@ -9171,7 +9172,7 @@ Haluatko ensin tarkastaa tiedot, joihin tämä vaikuttaa?</translation>
     </message>
     <message>
         <source>Update metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Päivitä metatiedot...</translation>
     </message>
 </context>
 <context>
@@ -12194,7 +12195,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>File size (kB)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiedostokoko (kB)</translation>
     </message>
 </context>
 <context>
@@ -12496,7 +12497,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>File size (kB)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiedostokoko (kB)</translation>
     </message>
 </context>
 <context>
@@ -13286,7 +13287,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Size (kB)</source>
-        <translation type="unfinished"></translation>
+        <translation>Koko (kB)</translation>
     </message>
 </context>
 <context>
@@ -13909,15 +13910,15 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     <name>InfoFavoritesView</name>
     <message>
         <source>Tag</source>
-        <translation type="unfinished">Merkintä (Tagit)</translation>
+        <translation>Merkintä (Tagit)</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished">Arvo</translation>
+        <translation>Arvo</translation>
     </message>
     <message>
         <source>Remove from Favorites panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Poista Suosikit-paneelista</translation>
     </message>
 </context>
 <context>
@@ -14401,7 +14402,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Add to Favorites panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisää Suosikit -paneeliin</translation>
     </message>
 </context>
 <context>
@@ -15829,7 +15830,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Map</source>
-        <translation type="unfinished">Kartta</translation>
+        <translation>Kartta</translation>
     </message>
 </context>
 <context>
@@ -18542,7 +18543,9 @@ Arvioita-, tageja ja väritunnisteita ei tallenneta.</translation>
         <source>There is a problem to update Catalog:
 (Error: % 1)
 Please contact the developer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ongelma katalogin päivittämisessä:
+(Virhe: % 1)
+Ota yhteyttä kehittäjään.</translation>
     </message>
 </context>
 </TS>
