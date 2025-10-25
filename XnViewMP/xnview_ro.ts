@@ -17205,7 +17205,7 @@ Vrei să continui?</translation>
     <name>MyTemplateComboEdit</name>
     <message>
         <source>Clear</source>
-        <translation>Curat</translation>
+        <translation>Curăță</translation>
     </message>
 </context>
 <context>
@@ -18061,7 +18061,7 @@ O poți schimba în Setări › Catalog.</translation>
     <name>RecentFilesMenu</name>
     <message>
         <source>Clear</source>
-        <translation>Curat</translation>
+        <translation>Curăță</translation>
     </message>
     <message>
         <source>(none)</source>
