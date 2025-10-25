@@ -196,11 +196,11 @@
     </message>
     <message>
         <source>Translators</source>
-        <translation type="unfinished"></translation>
+        <translation>Tradutores</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished">Idioma</translation>
+        <translation>Idioma</translation>
     </message>
 </context>
 <context>
@@ -326,7 +326,7 @@
     </message>
     <message>
         <source>The file &lt;%1&gt; is read-only. Please choose another file name.</source>
-        <translation type="unfinished"></translation>
+        <translation>O arquivo &lt;%1&gt; é somente leitura. Escolha outro nome de arquivo.</translation>
     </message>
 </context>
 <context>
@@ -617,7 +617,7 @@ Arraste e solte sobre o nó desejado para atribuir.</translation>
     </message>
     <message>
         <source>The database is corrupted. Please check it before you continue!</source>
-        <translation type="unfinished"></translation>
+        <translation>O banco de dados está corrompido. Verifique-o antes de continuar.</translation>
     </message>
 </context>
 <context>
@@ -2578,7 +2578,7 @@ Deseja sobrescrevê-lo?</translation>
     <name>DlgConbrightPanelClass</name>
     <message>
         <source>Conbright</source>
-        <translation>Conbright</translation>
+        <translation>Contraste/Brilho</translation>
     </message>
     <message>
         <source>Gammasat</source>
@@ -3343,7 +3343,7 @@ Deseja continuar?</translation>
     </message>
     <message>
         <source>Margin</source>
-        <translation type="unfinished">Margem</translation>
+        <translation>Margem</translation>
     </message>
 </context>
 <context>
@@ -6193,7 +6193,8 @@ Certifique-se de que os arquivos não sejam somente de leitura!</translation>
     <message>
         <source>Problem to change file association. 
 Please try to start with admin rights.</source>
-        <translation type="unfinished">Problema para alterar a associação de arquivos.
+        <translation>Problema para alterar a associação de arquivos. 
+
 Tente iniciar com direitos de administrador.</translation>
     </message>
 </context>
@@ -8129,7 +8130,8 @@ Agradecemos por adquirir o %1.</translation>
     <message>
         <source>Plugin is not installed. 
 Please install it via Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>O plug-in não está instalado.
+Instale-o em Ferramentas › Plug-ins.</translation>
     </message>
 </context>
 <context>
@@ -12190,7 +12192,7 @@ Deseja continuar?</translation>
     </message>
     <message>
         <source>File size (kB)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho do arquivo (kB)</translation>
     </message>
 </context>
 <context>
@@ -12492,7 +12494,7 @@ Deseja continuar?</translation>
     </message>
     <message>
         <source>File size (kB)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho do arquivo (kB)</translation>
     </message>
 </context>
 <context>
@@ -13286,7 +13288,7 @@ Deseja excluir o favorito &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Size (kB)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho (kB)</translation>
     </message>
 </context>
 <context>
@@ -15830,7 +15832,7 @@ Deseja continuar?</translation>
     </message>
     <message>
         <source>Map</source>
-        <translation type="unfinished">Mapa</translation>
+        <translation>Mapa</translation>
     </message>
 </context>
 <context>
@@ -18544,7 +18546,9 @@ As avaliações, etiquetas e os rótulos de cor não serão salvos.</translation
         <source>There is a problem to update Catalog:
 (Error: % 1)
 Please contact the developer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Houve um problema ao atualizar o Catálogo:
+(Erro: %1)
+Entre em contato com o desenvolvedor.</translation>
     </message>
 </context>
 </TS>
