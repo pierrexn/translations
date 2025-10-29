@@ -499,5 +499,13 @@
   "infoTitleDetails": "DETTAGLI",
   "@infoTitleDetails": {},
   "infoTitleVariant": "{count, plural, =1{1 VARIANTE} other{{count} VARIANTI}}",
-  "@infoTitleVariant": {}
+  "@infoTitleVariant": {},
+  "inappLabel": "Rinnovo automatico ogni mese, annullabile in qualsiasi momento",
+  "@inappLabel": {},
+  "infoPremium": "La stima di questo oggetto è disponibile con la versione PREMIUM",
+  "@infoPremium": {},
+  "inappSubscribe": "Abbonarsi",
+  "@inappSubscribe": {},
+  "inappPerMonth": "al mese",
+  "@inappPerMonth": {}
 }
