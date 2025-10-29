@@ -499,5 +499,13 @@
   "infoExchangeFound": "{count, plural, =1{1 disponível por troca} other{{count} disponíveis por troca}}",
   "@infoExchangeFound": {},
   "infoUsersFollow": "{count, plural, =1{Segue esta coleção} other{Segue esta coleção}}",
-  "@infoUsersFollow": {}
+  "@infoUsersFollow": {},
+  "infoPremium": "A estimativa desse objeto está disponível na versão PREMIUM",
+  "@infoPremium": {},
+  "inappLabel": "Renovação automática a cada mês, cancelável a qualquer momento",
+  "@inappLabel": {},
+  "inappSubscribe": "Assine",
+  "@inappSubscribe": {},
+  "inappPerMonth": "por mês",
+  "@inappPerMonth": {}
 }
