@@ -499,5 +499,13 @@
   "infoTitleVariant": "{count, plural, =1{1 VARIANT} other{{count} VARIANTS}}",
   "@infoTitleVariant": {},
   "infoUsersFollow": "{count, plural, =1{Śledzi tę kolekcję} other{Śledzi tę kolekcję}}",
-  "@infoUsersFollow": {}
+  "@infoUsersFollow": {},
+  "infoPremium": "Oszacowanie tego obiektu jest dostępne w wersji PREMIUM",
+  "@infoPremium": {},
+  "inappLabel": "Automatyczne odnawianie co miesiąc, możliwość anulowania w dowolnym momencie",
+  "@inappLabel": {},
+  "inappPerMonth": "miesięcznie",
+  "@inappPerMonth": {},
+  "inappSubscribe": "Wykupić",
+  "@inappSubscribe": {}
 }
