@@ -263,6 +263,8 @@
   "@collectionDialogMessage": {},
   "invNoObject": "No tienes este objeto",
   "@invNoObject": {},
+  "inappLabel": "Renovación automática cada mes",
+  "@inappLabel": {},
   "inappTitle": "Suscripciones",
   "@inappTitle": {},
   "market": "Mercado",
@@ -458,6 +460,8 @@
   "@infoUsersSearch": {},
   "infoSell": "Vender",
   "@infoSell": {},
+  "infoPremium": "Función usuarios PREMIUM",
+  "@infoPremium": {},
   "infoPremiumButton": "Actualizar a PREMIUM",
   "@infoPremiumButton": {},
   "infoItemImgTake": "Haz una foto",
@@ -488,7 +492,7 @@
   "@infoTitleRarity": {},
   "infoTitleTags": "TAGS",
   "@infoTitleTags": {},
-  "infoTitleVariant": "{count, plural, =1{1 VARIANTE} other{{count} VARIANTES}}",
+  "infoTitleVariant": "{count, plural, =1{1 VARIANTE}} other{{count} VARIANTES}}",
   "@infoTitleVariant": {},
   "infoTitleManage": "GESTIONE SU COLECCIÓN",
   "@infoTitleManage": {},
@@ -496,7 +500,7 @@
   "@infoSellerFoundFrom": {
     "description": "price from N"
   },
-  "infoExchangeFound": "{count, plural, =1{1 disponible por intercambio} other{{count} disponibles por intercambio}}",
+  "infoExchangeFound": "{count, plural, =1{1 disponible por intercambio}} other{{count} disponibles por intercambio}}",
   "@infoExchangeFound": {},
   "infoUsersHave": "{count, plural, =1{Lo tiene} other{Lo tienen}}",
   "@infoUsersHave": {}

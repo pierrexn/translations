@@ -265,6 +265,8 @@
   "@scanResult": {},
   "countryTitle": "Bitte geben Sie Ihr Land ein",
   "@countryTitle": {},
+  "inappLabel": "Automatische monatliche Erneuerung",
+  "@inappLabel": {},
   "inappTitle": "Abonnements",
   "@inappTitle": {},
   "market": "Markt",
@@ -454,6 +456,8 @@
   "@infoInThisCollection": {},
   "infoRating": "COLEKA-Schätzung",
   "@infoRating": {},
+  "infoPremium": "Funktion für PREMIUM-Benutzer",
+  "@infoPremium": {},
   "infoPremiumButton": "Upgrade auf PREMIUM",
   "@infoPremiumButton": {},
   "infoItemModify": "Diesen Artikel bearbeiten",
@@ -468,7 +472,7 @@
   "@infoItemError": {},
   "infoUsersHave": "{count, plural, =1{Hat es} other{Haben es}}",
   "@infoUsersHave": {},
-  "infoUsersSearch": "{count, plural, =1{Sucht es} other{Sucht es}}",
+  "infoUsersSearch": "{count, plural, =1{Sucht es}} other{Sucht es}}",
   "@infoUsersSearch": {},
   "infoCheckedPrice": "Preis geprüft am ",
   "@infoCheckedPrice": {},
@@ -498,6 +502,6 @@
   "@infoSellerFoundFrom": {
     "description": "price from N"
   },
-  "infoExchangeFound": "{count, plural, =1{1 verfügbar durch Tausch} other{{count} verfügbar durch Tausch}}",
+  "infoExchangeFound": "{Anzahl, Plural, =1{1 verfügbar durch Tausch} andere{{count} verfügbar durch Tausch}}",
   "@infoExchangeFound": {}
 }
