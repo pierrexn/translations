@@ -499,5 +499,13 @@
     "description": "price from N"
   },
   "infoExchangeFound": "{count, plural, =1{1 tilgjengelig ved bytte} other{{count} tilgjengelig ved bytte}}",
-  "@infoExchangeFound": {}
+  "@infoExchangeFound": {},
+  "infoPremium": "Estimatet av dette objektet er tilgjengelig med PREMIUM-versjonen",
+  "@infoPremium": {},
+  "inappLabel": "Automatisk fornyelse hver måned, kan kanselleres når som helst",
+  "@inappLabel": {},
+  "inappPerMonth": "per måned",
+  "@inappPerMonth": {},
+  "inappSubscribe": "Abonner",
+  "@inappSubscribe": {}
 }
