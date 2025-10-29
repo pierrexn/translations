@@ -499,5 +499,13 @@
   "infoUsersHave": "{count, plural, =1{Heeft het} other{Heb het}}",
   "@infoUsersHave": {},
   "infoUsersFollow": "{count, plural, =1{Volgt deze collectie} other{Volgt deze collectie}}",
-  "@infoUsersFollow": {}
+  "@infoUsersFollow": {},
+  "inappLabel": "Automatische verlenging elke maand, opzegbaar op elk moment",
+  "@inappLabel": {},
+  "infoPremium": "De schatting van dit object is beschikbaar met de PREMIUM-versie",
+  "@infoPremium": {},
+  "inappSubscribe": "Abonneren",
+  "@inappSubscribe": {},
+  "inappPerMonth": "per maand",
+  "@inappPerMonth": {}
 }
