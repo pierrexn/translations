@@ -499,5 +499,13 @@
   "infoExchangeFound": "{count, plural, =1{1 disponible por intercambio} other{{count} disponibles por intercambio}}",
   "@infoExchangeFound": {},
   "infoUsersHave": "{count, plural, =1{Lo tiene} other{Lo tienen}}",
-  "@infoUsersHave": {}
+  "@infoUsersHave": {},
+  "infoPremium": "La estimación de este objeto está disponible con la versión PREMIUM",
+  "@infoPremium": {},
+  "inappLabel": "Renovación automática cada mes, cancelable en cualquier momento",
+  "@inappLabel": {},
+  "inappPerMonth": "al mes",
+  "@inappPerMonth": {},
+  "inappSubscribe": "Sacar",
+  "@inappSubscribe": {}
 }
