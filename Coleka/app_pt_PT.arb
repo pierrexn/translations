@@ -503,5 +503,13 @@
     "description": "price from N"
   },
   "infoExchangeFound": "{count, plural, =1{1 disponível por troca} other{{count} disponíveis por troca}}",
-  "@infoExchangeFound": {}
+  "@infoExchangeFound": {},
+  "infoPremium": "A estimativa deste objeto está disponível na versão PREMIUM",
+  "@infoPremium": {},
+  "inappLabel": "Renovação automática todos os meses, cancelável em qualquer altura",
+  "@inappLabel": {},
+  "inappSubscribe": "Subscrever",
+  "@inappSubscribe": {},
+  "inappPerMonth": "por mês",
+  "@inappPerMonth": {}
 }
