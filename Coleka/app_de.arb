@@ -499,5 +499,13 @@
     "description": "price from N"
   },
   "infoExchangeFound": "{count, plural, =1{1 verfügbar durch Tausch} other{{count} verfügbar durch Tausch}}",
-  "@infoExchangeFound": {}
+  "@infoExchangeFound": {},
+  "infoPremium": "Die Schätzung dieses Objekts ist mit der PREMIUM-Version verfügbar",
+  "@infoPremium": {},
+  "inappLabel": "Automatische Erneuerung jeden Monat, jederzeit kündbar",
+  "@inappLabel": {},
+  "inappSubscribe": "Abonnieren",
+  "@inappSubscribe": {},
+  "inappPerMonth": "pro Monat",
+  "@inappPerMonth": {}
 }
