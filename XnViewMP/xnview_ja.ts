@@ -194,12 +194,12 @@
         <location filename="AboutWidget.ui" line="275"/>
         <location filename="AboutWidget.ui" line="299"/>
         <source>Translators</source>
-        <translation type="unfinished"></translation>
+        <translation>翻訳者</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="294"/>
         <source>Language</source>
-        <translation type="unfinished">言語</translation>
+        <translation>言語</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="308"/>
@@ -321,7 +321,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="2956"/>
         <source>The file &lt;%1&gt; is read-only. Please choose another file name.</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイル&lt;%1&gt; は読み込み専用です。他のファイル名を選択してください。</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2964"/>
@@ -600,7 +600,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="BrowserWindow.cpp" line="908"/>
         <source>The database is corrupted. Please check it before you continue!</source>
         <oldsource>The database is corrupted, please check it before to continue!</oldsource>
-        <translation type="unfinished">データベースが壊れています。続ける前にチェックしてください</translation>
+        <translation>データベースが壊れています。続ける前にチェックしてください。</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="1648"/>
@@ -745,7 +745,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="BrowserWindow.cpp" line="4101"/>
         <source>Open in file manager</source>
-        <translation type="unfinished">エクスプローラで開く</translation>
+        <translation>ファイルマネージャーで開く</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4104"/>
@@ -924,22 +924,22 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CategoryView.cpp" line="445"/>
         <source>EXIF: Date taken</source>
-        <translation type="unfinished">EXIF: 撮影日付</translation>
+        <translation>EXIF: 撮影日付</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="447"/>
         <source>EXIF: Date modified</source>
-        <translation type="unfinished">EXIF: 更新日付</translation>
+        <translation>EXIF: 更新日付</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="449"/>
         <source>File: Date modified</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイル: 更新日付</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="487"/>
         <source>New album</source>
-        <translation type="unfinished"></translation>
+        <translation>新規アルバム</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="494"/>
@@ -2072,28 +2072,28 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DBFilterModel.cpp" line="152"/>
         <source>Taken in last 30 days</source>
-        <translation type="unfinished"></translation>
+        <translation>過去30日以内に撮影されたもの</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="153"/>
         <source>Modified in last 30 days</source>
-        <translation type="unfinished"></translation>
+        <translation>過去30日以内に変更されたもの</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="155"/>
         <location filename="DBFilterModel.cpp" line="1068"/>
         <source>Date</source>
-        <translation type="unfinished">日付</translation>
+        <translation>日付</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="159"/>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>プロパティ</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="164"/>
         <source>Albums</source>
-        <translation type="unfinished"></translation>
+        <translation>アルバム</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="931"/>
@@ -2105,27 +2105,27 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DBFilterModel.cpp" line="1564"/>
         <location filename="DBFilterModel.cpp" line="1579"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>不明</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1569"/>
         <source>Landscape</source>
-        <translation type="unfinished">風景</translation>
+        <translation>風景</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1571"/>
         <source>Portrait</source>
-        <translation type="unfinished">ポートレイト</translation>
+        <translation>ポートレイト</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1644"/>
         <source>Panoramic</source>
-        <translation type="unfinished"></translation>
+        <translation>パノラマ</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1670"/>
         <source>No Color Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>カラープロファイルなし</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="348"/>
@@ -4321,7 +4321,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertBlurredFrame.ui" line="96"/>
         <source>Margin</source>
-        <translation type="unfinished">余白</translation>
+        <translation>余白</translation>
     </message>
     <message>
         <location filename="DlgConvertBlurredFrame.ui" line="141"/>
@@ -8059,7 +8059,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgFileAssociation.cpp" line="111"/>
         <source>Problem to change file association. 
 Please try to start with admin rights.</source>
-        <translation type="unfinished">ファイルの関連付けの変更に問題がありました。
+        <translation>ファイルの関連付けの変更に問題がありました。
 管理者権限で行ってみてください。</translation>
     </message>
     <message>
@@ -10537,7 +10537,8 @@ Thank you for purchasing %1.</source>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Plugin is not installed. 
 Please install it via Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>プラグインがインストールされていません。 
+ツール&gt;プラグインからインストールしてください。</translation>
     </message>
 </context>
 <context>
@@ -11078,17 +11079,17 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.cpp" line="260"/>
         <source>Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>プリセット</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="261"/>
         <source>Preset search name:</source>
-        <translation type="unfinished"></translation>
+        <translation>プリセット検索名:</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="264"/>
         <source>Save pathname</source>
-        <translation type="unfinished"></translation>
+        <translation>パス名の保存</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="376"/>
@@ -11655,7 +11656,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgSettingsCache.cpp" line="543"/>
         <source>Updating database, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>データベースの更新中、お待ちください...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="560"/>
@@ -11828,7 +11829,7 @@ Do you want to remove entries assigned to a category?</oldsource>
         <location filename="DlgSettingsCache.ui" line="430"/>
         <source>Update metadata...</source>
         <oldsource>Update metadatas...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>メタデータを更新...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="493"/>
@@ -12696,7 +12697,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="292"/>
         <source>Select a program</source>
-        <translation type="unfinished">プログラムの選択</translation>
+        <translation>プログラムの選択</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="344"/>
@@ -12820,12 +12821,12 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="381"/>
         <source>ExifTool path</source>
-        <translation type="unfinished"></translation>
+        <translation>ExifToolパス</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="398"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
 </context>
 <context>
@@ -14711,7 +14712,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSlideshow.ui" line="343"/>
         <source>Watch folders for new files</source>
-        <translation type="unfinished"></translation>
+        <translation>新しいファイルがないかフォルダを監視する</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="580"/>
@@ -15897,7 +15898,7 @@ Do you want to continue?</source>
         <location filename="DlgWriteJP2K.ui" line="138"/>
         <source>File size (kB)</source>
         <oldsource>File size (kbytes)</oldsource>
-        <translation type="unfinished">ファイルサイズ(KB)</translation>
+        <translation>ファイルサイズ(kB)</translation>
     </message>
 </context>
 <context>
@@ -16262,7 +16263,7 @@ Do you want to continue?</source>
         <location filename="DlgWriteWebP.ui" line="173"/>
         <source>File size (kB)</source>
         <oldsource>File size (kbytes)</oldsource>
-        <translation type="unfinished">ファイルサイズ(KB)</translation>
+        <translation>ファイルサイズ(kB)</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="207"/>
@@ -16615,7 +16616,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="FileListWidget.cpp" line="297"/>
         <source>Do you want to add only the folder and not the filelist?</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルリストではなく、フォルダだけを追加しますか？</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="40"/>
@@ -17103,12 +17104,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DBFilterModel.cpp" line="1460"/>
         <source>Aspect Ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>アスペクト比</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1496"/>
         <source>File type</source>
-        <translation type="unfinished">ファイルの種類</translation>
+        <translation>ファイルの種類</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1109"/>
@@ -17293,7 +17294,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2800"/>
         <source>Size (kB)</source>
         <oldsource>Size (KB)</oldsource>
-        <translation type="unfinished">サイズ(KB)</translation>
+        <translation>サイズ(kB)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2581"/>
@@ -17690,7 +17691,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DBFilterModel.cpp" line="1472"/>
         <source>Lens</source>
-        <translation type="unfinished">球面レンズ</translation>
+        <translation>レンズ</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1480"/>
@@ -17701,57 +17702,57 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DBFilterModel.cpp" line="1488"/>
         <source>Shutter Speed</source>
-        <translation type="unfinished">シャッタースピード</translation>
+        <translation>シャッタースピード</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1500"/>
         <source>Colour Space</source>
-        <translation type="unfinished"></translation>
+        <translation>色空間</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1581"/>
         <source>Not Defined</source>
-        <translation type="unfinished"></translation>
+        <translation>未定</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1583"/>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation>マニュアル</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1585"/>
         <source>Program AE</source>
-        <translation type="unfinished"></translation>
+        <translation>プログラムAE</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1587"/>
         <source>Aperture-priority AE</source>
-        <translation type="unfinished"></translation>
+        <translation>絞り優先AE</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1589"/>
         <source>Shutter speed priority AE</source>
-        <translation type="unfinished"></translation>
+        <translation>シャッタースピード優先AE</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1591"/>
         <source>Creative</source>
-        <translation type="unfinished"></translation>
+        <translation>クリエイティブ</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1593"/>
         <source>Action</source>
-        <translation type="unfinished">動作</translation>
+        <translation>アクション</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1595"/>
         <source>Portrait</source>
-        <translation type="unfinished">ポートレイト</translation>
+        <translation>ポートレイト</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1597"/>
         <source>Landscape</source>
-        <translation type="unfinished">風景</translation>
+        <translation>風景</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1120"/>
@@ -18289,17 +18290,17 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoFavoritesView.cpp" line="19"/>
         <source>Tag</source>
-        <translation type="unfinished">タグ</translation>
+        <translation>タグ</translation>
     </message>
     <message>
         <location filename="InfoFavoritesView.cpp" line="19"/>
         <source>Value</source>
-        <translation type="unfinished">値</translation>
+        <translation>値</translation>
     </message>
     <message>
         <location filename="InfoFavoritesView.cpp" line="45"/>
         <source>Remove from Favorites panel</source>
-        <translation type="unfinished"></translation>
+        <translation>お気に入りパネルから削除する</translation>
     </message>
 </context>
 <context>
@@ -18873,7 +18874,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="EditXMPWidget.cpp" line="171"/>
         <source>Telephone number</source>
-        <translation type="unfinished"></translation>
+        <translation>電話番号</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="113"/>
@@ -19103,7 +19104,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPanel.cpp" line="91"/>
         <source>Add to Favorites panel</source>
-        <translation type="unfinished"></translation>
+        <translation>お気に入りパネルに追加</translation>
     </message>
 </context>
 <context>
@@ -20016,7 +20017,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="321"/>
         <source>Map</source>
-        <translation type="unfinished">マップ</translation>
+        <translation>マップ</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="525"/>
@@ -20036,7 +20037,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="539"/>
         <source>Open in file manager</source>
-        <translation type="unfinished">エクスプローラで開く</translation>
+        <translation>ファイルマネージャーで開く</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="545"/>
@@ -21438,7 +21439,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="307"/>
         <source>Open in file manager</source>
         <oldsource>Open in file explorer</oldsource>
-        <translation type="unfinished">エクスプローラで開く</translation>
+        <translation>ファイルマネージャーで開く</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="308"/>
@@ -24131,7 +24132,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="ToolbarSearch.cpp" line="158"/>
         <source>XMP fields</source>
-        <translation type="unfinished"></translation>
+        <translation>XMP項目</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="163"/>
@@ -24467,12 +24468,12 @@ Do you want to keep the thumbnails?
     <message>
         <location filename="xnview.cpp" line="534"/>
         <source>Catalog update</source>
-        <translation type="unfinished"></translation>
+        <translation>カタログ更新</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="534"/>
         <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
-        <translation type="unfinished"></translation>
+        <translation>「カタログフィルター」で新しいノードを使用するには、カタログを更新する必要があります（設定&gt;カタログ&gt;メタデータを更新）。 </translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="929"/>
@@ -24503,7 +24504,9 @@ Rating, Tag &amp; Color labels will not be saved.</source>
         <source>There is a problem to update Catalog:
 (Error: % 1)
 Please contact the developer.</source>
-        <translation type="unfinished"></translation>
+        <translation>カタログの更新に問題があります：
+(エラー: %1)
+開発者に連絡してください。</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1000"/>
