@@ -2179,7 +2179,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation>A inlocui</translation>
+        <translation>Înlocuiește</translation>
     </message>
     <message>
         <source>Photo 5x7 inches (13x18 cm)</source>
@@ -3896,7 +3896,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation>A inlocui</translation>
+        <translation>Înlocuiește</translation>
     </message>
     <message>
         <source>Presets:</source>
@@ -6327,7 +6327,7 @@ Te rugăm să încerci să pornești programul cu drepturi de administrator.</tr
     </message>
     <message>
         <source>Replace</source>
-        <translation>A inlocui</translation>
+        <translation>Înlocuiește</translation>
     </message>
     <message>
         <source>Folder conflict</source>
@@ -8239,7 +8239,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation>A inlocui</translation>
+        <translation>Înlocuiește</translation>
     </message>
     <message>
         <source>Extension lowercase</source>
@@ -15597,7 +15597,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Convert into</source>
-        <translation>A se converti în</translation>
+        <translation>Convertește în</translation>
     </message>
     <message>
         <source>Multi-page file...</source>
