@@ -2303,7 +2303,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Check for program updates</source>
-        <translation>Verifică pentru actualizări ale programului</translation>
+        <translation>Verifică pentru actualizările programului</translation>
     </message>
     <message>
         <source>Extracted pages:</source>
@@ -4024,7 +4024,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Check for program updates</source>
-        <translation>Verifică pentru actualizări ale programului</translation>
+        <translation>Verifică pentru actualizările programului</translation>
     </message>
     <message>
         <source>Keep folder structure</source>
@@ -9655,7 +9655,7 @@ miniatură</translation>
     </message>
     <message>
         <source>Check for program updates</source>
-        <translation>Verifică pentru actualizări ale programului</translation>
+        <translation>Verifică pentru actualizările programului</translation>
     </message>
     <message>
         <source>&lt;Filename&gt; - Copy (#)</source>
@@ -11504,7 +11504,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Check for program updates</source>
-        <translation>Verifică pentru actualizări ale programului</translation>
+        <translation>Verifică pentru actualizările programului</translation>
     </message>
     <message>
         <source>Startup Wizard</source>
