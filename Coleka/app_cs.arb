@@ -507,7 +507,9 @@
   "inappSubscribe": "Uzavřít",
   "@inappSubscribe": {},
   "infoBuyer": "{count, plural, =1{1 kupující} other{{count} kupujících}}",
+  "@infoBuyer": {},
   "infoUp": "až",
+  "@infoUp": {},
   "inappPerMonth": "měsíčně",
   "@inappPerMonth": {}
 }
