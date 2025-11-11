@@ -18,8 +18,9 @@
   "loginName": "Nazwa",
   "@loginName": {},
   "infoBuyer": "{count, plural, =1{1 kupujący} other{{count} kupujących}}",
+  "@infoBuyer": {},
   "infoUp": "do",
-
+  "@infoUp": {},
   "loginZip": "Kod pocztowy",
   "@loginZip": {},
   "loginCountry": "Kraj",
