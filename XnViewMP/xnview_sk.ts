@@ -4,132 +4,132 @@
 <context>
     <name>@default</name>
     <message>
-        <location filename="MyThumbSettings.cpp" line="449"/>
+        <location filename="MyThumbSettings.cpp" line="436"/>
         <source>Uncolored</source>
         <translation>Bez značenia</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="455"/>
+        <location filename="MyThumbSettings.cpp" line="442"/>
         <source>Important</source>
         <translation>Dôležité</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="455"/>
+        <location filename="MyThumbSettings.cpp" line="442"/>
         <source>Red</source>
         <translation>Červená</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="455"/>
+        <location filename="MyThumbSettings.cpp" line="442"/>
         <source>Select</source>
         <translation>Vybrať</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="456"/>
+        <location filename="MyThumbSettings.cpp" line="443"/>
         <source>Work</source>
         <translation>Pracovné</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="456"/>
+        <location filename="MyThumbSettings.cpp" line="443"/>
         <source>Yellow</source>
         <translation>Žltá</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="456"/>
+        <location filename="MyThumbSettings.cpp" line="443"/>
         <source>Second</source>
         <translation>Druhý</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="457"/>
+        <location filename="MyThumbSettings.cpp" line="444"/>
         <source>Personal</source>
         <translation>Osobné</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="457"/>
+        <location filename="MyThumbSettings.cpp" line="444"/>
         <source>Green</source>
         <translation>Zelená</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="457"/>
+        <location filename="MyThumbSettings.cpp" line="444"/>
         <source>Approved</source>
         <translation>Schválený</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="458"/>
+        <location filename="MyThumbSettings.cpp" line="445"/>
         <source>To do</source>
         <translation>Úloha</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="458"/>
+        <location filename="MyThumbSettings.cpp" line="445"/>
         <source>Blue</source>
         <translation>Modrá</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="458"/>
+        <location filename="MyThumbSettings.cpp" line="445"/>
         <source>Review</source>
         <translation>Skontrolovať</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="459"/>
+        <location filename="MyThumbSettings.cpp" line="446"/>
         <source>Later</source>
         <translation>Neskôr</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="459"/>
+        <location filename="MyThumbSettings.cpp" line="446"/>
         <source>Purple</source>
         <translation>Fialová</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="459"/>
+        <location filename="MyThumbSettings.cpp" line="446"/>
         <source>To Do</source>
         <translation>Úloha</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="460"/>
+        <location filename="MyThumbSettings.cpp" line="447"/>
         <source>Orange</source>
         <translation>Oranžová</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="461"/>
+        <location filename="MyThumbSettings.cpp" line="448"/>
         <source>Grey</source>
         <translation>Sivá</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="462"/>
+        <location filename="MyThumbSettings.cpp" line="449"/>
         <source>Black</source>
         <translation>Čierna</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="463"/>
+        <location filename="MyThumbSettings.cpp" line="450"/>
         <source>White</source>
         <translation>Biela</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="351"/>
+        <location filename="MyThumbSettings.cpp" line="338"/>
         <source>Unrated</source>
         <translation>Bez hodnotenia</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="352"/>
+        <location filename="MyThumbSettings.cpp" line="339"/>
         <source>Poor</source>
         <translation>Zlé</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="353"/>
+        <location filename="MyThumbSettings.cpp" line="340"/>
         <source>Fair</source>
         <translation>Podpriemerné</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="354"/>
+        <location filename="MyThumbSettings.cpp" line="341"/>
         <source>Average</source>
         <translation>Priemerné</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="355"/>
+        <location filename="MyThumbSettings.cpp" line="342"/>
         <source>Good</source>
         <translation>Dobré</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="356"/>
+        <location filename="MyThumbSettings.cpp" line="343"/>
         <source>Excellent</source>
         <translation>Výborné</translation>
     </message>
@@ -332,7 +332,7 @@
         <translation>Chcete ho prepísať?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4427"/>
+        <location filename="ViewWindow.cpp" line="4429"/>
         <source>Number of unique colors: %1</source>
         <translation>Počet jedinečných farieb: %1</translation>
     </message>
@@ -414,7 +414,7 @@
         <translation>Vlastnosti</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4427"/>
+        <location filename="ViewWindow.cpp" line="4429"/>
         <source>Colors count</source>
         <translation>Počet farieb</translation>
     </message>
@@ -472,28 +472,28 @@
 <context>
     <name>BaseViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="4911"/>
+        <location filename="ViewWindow.cpp" line="4913"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4902"/>
-        <location filename="ViewWindow.cpp" line="4911"/>
+        <location filename="ViewWindow.cpp" line="4904"/>
+        <location filename="ViewWindow.cpp" line="4913"/>
         <source>File can&apos;t be loaded!</source>
         <translation>Nie je možné načítať súbor!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4902"/>
+        <location filename="ViewWindow.cpp" line="4904"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <translation>Pre prezeranie a konvertovanie PDF/PS/EPS/AI súborov, XnView MP vyžaduje nainštalovaný Ghostscript %1 vo vašom počítači.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4903"/>
+        <location filename="ViewWindow.cpp" line="4905"/>
         <source>Please visit the %1 for more information.</source>
         <translation>Navštívte prosím %1 pre viac informácií.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4915"/>
+        <location filename="ViewWindow.cpp" line="4917"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; Prázdne &gt;</translation>
     </message>
@@ -547,74 +547,74 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
 <context>
     <name>BrowserWindow</name>
     <message>
-        <location filename="BrowserWindow.cpp" line="675"/>
+        <location filename="BrowserWindow.cpp" line="680"/>
         <source>Customize toolbar...</source>
         <translation>Prispôsobiť panel s nástrojmi...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1656"/>
+        <location filename="BrowserWindow.cpp" line="1662"/>
         <source>Add Favorite...</source>
         <translation>Pridať k obľúbeným...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1746"/>
+        <location filename="BrowserWindow.cpp" line="1752"/>
         <source>Folders</source>
         <translation>Priečinky</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1750"/>
+        <location filename="BrowserWindow.cpp" line="1756"/>
         <source>Favorites</source>
         <translation>Obľúbené</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1764"/>
+        <location filename="BrowserWindow.cpp" line="1770"/>
         <source>Categories</source>
         <translation>Kategórie</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1802"/>
+        <location filename="BrowserWindow.cpp" line="1808"/>
         <source>Info</source>
         <translation>Info</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="679"/>
+        <location filename="BrowserWindow.cpp" line="684"/>
         <source>Detach preview panel</source>
         <translation>Oddeliť panel s náhľadom</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="681"/>
+        <location filename="BrowserWindow.cpp" line="686"/>
         <source>Attach preview panel</source>
         <translation>Pripojiť panel s náhľadom</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="908"/>
+        <location filename="BrowserWindow.cpp" line="913"/>
         <source>The database is corrupted. Please check it before you continue!</source>
         <oldsource>The database is corrupted, please check it before to continue!</oldsource>
         <translation type="unfinished">Databáza je poškodená, pred pokračovaním ju prosím skontrolujte!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1648"/>
+        <location filename="BrowserWindow.cpp" line="1654"/>
         <source>Add to Favorites</source>
         <translation>Pridať k obľúbeným</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1754"/>
+        <location filename="BrowserWindow.cpp" line="1760"/>
         <source>Catalog Filter</source>
         <oldsource>Categories Filter</oldsource>
         <translation>Filter kategórii</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1769"/>
+        <location filename="BrowserWindow.cpp" line="1775"/>
         <source>Category Sets</source>
         <translation>Kategória Série</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1979"/>
+        <location filename="BrowserWindow.cpp" line="1987"/>
         <source>Match</source>
         <translation>Zhoda</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1989"/>
+        <location filename="BrowserWindow.cpp" line="1997"/>
         <source>Click to filter - use Shift and Control for multiple selections.
 Right Click on different items for pop-up menus with actions.
 Drag and Drop over the desired node to assign.</source>
@@ -623,42 +623,42 @@ Pravý klik na rôzne položky pre ponuku s akciami.
 Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2012"/>
+        <location filename="BrowserWindow.cpp" line="2020"/>
         <source>Global</source>
         <translation>Vo všetkých umiestneniach</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2019"/>
+        <location filename="BrowserWindow.cpp" line="2027"/>
         <source>Current folder</source>
         <translation>V aktuálnom priečinku</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2026"/>
+        <location filename="BrowserWindow.cpp" line="2034"/>
         <source>Current folder (Recursive)</source>
         <translation>V aktuálnom priečinku (vrátane podpriečinkov)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3096"/>
+        <location filename="BrowserWindow.cpp" line="3141"/>
         <source>&lt;Search results&gt;</source>
         <translation>&lt;Výsledky vyhľadávania&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3098"/>
+        <location filename="BrowserWindow.cpp" line="3143"/>
         <source>&lt;Tagged files&gt;</source>
         <translation>&lt;Označené súbory&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3188"/>
+        <location filename="BrowserWindow.cpp" line="3233"/>
         <source>This folder doesn&apos;t exist!</source>
         <translation>Tento priečinok neexistuje!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3401"/>
+        <location filename="BrowserWindow.cpp" line="3446"/>
         <source>Favorite name:</source>
         <translation>Názov obľúbenej položky:</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="3646"/>
+        <location filename="BrowserWindow.cpp" line="3691"/>
         <source>Are you sure to delete these %n item(s)?</source>
         <translation>
             <numerusform>Ste si istý že chcete odstrániť túto položku?</numerusform>
@@ -667,53 +667,53 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3731"/>
+        <location filename="BrowserWindow.cpp" line="3776"/>
         <source>The files cannot be renamed, an error occurred.</source>
         <translation>Súbory sa nedajú premenovať, vyskytla sa chyba.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3188"/>
-        <location filename="BrowserWindow.cpp" line="3731"/>
+        <location filename="BrowserWindow.cpp" line="3233"/>
+        <location filename="BrowserWindow.cpp" line="3776"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1810"/>
+        <location filename="BrowserWindow.cpp" line="1816"/>
         <source>Metadata</source>
         <translation>Metaúdaje</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1819"/>
+        <location filename="BrowserWindow.cpp" line="1825"/>
         <source>Histogram</source>
         <translation>Histogram</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1995"/>
+        <location filename="BrowserWindow.cpp" line="2003"/>
         <source>Match any selected entry (OR)</source>
         <translation>Zhoda s akýmkoľvek zvoleným záznamom (ALEBO)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2001"/>
+        <location filename="BrowserWindow.cpp" line="2009"/>
         <source>Match all selected entries (AND)</source>
         <translation>Zhoda so všetkými zvolenými záznamami (A)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3100"/>
+        <location filename="BrowserWindow.cpp" line="3145"/>
         <source>&lt;Catalog filter results&gt;</source>
         <translation>&lt;Výsledky filtrovania katalógu&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3102"/>
+        <location filename="BrowserWindow.cpp" line="3147"/>
         <source>&lt;files&gt;</source>
         <translation>&lt;súbory&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3639"/>
+        <location filename="BrowserWindow.cpp" line="3684"/>
         <source>Delete items &amp; companions</source>
         <translation>Odstrániť položky a sprievodné súbory</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="3640"/>
+        <location filename="BrowserWindow.cpp" line="3685"/>
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
         <translation>
             <numerusform>Chcete naozaj odstrániť túto %n položku - %1 vybratá položka?</numerusform>
@@ -722,57 +722,57 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4095"/>
+        <location filename="BrowserWindow.cpp" line="4140"/>
         <source>Search...</source>
         <translation>Hľadať...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4096"/>
+        <location filename="BrowserWindow.cpp" line="4141"/>
         <source>Add to favorites...</source>
         <translation>Pridať k obľúbeným...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4099"/>
+        <location filename="BrowserWindow.cpp" line="4144"/>
         <source>Start slideshow</source>
         <translation>Spustiť prezentáciu</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4101"/>
+        <location filename="BrowserWindow.cpp" line="4146"/>
         <source>Open in file manager</source>
         <translation>Otvoriť v prieskumníkovi</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4104"/>
+        <location filename="BrowserWindow.cpp" line="4149"/>
         <source>Properties</source>
         <translation>Vlastnosti</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4213"/>
+        <location filename="BrowserWindow.cpp" line="4258"/>
         <source>Load filelist</source>
         <translation>Načítať zoznam súborov</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3645"/>
+        <location filename="BrowserWindow.cpp" line="3690"/>
         <source>Delete items</source>
         <translation>Odstránenie položiek</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4093"/>
+        <location filename="BrowserWindow.cpp" line="4138"/>
         <source>Show files in subfolders</source>
         <translation>Zobraziť súbory v podpriečinkoch</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4136"/>
+        <location filename="BrowserWindow.cpp" line="4181"/>
         <source>Delete folder</source>
         <translation>Odstrániť priečinok</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4136"/>
+        <location filename="BrowserWindow.cpp" line="4181"/>
         <source>Are you sure to delete this folder?</source>
         <translation>Ste si istý že chcete odstrániť tento priečinok?</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="630"/>
+        <location filename="BrowserWindow.cpp" line="635"/>
         <source>Browser</source>
         <translation>Prehliadač</translation>
     </message>
@@ -797,7 +797,7 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
 <context>
     <name>CategoryModel</name>
     <message>
-        <location filename="CategoryModel.cpp" line="551"/>
+        <location filename="CategoryModel.cpp" line="570"/>
         <source>Label</source>
         <translation>Popis</translation>
     </message>
@@ -881,112 +881,150 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
 <context>
     <name>CategoryView</name>
     <message>
-        <location filename="CategoryView.cpp" line="564"/>
-        <location filename="CategoryView.cpp" line="659"/>
+        <location filename="CategoryView.cpp" line="637"/>
+        <location filename="CategoryView.cpp" line="735"/>
         <source>New category</source>
         <translation>Nová kategória</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="491"/>
-        <location filename="CategoryView.cpp" line="566"/>
-        <location filename="CategoryView.cpp" line="661"/>
+        <location filename="CategoryView.cpp" line="495"/>
+        <location filename="CategoryView.cpp" line="549"/>
+        <location filename="CategoryView.cpp" line="641"/>
+        <location filename="CategoryView.cpp" line="737"/>
         <source>Rename</source>
         <translation>Premenovať</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="492"/>
-        <location filename="CategoryView.cpp" line="567"/>
-        <location filename="CategoryView.cpp" line="662"/>
+        <location filename="CategoryView.cpp" line="496"/>
+        <location filename="CategoryView.cpp" line="550"/>
+        <location filename="CategoryView.cpp" line="652"/>
+        <location filename="CategoryView.cpp" line="738"/>
         <source>Delete</source>
         <translation>Odstrániť</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="384"/>
-        <location filename="CategoryView.cpp" line="618"/>
-        <location filename="CategoryView.cpp" line="683"/>
+        <location filename="CategoryView.cpp" line="390"/>
+        <location filename="CategoryView.cpp" line="694"/>
+        <location filename="CategoryView.cpp" line="759"/>
         <source>Delete category</source>
         <translation>Odstrániť kategóriu</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="384"/>
-        <location filename="CategoryView.cpp" line="618"/>
-        <location filename="CategoryView.cpp" line="683"/>
+        <location filename="CategoryView.cpp" line="390"/>
+        <location filename="CategoryView.cpp" line="694"/>
+        <location filename="CategoryView.cpp" line="759"/>
         <source>Are you sure to delete this category?</source>
         <translation>Ste si istý, že chcete odstrániť túto kateróriu?</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="445"/>
+        <location filename="CategoryView.cpp" line="442"/>
         <source>EXIF: Date taken</source>
         <translation>EXIF: Dátum zhotovenia</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="447"/>
+        <location filename="CategoryView.cpp" line="444"/>
         <source>EXIF: Date modified</source>
         <translation>EXIF: Dátum poslednej zmeny</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="449"/>
+        <location filename="CategoryView.cpp" line="446"/>
         <source>File: Date modified</source>
         <translation>Súbor: Dátum poslednej zmeny</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="487"/>
+        <source>New smart album...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CategoryView.cpp" line="489"/>
+        <location filename="CategoryView.cpp" line="662"/>
+        <source>Create Smart Album from current filter...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CategoryView.cpp" line="493"/>
+        <source>Edit...</source>
+        <translation type="unfinished">Upraviť...</translation>
+    </message>
+    <message>
+        <location filename="CategoryView.cpp" line="520"/>
+        <source>Delete Smart Album</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CategoryView.cpp" line="520"/>
+        <source>Are you sure to delete this Smart Album?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CategoryView.cpp" line="545"/>
         <source>New album</source>
         <translation>Nový album</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="494"/>
+        <location filename="CategoryView.cpp" line="552"/>
         <source>Empty</source>
         <translation>Prázdna</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="496"/>
+        <location filename="CategoryView.cpp" line="554"/>
         <source>Export (Bridge format)...</source>
         <translation>Exportovať (formát Bridge)...</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="499"/>
+        <location filename="CategoryView.cpp" line="557"/>
         <source>Import (Bridge format)...</source>
         <translation>Importovať (formát Bridge)...</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="524"/>
+        <location filename="CategoryView.cpp" line="582"/>
         <source>Delete album</source>
         <translation>Zmazať album</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="524"/>
+        <location filename="CategoryView.cpp" line="582"/>
         <source>Are you sure to delete this album?</source>
         <translation>Ste si istý, že chcete odstrániť tento album?</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="530"/>
+        <location filename="CategoryView.cpp" line="591"/>
         <source>New Album</source>
         <translation>Nový album</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="542"/>
+        <location filename="CategoryView.cpp" line="603"/>
         <source>Empty album</source>
         <translation>Prázdny album</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="542"/>
+        <location filename="CategoryView.cpp" line="603"/>
         <source>Are you sure to clear this album?</source>
         <translation>Naozaj chcete vyprázdniť tento album?</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="549"/>
+        <location filename="CategoryView.cpp" line="614"/>
         <source>Import collection</source>
         <translation>Importovať kolekciu</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="555"/>
+        <location filename="CategoryView.cpp" line="620"/>
         <source>Export collection</source>
         <translation>Exportovať kolekciu</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="631"/>
-        <location filename="CategoryView.cpp" line="695"/>
+        <location filename="CategoryView.cpp" line="660"/>
+        <source>Create Smart Album...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CategoryView.cpp" line="694"/>
+        <source>Are you sure to delete these categories?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CategoryView.cpp" line="707"/>
+        <location filename="CategoryView.cpp" line="771"/>
         <source>New Category</source>
         <translation>Nová kategória</translation>
     </message>
@@ -1883,9 +1921,9 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
     <name>DB</name>
     <message>
         <location filename="CategoryManager.cpp" line="159"/>
-        <location filename="MyDB.cpp" line="847"/>
-        <location filename="MyDB.cpp" line="2101"/>
-        <location filename="MyDB.cpp" line="3350"/>
+        <location filename="MyDB.cpp" line="836"/>
+        <location filename="MyDB.cpp" line="2255"/>
+        <location filename="MyDB.cpp" line="3528"/>
         <source>Other</source>
         <translation>Ostatné</translation>
     </message>
@@ -1895,72 +1933,72 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
         <translation>Osirelý</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="848"/>
+        <location filename="MyDB.cpp" line="837"/>
         <source>Photographs</source>
         <translation>Fotografie</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="849"/>
+        <location filename="MyDB.cpp" line="838"/>
         <source>Family</source>
         <translation>Rodina</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="850"/>
+        <location filename="MyDB.cpp" line="839"/>
         <source>Friends</source>
         <translation>Priatelia</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="851"/>
+        <location filename="MyDB.cpp" line="840"/>
         <source>Pets</source>
         <translation>Domáci mazlíčkovia</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="852"/>
+        <location filename="MyDB.cpp" line="841"/>
         <source>Travel</source>
         <translation>Cestovanie</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="853"/>
+        <location filename="MyDB.cpp" line="842"/>
         <source>Landscapes</source>
         <translation>Krajiny</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="854"/>
+        <location filename="MyDB.cpp" line="843"/>
         <source>Portraits</source>
         <translation>Portréty</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="855"/>
+        <location filename="MyDB.cpp" line="844"/>
         <source>Flowers</source>
         <translation>Kvetiny</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="856"/>
+        <location filename="MyDB.cpp" line="845"/>
         <source>Animals</source>
         <translation>Zvieratá</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="857"/>
+        <location filename="MyDB.cpp" line="846"/>
         <source>Pictures</source>
         <translation>Obrázky</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="858"/>
+        <location filename="MyDB.cpp" line="847"/>
         <source>Icons</source>
         <translation>Ikony</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="859"/>
+        <location filename="MyDB.cpp" line="848"/>
         <source>Drawings</source>
         <translation>Kresby</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="860"/>
+        <location filename="MyDB.cpp" line="849"/>
         <source>Videos</source>
         <translation>Video súbory</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="861"/>
+        <location filename="MyDB.cpp" line="850"/>
         <source>Audios</source>
         <translation>Audio súbory</translation>
     </message>
@@ -1968,105 +2006,121 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
 <context>
     <name>DBFilterModel</name>
     <message>
-        <location filename="DBFilterModel.cpp" line="134"/>
+        <location filename="DBFilterModel.cpp" line="136"/>
         <source>Rating</source>
         <translation>Hodnotenie</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="138"/>
+        <location filename="DBFilterModel.cpp" line="140"/>
         <source>Colour Label</source>
         <translation>Farebné značenie</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="142"/>
+        <location filename="DBFilterModel.cpp" line="144"/>
         <source>People</source>
         <translation>Ľudia</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="145"/>
+        <location filename="DBFilterModel.cpp" line="147"/>
         <source>Special Items</source>
         <translation>Špeciálne položky</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="148"/>
+        <location filename="DBFilterModel.cpp" line="150"/>
         <source>Uncategorized</source>
         <translation>Bez kategórie</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="149"/>
+        <location filename="DBFilterModel.cpp" line="151"/>
         <source>No rating</source>
         <translation>Nehodnotené</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="150"/>
+        <location filename="DBFilterModel.cpp" line="152"/>
         <source>No colour label</source>
         <translation>Bez farebného značenia</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="151"/>
+        <location filename="DBFilterModel.cpp" line="153"/>
         <source>All</source>
         <translation>Všetky</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="152"/>
+        <location filename="DBFilterModel.cpp" line="154"/>
         <source>Taken in last 30 days</source>
         <translation>Zhotovené za posledných 30 dní</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="153"/>
+        <location filename="DBFilterModel.cpp" line="155"/>
         <source>Modified in last 30 days</source>
         <translation>Zmenené za posledných 30 dní</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="155"/>
-        <location filename="DBFilterModel.cpp" line="1068"/>
+        <location filename="DBFilterModel.cpp" line="157"/>
+        <location filename="DBFilterModel.cpp" line="1312"/>
         <source>Date</source>
         <translation>Dátum</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="159"/>
+        <location filename="DBFilterModel.cpp" line="161"/>
         <source>Properties</source>
         <translation>Vlastnosti</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="164"/>
+        <location filename="DBFilterModel.cpp" line="166"/>
         <source>Albums</source>
         <translation>Albumy</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="931"/>
-        <location filename="DBFilterModel.cpp" line="1221"/>
-        <location filename="DBFilterModel.cpp" line="1530"/>
-        <location filename="DBFilterModel.cpp" line="1537"/>
-        <location filename="DBFilterModel.cpp" line="1542"/>
-        <location filename="DBFilterModel.cpp" line="1547"/>
-        <location filename="DBFilterModel.cpp" line="1564"/>
-        <location filename="DBFilterModel.cpp" line="1579"/>
+        <location filename="DBFilterModel.cpp" line="168"/>
+        <source>Smart Albums</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DBFilterModel.cpp" line="292"/>
+        <location filename="DBFilterModel.cpp" line="1936"/>
+        <source>No Smart Album</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DBFilterModel.cpp" line="1175"/>
+        <location filename="DBFilterModel.cpp" line="1465"/>
+        <location filename="DBFilterModel.cpp" line="1774"/>
+        <location filename="DBFilterModel.cpp" line="1781"/>
+        <location filename="DBFilterModel.cpp" line="1786"/>
+        <location filename="DBFilterModel.cpp" line="1791"/>
+        <location filename="DBFilterModel.cpp" line="1808"/>
+        <location filename="DBFilterModel.cpp" line="1825"/>
         <source>Unknown</source>
         <translation>Neznáme</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1569"/>
+        <location filename="DBFilterModel.cpp" line="1813"/>
         <source>Landscape</source>
         <translation>Na šírku</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1571"/>
+        <location filename="DBFilterModel.cpp" line="1815"/>
         <source>Portrait</source>
         <translation>Na výšku</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1644"/>
+        <location filename="DBFilterModel.cpp" line="1817"/>
+        <source>Square</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DBFilterModel.cpp" line="1890"/>
         <source>Panoramic</source>
         <translation>Panoramatické</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1670"/>
+        <location filename="DBFilterModel.cpp" line="1916"/>
         <source>No Color Profile</source>
         <translation>Žiaden farebný profil</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="348"/>
+        <location filename="DBFilterModel.cpp" line="409"/>
         <source>Tag (%1)</source>
         <translation>Označené (%1)</translation>
     </message>
@@ -10977,38 +11031,60 @@ Chcete ich odstrániť?</translation>
 <context>
     <name>DlgSearch</name>
     <message>
-        <location filename="DlgSearch.cpp" line="260"/>
+        <location filename="DlgSearch.cpp" line="78"/>
+        <location filename="DlgSearch.cpp" line="186"/>
+        <source>Smart Albums</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSearch.cpp" line="78"/>
+        <location filename="DlgSearch.cpp" line="186"/>
+        <source>Name:</source>
+        <translation type="unfinished">Názov:</translation>
+    </message>
+    <message>
+        <location filename="DlgSearch.cpp" line="178"/>
+        <source>Save</source>
+        <translation type="unfinished">Uložiť</translation>
+    </message>
+    <message>
+        <location filename="DlgSearch.cpp" line="332"/>
         <source>Preset</source>
         <translation>Prednastavené</translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="261"/>
+        <location filename="DlgSearch.cpp" line="333"/>
         <source>Preset search name:</source>
         <translation>Prednastavené vyhľadávanie názvu:</translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="264"/>
+        <location filename="DlgSearch.cpp" line="336"/>
         <source>Save pathname</source>
         <translation>Uložiť názov cesty</translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="376"/>
+        <location filename="DlgSearch.cpp" line="410"/>
+        <source>GROUP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSearch.cpp" line="443"/>
         <source>Files found (%1):</source>
         <translation>Nájdené súbory (%1):</translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="397"/>
+        <location filename="DlgSearch.cpp" line="464"/>
         <source>Searching...</source>
         <translation>Vyhľadávanie...</translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="428"/>
+        <location filename="DlgSearch.cpp" line="496"/>
         <source>Finished.</source>
         <translation>Dokončené.</translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="430"/>
-        <location filename="DlgSearch.cpp" line="431"/>
+        <location filename="DlgSearch.cpp" line="498"/>
+        <location filename="DlgSearch.cpp" line="499"/>
         <source>Finished: %1 file(s) found.</source>
         <oldsource>Finished: %1 file(s) found...</oldsource>
         <translation>Dokončené: %1 súborov nájdených.</translation>
@@ -11055,82 +11131,92 @@ Chcete ich odstrániť?</translation>
         <translation>Hľadať v názvoch priečinkov</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="158"/>
+        <location filename="DlgSearch.ui" line="143"/>
+        <source>Close dialog when browse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSearch.ui" line="165"/>
         <source>Add &gt;&gt;</source>
         <translation>Pridať &gt;&gt;</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="168"/>
+        <location filename="DlgSearch.ui" line="175"/>
         <source>Clear all</source>
         <translation>Vymazať všetky</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="188"/>
+        <location filename="DlgSearch.ui" line="195"/>
         <source>Match</source>
         <translation>Zhoda</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="195"/>
+        <location filename="DlgSearch.ui" line="202"/>
         <source>All</source>
         <translation>Všetky</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="202"/>
+        <location filename="DlgSearch.ui" line="209"/>
         <source>Any</source>
         <translation>Akékoľvek</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="317"/>
+        <location filename="DlgSearch.ui" line="237"/>
+        <source>Save as Smart Album...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSearch.ui" line="348"/>
         <source>Presets: </source>
         <translation>Predvoľby: </translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="334"/>
+        <location filename="DlgSearch.ui" line="365"/>
         <source>Save this request</source>
         <translation>Uložiť túto žiadosť</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="348"/>
+        <location filename="DlgSearch.ui" line="379"/>
         <source>Save current search</source>
         <translation>Uložiť aktuálne hľadanie</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="362"/>
+        <location filename="DlgSearch.ui" line="393"/>
         <source>Delete current search</source>
         <translation>Odstrániť aktuálne hľadanie</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="379"/>
+        <location filename="DlgSearch.ui" line="410"/>
         <source>&lt; Bac&amp;k</source>
         <translation>&lt; &amp;Späť</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="399"/>
+        <location filename="DlgSearch.ui" line="430"/>
         <source>&amp;Search</source>
         <translation>&amp;Hľadať</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="409"/>
+        <location filename="DlgSearch.ui" line="440"/>
         <source>&amp;Browse...</source>
         <translation>&amp;Prehliadať...</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="255"/>
+        <location filename="DlgSearch.ui" line="286"/>
         <source>Current pathname:</source>
         <translation>Aktuálna cesta:</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="416"/>
+        <location filename="DlgSearch.ui" line="447"/>
         <source>Close</source>
         <translation>Zatvoriť</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="423"/>
+        <location filename="DlgSearch.ui" line="454"/>
         <source>Abort</source>
         <translation>Prerušiť</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="150"/>
+        <location filename="DlgSearch.ui" line="157"/>
         <source>Conditions</source>
         <translation>Podmienky</translation>
     </message>
@@ -12587,47 +12673,47 @@ Miniatúru</translation>
         <translation>Prehliadať s XnViewMP</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="292"/>
+        <location filename="DlgSettingsIntegration.cpp" line="379"/>
         <source>Select a program</source>
         <translation>Vybrať program</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="344"/>
+        <location filename="DlgSettingsIntegration.cpp" line="451"/>
         <source>Paths</source>
         <translation>Cesty</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="344"/>
+        <location filename="DlgSettingsIntegration.cpp" line="451"/>
         <source>Please be careful to folder rights by using XnView folder</source>
         <translation>Buďte prosím opatrný s právami pre priečinok pri používaní XnView priečinka</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="534"/>
+        <location filename="DlgSettingsIntegration.cpp" line="641"/>
         <source>XnViewMP is a fast multi-format graphics browser, viewer, and converter. It reads more than 400 file formats.</source>
         <translation>XnViewMP je rýchly multi-formátový grafický prehliadač, zobrazovač a prevodník. Dokáže prečítať viac ako 400 súborových formátov.</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="535"/>
+        <location filename="DlgSettingsIntegration.cpp" line="642"/>
         <source>XnViewMP for Windows</source>
         <translation>XnView MP pre Windows</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="554"/>
+        <location filename="DlgSettingsIntegration.cpp" line="661"/>
         <source>XnView Slide file</source>
         <translation>XnView súbor prezentácie</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="561"/>
+        <location filename="DlgSettingsIntegration.cpp" line="668"/>
         <source>%1 Image file</source>
         <translation>%1 súbor obrázka</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="752"/>
+        <location filename="DlgSettingsIntegration.cpp" line="859"/>
         <source>File Associations</source>
         <translation>Asociácie súborov</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="752"/>
+        <location filename="DlgSettingsIntegration.cpp" line="859"/>
         <source>Please start XnViewMP with admin rights (only the first time).</source>
         <translation>Spustite prosím XnViewMP s administrátorskými právami (iba prvý-krát).</translation>
     </message>
@@ -12641,81 +12727,87 @@ Miniatúru</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="45"/>
-        <source>Add &apos;Browse with XnViewMP&apos; to context menu (requires admin rights)</source>
-        <translation>Pridať &apos;Prehliadať s XnViewMP&apos; do kontextovej ponuky (vyžaduje administrátorské práva)</translation>
+        <source>Add &apos;Browse with XnViewMP&apos; to context menu</source>
+        <oldsource>Add &apos;Browse with XnViewMP&apos; to context menu (requires admin rights)</oldsource>
+        <translation type="unfinished">Pridať &apos;Prehliadať s XnViewMP&apos; do kontextovej ponuky (vyžaduje administrátorské práva)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="54"/>
+        <location filename="DlgSettingsIntegration.ui" line="52"/>
+        <source>Enable shell extension to context menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsIntegration.ui" line="61"/>
         <source>Set file associations...</source>
         <oldsource>Run the File association(s) tool...</oldsource>
         <translation>Nastaviť asociácie súborov...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="90"/>
+        <location filename="DlgSettingsIntegration.ui" line="97"/>
         <source>Paths</source>
         <translation>Cesty</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="120"/>
+        <location filename="DlgSettingsIntegration.ui" line="127"/>
         <source>Settings - General</source>
         <translation>Nastavenia - Všeobecné</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="137"/>
-        <location filename="DlgSettingsIntegration.ui" line="193"/>
-        <location filename="DlgSettingsIntegration.ui" line="243"/>
-        <location filename="DlgSettingsIntegration.ui" line="299"/>
-        <location filename="DlgSettingsIntegration.ui" line="347"/>
+        <location filename="DlgSettingsIntegration.ui" line="144"/>
+        <location filename="DlgSettingsIntegration.ui" line="200"/>
+        <location filename="DlgSettingsIntegration.ui" line="250"/>
+        <location filename="DlgSettingsIntegration.ui" line="306"/>
+        <location filename="DlgSettingsIntegration.ui" line="354"/>
         <source>Current location</source>
         <translation>Aktuálna poloha</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="166"/>
+        <location filename="DlgSettingsIntegration.ui" line="173"/>
         <source>Settings - Other</source>
         <translation>Nastavenia - Ostatné</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="216"/>
+        <location filename="DlgSettingsIntegration.ui" line="223"/>
         <source>Database - Catalog</source>
         <translation>Databáza - Katalóg</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="272"/>
+        <location filename="DlgSettingsIntegration.ui" line="279"/>
         <source>Database - Thumbnails</source>
         <translation>Databáza - Miniatúry</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="313"/>
+        <location filename="DlgSettingsIntegration.ui" line="320"/>
         <source>Configuration</source>
         <translation>Konfigurácia</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="324"/>
+        <location filename="DlgSettingsIntegration.ui" line="331"/>
         <source>Current user (recommended)</source>
         <translation>Súčasný používateľ (odporúčané)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="329"/>
+        <location filename="DlgSettingsIntegration.ui" line="336"/>
         <source>Local machine</source>
         <translation>Lokálny počítač</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="334"/>
+        <location filename="DlgSettingsIntegration.ui" line="341"/>
         <source>Portable</source>
         <translation>Prenosný</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="339"/>
+        <location filename="DlgSettingsIntegration.ui" line="346"/>
         <source>Custom</source>
         <translation>Vlastný</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="381"/>
+        <location filename="DlgSettingsIntegration.ui" line="388"/>
         <source>ExifTool path</source>
         <translation>Cesta k ExifTool</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="398"/>
+        <location filename="DlgSettingsIntegration.ui" line="405"/>
         <source>...</source>
         <translation>...</translation>
     </message>
@@ -12730,7 +12822,7 @@ Miniatúru</translation>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="132"/>
         <location filename="DlgSettingsInterface.cpp" line="177"/>
-        <location filename="DlgSettingsInterface.cpp" line="324"/>
+        <location filename="DlgSettingsInterface.cpp" line="327"/>
         <source>-- SEPARATOR --</source>
         <translation>-- ODDEĽOVAČ --</translation>
     </message>
@@ -12751,39 +12843,39 @@ Miniatúru</translation>
         <translation>-- NOVÁ ŠABLÓNA XMP --</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="491"/>
+        <location filename="DlgSettingsInterface.cpp" line="494"/>
         <source>Browse mode</source>
         <translation>Prehliadací režim</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="492"/>
+        <location filename="DlgSettingsInterface.cpp" line="495"/>
         <source>Viewer mode</source>
         <oldsource>View mode</oldsource>
         <translation>Zobrazovací režim</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="849"/>
-        <location filename="DlgSettingsInterface.cpp" line="869"/>
+        <location filename="DlgSettingsInterface.cpp" line="852"/>
+        <location filename="DlgSettingsInterface.cpp" line="872"/>
         <source>Set Icon...</source>
         <translation>Nastaviť ikonu...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1047"/>
+        <location filename="DlgSettingsInterface.cpp" line="1050"/>
         <source>Set label</source>
         <translation>Nastaviť popis</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1048"/>
+        <location filename="DlgSettingsInterface.cpp" line="1051"/>
         <source>Label:</source>
         <translation>Popis:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1196"/>
+        <location filename="DlgSettingsInterface.cpp" line="1199"/>
         <source>This shortcut is already assigned for </source>
         <translation>Táto klávesová skratka je už priradená pre </translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1212"/>
+        <location filename="DlgSettingsInterface.cpp" line="1215"/>
         <source>%1 is already assigned to:
 %2
 
@@ -12794,22 +12886,22 @@ Do you want to reassign?</source>
 Chcete ho priradiť znova?</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1261"/>
+        <location filename="DlgSettingsInterface.cpp" line="1264"/>
         <source>Load toolbar</source>
         <translation>Načítať panel s nástrojmi</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1279"/>
+        <location filename="DlgSettingsInterface.cpp" line="1282"/>
         <source>Save toolbar</source>
         <translation>Uložiť panel s nástrojmi</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1335"/>
+        <location filename="DlgSettingsInterface.cpp" line="1338"/>
         <source>Load shortcuts</source>
         <translation>Načítať klávesové skratky</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1366"/>
+        <location filename="DlgSettingsInterface.cpp" line="1369"/>
         <source>Save shortcuts</source>
         <translation>Uložiť klávesové skratky</translation>
     </message>
@@ -16376,13 +16468,13 @@ Chcette pokračovať?</translation>
 <context>
     <name>FavoritesView</name>
     <message>
-        <location filename="FavoritesView.cpp" line="199"/>
+        <location filename="FavoritesView.cpp" line="211"/>
         <source>Delete</source>
         <translation>Odstrániť</translation>
     </message>
     <message>
-        <location filename="FavoritesView.cpp" line="104"/>
-        <location filename="FavoritesView.cpp" line="200"/>
+        <location filename="FavoritesView.cpp" line="115"/>
+        <location filename="FavoritesView.cpp" line="212"/>
         <source>Rename</source>
         <translation>Premenovať</translation>
     </message>
@@ -16402,24 +16494,29 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     </message>
     <message>
-        <location filename="FavoritesView.cpp" line="103"/>
+        <location filename="FavoritesView.cpp" line="106"/>
+        <source>Show files in subfolder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="FavoritesView.cpp" line="114"/>
         <source>Remove</source>
         <translation>Odobrať</translation>
     </message>
     <message>
-        <location filename="FavoritesView.cpp" line="106"/>
-        <location filename="FavoritesView.cpp" line="202"/>
+        <location filename="FavoritesView.cpp" line="117"/>
+        <location filename="FavoritesView.cpp" line="214"/>
         <source>New subfolder</source>
         <translation>Nový podpriečinok</translation>
     </message>
     <message>
-        <location filename="FavoritesView.cpp" line="110"/>
-        <location filename="FavoritesView.cpp" line="204"/>
+        <location filename="FavoritesView.cpp" line="121"/>
+        <location filename="FavoritesView.cpp" line="216"/>
         <source>Edit pathname...</source>
         <translation>Upraviť cestu...</translation>
     </message>
     <message>
-        <location filename="FavoritesView.cpp" line="181"/>
+        <location filename="FavoritesView.cpp" line="193"/>
         <source>New Folder</source>
         <translation>Nový priečinok</translation>
     </message>
@@ -16460,17 +16557,17 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
 <context>
     <name>FileListViewEx</name>
     <message>
-        <location filename="FileListViewEx.cpp" line="229"/>
+        <location filename="FileListViewEx.cpp" line="230"/>
         <source>All</source>
         <translation>Všetky</translation>
     </message>
     <message>
-        <location filename="FileListViewEx.cpp" line="233"/>
+        <location filename="FileListViewEx.cpp" line="234"/>
         <source>None</source>
         <translation>Žiadne</translation>
     </message>
     <message>
-        <location filename="FileListViewEx.cpp" line="282"/>
+        <location filename="FileListViewEx.cpp" line="283"/>
         <source>Paste filenames</source>
         <translation>Vložiť názvy súborov</translation>
     </message>
@@ -16651,19 +16748,19 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <name>Info</name>
     <message>
         <location filename="InfoPropertiesView.cpp" line="68"/>
-        <location filename="InfoPropertiesView.cpp" line="644"/>
-        <location filename="InfoPropertiesView.cpp" line="662"/>
-        <location filename="InfoPropertiesView.cpp" line="681"/>
-        <location filename="SearchField.cpp" line="31"/>
+        <location filename="InfoPropertiesView.cpp" line="645"/>
+        <location filename="InfoPropertiesView.cpp" line="663"/>
+        <location filename="InfoPropertiesView.cpp" line="682"/>
+        <location filename="SearchField.cpp" line="36"/>
         <location filename="TemplateData.cpp" line="2567"/>
         <source>Format</source>
         <translation>Formát</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="69"/>
-        <location filename="InfoPropertiesView.cpp" line="647"/>
+        <location filename="InfoPropertiesView.cpp" line="648"/>
         <location filename="ItemModel.cpp" line="1103"/>
-        <location filename="SearchField.cpp" line="32"/>
+        <location filename="SearchField.cpp" line="37"/>
         <location filename="TemplateData.cpp" line="2570"/>
         <location filename="TemplateData.cpp" line="2593"/>
         <source>Width</source>
@@ -16671,43 +16768,49 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="70"/>
-        <location filename="InfoPropertiesView.cpp" line="648"/>
+        <location filename="InfoPropertiesView.cpp" line="649"/>
         <location filename="ItemModel.cpp" line="1105"/>
-        <location filename="SearchField.cpp" line="33"/>
+        <location filename="SearchField.cpp" line="38"/>
         <location filename="TemplateData.cpp" line="2571"/>
         <location filename="TemplateData.cpp" line="2594"/>
         <source>Height</source>
         <translation>Výška</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="72"/>
+        <location filename="InfoPropertiesView.cpp" line="71"/>
         <source>Dimension</source>
         <translation>Rozmer</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="73"/>
+        <location filename="InfoPropertiesView.cpp" line="72"/>
         <source># of bits</source>
         <translation>Počet bitov</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="75"/>
-        <location filename="InfoPropertiesView.cpp" line="77"/>
+        <location filename="InfoPropertiesView.cpp" line="74"/>
+        <location filename="InfoPropertiesView.cpp" line="76"/>
+        <location filename="InfoPropertiesView.cpp" line="78"/>
         <location filename="TemplateData.cpp" line="2568"/>
         <source>Color model</source>
         <translation>Farebný model</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="75"/>
+        <location filename="InfoPropertiesView.cpp" line="74"/>
         <source>Black&amp;White</source>
         <translation>Čiernobiely</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="79"/>
+        <location filename="InfoPropertiesView.cpp" line="76"/>
+        <source>Greyscale</source>
+        <translation type="unfinished">Stupnica šedej</translation>
+    </message>
+    <message>
+        <location filename="InfoPropertiesView.cpp" line="80"/>
         <source>Colors used</source>
         <translation>Použitých farieb</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="81"/>
+        <location filename="InfoPropertiesView.cpp" line="82"/>
         <location filename="ItemModel.cpp" line="1107"/>
         <location filename="TemplateData.cpp" line="2574"/>
         <location filename="TemplateData.cpp" line="2596"/>
@@ -16715,219 +16818,219 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <translation>DPI</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="86"/>
+        <location filename="InfoPropertiesView.cpp" line="87"/>
         <location filename="ItemModel.cpp" line="1085"/>
         <source>Print size</source>
         <translation>Veľkosť pre tlač</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="89"/>
-        <location filename="InfoPropertiesView.cpp" line="94"/>
+        <location filename="InfoPropertiesView.cpp" line="90"/>
+        <location filename="InfoPropertiesView.cpp" line="95"/>
         <location filename="TemplateData.cpp" line="2569"/>
         <source>Compression</source>
         <translation>Kompresia</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="227"/>
-        <location filename="InfoPropertiesView.cpp" line="89"/>
+        <location filename="InfoPropertiesView.cpp" line="90"/>
         <source>None</source>
         <translation>Žiadna</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="99"/>
+        <location filename="InfoPropertiesView.cpp" line="100"/>
         <source>Progressive mode</source>
         <translation>Progresívný režim</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="108"/>
+        <location filename="InfoPropertiesView.cpp" line="109"/>
         <source>Subsampling</source>
         <oldsource>Sub-sampling</oldsource>
         <translation>Podvzorkovanie</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="112"/>
+        <location filename="InfoPropertiesView.cpp" line="113"/>
         <source>Estimated quality</source>
         <translation>Odhadovaná kvalita</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="114"/>
+        <location filename="InfoPropertiesView.cpp" line="115"/>
         <source>Images/frames count</source>
         <translation>Počet obrázkov/snímkov</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="131"/>
+        <location filename="InfoPropertiesView.cpp" line="132"/>
         <source>Origin</source>
         <translation>Pôvod</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="134"/>
-        <location filename="InfoPropertiesView.cpp" line="137"/>
+        <location filename="InfoPropertiesView.cpp" line="135"/>
+        <location filename="InfoPropertiesView.cpp" line="138"/>
         <source>Embedded comment</source>
         <translation>Zapustený komentár</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="245"/>
-        <location filename="InfoPropertiesView.cpp" line="335"/>
+        <location filename="InfoPropertiesView.cpp" line="246"/>
+        <location filename="InfoPropertiesView.cpp" line="336"/>
         <source>Info</source>
         <translation>Info</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="250"/>
+        <location filename="InfoPropertiesView.cpp" line="251"/>
         <source>Date</source>
         <translation>Dátum</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="252"/>
-        <location filename="InfoPropertiesView.cpp" line="342"/>
+        <location filename="InfoPropertiesView.cpp" line="253"/>
+        <location filename="InfoPropertiesView.cpp" line="343"/>
         <source>Lens ID</source>
         <translation>ID šošovky</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="340"/>
+        <location filename="InfoPropertiesView.cpp" line="341"/>
         <source>Date taken</source>
         <translation>Dátum zhotovenia</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="344"/>
+        <location filename="InfoPropertiesView.cpp" line="345"/>
         <source>Lens model</source>
         <translation>Model objektívu</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="346"/>
+        <location filename="InfoPropertiesView.cpp" line="347"/>
         <source>Focal length (mm)</source>
         <translation>Ohnisková vzdialenosť (mm)</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="364"/>
+        <location filename="InfoPropertiesView.cpp" line="365"/>
         <source>Description</source>
         <translation>Popis</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="369"/>
+        <location filename="InfoPropertiesView.cpp" line="370"/>
         <source>Manufacturer</source>
         <translation>Výrobca</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="645"/>
+        <location filename="InfoPropertiesView.cpp" line="646"/>
         <source>Encoded date</source>
         <translation>Dátum digitalizácie</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="646"/>
-        <location filename="InfoPropertiesView.cpp" line="666"/>
-        <location filename="InfoPropertiesView.cpp" line="685"/>
+        <location filename="InfoPropertiesView.cpp" line="647"/>
+        <location filename="InfoPropertiesView.cpp" line="667"/>
+        <location filename="InfoPropertiesView.cpp" line="686"/>
         <source>Codec</source>
         <translation>Kodek</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="649"/>
-        <location filename="InfoPropertiesView.cpp" line="667"/>
-        <location filename="InfoPropertiesView.cpp" line="686"/>
+        <location filename="InfoPropertiesView.cpp" line="650"/>
+        <location filename="InfoPropertiesView.cpp" line="668"/>
+        <location filename="InfoPropertiesView.cpp" line="687"/>
         <source>Duration</source>
         <translation>Trvanie</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="651"/>
-        <location filename="InfoPropertiesView.cpp" line="669"/>
-        <location filename="InfoPropertiesView.cpp" line="688"/>
+        <location filename="InfoPropertiesView.cpp" line="652"/>
+        <location filename="InfoPropertiesView.cpp" line="670"/>
+        <location filename="InfoPropertiesView.cpp" line="689"/>
         <source>Bit rate</source>
         <translation>Bitová rýchlosť</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="652"/>
+        <location filename="InfoPropertiesView.cpp" line="653"/>
         <source>Aspect ratio</source>
         <translation>Pomer strán</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="653"/>
+        <location filename="InfoPropertiesView.cpp" line="654"/>
         <source>Frame rate mode</source>
         <translation>Režim frekvencie snímok</translation>
-    </message>
-    <message>
-        <location filename="InfoPropertiesView.cpp" line="654"/>
-        <location filename="InfoPropertiesView.cpp" line="671"/>
-        <location filename="InfoPropertiesView.cpp" line="690"/>
-        <source>Frame rate</source>
-        <translation>Frekvencia snímok</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="655"/>
         <location filename="InfoPropertiesView.cpp" line="672"/>
         <location filename="InfoPropertiesView.cpp" line="691"/>
+        <source>Frame rate</source>
+        <translation>Frekvencia snímok</translation>
+    </message>
+    <message>
+        <location filename="InfoPropertiesView.cpp" line="656"/>
+        <location filename="InfoPropertiesView.cpp" line="673"/>
+        <location filename="InfoPropertiesView.cpp" line="692"/>
         <source>Compression mode</source>
         <translation>Režim kompresie</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="656"/>
+        <location filename="InfoPropertiesView.cpp" line="657"/>
         <source>Bits/sample</source>
         <translation>Bitov na vzorku</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="663"/>
-        <location filename="InfoPropertiesView.cpp" line="682"/>
+        <location filename="InfoPropertiesView.cpp" line="664"/>
+        <location filename="InfoPropertiesView.cpp" line="683"/>
         <source>Format version</source>
         <translation>Verzia formátu</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="664"/>
-        <location filename="InfoPropertiesView.cpp" line="683"/>
+        <location filename="InfoPropertiesView.cpp" line="665"/>
+        <location filename="InfoPropertiesView.cpp" line="684"/>
         <source>Format profile</source>
         <translation>Profil formátu</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="665"/>
-        <location filename="InfoPropertiesView.cpp" line="684"/>
+        <location filename="InfoPropertiesView.cpp" line="666"/>
+        <location filename="InfoPropertiesView.cpp" line="685"/>
         <source>Format settings</source>
         <translation>Nastavenia formátu</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="668"/>
-        <location filename="InfoPropertiesView.cpp" line="687"/>
+        <location filename="InfoPropertiesView.cpp" line="669"/>
+        <location filename="InfoPropertiesView.cpp" line="688"/>
         <source>Bit rate mode</source>
         <translation>Režim frekvencie snímok</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="670"/>
-        <location filename="InfoPropertiesView.cpp" line="689"/>
+        <location filename="InfoPropertiesView.cpp" line="671"/>
+        <location filename="InfoPropertiesView.cpp" line="690"/>
         <source>Sampling rate</source>
         <translation>Vzorkovacia frekvencia</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="693"/>
+        <location filename="InfoPropertiesView.cpp" line="694"/>
         <source>Album</source>
         <translation>Album</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="694"/>
+        <location filename="InfoPropertiesView.cpp" line="695"/>
         <source>Title</source>
         <translation>Názov</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="695"/>
+        <location filename="InfoPropertiesView.cpp" line="696"/>
         <source>Performer</source>
         <translation>Interpret</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="696"/>
+        <location filename="InfoPropertiesView.cpp" line="697"/>
         <source>Genre</source>
         <translation>Žáner</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="697"/>
+        <location filename="InfoPropertiesView.cpp" line="698"/>
         <source>Recorded date</source>
         <translation>Dátum nahrávky</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="248"/>
-        <location filename="InfoPropertiesView.cpp" line="338"/>
-        <location filename="InfoPropertiesView.cpp" line="374"/>
+        <location filename="InfoPropertiesView.cpp" line="249"/>
+        <location filename="InfoPropertiesView.cpp" line="339"/>
+        <location filename="InfoPropertiesView.cpp" line="375"/>
         <source>Model</source>
         <translation>Model</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="379"/>
-        <location filename="InfoPropertiesView.cpp" line="658"/>
-        <location filename="InfoPropertiesView.cpp" line="698"/>
+        <location filename="InfoPropertiesView.cpp" line="380"/>
+        <location filename="InfoPropertiesView.cpp" line="659"/>
+        <location filename="InfoPropertiesView.cpp" line="699"/>
         <source>Copyright</source>
         <translation>Autorské právo</translation>
     </message>
@@ -16938,7 +17041,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1089"/>
-        <location filename="SearchField.cpp" line="25"/>
+        <location filename="SearchField.cpp" line="30"/>
         <location filename="TemplateData.cpp" line="2778"/>
         <source>Rating</source>
         <translation>Hodnotenie</translation>
@@ -16959,28 +17062,28 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <translation>Cesta</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="659"/>
-        <location filename="InfoPropertiesView.cpp" line="699"/>
+        <location filename="InfoPropertiesView.cpp" line="660"/>
+        <location filename="InfoPropertiesView.cpp" line="700"/>
         <location filename="ItemModel.cpp" line="1095"/>
-        <location filename="SearchField.cpp" line="36"/>
+        <location filename="SearchField.cpp" line="42"/>
         <location filename="TemplateData.cpp" line="2573"/>
         <source>Comment</source>
         <translation>Komentár</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1101"/>
-        <location filename="SearchField.cpp" line="34"/>
+        <location filename="SearchField.cpp" line="40"/>
         <location filename="TemplateData.cpp" line="2583"/>
         <source>Ratio</source>
         <translation>Pomer strán</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1460"/>
+        <location filename="DBFilterModel.cpp" line="1704"/>
         <source>Aspect Ratio</source>
         <translation>Pomer strán</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1496"/>
+        <location filename="DBFilterModel.cpp" line="1740"/>
         <source>File type</source>
         <translation>Typ súboru</translation>
     </message>
@@ -16990,40 +17093,55 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <translation>Prípona</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="23"/>
+        <location filename="SearchField.cpp" line="27"/>
         <source>Pathname</source>
         <translation>Cesta</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="131"/>
+        <location filename="SearchField.cpp" line="39"/>
+        <source>Bits per sample</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="SearchField.cpp" line="43"/>
+        <source>All standard fields</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="SearchField.cpp" line="44"/>
+        <source>ExifTool value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="SearchField.cpp" line="139"/>
         <source>All fields (Number)</source>
         <translation>Všetky polia (číslo)</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="132"/>
+        <location filename="SearchField.cpp" line="140"/>
         <source>Field</source>
         <translation>Pole</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="133"/>
+        <location filename="SearchField.cpp" line="141"/>
         <source>Field (Number)</source>
         <translation>Pole (číslo)</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1111"/>
-        <location filename="SearchField.cpp" line="24"/>
+        <location filename="SearchField.cpp" line="29"/>
         <location filename="TemplateData.cpp" line="2782"/>
         <source>Categories</source>
         <translation>Kategórie</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="26"/>
+        <location filename="SearchField.cpp" line="31"/>
         <location filename="TemplateData.cpp" line="2780"/>
         <source>Color label</source>
         <translation>Farebné značenie</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="27"/>
+        <location filename="SearchField.cpp" line="32"/>
         <source>File size</source>
         <translation>Veľkosť súboru</translation>
     </message>
@@ -17032,16 +17150,15 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="IptcEditBase.cpp" line="83"/>
         <location filename="IptcEditBase.cpp" line="115"/>
         <location filename="ItemModel.cpp" line="1097"/>
-        <location filename="SearchField.cpp" line="35"/>
+        <location filename="SearchField.cpp" line="41"/>
         <location filename="TemplateData.cpp" line="2802"/>
         <source>Annotation</source>
         <translation>Poznámka</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="37"/>
-        <location filename="SearchField.cpp" line="68"/>
-        <location filename="SearchField.cpp" line="84"/>
-        <location filename="SearchField.cpp" line="130"/>
+        <location filename="SearchField.cpp" line="75"/>
+        <location filename="SearchField.cpp" line="92"/>
+        <location filename="SearchField.cpp" line="138"/>
         <source>All fields</source>
         <translation>Všetky polia</translation>
     </message>
@@ -17080,6 +17197,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="EditXMPWidget.cpp" line="359"/>
         <location filename="IptcEditBase.cpp" line="73"/>
         <location filename="IptcEditBase.cpp" line="111"/>
+        <location filename="SearchField.cpp" line="25"/>
         <location filename="TemplateData.cpp" line="2790"/>
         <source>Filename</source>
         <translation>Názov súboru</translation>
@@ -17107,6 +17225,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="EditXMPWidget.cpp" line="362"/>
         <location filename="IptcEditBase.cpp" line="76"/>
+        <location filename="SearchField.cpp" line="28"/>
         <location filename="TemplateData.cpp" line="2794"/>
         <source>Folder name</source>
         <translation>Názov priečinka</translation>
@@ -17114,7 +17233,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="EditXMPWidget.cpp" line="363"/>
         <location filename="IptcEditBase.cpp" line="77"/>
-        <location filename="SearchField.cpp" line="30"/>
+        <location filename="SearchField.cpp" line="35"/>
         <location filename="TemplateData.cpp" line="2795"/>
         <source>Accessed date</source>
         <translation>Dátum posledného prístupu</translation>
@@ -17122,7 +17241,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="EditXMPWidget.cpp" line="364"/>
         <location filename="IptcEditBase.cpp" line="78"/>
-        <location filename="SearchField.cpp" line="29"/>
+        <location filename="SearchField.cpp" line="34"/>
         <location filename="TemplateData.cpp" line="2796"/>
         <source>Creation date</source>
         <translation>Dátum vytvorenia</translation>
@@ -17131,7 +17250,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="DlgImport.cpp" line="230"/>
         <location filename="EditXMPWidget.cpp" line="365"/>
         <location filename="IptcEditBase.cpp" line="79"/>
-        <location filename="SearchField.cpp" line="28"/>
+        <location filename="SearchField.cpp" line="33"/>
         <location filename="TemplateData.cpp" line="2797"/>
         <source>Modified date</source>
         <translation>Dátum poslednej zmeny</translation>
@@ -17201,6 +17320,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <translation>Upraviť dátum</translation>
     </message>
     <message>
+        <location filename="SearchField.cpp" line="26"/>
         <location filename="TemplateData.cpp" line="2791"/>
         <source>Filename (with extension)</source>
         <translation>Názov súboru (s príponou)</translation>
@@ -17525,84 +17645,84 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <translation>Poznámky zhotoviteľa</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1464"/>
+        <location filename="DBFilterModel.cpp" line="1708"/>
         <location filename="ItemModel.cpp" line="1114"/>
-        <location filename="SearchField.cpp" line="71"/>
+        <location filename="SearchField.cpp" line="78"/>
         <location filename="TemplateData.cpp" line="2605"/>
         <source>Maker</source>
         <translation>Zhotoviteľ</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1468"/>
+        <location filename="DBFilterModel.cpp" line="1712"/>
         <location filename="ItemModel.cpp" line="1116"/>
-        <location filename="SearchField.cpp" line="72"/>
+        <location filename="SearchField.cpp" line="79"/>
         <location filename="TemplateData.cpp" line="2606"/>
         <source>Model</source>
         <translation>Model</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1472"/>
+        <location filename="DBFilterModel.cpp" line="1716"/>
         <source>Lens</source>
         <translation>Šošovka</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1480"/>
+        <location filename="DBFilterModel.cpp" line="1724"/>
         <location filename="ItemModel.cpp" line="1118"/>
         <source>ISO</source>
         <translation>ISO</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1488"/>
+        <location filename="DBFilterModel.cpp" line="1732"/>
         <source>Shutter Speed</source>
         <translation>Rýchlosť uzávierky</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1500"/>
+        <location filename="DBFilterModel.cpp" line="1744"/>
         <source>Colour Space</source>
         <translation>Farebný priestor</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1581"/>
+        <location filename="DBFilterModel.cpp" line="1827"/>
         <source>Not Defined</source>
         <translation>Nedefinované</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1583"/>
+        <location filename="DBFilterModel.cpp" line="1829"/>
         <source>Manual</source>
         <translation>Návod</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1585"/>
+        <location filename="DBFilterModel.cpp" line="1831"/>
         <source>Program AE</source>
         <translation>Program AE</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1587"/>
+        <location filename="DBFilterModel.cpp" line="1833"/>
         <source>Aperture-priority AE</source>
         <translation>Priorita clony AE</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1589"/>
+        <location filename="DBFilterModel.cpp" line="1835"/>
         <source>Shutter speed priority AE</source>
         <translation>Priorita rýchlosti uzávierky AE</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1591"/>
+        <location filename="DBFilterModel.cpp" line="1837"/>
         <source>Creative</source>
         <translation>Kreatívny</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1593"/>
+        <location filename="DBFilterModel.cpp" line="1839"/>
         <source>Action</source>
         <translation>Operácia</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1595"/>
+        <location filename="DBFilterModel.cpp" line="1841"/>
         <source>Portrait</source>
         <translation>Na výšku</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1597"/>
+        <location filename="DBFilterModel.cpp" line="1843"/>
         <source>Landscape</source>
         <translation>Na šírku</translation>
     </message>
@@ -17617,7 +17737,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <translation>Expozičný čas</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1476"/>
+        <location filename="DBFilterModel.cpp" line="1720"/>
         <location filename="ItemModel.cpp" line="1124"/>
         <source>Focal Length</source>
         <translation>Ohnisková vzdialenosť</translation>
@@ -17641,33 +17761,33 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <translation>Zemepisná dĺžka</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="74"/>
+        <location filename="SearchField.cpp" line="81"/>
         <location filename="TemplateData.cpp" line="2618"/>
         <source>Software</source>
         <translation>Softvér</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="73"/>
+        <location filename="SearchField.cpp" line="80"/>
         <location filename="TemplateData.cpp" line="2607"/>
         <source>Artist</source>
         <translation>Vytvoril</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="75"/>
+        <location filename="SearchField.cpp" line="82"/>
         <location filename="TemplateData.cpp" line="2631"/>
         <source>User comment</source>
         <translation>Užívateľský komentár</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1484"/>
+        <location filename="DBFilterModel.cpp" line="1728"/>
         <location filename="ItemModel.cpp" line="1128"/>
-        <location filename="SearchField.cpp" line="81"/>
+        <location filename="SearchField.cpp" line="88"/>
         <location filename="TemplateData.cpp" line="2639"/>
         <source>F-Number</source>
         <translation>F-číslo</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="82"/>
+        <location filename="SearchField.cpp" line="89"/>
         <source>Exposure time (s)</source>
         <translation>Čas expozície (s)</translation>
     </message>
@@ -17677,13 +17797,13 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <translation>Autorské právo</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="76"/>
+        <location filename="SearchField.cpp" line="83"/>
         <location filename="TemplateData.cpp" line="2609"/>
         <source>Date/time modified</source>
         <translation>Dátum/čas poslednej zmeny</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1456"/>
+        <location filename="DBFilterModel.cpp" line="1700"/>
         <location filename="TemplateData.cpp" line="2610"/>
         <source>Orientation</source>
         <translation>Orientácia</translation>
@@ -17754,13 +17874,13 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <translation>XP Predmet</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="77"/>
+        <location filename="SearchField.cpp" line="84"/>
         <location filename="TemplateData.cpp" line="2632"/>
         <source>Date taken</source>
         <translation>Dátum zhotovenia</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="78"/>
+        <location filename="SearchField.cpp" line="85"/>
         <location filename="TemplateData.cpp" line="2633"/>
         <source>Date digitized</source>
         <translation>Dátum digitalizácie</translation>
@@ -17772,7 +17892,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <translation>Expozičný čas (s)</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1492"/>
+        <location filename="DBFilterModel.cpp" line="1736"/>
         <location filename="TemplateData.cpp" line="2635"/>
         <source>Exposure Program</source>
         <translation>Expozičný program</translation>
@@ -17793,7 +17913,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <translation>Expozičný index</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="80"/>
+        <location filename="SearchField.cpp" line="87"/>
         <location filename="TemplateData.cpp" line="2640"/>
         <source>Focal length (mm)</source>
         <oldsource>Focal length [mm]</oldsource>
@@ -17805,7 +17925,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <translation>35mm ohnisková vzdialenosť</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="79"/>
+        <location filename="SearchField.cpp" line="86"/>
         <location filename="TemplateData.cpp" line="2642"/>
         <source>ISO Value</source>
         <translation>Hodnota ISO</translation>
@@ -17847,7 +17967,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <translation>Umiestnenie objektu</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="83"/>
+        <location filename="SearchField.cpp" line="90"/>
         <location filename="TemplateData.cpp" line="2651"/>
         <source>Flash</source>
         <translation>Blesk</translation>
@@ -18003,6 +18123,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <translation>Výrobca objektívu</translation>
     </message>
     <message>
+        <location filename="SearchField.cpp" line="91"/>
         <location filename="TemplateData.cpp" line="2682"/>
         <source>Lens Model</source>
         <translation>Model objektívu</translation>
@@ -18120,7 +18241,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="InfoIPTCView.cpp" line="25"/>
         <location filename="IptcHelper.cpp" line="17"/>
         <location filename="ItemModel.cpp" line="1135"/>
-        <location filename="SearchField.cpp" line="40"/>
+        <location filename="SearchField.cpp" line="47"/>
         <location filename="TemplateData.cpp" line="2706"/>
         <source>Caption</source>
         <translation>Popis</translation>
@@ -18130,8 +18251,8 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="InfoIPTCView.cpp" line="27"/>
         <location filename="IptcHelper.cpp" line="19"/>
         <location filename="ItemModel.cpp" line="1137"/>
-        <location filename="SearchField.cpp" line="41"/>
-        <location filename="SearchField.cpp" line="93"/>
+        <location filename="SearchField.cpp" line="48"/>
+        <location filename="SearchField.cpp" line="101"/>
         <location filename="TemplateData.cpp" line="2707"/>
         <location filename="TemplateData.cpp" line="2760"/>
         <source>Caption writer</source>
@@ -18142,8 +18263,8 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="InfoIPTCView.cpp" line="28"/>
         <location filename="IptcHelper.cpp" line="20"/>
         <location filename="ItemModel.cpp" line="1139"/>
-        <location filename="SearchField.cpp" line="42"/>
-        <location filename="SearchField.cpp" line="97"/>
+        <location filename="SearchField.cpp" line="49"/>
+        <location filename="SearchField.cpp" line="105"/>
         <location filename="TemplateData.cpp" line="2708"/>
         <location filename="TemplateData.cpp" line="2764"/>
         <source>Headline</source>
@@ -18152,7 +18273,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="29"/>
         <location filename="IptcHelper.cpp" line="21"/>
-        <location filename="SearchField.cpp" line="43"/>
+        <location filename="SearchField.cpp" line="50"/>
         <location filename="TemplateData.cpp" line="2709"/>
         <source>Special instructions</source>
         <translation>Špeciálne pokyny</translation>
@@ -18162,14 +18283,14 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="InfoIPTCView.cpp" line="34"/>
         <location filename="IptcHelper.cpp" line="23"/>
         <location filename="ItemModel.cpp" line="1141"/>
-        <location filename="SearchField.cpp" line="44"/>
+        <location filename="SearchField.cpp" line="51"/>
         <location filename="TemplateData.cpp" line="2714"/>
         <source>Keywords</source>
         <translation>Kľúčové slová</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="35"/>
-        <location filename="SearchField.cpp" line="45"/>
+        <location filename="SearchField.cpp" line="52"/>
         <location filename="TemplateData.cpp" line="2715"/>
         <source>Category</source>
         <translation>Kategória</translation>
@@ -18177,7 +18298,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="36"/>
         <location filename="IptcHelper.cpp" line="25"/>
-        <location filename="SearchField.cpp" line="46"/>
+        <location filename="SearchField.cpp" line="53"/>
         <location filename="TemplateData.cpp" line="2716"/>
         <source>Supplemental categories</source>
         <translation>Doplnkové kategórie</translation>
@@ -18186,8 +18307,8 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="InfoIPTCView.cpp" line="41"/>
         <location filename="IptcHelper.cpp" line="31"/>
         <location filename="ItemModel.cpp" line="1153"/>
-        <location filename="SearchField.cpp" line="47"/>
-        <location filename="SearchField.cpp" line="89"/>
+        <location filename="SearchField.cpp" line="54"/>
+        <location filename="SearchField.cpp" line="97"/>
         <location filename="TemplateData.cpp" line="2721"/>
         <location filename="TemplateData.cpp" line="2756"/>
         <source>Copyright</source>
@@ -18197,7 +18318,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="InfoIPTCView.cpp" line="42"/>
         <location filename="IptcHelper.cpp" line="27"/>
         <location filename="ItemModel.cpp" line="1145"/>
-        <location filename="SearchField.cpp" line="48"/>
+        <location filename="SearchField.cpp" line="55"/>
         <location filename="TemplateData.cpp" line="2722"/>
         <source>Byline</source>
         <translation>Meno autora</translation>
@@ -18206,7 +18327,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="InfoIPTCView.cpp" line="43"/>
         <location filename="IptcHelper.cpp" line="28"/>
         <location filename="ItemModel.cpp" line="1147"/>
-        <location filename="SearchField.cpp" line="49"/>
+        <location filename="SearchField.cpp" line="56"/>
         <location filename="TemplateData.cpp" line="2723"/>
         <source>Byline title</source>
         <translation>Titul autora</translation>
@@ -18222,8 +18343,8 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="InfoIPTCView.cpp" line="45"/>
         <location filename="IptcHelper.cpp" line="30"/>
         <location filename="ItemModel.cpp" line="1151"/>
-        <location filename="SearchField.cpp" line="51"/>
-        <location filename="SearchField.cpp" line="99"/>
+        <location filename="SearchField.cpp" line="58"/>
+        <location filename="SearchField.cpp" line="107"/>
         <location filename="TemplateData.cpp" line="2725"/>
         <location filename="TemplateData.cpp" line="2766"/>
         <source>Source</source>
@@ -18232,7 +18353,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="50"/>
         <location filename="IptcHelper.cpp" line="34"/>
-        <location filename="SearchField.cpp" line="52"/>
+        <location filename="SearchField.cpp" line="59"/>
         <location filename="TemplateData.cpp" line="2730"/>
         <source>Edit status</source>
         <translation>Stav spracovania</translation>
@@ -18240,7 +18361,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="51"/>
         <location filename="IptcHelper.cpp" line="37"/>
-        <location filename="SearchField.cpp" line="55"/>
+        <location filename="SearchField.cpp" line="62"/>
         <location filename="TemplateData.cpp" line="2733"/>
         <source>Job ID</source>
         <translation>ID procesu</translation>
@@ -18248,7 +18369,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="52"/>
         <location filename="IptcHelper.cpp" line="38"/>
-        <location filename="SearchField.cpp" line="56"/>
+        <location filename="SearchField.cpp" line="63"/>
         <location filename="TemplateData.cpp" line="2734"/>
         <source>Program</source>
         <translation>Program</translation>
@@ -18262,7 +18383,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="54"/>
         <location filename="IptcHelper.cpp" line="35"/>
-        <location filename="SearchField.cpp" line="53"/>
+        <location filename="SearchField.cpp" line="60"/>
         <location filename="TemplateData.cpp" line="2731"/>
         <source>Priority</source>
         <translation>Priorita</translation>
@@ -18280,9 +18401,9 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="InfoIPTCView.cpp" line="61"/>
         <location filename="IptcHelper.cpp" line="43"/>
         <location filename="ItemModel.cpp" line="1157"/>
-        <location filename="SearchField.cpp" line="60"/>
-        <location filename="SearchField.cpp" line="94"/>
-        <location filename="SearchField.cpp" line="109"/>
+        <location filename="SearchField.cpp" line="67"/>
+        <location filename="SearchField.cpp" line="102"/>
+        <location filename="SearchField.cpp" line="117"/>
         <location filename="TemplateData.cpp" line="2742"/>
         <location filename="TemplateData.cpp" line="2761"/>
         <source>City</source>
@@ -18290,7 +18411,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="74"/>
-        <location filename="SearchField.cpp" line="67"/>
+        <location filename="SearchField.cpp" line="74"/>
         <location filename="TemplateData.cpp" line="2749"/>
         <source>Content location</source>
         <translation>Umiestnenie obsahu</translation>
@@ -18308,9 +18429,9 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="InfoIPTCView.cpp" line="64"/>
         <location filename="IptcHelper.cpp" line="46"/>
         <location filename="ItemModel.cpp" line="1163"/>
-        <location filename="SearchField.cpp" line="63"/>
-        <location filename="SearchField.cpp" line="95"/>
-        <location filename="SearchField.cpp" line="112"/>
+        <location filename="SearchField.cpp" line="70"/>
+        <location filename="SearchField.cpp" line="103"/>
+        <location filename="SearchField.cpp" line="120"/>
         <location filename="TemplateData.cpp" line="2745"/>
         <location filename="TemplateData.cpp" line="2762"/>
         <source>Country</source>
@@ -18325,8 +18446,8 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="65"/>
         <location filename="IptcHelper.cpp" line="47"/>
-        <location filename="SearchField.cpp" line="64"/>
-        <location filename="SearchField.cpp" line="107"/>
+        <location filename="SearchField.cpp" line="71"/>
+        <location filename="SearchField.cpp" line="115"/>
         <location filename="TemplateData.cpp" line="2746"/>
         <source>Country code</source>
         <translation>Kód krajiny</translation>
@@ -18338,7 +18459,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="67"/>
-        <location filename="SearchField.cpp" line="58"/>
+        <location filename="SearchField.cpp" line="65"/>
         <location filename="TemplateData.cpp" line="2740"/>
         <source>Created date</source>
         <translation>Dátum vytvorenia</translation>
@@ -18350,7 +18471,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="69"/>
-        <location filename="SearchField.cpp" line="59"/>
+        <location filename="SearchField.cpp" line="66"/>
         <location filename="TemplateData.cpp" line="2741"/>
         <source>Released date</source>
         <translation>Dátum zverejnenia</translation>
@@ -18374,7 +18495,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="InfoIPTCView.cpp" line="73"/>
         <location filename="IptcHelper.cpp" line="32"/>
         <location filename="ItemModel.cpp" line="1155"/>
-        <location filename="SearchField.cpp" line="66"/>
+        <location filename="SearchField.cpp" line="73"/>
         <location filename="TemplateData.cpp" line="2748"/>
         <source>Contact</source>
         <translation>Kontakt</translation>
@@ -18384,8 +18505,8 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="InfoIPTCView.cpp" line="62"/>
         <location filename="IptcHelper.cpp" line="44"/>
         <location filename="ItemModel.cpp" line="1159"/>
-        <location filename="SearchField.cpp" line="61"/>
-        <location filename="SearchField.cpp" line="106"/>
+        <location filename="SearchField.cpp" line="68"/>
+        <location filename="SearchField.cpp" line="114"/>
         <location filename="TemplateData.cpp" line="2743"/>
         <source>Location</source>
         <translation>Poloha</translation>
@@ -18419,8 +18540,8 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="EditXMPWidget.cpp" line="130"/>
         <location filename="ItemModel.cpp" line="1149"/>
-        <location filename="SearchField.cpp" line="50"/>
-        <location filename="SearchField.cpp" line="96"/>
+        <location filename="SearchField.cpp" line="57"/>
+        <location filename="SearchField.cpp" line="104"/>
         <location filename="TemplateData.cpp" line="2724"/>
         <location filename="TemplateData.cpp" line="2763"/>
         <source>Credit</source>
@@ -18431,126 +18552,126 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="EditXMPWidget.cpp" line="168"/>
         <location filename="EditXMPWidget.cpp" line="183"/>
         <location filename="ItemModel.cpp" line="1161"/>
-        <location filename="SearchField.cpp" line="62"/>
-        <location filename="SearchField.cpp" line="100"/>
-        <location filename="SearchField.cpp" line="110"/>
+        <location filename="SearchField.cpp" line="69"/>
+        <location filename="SearchField.cpp" line="108"/>
+        <location filename="SearchField.cpp" line="118"/>
         <location filename="TemplateData.cpp" line="2744"/>
         <location filename="TemplateData.cpp" line="2767"/>
         <source>State</source>
         <translation>Štát</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="54"/>
+        <location filename="SearchField.cpp" line="61"/>
         <location filename="TemplateData.cpp" line="2732"/>
         <source>Cycle</source>
         <translation>Cyklus</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="65"/>
+        <location filename="SearchField.cpp" line="72"/>
         <location filename="TemplateData.cpp" line="2747"/>
         <source>Original trans. ref.</source>
         <translation>Originálna pren. ref.</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="101"/>
+        <location filename="SearchField.cpp" line="109"/>
         <source>Modify Date</source>
         <translation>Upraviť dátum</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="102"/>
+        <location filename="SearchField.cpp" line="110"/>
         <source>Create Date</source>
         <translation>Dátum vytvorenia</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="103"/>
+        <location filename="SearchField.cpp" line="111"/>
         <source>Hierarchical Subject</source>
         <translation>Hierarchický subjekt</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="120"/>
+        <location filename="SearchField.cpp" line="128"/>
         <source>Custom field 1</source>
         <translation>Vlastné pole 1</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="121"/>
+        <location filename="SearchField.cpp" line="129"/>
         <source>Custom field 2</source>
         <translation>Vlastné pole 2</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="122"/>
+        <location filename="SearchField.cpp" line="130"/>
         <source>Custom field 3</source>
         <translation>Vlastné pole 3</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="123"/>
+        <location filename="SearchField.cpp" line="131"/>
         <source>Custom field 4</source>
         <translation>Vlastné pole 4</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="124"/>
+        <location filename="SearchField.cpp" line="132"/>
         <source>Custom field 5</source>
         <translation>Vlastné pole 5</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="125"/>
+        <location filename="SearchField.cpp" line="133"/>
         <source>Custom field 6</source>
         <translation>Vlastné pole 6</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="126"/>
+        <location filename="SearchField.cpp" line="134"/>
         <source>Custom field 7</source>
         <translation>Vlastné pole 7</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="127"/>
+        <location filename="SearchField.cpp" line="135"/>
         <source>Custom field 8</source>
         <translation>Vlastné pole 8</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="128"/>
+        <location filename="SearchField.cpp" line="136"/>
         <source>Custom field 9</source>
         <translation>Vlastné pole 9</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="129"/>
+        <location filename="SearchField.cpp" line="137"/>
         <source>Custom field 10</source>
         <translation>Vlastné pole 10</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="133"/>
-        <location filename="SearchField.cpp" line="98"/>
+        <location filename="SearchField.cpp" line="106"/>
         <location filename="TemplateData.cpp" line="2765"/>
         <source>Instructions</source>
         <translation>Pokyny</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="87"/>
+        <location filename="SearchField.cpp" line="95"/>
         <location filename="TemplateData.cpp" line="2754"/>
         <source>Creator</source>
         <translation>Autor</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="114"/>
-        <location filename="SearchField.cpp" line="88"/>
+        <location filename="SearchField.cpp" line="96"/>
         <location filename="TemplateData.cpp" line="2755"/>
         <source>Description</source>
         <translation>Popis</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="90"/>
+        <location filename="SearchField.cpp" line="98"/>
         <location filename="TemplateData.cpp" line="2757"/>
         <source>Subject</source>
         <translation>Predmet</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="91"/>
+        <location filename="SearchField.cpp" line="99"/>
         <location filename="TemplateData.cpp" line="2758"/>
         <source>Title</source>
         <translation>Názov</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="113"/>
-        <location filename="SearchField.cpp" line="92"/>
+        <location filename="SearchField.cpp" line="100"/>
         <location filename="TemplateData.cpp" line="2759"/>
         <source>Authors position</source>
         <translation>Pozícia autora</translation>
@@ -18560,7 +18681,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="InfoIPTCView.cpp" line="60"/>
         <location filename="IptcHelper.cpp" line="49"/>
         <location filename="ItemModel.cpp" line="1165"/>
-        <location filename="SearchField.cpp" line="57"/>
+        <location filename="SearchField.cpp" line="64"/>
         <location filename="TemplateData.cpp" line="2739"/>
         <source>Document title</source>
         <translation>Nadpis dokumentu</translation>
@@ -18577,7 +18698,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="118"/>
-        <location filename="SearchField.cpp" line="105"/>
+        <location filename="SearchField.cpp" line="113"/>
         <source>Copyright info URL</source>
         <translation>Info URL adresa k autorským právam</translation>
     </message>
@@ -18598,19 +18719,19 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="134"/>
-        <location filename="SearchField.cpp" line="104"/>
+        <location filename="SearchField.cpp" line="112"/>
         <source>Transmission reference</source>
         <translation>Referencia prenosu</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="166"/>
-        <location filename="SearchField.cpp" line="108"/>
+        <location filename="SearchField.cpp" line="116"/>
         <source>Address</source>
         <translation>Adresa</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="169"/>
-        <location filename="SearchField.cpp" line="111"/>
+        <location filename="SearchField.cpp" line="119"/>
         <source>ZIP code</source>
         <translation>PSČ</translation>
     </message>
@@ -18620,19 +18741,19 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <translation>Telefónne číslo</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="113"/>
+        <location filename="SearchField.cpp" line="121"/>
         <source>Telephon number</source>
         <translation>Telefónne číslo</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="172"/>
-        <location filename="SearchField.cpp" line="114"/>
+        <location filename="SearchField.cpp" line="122"/>
         <source>Email</source>
         <translation>Email</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="173"/>
-        <location filename="SearchField.cpp" line="115"/>
+        <location filename="SearchField.cpp" line="123"/>
         <source>Web site</source>
         <translation>Webová stránka</translation>
     </message>
@@ -18643,25 +18764,25 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="177"/>
-        <location filename="SearchField.cpp" line="116"/>
+        <location filename="SearchField.cpp" line="124"/>
         <source>Person in image</source>
         <translation>Osoba na obrázku</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="178"/>
-        <location filename="SearchField.cpp" line="117"/>
+        <location filename="SearchField.cpp" line="125"/>
         <source>Name of organization represented</source>
         <translation>Názov reprezentovanej organizácie</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="179"/>
-        <location filename="SearchField.cpp" line="118"/>
+        <location filename="SearchField.cpp" line="126"/>
         <source>Code of organization represented</source>
         <translation>Kód reprezentovanej organizácie</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="180"/>
-        <location filename="SearchField.cpp" line="119"/>
+        <location filename="SearchField.cpp" line="127"/>
         <source>Event</source>
         <translation>Udalosť</translation>
     </message>
@@ -18688,125 +18809,125 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <translation>Obrázok</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="99"/>
+        <location filename="InfoPropertiesView.cpp" line="100"/>
         <source>Yes</source>
         <translation>Áno</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="99"/>
+        <location filename="InfoPropertiesView.cpp" line="100"/>
         <source>No</source>
         <translation>Nie</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="119"/>
+        <location filename="InfoPropertiesView.cpp" line="120"/>
         <source>Top-Right</source>
         <translation>Vpravo-hore</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="122"/>
+        <location filename="InfoPropertiesView.cpp" line="123"/>
         <source>Bottom-Left</source>
         <translation>Vľavo dole</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="125"/>
+        <location filename="InfoPropertiesView.cpp" line="126"/>
         <source>Bottom-Right</source>
         <translation>Vpravo-dole</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="129"/>
+        <location filename="InfoPropertiesView.cpp" line="130"/>
         <source>Top-Left</source>
         <translation>Vľavo-hore</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="146"/>
+        <location filename="InfoPropertiesView.cpp" line="147"/>
         <source>Extra</source>
         <translation>Extra</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="232"/>
-        <location filename="InfoPropertiesView.cpp" line="322"/>
+        <location filename="InfoPropertiesView.cpp" line="233"/>
+        <location filename="InfoPropertiesView.cpp" line="323"/>
         <source>Camera</source>
         <translation>Fotoaparát</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="357"/>
+        <location filename="InfoPropertiesView.cpp" line="358"/>
         <source>Color Profile</source>
         <translation>Farebný profil</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="391"/>
+        <location filename="InfoPropertiesView.cpp" line="392"/>
         <source>Extra info</source>
         <translation>Dodatočné informácie</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="577"/>
+        <location filename="InfoPropertiesView.cpp" line="578"/>
         <source>File</source>
         <translation>Súbor</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="578"/>
+        <location filename="InfoPropertiesView.cpp" line="579"/>
         <source>Filename</source>
         <translation>Názov súboru</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="579"/>
+        <location filename="InfoPropertiesView.cpp" line="580"/>
         <source>Filepath</source>
         <translation>Cesta k súboru</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="584"/>
+        <location filename="InfoPropertiesView.cpp" line="585"/>
         <source>Description</source>
         <translation>Popis</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="590"/>
+        <location filename="InfoPropertiesView.cpp" line="591"/>
         <source>File size</source>
         <translation>Veľkosť súboru</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="591"/>
+        <location filename="InfoPropertiesView.cpp" line="592"/>
         <source>Creation date/time</source>
         <translation>Dátum/čas vytvorenia</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="592"/>
+        <location filename="InfoPropertiesView.cpp" line="593"/>
         <source>Modified date/time</source>
         <oldsource>Changed date/time</oldsource>
         <translation>Dátum/čas poslednej zmeny</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="593"/>
+        <location filename="InfoPropertiesView.cpp" line="594"/>
         <source>Accessed date/time</source>
         <translation>Dátum/čas posledného prístupu</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="595"/>
+        <location filename="InfoPropertiesView.cpp" line="596"/>
         <source>Rating</source>
         <translation>Hodnotenie</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="599"/>
+        <location filename="InfoPropertiesView.cpp" line="600"/>
         <source>Colour Label</source>
         <translation>Farebné značenie</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="609"/>
+        <location filename="InfoPropertiesView.cpp" line="610"/>
         <source>File&apos;s icon</source>
         <translation>Súborová ikona</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="624"/>
+        <location filename="InfoPropertiesView.cpp" line="625"/>
         <source>Annotation</source>
         <translation>Poznámka</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="643"/>
+        <location filename="InfoPropertiesView.cpp" line="644"/>
         <source>Video</source>
         <translation>Video súbory</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="661"/>
-        <location filename="InfoPropertiesView.cpp" line="680"/>
+        <location filename="InfoPropertiesView.cpp" line="662"/>
+        <location filename="InfoPropertiesView.cpp" line="681"/>
         <source>Audio</source>
         <translation>Audio súbory</translation>
     </message>
@@ -18930,7 +19051,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <translation>Typ</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="5086"/>
+        <location filename="ItemModel.cpp" line="5098"/>
         <source>New Folder %1</source>
         <translation>Nový priečinok %1</translation>
     </message>
@@ -19314,19 +19435,24 @@ Chcete pokračovať?</translation>
 <context>
     <name>MediaPlayerMDK</name>
     <message>
-        <location filename="MediaPlayerMDK.cpp" line="236"/>
+        <location filename="MediaPlayerMDK.cpp" line="238"/>
         <source>Show playbar</source>
         <translation>Zobraziť panel prehrávania</translation>
     </message>
     <message>
-        <location filename="MediaPlayerMDK.cpp" line="240"/>
+        <location filename="MediaPlayerMDK.cpp" line="242"/>
         <source>Extract current frame</source>
         <translation>Extrahovať aktuálnu snímku</translation>
     </message>
     <message>
-        <location filename="MediaPlayerMDK.cpp" line="243"/>
+        <location filename="MediaPlayerMDK.cpp" line="245"/>
         <source>Save frame as...</source>
         <translation>Uložiť snímku ako...</translation>
+    </message>
+    <message>
+        <location filename="MediaPlayerMDK.cpp" line="248"/>
+        <source>Open with</source>
+        <translation type="unfinished">Otvoriť s</translation>
     </message>
 </context>
 <context>
@@ -19578,74 +19704,74 @@ Chcete pokračovať?</translation>
         <translation>Neoznačené súbory</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="451"/>
+        <location filename="BrowserMenu.h" line="452"/>
         <source>Navigate to</source>
         <translation>Prejdite na</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="468"/>
         <location filename="BrowserMenu.h" line="469"/>
         <location filename="BrowserMenu.h" line="470"/>
         <location filename="BrowserMenu.h" line="471"/>
         <location filename="BrowserMenu.h" line="472"/>
         <location filename="BrowserMenu.h" line="473"/>
+        <location filename="BrowserMenu.h" line="474"/>
         <source>##rating## (go to next image)</source>
         <oldsource>Excellent (go to next image)</oldsource>
         <translation>##rating## (presunúť na další obrázok)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="486"/>
+        <location filename="BrowserMenu.h" line="487"/>
         <source>##label## (go to next image)</source>
         <translation>##label## (presunúť na další obrázok)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="505"/>
+        <location filename="BrowserMenu.h" line="506"/>
         <source>Set Rating</source>
         <translation>Nastaviť hodnotenie</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="506"/>
+        <location filename="BrowserMenu.h" line="507"/>
         <source>Set Color label</source>
         <translation>Nastaviť farbu štítku</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="507"/>
+        <location filename="BrowserMenu.h" line="508"/>
         <source>Set Category</source>
         <translation>Nastaviť kategóriu</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="534"/>
+        <location filename="BrowserMenu.h" line="538"/>
         <source>Show files in subfolders</source>
         <translation>Zobraziť súbory v podpriečinkoch</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="557"/>
+        <location filename="BrowserMenu.h" line="561"/>
         <source>Info panels</source>
         <translation>Informačné panely</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="579"/>
+        <location filename="BrowserMenu.h" line="583"/>
         <source>Open GPS location in</source>
         <translation>Otvoriť polohu GPS v</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="592"/>
+        <location filename="BrowserMenu.h" line="596"/>
         <source>Edit metadata...</source>
         <translation>Upraviť metadáta...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="652"/>
+        <location filename="BrowserMenu.h" line="656"/>
         <source>Switch panel</source>
         <oldsource>Switch panel...</oldsource>
         <translation>Prepínací panel</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="660"/>
+        <location filename="BrowserMenu.h" line="664"/>
         <source>Paste as image</source>
         <translation>Prilepiť ako obrázok</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="664"/>
+        <location filename="BrowserMenu.h" line="668"/>
         <source>Acquire (TWAIN)</source>
         <translation>Získať (TWAIN)</translation>
     </message>
@@ -19672,60 +19798,60 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="CompareWidget.cpp" line="467"/>
         <location filename="BrowserMenu.h" line="110"/>
-        <location filename="BrowserMenu.h" line="484"/>
+        <location filename="BrowserMenu.h" line="485"/>
         <source>Uncolored</source>
         <translation>Bez značenia</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="540"/>
+        <location filename="BrowserMenu.h" line="544"/>
         <source>Open all selected</source>
         <oldsource>Open in Finder</oldsource>
         <translation>Otvoriť všetky vybraté</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="553"/>
+        <location filename="BrowserMenu.h" line="557"/>
         <source>Add to favorites...</source>
         <translation>Pridať k obľúbeným...</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="19"/>
         <location filename="DlgSettingsView.cpp" line="268"/>
-        <location filename="BrowserMenu.h" line="631"/>
+        <location filename="BrowserMenu.h" line="635"/>
         <source>No fit</source>
         <translation>Bez prispôsobenia</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="20"/>
         <location filename="DlgSettingsView.cpp" line="269"/>
-        <location filename="BrowserMenu.h" line="632"/>
+        <location filename="BrowserMenu.h" line="636"/>
         <source>Fit image to window</source>
         <translation>Prispôsobiť obrázky veľkosti okna</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="22"/>
         <location filename="DlgSettingsView.cpp" line="271"/>
-        <location filename="BrowserMenu.h" line="633"/>
+        <location filename="BrowserMenu.h" line="637"/>
         <source>Fit image to window, large only</source>
         <translation>Prispôsobiť obrázky veľkosti okna, iba veľké</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="23"/>
         <location filename="DlgSettingsView.cpp" line="272"/>
-        <location filename="BrowserMenu.h" line="635"/>
+        <location filename="BrowserMenu.h" line="639"/>
         <source>Fit image to window width</source>
         <translation>Prispôsobiť obrázky šírke okna</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="24"/>
         <location filename="DlgSettingsView.cpp" line="273"/>
-        <location filename="BrowserMenu.h" line="636"/>
+        <location filename="BrowserMenu.h" line="640"/>
         <source>Fit image to window height</source>
         <translation>Prispôsobiť obrázky výške okna</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="25"/>
         <location filename="DlgSettingsView.cpp" line="274"/>
-        <location filename="BrowserMenu.h" line="637"/>
+        <location filename="BrowserMenu.h" line="641"/>
         <source>Fit image to window width or height</source>
         <translation>Prispôsobiť obrázky šírke alebo výške okna</translation>
     </message>
@@ -19745,245 +19871,245 @@ Chcete pokračovať?</translation>
         <translation>Mapa</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="525"/>
+        <location filename="BrowserMenu.h" line="529"/>
         <source>Filelist toolbar</source>
         <translation>Panel s nástrojmi pre zoznam súborov</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="531"/>
+        <location filename="BrowserMenu.h" line="535"/>
         <source>Update catalog from files</source>
         <translation>Aktualizovať katalóg zo súborov</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="532"/>
+        <location filename="BrowserMenu.h" line="536"/>
         <source>Update files from catalog</source>
         <translation>Aktualizovať súbory z katalógu</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="539"/>
+        <location filename="BrowserMenu.h" line="543"/>
         <source>Open in file manager</source>
         <translation>Otvoriť v prieskumníkovi</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="560"/>
+        <location filename="BrowserMenu.h" line="564"/>
         <source>Rotate 90° right</source>
         <translation>Otočiť o 90° doprava</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="561"/>
+        <location filename="BrowserMenu.h" line="565"/>
         <source>Rotate 90° left</source>
         <translation>Otočiť o 90° doľava</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="562"/>
+        <location filename="BrowserMenu.h" line="566"/>
         <source>Rotate 180°</source>
         <translation>Otočiť o 180°</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="564"/>
+        <location filename="BrowserMenu.h" line="568"/>
         <source>Rotate 90° right (lossless)</source>
         <translation>Otočiť o 90° doprava (bezstratovo)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="565"/>
+        <location filename="BrowserMenu.h" line="569"/>
         <source>Rotate 90° left (lossless)</source>
         <translation>Otočiť o 90° doľava (bezstratovo)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="566"/>
+        <location filename="BrowserMenu.h" line="570"/>
         <source>Rotate 180° (lossless)</source>
         <translation>Otočiť o 180° (bezstratovo)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="567"/>
+        <location filename="BrowserMenu.h" line="571"/>
         <source>Rotate based on EXIF orientation field</source>
         <translation>Otáčať podľa poľa EXIF orientácie</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="568"/>
+        <location filename="BrowserMenu.h" line="572"/>
         <source>Reset EXIF orientation field</source>
         <translation>Obnoviť pole EXIF orientácie</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="569"/>
+        <location filename="BrowserMenu.h" line="573"/>
         <source>Flip horizontally (lossless)</source>
         <translation>Preklopiť vodorovne (bezstratovo)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="570"/>
+        <location filename="BrowserMenu.h" line="574"/>
         <source>Flip vertically (lossless)</source>
         <translation>Preklopiť zvisle (bezstratovo)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="584"/>
+        <location filename="BrowserMenu.h" line="588"/>
         <source>Edit IPTC...</source>
         <translation>Upraviť IPTC...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="585"/>
+        <location filename="BrowserMenu.h" line="589"/>
         <source>Edit XMP...</source>
         <translation>Upraviť XMP...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="594"/>
+        <location filename="BrowserMenu.h" line="598"/>
         <source>EXIF Thumbnail</source>
         <translation>EXIF miniatúra</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="599"/>
+        <location filename="BrowserMenu.h" line="603"/>
         <source>File listing...</source>
         <translation>Zoznam súborov...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="601"/>
+        <location filename="BrowserMenu.h" line="605"/>
         <source>Send by email...</source>
         <translation>Odoslať cez email...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="608"/>
+        <location filename="BrowserMenu.h" line="612"/>
         <source>Import and sort...</source>
         <translation>Importovať a usporiadať...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="609"/>
+        <location filename="BrowserMenu.h" line="613"/>
         <source>Multi-page file...</source>
         <translation>Viac-stránkový súbor...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="610"/>
+        <location filename="BrowserMenu.h" line="614"/>
         <source>Join images...</source>
         <translation>Spojiť obrázky...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="611"/>
+        <location filename="BrowserMenu.h" line="615"/>
         <source>Contact sheet...</source>
         <translation>Hárok s kontaktmi...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="612"/>
+        <location filename="BrowserMenu.h" line="616"/>
         <source>Slideshow...</source>
         <translation>Prezentácia...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="613"/>
+        <location filename="BrowserMenu.h" line="617"/>
         <source>Split image(s)...</source>
         <oldsource>Split...</oldsource>
         <translation>Rozdeliť obrázok (obrázky)...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="614"/>
+        <location filename="BrowserMenu.h" line="618"/>
         <source>Banner...</source>
         <translation>Nápis...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="615"/>
+        <location filename="BrowserMenu.h" line="619"/>
         <source>New image...</source>
         <translation>Nový obrázok...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="616"/>
+        <location filename="BrowserMenu.h" line="620"/>
         <source>Video thumbnails gallery...</source>
         <translation>Galéria miniatúr videí...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="630"/>
+        <location filename="BrowserMenu.h" line="634"/>
         <source>Draw as tiled</source>
         <translation>Zobraziť ako dlaždice</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="639"/>
+        <location filename="BrowserMenu.h" line="643"/>
         <source>Show channel</source>
         <translation>Zobraziť kanál</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="644"/>
+        <location filename="BrowserMenu.h" line="648"/>
         <source>File operations</source>
         <translation>Súborové operácie</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="647"/>
+        <location filename="BrowserMenu.h" line="651"/>
         <source>Clear &amp;&amp; Import...</source>
         <translation>Vymazať a importovať...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="648"/>
+        <location filename="BrowserMenu.h" line="652"/>
         <source>Catalog</source>
         <translation>Katalóg</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="651"/>
+        <location filename="BrowserMenu.h" line="655"/>
         <source>Category Search</source>
         <translation>Vyhľadať kategóriu</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="653"/>
+        <location filename="BrowserMenu.h" line="657"/>
         <source>Path focus</source>
         <oldsource>Path focus...</oldsource>
         <translation>Zameranie cesty</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="654"/>
+        <location filename="BrowserMenu.h" line="658"/>
         <source>Filter by All</source>
         <translation>Filtrovať podľa všetkých</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="656"/>
+        <location filename="BrowserMenu.h" line="660"/>
         <source>Edit face tag...</source>
         <translation>Upraviť štítok tváre...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="659"/>
+        <location filename="BrowserMenu.h" line="663"/>
         <source>Capture...</source>
         <translation>Snímať obrazovku...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="661"/>
+        <location filename="BrowserMenu.h" line="665"/>
         <source>Empty tab</source>
         <oldsource>Empty tab...</oldsource>
         <translation>Prázdna karta</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="663"/>
+        <location filename="BrowserMenu.h" line="667"/>
         <source>Select TWAIN source...</source>
         <translation>Vybrať TWAIN zdroj...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="804"/>
+        <location filename="BrowserMenu.h" line="808"/>
         <source>&amp;File</source>
         <translation>&amp;Súbor</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="805"/>
+        <location filename="BrowserMenu.h" line="809"/>
         <source>&amp;Edit</source>
         <translation>&amp;Upraviť</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="806"/>
+        <location filename="BrowserMenu.h" line="810"/>
         <source>&amp;View</source>
         <translation>&amp;Zobraziť</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="807"/>
+        <location filename="BrowserMenu.h" line="811"/>
         <source>Meta&amp;data</source>
         <translation>Meta&amp;údaje</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="808"/>
+        <location filename="BrowserMenu.h" line="812"/>
         <source>&amp;Tools</source>
         <translation>&amp;Nástroje</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="665"/>
+        <location filename="BrowserMenu.h" line="669"/>
         <source>Acquire into (TWAIN)...</source>
         <translation>Získať do (TWAIN)...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="809"/>
+        <location filename="BrowserMenu.h" line="813"/>
         <source>C&amp;reate</source>
         <translation>&amp;Vytvoriť</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="810"/>
+        <location filename="BrowserMenu.h" line="814"/>
         <source>&amp;Help</source>
         <translation>Ná&amp;poveda</translation>
     </message>
@@ -20066,53 +20192,53 @@ Chcete pokračovať?</translation>
         <translation>Informácia</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="548"/>
+        <location filename="BrowserMenu.h" line="552"/>
         <source>Show source panels</source>
         <translation>Zobraziť zdrojové panely</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="556"/>
+        <location filename="BrowserMenu.h" line="560"/>
         <source>Panels</source>
         <translation>Panely</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="417"/>
+        <location filename="BrowserMenu.h" line="418"/>
         <source>Open file list...</source>
         <translation>Otvoriť zoznam súborov...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="423"/>
+        <location filename="BrowserMenu.h" line="424"/>
         <source>Selected path(s)</source>
         <translation>Vybratá cesta (cesty)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="424"/>
+        <location filename="BrowserMenu.h" line="425"/>
         <source>Selected filename(s)</source>
         <translation>Vybratý názov súboru (súborov)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="425"/>
+        <location filename="BrowserMenu.h" line="426"/>
         <source>Selected filename(s) and path(s)</source>
         <translation>Vybratý názov súboru (súborov) a cesta (cesty)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="521"/>
+        <location filename="BrowserMenu.h" line="525"/>
         <source>Back</source>
         <translation>Späť</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="522"/>
+        <location filename="BrowserMenu.h" line="526"/>
         <source>Forward</source>
         <oldsource>forward</oldsource>
         <translation>Vpred</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="526"/>
+        <location filename="BrowserMenu.h" line="530"/>
         <source>Toolbar</source>
         <translation>Panel s nástrojmi</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="527"/>
+        <location filename="BrowserMenu.h" line="531"/>
         <source>Status bar</source>
         <translation>Stavový riadok</translation>
     </message>
@@ -20145,8 +20271,8 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="BrowserMenu.h" line="305"/>
         <location filename="BrowserMenu.h" line="315"/>
-        <location filename="BrowserMenu.h" line="551"/>
-        <location filename="BrowserMenu.h" line="641"/>
+        <location filename="BrowserMenu.h" line="555"/>
+        <location filename="BrowserMenu.h" line="645"/>
         <source>Preview</source>
         <translation>Náhľad</translation>
     </message>
@@ -20183,536 +20309,551 @@ Chcete pokračovať?</translation>
         <translation>Zlé</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="412"/>
+        <location filename="BrowserMenu.h" line="413"/>
         <source>Open with</source>
         <oldsource>Open with test</oldsource>
         <translation>Otvoriť s</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="413"/>
+        <location filename="BrowserMenu.h" line="414"/>
         <source>Recent files</source>
         <translation>Naposledy otvorené súbory</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="416"/>
+        <location filename="BrowserMenu.h" line="417"/>
         <source>Open...</source>
         <translation>Otvoriť...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4076"/>
-        <location filename="BrowserMenu.h" line="419"/>
+        <location filename="BrowserWindow.cpp" line="4121"/>
+        <location filename="BrowserMenu.h" line="420"/>
         <source>Cut</source>
         <translation>Vystrihnúť</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4078"/>
-        <location filename="BrowserMenu.h" line="421"/>
+        <location filename="BrowserWindow.cpp" line="4123"/>
+        <location filename="BrowserMenu.h" line="422"/>
         <source>Copy</source>
         <translation>Kopírovať</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="422"/>
+        <location filename="BrowserMenu.h" line="423"/>
         <source>Image</source>
         <translation>Obrázok</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4080"/>
-        <location filename="BrowserMenu.h" line="426"/>
+        <location filename="BrowserWindow.cpp" line="4125"/>
+        <location filename="BrowserMenu.h" line="427"/>
         <source>Paste</source>
         <translation>Prilepiť</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="429"/>
+        <location filename="BrowserMenu.h" line="430"/>
         <source>Select all</source>
         <translation>Vybrať všetky</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="430"/>
+        <location filename="BrowserMenu.h" line="431"/>
         <source>Select none</source>
         <translation>Zrušiť výber</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="431"/>
+        <location filename="BrowserMenu.h" line="432"/>
         <source>Invert selection</source>
         <translation>Invertovať výber</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="432"/>
+        <location filename="BrowserMenu.h" line="433"/>
         <source>Select all images</source>
         <translation>Vybrať všetky obrázky</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="433"/>
+        <location filename="BrowserMenu.h" line="434"/>
         <source>Select all files</source>
         <translation>Vybrať všetky súbory</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="434"/>
+        <location filename="BrowserMenu.h" line="435"/>
         <source>Select tagged files</source>
         <translation>Vybrať označené súbory</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4088"/>
-        <location filename="BrowserMenu.h" line="436"/>
+        <location filename="BrowserWindow.cpp" line="4133"/>
+        <location filename="BrowserMenu.h" line="437"/>
         <source>Copy to...</source>
         <translation>Kopírovať do...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4090"/>
-        <location filename="BrowserMenu.h" line="437"/>
+        <location filename="BrowserWindow.cpp" line="4135"/>
+        <location filename="BrowserMenu.h" line="438"/>
         <source>Move to...</source>
         <translation>Presunúť do...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4083"/>
-        <location filename="BrowserMenu.h" line="438"/>
+        <location filename="BrowserWindow.cpp" line="4128"/>
+        <location filename="BrowserMenu.h" line="439"/>
         <source>Delete</source>
         <translation>Odstrániť</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="439"/>
+        <location filename="BrowserMenu.h" line="440"/>
         <source>Rename...</source>
         <translation>Premenovať...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="440"/>
+        <location filename="BrowserMenu.h" line="441"/>
         <source>New folder</source>
         <translation>Nový priečinok</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="442"/>
+        <location filename="BrowserMenu.h" line="443"/>
         <source>Previous file</source>
         <translation>Predošlý súbor</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="443"/>
+        <location filename="BrowserMenu.h" line="444"/>
         <source>Next file</source>
         <translation>Ďalší súbor</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="444"/>
+        <location filename="BrowserMenu.h" line="445"/>
         <source>First file</source>
         <translation>Prvý súbor</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="445"/>
+        <location filename="BrowserMenu.h" line="446"/>
         <source>Last file</source>
         <translation>Posledný súbor</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="446"/>
+        <location filename="BrowserMenu.h" line="447"/>
         <source>Previous page</source>
         <translation>Predošlú stránku</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="447"/>
+        <location filename="BrowserMenu.h" line="448"/>
         <source>Next page</source>
         <translation>Ďalšiu stránku</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="448"/>
+        <location filename="BrowserMenu.h" line="449"/>
         <source>First page</source>
         <translation>Prvú stránku</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="449"/>
+        <location filename="BrowserMenu.h" line="450"/>
         <source>Last page</source>
         <translation>Poslednú stránku</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="450"/>
+        <location filename="BrowserMenu.h" line="451"/>
         <source>Page</source>
         <translation>Stránku</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="453"/>
+        <location filename="BrowserMenu.h" line="454"/>
         <source>Show header</source>
         <translation>Zobraziť záhlavie</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="443"/>
-        <location filename="BrowserMenu.h" line="454"/>
+        <location filename="BrowserMenu.h" line="455"/>
         <source>Tag/Untag current</source>
         <oldsource>Tag current</oldsource>
         <translation>Označiť/odznačiť aktuálne</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="455"/>
+        <location filename="BrowserMenu.h" line="456"/>
         <source>Invert</source>
         <translation>Invertovať</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="456"/>
+        <location filename="BrowserMenu.h" line="457"/>
         <source>Untag all</source>
         <translation>Zrušiť označenie všetkých</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="457"/>
+        <location filename="BrowserMenu.h" line="458"/>
         <source>Clear all tags</source>
         <translation>Vymazať všetky označenia</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="458"/>
+        <location filename="BrowserMenu.h" line="459"/>
         <source>Show tagged files</source>
         <translation>Zobraziť označené súbory</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="459"/>
+        <location filename="BrowserMenu.h" line="460"/>
         <source>Show tag box</source>
         <translation>Zobraziť okienko označenia</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="499"/>
-        <location filename="BrowserMenu.h" line="642"/>
+        <location filename="BrowserMenu.h" line="500"/>
+        <location filename="BrowserMenu.h" line="646"/>
         <source>Layout</source>
         <translation>Rozmiestnenie</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="500"/>
+        <location filename="BrowserMenu.h" line="501"/>
         <source>View as</source>
         <translation>Zobraziť ako</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="501"/>
+        <location filename="BrowserMenu.h" line="502"/>
         <source>Sort by</source>
         <translation>Usporiadať podľa</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="502"/>
+        <location filename="BrowserMenu.h" line="503"/>
         <source>Filter by</source>
         <translation>Filtrovať</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="503"/>
+        <location filename="BrowserMenu.h" line="504"/>
         <source>Thumbnails size</source>
         <translation>Veľkosť miniatúr</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="504"/>
+        <location filename="BrowserMenu.h" line="505"/>
         <source>Tag</source>
         <translation>Označiť</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="508"/>
+        <location filename="BrowserMenu.h" line="509"/>
+        <source>Add to album</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="BrowserMenu.h" line="510"/>
         <source>Remove from category</source>
         <translation>Odobrať z kategórie</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="509"/>
+        <location filename="BrowserMenu.h" line="511"/>
         <source>Remove from all categories</source>
         <translation>Odobrať zo všetkých kategórii</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="511"/>
+        <location filename="BrowserMenu.h" line="512"/>
+        <source>Remove from this album</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="BrowserMenu.h" line="513"/>
+        <source>Remove from all albums</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="BrowserMenu.h" line="515"/>
         <source>View as Thumbnails</source>
         <oldsource>Views as Thumbnails</oldsource>
         <translation>Zobraziť ako miniatúry</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="512"/>
+        <location filename="BrowserMenu.h" line="516"/>
         <source>View as Thumbnails+Filename</source>
         <oldsource>Views as Thumbnails+Filename</oldsource>
         <translation>Zobraziť ako miniatúry + názov súboru</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="513"/>
+        <location filename="BrowserMenu.h" line="517"/>
         <source>View as Thumbnails+Labels</source>
         <oldsource>Views as Thumbnails+Labels</oldsource>
         <translation>Zobraziť ako miniatúry + nadpisy</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="514"/>
+        <location filename="BrowserMenu.h" line="518"/>
         <source>View as Thumbnails+Details</source>
         <oldsource>Views as Thumbnails+Details</oldsource>
         <translation>Zobraziť ako miniatúry + podrobnosti</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="515"/>
+        <location filename="BrowserMenu.h" line="519"/>
         <source>View as Icons</source>
         <oldsource>Views as Icons</oldsource>
         <translation>Zobraziť ako ikony</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="516"/>
+        <location filename="BrowserMenu.h" line="520"/>
         <source>View as List</source>
         <oldsource>Views as List</oldsource>
         <translation>Zobraziť ako zoznam</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="517"/>
+        <location filename="BrowserMenu.h" line="521"/>
         <source>View as Details</source>
         <oldsource>Views as Details</oldsource>
         <translation>Zobraziť ako detaily</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="519"/>
+        <location filename="BrowserMenu.h" line="523"/>
         <source>Show hidden files</source>
         <translation>Zobrazovať skryté súbory</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="523"/>
+        <location filename="BrowserMenu.h" line="527"/>
         <source>Up</source>
         <translation>Hore</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="528"/>
+        <location filename="BrowserMenu.h" line="532"/>
         <source>Show title of panels</source>
         <translation>Zobraziť názov panelov</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="530"/>
+        <location filename="BrowserMenu.h" line="534"/>
         <source>Rebuild thumbnails</source>
         <translation>Znovu vytvoriť miniatúry</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="533"/>
+        <location filename="BrowserMenu.h" line="537"/>
         <source>Refresh</source>
         <translation>Obnoviť</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="535"/>
+        <location filename="BrowserMenu.h" line="539"/>
         <source>Stop</source>
         <translation>Zastaviť</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="537"/>
+        <location filename="BrowserMenu.h" line="541"/>
         <source>Open</source>
         <translation>Otvoriť</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="538"/>
+        <location filename="BrowserMenu.h" line="542"/>
         <source>Open containing folder</source>
         <translation>Otvoriť priečinok s pôvodným umiestnením</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="542"/>
+        <location filename="BrowserMenu.h" line="546"/>
         <source>Fullscreen</source>
         <translation>Celú obrazovku</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="543"/>
+        <location filename="BrowserMenu.h" line="547"/>
         <source>Show</source>
         <translation>Zobraziť</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="544"/>
+        <location filename="BrowserMenu.h" line="548"/>
         <source>Use tabs</source>
         <translation>Použiť karty</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="545"/>
+        <location filename="BrowserMenu.h" line="549"/>
         <source>Preview as tab</source>
         <translation>Náhľad ako karta</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="550"/>
+        <location filename="BrowserMenu.h" line="554"/>
         <source>Vertical tabs</source>
         <translation>Zvislé karty</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="555"/>
+        <location filename="BrowserMenu.h" line="559"/>
         <source>Thumbnails view only</source>
         <translation>Zobraziť iba miniatúry</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="571"/>
+        <location filename="BrowserMenu.h" line="575"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
         <translation>JPEG bezstratové transformácie</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="573"/>
+        <location filename="BrowserMenu.h" line="577"/>
         <source>Batch rename...</source>
         <translation>Hromadné premenovanie...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="574"/>
+        <location filename="BrowserMenu.h" line="578"/>
         <source>Compare...</source>
         <oldsource>Compare</oldsource>
         <translation>Porovnať...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="580"/>
+        <location filename="BrowserMenu.h" line="584"/>
         <source>Search...</source>
         <translation>Hľadať...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="581"/>
+        <location filename="BrowserMenu.h" line="585"/>
         <source>Find similar files...</source>
         <translation>Nájsť podobné súbory...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="582"/>
+        <location filename="BrowserMenu.h" line="586"/>
         <source>Edit comment...</source>
         <oldsource>Set comment...</oldsource>
         <translation>Upraviť komentár...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="583"/>
+        <location filename="BrowserMenu.h" line="587"/>
         <source>Change timestamp...</source>
         <translation>Zmeniť dátum a čas...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="586"/>
+        <location filename="BrowserMenu.h" line="590"/>
         <source>Edit GPS...</source>
         <translation>Upraviť GPS...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="587"/>
-        <location filename="BrowserMenu.h" line="646"/>
+        <location filename="BrowserMenu.h" line="591"/>
+        <location filename="BrowserMenu.h" line="650"/>
         <source>Export...</source>
         <translation>Exportovať...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="588"/>
+        <location filename="BrowserMenu.h" line="592"/>
         <source>Clean...</source>
         <translation>Vymazať...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="589"/>
+        <location filename="BrowserMenu.h" line="593"/>
         <source>EXIF thumbnail - Rotate 90° left</source>
         <translation>Miniatúra EXIF – Otočiť o 90° doľava</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="590"/>
+        <location filename="BrowserMenu.h" line="594"/>
         <source>EXIF thumbnail - Rotate 90° right</source>
         <translation>Miniatúra EXIF – Otočiť o 90° doprava</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="591"/>
+        <location filename="BrowserMenu.h" line="595"/>
         <source>EXIF thumbnail - Rebuild</source>
         <translation>EXIF miniatúru - Znovu vytvoriť</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="593"/>
+        <location filename="BrowserMenu.h" line="597"/>
         <source>Metadata</source>
         <translation>Metaúdaje</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="595"/>
+        <location filename="BrowserMenu.h" line="599"/>
         <source>Convert into</source>
         <translation>Konvertovať do</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="596"/>
+        <location filename="BrowserMenu.h" line="600"/>
         <source>Batch convert...</source>
         <translation>Hromadná konverzia...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="597"/>
+        <location filename="BrowserMenu.h" line="601"/>
         <source>Send by FTP...</source>
         <translation>Odoslať cez FTP....</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="598"/>
+        <location filename="BrowserMenu.h" line="602"/>
         <source>Upload on web...</source>
         <translation>Odoslať na internet...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="600"/>
+        <location filename="BrowserMenu.h" line="604"/>
         <source>Archive...</source>
         <translation>Archív...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="602"/>
+        <location filename="BrowserMenu.h" line="606"/>
         <source>Set as wallpaper...</source>
         <translation>Nastaviť ako tapetu...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="603"/>
+        <location filename="BrowserMenu.h" line="607"/>
         <source>Print...</source>
         <translation>Tlačiť...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="605"/>
+        <location filename="BrowserMenu.h" line="609"/>
         <source>Properties...</source>
         <translation>Vlastnosti...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="619"/>
+        <location filename="BrowserMenu.h" line="623"/>
         <source>Real size</source>
         <translation>Skutočná veľkosť</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="620"/>
+        <location filename="BrowserMenu.h" line="624"/>
         <source>100%</source>
         <translation>100%</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="621"/>
+        <location filename="BrowserMenu.h" line="625"/>
         <source>Zoom in</source>
         <translation>Priblížiť</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="622"/>
+        <location filename="BrowserMenu.h" line="626"/>
         <source>Zoom out</source>
         <translation>Vzdialiť</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="623"/>
+        <location filename="BrowserMenu.h" line="627"/>
         <source>Lock zoom</source>
         <translation>Zamknúť priblíženie</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="624"/>
+        <location filename="BrowserMenu.h" line="628"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
         <translation>Používať transparentný index (≤ 8bitov)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="625"/>
+        <location filename="BrowserMenu.h" line="629"/>
         <source>Use alpha channel</source>
         <translation>Používať alfa kanál</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="626"/>
+        <location filename="BrowserMenu.h" line="630"/>
         <source>Show alpha</source>
         <translation>Zobraziť alfa</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="627"/>
+        <location filename="BrowserMenu.h" line="631"/>
         <source>Show red</source>
         <translation>Zobraziť červenú</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="628"/>
+        <location filename="BrowserMenu.h" line="632"/>
         <source>Show green</source>
         <translation>Zobraziť zelenú</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="629"/>
+        <location filename="BrowserMenu.h" line="633"/>
         <source>Show blue</source>
         <translation>Zobraziť modrú</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="21"/>
         <location filename="DlgSettingsView.cpp" line="270"/>
-        <location filename="BrowserMenu.h" line="634"/>
+        <location filename="BrowserMenu.h" line="638"/>
         <source>Fit image to window, small only</source>
         <translation>Prispôsobiť obrázky veľkosti okna, iba malé</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="640"/>
+        <location filename="BrowserMenu.h" line="644"/>
         <source>Zoom</source>
         <translation>Priblíženie</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="643"/>
+        <location filename="BrowserMenu.h" line="647"/>
         <source>Copy to clipboard</source>
         <translation>Kopírovať do schránky</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="650"/>
+        <location filename="BrowserMenu.h" line="654"/>
         <source>Quick Filter</source>
         <translation>Rychlý filter</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4073"/>
+        <location filename="BrowserWindow.cpp" line="4118"/>
         <source>New Folder</source>
         <translation>Nový priečinok</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4085"/>
+        <location filename="BrowserWindow.cpp" line="4130"/>
         <source>Rename</source>
         <translation>Premenovať</translation>
     </message>
@@ -22094,13 +22235,13 @@ Chcete pokračovať?</translation>
         <translation>Bajtov</translation>
     </message>
     <message>
-        <location filename="Helper.h" line="186"/>
+        <location filename="Helper.h" line="188"/>
         <source>Choose a directory</source>
         <translation>Vybrať priečinok</translation>
     </message>
     <message>
-        <location filename="Helper.h" line="200"/>
-        <location filename="Helper.h" line="210"/>
+        <location filename="Helper.h" line="202"/>
+        <location filename="Helper.h" line="212"/>
         <source>All Files</source>
         <translation>Všetky súbory</translation>
     </message>
@@ -22111,12 +22252,12 @@ Chcete pokračovať?</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="1188"/>
-        <location filename="Helper.h" line="204"/>
+        <location filename="Helper.h" line="206"/>
         <source>Open Image</source>
         <translation>Otvoriť obrázok</translation>
     </message>
     <message>
-        <location filename="Helper.h" line="214"/>
+        <location filename="Helper.h" line="216"/>
         <source>Open Image(s)</source>
         <translation>Otvoriť obrázok(obrázky)</translation>
     </message>
@@ -22193,12 +22334,12 @@ Chcete pokračovať?</translation>
         <translation>Vpravo-dole</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="991"/>
+        <location filename="DlgSettingsInterface.cpp" line="994"/>
         <source>Choose command</source>
         <translation>Vybrať príkaz</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1023"/>
+        <location filename="DlgSettingsInterface.cpp" line="1026"/>
         <source>Choose icon</source>
         <translation>Vybrať ikonu</translation>
     </message>
@@ -22305,12 +22446,12 @@ Chcete pokračovať?</translation>
 <context>
     <name>MyFileComboEdit</name>
     <message>
-        <location filename="MyFolderComboEdit.cpp" line="188"/>
+        <location filename="MyFolderComboEdit.cpp" line="191"/>
         <source>Choose a file</source>
         <translation>Vybrať súbor</translation>
     </message>
     <message>
-        <location filename="MyFolderComboEdit.cpp" line="188"/>
+        <location filename="MyFolderComboEdit.cpp" line="191"/>
         <source>Images</source>
         <translation>Obrázky</translation>
     </message>
@@ -22318,7 +22459,7 @@ Chcete pokračovať?</translation>
 <context>
     <name>MyFolderComboEdit</name>
     <message>
-        <location filename="MyFolderComboEdit.cpp" line="133"/>
+        <location filename="MyFolderComboEdit.cpp" line="136"/>
         <source>Choose a pathname</source>
         <translation>Vybrať cestu</translation>
     </message>
@@ -22400,7 +22541,7 @@ Chcete pokračovať?</translation>
 <context>
     <name>MyLittleToolBarV1</name>
     <message>
-        <location filename="MyLittleToolBar.h" line="770"/>
+        <location filename="MyLittleToolBar.h" line="774"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
         <translation>Prepínanie funkcie posuvníka: veľkosť miniatúr [pixely] alebo miniatúry na stĺpec</translation>
     </message>
@@ -22408,7 +22549,7 @@ Chcete pokračovať?</translation>
 <context>
     <name>MyLittleToolBarV2_2</name>
     <message>
-        <location filename="MyLittleToolBar.h" line="381"/>
+        <location filename="MyLittleToolBar.h" line="385"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
         <translation>Prepínanie funkcie posuvníka: veľkosť miniatúr [pixely] alebo miniatúry na stĺpec</translation>
     </message>
@@ -22474,7 +22615,7 @@ Chcete pokračovať?</translation>
 <context>
     <name>MyThumbView</name>
     <message>
-        <location filename="MyThumbView.cpp" line="560"/>
+        <location filename="MyThumbView.cpp" line="561"/>
         <source>Size of cached thumbnails is smaller than chosen one. 
 You can change it in Settings › Catalog.</source>
         <oldsource>Size of cached thumbnails is smaller than choosen one. 
@@ -22483,20 +22624,20 @@ You can change it in Settings › Catalog.</oldsource>
 Môžete to zmeniť v Nastavenia › Katalóg.</translation>
     </message>
     <message>
-        <location filename="MyThumbView.cpp" line="681"/>
+        <location filename="MyThumbView.cpp" line="682"/>
         <source>Updating catalog, please wait...</source>
         <oldsource>Updating catalog, please wait... </oldsource>
         <translation>Aktualizácia katalógu, čakajte prosím...</translation>
     </message>
     <message>
-        <location filename="MyThumbView.cpp" line="695"/>
+        <location filename="MyThumbView.cpp" line="696"/>
         <source>Updating files, please wait...</source>
         <oldsource>Updating files, please wait... </oldsource>
         <translation>Aktualizácia súborov, čakajte, prosím...</translation>
     </message>
     <message numerus="yes">
-        <location filename="MyThumbView.cpp" line="1296"/>
-        <location filename="MyThumbView.cpp" line="1309"/>
+        <location filename="MyThumbView.cpp" line="1303"/>
+        <location filename="MyThumbView.cpp" line="1316"/>
         <source>%n object(s)</source>
         <translation>
             <numerusform>%n objekt</numerusform>
@@ -22505,7 +22646,7 @@ Môžete to zmeniť v Nastavenia › Katalóg.</translation>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="MyThumbView.cpp" line="1296"/>
+        <location filename="MyThumbView.cpp" line="1303"/>
         <source>%n object(s) selected [%3 %4]</source>
         <translation>
             <numerusform>%n objekt vybratý [%3 %4]</numerusform>
@@ -22514,7 +22655,7 @@ Môžete to zmeniť v Nastavenia › Katalóg.</translation>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="MyThumbView.cpp" line="1307"/>
+        <location filename="MyThumbView.cpp" line="1314"/>
         <source>%n object(s) [%2 %3]</source>
         <translation>
             <numerusform>%n objekt [%2 %3]</numerusform>
@@ -22523,17 +22664,17 @@ Môžete to zmeniť v Nastavenia › Katalóg.</translation>
         </translation>
     </message>
     <message>
-        <location filename="MyThumbView.cpp" line="1349"/>
+        <location filename="MyThumbView.cpp" line="1356"/>
         <source>[Free disk space: %1 %2]</source>
         <translation>[Voľné miesto na disku: %1 %2]</translation>
     </message>
     <message>
-        <location filename="MyThumbView.cpp" line="1676"/>
+        <location filename="MyThumbView.cpp" line="1683"/>
         <source>All</source>
         <translation>Všetky</translation>
     </message>
     <message>
-        <location filename="MyThumbView.cpp" line="1680"/>
+        <location filename="MyThumbView.cpp" line="1687"/>
         <source>None</source>
         <translation>Žiadny</translation>
     </message>
@@ -22995,12 +23136,17 @@ Môžete to zmeniť v Nastavenia › Katalóg.</translation>
         <translation>Náhľad</translation>
     </message>
     <message>
-        <location filename="PreviewInfo.cpp" line="525"/>
+        <location filename="PreviewInfo.cpp" line="473"/>
+        <source>Favorites</source>
+        <translation type="unfinished">Obľúbené</translation>
+    </message>
+    <message>
+        <location filename="PreviewInfo.cpp" line="530"/>
         <source>Map</source>
         <translation>Mapa</translation>
     </message>
     <message>
-        <location filename="PreviewInfo.cpp" line="603"/>
+        <location filename="PreviewInfo.cpp" line="608"/>
         <source>Categories</source>
         <translation>Kategórie</translation>
     </message>
@@ -23016,7 +23162,7 @@ Môžete to zmeniť v Nastavenia › Katalóg.</translation>
 <context>
     <name>PreviewInfo</name>
     <message>
-        <location filename="PreviewInfo.cpp" line="773"/>
+        <location filename="PreviewInfo.cpp" line="778"/>
         <source>Preview</source>
         <translation>Náhľad</translation>
     </message>
@@ -23586,7 +23732,7 @@ Môžete to zmeniť v Nastavenia › Katalóg.</translation>
 <context>
     <name>Rename</name>
     <message>
-        <location filename="ItemModel.cpp" line="4704"/>
+        <location filename="ItemModel.cpp" line="4716"/>
         <source>An error has occurred during renaming!</source>
         <oldsource>An error occured during renaming!</oldsource>
         <translation>Počas premenovania nastala chyba!</translation>
@@ -23595,148 +23741,204 @@ Môžete to zmeniť v Nastavenia › Katalóg.</translation>
 <context>
     <name>SearchDlg</name>
     <message>
-        <location filename="SearchField.cpp" line="427"/>
-        <location filename="SearchField.cpp" line="650"/>
+        <location filename="SearchField.cpp" line="511"/>
+        <location filename="SearchField.cpp" line="739"/>
         <source>is</source>
         <translation>je</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="428"/>
+        <location filename="SearchField.cpp" line="512"/>
         <source>is not</source>
         <translation>nie je</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="429"/>
-        <location filename="SearchField.cpp" line="548"/>
+        <location filename="SearchField.cpp" line="513"/>
+        <location filename="SearchField.cpp" line="637"/>
         <source>is any of</source>
         <translation>je akékoľvek z</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="430"/>
-        <location filename="SearchField.cpp" line="549"/>
-        <location filename="SearchField.cpp" line="648"/>
+        <location filename="SearchField.cpp" line="514"/>
+        <location filename="SearchField.cpp" line="638"/>
+        <location filename="SearchField.cpp" line="737"/>
         <source>contains</source>
         <translation>obsahuje</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="431"/>
-        <location filename="SearchField.cpp" line="649"/>
+        <location filename="SearchField.cpp" line="515"/>
+        <location filename="SearchField.cpp" line="738"/>
         <source>does not contain</source>
         <oldsource>does not contains</oldsource>
         <translation>neobsahuje</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="432"/>
+        <location filename="SearchField.cpp" line="516"/>
         <source>starts with</source>
         <translation>začína s</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="499"/>
+        <location filename="SearchField.cpp" line="583"/>
         <source>With at least one of the words</source>
         <translation>Aspoň s jedným zo slov</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="501"/>
+        <location filename="SearchField.cpp" line="585"/>
         <source>With all of the words</source>
         <translation>So všetkými slovami</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="503"/>
+        <location filename="SearchField.cpp" line="587"/>
         <source>With the exact phrase</source>
         <translation>S presným slovným spojením</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="506"/>
+        <location filename="SearchField.cpp" line="590"/>
         <source>Whole word only</source>
         <translation>Iba celé slovo</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="794"/>
+        <location filename="SearchField.cpp" line="883"/>
         <source>and</source>
         <translation>a</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="885"/>
+        <location filename="SearchField.cpp" line="979"/>
         <source>is before</source>
         <translation>je pred</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="886"/>
+        <location filename="SearchField.cpp" line="980"/>
         <source>is after</source>
         <translation>je za</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="887"/>
+        <location filename="SearchField.cpp" line="981"/>
         <source>is between</source>
         <translation>je medzi</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="947"/>
-        <location filename="SearchField.cpp" line="1076"/>
-        <location filename="SearchField.cpp" line="1135"/>
-        <location filename="SearchField.cpp" line="1204"/>
+        <location filename="SearchField.cpp" line="982"/>
+        <source>is between (today)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="SearchField.cpp" line="983"/>
+        <source>is within the last</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="SearchField.cpp" line="1072"/>
+        <location filename="SearchField.cpp" line="1201"/>
+        <location filename="SearchField.cpp" line="1260"/>
+        <location filename="SearchField.cpp" line="1329"/>
         <source>is less than</source>
         <translation>je menej ako</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="948"/>
-        <location filename="SearchField.cpp" line="1077"/>
-        <location filename="SearchField.cpp" line="1136"/>
-        <location filename="SearchField.cpp" line="1205"/>
+        <location filename="SearchField.cpp" line="1073"/>
+        <location filename="SearchField.cpp" line="1202"/>
+        <location filename="SearchField.cpp" line="1261"/>
+        <location filename="SearchField.cpp" line="1330"/>
         <source>is less than or equal to</source>
         <translation>je menej alebo sa rovná</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="949"/>
-        <location filename="SearchField.cpp" line="1078"/>
-        <location filename="SearchField.cpp" line="1137"/>
-        <location filename="SearchField.cpp" line="1206"/>
+        <location filename="SearchField.cpp" line="1074"/>
+        <location filename="SearchField.cpp" line="1203"/>
+        <location filename="SearchField.cpp" line="1262"/>
+        <location filename="SearchField.cpp" line="1331"/>
         <source>equal to</source>
         <translation>rovná sa</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="950"/>
-        <location filename="SearchField.cpp" line="1079"/>
-        <location filename="SearchField.cpp" line="1138"/>
-        <location filename="SearchField.cpp" line="1207"/>
+        <location filename="SearchField.cpp" line="1075"/>
+        <location filename="SearchField.cpp" line="1204"/>
+        <location filename="SearchField.cpp" line="1263"/>
+        <location filename="SearchField.cpp" line="1332"/>
         <source>is greater than</source>
         <translation>je viac ako</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="951"/>
-        <location filename="SearchField.cpp" line="1080"/>
-        <location filename="SearchField.cpp" line="1139"/>
-        <location filename="SearchField.cpp" line="1208"/>
+        <location filename="SearchField.cpp" line="1076"/>
+        <location filename="SearchField.cpp" line="1205"/>
+        <location filename="SearchField.cpp" line="1264"/>
+        <location filename="SearchField.cpp" line="1333"/>
         <source>is greater than or equal to</source>
         <translation>je viac alebo sa rovná</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="952"/>
-        <location filename="SearchField.cpp" line="1081"/>
-        <location filename="SearchField.cpp" line="1140"/>
-        <location filename="SearchField.cpp" line="1209"/>
+        <location filename="SearchField.cpp" line="1077"/>
+        <location filename="SearchField.cpp" line="1206"/>
+        <location filename="SearchField.cpp" line="1265"/>
+        <location filename="SearchField.cpp" line="1334"/>
         <source>between</source>
         <translation>medzi</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1006"/>
+        <location filename="SearchField.cpp" line="1131"/>
         <source>bytes</source>
         <translation>bajtov</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1007"/>
+        <location filename="SearchField.cpp" line="1132"/>
         <source>KiB</source>
         <translation>KiB</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1008"/>
+        <location filename="SearchField.cpp" line="1133"/>
         <source>MiB</source>
         <translation>MiB</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1009"/>
+        <location filename="SearchField.cpp" line="1134"/>
         <source>GiB</source>
         <translation>GiB</translation>
+    </message>
+</context>
+<context>
+    <name>SearchFieldRangeDate</name>
+    <message>
+        <location filename="SearchField.cpp" line="975"/>
+        <source>day(s)</source>
+        <translation type="unfinished">dní</translation>
+    </message>
+    <message>
+        <location filename="SearchField.cpp" line="976"/>
+        <source>TODAY</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SearchGroup</name>
+    <message>
+        <location filename="SearchGroup.ui" line="20"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="SearchGroup.ui" line="71"/>
+        <source>Add &gt;&gt;</source>
+        <translation type="unfinished">Pridať &gt;&gt;</translation>
+    </message>
+    <message>
+        <location filename="SearchGroup.ui" line="81"/>
+        <source>Clear all</source>
+        <translation type="unfinished">Vymazať všetky</translation>
+    </message>
+    <message>
+        <location filename="SearchGroup.ui" line="101"/>
+        <source>Match inside this group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="SearchGroup.ui" line="109"/>
+        <source>AND</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="SearchGroup.ui" line="114"/>
+        <source>OR</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

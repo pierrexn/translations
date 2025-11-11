@@ -783,6 +783,34 @@ Trage și plasează peste nodul dorit de alocat.</translation>
         <source>New album</source>
         <translation>Album nou</translation>
     </message>
+    <message>
+        <source>New smart album...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create Smart Album from current filter...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Smart Album</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure to delete this Smart Album?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create Smart Album...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure to delete these categories?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ClearButton</name>
@@ -1600,6 +1628,18 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     <message>
         <source>No Color Profile</source>
         <translation>Fără profil de culoare</translation>
+    </message>
+    <message>
+        <source>Smart Albums</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Smart Album</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Square</source>
+        <translation type="unfinished">Pătrat</translation>
     </message>
 </context>
 <context>
@@ -8595,6 +8635,22 @@ Vrei să le redenumești?</translation>
         <source>Save pathname</source>
         <translation>Salvează numele căii</translation>
     </message>
+    <message>
+        <source>Smart Albums</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation type="unfinished">Nume:</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation type="unfinished">Salvare</translation>
+    </message>
+    <message>
+        <source>GROUP</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSearchClass</name>
@@ -8693,6 +8749,14 @@ Vrei să le redenumești?</translation>
     <message>
         <source>&amp;Browse...</source>
         <translation>&amp;Răsfoire...</translation>
+    </message>
+    <message>
+        <source>Close dialog when browse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save as Smart Album...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9870,10 +9934,6 @@ miniatură</translation>
         <translation>Integrare</translation>
     </message>
     <message>
-        <source>Add &apos;Browse with XnViewMP&apos; to context menu (requires admin rights)</source>
-        <translation>Adaugă „Navighează cu XnViewMP” în meniul contextual (necesită drepturi de administrator)</translation>
-    </message>
-    <message>
         <source>Settings - General</source>
         <translation>Setări - General</translation>
     </message>
@@ -9920,6 +9980,14 @@ miniatură</translation>
     <message>
         <source>...</source>
         <translation>...</translation>
+    </message>
+    <message>
+        <source>Add &apos;Browse with XnViewMP&apos; to context menu</source>
+        <translation type="unfinished">Adaugă „Navighează cu XnViewMP” în meniul contextual</translation>
+    </message>
+    <message>
+        <source>Enable shell extension to context menu</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12711,6 +12779,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 
 Dorești să ștergi favoritul „%1”?</translation>
     </message>
+    <message>
+        <source>Show files in subfolder</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>File</name>
@@ -13299,6 +13371,22 @@ Dorești să ștergi favoritul „%1”?</translation>
     <message>
         <source>Size (kB)</source>
         <translation>Dimensiunea (în kB/kO)</translation>
+    </message>
+    <message>
+        <source>Greyscale</source>
+        <translation type="unfinished">Tonuri de gri</translation>
+    </message>
+    <message>
+        <source>Bits per sample</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All standard fields</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ExifTool value</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14784,6 +14872,10 @@ Vrei să continui?</translation>
         <source>Extract current frame</source>
         <translation>Extrage cadrul curent</translation>
     </message>
+    <message>
+        <source>Open with</source>
+        <translation type="unfinished">Deschide cu</translation>
+    </message>
 </context>
 <context>
     <name>MenuBrowser</name>
@@ -15842,6 +15934,18 @@ Vrei să continui?</translation>
     <message>
         <source>Map</source>
         <translation>Hartă</translation>
+    </message>
+    <message>
+        <source>Add to album</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove from this album</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove from all albums</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17620,6 +17724,10 @@ O poți schimba în Setări › Catalog.</translation>
         <source>Map</source>
         <translation>Hartă</translation>
     </message>
+    <message>
+        <source>Favorites</source>
+        <translation type="unfinished">Favorite</translation>
+    </message>
 </context>
 <context>
     <name>PathEditWidget</name>
@@ -18172,6 +18280,52 @@ O poți schimba în Setări › Catalog.</translation>
     <message>
         <source>Whole word only</source>
         <translation>Numai cuvântul întreg</translation>
+    </message>
+    <message>
+        <source>is between (today)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is within the last</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SearchFieldRangeDate</name>
+    <message>
+        <source>day(s)</source>
+        <translation type="unfinished">zi(le)</translation>
+    </message>
+    <message>
+        <source>TODAY</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SearchGroup</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add &gt;&gt;</source>
+        <translation type="unfinished">Adaugă &gt;&gt;</translation>
+    </message>
+    <message>
+        <source>Clear all</source>
+        <translation type="unfinished">Curăţă tot</translation>
+    </message>
+    <message>
+        <source>Match inside this group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AND</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OR</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

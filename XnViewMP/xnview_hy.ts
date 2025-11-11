@@ -781,6 +781,34 @@ Drag and Drop over the desired node to assign.</translation>
         <source>New album</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>New smart album...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create Smart Album from current filter...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit...</source>
+        <translation type="unfinished">Խմբագրել...</translation>
+    </message>
+    <message>
+        <source>Delete Smart Album</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure to delete this Smart Album?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create Smart Album...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure to delete these categories?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ClearButton</name>
@@ -1598,6 +1626,18 @@ Drag and Drop over the desired node to assign.</translation>
     <message>
         <source>No Color Profile</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Smart Albums</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Smart Album</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Square</source>
+        <translation type="unfinished">Քառակուսի</translation>
     </message>
 </context>
 <context>
@@ -8577,6 +8617,22 @@ Do you want to remove them?</source>
         <source>Save pathname</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Smart Albums</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation type="unfinished">Անուն.</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation type="unfinished">Պահել</translation>
+    </message>
+    <message>
+        <source>GROUP</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSearchClass</name>
@@ -8675,6 +8731,14 @@ Do you want to remove them?</source>
     <message>
         <source>Search in folder names</source>
         <translation>Որոնել պանակների անվանումներում</translation>
+    </message>
+    <message>
+        <source>Close dialog when browse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save as Smart Album...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9844,10 +9908,6 @@ Thumbnail</source>
         <translation>Ինտեգրում</translation>
     </message>
     <message>
-        <source>Add &apos;Browse with XnViewMP&apos; to context menu (requires admin rights)</source>
-        <translation>Հավելել &apos;Բացել XnViewMP-ով&apos; հարցումը համատեքստային ցանկում (Ադմինի իրավունքներով)</translation>
-    </message>
-    <message>
         <source>Paths</source>
         <translation>Ուղիներ</translation>
     </message>
@@ -9902,6 +9962,14 @@ Thumbnail</source>
     <message>
         <source>...</source>
         <translation type="unfinished">...</translation>
+    </message>
+    <message>
+        <source>Add &apos;Browse with XnViewMP&apos; to context menu</source>
+        <translation type="unfinished">Ավելացնել &apos;Դիտել XnViewMP-ում&apos; հարցումը համատեքստային ցանկում</translation>
+    </message>
+    <message>
+        <source>Enable shell extension to context menu</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12693,6 +12761,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 
 Ցանկանո՞ւմ եք ջնջել &quot;%1&quot; ընտրյալը:</translation>
     </message>
+    <message>
+        <source>Show files in subfolder</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>File</name>
@@ -13280,6 +13352,22 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Size (kB)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Greyscale</source>
+        <translation type="unfinished">Մոխրագույն</translation>
+    </message>
+    <message>
+        <source>Bits per sample</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All standard fields</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ExifTool value</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14766,6 +14854,10 @@ Do you want to continue?</source>
         <source>Save frame as...</source>
         <translation>Պահել շրջանակը որպես...</translation>
     </message>
+    <message>
+        <source>Open with</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MenuBrowser</name>
@@ -15823,6 +15915,18 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Map</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add to album</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove from this album</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove from all albums</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17599,6 +17703,10 @@ You can change it in Settings › Catalog.</source>
         <source>Map</source>
         <translation>Քարտեզ</translation>
     </message>
+    <message>
+        <source>Favorites</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PathEditWidget</name>
@@ -18151,6 +18259,52 @@ You can change it in Settings › Catalog.</source>
     <message>
         <source>does not contain</source>
         <translation>չի պարունակում</translation>
+    </message>
+    <message>
+        <source>is between (today)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is within the last</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SearchFieldRangeDate</name>
+    <message>
+        <source>day(s)</source>
+        <translation type="unfinished">օր</translation>
+    </message>
+    <message>
+        <source>TODAY</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SearchGroup</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add &gt;&gt;</source>
+        <translation type="unfinished">Ավելացնել »»</translation>
+    </message>
+    <message>
+        <source>Clear all</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Match inside this group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AND</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OR</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

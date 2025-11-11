@@ -781,6 +781,34 @@ Arraste e solte sobre o nó desejado para atribuir.</translation>
         <source>New album</source>
         <translation>Novo álbum</translation>
     </message>
+    <message>
+        <source>New smart album...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create Smart Album from current filter...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit...</source>
+        <translation type="unfinished">Editar...</translation>
+    </message>
+    <message>
+        <source>Delete Smart Album</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure to delete this Smart Album?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create Smart Album...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure to delete these categories?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ClearButton</name>
@@ -1598,6 +1626,18 @@ Arraste e solte sobre o nó desejado para atribuir.</translation>
     <message>
         <source>No Color Profile</source>
         <translation>Sem perfil de cor</translation>
+    </message>
+    <message>
+        <source>Smart Albums</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Smart Album</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Square</source>
+        <translation type="unfinished">Quadrado</translation>
     </message>
 </context>
 <context>
@@ -8581,6 +8621,22 @@ Deseja removê-los da lista?</translation>
         <source>Save pathname</source>
         <translation>Salvar caminho</translation>
     </message>
+    <message>
+        <source>Smart Albums</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation type="unfinished">Nome:</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation type="unfinished">Salvar</translation>
+    </message>
+    <message>
+        <source>GROUP</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSearchClass</name>
@@ -8679,6 +8735,14 @@ Deseja removê-los da lista?</translation>
     <message>
         <source>&amp;Browse...</source>
         <translation>&amp;Procurar...</translation>
+    </message>
+    <message>
+        <source>Close dialog when browse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save as Smart Album...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9852,10 +9916,6 @@ miniatura</translation>
         <translation>...</translation>
     </message>
     <message>
-        <source>Add &apos;Browse with XnViewMP&apos; to context menu (requires admin rights)</source>
-        <translation>Adicionar &apos;Navegar com XnViewMP&apos; ao menu de contexto (requer direitos de administrador)</translation>
-    </message>
-    <message>
         <source>Paths</source>
         <translation>Caminhos</translation>
     </message>
@@ -9906,6 +9966,14 @@ miniatura</translation>
     <message>
         <source>ExifTool path</source>
         <translation>Caminho do ExifTool</translation>
+    </message>
+    <message>
+        <source>Add &apos;Browse with XnViewMP&apos; to context menu</source>
+        <translation type="unfinished">Adicionar &apos;Navegar com XnViewMP&apos; ao menu de contexto</translation>
+    </message>
+    <message>
+        <source>Enable shell extension to context menu</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12697,6 +12765,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 
 Deseja excluir o favorito &quot;%1&quot;?</translation>
     </message>
+    <message>
+        <source>Show files in subfolder</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>File</name>
@@ -13289,6 +13361,22 @@ Deseja excluir o favorito &quot;%1&quot;?</translation>
     <message>
         <source>Size (kB)</source>
         <translation>Tamanho (kB)</translation>
+    </message>
+    <message>
+        <source>Greyscale</source>
+        <translation type="unfinished">Tons de cinza</translation>
+    </message>
+    <message>
+        <source>Bits per sample</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All standard fields</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ExifTool value</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14775,6 +14863,10 @@ Deseja continuar?</translation>
         <source>Save frame as...</source>
         <translation>Salvar quadro como...</translation>
     </message>
+    <message>
+        <source>Open with</source>
+        <translation type="unfinished">Abrir com</translation>
+    </message>
 </context>
 <context>
     <name>MenuBrowser</name>
@@ -15833,6 +15925,18 @@ Deseja continuar?</translation>
     <message>
         <source>Map</source>
         <translation>Mapa</translation>
+    </message>
+    <message>
+        <source>Add to album</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove from this album</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove from all albums</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17609,6 +17713,10 @@ Você pode alterá-lo em Configurações › Catálogo.</translation>
         <source>Map</source>
         <translation>Mapa</translation>
     </message>
+    <message>
+        <source>Favorites</source>
+        <translation type="unfinished">Favoritos</translation>
+    </message>
 </context>
 <context>
     <name>PathEditWidget</name>
@@ -18161,6 +18269,52 @@ Você pode alterá-lo em Configurações › Catálogo.</translation>
     <message>
         <source>does not contain</source>
         <translation>não contém</translation>
+    </message>
+    <message>
+        <source>is between (today)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is within the last</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SearchFieldRangeDate</name>
+    <message>
+        <source>day(s)</source>
+        <translation type="unfinished">dia(s)</translation>
+    </message>
+    <message>
+        <source>TODAY</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SearchGroup</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add &gt;&gt;</source>
+        <translation type="unfinished">Adicionar &gt;&gt;</translation>
+    </message>
+    <message>
+        <source>Clear all</source>
+        <translation type="unfinished">Limpar tudo</translation>
+    </message>
+    <message>
+        <source>Match inside this group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AND</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OR</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
