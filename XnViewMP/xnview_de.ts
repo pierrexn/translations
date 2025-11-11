@@ -929,28 +929,28 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CategoryView.cpp" line="487"/>
         <source>New smart album...</source>
-        <translation type="unfinished"></translation>
+        <translation>Neues intelligentes Album...</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="489"/>
         <location filename="CategoryView.cpp" line="662"/>
         <source>Create Smart Album from current filter...</source>
-        <translation type="unfinished"></translation>
+        <translation>Intelligentes Album aus aktuellem Filter erstellen...</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="493"/>
         <source>Edit...</source>
-        <translation type="unfinished">Bearbeiten...</translation>
+        <translation>Bearbeiten...</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="520"/>
         <source>Delete Smart Album</source>
-        <translation type="unfinished"></translation>
+        <translation>Intelligentes Album löschen</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="520"/>
         <source>Are you sure to delete this Smart Album?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sind Sie sicher, dass Sie dieses intelligente Album löschen möchten?</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="545"/>
@@ -1010,12 +1010,12 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CategoryView.cpp" line="660"/>
         <source>Create Smart Album...</source>
-        <translation type="unfinished"></translation>
+        <translation>Intelligentes Album erstellen...</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="694"/>
         <source>Are you sure to delete these categories?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sind Sie sicher, dass Sie diese Kategorien löschen möchten?</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="707"/>
@@ -2070,13 +2070,13 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DBFilterModel.cpp" line="168"/>
         <source>Smart Albums</source>
-        <translation type="unfinished"></translation>
+        <translation>Intelligente Alben</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="292"/>
         <location filename="DBFilterModel.cpp" line="1936"/>
         <source>No Smart Album</source>
-        <translation type="unfinished"></translation>
+        <translation>Kein intelligentes Album</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1175"/>
@@ -2103,7 +2103,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DBFilterModel.cpp" line="1817"/>
         <source>Square</source>
-        <translation type="unfinished"></translation>
+        <translation>Quadrat</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1890"/>
@@ -11011,18 +11011,18 @@ Möchten Sie sie entfernen?</translation>
         <location filename="DlgSearch.cpp" line="78"/>
         <location filename="DlgSearch.cpp" line="186"/>
         <source>Smart Albums</source>
-        <translation type="unfinished"></translation>
+        <translation>Intelligente Alben</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="78"/>
         <location filename="DlgSearch.cpp" line="186"/>
         <source>Name:</source>
-        <translation type="unfinished">Name:</translation>
+        <translation>Name:</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="178"/>
         <source>Save</source>
-        <translation type="unfinished">Speichern</translation>
+        <translation>Speichern</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="332"/>
@@ -11042,7 +11042,7 @@ Möchten Sie sie entfernen?</translation>
     <message>
         <location filename="DlgSearch.cpp" line="410"/>
         <source>GROUP</source>
-        <translation type="unfinished"></translation>
+        <translation>GRUPPE</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="443"/>
@@ -11110,7 +11110,7 @@ Möchten Sie sie entfernen?</translation>
     <message>
         <location filename="DlgSearch.ui" line="143"/>
         <source>Close dialog when browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Dialogfeld beim Durchsuchen schließen</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="165"/>
@@ -11140,7 +11140,7 @@ Möchten Sie sie entfernen?</translation>
     <message>
         <location filename="DlgSearch.ui" line="237"/>
         <source>Save as Smart Album...</source>
-        <translation type="unfinished"></translation>
+        <translation>Als intelligentes Album speichern...</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="348"/>
@@ -12703,12 +12703,12 @@ Miniaturbild</translation>
         <location filename="DlgSettingsIntegration.ui" line="45"/>
         <source>Add &apos;Browse with XnViewMP&apos; to context menu</source>
         <oldsource>Add &apos;Browse with XnViewMP&apos; to context menu (requires admin rights)</oldsource>
-        <translation type="unfinished">Menüpunkt &quot;Betrachten mit XnView MP&quot; in Kontextmenü anzeigen (erfordert Adminrechte)</translation>
+        <translation>Menüpunkt &quot;Betrachten mit XnView MP&quot; in Kontextmenü anzeigen (erfordert Adminrechte)</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="52"/>
         <source>Enable shell extension to context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Shell-Erweiterung für Kontextmenü aktivieren</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="61"/>
@@ -16470,7 +16470,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="FavoritesView.cpp" line="106"/>
         <source>Show files in subfolder</source>
-        <translation type="unfinished"></translation>
+        <translation>Dateien im Unterordner anzeigen</translation>
     </message>
     <message>
         <location filename="FavoritesView.cpp" line="114"/>
@@ -16776,7 +16776,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="76"/>
         <source>Greyscale</source>
-        <translation type="unfinished">Graustufen</translation>
+        <translation>Graustufen</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="80"/>
@@ -17074,17 +17074,17 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="SearchField.cpp" line="39"/>
         <source>Bits per sample</source>
-        <translation type="unfinished"></translation>
+        <translation>Bits pro Abtastung</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="43"/>
         <source>All standard fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Standardfelder</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="44"/>
         <source>ExifTool value</source>
-        <translation type="unfinished"></translation>
+        <translation>ExifTool-Wert</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="139"/>
@@ -19426,7 +19426,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="MediaPlayerMDK.cpp" line="248"/>
         <source>Open with</source>
-        <translation type="unfinished">Öffnen mit</translation>
+        <translation>Öffnen mit</translation>
     </message>
 </context>
 <context>
@@ -20499,7 +20499,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="BrowserMenu.h" line="509"/>
         <source>Add to album</source>
-        <translation type="unfinished"></translation>
+        <translation>Zum Album hinzufügen</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="510"/>
@@ -20514,12 +20514,12 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="BrowserMenu.h" line="512"/>
         <source>Remove from this album</source>
-        <translation type="unfinished"></translation>
+        <translation>Aus diesem Album entfernen</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="513"/>
         <source>Remove from all albums</source>
-        <translation type="unfinished"></translation>
+        <translation>Aus allen Alben entfernen</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="515"/>
@@ -23108,7 +23108,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="PreviewInfo.cpp" line="473"/>
         <source>Favorites</source>
-        <translation type="unfinished">Lesezeichen</translation>
+        <translation>Favoriten</translation>
     </message>
     <message>
         <location filename="PreviewInfo.cpp" line="530"/>
@@ -23789,12 +23789,12 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="SearchField.cpp" line="982"/>
         <source>is between (today)</source>
-        <translation type="unfinished"></translation>
+        <translation>ist zwischen (heute)</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="983"/>
         <source>is within the last</source>
-        <translation type="unfinished"></translation>
+        <translation>befindet sich innerhalb der letzten</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="1072"/>
@@ -23870,12 +23870,12 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="SearchField.cpp" line="975"/>
         <source>day(s)</source>
-        <translation type="unfinished">Tag(e)</translation>
+        <translation>Tag(e)</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="976"/>
         <source>TODAY</source>
-        <translation type="unfinished"></translation>
+        <translation>HEUTE</translation>
     </message>
 </context>
 <context>
@@ -23883,32 +23883,32 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="SearchGroup.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formular</translation>
     </message>
     <message>
         <location filename="SearchGroup.ui" line="71"/>
         <source>Add &gt;&gt;</source>
-        <translation type="unfinished">Hinzufügen &gt;&gt;</translation>
+        <translation>Hinzufügen &gt;&gt;</translation>
     </message>
     <message>
         <location filename="SearchGroup.ui" line="81"/>
         <source>Clear all</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles löschen</translation>
     </message>
     <message>
         <location filename="SearchGroup.ui" line="101"/>
         <source>Match inside this group</source>
-        <translation type="unfinished"></translation>
+        <translation>eine Übereinstimmung innerhalb dieser Gruppe</translation>
     </message>
     <message>
         <location filename="SearchGroup.ui" line="109"/>
         <source>AND</source>
-        <translation type="unfinished"></translation>
+        <translation>UND</translation>
     </message>
     <message>
         <location filename="SearchGroup.ui" line="114"/>
         <source>OR</source>
-        <translation type="unfinished"></translation>
+        <translation>ODER</translation>
     </message>
 </context>
 <context>
