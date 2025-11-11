@@ -18,8 +18,9 @@
   "loginName": "Név",
   "@loginName": {},
   "infoBuyer": "{count, plural, =1{1 vevő} other{{count} vevő}}",
+  "@infoBuyer": {},
   "infoUp": "akár",
-
+  "@infoUp": {},
   "loginZip": "Irányítószám/irányítószám",
   "@loginZip": {},
   "loginCountry": "Ország",
