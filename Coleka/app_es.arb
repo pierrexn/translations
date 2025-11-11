@@ -22,8 +22,9 @@
   "loginPassword": "Contraseña",
   "@loginPassword": {},
   "infoBuyer": "{count, plural, =1{1 comprador} other{{count} compradores}}",
+  "@infoBuyer": {},
   "infoUp": "Hasta",
-
+  "@infoUp": {},
   "loginForgotPassword": "¿Ha olvidado su contraseña?",
   "@loginForgotPassword": {},
   "loginFacebook": "Iniciar sesión con Facebook",
