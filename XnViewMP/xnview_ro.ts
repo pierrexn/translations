@@ -785,31 +785,31 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>New smart album...</source>
-        <translation type="unfinished"></translation>
+        <translation>Album nou inteligent...</translation>
     </message>
     <message>
         <source>Create Smart Album from current filter...</source>
-        <translation type="unfinished"></translation>
+        <translation>Crează un album nou inteligent din filtrul actual...</translation>
     </message>
     <message>
         <source>Edit...</source>
-        <translation type="unfinished"></translation>
+        <translation>Editează...</translation>
     </message>
     <message>
         <source>Delete Smart Album</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge albumul inteligent</translation>
     </message>
     <message>
         <source>Are you sure to delete this Smart Album?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ești sigur(ă) că vrei să ștergi acest album inteligent?</translation>
     </message>
     <message>
         <source>Create Smart Album...</source>
-        <translation type="unfinished"></translation>
+        <translation>Crează un album inteligent...</translation>
     </message>
     <message>
         <source>Are you sure to delete these categories?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ești sigur(ă) că dorești să ștergi aceste categorii?</translation>
     </message>
 </context>
 <context>
@@ -1631,15 +1631,15 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Smart Albums</source>
-        <translation type="unfinished"></translation>
+        <translation>Albume inteligente</translation>
     </message>
     <message>
         <source>No Smart Album</source>
-        <translation type="unfinished"></translation>
+        <translation>Niciun album inteligent</translation>
     </message>
     <message>
         <source>Square</source>
-        <translation type="unfinished">Pătrat</translation>
+        <translation>Pătrat</translation>
     </message>
 </context>
 <context>
@@ -8637,19 +8637,19 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Smart Albums</source>
-        <translation type="unfinished"></translation>
+        <translation>Albume inteligente</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished">Nume:</translation>
+        <translation>Numele:</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished">Salvare</translation>
+        <translation>Salvează</translation>
     </message>
     <message>
         <source>GROUP</source>
-        <translation type="unfinished"></translation>
+        <translation>GRUP</translation>
     </message>
 </context>
 <context>
@@ -8752,11 +8752,11 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Close dialog when browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Închide caseta de dialog în timpul navigării</translation>
     </message>
     <message>
         <source>Save as Smart Album...</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvează ca album inteligent...</translation>
     </message>
 </context>
 <context>
@@ -9983,11 +9983,11 @@ miniatură</translation>
     </message>
     <message>
         <source>Add &apos;Browse with XnViewMP&apos; to context menu</source>
-        <translation type="unfinished">Adaugă „Navighează cu XnViewMP” în meniul contextual</translation>
+        <translation>Adaugă „Navighează cu XnViewMP” în meniul contextual</translation>
     </message>
     <message>
         <source>Enable shell extension to context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Activează extensia shell în meniul contextual</translation>
     </message>
 </context>
 <context>
@@ -12781,7 +12781,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Show files in subfolder</source>
-        <translation type="unfinished"></translation>
+        <translation>Afișează fișierele în subdosar (în subfolder)</translation>
     </message>
 </context>
 <context>
@@ -13374,19 +13374,19 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Greyscale</source>
-        <translation type="unfinished">Tonuri de gri</translation>
+        <translation>Tonuri de gri</translation>
     </message>
     <message>
         <source>Bits per sample</source>
-        <translation type="unfinished"></translation>
+        <translation>Biți pe eșantion</translation>
     </message>
     <message>
         <source>All standard fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Toate câmpurile standard</translation>
     </message>
     <message>
         <source>ExifTool value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valoarea ExifTool</translation>
     </message>
 </context>
 <context>
@@ -14874,7 +14874,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Open with</source>
-        <translation type="unfinished">Deschide cu</translation>
+        <translation>Deschide cu</translation>
     </message>
 </context>
 <context>
@@ -15937,15 +15937,15 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Add to album</source>
-        <translation type="unfinished"></translation>
+        <translation>Adaugă în album</translation>
     </message>
     <message>
         <source>Remove from this album</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimină din acest album</translation>
     </message>
     <message>
         <source>Remove from all albums</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimină din toate albumele</translation>
     </message>
 </context>
 <context>
@@ -17726,7 +17726,7 @@ O poți schimba în Setări › Catalog.</translation>
     </message>
     <message>
         <source>Favorites</source>
-        <translation type="unfinished">Favorite</translation>
+        <translation>Favorite</translation>
     </message>
 </context>
 <context>
@@ -18283,49 +18283,49 @@ O poți schimba în Setări › Catalog.</translation>
     </message>
     <message>
         <source>is between (today)</source>
-        <translation type="unfinished"></translation>
+        <translation>este între (astăzi)</translation>
     </message>
     <message>
         <source>is within the last</source>
-        <translation type="unfinished"></translation>
+        <translation>este în ultimul</translation>
     </message>
 </context>
 <context>
     <name>SearchFieldRangeDate</name>
     <message>
         <source>day(s)</source>
-        <translation type="unfinished">zi(le)</translation>
+        <translation>zi (zile)</translation>
     </message>
     <message>
         <source>TODAY</source>
-        <translation type="unfinished"></translation>
+        <translation>ASTĂZI</translation>
     </message>
 </context>
 <context>
     <name>SearchGroup</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formular</translation>
     </message>
     <message>
         <source>Add &gt;&gt;</source>
-        <translation type="unfinished">Adaugă &gt;&gt;</translation>
+        <translation>Adaugă &gt;&gt;</translation>
     </message>
     <message>
         <source>Clear all</source>
-        <translation type="unfinished">Curăţă tot</translation>
+        <translation>Curăţă tot</translation>
     </message>
     <message>
         <source>Match inside this group</source>
-        <translation type="unfinished"></translation>
+        <translation>Potrivește în acest grup</translation>
     </message>
     <message>
         <source>AND</source>
-        <translation type="unfinished"></translation>
+        <translation>ȘI</translation>
     </message>
     <message>
         <source>OR</source>
-        <translation type="unfinished"></translation>
+        <translation>SAU</translation>
     </message>
 </context>
 <context>
