@@ -20,8 +20,9 @@
   "loginZip": "CAP/Codice postale",
   "@loginZip": {},
   "infoBuyer": "{count, plural, =1{1 acquirente} other{{count} acquirenti}}",
+  "@infoBuyer": {},
   "infoUp": "fino a",
-
+  "@infoUp": {},
   "loginCountry": "Paese",
   "@loginCountry": {},
   "loginPassword": "Password",
