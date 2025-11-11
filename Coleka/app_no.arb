@@ -17,6 +17,9 @@
   "@loginEmail": {},
   "loginName": "Navn",
   "@loginName": {},
+  "infoBuyer": "{count, plural, =1{1 kjøper} other{{count} kjøpere}}",
+  "infoUp": "opptil",
+
   "loginZip": "Postnummer",
   "@loginZip": {},
   "loginCountry": "Land",
@@ -423,7 +426,7 @@
   "@settingsSelectLanguage": {},
   "settingsSelectCurrency": "Velg en valuta",
   "@settingsSelectCurrency": {},
-  "settingsSubscription": "Eksistens",
+  "settingsSubscription": "Abonnement",
   "@settingsSubscription": {},
   "settingsLinks": "Lenker",
   "@settingsLinks": {},

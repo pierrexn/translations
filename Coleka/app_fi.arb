@@ -17,6 +17,9 @@
   "@loginEmail": {},
   "loginName": "Nimi",
   "@loginName": {},
+  "infoBuyer": "{count, plural, =1{1 ostaja} other{{count} ostajaa}}",
+  "infoUp": "jopa",
+
   "loginZip": "Postinumero/Postinumero",
   "@loginZip": {},
   "loginCountry": "Maa",

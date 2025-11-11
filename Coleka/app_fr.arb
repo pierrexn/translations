@@ -160,6 +160,8 @@
   "@infoUsersFollow": {},
   "infoCheckedPrice": "Prix vérifié le ",
   "@infoCheckedPrice": {},
+  "infoBuyer": "{count, plural, =1{1 acheteur} other{{count} acheteurs}}",
+  "infoUp": "jusqu'à",
   "itemBestOffer": "Meilleur prix trouvé",
   "@itemBestOffer": {},
   "itemOffer": "{count, plural, =1{auprès de 1 vendeur} other{auprès de {count} vendeurs}}",

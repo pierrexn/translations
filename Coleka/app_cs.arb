@@ -506,6 +506,8 @@
   "@needToLogin": {},
   "inappSubscribe": "Uzavřít",
   "@inappSubscribe": {},
+  "infoBuyer": "{count, plural, =1{1 kupující} other{{count} kupujících}}",
+  "infoUp": "až",
   "inappPerMonth": "měsíčně",
   "@inappPerMonth": {}
 }

@@ -19,6 +19,9 @@
   "@loginName": {},
   "loginZip": "CAP/Codice postale",
   "@loginZip": {},
+  "infoBuyer": "{count, plural, =1{1 acquirente} other{{count} acquirenti}}",
+  "infoUp": "fino a",
+
   "loginCountry": "Paese",
   "@loginCountry": {},
   "loginPassword": "Password",
@@ -429,7 +432,7 @@
   "@settingsSelectLanguage": {},
   "settingsSelectCurrency": "Selezionare una valuta",
   "@settingsSelectCurrency": {},
-  "settingsSubscription": "Sussistere",
+  "settingsSubscription": "Abbonamento",
   "@settingsSubscription": {},
   "settingsLinks": "Link",
   "@settingsLinks": {},

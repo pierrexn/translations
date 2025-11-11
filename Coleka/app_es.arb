@@ -21,6 +21,9 @@
   "@loginCountry": {},
   "loginPassword": "Contraseña",
   "@loginPassword": {},
+  "infoBuyer": "{count, plural, =1{1 comprador} other{{count} compradores}}",
+  "infoUp": "Hasta",
+
   "loginForgotPassword": "¿Ha olvidado su contraseña?",
   "@loginForgotPassword": {},
   "loginFacebook": "Iniciar sesión con Facebook",
@@ -433,7 +436,7 @@
   "@settingsSelectCurrency": {},
   "settingsSubscription": "Subsistir",
   "@settingsSubscription": {},
-  "settingsLinks": "Campo de golf",
+  "settingsLinks": "Enlaces",
   "@settingsLinks": {},
   "needToLogin": "Necesita iniciar sesión en su cuenta",
   "@needToLogin": {},

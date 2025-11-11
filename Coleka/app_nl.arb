@@ -17,6 +17,9 @@
   "@loginEmail": {},
   "loginName": "Naam",
   "@loginName": {},
+  "infoBuyer": "{count, plural, =1{1 koper} other{{count} kopers}}",
+  "infoUp": "tot",
+
   "loginZip": "Postcode",
   "@loginZip": {},
   "loginCountry": "Land",
