@@ -104,8 +104,9 @@
   "infoTitleVariant": "{count, plural, =1{1 VARIANT} other{{count} VARIANTER}}",
   "@infoTitleVariant": {},
   "infoBuyer": "{count, plural, =1{1 køber} other{{count} købere}}",
+  "@infoBuyer": {},
   "infoUp": "op til",
-
+  "@infoUp": {},
   "infoTitleManage": "ADMINISTRER DIN SAMLING",
   "@infoTitleManage": {},
   "infoCollection": "Samling",
