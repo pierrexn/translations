@@ -941,7 +941,7 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
     <message>
         <location filename="CategoryView.cpp" line="493"/>
         <source>Edit...</source>
-        <translation type="unfinished">Szerkesztés...</translation>
+        <translation>Szerkesztés...</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="520"/>
@@ -2105,7 +2105,7 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
     <message>
         <location filename="DBFilterModel.cpp" line="1817"/>
         <source>Square</source>
-        <translation type="unfinished">Négyzet</translation>
+        <translation>Négyzet</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1890"/>
@@ -11008,12 +11008,12 @@ El szeretné őket távolítani?</translation>
         <location filename="DlgSearch.cpp" line="78"/>
         <location filename="DlgSearch.cpp" line="186"/>
         <source>Name:</source>
-        <translation type="unfinished">Név:</translation>
+        <translation>Név:</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="178"/>
         <source>Save</source>
-        <translation type="unfinished">Mentés</translation>
+        <translation>Mentés</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="332"/>
@@ -11033,7 +11033,7 @@ El szeretné őket távolítani?</translation>
     <message>
         <location filename="DlgSearch.cpp" line="410"/>
         <source>GROUP</source>
-        <translation type="unfinished"></translation>
+        <translation>CSOPORT</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="443"/>
@@ -12696,7 +12696,7 @@ miniatűrként</translation>
         <location filename="DlgSettingsIntegration.ui" line="45"/>
         <source>Add &apos;Browse with XnViewMP&apos; to context menu</source>
         <oldsource>Add &apos;Browse with XnViewMP&apos; to context menu (requires admin rights)</oldsource>
-        <translation type="unfinished">&apos;Böngészés az XnViewMP-vel&apos; hozzáadása a menühöz (Rendszergazdai jogosultság szükséges)</translation>
+        <translation>&apos;Böngészés XnViewMP-vel&apos; hozzáadása a helyi menühöz</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="52"/>
@@ -16768,7 +16768,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="76"/>
         <source>Greyscale</source>
-        <translation type="unfinished">Szürkeárnyalat</translation>
+        <translation>Szürkeárnyalat</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="80"/>
@@ -19417,7 +19417,7 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="MediaPlayerMDK.cpp" line="248"/>
         <source>Open with</source>
-        <translation type="unfinished">Megnyitás a következővel</translation>
+        <translation>Megnyitás a következővel</translation>
     </message>
 </context>
 <context>
@@ -23089,7 +23089,7 @@ Megváltoztathatja a Beállítások › Katalógus alatt.</translation>
     <message>
         <location filename="PreviewInfo.cpp" line="473"/>
         <source>Favorites</source>
-        <translation type="unfinished">Kedvencek</translation>
+        <translation>Kedvencek</translation>
     </message>
     <message>
         <location filename="PreviewInfo.cpp" line="530"/>
@@ -23850,12 +23850,12 @@ Megváltoztathatja a Beállítások › Katalógus alatt.</translation>
     <message>
         <location filename="SearchField.cpp" line="975"/>
         <source>day(s)</source>
-        <translation type="unfinished">nap</translation>
+        <translation>nap</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="976"/>
         <source>TODAY</source>
-        <translation type="unfinished"></translation>
+        <translation>MA</translation>
     </message>
 </context>
 <context>
@@ -23868,12 +23868,12 @@ Megváltoztathatja a Beállítások › Katalógus alatt.</translation>
     <message>
         <location filename="SearchGroup.ui" line="71"/>
         <source>Add &gt;&gt;</source>
-        <translation type="unfinished">Hozzáad &gt;&gt;</translation>
+        <translation>Hozzáad &gt;&gt;</translation>
     </message>
     <message>
         <location filename="SearchGroup.ui" line="81"/>
         <source>Clear all</source>
-        <translation type="unfinished">Mind töröl</translation>
+        <translation>Mind töröl</translation>
     </message>
     <message>
         <location filename="SearchGroup.ui" line="101"/>
@@ -23883,12 +23883,12 @@ Megváltoztathatja a Beállítások › Katalógus alatt.</translation>
     <message>
         <location filename="SearchGroup.ui" line="109"/>
         <source>AND</source>
-        <translation type="unfinished"></translation>
+        <translation>ÉS</translation>
     </message>
     <message>
         <location filename="SearchGroup.ui" line="114"/>
         <source>OR</source>
-        <translation type="unfinished"></translation>
+        <translation>VAGY</translation>
     </message>
 </context>
 <context>
