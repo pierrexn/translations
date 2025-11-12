@@ -783,31 +783,31 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>New smart album...</source>
-        <translation type="unfinished"></translation>
+        <translation>Uusi Smart-albumi...</translation>
     </message>
     <message>
         <source>Create Smart Album from current filter...</source>
-        <translation type="unfinished"></translation>
+        <translation>Luo Smart-albumi nykyisellä suodattimella...</translation>
     </message>
     <message>
         <source>Edit...</source>
-        <translation type="unfinished">Muokkaa...</translation>
+        <translation>Muokkaa...</translation>
     </message>
     <message>
         <source>Delete Smart Album</source>
-        <translation type="unfinished"></translation>
+        <translation>Poista Smart-albumi</translation>
     </message>
     <message>
         <source>Are you sure to delete this Smart Album?</source>
-        <translation type="unfinished"></translation>
+        <translation>Haluatko varmasti poistaa tämän Smart-albumin?</translation>
     </message>
     <message>
         <source>Create Smart Album...</source>
-        <translation type="unfinished"></translation>
+        <translation>Luo Smart-albumi...</translation>
     </message>
     <message>
         <source>Are you sure to delete these categories?</source>
-        <translation type="unfinished"></translation>
+        <translation>Haluatko varmasti poistaa nämä kategoriat?</translation>
     </message>
 </context>
 <context>
@@ -1629,15 +1629,15 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>Smart Albums</source>
-        <translation type="unfinished"></translation>
+        <translation>Smart-albumi</translation>
     </message>
     <message>
         <source>No Smart Album</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei Smart-albumia</translation>
     </message>
     <message>
         <source>Square</source>
-        <translation type="unfinished">Neliö</translation>
+        <translation>Neliö</translation>
     </message>
 </context>
 <context>
@@ -6220,7 +6220,7 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     </message>
     <message>
         <source>Extension</source>
-        <translation>Tiedostomuoto</translation>
+        <translation>Tiedostopääte</translation>
     </message>
     <message>
         <source>Select all</source>
@@ -8625,19 +8625,19 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Smart Albums</source>
-        <translation type="unfinished"></translation>
+        <translation>Smart-albumit</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished">Nimi:</translation>
+        <translation>Nimi:</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished">Tallenna</translation>
+        <translation>Tallenna</translation>
     </message>
     <message>
         <source>GROUP</source>
-        <translation type="unfinished"></translation>
+        <translation>RYHMÄ</translation>
     </message>
 </context>
 <context>
@@ -8740,11 +8740,11 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Close dialog when browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Sulje valintaikkuna selattaessa</translation>
     </message>
     <message>
         <source>Save as Smart Album...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tallenna Smart-albumina...</translation>
     </message>
 </context>
 <context>
@@ -9972,11 +9972,11 @@ pienoiskuvina</translation>
     </message>
     <message>
         <source>Add &apos;Browse with XnViewMP&apos; to context menu</source>
-        <translation type="unfinished">Lisää &apos;Avaa XnViewMP:llä&apos; hiiren pikavalikkoon</translation>
+        <translation>Lisää &apos;Avaa XnViewMP:llä&apos; hiiren pikavalikkoon</translation>
     </message>
     <message>
         <source>Enable shell extension to context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Ota tiedostotyypit käyttöön hiiren pikavalikossa</translation>
     </message>
 </context>
 <context>
@@ -12770,7 +12770,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Show files in subfolder</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytä alikansion tiedostot</translation>
     </message>
 </context>
 <context>
@@ -13363,19 +13363,19 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Greyscale</source>
-        <translation type="unfinished">Harmaasävy</translation>
+        <translation>Harmaasävy</translation>
     </message>
     <message>
         <source>Bits per sample</source>
-        <translation type="unfinished"></translation>
+        <translation>Bittejä näytettä kohden</translation>
     </message>
     <message>
         <source>All standard fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaikki vakiokentät</translation>
     </message>
     <message>
         <source>ExifTool value</source>
-        <translation type="unfinished"></translation>
+        <translation>ExifTool-arvo</translation>
     </message>
 </context>
 <context>
@@ -14863,7 +14863,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Open with</source>
-        <translation type="unfinished">Avaa sovelluksessa</translation>
+        <translation>Avaa sovelluksessa</translation>
     </message>
 </context>
 <context>
@@ -15926,15 +15926,15 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Add to album</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisää albumiin</translation>
     </message>
     <message>
         <source>Remove from this album</source>
-        <translation type="unfinished"></translation>
+        <translation>Poista tästä albumista</translation>
     </message>
     <message>
         <source>Remove from all albums</source>
-        <translation type="unfinished"></translation>
+        <translation>Poista kaikista albumeista</translation>
     </message>
 </context>
 <context>
@@ -17712,7 +17712,7 @@ Voit muuttaa sitä asetusten kohdasta &quot;Katalogi&quot;.</translation>
     </message>
     <message>
         <source>Favorites</source>
-        <translation type="unfinished">Suosikit</translation>
+        <translation>Suosikit</translation>
     </message>
 </context>
 <context>
@@ -18269,49 +18269,49 @@ Voit muuttaa sitä asetusten kohdasta &quot;Katalogi&quot;.</translation>
     </message>
     <message>
         <source>is between (today)</source>
-        <translation type="unfinished"></translation>
+        <translation>väliltä (tänään)</translation>
     </message>
     <message>
         <source>is within the last</source>
-        <translation type="unfinished"></translation>
+        <translation>viimeiseen</translation>
     </message>
 </context>
 <context>
     <name>SearchFieldRangeDate</name>
     <message>
         <source>day(s)</source>
-        <translation type="unfinished">päivä(t)</translation>
+        <translation>päivä(t)</translation>
     </message>
     <message>
         <source>TODAY</source>
-        <translation type="unfinished"></translation>
+        <translation>TÄNÄÄN</translation>
     </message>
 </context>
 <context>
     <name>SearchGroup</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Muoto</translation>
     </message>
     <message>
         <source>Add &gt;&gt;</source>
-        <translation type="unfinished">Lisää &gt;&gt;</translation>
+        <translation>Lisää &gt;&gt;</translation>
     </message>
     <message>
         <source>Clear all</source>
-        <translation type="unfinished">Tyhjennä kaikki</translation>
+        <translation>Tyhjennä kaikki</translation>
     </message>
     <message>
         <source>Match inside this group</source>
-        <translation type="unfinished"></translation>
+        <translation>Täsmää tässä ryhmässä</translation>
     </message>
     <message>
         <source>AND</source>
-        <translation type="unfinished"></translation>
+        <translation>JA</translation>
     </message>
     <message>
         <source>OR</source>
-        <translation type="unfinished"></translation>
+        <translation>TAI</translation>
     </message>
 </context>
 <context>
