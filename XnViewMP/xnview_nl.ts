@@ -932,28 +932,28 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="CategoryView.cpp" line="487"/>
         <source>New smart album...</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuw smart album…</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="489"/>
         <location filename="CategoryView.cpp" line="662"/>
         <source>Create Smart Album from current filter...</source>
-        <translation type="unfinished"></translation>
+        <translation>Smart album aanmaken vanuit het huidige filter…</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="493"/>
         <source>Edit...</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewerken…</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="520"/>
         <source>Delete Smart Album</source>
-        <translation type="unfinished"></translation>
+        <translation>Smart album verwijderen</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="520"/>
         <source>Are you sure to delete this Smart Album?</source>
-        <translation type="unfinished"></translation>
+        <translation>Weet je zeker dat je dit smart album wilt verwijderen?</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="545"/>
@@ -1013,12 +1013,12 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="CategoryView.cpp" line="660"/>
         <source>Create Smart Album...</source>
-        <translation type="unfinished"></translation>
+        <translation>Smart album aanmaken…</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="694"/>
         <source>Are you sure to delete these categories?</source>
-        <translation type="unfinished"></translation>
+        <translation>Weet je zeker dat je deze categorieën witl verwijderen?</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="707"/>
@@ -2072,13 +2072,13 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="168"/>
         <source>Smart Albums</source>
-        <translation type="unfinished"></translation>
+        <translation>Smart albums</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="292"/>
         <location filename="DBFilterModel.cpp" line="1936"/>
         <source>No Smart Album</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen smart album</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1175"/>
@@ -2105,7 +2105,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="1817"/>
         <source>Square</source>
-        <translation type="unfinished">Vierkant</translation>
+        <translation>Vierkant</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1890"/>
@@ -11020,18 +11020,18 @@ Wil je ze verwijderen?</translation>
         <location filename="DlgSearch.cpp" line="78"/>
         <location filename="DlgSearch.cpp" line="186"/>
         <source>Smart Albums</source>
-        <translation type="unfinished"></translation>
+        <translation>Smart albums</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="78"/>
         <location filename="DlgSearch.cpp" line="186"/>
         <source>Name:</source>
-        <translation type="unfinished">Naam:</translation>
+        <translation>Naam:</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="178"/>
         <source>Save</source>
-        <translation type="unfinished">Opslaan</translation>
+        <translation>Opslaan</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="332"/>
@@ -11051,7 +11051,7 @@ Wil je ze verwijderen?</translation>
     <message>
         <location filename="DlgSearch.cpp" line="410"/>
         <source>GROUP</source>
-        <translation type="unfinished"></translation>
+        <translation>GROEP</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="443"/>
@@ -11086,7 +11086,7 @@ Wil je ze verwijderen?</translation>
     <message>
         <location filename="DlgSearch.ui" line="143"/>
         <source>Close dialog when browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Dialoogvenster sluiten bij het bladeren</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="195"/>
@@ -11106,7 +11106,7 @@ Wil je ze verwijderen?</translation>
     <message>
         <location filename="DlgSearch.ui" line="237"/>
         <source>Save as Smart Album...</source>
-        <translation type="unfinished"></translation>
+        <translation>Smart album opslaan als…</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="286"/>
@@ -12714,12 +12714,12 @@ Miniatuur</translation>
         <location filename="DlgSettingsIntegration.ui" line="45"/>
         <source>Add &apos;Browse with XnViewMP&apos; to context menu</source>
         <oldsource>Add &apos;Browse with XnViewMP&apos; to context menu (requires admin rights)</oldsource>
-        <translation type="unfinished">&apos;Openen met XnViewMP&apos; toevoegen aan context-menu (vereist beheerdersrechten)</translation>
+        <translation>&apos;Openen met XnViewMP&apos; toevoegen aan contextmenu (vereist beheerdersrechten)</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="52"/>
         <source>Enable shell extension to context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Uitbreidingsmenu in contextmenu inschakelen</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="61"/>
@@ -16481,7 +16481,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <message>
         <location filename="FavoritesView.cpp" line="106"/>
         <source>Show files in subfolder</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestanden in onderliggende map tonen</translation>
     </message>
     <message>
         <location filename="FavoritesView.cpp" line="114"/>
@@ -16787,7 +16787,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="76"/>
         <source>Greyscale</source>
-        <translation type="unfinished">Grijstinten</translation>
+        <translation>Grijstinten</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="80"/>
@@ -17092,17 +17092,17 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <message>
         <location filename="SearchField.cpp" line="39"/>
         <source>Bits per sample</source>
-        <translation type="unfinished"></translation>
+        <translation>Bits per sample</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="43"/>
         <source>All standard fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle standaardvelden</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="44"/>
         <source>ExifTool value</source>
-        <translation type="unfinished"></translation>
+        <translation>ExifTool waarde</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="139"/>
@@ -19435,7 +19435,7 @@ Doorgaan?</translation>
     <message>
         <location filename="MediaPlayerMDK.cpp" line="248"/>
         <source>Open with</source>
-        <translation type="unfinished">Openen met</translation>
+        <translation>Openen met</translation>
     </message>
 </context>
 <context>
@@ -20473,7 +20473,7 @@ Doorgaan?</translation>
     <message>
         <location filename="BrowserMenu.h" line="509"/>
         <source>Add to album</source>
-        <translation type="unfinished"></translation>
+        <translation>Toevoegen aan album</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="510"/>
@@ -20488,12 +20488,12 @@ Doorgaan?</translation>
     <message>
         <location filename="BrowserMenu.h" line="512"/>
         <source>Remove from this album</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijderen uit dit album</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="513"/>
         <source>Remove from all albums</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijderen uit alle albums</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="515"/>
@@ -23114,7 +23114,7 @@ Dit is te wijzigen in Instellingen › Catalogus.</translation>
     <message>
         <location filename="PreviewInfo.cpp" line="473"/>
         <source>Favorites</source>
-        <translation type="unfinished">Favorieten</translation>
+        <translation>Favorieten</translation>
     </message>
     <message>
         <location filename="PreviewInfo.cpp" line="530"/>
@@ -23806,12 +23806,12 @@ Dit is te wijzigen in Instellingen › Catalogus.</translation>
     <message>
         <location filename="SearchField.cpp" line="982"/>
         <source>is between (today)</source>
-        <translation type="unfinished"></translation>
+        <translation>is bij (vandaag)</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="983"/>
         <source>is within the last</source>
-        <translation type="unfinished"></translation>
+        <translation>is bij de laatste</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="1072"/>
@@ -23887,12 +23887,12 @@ Dit is te wijzigen in Instellingen › Catalogus.</translation>
     <message>
         <location filename="SearchField.cpp" line="975"/>
         <source>day(s)</source>
-        <translation type="unfinished">Dag(en)</translation>
+        <translation>Dag(en)</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="976"/>
         <source>TODAY</source>
-        <translation type="unfinished"></translation>
+        <translation>VANDAAG</translation>
     </message>
 </context>
 <context>
@@ -23900,32 +23900,32 @@ Dit is te wijzigen in Instellingen › Catalogus.</translation>
     <message>
         <location filename="SearchGroup.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulier</translation>
     </message>
     <message>
         <location filename="SearchGroup.ui" line="71"/>
         <source>Add &gt;&gt;</source>
-        <translation type="unfinished">Toevoegen &gt;&gt;</translation>
+        <translation>Toevoegen &gt;&gt;</translation>
     </message>
     <message>
         <location filename="SearchGroup.ui" line="81"/>
         <source>Clear all</source>
-        <translation type="unfinished">Alles wissen</translation>
+        <translation>Alles wissen</translation>
     </message>
     <message>
         <location filename="SearchGroup.ui" line="101"/>
         <source>Match inside this group</source>
-        <translation type="unfinished"></translation>
+        <translation>Overeenkomst binnen dze groep</translation>
     </message>
     <message>
         <location filename="SearchGroup.ui" line="109"/>
         <source>AND</source>
-        <translation type="unfinished"></translation>
+        <translation>EN</translation>
     </message>
     <message>
         <location filename="SearchGroup.ui" line="114"/>
         <source>OR</source>
-        <translation type="unfinished"></translation>
+        <translation>OF</translation>
     </message>
 </context>
 <context>
