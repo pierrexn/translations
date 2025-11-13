@@ -101,7 +101,7 @@
     </message>
     <message>
         <source>Unrated</source>
-        <translation>Arvioimattomat</translation>
+        <translation>Arvostelemattomat</translation>
     </message>
     <message>
         <source>Personal</source>
@@ -1573,7 +1573,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>Rating</source>
-        <translation>Arvio</translation>
+        <translation>Luokitus</translation>
     </message>
     <message>
         <source>Tag (%1)</source>
@@ -6045,7 +6045,7 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     </message>
     <message>
         <source>Export Rating &amp;&amp; Color labels</source>
-        <translation>Vie arviot ja väritunnisteet</translation>
+        <translation>Vie luokitukset ja väritunnisteet</translation>
     </message>
 </context>
 <context>
@@ -8951,7 +8951,7 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Show ratings</source>
-        <translation>Näytä arviot</translation>
+        <translation>Näytä luokitukset</translation>
     </message>
     <message>
         <source>Favorites</source>
@@ -9007,7 +9007,7 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Rating (filter)</source>
-        <translation>Arvio (suodatin)</translation>
+        <translation>Luokitus (suodatin)</translation>
     </message>
 </context>
 <context>
@@ -9073,7 +9073,7 @@ If information is exported into embedded or sidecar metadata,
 you&apos;ll be able to re-import later.
 
 Do you want to remove entries assigned to a Category?</source>
-        <translation>Katalogin tietueet, sekä niiden kategoriat, arviot ja väritunnisteet, poistetaan.
+        <translation>Katalogin tietueet, sekä niiden kategoriat, luokitukset ja väritunnisteet, poistetaan.
 
 Jos tiedot viedään upotettuihin tai erillisiin metatietoihin,
 voit tuoda ne myöhemmin uudelleen.
@@ -9106,7 +9106,7 @@ Haluatko jatkaa?</translation>
 Color labels, Keywords may be deleted. 
 
 Do you want to check for affected entries first?</source>
-        <translation>Jotkin tietokantatietueita, joihin liittyy arvioita,
+        <translation>Jotkin tietokantatietueita, joihin liittyy luokituksia,
 väritunnisteita ja avainsanoja, saatetaan poistaa.
 
 Haluatko ensin tarkastaa tiedot, joihin tämä vaikuttaa?</translation>
@@ -10554,7 +10554,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Arvio</translation>
+        <translation>Luokitus</translation>
     </message>
     <message>
         <source>Color label</source>
@@ -10657,7 +10657,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Arvio</translation>
+        <translation>Luokitus</translation>
     </message>
     <message>
         <source>Reset color</source>
@@ -11047,7 +11047,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Show Rating &amp;&amp; Color labels</source>
-        <translation>Näytä arvio ja väritunnisteet</translation>
+        <translation>Näytä luokitus ja väritunnisteet</translation>
     </message>
     <message>
         <source>(From Settings › File list › Custom Filter)</source>
@@ -12576,7 +12576,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Arvio</translation>
+        <translation>Luokitus</translation>
     </message>
     <message>
         <source>Copyright status</source>
@@ -12894,7 +12894,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Arvio</translation>
+        <translation>Luokitus</translation>
     </message>
     <message>
         <source>Orientation</source>
@@ -13159,7 +13159,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Arvio</translation>
+        <translation>Luokitus</translation>
     </message>
     <message>
         <source>Annotation</source>
@@ -13283,7 +13283,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Rating (number)</source>
-        <translation>Arvio (numero)</translation>
+        <translation>Luokitus (numero)</translation>
     </message>
     <message>
         <source>Height (cm)</source>
@@ -14419,7 +14419,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Arvio</translation>
+        <translation>Luokitus</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
@@ -15242,7 +15242,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Arvio</translation>
+        <translation>Luokitus</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -15630,7 +15630,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Unrated</source>
-        <translation>Arvioimaton</translation>
+        <translation>Luokittelematon</translation>
     </message>
     <message>
         <source>Metadata</source>
@@ -15878,7 +15878,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Set Rating</source>
-        <translation>Aseta arvio</translation>
+        <translation>Aseta luokitus</translation>
     </message>
     <message>
         <source>Set Color label</source>
@@ -15914,7 +15914,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>##rating## (go to next image)</source>
-        <translation>##rating## (siirry seuraavaan kuvaan)</translation>
+        <translation>##luokitus## (siirry seuraavaan kuvaan)</translation>
     </message>
     <message>
         <source>Open in file manager</source>
@@ -16695,7 +16695,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Unrated</source>
-        <translation>Arvioimaton</translation>
+        <translation>Luokittelematon</translation>
     </message>
     <message>
         <source>Sepia...</source>
@@ -16931,7 +16931,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Unrated (go to next image)</source>
-        <translation>Arvioimaton (siirry seuraavaan kuvaan)</translation>
+        <translation>Luokittelematon (siirry seuraavaan kuvaan)</translation>
     </message>
     <message>
         <source>##label## (go to next image)</source>
@@ -16939,7 +16939,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Set Rating</source>
-        <translation>Aseta arvio</translation>
+        <translation>Aseta luokitus</translation>
     </message>
     <message>
         <source>Set Color label</source>
@@ -18679,7 +18679,7 @@ Haluatko säilyttää pienoiskuvat?
         <source>Catalog and Metadata are disabled - 
 Rating, Tag &amp; Color labels will not be saved.</source>
         <translation>Katalogi- ja metatiedot on poistettu käytöstä -
-Arvioita-, tageja ja väritunnisteita ei tallenneta.</translation>
+Luokituksia-, tageja ja väritunnisteita ei tallenneta.</translation>
     </message>
     <message>
         <source>Do you want to save session?</source>
