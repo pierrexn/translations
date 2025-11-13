@@ -156,7 +156,7 @@
     </message>
     <message>
         <source>Extension</source>
-        <translation>Tiedostomuoto</translation>
+        <translation>Tiedostopääte</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -518,7 +518,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>Browser</source>
-        <translation>Kuvaselain</translation>
+        <translation>Selain</translation>
     </message>
     <message>
         <source>Are you sure to delete this folder?</source>
@@ -2849,7 +2849,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Open Browser</source>
-        <translation>Avaa kuvaselain</translation>
+        <translation>Avaa selain</translation>
     </message>
     <message>
         <source>Spacing (pixels)</source>
@@ -3852,7 +3852,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Preserve extension</source>
-        <translation>Säilytä tiedostomuoto</translation>
+        <translation>Säilytä tiedostopääte</translation>
     </message>
     <message>
         <source>Start index</source>
@@ -3996,7 +3996,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Rotate images according to EXIF orientation tag</source>
-        <translation>Käännä kuvatExif-tietojen suuntaustagien perusteella</translation>
+        <translation>Käännä kuvat Exif-tietojen suuntaustagien perusteella</translation>
     </message>
     <message>
         <source>Add files...</source>
@@ -5512,7 +5512,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Open Browser</source>
-        <translation>Avaa kuvaselain</translation>
+        <translation>Avaa selain</translation>
     </message>
     <message>
         <source>View as:</source>
@@ -6770,7 +6770,7 @@ Käynnistä ohjelma uudelleen ylläpitäjän oikeuksilla.</translation>
     </message>
     <message>
         <source>Extensions</source>
-        <translation>Tiedostotyypit</translation>
+        <translation>Tiedostopäätteet</translation>
     </message>
     <message>
         <source>Hot folders</source>
@@ -8227,7 +8227,7 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Ignore extension for # enumerator</source>
-        <translation>Ohita luetteloinnin #:n laajennus</translation>
+        <translation>Älä huomioi luetteloijan #tiedostopäätettä</translation>
     </message>
     <message>
         <source>Name &amp; extension lowercase</source>
@@ -8235,7 +8235,7 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Exclude extension</source>
-        <translation>Poissuljettu tiedostopääte</translation>
+        <translation>Poissulje tiedostopääte</translation>
     </message>
     <message>
         <source>Old name</source>
@@ -8283,7 +8283,7 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Extension</source>
-        <translation>Tiedostomuoto</translation>
+        <translation>Tiedostopääte</translation>
     </message>
     <message>
         <source>Clean diacritic characters</source>
@@ -8365,7 +8365,7 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Extension:</source>
-        <translation>Tiedostomuoto:</translation>
+        <translation>Tiedostopääte:</translation>
     </message>
 </context>
 <context>
@@ -8812,7 +8812,7 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Browser</source>
-        <translation>Kuvaselain</translation>
+        <translation>Selain</translation>
     </message>
     <message>
         <source>Interface</source>
@@ -8919,7 +8919,7 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Browser</source>
-        <translation>Kuvaselain</translation>
+        <translation>Selain</translation>
     </message>
     <message>
         <source>After folder change</source>
@@ -9308,7 +9308,7 @@ pienoiskuvina</translation>
     </message>
     <message>
         <source>Extensions</source>
-        <translation>Tiedostotyypit</translation>
+        <translation>Tiedostopäätteet</translation>
     </message>
     <message>
         <source>Associated program</source>
@@ -9339,7 +9339,7 @@ pienoiskuvina</translation>
     </message>
     <message>
         <source>Recognize only by extension</source>
-        <translation>Tunnista käyttäen tiedostomuotoa</translation>
+        <translation>Tunnista käyttäen tiedostopäätettä</translation>
     </message>
     <message>
         <source>File list</source>
@@ -9628,7 +9628,7 @@ pienoiskuvina</translation>
     </message>
     <message>
         <source>Browser - Fullscreen</source>
-        <translation>Kuvaselain - Koko näyttö</translation>
+        <translation>Selain - Koko näyttö</translation>
     </message>
     <message>
         <source>Language</source>
@@ -9656,7 +9656,7 @@ pienoiskuvina</translation>
     </message>
     <message>
         <source>Browser</source>
-        <translation>Kuvaselain</translation>
+        <translation>Selain</translation>
     </message>
     <message>
         <source>Save session on program exit</source>
@@ -9976,7 +9976,7 @@ pienoiskuvina</translation>
     </message>
     <message>
         <source>Enable shell extension to context menu</source>
-        <translation>Ota tiedostotyypit käyttöön hiiren pikavalikossa</translation>
+        <translation>Ota shell-laajennukset käyttöön hiiren pikavalikossa</translation>
     </message>
 </context>
 <context>
@@ -10196,7 +10196,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Browser</source>
-        <translation>Kuvaselain</translation>
+        <translation>Selain</translation>
     </message>
     <message>
         <source>Make selection</source>
@@ -10248,7 +10248,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Browser - Preview</source>
-        <translation>Kuvaselain - Esikatselu</translation>
+        <translation>Selain - Esikatselu</translation>
     </message>
     <message>
         <source>Set command...</source>
@@ -10324,19 +10324,19 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Browser ↔ Fullscreen | Viewer ↔ Fullscreen</source>
-        <translation>Kuvaselain ↔ Koko näyttö | Katselin ↔ Koko näyttö</translation>
+        <translation>Selain ↔ Koko näyttö | Katselin ↔ Koko näyttö</translation>
     </message>
     <message>
         <source>Browser ↔ Viewer</source>
-        <translation>Kuvaselain ↔ Katselin</translation>
+        <translation>Selain ↔ Katselin</translation>
     </message>
     <message>
         <source>Browser → Fullscreen → Viewer</source>
-        <translation>Kuvaselain → Koko näyttö → Katselin</translation>
+        <translation>Selain → Koko näyttö → Katselin</translation>
     </message>
     <message>
         <source>Browser → Viewer → Fullscreen</source>
-        <translation>Kuvaselain → Katselin → Koko näyttö</translation>
+        <translation>Selain → Katselin → Koko näyttö</translation>
     </message>
     <message>
         <source>Closing last tab exits application</source>
@@ -10348,7 +10348,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Select file in Browser when Viewer tab is closed</source>
-        <translation>Valitse tiedosto kuvaselaimessa, kun Katselin-välilehti on suljettu</translation>
+        <translation>Valitse tiedosto selaimessa, kun Katselin-välilehti on suljettu</translation>
     </message>
     <message>
         <source>Drag&amp;&amp;Drop: Open single Viewer tab for filelist</source>
@@ -10432,7 +10432,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Browser - Filelist</source>
-        <translation>Kuvaselain - Tiedostolista</translation>
+        <translation>Selain - Tiedostolista</translation>
     </message>
 </context>
 <context>
@@ -10801,7 +10801,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Browser › View › View as › Thumbnails + Labels</source>
-        <translation>Kuvaselain › Näytä › Näyttötapa › Pienoiskuvat + tiedot</translation>
+        <translation>Selain › Näytä › Näyttötapa › Pienoiskuvat + tiedot</translation>
     </message>
     <message>
         <source>Frame&apos;s count</source>
@@ -11150,7 +11150,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Extensions to ignore (separated by a space)</source>
-        <translation>Ohitettavat päätteet (erota välilyönnein)</translation>
+        <translation>Ohitettavat tiedostopäätteet (erota välilyönnein)</translation>
     </message>
     <message>
         <source>Choose a directory</source>
@@ -12902,7 +12902,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>EXIF Maker</source>
-        <translation>EXIF Tekijä</translation>
+        <translation>EXIF-tiedoston luoja</translation>
     </message>
     <message>
         <source>EXIF Date taken</source>
@@ -13243,7 +13243,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Extension</source>
-        <translation>Tiedostomuoto</translation>
+        <translation>Tiedostopääte</translation>
     </message>
     <message>
         <source>Filename without extension</source>
@@ -15390,7 +15390,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>EXIF Thumbnail</source>
-        <translation>EXIF pienoiskuva</translation>
+        <translation>EXIF -pienoiskuva</translation>
     </message>
     <message>
         <source>Remove from all categories</source>
@@ -15550,7 +15550,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Extension</source>
-        <translation>Tiedostomuoto</translation>
+        <translation>Tiedostopääte</translation>
     </message>
     <message>
         <source>Details</source>
@@ -15790,7 +15790,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Clear &amp;&amp; Import...</source>
-        <translation>Tyhjennä &amp;ja Tuo...</translation>
+        <translation>Tyhjennä &amp;ja tuo...</translation>
     </message>
     <message>
         <source>Catalog</source>
@@ -16883,7 +16883,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Clear selection</source>
-        <translation>TYhjennä valinta</translation>
+        <translation>Tyhjennä valinta</translation>
     </message>
     <message>
         <source>Selection - set ratio</source>
