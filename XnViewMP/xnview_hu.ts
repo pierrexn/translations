@@ -930,13 +930,13 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
     <message>
         <location filename="CategoryView.cpp" line="487"/>
         <source>New smart album...</source>
-        <translation type="unfinished"></translation>
+        <translation>Új intelligens album...</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="489"/>
         <location filename="CategoryView.cpp" line="662"/>
         <source>Create Smart Album from current filter...</source>
-        <translation type="unfinished"></translation>
+        <translation>Intelligens album létrehozása az aktuális szűrőből...</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="493"/>
@@ -946,12 +946,12 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
     <message>
         <location filename="CategoryView.cpp" line="520"/>
         <source>Delete Smart Album</source>
-        <translation type="unfinished"></translation>
+        <translation>Intelligens album törlése</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="520"/>
         <source>Are you sure to delete this Smart Album?</source>
-        <translation type="unfinished"></translation>
+        <translation>Biztosan törölni szeretné ezt az intelligens albumot?</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="545"/>
@@ -1011,12 +1011,12 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
     <message>
         <location filename="CategoryView.cpp" line="660"/>
         <source>Create Smart Album...</source>
-        <translation type="unfinished"></translation>
+        <translation>Intelligens album létrehozása...</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="694"/>
         <source>Are you sure to delete these categories?</source>
-        <translation type="unfinished"></translation>
+        <translation>Biztosan törölni szeretné ezeket a kategóriákat?</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="707"/>
@@ -2072,13 +2072,13 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
     <message>
         <location filename="DBFilterModel.cpp" line="168"/>
         <source>Smart Albums</source>
-        <translation type="unfinished"></translation>
+        <translation>Intelligens albumok</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="292"/>
         <location filename="DBFilterModel.cpp" line="1936"/>
         <source>No Smart Album</source>
-        <translation type="unfinished"></translation>
+        <translation>Nincs intelligens album</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1175"/>
@@ -5207,7 +5207,7 @@ Biztos folytassuk?</translation>
     <message>
         <location filename="DlgConvert.ui" line="1670"/>
         <source>Add &apos;Convert with XnConvert&apos; to context menu</source>
-        <translation>&apos;XnConvert-el átalakítva&apos; felirat hozzáadása a menühöz</translation>
+        <translation>&apos;Átalakítás XnConvert-tel&apos; hozzáadása a helyi menühöz</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1695"/>
@@ -11002,7 +11002,7 @@ El szeretné őket távolítani?</translation>
         <location filename="DlgSearch.cpp" line="78"/>
         <location filename="DlgSearch.cpp" line="186"/>
         <source>Smart Albums</source>
-        <translation type="unfinished"></translation>
+        <translation>Intelligens albumok</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="78"/>
@@ -11068,7 +11068,7 @@ El szeretné őket távolítani?</translation>
     <message>
         <location filename="DlgSearch.ui" line="143"/>
         <source>Close dialog when browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Ablak bezárása böngészéskor</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="195"/>
@@ -11088,7 +11088,7 @@ El szeretné őket távolítani?</translation>
     <message>
         <location filename="DlgSearch.ui" line="237"/>
         <source>Save as Smart Album...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mentés intelligens albumként...</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="286"/>
@@ -12701,7 +12701,7 @@ miniatűrként</translation>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="52"/>
         <source>Enable shell extension to context menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hozzáadás a helyi menühöz</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="61"/>
@@ -16462,7 +16462,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="FavoritesView.cpp" line="106"/>
         <source>Show files in subfolder</source>
-        <translation type="unfinished"></translation>
+        <translation>Fájlok megjelenítése az almappákban</translation>
     </message>
     <message>
         <location filename="FavoritesView.cpp" line="114"/>
@@ -17073,17 +17073,17 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="SearchField.cpp" line="39"/>
         <source>Bits per sample</source>
-        <translation type="unfinished"></translation>
+        <translation>Bit/minta</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="43"/>
         <source>All standard fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Minden szabványos mező</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="44"/>
         <source>ExifTool value</source>
-        <translation type="unfinished"></translation>
+        <translation>ExifTool érték</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="139"/>
@@ -20352,17 +20352,17 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="BrowserMenu.h" line="509"/>
         <source>Add to album</source>
-        <translation type="unfinished"></translation>
+        <translation>Hozzáadás az albumhoz</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="512"/>
         <source>Remove from this album</source>
-        <translation type="unfinished"></translation>
+        <translation>Eltávolítás az albumból</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="513"/>
         <source>Remove from all albums</source>
-        <translation type="unfinished"></translation>
+        <translation>Eltávolítás minden albumból</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="515"/>
@@ -23769,12 +23769,12 @@ Megváltoztathatja a Beállítások › Katalógus alatt.</translation>
     <message>
         <location filename="SearchField.cpp" line="982"/>
         <source>is between (today)</source>
-        <translation type="unfinished"></translation>
+        <translation>között (ma)</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="983"/>
         <source>is within the last</source>
-        <translation type="unfinished"></translation>
+        <translation>az elmúlt</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="1072"/>
@@ -23863,7 +23863,7 @@ Megváltoztathatja a Beállítások › Katalógus alatt.</translation>
     <message>
         <location filename="SearchGroup.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Űrlap</translation>
     </message>
     <message>
         <location filename="SearchGroup.ui" line="71"/>
@@ -23878,7 +23878,7 @@ Megváltoztathatja a Beállítások › Katalógus alatt.</translation>
     <message>
         <location filename="SearchGroup.ui" line="101"/>
         <source>Match inside this group</source>
-        <translation type="unfinished"></translation>
+        <translation>egyezés a csoportonban</translation>
     </message>
     <message>
         <location filename="SearchGroup.ui" line="109"/>
