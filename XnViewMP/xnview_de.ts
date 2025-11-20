@@ -15215,7 +15215,7 @@ Wollen Sie fortfahren?</translation>
     <message>
         <location filename="DlgTimestamp.ui" line="14"/>
         <source>Change timestamp</source>
-        <translation>Dateidatum und -uhrzeit ändern</translation>
+        <translation>Datum und Uhrzeit ändern</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="22"/>
@@ -20664,7 +20664,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="BrowserMenu.h" line="587"/>
         <source>Change timestamp...</source>
-        <translation>Dateidatum und -uhrzeit ändern...</translation>
+        <translation>Datum und Uhrzeit ändern...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="590"/>
