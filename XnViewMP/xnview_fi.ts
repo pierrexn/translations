@@ -188,7 +188,7 @@
     </message>
     <message>
         <source>INI filename</source>
-        <translation>INI-tiedostonimi</translation>
+        <translation>INI-tiedosto</translation>
     </message>
     <message>
         <source>Changelog</source>
