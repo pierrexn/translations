@@ -8399,7 +8399,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFtp.cpp" line="440"/>
         <source>Connecting to FTP server %1...</source>
-        <translation>Соединение с FTP-сервером %1...</translation>
+        <translation>Соединяюсь с %1...</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="505"/>
@@ -8489,7 +8489,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFtp.ui" line="86"/>
         <source>Remote host</source>
-        <translation>Адрес FTP-сервера</translation>
+        <translation>Адрес хоста</translation>
     </message>
     <message>
         <location filename="DlgFtp.ui" line="65"/>
@@ -23278,27 +23278,27 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="qftp.cpp" line="739"/>
         <source>Host %1 not found</source>
-        <translation>Узел %1 не найден</translation>
+        <translation>Хост %1 не найден</translation>
     </message>
     <message>
         <location filename="qftp.cpp" line="743"/>
         <source>Connection refused to host %1</source>
-        <translation>Не удалось установить соединение с узлом %1</translation>
+        <translation>Отказано в подключении к хосту %1</translation>
     </message>
     <message>
         <location filename="qftp.cpp" line="747"/>
         <source>Connection timed out to host %1</source>
-        <translation>Превышен интервал ожидания для подключения для узла %1</translation>
+        <translation>Истекло время ожидания соединения с хостом %1</translation>
     </message>
     <message>
         <location filename="qftp.cpp" line="851"/>
         <source>Connected to host %1</source>
-        <translation>Подключение к узлу %1</translation>
+        <translation>Подключено к хосту %1</translation>
     </message>
     <message>
         <location filename="qftp.cpp" line="1070"/>
         <source>Connection refused for data connection</source>
-        <translation>Не удалось установить подключение к данным</translation>
+        <translation>Отказ в подключении для передачи данных</translation>
     </message>
     <message>
         <location filename="qftp.cpp" line="1210"/>
@@ -23309,7 +23309,7 @@ You can change it in Settings › Catalog.</oldsource>
         <location filename="qftp.cpp" line="2110"/>
         <source>Connecting to host failed:
 %1</source>
-        <translation>Ошибка подключения к узлу:
+        <translation>Ошибка подключения к хосту:
 %1</translation>
     </message>
     <message>
