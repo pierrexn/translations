@@ -11829,7 +11829,7 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettingsCache.ui" line="265"/>
         <source>Store Exiftool fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Кэшировать поля Exiftool</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="311"/>
@@ -16582,7 +16582,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="FavoritesView.cpp" line="106"/>
         <source>Show files in subfolders</source>
         <oldsource>Show files in subfolder</oldsource>
-        <translation type="unfinished">Показывать файлы из подпапок</translation>
+        <translation>Показывать файлы из подпапок</translation>
     </message>
     <message>
         <location filename="FavoritesView.cpp" line="114"/>
@@ -17189,7 +17189,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="SearchField.cpp" line="29"/>
         <source>File path</source>
-        <translation type="unfinished"></translation>
+        <translation>Путь файла</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="40"/>
@@ -17848,7 +17848,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="ItemModel.cpp" line="1136"/>
         <source>Lens model</source>
-        <translation type="unfinished">Объектив, модель</translation>
+        <translation>Объектив, модель</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1138"/>
@@ -21469,7 +21469,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="323"/>
         <source>Paste in selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить в выделение</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="326"/>
