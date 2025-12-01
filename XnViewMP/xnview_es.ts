@@ -8599,14 +8599,6 @@ Do you want to remove them?</source>
         <translation>Archivos encontrados (%1):</translation>
     </message>
     <message>
-        <source>Finished.</source>
-        <translation>Finalizado.</translation>
-    </message>
-    <message>
-        <source>Searching...</source>
-        <translation>Buscando...</translation>
-    </message>
-    <message>
         <source>Preset</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9230,6 +9222,10 @@ etiquetas de color o palabras clave pueden ser eliminadas.
     </message>
     <message>
         <source>Update metadata...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Store Exiftool fields</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12763,8 +12759,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 ¿Desea eliminar el favorito &quot;%1&quot;?</translation>
     </message>
     <message>
-        <source>Show files in subfolder</source>
-        <translation type="unfinished"></translation>
+        <source>Show files in subfolders</source>
+        <translation type="unfinished">Mostrar archivos en subcarpetas</translation>
     </message>
 </context>
 <context>
@@ -13369,6 +13365,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>ExifTool value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File path</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13986,6 +13986,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Landscape</source>
         <translation type="unfinished">Paisaje</translation>
+    </message>
+    <message>
+        <source>Lens model</source>
+        <translation type="unfinished">Modelo de lente</translation>
     </message>
 </context>
 <context>
@@ -16967,6 +16971,10 @@ Do you want to continue?</source>
         <source>Open in file manager</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Paste in selection</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Misc</name>
@@ -18198,10 +18206,6 @@ Puedo cambiarlo en Configuración › Catálogo.</translation>
         <translation>es posterior</translation>
     </message>
     <message>
-        <source>With at least one of the words</source>
-        <translation>Con al menos una de las palabras</translation>
-    </message>
-    <message>
         <source>is less than or equal to</source>
         <translation>es menor o igual que</translation>
     </message>
@@ -18234,16 +18238,8 @@ Puedo cambiarlo en Configuración › Catálogo.</translation>
         <translation>está entre</translation>
     </message>
     <message>
-        <source>With all of the words</source>
-        <translation>Con todas las palabras</translation>
-    </message>
-    <message>
         <source>is greater than</source>
         <translation>es mayor que</translation>
-    </message>
-    <message>
-        <source>With the exact phrase</source>
-        <translation>Con la frase exacta</translation>
     </message>
     <message>
         <source>starts with</source>
@@ -18256,10 +18252,6 @@ Puedo cambiarlo en Configuración › Catálogo.</translation>
     <message>
         <source>is less than</source>
         <translation>es menor que</translation>
-    </message>
-    <message>
-        <source>Whole word only</source>
-        <translation>Sólo palabra entera</translation>
     </message>
     <message>
         <source>is between (today)</source>

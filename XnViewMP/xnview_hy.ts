@@ -8594,14 +8594,6 @@ Do you want to remove them?</source>
         <translation>Գտնվել են ֆայլեր (%1).</translation>
     </message>
     <message>
-        <source>Searching...</source>
-        <translation>Որոնում...</translation>
-    </message>
-    <message>
-        <source>Finished.</source>
-        <translation>Ավարտված:</translation>
-    </message>
-    <message>
         <source>Finished: %1 file(s) found.</source>
         <translation>Ավարտված. %1 ֆայլ(եր) են գտնվել:</translation>
     </message>
@@ -9229,6 +9221,10 @@ Do you want to check for affected entries first?</source>
     </message>
     <message>
         <source>Update metadata...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Store Exiftool fields</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12762,8 +12758,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 Ցանկանո՞ւմ եք ջնջել &quot;%1&quot; ընտրյալը:</translation>
     </message>
     <message>
-        <source>Show files in subfolder</source>
-        <translation type="unfinished"></translation>
+        <source>Show files in subfolders</source>
+        <translation type="unfinished">Ցուցադրել ֆայլերը ենթապանակներում</translation>
     </message>
 </context>
 <context>
@@ -13368,6 +13364,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>ExifTool value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File path</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13985,6 +13985,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Landscape</source>
         <translation type="unfinished">Բնապատկեր</translation>
+    </message>
+    <message>
+        <source>Lens model</source>
+        <translation type="unfinished">Ոսպնյակի մոդել</translation>
     </message>
 </context>
 <context>
@@ -16966,6 +16970,10 @@ Do you want to continue?</source>
         <source>Open in file manager</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Paste in selection</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Misc</name>
@@ -18197,10 +18205,6 @@ You can change it in Settings › Catalog.</source>
         <translation>հետո</translation>
     </message>
     <message>
-        <source>With at least one of the words</source>
-        <translation>Գոնե մեկ բառ</translation>
-    </message>
-    <message>
         <source>is less than or equal to</source>
         <translation>քիչ է կամ հավասար</translation>
     </message>
@@ -18233,16 +18237,8 @@ You can change it in Settings › Catalog.</source>
         <translation>միջև</translation>
     </message>
     <message>
-        <source>With all of the words</source>
-        <translation>Բոլոր բառերով</translation>
-    </message>
-    <message>
         <source>is greater than</source>
         <translation>մեծ է քան</translation>
-    </message>
-    <message>
-        <source>With the exact phrase</source>
-        <translation>Համընկած բառեր</translation>
     </message>
     <message>
         <source>starts with</source>
@@ -18251,10 +18247,6 @@ You can change it in Settings › Catalog.</source>
     <message>
         <source>is less than</source>
         <translation>փոքր է քան</translation>
-    </message>
-    <message>
-        <source>Whole word only</source>
-        <translation>Բառը ամբողջությամբ</translation>
     </message>
     <message>
         <source>does not contain</source>

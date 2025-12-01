@@ -8598,14 +8598,6 @@ Deseja removê-los da lista?</translation>
         <translation>Arquivos encontrados (%1):</translation>
     </message>
     <message>
-        <source>Searching...</source>
-        <translation>Pesquisando...</translation>
-    </message>
-    <message>
-        <source>Finished.</source>
-        <translation>Finalizado.</translation>
-    </message>
-    <message>
         <source>Finished: %1 file(s) found.</source>
         <translation>Concluído: %1 arquivo(s) encontrado(s).</translation>
     </message>
@@ -9234,6 +9226,10 @@ Deseja verificar primeiro se há entradas afetadas?</translation>
     <message>
         <source>Update metadata...</source>
         <translation>Atualizar metadados...</translation>
+    </message>
+    <message>
+        <source>Store Exiftool fields</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12766,8 +12762,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 Deseja excluir o favorito &quot;%1&quot;?</translation>
     </message>
     <message>
-        <source>Show files in subfolder</source>
-        <translation type="unfinished"></translation>
+        <source>Show files in subfolders</source>
+        <translation type="unfinished">Mostrar arquivos nas subpastas</translation>
     </message>
 </context>
 <context>
@@ -13376,6 +13372,10 @@ Deseja excluir o favorito &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>ExifTool value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File path</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13994,6 +13994,10 @@ Deseja excluir o favorito &quot;%1&quot;?</translation>
     <message>
         <source>Landscape</source>
         <translation>Paisagem</translation>
+    </message>
+    <message>
+        <source>Lens model</source>
+        <translation type="unfinished">Modelo da lente</translation>
     </message>
 </context>
 <context>
@@ -16975,6 +16979,10 @@ Deseja continuar?</translation>
         <source>Meta&amp;data</source>
         <translation>Meta&amp;dados</translation>
     </message>
+    <message>
+        <source>Paste in selection</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Misc</name>
@@ -18193,22 +18201,6 @@ Você pode alterá-lo em Configurações › Catálogo.</translation>
     <message>
         <source>starts with</source>
         <translation>começa com</translation>
-    </message>
-    <message>
-        <source>With at least one of the words</source>
-        <translation>Com pelo menos uma das palavras</translation>
-    </message>
-    <message>
-        <source>With all of the words</source>
-        <translation>Com todas as palavras</translation>
-    </message>
-    <message>
-        <source>With the exact phrase</source>
-        <translation>Com a frase exata</translation>
-    </message>
-    <message>
-        <source>Whole word only</source>
-        <translation>Apenas palavra inteira</translation>
     </message>
     <message>
         <source>and</source>

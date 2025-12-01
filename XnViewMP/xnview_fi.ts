@@ -8604,14 +8604,6 @@ Haluatko poistaa ne?</translation>
         <translation>(%1): tiedostoa löytynyt:</translation>
     </message>
     <message>
-        <source>Finished.</source>
-        <translation>Valmis.</translation>
-    </message>
-    <message>
-        <source>Searching...</source>
-        <translation>Etsitään...</translation>
-    </message>
-    <message>
         <source>Preset</source>
         <translation>Esiasetus</translation>
     </message>
@@ -9237,6 +9229,10 @@ Haluatko ensin tarkastaa tiedot, joihin tämä vaikuttaa?</translation>
     <message>
         <source>Update metadata...</source>
         <translation>Päivitä metatiedot...</translation>
+    </message>
+    <message>
+        <source>Store Exiftool fields</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12769,8 +12765,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
-        <source>Show files in subfolder</source>
-        <translation>Näytä alikansion tiedostot</translation>
+        <source>Show files in subfolders</source>
+        <translation type="unfinished">Näytä tiedostot alikansioista</translation>
     </message>
 </context>
 <context>
@@ -13376,6 +13372,10 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     <message>
         <source>ExifTool value</source>
         <translation>ExifTool-arvo</translation>
+    </message>
+    <message>
+        <source>File path</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13992,6 +13992,10 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     <message>
         <source>Landscape</source>
         <translation>Vaaka</translation>
+    </message>
+    <message>
+        <source>Lens model</source>
+        <translation type="unfinished">Linssin malli</translation>
     </message>
 </context>
 <context>
@@ -16973,6 +16977,10 @@ Jatketaanko?</translation>
         <source>Open in file manager</source>
         <translation>Avaa tiedostonhallinnassa</translation>
     </message>
+    <message>
+        <source>Paste in selection</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Misc</name>
@@ -18204,10 +18212,6 @@ Voit muuttaa sitä asetusten kohdasta &quot;Katalogi&quot;.</translation>
         <translation>on jälkeen</translation>
     </message>
     <message>
-        <source>With at least one of the words</source>
-        <translation>Ainakin yksi sanoista</translation>
-    </message>
-    <message>
         <source>is less than or equal to</source>
         <translation>on pienempi tai samankokoinen kun</translation>
     </message>
@@ -18240,16 +18244,8 @@ Voit muuttaa sitä asetusten kohdasta &quot;Katalogi&quot;.</translation>
         <translation>on välillä</translation>
     </message>
     <message>
-        <source>With all of the words</source>
-        <translation>Kaikilla sanoilla</translation>
-    </message>
-    <message>
         <source>is greater than</source>
         <translation>on suurempi kuin</translation>
-    </message>
-    <message>
-        <source>With the exact phrase</source>
-        <translation>Täsmällisellä lausekkeella</translation>
     </message>
     <message>
         <source>starts with</source>
@@ -18262,10 +18258,6 @@ Voit muuttaa sitä asetusten kohdasta &quot;Katalogi&quot;.</translation>
     <message>
         <source>is less than</source>
         <translation>on vähemmän kuin</translation>
-    </message>
-    <message>
-        <source>Whole word only</source>
-        <translation>Ainoastaan kokonaisella sanalla</translation>
     </message>
     <message>
         <source>is between (today)</source>

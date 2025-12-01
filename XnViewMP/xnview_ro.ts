@@ -8616,14 +8616,6 @@ Vrei să le redenumești?</translation>
         <translation>Fișiere găsite (%1):</translation>
     </message>
     <message>
-        <source>Finished.</source>
-        <translation>Terminat.</translation>
-    </message>
-    <message>
-        <source>Searching...</source>
-        <translation>În căutarea...</translation>
-    </message>
-    <message>
         <source>Preset</source>
         <translation>Presetare</translation>
     </message>
@@ -9248,6 +9240,10 @@ Dorești să verifici mai întâi intrările afectate?</translation>
     <message>
         <source>Update metadata...</source>
         <translation>Se actualizează metadatele...</translation>
+    </message>
+    <message>
+        <source>Store Exiftool fields</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12780,8 +12776,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
-        <source>Show files in subfolder</source>
-        <translation>Afișează fișierele în subdosar (în subfolder)</translation>
+        <source>Show files in subfolders</source>
+        <translation type="unfinished">Afișează fișierele în subfoldere (în subdosare)</translation>
     </message>
 </context>
 <context>
@@ -13387,6 +13383,10 @@ Dorești să ștergi favoritul „%1”?</translation>
     <message>
         <source>ExifTool value</source>
         <translation>Valoarea ExifTool</translation>
+    </message>
+    <message>
+        <source>File path</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14003,6 +14003,10 @@ Dorești să ștergi favoritul „%1”?</translation>
     <message>
         <source>Landscape</source>
         <translation>Peisaj (Vedere)</translation>
+    </message>
+    <message>
+        <source>Lens model</source>
+        <translation type="unfinished">Model de lentile</translation>
     </message>
 </context>
 <context>
@@ -16984,6 +16988,10 @@ Vrei să continui?</translation>
         <source>Open in file manager</source>
         <translation>Deschide în managerul de fișiere (în gestionarul de fișiere)</translation>
     </message>
+    <message>
+        <source>Paste in selection</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Misc</name>
@@ -18218,10 +18226,6 @@ O poți schimba în Setări › Catalog.</translation>
         <translation>este după</translation>
     </message>
     <message>
-        <source>With at least one of the words</source>
-        <translation>Cu cel puțin unul dintre cuvinte</translation>
-    </message>
-    <message>
         <source>is less than or equal to</source>
         <translation>este mai mic sau egal cu</translation>
     </message>
@@ -18254,16 +18258,8 @@ O poți schimba în Setări › Catalog.</translation>
         <translation>este între</translation>
     </message>
     <message>
-        <source>With all of the words</source>
-        <translation>Cu toate cuvintele</translation>
-    </message>
-    <message>
         <source>is greater than</source>
         <translation>este mai mare decât</translation>
-    </message>
-    <message>
-        <source>With the exact phrase</source>
-        <translation>Cu fraza exactă</translation>
     </message>
     <message>
         <source>starts with</source>
@@ -18276,10 +18272,6 @@ O poți schimba în Setări › Catalog.</translation>
     <message>
         <source>is less than</source>
         <translation>e mai puțin decât</translation>
-    </message>
-    <message>
-        <source>Whole word only</source>
-        <translation>Numai cuvântul întreg</translation>
     </message>
     <message>
         <source>is between (today)</source>
