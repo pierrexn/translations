@@ -11754,7 +11754,7 @@ Voulez-vous supprimer les entrées attribuées à une catégorie?</translation>
     <message>
         <location filename="DlgSettingsCache.ui" line="265"/>
         <source>Store Exiftool fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Stocker les champs Exiftool</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="311"/>
@@ -16490,7 +16490,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
         <location filename="FavoritesView.cpp" line="106"/>
         <source>Show files in subfolders</source>
         <oldsource>Show files in subfolder</oldsource>
-        <translation type="unfinished">Afficher les fichiers dans les sous-dossiers</translation>
+        <translation>Afficher les fichiers dans les sous-dossiers</translation>
     </message>
     <message>
         <location filename="FavoritesView.cpp" line="114"/>
@@ -16798,7 +16798,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="SearchField.cpp" line="29"/>
         <source>File path</source>
-        <translation type="unfinished"></translation>
+        <translation>Chemin du fichier</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="33"/>
@@ -17720,7 +17720,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="ItemModel.cpp" line="1136"/>
         <source>Lens model</source>
-        <translation type="unfinished">Modèle de lentille</translation>
+        <translation>Modèle de lentille</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1138"/>
@@ -21644,7 +21644,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="ViewMenu.h" line="323"/>
         <source>Paste in selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Coller dans la sélection</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="324"/>
