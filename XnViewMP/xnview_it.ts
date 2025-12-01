@@ -13607,7 +13607,7 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="302"/>
         <source>Comment</source>
-        <translation>Commanto</translation>
+        <translation>Commento</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="308"/>
@@ -20879,7 +20879,7 @@ Volete continuare?</translation>
     <message>
         <location filename="xnview.cpp" line="1382"/>
         <source>Forum...</source>
-        <translation>Forrum...</translation>
+        <translation>Forum...</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1383"/>
