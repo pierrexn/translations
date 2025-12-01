@@ -11741,7 +11741,7 @@ Wollen Sie alle Einträge, denen eine Kategorie zugewiesen, sind löschen?</tran
     <message>
         <location filename="DlgSettingsCache.ui" line="265"/>
         <source>Store Exiftool fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Exiftool-Felder speichern</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="311"/>
@@ -16477,7 +16477,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
         <location filename="FavoritesView.cpp" line="106"/>
         <source>Show files in subfolders</source>
         <oldsource>Show files in subfolder</oldsource>
-        <translation type="unfinished">Dateien im Unterordner anzeigen</translation>
+        <translation>Dateien in Unterordnern anzeigen</translation>
     </message>
     <message>
         <location filename="FavoritesView.cpp" line="114"/>
@@ -17081,7 +17081,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="SearchField.cpp" line="29"/>
         <source>File path</source>
-        <translation type="unfinished"></translation>
+        <translation>Dateipfad</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="40"/>
@@ -17737,7 +17737,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="ItemModel.cpp" line="1136"/>
         <source>Lens model</source>
-        <translation type="unfinished">Objektiv-Modell</translation>
+        <translation>Objektiv-Modell</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1138"/>
@@ -21690,7 +21690,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="ViewMenu.h" line="323"/>
         <source>Paste in selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Auswahl einfügen</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="324"/>
