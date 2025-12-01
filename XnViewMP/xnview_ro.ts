@@ -9243,7 +9243,7 @@ Dorești să verifici mai întâi intrările afectate?</translation>
     </message>
     <message>
         <source>Store Exiftool fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Stochează câmpurile Exiftool-ului (uneltei Exif)</translation>
     </message>
 </context>
 <context>
@@ -12777,7 +12777,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Show files in subfolders</source>
-        <translation type="unfinished">Afișează fișierele în subfoldere (în subdosare)</translation>
+        <translation>Afișează fișierele în subfoldere (în subdosare)</translation>
     </message>
 </context>
 <context>
@@ -13386,7 +13386,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>File path</source>
-        <translation type="unfinished"></translation>
+        <translation>Calea fișierului</translation>
     </message>
 </context>
 <context>
@@ -14006,7 +14006,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Lens model</source>
-        <translation type="unfinished">Model de lentile</translation>
+        <translation>Modelul de lentile</translation>
     </message>
 </context>
 <context>
@@ -16990,7 +16990,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Paste in selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Lipește în selecție</translation>
     </message>
 </context>
 <context>
