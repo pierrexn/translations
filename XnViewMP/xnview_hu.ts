@@ -11729,7 +11729,7 @@ El szeretné távolítani a kategóriához rendelt bejegyzéseket?</translation>
     <message>
         <location filename="DlgSettingsCache.ui" line="265"/>
         <source>Store Exiftool fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Exiftool-mezők tárolása</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="277"/>
@@ -16469,7 +16469,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <location filename="FavoritesView.cpp" line="106"/>
         <source>Show files in subfolders</source>
         <oldsource>Show files in subfolder</oldsource>
-        <translation type="unfinished">Fájlok megjelenítése az almappákban</translation>
+        <translation>Fájlok megjelenítése az almappákban</translation>
     </message>
     <message>
         <location filename="FavoritesView.cpp" line="114"/>
@@ -17080,7 +17080,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="SearchField.cpp" line="29"/>
         <source>File path</source>
-        <translation type="unfinished"></translation>
+        <translation>Fájlelérési útvonal</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="40"/>
@@ -17729,7 +17729,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="ItemModel.cpp" line="1136"/>
         <source>Lens model</source>
-        <translation type="unfinished">Objektív modell</translation>
+        <translation>Objektív modell</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1138"/>
@@ -21331,7 +21331,7 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="ViewMenu.h" line="323"/>
         <source>Paste in selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Kijelölés beillesztése</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="326"/>
