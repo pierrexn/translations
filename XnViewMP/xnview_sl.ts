@@ -11789,7 +11789,7 @@ Ali želite najprej preveriti prizadete vnose?</translation>
     <message>
         <location filename="DlgSettingsCache.ui" line="265"/>
         <source>Store Exiftool fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Shrani polja Exiftool</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="311"/>
@@ -16520,7 +16520,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <location filename="FavoritesView.cpp" line="106"/>
         <source>Show files in subfolders</source>
         <oldsource>Show files in subfolder</oldsource>
-        <translation type="unfinished">Prikaži datoteke v podmapi</translation>
+        <translation>Prikaži datoteke v podmapah</translation>
     </message>
     <message>
         <location filename="FavoritesView.cpp" line="114"/>
@@ -16792,7 +16792,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="SearchField.cpp" line="29"/>
         <source>File path</source>
-        <translation type="unfinished"></translation>
+        <translation>Pot do datoteke</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="40"/>
@@ -17750,7 +17750,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="ItemModel.cpp" line="1136"/>
         <source>Lens model</source>
-        <translation type="unfinished">Model objektiva</translation>
+        <translation>Model objektiva</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1138"/>
@@ -21689,7 +21689,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="323"/>
         <source>Paste in selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Prilepi v izbor</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="372"/>
