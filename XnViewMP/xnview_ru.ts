@@ -5354,7 +5354,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="1670"/>
         <source>Add &apos;Convert with XnConvert&apos; to context menu</source>
-        <translation>Добавить пункт &quot;Преобразовать в XnConvert&quot; в контекстное меню проводника</translation>
+        <translation>Добавить &apos;Преобразовать в XnConvert&apos; в контекстное меню</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1695"/>
@@ -12802,7 +12802,7 @@ Thumbnail</source>
         <location filename="DlgSettingsIntegration.ui" line="51"/>
         <source>Add &apos;Browse with XnViewMP&apos; to context menu</source>
         <oldsource>Add &apos;Browse with XnViewMP&apos; to context menu (requires admin rights)</oldsource>
-        <translation>Добавить пункт &apos;Открыть в XnViewMP&apos; в контекстное меню проводника</translation>
+        <translation>Добавить &apos;Открыть в XnViewMP&apos; в контекстное меню</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="58"/>
@@ -15056,7 +15056,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgStartupWizard.ui" line="134"/>
         <source>Add &apos;Browse with XnViewMP&apos; to context menu</source>
-        <translation>Добавить пункт &quot;Открыть в XnViewMP&quot; в контекстное меню проводника</translation>
+        <translation>Добавить &apos;Открыть в XnViewMP&apos; в контекстное меню</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="141"/>
@@ -24030,7 +24030,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="SearchGroup.ui" line="92"/>
         <source>Match inside this group</source>
-        <translation>Совпадение внутри этой группы</translation>
+        <translation>Совпадение внутри группы</translation>
     </message>
     <message>
         <location filename="SearchGroup.ui" line="100"/>
