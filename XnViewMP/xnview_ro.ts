@@ -519,7 +519,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Browser</source>
-        <translation>Browser</translation>
+        <translation>Navigatorul</translation>
     </message>
     <message>
         <source>Are you sure to delete this folder?</source>
@@ -846,7 +846,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Zoom in</source>
-        <translation>Mărire</translation>
+        <translation>Mărește</translation>
     </message>
     <message>
         <source>Do you want to delete this file?</source>
@@ -866,7 +866,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Zoom out</source>
-        <translation>Micșorare</translation>
+        <translation>Micșorează</translation>
     </message>
     <message>
         <source>Delete file</source>
@@ -1103,7 +1103,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Emboss</source>
-        <translation>Grava</translation>
+        <translation>Gravează</translation>
     </message>
     <message>
         <source>Vignetting</source>
@@ -2319,7 +2319,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Image size</source>
-        <translation>Marimea imaginii</translation>
+        <translation>Dimensiunea imaginii</translation>
     </message>
     <message>
         <source>If an output file already exists</source>
@@ -2487,7 +2487,7 @@ Dorești să-l suprascrii?</translation>
     <name>DlgCategorySetsSettings</name>
     <message>
         <source>Set:</source>
-        <translation>Stabilit:</translation>
+        <translation>Setat:</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -2694,7 +2694,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Zoom in</source>
-        <translation>Mărire</translation>
+        <translation>Mărește</translation>
     </message>
     <message>
         <source>Current date</source>
@@ -2762,7 +2762,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Zoom out</source>
-        <translation>Micșorare</translation>
+        <translation>Micșorează</translation>
     </message>
     <message>
         <source>Text color</source>
@@ -3744,7 +3744,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Zoom in</source>
-        <translation>Mărire</translation>
+        <translation>Mărește</translation>
     </message>
     <message>
         <source>Add &apos;Convert with XnConvert&apos; to context menu</source>
@@ -3868,7 +3868,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Zoom out</source>
-        <translation>Micșorare</translation>
+        <translation>Micșorează</translation>
     </message>
     <message>
         <source>Options</source>
@@ -4982,7 +4982,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Image size</source>
-        <translation>Marimea imaginii</translation>
+        <translation>Mărimea imaginii</translation>
     </message>
     <message>
         <source>Photo 8x10 inches (20x25 cm)</source>
@@ -6335,7 +6335,7 @@ Te rugăm să încerci să pornești programul cu drepturi de administrator.</tr
     </message>
     <message>
         <source>Zoom in</source>
-        <translation>Mărire</translation>
+        <translation>Mărește</translation>
     </message>
     <message>
         <source>Original zoom</source>
@@ -6363,7 +6363,7 @@ Te rugăm să încerci să pornești programul cu drepturi de administrator.</tr
     </message>
     <message>
         <source>Zoom out</source>
-        <translation>Micșorare</translation>
+        <translation>Micșorează</translation>
     </message>
     <message>
         <source>Replace</source>
@@ -6670,7 +6670,7 @@ Te rugăm să încerci să pornești programul cu drepturi de administrator.</tr
     </message>
     <message>
         <source>Real size</source>
-        <translation>Marime adevarata</translation>
+        <translation>Dimensiunea adevărată</translation>
     </message>
     <message>
         <source>Pan to coordinates</source>
@@ -6901,7 +6901,7 @@ Subfolderele (Subdosarele) vor fi create.. </translation>
     </message>
     <message>
         <source>Sort by</source>
-        <translation>Filtrează după</translation>
+        <translation>Sortează după</translation>
     </message>
     <message>
         <source># enumerator per</source>
@@ -6940,7 +6940,7 @@ Subfolderele (Subdosarele) vor fi create.. </translation>
     </message>
     <message>
         <source>Import and sort files...</source>
-        <translation>Importă și sortează fișiere...</translation>
+        <translation>Importă și sortează fișierele...</translation>
     </message>
 </context>
 <context>
@@ -7602,7 +7602,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Print</source>
-        <translation>Imprimare</translation>
+        <translation>Imprimă/Tipărește/Printează</translation>
     </message>
     <message>
         <source>Right</source>
@@ -7861,7 +7861,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     <name>DlgProcess</name>
     <message>
         <source>Zoom in</source>
-        <translation>Mărire</translation>
+        <translation>Mărește</translation>
     </message>
     <message>
         <source>Zoom 100%</source>
@@ -7873,7 +7873,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Zoom out</source>
-        <translation>Micșorare</translation>
+        <translation>Micșorează</translation>
     </message>
     <message>
         <source>&lt;Default&gt;</source>
@@ -8527,7 +8527,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Image size</source>
-        <translation>Marimea imaginii</translation>
+        <translation>Dimensiunea imaginii</translation>
     </message>
     <message>
         <source>pixels/cm</source>
@@ -8816,7 +8816,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Browser</source>
-        <translation>Navigator</translation>
+        <translation>Navigatorul</translation>
     </message>
     <message>
         <source>Interface</source>
@@ -8863,7 +8863,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Sort</source>
-        <translation>Sorta</translation>
+        <translation>Sortează</translation>
     </message>
     <message>
         <source>Icons</source>
@@ -8923,7 +8923,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Browser</source>
-        <translation>Navigator</translation>
+        <translation>Navigatorul</translation>
     </message>
     <message>
         <source>After folder change</source>
@@ -9319,7 +9319,7 @@ miniatură</translation>
     </message>
     <message>
         <source>Associated program</source>
-        <translation>Program asociat</translation>
+        <translation>Programul asociat</translation>
     </message>
     <message>
         <source>Exclude</source>
@@ -9374,7 +9374,7 @@ miniatură</translation>
     </message>
     <message>
         <source>Mixed file/folder sorting</source>
-        <translation>Sortare mixtă fișier/dosar (folder)</translation>
+        <translation>Sortare mixtă (amestecată) fișiere/dosare (foldere)</translation>
     </message>
     <message>
         <source>Scan file headers</source>
@@ -9398,7 +9398,7 @@ miniatură</translation>
     </message>
     <message>
         <source>Sorting</source>
-        <translation>Sortare</translation>
+        <translation>Se sortează</translation>
     </message>
     <message>
         <source>Selection</source>
@@ -9615,7 +9615,7 @@ miniatură</translation>
     </message>
     <message>
         <source>Viewer</source>
-        <translation>Vizualizator</translation>
+        <translation>Vizualizatorul</translation>
     </message>
     <message>
         <source>CMYK Profile used when embedded profile doesn&apos;t exist</source>
@@ -9663,7 +9663,7 @@ miniatură</translation>
     </message>
     <message>
         <source>Browser</source>
-        <translation>Navigator</translation>
+        <translation>Navigatorul</translation>
     </message>
     <message>
         <source>Save session on program exit</source>
@@ -9695,7 +9695,7 @@ miniatură</translation>
     </message>
     <message>
         <source>Viewer - Fullscreen</source>
-        <translation>Vizualizator - Ecran complet (Pe tot ecranul)</translation>
+        <translation>Vizualizatorul - Ecran complet (Pe tot ecranul)</translation>
     </message>
     <message>
         <source>General</source>
@@ -10115,7 +10115,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Duplicate tab</source>
-        <translation>Tab duplicat</translation>
+        <translation>Duplică fila</translation>
     </message>
     <message>
         <source>Recent files</source>
@@ -10143,7 +10143,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Viewer</source>
-        <translation>Vizualizator</translation>
+        <translation>Vizualizatorul</translation>
     </message>
     <message>
         <source>Maximum entries:</source>
@@ -10203,7 +10203,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Browser</source>
-        <translation>Browser</translation>
+        <translation>Navigatorul</translation>
     </message>
     <message>
         <source>Make selection</source>
@@ -10335,7 +10335,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>Scalare</translation>
+        <translation>Mărește/Micșorează (Scalează)</translation>
     </message>
     <message>
         <source>Context menu</source>
@@ -10383,7 +10383,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Zoom selection</source>
-        <translation>Scalează selecția</translation>
+        <translation>Mărește selecția</translation>
     </message>
     <message>
         <source>Zoom &amp; pan</source>
@@ -11216,7 +11216,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Zoom in</source>
-        <translation>Mărire</translation>
+        <translation>Mărește</translation>
     </message>
     <message>
         <source>Original zoom</source>
@@ -11236,7 +11236,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Zoom out</source>
-        <translation>Micșorare</translation>
+        <translation>Micșorează</translation>
     </message>
     <message>
         <source>Delete file</source>
@@ -11252,7 +11252,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Sort by</source>
-        <translation>Filtrează după</translation>
+        <translation>Sortează după</translation>
     </message>
     <message>
         <source>Move file to...</source>
@@ -11406,7 +11406,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Fixed size</source>
-        <translation>Marime fixa</translation>
+        <translation>Mărime fixă</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -11469,7 +11469,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Zoom in</source>
-        <translation>Mărire</translation>
+        <translation>Mărește</translation>
     </message>
     <message>
         <source>Create</source>
@@ -11489,7 +11489,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Zoom out</source>
-        <translation>Micșorare</translation>
+        <translation>Micșorează</translation>
     </message>
     <message>
         <source>Splitting image(s), please wait...</source>
@@ -12990,7 +12990,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>Scalare</translation>
+        <translation>Mărește/Micșorează (Scalează)</translation>
     </message>
     <message>
         <source>Filename</source>
@@ -14949,7 +14949,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Show</source>
-        <translation>Prezentare</translation>
+        <translation>Afișează</translation>
     </message>
     <message>
         <source>Stop</source>
@@ -14961,7 +14961,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>Scalare</translation>
+        <translation>Mărește/Micșorează (Scalează)</translation>
     </message>
     <message>
         <source>Update catalog from files</source>
@@ -15033,7 +15033,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Zoom in</source>
-        <translation>Mărire</translation>
+        <translation>Mărește</translation>
     </message>
     <message>
         <source>Open containing folder</source>
@@ -15149,7 +15149,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Filter by</source>
-        <translation>Filtreaza dupa</translation>
+        <translation>Filtrează după</translation>
     </message>
     <message>
         <source>Selected filename(s) and path(s)</source>
@@ -15221,7 +15221,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Invert</source>
-        <translation>Introduce</translation>
+        <translation>Inversează</translation>
     </message>
     <message>
         <source>Send by email...</source>
@@ -15233,7 +15233,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Banner...</source>
-        <translation>Pancartă...</translation>
+        <translation>Pancartă (Banner)...</translation>
     </message>
     <message>
         <source>No fit</source>
@@ -15313,7 +15313,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Zoom out</source>
-        <translation>Micșorare</translation>
+        <translation>Micșorează</translation>
     </message>
     <message>
         <source>Open...</source>
@@ -15325,7 +15325,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Compare...</source>
-        <translation>Comparaţie...</translation>
+        <translation>Compară...</translation>
     </message>
     <message>
         <source>Show blue</source>
@@ -15373,7 +15373,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Real size</source>
-        <translation>Marime adevarata</translation>
+        <translation>Dimensiunea adevărată</translation>
     </message>
     <message>
         <source>Select tagged files</source>
@@ -15417,7 +15417,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Print...</source>
-        <translation>Imprimare...</translation>
+        <translation>Imprimă/Tipărește/Printează...</translation>
     </message>
     <message>
         <source>Layout 1</source>
@@ -15493,7 +15493,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Ascending</source>
-        <translation>Ascendent</translation>
+        <translation>Ascendentă</translation>
     </message>
     <message>
         <source>Name - alphabetic order</source>
@@ -15529,7 +15529,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation>Cometariu</translation>
+        <translation>Comentariu</translation>
     </message>
     <message>
         <source>Last file</source>
@@ -15541,7 +15541,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Sort by</source>
-        <translation>Filtrează după</translation>
+        <translation>Sortează după</translation>
     </message>
     <message>
         <source>Untag all</source>
@@ -15553,11 +15553,11 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Histogram</source>
-        <translation>Histogram</translation>
+        <translation>Histogramă</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation>Mod implicit</translation>
+        <translation>Modul implicit</translation>
     </message>
     <message>
         <source>Extension</source>
@@ -15617,7 +15617,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Capture...</source>
-        <translation>Captură...</translation>
+        <translation>Capturează...</translation>
     </message>
     <message>
         <source>Previous file</source>
@@ -15641,11 +15641,11 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Unrated</source>
-        <translation>Neevaluat</translation>
+        <translation>Neevaluată</translation>
     </message>
     <message>
         <source>Metadata</source>
-        <translation>Metadata</translation>
+        <translation>Metadate</translation>
     </message>
     <message>
         <source>Select all images</source>
@@ -15673,7 +15673,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation>Redirecţiona</translation>
+        <translation>Redirecţionează</translation>
     </message>
     <message>
         <source>Properties...</source>
@@ -15681,7 +15681,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Image size</source>
-        <translation>Marimea imaginii</translation>
+        <translation>Dimensiunea imaginii</translation>
     </message>
     <message>
         <source>View as List</source>
@@ -16206,7 +16206,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>Scalare</translation>
+        <translation>Mărește/Micșorează (Scalează)</translation>
     </message>
     <message>
         <source>Filename and path</source>
@@ -16270,7 +16270,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Zoom in</source>
-        <translation>Mărire</translation>
+        <translation>Mărește</translation>
     </message>
     <message>
         <source>Use alpha channel</source>
@@ -16330,7 +16330,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Empty tab...</source>
-        <translation>Fila goală...</translation>
+        <translation>Filă goală...</translation>
     </message>
     <message>
         <source>Fullscreen</source>
@@ -16442,7 +16442,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Zoom out</source>
-        <translation>Micșorare</translation>
+        <translation>Micșorează</translation>
     </message>
     <message>
         <source>Open...</source>
@@ -16498,7 +16498,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Real size</source>
-        <translation>Marime adevarată</translation>
+        <translation>Mărimea adevarată</translation>
     </message>
     <message>
         <source>Print selection...</source>
@@ -16530,7 +16530,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Print...</source>
-        <translation>Imprimare...</translation>
+        <translation>Imprimă/Tipărește/Printează...</translation>
     </message>
     <message>
         <source>Normalize</source>
@@ -17294,7 +17294,7 @@ Vrei să continui?</translation>
     <name>MyTabBar</name>
     <message>
         <source>Duplicate tab</source>
-        <translation>Tab duplicat</translation>
+        <translation>Duplică fila</translation>
     </message>
     <message>
         <source>&amp;Close tab</source>
@@ -17310,7 +17310,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Tab settings...</source>
-        <translation>Tab Setări...</translation>
+        <translation>Setări pentru file...</translation>
     </message>
 </context>
 <context>
@@ -17407,11 +17407,11 @@ O poți schimba în Setări › Catalog.</translation>
     </message>
     <message>
         <source>Associated program</source>
-        <translation>Program asociat</translation>
+        <translation>Programul asociat</translation>
     </message>
     <message>
         <source>Associated editor</source>
-        <translation>Editor asociat</translation>
+        <translation>Editorul asociat</translation>
     </message>
 </context>
 <context>
@@ -17499,7 +17499,7 @@ O poți schimba în Setări › Catalog.</translation>
     </message>
     <message>
         <source>Zoom in</source>
-        <translation>Mărire</translation>
+        <translation>Mărește</translation>
     </message>
     <message>
         <source>Background</source>
@@ -17543,7 +17543,7 @@ O poți schimba în Setări › Catalog.</translation>
     </message>
     <message>
         <source>Zoom 100%</source>
-        <translation>Marește cu 100%</translation>
+        <translation>Mărește (Scalează) cu 100%</translation>
     </message>
     <message>
         <source>Choose an image</source>
@@ -17551,7 +17551,7 @@ O poți schimba în Setări › Catalog.</translation>
     </message>
     <message>
         <source>Zoom out</source>
-        <translation>Micșorare</translation>
+        <translation>Micșorează</translation>
     </message>
     <message>
         <source>Opacity</source>
