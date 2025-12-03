@@ -1123,7 +1123,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Mirror</source>
-        <translation>Oglindă</translation>
+        <translation>Oglindire</translation>
     </message>
     <message>
         <source>Mosaic</source>
@@ -7409,7 +7409,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     <name>DlgOpenWith</name>
     <message>
         <source>Name</source>
-        <translation>Nume</translation>
+        <translation>Numele</translation>
     </message>
     <message>
         <source>Add...</source>
@@ -7429,7 +7429,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Path</source>
-        <translation>Cale</translation>
+        <translation>Calea</translation>
     </message>
     <message>
         <source>Arguments</source>
@@ -16374,7 +16374,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Mirror</source>
-        <translation>Oglindă</translation>
+        <translation>Oglindire</translation>
     </message>
     <message>
         <source>No fit</source>
