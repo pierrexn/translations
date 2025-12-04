@@ -23942,7 +23942,7 @@ You can change it in Settings › Catalog.</oldsource>
         <location filename="SearchField.cpp" line="1223"/>
         <location filename="SearchField.cpp" line="1292"/>
         <source>is less than or equal to</source>
-        <translation>меньше чем или равное</translation>
+        <translation>меньше чем или равно</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="1036"/>
@@ -23950,7 +23950,7 @@ You can change it in Settings › Catalog.</oldsource>
         <location filename="SearchField.cpp" line="1224"/>
         <location filename="SearchField.cpp" line="1293"/>
         <source>equal to</source>
-        <translation>равное</translation>
+        <translation>равно</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="1037"/>
@@ -23966,7 +23966,7 @@ You can change it in Settings › Catalog.</oldsource>
         <location filename="SearchField.cpp" line="1226"/>
         <location filename="SearchField.cpp" line="1295"/>
         <source>is greater than or equal to</source>
-        <translation>больше чем или равное</translation>
+        <translation>больше чем или равно</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="1039"/>
