@@ -8410,7 +8410,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFtp.cpp" line="440"/>
         <source>Connecting to FTP server %1...</source>
-        <translation>Соединяюсь с %1...</translation>
+        <translation>Соединяюсь с %1</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="505"/>
@@ -8425,12 +8425,12 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFtp.cpp" line="506"/>
         <source>The file called %1 already exists.</source>
-        <translation>Вызываемый файл %1 уже существует.</translation>
+        <translation>Файл с именем %1 уже существует.</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="516"/>
         <source>The file called %1 doesn&apos;t exist.</source>
-        <translation>Вызываемый файл %1 не существует.</translation>
+        <translation>Файл с именем %1 не существует.</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="547"/>
@@ -8467,12 +8467,13 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFtp.cpp" line="575"/>
         <source>Logged onto %1.</source>
-        <translation>Авторизация на %1.</translation>
+        <translation>Авторизация на %1</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="583"/>
         <source>Unable to connect to the FTP server at %1. Please check if the username and password is correct.</source>
-        <translation>Не удалось соединиться с FTP-сервером %1. Пожалуйста, проверьте, что логин и пароль введены верно.</translation>
+        <translation>Не удалось соединиться с FTP-сервером %1.
+Пожалуйста, проверьте, что логин и пароль введены верно.</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="614"/>
@@ -8559,7 +8560,7 @@ Please try to start with admin rights.</source>
         <location filename="DlgFtp.h" line="210"/>
         <source>Aborted.</source>
         <oldsource>Aborted...</oldsource>
-        <translation>Прерывание...</translation>
+        <translation>Прервано.</translation>
     </message>
     <message>
         <location filename="DlgFtp.h" line="241"/>
@@ -8579,12 +8580,12 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFtp.h" line="249"/>
         <source>The file called %1 already exists.</source>
-        <translation>Вызываемый файл %1 уже существует.</translation>
+        <translation>Файл с именем %1 уже существует.</translation>
     </message>
     <message>
         <location filename="DlgFtp.h" line="259"/>
         <source>The file called %1 doesn&apos;t exist.</source>
-        <translation>Вызываемый файл %1 не существует.</translation>
+        <translation>Файл с именем %1 не существует.</translation>
     </message>
     <message>
         <location filename="DlgFtp.h" line="269"/>
@@ -8600,12 +8601,13 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFtp.h" line="323"/>
         <source>Unable to connect to the FTP server at %1. Please check if the username and password is correct.</source>
-        <translation>Не удалось соединиться с FTP-сервером %1. Пожалуйста, проверьте, что логин и пароль введены верно.</translation>
+        <translation>Не удалось соединиться с FTP-сервером %1.
+Пожалуйста, проверьте, что логин и пароль введены верно.</translation>
     </message>
     <message>
         <location filename="DlgFtp.h" line="328"/>
         <source>Logged onto %1.</source>
-        <translation>Авторизация на %1.</translation>
+        <translation>Авторизация на %1</translation>
     </message>
     <message>
         <location filename="DlgFtp.h" line="369"/>
