@@ -1291,7 +1291,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Pointillize</source>
-        <translation>Pointilize</translation>
+        <translation>Punctifică</translation>
     </message>
     <message>
         <source>Watermark</source>
@@ -1804,7 +1804,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Mărimea</translation>
+        <translation>Dimensiunea</translation>
     </message>
     <message>
         <source>Text</source>
@@ -1919,7 +1919,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Mărime</translation>
+        <translation>Dimensiunea</translation>
     </message>
     <message>
         <source>Skip</source>
@@ -4886,7 +4886,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Mărimea</translation>
+        <translation>Dimensiunea</translation>
     </message>
     <message>
         <source>Bilinear</source>
@@ -4982,7 +4982,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Image size</source>
-        <translation>Mărimea imaginii</translation>
+        <translation>Dimensiunea imaginii</translation>
     </message>
     <message>
         <source>Photo 8x10 inches (20x25 cm)</source>
@@ -5158,7 +5158,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Mărimea</translation>
+        <translation>Dimensiunea</translation>
     </message>
     <message>
         <source>Text</source>
@@ -5343,7 +5343,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Mărimea</translation>
+        <translation>Dimensiunea</translation>
     </message>
     <message>
         <source>Center</source>
@@ -5547,7 +5547,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Crop size</source>
-        <translation>Decupează mărimea</translation>
+        <translation>Taie din mărime</translation>
     </message>
     <message>
         <source>Edit...</source>
@@ -8053,7 +8053,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Letter</source>
-        <translation>Scrisoare</translation>
+        <translation>Scrisoare (Letter (US))</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -14921,7 +14921,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Free</source>
-        <translation>Gratuit</translation>
+        <translation>Liber</translation>
     </message>
     <message>
         <source>Good</source>
@@ -16170,7 +16170,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Free</source>
-        <translation>Gratuit</translation>
+        <translation>Liber</translation>
     </message>
     <message>
         <source>Good</source>
