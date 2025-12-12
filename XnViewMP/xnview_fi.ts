@@ -9232,7 +9232,7 @@ Haluatko ensin tarkastaa tiedot, joihin tämä vaikuttaa?</translation>
     </message>
     <message>
         <source>Store Exiftool fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Tallenna Exiftool-kentät</translation>
     </message>
 </context>
 <context>
@@ -12766,7 +12766,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Show files in subfolders</source>
-        <translation type="unfinished">Näytä tiedostot alikansioista</translation>
+        <translation>Näytä tiedostot alikansioissa</translation>
     </message>
 </context>
 <context>
@@ -13375,7 +13375,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>File path</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiedostopolku</translation>
     </message>
 </context>
 <context>
@@ -13995,7 +13995,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Lens model</source>
-        <translation type="unfinished">Linssin malli</translation>
+        <translation>Linssin malli</translation>
     </message>
 </context>
 <context>
@@ -15346,7 +15346,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Filelist toolbar</source>
-        <translation>Tiedostolista työkalupalkki</translation>
+        <translation>Tiedostolistan työkalupalkki</translation>
     </message>
     <message>
         <source>Move to...</source>
@@ -16979,7 +16979,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Paste in selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Liitä valintaan</translation>
     </message>
 </context>
 <context>
