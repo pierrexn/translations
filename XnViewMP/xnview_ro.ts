@@ -493,7 +493,7 @@ Vrei să ștergi favoritul „%1”?</translation>
         <source>Click to filter - use Shift and Control for multiple selections.
 Right Click on different items for pop-up menus with actions.
 Drag and Drop over the desired node to assign.</source>
-        <translation>Fă clic pentru a filtra - folosește Shift și Control pentru mai multe selecții.
+        <translation>Dă clic ca să filtrezi - folosește Shift și Control pentru mai multe selecții.
 Fă clic dreapta pe diferite elemente pentru meniurile pop-up cu acțiuni.
 Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
@@ -6674,7 +6674,7 @@ Te rugăm să încerci să pornești programul cu drepturi de administrator.</tr
     </message>
     <message>
         <source>Pan to coordinates</source>
-        <translation>Treci la coordonate</translation>
+        <translation>Panoramează la coordonate</translation>
     </message>
 </context>
 <context>
@@ -17455,7 +17455,7 @@ O poți schimba în Setări › Catalog.</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation>Îngroșat</translation>
+        <translation>Îngroșat/Bold/Aldin</translation>
     </message>
     <message>
         <source>Draw</source>
@@ -17527,7 +17527,7 @@ O poți schimba în Setări › Catalog.</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation>Italic</translation>
+        <translation>Înclinat/Italic/Cursiv</translation>
     </message>
     <message>
         <source>Select</source>
