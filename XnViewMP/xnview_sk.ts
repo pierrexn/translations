@@ -185,12 +185,12 @@
         <location filename="AboutWidget.ui" line="275"/>
         <location filename="AboutWidget.ui" line="299"/>
         <source>Translators</source>
-        <translation type="unfinished"></translation>
+        <translation>Prekladatelia</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="294"/>
         <source>Language</source>
-        <translation type="unfinished">Jazyk</translation>
+        <translation>Jazyk</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="308"/>
@@ -314,7 +314,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="2958"/>
         <source>The file &lt;%1&gt; is read-only. Please choose another file name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Súbor &lt;%1&gt; je len na čítanie. Vyberte iný názov súboru.</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2966"/>
@@ -590,7 +590,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="BrowserWindow.cpp" line="912"/>
         <source>The database is corrupted. Please check it before you continue!</source>
         <oldsource>The database is corrupted, please check it before to continue!</oldsource>
-        <translation type="unfinished">Databáza je poškodená, pred pokračovaním ju prosím skontrolujte!</translation>
+        <translation>Databáza je poškodená, pred pokračovaním ju prosím skontrolujte!</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="1653"/>
@@ -934,28 +934,28 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
     <message>
         <location filename="CategoryView.cpp" line="489"/>
         <source>New smart album...</source>
-        <translation type="unfinished"></translation>
+        <translation>Nový inteligentný album...</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="491"/>
         <location filename="CategoryView.cpp" line="664"/>
         <source>Create Smart Album from current filter...</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvoriť inteligentný album z aktuálneho filtra...</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="495"/>
         <source>Edit...</source>
-        <translation type="unfinished">Upraviť...</translation>
+        <translation>Upraviť...</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="522"/>
         <source>Delete Smart Album</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstrániť inteligentný album</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="522"/>
         <source>Are you sure to delete this Smart Album?</source>
-        <translation type="unfinished"></translation>
+        <translation>Naozaj chcete odstrániť tento inteligentný album?</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="547"/>
@@ -1015,12 +1015,12 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
     <message>
         <location filename="CategoryView.cpp" line="662"/>
         <source>Create Smart Album...</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvoriť inteligentný album...</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="696"/>
         <source>Are you sure to delete these categories?</source>
-        <translation type="unfinished"></translation>
+        <translation>Naozaj chcete odstrániť tieto kategórie?</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="709"/>
@@ -2074,13 +2074,13 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="169"/>
         <source>Smart Albums</source>
-        <translation type="unfinished"></translation>
+        <translation>Inteligentné albumy</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="295"/>
         <location filename="DBFilterModel.cpp" line="2045"/>
         <source>No Smart Album</source>
-        <translation type="unfinished"></translation>
+        <translation>Žiadny inteligentný album</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1284"/>
@@ -2107,7 +2107,7 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="1926"/>
         <source>Square</source>
-        <translation type="unfinished"></translation>
+        <translation>Štvorec</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1999"/>
@@ -8045,8 +8045,8 @@ Uistite sa, že súbory nie sú len na čítanie!</translation>
         <location filename="DlgFileAssociation.cpp" line="111"/>
         <source>Problem to change file association. 
 Please try to start with admin rights.</source>
-        <translation type="unfinished">Nastal problém so zmenou asociácie súboru.
-Vyskúšajte prosím spustiť program s administrátorskými právami.</translation>
+        <translation>Problém so zmenou asociácie súboru.
+Skúste spustiť program s právami správcu.</translation>
     </message>
     <message>
         <location filename="DlgFileAssociation.cpp" line="138"/>
@@ -10505,7 +10505,8 @@ Thank you for purchasing %1.</source>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Plugin is not installed. 
 Please install it via Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Zásuvný modul nie je nainštalovaný. 
+Nainštalujte ho cez Nástroje › Zásuvné moduly.</translation>
     </message>
 </context>
 <context>
@@ -11045,18 +11046,18 @@ Chcete ich odstrániť?</translation>
         <location filename="DlgSearch.cpp" line="80"/>
         <location filename="DlgSearch.cpp" line="182"/>
         <source>Smart Albums</source>
-        <translation type="unfinished"></translation>
+        <translation>Inteligentné albumy</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="80"/>
         <location filename="DlgSearch.cpp" line="182"/>
         <source>Name:</source>
-        <translation type="unfinished">Názov:</translation>
+        <translation>Názov:</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="174"/>
         <source>Save</source>
-        <translation type="unfinished">Uložiť</translation>
+        <translation>Uložiť</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="323"/>
@@ -11076,7 +11077,7 @@ Chcete ich odstrániť?</translation>
     <message>
         <location filename="DlgSearch.cpp" line="390"/>
         <source>GROUP</source>
-        <translation type="unfinished"></translation>
+        <translation>SKUPINA</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="414"/>
@@ -11134,7 +11135,7 @@ Chcete ich odstrániť?</translation>
     <message>
         <location filename="DlgSearch.ui" line="143"/>
         <source>Close dialog when browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Zatvoriť dialógové okno pri prehliadaní</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="165"/>
@@ -11164,7 +11165,7 @@ Chcete ich odstrániť?</translation>
     <message>
         <location filename="DlgSearch.ui" line="237"/>
         <source>Save as Smart Album...</source>
-        <translation type="unfinished"></translation>
+        <translation>Uložiť ako inteligentný album...</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="362"/>
@@ -11767,7 +11768,7 @@ Chcete odstrániť položky priradené ku kategórii?</translation>
     <message>
         <location filename="DlgSettingsCache.ui" line="265"/>
         <source>Store Exiftool fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Uložiť polia Exiftool</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="311"/>
@@ -12735,12 +12736,12 @@ Miniatúru</translation>
         <location filename="DlgSettingsIntegration.ui" line="51"/>
         <source>Add &apos;Browse with XnViewMP&apos; to context menu</source>
         <oldsource>Add &apos;Browse with XnViewMP&apos; to context menu (requires admin rights)</oldsource>
-        <translation type="unfinished">Pridať &apos;Prehliadať s XnViewMP&apos; do kontextovej ponuky (vyžaduje administrátorské práva)</translation>
+        <translation>Pridať „Prehliadať s XnViewMP“ do kontextového menu</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="58"/>
         <source>Enable shell extension to context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Povoliť rozšírenie shellu do kontextového menu</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="70"/>
@@ -15886,7 +15887,7 @@ Chcette pokračovať?</translation>
         <location filename="DlgWriteJP2K.ui" line="138"/>
         <source>File size (kB)</source>
         <oldsource>File size (kbytes)</oldsource>
-        <translation type="unfinished">Veľkosť súboru (kilobajtov)</translation>
+        <translation>Veľkosť súboru (kB)</translation>
     </message>
 </context>
 <context>
@@ -16251,7 +16252,7 @@ Chcette pokračovať?</translation>
         <location filename="DlgWriteWebP.ui" line="173"/>
         <source>File size (kB)</source>
         <oldsource>File size (kbytes)</oldsource>
-        <translation type="unfinished">Veľkosť súboru (kilobajtov)</translation>
+        <translation>Veľkosť súboru (kB)</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="207"/>
@@ -16503,7 +16504,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="FavoritesView.cpp" line="106"/>
         <source>Show files in subfolders</source>
         <oldsource>Show files in subfolder</oldsource>
-        <translation type="unfinished">Zobraziť súbory v podpriečinkoch</translation>
+        <translation>Zobraziť súbory v podpriečinkoch</translation>
     </message>
     <message>
         <location filename="FavoritesView.cpp" line="114"/>
@@ -16809,7 +16810,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="76"/>
         <source>Greyscale</source>
-        <translation type="unfinished">Stupnica šedej</translation>
+        <translation>Stupnica šedej</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="80"/>
@@ -17107,22 +17108,22 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="SearchField.cpp" line="29"/>
         <source>File path</source>
-        <translation type="unfinished"></translation>
+        <translation>Cesta k súboru</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="40"/>
         <source>Bits per sample</source>
-        <translation type="unfinished"></translation>
+        <translation>Bity na vzorku</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="44"/>
         <source>All standard fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Všetky štandardné polia</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="45"/>
         <source>ExifTool value</source>
-        <translation type="unfinished"></translation>
+        <translation>Hodnota ExifTool</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="140"/>
@@ -17287,7 +17288,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="TemplateData.cpp" line="2806"/>
         <source>Size (kB)</source>
         <oldsource>Size (KB)</oldsource>
-        <translation type="unfinished">Veľkosť (v KB)</translation>
+        <translation>Veľkosť (v kB)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2587"/>
@@ -17763,7 +17764,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="ItemModel.cpp" line="1136"/>
         <source>Lens model</source>
-        <translation type="unfinished">Model objektívu</translation>
+        <translation>Model objektívu</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1138"/>
@@ -19469,7 +19470,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="MediaPlayerMDK.cpp" line="248"/>
         <source>Open with</source>
-        <translation type="unfinished">Otvoriť s</translation>
+        <translation>Otvoriť s</translation>
     </message>
 </context>
 <context>
@@ -20538,7 +20539,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="BrowserMenu.h" line="509"/>
         <source>Add to album</source>
-        <translation type="unfinished"></translation>
+        <translation>Pridať do albumu</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="510"/>
@@ -20553,12 +20554,12 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="BrowserMenu.h" line="512"/>
         <source>Remove from this album</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstrániť z tohto albumu</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="513"/>
         <source>Remove from all albums</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstrániť zo všetkých albumov</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="515"/>
@@ -21717,7 +21718,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="ViewMenu.h" line="323"/>
         <source>Paste in selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Vložiť vo výbere</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="324"/>
@@ -23160,7 +23161,7 @@ Môžete to zmeniť v Nastavenia › Katalóg.</translation>
     <message>
         <location filename="PreviewInfo.cpp" line="473"/>
         <source>Favorites</source>
-        <translation type="unfinished">Obľúbené</translation>
+        <translation>Obľúbené</translation>
     </message>
     <message>
         <location filename="PreviewInfo.cpp" line="530"/>
@@ -23821,12 +23822,12 @@ Môžete to zmeniť v Nastavenia › Katalóg.</translation>
     <message>
         <location filename="SearchField.cpp" line="944"/>
         <source>is between (today)</source>
-        <translation type="unfinished"></translation>
+        <translation>je medzi (dnes)</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="945"/>
         <source>is within the last</source>
-        <translation type="unfinished"></translation>
+        <translation>je v rámci posledného</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="1034"/>
@@ -23902,12 +23903,12 @@ Môžete to zmeniť v Nastavenia › Katalóg.</translation>
     <message>
         <location filename="SearchField.cpp" line="937"/>
         <source>day(s)</source>
-        <translation type="unfinished">dní</translation>
+        <translation>deň/dní</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="938"/>
         <source>TODAY</source>
-        <translation type="unfinished"></translation>
+        <translation>DNES</translation>
     </message>
 </context>
 <context>
@@ -23915,32 +23916,32 @@ Môžete to zmeniť v Nastavenia › Katalóg.</translation>
     <message>
         <location filename="SearchGroup.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulár</translation>
     </message>
     <message>
         <location filename="SearchGroup.ui" line="62"/>
         <source>Add &gt;&gt;</source>
-        <translation type="unfinished">Pridať &gt;&gt;</translation>
+        <translation>Pridať &gt;&gt;</translation>
     </message>
     <message>
         <location filename="SearchGroup.ui" line="72"/>
         <source>Clear all</source>
-        <translation type="unfinished">Vymazať všetky</translation>
+        <translation>Vymazať všetky</translation>
     </message>
     <message>
         <location filename="SearchGroup.ui" line="92"/>
         <source>Match inside this group</source>
-        <translation type="unfinished"></translation>
+        <translation>Zhoda v tejto skupine</translation>
     </message>
     <message>
         <location filename="SearchGroup.ui" line="100"/>
         <source>AND</source>
-        <translation type="unfinished"></translation>
+        <translation>A</translation>
     </message>
     <message>
         <location filename="SearchGroup.ui" line="105"/>
         <source>OR</source>
-        <translation type="unfinished"></translation>
+        <translation>ALEBO</translation>
     </message>
 </context>
 <context>
@@ -24390,7 +24391,9 @@ Hodnotenie, štítky a farebné štítky sa neuložia.</translation>
         <source>There is a problem to update Catalog:
 (Error: % 1)
 Please contact the developer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pri aktualizácii katalógu nastal problém:
+(Chyba: % 1)
+Obráťte sa na vývojára.</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1000"/>
