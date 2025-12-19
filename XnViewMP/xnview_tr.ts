@@ -16469,12 +16469,12 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
     <message>
         <location filename="GeneralSettings.cpp" line="1029"/>
         <source>Copy of %1%2</source>
-        <translation>%1%2 in Kopyası</translation>
+        <translation>Kopyası in %1%2</translation>
     </message>
     <message>
         <location filename="GeneralSettings.cpp" line="1031"/>
         <source>Copy (%3) of %1%2</source>
-        <translation>%1%2 in (%3) Kopyası</translation>
+        <translation>Kopyası (%3) in %1%2</translation>
     </message>
     <message>
         <location filename="GeneralSettings.cpp" line="1037"/>
