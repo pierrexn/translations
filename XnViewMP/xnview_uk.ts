@@ -16575,12 +16575,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="GeneralSettings.cpp" line="1029"/>
         <source>Copy of %1%2</source>
-        <translation>Копіюється з %1%2</translation>
+        <translation>Копія з %1%2</translation>
     </message>
     <message>
         <location filename="GeneralSettings.cpp" line="1031"/>
         <source>Copy (%3) of %1%2</source>
-        <translation>Копіюється (%2) з %1%2</translation>
+        <translation>Копія (%3) з %1%2</translation>
     </message>
     <message>
         <location filename="GeneralSettings.cpp" line="1037"/>
