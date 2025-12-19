@@ -16619,7 +16619,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="GeneralSettings.cpp" line="1031"/>
         <source>Copy (%3) of %1%2</source>
-        <translation>Копируется (%3) из %1%2</translation>
+        <translation>Копия (%3) из %1%2</translation>
     </message>
     <message>
         <location filename="GeneralSettings.cpp" line="1037"/>
