@@ -16512,7 +16512,7 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
     <message>
         <location filename="GeneralSettings.cpp" line="1031"/>
         <source>Copy (%3) of %1%2</source>
-        <translation>Copia(%3) de %1%2</translation>
+        <translation>Copia (%3) de %1%2</translation>
     </message>
     <message>
         <location filename="GeneralSettings.cpp" line="1037"/>
