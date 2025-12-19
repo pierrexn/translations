@@ -12766,7 +12766,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <name>File</name>
     <message>
         <source>Copy of %1%2</source>
-        <translation>Պատճենվում է %1%2-ից</translation>
+        <translation>Պատճենվում է %1%2</translation>
     </message>
     <message>
         <source>%1 - Copy%2</source>
@@ -12774,7 +12774,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Copy (%3) of %1%2</source>
-        <translation>Պատճենվում է (%3)-ը %1%2-ից</translation>
+        <translation>Պատճենվում է (%3)-ը %1%2</translation>
     </message>
     <message>
         <source>%1 - Copy (%3)%2</source>
