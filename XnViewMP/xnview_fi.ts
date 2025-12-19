@@ -12789,7 +12789,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Copy (%3) of %1%2</source>
-        <translation>Kopioi (%3) %1%2:sta</translation>
+        <translation>Kopioi (%3) %1%2</translation>
     </message>
     <message>
         <source>%1 - Copy (%3)%2</source>
