@@ -16644,13 +16644,13 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="GeneralSettings.cpp" line="1029"/>
         <source>Copy of %1%2</source>
         <translatorcomment>TXT_String_FileOp_Copy1</translatorcomment>
-        <translation>%1のコピー%2</translation>
+        <translation>のコピー %1%2</translation>
     </message>
     <message>
         <location filename="GeneralSettings.cpp" line="1031"/>
         <source>Copy (%3) of %1%2</source>
         <translatorcomment>TXT_String_FileOp_Copy2</translatorcomment>
-        <translation>%1コピー(%3) %2</translation>
+        <translation>コピー(%3) %1%2</translation>
     </message>
     <message>
         <location filename="GeneralSettings.cpp" line="1037"/>
