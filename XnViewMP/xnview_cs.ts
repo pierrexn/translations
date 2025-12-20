@@ -12572,7 +12572,7 @@ Náhled</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="684"/>
         <source>&lt;Filename&gt;-#</source>
-        <translation>&lt;Název souboru&gt;-(#)</translation>
+        <translation>&lt;Název souboru&gt;-#</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="715"/>
