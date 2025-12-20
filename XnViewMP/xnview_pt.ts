@@ -12528,22 +12528,22 @@ Miniatura</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="689"/>
         <source>Copy (#) of &lt;Filename&gt;</source>
-        <translation>Cópia (#) de &lt;Nome&gt;</translation>
+        <translation>Cópia (#) de &lt;Nome do ficheiro&gt;</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="674"/>
         <source>&lt;Filename&gt;-Copy (#)</source>
-        <translation>&lt;Nome&gt;-Cópia (#)</translation>
+        <translation>&lt;Nome do ficheiro&gt;-Cópia (#)</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="679"/>
         <source>&lt;Filename&gt;-(#)</source>
-        <translation>&lt;Nome&gt;-(#)</translation>
+        <translation>&lt;Nome do ficheiro&gt;-(#)</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="684"/>
         <source>&lt;Filename&gt;-#</source>
-        <translation>&lt;Nome&gt;-#</translation>
+        <translation>&lt;Nome do ficheiro&gt;-#</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="715"/>
@@ -16589,7 +16589,7 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
     <message>
         <location filename="GeneralSettings.cpp" line="1044"/>
         <source>%1-Copy%2</source>
-        <translation>%1-Cópia %2</translation>
+        <translation>%1-Cópia%2</translation>
     </message>
     <message>
         <location filename="GeneralSettings.cpp" line="1046"/>
