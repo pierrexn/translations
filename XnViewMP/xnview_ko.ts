@@ -12403,7 +12403,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="689"/>
         <source>Copy (#) of &lt;Filename&gt;</source>
-        <translation>&lt;Filename&gt; 의 사본 (#)</translation>
+        <translation>사본 (#)의 &lt;Filename&gt;</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="674"/>
