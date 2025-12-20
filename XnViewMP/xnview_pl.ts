@@ -16543,7 +16543,7 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     <message>
         <location filename="GeneralSettings.cpp" line="1037"/>
         <source>%1 - Copy%2</source>
-        <translation>%1 - kopia %2</translation>
+        <translation>%1 - kopia%2</translation>
     </message>
     <message>
         <location filename="GeneralSettings.cpp" line="1039"/>
