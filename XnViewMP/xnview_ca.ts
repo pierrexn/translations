@@ -12523,22 +12523,22 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="669"/>
         <source>&lt;Filename&gt; - Copy (#)</source>
-        <translation>&lt;Nomfitxer&gt; -Copia (#)</translation>
+        <translation>&lt;Nomfitxer&gt; - Copia (#)</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="689"/>
         <source>Copy (#) of &lt;Filename&gt;</source>
-        <translation>&lt;Nomfitxer&gt; -Copia (#)</translation>
+        <translation>Copia (#) de &lt;Nomfitxer&gt;</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="674"/>
         <source>&lt;Filename&gt;-Copy (#)</source>
-        <translation>&lt;Nomfitxer&gt; Copia (#)</translation>
+        <translation>&lt;Nomfitxer&gt;-Copia (#)</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="679"/>
         <source>&lt;Filename&gt;-(#)</source>
-        <translation>&lt;Nomfitxer&gt; Copia (#)</translation>
+        <translation>&lt;Nomfitxer&gt;-(#)</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="684"/>
