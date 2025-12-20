@@ -12436,7 +12436,7 @@ miniatűrként</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="689"/>
         <source>Copy (#) of &lt;Filename&gt;</source>
-        <translation>&lt;Fájlnév&gt; másolata(#)</translation>
+        <translation>&lt;Fájlnév&gt; másolata (#)</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="674"/>
@@ -16499,12 +16499,12 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="GeneralSettings.cpp" line="1029"/>
         <source>Copy of %1%2</source>
-        <translation>%1%2 másolat</translation>
+        <translation>%1%2 másolata</translation>
     </message>
     <message>
         <location filename="GeneralSettings.cpp" line="1031"/>
         <source>Copy (%3) of %1%2</source>
-        <translation>%1%2 másolat (%3)</translation>
+        <translation>%1%2 másolata (%3)</translation>
     </message>
     <message>
         <location filename="GeneralSettings.cpp" line="1037"/>
@@ -16519,12 +16519,12 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="GeneralSettings.cpp" line="1044"/>
         <source>%1-Copy%2</source>
-        <translation>%1-Másolat%2</translation>
+        <translation>%1-másolat%2</translation>
     </message>
     <message>
         <location filename="GeneralSettings.cpp" line="1046"/>
         <source>%1-Copy (%3)%2</source>
-        <translation>%1-Másolat (%3)%2</translation>
+        <translation>%1-másolat (%3)%2</translation>
     </message>
 </context>
 <context>
