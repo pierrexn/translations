@@ -13608,13 +13608,13 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsKeywords.ui" line="381"/>
         <source>&lt;filename&gt;.xmp</source>
         <oldsource>Filename.xmp</oldsource>
-        <translation>Ім&apos;я файлу.xmp</translation>
+        <translation>&lt;ім&apos;я файлу&gt;.xmp</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="388"/>
         <source>&lt;filename&gt;.&lt;extension&gt;.xmp</source>
         <oldsource>Filename.extension.xmp</oldsource>
-        <translation>Ім&apos;я файлу.розширення.xmp</translation>
+        <translation>&lt;ім&apos;я файлу&gt;.&lt;розширення&gt;.xmp</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="285"/>
@@ -16595,7 +16595,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="GeneralSettings.cpp" line="1044"/>
         <source>%1-Copy%2</source>
-        <translation>%1-Копія %2</translation>
+        <translation>%1-Копія%2</translation>
     </message>
     <message>
         <location filename="GeneralSettings.cpp" line="1046"/>
