@@ -12562,27 +12562,27 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="669"/>
         <source>&lt;Filename&gt; - Copy (#)</source>
-        <translation>&lt;Filename&gt; - Копия (#)</translation>
+        <translation>&lt;Имя файла&gt; - Копия (#)</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="689"/>
         <source>Copy (#) of &lt;Filename&gt;</source>
-        <translation>Копия (#) &lt;Filename&gt;</translation>
+        <translation>Копия (#) &lt;Имя файла&gt;</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="674"/>
         <source>&lt;Filename&gt;-Copy (#)</source>
-        <translation>&lt;Filename&gt;-Копия (#)</translation>
+        <translation>&lt;Имя файла&gt;-Копия (#)</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="679"/>
         <source>&lt;Filename&gt;-(#)</source>
-        <translation>&lt;Filename&gt;-(#)</translation>
+        <translation>&lt;Имя файла&gt;-(#)</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="684"/>
         <source>&lt;Filename&gt;-#</source>
-        <translation>&lt;Filename&gt;-#</translation>
+        <translation>&lt;Имя файла&gt;-#</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="715"/>
