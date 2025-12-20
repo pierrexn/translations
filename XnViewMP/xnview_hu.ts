@@ -16519,12 +16519,12 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="GeneralSettings.cpp" line="1044"/>
         <source>%1-Copy%2</source>
-        <translation>%1 - másolat %2</translation>
+        <translation>%1-Másolat%2</translation>
     </message>
     <message>
         <location filename="GeneralSettings.cpp" line="1046"/>
         <source>%1-Copy (%3)%2</source>
-        <translation>%1 - másolat (%3)%2</translation>
+        <translation>%1-Másolat (%3)%2</translation>
     </message>
 </context>
 <context>
