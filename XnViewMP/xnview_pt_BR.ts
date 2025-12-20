@@ -9673,7 +9673,7 @@ miniatura</translation>
     </message>
     <message>
         <source>&lt;Filename&gt; - Copy (#)</source>
-        <translation>&lt;Filename&gt; - Copiar (#)</translation>
+        <translation>&lt;Nome do arquivo&gt; - Cópia (#)</translation>
     </message>
     <message>
         <source>Copy (#) of &lt;Filename&gt;</source>
@@ -9681,15 +9681,15 @@ miniatura</translation>
     </message>
     <message>
         <source>&lt;Filename&gt;-Copy (#)</source>
-        <translation>&lt;Filename&gt;-Cópia (#)</translation>
+        <translation>&lt;Nome do arquivo&gt;-Cópia (#)</translation>
     </message>
     <message>
         <source>&lt;Filename&gt;-(#)</source>
-        <translation>&lt;Filename&gt;-(#)</translation>
+        <translation>&lt;Nome do arquivo&gt;-(#)</translation>
     </message>
     <message>
         <source>&lt;Filename&gt;-#</source>
-        <translation>&lt;Filename&gt;-#</translation>
+        <translation>&lt;Nome do arquivo&gt;-#</translation>
     </message>
     <message>
         <source>Send anonymous logs</source>
