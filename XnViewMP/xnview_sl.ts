@@ -12492,7 +12492,7 @@ sličico</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="674"/>
         <source>&lt;Filename&gt;-Copy (#)</source>
-        <translation>&lt;Filename&gt; - Kopija (#)</translation>
+        <translation>&lt;Filename&gt;-Kopija (#)</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="679"/>
@@ -12502,7 +12502,7 @@ sličico</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="684"/>
         <source>&lt;Filename&gt;-#</source>
-        <translation>&lt;Filename&gt;-(#)</translation>
+        <translation>&lt;Filename&gt;-#</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="778"/>
