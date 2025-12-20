@@ -12411,7 +12411,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="674"/>
         <source>&lt;Filename&gt;-Copy (#)</source>
-        <translation>&lt;Dosyaadı&gt; -Kopyala (#)</translation>
+        <translation>&lt;Dosyaadı&gt;-Kopyala (#)</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="84"/>
@@ -12447,7 +12447,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="679"/>
         <source>&lt;Filename&gt;-(#)</source>
-        <translation>&lt;Dosyaadı&gt; - (#)</translation>
+        <translation>&lt;Dosyaadı&gt;-(#)</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="684"/>
