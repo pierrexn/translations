@@ -9544,7 +9544,7 @@ pienoiskuvina</translation>
     </message>
     <message>
         <source>&lt;Filename&gt;-#</source>
-        <translation>&lt;Tiedostonimi&gt; - (#)</translation>
+        <translation>&lt;Tiedostonimi&gt;-#</translation>
     </message>
     <message>
         <source>For &apos;Save as&apos;, use original format</source>
@@ -9668,7 +9668,7 @@ pienoiskuvina</translation>
     </message>
     <message>
         <source>Copy (#) of &lt;Filename&gt;</source>
-        <translation>&lt;Tiedostonimi&gt;:n Kopio (#)</translation>
+        <translation>Kopio (#) &lt;Tiedostonimi&gt;</translation>
     </message>
     <message>
         <source>Lossless transformations</source>
@@ -9692,11 +9692,11 @@ pienoiskuvina</translation>
     </message>
     <message>
         <source>&lt;Filename&gt;-Copy (#)</source>
-        <translation>&lt;Tiedostonimi&gt; -Kopio (#)</translation>
+        <translation>&lt;Tiedostonimi&gt;-Kopio (#)</translation>
     </message>
     <message>
         <source>&lt;Filename&gt;-(#)</source>
-        <translation>&lt;Tiedostonimi&gt; - (#)</translation>
+        <translation>&lt;Tiedostonimi&gt;-(#)</translation>
     </message>
     <message>
         <source>Use EXIF DPI (if exists)</source>
