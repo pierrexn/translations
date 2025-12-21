@@ -637,7 +637,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="BrowserWindow.cpp" line="2249"/>
         <source>Thumbnails</source>
-        <translation type="unfinished">Miniaturbilder</translation>
+        <translation>Miniaturbilder</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3443"/>
@@ -1070,7 +1070,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CompareWidget.cpp" line="52"/>
         <source>Navigator</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigator</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="563"/>
@@ -3464,7 +3464,7 @@ Wollen Sie die Datei überschreiben?</translation>
     <message>
         <location filename="DlgContactSheet.ui" line="293"/>
         <source>Thumbnail</source>
-        <translation>Miniaturbilder</translation>
+        <translation>Miniaturbild</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="301"/>
@@ -4230,22 +4230,22 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="104"/>
         <source>Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modus</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="115"/>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="161"/>
         <source>Edges</source>
-        <translation type="unfinished">Kanten</translation>
+        <translation>Kanten</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="174"/>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertikal</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="194"/>
@@ -4255,7 +4255,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="220"/>
         <source>Zealous</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Eifrig</translation>
     </message>
 </context>
 <context>
@@ -11030,7 +11030,7 @@ Möchten Sie sie entfernen?</translation>
     <message>
         <location filename="DlgSearch.cpp" line="445"/>
         <source>Search</source>
-        <translation type="unfinished">Suchen</translation>
+        <translation>Suchen</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="476"/>
@@ -13635,12 +13635,12 @@ Möchten Sie neu zuweisen?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="569"/>
         <source>Copyright</source>
-        <translation type="unfinished">Urheberrecht</translation>
+        <translation>Urheberrecht</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="603"/>
         <source>Image description</source>
-        <translation type="unfinished">Bildbeschreibung</translation>
+        <translation>Bildbeschreibung</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="813"/>
@@ -13776,7 +13776,7 @@ Möchten Sie neu zuweisen?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="110"/>
         <source>Use transparency grid</source>
-        <translation type="unfinished">Schachbrettmuster als Hintergrund verwenden</translation>
+        <translation>Schachbrettmuster als Hintergrund verwenden</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="211"/>
@@ -19825,7 +19825,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="BrowserMenu.h" line="23"/>
         <source>Film strip 3</source>
-        <translation type="unfinished">Filmstreifen 3</translation>
+        <translation>Filmstreifen 3</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="45"/>
@@ -21864,12 +21864,12 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="ViewMenu.h" line="492"/>
         <source>Remove horizontal strip</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontalen Streifen entfernen</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="493"/>
         <source>Remove vertical strip</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertikalen Streifen entfernen</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="498"/>
@@ -23914,12 +23914,12 @@ You can change it in Settings › Catalog.</oldsource>
         <location filename="SummaryWidget.cpp" line="293"/>
         <location filename="SummaryWidget.cpp" line="300"/>
         <source>Greyscale</source>
-        <translation type="unfinished">Graustufen</translation>
+        <translation>Graustufen</translation>
     </message>
     <message>
         <location filename="SummaryWidget.cpp" line="294"/>
         <source>Indexed</source>
-        <translation type="unfinished"></translation>
+        <translation>Indexiert</translation>
     </message>
 </context>
 <context>
