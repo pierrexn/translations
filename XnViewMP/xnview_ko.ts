@@ -4,132 +4,132 @@
 <context>
     <name>@default</name>
     <message>
-        <location filename="MyThumbSettings.cpp" line="439"/>
+        <location filename="MyThumbSettings.cpp" line="437"/>
         <source>Uncolored</source>
         <translation>무색</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="445"/>
+        <location filename="MyThumbSettings.cpp" line="443"/>
         <source>Important</source>
         <translation>중요</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="445"/>
+        <location filename="MyThumbSettings.cpp" line="443"/>
         <source>Red</source>
         <translation>빨강</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="445"/>
+        <location filename="MyThumbSettings.cpp" line="443"/>
         <source>Select</source>
         <translation>선택</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="446"/>
+        <location filename="MyThumbSettings.cpp" line="444"/>
         <source>Work</source>
         <translation>일</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="446"/>
+        <location filename="MyThumbSettings.cpp" line="444"/>
         <source>Yellow</source>
         <translation>노랑</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="446"/>
+        <location filename="MyThumbSettings.cpp" line="444"/>
         <source>Second</source>
         <translation>두번째</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="447"/>
+        <location filename="MyThumbSettings.cpp" line="445"/>
         <source>Personal</source>
         <translation>개인</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="447"/>
+        <location filename="MyThumbSettings.cpp" line="445"/>
         <source>Green</source>
         <translation>초록</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="447"/>
+        <location filename="MyThumbSettings.cpp" line="445"/>
         <source>Approved</source>
         <translation>승인</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="448"/>
+        <location filename="MyThumbSettings.cpp" line="446"/>
         <source>To do</source>
         <translation>할 일</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="448"/>
+        <location filename="MyThumbSettings.cpp" line="446"/>
         <source>Blue</source>
         <translation>파랑</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="448"/>
+        <location filename="MyThumbSettings.cpp" line="446"/>
         <source>Review</source>
         <translation>리뷰</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="449"/>
+        <location filename="MyThumbSettings.cpp" line="447"/>
         <source>Later</source>
         <translation>보류</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="449"/>
+        <location filename="MyThumbSettings.cpp" line="447"/>
         <source>Purple</source>
         <translation>보라</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="449"/>
+        <location filename="MyThumbSettings.cpp" line="447"/>
         <source>To Do</source>
         <translation>할 일</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="450"/>
+        <location filename="MyThumbSettings.cpp" line="448"/>
         <source>Orange</source>
         <translation>오렌지</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="451"/>
+        <location filename="MyThumbSettings.cpp" line="449"/>
         <source>Grey</source>
         <translation>회색</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="452"/>
+        <location filename="MyThumbSettings.cpp" line="450"/>
         <source>Black</source>
         <translation>검정</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="453"/>
+        <location filename="MyThumbSettings.cpp" line="451"/>
         <source>White</source>
         <translation>흰색</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="339"/>
+        <location filename="MyThumbSettings.cpp" line="338"/>
         <source>Unrated</source>
         <translation>무등급</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="340"/>
+        <location filename="MyThumbSettings.cpp" line="339"/>
         <source>Poor</source>
         <translation>별로임</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="341"/>
+        <location filename="MyThumbSettings.cpp" line="340"/>
         <source>Fair</source>
         <translation>괜찮음</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="342"/>
+        <location filename="MyThumbSettings.cpp" line="341"/>
         <source>Average</source>
         <translation>보통</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="343"/>
+        <location filename="MyThumbSettings.cpp" line="342"/>
         <source>Good</source>
         <translation>좋음</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="344"/>
+        <location filename="MyThumbSettings.cpp" line="343"/>
         <source>Excellent</source>
         <translation>훌륭함</translation>
     </message>
@@ -228,27 +228,27 @@
         <translation>변경사항</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="220"/>
+        <location filename="AboutWidget.cpp" line="219"/>
         <source>Format</source>
         <translation>형식</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="220"/>
+        <location filename="AboutWidget.cpp" line="219"/>
         <source>Read</source>
         <translation>읽기</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="220"/>
+        <location filename="AboutWidget.cpp" line="219"/>
         <source>Write</source>
         <translation>쓰기</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="220"/>
+        <location filename="AboutWidget.cpp" line="219"/>
         <source>Extension</source>
         <translation>확장자</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="263"/>
+        <location filename="AboutWidget.cpp" line="262"/>
         <source>Formats in reading: %1 | Formats in writing: %2</source>
         <translation>읽기 형식: %1 | 쓰기 형식: %2</translation>
     </message>
@@ -264,84 +264,84 @@
 <context>
     <name>AbstractViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="1419"/>
+        <location filename="ViewWindow.cpp" line="1415"/>
         <source>Frame %1/%2</source>
         <translation>프레임 %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1422"/>
+        <location filename="ViewWindow.cpp" line="1418"/>
         <source>Icon %1/%2</source>
         <translation>아이콘 %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1424"/>
+        <location filename="ViewWindow.cpp" line="1420"/>
         <source>Page %1/%2</source>
         <translation>페이지 %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1590"/>
-        <location filename="ViewWindow.cpp" line="1609"/>
+        <location filename="ViewWindow.cpp" line="1586"/>
+        <location filename="ViewWindow.cpp" line="1605"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; 비었음 &gt;</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2020"/>
+        <location filename="ViewWindow.cpp" line="2016"/>
         <source>Customize toolbar...</source>
         <translation>도구모음 사용자 정의...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2276"/>
+        <location filename="ViewWindow.cpp" line="2272"/>
+        <location filename="ViewWindow.cpp" line="2278"/>
         <location filename="ViewWindow.cpp" line="2282"/>
-        <location filename="ViewWindow.cpp" line="2286"/>
         <source>Delete items</source>
         <translation>항목 삭제</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2276"/>
+        <location filename="ViewWindow.cpp" line="2272"/>
         <source>Would you like to discard your edits and delete 
 &quot;%1&quot;?</source>
         <translation>변경사항을 저장하지 않고 삭제 하시겠습니까?
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2282"/>
+        <location filename="ViewWindow.cpp" line="2278"/>
         <source>Are you sure to delete 
 &quot;%1&quot;?</source>
         <translation>&quot;%1&quot;를 삭제 하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2286"/>
+        <location filename="ViewWindow.cpp" line="2282"/>
         <source>Are you sure to delete 
 &quot;%1&quot; (%2 items)?</source>
         <translation>&quot;%1&quot;를 삭제 하시겠습니까 (%2 항목)?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2952"/>
+        <location filename="ViewWindow.cpp" line="2948"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
         <translation>이미지가 24비트 RGB (채널당 8비트)로 변환될 것입니다</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2962"/>
+        <location filename="ViewWindow.cpp" line="2958"/>
         <source>The file &lt;%1&gt; is read-only. Please choose another file name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2970"/>
+        <location filename="ViewWindow.cpp" line="2966"/>
         <source>Confirm Save</source>
         <translation>저장</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2971"/>
+        <location filename="ViewWindow.cpp" line="2967"/>
         <source>&lt;%1&gt; already exists!</source>
         <translation>&lt;%1&gt; 이 이미 존재합니다!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2971"/>
+        <location filename="ViewWindow.cpp" line="2967"/>
         <source>Do you want to overwrite it?</source>
         <translation>덮어쓰겠습니까?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4445"/>
+        <location filename="ViewWindow.cpp" line="4447"/>
         <source>Number of unique colors: %1</source>
         <translation>중요 색상 수: %1</translation>
     </message>
@@ -381,38 +381,38 @@
         <translation>다시 묻지 않기</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2952"/>
-        <location filename="ViewWindow.cpp" line="2962"/>
+        <location filename="ViewWindow.cpp" line="2948"/>
+        <location filename="ViewWindow.cpp" line="2958"/>
         <source>Save</source>
         <translation>저장</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2995"/>
-        <location filename="ViewWindow.cpp" line="3126"/>
-        <location filename="ViewWindow.cpp" line="3176"/>
+        <location filename="ViewWindow.cpp" line="2991"/>
+        <location filename="ViewWindow.cpp" line="3122"/>
+        <location filename="ViewWindow.cpp" line="3172"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
         <translation>이미지 저장 중...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2997"/>
-        <location filename="ViewWindow.cpp" line="3178"/>
+        <location filename="ViewWindow.cpp" line="2993"/>
+        <location filename="ViewWindow.cpp" line="3174"/>
         <source>Error</source>
         <translation>오류</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2997"/>
-        <location filename="ViewWindow.cpp" line="3178"/>
+        <location filename="ViewWindow.cpp" line="2993"/>
+        <location filename="ViewWindow.cpp" line="3174"/>
         <source>An error occurred during saving!</source>
         <translation>저장중 오류가 발생하였습니다!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3268"/>
+        <location filename="ViewWindow.cpp" line="3264"/>
         <source>Properties</source>
         <translation>속성</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4445"/>
+        <location filename="ViewWindow.cpp" line="4447"/>
         <source>Colors count</source>
         <translation>색상 수</translation>
     </message>
@@ -470,28 +470,28 @@
 <context>
     <name>BaseViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="4950"/>
+        <location filename="ViewWindow.cpp" line="4931"/>
         <source>Error</source>
         <translation>오류</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4941"/>
-        <location filename="ViewWindow.cpp" line="4950"/>
+        <location filename="ViewWindow.cpp" line="4922"/>
+        <location filename="ViewWindow.cpp" line="4931"/>
         <source>File can&apos;t be loaded!</source>
         <translation>파일을 불러올 수 없습니다!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4941"/>
+        <location filename="ViewWindow.cpp" line="4922"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <translation>PDF/PS/EPS/AI 파일을 보거나 변환하는데 XnView MP를 사용하려면, Ghostscript %1을 시스템에 설치해야 합니다. </translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4942"/>
+        <location filename="ViewWindow.cpp" line="4923"/>
         <source>Please visit the %1 for more information.</source>
         <translation>추가 정보는 %1을 방문해 주세요.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4954"/>
+        <location filename="ViewWindow.cpp" line="4935"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; 비어 있음 &gt;</translation>
     </message>
@@ -524,7 +524,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 <context>
     <name>BookmarksMenu</name>
     <message>
-        <location filename="Bookmarks.cpp" line="893"/>
+        <location filename="Bookmarks.cpp" line="892"/>
         <source>No favorites</source>
         <translation>즐겨찾기 없음</translation>
     </message>
@@ -545,7 +545,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 <context>
     <name>BrowserWindow</name>
     <message>
-        <location filename="BrowserWindow.cpp" line="692"/>
+        <location filename="BrowserWindow.cpp" line="675"/>
         <source>Customize toolbar...</source>
         <translation>도구모음 사용자 정의...</translation>
     </message>
@@ -555,43 +555,43 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>즐겨찾기 추가...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1752"/>
+        <location filename="BrowserWindow.cpp" line="1751"/>
         <source>Folders</source>
         <translation>폴더</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1756"/>
+        <location filename="BrowserWindow.cpp" line="1755"/>
         <source>Favorites</source>
         <translation>즐겨찾기</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1760"/>
+        <location filename="BrowserWindow.cpp" line="1759"/>
         <source>Catalog Filter</source>
         <oldsource>Categories Filter</oldsource>
         <translation>카탈로그 필터</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1770"/>
+        <location filename="BrowserWindow.cpp" line="1769"/>
         <source>Categories</source>
         <translation>카테고리</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1775"/>
+        <location filename="BrowserWindow.cpp" line="1774"/>
         <source>Category Sets</source>
         <translation>카테고리 세트</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1808"/>
+        <location filename="BrowserWindow.cpp" line="1807"/>
         <source>Info</source>
         <translation>정보</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="696"/>
+        <location filename="BrowserWindow.cpp" line="679"/>
         <source>Detach preview panel</source>
         <translation>미리보기 패널 떼기</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="698"/>
+        <location filename="BrowserWindow.cpp" line="681"/>
         <source>Attach preview panel</source>
         <translation>미리보기 패널 붙이기</translation>
     </message>
@@ -607,17 +607,17 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>즐겨찾기에 추가</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1816"/>
+        <location filename="BrowserWindow.cpp" line="1815"/>
         <source>Metadata</source>
         <translation>메타데이터</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1825"/>
+        <location filename="BrowserWindow.cpp" line="1824"/>
         <source>Histogram</source>
         <translation>히스토그램</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1997"/>
+        <location filename="BrowserWindow.cpp" line="1996"/>
         <source>Click to filter - use Shift and Control for multiple selections.
 Right Click on different items for pop-up menus with actions.
 Drag and Drop over the desired node to assign.</source>
@@ -626,152 +626,147 @@ Drag and Drop over the desired node to assign.</source>
 할당하고 싶은 노드 위로 드래그 &amp; 드롭하세요.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2003"/>
+        <location filename="BrowserWindow.cpp" line="2002"/>
         <source>Match any selected entry (OR)</source>
         <translation>포함하는 항목 선택 (OR)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2009"/>
+        <location filename="BrowserWindow.cpp" line="2008"/>
         <source>Match all selected entries (AND)</source>
         <translation>일치하는 항목 선택 (AND)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2020"/>
+        <location filename="BrowserWindow.cpp" line="2019"/>
         <source>Global</source>
         <translation>전역</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2027"/>
+        <location filename="BrowserWindow.cpp" line="2026"/>
         <source>Current folder</source>
         <translation>현재 폴더</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2034"/>
+        <location filename="BrowserWindow.cpp" line="2033"/>
         <source>Current folder (Recursive)</source>
         <translation>현재 폴더 (하위 폴더 포함)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2249"/>
-        <source>Thumbnails</source>
-        <translation type="unfinished">썸네일</translation>
-    </message>
-    <message>
-        <location filename="BrowserWindow.cpp" line="3443"/>
+        <location filename="BrowserWindow.cpp" line="3140"/>
         <source>&lt;Search results&gt;</source>
         <translation>&lt;검색 결과&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3445"/>
+        <location filename="BrowserWindow.cpp" line="3142"/>
         <source>&lt;Tagged files&gt;</source>
         <translation>&lt;태그된 파일&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3540"/>
+        <location filename="BrowserWindow.cpp" line="3232"/>
         <source>This folder doesn&apos;t exist!</source>
         <translation>이 폴더는 존재하지 않습니다!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3753"/>
+        <location filename="BrowserWindow.cpp" line="3445"/>
         <source>Favorite name:</source>
         <translation>즐겨찾기 이름:</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="3998"/>
+        <location filename="BrowserWindow.cpp" line="3690"/>
         <source>Are you sure to delete these %n item(s)?</source>
         <translation>
             <numerusform>이 %n개의 항목을 정말 삭제할까요?</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4083"/>
+        <location filename="BrowserWindow.cpp" line="3775"/>
         <source>The files cannot be renamed, an error occurred.</source>
         <translation>오류가 발생하여 파일 이름을 바꿀 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3540"/>
-        <location filename="BrowserWindow.cpp" line="4083"/>
+        <location filename="BrowserWindow.cpp" line="3232"/>
+        <location filename="BrowserWindow.cpp" line="3775"/>
         <source>Error</source>
         <translation>오류</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3447"/>
+        <location filename="BrowserWindow.cpp" line="3144"/>
         <source>&lt;Catalog filter results&gt;</source>
         <translation>&lt;카탈로그 필터 결과&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3449"/>
+        <location filename="BrowserWindow.cpp" line="3146"/>
         <source>&lt;files&gt;</source>
         <translation>&lt;files&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3991"/>
+        <location filename="BrowserWindow.cpp" line="3683"/>
         <source>Delete items &amp; companions</source>
         <translation>컴패니언과 항목 삭제</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="3992"/>
+        <location filename="BrowserWindow.cpp" line="3684"/>
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
         <translation>
             <numerusform>이 %n개의 항목을 정말 삭제할까요? - %1 항목 선택됨</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4447"/>
+        <location filename="BrowserWindow.cpp" line="4139"/>
         <source>Search...</source>
         <translation>검색...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4448"/>
+        <location filename="BrowserWindow.cpp" line="4140"/>
         <source>Add to favorites...</source>
         <translation>즐겨찾기에 추가</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4451"/>
+        <location filename="BrowserWindow.cpp" line="4143"/>
         <source>Start slideshow</source>
         <translation>슬라이드쇼 시작</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4453"/>
+        <location filename="BrowserWindow.cpp" line="4145"/>
         <source>Open in file manager</source>
         <translation type="unfinished">파일 탐색기에서 열기</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4456"/>
+        <location filename="BrowserWindow.cpp" line="4148"/>
         <source>Properties</source>
         <translation>속성</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4565"/>
+        <location filename="BrowserWindow.cpp" line="4257"/>
         <source>Load filelist</source>
         <translation>파일목록 불러오기</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1987"/>
+        <location filename="BrowserWindow.cpp" line="1986"/>
         <source>Match</source>
         <translation>일치</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3997"/>
+        <location filename="BrowserWindow.cpp" line="3689"/>
         <source>Delete items</source>
         <translation>항목 삭제</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4445"/>
+        <location filename="BrowserWindow.cpp" line="4137"/>
         <source>Show files in subfolders</source>
         <translation>하위폴더 내의 파일 보기</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4488"/>
+        <location filename="BrowserWindow.cpp" line="4180"/>
         <source>Delete folder</source>
         <translation>폴더 삭제</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4488"/>
+        <location filename="BrowserWindow.cpp" line="4180"/>
         <source>Are you sure to delete this folder?</source>
         <translation>이 폴더를 정말 삭제할까요?</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="647"/>
+        <location filename="BrowserWindow.cpp" line="630"/>
         <source>Browser</source>
         <translation>브라우저</translation>
     </message>
@@ -1067,47 +1062,42 @@ Drag and Drop over the desired node to assign.</source>
         <translation>히스토그램</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="52"/>
-        <source>Navigator</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="CompareWidget.cpp" line="563"/>
+        <location filename="CompareWidget.cpp" line="556"/>
         <source>Zoom out</source>
         <translation>축소</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="566"/>
+        <location filename="CompareWidget.cpp" line="559"/>
         <source>Zoom in</source>
         <translation>확대</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="569"/>
+        <location filename="CompareWidget.cpp" line="562"/>
         <source>Zoom 100%</source>
         <translation>배율 100%</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="572"/>
+        <location filename="CompareWidget.cpp" line="565"/>
         <source>Best fit</source>
         <translation>최적</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="596"/>
+        <location filename="CompareWidget.cpp" line="589"/>
         <source>Close</source>
         <translation>닫기</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="1198"/>
+        <location filename="CompareWidget.cpp" line="1188"/>
         <source>Delete file</source>
         <translation>파일 삭제</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="1198"/>
+        <location filename="CompareWidget.cpp" line="1188"/>
         <source>Do you want to delete this file?</source>
         <translation>이 파일을 삭제할까요?</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="578"/>
+        <location filename="CompareWidget.cpp" line="571"/>
         <source>Copy to</source>
         <translation>복사하기</translation>
     </message>
@@ -1117,22 +1107,22 @@ Drag and Drop over the desired node to assign.</source>
         <translation>자동으로 맞추기</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="73"/>
+        <location filename="CompareWidget.cpp" line="71"/>
         <source>Normal</source>
         <translation>기본</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="76"/>
+        <location filename="CompareWidget.cpp" line="74"/>
         <source>Tabs</source>
         <translation>탭</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="583"/>
+        <location filename="CompareWidget.cpp" line="576"/>
         <source>Move to</source>
         <translation>이동하기</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="589"/>
+        <location filename="CompareWidget.cpp" line="582"/>
         <source>Delete</source>
         <translation>삭제</translation>
     </message>
@@ -1235,62 +1225,62 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="516"/>
-        <location filename="DlgAutoCrop.h" line="97"/>
+        <location filename="DlgAutoCrop.h" line="89"/>
         <source>Automatic crop</source>
         <translation>자동 자르기</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="576"/>
+        <location filename="DlgConvertProcess.h" line="569"/>
         <source>Zealous crop</source>
         <translation>내부 포함 자동 자르기</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="617"/>
+        <location filename="DlgConvertProcess.h" line="610"/>
         <source>Automatic deskew</source>
         <translation>기울기 자동 보정</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="638"/>
+        <location filename="DlgConvertProcess.h" line="631"/>
         <source>Clean metadata</source>
         <translation>메타데이터 지우기</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="677"/>
+        <location filename="DlgConvertProcess.h" line="670"/>
         <source>Watermark</source>
         <translation>워터마크</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="836"/>
+        <location filename="DlgConvertProcess.h" line="829"/>
         <source>Text</source>
         <translation>텍스트</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="1354"/>
+        <location filename="DlgConvertProcess.h" line="1347"/>
         <source>Crop</source>
         <translation>자르기</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="1422"/>
+        <location filename="DlgConvertProcess.h" line="1415"/>
         <source>Canvas resize</source>
         <translation>캔버스 크기 변경</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="1658"/>
+        <location filename="DlgConvertProcess.h" line="1651"/>
         <source>Resize</source>
         <translation>크기 변경</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2106"/>
+        <location filename="DlgConvertProcess.h" line="2099"/>
         <source>Rotate</source>
         <translation>회전</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2453"/>
+        <location filename="DlgConvertProcess.h" line="2446"/>
         <source>Set DPI</source>
         <translation>DPI 설정</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2492"/>
+        <location filename="DlgConvertProcess.h" line="2485"/>
         <source>Extract channel</source>
         <translation>채널 추출</translation>
     </message>
@@ -1307,260 +1297,260 @@ Drag and Drop over the desired node to assign.</source>
         <translation>커브</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4745"/>
+        <location filename="DlgConvertProcess.h" line="4738"/>
         <location filename="DlgWhiteBalance.h" line="68"/>
         <source>White Balance</source>
         <translation>화이트밸런스</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2516"/>
+        <location filename="DlgConvertProcess.h" line="2509"/>
         <source>Black/White Points</source>
         <translation>검은색/흰색 지점</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2537"/>
+        <location filename="DlgConvertProcess.h" line="2530"/>
         <source>Mirror</source>
         <translation>거울 효과 (Mirror)</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2561"/>
+        <location filename="DlgConvertProcess.h" line="2554"/>
         <source>Replace color</source>
         <translation>색상 바꾸기</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2593"/>
+        <location filename="DlgConvertProcess.h" line="2586"/>
         <source>Transparent color</source>
         <translation>투명 색상</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2640"/>
+        <location filename="DlgConvertProcess.h" line="2633"/>
         <source>Aspect Pad</source>
         <translation>비율 채우기</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2699"/>
+        <location filename="DlgConvertProcess.h" line="2692"/>
         <source>Color balance</source>
         <translation>컬러 밸런스 (색 균형)</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2725"/>
+        <location filename="DlgConvertProcess.h" line="2718"/>
         <source>HLS</source>
         <translation>HLS (색상/명도/채도)</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2800"/>
+        <location filename="DlgConvertProcess.h" line="2793"/>
         <location filename="DlgShadowHighlight.h" line="69"/>
         <source>Shadow-Highlight</source>
         <translation>쉐도우-하이라이트</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2822"/>
+        <location filename="DlgConvertProcess.h" line="2815"/>
         <source>Add noise</source>
         <translation>노이즈 추가</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2898"/>
+        <location filename="DlgConvertProcess.h" line="2891"/>
         <source>Edge detect</source>
         <translation>가장자리 감지</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2965"/>
+        <location filename="DlgConvertProcess.h" line="2958"/>
         <source>De-interlace</source>
         <translation>디인터레이스</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3297"/>
+        <location filename="DlgConvertProcess.h" line="3290"/>
         <source>Blurred frame</source>
         <translation>프레임 블러</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3553"/>
+        <location filename="DlgConvertProcess.h" line="3546"/>
         <source>Inner Frame</source>
         <translation>내부 프레임</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3907"/>
+        <location filename="DlgConvertProcess.h" line="3900"/>
         <source>JPEG Lossless rotation</source>
         <translation>JPEG 무손실 회전</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4318"/>
+        <location filename="DlgConvertProcess.h" line="4311"/>
         <source>Retro</source>
         <translation>복고풍 (Retro)</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4547"/>
+        <location filename="DlgConvertProcess.h" line="4540"/>
         <source>Film Simulation</source>
         <translation>필름 시뮬레이션</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4587"/>
+        <location filename="DlgConvertProcess.h" line="4580"/>
         <source>Bloom</source>
         <translation>뽀샤시 (Bloom)</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4611"/>
+        <location filename="DlgConvertProcess.h" line="4604"/>
         <source>Unsharp Mask</source>
         <translation>언샤프 마스크</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4643"/>
+        <location filename="DlgConvertProcess.h" line="4636"/>
         <source>Clear transparent pixels</source>
         <translation>투명 픽셀 지우기</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4657"/>
+        <location filename="DlgConvertProcess.h" line="4650"/>
         <source>Remove alpha channel</source>
         <translation>알파채널 제거</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4671"/>
+        <location filename="DlgConvertProcess.h" line="4664"/>
         <location filename="DlgOffset.h" line="108"/>
         <source>Offset</source>
         <translation>오프셋</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4697"/>
+        <location filename="DlgConvertProcess.h" line="4690"/>
         <source>Symmetry</source>
         <translation>대칭 (Symmetry)</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4718"/>
+        <location filename="DlgConvertProcess.h" line="4711"/>
         <source>Saturation</source>
         <translation>채도 (Saturation)</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4761"/>
+        <location filename="DlgConvertProcess.h" line="4754"/>
         <source>Mono Mixer</source>
         <translation>흑백 믹서</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4786"/>
+        <location filename="DlgConvertProcess.h" line="4779"/>
         <source>Fantasy</source>
         <translation>판타지 (Fantasy)</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4806"/>
+        <location filename="DlgConvertProcess.h" line="4799"/>
         <source>Crystallize</source>
         <translation>결정체화 (Crystallize)</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4824"/>
+        <location filename="DlgConvertProcess.h" line="4817"/>
         <source>Temperature</source>
         <translation>온도 (Temperature)</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4841"/>
+        <location filename="DlgConvertProcess.h" line="4834"/>
         <source>Photo Spread</source>
         <translation>사진 분할</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4868"/>
+        <location filename="DlgConvertProcess.h" line="4861"/>
         <source>Frequency</source>
         <translation>주파수</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4873"/>
+        <location filename="DlgConvertProcess.h" line="4866"/>
         <source>Halftone</source>
         <translation>하프톤 (Halftone)</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="5007"/>
+        <location filename="DlgConvertProcess.h" line="5000"/>
         <source>QR Code</source>
         <translation>QR 코드</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2987"/>
+        <location filename="DlgConvertProcess.h" line="2980"/>
         <location filename="Dlg1SliderPanel.h" line="81"/>
         <source>Posterize</source>
         <translation>포스터화 (Posterize)</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2765"/>
+        <location filename="DlgConvertProcess.h" line="2758"/>
         <source>Swap color</source>
         <translation>색상 바꾸기</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3007"/>
+        <location filename="DlgConvertProcess.h" line="3000"/>
         <source>Border 3D</source>
         <translation>테두리 3D (Border 3D)</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3034"/>
+        <location filename="DlgConvertProcess.h" line="3027"/>
         <source>Waves</source>
         <translation>물결 (Waves)</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3039"/>
+        <location filename="DlgConvertProcess.h" line="3032"/>
         <source>Length</source>
         <translation>길이</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3040"/>
+        <location filename="DlgConvertProcess.h" line="3033"/>
         <source>Phase</source>
         <translation>위상</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3041"/>
+        <location filename="DlgConvertProcess.h" line="3034"/>
         <source>Amount</source>
         <translation>용량</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3083"/>
+        <location filename="DlgConvertProcess.h" line="3076"/>
         <source>Normalize Ex</source>
         <translation>노멀라이즈 Ex</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3088"/>
-        <location filename="DlgConvertProcess.h" line="3146"/>
+        <location filename="DlgConvertProcess.h" line="3081"/>
+        <location filename="DlgConvertProcess.h" line="3139"/>
         <source>Black limit %</source>
         <translation>검은색 한계 %</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3089"/>
-        <location filename="DlgConvertProcess.h" line="3147"/>
+        <location filename="DlgConvertProcess.h" line="3082"/>
+        <location filename="DlgConvertProcess.h" line="3140"/>
         <source>White limit %</source>
         <translation>흰색 한계 %</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3090"/>
+        <location filename="DlgConvertProcess.h" line="3083"/>
         <source>Expansion limit</source>
         <translation>확장 한계</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3141"/>
+        <location filename="DlgConvertProcess.h" line="3134"/>
         <source>Align histogram</source>
         <translation>히스토그램 정렬</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3148"/>
+        <location filename="DlgConvertProcess.h" line="3141"/>
         <source>Align %</source>
         <translation>정렬 %</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3212"/>
+        <location filename="DlgConvertProcess.h" line="3205"/>
         <source>ICC convert</source>
         <translation>ICC 변환</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3359"/>
+        <location filename="DlgConvertProcess.h" line="3352"/>
         <source>Border</source>
         <translation>테두리 (Border)</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3599"/>
+        <location filename="DlgConvertProcess.h" line="3592"/>
         <location filename="DlgOldCamera.h" line="86"/>
         <source>Old camera</source>
         <translation>오래된 카메라</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3620"/>
+        <location filename="DlgConvertProcess.h" line="3613"/>
         <location filename="DlgVignetting.h" line="94"/>
         <source>Vignetting</source>
         <translation>비네팅</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3799"/>
+        <location filename="DlgConvertProcess.h" line="3792"/>
         <source>Add mask</source>
         <translation>마스크 추가</translation>
     </message>
@@ -1925,9 +1915,9 @@ Drag and Drop over the desired node to assign.</source>
     <name>DB</name>
     <message>
         <location filename="CategoryManager.cpp" line="159"/>
-        <location filename="MyDB.cpp" line="909"/>
-        <location filename="MyDB.cpp" line="2328"/>
-        <location filename="MyDB.cpp" line="3653"/>
+        <location filename="MyDB.cpp" line="836"/>
+        <location filename="MyDB.cpp" line="2255"/>
+        <location filename="MyDB.cpp" line="3579"/>
         <source>Other</source>
         <translation>기타</translation>
     </message>
@@ -1937,72 +1927,72 @@ Drag and Drop over the desired node to assign.</source>
         <translation>지정되지 않음</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="910"/>
+        <location filename="MyDB.cpp" line="837"/>
         <source>Photographs</source>
         <translation>사진</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="911"/>
+        <location filename="MyDB.cpp" line="838"/>
         <source>Family</source>
         <translation>가족</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="912"/>
+        <location filename="MyDB.cpp" line="839"/>
         <source>Friends</source>
         <translation>친구</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="913"/>
+        <location filename="MyDB.cpp" line="840"/>
         <source>Pets</source>
         <translation>애완동물</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="914"/>
+        <location filename="MyDB.cpp" line="841"/>
         <source>Travel</source>
         <translation>여행</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="915"/>
+        <location filename="MyDB.cpp" line="842"/>
         <source>Landscapes</source>
         <translation>풍경</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="916"/>
+        <location filename="MyDB.cpp" line="843"/>
         <source>Portraits</source>
         <translation>인물</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="917"/>
+        <location filename="MyDB.cpp" line="844"/>
         <source>Flowers</source>
         <translation>꽃</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="918"/>
+        <location filename="MyDB.cpp" line="845"/>
         <source>Animals</source>
         <translation>동물</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="919"/>
+        <location filename="MyDB.cpp" line="846"/>
         <source>Pictures</source>
         <translation>사진</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="920"/>
+        <location filename="MyDB.cpp" line="847"/>
         <source>Icons</source>
         <translation>아이콘</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="921"/>
+        <location filename="MyDB.cpp" line="848"/>
         <source>Drawings</source>
         <translation>스케치</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="922"/>
+        <location filename="MyDB.cpp" line="849"/>
         <source>Videos</source>
         <translation>비디오</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="923"/>
+        <location filename="MyDB.cpp" line="850"/>
         <source>Audios</source>
         <translation>오디오</translation>
     </message>
@@ -2061,7 +2051,7 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="158"/>
-        <location filename="DBFilterModel.cpp" line="1437"/>
+        <location filename="DBFilterModel.cpp" line="1421"/>
         <source>Date</source>
         <translation type="unfinished">날짜</translation>
     </message>
@@ -2082,44 +2072,44 @@ Drag and Drop over the desired node to assign.</source>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="295"/>
-        <location filename="DBFilterModel.cpp" line="2061"/>
+        <location filename="DBFilterModel.cpp" line="2045"/>
         <source>No Smart Album</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1300"/>
-        <location filename="DBFilterModel.cpp" line="1590"/>
-        <location filename="DBFilterModel.cpp" line="1899"/>
-        <location filename="DBFilterModel.cpp" line="1906"/>
-        <location filename="DBFilterModel.cpp" line="1911"/>
-        <location filename="DBFilterModel.cpp" line="1916"/>
-        <location filename="DBFilterModel.cpp" line="1933"/>
-        <location filename="DBFilterModel.cpp" line="1950"/>
+        <location filename="DBFilterModel.cpp" line="1284"/>
+        <location filename="DBFilterModel.cpp" line="1574"/>
+        <location filename="DBFilterModel.cpp" line="1883"/>
+        <location filename="DBFilterModel.cpp" line="1890"/>
+        <location filename="DBFilterModel.cpp" line="1895"/>
+        <location filename="DBFilterModel.cpp" line="1900"/>
+        <location filename="DBFilterModel.cpp" line="1917"/>
+        <location filename="DBFilterModel.cpp" line="1934"/>
         <source>Unknown</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1938"/>
+        <location filename="DBFilterModel.cpp" line="1922"/>
         <source>Landscape</source>
         <translation type="unfinished">가로</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1940"/>
+        <location filename="DBFilterModel.cpp" line="1924"/>
         <source>Portrait</source>
         <translation type="unfinished">세로</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1942"/>
+        <location filename="DBFilterModel.cpp" line="1926"/>
         <source>Square</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2015"/>
+        <location filename="DBFilterModel.cpp" line="1999"/>
         <source>Panoramic</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2041"/>
+        <location filename="DBFilterModel.cpp" line="2025"/>
         <source>No Color Profile</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4200,49 +4190,29 @@ Do you want to continue?</source>
         <translation>허용 오차</translation>
     </message>
     <message>
-        <location filename="DlgConvertAutoCrop.ui" line="135"/>
+        <location filename="DlgConvertAutoCrop.ui" line="104"/>
+        <source>Edges:</source>
+        <translation>경계:</translation>
+    </message>
+    <message>
+        <location filename="DlgConvertAutoCrop.ui" line="111"/>
         <source>Bottom</source>
         <translation>아래쪽</translation>
     </message>
     <message>
-        <location filename="DlgConvertAutoCrop.ui" line="184"/>
+        <location filename="DlgConvertAutoCrop.ui" line="121"/>
         <source>Top</source>
         <translation>위쪽</translation>
     </message>
     <message>
-        <location filename="DlgConvertAutoCrop.ui" line="125"/>
+        <location filename="DlgConvertAutoCrop.ui" line="131"/>
         <source>Left</source>
         <translation>왼쪽</translation>
     </message>
     <message>
-        <location filename="DlgConvertAutoCrop.ui" line="104"/>
-        <source>Mode</source>
-        <translation type="unfinished">모드</translation>
-    </message>
-    <message>
-        <location filename="DlgConvertAutoCrop.ui" line="115"/>
-        <source>Horizontal</source>
-        <translation type="unfinished">수평</translation>
-    </message>
-    <message>
-        <location filename="DlgConvertAutoCrop.ui" line="161"/>
-        <source>Edges</source>
-        <translation type="unfinished">가장자리</translation>
-    </message>
-    <message>
-        <location filename="DlgConvertAutoCrop.ui" line="174"/>
-        <source>Vertical</source>
-        <translation type="unfinished">수직</translation>
-    </message>
-    <message>
-        <location filename="DlgConvertAutoCrop.ui" line="194"/>
+        <location filename="DlgConvertAutoCrop.ui" line="141"/>
         <source>Right</source>
         <translation>오른쪽</translation>
-    </message>
-    <message>
-        <location filename="DlgConvertAutoCrop.ui" line="220"/>
-        <source>Zealous</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7679,89 +7649,89 @@ Please make sure that files are not read-only!</oldsource>
         <translation>이미지 파일이 아닙니다</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="314"/>
+        <location filename="DlgExport.cpp" line="305"/>
         <source>Black&amp;White</source>
         <translation>흑백</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="316"/>
+        <location filename="DlgExport.cpp" line="307"/>
         <source>8 colors</source>
         <translation>8 색</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="318"/>
+        <location filename="DlgExport.cpp" line="309"/>
         <source>16 colors</source>
         <translation>16 색</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="320"/>
+        <location filename="DlgExport.cpp" line="311"/>
         <source>32 colors</source>
         <translation>32 색</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="322"/>
+        <location filename="DlgExport.cpp" line="313"/>
         <source>64 colors</source>
         <translation>64 색</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="324"/>
+        <location filename="DlgExport.cpp" line="315"/>
         <source>128 colors</source>
         <translation>128 색</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="326"/>
+        <location filename="DlgExport.cpp" line="317"/>
         <source>256 colors</source>
         <translation>256 색</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="328"/>
+        <location filename="DlgExport.cpp" line="319"/>
         <source>Greyscale</source>
         <translation>그레이스케일</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="331"/>
+        <location filename="DlgExport.cpp" line="322"/>
         <source>16m</source>
         <translation>16m</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="349"/>
+        <location filename="DlgExport.cpp" line="340"/>
         <source>None</source>
         <translation>없음</translation>
     </message>
     <message>
+        <location filename="DlgExport.cpp" line="340"/>
         <location filename="DlgExport.cpp" line="349"/>
-        <location filename="DlgExport.cpp" line="358"/>
         <source>Pattern</source>
         <translation>패턴</translation>
     </message>
     <message>
+        <location filename="DlgExport.cpp" line="340"/>
         <location filename="DlgExport.cpp" line="349"/>
-        <location filename="DlgExport.cpp" line="358"/>
         <source>Floyd-Steinberg</source>
         <translation>플로이드-스테인 버그</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="349"/>
+        <location filename="DlgExport.cpp" line="340"/>
         <source>Halftone 45</source>
         <translation>하프톤 45</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="349"/>
+        <location filename="DlgExport.cpp" line="340"/>
         <source>Halftone 90</source>
         <translation>하프톤 90</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="358"/>
+        <location filename="DlgExport.cpp" line="349"/>
         <source>Adaptive</source>
         <translation>적응형</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="620"/>
+        <location filename="DlgExport.cpp" line="609"/>
         <source>Images</source>
         <translation>이미지</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="639"/>
+        <location filename="DlgExport.cpp" line="628"/>
         <source>Save File</source>
         <translation>파일 저장</translation>
     </message>
@@ -8278,6 +8248,29 @@ Please try to start with admin rights.</source>
     </message>
 </context>
 <context>
+    <name>DlgFlickr</name>
+    <message>
+        <location filename="DlgFlickr.h" line="17"/>
+        <source>Abort</source>
+        <translation>중단</translation>
+    </message>
+    <message>
+        <location filename="DlgFlickr.h" line="36"/>
+        <source>Uploading image(s) to Flickr album</source>
+        <translation>이미지를 플리커 앨범으로 업로드 중</translation>
+    </message>
+    <message>
+        <location filename="DlgFlickr.h" line="55"/>
+        <source>Error</source>
+        <translation>오류</translation>
+    </message>
+    <message>
+        <location filename="DlgFlickr.h" line="64"/>
+        <source>Uploading image(s) to Picasa album</source>
+        <translation>이미지를 피카사 앨범으로 업로드 중</translation>
+    </message>
+</context>
+<context>
     <name>DlgFlickrSettings</name>
     <message>
         <location filename="DlgFlickrSettings.ui" line="14"/>
@@ -8298,6 +8291,11 @@ Please try to start with admin rights.</source>
         <location filename="DlgFlickrSettings.ui" line="59"/>
         <source>New user...</source>
         <translation>새 사용자...</translation>
+    </message>
+    <message>
+        <location filename="DlgFlickrSettings.h" line="134"/>
+        <source>Error</source>
+        <translation>오류</translation>
     </message>
 </context>
 <context>
@@ -9556,6 +9554,41 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgPalette.cpp" line="450"/>
         <source>Choose Palette file</source>
         <translation>팔레트 파일 선택</translation>
+    </message>
+</context>
+<context>
+    <name>DlgPicasa</name>
+    <message>
+        <location filename="DlgPicasa.h" line="45"/>
+        <source>Abort</source>
+        <translation>중단</translation>
+    </message>
+    <message>
+        <location filename="DlgPicasa.h" line="58"/>
+        <source>Updating album list from Picasa</source>
+        <translation>피카사에서 앨범 목록을 업로드 중</translation>
+    </message>
+    <message>
+        <location filename="DlgPicasa.h" line="69"/>
+        <location filename="DlgPicasa.h" line="124"/>
+        <source>Uploading image(s) to Picasa album</source>
+        <translation>이미지를 피카사 앨범으로 업로드 중</translation>
+    </message>
+    <message>
+        <location filename="DlgPicasa.h" line="91"/>
+        <location filename="DlgPicasa.h" line="93"/>
+        <source>Problem</source>
+        <translation>문제점</translation>
+    </message>
+    <message>
+        <location filename="DlgPicasa.h" line="91"/>
+        <source>An error occurred in uploading process!</source>
+        <translation>업로드 과정에서 오류 발생!</translation>
+    </message>
+    <message>
+        <location filename="DlgPicasa.h" line="93"/>
+        <source>An error occurred, please check your login data!</source>
+        <translation>오류 발생, 로그인 데이터를 확인하십시오!</translation>
     </message>
 </context>
 <context>
@@ -10949,54 +10982,49 @@ Do you want to remove them?</source>
     <name>DlgSearch</name>
     <message>
         <location filename="DlgSearch.cpp" line="80"/>
-        <location filename="DlgSearch.cpp" line="187"/>
+        <location filename="DlgSearch.cpp" line="182"/>
         <source>Smart Albums</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="80"/>
-        <location filename="DlgSearch.cpp" line="187"/>
+        <location filename="DlgSearch.cpp" line="182"/>
         <source>Name:</source>
         <translation type="unfinished">이름:</translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="179"/>
+        <location filename="DlgSearch.cpp" line="174"/>
         <source>Save</source>
         <translation type="unfinished">저장</translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="328"/>
+        <location filename="DlgSearch.cpp" line="323"/>
         <source>Preset</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="329"/>
+        <location filename="DlgSearch.cpp" line="324"/>
         <source>Preset search name:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="332"/>
+        <location filename="DlgSearch.cpp" line="327"/>
         <source>Save pathname</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="395"/>
+        <location filename="DlgSearch.cpp" line="390"/>
         <source>GROUP</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="420"/>
+        <location filename="DlgSearch.cpp" line="414"/>
         <source>Files found (%1):</source>
         <translation>파일 발견 (%1):</translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="445"/>
-        <source>Search</source>
-        <translation type="unfinished">검색</translation>
-    </message>
-    <message>
-        <location filename="DlgSearch.cpp" line="476"/>
-        <location filename="DlgSearch.cpp" line="477"/>
+        <location filename="DlgSearch.cpp" line="461"/>
+        <location filename="DlgSearch.cpp" line="462"/>
         <source>Finished: %1 file(s) found.</source>
         <oldsource>Finished: %1 file(s) found...</oldsource>
         <translation>완료: %1 파일을 찾았습니다...</translation>
@@ -13537,6 +13565,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="476"/>
         <location filename="DlgSettingsKeywords.ui" line="526"/>
+        <location filename="DlgSettingsKeywords.ui" line="569"/>
         <source>Default encoding</source>
         <translation>기본 인코딩</translation>
     </message>
@@ -13546,12 +13575,17 @@ Do you want to reassign?</source>
         <translation>내장 코멘트</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="820"/>
+        <location filename="DlgSettingsKeywords.ui" line="561"/>
+        <source>EXIF Copyright</source>
+        <translation>EXIF 저작권</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsKeywords.ui" line="786"/>
         <source>Label</source>
         <translation>레이블</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="770"/>
+        <location filename="DlgSettingsKeywords.ui" line="736"/>
         <source>Read (separated by ,)</source>
         <translation>읽기 (, 로 구분)</translation>
     </message>
@@ -13591,17 +13625,7 @@ Do you want to reassign?</source>
         <translation>지원되는 형식</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="569"/>
-        <source>Copyright</source>
-        <translation type="unfinished">저작권</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsKeywords.ui" line="603"/>
-        <source>Image description</source>
-        <translation type="unfinished">이미지 설명</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsKeywords.ui" line="813"/>
+        <location filename="DlgSettingsKeywords.ui" line="779"/>
         <source>Write</source>
         <translation>쓰기</translation>
     </message>
@@ -13611,7 +13635,7 @@ Do you want to reassign?</source>
         <translation>IPTC 필드를 쓰는데 UTF-8 사용하기</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="652"/>
+        <location filename="DlgSettingsKeywords.ui" line="618"/>
         <source>Color labels</source>
         <oldsource>Labels</oldsource>
         <translation>색상 라벨</translation>
@@ -13641,29 +13665,29 @@ Do you want to reassign?</source>
         <translation>내장 썸네일이 썸네일 크기보다 작으면 원본 이미지에서 만들기</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="117"/>
+        <location filename="DlgSettingsThumbnail.ui" line="110"/>
         <source>Use sharpen</source>
         <oldsource>Sharpen thumbnail</oldsource>
         <translation>선명화 사용</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="124"/>
+        <location filename="DlgSettingsThumbnail.ui" line="117"/>
         <source>Create thumbnails for whole folder</source>
         <oldsource>Create  thumbnails for whole folder</oldsource>
         <translation>전체 폴더에 대해 썸네일 만들기</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="133"/>
+        <location filename="DlgSettingsThumbnail.ui" line="126"/>
         <source>Use gamma correction</source>
         <translation>감마 보정 사용</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="173"/>
+        <location filename="DlgSettingsThumbnail.ui" line="166"/>
         <source>For video files, extract frame at</source>
         <translation>비디오 파일의 프레임 추출 위치</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="187"/>
+        <location filename="DlgSettingsThumbnail.ui" line="180"/>
         <source>%</source>
         <translation>%</translation>
     </message>
@@ -13678,245 +13702,240 @@ Do you want to reassign?</source>
         <translation>알파 채널 사용하기</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="110"/>
-        <source>Use transparency grid</source>
-        <translation type="unfinished">투명 격자 사용</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsThumbnail.ui" line="211"/>
+        <location filename="DlgSettingsThumbnail.ui" line="204"/>
         <source>Go to Thumbnail DB related settings &gt;&gt;</source>
         <translation>썸네일 DB 관련 설정으로 이동 &gt;&gt;</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="247"/>
+        <location filename="DlgSettingsThumbnail.ui" line="240"/>
         <source>Appearance</source>
         <translation>모양</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="256"/>
+        <location filename="DlgSettingsThumbnail.ui" line="249"/>
         <source>Custom thumbnail size</source>
         <translation>사용자 썸네일 크기</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="268"/>
+        <location filename="DlgSettingsThumbnail.ui" line="261"/>
         <source>Width</source>
         <translation>너비</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="301"/>
+        <location filename="DlgSettingsThumbnail.ui" line="294"/>
         <source>Height</source>
         <translation>높이</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="382"/>
+        <location filename="DlgSettingsThumbnail.ui" line="375"/>
         <source>Margin</source>
         <translation>여백</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="404"/>
-        <location filename="DlgSettingsThumbnail.ui" line="1106"/>
+        <location filename="DlgSettingsThumbnail.ui" line="397"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1099"/>
         <source>Background</source>
         <translation>배경</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="451"/>
+        <location filename="DlgSettingsThumbnail.ui" line="444"/>
         <source>Spacing</source>
         <translation>간격</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="466"/>
+        <location filename="DlgSettingsThumbnail.ui" line="459"/>
         <source>Spacing between labels</source>
         <translation>레이블 간의 간격 설정</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="475"/>
+        <location filename="DlgSettingsThumbnail.ui" line="468"/>
         <source>Image alignment</source>
         <translation>이미지 정렬</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="483"/>
+        <location filename="DlgSettingsThumbnail.ui" line="476"/>
         <source>Top</source>
         <translation>위</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="493"/>
+        <location filename="DlgSettingsThumbnail.ui" line="486"/>
         <source>Bottom</source>
         <translation>아래</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="518"/>
+        <location filename="DlgSettingsThumbnail.ui" line="511"/>
         <source>Label alignment</source>
         <translation>레이블 정렬</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="526"/>
+        <location filename="DlgSettingsThumbnail.ui" line="519"/>
         <source>Left</source>
         <translation>왼쪽</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="904"/>
+        <location filename="DlgSettingsThumbnail.ui" line="897"/>
         <source>Frame&apos;s count</source>
         <translation>프레임 수</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1181"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1174"/>
         <source>Label colors</source>
         <translation>라벨 색상</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1187"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1180"/>
         <source>Use color based on file format</source>
         <translation>파일 형식에 따라 색상 사용하기</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1200"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1193"/>
         <source>Enter an extension:</source>
         <translation>확장자 입력:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1210"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1203"/>
         <source>or choose a format:</source>
         <translation>또는 형식 선택:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1256"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1249"/>
         <source>New</source>
         <translation>새로 만들기</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1266"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1259"/>
         <source>Remove</source>
         <translation>제거</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1290"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1283"/>
         <source>Default color</source>
         <translation>기본 색상</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="488"/>
-        <location filename="DlgSettingsThumbnail.ui" line="531"/>
+        <location filename="DlgSettingsThumbnail.ui" line="481"/>
+        <location filename="DlgSettingsThumbnail.ui" line="524"/>
         <source>Center</source>
         <translation>가운데</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="536"/>
+        <location filename="DlgSettingsThumbnail.ui" line="529"/>
         <source>Right</source>
         <translation>오른쪽</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="649"/>
+        <location filename="DlgSettingsThumbnail.ui" line="642"/>
         <source>Companion</source>
         <translation>컴패니언</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1068"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1061"/>
         <source>Color</source>
         <translation>색상</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1076"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1069"/>
         <source>Text</source>
         <translation>텍스트</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="398"/>
+        <location filename="DlgSettingsThumbnail.ui" line="391"/>
         <source>Thumbnail cell</source>
         <translation>썸네일 셀</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="349"/>
+        <location filename="DlgSettingsThumbnail.ui" line="342"/>
         <source>Border size</source>
         <translation>테두리 크기</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="883"/>
+        <location filename="DlgSettingsThumbnail.ui" line="876"/>
         <source>Has category</source>
         <translation>카테고리</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="39"/>
-        <location filename="DlgSettingsThumbnail.ui" line="336"/>
+        <location filename="DlgSettingsThumbnail.ui" line="329"/>
         <source>Thumbnail</source>
         <translation>썸네일</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="342"/>
+        <location filename="DlgSettingsThumbnail.ui" line="335"/>
         <source>Use shadow</source>
         <translation>사진자 사용</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="421"/>
+        <location filename="DlgSettingsThumbnail.ui" line="414"/>
         <source>Border</source>
         <translation>테두리</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="576"/>
+        <location filename="DlgSettingsThumbnail.ui" line="569"/>
         <source>Overlay icons</source>
         <translation>오버레이 아이콘</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="836"/>
+        <location filename="DlgSettingsThumbnail.ui" line="829"/>
         <source>Shortcut</source>
         <translation>단축키</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="722"/>
+        <location filename="DlgSettingsThumbnail.ui" line="715"/>
         <source>Tag</source>
         <translation>태그</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="876"/>
+        <location filename="DlgSettingsThumbnail.ui" line="869"/>
         <source>Automatic rotation</source>
         <translation>자동 회전</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="856"/>
+        <location filename="DlgSettingsThumbnail.ui" line="849"/>
         <source>Rating</source>
         <translation>등급</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="749"/>
+        <location filename="DlgSettingsThumbnail.ui" line="742"/>
         <source>Embedded thumbnail</source>
         <translation>내장 썸네일</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="702"/>
+        <location filename="DlgSettingsThumbnail.ui" line="695"/>
         <source>Color label</source>
         <translation>색 레이블</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="829"/>
+        <location filename="DlgSettingsThumbnail.ui" line="822"/>
         <source>Color profile</source>
         <translation>색상 프로파일</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="769"/>
+        <location filename="DlgSettingsThumbnail.ui" line="762"/>
         <source>Face tag</source>
         <translation>얼굴 태그</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="897"/>
+        <location filename="DlgSettingsThumbnail.ui" line="890"/>
         <source>Sidecar</source>
         <translation>사이드카</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="914"/>
+        <location filename="DlgSettingsThumbnail.ui" line="907"/>
         <source>Labels</source>
         <translation>레이블</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1140"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1133"/>
         <source>Reset color</source>
         <translation>색상 초기화</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1040"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1033"/>
         <source>Custom label</source>
         <translation>사용자 정의 레이블</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="928"/>
+        <location filename="DlgSettingsThumbnail.ui" line="921"/>
         <source>Browser › View › View as › Thumbnails + Labels</source>
         <oldsource>Browser - Thumbnail</oldsource>
         <translation>브라우저 &gt; 보기 &gt; 다음과 같이 보기 &gt; 썸네일 + 라벨</translation>
@@ -15370,34 +15389,34 @@ Do you want to continue?</source>
 <context>
     <name>DlgUpload</name>
     <message>
-        <location filename="DlgUpload.cpp" line="33"/>
-        <location filename="DlgUpload.cpp" line="85"/>
-        <location filename="DlgUpload.cpp" line="92"/>
+        <location filename="DlgUpload.cpp" line="35"/>
         <location filename="DlgUpload.cpp" line="95"/>
-        <location filename="DlgUpload.cpp" line="107"/>
-        <location filename="DlgUpload.cpp" line="189"/>
-        <location filename="DlgUpload.cpp" line="213"/>
-        <location filename="DlgUpload.cpp" line="224"/>
+        <location filename="DlgUpload.cpp" line="102"/>
+        <location filename="DlgUpload.cpp" line="105"/>
+        <location filename="DlgUpload.cpp" line="117"/>
+        <location filename="DlgUpload.cpp" line="203"/>
+        <location filename="DlgUpload.cpp" line="229"/>
+        <location filename="DlgUpload.cpp" line="240"/>
         <source>Upload</source>
         <translation>업로드</translation>
     </message>
     <message>
-        <location filename="DlgUpload.cpp" line="82"/>
+        <location filename="DlgUpload.cpp" line="92"/>
         <source>Error</source>
         <translation>오류</translation>
     </message>
     <message>
-        <location filename="DlgUpload.cpp" line="126"/>
+        <location filename="DlgUpload.cpp" line="136"/>
         <source>Cancel</source>
         <translation>취소</translation>
     </message>
     <message>
-        <location filename="DlgUpload.cpp" line="189"/>
+        <location filename="DlgUpload.cpp" line="203"/>
         <source>Unable to load image file...</source>
         <translation>이미지 파일을 불러올 수 없음...</translation>
     </message>
     <message>
-        <location filename="DlgUpload.cpp" line="213"/>
+        <location filename="DlgUpload.cpp" line="229"/>
         <source>Unable to upload image file...</source>
         <translation>이미지 파일을 업로드 할 수 없음...</translation>
     </message>
@@ -16630,6 +16649,25 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
 </context>
 <context>
+    <name>Flickr</name>
+    <message>
+        <location filename="Flickr.cpp" line="353"/>
+        <source>An error has occurred!!</source>
+        <oldsource>An error has occured!!</oldsource>
+        <translation>오류가 발생했습니다!!</translation>
+    </message>
+    <message>
+        <location filename="Flickr.cpp" line="378"/>
+        <source>Authorization</source>
+        <translation>권한</translation>
+    </message>
+    <message>
+        <location filename="Flickr.cpp" line="379"/>
+        <source>Press OK button when the autorization is done through web browser</source>
+        <translation>웹 브라우저에서 권한을 요청할 때 확인 버튼을 누르세요</translation>
+    </message>
+</context>
+<context>
     <name>ImgurAPI3</name>
     <message>
         <location filename="imgurapi3.cpp" line="231"/>
@@ -17239,12 +17277,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>비율</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1829"/>
+        <location filename="DBFilterModel.cpp" line="1813"/>
         <source>Aspect Ratio</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1865"/>
+        <location filename="DBFilterModel.cpp" line="1849"/>
         <source>File type</source>
         <translation type="unfinished">파일 유형</translation>
     </message>
@@ -17513,7 +17551,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 <context>
     <name>InfoExif</name>
     <message>
-        <location filename="DBFilterModel.cpp" line="1833"/>
+        <location filename="DBFilterModel.cpp" line="1817"/>
         <location filename="ItemModel.cpp" line="1120"/>
         <location filename="SearchField.cpp" line="79"/>
         <location filename="TemplateData.cpp" line="2611"/>
@@ -17521,7 +17559,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>제작사</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1837"/>
+        <location filename="DBFilterModel.cpp" line="1821"/>
         <location filename="ItemModel.cpp" line="1122"/>
         <location filename="SearchField.cpp" line="80"/>
         <location filename="TemplateData.cpp" line="2612"/>
@@ -17529,68 +17567,68 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>기종</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1841"/>
+        <location filename="DBFilterModel.cpp" line="1825"/>
         <source>Lens</source>
         <translation type="unfinished">렌즈 (Lens)</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1849"/>
+        <location filename="DBFilterModel.cpp" line="1833"/>
         <location filename="ItemModel.cpp" line="1124"/>
         <source>ISO</source>
         <translation>ISO</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1857"/>
+        <location filename="DBFilterModel.cpp" line="1841"/>
         <source>Shutter Speed</source>
         <translation type="unfinished">셔터속도</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1869"/>
+        <location filename="DBFilterModel.cpp" line="1853"/>
         <source>Colour Space</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1952"/>
+        <location filename="DBFilterModel.cpp" line="1936"/>
         <source>Not Defined</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1954"/>
+        <location filename="DBFilterModel.cpp" line="1938"/>
         <source>Manual</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1956"/>
+        <location filename="DBFilterModel.cpp" line="1940"/>
         <source>Program AE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1958"/>
+        <location filename="DBFilterModel.cpp" line="1942"/>
         <source>Aperture-priority AE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1960"/>
+        <location filename="DBFilterModel.cpp" line="1944"/>
         <source>Shutter speed priority AE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1962"/>
+        <location filename="DBFilterModel.cpp" line="1946"/>
         <source>Creative</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1964"/>
+        <location filename="DBFilterModel.cpp" line="1948"/>
         <source>Action</source>
         <translation type="unfinished">동작</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1966"/>
+        <location filename="DBFilterModel.cpp" line="1950"/>
         <source>Portrait</source>
         <translation type="unfinished">세로</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1968"/>
+        <location filename="DBFilterModel.cpp" line="1952"/>
         <source>Landscape</source>
         <translation type="unfinished">가로</translation>
     </message>
@@ -17605,7 +17643,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>노출 시간</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1845"/>
+        <location filename="DBFilterModel.cpp" line="1829"/>
         <location filename="ItemModel.cpp" line="1130"/>
         <source>Focal Length</source>
         <translation>초점 거리</translation>
@@ -17682,7 +17720,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>사용자 코멘트</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1853"/>
+        <location filename="DBFilterModel.cpp" line="1837"/>
         <location filename="ItemModel.cpp" line="1134"/>
         <location filename="SearchField.cpp" line="89"/>
         <location filename="TemplateData.cpp" line="2645"/>
@@ -17706,7 +17744,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>수정 날짜/시간</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1825"/>
+        <location filename="DBFilterModel.cpp" line="1809"/>
         <location filename="TemplateData.cpp" line="2616"/>
         <source>Orientation</source>
         <translation>방향</translation>
@@ -17795,7 +17833,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>노출 시간 (s)</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1861"/>
+        <location filename="DBFilterModel.cpp" line="1845"/>
         <location filename="TemplateData.cpp" line="2641"/>
         <source>Exposure Program</source>
         <translation>노출 프로그램</translation>
@@ -18954,7 +18992,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>종류</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="5121"/>
+        <location filename="ItemModel.cpp" line="5122"/>
         <source>New Folder %1</source>
         <translation>새 폴더 %1</translation>
     </message>
@@ -18962,13 +19000,13 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 <context>
     <name>ItemProcess</name>
     <message>
-        <location filename="ItemProcess.cpp" line="303"/>
+        <location filename="ItemProcess.cpp" line="301"/>
         <source>Lossless Crop</source>
         <translation>무손실 자르기</translation>
     </message>
     <message>
-        <location filename="ItemProcess.cpp" line="304"/>
-        <location filename="ItemProcess.cpp" line="372"/>
+        <location filename="ItemProcess.cpp" line="302"/>
+        <location filename="ItemProcess.cpp" line="370"/>
         <source>JPEG lossless operation will modify original file(s), and may remove some unused pixels (width and height must be multiple of 8 pixels)!
 
 Do you want to continue?</source>
@@ -18977,47 +19015,47 @@ Do you want to continue?</source>
 계속할까요?</translation>
     </message>
     <message>
-        <location filename="ItemProcess.cpp" line="328"/>
-        <location filename="ItemProcess.cpp" line="360"/>
-        <location filename="ItemProcess.cpp" line="413"/>
-        <location filename="ItemProcess.cpp" line="506"/>
+        <location filename="ItemProcess.cpp" line="326"/>
+        <location filename="ItemProcess.cpp" line="358"/>
+        <location filename="ItemProcess.cpp" line="411"/>
+        <location filename="ItemProcess.cpp" line="504"/>
         <source>Problem</source>
         <translation>문제</translation>
     </message>
     <message>
-        <location filename="ItemProcess.cpp" line="329"/>
-        <location filename="ItemProcess.cpp" line="361"/>
-        <location filename="ItemProcess.cpp" line="414"/>
+        <location filename="ItemProcess.cpp" line="327"/>
+        <location filename="ItemProcess.cpp" line="359"/>
+        <location filename="ItemProcess.cpp" line="412"/>
         <source>An error has occurred, the lossless rotation can&apos;t be executed.</source>
         <oldsource>An error occured, the lossless rotation can&apos;t be executed.</oldsource>
         <translation>오류가 발생했습니다, 무손실 회전을 실행할 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="ItemProcess.cpp" line="371"/>
+        <location filename="ItemProcess.cpp" line="369"/>
         <source>Lossless Operation</source>
         <translation>무손실 동작</translation>
     </message>
     <message>
-        <location filename="ItemProcess.cpp" line="449"/>
-        <location filename="ItemProcess.cpp" line="459"/>
-        <location filename="ItemProcess.cpp" line="467"/>
-        <location filename="ItemProcess.cpp" line="473"/>
+        <location filename="ItemProcess.cpp" line="447"/>
+        <location filename="ItemProcess.cpp" line="457"/>
+        <location filename="ItemProcess.cpp" line="465"/>
+        <location filename="ItemProcess.cpp" line="471"/>
         <source>Info</source>
         <translation>정보</translation>
     </message>
     <message>
-        <location filename="ItemProcess.cpp" line="450"/>
-        <location filename="ItemProcess.cpp" line="468"/>
+        <location filename="ItemProcess.cpp" line="448"/>
+        <location filename="ItemProcess.cpp" line="466"/>
         <source>This file contains more than one page/image, so it&apos;s not possible to rotate it.</source>
         <translation>이 파일에는 한 개 이상의 페이지/이미지가 들어 있어서 회전이 불가능합니다.</translation>
     </message>
     <message>
-        <location filename="ItemProcess.cpp" line="460"/>
+        <location filename="ItemProcess.cpp" line="458"/>
         <source>This file uses a nonwritable format, so it&apos;s not possible to rotate it.</source>
         <translation>이 파일은 쓰기 불가능한 형식을 사용해서 회전이 불가능합니다.</translation>
     </message>
     <message>
-        <location filename="ItemProcess.cpp" line="474"/>
+        <location filename="ItemProcess.cpp" line="472"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel). 
 
 Do you want to continue?</source>
@@ -19029,7 +19067,7 @@ Do you want to continue?</oldsource>
 계속할까요?</translation>
     </message>
     <message>
-        <location filename="ItemProcess.cpp" line="507"/>
+        <location filename="ItemProcess.cpp" line="505"/>
         <source>An error has occurred.</source>
         <oldsource>An error occured.</oldsource>
         <translation>오류가 발생했습니다.</translation>
@@ -19329,7 +19367,7 @@ Do you want to continue?</oldsource>
 <context>
     <name>MediaPlayerBase</name>
     <message>
-        <location filename="MediaPlayerBase.cpp" line="90"/>
+        <location filename="MediaPlayerBase.cpp" line="89"/>
         <source>Adjust volume</source>
         <translation>볼륨 조절</translation>
     </message>
@@ -19360,12 +19398,12 @@ Do you want to continue?</oldsource>
 <context>
     <name>MenuBrowser</name>
     <message>
-        <location filename="BrowserWindow.cpp" line="4425"/>
+        <location filename="BrowserWindow.cpp" line="4117"/>
         <source>New Folder</source>
         <translation>새 폴더</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4437"/>
+        <location filename="BrowserWindow.cpp" line="4129"/>
         <source>Rename</source>
         <translation>이름 변경</translation>
     </message>
@@ -19420,580 +19458,575 @@ Do you want to continue?</oldsource>
         <translation>필름 스트립 2</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="23"/>
-        <source>Film strip 3</source>
-        <translation type="unfinished">필름 스트립 3</translation>
-    </message>
-    <message>
-        <location filename="BrowserMenu.h" line="25"/>
+        <location filename="BrowserMenu.h" line="24"/>
         <source>Free</source>
         <translation>자유롭게</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="31"/>
+        <location filename="BrowserMenu.h" line="30"/>
         <source>Thumbnails</source>
         <translation>썸네일</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="32"/>
+        <location filename="BrowserMenu.h" line="31"/>
         <source>Thumbnails + Filenames</source>
         <translation>썸네일 + 파일명</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="33"/>
+        <location filename="BrowserMenu.h" line="32"/>
         <source>Thumbnails + Labels</source>
         <translation>썸네일 + 레이블</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="34"/>
+        <location filename="BrowserMenu.h" line="33"/>
         <source>Thumbnails + Details</source>
         <translation>썸네일 + 자세히</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="35"/>
+        <location filename="BrowserMenu.h" line="34"/>
         <source>Icons</source>
         <translation>아이콘</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="36"/>
+        <location filename="BrowserMenu.h" line="35"/>
         <source>List</source>
         <translation>목록</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="37"/>
+        <location filename="BrowserMenu.h" line="36"/>
         <source>Details</source>
         <translation>자세히</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="43"/>
+        <location filename="BrowserMenu.h" line="42"/>
         <source>Name</source>
         <translation>이름</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="44"/>
+        <location filename="BrowserMenu.h" line="43"/>
         <source>Extension</source>
         <translation>확장자</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="46"/>
+        <location filename="BrowserMenu.h" line="45"/>
         <source>Created Date</source>
         <translation>생성일</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="47"/>
+        <location filename="BrowserMenu.h" line="46"/>
         <source>EXIF Date Taken</source>
         <oldsource>EXIF Date</oldsource>
         <translation>EXIF 날짜</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="49"/>
+        <location filename="BrowserMenu.h" line="48"/>
         <source>Type</source>
         <translation>종류</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="50"/>
+        <location filename="BrowserMenu.h" line="49"/>
         <source>File size</source>
         <translation>파일 크기</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="51"/>
+        <location filename="BrowserMenu.h" line="50"/>
         <source>Image size</source>
         <translation>이미지 크기</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="52"/>
+        <location filename="BrowserMenu.h" line="51"/>
         <source>Image Width</source>
         <translation>이미지 너비</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="53"/>
+        <location filename="BrowserMenu.h" line="52"/>
         <source>Image Height</source>
         <translation>이미지 높이</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="54"/>
+        <location filename="BrowserMenu.h" line="53"/>
         <source>Orientation</source>
         <translation>방향</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="55"/>
+        <location filename="BrowserMenu.h" line="54"/>
         <source>Ratio</source>
         <translation>비율</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="56"/>
+        <location filename="BrowserMenu.h" line="55"/>
         <source>Print size</source>
         <translation>인쇄 크기</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="57"/>
+        <location filename="BrowserMenu.h" line="56"/>
         <source>Comment</source>
         <translation>코멘트</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="58"/>
+        <location filename="BrowserMenu.h" line="57"/>
         <source>Path</source>
         <translation>경로</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="59"/>
+        <location filename="BrowserMenu.h" line="58"/>
         <source>Rating</source>
         <translation>등급</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="60"/>
+        <location filename="BrowserMenu.h" line="59"/>
         <source>Colour label</source>
         <translation>색 레이블</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="64"/>
+        <location filename="BrowserMenu.h" line="63"/>
         <source>Ascending</source>
         <translation>오름차순</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="65"/>
+        <location filename="BrowserMenu.h" line="64"/>
         <source>Descending</source>
         <translation>내림차순</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="77"/>
+        <location filename="BrowserMenu.h" line="76"/>
         <source>Images</source>
         <translation>이미지</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="79"/>
+        <location filename="BrowserMenu.h" line="78"/>
         <source>Videos</source>
         <translation>비디오</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="81"/>
+        <location filename="BrowserMenu.h" line="80"/>
         <source>Sounds</source>
         <translation>사운드</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="82"/>
+        <location filename="BrowserMenu.h" line="81"/>
         <source>Archives</source>
         <translation>압축 파일</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="83"/>
-        <location filename="BrowserMenu.h" line="112"/>
+        <location filename="BrowserMenu.h" line="82"/>
+        <location filename="BrowserMenu.h" line="111"/>
         <source>All</source>
         <translation>전체</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="84"/>
+        <location filename="BrowserMenu.h" line="83"/>
         <source>Tagged file(s)</source>
         <translation>태그된 파일</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="472"/>
+        <location filename="CompareWidget.cpp" line="465"/>
         <source>Fair</source>
         <translation>괜찮음</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="469"/>
+        <location filename="CompareWidget.cpp" line="462"/>
         <source>Poor</source>
         <translation>별로임</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="242"/>
+        <location filename="BrowserMenu.h" line="241"/>
         <source>Restore layout D</source>
         <translation>레이아웃 복원 D</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="248"/>
+        <location filename="BrowserMenu.h" line="247"/>
         <source>Save layout D</source>
         <translation>레이아웃 저장 D</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="249"/>
+        <location filename="BrowserMenu.h" line="248"/>
         <source>Save layout E</source>
         <translation>레이아웃 저장 E</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="322"/>
+        <location filename="BrowserMenu.h" line="321"/>
         <source>Map</source>
         <translation type="unfinished">매핑</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="425"/>
+        <location filename="BrowserMenu.h" line="424"/>
         <source>Selected path(s)</source>
         <translation>선택된 경로</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="426"/>
+        <location filename="BrowserMenu.h" line="425"/>
         <source>Selected filename(s)</source>
         <translation>선택된 파일명</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="427"/>
+        <location filename="BrowserMenu.h" line="426"/>
         <source>Selected filename(s) and path(s)</source>
         <translation>선택된 파일명 및 경로</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="453"/>
+        <location filename="BrowserMenu.h" line="452"/>
         <source>Navigate to</source>
         <translation>탐색</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="455"/>
+        <location filename="BrowserMenu.h" line="454"/>
         <source>Show header</source>
         <translation>헤더 보이기</translation>
     </message>
     <message>
+        <location filename="BrowserMenu.h" line="469"/>
         <location filename="BrowserMenu.h" line="470"/>
         <location filename="BrowserMenu.h" line="471"/>
         <location filename="BrowserMenu.h" line="472"/>
         <location filename="BrowserMenu.h" line="473"/>
         <location filename="BrowserMenu.h" line="474"/>
-        <location filename="BrowserMenu.h" line="475"/>
         <source>##rating## (go to next image)</source>
         <oldsource>Poor (go to next image)</oldsource>
         <translation>##rating## (다음 이미지로 이동)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="488"/>
+        <location filename="BrowserMenu.h" line="487"/>
         <source>##label## (go to next image)</source>
         <translation>##label## (다음 이미지로 이동)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="507"/>
+        <location filename="BrowserMenu.h" line="506"/>
         <source>Set Rating</source>
         <translation>등급 설정</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="508"/>
+        <location filename="BrowserMenu.h" line="507"/>
         <source>Set Color label</source>
         <translation>색상 라벨 지정</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="509"/>
+        <location filename="BrowserMenu.h" line="508"/>
         <source>Set Category</source>
         <translation>카테고리 지정</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="511"/>
+        <location filename="BrowserMenu.h" line="510"/>
         <source>Remove from category</source>
         <translation>카테고리에서 제거</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="512"/>
+        <location filename="BrowserMenu.h" line="511"/>
         <source>Remove from all categories</source>
         <translation>전체 카테고리에서 제거</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="526"/>
+        <location filename="BrowserMenu.h" line="525"/>
         <source>Back</source>
         <translation>뒤로</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="527"/>
+        <location filename="BrowserMenu.h" line="526"/>
         <source>Forward</source>
         <translation>앞으로</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="530"/>
+        <location filename="BrowserMenu.h" line="529"/>
         <source>Filelist toolbar</source>
         <translation>파일목록 도구모음</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="550"/>
+        <location filename="BrowserMenu.h" line="549"/>
         <source>Preview as tab</source>
         <translation>탭으로 미리보기</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="560"/>
+        <location filename="BrowserMenu.h" line="559"/>
         <source>Thumbnails view only</source>
         <translation>썸네일 보기만</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="565"/>
+        <location filename="BrowserMenu.h" line="564"/>
         <source>Rotate 90° right</source>
         <translation>우로 90° 회전</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="566"/>
+        <location filename="BrowserMenu.h" line="565"/>
         <source>Rotate 90° left</source>
         <translation>좌로 90° 회전</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="567"/>
+        <location filename="BrowserMenu.h" line="566"/>
         <source>Rotate 180°</source>
         <translation>180° 회전</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="569"/>
+        <location filename="BrowserMenu.h" line="568"/>
         <source>Rotate 90° right (lossless)</source>
         <translation>우로 90° 회전 (무손실)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="570"/>
+        <location filename="BrowserMenu.h" line="569"/>
         <source>Rotate 90° left (lossless)</source>
         <translation>좌로 90° 회전 (무손실)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="571"/>
+        <location filename="BrowserMenu.h" line="570"/>
         <source>Rotate 180° (lossless)</source>
         <translation>180° 회전 (무손실)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="572"/>
+        <location filename="BrowserMenu.h" line="571"/>
         <source>Rotate based on EXIF orientation field</source>
         <translation>EXIF 방향 필드에 따라서 회전하기</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="573"/>
+        <location filename="BrowserMenu.h" line="572"/>
         <source>Reset EXIF orientation field</source>
         <translation>EXIF 방향 필드 초기화하기</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="574"/>
+        <location filename="BrowserMenu.h" line="573"/>
         <source>Flip horizontally (lossless)</source>
         <translation>수평 뒤집기 (무손실)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="575"/>
+        <location filename="BrowserMenu.h" line="574"/>
         <source>Flip vertically (lossless)</source>
         <translation>수직 뒤집기 (무손실)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="599"/>
+        <location filename="BrowserMenu.h" line="598"/>
         <source>EXIF Thumbnail</source>
         <translation>EXIF 썸네일</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="600"/>
+        <location filename="BrowserMenu.h" line="599"/>
         <source>Convert into</source>
         <translation>변환</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="602"/>
+        <location filename="BrowserMenu.h" line="601"/>
         <source>Send by FTP...</source>
         <translation>FTP로 보내기...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="603"/>
+        <location filename="BrowserMenu.h" line="602"/>
         <source>Upload on web...</source>
         <translation>웹에 업로드...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="604"/>
+        <location filename="BrowserMenu.h" line="603"/>
         <source>File listing...</source>
         <translation>파일 목록 만들기...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="605"/>
+        <location filename="BrowserMenu.h" line="604"/>
         <source>Archive...</source>
         <translation>압축...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="606"/>
+        <location filename="BrowserMenu.h" line="605"/>
         <source>Send by email...</source>
         <translation>이메일로 보내기...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="607"/>
+        <location filename="BrowserMenu.h" line="606"/>
         <source>Set as wallpaper...</source>
         <translation>배경 화면으로 설정...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="608"/>
+        <location filename="BrowserMenu.h" line="607"/>
         <source>Print...</source>
         <translation>인쇄...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="610"/>
+        <location filename="BrowserMenu.h" line="609"/>
         <source>Properties...</source>
         <translation>속성...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="614"/>
+        <location filename="BrowserMenu.h" line="613"/>
         <source>Multi-page file...</source>
         <translation>다중 페이지 파일...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="615"/>
+        <location filename="BrowserMenu.h" line="614"/>
         <source>Join images...</source>
         <translation>이미지 결합...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="616"/>
+        <location filename="BrowserMenu.h" line="615"/>
         <source>Contact sheet...</source>
         <translation>컨택트 시트...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="621"/>
+        <location filename="BrowserMenu.h" line="620"/>
         <source>Video thumbnails gallery...</source>
         <translation>동영상 미리보기 갤러리...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="635"/>
+        <location filename="BrowserMenu.h" line="634"/>
         <source>Draw as tiled</source>
         <translation>바둑판식으로 그리기</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="21"/>
         <location filename="DlgSettingsView.cpp" line="270"/>
-        <location filename="BrowserMenu.h" line="639"/>
+        <location filename="BrowserMenu.h" line="638"/>
         <source>Fit image to window, small only</source>
         <translation>이미지를 창에 맞춤, 작은 것만</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="648"/>
+        <location filename="BrowserMenu.h" line="647"/>
         <source>Copy to clipboard</source>
         <translation>클립보드로 복사</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="649"/>
+        <location filename="BrowserMenu.h" line="648"/>
         <source>File operations</source>
         <translation>파일 작업</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="656"/>
+        <location filename="BrowserMenu.h" line="655"/>
         <source>Category Search</source>
         <translation>카테고리 검색</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="661"/>
+        <location filename="BrowserMenu.h" line="660"/>
         <source>Edit face tag...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="664"/>
+        <location filename="BrowserMenu.h" line="663"/>
         <source>Capture...</source>
         <translation>캡처...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="666"/>
+        <location filename="BrowserMenu.h" line="665"/>
         <source>Empty tab</source>
         <oldsource>Empty tab...</oldsource>
         <translation>빈 탭</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="668"/>
+        <location filename="BrowserMenu.h" line="667"/>
         <source>Select TWAIN source...</source>
         <translation>TWAIN 소스 선택...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="809"/>
+        <location filename="BrowserMenu.h" line="808"/>
         <source>&amp;File</source>
         <translation>파일(&amp;F)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="810"/>
+        <location filename="BrowserMenu.h" line="809"/>
         <source>&amp;Edit</source>
         <translation>편집(&amp;E)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="811"/>
+        <location filename="BrowserMenu.h" line="810"/>
         <source>&amp;View</source>
         <translation>보기(&amp;V)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="812"/>
+        <location filename="BrowserMenu.h" line="811"/>
         <source>Meta&amp;data</source>
         <translation>메타데이터 (&amp;D)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="813"/>
+        <location filename="BrowserMenu.h" line="812"/>
         <source>&amp;Tools</source>
         <translation>도구(&amp;T)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="670"/>
+        <location filename="BrowserMenu.h" line="669"/>
         <source>Acquire into (TWAIN)...</source>
         <translation>스캔후 저장 (TWAIN)...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="814"/>
+        <location filename="BrowserMenu.h" line="813"/>
         <source>C&amp;reate</source>
         <translation>만들기(&amp;R)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="815"/>
+        <location filename="BrowserMenu.h" line="814"/>
         <source>&amp;Help</source>
         <translation>도움말(&amp;H)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="7"/>
-        <location filename="BrowserMenu.h" line="62"/>
-        <location filename="BrowserMenu.h" line="86"/>
-        <location filename="BrowserMenu.h" line="126"/>
+        <location filename="BrowserMenu.h" line="61"/>
+        <location filename="BrowserMenu.h" line="85"/>
+        <location filename="BrowserMenu.h" line="125"/>
         <source>Custom</source>
         <translation>사용자 정의</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="481"/>
+        <location filename="CompareWidget.cpp" line="474"/>
         <source>Excellent</source>
         <translation>우수</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="478"/>
+        <location filename="CompareWidget.cpp" line="471"/>
         <source>Good</source>
         <translation>좋음</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="475"/>
+        <location filename="CompareWidget.cpp" line="468"/>
         <source>Average</source>
         <translation>보통</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="466"/>
+        <location filename="CompareWidget.cpp" line="459"/>
         <source>Unrated</source>
         <translation>무등급</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="486"/>
-        <location filename="BrowserMenu.h" line="111"/>
-        <location filename="BrowserMenu.h" line="486"/>
+        <location filename="CompareWidget.cpp" line="479"/>
+        <location filename="BrowserMenu.h" line="110"/>
+        <location filename="BrowserMenu.h" line="485"/>
         <source>Uncolored</source>
         <translation>무색</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="545"/>
+        <location filename="BrowserMenu.h" line="544"/>
         <source>Open all selected</source>
         <translation>전체 선택 열기</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="19"/>
         <location filename="DlgSettingsView.cpp" line="268"/>
-        <location filename="BrowserMenu.h" line="636"/>
+        <location filename="BrowserMenu.h" line="635"/>
         <source>No fit</source>
         <translation>맞춤 없음</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="20"/>
         <location filename="DlgSettingsView.cpp" line="269"/>
-        <location filename="BrowserMenu.h" line="637"/>
+        <location filename="BrowserMenu.h" line="636"/>
         <source>Fit image to window</source>
         <translation>이미지를 창에 맞춤</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="22"/>
         <location filename="DlgSettingsView.cpp" line="271"/>
-        <location filename="BrowserMenu.h" line="638"/>
+        <location filename="BrowserMenu.h" line="637"/>
         <source>Fit image to window, large only</source>
         <translation>이미지를 창에 맞춤, 큰 것만</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="23"/>
         <location filename="DlgSettingsView.cpp" line="272"/>
-        <location filename="BrowserMenu.h" line="640"/>
+        <location filename="BrowserMenu.h" line="639"/>
         <source>Fit image to window width</source>
         <translation>이미지를 창 너비에 맞춤</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="24"/>
         <location filename="DlgSettingsView.cpp" line="273"/>
-        <location filename="BrowserMenu.h" line="641"/>
+        <location filename="BrowserMenu.h" line="640"/>
         <source>Fit image to window height</source>
         <translation>이미지를 창 높이에 맞춤</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="25"/>
         <location filename="DlgSettingsView.cpp" line="274"/>
-        <location filename="BrowserMenu.h" line="642"/>
+        <location filename="BrowserMenu.h" line="641"/>
         <source>Fit image to window width or height</source>
         <translation>이미지를 창 너비나 높이에 맞춤</translation>
     </message>
@@ -20003,66 +20036,66 @@ Do you want to continue?</oldsource>
         <translation>이미지를 바탕화면에 채우기</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="239"/>
+        <location filename="BrowserMenu.h" line="238"/>
         <source>Restore layout A</source>
         <translation>레이아웃 복원 A</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="240"/>
+        <location filename="BrowserMenu.h" line="239"/>
         <source>Restore layout B</source>
         <translation>레이아웃 복원 B</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="241"/>
+        <location filename="BrowserMenu.h" line="240"/>
         <source>Restore layout C</source>
         <translation>레이아웃 복원 C</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="243"/>
+        <location filename="BrowserMenu.h" line="242"/>
         <source>Restore layout E</source>
         <translation>레이아웃 복원 E</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="245"/>
+        <location filename="BrowserMenu.h" line="244"/>
         <source>Save layout A</source>
         <translation>레이아웃 저장 A </translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="246"/>
+        <location filename="BrowserMenu.h" line="245"/>
         <source>Save layout B</source>
         <translation>레이아웃 저장 B</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="247"/>
+        <location filename="BrowserMenu.h" line="246"/>
         <source>Save layout C</source>
         <translation>레이아웃 저장 C</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="300"/>
+        <location filename="BrowserMenu.h" line="299"/>
         <source>Folder</source>
         <translation>폴더</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="301"/>
-        <location filename="BrowserMenu.h" line="323"/>
+        <location filename="BrowserMenu.h" line="300"/>
+        <location filename="BrowserMenu.h" line="322"/>
         <source>Favorites</source>
         <translation>즐겨찾기</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="303"/>
+        <location filename="BrowserMenu.h" line="302"/>
         <source>Categories</source>
         <translation>카테고리</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="306"/>
-        <location filename="BrowserMenu.h" line="316"/>
-        <location filename="BrowserMenu.h" line="556"/>
-        <location filename="BrowserMenu.h" line="646"/>
+        <location filename="BrowserMenu.h" line="305"/>
+        <location filename="BrowserMenu.h" line="315"/>
+        <location filename="BrowserMenu.h" line="555"/>
+        <location filename="BrowserMenu.h" line="645"/>
         <source>Preview</source>
         <translation>미리보기</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="317"/>
+        <location filename="BrowserMenu.h" line="316"/>
         <source>Histogram</source>
         <translation>히스토그램</translation>
     </message>
@@ -20078,489 +20111,489 @@ Do you want to continue?</oldsource>
         <translation>다크</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="48"/>
+        <location filename="BrowserMenu.h" line="47"/>
         <source>EXIF Date Modified</source>
         <translation>EXIF 수정일</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="302"/>
+        <location filename="BrowserMenu.h" line="301"/>
         <source>Catalog Filter</source>
         <oldsource>Categories Filter</oldsource>
         <translation>카탈로그 필터</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="304"/>
+        <location filename="BrowserMenu.h" line="303"/>
         <source>Category Sets</source>
         <translation>카테고리 세트</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="414"/>
+        <location filename="BrowserMenu.h" line="413"/>
         <source>Open with</source>
         <oldsource>Open with test</oldsource>
         <translation>다른 방법으로 열기</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="415"/>
+        <location filename="BrowserMenu.h" line="414"/>
         <source>Recent files</source>
         <translation>최근 파일</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="418"/>
+        <location filename="BrowserMenu.h" line="417"/>
         <source>Open...</source>
         <translation>열기...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="419"/>
+        <location filename="BrowserMenu.h" line="418"/>
         <source>Open file list...</source>
         <translation>파일 목록 열기...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4428"/>
-        <location filename="BrowserMenu.h" line="421"/>
+        <location filename="BrowserWindow.cpp" line="4120"/>
+        <location filename="BrowserMenu.h" line="420"/>
         <source>Cut</source>
         <translation>잘라내기</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4430"/>
-        <location filename="BrowserMenu.h" line="423"/>
+        <location filename="BrowserWindow.cpp" line="4122"/>
+        <location filename="BrowserMenu.h" line="422"/>
         <source>Copy</source>
         <translation>복사</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="424"/>
+        <location filename="BrowserMenu.h" line="423"/>
         <source>Image</source>
         <translation>이미지</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4432"/>
-        <location filename="BrowserMenu.h" line="428"/>
+        <location filename="BrowserWindow.cpp" line="4124"/>
+        <location filename="BrowserMenu.h" line="427"/>
         <source>Paste</source>
         <translation>붙여넣기</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="431"/>
+        <location filename="BrowserMenu.h" line="430"/>
         <source>Select all</source>
         <translation>전체 선택</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="432"/>
+        <location filename="BrowserMenu.h" line="431"/>
         <source>Select none</source>
         <translation>선택 없음</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="433"/>
+        <location filename="BrowserMenu.h" line="432"/>
         <source>Invert selection</source>
         <translation>선택 반전</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="434"/>
+        <location filename="BrowserMenu.h" line="433"/>
         <source>Select all images</source>
         <translation>전체 이미지 선택</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="435"/>
+        <location filename="BrowserMenu.h" line="434"/>
         <source>Select all files</source>
         <translation>모든 파일 선택</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="436"/>
+        <location filename="BrowserMenu.h" line="435"/>
         <source>Select tagged files</source>
         <translation>태그된 파일 선택</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4440"/>
-        <location filename="BrowserMenu.h" line="438"/>
+        <location filename="BrowserWindow.cpp" line="4132"/>
+        <location filename="BrowserMenu.h" line="437"/>
         <source>Copy to...</source>
         <translation>복사...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4442"/>
-        <location filename="BrowserMenu.h" line="439"/>
+        <location filename="BrowserWindow.cpp" line="4134"/>
+        <location filename="BrowserMenu.h" line="438"/>
         <source>Move to...</source>
         <translation>이동...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4435"/>
-        <location filename="BrowserMenu.h" line="440"/>
+        <location filename="BrowserWindow.cpp" line="4127"/>
+        <location filename="BrowserMenu.h" line="439"/>
         <source>Delete</source>
         <translation>삭제</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="441"/>
+        <location filename="BrowserMenu.h" line="440"/>
         <source>Rename...</source>
         <translation>이름 변경...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="442"/>
+        <location filename="BrowserMenu.h" line="441"/>
         <source>New folder</source>
         <translation>새 폴더</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="444"/>
+        <location filename="BrowserMenu.h" line="443"/>
         <source>Previous file</source>
         <translation>이전 파일</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="445"/>
+        <location filename="BrowserMenu.h" line="444"/>
         <source>Next file</source>
         <translation>다음 파일</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="446"/>
+        <location filename="BrowserMenu.h" line="445"/>
         <source>First file</source>
         <translation>첫 파일</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="447"/>
+        <location filename="BrowserMenu.h" line="446"/>
         <source>Last file</source>
         <translation>마지막 파일</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="448"/>
+        <location filename="BrowserMenu.h" line="447"/>
         <source>Previous page</source>
         <translation>이전 페이지</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="449"/>
+        <location filename="BrowserMenu.h" line="448"/>
         <source>Next page</source>
         <translation>다음 페이지</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="450"/>
+        <location filename="BrowserMenu.h" line="449"/>
         <source>First page</source>
         <translation>첫 페이지</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="451"/>
+        <location filename="BrowserMenu.h" line="450"/>
         <source>Last page</source>
         <translation>끝 페이지</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="452"/>
+        <location filename="BrowserMenu.h" line="451"/>
         <source>Page</source>
         <translation>페이지</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="462"/>
-        <location filename="BrowserMenu.h" line="456"/>
+        <location filename="CompareWidget.cpp" line="455"/>
+        <location filename="BrowserMenu.h" line="455"/>
         <source>Tag/Untag current</source>
         <oldsource>Tag current</oldsource>
         <translation>현재 태그 추가/제거</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="457"/>
+        <location filename="BrowserMenu.h" line="456"/>
         <source>Invert</source>
         <translation>반전하기</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="458"/>
+        <location filename="BrowserMenu.h" line="457"/>
         <source>Untag all</source>
         <translation>전체 태그 해제하기</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="459"/>
+        <location filename="BrowserMenu.h" line="458"/>
         <source>Clear all tags</source>
         <translation>전체 태그 지우기</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="460"/>
+        <location filename="BrowserMenu.h" line="459"/>
         <source>Show tagged files</source>
         <translation>태그된 파일 보이기</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="461"/>
+        <location filename="BrowserMenu.h" line="460"/>
         <source>Show tag box</source>
         <translation>태그 상자 보이기</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="501"/>
-        <location filename="BrowserMenu.h" line="647"/>
+        <location filename="BrowserMenu.h" line="500"/>
+        <location filename="BrowserMenu.h" line="646"/>
         <source>Layout</source>
         <translation>레이아웃</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="502"/>
+        <location filename="BrowserMenu.h" line="501"/>
         <source>View as</source>
         <translation>보기 형식</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="503"/>
+        <location filename="BrowserMenu.h" line="502"/>
         <source>Sort by</source>
         <translation>정렬 순서</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="504"/>
+        <location filename="BrowserMenu.h" line="503"/>
         <source>Filter by</source>
         <translation>필터 방식</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="505"/>
+        <location filename="BrowserMenu.h" line="504"/>
         <source>Thumbnails size</source>
         <translation>썸네일 크기</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="506"/>
+        <location filename="BrowserMenu.h" line="505"/>
         <source>Tag</source>
         <translation>태그</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="510"/>
+        <location filename="BrowserMenu.h" line="509"/>
         <source>Add to album</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="513"/>
+        <location filename="BrowserMenu.h" line="512"/>
         <source>Remove from this album</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="514"/>
+        <location filename="BrowserMenu.h" line="513"/>
         <source>Remove from all albums</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="516"/>
+        <location filename="BrowserMenu.h" line="515"/>
         <source>View as Thumbnails</source>
         <oldsource>Views as Thumbnails</oldsource>
         <translation>썸네일로 보기</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="517"/>
+        <location filename="BrowserMenu.h" line="516"/>
         <source>View as Thumbnails+Filename</source>
         <oldsource>Views as Thumbnails+Filename</oldsource>
         <translation>썸네일+파일명으로 보기</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="518"/>
+        <location filename="BrowserMenu.h" line="517"/>
         <source>View as Thumbnails+Labels</source>
         <oldsource>Views as Thumbnails+Labels</oldsource>
         <translation>썸네일+레이블로 보기</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="519"/>
+        <location filename="BrowserMenu.h" line="518"/>
         <source>View as Thumbnails+Details</source>
         <oldsource>Views as Thumbnails+Details</oldsource>
         <translation>썸네일+상세 속성 보기</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="520"/>
+        <location filename="BrowserMenu.h" line="519"/>
         <source>View as Icons</source>
         <oldsource>Views as Icons</oldsource>
         <translation>아이콘으로 보기</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="521"/>
+        <location filename="BrowserMenu.h" line="520"/>
         <source>View as List</source>
         <oldsource>Views as List</oldsource>
         <translation>나열하여 보기</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="522"/>
+        <location filename="BrowserMenu.h" line="521"/>
         <source>View as Details</source>
         <oldsource>Views as Details</oldsource>
         <translation>상세 속성으로 보기</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="524"/>
+        <location filename="BrowserMenu.h" line="523"/>
         <source>Show hidden files</source>
         <translation>숨겨진 파일 표시</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="528"/>
+        <location filename="BrowserMenu.h" line="527"/>
         <source>Up</source>
         <translation>위로</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="531"/>
+        <location filename="BrowserMenu.h" line="530"/>
         <source>Toolbar</source>
         <translation>도구모음</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="532"/>
+        <location filename="BrowserMenu.h" line="531"/>
         <source>Status bar</source>
         <translation>상태 표시줄</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="533"/>
+        <location filename="BrowserMenu.h" line="532"/>
         <source>Show title of panels</source>
         <translation>패널 제목 표시</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="535"/>
+        <location filename="BrowserMenu.h" line="534"/>
         <source>Rebuild thumbnails</source>
         <translation>썸네일 다시 만들기</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="536"/>
+        <location filename="BrowserMenu.h" line="535"/>
         <source>Update catalog from files</source>
         <translation>파일에서 카테고리 업데이트</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="537"/>
+        <location filename="BrowserMenu.h" line="536"/>
         <source>Update files from catalog</source>
         <translation>카테고리에서 파일 업데이트</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="538"/>
+        <location filename="BrowserMenu.h" line="537"/>
         <source>Refresh</source>
         <translation>새로 고침</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="540"/>
+        <location filename="BrowserMenu.h" line="539"/>
         <source>Stop</source>
         <translation>중지</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="542"/>
+        <location filename="BrowserMenu.h" line="541"/>
         <source>Open</source>
         <translation>열기</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="543"/>
+        <location filename="BrowserMenu.h" line="542"/>
         <source>Open containing folder</source>
         <translation>연결 폴더 열기</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="544"/>
+        <location filename="BrowserMenu.h" line="543"/>
         <source>Open in file manager</source>
         <translation type="unfinished">파일 탐색기에서 열기</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="553"/>
+        <location filename="BrowserMenu.h" line="552"/>
         <source>Show source panels</source>
         <translation>원본 패널 표시</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="558"/>
+        <location filename="BrowserMenu.h" line="557"/>
         <source>Add to favorites...</source>
         <translation>즐겨찾기에 추가...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="562"/>
+        <location filename="BrowserMenu.h" line="561"/>
         <source>Info panels</source>
         <translation>정보 패널</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="576"/>
+        <location filename="BrowserMenu.h" line="575"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
         <translation>JPEG 무손실 변환</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="586"/>
+        <location filename="BrowserMenu.h" line="585"/>
         <source>Find similar files...</source>
         <translation>유시한 파일 찾기</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="589"/>
+        <location filename="BrowserMenu.h" line="588"/>
         <source>Edit IPTC...</source>
         <translation>IPTC 편집...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="590"/>
+        <location filename="BrowserMenu.h" line="589"/>
         <source>Edit XMP...</source>
         <translation>XMP 편집...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="591"/>
+        <location filename="BrowserMenu.h" line="590"/>
         <source>Edit GPS...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="594"/>
+        <location filename="BrowserMenu.h" line="593"/>
         <source>EXIF thumbnail - Rotate 90° left</source>
         <translation>EXIF 썸네일 - 왼쪽으로 90° 회전</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="595"/>
+        <location filename="BrowserMenu.h" line="594"/>
         <source>EXIF thumbnail - Rotate 90° right</source>
         <translation>EXIF 썸네일 - 오른쪽으로 90° 회전</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="597"/>
+        <location filename="BrowserMenu.h" line="596"/>
         <source>Edit metadata...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="601"/>
+        <location filename="BrowserMenu.h" line="600"/>
         <source>Batch convert...</source>
         <translation>일괄 변환...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="617"/>
+        <location filename="BrowserMenu.h" line="616"/>
         <source>Slideshow...</source>
         <translation>슬라이드쇼...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="618"/>
+        <location filename="BrowserMenu.h" line="617"/>
         <source>Split image(s)...</source>
         <oldsource>Split...</oldsource>
         <translation>이미지 분할...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="619"/>
+        <location filename="BrowserMenu.h" line="618"/>
         <source>Banner...</source>
         <translation>배너...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="620"/>
+        <location filename="BrowserMenu.h" line="619"/>
         <source>New image...</source>
         <translation>새로운 이미지...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="631"/>
+        <location filename="BrowserMenu.h" line="630"/>
         <source>Show alpha</source>
         <translation>알파 보이기</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="632"/>
+        <location filename="BrowserMenu.h" line="631"/>
         <source>Show red</source>
         <translation>빨강 보이기</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="633"/>
+        <location filename="BrowserMenu.h" line="632"/>
         <source>Show green</source>
         <translation>녹색 보이기</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="634"/>
+        <location filename="BrowserMenu.h" line="633"/>
         <source>Show blue</source>
         <translation>파랑 보이기</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="644"/>
+        <location filename="BrowserMenu.h" line="643"/>
         <source>Show channel</source>
         <translation>채널 보기</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="657"/>
+        <location filename="BrowserMenu.h" line="656"/>
         <source>Switch panel</source>
         <oldsource>Switch panel...</oldsource>
         <translation>패널 전환</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="658"/>
+        <location filename="BrowserMenu.h" line="657"/>
         <source>Path focus</source>
         <oldsource>Path focus...</oldsource>
         <translation>선 집중</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="659"/>
+        <location filename="BrowserMenu.h" line="658"/>
         <source>Filter by All</source>
         <translation>전체 필터</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="665"/>
+        <location filename="BrowserMenu.h" line="664"/>
         <source>Paste as image</source>
         <translation>이미지로 붙여넣기</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="669"/>
+        <location filename="BrowserMenu.h" line="668"/>
         <source>Acquire (TWAIN)</source>
         <translation>스캔 (TWAIN)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="547"/>
+        <location filename="BrowserMenu.h" line="546"/>
         <source>Fullscreen</source>
         <translation>전체 화면</translation>
     </message>
@@ -20575,179 +20608,179 @@ Do you want to continue?</oldsource>
         <translation>검정</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="67"/>
+        <location filename="BrowserMenu.h" line="66"/>
         <source>Name - numeric order</source>
         <translation>이름 - 숫자순</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="68"/>
+        <location filename="BrowserMenu.h" line="67"/>
         <source>Name - normal order</source>
         <translation>이름 _ 일반</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="69"/>
+        <location filename="BrowserMenu.h" line="68"/>
         <source>Name - alphabetic order</source>
         <translation>이름 - 알파벳 순</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="78"/>
+        <location filename="BrowserMenu.h" line="77"/>
         <source>Images (+folders)</source>
         <translation>사진 (+폴더)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="80"/>
+        <location filename="BrowserMenu.h" line="79"/>
         <source>Videos (+folders)</source>
         <translation>영상 (+폴더)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="305"/>
+        <location filename="BrowserMenu.h" line="304"/>
         <source>Information</source>
         <translation>정보</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="539"/>
+        <location filename="BrowserMenu.h" line="538"/>
         <source>Show files in subfolders</source>
         <translation>하위폴더 내의 파일 보기</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="561"/>
+        <location filename="BrowserMenu.h" line="560"/>
         <source>Panels</source>
         <translation>패널</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="548"/>
+        <location filename="BrowserMenu.h" line="547"/>
         <source>Show</source>
         <translation>보이기</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="45"/>
+        <location filename="BrowserMenu.h" line="44"/>
         <source>Modified Date</source>
         <translation>수정 시간</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="85"/>
+        <location filename="BrowserMenu.h" line="84"/>
         <source>Untagged file(s)</source>
         <translation>태그되지 않은 파일</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="549"/>
+        <location filename="BrowserMenu.h" line="548"/>
         <source>Use tabs</source>
         <translation>탭 사용</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="555"/>
+        <location filename="BrowserMenu.h" line="554"/>
         <source>Vertical tabs</source>
         <translation>수직 탭</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="578"/>
+        <location filename="BrowserMenu.h" line="577"/>
         <source>Batch rename...</source>
         <translation>일괄 이름 변경...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="579"/>
+        <location filename="BrowserMenu.h" line="578"/>
         <source>Compare...</source>
         <translation>비교...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="584"/>
+        <location filename="BrowserMenu.h" line="583"/>
         <source>Open GPS location in</source>
         <translation>GPS 위치 열기</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="585"/>
+        <location filename="BrowserMenu.h" line="584"/>
         <source>Search...</source>
         <translation>검색...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="587"/>
+        <location filename="BrowserMenu.h" line="586"/>
         <source>Edit comment...</source>
         <translation>코멘트 편집...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="588"/>
+        <location filename="BrowserMenu.h" line="587"/>
         <source>Change timestamp...</source>
         <translation>파일 날짜 바꾸기...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="592"/>
-        <location filename="BrowserMenu.h" line="651"/>
+        <location filename="BrowserMenu.h" line="591"/>
+        <location filename="BrowserMenu.h" line="650"/>
         <source>Export...</source>
         <translation>내보내기...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="593"/>
+        <location filename="BrowserMenu.h" line="592"/>
         <source>Clean...</source>
         <translation>지우기...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="596"/>
+        <location filename="BrowserMenu.h" line="595"/>
         <source>EXIF thumbnail - Rebuild</source>
         <translation>EXIF 썸네일 - 다시 만들기</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="598"/>
+        <location filename="BrowserMenu.h" line="597"/>
         <source>Metadata</source>
         <translation>메타데이터</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="613"/>
+        <location filename="BrowserMenu.h" line="612"/>
         <source>Import and sort...</source>
         <translation>가져와서 정렬...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="624"/>
+        <location filename="BrowserMenu.h" line="623"/>
         <source>Real size</source>
         <translation>실제 크기</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="625"/>
+        <location filename="BrowserMenu.h" line="624"/>
         <source>100%</source>
         <translation>100%</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="626"/>
+        <location filename="BrowserMenu.h" line="625"/>
         <source>Zoom in</source>
         <translation>확대</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="627"/>
+        <location filename="BrowserMenu.h" line="626"/>
         <source>Zoom out</source>
         <translation>축소</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="628"/>
+        <location filename="BrowserMenu.h" line="627"/>
         <source>Lock zoom</source>
         <translation>배율 잠금</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="629"/>
+        <location filename="BrowserMenu.h" line="628"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
         <translation>투명 인덱스 사용 (≤ 8비트)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="630"/>
+        <location filename="BrowserMenu.h" line="629"/>
         <source>Use alpha channel</source>
         <translation>알파 채널 사용</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="645"/>
+        <location filename="BrowserMenu.h" line="644"/>
         <source>Zoom</source>
         <translation>배율</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="652"/>
+        <location filename="BrowserMenu.h" line="651"/>
         <source>Clear &amp;&amp; Import...</source>
         <translation>삭제 &amp;&amp; 불러오기...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="653"/>
+        <location filename="BrowserMenu.h" line="652"/>
         <source>Catalog</source>
         <translation>카탈로그</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="655"/>
+        <location filename="BrowserMenu.h" line="654"/>
         <source>Quick Filter</source>
         <translation>빠른 필터</translation>
     </message>
@@ -20760,95 +20793,95 @@ Do you want to continue?</oldsource>
 <context>
     <name>MenuGlobal</name>
     <message>
-        <location filename="xnview.cpp" line="1327"/>
+        <location filename="xnview.cpp" line="1378"/>
         <source>Quit</source>
         <translation>종료</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1330"/>
+        <location filename="xnview.cpp" line="1381"/>
         <source>Website...</source>
         <oldsource>Visit XnView&apos;s Website...</oldsource>
         <translation>웹사이트...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1332"/>
+        <location filename="xnview.cpp" line="1383"/>
         <source>Technical Support...</source>
         <translation>기술 지원...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1333"/>
+        <location filename="xnview.cpp" line="1384"/>
         <source>Report a Bug...</source>
         <oldsource>Report a Bug......</oldsource>
         <translation>버그 제보...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1334"/>
+        <location filename="xnview.cpp" line="1385"/>
         <source>Wiki...</source>
         <translation>위키...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1335"/>
+        <location filename="xnview.cpp" line="1386"/>
         <source>Make a donation...</source>
         <translation>기부하기...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1328"/>
+        <location filename="xnview.cpp" line="1379"/>
         <source>About</source>
         <translation>정보</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1329"/>
+        <location filename="xnview.cpp" line="1380"/>
         <source>PlugIns...</source>
         <translation>플러그인...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1331"/>
+        <location filename="xnview.cpp" line="1382"/>
         <source>Forum...</source>
         <translation>포럼...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1336"/>
+        <location filename="xnview.cpp" line="1387"/>
         <source>Check for update...</source>
         <translation>업데이트 확인...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1337"/>
+        <location filename="xnview.cpp" line="1388"/>
         <source>Registration...</source>
         <translation>등록...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1338"/>
+        <location filename="xnview.cpp" line="1389"/>
         <source>Purchase...</source>
         <translation>구매...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1348"/>
-        <location filename="xnview.cpp" line="1350"/>
+        <location filename="xnview.cpp" line="1399"/>
+        <location filename="xnview.cpp" line="1401"/>
         <source>Settings...</source>
         <translation>설정...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1354"/>
+        <location filename="xnview.cpp" line="1405"/>
         <source>Always on top</source>
         <translation>항상 위에</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1356"/>
+        <location filename="xnview.cpp" line="1407"/>
         <source>Titlebar</source>
         <translation>제목 표시줄</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1357"/>
+        <location filename="xnview.cpp" line="1408"/>
         <source>Show</source>
         <translation>보이기</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1358"/>
+        <location filename="xnview.cpp" line="1409"/>
         <source>Bottom</source>
         <translation>하단</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1359"/>
+        <location filename="xnview.cpp" line="1410"/>
         <source>Tab</source>
         <translation>탭</translation>
     </message>
@@ -21496,13 +21529,13 @@ Do you want to continue?</oldsource>
         <translation>일괄 변환...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="745"/>
+        <location filename="ViewMenu.h" line="741"/>
         <source>Meta&amp;data</source>
         <oldsource>Metadata</oldsource>
         <translation>메타데이터 (&amp;D)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="746"/>
+        <location filename="ViewMenu.h" line="742"/>
         <source>Effect</source>
         <translation>효과</translation>
     </message>
@@ -21729,155 +21762,145 @@ Do you want to continue?</oldsource>
         <translation>자동으로 자르기...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="492"/>
-        <source>Remove horizontal strip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ViewMenu.h" line="493"/>
-        <source>Remove vertical strip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="ViewMenu.h" line="498"/>
+        <location filename="ViewMenu.h" line="496"/>
         <source>Rotate...</source>
         <translation>회전...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="501"/>
+        <location filename="ViewMenu.h" line="499"/>
         <source>Automatic Deskew</source>
         <translation>뒤틀림 자동 보정</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="502"/>
+        <location filename="ViewMenu.h" line="500"/>
         <source>Remove alpha channel</source>
         <translation>알파채널 제거</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="504"/>
+        <location filename="ViewMenu.h" line="502"/>
         <source>Resize...</source>
         <oldsource>Resize new...</oldsource>
         <translation>크기 변경...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="505"/>
+        <location filename="ViewMenu.h" line="503"/>
         <source>Canvas resize...</source>
         <translation>캔버스 크기 변경...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="506"/>
+        <location filename="ViewMenu.h" line="504"/>
         <source>Map</source>
         <translation>매핑</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="507"/>
+        <location filename="ViewMenu.h" line="505"/>
         <source>Adjust</source>
         <translation>조정</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="508"/>
+        <location filename="ViewMenu.h" line="506"/>
         <source>Rotate</source>
         <translation>회전</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="510"/>
+        <location filename="ViewMenu.h" line="508"/>
         <source>Count colors used</source>
         <translation>사용된 색상 수</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="511"/>
+        <location filename="ViewMenu.h" line="509"/>
         <source>Swap color</source>
         <oldsource>Swap</oldsource>
         <translation>교환</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="512"/>
+        <location filename="ViewMenu.h" line="510"/>
         <source>Extract channel</source>
         <translation>채널 추출</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="513"/>
+        <location filename="ViewMenu.h" line="511"/>
         <source>Copy to clipboard</source>
         <translation>클립보드로 복사</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="514"/>
+        <location filename="ViewMenu.h" line="512"/>
         <source>Paste outside</source>
         <oldsource>Paste special</oldsource>
         <translation>외곽에 붙여넣기</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="516"/>
+        <location filename="ViewMenu.h" line="514"/>
         <source>Adobe Photoshop Plugin...</source>
         <translation>Adobe 포토샵 플러그인...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="522"/>
+        <location filename="ViewMenu.h" line="520"/>
         <source>Clean metadata...</source>
         <translation>메타데이터 지우기...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="523"/>
+        <location filename="ViewMenu.h" line="521"/>
         <source>Join images...</source>
         <translation>이미지 결합...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="524"/>
+        <location filename="ViewMenu.h" line="522"/>
         <source>Contact sheet...</source>
         <translation>컨택트 시트...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="525"/>
+        <location filename="ViewMenu.h" line="523"/>
         <source>Slideshow...</source>
         <translation>슬라이드쇼...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="526"/>
+        <location filename="ViewMenu.h" line="524"/>
         <source>Send by email...</source>
         <translation>이메일로 보내기...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="528"/>
+        <location filename="ViewMenu.h" line="526"/>
         <source>Rotate 90° right (lossless)</source>
         <translation>우로 90° 회전 (무손실)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="529"/>
+        <location filename="ViewMenu.h" line="527"/>
         <source>Rotate 90° left (lossless)</source>
         <translation>좌로 90° 회전 (무손실)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="530"/>
+        <location filename="ViewMenu.h" line="528"/>
         <source>Rotate 180° (lossless)</source>
         <translation>180° 회전 (무손실)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="533"/>
+        <location filename="ViewMenu.h" line="531"/>
         <source>Flip horizontally (lossless)</source>
         <translation>수평 뒤집기 (무손실)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="534"/>
+        <location filename="ViewMenu.h" line="532"/>
         <source>Flip vertically (lossless)</source>
         <translation>수직 뒤집기 (무손실)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="535"/>
+        <location filename="ViewMenu.h" line="533"/>
         <source>Crop (lossless)</source>
         <translation>자르기 (무손실)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="539"/>
+        <location filename="ViewMenu.h" line="537"/>
         <source>Paste as image</source>
         <translation>이미지로 붙여넣기</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="543"/>
+        <location filename="ViewMenu.h" line="541"/>
         <source>Acquire (TWAIN)</source>
         <translation>스캔 (TWAIN)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="521"/>
+        <location filename="ViewMenu.h" line="519"/>
         <source>Edit palette...</source>
         <oldsource>Edit colormap...</oldsource>
         <translation>팔테트 편집...</translation>
@@ -21888,62 +21911,62 @@ Do you want to continue?</oldsource>
         <translation>배경 제거</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="495"/>
+        <location filename="ViewMenu.h" line="493"/>
         <source>Rotate 90° right</source>
         <translation>우로 90° 회전</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="497"/>
+        <location filename="ViewMenu.h" line="495"/>
         <source>Rotate 90° left</source>
         <translation>좌로 90° 회전</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="499"/>
+        <location filename="ViewMenu.h" line="497"/>
         <source>Flip horizontally</source>
         <translation>수평 뒤집기</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="500"/>
+        <location filename="ViewMenu.h" line="498"/>
         <source>Flip vertically</source>
         <translation>수직 뒤집기</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="538"/>
+        <location filename="ViewMenu.h" line="536"/>
         <source>Capture...</source>
         <translation>캡처...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="540"/>
+        <location filename="ViewMenu.h" line="538"/>
         <source>Empty tab...</source>
         <translation>빈 탭...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="542"/>
+        <location filename="ViewMenu.h" line="540"/>
         <source>Select TWAIN source...</source>
         <translation>TWAIN 소스 선택...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="546"/>
+        <location filename="ViewMenu.h" line="544"/>
         <source>New image...</source>
         <translation>새로운 이미지</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="741"/>
+        <location filename="ViewMenu.h" line="737"/>
         <source>&amp;File</source>
         <translation>파일(&amp;F)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="744"/>
+        <location filename="ViewMenu.h" line="740"/>
         <source>&amp;Image</source>
         <translation>이미지(&amp;I)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="747"/>
+        <location filename="ViewMenu.h" line="743"/>
         <source>&amp;Tools</source>
         <translation>도구(&amp;T)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="748"/>
+        <location filename="ViewMenu.h" line="744"/>
         <source>&amp;Help</source>
         <translation>도움말(&amp;H)</translation>
     </message>
@@ -22009,59 +22032,59 @@ Do you want to continue?</oldsource>
         <translation>효과...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="509"/>
+        <location filename="ViewMenu.h" line="507"/>
         <source>Mirror</source>
         <translation>거울 효과</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="519"/>
+        <location filename="ViewMenu.h" line="517"/>
         <source>Edit IPTC...</source>
         <translation>IPTC 편집...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="520"/>
+        <location filename="ViewMenu.h" line="518"/>
         <source>Edit XMP...</source>
         <translation>XMP 편집...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="496"/>
+        <location filename="ViewMenu.h" line="494"/>
         <source>Rotate 180°</source>
         <translation>180° 회전</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="531"/>
+        <location filename="ViewMenu.h" line="529"/>
         <source>Rotate based on EXIF orientation field</source>
         <translation>EXIF 방향 필드에 따라 회전</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="532"/>
+        <location filename="ViewMenu.h" line="530"/>
         <source>Reset EXIF orientation field</source>
         <translation>EXIF 방향 필드 초기화</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="536"/>
+        <location filename="ViewMenu.h" line="534"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
         <translation>JPEG 무손실 변환</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="544"/>
+        <location filename="ViewMenu.h" line="542"/>
         <source>Acquire into (TWAIN)...</source>
         <oldsource>Acquire into (TWAIN)......</oldsource>
         <translation>스캔후 저장 (TWAIN)...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="547"/>
+        <location filename="ViewMenu.h" line="545"/>
         <source>Save All</source>
         <translation>모두 저장</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="742"/>
+        <location filename="ViewMenu.h" line="738"/>
         <source>&amp;Edit</source>
         <translation>편집(&amp;E)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="743"/>
+        <location filename="ViewMenu.h" line="739"/>
         <source>&amp;View</source>
         <translation>보기(&amp;V)</translation>
     </message>
@@ -23623,7 +23646,7 @@ You can change it in Settings › Catalog.</oldsource>
 <context>
     <name>Rename</name>
     <message>
-        <location filename="ItemModel.cpp" line="4739"/>
+        <location filename="ItemModel.cpp" line="4740"/>
         <source>An error has occurred during renaming!</source>
         <oldsource>An error occured during renaming!</oldsource>
         <translation>파일 이름 변경 중에 오류가 발생했습니다!</translation>
@@ -23828,21 +23851,6 @@ You can change it in Settings › Catalog.</oldsource>
         <location filename="Slideshow.cpp" line="41"/>
         <source>Slideshow</source>
         <translation>슬라이드쇼</translation>
-    </message>
-</context>
-<context>
-    <name>SummaryWidget</name>
-    <message>
-        <location filename="SummaryWidget.cpp" line="287"/>
-        <location filename="SummaryWidget.cpp" line="293"/>
-        <location filename="SummaryWidget.cpp" line="300"/>
-        <source>Greyscale</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="SummaryWidget.cpp" line="294"/>
-        <source>Indexed</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -24190,26 +24198,26 @@ You can change it in Settings › Catalog.</oldsource>
 <context>
     <name>xnview</name>
     <message>
-        <location filename="xnview.cpp" line="403"/>
-        <location filename="xnview.cpp" line="423"/>
+        <location filename="xnview.cpp" line="454"/>
+        <location filename="xnview.cpp" line="474"/>
         <source>Creating backup, please wait...</source>
         <oldsource>Creating backup, please wait... </oldsource>
         <translation>백업 생성 중, 잠시 기다려주십시오...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="395"/>
-        <location filename="xnview.cpp" line="401"/>
-        <location filename="xnview.cpp" line="408"/>
+        <location filename="xnview.cpp" line="446"/>
+        <location filename="xnview.cpp" line="452"/>
+        <location filename="xnview.cpp" line="459"/>
         <source>Catalog</source>
         <translation>카탈로그</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="395"/>
+        <location filename="xnview.cpp" line="446"/>
         <source>XnViewMP - Catalog has a more recent version number than the expected one</source>
         <translation>XnViewMP - 카탈로그가 예상했던 것보다 더 최근 버전 번호를 가지고 있습니다</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="401"/>
+        <location filename="xnview.cpp" line="452"/>
         <source>XnViewMP will upgrade the catalog. It may take a while. 
 
 Do you want to keep the thumbnails?
@@ -24220,44 +24228,44 @@ Do you want to keep the thumbnails?
 (예를 선택하면, 업그레이드 처리 속도가 느려질 것입니다)</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="405"/>
+        <location filename="xnview.cpp" line="456"/>
         <source>Upgrading catalog, please wait...</source>
         <oldsource>Upgrading catalog, please wait... </oldsource>
         <translation>카탈로그 업그레이드 중, 잠시 기다리세요...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="475"/>
+        <location filename="xnview.cpp" line="526"/>
         <source>Catalog problem</source>
         <translation>카탈로그 문제</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="475"/>
+        <location filename="xnview.cpp" line="526"/>
         <source>There is a problem to open catalog, check your settings or folder used!</source>
         <translation>카탈로그를 여는 중 문제가 발생하였습니다. 설정이나 폴더를 확인해 주세요!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="483"/>
+        <location filename="xnview.cpp" line="534"/>
         <source>Catalog update</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="483"/>
+        <location filename="xnview.cpp" line="534"/>
         <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="878"/>
+        <location filename="xnview.cpp" line="929"/>
         <source>Application is up to date.</source>
         <oldsource>XnView MP is currently up to date.</oldsource>
         <translation>프로그램이 최신 버전입니다.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1552"/>
+        <location filename="xnview.cpp" line="1603"/>
         <source>Do you want to save session?</source>
         <translation>세션을 저장 하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="3021"/>
+        <location filename="xnview.cpp" line="3072"/>
         <source>Catalog and Metadata are disabled - 
 Rating, Tag &amp; Color labels will not be saved.</source>
         <oldsource>Rating/Tag/Color label can&apos;t be saved if catalog and metadata export are disabled!</oldsource>
@@ -24265,51 +24273,51 @@ Rating, Tag &amp; Color labels will not be saved.</source>
 등급/태그/색상 레이블은 저장되지 않습니다.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="949"/>
+        <location filename="xnview.cpp" line="1000"/>
         <source>Your previous session contains many loaded images, this can cause a slowdown!</source>
         <translation>귀하의 이전 세션은 불러온 이미지를 많이 포함하고 있습니다, 이것은 느려짐을 야기할 수 있습니다!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="408"/>
+        <location filename="xnview.cpp" line="459"/>
         <source>There is a problem to update Catalog:
 (Error: % 1)
 Please contact the developer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="949"/>
+        <location filename="xnview.cpp" line="1000"/>
         <source>Session</source>
         <translation>세션</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1477"/>
+        <location filename="xnview.cpp" line="1528"/>
         <source>Do you want to quit?</source>
         <translation>종료 하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1553"/>
+        <location filename="xnview.cpp" line="1604"/>
         <source>Saving many tabs may noticeably slow application reopening.</source>
         <oldsource>Saving many tabs may noticeably slow reopening XnView MP</oldsource>
         <translation>탭을 많이 저장하면 프로그램을 다시 열 때 매우 느려질 수 있습니다.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1559"/>
+        <location filename="xnview.cpp" line="1610"/>
         <source>Don&apos;t ask again</source>
         <oldsource>Do not ask again</oldsource>
         <translation>다시 묻지 않기</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1125"/>
+        <location filename="xnview.cpp" line="1176"/>
         <source>Error</source>
         <translation>오류</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1125"/>
+        <location filename="xnview.cpp" line="1176"/>
         <source>File not found!</source>
         <translation>파일을 찾지 못했습니다!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1578"/>
+        <location filename="xnview.cpp" line="1629"/>
         <source>Do you want to save this session?</source>
         <translation>이 세션을 저장할까요?</translation>
     </message>

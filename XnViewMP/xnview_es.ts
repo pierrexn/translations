@@ -619,10 +619,6 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
         <source>The database is corrupted. Please check it before you continue!</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Thumbnails</source>
-        <translation type="unfinished">Miniaturas</translation>
-    </message>
 </context>
 <context>
     <name>CategoryCompleterModel</name>
@@ -897,10 +893,6 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
     <message>
         <source>Auto fit</source>
         <translation>Ajuste automático</translation>
-    </message>
-    <message>
-        <source>Navigator</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3306,28 +3298,12 @@ Do you want to overwrite it?</source>
         <translation>Inferior</translation>
     </message>
     <message>
+        <source>Edges:</source>
+        <translation>Bordes:</translation>
+    </message>
+    <message>
         <source>Color of pixel at</source>
         <translation>Color de pixel en</translation>
-    </message>
-    <message>
-        <source>Mode</source>
-        <translation type="unfinished">Modo</translation>
-    </message>
-    <message>
-        <source>Horizontal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Edges</source>
-        <translation type="unfinished">Bordes</translation>
-    </message>
-    <message>
-        <source>Vertical</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Zealous</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6456,10 +6432,33 @@ Por favor, intente iniciar con derechos de Administrador.</translation>
     </message>
 </context>
 <context>
+    <name>DlgFlickr</name>
+    <message>
+        <source>Abort</source>
+        <translation>Interrumpir</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation>Error</translation>
+    </message>
+    <message>
+        <source>Uploading image(s) to Picasa album</source>
+        <translation>Subiendo imagen(es) a álbum de Picasa</translation>
+    </message>
+    <message>
+        <source>Uploading image(s) to Flickr album</source>
+        <translation>Subiendo imagen(es) a álbum de Flickr</translation>
+    </message>
+</context>
+<context>
     <name>DlgFlickrSettings</name>
     <message>
         <source>User</source>
         <translation>Usuario</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation>Error</translation>
     </message>
     <message>
         <source>Flickr settings</source>
@@ -7458,6 +7457,33 @@ Please make sure that files are not read-only!</source>
     <message>
         <source>Clear</source>
         <translation>Limpiar</translation>
+    </message>
+</context>
+<context>
+    <name>DlgPicasa</name>
+    <message>
+        <source>Updating album list from Picasa</source>
+        <translation>Actualizando lista del álbum de Picasa</translation>
+    </message>
+    <message>
+        <source>Abort</source>
+        <translation>Interrumpir</translation>
+    </message>
+    <message>
+        <source>Problem</source>
+        <translation>Problema</translation>
+    </message>
+    <message>
+        <source>Uploading image(s) to Picasa album</source>
+        <translation>Subiendo imagen(es) al álbum de Picasa</translation>
+    </message>
+    <message>
+        <source>An error occurred in uploading process!</source>
+        <translation>¡Se ha producido un error en el proceso de carga!</translation>
+    </message>
+    <message>
+        <source>An error occurred, please check your login data!</source>
+        <translation>¡Se ha producido un error, por favor verifique sus datos de inicio de sesión!</translation>
     </message>
 </context>
 <context>
@@ -8599,10 +8625,6 @@ Do you want to remove them?</source>
     <message>
         <source>GROUP</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Search</source>
-        <translation type="unfinished">Buscar</translation>
     </message>
 </context>
 <context>
@@ -10465,6 +10487,10 @@ Do you want to reassign?</source>
         <translation>Codificación predeterminada</translation>
     </message>
     <message>
+        <source>EXIF Copyright</source>
+        <translation>Derechos de Autor [EXIF]</translation>
+    </message>
+    <message>
         <source>Use UTF-8 to write IPTC fields</source>
         <translation>Utilizar UTF-8 para escribir campos IPTC</translation>
     </message>
@@ -10535,14 +10561,6 @@ Do you want to reassign?</source>
     <message>
         <source>Update master file</source>
         <translation>Actualizar archivo maestro</translation>
-    </message>
-    <message>
-        <source>Copyright</source>
-        <translation type="unfinished">Derechos de autor</translation>
-    </message>
-    <message>
-        <source>Image description</source>
-        <translation type="unfinished">Descripción de imagen</translation>
     </message>
 </context>
 <context>
@@ -10778,10 +10796,6 @@ Do you want to reassign?</source>
     <message>
         <source>Frame&apos;s count</source>
         <translation>Cantidad de fotogramas</translation>
-    </message>
-    <message>
-        <source>Use transparency grid</source>
-        <translation type="unfinished">Utilizar rejilla transparente</translation>
     </message>
 </context>
 <context>
@@ -12903,6 +12917,21 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Date modified</source>
         <translation>Fecha de modificación</translation>
+    </message>
+</context>
+<context>
+    <name>Flickr</name>
+    <message>
+        <source>Authorization</source>
+        <translation>Autorización</translation>
+    </message>
+    <message>
+        <source>Press OK button when the autorization is done through web browser</source>
+        <translation>Presionar botón Aceptar cuando la autorización se realiza a través del navegador web</translation>
+    </message>
+    <message>
+        <source>An error has occurred!!</source>
+        <translation>¡¡Se ha producido un error!!</translation>
     </message>
 </context>
 <context>
@@ -15905,10 +15934,6 @@ Do you want to continue?</source>
         <source>Remove from all albums</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Film strip 3</source>
-        <translation type="unfinished">Cinta de imágenes abajo {3?}</translation>
-    </message>
 </context>
 <context>
     <name>MenuGlobal</name>
@@ -16948,14 +16973,6 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Paste in selection</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remove horizontal strip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remove vertical strip</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18295,17 +18312,6 @@ Puedo cambiarlo en Configuración › Catálogo.</translation>
     <message>
         <source>Slideshow</source>
         <translation>Presentación</translation>
-    </message>
-</context>
-<context>
-    <name>SummaryWidget</name>
-    <message>
-        <source>Greyscale</source>
-        <translation type="unfinished">Escala de grises</translation>
-    </message>
-    <message>
-        <source>Indexed</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

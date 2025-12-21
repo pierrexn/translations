@@ -619,10 +619,6 @@ Drag and Drop over the desired node to assign.</translation>
         <source>The database is corrupted. Please check it before you continue!</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Thumbnails</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>CategoryCompleterModel</name>
@@ -897,10 +893,6 @@ Drag and Drop over the desired node to assign.</translation>
     <message>
         <source>Auto fit</source>
         <translation>Ինքնաձգել</translation>
-    </message>
-    <message>
-        <source>Navigator</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3294,6 +3286,10 @@ Do you want to overwrite it?</source>
         <translation>Գույն փիքսելի համար՝</translation>
     </message>
     <message>
+        <source>Edges:</source>
+        <translation>Եզրեր.</translation>
+    </message>
+    <message>
         <source>Bottom</source>
         <translation>Ներքև</translation>
     </message>
@@ -3308,26 +3304,6 @@ Do you want to overwrite it?</source>
     <message>
         <source>Right</source>
         <translation>Աջ</translation>
-    </message>
-    <message>
-        <source>Mode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Horizontal</source>
-        <translation type="unfinished">Հորիզոնական</translation>
-    </message>
-    <message>
-        <source>Edges</source>
-        <translation type="unfinished">Եզրեր</translation>
-    </message>
-    <message>
-        <source>Vertical</source>
-        <translation type="unfinished">Ուղղահայաց</translation>
-    </message>
-    <message>
-        <source>Zealous</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6455,10 +6431,33 @@ Please try to start with admin rights.</source>
     </message>
 </context>
 <context>
+    <name>DlgFlickr</name>
+    <message>
+        <source>Abort</source>
+        <translation>Ընդհատել</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation>Սխալ</translation>
+    </message>
+    <message>
+        <source>Uploading image(s) to Picasa album</source>
+        <translation>Պատկերները վերբեռնվում են Picasa ալբոմ</translation>
+    </message>
+    <message>
+        <source>Uploading image(s) to Flickr album</source>
+        <translation>Վերբեռնել պատկերները Flickr ալբոմ</translation>
+    </message>
+</context>
+<context>
     <name>DlgFlickrSettings</name>
     <message>
         <source>User</source>
         <translation>Օգտվող</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation>Սխալ</translation>
     </message>
     <message>
         <source>Flickr settings</source>
@@ -7457,6 +7456,33 @@ Please make sure that files are not read-only!</source>
     <message>
         <source>Clear</source>
         <translation>Մաքրել</translation>
+    </message>
+</context>
+<context>
+    <name>DlgPicasa</name>
+    <message>
+        <source>Updating album list from Picasa</source>
+        <translation>Թարմացնել ալբոմի ցանկը Picasa-ից</translation>
+    </message>
+    <message>
+        <source>Abort</source>
+        <translation>Ընդհատել</translation>
+    </message>
+    <message>
+        <source>Problem</source>
+        <translation>Խնդիր</translation>
+    </message>
+    <message>
+        <source>Uploading image(s) to Picasa album</source>
+        <translation>Վերբեռնել պատկերները Picasa ալբոմ</translation>
+    </message>
+    <message>
+        <source>An error occurred in uploading process!</source>
+        <translation>Սխալ` վերբեռնման ընթացքում:</translation>
+    </message>
+    <message>
+        <source>An error occurred, please check your login data!</source>
+        <translation>Սխալ, խնդրում ենք ստուգել մուտքի տվյալները:</translation>
     </message>
 </context>
 <context>
@@ -8598,10 +8624,6 @@ Do you want to remove them?</source>
     <message>
         <source>GROUP</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Search</source>
-        <translation type="unfinished">Որոնում</translation>
     </message>
 </context>
 <context>
@@ -10460,6 +10482,10 @@ Do you want to reassign?</source>
         <translation>Ներկառուցված մեկնաբանություն</translation>
     </message>
     <message>
+        <source>EXIF Copyright</source>
+        <translation>EXIF հեղ. իրավունք</translation>
+    </message>
+    <message>
         <source>Categories and keywords</source>
         <translation>Անվանակարգեր և հիմնաբառեր</translation>
     </message>
@@ -10534,14 +10560,6 @@ Do you want to reassign?</source>
     <message>
         <source>Update master file</source>
         <translation>Թարմացնել հիմնօրինակ ֆայլը</translation>
-    </message>
-    <message>
-        <source>Copyright</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Image description</source>
-        <translation type="unfinished">Պատկերի նկարագրություն</translation>
     </message>
 </context>
 <context>
@@ -10777,10 +10795,6 @@ Do you want to reassign?</source>
     <message>
         <source>Frame&apos;s count</source>
         <translation>Շրջանակների քանակ</translation>
-    </message>
-    <message>
-        <source>Use transparency grid</source>
-        <translation type="unfinished">Օգտագործել թափանցիկության ցանց</translation>
     </message>
 </context>
 <context>
@@ -12902,6 +12916,21 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Date modified</source>
         <translation>Փոփոխման ամսաթիվ</translation>
+    </message>
+</context>
+<context>
+    <name>Flickr</name>
+    <message>
+        <source>Authorization</source>
+        <translation>Լիազորում</translation>
+    </message>
+    <message>
+        <source>Press OK button when the autorization is done through web browser</source>
+        <translation>Սեղմեք Լավ՝ երբ իսկորոշումը պատրաստ լինի վեբ զննիչի միջոցով</translation>
+    </message>
+    <message>
+        <source>An error has occurred!!</source>
+        <translation>Սխալ է տեղի ունեցնել:</translation>
     </message>
 </context>
 <context>
@@ -15904,10 +15933,6 @@ Do you want to continue?</source>
         <source>Remove from all albums</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Film strip 3</source>
-        <translation type="unfinished">Լայն գիծ 3</translation>
-    </message>
 </context>
 <context>
     <name>MenuGlobal</name>
@@ -16947,14 +16972,6 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Paste in selection</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remove horizontal strip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remove vertical strip</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18294,17 +18311,6 @@ You can change it in Settings › Catalog.</source>
     <message>
         <source>Slideshow</source>
         <translation>Արագ դիտում</translation>
-    </message>
-</context>
-<context>
-    <name>SummaryWidget</name>
-    <message>
-        <source>Greyscale</source>
-        <translation type="unfinished">Մոխրագույն</translation>
-    </message>
-    <message>
-        <source>Indexed</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
