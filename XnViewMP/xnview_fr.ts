@@ -653,7 +653,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="BrowserWindow.cpp" line="2249"/>
         <source>Thumbnails</source>
-        <translation type="unfinished">Vignettes</translation>
+        <translation>Vignettes</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3443"/>
@@ -1071,7 +1071,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CompareWidget.cpp" line="52"/>
         <source>Navigator</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigateur</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="563"/>
@@ -4235,22 +4235,22 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="104"/>
         <source>Mode</source>
-        <translation type="unfinished">Mode</translation>
+        <translation>Mode</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="115"/>
         <source>Horizontal</source>
-        <translation type="unfinished">Horizontale</translation>
+        <translation>Horizontale</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="161"/>
         <source>Edges</source>
-        <translation type="unfinished">Bords</translation>
+        <translation>Bords</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="174"/>
         <source>Vertical</source>
-        <translation type="unfinished">Verticale</translation>
+        <translation>Verticale</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="194"/>
@@ -11039,7 +11039,7 @@ Voulez-vous les enlever?</translation>
     <message>
         <location filename="DlgSearch.cpp" line="445"/>
         <source>Search</source>
-        <translation type="unfinished">Recherche</translation>
+        <translation>Recherche</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="476"/>
@@ -13648,12 +13648,12 @@ Voulez-vous le réaffecter ?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="569"/>
         <source>Copyright</source>
-        <translation type="unfinished">Copyright</translation>
+        <translation>Copyright</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="603"/>
         <source>Image description</source>
-        <translation type="unfinished">Description de l&apos;image</translation>
+        <translation>Description de l&apos;image</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="813"/>
@@ -13737,7 +13737,7 @@ Voulez-vous le réaffecter ?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="110"/>
         <source>Use transparency grid</source>
-        <translation type="unfinished">Utiliser la grille de transparence</translation>
+        <translation>Utiliser la grille de transparence</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="211"/>
@@ -19486,7 +19486,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="BrowserMenu.h" line="23"/>
         <source>Film strip 3</source>
-        <translation type="unfinished">Pellicule 3</translation>
+        <translation>Pellicule 3</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="25"/>
@@ -21813,12 +21813,12 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="ViewMenu.h" line="492"/>
         <source>Remove horizontal strip</source>
-        <translation type="unfinished"></translation>
+        <translation>Retirer la bande horizontale</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="493"/>
         <source>Remove vertical strip</source>
-        <translation type="unfinished"></translation>
+        <translation>Retirer la bande verticale</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="498"/>
@@ -23935,12 +23935,12 @@ Vous pouvez changer celle-ci dans Paramètres › Catalogue</translation>
         <location filename="SummaryWidget.cpp" line="293"/>
         <location filename="SummaryWidget.cpp" line="300"/>
         <source>Greyscale</source>
-        <translation type="unfinished">Niveaux de gris</translation>
+        <translation>Niveaux de gris</translation>
     </message>
     <message>
         <location filename="SummaryWidget.cpp" line="294"/>
         <source>Indexed</source>
-        <translation type="unfinished"></translation>
+        <translation>Indexé</translation>
     </message>
 </context>
 <context>
