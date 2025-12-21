@@ -619,6 +619,10 @@ Arraste e solte sobre o nó desejado para atribuir.</translation>
         <source>The database is corrupted. Please check it before you continue!</source>
         <translation>O banco de dados está corrompido. Verifique-o antes de continuar.</translation>
     </message>
+    <message>
+        <source>Thumbnails</source>
+        <translation type="unfinished">Miniaturas</translation>
+    </message>
 </context>
 <context>
     <name>CategoryCompleterModel</name>
@@ -893,6 +897,10 @@ Arraste e solte sobre o nó desejado para atribuir.</translation>
     <message>
         <source>Auto fit</source>
         <translation>Ajuste automático</translation>
+    </message>
+    <message>
+        <source>Navigator</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3286,10 +3294,6 @@ Deseja continuar?</translation>
         <translation>Tolerância</translation>
     </message>
     <message>
-        <source>Edges:</source>
-        <translation>Bordas:</translation>
-    </message>
-    <message>
         <source>Bottom</source>
         <translation>Inferior</translation>
     </message>
@@ -3304,6 +3308,26 @@ Deseja continuar?</translation>
     <message>
         <source>Right</source>
         <translation>Direita</translation>
+    </message>
+    <message>
+        <source>Mode</source>
+        <translation type="unfinished">Modo</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished">Horizontal</translation>
+    </message>
+    <message>
+        <source>Edges</source>
+        <translation type="unfinished">Bordas</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="unfinished">Vertical</translation>
+    </message>
+    <message>
+        <source>Zealous</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6433,25 +6457,6 @@ Tente iniciar com direitos de administrador.</translation>
     </message>
 </context>
 <context>
-    <name>DlgFlickr</name>
-    <message>
-        <source>Abort</source>
-        <translation>Interromper</translation>
-    </message>
-    <message>
-        <source>Uploading image(s) to Flickr album</source>
-        <translation>Enviando imagem(s) para o álbum do Flickr</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation>Erro</translation>
-    </message>
-    <message>
-        <source>Uploading image(s) to Picasa album</source>
-        <translation>Enviando imagem(s) para o álbum Picasa</translation>
-    </message>
-</context>
-<context>
     <name>DlgFlickrSettings</name>
     <message>
         <source>Flickr settings</source>
@@ -6468,10 +6473,6 @@ Tente iniciar com direitos de administrador.</translation>
     <message>
         <source>New user...</source>
         <translation>Novo usuário...</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation>Erro</translation>
     </message>
 </context>
 <context>
@@ -7459,33 +7460,6 @@ Certifique-se de que os arquivos não sejam somente de leitura!</translation>
     <message>
         <source>Clear</source>
         <translation>Limpar</translation>
-    </message>
-</context>
-<context>
-    <name>DlgPicasa</name>
-    <message>
-        <source>Abort</source>
-        <translation>Interromper</translation>
-    </message>
-    <message>
-        <source>Updating album list from Picasa</source>
-        <translation>Atualizando lista de álbuns do Picasa</translation>
-    </message>
-    <message>
-        <source>Uploading image(s) to Picasa album</source>
-        <translation>Enviando imagem(s) para o álbum Picasa</translation>
-    </message>
-    <message>
-        <source>Problem</source>
-        <translation>Problema</translation>
-    </message>
-    <message>
-        <source>An error occurred in uploading process!</source>
-        <translation>Ocorreu um erro no envio do processo!</translation>
-    </message>
-    <message>
-        <source>An error occurred, please check your login data!</source>
-        <translation>Ocorreu um erro, verifique seus dados de login!</translation>
     </message>
 </context>
 <context>
@@ -8628,6 +8602,10 @@ Deseja removê-los da lista?</translation>
     <message>
         <source>GROUP</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation type="unfinished">Pesquisar</translation>
     </message>
 </context>
 <context>
@@ -10486,10 +10464,6 @@ Deseja reatribuir?</translation>
         <translation>Comentário incorporado</translation>
     </message>
     <message>
-        <source>EXIF Copyright</source>
-        <translation>Direitos autorais EXIF</translation>
-    </message>
-    <message>
         <source>Categories and keywords</source>
         <translation>Categorias e palavras-chave</translation>
     </message>
@@ -10564,6 +10538,14 @@ Deseja reatribuir?</translation>
     <message>
         <source>Color labels</source>
         <translation>Rótulos de cor</translation>
+    </message>
+    <message>
+        <source>Copyright</source>
+        <translation type="unfinished">Direitos Autorais</translation>
+    </message>
+    <message>
+        <source>Image description</source>
+        <translation type="unfinished">Descrição da Imagem</translation>
     </message>
 </context>
 <context>
@@ -10799,6 +10781,10 @@ Deseja reatribuir?</translation>
     <message>
         <source>Default color</source>
         <translation>Cor padrão</translation>
+    </message>
+    <message>
+        <source>Use transparency grid</source>
+        <translation type="unfinished">Usar grade de transparência</translation>
     </message>
 </context>
 <context>
@@ -12924,21 +12910,6 @@ Deseja excluir o favorito &quot;%1&quot;?</translation>
     <message>
         <source>EXIF ISO</source>
         <translation>ISO do EXIF</translation>
-    </message>
-</context>
-<context>
-    <name>Flickr</name>
-    <message>
-        <source>Authorization</source>
-        <translation>Autorização</translation>
-    </message>
-    <message>
-        <source>Press OK button when the autorization is done through web browser</source>
-        <translation>Pressione o botão OK quando a autorização for concluída através do navegador web</translation>
-    </message>
-    <message>
-        <source>An error has occurred!!</source>
-        <translation>Ocorreu um erro!!</translation>
     </message>
 </context>
 <context>
@@ -15942,6 +15913,10 @@ Deseja continuar?</translation>
         <source>Remove from all albums</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Film strip 3</source>
+        <translation type="unfinished">Faixa de filme 3</translation>
+    </message>
 </context>
 <context>
     <name>MenuGlobal</name>
@@ -16981,6 +16956,14 @@ Deseja continuar?</translation>
     </message>
     <message>
         <source>Paste in selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove horizontal strip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove vertical strip</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18321,6 +18304,17 @@ Você pode alterá-lo em Configurações › Catálogo.</translation>
     <message>
         <source>Slideshow</source>
         <translation>Apresentação de slides</translation>
+    </message>
+</context>
+<context>
+    <name>SummaryWidget</name>
+    <message>
+        <source>Greyscale</source>
+        <translation type="unfinished">Tons de cinza</translation>
+    </message>
+    <message>
+        <source>Indexed</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

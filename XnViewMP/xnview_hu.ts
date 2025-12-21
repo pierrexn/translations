@@ -4,132 +4,132 @@
 <context>
     <name>@default</name>
     <message>
-        <location filename="MyThumbSettings.cpp" line="437"/>
+        <location filename="MyThumbSettings.cpp" line="439"/>
         <source>Uncolored</source>
         <translation>Színtelen</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="443"/>
+        <location filename="MyThumbSettings.cpp" line="445"/>
         <source>Important</source>
         <translation>Fontos</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="443"/>
+        <location filename="MyThumbSettings.cpp" line="445"/>
         <source>Red</source>
         <translation>Vörös</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="443"/>
+        <location filename="MyThumbSettings.cpp" line="445"/>
         <source>Select</source>
         <translation>Kiválaszt</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="444"/>
+        <location filename="MyThumbSettings.cpp" line="446"/>
         <source>Work</source>
         <translation>Munka</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="444"/>
+        <location filename="MyThumbSettings.cpp" line="446"/>
         <source>Yellow</source>
         <translation>Sárga</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="444"/>
+        <location filename="MyThumbSettings.cpp" line="446"/>
         <source>Second</source>
         <translation>Második</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="445"/>
+        <location filename="MyThumbSettings.cpp" line="447"/>
         <source>Personal</source>
         <translation>Személyes</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="445"/>
+        <location filename="MyThumbSettings.cpp" line="447"/>
         <source>Green</source>
         <translation>Zöld</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="445"/>
+        <location filename="MyThumbSettings.cpp" line="447"/>
         <source>Approved</source>
         <translation>Jóváhagyott</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="446"/>
+        <location filename="MyThumbSettings.cpp" line="448"/>
         <source>To do</source>
         <translation>Tennivaló</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="446"/>
+        <location filename="MyThumbSettings.cpp" line="448"/>
         <source>Blue</source>
         <translation>Kék</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="446"/>
+        <location filename="MyThumbSettings.cpp" line="448"/>
         <source>Review</source>
         <translation>Felülvizsgál</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="447"/>
+        <location filename="MyThumbSettings.cpp" line="449"/>
         <source>Later</source>
         <translation>Később</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="447"/>
+        <location filename="MyThumbSettings.cpp" line="449"/>
         <source>Purple</source>
         <translation>Lila</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="447"/>
+        <location filename="MyThumbSettings.cpp" line="449"/>
         <source>To Do</source>
         <translation>Tennivaló</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="448"/>
+        <location filename="MyThumbSettings.cpp" line="450"/>
         <source>Orange</source>
         <translation>Narancs</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="449"/>
+        <location filename="MyThumbSettings.cpp" line="451"/>
         <source>Grey</source>
         <translation>Szürke</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="450"/>
+        <location filename="MyThumbSettings.cpp" line="452"/>
         <source>Black</source>
         <translation>Fekete</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="451"/>
+        <location filename="MyThumbSettings.cpp" line="453"/>
         <source>White</source>
         <translation>Fehér</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="338"/>
+        <location filename="MyThumbSettings.cpp" line="339"/>
         <source>Unrated</source>
         <translation>Nem minősített</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="339"/>
+        <location filename="MyThumbSettings.cpp" line="340"/>
         <source>Poor</source>
         <translation>Rossz</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="340"/>
+        <location filename="MyThumbSettings.cpp" line="341"/>
         <source>Fair</source>
         <translation>Megfelelő</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="341"/>
+        <location filename="MyThumbSettings.cpp" line="342"/>
         <source>Average</source>
         <translation>Átlagos</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="342"/>
+        <location filename="MyThumbSettings.cpp" line="343"/>
         <source>Good</source>
         <translation>Jó</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="343"/>
+        <location filename="MyThumbSettings.cpp" line="344"/>
         <source>Excellent</source>
         <translation>Kiváló</translation>
     </message>
@@ -228,27 +228,27 @@
         <translation>Változásnapló</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="219"/>
+        <location filename="AboutWidget.cpp" line="220"/>
         <source>Format</source>
         <translation>Formátum</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="219"/>
+        <location filename="AboutWidget.cpp" line="220"/>
         <source>Read</source>
         <translation>Olvasás</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="219"/>
+        <location filename="AboutWidget.cpp" line="220"/>
         <source>Write</source>
         <translation>Írás</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="219"/>
+        <location filename="AboutWidget.cpp" line="220"/>
         <source>Extension</source>
         <translation>Kiterjesztés</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="262"/>
+        <location filename="AboutWidget.cpp" line="263"/>
         <source>Formats in reading: %1 | Formats in writing: %2</source>
         <translation>Olvasható formátumok: %1 | Írható formátumok: %2</translation>
     </message>
@@ -264,75 +264,75 @@
 <context>
     <name>AbstractViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="1415"/>
+        <location filename="ViewWindow.cpp" line="1419"/>
         <source>Frame %1/%2</source>
         <translation>%1/%2 képkocka</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1418"/>
+        <location filename="ViewWindow.cpp" line="1422"/>
         <source>Icon %1/%2</source>
         <translation>%1/%2 ikon</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1420"/>
+        <location filename="ViewWindow.cpp" line="1424"/>
         <source>Page %1/%2</source>
         <translation>%1/%2 oldal</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2016"/>
+        <location filename="ViewWindow.cpp" line="2020"/>
         <source>Customize toolbar...</source>
         <translation>Eszköztár testreszabása...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2272"/>
-        <location filename="ViewWindow.cpp" line="2278"/>
+        <location filename="ViewWindow.cpp" line="2276"/>
         <location filename="ViewWindow.cpp" line="2282"/>
+        <location filename="ViewWindow.cpp" line="2286"/>
         <source>Delete items</source>
         <translation>Elemek törlése</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2272"/>
+        <location filename="ViewWindow.cpp" line="2276"/>
         <source>Would you like to discard your edits and delete 
 &quot;%1&quot;?</source>
         <translation>Szeretné elvetni a módosításokat és törölni
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2278"/>
+        <location filename="ViewWindow.cpp" line="2282"/>
         <source>Are you sure to delete 
 &quot;%1&quot;?</source>
         <translation>Biztosan törölni szeretné
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2282"/>
+        <location filename="ViewWindow.cpp" line="2286"/>
         <source>Are you sure to delete 
 &quot;%1&quot; (%2 items)?</source>
         <translation>Biztosan törölni szeretné
 &quot;%1&quot; (%2 elem)?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2958"/>
+        <location filename="ViewWindow.cpp" line="2962"/>
         <source>The file &lt;%1&gt; is read-only. Please choose another file name.</source>
         <translation>A fájl írásvédett: &lt;%1&gt;. Kérem, válasszon másik fájlnevet.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2966"/>
+        <location filename="ViewWindow.cpp" line="2970"/>
         <source>Confirm Save</source>
         <translation>Mentés megerősítése</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2967"/>
+        <location filename="ViewWindow.cpp" line="2971"/>
         <source>&lt;%1&gt; already exists!</source>
         <translation>&lt;%1&gt; már létezik!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2967"/>
+        <location filename="ViewWindow.cpp" line="2971"/>
         <source>Do you want to overwrite it?</source>
         <translation>Biztos felül szeretné írni?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4447"/>
+        <location filename="ViewWindow.cpp" line="4445"/>
         <source>Number of unique colors: %1</source>
         <translation>Egyedi színek száma: %1</translation>
     </message>
@@ -372,49 +372,49 @@
         <translation>Ne kérdezze többet</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1586"/>
-        <location filename="ViewWindow.cpp" line="1605"/>
+        <location filename="ViewWindow.cpp" line="1590"/>
+        <location filename="ViewWindow.cpp" line="1609"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt;Üres&gt;</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2948"/>
-        <location filename="ViewWindow.cpp" line="2958"/>
+        <location filename="ViewWindow.cpp" line="2952"/>
+        <location filename="ViewWindow.cpp" line="2962"/>
         <source>Save</source>
         <translation>Mentés</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2948"/>
+        <location filename="ViewWindow.cpp" line="2952"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
         <translation>A kép 24 bites RGB-be lesz konvertálva (csatornánként 8 bit)</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2991"/>
-        <location filename="ViewWindow.cpp" line="3122"/>
-        <location filename="ViewWindow.cpp" line="3172"/>
+        <location filename="ViewWindow.cpp" line="2995"/>
+        <location filename="ViewWindow.cpp" line="3126"/>
+        <location filename="ViewWindow.cpp" line="3176"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
         <translation>Kép mentése...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2993"/>
-        <location filename="ViewWindow.cpp" line="3174"/>
+        <location filename="ViewWindow.cpp" line="2997"/>
+        <location filename="ViewWindow.cpp" line="3178"/>
         <source>Error</source>
         <translation>Hiba</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2993"/>
-        <location filename="ViewWindow.cpp" line="3174"/>
+        <location filename="ViewWindow.cpp" line="2997"/>
+        <location filename="ViewWindow.cpp" line="3178"/>
         <source>An error occurred during saving!</source>
         <translation>Hiba történt a mentés során!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3264"/>
+        <location filename="ViewWindow.cpp" line="3268"/>
         <source>Properties</source>
         <translation>Tulajdonságok</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4447"/>
+        <location filename="ViewWindow.cpp" line="4445"/>
         <source>Colors count</source>
         <translation>Színek száma</translation>
     </message>
@@ -472,28 +472,28 @@
 <context>
     <name>BaseViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="4931"/>
+        <location filename="ViewWindow.cpp" line="4950"/>
         <source>Error</source>
         <translation>Hiba</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4922"/>
-        <location filename="ViewWindow.cpp" line="4931"/>
+        <location filename="ViewWindow.cpp" line="4941"/>
+        <location filename="ViewWindow.cpp" line="4950"/>
         <source>File can&apos;t be loaded!</source>
         <translation>A fájl nem tölthető be!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4922"/>
+        <location filename="ViewWindow.cpp" line="4941"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <translation>A PDF/PS/EPS/AI fájlok megtekintéséhez és konvertálásához az XnView MP programnak szükséges a Ghostscript %1 program telepítése.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4923"/>
+        <location filename="ViewWindow.cpp" line="4942"/>
         <source>Please visit the %1 for more information.</source>
         <translation>Tekintse meg %1 bővebb információért.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4935"/>
+        <location filename="ViewWindow.cpp" line="4954"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt;Üres&gt;</translation>
     </message>
@@ -526,7 +526,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
 <context>
     <name>BookmarksMenu</name>
     <message>
-        <location filename="Bookmarks.cpp" line="892"/>
+        <location filename="Bookmarks.cpp" line="893"/>
         <source>No favorites</source>
         <translation>Nincsenek kedvencek</translation>
     </message>
@@ -552,32 +552,32 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <translation>Kedvenc hozzáadása...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1751"/>
+        <location filename="BrowserWindow.cpp" line="1752"/>
         <source>Folders</source>
         <translation>Mappák</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1755"/>
+        <location filename="BrowserWindow.cpp" line="1756"/>
         <source>Favorites</source>
         <translation>Kedvencek</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1769"/>
+        <location filename="BrowserWindow.cpp" line="1770"/>
         <source>Categories</source>
         <translation>Kategóriák</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1807"/>
+        <location filename="BrowserWindow.cpp" line="1808"/>
         <source>Info</source>
         <translation>Információ</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="679"/>
+        <location filename="BrowserWindow.cpp" line="696"/>
         <source>Detach preview panel</source>
         <translation>Előnézeti panel leválasztása</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="681"/>
+        <location filename="BrowserWindow.cpp" line="698"/>
         <source>Attach preview panel</source>
         <translation>Előnézeti panel csatolása</translation>
     </message>
@@ -593,23 +593,23 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <translation>Hozzáadás a Kedvencekhez</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1759"/>
+        <location filename="BrowserWindow.cpp" line="1760"/>
         <source>Catalog Filter</source>
         <oldsource>Categories Filter</oldsource>
         <translation>Katalógus szűrő</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1774"/>
+        <location filename="BrowserWindow.cpp" line="1775"/>
         <source>Category Sets</source>
         <translation>Kategória beállítások</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1986"/>
+        <location filename="BrowserWindow.cpp" line="1987"/>
         <source>Match</source>
         <translation>Egyezés</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1996"/>
+        <location filename="BrowserWindow.cpp" line="1997"/>
         <source>Click to filter - use Shift and Control for multiple selections.
 Right Click on different items for pop-up menus with actions.
 Drag and Drop over the desired node to assign.</source>
@@ -618,157 +618,162 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
 Átrendezéshez Fogd-és-vidd módszer.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2019"/>
+        <location filename="BrowserWindow.cpp" line="2020"/>
         <source>Global</source>
         <translation>Globális</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2026"/>
+        <location filename="BrowserWindow.cpp" line="2027"/>
         <source>Current folder</source>
         <translation>Jelenlegi mappa</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2033"/>
+        <location filename="BrowserWindow.cpp" line="2034"/>
         <source>Current folder (Recursive)</source>
         <translation>Jelenlegi mappa (rekurzívan)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3140"/>
+        <location filename="BrowserWindow.cpp" line="2249"/>
+        <source>Thumbnails</source>
+        <translation type="unfinished">Miniatűrök</translation>
+    </message>
+    <message>
+        <location filename="BrowserWindow.cpp" line="3443"/>
         <source>&lt;Search results&gt;</source>
         <translation>&lt;Keresési eredmények&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3142"/>
+        <location filename="BrowserWindow.cpp" line="3445"/>
         <source>&lt;Tagged files&gt;</source>
         <translation>&lt;Kijelölt fájlok&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3232"/>
+        <location filename="BrowserWindow.cpp" line="3540"/>
         <source>This folder doesn&apos;t exist!</source>
         <translation>A mappa nem létezik!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3445"/>
+        <location filename="BrowserWindow.cpp" line="3753"/>
         <source>Favorite name:</source>
         <translation>Kedvenc neve:</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="3690"/>
+        <location filename="BrowserWindow.cpp" line="3998"/>
         <source>Are you sure to delete these %n item(s)?</source>
         <translation>
             <numerusform>Biztosan törölni szeretne %n elemet?</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3775"/>
+        <location filename="BrowserWindow.cpp" line="4083"/>
         <source>The files cannot be renamed, an error occurred.</source>
         <translation>A fájlokat nem lehet átnevezni, hiba történt.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3232"/>
-        <location filename="BrowserWindow.cpp" line="3775"/>
+        <location filename="BrowserWindow.cpp" line="3540"/>
+        <location filename="BrowserWindow.cpp" line="4083"/>
         <source>Error</source>
         <translation>Hiba</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3146"/>
+        <location filename="BrowserWindow.cpp" line="3449"/>
         <source>&lt;files&gt;</source>
         <translation>&lt;fájlok&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3683"/>
+        <location filename="BrowserWindow.cpp" line="3991"/>
         <source>Delete items &amp; companions</source>
         <translation>Elemek és társak törlése</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="3684"/>
+        <location filename="BrowserWindow.cpp" line="3992"/>
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
         <translation>
             <numerusform>Biztosan törölni szeretne %n elem(ek)et - %1 társ(aka)t?</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4137"/>
+        <location filename="BrowserWindow.cpp" line="4445"/>
         <source>Show files in subfolders</source>
         <translation>Fájlok megjelenítése az almappákban</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4140"/>
+        <location filename="BrowserWindow.cpp" line="4448"/>
         <source>Add to favorites...</source>
         <translation>Hozzáadás a Kedvencekhez...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4145"/>
+        <location filename="BrowserWindow.cpp" line="4453"/>
         <source>Open in file manager</source>
         <translation>Megnyitás a fájlkezelőben</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4148"/>
+        <location filename="BrowserWindow.cpp" line="4456"/>
         <source>Properties</source>
         <translation>Tulajdonságok</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4257"/>
+        <location filename="BrowserWindow.cpp" line="4565"/>
         <source>Load filelist</source>
         <translation>Fájllista betöltés</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3689"/>
+        <location filename="BrowserWindow.cpp" line="3997"/>
         <source>Delete items</source>
         <translation>Elemek törlése</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="675"/>
+        <location filename="BrowserWindow.cpp" line="692"/>
         <source>Customize toolbar...</source>
         <translation>Eszköztár testreszabása...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1815"/>
+        <location filename="BrowserWindow.cpp" line="1816"/>
         <source>Metadata</source>
         <translation>Metaadat</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1824"/>
+        <location filename="BrowserWindow.cpp" line="1825"/>
         <source>Histogram</source>
         <translation>Hisztogram</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2002"/>
+        <location filename="BrowserWindow.cpp" line="2003"/>
         <source>Match any selected entry (OR)</source>
         <translation>Egyezés bármelyik kiválasztott bejegyzéssel (VAGY)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2008"/>
+        <location filename="BrowserWindow.cpp" line="2009"/>
         <source>Match all selected entries (AND)</source>
         <translation>Egyezés minden kiválasztott bejegyzéssel (ÉS)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3144"/>
+        <location filename="BrowserWindow.cpp" line="3447"/>
         <source>&lt;Catalog filter results&gt;</source>
         <translation>&lt;Katalógus szűrési eredményei&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4139"/>
+        <location filename="BrowserWindow.cpp" line="4447"/>
         <source>Search...</source>
         <translation>Keresés...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4143"/>
+        <location filename="BrowserWindow.cpp" line="4451"/>
         <source>Start slideshow</source>
         <translation>Diavetítés indítása</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4180"/>
+        <location filename="BrowserWindow.cpp" line="4488"/>
         <source>Delete folder</source>
         <translation>Mappa törlése</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4180"/>
+        <location filename="BrowserWindow.cpp" line="4488"/>
         <source>Are you sure to delete this folder?</source>
         <translation>Biztosan törölni szeretné ezt a mappát?</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="630"/>
+        <location filename="BrowserWindow.cpp" line="647"/>
         <source>Browser</source>
         <translation>Böngésző</translation>
     </message>
@@ -1064,42 +1069,47 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
         <translation>Hisztogram</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="556"/>
+        <location filename="CompareWidget.cpp" line="52"/>
+        <source>Navigator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="CompareWidget.cpp" line="563"/>
         <source>Zoom out</source>
         <translation>Kicsinyítés</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="559"/>
+        <location filename="CompareWidget.cpp" line="566"/>
         <source>Zoom in</source>
         <translation>Nagyítás</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="562"/>
+        <location filename="CompareWidget.cpp" line="569"/>
         <source>Zoom 100%</source>
         <translation>Eredeti méret</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="565"/>
+        <location filename="CompareWidget.cpp" line="572"/>
         <source>Best fit</source>
         <translation>Legjobb illesztés</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="589"/>
+        <location filename="CompareWidget.cpp" line="596"/>
         <source>Close</source>
         <translation>Bezárás</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="1188"/>
+        <location filename="CompareWidget.cpp" line="1198"/>
         <source>Delete file</source>
         <translation>Fájl törlése</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="1188"/>
+        <location filename="CompareWidget.cpp" line="1198"/>
         <source>Do you want to delete this file?</source>
         <translation>Törölni szeretné ezt a fájlt?</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="571"/>
+        <location filename="CompareWidget.cpp" line="578"/>
         <source>Copy to</source>
         <translation>Másolás</translation>
     </message>
@@ -1109,22 +1119,22 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
         <translation>Automatikus illesztés</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="71"/>
+        <location filename="CompareWidget.cpp" line="73"/>
         <source>Normal</source>
         <translation>Normál</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="74"/>
+        <location filename="CompareWidget.cpp" line="76"/>
         <source>Tabs</source>
         <translation>Lapok</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="576"/>
+        <location filename="CompareWidget.cpp" line="583"/>
         <source>Move to</source>
         <translation>Áthelyezés</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="582"/>
+        <location filename="CompareWidget.cpp" line="589"/>
         <source>Delete</source>
         <translation>Törlés</translation>
     </message>
@@ -1227,63 +1237,63 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="516"/>
-        <location filename="DlgAutoCrop.h" line="89"/>
+        <location filename="DlgAutoCrop.h" line="97"/>
         <source>Automatic crop</source>
         <translation>Automatikus vágás</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="569"/>
+        <location filename="DlgConvertProcess.h" line="576"/>
         <source>Zealous crop</source>
         <translation>Zealous vágás</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="610"/>
+        <location filename="DlgConvertProcess.h" line="617"/>
         <source>Automatic deskew</source>
         <translation>Automatikus kiegyenesítés</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="631"/>
+        <location filename="DlgConvertProcess.h" line="638"/>
         <source>Clean metadata</source>
         <translation>Metaadatok törlése</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="670"/>
+        <location filename="DlgConvertProcess.h" line="677"/>
         <source>Watermark</source>
         <translation>Vízjel</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="829"/>
+        <location filename="DlgConvertProcess.h" line="836"/>
         <source>Text</source>
         <translation>Szöveg</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="1347"/>
+        <location filename="DlgConvertProcess.h" line="1354"/>
         <source>Crop</source>
         <translation>Vágás</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="1415"/>
+        <location filename="DlgConvertProcess.h" line="1422"/>
         <source>Canvas resize</source>
         <translation>Vászon átméretezése</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="1651"/>
+        <location filename="DlgConvertProcess.h" line="1658"/>
         <source>Resize</source>
         <translation>Átméretezés</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2099"/>
+        <location filename="DlgConvertProcess.h" line="2106"/>
         <source>Rotate</source>
         <translation>Forgatás</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2446"/>
+        <location filename="DlgConvertProcess.h" line="2453"/>
         <source>Set DPI</source>
         <oldsource>Set dpi</oldsource>
         <translation>DPI beállítása</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2485"/>
+        <location filename="DlgConvertProcess.h" line="2492"/>
         <source>Extract channel</source>
         <translation>Csatorna kivonása</translation>
     </message>
@@ -1300,261 +1310,261 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
         <translation>Görbék</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4738"/>
+        <location filename="DlgConvertProcess.h" line="4745"/>
         <location filename="DlgWhiteBalance.h" line="68"/>
         <source>White Balance</source>
         <translation>Fehéregyensúly</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2509"/>
+        <location filename="DlgConvertProcess.h" line="2516"/>
         <source>Black/White Points</source>
         <translation>Fekete/Fehér pontok</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2530"/>
+        <location filename="DlgConvertProcess.h" line="2537"/>
         <source>Mirror</source>
         <translation>Tükör</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2554"/>
+        <location filename="DlgConvertProcess.h" line="2561"/>
         <source>Replace color</source>
         <translation>Színcsere</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2586"/>
+        <location filename="DlgConvertProcess.h" line="2593"/>
         <source>Transparent color</source>
         <translation>Áttetsző szín</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2633"/>
+        <location filename="DlgConvertProcess.h" line="2640"/>
         <source>Aspect Pad</source>
         <translation>Arányok</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2692"/>
+        <location filename="DlgConvertProcess.h" line="2699"/>
         <source>Color balance</source>
         <translation>Színegyensúly</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2718"/>
+        <location filename="DlgConvertProcess.h" line="2725"/>
         <source>HLS</source>
         <translation>HLS</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2793"/>
+        <location filename="DlgConvertProcess.h" line="2800"/>
         <location filename="DlgShadowHighlight.h" line="69"/>
         <source>Shadow-Highlight</source>
         <translation>Árnyék-Ragyogás</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2815"/>
+        <location filename="DlgConvertProcess.h" line="2822"/>
         <source>Add noise</source>
         <translation>Zaj hozzáadása</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2891"/>
+        <location filename="DlgConvertProcess.h" line="2898"/>
         <source>Edge detect</source>
         <translation>Élek érzékelése</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2958"/>
+        <location filename="DlgConvertProcess.h" line="2965"/>
         <source>De-interlace</source>
         <translation>Összefésülés</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3290"/>
+        <location filename="DlgConvertProcess.h" line="3297"/>
         <source>Blurred frame</source>
         <translation>Elmosott keret</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3546"/>
+        <location filename="DlgConvertProcess.h" line="3553"/>
         <source>Inner Frame</source>
         <translation>Belső keret</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3900"/>
+        <location filename="DlgConvertProcess.h" line="3907"/>
         <source>JPEG Lossless rotation</source>
         <translation>JPEG veszteségmentes forgatás</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4311"/>
+        <location filename="DlgConvertProcess.h" line="4318"/>
         <source>Retro</source>
         <translation>Retró</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4540"/>
+        <location filename="DlgConvertProcess.h" line="4547"/>
         <source>Film Simulation</source>
         <translation>Film szimuláció</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4580"/>
+        <location filename="DlgConvertProcess.h" line="4587"/>
         <source>Bloom</source>
         <translation>Bloom</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4604"/>
+        <location filename="DlgConvertProcess.h" line="4611"/>
         <source>Unsharp Mask</source>
         <translation>Életlenítési maszk</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4636"/>
+        <location filename="DlgConvertProcess.h" line="4643"/>
         <source>Clear transparent pixels</source>
         <translation>Átlátszó pixelek törlése</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4650"/>
+        <location filename="DlgConvertProcess.h" line="4657"/>
         <source>Remove alpha channel</source>
         <translation>Alfa-csatorna eltávolítása</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4664"/>
+        <location filename="DlgConvertProcess.h" line="4671"/>
         <location filename="DlgOffset.h" line="108"/>
         <source>Offset</source>
         <translation>Eltolás</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4690"/>
+        <location filename="DlgConvertProcess.h" line="4697"/>
         <source>Symmetry</source>
         <translation>Szimmetria</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4711"/>
+        <location filename="DlgConvertProcess.h" line="4718"/>
         <source>Saturation</source>
         <translation>Telítettség</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4754"/>
+        <location filename="DlgConvertProcess.h" line="4761"/>
         <source>Mono Mixer</source>
         <translatorcomment>Lenne ennek magyar mefelelője?!</translatorcomment>
         <translation>Mono-keverő</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4779"/>
+        <location filename="DlgConvertProcess.h" line="4786"/>
         <source>Fantasy</source>
         <translation>Fantázia</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4799"/>
+        <location filename="DlgConvertProcess.h" line="4806"/>
         <source>Crystallize</source>
         <translation>Kristályosítás</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4817"/>
+        <location filename="DlgConvertProcess.h" line="4824"/>
         <source>Temperature</source>
         <translation>Hőmérséklet</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4834"/>
+        <location filename="DlgConvertProcess.h" line="4841"/>
         <source>Photo Spread</source>
         <translation>Festékszóró</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4861"/>
+        <location filename="DlgConvertProcess.h" line="4868"/>
         <source>Frequency</source>
         <translation>Frekvencia</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4866"/>
+        <location filename="DlgConvertProcess.h" line="4873"/>
         <source>Halftone</source>
         <translation>Félárnyék</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="5000"/>
+        <location filename="DlgConvertProcess.h" line="5007"/>
         <source>QR Code</source>
         <translation>QR-kód</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2980"/>
+        <location filename="DlgConvertProcess.h" line="2987"/>
         <location filename="Dlg1SliderPanel.h" line="81"/>
         <source>Posterize</source>
         <translation>Poszterizálás</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2758"/>
+        <location filename="DlgConvertProcess.h" line="2765"/>
         <source>Swap color</source>
         <translation>Színcsere</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3000"/>
+        <location filename="DlgConvertProcess.h" line="3007"/>
         <source>Border 3D</source>
         <translation>3D szegély</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3027"/>
+        <location filename="DlgConvertProcess.h" line="3034"/>
         <source>Waves</source>
         <translation>Hullámok</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3032"/>
+        <location filename="DlgConvertProcess.h" line="3039"/>
         <source>Length</source>
         <translation>Hossz</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3033"/>
+        <location filename="DlgConvertProcess.h" line="3040"/>
         <source>Phase</source>
         <translation>Fázis</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3034"/>
+        <location filename="DlgConvertProcess.h" line="3041"/>
         <source>Amount</source>
         <translation>Mennyiség</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3076"/>
+        <location filename="DlgConvertProcess.h" line="3083"/>
         <source>Normalize Ex</source>
         <translation>EX normalizálása</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3081"/>
-        <location filename="DlgConvertProcess.h" line="3139"/>
+        <location filename="DlgConvertProcess.h" line="3088"/>
+        <location filename="DlgConvertProcess.h" line="3146"/>
         <source>Black limit %</source>
         <translation>Fekete határ %</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3082"/>
-        <location filename="DlgConvertProcess.h" line="3140"/>
+        <location filename="DlgConvertProcess.h" line="3089"/>
+        <location filename="DlgConvertProcess.h" line="3147"/>
         <source>White limit %</source>
         <translation>Fehér határ %</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3083"/>
+        <location filename="DlgConvertProcess.h" line="3090"/>
         <source>Expansion limit</source>
         <translation>Terjeszkedés korlátozása</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3134"/>
+        <location filename="DlgConvertProcess.h" line="3141"/>
         <source>Align histogram</source>
         <translation>Hisztogram elrendezése</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3141"/>
+        <location filename="DlgConvertProcess.h" line="3148"/>
         <source>Align %</source>
         <translation>Elrendezés %</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3205"/>
+        <location filename="DlgConvertProcess.h" line="3212"/>
         <source>ICC convert</source>
         <translation>ICC konvertálás</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3352"/>
+        <location filename="DlgConvertProcess.h" line="3359"/>
         <source>Border</source>
         <translation>Szegély</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3592"/>
+        <location filename="DlgConvertProcess.h" line="3599"/>
         <location filename="DlgOldCamera.h" line="86"/>
         <source>Old camera</source>
         <translation>Régi kamera</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3613"/>
+        <location filename="DlgConvertProcess.h" line="3620"/>
         <location filename="DlgVignetting.h" line="94"/>
         <source>Vignetting</source>
         <translation>Színátmenet előállítás</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3792"/>
+        <location filename="DlgConvertProcess.h" line="3799"/>
         <source>Add mask</source>
         <translation>Maszk hozzáadása</translation>
     </message>
@@ -1919,9 +1929,9 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
     <name>DB</name>
     <message>
         <location filename="CategoryManager.cpp" line="159"/>
-        <location filename="MyDB.cpp" line="836"/>
-        <location filename="MyDB.cpp" line="2255"/>
-        <location filename="MyDB.cpp" line="3579"/>
+        <location filename="MyDB.cpp" line="909"/>
+        <location filename="MyDB.cpp" line="2328"/>
+        <location filename="MyDB.cpp" line="3653"/>
         <source>Other</source>
         <translation>Egyéb</translation>
     </message>
@@ -1931,72 +1941,72 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
         <translation>Árva</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="837"/>
+        <location filename="MyDB.cpp" line="910"/>
         <source>Photographs</source>
         <translation>Fényképek</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="838"/>
+        <location filename="MyDB.cpp" line="911"/>
         <source>Family</source>
         <translation>Család</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="839"/>
+        <location filename="MyDB.cpp" line="912"/>
         <source>Friends</source>
         <translation>Barátok</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="840"/>
+        <location filename="MyDB.cpp" line="913"/>
         <source>Pets</source>
         <translation>Háziállatok</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="841"/>
+        <location filename="MyDB.cpp" line="914"/>
         <source>Travel</source>
         <translation>Utazás</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="842"/>
+        <location filename="MyDB.cpp" line="915"/>
         <source>Landscapes</source>
         <translation>Tájképek</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="843"/>
+        <location filename="MyDB.cpp" line="916"/>
         <source>Portraits</source>
         <translation>Portrék</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="844"/>
+        <location filename="MyDB.cpp" line="917"/>
         <source>Flowers</source>
         <translation>Virágok</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="845"/>
+        <location filename="MyDB.cpp" line="918"/>
         <source>Animals</source>
         <translation>Állatok</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="846"/>
+        <location filename="MyDB.cpp" line="919"/>
         <source>Pictures</source>
         <translation>Képek</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="847"/>
+        <location filename="MyDB.cpp" line="920"/>
         <source>Icons</source>
         <translation>Ikonok</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="848"/>
+        <location filename="MyDB.cpp" line="921"/>
         <source>Drawings</source>
         <translation>Rajzok</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="849"/>
+        <location filename="MyDB.cpp" line="922"/>
         <source>Videos</source>
         <translation>Videók</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="850"/>
+        <location filename="MyDB.cpp" line="923"/>
         <source>Audios</source>
         <translation>Audiók</translation>
     </message>
@@ -2055,7 +2065,7 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="158"/>
-        <location filename="DBFilterModel.cpp" line="1421"/>
+        <location filename="DBFilterModel.cpp" line="1437"/>
         <source>Date</source>
         <translation>Dátum</translation>
     </message>
@@ -2076,44 +2086,44 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="295"/>
-        <location filename="DBFilterModel.cpp" line="2045"/>
+        <location filename="DBFilterModel.cpp" line="2061"/>
         <source>No Smart Album</source>
         <translation>Nincs intelligens album</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1284"/>
-        <location filename="DBFilterModel.cpp" line="1574"/>
-        <location filename="DBFilterModel.cpp" line="1883"/>
-        <location filename="DBFilterModel.cpp" line="1890"/>
-        <location filename="DBFilterModel.cpp" line="1895"/>
-        <location filename="DBFilterModel.cpp" line="1900"/>
-        <location filename="DBFilterModel.cpp" line="1917"/>
-        <location filename="DBFilterModel.cpp" line="1934"/>
+        <location filename="DBFilterModel.cpp" line="1300"/>
+        <location filename="DBFilterModel.cpp" line="1590"/>
+        <location filename="DBFilterModel.cpp" line="1899"/>
+        <location filename="DBFilterModel.cpp" line="1906"/>
+        <location filename="DBFilterModel.cpp" line="1911"/>
+        <location filename="DBFilterModel.cpp" line="1916"/>
+        <location filename="DBFilterModel.cpp" line="1933"/>
+        <location filename="DBFilterModel.cpp" line="1950"/>
         <source>Unknown</source>
         <translation>Ismeretlen</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1922"/>
+        <location filename="DBFilterModel.cpp" line="1938"/>
         <source>Landscape</source>
         <translation>Fekvő</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1924"/>
+        <location filename="DBFilterModel.cpp" line="1940"/>
         <source>Portrait</source>
         <translation>Álló</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1926"/>
+        <location filename="DBFilterModel.cpp" line="1942"/>
         <source>Square</source>
         <translation>Négyzet</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1999"/>
+        <location filename="DBFilterModel.cpp" line="2015"/>
         <source>Panoramic</source>
         <translation>Panoráma</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2025"/>
+        <location filename="DBFilterModel.cpp" line="2041"/>
         <source>No Color Profile</source>
         <translation>Nincs színprofil</translation>
     </message>
@@ -4193,29 +4203,49 @@ Biztos folytassuk?</translation>
         <translation>Tolerancia</translation>
     </message>
     <message>
-        <location filename="DlgConvertAutoCrop.ui" line="104"/>
-        <source>Edges:</source>
-        <translation>Élek:</translation>
-    </message>
-    <message>
-        <location filename="DlgConvertAutoCrop.ui" line="111"/>
+        <location filename="DlgConvertAutoCrop.ui" line="135"/>
         <source>Bottom</source>
         <translation>Lent</translation>
     </message>
     <message>
-        <location filename="DlgConvertAutoCrop.ui" line="121"/>
+        <location filename="DlgConvertAutoCrop.ui" line="184"/>
         <source>Top</source>
         <translation>Fent</translation>
     </message>
     <message>
-        <location filename="DlgConvertAutoCrop.ui" line="131"/>
+        <location filename="DlgConvertAutoCrop.ui" line="125"/>
         <source>Left</source>
         <translation>Bal</translation>
     </message>
     <message>
-        <location filename="DlgConvertAutoCrop.ui" line="141"/>
+        <location filename="DlgConvertAutoCrop.ui" line="104"/>
+        <source>Mode</source>
+        <translation type="unfinished">Mód</translation>
+    </message>
+    <message>
+        <location filename="DlgConvertAutoCrop.ui" line="115"/>
+        <source>Horizontal</source>
+        <translation type="unfinished">Vízszintes</translation>
+    </message>
+    <message>
+        <location filename="DlgConvertAutoCrop.ui" line="161"/>
+        <source>Edges</source>
+        <translation type="unfinished">Élek</translation>
+    </message>
+    <message>
+        <location filename="DlgConvertAutoCrop.ui" line="174"/>
+        <source>Vertical</source>
+        <translation type="unfinished">Függőleges</translation>
+    </message>
+    <message>
+        <location filename="DlgConvertAutoCrop.ui" line="194"/>
         <source>Right</source>
         <translation>Jobb</translation>
+    </message>
+    <message>
+        <location filename="DlgConvertAutoCrop.ui" line="220"/>
+        <source>Zealous</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7667,89 +7697,89 @@ Ellenőrizze, hogy a fájl nem írásvédett!</translation>
         <translation>Ez nem kép fájl</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="305"/>
+        <location filename="DlgExport.cpp" line="314"/>
         <source>Black&amp;White</source>
         <translation>&amp;Fekete-Fehér</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="307"/>
+        <location filename="DlgExport.cpp" line="316"/>
         <source>8 colors</source>
         <translation>8 szín</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="309"/>
+        <location filename="DlgExport.cpp" line="318"/>
         <source>16 colors</source>
         <translation>16 szín</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="311"/>
+        <location filename="DlgExport.cpp" line="320"/>
         <source>32 colors</source>
         <translation>32 szín</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="313"/>
+        <location filename="DlgExport.cpp" line="322"/>
         <source>64 colors</source>
         <translation>64 szín</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="315"/>
+        <location filename="DlgExport.cpp" line="324"/>
         <source>128 colors</source>
         <translation>128 szín</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="317"/>
+        <location filename="DlgExport.cpp" line="326"/>
         <source>256 colors</source>
         <translation>256 szín</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="319"/>
+        <location filename="DlgExport.cpp" line="328"/>
         <source>Greyscale</source>
         <translation>Szürkeárnyalat</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="322"/>
+        <location filename="DlgExport.cpp" line="331"/>
         <source>16m</source>
         <translation>16m</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="340"/>
+        <location filename="DlgExport.cpp" line="349"/>
         <source>None</source>
         <translation>Nincs</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="340"/>
         <location filename="DlgExport.cpp" line="349"/>
+        <location filename="DlgExport.cpp" line="358"/>
         <source>Pattern</source>
         <translation>Minta</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="340"/>
         <location filename="DlgExport.cpp" line="349"/>
+        <location filename="DlgExport.cpp" line="358"/>
         <source>Floyd-Steinberg</source>
         <translation>Floyd-Steinberg</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="340"/>
+        <location filename="DlgExport.cpp" line="349"/>
         <source>Halftone 45</source>
         <translation>Félárnyék 45</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="340"/>
+        <location filename="DlgExport.cpp" line="349"/>
         <source>Halftone 90</source>
         <translation>Félárnyék 90</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="349"/>
+        <location filename="DlgExport.cpp" line="358"/>
         <source>Adaptive</source>
         <translation>Adaptív</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="609"/>
+        <location filename="DlgExport.cpp" line="620"/>
         <source>Images</source>
         <translation>Képek</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="628"/>
+        <location filename="DlgExport.cpp" line="639"/>
         <source>Save File</source>
         <translation>Fájl mentése</translation>
     </message>
@@ -8266,29 +8296,6 @@ Próbálja rendszergazdai jogokkal.</translation>
     </message>
 </context>
 <context>
-    <name>DlgFlickr</name>
-    <message>
-        <location filename="DlgFlickr.h" line="17"/>
-        <source>Abort</source>
-        <translation>Megszakítás</translation>
-    </message>
-    <message>
-        <location filename="DlgFlickr.h" line="36"/>
-        <source>Uploading image(s) to Flickr album</source>
-        <translation>Kép(ek) feltöltése Flickr albumba</translation>
-    </message>
-    <message>
-        <location filename="DlgFlickr.h" line="55"/>
-        <source>Error</source>
-        <translation>Hiba</translation>
-    </message>
-    <message>
-        <location filename="DlgFlickr.h" line="64"/>
-        <source>Uploading image(s) to Picasa album</source>
-        <translation>Kép(ek) feltöltése Picasa albumba</translation>
-    </message>
-</context>
-<context>
     <name>DlgFlickrSettings</name>
     <message>
         <location filename="DlgFlickrSettings.ui" line="14"/>
@@ -8309,11 +8316,6 @@ Próbálja rendszergazdai jogokkal.</translation>
         <location filename="DlgFlickrSettings.ui" line="59"/>
         <source>New user...</source>
         <translation>Új felhasználó...</translation>
-    </message>
-    <message>
-        <location filename="DlgFlickrSettings.h" line="134"/>
-        <source>Error</source>
-        <translation>Hiba</translation>
     </message>
 </context>
 <context>
@@ -9580,41 +9582,6 @@ Ellenőrizze, hogy a fájl nem írásvédett!</translation>
         <location filename="DlgPalette.cpp" line="450"/>
         <source>Choose Palette file</source>
         <translation>Színpaletta fájl kiválasztása</translation>
-    </message>
-</context>
-<context>
-    <name>DlgPicasa</name>
-    <message>
-        <location filename="DlgPicasa.h" line="45"/>
-        <source>Abort</source>
-        <translation>Megszakítás</translation>
-    </message>
-    <message>
-        <location filename="DlgPicasa.h" line="58"/>
-        <source>Updating album list from Picasa</source>
-        <translation>Album lista frissítése Picasa-ból</translation>
-    </message>
-    <message>
-        <location filename="DlgPicasa.h" line="69"/>
-        <location filename="DlgPicasa.h" line="124"/>
-        <source>Uploading image(s) to Picasa album</source>
-        <translation>Kép(ek) feltöltése Picasa albumba</translation>
-    </message>
-    <message>
-        <location filename="DlgPicasa.h" line="91"/>
-        <location filename="DlgPicasa.h" line="93"/>
-        <source>Problem</source>
-        <translation>Probléma</translation>
-    </message>
-    <message>
-        <location filename="DlgPicasa.h" line="91"/>
-        <source>An error occurred in uploading process!</source>
-        <translation>Hiba történt a feltöltés közben!</translation>
-    </message>
-    <message>
-        <location filename="DlgPicasa.h" line="93"/>
-        <source>An error occurred, please check your login data!</source>
-        <translation>Hiba történt, kérem ellenőrizze a bejelentkezési adatait!</translation>
     </message>
 </context>
 <context>
@@ -11011,49 +10978,54 @@ El szeretné őket távolítani?</translation>
     <name>DlgSearch</name>
     <message>
         <location filename="DlgSearch.cpp" line="80"/>
-        <location filename="DlgSearch.cpp" line="182"/>
+        <location filename="DlgSearch.cpp" line="187"/>
         <source>Smart Albums</source>
         <translation>Intelligens albumok</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="80"/>
-        <location filename="DlgSearch.cpp" line="182"/>
+        <location filename="DlgSearch.cpp" line="187"/>
         <source>Name:</source>
         <translation>Név:</translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="174"/>
+        <location filename="DlgSearch.cpp" line="179"/>
         <source>Save</source>
         <translation>Mentés</translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="323"/>
+        <location filename="DlgSearch.cpp" line="328"/>
         <source>Preset</source>
         <translation>Készlet</translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="324"/>
+        <location filename="DlgSearch.cpp" line="329"/>
         <source>Preset search name:</source>
         <translation>Készlet keresett neve:</translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="327"/>
+        <location filename="DlgSearch.cpp" line="332"/>
         <source>Save pathname</source>
         <translation>Útvonal nevének mentése</translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="390"/>
+        <location filename="DlgSearch.cpp" line="395"/>
         <source>GROUP</source>
         <translation>CSOPORT</translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="414"/>
+        <location filename="DlgSearch.cpp" line="420"/>
         <source>Files found (%1):</source>
         <translation>Talált fájlok (%1):</translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="461"/>
-        <location filename="DlgSearch.cpp" line="462"/>
+        <location filename="DlgSearch.cpp" line="445"/>
+        <source>Search</source>
+        <translation type="unfinished">Keresés</translation>
+    </message>
+    <message>
+        <location filename="DlgSearch.cpp" line="476"/>
+        <location filename="DlgSearch.cpp" line="477"/>
         <source>Finished: %1 file(s) found.</source>
         <oldsource>Finished: %1 file(s) found...</oldsource>
         <translation>Befejezve: %1 fájl találva.</translation>
@@ -13630,7 +13602,6 @@ Szeretné újratársítani?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="476"/>
         <location filename="DlgSettingsKeywords.ui" line="526"/>
-        <location filename="DlgSettingsKeywords.ui" line="569"/>
         <source>Default encoding</source>
         <translation>Alapértelmezett kódolás</translation>
     </message>
@@ -13640,23 +13611,18 @@ Szeretné újratársítani?</translation>
         <translation>Beágyazott megjegyzés</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="561"/>
-        <source>EXIF Copyright</source>
-        <translation>EXIF szerzői jog</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsKeywords.ui" line="618"/>
+        <location filename="DlgSettingsKeywords.ui" line="652"/>
         <source>Color labels</source>
         <oldsource>Labels</oldsource>
         <translation>Színcímkék</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="786"/>
+        <location filename="DlgSettingsKeywords.ui" line="820"/>
         <source>Label</source>
         <translation>Címke</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="736"/>
+        <location filename="DlgSettingsKeywords.ui" line="770"/>
         <source>Read (separated by ,)</source>
         <translation>Olvas (elválasztva ,)</translation>
     </message>
@@ -13666,7 +13632,17 @@ Szeretné újratársítani?</translation>
         <translation>Támogatott formátumok</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="779"/>
+        <location filename="DlgSettingsKeywords.ui" line="569"/>
+        <source>Copyright</source>
+        <translation type="unfinished">Szerzői jog</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsKeywords.ui" line="603"/>
+        <source>Image description</source>
+        <translation type="unfinished">Kép leírása</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsKeywords.ui" line="813"/>
         <source>Write</source>
         <translation>Ír</translation>
     </message>
@@ -13707,98 +13683,103 @@ Szeretné újratársítani?</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="110"/>
+        <source>Use transparency grid</source>
+        <translation type="unfinished">Áttetszőségi rács használata</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="117"/>
         <source>Use sharpen</source>
         <oldsource>Sharpen thumbnail</oldsource>
         <translation>Élesítés használata</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="117"/>
+        <location filename="DlgSettingsThumbnail.ui" line="124"/>
         <source>Create thumbnails for whole folder</source>
         <oldsource>Create  thumbnails for whole folder</oldsource>
         <translation>Miniatűrök létrehozása a teljes mappára</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="126"/>
+        <location filename="DlgSettingsThumbnail.ui" line="133"/>
         <source>Use gamma correction</source>
         <translation>Gamma korrekció</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="166"/>
+        <location filename="DlgSettingsThumbnail.ui" line="173"/>
         <source>For video files, extract frame at</source>
         <translation>Video fájloknál képkockák kivonása</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="180"/>
+        <location filename="DlgSettingsThumbnail.ui" line="187"/>
         <source>%</source>
         <translation>%</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="468"/>
+        <location filename="DlgSettingsThumbnail.ui" line="475"/>
         <source>Image alignment</source>
         <translation>Kép igazítása</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="476"/>
+        <location filename="DlgSettingsThumbnail.ui" line="483"/>
         <source>Top</source>
         <translation>Fent</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="486"/>
+        <location filename="DlgSettingsThumbnail.ui" line="493"/>
         <source>Bottom</source>
         <translation>Lent</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="642"/>
+        <location filename="DlgSettingsThumbnail.ui" line="649"/>
         <source>Companion</source>
         <translation>Kísérő</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="897"/>
+        <location filename="DlgSettingsThumbnail.ui" line="904"/>
         <source>Frame&apos;s count</source>
         <translation>Képkockaszám</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1061"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1068"/>
         <source>Color</source>
         <translation>Szín</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1069"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1076"/>
         <source>Text</source>
         <translation>Szöveg</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1174"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1181"/>
         <source>Label colors</source>
         <translation>Címkézési színek</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1180"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1187"/>
         <source>Use color based on file format</source>
         <translation>Színek használata a fájlformátum alapján</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1193"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1200"/>
         <source>Enter an extension:</source>
         <translation>Kiterjesztés megadása:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1203"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1210"/>
         <source>or choose a format:</source>
         <translation>vagy formátum választása:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1249"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1256"/>
         <source>New</source>
         <translation>Új</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1259"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1266"/>
         <source>Remove</source>
         <translation>Eltávolítás</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1283"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1290"/>
         <source>Default color</source>
         <translation>Alapszín</translation>
     </message>
@@ -13808,170 +13789,170 @@ Szeretné újratársítani?</translation>
         <translation>4 miniatűr mutatása a videó miniatűrökből (mint az elsőnél)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="204"/>
+        <location filename="DlgSettingsThumbnail.ui" line="211"/>
         <source>Go to Thumbnail DB related settings &gt;&gt;</source>
         <translation>Miniatűr adatbázis beállítások &gt;&gt;</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="240"/>
+        <location filename="DlgSettingsThumbnail.ui" line="247"/>
         <source>Appearance</source>
         <translation>Megjelenés</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="249"/>
+        <location filename="DlgSettingsThumbnail.ui" line="256"/>
         <source>Custom thumbnail size</source>
         <translation>Egyéni miniatűr méret</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="261"/>
+        <location filename="DlgSettingsThumbnail.ui" line="268"/>
         <source>Width</source>
         <translation>Szélesség</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="294"/>
+        <location filename="DlgSettingsThumbnail.ui" line="301"/>
         <source>Height</source>
         <translation>Magasság</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="375"/>
+        <location filename="DlgSettingsThumbnail.ui" line="382"/>
         <source>Margin</source>
         <translation>Margó</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="397"/>
-        <location filename="DlgSettingsThumbnail.ui" line="1099"/>
+        <location filename="DlgSettingsThumbnail.ui" line="404"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1106"/>
         <source>Background</source>
         <translation>Háttér</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="444"/>
+        <location filename="DlgSettingsThumbnail.ui" line="451"/>
         <source>Spacing</source>
         <translation>Térköz</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="39"/>
-        <location filename="DlgSettingsThumbnail.ui" line="329"/>
+        <location filename="DlgSettingsThumbnail.ui" line="336"/>
         <source>Thumbnail</source>
         <translation>Miniatűr</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="335"/>
+        <location filename="DlgSettingsThumbnail.ui" line="342"/>
         <source>Use shadow</source>
         <translation>Árnyék használata</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="414"/>
+        <location filename="DlgSettingsThumbnail.ui" line="421"/>
         <source>Border</source>
         <translation>Szegély</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="391"/>
+        <location filename="DlgSettingsThumbnail.ui" line="398"/>
         <source>Thumbnail cell</source>
         <translation>Miniatűr cella</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="876"/>
+        <location filename="DlgSettingsThumbnail.ui" line="883"/>
         <source>Has category</source>
         <translation>Kategória</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="342"/>
+        <location filename="DlgSettingsThumbnail.ui" line="349"/>
         <source>Border size</source>
         <translation>Szegély mérete</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="459"/>
+        <location filename="DlgSettingsThumbnail.ui" line="466"/>
         <source>Spacing between labels</source>
         <translation>Címkék közötti térköz</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="511"/>
+        <location filename="DlgSettingsThumbnail.ui" line="518"/>
         <source>Label alignment</source>
         <translation>Címke igazítása</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="519"/>
+        <location filename="DlgSettingsThumbnail.ui" line="526"/>
         <source>Left</source>
         <translation>Bal</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="481"/>
-        <location filename="DlgSettingsThumbnail.ui" line="524"/>
+        <location filename="DlgSettingsThumbnail.ui" line="488"/>
+        <location filename="DlgSettingsThumbnail.ui" line="531"/>
         <source>Center</source>
         <translation>Közép</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="529"/>
+        <location filename="DlgSettingsThumbnail.ui" line="536"/>
         <source>Right</source>
         <translation>Jobb</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="569"/>
+        <location filename="DlgSettingsThumbnail.ui" line="576"/>
         <source>Overlay icons</source>
         <translation>Fedő ikonok</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="829"/>
+        <location filename="DlgSettingsThumbnail.ui" line="836"/>
         <source>Shortcut</source>
         <translation>Gyorsbillentyű</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="715"/>
+        <location filename="DlgSettingsThumbnail.ui" line="722"/>
         <source>Tag</source>
         <translation>Címke</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="869"/>
+        <location filename="DlgSettingsThumbnail.ui" line="876"/>
         <source>Automatic rotation</source>
         <translation>Automatikus forgatás</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="849"/>
+        <location filename="DlgSettingsThumbnail.ui" line="856"/>
         <source>Rating</source>
         <translation>Értékelés</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="742"/>
+        <location filename="DlgSettingsThumbnail.ui" line="749"/>
         <source>Embedded thumbnail</source>
         <translation>Beágyazott miniatűr</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="695"/>
+        <location filename="DlgSettingsThumbnail.ui" line="702"/>
         <source>Color label</source>
         <translation>Színcímke</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="822"/>
+        <location filename="DlgSettingsThumbnail.ui" line="829"/>
         <source>Color profile</source>
         <translation>Színprofil</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="762"/>
+        <location filename="DlgSettingsThumbnail.ui" line="769"/>
         <source>Face tag</source>
         <translation>Arcmegjelölés</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="890"/>
+        <location filename="DlgSettingsThumbnail.ui" line="897"/>
         <source>Sidecar</source>
         <translation>Kísérőfájl (Sidecar)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="907"/>
+        <location filename="DlgSettingsThumbnail.ui" line="914"/>
         <source>Labels</source>
         <translation>Címkék</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1133"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1140"/>
         <source>Reset color</source>
         <translation>Alapszínek</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1033"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1040"/>
         <source>Custom label</source>
         <translation>Egyéni címke</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="921"/>
+        <location filename="DlgSettingsThumbnail.ui" line="928"/>
         <source>Browser › View › View as › Thumbnails + Labels</source>
         <oldsource>Browser - Thumbnail</oldsource>
         <translation>Böngésző › Nézet ›Nézet › Miniatűrök + címkék</translation>
@@ -15428,34 +15409,34 @@ Biztos folytassuk?</translation>
 <context>
     <name>DlgUpload</name>
     <message>
-        <location filename="DlgUpload.cpp" line="35"/>
+        <location filename="DlgUpload.cpp" line="33"/>
+        <location filename="DlgUpload.cpp" line="85"/>
+        <location filename="DlgUpload.cpp" line="92"/>
         <location filename="DlgUpload.cpp" line="95"/>
-        <location filename="DlgUpload.cpp" line="102"/>
-        <location filename="DlgUpload.cpp" line="105"/>
-        <location filename="DlgUpload.cpp" line="117"/>
-        <location filename="DlgUpload.cpp" line="203"/>
-        <location filename="DlgUpload.cpp" line="229"/>
-        <location filename="DlgUpload.cpp" line="240"/>
+        <location filename="DlgUpload.cpp" line="107"/>
+        <location filename="DlgUpload.cpp" line="189"/>
+        <location filename="DlgUpload.cpp" line="213"/>
+        <location filename="DlgUpload.cpp" line="224"/>
         <source>Upload</source>
         <translation>Feltöltés</translation>
     </message>
     <message>
-        <location filename="DlgUpload.cpp" line="92"/>
+        <location filename="DlgUpload.cpp" line="82"/>
         <source>Error</source>
         <translation>Hiba</translation>
     </message>
     <message>
-        <location filename="DlgUpload.cpp" line="136"/>
+        <location filename="DlgUpload.cpp" line="126"/>
         <source>Cancel</source>
         <translation>Mégse</translation>
     </message>
     <message>
-        <location filename="DlgUpload.cpp" line="203"/>
+        <location filename="DlgUpload.cpp" line="189"/>
         <source>Unable to load image file...</source>
         <translation>A képfájl nem tölthető be...</translation>
     </message>
     <message>
-        <location filename="DlgUpload.cpp" line="229"/>
+        <location filename="DlgUpload.cpp" line="213"/>
         <source>Unable to upload image file...</source>
         <translation>A képfájl nem tölthető fel...</translation>
     </message>
@@ -16690,26 +16671,6 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     </message>
 </context>
 <context>
-    <name>Flickr</name>
-    <message>
-        <location filename="Flickr.cpp" line="353"/>
-        <source>An error has occurred!!</source>
-        <oldsource>An error has occured!!</oldsource>
-        <translation>Hiba lépett fel!!</translation>
-    </message>
-    <message>
-        <location filename="Flickr.cpp" line="378"/>
-        <source>Authorization</source>
-        <translation>Engedély</translation>
-    </message>
-    <message>
-        <location filename="Flickr.cpp" line="379"/>
-        <source>Press OK button when the autorization is done through web browser</source>
-        <oldsource>Press Ok button when the autorization is done through web browser</oldsource>
-        <translation>OK gomb a webböngészőn keresztüli hitelesítéshez</translation>
-    </message>
-</context>
-<context>
     <name>ImgurAPI3</name>
     <message>
         <location filename="imgurapi3.cpp" line="231"/>
@@ -17058,12 +17019,12 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <translation>Arány</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1813"/>
+        <location filename="DBFilterModel.cpp" line="1829"/>
         <source>Aspect Ratio</source>
         <translation>Képarány</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1849"/>
+        <location filename="DBFilterModel.cpp" line="1865"/>
         <source>File type</source>
         <translation>Fájltípus</translation>
     </message>
@@ -17623,7 +17584,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <translation>Készítői jegyzetek</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1817"/>
+        <location filename="DBFilterModel.cpp" line="1833"/>
         <location filename="ItemModel.cpp" line="1120"/>
         <location filename="SearchField.cpp" line="79"/>
         <location filename="TemplateData.cpp" line="2611"/>
@@ -17631,7 +17592,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <translation>Készítő</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1821"/>
+        <location filename="DBFilterModel.cpp" line="1837"/>
         <location filename="ItemModel.cpp" line="1122"/>
         <location filename="SearchField.cpp" line="80"/>
         <location filename="TemplateData.cpp" line="2612"/>
@@ -17639,68 +17600,68 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <translation>Modell</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1825"/>
+        <location filename="DBFilterModel.cpp" line="1841"/>
         <source>Lens</source>
         <translation>Objektív</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1833"/>
+        <location filename="DBFilterModel.cpp" line="1849"/>
         <location filename="ItemModel.cpp" line="1124"/>
         <source>ISO</source>
         <translation>ISO</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1841"/>
+        <location filename="DBFilterModel.cpp" line="1857"/>
         <source>Shutter Speed</source>
         <translation>Záridő</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1853"/>
+        <location filename="DBFilterModel.cpp" line="1869"/>
         <source>Colour Space</source>
         <translation>Színtér</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1936"/>
+        <location filename="DBFilterModel.cpp" line="1952"/>
         <source>Not Defined</source>
         <translation>Nincs megadva</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1938"/>
+        <location filename="DBFilterModel.cpp" line="1954"/>
         <source>Manual</source>
         <translation>Manuális</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1940"/>
+        <location filename="DBFilterModel.cpp" line="1956"/>
         <source>Program AE</source>
         <translation>AE program</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1942"/>
+        <location filename="DBFilterModel.cpp" line="1958"/>
         <source>Aperture-priority AE</source>
         <translation>Rekeszprioritású AE</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1944"/>
+        <location filename="DBFilterModel.cpp" line="1960"/>
         <source>Shutter speed priority AE</source>
         <translation>Záridő prioritású AE</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1946"/>
+        <location filename="DBFilterModel.cpp" line="1962"/>
         <source>Creative</source>
         <translation>Kreatív</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1948"/>
+        <location filename="DBFilterModel.cpp" line="1964"/>
         <source>Action</source>
         <translation>Művelet</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1950"/>
+        <location filename="DBFilterModel.cpp" line="1966"/>
         <source>Portrait</source>
         <translation>Álló</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1952"/>
+        <location filename="DBFilterModel.cpp" line="1968"/>
         <source>Landscape</source>
         <translation>Fekvő</translation>
     </message>
@@ -17715,7 +17676,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <translation>Expozíciós idő</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1829"/>
+        <location filename="DBFilterModel.cpp" line="1845"/>
         <location filename="ItemModel.cpp" line="1130"/>
         <source>Focal Length</source>
         <translation>Fókusztávolság</translation>
@@ -17762,7 +17723,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <translation>Felhasználói megjegyzés</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1837"/>
+        <location filename="DBFilterModel.cpp" line="1853"/>
         <location filename="ItemModel.cpp" line="1134"/>
         <location filename="SearchField.cpp" line="89"/>
         <location filename="TemplateData.cpp" line="2645"/>
@@ -17786,7 +17747,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <translation>Módosítási dátum/idő</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1809"/>
+        <location filename="DBFilterModel.cpp" line="1825"/>
         <location filename="TemplateData.cpp" line="2616"/>
         <source>Orientation</source>
         <translation>Tájolás</translation>
@@ -17875,7 +17836,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <translation>Expozíciós idő (mp)</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1845"/>
+        <location filename="DBFilterModel.cpp" line="1861"/>
         <location filename="TemplateData.cpp" line="2641"/>
         <source>Exposure Program</source>
         <translation>Expozíciós program</translation>
@@ -19033,7 +18994,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <translation>Típus</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="5122"/>
+        <location filename="ItemModel.cpp" line="5121"/>
         <source>New Folder %1</source>
         <translation>Új mappa %1</translation>
     </message>
@@ -19041,13 +19002,13 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
 <context>
     <name>ItemProcess</name>
     <message>
-        <location filename="ItemProcess.cpp" line="301"/>
+        <location filename="ItemProcess.cpp" line="303"/>
         <source>Lossless Crop</source>
         <translation>Veszteségmentes vágás</translation>
     </message>
     <message>
-        <location filename="ItemProcess.cpp" line="302"/>
-        <location filename="ItemProcess.cpp" line="370"/>
+        <location filename="ItemProcess.cpp" line="304"/>
+        <location filename="ItemProcess.cpp" line="372"/>
         <source>JPEG lossless operation will modify original file(s), and may remove some unused pixels (width and height must be multiple of 8 pixels)!
 
 Do you want to continue?</source>
@@ -19056,47 +19017,47 @@ Do you want to continue?</source>
 Biztosan folytassuk?</translation>
     </message>
     <message>
-        <location filename="ItemProcess.cpp" line="326"/>
-        <location filename="ItemProcess.cpp" line="358"/>
-        <location filename="ItemProcess.cpp" line="411"/>
-        <location filename="ItemProcess.cpp" line="504"/>
+        <location filename="ItemProcess.cpp" line="328"/>
+        <location filename="ItemProcess.cpp" line="360"/>
+        <location filename="ItemProcess.cpp" line="413"/>
+        <location filename="ItemProcess.cpp" line="506"/>
         <source>Problem</source>
         <translation>Probléma</translation>
     </message>
     <message>
-        <location filename="ItemProcess.cpp" line="327"/>
-        <location filename="ItemProcess.cpp" line="359"/>
-        <location filename="ItemProcess.cpp" line="412"/>
+        <location filename="ItemProcess.cpp" line="329"/>
+        <location filename="ItemProcess.cpp" line="361"/>
+        <location filename="ItemProcess.cpp" line="414"/>
         <source>An error has occurred, the lossless rotation can&apos;t be executed.</source>
         <oldsource>An error occured, the lossless rotation can&apos;t be executed.</oldsource>
         <translation>Hiba történt, a veszteségmentes forgatást nem lehet végrehajtani.</translation>
     </message>
     <message>
-        <location filename="ItemProcess.cpp" line="369"/>
+        <location filename="ItemProcess.cpp" line="371"/>
         <source>Lossless Operation</source>
         <translation>Veszteségmentes művelet</translation>
     </message>
     <message>
-        <location filename="ItemProcess.cpp" line="447"/>
-        <location filename="ItemProcess.cpp" line="457"/>
-        <location filename="ItemProcess.cpp" line="465"/>
-        <location filename="ItemProcess.cpp" line="471"/>
+        <location filename="ItemProcess.cpp" line="449"/>
+        <location filename="ItemProcess.cpp" line="459"/>
+        <location filename="ItemProcess.cpp" line="467"/>
+        <location filename="ItemProcess.cpp" line="473"/>
         <source>Info</source>
         <translation>Információ</translation>
     </message>
     <message>
-        <location filename="ItemProcess.cpp" line="448"/>
-        <location filename="ItemProcess.cpp" line="466"/>
+        <location filename="ItemProcess.cpp" line="450"/>
+        <location filename="ItemProcess.cpp" line="468"/>
         <source>This file contains more than one page/image, so it&apos;s not possible to rotate it.</source>
         <translation>Ez a fájl több oldalt/képet tartalmaz, ezért nem lehetséges a forgatás.</translation>
     </message>
     <message>
-        <location filename="ItemProcess.cpp" line="458"/>
+        <location filename="ItemProcess.cpp" line="460"/>
         <source>This file uses a nonwritable format, so it&apos;s not possible to rotate it.</source>
         <translation>Ez a fájl nem írható formátumú, ezért nem lehetséges a forgatás.</translation>
     </message>
     <message>
-        <location filename="ItemProcess.cpp" line="472"/>
+        <location filename="ItemProcess.cpp" line="474"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel). 
 
 Do you want to continue?</source>
@@ -19108,7 +19069,7 @@ Do you want to continue?</oldsource>
 Biztosan folytassuk?</translation>
     </message>
     <message>
-        <location filename="ItemProcess.cpp" line="505"/>
+        <location filename="ItemProcess.cpp" line="507"/>
         <source>An error has occurred.</source>
         <oldsource>An error occured.</oldsource>
         <translation>Hiba lépett fel.</translation>
@@ -19409,7 +19370,7 @@ Biztosan folytassuk?</translation>
 <context>
     <name>MediaPlayerBase</name>
     <message>
-        <location filename="MediaPlayerBase.cpp" line="89"/>
+        <location filename="MediaPlayerBase.cpp" line="90"/>
         <source>Adjust volume</source>
         <translation>Hangerő módosítása</translation>
     </message>
@@ -19490,512 +19451,517 @@ Biztosan folytassuk?</translation>
         <translation>Diaszalag 2</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="24"/>
+        <location filename="BrowserMenu.h" line="23"/>
+        <source>Film strip 3</source>
+        <translation type="unfinished">Diaszalag 3</translation>
+    </message>
+    <message>
+        <location filename="BrowserMenu.h" line="25"/>
         <source>Free</source>
         <translation>Szabad</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="30"/>
+        <location filename="BrowserMenu.h" line="31"/>
         <source>Thumbnails</source>
         <translation>Miniatűrök</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="31"/>
+        <location filename="BrowserMenu.h" line="32"/>
         <source>Thumbnails + Filenames</source>
         <oldsource>Thumbnails + Filename</oldsource>
         <translation>Miniatűrök + fájlnevek</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="32"/>
+        <location filename="BrowserMenu.h" line="33"/>
         <source>Thumbnails + Labels</source>
         <translation>Miniatűrök + címkék</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="33"/>
+        <location filename="BrowserMenu.h" line="34"/>
         <source>Thumbnails + Details</source>
         <translation>Miniatűrök + részletek</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="34"/>
+        <location filename="BrowserMenu.h" line="35"/>
         <source>Icons</source>
         <oldsource>Icon</oldsource>
         <translation>Ikonok</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="35"/>
+        <location filename="BrowserMenu.h" line="36"/>
         <source>List</source>
         <translation>Lista</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="36"/>
+        <location filename="BrowserMenu.h" line="37"/>
         <source>Details</source>
         <translation>Részletek</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="42"/>
+        <location filename="BrowserMenu.h" line="43"/>
         <source>Name</source>
         <translation>Név</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="43"/>
+        <location filename="BrowserMenu.h" line="44"/>
         <source>Extension</source>
         <translation>Kiterjesztés</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="45"/>
+        <location filename="BrowserMenu.h" line="46"/>
         <source>Created Date</source>
         <translation>Létrehozás dátuma</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="46"/>
+        <location filename="BrowserMenu.h" line="47"/>
         <source>EXIF Date Taken</source>
         <oldsource>EXIF Date</oldsource>
         <translation>EXIF: Készítés dátuma</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="47"/>
+        <location filename="BrowserMenu.h" line="48"/>
         <source>EXIF Date Modified</source>
         <translation>EXIF: Módosítás dátuma</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="48"/>
+        <location filename="BrowserMenu.h" line="49"/>
         <source>Type</source>
         <translation>Típus</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="49"/>
+        <location filename="BrowserMenu.h" line="50"/>
         <source>File size</source>
         <translation>Fájlméret</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="50"/>
+        <location filename="BrowserMenu.h" line="51"/>
         <source>Image size</source>
         <translation>Képméret</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="51"/>
+        <location filename="BrowserMenu.h" line="52"/>
         <source>Image Width</source>
         <translation>Kép szélessége</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="52"/>
+        <location filename="BrowserMenu.h" line="53"/>
         <source>Image Height</source>
         <translation>Kép magassága</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="53"/>
+        <location filename="BrowserMenu.h" line="54"/>
         <source>Orientation</source>
         <translation>Tájolás</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="54"/>
+        <location filename="BrowserMenu.h" line="55"/>
         <source>Ratio</source>
         <translation>Arány</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="55"/>
+        <location filename="BrowserMenu.h" line="56"/>
         <source>Print size</source>
         <translation>Nyomtatási méret</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="56"/>
+        <location filename="BrowserMenu.h" line="57"/>
         <source>Comment</source>
         <translation>Megjegyzés</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="57"/>
+        <location filename="BrowserMenu.h" line="58"/>
         <source>Path</source>
         <translation>Elérési út</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="84"/>
+        <location filename="BrowserMenu.h" line="85"/>
         <source>Untagged file(s)</source>
         <translation>Címkétlen fájl(ok)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="299"/>
+        <location filename="BrowserMenu.h" line="300"/>
         <source>Folder</source>
         <translation>Mappa</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="58"/>
+        <location filename="BrowserMenu.h" line="59"/>
         <source>Rating</source>
         <translation>Értékelés</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="59"/>
+        <location filename="BrowserMenu.h" line="60"/>
         <source>Colour label</source>
         <translation>Színcímke</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="7"/>
-        <location filename="BrowserMenu.h" line="61"/>
-        <location filename="BrowserMenu.h" line="85"/>
-        <location filename="BrowserMenu.h" line="125"/>
+        <location filename="BrowserMenu.h" line="62"/>
+        <location filename="BrowserMenu.h" line="86"/>
+        <location filename="BrowserMenu.h" line="126"/>
         <source>Custom</source>
         <translation>Egyéni</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="44"/>
+        <location filename="BrowserMenu.h" line="45"/>
         <source>Modified Date</source>
         <translation>Módosítás dátuma</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="63"/>
+        <location filename="BrowserMenu.h" line="64"/>
         <source>Ascending</source>
         <translation>Növekvő</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="64"/>
+        <location filename="BrowserMenu.h" line="65"/>
         <source>Descending</source>
         <translation>Csökkenő</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="66"/>
+        <location filename="BrowserMenu.h" line="67"/>
         <source>Name - numeric order</source>
         <translation>Név - számsorrend</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="67"/>
+        <location filename="BrowserMenu.h" line="68"/>
         <source>Name - normal order</source>
         <translation>Név - normál sorrend</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="68"/>
+        <location filename="BrowserMenu.h" line="69"/>
         <source>Name - alphabetic order</source>
         <translation>Név - betűrend</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="76"/>
+        <location filename="BrowserMenu.h" line="77"/>
         <source>Images</source>
         <translation>Képek</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="78"/>
+        <location filename="BrowserMenu.h" line="79"/>
         <source>Videos</source>
         <translation>Videók</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="80"/>
+        <location filename="BrowserMenu.h" line="81"/>
         <source>Sounds</source>
         <translation>Hangok</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="81"/>
+        <location filename="BrowserMenu.h" line="82"/>
         <source>Archives</source>
         <translation>Arhívumok</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="82"/>
-        <location filename="BrowserMenu.h" line="111"/>
+        <location filename="BrowserMenu.h" line="83"/>
+        <location filename="BrowserMenu.h" line="112"/>
         <source>All</source>
         <translation>Mind</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="83"/>
+        <location filename="BrowserMenu.h" line="84"/>
         <source>Tagged file(s)</source>
         <translation>Cimkézett fájl(ok)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="321"/>
+        <location filename="BrowserMenu.h" line="322"/>
         <source>Map</source>
         <translation>Térkép</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="452"/>
+        <location filename="BrowserMenu.h" line="453"/>
         <source>Navigate to</source>
         <translation>Navigálás</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="469"/>
         <location filename="BrowserMenu.h" line="470"/>
         <location filename="BrowserMenu.h" line="471"/>
         <location filename="BrowserMenu.h" line="472"/>
         <location filename="BrowserMenu.h" line="473"/>
         <location filename="BrowserMenu.h" line="474"/>
+        <location filename="BrowserMenu.h" line="475"/>
         <source>##rating## (go to next image)</source>
         <oldsource>Excellent (go to next image)</oldsource>
         <translation>##rating## (tovább a következő képre)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="487"/>
+        <location filename="BrowserMenu.h" line="488"/>
         <source>##label## (go to next image)</source>
         <translation>##label## (tovább a következő képre)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="506"/>
+        <location filename="BrowserMenu.h" line="507"/>
         <source>Set Rating</source>
         <translation>Értékelés beállítása</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="507"/>
+        <location filename="BrowserMenu.h" line="508"/>
         <source>Set Color label</source>
         <translation>Színcímke beállítása</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="508"/>
+        <location filename="BrowserMenu.h" line="509"/>
         <source>Set Category</source>
         <translation>Kategória beállítása</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="538"/>
+        <location filename="BrowserMenu.h" line="539"/>
         <source>Show files in subfolders</source>
         <translation>Fájlok megjelenítése az almappákban</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="543"/>
+        <location filename="BrowserMenu.h" line="544"/>
         <source>Open in file manager</source>
         <translation>Megnyitás a fájlkezelőben</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="561"/>
+        <location filename="BrowserMenu.h" line="562"/>
         <source>Info panels</source>
         <translation>Információs panelek</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="583"/>
+        <location filename="BrowserMenu.h" line="584"/>
         <source>Open GPS location in</source>
         <translation>GPS-pozíció megnyitása</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="590"/>
+        <location filename="BrowserMenu.h" line="591"/>
         <source>Edit GPS...</source>
         <translation>GPS szerkesztése...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="596"/>
+        <location filename="BrowserMenu.h" line="597"/>
         <source>Edit metadata...</source>
         <translation>Metaadat szerkesztése...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="643"/>
+        <location filename="BrowserMenu.h" line="644"/>
         <source>Show channel</source>
         <translation>Csatorna megjelenítése</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="656"/>
+        <location filename="BrowserMenu.h" line="657"/>
         <source>Switch panel</source>
         <oldsource>Switch panel...</oldsource>
         <translation>Panel váltása</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="664"/>
+        <location filename="BrowserMenu.h" line="665"/>
         <source>Paste as image</source>
         <translation>Beillesztés képként</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="668"/>
+        <location filename="BrowserMenu.h" line="669"/>
         <source>Acquire (TWAIN)</source>
         <translation>Beolvasás (TWAIN)</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="474"/>
+        <location filename="CompareWidget.cpp" line="481"/>
         <source>Excellent</source>
         <translation>Kiváló</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="471"/>
+        <location filename="CompareWidget.cpp" line="478"/>
         <source>Good</source>
         <translation>Jó</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="468"/>
+        <location filename="CompareWidget.cpp" line="475"/>
         <source>Average</source>
         <translation>Átlagos</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="510"/>
+        <location filename="BrowserMenu.h" line="511"/>
         <source>Remove from category</source>
         <translation>Eltávolítás a kategóriából</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="511"/>
+        <location filename="BrowserMenu.h" line="512"/>
         <source>Remove from all categories</source>
         <translation>Eltávolítás minden kategóriából</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="564"/>
+        <location filename="BrowserMenu.h" line="565"/>
         <source>Rotate 90° right</source>
         <translation>Forgatás 90°-kal jobbra</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="565"/>
+        <location filename="BrowserMenu.h" line="566"/>
         <source>Rotate 90° left</source>
         <translation>Forgatás 90°-kal balra</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="568"/>
+        <location filename="BrowserMenu.h" line="569"/>
         <source>Rotate 90° right (lossless)</source>
         <translation>Forgatás 90°-kal jobbra (veszteségmentes)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="569"/>
+        <location filename="BrowserMenu.h" line="570"/>
         <source>Rotate 90° left (lossless)</source>
         <translation>Forgatás 90°-kal balra (veszteségmentes)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="570"/>
+        <location filename="BrowserMenu.h" line="571"/>
         <source>Rotate 180° (lossless)</source>
         <translation>Forgatás 180°-kal (veszteségmentes)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="571"/>
+        <location filename="BrowserMenu.h" line="572"/>
         <source>Rotate based on EXIF orientation field</source>
         <translation>Forgatás EXIF alapján</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="572"/>
+        <location filename="BrowserMenu.h" line="573"/>
         <source>Reset EXIF orientation field</source>
         <translation>EXIF adatok alapbeállításra</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="459"/>
+        <location filename="CompareWidget.cpp" line="466"/>
         <source>Unrated</source>
         <translation>Nem minősített</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="479"/>
-        <location filename="BrowserMenu.h" line="110"/>
-        <location filename="BrowserMenu.h" line="485"/>
+        <location filename="CompareWidget.cpp" line="486"/>
+        <location filename="BrowserMenu.h" line="111"/>
+        <location filename="BrowserMenu.h" line="486"/>
         <source>Uncolored</source>
         <translation>Színtelen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="301"/>
+        <location filename="BrowserMenu.h" line="302"/>
         <source>Catalog Filter</source>
         <oldsource>Categories Filter</oldsource>
         <translation>Katalógus szűrő</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="303"/>
+        <location filename="BrowserMenu.h" line="304"/>
         <source>Category Sets</source>
         <translation>Kategória beállítások</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="423"/>
+        <location filename="BrowserMenu.h" line="424"/>
         <source>Image</source>
         <translation>Kép</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="535"/>
+        <location filename="BrowserMenu.h" line="536"/>
         <source>Update catalog from files</source>
         <translation>Katalógus frissítése fájlokból</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="536"/>
+        <location filename="BrowserMenu.h" line="537"/>
         <source>Update files from catalog</source>
         <translation>Fájlok frissítése katalógusból</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="566"/>
+        <location filename="BrowserMenu.h" line="567"/>
         <source>Rotate 180°</source>
         <translation>Forgatás 180°-kal</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="573"/>
+        <location filename="BrowserMenu.h" line="574"/>
         <source>Flip horizontally (lossless)</source>
         <translation>Vízszintes tükrözés (veszteségmentes)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="574"/>
+        <location filename="BrowserMenu.h" line="575"/>
         <source>Flip vertically (lossless)</source>
         <translation>Függőleges tükrözés (veszteségmentes)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="585"/>
+        <location filename="BrowserMenu.h" line="586"/>
         <source>Find similar files...</source>
         <translation>Hasonló fájlok keresése...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="588"/>
+        <location filename="BrowserMenu.h" line="589"/>
         <source>Edit IPTC...</source>
         <translation>IPTC szerkesztése...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="589"/>
+        <location filename="BrowserMenu.h" line="590"/>
         <source>Edit XMP...</source>
         <translation>XMP szerkesztése...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="612"/>
+        <location filename="BrowserMenu.h" line="613"/>
         <source>Import and sort...</source>
         <translation>Importálás és rendezés...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="613"/>
+        <location filename="BrowserMenu.h" line="614"/>
         <source>Multi-page file...</source>
         <translation>Többoldalas fájl...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="614"/>
+        <location filename="BrowserMenu.h" line="615"/>
         <source>Join images...</source>
         <translation>Képek egyesítése...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="615"/>
+        <location filename="BrowserMenu.h" line="616"/>
         <source>Contact sheet...</source>
         <translation>Indexkép...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="616"/>
+        <location filename="BrowserMenu.h" line="617"/>
         <source>Slideshow...</source>
         <translation>Diavetítés...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="617"/>
+        <location filename="BrowserMenu.h" line="618"/>
         <source>Split image(s)...</source>
         <oldsource>Split...</oldsource>
         <translation>Kép(ek) darabolása...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="618"/>
+        <location filename="BrowserMenu.h" line="619"/>
         <source>Banner...</source>
         <translation>Banner...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="619"/>
+        <location filename="BrowserMenu.h" line="620"/>
         <source>New image...</source>
         <translation>Új kép...</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="19"/>
         <location filename="DlgSettingsView.cpp" line="268"/>
-        <location filename="BrowserMenu.h" line="635"/>
+        <location filename="BrowserMenu.h" line="636"/>
         <source>No fit</source>
         <translation>Nem illeszkedik</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="20"/>
         <location filename="DlgSettingsView.cpp" line="269"/>
-        <location filename="BrowserMenu.h" line="636"/>
+        <location filename="BrowserMenu.h" line="637"/>
         <source>Fit image to window</source>
         <translation>Kép igazítása az ablakhoz</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="22"/>
         <location filename="DlgSettingsView.cpp" line="271"/>
-        <location filename="BrowserMenu.h" line="637"/>
+        <location filename="BrowserMenu.h" line="638"/>
         <source>Fit image to window, large only</source>
         <translation>Kép igazítása az ablakhoz, csak nagyítás</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="23"/>
         <location filename="DlgSettingsView.cpp" line="272"/>
-        <location filename="BrowserMenu.h" line="639"/>
+        <location filename="BrowserMenu.h" line="640"/>
         <source>Fit image to window width</source>
         <translation>Kép igazítása az ablak szélességéhez</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="24"/>
         <location filename="DlgSettingsView.cpp" line="273"/>
-        <location filename="BrowserMenu.h" line="640"/>
+        <location filename="BrowserMenu.h" line="641"/>
         <source>Fit image to window height</source>
         <translation>Kép igazítása az ablak magasságához</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="25"/>
         <location filename="DlgSettingsView.cpp" line="274"/>
-        <location filename="BrowserMenu.h" line="641"/>
+        <location filename="BrowserMenu.h" line="642"/>
         <source>Fit image to window width or height</source>
         <translation>Kép igazítása az ablak szélességéhez vagy magasságához</translation>
     </message>
@@ -20005,32 +19971,32 @@ Biztosan folytassuk?</translation>
         <translation>Kép igazítása az asztalhoz</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="247"/>
+        <location filename="BrowserMenu.h" line="248"/>
         <source>Save layout D</source>
         <translation>D elrendezés mentése</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="424"/>
+        <location filename="BrowserMenu.h" line="425"/>
         <source>Selected path(s)</source>
         <translation>Kijelölt útvonal(ak)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="425"/>
+        <location filename="BrowserMenu.h" line="426"/>
         <source>Selected filename(s)</source>
         <translation>Kijelölt fájlnev(ek)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="426"/>
+        <location filename="BrowserMenu.h" line="427"/>
         <source>Selected filename(s) and path(s)</source>
         <translation>Kijelölt fájlnev(ek) és útvonal(ak)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="529"/>
+        <location filename="BrowserMenu.h" line="530"/>
         <source>Filelist toolbar</source>
         <translation>Fájllista eszköztár</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="238"/>
+        <location filename="BrowserMenu.h" line="239"/>
         <source>Restore layout A</source>
         <oldsource>Restore layout 3</oldsource>
         <translation>A elrendezés visszaállítása</translation>
@@ -20042,82 +20008,82 @@ Biztosan folytassuk?</translation>
         <translation>Sötét</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="465"/>
+        <location filename="CompareWidget.cpp" line="472"/>
         <source>Fair</source>
         <translation>Megfelelő</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="462"/>
+        <location filename="CompareWidget.cpp" line="469"/>
         <source>Poor</source>
         <translation>Rossz</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="239"/>
+        <location filename="BrowserMenu.h" line="240"/>
         <source>Restore layout B</source>
         <oldsource>Restore layout 4</oldsource>
         <translation>B elrendezés visszaállítása</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="240"/>
+        <location filename="BrowserMenu.h" line="241"/>
         <source>Restore layout C</source>
         <oldsource>Restore layout 5</oldsource>
         <translation>C elrendezés visszaállítása</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="241"/>
+        <location filename="BrowserMenu.h" line="242"/>
         <source>Restore layout D</source>
         <translation>D elrendezés visszaállítása</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="242"/>
+        <location filename="BrowserMenu.h" line="243"/>
         <source>Restore layout E</source>
         <oldsource>Save layout 1</oldsource>
         <translation>E elrendezés visszaállítása</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="244"/>
+        <location filename="BrowserMenu.h" line="245"/>
         <source>Save layout A</source>
         <oldsource>Save layout 3</oldsource>
         <translation>A elrendezés mentése</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="245"/>
+        <location filename="BrowserMenu.h" line="246"/>
         <source>Save layout B</source>
         <oldsource>Save layout 4</oldsource>
         <translation>B elrendezés mentése</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="246"/>
+        <location filename="BrowserMenu.h" line="247"/>
         <source>Save layout C</source>
         <oldsource>Save layout 5</oldsource>
         <translation>C elrendezés mentése</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="248"/>
+        <location filename="BrowserMenu.h" line="249"/>
         <source>Save layout E</source>
         <translation>E elrendezés mentése</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="300"/>
-        <location filename="BrowserMenu.h" line="322"/>
+        <location filename="BrowserMenu.h" line="301"/>
+        <location filename="BrowserMenu.h" line="323"/>
         <source>Favorites</source>
         <translation>Kedvencek</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="302"/>
+        <location filename="BrowserMenu.h" line="303"/>
         <source>Categories</source>
         <translation>Kategóriák</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="305"/>
-        <location filename="BrowserMenu.h" line="315"/>
-        <location filename="BrowserMenu.h" line="555"/>
-        <location filename="BrowserMenu.h" line="645"/>
+        <location filename="BrowserMenu.h" line="306"/>
+        <location filename="BrowserMenu.h" line="316"/>
+        <location filename="BrowserMenu.h" line="556"/>
+        <location filename="BrowserMenu.h" line="646"/>
         <source>Preview</source>
         <translation>Előnézet</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="316"/>
+        <location filename="BrowserMenu.h" line="317"/>
         <source>Histogram</source>
         <translation>Hisztogram</translation>
     </message>
@@ -20137,704 +20103,704 @@ Biztosan folytassuk?</translation>
         <translation>Fekete</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="77"/>
+        <location filename="BrowserMenu.h" line="78"/>
         <source>Images (+folders)</source>
         <translation>Képek (+mappák)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="79"/>
+        <location filename="BrowserMenu.h" line="80"/>
         <source>Videos (+folders)</source>
         <translation>Videók (+mappák)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="304"/>
+        <location filename="BrowserMenu.h" line="305"/>
         <source>Information</source>
         <translation>Információk</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="413"/>
+        <location filename="BrowserMenu.h" line="414"/>
         <source>Open with</source>
         <oldsource>Open with test</oldsource>
         <translation>Megnyitás a következővel</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="414"/>
+        <location filename="BrowserMenu.h" line="415"/>
         <source>Recent files</source>
         <translation>Legutóbbi fájlok</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="560"/>
+        <location filename="BrowserMenu.h" line="561"/>
         <source>Panels</source>
         <translation>Panelek</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="417"/>
+        <location filename="BrowserMenu.h" line="418"/>
         <source>Open...</source>
         <translation>Megnyitás...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="418"/>
+        <location filename="BrowserMenu.h" line="419"/>
         <source>Open file list...</source>
         <translation>Fájllista megnyitása...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4120"/>
-        <location filename="BrowserMenu.h" line="420"/>
+        <location filename="BrowserWindow.cpp" line="4428"/>
+        <location filename="BrowserMenu.h" line="421"/>
         <source>Cut</source>
         <translation>Kivágás</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4122"/>
-        <location filename="BrowserMenu.h" line="422"/>
+        <location filename="BrowserWindow.cpp" line="4430"/>
+        <location filename="BrowserMenu.h" line="423"/>
         <source>Copy</source>
         <translation>Másolás</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4124"/>
-        <location filename="BrowserMenu.h" line="427"/>
+        <location filename="BrowserWindow.cpp" line="4432"/>
+        <location filename="BrowserMenu.h" line="428"/>
         <source>Paste</source>
         <translation>Beillesztés</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="430"/>
+        <location filename="BrowserMenu.h" line="431"/>
         <source>Select all</source>
         <translation>Mind kijelöl</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="431"/>
+        <location filename="BrowserMenu.h" line="432"/>
         <source>Select none</source>
         <translation>Kilejölés megszüntetése</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="432"/>
+        <location filename="BrowserMenu.h" line="433"/>
         <source>Invert selection</source>
         <translation>Fordított kijelölés</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="433"/>
+        <location filename="BrowserMenu.h" line="434"/>
         <source>Select all images</source>
         <translation>Minden kép kijelölése</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="434"/>
+        <location filename="BrowserMenu.h" line="435"/>
         <source>Select all files</source>
         <translation>Minden fájl kijelölése</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="435"/>
+        <location filename="BrowserMenu.h" line="436"/>
         <source>Select tagged files</source>
         <translation>Megjelölt fájlok kijelölése</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4132"/>
-        <location filename="BrowserMenu.h" line="437"/>
+        <location filename="BrowserWindow.cpp" line="4440"/>
+        <location filename="BrowserMenu.h" line="438"/>
         <source>Copy to...</source>
         <translation>Másolás...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4134"/>
-        <location filename="BrowserMenu.h" line="438"/>
+        <location filename="BrowserWindow.cpp" line="4442"/>
+        <location filename="BrowserMenu.h" line="439"/>
         <source>Move to...</source>
         <translation>Áthelyezés...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4127"/>
-        <location filename="BrowserMenu.h" line="439"/>
+        <location filename="BrowserWindow.cpp" line="4435"/>
+        <location filename="BrowserMenu.h" line="440"/>
         <source>Delete</source>
         <translation>Törlés</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="440"/>
+        <location filename="BrowserMenu.h" line="441"/>
         <source>Rename...</source>
         <translation>Átnevezés...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="441"/>
+        <location filename="BrowserMenu.h" line="442"/>
         <source>New folder</source>
         <translation>Új mappa</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="443"/>
+        <location filename="BrowserMenu.h" line="444"/>
         <source>Previous file</source>
         <translation>Előző fájl</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="444"/>
+        <location filename="BrowserMenu.h" line="445"/>
         <source>Next file</source>
         <translation>Következő fájl</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="445"/>
+        <location filename="BrowserMenu.h" line="446"/>
         <source>First file</source>
         <translation>Első fájl</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="446"/>
+        <location filename="BrowserMenu.h" line="447"/>
         <source>Last file</source>
         <translation>Utolsó fájl</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="447"/>
+        <location filename="BrowserMenu.h" line="448"/>
         <source>Previous page</source>
         <translation>Előző lap</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="448"/>
+        <location filename="BrowserMenu.h" line="449"/>
         <source>Next page</source>
         <translation>Következő lap</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="449"/>
+        <location filename="BrowserMenu.h" line="450"/>
         <source>First page</source>
         <translation>Első lap</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="450"/>
+        <location filename="BrowserMenu.h" line="451"/>
         <source>Last page</source>
         <translation>Utolsó lap</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="451"/>
+        <location filename="BrowserMenu.h" line="452"/>
         <source>Page</source>
         <translation>Oldal</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="454"/>
+        <location filename="BrowserMenu.h" line="455"/>
         <source>Show header</source>
         <translation>Fejléc megjelenítése</translation>
     </message>
     <message>
-        <location filename="CompareWidget.cpp" line="455"/>
-        <location filename="BrowserMenu.h" line="455"/>
+        <location filename="CompareWidget.cpp" line="462"/>
+        <location filename="BrowserMenu.h" line="456"/>
         <source>Tag/Untag current</source>
         <oldsource>Tag current</oldsource>
         <translation>Jelenlegi címkézése/címkétlenítése</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="456"/>
+        <location filename="BrowserMenu.h" line="457"/>
         <source>Invert</source>
         <translation>Fordított</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="457"/>
+        <location filename="BrowserMenu.h" line="458"/>
         <source>Untag all</source>
         <translation>Minden cimkétlenítése</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="458"/>
+        <location filename="BrowserMenu.h" line="459"/>
         <source>Clear all tags</source>
         <translation>Minden megjelölés törlése</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="459"/>
+        <location filename="BrowserMenu.h" line="460"/>
         <source>Show tagged files</source>
         <translation>Cimkézett fájlok megjelenítése</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="460"/>
+        <location filename="BrowserMenu.h" line="461"/>
         <source>Show tag box</source>
         <translation>Címke doboz megjelenítése</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="500"/>
-        <location filename="BrowserMenu.h" line="646"/>
+        <location filename="BrowserMenu.h" line="501"/>
+        <location filename="BrowserMenu.h" line="647"/>
         <source>Layout</source>
         <translation>Elrendezés</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="501"/>
+        <location filename="BrowserMenu.h" line="502"/>
         <source>View as</source>
         <translation>Nézet</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="502"/>
+        <location filename="BrowserMenu.h" line="503"/>
         <source>Sort by</source>
         <translation>Rendezés</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="503"/>
+        <location filename="BrowserMenu.h" line="504"/>
         <source>Filter by</source>
         <translation>Szűrés</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="504"/>
+        <location filename="BrowserMenu.h" line="505"/>
         <source>Thumbnails size</source>
         <translation>Miniatűrök mérete</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="505"/>
+        <location filename="BrowserMenu.h" line="506"/>
         <source>Tag</source>
         <translation>Címke</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="509"/>
+        <location filename="BrowserMenu.h" line="510"/>
         <source>Add to album</source>
         <translation>Hozzáadás az albumhoz</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="512"/>
+        <location filename="BrowserMenu.h" line="513"/>
         <source>Remove from this album</source>
         <translation>Eltávolítás az albumból</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="513"/>
+        <location filename="BrowserMenu.h" line="514"/>
         <source>Remove from all albums</source>
         <translation>Eltávolítás minden albumból</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="515"/>
+        <location filename="BrowserMenu.h" line="516"/>
         <source>View as Thumbnails</source>
         <oldsource>Views as Thumbnails</oldsource>
         <translation>Miniatűr nézet</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="516"/>
+        <location filename="BrowserMenu.h" line="517"/>
         <source>View as Thumbnails+Filename</source>
         <oldsource>Views as Thumbnails+Filename</oldsource>
         <translation>Miniatűr + Fájlnév nézet</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="517"/>
+        <location filename="BrowserMenu.h" line="518"/>
         <source>View as Thumbnails+Labels</source>
         <oldsource>Views as Thumbnails+Labels</oldsource>
         <translation>Miniatűr + Címke nézet</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="518"/>
+        <location filename="BrowserMenu.h" line="519"/>
         <source>View as Thumbnails+Details</source>
         <oldsource>Views as Thumbnails+Details</oldsource>
         <translation>Miniatűr + Részletek nézet</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="519"/>
+        <location filename="BrowserMenu.h" line="520"/>
         <source>View as Icons</source>
         <oldsource>Views as Icons</oldsource>
         <translation>Ikon nézet</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="520"/>
+        <location filename="BrowserMenu.h" line="521"/>
         <source>View as List</source>
         <oldsource>Views as List</oldsource>
         <translation>Lista nézet</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="521"/>
+        <location filename="BrowserMenu.h" line="522"/>
         <source>View as Details</source>
         <oldsource>Views as Details</oldsource>
         <translation>Részletek nézet</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="523"/>
+        <location filename="BrowserMenu.h" line="524"/>
         <source>Show hidden files</source>
         <translation>Rejtett fájlok megjelenítése</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="525"/>
+        <location filename="BrowserMenu.h" line="526"/>
         <source>Back</source>
         <translation>Vissza</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="526"/>
+        <location filename="BrowserMenu.h" line="527"/>
         <source>Forward</source>
         <translation>Előre</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="527"/>
+        <location filename="BrowserMenu.h" line="528"/>
         <source>Up</source>
         <translation>Fel</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="530"/>
+        <location filename="BrowserMenu.h" line="531"/>
         <source>Toolbar</source>
         <translation>Eszköztár</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="531"/>
+        <location filename="BrowserMenu.h" line="532"/>
         <source>Status bar</source>
         <translation>Állapotsor</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="532"/>
+        <location filename="BrowserMenu.h" line="533"/>
         <source>Show title of panels</source>
         <translation>Panel címének megjelenítése</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="534"/>
+        <location filename="BrowserMenu.h" line="535"/>
         <source>Rebuild thumbnails</source>
         <translation>Miniatűrök újraépítése</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="537"/>
+        <location filename="BrowserMenu.h" line="538"/>
         <source>Refresh</source>
         <translation>Frissítés</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="539"/>
+        <location filename="BrowserMenu.h" line="540"/>
         <source>Stop</source>
         <translation>Stop</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="541"/>
+        <location filename="BrowserMenu.h" line="542"/>
         <source>Open</source>
         <translation>Megnyitás</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="542"/>
+        <location filename="BrowserMenu.h" line="543"/>
         <source>Open containing folder</source>
         <translation>Tárolómappa megnyitása</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="544"/>
+        <location filename="BrowserMenu.h" line="545"/>
         <source>Open all selected</source>
         <oldsource>Open in Finder</oldsource>
         <translation>Minden kijelölt megnyitása</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="546"/>
+        <location filename="BrowserMenu.h" line="547"/>
         <source>Fullscreen</source>
         <translation>Teljes képernyő</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="547"/>
+        <location filename="BrowserMenu.h" line="548"/>
         <source>Show</source>
         <translation>Megjelenítés</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="548"/>
+        <location filename="BrowserMenu.h" line="549"/>
         <source>Use tabs</source>
         <translation>Lapok használata</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="549"/>
+        <location filename="BrowserMenu.h" line="550"/>
         <source>Preview as tab</source>
         <translation>Előnézet lapként</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="552"/>
+        <location filename="BrowserMenu.h" line="553"/>
         <source>Show source panels</source>
         <translation>Forrás panelek megjelenítése</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="554"/>
+        <location filename="BrowserMenu.h" line="555"/>
         <source>Vertical tabs</source>
         <translation>Függőleges lapok</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="557"/>
+        <location filename="BrowserMenu.h" line="558"/>
         <source>Add to favorites...</source>
         <translation>Hozzáadás a Kedvencekhez...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="559"/>
+        <location filename="BrowserMenu.h" line="560"/>
         <source>Thumbnails view only</source>
         <translation>Csak miniatűr nézet</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="575"/>
+        <location filename="BrowserMenu.h" line="576"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
         <translation>Veszteségmentes átalakítások (JPEG)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="577"/>
+        <location filename="BrowserMenu.h" line="578"/>
         <source>Batch rename...</source>
         <translation>Csoportos átnevezés...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="578"/>
+        <location filename="BrowserMenu.h" line="579"/>
         <source>Compare...</source>
         <translation>Összehasonlítás...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="584"/>
+        <location filename="BrowserMenu.h" line="585"/>
         <source>Search...</source>
         <translation>Keresés...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="586"/>
+        <location filename="BrowserMenu.h" line="587"/>
         <source>Edit comment...</source>
         <oldsource>Set comment...</oldsource>
         <translation>Megjegyzés szerkesztése...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="587"/>
+        <location filename="BrowserMenu.h" line="588"/>
         <source>Change timestamp...</source>
         <translation>Időbélyeg módosítása...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="591"/>
-        <location filename="BrowserMenu.h" line="650"/>
+        <location filename="BrowserMenu.h" line="592"/>
+        <location filename="BrowserMenu.h" line="651"/>
         <source>Export...</source>
         <translation>Exportálás...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="592"/>
+        <location filename="BrowserMenu.h" line="593"/>
         <source>Clean...</source>
         <translation>Tisztítás...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="593"/>
+        <location filename="BrowserMenu.h" line="594"/>
         <source>EXIF thumbnail - Rotate 90° left</source>
         <translation>EXIF miniatűrök - Forgatás 90°-kal balra</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="594"/>
+        <location filename="BrowserMenu.h" line="595"/>
         <source>EXIF thumbnail - Rotate 90° right</source>
         <translation>EXIF miniatűrök - Forgatás 90°-kal jobbra</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="595"/>
+        <location filename="BrowserMenu.h" line="596"/>
         <source>EXIF thumbnail - Rebuild</source>
         <translation>EXIF miniatűrök - Újraépítés</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="597"/>
+        <location filename="BrowserMenu.h" line="598"/>
         <source>Metadata</source>
         <translation>Metaadatok</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="598"/>
+        <location filename="BrowserMenu.h" line="599"/>
         <source>EXIF Thumbnail</source>
         <translation>EXIF miniatűr</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="599"/>
+        <location filename="BrowserMenu.h" line="600"/>
         <source>Convert into</source>
         <translation>Konvertálás</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="600"/>
+        <location filename="BrowserMenu.h" line="601"/>
         <source>Batch convert...</source>
         <translation>Csoportos konvertálás...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="601"/>
+        <location filename="BrowserMenu.h" line="602"/>
         <source>Send by FTP...</source>
         <translation>Küldés FTP-vel...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="602"/>
+        <location filename="BrowserMenu.h" line="603"/>
         <source>Upload on web...</source>
         <translation>Feltöltés a webre...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="603"/>
+        <location filename="BrowserMenu.h" line="604"/>
         <source>File listing...</source>
         <translation>Fájllistázás...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="604"/>
+        <location filename="BrowserMenu.h" line="605"/>
         <source>Archive...</source>
         <translation>Archiválás...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="605"/>
+        <location filename="BrowserMenu.h" line="606"/>
         <source>Send by email...</source>
         <translation>Küldés e-mailben...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="606"/>
+        <location filename="BrowserMenu.h" line="607"/>
         <source>Set as wallpaper...</source>
         <translation>Beállítás háttérképnek...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="607"/>
+        <location filename="BrowserMenu.h" line="608"/>
         <source>Print...</source>
         <translation>Nyomtatás...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="609"/>
+        <location filename="BrowserMenu.h" line="610"/>
         <source>Properties...</source>
         <translation>Tulajdonságok...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="620"/>
+        <location filename="BrowserMenu.h" line="621"/>
         <source>Video thumbnails gallery...</source>
         <translation>Videó-miniatűr galéria...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="623"/>
+        <location filename="BrowserMenu.h" line="624"/>
         <source>Real size</source>
         <translation>Valós méret</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="624"/>
+        <location filename="BrowserMenu.h" line="625"/>
         <source>100%</source>
         <translation>100%</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="625"/>
+        <location filename="BrowserMenu.h" line="626"/>
         <source>Zoom in</source>
         <translation>Nagyítás</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="626"/>
+        <location filename="BrowserMenu.h" line="627"/>
         <source>Zoom out</source>
         <translation>Kicsinyítés</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="627"/>
+        <location filename="BrowserMenu.h" line="628"/>
         <source>Lock zoom</source>
         <translation>Nagyítás zárolása</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="628"/>
+        <location filename="BrowserMenu.h" line="629"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
         <translation>Áttetszési index használata (≤ 8bits)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="629"/>
+        <location filename="BrowserMenu.h" line="630"/>
         <source>Use alpha channel</source>
         <translation>Alfa csatorna használata</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="630"/>
+        <location filename="BrowserMenu.h" line="631"/>
         <source>Show alpha</source>
         <translation>Alfa csatorna megjelenítése</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="631"/>
+        <location filename="BrowserMenu.h" line="632"/>
         <source>Show red</source>
         <translation>Vörös megjelenítése</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="632"/>
+        <location filename="BrowserMenu.h" line="633"/>
         <source>Show green</source>
         <translation>Zöld megjelenítése</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="633"/>
+        <location filename="BrowserMenu.h" line="634"/>
         <source>Show blue</source>
         <translation>Kék megjelenítése</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="634"/>
+        <location filename="BrowserMenu.h" line="635"/>
         <source>Draw as tiled</source>
         <translation>Mozaikként rajzol</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="21"/>
         <location filename="DlgSettingsView.cpp" line="270"/>
-        <location filename="BrowserMenu.h" line="638"/>
+        <location filename="BrowserMenu.h" line="639"/>
         <source>Fit image to window, small only</source>
         <translation>Kép igazítása az ablakhoz, csak a kicsik</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="644"/>
+        <location filename="BrowserMenu.h" line="645"/>
         <source>Zoom</source>
         <translation>Nagyítás</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="647"/>
+        <location filename="BrowserMenu.h" line="648"/>
         <source>Copy to clipboard</source>
         <translation>Másolás vágólapra</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="648"/>
+        <location filename="BrowserMenu.h" line="649"/>
         <source>File operations</source>
         <translation>Fájlműveletek</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="651"/>
+        <location filename="BrowserMenu.h" line="652"/>
         <source>Clear &amp;&amp; Import...</source>
         <translation>Kiürítés és importálás...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="652"/>
+        <location filename="BrowserMenu.h" line="653"/>
         <source>Catalog</source>
         <translation>Katalógus</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="654"/>
+        <location filename="BrowserMenu.h" line="655"/>
         <source>Quick Filter</source>
         <translation>Gyors szűrő</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="655"/>
+        <location filename="BrowserMenu.h" line="656"/>
         <source>Category Search</source>
         <translation>Kategória keresése</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="657"/>
+        <location filename="BrowserMenu.h" line="658"/>
         <source>Path focus</source>
         <oldsource>Path focus...</oldsource>
         <translatorcomment>Nem találtam, nem biztos, hogy jó</translatorcomment>
         <translation>Útvonalra ugrás</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="658"/>
+        <location filename="BrowserMenu.h" line="659"/>
         <source>Filter by All</source>
         <translation>Szűrés minddel</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="660"/>
+        <location filename="BrowserMenu.h" line="661"/>
         <source>Edit face tag...</source>
         <translation>Arcmegjelölés szerkesztése...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="663"/>
+        <location filename="BrowserMenu.h" line="664"/>
         <source>Capture...</source>
         <translation>Képlopás...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="665"/>
+        <location filename="BrowserMenu.h" line="666"/>
         <source>Empty tab</source>
         <oldsource>Empty tab...</oldsource>
         <translation>Üres lap</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="667"/>
+        <location filename="BrowserMenu.h" line="668"/>
         <source>Select TWAIN source...</source>
         <translation>TWAIN forrás kijelölése...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="808"/>
+        <location filename="BrowserMenu.h" line="809"/>
         <source>&amp;File</source>
         <translation>&amp;Fájl</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="809"/>
+        <location filename="BrowserMenu.h" line="810"/>
         <source>&amp;Edit</source>
         <translation>Sz&amp;erkesztés</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="810"/>
+        <location filename="BrowserMenu.h" line="811"/>
         <source>&amp;View</source>
         <translation>&amp;Nézet</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="811"/>
+        <location filename="BrowserMenu.h" line="812"/>
         <source>Meta&amp;data</source>
         <translation>Metaa&amp;dat</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="812"/>
+        <location filename="BrowserMenu.h" line="813"/>
         <source>&amp;Tools</source>
         <translation>&amp;Eszközök</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="669"/>
+        <location filename="BrowserMenu.h" line="670"/>
         <source>Acquire into (TWAIN)...</source>
         <translation>Beolvasás ide (TWAIN)...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="813"/>
+        <location filename="BrowserMenu.h" line="814"/>
         <source>C&amp;reate</source>
         <translation>Lét&amp;rehozás</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="814"/>
+        <location filename="BrowserMenu.h" line="815"/>
         <source>&amp;Help</source>
         <translation>&amp;Súgó</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4117"/>
+        <location filename="BrowserWindow.cpp" line="4425"/>
         <source>New Folder</source>
         <translation>Új mappa</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4129"/>
+        <location filename="BrowserWindow.cpp" line="4437"/>
         <source>Rename</source>
         <translation>Átnevezés</translation>
     </message>
@@ -20847,95 +20813,95 @@ Biztosan folytassuk?</translation>
 <context>
     <name>MenuGlobal</name>
     <message>
-        <location filename="xnview.cpp" line="1378"/>
+        <location filename="xnview.cpp" line="1327"/>
         <source>Quit</source>
         <translation>Kilépés</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1381"/>
+        <location filename="xnview.cpp" line="1330"/>
         <source>Website...</source>
         <oldsource>Visit XnView&apos;s Website...</oldsource>
         <translation>Weboldal...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1386"/>
+        <location filename="xnview.cpp" line="1335"/>
         <source>Make a donation...</source>
         <translation>Adományozás...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1379"/>
+        <location filename="xnview.cpp" line="1328"/>
         <source>About</source>
         <translation>Névjegy</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1380"/>
+        <location filename="xnview.cpp" line="1329"/>
         <source>PlugIns...</source>
         <translation>Beépülők...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1382"/>
+        <location filename="xnview.cpp" line="1331"/>
         <source>Forum...</source>
         <translation>Fórum...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1383"/>
+        <location filename="xnview.cpp" line="1332"/>
         <source>Technical Support...</source>
         <translation>Technikai támogatás...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1384"/>
+        <location filename="xnview.cpp" line="1333"/>
         <source>Report a Bug...</source>
         <oldsource>Report a Bug......</oldsource>
         <translation>Hiba jelentése...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1385"/>
+        <location filename="xnview.cpp" line="1334"/>
         <source>Wiki...</source>
         <translation>Wiki...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1387"/>
+        <location filename="xnview.cpp" line="1336"/>
         <source>Check for update...</source>
         <translation>Frissítések keresése...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1388"/>
+        <location filename="xnview.cpp" line="1337"/>
         <source>Registration...</source>
         <translation>Regisztráció...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1389"/>
+        <location filename="xnview.cpp" line="1338"/>
         <source>Purchase...</source>
         <translation>Vásárlás...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1399"/>
-        <location filename="xnview.cpp" line="1401"/>
+        <location filename="xnview.cpp" line="1348"/>
+        <location filename="xnview.cpp" line="1350"/>
         <source>Settings...</source>
         <translation>Beállítások...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1405"/>
+        <location filename="xnview.cpp" line="1354"/>
         <source>Always on top</source>
         <translation>Mindig látható</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1407"/>
+        <location filename="xnview.cpp" line="1356"/>
         <source>Titlebar</source>
         <translation>Címsor</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1408"/>
+        <location filename="xnview.cpp" line="1357"/>
         <source>Show</source>
         <translation>Megjelenítés</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1409"/>
+        <location filename="xnview.cpp" line="1358"/>
         <source>Bottom</source>
         <translation>Lent</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1410"/>
+        <location filename="xnview.cpp" line="1359"/>
         <source>Tab</source>
         <translation>Lap</translation>
     </message>
@@ -21515,12 +21481,22 @@ Biztosan folytassuk?</translation>
         <translation>Automatikus vágás...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="524"/>
+        <location filename="ViewMenu.h" line="492"/>
+        <source>Remove horizontal strip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ViewMenu.h" line="493"/>
+        <source>Remove vertical strip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ViewMenu.h" line="526"/>
         <source>Send by email...</source>
         <translation>Küldés e-mailben...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="741"/>
+        <location filename="ViewMenu.h" line="745"/>
         <source>Meta&amp;data</source>
         <oldsource>Metadata</oldsource>
         <translation>Metaa&amp;dat</translation>
@@ -21704,12 +21680,12 @@ Biztosan folytassuk?</translation>
         <translation>Emberek régióinak megjelenítése</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="537"/>
+        <location filename="ViewMenu.h" line="539"/>
         <source>Paste as image</source>
         <translation>Beillesztés képként</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="742"/>
+        <location filename="ViewMenu.h" line="746"/>
         <source>Effect</source>
         <translation>Effekt</translation>
     </message>
@@ -21770,177 +21746,177 @@ Biztosan folytassuk?</translation>
         <translation>Háttér eltávolítása</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="493"/>
+        <location filename="ViewMenu.h" line="495"/>
         <source>Rotate 90° right</source>
         <translation>Forgatás 90°-kal jobbra</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="495"/>
+        <location filename="ViewMenu.h" line="497"/>
         <source>Rotate 90° left</source>
         <translation>Forgatás 90°-kal balra</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="497"/>
+        <location filename="ViewMenu.h" line="499"/>
         <source>Flip horizontally</source>
         <translation>Vízszintes tükrözés</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="498"/>
+        <location filename="ViewMenu.h" line="500"/>
         <source>Flip vertically</source>
         <translation>Függőleges tükrözés</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="499"/>
+        <location filename="ViewMenu.h" line="501"/>
         <source>Automatic Deskew</source>
         <translation>Automatikus ferdeség korrekció</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="500"/>
+        <location filename="ViewMenu.h" line="502"/>
         <source>Remove alpha channel</source>
         <translation>Alfa-csatorna eltávolítása</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="507"/>
+        <location filename="ViewMenu.h" line="509"/>
         <source>Mirror</source>
         <translation>Tükör</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="508"/>
+        <location filename="ViewMenu.h" line="510"/>
         <source>Count colors used</source>
         <translation>Használt színek száma</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="509"/>
+        <location filename="ViewMenu.h" line="511"/>
         <source>Swap color</source>
         <oldsource>Swap</oldsource>
         <translation>Színcsere</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="510"/>
+        <location filename="ViewMenu.h" line="512"/>
         <source>Extract channel</source>
         <translation>Csatorna kivonása</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="511"/>
+        <location filename="ViewMenu.h" line="513"/>
         <source>Copy to clipboard</source>
         <translation>Másolás vágólapra</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="512"/>
+        <location filename="ViewMenu.h" line="514"/>
         <source>Paste outside</source>
         <translation>Kinti beillesztés</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="514"/>
+        <location filename="ViewMenu.h" line="516"/>
         <source>Adobe Photoshop Plugin...</source>
         <translation>Adobe Photoshop beépülő...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="517"/>
+        <location filename="ViewMenu.h" line="519"/>
         <source>Edit IPTC...</source>
         <translation>IPTC szerkesztése...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="518"/>
+        <location filename="ViewMenu.h" line="520"/>
         <source>Edit XMP...</source>
         <translation>XMP szerkesztése...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="520"/>
+        <location filename="ViewMenu.h" line="522"/>
         <source>Clean metadata...</source>
         <translation>Metaadatok törlése...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="526"/>
+        <location filename="ViewMenu.h" line="528"/>
         <source>Rotate 90° right (lossless)</source>
         <translation>Forgatás 90°-kal jobbra (veszteségmentes)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="527"/>
+        <location filename="ViewMenu.h" line="529"/>
         <source>Rotate 90° left (lossless)</source>
         <translation>Forgatás 90°-kal balra (veszteségmentes)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="528"/>
+        <location filename="ViewMenu.h" line="530"/>
         <source>Rotate 180° (lossless)</source>
         <translation>Forgatás 180°-kal (veszteségmentes)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="531"/>
+        <location filename="ViewMenu.h" line="533"/>
         <source>Flip horizontally (lossless)</source>
         <translation>Vízszintes tükrözés (veszteségmentes)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="532"/>
+        <location filename="ViewMenu.h" line="534"/>
         <source>Flip vertically (lossless)</source>
         <translation>Függőleges tükrözés (veszteségmentes)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="533"/>
+        <location filename="ViewMenu.h" line="535"/>
         <source>Crop (lossless)</source>
         <translation>Vágás (veszteségmentes)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="541"/>
+        <location filename="ViewMenu.h" line="543"/>
         <source>Acquire (TWAIN)</source>
         <translation>Beolvasás (TWAIN)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="542"/>
+        <location filename="ViewMenu.h" line="544"/>
         <source>Acquire into (TWAIN)...</source>
         <oldsource>Acquire into (TWAIN)......</oldsource>
         <translation>Beolvasás ide (TWAIN)...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="545"/>
+        <location filename="ViewMenu.h" line="547"/>
         <source>Save All</source>
         <translation>Összes mentése</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="519"/>
+        <location filename="ViewMenu.h" line="521"/>
         <source>Edit palette...</source>
         <oldsource>Edit colormap...</oldsource>
         <translation>Színpaletta szerkesztése...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="494"/>
+        <location filename="ViewMenu.h" line="496"/>
         <source>Rotate 180°</source>
         <oldsource>Rotate 180�</oldsource>
         <translation>Forgatás 180°-kal</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="529"/>
+        <location filename="ViewMenu.h" line="531"/>
         <source>Rotate based on EXIF orientation field</source>
         <translation>Forgatás EXIF alapján</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="530"/>
+        <location filename="ViewMenu.h" line="532"/>
         <source>Reset EXIF orientation field</source>
         <translation>EXIF adatok alapbeállításra</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="534"/>
+        <location filename="ViewMenu.h" line="536"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
         <translation>Veszteségmentes átalakítások (JPEG)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="536"/>
+        <location filename="ViewMenu.h" line="538"/>
         <source>Capture...</source>
         <translation>Képlopás...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="538"/>
+        <location filename="ViewMenu.h" line="540"/>
         <source>Empty tab...</source>
         <translation>Üres lap...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="540"/>
+        <location filename="ViewMenu.h" line="542"/>
         <source>Select TWAIN source...</source>
         <translation>TWAIN forrás kijelölése...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="544"/>
+        <location filename="ViewMenu.h" line="546"/>
         <source>New image...</source>
         <translation>Új kép...</translation>
     </message>
@@ -22071,81 +22047,81 @@ Biztosan folytassuk?</translation>
         <translation>Árnyék/Ragyogás...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="496"/>
+        <location filename="ViewMenu.h" line="498"/>
         <source>Rotate...</source>
         <translation>Forgatás...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="502"/>
+        <location filename="ViewMenu.h" line="504"/>
         <source>Resize...</source>
         <oldsource>Resize new...</oldsource>
         <translation>Átméretezés...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="503"/>
+        <location filename="ViewMenu.h" line="505"/>
         <source>Canvas resize...</source>
         <translation>Vászon átméretezése...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="504"/>
+        <location filename="ViewMenu.h" line="506"/>
         <source>Map</source>
         <translation>Térkép</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="505"/>
+        <location filename="ViewMenu.h" line="507"/>
         <source>Adjust</source>
         <translation>Módosítás</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="506"/>
+        <location filename="ViewMenu.h" line="508"/>
         <source>Rotate</source>
         <translation>Forgatás</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="521"/>
+        <location filename="ViewMenu.h" line="523"/>
         <source>Join images...</source>
         <translation>Képek egyesítése...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="522"/>
+        <location filename="ViewMenu.h" line="524"/>
         <source>Contact sheet...</source>
         <translation>Indexkép...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="523"/>
+        <location filename="ViewMenu.h" line="525"/>
         <source>Slideshow...</source>
         <translation>Diavetítés...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="737"/>
+        <location filename="ViewMenu.h" line="741"/>
         <source>&amp;File</source>
         <translation>&amp;Fájl</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="738"/>
+        <location filename="ViewMenu.h" line="742"/>
         <source>&amp;Edit</source>
         <oldsource>Edit</oldsource>
         <translation>Sz&amp;erkesztés</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="739"/>
+        <location filename="ViewMenu.h" line="743"/>
         <source>&amp;View</source>
         <oldsource>View</oldsource>
         <translation>&amp;Nézet</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="740"/>
+        <location filename="ViewMenu.h" line="744"/>
         <source>&amp;Image</source>
         <oldsource>Image</oldsource>
         <translation>&amp;Kép</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="743"/>
+        <location filename="ViewMenu.h" line="747"/>
         <source>&amp;Tools</source>
         <translation>&amp;Eszközök</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="744"/>
+        <location filename="ViewMenu.h" line="748"/>
         <source>&amp;Help</source>
         <oldsource>Help</oldsource>
         <translation>&amp;Súgó</translation>
@@ -23704,7 +23680,7 @@ Megváltoztathatja a Beállítások › Katalógus alatt.</translation>
 <context>
     <name>Rename</name>
     <message>
-        <location filename="ItemModel.cpp" line="4740"/>
+        <location filename="ItemModel.cpp" line="4739"/>
         <source>An error has occurred during renaming!</source>
         <oldsource>An error occured during renaming!</oldsource>
         <translation>Hiba lépett fel az átnevezés során!</translation>
@@ -23909,6 +23885,21 @@ Megváltoztathatja a Beállítások › Katalógus alatt.</translation>
         <location filename="Slideshow.cpp" line="41"/>
         <source>Slideshow</source>
         <translation>Diavetítés</translation>
+    </message>
+</context>
+<context>
+    <name>SummaryWidget</name>
+    <message>
+        <location filename="SummaryWidget.cpp" line="287"/>
+        <location filename="SummaryWidget.cpp" line="293"/>
+        <location filename="SummaryWidget.cpp" line="300"/>
+        <source>Greyscale</source>
+        <translation type="unfinished">Szürkeárnyalat</translation>
+    </message>
+    <message>
+        <location filename="SummaryWidget.cpp" line="294"/>
+        <source>Indexed</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -24256,26 +24247,26 @@ Megváltoztathatja a Beállítások › Katalógus alatt.</translation>
 <context>
     <name>xnview</name>
     <message>
-        <location filename="xnview.cpp" line="454"/>
-        <location filename="xnview.cpp" line="474"/>
+        <location filename="xnview.cpp" line="403"/>
+        <location filename="xnview.cpp" line="423"/>
         <source>Creating backup, please wait...</source>
         <oldsource>Creating backup, please wait... </oldsource>
         <translation>Mentés készítése, kérem várjon...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="446"/>
-        <location filename="xnview.cpp" line="452"/>
-        <location filename="xnview.cpp" line="459"/>
+        <location filename="xnview.cpp" line="395"/>
+        <location filename="xnview.cpp" line="401"/>
+        <location filename="xnview.cpp" line="408"/>
         <source>Catalog</source>
         <translation>Katalógus</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="446"/>
+        <location filename="xnview.cpp" line="395"/>
         <source>XnViewMP - Catalog has a more recent version number than the expected one</source>
         <translation>XnViewMP - A katalógus frissebb verziós a vártnál</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="452"/>
+        <location filename="xnview.cpp" line="401"/>
         <source>XnViewMP will upgrade the catalog. It may take a while. 
 
 Do you want to keep the thumbnails?
@@ -24286,44 +24277,44 @@ Megőrizzük a miniatűröket?
  (Ha IGEN, a frissítés lassabb lesz)</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="456"/>
+        <location filename="xnview.cpp" line="405"/>
         <source>Upgrading catalog, please wait...</source>
         <oldsource>Upgrading catalog, please wait... </oldsource>
         <translation>Katalógus frissítése, kérem várjon...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="526"/>
+        <location filename="xnview.cpp" line="475"/>
         <source>Catalog problem</source>
         <translation>Katalógus probléma</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="526"/>
+        <location filename="xnview.cpp" line="475"/>
         <source>There is a problem to open catalog, check your settings or folder used!</source>
         <translation>Probléma lépett fel a katalógus megnyitásakor, ellenőrizze a beállításokat vagy a használt mappát!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="534"/>
+        <location filename="xnview.cpp" line="483"/>
         <source>Catalog update</source>
         <translation>Katalógus frissítése</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="534"/>
+        <location filename="xnview.cpp" line="483"/>
         <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
         <translation>Ha új csomópontot szeretne használni a „Katalógus szűrőben”, frissítenie kell a katalógust (Beállítások &gt; Katalógus &gt; Metaadatok frissítése). </translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="929"/>
+        <location filename="xnview.cpp" line="878"/>
         <source>Application is up to date.</source>
         <oldsource>XnView MP is currently up to date.</oldsource>
         <translation>Az alkalmazás jelenleg naprakész.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1603"/>
+        <location filename="xnview.cpp" line="1552"/>
         <source>Do you want to save session?</source>
         <translation>El akarja menteni a munkamenetet?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="3072"/>
+        <location filename="xnview.cpp" line="3021"/>
         <source>Catalog and Metadata are disabled - 
 Rating, Tag &amp; Color labels will not be saved.</source>
         <oldsource>Rating/Tag/Color label can&apos;t be saved if catalog and metadata export are disabled!</oldsource>
@@ -24331,12 +24322,12 @@ Rating, Tag &amp; Color labels will not be saved.</source>
 Az értékelés, címke, színcímke nem kerül mentésre.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1000"/>
+        <location filename="xnview.cpp" line="949"/>
         <source>Your previous session contains many loaded images, this can cause a slowdown!</source>
         <translation>Az előző munkamenet sok betöltött képet tartalmaz, ez lassulást okoz!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="459"/>
+        <location filename="xnview.cpp" line="408"/>
         <source>There is a problem to update Catalog:
 (Error: % 1)
 Please contact the developer.</source>
@@ -24345,39 +24336,39 @@ Please contact the developer.</source>
 Lépjen kapcsolatba a fejlesztővel.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1000"/>
+        <location filename="xnview.cpp" line="949"/>
         <source>Session</source>
         <translation>Munkamenet</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1528"/>
+        <location filename="xnview.cpp" line="1477"/>
         <source>Do you want to quit?</source>
         <translation>Biztosan kilép?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1604"/>
+        <location filename="xnview.cpp" line="1553"/>
         <source>Saving many tabs may noticeably slow application reopening.</source>
         <oldsource>Saving many tabs may noticeably slow reopening XnView MP</oldsource>
         <translation>Túl sok lap elmentése az alkalmazás lassú újraindítását okozhatja.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1610"/>
+        <location filename="xnview.cpp" line="1559"/>
         <source>Don&apos;t ask again</source>
         <oldsource>Do not ask again</oldsource>
         <translation>Ne kérdezze többet</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1176"/>
+        <location filename="xnview.cpp" line="1125"/>
         <source>Error</source>
         <translation>Hiba</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1176"/>
+        <location filename="xnview.cpp" line="1125"/>
         <source>File not found!</source>
         <translation>Fájl nem található!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1629"/>
+        <location filename="xnview.cpp" line="1578"/>
         <source>Do you want to save this session?</source>
         <translation>Szeretné menteni ezt a munkamenetet?</translation>
     </message>
