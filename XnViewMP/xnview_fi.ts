@@ -619,6 +619,10 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
         <source>The database is corrupted. Please check it before you continue!</source>
         <translation>Tietokanta on vioittunut. Tarkista se ennen kuin jatkat!</translation>
     </message>
+    <message>
+        <source>Thumbnails</source>
+        <translation type="unfinished">Pienoiskuvat</translation>
+    </message>
 </context>
 <context>
     <name>CategoryCompleterModel</name>
@@ -893,6 +897,10 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message>
         <source>Auto fit</source>
         <translation>Autom. sovitus</translation>
+    </message>
+    <message>
+        <source>Navigator</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3298,12 +3306,28 @@ Haluatko korvata sen?</translation>
         <translation>Alhaalla</translation>
     </message>
     <message>
-        <source>Edges:</source>
-        <translation>Reunat:</translation>
-    </message>
-    <message>
         <source>Color of pixel at</source>
         <translation>Väriä pikselissä</translation>
+    </message>
+    <message>
+        <source>Mode</source>
+        <translation type="unfinished">Tila</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished">Vaakasuunnassa</translation>
+    </message>
+    <message>
+        <source>Edges</source>
+        <translation type="unfinished">Reunat</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="unfinished">Pystysuunnassa</translation>
+    </message>
+    <message>
+        <source>Zealous</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6432,33 +6456,10 @@ Käynnistä ohjelma uudelleen ylläpitäjän oikeuksilla.</translation>
     </message>
 </context>
 <context>
-    <name>DlgFlickr</name>
-    <message>
-        <source>Abort</source>
-        <translation>Keskeytä</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation>Virhe</translation>
-    </message>
-    <message>
-        <source>Uploading image(s) to Picasa album</source>
-        <translation>Picasa-albumiin ladattavat kuvat</translation>
-    </message>
-    <message>
-        <source>Uploading image(s) to Flickr album</source>
-        <translation>Flickr-albumiin ladattavat kuvat</translation>
-    </message>
-</context>
-<context>
     <name>DlgFlickrSettings</name>
     <message>
         <source>User</source>
         <translation>Käyttäjä</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation>Virhe</translation>
     </message>
     <message>
         <source>Flickr settings</source>
@@ -7457,33 +7458,6 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     <message>
         <source>Index: %1</source>
         <translation>Indeksi: %1</translation>
-    </message>
-</context>
-<context>
-    <name>DlgPicasa</name>
-    <message>
-        <source>Updating album list from Picasa</source>
-        <translation>Päivitetään albumilista Picasasta</translation>
-    </message>
-    <message>
-        <source>Abort</source>
-        <translation>Keskeytä</translation>
-    </message>
-    <message>
-        <source>Problem</source>
-        <translation>Ongelma</translation>
-    </message>
-    <message>
-        <source>Uploading image(s) to Picasa album</source>
-        <translation>Picasa-albumiin ladattavat kuvat</translation>
-    </message>
-    <message>
-        <source>An error occurred in uploading process!</source>
-        <translation>Latausprosessissa tapahtui virhe!</translation>
-    </message>
-    <message>
-        <source>An error occurred, please check your login data!</source>
-        <translation>Tapahtui virhe, tarkista kirjautumistiedot!</translation>
     </message>
 </context>
 <context>
@@ -8630,6 +8604,10 @@ Haluatko poistaa ne?</translation>
     <message>
         <source>GROUP</source>
         <translation>RYHMÄ</translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation type="unfinished">Etsi</translation>
     </message>
 </context>
 <context>
@@ -10493,10 +10471,6 @@ Haluatko määrittää uudelleen?</translation>
         <translation>Oletuskoodaus</translation>
     </message>
     <message>
-        <source>EXIF Copyright</source>
-        <translation>Exif-tekijänoikeus</translation>
-    </message>
-    <message>
         <source>Use UTF-8 to write IPTC fields</source>
         <translation>Käytä UTF-8 standardia IPTC-kenttien kirjoittamiseen</translation>
     </message>
@@ -10567,6 +10541,14 @@ Haluatko määrittää uudelleen?</translation>
     <message>
         <source>Update master file</source>
         <translation>Päätiedosto</translation>
+    </message>
+    <message>
+        <source>Copyright</source>
+        <translation type="unfinished">Tekijänoikeus (Copyright)</translation>
+    </message>
+    <message>
+        <source>Image description</source>
+        <translation type="unfinished">Kuvan selitys</translation>
     </message>
 </context>
 <context>
@@ -10802,6 +10784,10 @@ Haluatko määrittää uudelleen?</translation>
     <message>
         <source>Frame&apos;s count</source>
         <translation>Kehysten määrä</translation>
+    </message>
+    <message>
+        <source>Use transparency grid</source>
+        <translation type="unfinished">Käytä läpinäkyvää ruudukkoa</translation>
     </message>
 </context>
 <context>
@@ -12923,21 +12909,6 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     <message>
         <source>Date modified</source>
         <translation>Muokkauspäivä</translation>
-    </message>
-</context>
-<context>
-    <name>Flickr</name>
-    <message>
-        <source>Authorization</source>
-        <translation>Valtuudet</translation>
-    </message>
-    <message>
-        <source>Press OK button when the autorization is done through web browser</source>
-        <translation>Paina OK-painiketta kun valtuudet on luotu Web-selaimelle</translation>
-    </message>
-    <message>
-        <source>An error has occurred!!</source>
-        <translation>Tapahtui virhe!</translation>
     </message>
 </context>
 <context>
@@ -15940,6 +15911,10 @@ Jatketaanko?</translation>
         <source>Remove from all albums</source>
         <translation>Poista kaikista albumeista</translation>
     </message>
+    <message>
+        <source>Film strip 3</source>
+        <translation type="unfinished">Filminauha 3</translation>
+    </message>
 </context>
 <context>
     <name>MenuGlobal</name>
@@ -16980,6 +16955,14 @@ Jatketaanko?</translation>
     <message>
         <source>Paste in selection</source>
         <translation>Liitä valintaan</translation>
+    </message>
+    <message>
+        <source>Remove horizontal strip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove vertical strip</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18318,6 +18301,17 @@ Voit muuttaa sitä asetusten kohdasta &quot;Katalogi&quot;.</translation>
     <message>
         <source>Slideshow</source>
         <translation>Kuvaesitys</translation>
+    </message>
+</context>
+<context>
+    <name>SummaryWidget</name>
+    <message>
+        <source>Greyscale</source>
+        <translation type="unfinished">Harmaasävy</translation>
+    </message>
+    <message>
+        <source>Indexed</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

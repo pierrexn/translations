@@ -621,6 +621,10 @@ Trage și plasează peste nodul dorit de alocat.</translation>
         <source>The database is corrupted. Please check it before you continue!</source>
         <translation>Baza de date e coruptă. Te rugăm să o verifici înainte să continui!</translation>
     </message>
+    <message>
+        <source>Thumbnails</source>
+        <translation type="unfinished">Miniaturi</translation>
+    </message>
 </context>
 <context>
     <name>CategoryCompleterModel</name>
@@ -895,6 +899,10 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     <message>
         <source>Tabs</source>
         <translation>File</translation>
+    </message>
+    <message>
+        <source>Navigator</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3314,12 +3322,28 @@ Vrei să continui?</translation>
         <translation>Jos</translation>
     </message>
     <message>
-        <source>Edges:</source>
-        <translation>Margini:</translation>
-    </message>
-    <message>
         <source>Color of pixel at</source>
         <translation>Culoarea pixelului la</translation>
+    </message>
+    <message>
+        <source>Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edges</source>
+        <translation type="unfinished">Marginile</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="unfinished">Vertical</translation>
+    </message>
+    <message>
+        <source>Zealous</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6448,33 +6472,10 @@ Te rugăm să încerci să pornești programul cu drepturi de administrator.</tr
     </message>
 </context>
 <context>
-    <name>DlgFlickr</name>
-    <message>
-        <source>Abort</source>
-        <translation>Anulează</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation>Eroare</translation>
-    </message>
-    <message>
-        <source>Uploading image(s) to Picasa album</source>
-        <translation>Se încarcă imaginea (imaginile) în albumul Picasa</translation>
-    </message>
-    <message>
-        <source>Uploading image(s) to Flickr album</source>
-        <translation>Se încarcă imaginea (imaginile) în albumul Flickr</translation>
-    </message>
-</context>
-<context>
     <name>DlgFlickrSettings</name>
     <message>
         <source>User</source>
         <translation>Utilizator</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation>Eroare</translation>
     </message>
     <message>
         <source>Flickr settings</source>
@@ -7473,33 +7474,6 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     <message>
         <source>Clear</source>
         <translation>Golește</translation>
-    </message>
-</context>
-<context>
-    <name>DlgPicasa</name>
-    <message>
-        <source>Updating album list from Picasa</source>
-        <translation>Se actualizează lista de albume din Picasa</translation>
-    </message>
-    <message>
-        <source>Abort</source>
-        <translation>Anulează</translation>
-    </message>
-    <message>
-        <source>Problem</source>
-        <translation>Problemă</translation>
-    </message>
-    <message>
-        <source>Uploading image(s) to Picasa album</source>
-        <translation>Se încarcă imagini în albumul Picasa</translation>
-    </message>
-    <message>
-        <source>An error occurred in uploading process!</source>
-        <translation>A apărut o eroare în procesul de încărcare!</translation>
-    </message>
-    <message>
-        <source>An error occurred, please check your login data!</source>
-        <translation>A apărut o eroare, te rugăm să îți verifici datele de conectare!</translation>
     </message>
 </context>
 <context>
@@ -8642,6 +8616,10 @@ Vrei să le redenumești?</translation>
     <message>
         <source>GROUP</source>
         <translation>GRUP</translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation type="unfinished">Căutare</translation>
     </message>
 </context>
 <context>
@@ -10504,10 +10482,6 @@ Dorești să-l reatribui?</translation>
         <translation>Codificare implicită</translation>
     </message>
     <message>
-        <source>EXIF Copyright</source>
-        <translation>Drepturi de autor pentru EXIF</translation>
-    </message>
-    <message>
         <source>Use UTF-8 to write IPTC fields</source>
         <translation>Folosește UTF-8 ca să scrii câmpuri IPTC</translation>
     </message>
@@ -10578,6 +10552,14 @@ Dorești să-l reatribui?</translation>
     <message>
         <source>Update master file</source>
         <translation>Actualizează fișierul principal (master)</translation>
+    </message>
+    <message>
+        <source>Copyright</source>
+        <translation type="unfinished">Drepturi de autor</translation>
+    </message>
+    <message>
+        <source>Image description</source>
+        <translation type="unfinished">Descrierea imaginii</translation>
     </message>
 </context>
 <context>
@@ -10813,6 +10795,10 @@ Dorești să-l reatribui?</translation>
     <message>
         <source>Frame&apos;s count</source>
         <translation>Numerotarea cadrelor</translation>
+    </message>
+    <message>
+        <source>Use transparency grid</source>
+        <translation type="unfinished">Folosește grila de transparență</translation>
     </message>
 </context>
 <context>
@@ -12934,21 +12920,6 @@ Dorești să ștergi favoritul „%1”?</translation>
     <message>
         <source>Date modified</source>
         <translation>Data modificata</translation>
-    </message>
-</context>
-<context>
-    <name>Flickr</name>
-    <message>
-        <source>Authorization</source>
-        <translation>Autorizare</translation>
-    </message>
-    <message>
-        <source>Press OK button when the autorization is done through web browser</source>
-        <translation>Apasă butonul OK atunci când autorizarea se face prin browser-ul web</translation>
-    </message>
-    <message>
-        <source>An error has occurred!!</source>
-        <translation>A apărut o eroare!!</translation>
     </message>
 </context>
 <context>
@@ -15951,6 +15922,10 @@ Vrei să continui?</translation>
         <source>Remove from all albums</source>
         <translation>Elimină din toate albumele</translation>
     </message>
+    <message>
+        <source>Film strip 3</source>
+        <translation type="unfinished">Banda de film 3</translation>
+    </message>
 </context>
 <context>
     <name>MenuGlobal</name>
@@ -16991,6 +16966,14 @@ Vrei să continui?</translation>
     <message>
         <source>Paste in selection</source>
         <translation>Lipește în selecție</translation>
+    </message>
+    <message>
+        <source>Remove horizontal strip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove vertical strip</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18332,6 +18315,17 @@ O poți schimba în Setări › Catalog.</translation>
     <message>
         <source>Slideshow</source>
         <translation>Prezentare de diapozitive</translation>
+    </message>
+</context>
+<context>
+    <name>SummaryWidget</name>
+    <message>
+        <source>Greyscale</source>
+        <translation type="unfinished">Tonuri de gri</translation>
+    </message>
+    <message>
+        <source>Indexed</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
