@@ -623,7 +623,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Thumbnails</source>
-        <translation type="unfinished">Miniaturi</translation>
+        <translation>Miniaturi</translation>
     </message>
 </context>
 <context>
@@ -902,7 +902,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Navigator</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigator</translation>
     </message>
 </context>
 <context>
@@ -3327,23 +3327,23 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modul</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Orizontal</translation>
     </message>
     <message>
         <source>Edges</source>
-        <translation type="unfinished">Marginile</translation>
+        <translation>Marginile</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished">Vertical</translation>
+        <translation>Vertical</translation>
     </message>
     <message>
         <source>Zealous</source>
-        <translation type="unfinished"></translation>
+        <translation>Zelos</translation>
     </message>
 </context>
 <context>
@@ -8619,7 +8619,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Căutare</translation>
+        <translation>Căutare</translation>
     </message>
 </context>
 <context>
@@ -10555,11 +10555,11 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Copyright</source>
-        <translation type="unfinished">Drepturi de autor</translation>
+        <translation>Drepturi de autor</translation>
     </message>
     <message>
         <source>Image description</source>
-        <translation type="unfinished">Descrierea imaginii</translation>
+        <translation>Descrierea imaginii</translation>
     </message>
 </context>
 <context>
@@ -10798,7 +10798,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Use transparency grid</source>
-        <translation type="unfinished">Folosește grila de transparență</translation>
+        <translation>Folosește grila de transparență</translation>
     </message>
 </context>
 <context>
@@ -15924,7 +15924,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Film strip 3</source>
-        <translation type="unfinished">Banda de film 3</translation>
+        <translation>Banda de film 3</translation>
     </message>
 </context>
 <context>
@@ -16969,11 +16969,11 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Remove horizontal strip</source>
-        <translation type="unfinished"></translation>
+        <translation>Îndepărtează banda orizontală</translation>
     </message>
     <message>
         <source>Remove vertical strip</source>
-        <translation type="unfinished"></translation>
+        <translation>Îndepărtează banda verticală</translation>
     </message>
 </context>
 <context>
@@ -18321,11 +18321,11 @@ O poți schimba în Setări › Catalog.</translation>
     <name>SummaryWidget</name>
     <message>
         <source>Greyscale</source>
-        <translation type="unfinished">Tonuri de gri</translation>
+        <translation>Tonuri de gri</translation>
     </message>
     <message>
         <source>Indexed</source>
-        <translation type="unfinished"></translation>
+        <translation>Indexat</translation>
     </message>
 </context>
 <context>
