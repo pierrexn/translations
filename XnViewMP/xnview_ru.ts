@@ -647,7 +647,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="BrowserWindow.cpp" line="2249"/>
         <source>Thumbnails</source>
-        <translation type="unfinished">Эскизы</translation>
+        <translation>Эскизы</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3443"/>
@@ -1086,7 +1086,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CompareWidget.cpp" line="52"/>
         <source>Navigator</source>
-        <translation type="unfinished"></translation>
+        <translation>Hавигатор</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="563"/>
@@ -4275,22 +4275,22 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="104"/>
         <source>Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="115"/>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Горизонтальная</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="161"/>
         <source>Edges</source>
-        <translation type="unfinished">Обрамление</translation>
+        <translation>Края</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="174"/>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Вертикальная</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="194"/>
@@ -4300,7 +4300,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="220"/>
         <source>Zealous</source>
-        <translation type="unfinished"></translation>
+        <translation>Усердная</translation>
     </message>
 </context>
 <context>
@@ -11113,7 +11113,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.cpp" line="445"/>
         <source>Search</source>
-        <translation type="unfinished">Поиск</translation>
+        <translation>Поиск</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="476"/>
@@ -13738,12 +13738,12 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="569"/>
         <source>Copyright</source>
-        <translation type="unfinished">Авторские права</translation>
+        <translation>Авторские права</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="603"/>
         <source>Image description</source>
-        <translation type="unfinished">Описание изображения</translation>
+        <translation>Описание изображения</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="813"/>
@@ -13789,7 +13789,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="110"/>
         <source>Use transparency grid</source>
-        <translation type="unfinished">Использовать сетку прозрачности</translation>
+        <translation>Использовать сетку прозрачности</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="117"/>
@@ -19927,7 +19927,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="23"/>
         <source>Film strip 3</source>
-        <translation type="unfinished">Диафильм 3</translation>
+        <translation>Диафильм 3</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="45"/>
@@ -20875,7 +20875,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="629"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
-        <translation>Использовать индекс прозрачности (≤ 8бит)</translation>
+        <translation>Использовать прозрачный индекс (≤ 8бит)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="630"/>
@@ -21659,7 +21659,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="430"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
-        <translation>Использовать индекс прозрачности (≤ 8бит)</translation>
+        <translation>Использовать прозрачный индекс (≤ 8бит)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="431"/>
@@ -22182,12 +22182,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="492"/>
         <source>Remove horizontal strip</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить горизонтальную полосу</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="493"/>
         <source>Remove vertical strip</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить вертикальную полосу</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="498"/>
@@ -24046,12 +24046,12 @@ You can change it in Settings › Catalog.</oldsource>
         <location filename="SummaryWidget.cpp" line="293"/>
         <location filename="SummaryWidget.cpp" line="300"/>
         <source>Greyscale</source>
-        <translation type="unfinished">Оттенки серого</translation>
+        <translation>Оттенки серого</translation>
     </message>
     <message>
         <location filename="SummaryWidget.cpp" line="294"/>
         <source>Indexed</source>
-        <translation type="unfinished"></translation>
+        <translation>Индексированное</translation>
     </message>
 </context>
 <context>
