@@ -635,7 +635,7 @@ Arrastar e largar sobre o nó pretendido.</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="2249"/>
         <source>Thumbnails</source>
-        <translation type="unfinished">Miniaturas</translation>
+        <translation>Miniaturas</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3443"/>
@@ -1081,7 +1081,7 @@ Arrastar e largar sobre o nó pretendido.</translation>
     <message>
         <location filename="CompareWidget.cpp" line="52"/>
         <source>Navigator</source>
-        <translation type="unfinished"></translation>
+        <translation>Navegador</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="563"/>
@@ -2117,12 +2117,12 @@ Arrastar e largar sobre o nó pretendido.</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="1938"/>
         <source>Landscape</source>
-        <translation>Paisagem</translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1940"/>
         <source>Portrait</source>
-        <translation>Retrato</translation>
+        <translation>Vertical</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1942"/>
@@ -4261,22 +4261,22 @@ Deseja continuar?</translation>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="104"/>
         <source>Mode</source>
-        <translation type="unfinished">Modo</translation>
+        <translation>Modo</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="115"/>
         <source>Horizontal</source>
-        <translation type="unfinished">Horizontal</translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="161"/>
         <source>Edges</source>
-        <translation type="unfinished">Margens</translation>
+        <translation>Margens</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="174"/>
         <source>Vertical</source>
-        <translation type="unfinished">Vertical</translation>
+        <translation>Vertical</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="194"/>
@@ -4286,7 +4286,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="220"/>
         <source>Zealous</source>
-        <translation type="unfinished"></translation>
+        <translation>Estrito</translation>
     </message>
 </context>
 <context>
@@ -10411,7 +10411,7 @@ Por favor verifique se os ficheiros não estão protegidos!</translation>
         <location filename="DlgReadRaw.h" line="111"/>
         <location filename="DlgReadRaw.h" line="128"/>
         <source>Greyscale</source>
-        <translation>Cinzentos</translation>
+        <translation>Escala de cinzentos</translation>
     </message>
 </context>
 <context>
@@ -11074,7 +11074,7 @@ Prefere retirá-los?</translation>
     <message>
         <location filename="DlgSearch.cpp" line="445"/>
         <source>Search</source>
-        <translation type="unfinished">Procurar</translation>
+        <translation>Procurar</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="476"/>
@@ -13695,12 +13695,12 @@ Pretende reatribuir?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="569"/>
         <source>Copyright</source>
-        <translation type="unfinished">Copyright</translation>
+        <translation>Copyright</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="603"/>
         <source>Image description</source>
-        <translation type="unfinished">Descrição da imagem</translation>
+        <translation>Descrição da imagem</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="813"/>
@@ -13746,7 +13746,7 @@ Pretende reatribuir?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="110"/>
         <source>Use transparency grid</source>
-        <translation type="unfinished">Usar grelha de transparência</translation>
+        <translation>Usar grelha de transparência</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="117"/>
@@ -17730,12 +17730,12 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="1966"/>
         <source>Portrait</source>
-        <translation>Retrato</translation>
+        <translation>Vertical</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1968"/>
         <source>Landscape</source>
-        <translation>Paisagem</translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1126"/>
@@ -19530,7 +19530,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="BrowserMenu.h" line="23"/>
         <source>Film strip 3</source>
-        <translation type="unfinished">Fita de filme 3</translation>
+        <translation>Fita de filme 3</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="25"/>
@@ -22133,12 +22133,12 @@ Deseja continuar?</translation>
     <message>
         <location filename="ViewMenu.h" line="492"/>
         <source>Remove horizontal strip</source>
-        <translation type="unfinished"></translation>
+        <translation>Remover faixa horizontal</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="493"/>
         <source>Remove vertical strip</source>
-        <translation type="unfinished"></translation>
+        <translation>Remover faixa vertical</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="498"/>
@@ -24003,12 +24003,12 @@ Pode mudá-lo em Configurações &gt; Catálogo.</translation>
         <location filename="SummaryWidget.cpp" line="293"/>
         <location filename="SummaryWidget.cpp" line="300"/>
         <source>Greyscale</source>
-        <translation type="unfinished"></translation>
+        <translation>Escala de cinzentos</translation>
     </message>
     <message>
         <location filename="SummaryWidget.cpp" line="294"/>
         <source>Indexed</source>
-        <translation type="unfinished"></translation>
+        <translation>Indexado</translation>
     </message>
 </context>
 <context>
