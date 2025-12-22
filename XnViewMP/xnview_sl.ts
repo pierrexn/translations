@@ -21711,7 +21711,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="448"/>
         <source>Use transparency grid</source>
-        <translation>Uporabi prosojno mrežo</translation>
+        <translation type="unfinished">Uporabi mrežo prosojnosti</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="449"/>
