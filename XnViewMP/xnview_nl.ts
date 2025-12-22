@@ -635,7 +635,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="2249"/>
         <source>Thumbnails</source>
-        <translation type="unfinished">Miniaturen</translation>
+        <translation>Miniaturen</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3443"/>
@@ -1073,7 +1073,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="CompareWidget.cpp" line="52"/>
         <source>Navigator</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigatie</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="563"/>
@@ -4238,22 +4238,22 @@ Doorgaan?</translation>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="104"/>
         <source>Mode</source>
-        <translation type="unfinished">Modus</translation>
+        <translation>Modus</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="115"/>
         <source>Horizontal</source>
-        <translation type="unfinished">Horizontaal</translation>
+        <translation>Horizontaal</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="161"/>
         <source>Edges</source>
-        <translation type="unfinished">Randen</translation>
+        <translation>Randen</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="174"/>
         <source>Vertical</source>
-        <translation type="unfinished">Verticaal</translation>
+        <translation>Verticaal</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="194"/>
@@ -4263,7 +4263,7 @@ Doorgaan?</translation>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="220"/>
         <source>Zealous</source>
-        <translation type="unfinished"></translation>
+        <translation>Fanatiek</translation>
     </message>
 </context>
 <context>
@@ -11039,7 +11039,7 @@ Wil je ze verwijderen?</translation>
     <message>
         <location filename="DlgSearch.cpp" line="445"/>
         <source>Search</source>
-        <translation type="unfinished">Zoeken</translation>
+        <translation>Zoeken</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="476"/>
@@ -13652,12 +13652,12 @@ Opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="569"/>
         <source>Copyright</source>
-        <translation type="unfinished">Auteursrecht</translation>
+        <translation>Auteursrecht</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="603"/>
         <source>Image description</source>
-        <translation type="unfinished">Afbeelding beschrijving</translation>
+        <translation>Afbeelding beschrijving</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="813"/>
@@ -13702,7 +13702,7 @@ Opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="110"/>
         <source>Use transparency grid</source>
-        <translation type="unfinished">Transparantieraster gebruiken</translation>
+        <translation>Transparantieraster gebruiken</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="117"/>
@@ -19671,7 +19671,7 @@ Doorgaan?</translation>
     <message>
         <location filename="BrowserMenu.h" line="23"/>
         <source>Film strip 3</source>
-        <translation type="unfinished">Filmstrip 3</translation>
+        <translation>Filmstrip 3</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="45"/>
@@ -21515,12 +21515,12 @@ Doorgaan?</translation>
     <message>
         <location filename="ViewMenu.h" line="492"/>
         <source>Remove horizontal strip</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontale strook verwijderen</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="493"/>
         <source>Remove vertical strip</source>
-        <translation type="unfinished"></translation>
+        <translation>Verticale strook verwijderen</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="495"/>
@@ -23931,12 +23931,12 @@ Dit is te wijzigen in Instellingen › Catalogus.</translation>
         <location filename="SummaryWidget.cpp" line="293"/>
         <location filename="SummaryWidget.cpp" line="300"/>
         <source>Greyscale</source>
-        <translation type="unfinished">Grijstinten</translation>
+        <translation>Grijstinten</translation>
     </message>
     <message>
         <location filename="SummaryWidget.cpp" line="294"/>
         <source>Indexed</source>
-        <translation type="unfinished"></translation>
+        <translation>Geïndexeerd</translation>
     </message>
 </context>
 <context>
