@@ -7909,7 +7909,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="511"/>
         <source>Mode</source>
-        <translation>Цветовой режим</translation>
+        <translation>Режим</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="545"/>
