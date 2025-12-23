@@ -4255,7 +4255,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="220"/>
         <source>Zealous</source>
-        <translation type="unfinished">Eifrig</translation>
+        <translation>Fanatisch</translation>
     </message>
 </context>
 <context>
