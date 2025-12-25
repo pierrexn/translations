@@ -640,7 +640,7 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="2249"/>
         <source>Thumbnails</source>
-        <translation type="unfinished">Miniatúry</translation>
+        <translation>Miniatúry</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3443"/>
@@ -1075,7 +1075,7 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
     <message>
         <location filename="CompareWidget.cpp" line="52"/>
         <source>Navigator</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigátor</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="563"/>
@@ -4254,22 +4254,22 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="104"/>
         <source>Mode</source>
-        <translation type="unfinished">Režim</translation>
+        <translation>Režim</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="115"/>
         <source>Horizontal</source>
-        <translation type="unfinished">Vodorovne</translation>
+        <translation>Vodorovne</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="161"/>
         <source>Edges</source>
-        <translation type="unfinished">Hrany</translation>
+        <translation>Hrany</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="174"/>
         <source>Vertical</source>
-        <translation type="unfinished">Zvisle</translation>
+        <translation>Zvisle</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="194"/>
@@ -4279,7 +4279,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="220"/>
         <source>Zealous</source>
-        <translation type="unfinished"></translation>
+        <translation>Horlivo</translation>
     </message>
 </context>
 <context>
@@ -11054,7 +11054,7 @@ Chcete ich odstrániť?</translation>
     <message>
         <location filename="DlgSearch.cpp" line="445"/>
         <source>Search</source>
-        <translation type="unfinished">Hľadať</translation>
+        <translation>Hľadať</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="476"/>
@@ -13673,12 +13673,12 @@ Chcete ho priradiť znova?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="569"/>
         <source>Copyright</source>
-        <translation type="unfinished">Autorské právo</translation>
+        <translation>Autorské právo</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="603"/>
         <source>Image description</source>
-        <translation type="unfinished">Popis obrázka</translation>
+        <translation>Popis obrázka</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="652"/>
@@ -13803,7 +13803,7 @@ Chcete ho priradiť znova?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="110"/>
         <source>Use transparency grid</source>
-        <translation type="unfinished">Použiť mriežku priehľadnosti</translation>
+        <translation>Použiť mriežku priehľadnosti</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="211"/>
@@ -19494,7 +19494,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="BrowserMenu.h" line="23"/>
         <source>Film strip 3</source>
-        <translation type="unfinished">Filmový pás 3</translation>
+        <translation>Filmový pás 3</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="25"/>
@@ -21892,12 +21892,12 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="ViewMenu.h" line="492"/>
         <source>Remove horizontal strip</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstrániť horizontálny pruh</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="493"/>
         <source>Remove vertical strip</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstrániť vertikálny pruh</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="498"/>
@@ -23945,12 +23945,12 @@ Môžete to zmeniť v Nastavenia › Katalóg.</translation>
         <location filename="SummaryWidget.cpp" line="293"/>
         <location filename="SummaryWidget.cpp" line="300"/>
         <source>Greyscale</source>
-        <translation type="unfinished">Stupnica šedej</translation>
+        <translation>Stupnica šedej</translation>
     </message>
     <message>
         <location filename="SummaryWidget.cpp" line="294"/>
         <source>Indexed</source>
-        <translation type="unfinished"></translation>
+        <translation>Indexované</translation>
     </message>
 </context>
 <context>
