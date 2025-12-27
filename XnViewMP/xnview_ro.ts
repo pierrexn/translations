@@ -214,7 +214,7 @@
     <name>AbstractViewWindow</name>
     <message>
         <source>Save</source>
-        <translation>Salvare</translation>
+        <translation>Salvează</translation>
     </message>
     <message>
         <source>Icon %1/%2</source>
@@ -272,7 +272,7 @@
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation>&amp;Salvare</translation>
+        <translation>&amp;Salvează</translation>
     </message>
     <message>
         <source>&amp;Don&apos;t Save</source>
@@ -7461,7 +7461,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Save...</source>
-        <translation>Salvare...</translation>
+        <translation>Salvează...</translation>
     </message>
     <message>
         <source>Index: %1</source>
@@ -8726,7 +8726,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Save as Smart Album...</source>
-        <translation>Salvează ca album inteligent...</translation>
+        <translation>Salvează ca un album inteligent...</translation>
     </message>
 </context>
 <context>
@@ -9745,7 +9745,7 @@ miniatură</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Salvare</translation>
+        <translation>Salvează</translation>
     </message>
     <message>
         <source>Save changes to file</source>
@@ -10177,7 +10177,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Save...</source>
-        <translation>Salvare...</translation>
+        <translation>Salvează...</translation>
     </message>
     <message>
         <source>Browser</source>
@@ -11376,7 +11376,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Save...</source>
-        <translation>Salvare...</translation>
+        <translation>Salvează...</translation>
     </message>
     <message>
         <source>seconds</source>
@@ -14601,7 +14601,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Confirm Save - Format</source>
-        <translation>Confirmă salvarea- Formatul</translation>
+        <translation>Confirmă salvarea - Formatul</translation>
     </message>
     <message>
         <source>Saving in this format will discard comment and any existing metadata!</source>
@@ -16173,7 +16173,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Salvare</translation>
+        <translation>Salvează</translation>
     </message>
     <message>
         <source>Undo</source>
@@ -18443,7 +18443,7 @@ O poți schimba în Setări › Catalog.</translation>
     </message>
     <message>
         <source>Crop, Save &amp;&amp; Next</source>
-        <translation>Decupează, salvează și următorul</translation>
+        <translation>Decupează, salvează și următoarea</translation>
     </message>
     <message>
         <source>Save selection as...</source>
