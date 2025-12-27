@@ -186,7 +186,7 @@
         <location filename="AboutWidget.ui" line="275"/>
         <location filename="AboutWidget.ui" line="299"/>
         <source>Translators</source>
-        <translation type="unfinished"></translation>
+        <translation>翻译人员</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="294"/>
@@ -308,7 +308,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="2962"/>
         <source>The file &lt;%1&gt; is read-only. Please choose another file name.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">文件 &lt;%1&gt; 为只读文件。请选择其他文件名。</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2970"/>
@@ -935,18 +935,18 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CategoryView.cpp" line="448"/>
         <source>File: Date modified</source>
-        <translation type="unfinished"></translation>
+        <translation>文件：修改日期</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="489"/>
         <source>New smart album...</source>
-        <translation type="unfinished"></translation>
+        <translation>新智能相册...</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="491"/>
         <location filename="CategoryView.cpp" line="664"/>
         <source>Create Smart Album from current filter...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">从当前过滤器创建智能相册...</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="495"/>
@@ -956,17 +956,17 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CategoryView.cpp" line="522"/>
         <source>Delete Smart Album</source>
-        <translation type="unfinished"></translation>
+        <translation>删除智能相册</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="522"/>
         <source>Are you sure to delete this Smart Album?</source>
-        <translation type="unfinished"></translation>
+        <translation>您确定要删除此智能相册吗？</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="547"/>
         <source>New album</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">新专辑</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="554"/>
@@ -1021,12 +1021,12 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CategoryView.cpp" line="662"/>
         <source>Create Smart Album...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">创建智能相册...</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="696"/>
         <source>Are you sure to delete these categories?</source>
-        <translation type="unfinished"></translation>
+        <translation>您确定要删除这些类别吗？</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="709"/>
@@ -1077,7 +1077,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CompareWidget.cpp" line="52"/>
         <source>Navigator</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">导航仪</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="563"/>
@@ -2048,12 +2048,12 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DBFilterModel.cpp" line="152"/>
         <source>No rating</source>
-        <translation type="unfinished"></translation>
+        <translation>没有评级</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="153"/>
         <source>No colour label</source>
-        <translation type="unfinished"></translation>
+        <translation>无彩色标签</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="154"/>
@@ -2068,7 +2068,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DBFilterModel.cpp" line="156"/>
         <source>Modified in last 30 days</source>
-        <translation type="unfinished"></translation>
+        <translation>最近 30 天内修改</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="158"/>
@@ -2079,7 +2079,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DBFilterModel.cpp" line="162"/>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>属性</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="167"/>
