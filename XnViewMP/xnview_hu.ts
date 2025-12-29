@@ -19453,7 +19453,7 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="BrowserMenu.h" line="23"/>
         <source>Film strip 3</source>
-        <translation type="unfinished">Diaszalag 3</translation>
+        <translation>Filmszalag 3</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="25"/>
@@ -21483,12 +21483,12 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="ViewMenu.h" line="492"/>
         <source>Remove horizontal strip</source>
-        <translation type="unfinished"></translation>
+        <translation>Vízszintes csík eltávolítása</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="493"/>
         <source>Remove vertical strip</source>
-        <translation type="unfinished"></translation>
+        <translation>Függőleges csík eltávolítása</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="526"/>
