@@ -24046,7 +24046,8 @@ You can change it in Settings › Catalog.</oldsource>
         <location filename="SummaryWidget.cpp" line="293"/>
         <location filename="SummaryWidget.cpp" line="300"/>
         <source>Greyscale</source>
-        <translation>Оттенки серого</translation>
+        <translation>Оттенки
+серого</translation>
     </message>
     <message>
         <location filename="SummaryWidget.cpp" line="294"/>
