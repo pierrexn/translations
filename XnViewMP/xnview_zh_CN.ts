@@ -10993,7 +10993,7 @@ Do you want to remove them?</source>
         <location filename="DlgSearch.cpp" line="80"/>
         <location filename="DlgSearch.cpp" line="187"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">名称：</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="179"/>
@@ -11003,7 +11003,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.cpp" line="328"/>
         <source>Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>预设</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="329"/>
