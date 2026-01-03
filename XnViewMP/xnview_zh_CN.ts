@@ -11048,7 +11048,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.ui" line="143"/>
         <source>Close dialog when browse</source>
-        <translation type="unfinished"></translation>
+        <translation>浏览时关闭对话框</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="195"/>
@@ -11068,7 +11068,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.ui" line="237"/>
         <source>Save as Smart Album...</source>
-        <translation type="unfinished"></translation>
+        <translation>保存为智能相册...</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="299"/>
@@ -11294,12 +11294,12 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettings.cpp" line="357"/>
         <source>The changes will be applied after restarting the application.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">更改将在重启应用程序后生效。</translation>
     </message>
     <message>
         <location filename="DlgSettings.cpp" line="360"/>
         <source>Restart now</source>
-        <translation type="unfinished"></translation>
+        <translation>立即重启</translation>
     </message>
 </context>
 <context>
@@ -11482,7 +11482,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="374"/>
         <source>Rating (filter)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">评级 (过滤器)</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="465"/>
@@ -11544,7 +11544,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsCache.cpp" line="152"/>
         <source>Database [catalog: %1 %2 - thumbnails: %3 %4]</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">数据库 [目录： %1 %2 - 缩略图： %3 %4]</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="264"/>
@@ -11592,7 +11592,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgSettingsCache.cpp" line="547"/>
         <source>Updating database, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">正在更新数据库，请稍候……</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="564"/>
@@ -11761,7 +11761,7 @@ Do you want to remove entries assigned to a category?</oldsource>
         <location filename="DlgSettingsCache.ui" line="437"/>
         <source>Update metadata...</source>
         <oldsource>Update metadatas...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">更新元数据...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="501"/>
@@ -12589,7 +12589,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="31"/>
         <source>System - Current user (Windows registry)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">系统 - 当前用户（Windows 注册表）</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="32"/>
@@ -12597,14 +12597,14 @@ Thumbnail</source>
         <location filename="DlgSettingsIntegration.cpp" line="47"/>
         <location filename="DlgSettingsIntegration.cpp" line="55"/>
         <source>System - Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">系统 - 本机</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="34"/>
         <location filename="DlgSettingsIntegration.cpp" line="42"/>
         <location filename="DlgSettingsIntegration.cpp" line="49"/>
         <source>Application folder</source>
-        <translation type="unfinished"></translation>
+        <translation>应用程序文件夹</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="36"/>
@@ -12704,7 +12704,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="136"/>
         <source>Settings - General</source>
-        <translation type="unfinished"></translation>
+        <translation>设置 - 常规</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="153"/>
@@ -12713,32 +12713,32 @@ Thumbnail</source>
         <location filename="DlgSettingsIntegration.ui" line="315"/>
         <location filename="DlgSettingsIntegration.ui" line="363"/>
         <source>Current location</source>
-        <translation type="unfinished"></translation>
+        <translation>当前位置</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="182"/>
         <source>Settings - Other</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">设置 - 其他</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="232"/>
         <source>Database - Catalog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">数据库 - 目录</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="288"/>
         <source>Database - Thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">数据库 - 缩略图</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="329"/>
         <source>Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>配置</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="340"/>
         <source>Current user (recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">当前用户（推荐）</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="345"/>
@@ -13593,7 +13593,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="366"/>
         <source>Update master file</source>
-        <translation type="unfinished"></translation>
+        <translation>更新主文件</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="431"/>
@@ -13695,7 +13695,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="110"/>
         <source>Use transparency grid</source>
-        <translation type="unfinished"></translation>
+        <translation>使用透明网格</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="117"/>
@@ -14182,7 +14182,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="435"/>
         <source>Anti-aliasing</source>
         <oldsource>Antialiasing</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>抗锯齿</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="441"/>
@@ -14917,12 +14917,12 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgStartupWizard.ui" line="87"/>
         <source>Current user (recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation>当前用户（推荐）</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="92"/>
         <source>Current user (Windows registry)</source>
-        <translation type="unfinished"></translation>
+        <translation>当前用户（Windows 注册表）</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="97"/>
@@ -15199,7 +15199,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgTimestamp.cpp" line="569"/>
         <source>An error occurred when updating these files:</source>
-        <translation type="unfinished"></translation>
+        <translation>更新这些文件时发生错误：</translation>
     </message>
 </context>
 <context>
@@ -17036,7 +17036,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DBFilterModel.cpp" line="1829"/>
         <source>Aspect Ratio</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">宽高比</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1865"/>
@@ -17056,7 +17056,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="SearchField.cpp" line="29"/>
         <source>File path</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">文件路径</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="40"/>
@@ -17641,17 +17641,17 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DBFilterModel.cpp" line="1869"/>
         <source>Colour Space</source>
-        <translation type="unfinished"></translation>
+        <translation>色彩空间</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1952"/>
         <source>Not Defined</source>
-        <translation type="unfinished"></translation>
+        <translation>未定义</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1954"/>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">手动</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1956"/>
@@ -17756,7 +17756,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="SearchField.cpp" line="90"/>
         <source>Exposure time (s)</source>
-        <translation type="unfinished"></translation>
+        <translation>曝光时间（秒）</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2614"/>
@@ -18167,7 +18167,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoFavoritesView.cpp" line="19"/>
         <source>Tag</source>
-        <translation type="unfinished"></translation>
+        <translation>标签</translation>
     </message>
     <message>
         <location filename="InfoFavoritesView.cpp" line="19"/>
@@ -18177,7 +18177,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoFavoritesView.cpp" line="45"/>
         <source>Remove from Favorites panel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">从 &quot;收藏 &quot;面板移除</translation>
     </message>
 </context>
 <context>
@@ -18551,12 +18551,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="SearchField.cpp" line="110"/>
         <source>Modify Date</source>
-        <translation type="unfinished"></translation>
+        <translation>修改日期</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="111"/>
         <source>Create Date</source>
-        <translation type="unfinished"></translation>
+        <translation>创建日期</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="112"/>
