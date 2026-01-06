@@ -454,7 +454,7 @@
     <message>
         <location filename="ViewAutoHidePanel.cpp" line="41"/>
         <source>Pin</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">固定</translation>
     </message>
 </context>
 <context>
@@ -1944,7 +1944,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CategoryManager.cpp" line="179"/>
         <source>Orphaned</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">孤立的</translation>
     </message>
     <message>
         <location filename="MyDB.cpp" line="910"/>
@@ -2063,7 +2063,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DBFilterModel.cpp" line="155"/>
         <source>Taken in last 30 days</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">最近30天内获得</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="156"/>
@@ -2084,18 +2084,18 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DBFilterModel.cpp" line="167"/>
         <source>Albums</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">相册</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="169"/>
         <source>Smart Albums</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">智能相册</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="295"/>
         <location filename="DBFilterModel.cpp" line="2061"/>
         <source>No Smart Album</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无智能相册</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1300"/>
@@ -2107,7 +2107,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DBFilterModel.cpp" line="1933"/>
         <location filename="DBFilterModel.cpp" line="1950"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">未知</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1938"/>
@@ -2122,12 +2122,12 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DBFilterModel.cpp" line="1942"/>
         <source>Square</source>
-        <translation type="unfinished"></translation>
+        <translation>正方形</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2015"/>
         <source>Panoramic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">全景</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2041"/>
@@ -3705,8 +3705,8 @@ Do you want to overwrite it?</oldsource>
     <message numerus="yes">
         <location filename="DlgContactSheet.cpp" line="462"/>
         <source>File list (%n)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>文件列表 (%n)</numerusform>
         </translation>
     </message>
 </context>
@@ -4250,7 +4250,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="220"/>
         <source>Zealous</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">居中</translation>
     </message>
 </context>
 <context>
@@ -10444,7 +10444,8 @@ Thank you for purchasing %1.</source>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Plugin is not installed. 
 Please install it via Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">未安装插件。 
+请通过“工具  &gt; 插件”安装</translation>
     </message>
 </context>
 <context>
@@ -10987,7 +10988,7 @@ Do you want to remove them?</source>
         <location filename="DlgSearch.cpp" line="80"/>
         <location filename="DlgSearch.cpp" line="187"/>
         <source>Smart Albums</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">智能相册</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="80"/>
@@ -11352,12 +11353,12 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="200"/>
         <source>2 bars (top and bottom)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">2 条（顶部和底部）</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="205"/>
         <source>2 bars (top)</source>
-        <translation type="unfinished"></translation>
+        <translation>2 条（顶部）</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="237"/>
