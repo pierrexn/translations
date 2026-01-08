@@ -1786,7 +1786,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Open file manager after compressing</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschide managerul de fișiere după comprimare (după compresie)</translation>
     </message>
 </context>
 <context>
@@ -2902,7 +2902,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Open File Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschide managerul de fișiere</translation>
     </message>
 </context>
 <context>
@@ -4148,11 +4148,11 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Open File Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschide managerul de fișiere</translation>
     </message>
     <message>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Opțiuni</translation>
     </message>
 </context>
 <context>
@@ -5564,7 +5564,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Open File Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschide managerul de fișiere</translation>
     </message>
 </context>
 <context>
@@ -9001,7 +9001,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Show &apos;Desktop&apos; in folder tree</source>
-        <translation type="unfinished"></translation>
+        <translation>Afișează „Desktop-ul” în arborele de foldere (de dosare)</translation>
     </message>
 </context>
 <context>
@@ -11171,7 +11171,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Include subfolders</source>
-        <translation type="unfinished">Include subdosarele (subfolderele)</translation>
+        <translation>Include subdosarele (subfolderele)</translation>
     </message>
 </context>
 <context>
@@ -17175,7 +17175,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>My Computer</source>
-        <translation type="unfinished"></translation>
+        <translation>Computerul meu</translation>
     </message>
 </context>
 <context>
