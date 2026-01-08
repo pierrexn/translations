@@ -1781,12 +1781,12 @@ Trage și plasează peste nodul dorit de alocat.</translation>
         <translation>Te rugăm să introduci calea completă a fișierului arhivă</translation>
     </message>
     <message>
-        <source>Open File Explorer after compressing</source>
-        <translation>Deschide Exploratorul de fișiere (File Explorer) după comprimare</translation>
-    </message>
-    <message>
         <source>Creating archive, please wait...</source>
         <translation>Se creează arhiva, te rugăm să aștepți...</translation>
+    </message>
+    <message>
+        <source>Open file manager after compressing</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2777,10 +2777,6 @@ Dorești să-l suprascrii?</translation>
         <translation>Culoarea textului</translation>
     </message>
     <message>
-        <source>Open File Explorer</source>
-        <translation>Deschide exploratorul de fișiere</translation>
-    </message>
-    <message>
         <source>inches</source>
         <translation>inci</translation>
     </message>
@@ -2903,6 +2899,10 @@ Dorești să-l suprascrii?</translation>
             <numerusform>Lista de fișiere (%n fișiere)</numerusform>
             <numerusform>Lista de fișiere (%n de fișiere)</numerusform>
         </translation>
+    </message>
+    <message>
+        <source>Open File Manager</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4145,6 +4145,14 @@ Vrei să continui?</translation>
     <message>
         <source>Dark</source>
         <translation>Întunecată</translation>
+    </message>
+    <message>
+        <source>Open File Manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Options</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5527,10 +5535,6 @@ Vrei să continui?</translation>
         <translation>Crează un fișier cu mai multe pagini</translation>
     </message>
     <message>
-        <source>Open File Explorer</source>
-        <translation>Deschide Exploratorul de fișiere (File Explorer)</translation>
-    </message>
-    <message>
         <source>Creating multipage file, please wait...</source>
         <translation>Se creează fișierul cu mai multe pagini, te rugăm să aștepți...</translation>
     </message>
@@ -5557,6 +5561,10 @@ Vrei să continui?</translation>
     <message>
         <source>View as:</source>
         <translation>Vizualizează ca:</translation>
+    </message>
+    <message>
+        <source>Open File Manager</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8991,6 +8999,10 @@ Vrei să le redenumești?</translation>
         <source>Rating (filter)</source>
         <translation>Evaluare (filtru)</translation>
     </message>
+    <message>
+        <source>Show &apos;Desktop&apos; in folder tree</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsCache</name>
@@ -11138,10 +11150,6 @@ Dorești să-l reatribui?</translation>
         <translation>Același fișier de date</translation>
     </message>
     <message>
-        <source>Recursive</source>
-        <translation>Recursiv</translation>
-    </message>
-    <message>
         <source>Extensions to ignore (separated by a space)</source>
         <translation>Extensii de ignorat (separate printr-un spațiu)</translation>
     </message>
@@ -11160,6 +11168,10 @@ Dorești să-l reatribui?</translation>
     <message>
         <source>Similar image content (slow)</source>
         <translation>Conținut de imagine similar (lent)</translation>
+    </message>
+    <message>
+        <source>Include subfolders</source>
+        <translation type="unfinished">Include subdosarele (subfolderele)</translation>
     </message>
 </context>
 <context>
@@ -17160,6 +17172,10 @@ Vrei să continui?</translation>
     <message>
         <source>Volumes</source>
         <translation>Volumele</translation>
+    </message>
+    <message>
+        <source>My Computer</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

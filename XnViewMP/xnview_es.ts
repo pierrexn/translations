@@ -1779,12 +1779,12 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
         <translation>Por favor, introducir la ruta completa del archivo comprimido</translation>
     </message>
     <message>
-        <source>Open File Explorer after compressing</source>
-        <translation>Abrir Explorador de archivos después de la compresión</translation>
-    </message>
-    <message>
         <source>Creating archive, please wait...</source>
         <translation>Creando el archivo, espere por favor...</translation>
+    </message>
+    <message>
+        <source>Open file manager after compressing</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2768,10 +2768,6 @@ Do you want to overwrite it?</source>
         <translation>Color del texto</translation>
     </message>
     <message>
-        <source>Open File Explorer</source>
-        <translation>Abrir Explorador de archivos</translation>
-    </message>
-    <message>
         <source>inches</source>
         <translation>pulgadas</translation>
     </message>
@@ -2893,6 +2889,10 @@ Do you want to overwrite it?</source>
             <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
+    </message>
+    <message>
+        <source>Open File Manager</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4129,6 +4129,14 @@ Do you want to overwrite it?</source>
     <message>
         <source>Last file</source>
         <translation>Último archivo</translation>
+    </message>
+    <message>
+        <source>Open File Manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Options</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5511,10 +5519,6 @@ Do you want to overwrite it?</source>
         <translation>Crear archivo multipágina</translation>
     </message>
     <message>
-        <source>Open File Explorer</source>
-        <translation>Abrir Explorador de archivos</translation>
-    </message>
-    <message>
         <source>Creating multipage file, please wait...</source>
         <translation>Creando archivo multipágina,por favor espere...</translation>
     </message>
@@ -5541,6 +5545,10 @@ Do you want to overwrite it?</source>
     <message>
         <source>View as:</source>
         <translation>Ver como:</translation>
+    </message>
+    <message>
+        <source>Open File Manager</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8974,6 +8982,10 @@ Do you want to remove them?</source>
         <source>Rating (filter)</source>
         <translation>Clasificación (filtro)</translation>
     </message>
+    <message>
+        <source>Show &apos;Desktop&apos; in folder tree</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsCache</name>
@@ -11121,10 +11133,6 @@ Do you want to reassign?</source>
         <translation>Mismos datos de archivo</translation>
     </message>
     <message>
-        <source>Recursive</source>
-        <translation>Recursivo</translation>
-    </message>
-    <message>
         <source>Extensions to ignore (separated by a space)</source>
         <translation>Ignoar extensiones (separadas por un espacio)</translation>
     </message>
@@ -11143,6 +11151,10 @@ Do you want to reassign?</source>
     <message>
         <source>Similar image content (slow)</source>
         <translation>Contenido de imagen similar (lento)</translation>
+    </message>
+    <message>
+        <source>Include subfolders</source>
+        <translation type="unfinished">Incluir subcarpetas</translation>
     </message>
 </context>
 <context>
@@ -17143,6 +17155,10 @@ Do you want to continue?</source>
     <message>
         <source>Volumes</source>
         <translation>Volúmenes</translation>
+    </message>
+    <message>
+        <source>My Computer</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

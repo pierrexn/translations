@@ -1775,16 +1775,16 @@ Drag and Drop over the desired node to assign.</translation>
         <translation>Նշեք արխիվի ամբողջական ուղի</translation>
     </message>
     <message>
-        <source>Open File Explorer after compressing</source>
-        <translation>Սեղմելուց հետո ցուցադրել Ֆայլի ցուցադրիչը</translation>
-    </message>
-    <message>
         <source>Archive file</source>
         <translation>Արխիվի ֆայլ</translation>
     </message>
     <message>
         <source>Creating archive, please wait...</source>
         <translation>Արխիվի ստեղծում, սպասեք...</translation>
+    </message>
+    <message>
+        <source>Open file manager after compressing</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2876,10 +2876,6 @@ Do you want to overwrite it?</source>
         <translation>Բացել զննիչը</translation>
     </message>
     <message>
-        <source>Open File Explorer</source>
-        <translation>Բացել ֆայլի ցուցադրիչը</translation>
-    </message>
-    <message>
         <source>Background image</source>
         <translation>Խորքի պատկերը</translation>
     </message>
@@ -2893,6 +2889,10 @@ Do you want to overwrite it?</source>
             <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
+    </message>
+    <message>
+        <source>Open File Manager</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4129,6 +4129,14 @@ Do you want to overwrite it?</source>
     <message>
         <source>Last file</source>
         <translation>Վերջին ֆայլը</translation>
+    </message>
+    <message>
+        <source>Open File Manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Options</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5535,12 +5543,12 @@ Do you want to overwrite it?</source>
         <translation>Բացել զննիչը</translation>
     </message>
     <message>
-        <source>Open File Explorer</source>
-        <translation>Բացել ֆայլի ցուցադրիչը</translation>
-    </message>
-    <message>
         <source>Creating multipage file, please wait...</source>
         <translation>Բազմաէջ ֆայլի ստեղծում: Խնդրում ենք սպասել... </translation>
+    </message>
+    <message>
+        <source>Open File Manager</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8973,6 +8981,10 @@ Do you want to remove them?</source>
         <source>Rating (filter)</source>
         <translation>Վարկանիշ (զտիչ)</translation>
     </message>
+    <message>
+        <source>Show &apos;Desktop&apos; in folder tree</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsCache</name>
@@ -11116,10 +11128,6 @@ Do you want to reassign?</source>
         <translation>Նման ֆայլի տվյալ</translation>
     </message>
     <message>
-        <source>Recursive</source>
-        <translation>Նվազմամբ</translation>
-    </message>
-    <message>
         <source>Extensions to ignore (separated by a space)</source>
         <translation>Անտեսվող ընդլայնումներ (տարանջատել բացատով)</translation>
     </message>
@@ -11142,6 +11150,10 @@ Do you want to reassign?</source>
     <message>
         <source>Similar image content (slow)</source>
         <translation>Նման պատկերի բովանդակություն (դանդաղ)</translation>
+    </message>
+    <message>
+        <source>Include subfolders</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17142,6 +17154,10 @@ Do you want to continue?</source>
     <message>
         <source>Volumes</source>
         <translation>Նշանակումներ</translation>
+    </message>
+    <message>
+        <source>My Computer</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

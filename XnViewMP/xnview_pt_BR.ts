@@ -1775,16 +1775,16 @@ Arraste e solte sobre o nó desejado para atribuir.</translation>
         <translation>Insira o caminho completo do arquivo de pacote</translation>
     </message>
     <message>
-        <source>Open File Explorer after compressing</source>
-        <translation>Abrir o Explorador de Arquivos após compactar</translation>
-    </message>
-    <message>
         <source>Archive file</source>
         <translation>Arquivo de arquivo</translation>
     </message>
     <message>
         <source>Creating archive, please wait...</source>
         <translation>Criando pacote. Aguarde...</translation>
+    </message>
+    <message>
+        <source>Open file manager after compressing</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2876,10 +2876,6 @@ Deseja sobrescrevê-lo?</translation>
         <translation>Abrir Navegador</translation>
     </message>
     <message>
-        <source>Open File Explorer</source>
-        <translation>Abrir Explorador de Arquivos</translation>
-    </message>
-    <message>
         <source>Background image</source>
         <translation>Imagem de fundo</translation>
     </message>
@@ -2893,6 +2889,10 @@ Deseja sobrescrevê-lo?</translation>
             <numerusform>Lista de arquivos (%n)</numerusform>
             <numerusform>Listas de arquivos (%n)</numerusform>
         </translation>
+    </message>
+    <message>
+        <source>Open File Manager</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4129,6 +4129,14 @@ Deseja continuar?</translation>
     <message>
         <source>Last file</source>
         <translation>Último arquivo</translation>
+    </message>
+    <message>
+        <source>Open File Manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Options</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5535,12 +5543,12 @@ Deseja continuar?</translation>
         <translation>Abrir Navegador</translation>
     </message>
     <message>
-        <source>Open File Explorer</source>
-        <translation>Abrir Explorador de Arquivos</translation>
-    </message>
-    <message>
         <source>Creating multipage file, please wait...</source>
         <translation>Criando arquivo multipágina. Aguarde...</translation>
+    </message>
+    <message>
+        <source>Open File Manager</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8977,6 +8985,10 @@ Deseja removê-los da lista?</translation>
         <source>Rating (filter)</source>
         <translation>Avaliação (filtro)</translation>
     </message>
+    <message>
+        <source>Show &apos;Desktop&apos; in folder tree</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsCache</name>
@@ -11084,10 +11096,6 @@ Deseja reatribuir?</translation>
         <translation>Pesquisar arquivos similares</translation>
     </message>
     <message>
-        <source>Recursive</source>
-        <translation>Recursivo</translation>
-    </message>
-    <message>
         <source>Pathname</source>
         <translation>Nome do caminho</translation>
     </message>
@@ -11146,6 +11154,10 @@ Deseja reatribuir?</translation>
     <message>
         <source>Similar image content (slow)</source>
         <translation>Conteúdo de imagem semelhante (lento)</translation>
+    </message>
+    <message>
+        <source>Include subfolders</source>
+        <translation type="unfinished">Incluir subpastas</translation>
     </message>
 </context>
 <context>
@@ -17152,6 +17164,10 @@ Deseja continuar?</translation>
     <message>
         <source>Desktop</source>
         <translation>Área de Trabalho</translation>
+    </message>
+    <message>
+        <source>My Computer</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

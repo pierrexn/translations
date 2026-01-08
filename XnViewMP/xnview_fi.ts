@@ -1779,12 +1779,12 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
         <translation>Anna zip-paketille täydellinen tiedostopolku</translation>
     </message>
     <message>
-        <source>Open File Explorer after compressing</source>
-        <translation>Avaa resurssienhallinta pakkaamisen jälkeen</translation>
-    </message>
-    <message>
         <source>Creating archive, please wait...</source>
         <translation>Luodaan arkistoa, odota...</translation>
+    </message>
+    <message>
+        <source>Open file manager after compressing</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2768,10 +2768,6 @@ Haluatko korvata sen?</translation>
         <translation>Tekstin väri</translation>
     </message>
     <message>
-        <source>Open File Explorer</source>
-        <translation>Avaa resurssienhallinta</translation>
-    </message>
-    <message>
         <source>inches</source>
         <translation>tuumaa</translation>
     </message>
@@ -2893,6 +2889,10 @@ Haluatko korvata sen?</translation>
             <numerusform>Tiedostolista (%n)</numerusform>
             <numerusform>Tiedostolistat (%n)</numerusform>
         </translation>
+    </message>
+    <message>
+        <source>Open File Manager</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4129,6 +4129,14 @@ Haluatko korvata sen?</translation>
     <message>
         <source>Last file</source>
         <translation>Viimeinen tiedosto</translation>
+    </message>
+    <message>
+        <source>Open File Manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Options</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5511,10 +5519,6 @@ Haluatko korvata sen?</translation>
         <translation>Luo monisivutiedosto</translation>
     </message>
     <message>
-        <source>Open File Explorer</source>
-        <translation>Avaa resurssienhallinta</translation>
-    </message>
-    <message>
         <source>Creating multipage file, please wait...</source>
         <translation>Luodaan monisivutiedosto, odota...</translation>
     </message>
@@ -5541,6 +5545,10 @@ Haluatko korvata sen?</translation>
     <message>
         <source>View as:</source>
         <translation>Näyttötapa:</translation>
+    </message>
+    <message>
+        <source>Open File Manager</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8979,6 +8987,10 @@ Haluatko poistaa ne?</translation>
         <source>Rating (filter)</source>
         <translation>Luokitus (suodatin)</translation>
     </message>
+    <message>
+        <source>Show &apos;Desktop&apos; in folder tree</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsCache</name>
@@ -11127,10 +11139,6 @@ Haluatko määrittää uudelleen?</translation>
         <translation>Sama tiedostodata</translation>
     </message>
     <message>
-        <source>Recursive</source>
-        <translation>Rekursiivinen</translation>
-    </message>
-    <message>
         <source>Extensions to ignore (separated by a space)</source>
         <translation>Ohitettavat tiedostopäätteet (erota välilyönnein)</translation>
     </message>
@@ -11149,6 +11157,10 @@ Haluatko määrittää uudelleen?</translation>
     <message>
         <source>Similar image content (slow)</source>
         <translation>Samanlainen kuvasisältö (hidas)</translation>
+    </message>
+    <message>
+        <source>Include subfolders</source>
+        <translation type="unfinished">Sisätää alikansiot</translation>
     </message>
 </context>
 <context>
@@ -17149,6 +17161,10 @@ Jatketaanko?</translation>
     <message>
         <source>Volumes</source>
         <translation>Määrät</translation>
+    </message>
+    <message>
+        <source>My Computer</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
