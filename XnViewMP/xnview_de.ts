@@ -2291,7 +2291,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgArchive.ui" line="41"/>
         <source>Open file manager after compressing</source>
         <oldsource>Open File Explorer after compressing</oldsource>
-        <translation type="unfinished">Nach Komprimierung Dateipfad öffnen</translation>
+        <translation>Nach Komprimierung Dateipfad öffnen</translation>
     </message>
     <message>
         <location filename="DlgArchive.cpp" line="103"/>
@@ -3586,7 +3586,7 @@ Wollen Sie die Datei überschreiben?</translation>
         <location filename="DlgContactSheet.ui" line="722"/>
         <source>Open File Manager</source>
         <oldsource>Open File Explorer</oldsource>
-        <translation type="unfinished">Explorer öffnen</translation>
+        <translation>Explorer öffnen</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="766"/>
@@ -4867,7 +4867,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="DlgConvert.ui" line="1228"/>
         <source>Open File Manager</source>
-        <translation type="unfinished">Explorer öffnen</translation>
+        <translation>Explorer öffnen</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1235"/>
@@ -5371,7 +5371,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="Helper.cpp" line="530"/>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Optionen</translation>
     </message>
 </context>
 <context>
@@ -7118,7 +7118,7 @@ Möchten Sie fortfahren?</translation>
         <location filename="DlgCreateMulti.ui" line="251"/>
         <source>Open File Manager</source>
         <oldsource>Open File Explorer</oldsource>
-        <translation type="unfinished">Explorer öffnen</translation>
+        <translation>Explorer öffnen</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.ui" line="209"/>
@@ -11066,7 +11066,7 @@ Möchten Sie sie entfernen?</translation>
         <location filename="DlgSearch.ui" line="95"/>
         <source>Search in subfolders</source>
         <oldsource>Recurse through subfolders</oldsource>
-        <translation>Unterordner einbeziehen</translation>
+        <translation>In Unterordnern suchen</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="102"/>
@@ -11342,7 +11342,7 @@ Möchten Sie sie entfernen?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="92"/>
         <source>Show &apos;Desktop&apos; in folder tree</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;Desktop&apos; in der Ordnerstruktur anzeigen</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="181"/>
@@ -14367,7 +14367,7 @@ Möchten Sie neu zuweisen?</translation>
     <message>
         <location filename="DlgSimilar.ui" line="41"/>
         <source>Include subfolders</source>
-        <translation type="unfinished">Unterordner einbeziehen</translation>
+        <translation>Unterordner einbeziehen</translation>
     </message>
     <message>
         <location filename="DlgSimilar.ui" line="46"/>
@@ -22410,7 +22410,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="MyDirModel.cpp" line="336"/>
         <source>My Computer</source>
-        <translation type="unfinished"></translation>
+        <translation>Mein Computer</translation>
     </message>
     <message>
         <location filename="MyDirModel.cpp" line="1218"/>
