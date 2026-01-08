@@ -2313,7 +2313,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgArchive.ui" line="41"/>
         <source>Open file manager after compressing</source>
         <oldsource>Open File Explorer after compressing</oldsource>
-        <translation type="unfinished">Открыть проводник после сжатия файлов</translation>
+        <translation>Открыть файловый менеджер после сжатия файлов</translation>
     </message>
     <message>
         <location filename="DlgArchive.cpp" line="103"/>
@@ -3617,7 +3617,7 @@ Do you want to overwrite it?</oldsource>
         <location filename="DlgContactSheet.ui" line="722"/>
         <source>Open File Manager</source>
         <oldsource>Open File Explorer</oldsource>
-        <translation type="unfinished">Открыть проводник</translation>
+        <translation>Открыть файловый менеджер</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="766"/>
@@ -5326,7 +5326,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="1228"/>
         <source>Open File Manager</source>
-        <translation type="unfinished">Открыть проводник</translation>
+        <translation>Открыть файловый менеджер</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1256"/>
@@ -5423,7 +5423,7 @@ Do you want to continue?</source>
     <message>
         <location filename="Helper.cpp" line="530"/>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки</translation>
     </message>
 </context>
 <context>
@@ -7179,7 +7179,7 @@ Do you want to continue?</source>
         <location filename="DlgCreateMulti.ui" line="251"/>
         <source>Open File Manager</source>
         <oldsource>Open File Explorer</oldsource>
-        <translation type="unfinished">Открыть проводник</translation>
+        <translation>Открыть файловый менеджер</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.ui" line="209"/>
@@ -11428,7 +11428,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="92"/>
         <source>Show &apos;Desktop&apos; in folder tree</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать &apos;Рабочий стол&apos; в дереве папок</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="181"/>
@@ -14513,7 +14513,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSimilar.ui" line="41"/>
         <source>Include subfolders</source>
-        <translation type="unfinished">Включить вложенные папки</translation>
+        <translation>Включить вложенные папки</translation>
     </message>
     <message>
         <location filename="DlgSimilar.ui" line="158"/>
@@ -22539,7 +22539,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyDirModel.cpp" line="336"/>
         <source>My Computer</source>
-        <translation type="unfinished"></translation>
+        <translation>Мой компьютер</translation>
     </message>
     <message>
         <location filename="MyDirModel.cpp" line="1218"/>
