@@ -2299,7 +2299,7 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         <location filename="DlgArchive.ui" line="41"/>
         <source>Open file manager after compressing</source>
         <oldsource>Open File Explorer after compressing</oldsource>
-        <translation type="unfinished">Po stiskanju odpri raziskovalca datotek</translation>
+        <translation>Odpri upravitelja datotek po stiskanju</translation>
     </message>
     <message>
         <location filename="DlgArchive.cpp" line="103"/>
@@ -3610,7 +3610,7 @@ Ali jo želite prepisati?</translation>
         <location filename="DlgContactSheet.ui" line="722"/>
         <source>Open File Manager</source>
         <oldsource>Open File Explorer</oldsource>
-        <translation type="unfinished">Odpri raziskovalca datotek</translation>
+        <translation>Odpri upravitelja datotek</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="766"/>
@@ -5285,7 +5285,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="1228"/>
         <source>Open File Manager</source>
-        <translation type="unfinished">Odpri raziskovalca datotek</translation>
+        <translation>Odpri upravitelja datotek</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1521"/>
@@ -5416,7 +5416,7 @@ Do you want to continue?</source>
     <message>
         <location filename="Helper.cpp" line="530"/>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Možnosti</translation>
     </message>
 </context>
 <context>
@@ -7173,7 +7173,7 @@ Do you want to continue?</source>
         <location filename="DlgCreateMulti.ui" line="251"/>
         <source>Open File Manager</source>
         <oldsource>Open File Explorer</oldsource>
-        <translation type="unfinished">Odpri raziskovalca datotek</translation>
+        <translation>Odpri upravitelja datotek</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.cpp" line="125"/>
@@ -11389,7 +11389,7 @@ Ali jih želite odstraniti?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="92"/>
         <source>Show &apos;Desktop&apos; in folder tree</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži &apos;Namizje&apos; v drevesu map</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="181"/>
@@ -14417,7 +14417,7 @@ Ali želite ponovno dodeliti?</translation>
     <message>
         <location filename="DlgSimilar.ui" line="41"/>
         <source>Include subfolders</source>
-        <translation type="unfinished">Vključi podmape</translation>
+        <translation>Vključi podmape</translation>
     </message>
     <message>
         <location filename="DlgSimilar.ui" line="46"/>
@@ -22463,7 +22463,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyDirModel.cpp" line="336"/>
         <source>My Computer</source>
-        <translation type="unfinished"></translation>
+        <translation>Moj računalnik</translation>
     </message>
     <message>
         <location filename="MyDirModel.cpp" line="1218"/>
