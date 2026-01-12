@@ -7652,7 +7652,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Bottom</source>
-        <translation>Parte de jos</translation>
+        <translation>Partea de jos</translation>
     </message>
     <message>
         <source>Center</source>
