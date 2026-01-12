@@ -15123,7 +15123,7 @@ Möchten Sie neu zuweisen?</translation>
     <message>
         <location filename="DlgTagPhoto.ui" line="124"/>
         <source>Add</source>
-        <translation>Suffix anhängen</translation>
+        <translation>Hinzufügen</translation>
     </message>
     <message>
         <location filename="DlgTagPhoto.ui" line="78"/>
