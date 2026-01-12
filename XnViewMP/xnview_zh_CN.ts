@@ -2132,7 +2132,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DBFilterModel.cpp" line="2041"/>
         <source>No Color Profile</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">没有色彩配置</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="412"/>
@@ -5367,7 +5367,7 @@ Do you want to continue?</source>
     <message>
         <location filename="Helper.cpp" line="530"/>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">选项(&amp;O)</translation>
     </message>
 </context>
 <context>
@@ -7460,7 +7460,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgEditXMP.cpp" line="431"/>
         <location filename="DlgEditXMP.cpp" line="456"/>
         <source>Modifying files, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">正在修改文件，请稍候……</translation>
     </message>
 </context>
 <context>
@@ -9002,7 +9002,7 @@ Subfolders will be created. </source>
         <location filename="DlgIptc.cpp" line="1701"/>
         <location filename="DlgIptc.cpp" line="1747"/>
         <source>Modifying files, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">正在修改文件，请稍候……</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="52"/>
@@ -11018,12 +11018,12 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.cpp" line="329"/>
         <source>Preset search name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">预设搜索名称：</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="332"/>
         <source>Save pathname</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">保存路径名</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="395"/>
@@ -11342,7 +11342,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="92"/>
         <source>Show &apos;Desktop&apos; in folder tree</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在文件夹树中显示“桌面”</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="181"/>
@@ -11727,7 +11727,7 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettingsCache.ui" line="265"/>
         <source>Store Exiftool fields</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">存储 Exiftool 字段</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="311"/>
@@ -12758,12 +12758,12 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="345"/>
         <source>Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">本地机器</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="350"/>
         <source>Portable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">便携式</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="355"/>
@@ -12773,7 +12773,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="397"/>
         <source>ExifTool path</source>
-        <translation type="unfinished"></translation>
+        <translation>ExifTool 路径</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="414"/>
@@ -14416,7 +14416,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSimilar.ui" line="41"/>
         <source>Include subfolders</source>
-        <translation type="unfinished"></translation>
+        <translation>包括子目录</translation>
     </message>
     <message>
         <location filename="DlgSimilar.ui" line="158"/>
