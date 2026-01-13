@@ -621,7 +621,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>Thumbnails</source>
-        <translation type="unfinished">Pienoiskuvat</translation>
+        <translation>Pienoiskuvat</translation>
     </message>
 </context>
 <context>
@@ -900,7 +900,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>Navigator</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigaattori</translation>
     </message>
 </context>
 <context>
@@ -1784,7 +1784,7 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     </message>
     <message>
         <source>Open file manager after compressing</source>
-        <translation type="unfinished"></translation>
+        <translation>Avaa tiedostonhallinta pakkaamisen jälkeen</translation>
     </message>
 </context>
 <context>
@@ -2892,7 +2892,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Open File Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Avaa tiedostonhallinta</translation>
     </message>
 </context>
 <context>
@@ -3311,23 +3311,23 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Mode</source>
-        <translation type="unfinished">Tila</translation>
+        <translation>Tila</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished">Vaakasuunnassa</translation>
+        <translation>Vaakasuunnassa</translation>
     </message>
     <message>
         <source>Edges</source>
-        <translation type="unfinished">Reunat</translation>
+        <translation>Reunat</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished">Pystysuunnassa</translation>
+        <translation>Pystysuunnassa</translation>
     </message>
     <message>
         <source>Zealous</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiukka rajaus (Zealous)</translation>
     </message>
 </context>
 <context>
@@ -4132,11 +4132,11 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Open File Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Avaa tiedostonhallinta</translation>
     </message>
     <message>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Asetukset</translation>
     </message>
 </context>
 <context>
@@ -5548,7 +5548,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Open File Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Avaa tiedostonhallinta</translation>
     </message>
 </context>
 <context>
@@ -8615,7 +8615,7 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Etsi</translation>
+        <translation>Etsi</translation>
     </message>
 </context>
 <context>
@@ -8989,7 +8989,7 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Show &apos;Desktop&apos; in folder tree</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytä &apos;Työpöytä&apos; hakemistopuussa</translation>
     </message>
 </context>
 <context>
@@ -10556,11 +10556,11 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Copyright</source>
-        <translation type="unfinished">Tekijänoikeus (Copyright)</translation>
+        <translation>Tekijänoikeus (Copyright)</translation>
     </message>
     <message>
         <source>Image description</source>
-        <translation type="unfinished">Kuvan selitys</translation>
+        <translation>Kuvan selitys</translation>
     </message>
 </context>
 <context>
@@ -10799,7 +10799,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Use transparency grid</source>
-        <translation type="unfinished">Käytä läpinäkyvää ruudukkoa</translation>
+        <translation>Käytä läpinäkyvää ruudukkoa</translation>
     </message>
 </context>
 <context>
@@ -11160,7 +11160,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Include subfolders</source>
-        <translation type="unfinished">Sisätää alikansiot</translation>
+        <translation>Sisätää alikansiot</translation>
     </message>
 </context>
 <context>
@@ -15925,7 +15925,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Film strip 3</source>
-        <translation type="unfinished">Filminauha 3</translation>
+        <translation>Filminauha 3</translation>
     </message>
 </context>
 <context>
@@ -16970,11 +16970,11 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Remove horizontal strip</source>
-        <translation type="unfinished"></translation>
+        <translation>Poista vaakasuora raita</translation>
     </message>
     <message>
         <source>Remove vertical strip</source>
-        <translation type="unfinished"></translation>
+        <translation>Poista pystysuora raita</translation>
     </message>
 </context>
 <context>
@@ -17164,7 +17164,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>My Computer</source>
-        <translation type="unfinished"></translation>
+        <translation>Oma tietokone</translation>
     </message>
 </context>
 <context>
@@ -18323,11 +18323,11 @@ Voit muuttaa sitä asetusten kohdasta &quot;Katalogi&quot;.</translation>
     <name>SummaryWidget</name>
     <message>
         <source>Greyscale</source>
-        <translation type="unfinished">Harmaasävy</translation>
+        <translation>Harmaasävy</translation>
     </message>
     <message>
         <source>Indexed</source>
-        <translation type="unfinished"></translation>
+        <translation>Indeksoitu</translation>
     </message>
 </context>
 <context>
