@@ -2306,7 +2306,7 @@ Arrastar e largar sobre o nó pretendido.</translation>
         <location filename="DlgArchive.ui" line="41"/>
         <source>Open file manager after compressing</source>
         <oldsource>Open File Explorer after compressing</oldsource>
-        <translation type="unfinished">Abrir no explorador depois de comprimido</translation>
+        <translation>Abrir no explorador depois de comprimido</translation>
     </message>
     <message>
         <location filename="DlgArchive.cpp" line="103"/>
@@ -3603,7 +3603,7 @@ Deseja substituí-lo?</translation>
         <location filename="DlgContactSheet.ui" line="722"/>
         <source>Open File Manager</source>
         <oldsource>Open File Explorer</oldsource>
-        <translation type="unfinished">Abrir explorador</translation>
+        <translation>Abrir explorador</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="766"/>
@@ -5290,7 +5290,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="DlgConvert.ui" line="1228"/>
         <source>Open File Manager</source>
-        <translation type="unfinished">Abrir explorador</translation>
+        <translation>Abrir explorador</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1297"/>
@@ -5404,7 +5404,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="Helper.cpp" line="530"/>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Opções</translation>
     </message>
 </context>
 <context>
@@ -7151,7 +7151,7 @@ Deseja continuar?</translation>
         <location filename="DlgCreateMulti.ui" line="251"/>
         <source>Open File Manager</source>
         <oldsource>Open File Explorer</oldsource>
-        <translation type="unfinished">Abrir explorador</translation>
+        <translation>Abrir explorador</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.ui" line="209"/>
@@ -11388,7 +11388,7 @@ Prefere retirá-los?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="92"/>
         <source>Show &apos;Desktop&apos; in folder tree</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar &apos;Ambiente de trabalho&apos; no painel de navegação</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="181"/>
@@ -14468,7 +14468,7 @@ Pretende reatribuir?</translation>
     <message>
         <location filename="DlgSimilar.ui" line="41"/>
         <source>Include subfolders</source>
-        <translation type="unfinished">Incluir subpastas</translation>
+        <translation>Incluir subpastas</translation>
     </message>
     <message>
         <location filename="DlgSimilar.ui" line="158"/>
@@ -22490,7 +22490,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="MyDirModel.cpp" line="336"/>
         <source>My Computer</source>
-        <translation type="unfinished"></translation>
+        <translation>Este computador</translation>
     </message>
     <message>
         <location filename="MyDirModel.cpp" line="1218"/>
