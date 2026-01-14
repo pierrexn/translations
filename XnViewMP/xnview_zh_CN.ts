@@ -16514,7 +16514,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="GeneralSettings.cpp" line="1040"/>
         <source>Copy (%3) of %1%2</source>
-        <translation>的副本（%3）%1%2</translation>
+        <translation>%1的副本（%3）%2</translation>
     </message>
     <message>
         <location filename="GeneralSettings.cpp" line="1046"/>
