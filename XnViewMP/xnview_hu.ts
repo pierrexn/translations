@@ -2293,7 +2293,7 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
         <location filename="DlgArchive.ui" line="41"/>
         <source>Open file manager after compressing</source>
         <oldsource>Open File Explorer after compressing</oldsource>
-        <translation type="unfinished">Intéző megnyitása tömörítés után</translation>
+        <translation>Fájlkezelő megnyitása tömörítés után</translation>
     </message>
     <message>
         <location filename="DlgArchive.cpp" line="103"/>
@@ -3580,7 +3580,7 @@ Felül szeretné írni?</translation>
         <location filename="DlgContactSheet.ui" line="722"/>
         <source>Open File Manager</source>
         <oldsource>Open File Explorer</oldsource>
-        <translation type="unfinished">Megnyitás Intézőben</translation>
+        <translation>Fájlkezelő megnyitása</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="766"/>
@@ -4971,7 +4971,7 @@ Biztos folytassuk?</translation>
     <message>
         <location filename="DlgConvert.ui" line="1228"/>
         <source>Open File Manager</source>
-        <translation type="unfinished">Megnyitás Intézőben</translation>
+        <translation>Fájlkezelő megnyitása</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1305"/>
@@ -5362,7 +5362,7 @@ Biztos folytassuk?</translation>
     <message>
         <location filename="Helper.cpp" line="530"/>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Beállítások</translation>
     </message>
 </context>
 <context>
@@ -7109,7 +7109,7 @@ Biztos folytassuk?</translation>
         <location filename="DlgCreateMulti.ui" line="251"/>
         <source>Open File Manager</source>
         <oldsource>Open File Explorer</oldsource>
-        <translation type="unfinished">Megnyitás Intézőben</translation>
+        <translation>Fájlkezelő megnyitása</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.ui" line="209"/>
@@ -14404,7 +14404,7 @@ Szeretné újratársítani?</translation>
     <message>
         <location filename="DlgSimilar.ui" line="41"/>
         <source>Include subfolders</source>
-        <translation type="unfinished">Almappákkal</translation>
+        <translation>Almappákkal</translation>
     </message>
     <message>
         <location filename="DlgSimilar.ui" line="158"/>
