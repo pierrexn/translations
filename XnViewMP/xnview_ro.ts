@@ -16241,7 +16241,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation>Pastă</translation>
+        <translation>Lipește</translation>
     </message>
     <message>
         <source>Right</source>
