@@ -2295,7 +2295,7 @@ Presunúť a pustiť nad želaný uzol pre priradenie.</translation>
         <location filename="DlgArchive.ui" line="41"/>
         <source>Open file manager after compressing</source>
         <oldsource>Open File Explorer after compressing</oldsource>
-        <translation type="unfinished">Otvoriť súborový prieskumník po kompresii</translation>
+        <translation>Otvoriť súborový prieskumník po kompresii</translation>
     </message>
     <message>
         <location filename="DlgArchive.cpp" line="103"/>
@@ -3598,7 +3598,7 @@ Chcete ho prepísať?</translation>
         <location filename="DlgContactSheet.ui" line="722"/>
         <source>Open File Manager</source>
         <oldsource>Open File Explorer</oldsource>
-        <translation type="unfinished">Otvoriť prieskumníka súborov</translation>
+        <translation>Otvoriť prieskumníka súborov</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="766"/>
@@ -4891,7 +4891,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="DlgConvert.ui" line="1228"/>
         <source>Open File Manager</source>
-        <translation type="unfinished">Otvoriť prieskumníka súborov</translation>
+        <translation>Otvoriť prieskumníka súborov</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1235"/>
@@ -5395,7 +5395,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="Helper.cpp" line="530"/>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Možnosti</translation>
     </message>
 </context>
 <context>
@@ -7142,7 +7142,7 @@ Chcete pokračovať?</translation>
         <location filename="DlgCreateMulti.ui" line="251"/>
         <source>Open File Manager</source>
         <oldsource>Open File Explorer</oldsource>
-        <translation type="unfinished">Otvoriť prieskumníka súborov</translation>
+        <translation>Otvoriť prieskumníka súborov</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.ui" line="209"/>
@@ -10481,7 +10481,7 @@ Thank you for purchasing %1.</source>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Plugin is not installed. 
 Please install it via Tools › Plugins</source>
-        <translation>Zásuvný modul nie je nainštalovaný. 
+        <translation>Zásuvný modul nie je nainštalovaný.&#xa0;
 Nainštalujte ho cez Nástroje › Zásuvné moduly.</translation>
     </message>
 </context>
@@ -11366,7 +11366,7 @@ Chcete ich odstrániť?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="92"/>
         <source>Show &apos;Desktop&apos; in folder tree</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť „Plocha“ v stromovej štruktúre priečinkov</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="181"/>
@@ -14394,7 +14394,7 @@ Chcete ho priradiť znova?</translation>
     <message>
         <location filename="DlgSimilar.ui" line="41"/>
         <source>Include subfolders</source>
-        <translation type="unfinished">Vrátane podpriečinkov</translation>
+        <translation>Vrátane podpriečinkov</translation>
     </message>
     <message>
         <location filename="DlgSimilar.ui" line="46"/>
@@ -22438,7 +22438,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="MyDirModel.cpp" line="336"/>
         <source>My Computer</source>
-        <translation type="unfinished"></translation>
+        <translation>Môj počítač</translation>
     </message>
     <message>
         <location filename="MyDirModel.cpp" line="1218"/>
