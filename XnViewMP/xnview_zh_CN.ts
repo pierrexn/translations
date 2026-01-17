@@ -24371,12 +24371,12 @@ Do you want to keep the thumbnails?
     <message>
         <location filename="xnview.cpp" line="483"/>
         <source>Catalog update</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">缓存数据库更新</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="483"/>
         <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">如果要在 &quot;缓存数据库筛选器 &quot;中使用新节点，则需要更新目录（设置&gt;缓存数据库&gt;更新元数据）。 </translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="878"/>
@@ -24407,7 +24407,9 @@ Rating, Tag &amp; Color labels will not be saved.</source>
         <source>There is a problem to update Catalog:
 (Error: % 1)
 Please contact the developer.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">更新缓存数据库时出现问题：
+(错误：% 1）
+请联系开发人员。</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="949"/>
