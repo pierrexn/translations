@@ -650,7 +650,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="BrowserWindow.cpp" line="2261"/>
         <source>Thumbnails</source>
-        <translation type="unfinished">サムネイル</translation>
+        <translation>サムネイル</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3454"/>
@@ -946,28 +946,28 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CategoryView.cpp" line="489"/>
         <source>New smart album...</source>
-        <translation type="unfinished"></translation>
+        <translation>新しいスマートアルバム...</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="491"/>
         <location filename="CategoryView.cpp" line="664"/>
         <source>Create Smart Album from current filter...</source>
-        <translation type="unfinished"></translation>
+        <translation>現在のフィルターからスマートアルバムを作成...</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="495"/>
         <source>Edit...</source>
-        <translation type="unfinished">編集...</translation>
+        <translation>編集...</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="522"/>
         <source>Delete Smart Album</source>
-        <translation type="unfinished"></translation>
+        <translation>スマートアルバムの削除</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="522"/>
         <source>Are you sure to delete this Smart Album?</source>
-        <translation type="unfinished"></translation>
+        <translation>このスマートアルバムを削除してよろしいですか？</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="547"/>
@@ -1027,12 +1027,12 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CategoryView.cpp" line="662"/>
         <source>Create Smart Album...</source>
-        <translation type="unfinished"></translation>
+        <translation>スマートアルバムを作成...</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="696"/>
         <source>Are you sure to delete these categories?</source>
-        <translation type="unfinished"></translation>
+        <translation>これらのカテゴリーを削除してよろしいですか？</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="709"/>
@@ -1083,7 +1083,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CompareWidget.cpp" line="52"/>
         <source>Navigator</source>
-        <translation type="unfinished"></translation>
+        <translation>ナビゲーター</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="563"/>
@@ -2146,13 +2146,13 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DBFilterModel.cpp" line="169"/>
         <source>Smart Albums</source>
-        <translation type="unfinished"></translation>
+        <translation>スマートアルバム</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="295"/>
         <location filename="DBFilterModel.cpp" line="2061"/>
         <source>No Smart Album</source>
-        <translation type="unfinished"></translation>
+        <translation>スマートアルバムなし</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1300"/>
@@ -2179,7 +2179,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DBFilterModel.cpp" line="1942"/>
         <source>Square</source>
-        <translation type="unfinished"></translation>
+        <translation>平方</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2015"/>
@@ -2357,7 +2357,7 @@ Drag and Drop over the desired node to assign.</source>
         <location filename="DlgArchive.ui" line="41"/>
         <source>Open file manager after compressing</source>
         <oldsource>Open File Explorer after compressing</oldsource>
-        <translation type="unfinished">圧縮した後、エクスプローラでファイルを開く</translation>
+        <translation>圧縮後にファイルマネージャーを開く</translation>
     </message>
     <message>
         <location filename="DlgArchive.cpp" line="103"/>
@@ -3648,7 +3648,7 @@ Do you want to overwrite it?</oldsource>
         <location filename="DlgContactSheet.ui" line="722"/>
         <source>Open File Manager</source>
         <oldsource>Open File Explorer</oldsource>
-        <translation type="unfinished">エクスプローラで開く</translation>
+        <translation>ファイルマネージャーを開く</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="766"/>
@@ -4300,22 +4300,22 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="104"/>
         <source>Mode</source>
-        <translation type="unfinished">モード</translation>
+        <translation>モード</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="115"/>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>水平方向</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="161"/>
         <source>Edges</source>
-        <translation type="unfinished">エッジ</translation>
+        <translation>エッジ</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="174"/>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>垂直方向</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="194"/>
@@ -4325,7 +4325,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="220"/>
         <source>Zealous</source>
-        <translation type="unfinished"></translation>
+        <translation>帯状に切り取り</translation>
     </message>
 </context>
 <context>
@@ -5311,7 +5311,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="1228"/>
         <source>Open File Manager</source>
-        <translation type="unfinished">エクスプローラで開く</translation>
+        <translation>ファイルマネージャーで開く</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1521"/>
@@ -5441,7 +5441,7 @@ Do you want to continue?</source>
     <message>
         <location filename="Helper.cpp" line="530"/>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation>オプション(&amp;O)</translation>
     </message>
 </context>
 <context>
@@ -7210,7 +7210,7 @@ Do you want to continue?</source>
         <location filename="DlgCreateMulti.ui" line="251"/>
         <source>Open File Manager</source>
         <oldsource>Open File Explorer</oldsource>
-        <translation type="unfinished">エクスプローラで開く</translation>
+        <translation>ファイルマネージャーを開く</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.ui" line="209"/>
@@ -11121,18 +11121,18 @@ Do you want to remove them?</source>
         <location filename="DlgSearch.cpp" line="80"/>
         <location filename="DlgSearch.cpp" line="187"/>
         <source>Smart Albums</source>
-        <translation type="unfinished"></translation>
+        <translation>スマートアルバム</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="80"/>
         <location filename="DlgSearch.cpp" line="187"/>
         <source>Name:</source>
-        <translation type="unfinished">名前:</translation>
+        <translation>名前:</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="179"/>
         <source>Save</source>
-        <translation type="unfinished">保存</translation>
+        <translation>保存</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="328"/>
@@ -11152,7 +11152,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.cpp" line="395"/>
         <source>GROUP</source>
-        <translation type="unfinished"></translation>
+        <translation>グループ</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="420"/>
@@ -11162,7 +11162,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.cpp" line="445"/>
         <source>Search</source>
-        <translation type="unfinished">検索</translation>
+        <translation>検索</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="476"/>
@@ -11215,7 +11215,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.ui" line="143"/>
         <source>Close dialog when browse</source>
-        <translation type="unfinished"></translation>
+        <translation>ブラウズ時にダイアログを閉じる</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="165"/>
@@ -11245,7 +11245,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.ui" line="237"/>
         <source>Save as Smart Album...</source>
-        <translation type="unfinished"></translation>
+        <translation>スマートアルバムとして保存...</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="362"/>
@@ -11465,7 +11465,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="92"/>
         <source>Show &apos;Desktop&apos; in folder tree</source>
-        <translation type="unfinished"></translation>
+        <translation>フォルダツリーに「デスクトップ」を表示する</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="181"/>
@@ -11857,7 +11857,7 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettingsCache.ui" line="265"/>
         <source>Store Exiftool fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Exiftoolフィールドを保存する</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="311"/>
@@ -12830,12 +12830,12 @@ Thumbnail</source>
         <source>Add &apos;Browse with XnViewMP&apos; to context menu</source>
         <oldsource>Add &apos;Browse with XnViewMP&apos; to context menu (requires admin rights)</oldsource>
         <translatorcomment>0.60</translatorcomment>
-        <translation type="unfinished">コンテキストメニューに&apos;XnViewで開く&apos;を追加する（管理者権限が必要）</translation>
+        <translation>&apos;XnViewMPで開く&apos;をコンテキストメニューに追加する</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="58"/>
         <source>Enable shell extension to context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>コンテキストメニューのシェル拡張を有効にする</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="70"/>
@@ -13795,12 +13795,12 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="569"/>
         <source>Copyright</source>
-        <translation type="unfinished">著作権</translation>
+        <translation>著作権</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="603"/>
         <source>Image description</source>
-        <translation type="unfinished">説明</translation>
+        <translation>説明</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="652"/>
@@ -13925,7 +13925,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="110"/>
         <source>Use transparency grid</source>
-        <translation type="unfinished">透明グリッドの使用</translation>
+        <translation>透明グリッドの使用</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="211"/>
@@ -14502,7 +14502,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSimilar.ui" line="41"/>
         <source>Include subfolders</source>
-        <translation type="unfinished">サブフォルダーを含める</translation>
+        <translation>サブフォルダーを含める</translation>
     </message>
     <message>
         <location filename="DlgSimilar.ui" line="46"/>
@@ -16608,7 +16608,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="FavoritesView.cpp" line="106"/>
         <source>Show files in subfolders</source>
         <oldsource>Show files in subfolder</oldsource>
-        <translation type="unfinished">サブフォルダーのファイルを表示</translation>
+        <translation>サブフォルダーのファイルを表示</translation>
     </message>
     <message>
         <location filename="FavoritesView.cpp" line="114"/>
@@ -16903,7 +16903,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="81"/>
         <source>Greyscale</source>
-        <translation type="unfinished">グレースケール</translation>
+        <translation>グレースケール</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="85"/>
@@ -17210,22 +17210,22 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="SearchField.cpp" line="29"/>
         <source>File path</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルパス</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="40"/>
         <source>Bits per sample</source>
-        <translation type="unfinished"></translation>
+        <translation>サンプルあたりのビット数</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="44"/>
         <source>All standard fields</source>
-        <translation type="unfinished"></translation>
+        <translation>すべての標準フィールド</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="45"/>
         <source>ExifTool value</source>
-        <translation type="unfinished"></translation>
+        <translation>ExifToolの値</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="140"/>
@@ -17890,7 +17890,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="ItemModel.cpp" line="1088"/>
         <source>Lens model</source>
-        <translation type="unfinished">レンズモデル</translation>
+        <translation>レンズモデル</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1090"/>
@@ -19703,7 +19703,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MediaPlayerMDK.cpp" line="248"/>
         <source>Open with</source>
-        <translation type="unfinished"></translation>
+        <translation>…で開く</translation>
     </message>
 </context>
 <context>
@@ -19766,7 +19766,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="23"/>
         <source>Film strip 3</source>
-        <translation type="unfinished">フィルムストリップ 3</translation>
+        <translation>フィルムストリップ 3</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="25"/>
@@ -20779,7 +20779,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="510"/>
         <source>Add to album</source>
-        <translation type="unfinished"></translation>
+        <translation>アルバムに追加</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="511"/>
@@ -20794,12 +20794,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="513"/>
         <source>Remove from this album</source>
-        <translation type="unfinished"></translation>
+        <translation>このアルバムから削除</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="514"/>
         <source>Remove from all albums</source>
-        <translation type="unfinished"></translation>
+        <translation>すべてのアルバムから削除</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="516"/>
@@ -22017,7 +22017,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="323"/>
         <source>Paste in selection</source>
-        <translation type="unfinished"></translation>
+        <translation>選択範囲に貼り付け</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="324"/>
@@ -22225,12 +22225,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="492"/>
         <source>Remove horizontal strip</source>
-        <translation type="unfinished"></translation>
+        <translation>水平方向のストリップを除去</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="493"/>
         <source>Remove vertical strip</source>
-        <translation type="unfinished"></translation>
+        <translation>垂直方向のストリップを除去</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="498"/>
@@ -22758,7 +22758,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyDirModel.cpp" line="336"/>
         <source>My Computer</source>
-        <translation type="unfinished"></translation>
+        <translation>マイコンピュータ</translation>
     </message>
     <message>
         <location filename="MyDirModel.cpp" line="1218"/>
@@ -23472,7 +23472,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="PreviewInfo.cpp" line="473"/>
         <source>Favorites</source>
-        <translation type="unfinished">お気に入り</translation>
+        <translation>お気に入り</translation>
     </message>
     <message>
         <location filename="PreviewInfo.cpp" line="530"/>
@@ -24133,12 +24133,12 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="SearchField.cpp" line="944"/>
         <source>is between (today)</source>
-        <translation type="unfinished"></translation>
+        <translation>（今日を）含む</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="945"/>
         <source>is within the last</source>
-        <translation type="unfinished"></translation>
+        <translation>直近の〜以内</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="1034"/>
@@ -24214,12 +24214,12 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="SearchField.cpp" line="937"/>
         <source>day(s)</source>
-        <translation type="unfinished">日</translation>
+        <translation>日</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="938"/>
         <source>TODAY</source>
-        <translation type="unfinished"></translation>
+        <translation>今日</translation>
     </message>
 </context>
 <context>
@@ -24227,32 +24227,32 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="SearchGroup.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>フォーム</translation>
     </message>
     <message>
         <location filename="SearchGroup.ui" line="62"/>
         <source>Add &gt;&gt;</source>
-        <translation type="unfinished">追加 &gt;&gt;</translation>
+        <translation>追加 &gt;&gt;</translation>
     </message>
     <message>
         <location filename="SearchGroup.ui" line="72"/>
         <source>Clear all</source>
-        <translation type="unfinished">すべてクリア</translation>
+        <translation>すべてクリア</translation>
     </message>
     <message>
         <location filename="SearchGroup.ui" line="92"/>
         <source>Match inside this group</source>
-        <translation type="unfinished"></translation>
+        <translation>このグループ内で一致</translation>
     </message>
     <message>
         <location filename="SearchGroup.ui" line="100"/>
         <source>AND</source>
-        <translation type="unfinished"></translation>
+        <translation>かつ</translation>
     </message>
     <message>
         <location filename="SearchGroup.ui" line="105"/>
         <source>OR</source>
-        <translation type="unfinished"></translation>
+        <translation>または</translation>
     </message>
 </context>
 <context>
@@ -24280,12 +24280,12 @@ You can change it in Settings › Catalog.</oldsource>
         <location filename="SummaryWidget.cpp" line="293"/>
         <location filename="SummaryWidget.cpp" line="300"/>
         <source>Greyscale</source>
-        <translation type="unfinished">グレースケール</translation>
+        <translation>グレースケール</translation>
     </message>
     <message>
         <location filename="SummaryWidget.cpp" line="294"/>
         <source>Indexed</source>
-        <translation type="unfinished"></translation>
+        <translation>インデックス付き</translation>
     </message>
 </context>
 <context>
