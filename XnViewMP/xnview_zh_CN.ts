@@ -14675,7 +14675,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSlideshow.ui" line="343"/>
         <source>Watch folders for new files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">监控文件夹中的新文件</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="580"/>
@@ -14942,12 +14942,12 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgStartupWizard.ui" line="97"/>
         <source>Local machine</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">本地机器</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="102"/>
         <source>Portable (application folder)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">便携式（应用程序文件夹）</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="128"/>
@@ -17082,12 +17082,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="SearchField.cpp" line="44"/>
         <source>All standard fields</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">所有标准字段</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="45"/>
         <source>ExifTool value</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ExifTool 值</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="140"/>
