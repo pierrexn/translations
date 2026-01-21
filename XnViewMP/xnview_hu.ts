@@ -4246,7 +4246,7 @@ Biztos folytassuk?</translation>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="220"/>
         <source>Zealous</source>
-        <translation type="unfinished"></translation>
+        <translation>Zealous</translation>
     </message>
 </context>
 <context>
@@ -11333,7 +11333,7 @@ El szeretné őket távolítani?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="92"/>
         <source>Show &apos;Desktop&apos; in folder tree</source>
-        <translation type="unfinished"></translation>
+        <translation>Az &apos;Asztal&apos; megjelenítése a mappaszerkezetben</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="181"/>
@@ -12693,7 +12693,7 @@ miniatűrként</translation>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="58"/>
         <source>Enable shell extension to context menu</source>
-        <translation type="unfinished">Hozzáadás a helyi menühöz</translation>
+        <translation>Bővítmény hozzáadása a helyi menühöz</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="70"/>
@@ -22394,7 +22394,7 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="MyDirModel.cpp" line="336"/>
         <source>My Computer</source>
-        <translation type="unfinished"></translation>
+        <translation>Számítógépem</translation>
     </message>
     <message>
         <location filename="MyDirModel.cpp" line="1218"/>
@@ -23919,7 +23919,7 @@ Megváltoztathatja a Beállítások › Katalógus alatt.</translation>
     <message>
         <location filename="SummaryWidget.cpp" line="294"/>
         <source>Indexed</source>
-        <translation type="unfinished"></translation>
+        <translation>Indexelt</translation>
     </message>
 </context>
 <context>
