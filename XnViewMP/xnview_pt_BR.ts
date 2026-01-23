@@ -9214,11 +9214,11 @@ Deseja verificar primeiro se há entradas afetadas?</translation>
         <translation>Caminho base dos arquivos</translation>
     </message>
     <message>
-        <source>Update metadata...</source>
-        <translation>Atualizar metadados...</translation>
+        <source>Store Exiftool fields</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Store Exiftool fields</source>
+        <source>Update metadata</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9843,10 +9843,6 @@ miniatura</translation>
         <translation>XnViewMP para Windows</translation>
     </message>
     <message>
-        <source>File Associations</source>
-        <translation>Associações de arquivo</translation>
-    </message>
-    <message>
         <source>Same as Catalog</source>
         <translation>Igual ao catálogo</translation>
     </message>
@@ -9857,10 +9853,6 @@ miniatura</translation>
     <message>
         <source>Please be careful to folder rights by using XnView folder</source>
         <translation>Tenha cuidado com os direitos de pasta usando a pasta XnView</translation>
-    </message>
-    <message>
-        <source>Please start XnViewMP with admin rights (only the first time).</source>
-        <translation>Inicie o XnViewMP com direitos de administrador (apenas na primeira vez).</translation>
     </message>
     <message>
         <source>System - Current user</source>
@@ -9958,7 +9950,15 @@ miniatura</translation>
         <translation type="unfinished">Adicionar &apos;Navegar com XnViewMP&apos; ao menu de contexto</translation>
     </message>
     <message>
-        <source>Enable shell extension to context menu</source>
+        <source>Add shell extension to context menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Register application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open &apos;Default Apps&apos;...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11503,10 +11503,6 @@ Deseja reatribuir?</translation>
         <translation>Idioma</translation>
     </message>
     <message>
-        <source>System integration</source>
-        <translation>Integração do sistema</translation>
-    </message>
-    <message>
         <source>Add &apos;Browse with XnViewMP&apos; to context menu</source>
         <translation>Adicionar &apos;Navegar com XnViewMP&apos; ao menu de contexto</translation>
     </message>
@@ -11577,6 +11573,26 @@ Deseja reatribuir?</translation>
     <message>
         <source>Portable (application folder)</source>
         <translation>Portátil (pasta do aplicativo)</translation>
+    </message>
+    <message>
+        <source>Windows Explorer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add shell extension to context menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Association</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Register application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open &apos;Default Apps&apos;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

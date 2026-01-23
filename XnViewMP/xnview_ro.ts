@@ -9228,12 +9228,12 @@ Dorești să verifici mai întâi intrările afectate?</translation>
         <translation>Mentenanță...</translation>
     </message>
     <message>
-        <source>Update metadata...</source>
-        <translation>Se actualizează metadatele...</translation>
-    </message>
-    <message>
         <source>Store Exiftool fields</source>
         <translation>Stochează câmpurile Exiftool-ului (uneltei Exif)</translation>
+    </message>
+    <message>
+        <source>Update metadata</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9857,16 +9857,8 @@ miniatură</translation>
         <translation>Navighează cu XnViewMP</translation>
     </message>
     <message>
-        <source>Please start XnViewMP with admin rights (only the first time).</source>
-        <translation>Te rugăm să pornești XnViewMP cu drepturi de administrator (doar pentru prima dată).</translation>
-    </message>
-    <message>
         <source>Same as Catalog</source>
         <translation>La fel ca și catalogul</translation>
-    </message>
-    <message>
-        <source>File Associations</source>
-        <translation>Asocierea de fișiere</translation>
     </message>
     <message>
         <source>XnViewMP for Windows</source>
@@ -9972,8 +9964,16 @@ miniatură</translation>
         <translation>Adaugă „Navighează cu XnViewMP” în meniul contextual</translation>
     </message>
     <message>
-        <source>Enable shell extension to context menu</source>
-        <translation>Activează extensia shell în meniul contextual</translation>
+        <source>Add shell extension to context menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Register application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open &apos;Default Apps&apos;...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11545,10 +11545,6 @@ Dorești să-l reatribui?</translation>
         <translation>Lunar</translation>
     </message>
     <message>
-        <source>System integration</source>
-        <translation>Integrarea sistemului</translation>
-    </message>
-    <message>
         <source>Weekly</source>
         <translation>Săptămânal</translation>
     </message>
@@ -11591,6 +11587,26 @@ Dorești să-l reatribui?</translation>
     <message>
         <source>Portable (application folder)</source>
         <translation>Portabil(ă) (folderul (dosarul) aplicației)</translation>
+    </message>
+    <message>
+        <source>Windows Explorer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add shell extension to context menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Association</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Register application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open &apos;Default Apps&apos;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -280,60 +280,60 @@
         <translation>Side %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2028"/>
+        <location filename="ViewWindow.cpp" line="2039"/>
         <source>Customize toolbar...</source>
         <translation>Tilpas værktøjslinien...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2284"/>
-        <location filename="ViewWindow.cpp" line="2290"/>
-        <location filename="ViewWindow.cpp" line="2294"/>
+        <location filename="ViewWindow.cpp" line="2295"/>
+        <location filename="ViewWindow.cpp" line="2301"/>
+        <location filename="ViewWindow.cpp" line="2305"/>
         <source>Delete items</source>
         <translation>Slet emner</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2284"/>
+        <location filename="ViewWindow.cpp" line="2295"/>
         <source>Would you like to discard your edits and delete 
 &quot;%1&quot;?</source>
         <translation>Vil du kassere dine redigeringer og slette
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2290"/>
+        <location filename="ViewWindow.cpp" line="2301"/>
         <source>Are you sure to delete 
 &quot;%1&quot;?</source>
         <translation>Er du sikker pæå du vil slette 
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2294"/>
+        <location filename="ViewWindow.cpp" line="2305"/>
         <source>Are you sure to delete 
 &quot;%1&quot; (%2 items)?</source>
         <translation>Er du sikker på du vil slette 
 &quot;%1&quot; (%2 elementer)?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2970"/>
+        <location filename="ViewWindow.cpp" line="2981"/>
         <source>The file &lt;%1&gt; is read-only. Please choose another file name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2978"/>
+        <location filename="ViewWindow.cpp" line="2989"/>
         <source>Confirm Save</source>
         <translation>Bekræft Gem</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2979"/>
+        <location filename="ViewWindow.cpp" line="2990"/>
         <source>&lt;%1&gt; already exists!</source>
         <translation>&lt;%1&gt; eksisterer allertede!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2979"/>
+        <location filename="ViewWindow.cpp" line="2990"/>
         <source>Do you want to overwrite it?</source>
         <translation>Vil du overskrive?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4453"/>
+        <location filename="ViewWindow.cpp" line="4464"/>
         <source>Number of unique colors: %1</source>
         <translation>Antal unikke farver: %1</translation>
     </message>
@@ -379,43 +379,43 @@
         <translation>&lt;Tom&gt;</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2960"/>
-        <location filename="ViewWindow.cpp" line="2970"/>
+        <location filename="ViewWindow.cpp" line="2971"/>
+        <location filename="ViewWindow.cpp" line="2981"/>
         <source>Save</source>
         <translation>Gem</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2960"/>
+        <location filename="ViewWindow.cpp" line="2971"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
         <translation>Billedet vil blive konverteret til 24-bit RGB (8 bits pr. kanal)</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3003"/>
-        <location filename="ViewWindow.cpp" line="3134"/>
-        <location filename="ViewWindow.cpp" line="3184"/>
+        <location filename="ViewWindow.cpp" line="3014"/>
+        <location filename="ViewWindow.cpp" line="3145"/>
+        <location filename="ViewWindow.cpp" line="3195"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
         <translation>Gemmer billede...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3005"/>
-        <location filename="ViewWindow.cpp" line="3186"/>
+        <location filename="ViewWindow.cpp" line="3016"/>
+        <location filename="ViewWindow.cpp" line="3197"/>
         <source>Error</source>
         <translation>Fejl</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3005"/>
-        <location filename="ViewWindow.cpp" line="3186"/>
+        <location filename="ViewWindow.cpp" line="3016"/>
+        <location filename="ViewWindow.cpp" line="3197"/>
         <source>An error occurred during saving!</source>
         <translation>Fejl opstået i forbindelse med Gem!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3276"/>
+        <location filename="ViewWindow.cpp" line="3287"/>
         <source>Properties</source>
         <translation>Egenskaber</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4453"/>
+        <location filename="ViewWindow.cpp" line="4464"/>
         <source>Colors count</source>
         <translation>Farveoptælling</translation>
     </message>
@@ -473,28 +473,28 @@
 <context>
     <name>BaseViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="4958"/>
+        <location filename="ViewWindow.cpp" line="4969"/>
         <source>Error</source>
         <translation>Fejl</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4949"/>
-        <location filename="ViewWindow.cpp" line="4958"/>
+        <location filename="ViewWindow.cpp" line="4960"/>
+        <location filename="ViewWindow.cpp" line="4969"/>
         <source>File can&apos;t be loaded!</source>
         <translation>Fil kan ikke indlæses!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4949"/>
+        <location filename="ViewWindow.cpp" line="4960"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <translation>For at se og konvertere PDF/PS/EPS/AI-filer kræver XnView MP at Ghostscript %1 er installeret i dit system.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4950"/>
+        <location filename="ViewWindow.cpp" line="4961"/>
         <source>Please visit the %1 for more information.</source>
         <translation>Besøg %1 for yderligere information.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4962"/>
+        <location filename="ViewWindow.cpp" line="4973"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt;Tom&gt;</translation>
     </message>
@@ -548,22 +548,22 @@ Vil du slette favoritten &quot;% 1&quot;?</translation>
 <context>
     <name>BrowserWindow</name>
     <message>
-        <location filename="BrowserWindow.cpp" line="1763"/>
+        <location filename="BrowserWindow.cpp" line="1764"/>
         <source>Folders</source>
         <translation>Mapper</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1767"/>
+        <location filename="BrowserWindow.cpp" line="1768"/>
         <source>Favorites</source>
         <translation>Favoritter</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1782"/>
+        <location filename="BrowserWindow.cpp" line="1783"/>
         <source>Categories</source>
         <translation>Kategorier</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1820"/>
+        <location filename="BrowserWindow.cpp" line="1821"/>
         <source>Info</source>
         <translatorcomment>Informationer</translatorcomment>
         <translation>Info</translation>
@@ -579,34 +579,34 @@ Vil du slette favoritten &quot;% 1&quot;?</translation>
         <translation>Fastgør forhåndsvisningspanelet</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="921"/>
+        <location filename="BrowserWindow.cpp" line="922"/>
         <source>The database is corrupted. Please check it before you continue!</source>
         <oldsource>The database is corrupted, please check it before to continue!</oldsource>
         <translation type="unfinished">Databasen er ikke i orden. Kontrollér den før du fortsætter!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1664"/>
+        <location filename="BrowserWindow.cpp" line="1665"/>
         <source>Add to Favorites</source>
         <translation>Tilføj til favoritter</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1771"/>
+        <location filename="BrowserWindow.cpp" line="1772"/>
         <source>Catalog Filter</source>
         <oldsource>Categories Filter</oldsource>
         <translation>Katalogfilter</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1787"/>
+        <location filename="BrowserWindow.cpp" line="1788"/>
         <source>Category Sets</source>
         <translation>Kategori-sæt</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1999"/>
+        <location filename="BrowserWindow.cpp" line="2000"/>
         <source>Match</source>
         <translation>Sammenlign</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2009"/>
+        <location filename="BrowserWindow.cpp" line="2010"/>
         <source>Click to filter - use Shift and Control for multiple selections.
 Right Click on different items for pop-up menus with actions.
 Drag and Drop over the desired node to assign.</source>
@@ -615,50 +615,50 @@ Højreklik på forskellige pop-op menuer med muligheder.
 Træk og slip over det ønskede knudepunktet for at tildele.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2032"/>
+        <location filename="BrowserWindow.cpp" line="2033"/>
         <source>Global</source>
         <translatorcomment>Globalt</translatorcomment>
         <translation>Globalt</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2039"/>
+        <location filename="BrowserWindow.cpp" line="2040"/>
         <source>Current folder</source>
         <translatorcomment>Aktuel mappe</translatorcomment>
         <translation>Aktuel mappe</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2046"/>
+        <location filename="BrowserWindow.cpp" line="2047"/>
         <source>Current folder (Recursive)</source>
         <translatorcomment>Aktuel mappe (Rekursive)</translatorcomment>
         <translation>Aktuel mappe (rekursiv)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2261"/>
+        <location filename="BrowserWindow.cpp" line="2262"/>
         <source>Thumbnails</source>
         <translation type="unfinished">Miniaturer</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3454"/>
+        <location filename="BrowserWindow.cpp" line="3455"/>
         <source>&lt;Search results&gt;</source>
         <translation>Søge-resultat</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3456"/>
+        <location filename="BrowserWindow.cpp" line="3457"/>
         <source>&lt;Tagged files&gt;</source>
         <translation>&lt;Markerede filer&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3551"/>
+        <location filename="BrowserWindow.cpp" line="3552"/>
         <source>This folder doesn&apos;t exist!</source>
         <translation>Mappen eksisterer ikke!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3764"/>
+        <location filename="BrowserWindow.cpp" line="3765"/>
         <source>Favorite name:</source>
         <translation>Favoritnavn:</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="4009"/>
+        <location filename="BrowserWindow.cpp" line="4010"/>
         <source>Are you sure to delete these %n item(s)?</source>
         <translation>
             <numerusform>Er du sikker på du vil slette dette emne?</numerusform>
@@ -666,53 +666,53 @@ Træk og slip over det ønskede knudepunktet for at tildele.</translation>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4094"/>
+        <location filename="BrowserWindow.cpp" line="4095"/>
         <source>The files cannot be renamed, an error occurred.</source>
         <translation>Filerne kan ikke omdøbes: Fejl opstået.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3551"/>
-        <location filename="BrowserWindow.cpp" line="4094"/>
+        <location filename="BrowserWindow.cpp" line="3552"/>
+        <location filename="BrowserWindow.cpp" line="4095"/>
         <source>Error</source>
         <translation>Fejl</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1828"/>
+        <location filename="BrowserWindow.cpp" line="1829"/>
         <source>Metadata</source>
         <translation>Metadata</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1837"/>
+        <location filename="BrowserWindow.cpp" line="1838"/>
         <source>Histogram</source>
         <translation>Histogram</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2015"/>
+        <location filename="BrowserWindow.cpp" line="2016"/>
         <source>Match any selected entry (OR)</source>
         <translation>Svarer til en hvilken som helst indtastning (OR)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2021"/>
+        <location filename="BrowserWindow.cpp" line="2022"/>
         <source>Match all selected entries (AND)</source>
         <translation>Svarer til alle indtastninger (AND)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3458"/>
+        <location filename="BrowserWindow.cpp" line="3459"/>
         <source>&lt;Catalog filter results&gt;</source>
         <translation>&lt;Katalog filter results&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3460"/>
+        <location filename="BrowserWindow.cpp" line="3461"/>
         <source>&lt;files&gt;</source>
         <translation>&lt;filer&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4002"/>
+        <location filename="BrowserWindow.cpp" line="4003"/>
         <source>Delete items &amp; companions</source>
         <translation>Slet elementer &amp; companions</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="4003"/>
+        <location filename="BrowserWindow.cpp" line="4004"/>
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
         <translation>
             <numerusform>Vil du virkelig fjerne dette %n-objekt? - %1 objekt markeret?</numerusform>
@@ -720,37 +720,37 @@ Træk og slip over det ønskede knudepunktet for at tildele.</translation>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4458"/>
+        <location filename="BrowserWindow.cpp" line="4459"/>
         <source>Search...</source>
         <translation>Søg...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4459"/>
+        <location filename="BrowserWindow.cpp" line="4460"/>
         <source>Add to favorites...</source>
         <translation>Tilføj til favoritter...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4462"/>
+        <location filename="BrowserWindow.cpp" line="4463"/>
         <source>Start slideshow</source>
         <translation>Start Slideshow</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4464"/>
+        <location filename="BrowserWindow.cpp" line="4465"/>
         <source>Open in file manager</source>
         <translation type="unfinished">Åbn i Stifinder</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4467"/>
+        <location filename="BrowserWindow.cpp" line="4468"/>
         <source>Properties</source>
         <translation>Egenskaber</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4576"/>
+        <location filename="BrowserWindow.cpp" line="4577"/>
         <source>Load filelist</source>
         <translation>Indlæs filliste</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4008"/>
+        <location filename="BrowserWindow.cpp" line="4009"/>
         <source>Delete items</source>
         <translation>Slet element</translation>
     </message>
@@ -760,22 +760,22 @@ Træk og slip over det ønskede knudepunktet for at tildele.</translation>
         <translation>Tilpas værktøjslinien...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1672"/>
+        <location filename="BrowserWindow.cpp" line="1673"/>
         <source>Add Favorite...</source>
         <translation>Tilføj favorit ...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4456"/>
+        <location filename="BrowserWindow.cpp" line="4457"/>
         <source>Show files in subfolders</source>
         <translation>Vis filer i underliggende mapper</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4499"/>
+        <location filename="BrowserWindow.cpp" line="4500"/>
         <source>Delete folder</source>
         <translation>Slet mappe</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4499"/>
+        <location filename="BrowserWindow.cpp" line="4500"/>
         <source>Are you sure to delete this folder?</source>
         <translation>Er du sikker på du vil slette denne mappe?</translation>
     </message>
@@ -1943,8 +1943,8 @@ Træk og slip over det ønskede knudepunktet for at tildele.</translation>
     <message>
         <location filename="CategoryManager.cpp" line="159"/>
         <location filename="MyDB.cpp" line="909"/>
-        <location filename="MyDB.cpp" line="2328"/>
-        <location filename="MyDB.cpp" line="3653"/>
+        <location filename="MyDB.cpp" line="2358"/>
+        <location filename="MyDB.cpp" line="3683"/>
         <source>Other</source>
         <translation>Andre</translation>
     </message>
@@ -11833,8 +11833,8 @@ Vil du fjerne indtastninger, der er tilknyttet en kategori?</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="437"/>
-        <source>Update metadata...</source>
-        <oldsource>Update metadatas...</oldsource>
+        <source>Update metadata</source>
+        <oldsource>Update metadata...</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12650,98 +12650,88 @@ miniature</translation>
 <context>
     <name>DlgSettingsIntegration</name>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="29"/>
-        <location filename="DlgSettingsIntegration.cpp" line="38"/>
-        <location filename="DlgSettingsIntegration.cpp" line="45"/>
-        <location filename="DlgSettingsIntegration.cpp" line="53"/>
+        <location filename="DlgSettingsIntegration.cpp" line="31"/>
+        <location filename="DlgSettingsIntegration.cpp" line="40"/>
+        <location filename="DlgSettingsIntegration.cpp" line="47"/>
+        <location filename="DlgSettingsIntegration.cpp" line="55"/>
         <source>System - Current user</source>
         <oldsource>User (System)</oldsource>
         <translation>System - aktuelle bruger</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="31"/>
+        <location filename="DlgSettingsIntegration.cpp" line="33"/>
         <source>System - Current user (Windows registry)</source>
         <translation>System - aktuelle bruger (Windows registreringsdatabase)</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsIntegration.cpp" line="32"/>
-        <location filename="DlgSettingsIntegration.cpp" line="40"/>
-        <location filename="DlgSettingsIntegration.cpp" line="47"/>
-        <location filename="DlgSettingsIntegration.cpp" line="55"/>
-        <source>System - Local machine</source>
-        <translation>System - lokale anlæg</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="34"/>
         <location filename="DlgSettingsIntegration.cpp" line="42"/>
         <location filename="DlgSettingsIntegration.cpp" line="49"/>
+        <location filename="DlgSettingsIntegration.cpp" line="57"/>
+        <source>System - Local machine</source>
+        <translation>System - lokale anlæg</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsIntegration.cpp" line="36"/>
+        <location filename="DlgSettingsIntegration.cpp" line="44"/>
+        <location filename="DlgSettingsIntegration.cpp" line="51"/>
         <source>Application folder</source>
         <translation>Programmappe</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="36"/>
-        <location filename="DlgSettingsIntegration.cpp" line="43"/>
-        <location filename="DlgSettingsIntegration.cpp" line="50"/>
-        <location filename="DlgSettingsIntegration.cpp" line="57"/>
+        <location filename="DlgSettingsIntegration.cpp" line="38"/>
+        <location filename="DlgSettingsIntegration.cpp" line="45"/>
+        <location filename="DlgSettingsIntegration.cpp" line="52"/>
+        <location filename="DlgSettingsIntegration.cpp" line="59"/>
         <source>Custom</source>
         <translation>Brugerdefineret</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="52"/>
+        <location filename="DlgSettingsIntegration.cpp" line="54"/>
         <source>Same as Catalog</source>
         <translation>Det samme som katalog</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="150"/>
-        <location filename="DlgSettingsIntegration.cpp" line="151"/>
         <location filename="DlgSettingsIntegration.cpp" line="152"/>
+        <location filename="DlgSettingsIntegration.cpp" line="153"/>
+        <location filename="DlgSettingsIntegration.cpp" line="154"/>
         <source>Browse with XnViewMP</source>
         <translation>Gennemse med XnViewMP</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="380"/>
+        <location filename="DlgSettingsIntegration.cpp" line="395"/>
         <source>Select a program</source>
         <translation type="unfinished">Vælg et program</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="452"/>
+        <location filename="DlgSettingsIntegration.cpp" line="472"/>
         <source>Paths</source>
         <translation>Stier</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="452"/>
+        <location filename="DlgSettingsIntegration.cpp" line="472"/>
         <source>Please be careful to folder rights by using XnView folder</source>
         <translation>Vær omhyggelig med mappe rettigheder gældende ved brug af XnView mappe</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="642"/>
+        <location filename="DlgSettingsIntegration.cpp" line="662"/>
         <source>XnViewMP is a fast multi-format graphics browser, viewer, and converter. It reads more than 400 file formats.</source>
         <translation>XnViewMP er en hurtig fler-formats grafisk browser fremviser og konverter. Det kan læse over 400 filformater.</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="643"/>
+        <location filename="DlgSettingsIntegration.cpp" line="663"/>
         <source>XnViewMP for Windows</source>
         <translation>XnViewMP til Windows</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="662"/>
+        <location filename="DlgSettingsIntegration.cpp" line="710"/>
         <source>XnView Slide file</source>
         <translation>XNVIEW Slide-fil</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="669"/>
+        <location filename="DlgSettingsIntegration.cpp" line="717"/>
         <source>%1 Image file</source>
         <translation>%1 billed-fil</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsIntegration.cpp" line="860"/>
-        <source>File Associations</source>
-        <translation>Fil tilknytninger</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsIntegration.cpp" line="860"/>
-        <source>Please start XnViewMP with admin rights (only the first time).</source>
-        <translation>Start XnView med administratorrettigheder (kun første gang).</translation>
     </message>
 </context>
 <context>
@@ -12759,7 +12749,8 @@ miniature</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="58"/>
-        <source>Enable shell extension to context menu</source>
+        <source>Add shell extension to context menu</source>
+        <oldsource>Enable shell extension to context menu</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12769,71 +12760,81 @@ miniature</translation>
         <translation>Kør filtilknytningsværktøjet...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="106"/>
+        <location filename="DlgSettingsIntegration.ui" line="94"/>
+        <source>Register application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsIntegration.ui" line="118"/>
+        <source>Open &apos;Default Apps&apos;...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsIntegration.ui" line="154"/>
         <source>Paths</source>
         <translation>Stier</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="136"/>
+        <location filename="DlgSettingsIntegration.ui" line="184"/>
         <source>Settings - General</source>
         <translation>Indstillinger - generelt</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="153"/>
-        <location filename="DlgSettingsIntegration.ui" line="209"/>
-        <location filename="DlgSettingsIntegration.ui" line="259"/>
-        <location filename="DlgSettingsIntegration.ui" line="315"/>
+        <location filename="DlgSettingsIntegration.ui" line="201"/>
+        <location filename="DlgSettingsIntegration.ui" line="257"/>
+        <location filename="DlgSettingsIntegration.ui" line="307"/>
         <location filename="DlgSettingsIntegration.ui" line="363"/>
+        <location filename="DlgSettingsIntegration.ui" line="411"/>
         <source>Current location</source>
         <translation>Aktuelle position</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="182"/>
+        <location filename="DlgSettingsIntegration.ui" line="230"/>
         <source>Settings - Other</source>
         <translation>Indstillinger - andet</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="232"/>
+        <location filename="DlgSettingsIntegration.ui" line="280"/>
         <source>Database - Catalog</source>
         <translation>Databasekatalog</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="288"/>
+        <location filename="DlgSettingsIntegration.ui" line="336"/>
         <source>Database - Thumbnails</source>
         <translation>Database - Miniaturer</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="329"/>
+        <location filename="DlgSettingsIntegration.ui" line="377"/>
         <source>Configuration</source>
         <translation>Konfiguration</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="340"/>
+        <location filename="DlgSettingsIntegration.ui" line="388"/>
         <source>Current user (recommended)</source>
         <translation>Aktuelle bruger (anbefalet)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="345"/>
+        <location filename="DlgSettingsIntegration.ui" line="393"/>
         <source>Local machine</source>
         <translation>Lokale anlæg</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="350"/>
+        <location filename="DlgSettingsIntegration.ui" line="398"/>
         <source>Portable</source>
         <translation>Portabelt</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="355"/>
+        <location filename="DlgSettingsIntegration.ui" line="403"/>
         <source>Custom</source>
         <translation>Bruger</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="397"/>
+        <location filename="DlgSettingsIntegration.ui" line="445"/>
         <source>ExifTool path</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="414"/>
+        <location filename="DlgSettingsIntegration.ui" line="462"/>
         <source>...</source>
         <translation type="unfinished">...</translation>
     </message>
@@ -15017,17 +15018,12 @@ Vil du tilknytte igen?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="128"/>
-        <source>System integration</source>
-        <translation>System Integrering</translation>
-    </message>
-    <message>
         <location filename="DlgStartupWizard.ui" line="134"/>
         <source>Add &apos;Browse with XnViewMP&apos; to context menu</source>
         <translation>Tilføj &apos;Gennemse med XnViewMP&apos; til højrekliksmenu</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="141"/>
+        <location filename="DlgStartupWizard.ui" line="171"/>
         <source>Run the File association(s) tool...</source>
         <translatorcomment>Filtyper/filendelser</translatorcomment>
         <translation>Kør filtilknytningsværktøjet...</translation>
@@ -15039,27 +15035,52 @@ Vil du tilknytte igen?</translation>
         <translation>Indstillinger</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="153"/>
+        <location filename="DlgStartupWizard.ui" line="128"/>
+        <source>Windows Explorer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgStartupWizard.ui" line="141"/>
+        <source>Add shell extension to context menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgStartupWizard.ui" line="151"/>
+        <source>File Association</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgStartupWizard.ui" line="157"/>
+        <source>Register application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgStartupWizard.ui" line="164"/>
+        <source>Open &apos;Default Apps&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgStartupWizard.ui" line="183"/>
         <source>Check for program updates</source>
         <translation>Tjek for programopdateringer</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="164"/>
+        <location filename="DlgStartupWizard.ui" line="194"/>
         <source>Never</source>
         <translation>Aldrig</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="169"/>
+        <location filename="DlgStartupWizard.ui" line="199"/>
         <source>Daily</source>
         <translation>Dagligt</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="174"/>
+        <location filename="DlgStartupWizard.ui" line="204"/>
         <source>Weekly</source>
         <translation>Ugenligt</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="179"/>
+        <location filename="DlgStartupWizard.ui" line="209"/>
         <source>Monthly</source>
         <translation>Månedligt</translation>
     </message>
@@ -19107,7 +19128,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
         <translation>Type</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="5073"/>
+        <location filename="ItemModel.cpp" line="5092"/>
         <source>New Folder %1</source>
         <translation>NY mappe %1</translation>
     </message>
@@ -20268,13 +20289,13 @@ Vil du fortsætte?</translation>
         <translation>Åbn filoversigt...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4439"/>
+        <location filename="BrowserWindow.cpp" line="4440"/>
         <location filename="BrowserMenu.h" line="421"/>
         <source>Cut</source>
         <translation>Klip</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4441"/>
+        <location filename="BrowserWindow.cpp" line="4442"/>
         <location filename="BrowserMenu.h" line="423"/>
         <source>Copy</source>
         <translation>Kopiér</translation>
@@ -20295,7 +20316,7 @@ Vil du fortsætte?</translation>
         <translation>Valgt(e) filnavn(e) og sti(er)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4443"/>
+        <location filename="BrowserWindow.cpp" line="4444"/>
         <location filename="BrowserMenu.h" line="428"/>
         <source>Paste</source>
         <translation>Indsæt</translation>
@@ -20326,19 +20347,19 @@ Vil du fortsætte?</translation>
         <translation>Vælg markerede billeder</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4451"/>
+        <location filename="BrowserWindow.cpp" line="4452"/>
         <location filename="BrowserMenu.h" line="438"/>
         <source>Copy to...</source>
         <translation>Kopiér til...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4453"/>
+        <location filename="BrowserWindow.cpp" line="4454"/>
         <location filename="BrowserMenu.h" line="439"/>
         <source>Move to...</source>
         <translation>Flyt til...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4446"/>
+        <location filename="BrowserWindow.cpp" line="4447"/>
         <location filename="BrowserMenu.h" line="440"/>
         <source>Delete</source>
         <translation>Slet</translation>
@@ -20929,12 +20950,12 @@ Vil du fortsætte?</translation>
         <translation>&amp;Hjælp</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4436"/>
+        <location filename="BrowserWindow.cpp" line="4437"/>
         <source>New Folder</source>
         <translation>Ny mappe</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4448"/>
+        <location filename="BrowserWindow.cpp" line="4449"/>
         <source>Rename</source>
         <translation>Omdøb</translation>
     </message>
@@ -20947,95 +20968,95 @@ Vil du fortsætte?</translation>
 <context>
     <name>MenuGlobal</name>
     <message>
-        <location filename="xnview.cpp" line="1327"/>
+        <location filename="xnview.cpp" line="1329"/>
         <source>Quit</source>
         <translation>Afslut</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1328"/>
+        <location filename="xnview.cpp" line="1330"/>
         <source>About</source>
         <translation>Om</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1329"/>
+        <location filename="xnview.cpp" line="1331"/>
         <source>PlugIns...</source>
         <translation>PlugIns...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1330"/>
+        <location filename="xnview.cpp" line="1332"/>
         <source>Website...</source>
         <oldsource>Visit XnView&apos;s Website...</oldsource>
         <translation>Hjemmeside...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1331"/>
+        <location filename="xnview.cpp" line="1333"/>
         <source>Forum...</source>
         <translation>Forum..</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1332"/>
+        <location filename="xnview.cpp" line="1334"/>
         <source>Technical Support...</source>
         <translation>Teknisk support...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1333"/>
+        <location filename="xnview.cpp" line="1335"/>
         <source>Report a Bug...</source>
         <oldsource>Report a Bug......</oldsource>
         <translation>Rapportér fejl....</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1334"/>
+        <location filename="xnview.cpp" line="1336"/>
         <source>Wiki...</source>
         <translation>Wiki....</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1335"/>
+        <location filename="xnview.cpp" line="1337"/>
         <source>Make a donation...</source>
         <translation>Giv et bidrag...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1336"/>
+        <location filename="xnview.cpp" line="1338"/>
         <source>Check for update...</source>
         <translation>Tjek for programopdateringer...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1337"/>
+        <location filename="xnview.cpp" line="1339"/>
         <source>Registration...</source>
         <translation>Registrering...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1338"/>
+        <location filename="xnview.cpp" line="1340"/>
         <source>Purchase...</source>
         <translation>Køb...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1348"/>
         <location filename="xnview.cpp" line="1350"/>
+        <location filename="xnview.cpp" line="1352"/>
         <source>Settings...</source>
         <translation>Indstillinger...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1354"/>
+        <location filename="xnview.cpp" line="1356"/>
         <source>Always on top</source>
         <translation>Altid øverst</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1356"/>
+        <location filename="xnview.cpp" line="1358"/>
         <source>Titlebar</source>
         <translation>Titellinie</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1357"/>
+        <location filename="xnview.cpp" line="1359"/>
         <source>Show</source>
         <translation>Vis</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1358"/>
+        <location filename="xnview.cpp" line="1360"/>
         <source>Bottom</source>
         <translation>Bund</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1359"/>
+        <location filename="xnview.cpp" line="1361"/>
         <source>Tab</source>
         <translation>Fane</translation>
     </message>
@@ -22515,38 +22536,38 @@ Vil du fortsætte?</translation>
 <context>
     <name>MyDirModel</name>
     <message>
-        <location filename="MyDirModel.cpp" line="75"/>
+        <location filename="MyDirModel.cpp" line="49"/>
         <source>Volumes</source>
         <translation>Volumener</translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="330"/>
+        <location filename="MyDirModel.cpp" line="318"/>
         <source>Desktop</source>
         <translation>Skrivebord</translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="336"/>
+        <location filename="MyDirModel.cpp" line="324"/>
         <source>My Computer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="1218"/>
-        <location filename="MyDirModel.cpp" line="1220"/>
+        <location filename="MyDirModel.cpp" line="1024"/>
+        <location filename="MyDirModel.cpp" line="1026"/>
         <source>Computer</source>
         <translation>Komputer</translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="1222"/>
+        <location filename="MyDirModel.cpp" line="1028"/>
         <source>Home</source>
         <translation>Hjem</translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="1718"/>
+        <location filename="MyDirModel.cpp" line="1549"/>
         <source>Folders</source>
         <translation>Mapper</translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="2019"/>
+        <location filename="MyDirModel.cpp" line="1840"/>
         <source>New Folder %1</source>
         <translation>Ny mappe %1</translation>
     </message>
@@ -22583,12 +22604,12 @@ Vil du fortsætte?</translation>
 <context>
     <name>MyFolderView</name>
     <message>
-        <location filename="MyFolderView.cpp" line="553"/>
+        <location filename="MyFolderView.cpp" line="573"/>
         <source>Delete folder</source>
         <translation>Slet mappe</translation>
     </message>
     <message>
-        <location filename="MyFolderView.cpp" line="553"/>
+        <location filename="MyFolderView.cpp" line="573"/>
         <source>Are you sure to delete this folder?</source>
         <translation>Er du sikker på du vil slette denne mappe?</translation>
     </message>
@@ -24443,38 +24464,38 @@ Vil du beholde miniaturerne?
         <translation>Opgraderer kataloget, vent venligst...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="475"/>
+        <location filename="xnview.cpp" line="476"/>
         <source>Catalog problem</source>
         <translation>Katalog-problem</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="475"/>
+        <location filename="xnview.cpp" line="476"/>
         <source>There is a problem to open catalog, check your settings or folder used!</source>
         <translation>Problem ved åbning af kataloget; kontrollér dine indstillinger eller den anvendte mappe!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="483"/>
+        <location filename="xnview.cpp" line="485"/>
         <source>Catalog update</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="483"/>
+        <location filename="xnview.cpp" line="485"/>
         <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="878"/>
+        <location filename="xnview.cpp" line="880"/>
         <source>Application is up to date.</source>
         <oldsource>XnView MP is currently up to date.</oldsource>
         <translation>Applikationen er opdateret.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1552"/>
+        <location filename="xnview.cpp" line="1554"/>
         <source>Do you want to save session?</source>
         <translation>Vil du gemme sessionen?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="3021"/>
+        <location filename="xnview.cpp" line="3023"/>
         <source>Catalog and Metadata are disabled - 
 Rating, Tag &amp; Color labels will not be saved.</source>
         <oldsource>Rating/Tag/Color label can&apos;t be saved if catalog and metadata export are disabled!</oldsource>
@@ -24482,7 +24503,7 @@ Rating, Tag &amp; Color labels will not be saved.</source>
 Bedømmelse, tags og farve-etiket(ter) vil ikke blive gemt.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="949"/>
+        <location filename="xnview.cpp" line="951"/>
         <source>Your previous session contains many loaded images, this can cause a slowdown!</source>
         <translation>Din forrige session indeholder mange indlæste billeder, dette kan medføre at det går langsommere!</translation>
     </message>
@@ -24494,39 +24515,39 @@ Please contact the developer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="949"/>
+        <location filename="xnview.cpp" line="951"/>
         <source>Session</source>
         <translation>Session</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1477"/>
+        <location filename="xnview.cpp" line="1479"/>
         <source>Do you want to quit?</source>
         <translation>Vil du afslutte?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1553"/>
+        <location filename="xnview.cpp" line="1555"/>
         <source>Saving many tabs may noticeably slow application reopening.</source>
         <oldsource>Saving many tabs may noticeably slow reopening XnView MP</oldsource>
         <translation>Gem af mange faner kan mærkbart sløve genåbningen af applikationen.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1559"/>
+        <location filename="xnview.cpp" line="1561"/>
         <source>Don&apos;t ask again</source>
         <oldsource>Do not ask again</oldsource>
         <translation>Spørg ikke igen</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1125"/>
+        <location filename="xnview.cpp" line="1127"/>
         <source>Error</source>
         <translation>Fejl</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1125"/>
+        <location filename="xnview.cpp" line="1127"/>
         <source>File not found!</source>
         <translation>Fil ikke fundet!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1578"/>
+        <location filename="xnview.cpp" line="1580"/>
         <source>Do you want to save this session?</source>
         <translation>Vil du gemme denne session?</translation>
     </message>

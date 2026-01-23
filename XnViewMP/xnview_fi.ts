@@ -9217,12 +9217,12 @@ Haluatko ensin tarkastaa tiedot, joihin tämä vaikuttaa?</translation>
         <translation>Tiedostojen peruspolku</translation>
     </message>
     <message>
-        <source>Update metadata...</source>
-        <translation>Päivitä metatiedot...</translation>
-    </message>
-    <message>
         <source>Store Exiftool fields</source>
         <translation>Tallenna Exiftool-kentät</translation>
+    </message>
+    <message>
+        <source>Update metadata</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9846,16 +9846,8 @@ pienoiskuvina</translation>
         <translation>Avaa XnViewMP:llä</translation>
     </message>
     <message>
-        <source>Please start XnViewMP with admin rights (only the first time).</source>
-        <translation>Käynnistä XnViewMP järjestelmänvalvojan oikeuksilla (vain ensimmäisellä kerralla).</translation>
-    </message>
-    <message>
         <source>Same as Catalog</source>
         <translation>Sama kuin katalogi</translation>
-    </message>
-    <message>
-        <source>File Associations</source>
-        <translation>Tiedostokytkennät</translation>
     </message>
     <message>
         <source>XnViewMP for Windows</source>
@@ -9961,8 +9953,16 @@ pienoiskuvina</translation>
         <translation>Lisää &apos;Avaa XnViewMP:llä&apos; hiiren pikavalikkoon</translation>
     </message>
     <message>
-        <source>Enable shell extension to context menu</source>
-        <translation>Ota shell-laajennukset käyttöön hiiren pikavalikossa</translation>
+        <source>Add shell extension to context menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Register application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open &apos;Default Apps&apos;...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11534,10 +11534,6 @@ Haluatko määrittää uudelleen?</translation>
         <translation>Kuukausittain</translation>
     </message>
     <message>
-        <source>System integration</source>
-        <translation>Järjestelmän integrointi</translation>
-    </message>
-    <message>
         <source>Weekly</source>
         <translation>Viikottain</translation>
     </message>
@@ -11580,6 +11576,26 @@ Haluatko määrittää uudelleen?</translation>
     <message>
         <source>Portable (application folder)</source>
         <translation>Kannettava (sovelluskansio)</translation>
+    </message>
+    <message>
+        <source>Windows Explorer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add shell extension to context menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Association</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Register application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open &apos;Default Apps&apos;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

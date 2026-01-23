@@ -301,48 +301,48 @@
         <translation>&lt; Пусто &gt;</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2970"/>
+        <location filename="ViewWindow.cpp" line="2981"/>
         <source>The file &lt;%1&gt; is read-only. Please choose another file name.</source>
         <translation>Файл &lt;%1&gt; доступен только для чтения.
 Попробуйте сохранить файл под другим именем.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2978"/>
+        <location filename="ViewWindow.cpp" line="2989"/>
         <source>Confirm Save</source>
         <translation>Подтверждение сохранения</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2979"/>
+        <location filename="ViewWindow.cpp" line="2990"/>
         <source>&lt;%1&gt; already exists!</source>
         <translation>&lt;%1&gt; уже существует!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2979"/>
+        <location filename="ViewWindow.cpp" line="2990"/>
         <source>Do you want to overwrite it?</source>
         <translation>Вы хотите его перезаписать?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3003"/>
-        <location filename="ViewWindow.cpp" line="3134"/>
-        <location filename="ViewWindow.cpp" line="3184"/>
+        <location filename="ViewWindow.cpp" line="3014"/>
+        <location filename="ViewWindow.cpp" line="3145"/>
+        <location filename="ViewWindow.cpp" line="3195"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
         <translatorcomment>Правильный падеж?</translatorcomment>
         <translation>Сохранение изображения...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3005"/>
-        <location filename="ViewWindow.cpp" line="3186"/>
+        <location filename="ViewWindow.cpp" line="3016"/>
+        <location filename="ViewWindow.cpp" line="3197"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4453"/>
+        <location filename="ViewWindow.cpp" line="4464"/>
         <source>Colors count</source>
         <translation>Количество цветов</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2028"/>
+        <location filename="ViewWindow.cpp" line="2039"/>
         <source>Customize toolbar...</source>
         <translation>Настроить панель инструментов...</translation>
     </message>
@@ -367,58 +367,58 @@
         <translation>Больше не спрашивать</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2284"/>
-        <location filename="ViewWindow.cpp" line="2290"/>
-        <location filename="ViewWindow.cpp" line="2294"/>
+        <location filename="ViewWindow.cpp" line="2295"/>
+        <location filename="ViewWindow.cpp" line="2301"/>
+        <location filename="ViewWindow.cpp" line="2305"/>
         <source>Delete items</source>
         <translation>Удаление элементов</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2284"/>
+        <location filename="ViewWindow.cpp" line="2295"/>
         <source>Would you like to discard your edits and delete 
 &quot;%1&quot;?</source>
         <translation>Вы действительно хотите отменить изменения и удалить 
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2290"/>
+        <location filename="ViewWindow.cpp" line="2301"/>
         <source>Are you sure to delete 
 &quot;%1&quot;?</source>
         <translation>Вы действительно хотите удалить 
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2294"/>
+        <location filename="ViewWindow.cpp" line="2305"/>
         <source>Are you sure to delete 
 &quot;%1&quot; (%2 items)?</source>
         <translation>Вы действительно хотите удалить 
 &quot;%1&quot; (%2 объект(ов))?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2960"/>
-        <location filename="ViewWindow.cpp" line="2970"/>
+        <location filename="ViewWindow.cpp" line="2971"/>
+        <location filename="ViewWindow.cpp" line="2981"/>
         <source>Save</source>
         <translatorcomment>Используется пи вылезании второго диалого, когда не возможно сохранить файл</translatorcomment>
         <translation>Сохранение</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2960"/>
+        <location filename="ViewWindow.cpp" line="2971"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
         <translation>Изображение будет преобразовано в 24-битный RGB (8 бит на канал)</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3005"/>
-        <location filename="ViewWindow.cpp" line="3186"/>
+        <location filename="ViewWindow.cpp" line="3016"/>
+        <location filename="ViewWindow.cpp" line="3197"/>
         <source>An error occurred during saving!</source>
         <translation>Произошла ошибка при сохранении!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3276"/>
+        <location filename="ViewWindow.cpp" line="3287"/>
         <source>Properties</source>
         <translation>Свойства</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4453"/>
+        <location filename="ViewWindow.cpp" line="4464"/>
         <source>Number of unique colors: %1</source>
         <translation>Количество уникальных цветов: %1</translation>
     </message>
@@ -477,28 +477,28 @@
 <context>
     <name>BaseViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="4958"/>
+        <location filename="ViewWindow.cpp" line="4969"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4949"/>
-        <location filename="ViewWindow.cpp" line="4958"/>
+        <location filename="ViewWindow.cpp" line="4960"/>
+        <location filename="ViewWindow.cpp" line="4969"/>
         <source>File can&apos;t be loaded!</source>
         <translation>Не удалось загрузить файл!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4949"/>
+        <location filename="ViewWindow.cpp" line="4960"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <translation>Для просмотра и конвертирования файлов PDF/PS/EPS/AI необходимо установить Ghostscript %1.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4950"/>
+        <location filename="ViewWindow.cpp" line="4961"/>
         <source>Please visit the %1 for more information.</source>
         <translation>Для получения более подробной информации, пожалуйста, посетите %1.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4962"/>
+        <location filename="ViewWindow.cpp" line="4973"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; Пусто &gt;</translation>
     </message>
@@ -557,27 +557,27 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Настроить панель инструментов...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1672"/>
+        <location filename="BrowserWindow.cpp" line="1673"/>
         <source>Add Favorite...</source>
         <translation>Добавить в избранное...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1763"/>
+        <location filename="BrowserWindow.cpp" line="1764"/>
         <source>Folders</source>
         <translation>Папки</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1767"/>
+        <location filename="BrowserWindow.cpp" line="1768"/>
         <source>Favorites</source>
         <translation>Избранное</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1782"/>
+        <location filename="BrowserWindow.cpp" line="1783"/>
         <source>Categories</source>
         <translation>Категории</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1820"/>
+        <location filename="BrowserWindow.cpp" line="1821"/>
         <source>Info</source>
         <translation>Информация</translation>
     </message>
@@ -592,36 +592,36 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Прикрепить область предпросмотра</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="921"/>
+        <location filename="BrowserWindow.cpp" line="922"/>
         <source>The database is corrupted. Please check it before you continue!</source>
         <oldsource>The database is corrupted, please check it before to continue!</oldsource>
         <translation>База данных повреждена.
 Пожалуйста, проверьте данные перед продолжением!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1664"/>
+        <location filename="BrowserWindow.cpp" line="1665"/>
         <source>Add to Favorites</source>
         <translation>Добавить в избранное</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1771"/>
+        <location filename="BrowserWindow.cpp" line="1772"/>
         <source>Catalog Filter</source>
         <oldsource>Categories Filter</oldsource>
         <translation>Фильтр Каталога</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1787"/>
+        <location filename="BrowserWindow.cpp" line="1788"/>
         <source>Category Sets</source>
         <translation>Наборы категорий</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1999"/>
+        <location filename="BrowserWindow.cpp" line="2000"/>
         <source>Match</source>
         <translatorcomment>Еще раз проверить?</translatorcomment>
         <translation>Совпадение</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2009"/>
+        <location filename="BrowserWindow.cpp" line="2010"/>
         <source>Click to filter - use Shift and Control for multiple selections.
 Right Click on different items for pop-up menus with actions.
 Drag and Drop over the desired node to assign.</source>
@@ -630,48 +630,48 @@ Drag and Drop over the desired node to assign.</source>
 Перетащите объект на необходимый узел для присвоения категории.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2032"/>
+        <location filename="BrowserWindow.cpp" line="2033"/>
         <source>Global</source>
         <translation>Везде</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2039"/>
+        <location filename="BrowserWindow.cpp" line="2040"/>
         <source>Current folder</source>
         <translation>Текущая папка</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2046"/>
+        <location filename="BrowserWindow.cpp" line="2047"/>
         <source>Current folder (Recursive)</source>
         <translation>Текущая папка (включая вложенные)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2261"/>
+        <location filename="BrowserWindow.cpp" line="2262"/>
         <source>Thumbnails</source>
         <translation>Эскизы</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3454"/>
+        <location filename="BrowserWindow.cpp" line="3455"/>
         <source>&lt;Search results&gt;</source>
         <translatorcomment>Результат поиска</translatorcomment>
         <translation>&lt;Результат поиска&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3456"/>
+        <location filename="BrowserWindow.cpp" line="3457"/>
         <source>&lt;Tagged files&gt;</source>
         <translation>&lt;Отмеченные файлы&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3551"/>
+        <location filename="BrowserWindow.cpp" line="3552"/>
         <source>This folder doesn&apos;t exist!</source>
         <translation>Папка не найдена!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3764"/>
+        <location filename="BrowserWindow.cpp" line="3765"/>
         <source>Favorite name:</source>
         <translation>Имя для избранного:</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="4009"/>
+        <location filename="BrowserWindow.cpp" line="4010"/>
         <source>Are you sure to delete these %n item(s)?</source>
         <translation>
             <numerusform>Вы действительно хотите удалить %n объект?</numerusform>
@@ -680,53 +680,53 @@ Drag and Drop over the desired node to assign.</source>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4094"/>
+        <location filename="BrowserWindow.cpp" line="4095"/>
         <source>The files cannot be renamed, an error occurred.</source>
         <translation>Файл не может быть переименован, возникла ошибка.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3551"/>
-        <location filename="BrowserWindow.cpp" line="4094"/>
+        <location filename="BrowserWindow.cpp" line="3552"/>
+        <location filename="BrowserWindow.cpp" line="4095"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1828"/>
+        <location filename="BrowserWindow.cpp" line="1829"/>
         <source>Metadata</source>
         <translation>Метаданные</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1837"/>
+        <location filename="BrowserWindow.cpp" line="1838"/>
         <source>Histogram</source>
         <translation>Гистограмма</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2015"/>
+        <location filename="BrowserWindow.cpp" line="2016"/>
         <source>Match any selected entry (OR)</source>
         <translation>Совпадение с любым из выбранных (ИЛИ)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2021"/>
+        <location filename="BrowserWindow.cpp" line="2022"/>
         <source>Match all selected entries (AND)</source>
         <translation>Совпадение со всеми выбранными (И)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3458"/>
+        <location filename="BrowserWindow.cpp" line="3459"/>
         <source>&lt;Catalog filter results&gt;</source>
         <translation>&lt;Результат фильтрации каталога&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3460"/>
+        <location filename="BrowserWindow.cpp" line="3461"/>
         <source>&lt;files&gt;</source>
         <translation>&lt;файлы&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4002"/>
+        <location filename="BrowserWindow.cpp" line="4003"/>
         <source>Delete items &amp; companions</source>
         <translation>Удаление элементов и сопутствующих файлов</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="4003"/>
+        <location filename="BrowserWindow.cpp" line="4004"/>
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
         <translation>
             <numerusform>Вы действительно хотите удалить %n объект - %1 объект выделен?</numerusform>
@@ -735,52 +735,52 @@ Drag and Drop over the desired node to assign.</source>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4458"/>
+        <location filename="BrowserWindow.cpp" line="4459"/>
         <source>Search...</source>
         <translation>Поиск...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4459"/>
+        <location filename="BrowserWindow.cpp" line="4460"/>
         <source>Add to favorites...</source>
         <translation>Добавить в избранное...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4462"/>
+        <location filename="BrowserWindow.cpp" line="4463"/>
         <source>Start slideshow</source>
         <translation>Запустить слайд-шоу</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4464"/>
+        <location filename="BrowserWindow.cpp" line="4465"/>
         <source>Open in file manager</source>
         <translation>Открыть в файловом менеджере</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4467"/>
+        <location filename="BrowserWindow.cpp" line="4468"/>
         <source>Properties</source>
         <translation>Свойства</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4576"/>
+        <location filename="BrowserWindow.cpp" line="4577"/>
         <source>Load filelist</source>
         <translation>Открыть список файлов</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4008"/>
+        <location filename="BrowserWindow.cpp" line="4009"/>
         <source>Delete items</source>
         <translation>Удаление элементов</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4456"/>
+        <location filename="BrowserWindow.cpp" line="4457"/>
         <source>Show files in subfolders</source>
         <translation>Показывать файлы из подпапок</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4499"/>
+        <location filename="BrowserWindow.cpp" line="4500"/>
         <source>Delete folder</source>
         <translation>Удаление папки</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4499"/>
+        <location filename="BrowserWindow.cpp" line="4500"/>
         <source>Are you sure to delete this folder?</source>
         <translation>Вы действительно хотите удалить эту папку?</translation>
     </message>
@@ -1950,8 +1950,8 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CategoryManager.cpp" line="159"/>
         <location filename="MyDB.cpp" line="909"/>
-        <location filename="MyDB.cpp" line="2328"/>
-        <location filename="MyDB.cpp" line="3653"/>
+        <location filename="MyDB.cpp" line="2358"/>
+        <location filename="MyDB.cpp" line="3683"/>
         <source>Other</source>
         <translation>Прочее</translation>
     </message>
@@ -11864,9 +11864,9 @@ Do you want to remove entries assigned to a category?</oldsource>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="437"/>
-        <source>Update metadata...</source>
-        <oldsource>Update metadatas...</oldsource>
-        <translation>Обновить метаданные...</translation>
+        <source>Update metadata</source>
+        <oldsource>Update metadata...</oldsource>
+        <translation type="unfinished">Обновить метаданные...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="501"/>
@@ -12684,99 +12684,89 @@ Thumbnail</source>
 <context>
     <name>DlgSettingsIntegration</name>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="29"/>
-        <location filename="DlgSettingsIntegration.cpp" line="38"/>
-        <location filename="DlgSettingsIntegration.cpp" line="45"/>
-        <location filename="DlgSettingsIntegration.cpp" line="53"/>
+        <location filename="DlgSettingsIntegration.cpp" line="31"/>
+        <location filename="DlgSettingsIntegration.cpp" line="40"/>
+        <location filename="DlgSettingsIntegration.cpp" line="47"/>
+        <location filename="DlgSettingsIntegration.cpp" line="55"/>
         <source>System - Current user</source>
         <oldsource>User (System)</oldsource>
         <translation>Система - текущий пользователь</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="31"/>
+        <location filename="DlgSettingsIntegration.cpp" line="33"/>
         <source>System - Current user (Windows registry)</source>
         <translation>Система - текущий пользователь (реестр Windows)</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsIntegration.cpp" line="32"/>
-        <location filename="DlgSettingsIntegration.cpp" line="40"/>
-        <location filename="DlgSettingsIntegration.cpp" line="47"/>
-        <location filename="DlgSettingsIntegration.cpp" line="55"/>
-        <source>System - Local machine</source>
-        <translation>Система - локальный компьютер</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="34"/>
         <location filename="DlgSettingsIntegration.cpp" line="42"/>
         <location filename="DlgSettingsIntegration.cpp" line="49"/>
+        <location filename="DlgSettingsIntegration.cpp" line="57"/>
+        <source>System - Local machine</source>
+        <translation>Система - локальный компьютер</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsIntegration.cpp" line="36"/>
+        <location filename="DlgSettingsIntegration.cpp" line="44"/>
+        <location filename="DlgSettingsIntegration.cpp" line="51"/>
         <source>Application folder</source>
         <translation>Папка приложения</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="36"/>
-        <location filename="DlgSettingsIntegration.cpp" line="43"/>
-        <location filename="DlgSettingsIntegration.cpp" line="50"/>
-        <location filename="DlgSettingsIntegration.cpp" line="57"/>
+        <location filename="DlgSettingsIntegration.cpp" line="38"/>
+        <location filename="DlgSettingsIntegration.cpp" line="45"/>
+        <location filename="DlgSettingsIntegration.cpp" line="52"/>
+        <location filename="DlgSettingsIntegration.cpp" line="59"/>
         <source>Custom</source>
         <translation>Пользовательская</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="52"/>
+        <location filename="DlgSettingsIntegration.cpp" line="54"/>
         <source>Same as Catalog</source>
         <translation>Как у Каталога</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="150"/>
-        <location filename="DlgSettingsIntegration.cpp" line="151"/>
         <location filename="DlgSettingsIntegration.cpp" line="152"/>
+        <location filename="DlgSettingsIntegration.cpp" line="153"/>
+        <location filename="DlgSettingsIntegration.cpp" line="154"/>
         <source>Browse with XnViewMP</source>
         <translatorcomment>Открыть с помощью  XnViewMP</translatorcomment>
         <translation>Открыть с помощью XnViewMP</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="380"/>
+        <location filename="DlgSettingsIntegration.cpp" line="395"/>
         <source>Select a program</source>
         <translation>Выбор программы</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="452"/>
+        <location filename="DlgSettingsIntegration.cpp" line="472"/>
         <source>Paths</source>
         <translation>Пути</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="452"/>
+        <location filename="DlgSettingsIntegration.cpp" line="472"/>
         <source>Please be careful to folder rights by using XnView folder</source>
         <translation>Пожалуйста, предоставьте необходимые права папке, которую использует XnView</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="642"/>
+        <location filename="DlgSettingsIntegration.cpp" line="662"/>
         <source>XnViewMP is a fast multi-format graphics browser, viewer, and converter. It reads more than 400 file formats.</source>
         <translation>XnViewMP - это быстрая кроссплатформенная программа для просмотра, каталогизации и редактирования изображений. Всего поддерживается более 400 форматов.</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="643"/>
+        <location filename="DlgSettingsIntegration.cpp" line="663"/>
         <source>XnViewMP for Windows</source>
         <translation>XnViewMP для Windows</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="662"/>
+        <location filename="DlgSettingsIntegration.cpp" line="710"/>
         <source>XnView Slide file</source>
         <translation>SLD файл слайдшоу XnView</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="669"/>
+        <location filename="DlgSettingsIntegration.cpp" line="717"/>
         <source>%1 Image file</source>
         <translation>%1 Файл изображения</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsIntegration.cpp" line="860"/>
-        <source>File Associations</source>
-        <translation>Ассоциации файлов</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsIntegration.cpp" line="860"/>
-        <source>Please start XnViewMP with admin rights (only the first time).</source>
-        <translation>Запустите XnViewMP с правами администратора (только в первый раз).</translation>
     </message>
 </context>
 <context>
@@ -12794,8 +12784,9 @@ Thumbnail</source>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="58"/>
-        <source>Enable shell extension to context menu</source>
-        <translation>Добавить расширение оболочки в контекстное меню</translation>
+        <source>Add shell extension to context menu</source>
+        <oldsource>Enable shell extension to context menu</oldsource>
+        <translation type="unfinished">Добавить расширение оболочки в контекстное меню</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="70"/>
@@ -12804,72 +12795,82 @@ Thumbnail</source>
         <translation>Запустить программу &quot;Ассоциация файлов&quot;...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="106"/>
+        <location filename="DlgSettingsIntegration.ui" line="94"/>
+        <source>Register application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsIntegration.ui" line="118"/>
+        <source>Open &apos;Default Apps&apos;...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsIntegration.ui" line="154"/>
         <source>Paths</source>
         <translatorcomment>Может расположение лучше?</translatorcomment>
         <translation>Пути</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="136"/>
+        <location filename="DlgSettingsIntegration.ui" line="184"/>
         <source>Settings - General</source>
         <translation>Настройки - Общие</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="153"/>
-        <location filename="DlgSettingsIntegration.ui" line="209"/>
-        <location filename="DlgSettingsIntegration.ui" line="259"/>
-        <location filename="DlgSettingsIntegration.ui" line="315"/>
+        <location filename="DlgSettingsIntegration.ui" line="201"/>
+        <location filename="DlgSettingsIntegration.ui" line="257"/>
+        <location filename="DlgSettingsIntegration.ui" line="307"/>
         <location filename="DlgSettingsIntegration.ui" line="363"/>
+        <location filename="DlgSettingsIntegration.ui" line="411"/>
         <source>Current location</source>
         <translation>Текущее расположение</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="182"/>
+        <location filename="DlgSettingsIntegration.ui" line="230"/>
         <source>Settings - Other</source>
         <translation>Настройки - Другое</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="232"/>
+        <location filename="DlgSettingsIntegration.ui" line="280"/>
         <source>Database - Catalog</source>
         <translation>База данных - Каталог</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="288"/>
+        <location filename="DlgSettingsIntegration.ui" line="336"/>
         <source>Database - Thumbnails</source>
         <translation>База данных - Эскизы</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="329"/>
+        <location filename="DlgSettingsIntegration.ui" line="377"/>
         <source>Configuration</source>
         <translation>Конфигурация</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="340"/>
+        <location filename="DlgSettingsIntegration.ui" line="388"/>
         <source>Current user (recommended)</source>
         <translation>Текущий пользователь (рекомендуется)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="345"/>
+        <location filename="DlgSettingsIntegration.ui" line="393"/>
         <source>Local machine</source>
         <translation>Локальный компьютер</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="350"/>
+        <location filename="DlgSettingsIntegration.ui" line="398"/>
         <source>Portable</source>
         <translation>Портативная</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="355"/>
+        <location filename="DlgSettingsIntegration.ui" line="403"/>
         <source>Custom</source>
         <translation>Пользовательская</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="397"/>
+        <location filename="DlgSettingsIntegration.ui" line="445"/>
         <source>ExifTool path</source>
         <translation>Путь к ExifTool</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="414"/>
+        <location filename="DlgSettingsIntegration.ui" line="462"/>
         <source>...</source>
         <translation>...</translation>
     </message>
@@ -15046,17 +15047,12 @@ Do you want to reassign?</source>
         <translation>Портативные (папка приложения)</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="128"/>
-        <source>System integration</source>
-        <translation>Интеграция в систему</translation>
-    </message>
-    <message>
         <location filename="DlgStartupWizard.ui" line="134"/>
         <source>Add &apos;Browse with XnViewMP&apos; to context menu</source>
         <translation>Добавить &apos;Открыть в XnViewMP&apos; в контекстное меню</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="141"/>
+        <location filename="DlgStartupWizard.ui" line="171"/>
         <source>Run the File association(s) tool...</source>
         <translation>Запустить программу &quot;Ассоциация файлов&quot;</translation>
     </message>
@@ -15067,27 +15063,52 @@ Do you want to reassign?</source>
         <translation>Настройки</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="153"/>
+        <location filename="DlgStartupWizard.ui" line="128"/>
+        <source>Windows Explorer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgStartupWizard.ui" line="141"/>
+        <source>Add shell extension to context menu</source>
+        <translation type="unfinished">Добавить расширение оболочки в контекстное меню</translation>
+    </message>
+    <message>
+        <location filename="DlgStartupWizard.ui" line="151"/>
+        <source>File Association</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgStartupWizard.ui" line="157"/>
+        <source>Register application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgStartupWizard.ui" line="164"/>
+        <source>Open &apos;Default Apps&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgStartupWizard.ui" line="183"/>
         <source>Check for program updates</source>
         <translation>Выполнять поиск обновлений</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="164"/>
+        <location filename="DlgStartupWizard.ui" line="194"/>
         <source>Never</source>
         <translation>Никогда</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="169"/>
+        <location filename="DlgStartupWizard.ui" line="199"/>
         <source>Daily</source>
         <translation>Ежедневно</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="174"/>
+        <location filename="DlgStartupWizard.ui" line="204"/>
         <source>Weekly</source>
         <translation>Раз в неделю</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="179"/>
+        <location filename="DlgStartupWizard.ui" line="209"/>
         <source>Monthly</source>
         <translation>Раз в месяц</translation>
     </message>
@@ -19133,7 +19154,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Тип</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="5073"/>
+        <location filename="ItemModel.cpp" line="5092"/>
         <source>New Folder %1</source>
         <translation>Новая папка %1</translation>
     </message>
@@ -20431,19 +20452,19 @@ Do you want to continue?</oldsource>
         <translation>Открыть файл...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4439"/>
+        <location filename="BrowserWindow.cpp" line="4440"/>
         <location filename="BrowserMenu.h" line="421"/>
         <source>Cut</source>
         <translation>Вырезать</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4441"/>
+        <location filename="BrowserWindow.cpp" line="4442"/>
         <location filename="BrowserMenu.h" line="423"/>
         <source>Copy</source>
         <translation>Копировать</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4443"/>
+        <location filename="BrowserWindow.cpp" line="4444"/>
         <location filename="BrowserMenu.h" line="428"/>
         <source>Paste</source>
         <translation>Вставить</translation>
@@ -20479,19 +20500,19 @@ Do you want to continue?</oldsource>
         <translation>Выделить отмеченные файлы</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4451"/>
+        <location filename="BrowserWindow.cpp" line="4452"/>
         <location filename="BrowserMenu.h" line="438"/>
         <source>Copy to...</source>
         <translation>Копировать в...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4453"/>
+        <location filename="BrowserWindow.cpp" line="4454"/>
         <location filename="BrowserMenu.h" line="439"/>
         <source>Move to...</source>
         <translation>Переместить в...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4446"/>
+        <location filename="BrowserWindow.cpp" line="4447"/>
         <location filename="BrowserMenu.h" line="440"/>
         <source>Delete</source>
         <translation>Удалить</translation>
@@ -20941,12 +20962,12 @@ Do you want to continue?</oldsource>
         <translation>Фильтр</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4436"/>
+        <location filename="BrowserWindow.cpp" line="4437"/>
         <source>New Folder</source>
         <translation>Создать новую папку</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4448"/>
+        <location filename="BrowserWindow.cpp" line="4449"/>
         <source>Rename</source>
         <translation>Переименовать</translation>
     </message>
@@ -20959,95 +20980,95 @@ Do you want to continue?</oldsource>
 <context>
     <name>MenuGlobal</name>
     <message>
-        <location filename="xnview.cpp" line="1327"/>
+        <location filename="xnview.cpp" line="1329"/>
         <source>Quit</source>
         <translation>Выход</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1330"/>
+        <location filename="xnview.cpp" line="1332"/>
         <source>Website...</source>
         <oldsource>Visit XnView&apos;s Website...</oldsource>
         <translation>Веб-сайт...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1335"/>
+        <location filename="xnview.cpp" line="1337"/>
         <source>Make a donation...</source>
         <translation>Пожертвовать...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1328"/>
+        <location filename="xnview.cpp" line="1330"/>
         <source>About</source>
         <translation>О программе</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1329"/>
+        <location filename="xnview.cpp" line="1331"/>
         <source>PlugIns...</source>
         <translation>Подключаемые модули...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1331"/>
+        <location filename="xnview.cpp" line="1333"/>
         <source>Forum...</source>
         <translation>Форум...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1332"/>
+        <location filename="xnview.cpp" line="1334"/>
         <source>Technical Support...</source>
         <translation>Техническая поддержка...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1333"/>
+        <location filename="xnview.cpp" line="1335"/>
         <source>Report a Bug...</source>
         <oldsource>Report a Bug......</oldsource>
         <translation>Сообщить об ошибке...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1334"/>
+        <location filename="xnview.cpp" line="1336"/>
         <source>Wiki...</source>
         <translation>Wiki...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1336"/>
+        <location filename="xnview.cpp" line="1338"/>
         <source>Check for update...</source>
         <translation>Проверить обновление...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1337"/>
+        <location filename="xnview.cpp" line="1339"/>
         <source>Registration...</source>
         <translation>Регистрация...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1338"/>
+        <location filename="xnview.cpp" line="1340"/>
         <source>Purchase...</source>
         <translation>Купить...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1348"/>
         <location filename="xnview.cpp" line="1350"/>
+        <location filename="xnview.cpp" line="1352"/>
         <source>Settings...</source>
         <translation>Настройки...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1354"/>
+        <location filename="xnview.cpp" line="1356"/>
         <source>Always on top</source>
         <translation>Всегда поверх окон</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1356"/>
+        <location filename="xnview.cpp" line="1358"/>
         <source>Titlebar</source>
         <translation>Заголовок окна</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1357"/>
+        <location filename="xnview.cpp" line="1359"/>
         <source>Show</source>
         <translation>Показывать</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1358"/>
+        <location filename="xnview.cpp" line="1360"/>
         <source>Bottom</source>
         <translation>Располагать снизу</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1359"/>
+        <location filename="xnview.cpp" line="1361"/>
         <source>Tab</source>
         <translation>Вкладка</translation>
     </message>
@@ -22527,38 +22548,38 @@ Do you want to continue?</oldsource>
 <context>
     <name>MyDirModel</name>
     <message>
-        <location filename="MyDirModel.cpp" line="75"/>
+        <location filename="MyDirModel.cpp" line="49"/>
         <source>Volumes</source>
         <translation>Разделы</translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="330"/>
+        <location filename="MyDirModel.cpp" line="318"/>
         <source>Desktop</source>
         <translation>Рабочий стол</translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="336"/>
+        <location filename="MyDirModel.cpp" line="324"/>
         <source>My Computer</source>
         <translation>Мой компьютер</translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="1218"/>
-        <location filename="MyDirModel.cpp" line="1220"/>
+        <location filename="MyDirModel.cpp" line="1024"/>
+        <location filename="MyDirModel.cpp" line="1026"/>
         <source>Computer</source>
         <translation>Компьютер</translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="1222"/>
+        <location filename="MyDirModel.cpp" line="1028"/>
         <source>Home</source>
         <translation>Главная</translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="1718"/>
+        <location filename="MyDirModel.cpp" line="1549"/>
         <source>Folders</source>
         <translation>Папки</translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="2019"/>
+        <location filename="MyDirModel.cpp" line="1840"/>
         <source>New Folder %1</source>
         <translation>Новая папка %1</translation>
     </message>
@@ -22595,12 +22616,12 @@ Do you want to continue?</oldsource>
 <context>
     <name>MyFolderView</name>
     <message>
-        <location filename="MyFolderView.cpp" line="553"/>
+        <location filename="MyFolderView.cpp" line="573"/>
         <source>Delete folder</source>
         <translation>Удаление папки</translation>
     </message>
     <message>
-        <location filename="MyFolderView.cpp" line="553"/>
+        <location filename="MyFolderView.cpp" line="573"/>
         <source>Are you sure to delete this folder?</source>
         <translation>Вы действительно хотите удалить эту папку?</translation>
     </message>
@@ -24456,38 +24477,38 @@ Do you want to keep the thumbnails?
         <translation>Обновление Каталога...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="475"/>
+        <location filename="xnview.cpp" line="476"/>
         <source>Catalog problem</source>
         <translation>Проблема с Каталогом</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="475"/>
+        <location filename="xnview.cpp" line="476"/>
         <source>There is a problem to open catalog, check your settings or folder used!</source>
         <translation>Возникла проблема с открытием Каталога, проверьте ваши настройки или используемую папку!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="483"/>
+        <location filename="xnview.cpp" line="485"/>
         <source>Catalog update</source>
         <translation>Обновление Каталога</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="483"/>
+        <location filename="xnview.cpp" line="485"/>
         <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
         <translation>Вам необходимо обновить Каталог (Настройки&gt;Каталог&gt;Обновить метаданные), если вы хотите использовать новые фильтры в &apos;Фильтре Каталога&apos;. </translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="878"/>
+        <location filename="xnview.cpp" line="880"/>
         <source>Application is up to date.</source>
         <oldsource>XnView MP is currently up to date.</oldsource>
         <translation>Обновлений нет. Вы используете последнюю версию программы.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1552"/>
+        <location filename="xnview.cpp" line="1554"/>
         <source>Do you want to save session?</source>
         <translation>Вы хотите сохранять сессию?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="3021"/>
+        <location filename="xnview.cpp" line="3023"/>
         <source>Catalog and Metadata are disabled - 
 Rating, Tag &amp; Color labels will not be saved.</source>
         <oldsource>Rating/Tag/Color label can&apos;t be saved if catalog and metadata export are disabled!</oldsource>
@@ -24495,7 +24516,7 @@ Rating, Tag &amp; Color labels will not be saved.</source>
 Теги, Рейтинг и Цветовые метки не будут сохранены.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="949"/>
+        <location filename="xnview.cpp" line="951"/>
         <source>Your previous session contains many loaded images, this can cause a slowdown!</source>
         <translation>Ваша предыдущая сессия содержит много открытых изображений, это может привести к замедлению работы программы!</translation>
     </message>
@@ -24509,39 +24530,39 @@ Please contact the developer.</source>
 Пожалуйста, свяжитесь с разработчиком.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="949"/>
+        <location filename="xnview.cpp" line="951"/>
         <source>Session</source>
         <translation>Сессия</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1477"/>
+        <location filename="xnview.cpp" line="1479"/>
         <source>Do you want to quit?</source>
         <translation>Вы действительно хотите выйти?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1553"/>
+        <location filename="xnview.cpp" line="1555"/>
         <source>Saving many tabs may noticeably slow application reopening.</source>
         <oldsource>Saving many tabs may noticeably slow reopening XnView MP</oldsource>
         <translation>Сохранение большого количества вкладок может заметно замедлить открытие программы.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1559"/>
+        <location filename="xnview.cpp" line="1561"/>
         <source>Don&apos;t ask again</source>
         <oldsource>Do not ask again</oldsource>
         <translation>Больше не спрашивать</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1125"/>
+        <location filename="xnview.cpp" line="1127"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1125"/>
+        <location filename="xnview.cpp" line="1127"/>
         <source>File not found!</source>
         <translation>Файл не найден.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1578"/>
+        <location filename="xnview.cpp" line="1580"/>
         <source>Do you want to save this session?</source>
         <translation>Хотите сохранить эту сессию?</translation>
     </message>

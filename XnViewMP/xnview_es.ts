@@ -9211,11 +9211,11 @@ etiquetas de color o palabras clave pueden ser eliminadas.
         <translation>Ruta base de los archivos</translation>
     </message>
     <message>
-        <source>Update metadata...</source>
+        <source>Store Exiftool fields</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Store Exiftool fields</source>
+        <source>Update metadata</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9840,16 +9840,8 @@ miniatura</translation>
         <translation>Explorar con XnViewMP</translation>
     </message>
     <message>
-        <source>Please start XnViewMP with admin rights (only the first time).</source>
-        <translation>Por favor, iniciar XnViewMP con derechos de administrador (solo la primera vez).</translation>
-    </message>
-    <message>
         <source>Same as Catalog</source>
         <translation>Igual que el Catálogo</translation>
-    </message>
-    <message>
-        <source>File Associations</source>
-        <translation>Asociación de Archivos</translation>
     </message>
     <message>
         <source>XnViewMP for Windows</source>
@@ -9955,7 +9947,15 @@ miniatura</translation>
         <translation type="unfinished">Añadir &apos;Explorar con XnViewMP&apos; al menú contextual</translation>
     </message>
     <message>
-        <source>Enable shell extension to context menu</source>
+        <source>Add shell extension to context menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Register application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open &apos;Default Apps&apos;...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11528,10 +11528,6 @@ Do you want to reassign?</source>
         <translation>Mensualmente</translation>
     </message>
     <message>
-        <source>System integration</source>
-        <translation>Integración del Sitema</translation>
-    </message>
-    <message>
         <source>Weekly</source>
         <translation>Semanalmente</translation>
     </message>
@@ -11574,6 +11570,26 @@ Do you want to reassign?</source>
     <message>
         <source>Portable (application folder)</source>
         <translation>Portable (carpeta de aplicaciones)</translation>
+    </message>
+    <message>
+        <source>Windows Explorer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add shell extension to context menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Association</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Register application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open &apos;Default Apps&apos;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

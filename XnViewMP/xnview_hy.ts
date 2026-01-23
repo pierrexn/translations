@@ -9210,11 +9210,11 @@ Do you want to check for affected entries first?</source>
         <translation>Ֆայլերի հիմնական ուղին</translation>
     </message>
     <message>
-        <source>Update metadata...</source>
+        <source>Store Exiftool fields</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Store Exiftool fields</source>
+        <source>Update metadata</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9839,10 +9839,6 @@ Thumbnail</source>
         <translation>XnViewMP-ը Windows-ի համար</translation>
     </message>
     <message>
-        <source>File Associations</source>
-        <translation>Ֆայլի ասոցիացումներ</translation>
-    </message>
-    <message>
         <source>Same as Catalog</source>
         <translation>Նույնը, ինչ գրացուցակը</translation>
     </message>
@@ -9853,10 +9849,6 @@ Thumbnail</source>
     <message>
         <source>Please be careful to folder rights by using XnView folder</source>
         <translation>Զգույշ եղեք պանակի իրավունքների համար՝ XnView օգտագործելիս</translation>
-    </message>
-    <message>
-        <source>Please start XnViewMP with admin rights (only the first time).</source>
-        <translation>Բացել XnViewMP-ը Վարիչի իրավունքներով (միայն առաջին անգամ)</translation>
     </message>
     <message>
         <source>XnView Slide file</source>
@@ -9954,7 +9946,15 @@ Thumbnail</source>
         <translation type="unfinished">Ավելացնել &apos;Դիտել XnViewMP-ում&apos; հարցումը համատեքստային ցանկում</translation>
     </message>
     <message>
-        <source>Enable shell extension to context menu</source>
+        <source>Add shell extension to context menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Register application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open &apos;Default Apps&apos;...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11507,10 +11507,6 @@ Do you want to reassign?</source>
         <translation>Ամեն ամիս</translation>
     </message>
     <message>
-        <source>System integration</source>
-        <translation>Ինտեգրում համակարգում</translation>
-    </message>
-    <message>
         <source>Weekly</source>
         <translation>Ամեն շաբաթ</translation>
     </message>
@@ -11573,6 +11569,26 @@ Do you want to reassign?</source>
     <message>
         <source>Portable (application folder)</source>
         <translation>Դյուրակիր (ծրագրի պանակ)</translation>
+    </message>
+    <message>
+        <source>Windows Explorer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add shell extension to context menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Association</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Register application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open &apos;Default Apps&apos;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

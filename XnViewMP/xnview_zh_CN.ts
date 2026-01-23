@@ -301,62 +301,62 @@
         <translation>&lt; 空 &gt;</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2960"/>
+        <location filename="ViewWindow.cpp" line="2971"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
         <translation type="unfinished">图像将转换为 24 位 RGB（每个通道 8 位）</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2970"/>
+        <location filename="ViewWindow.cpp" line="2981"/>
         <source>The file &lt;%1&gt; is read-only. Please choose another file name.</source>
         <translation type="unfinished">文件 &lt;%1&gt; 为只读文件。请选择其他文件名。</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2978"/>
+        <location filename="ViewWindow.cpp" line="2989"/>
         <source>Confirm Save</source>
         <translation>确认保存</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2979"/>
+        <location filename="ViewWindow.cpp" line="2990"/>
         <source>&lt;%1&gt; already exists!</source>
         <translation>&lt;%1&gt; 已存在！</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2979"/>
+        <location filename="ViewWindow.cpp" line="2990"/>
         <source>Do you want to overwrite it?</source>
         <translation>你想覆盖它吗？</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3003"/>
-        <location filename="ViewWindow.cpp" line="3134"/>
-        <location filename="ViewWindow.cpp" line="3184"/>
+        <location filename="ViewWindow.cpp" line="3014"/>
+        <location filename="ViewWindow.cpp" line="3145"/>
+        <location filename="ViewWindow.cpp" line="3195"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
         <translation>保存图片…</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3005"/>
-        <location filename="ViewWindow.cpp" line="3186"/>
+        <location filename="ViewWindow.cpp" line="3016"/>
+        <location filename="ViewWindow.cpp" line="3197"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3005"/>
-        <location filename="ViewWindow.cpp" line="3186"/>
+        <location filename="ViewWindow.cpp" line="3016"/>
+        <location filename="ViewWindow.cpp" line="3197"/>
         <source>An error occurred during saving!</source>
         <translation>保存时出错！</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3276"/>
+        <location filename="ViewWindow.cpp" line="3287"/>
         <source>Properties</source>
         <translation>属性</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4453"/>
+        <location filename="ViewWindow.cpp" line="4464"/>
         <source>Colors count</source>
         <translation>颜色统计</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2028"/>
+        <location filename="ViewWindow.cpp" line="2039"/>
         <source>Customize toolbar...</source>
         <translation>自定义工具栏…</translation>
     </message>
@@ -381,41 +381,41 @@
         <translation>不要再次询问</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2284"/>
-        <location filename="ViewWindow.cpp" line="2290"/>
-        <location filename="ViewWindow.cpp" line="2294"/>
+        <location filename="ViewWindow.cpp" line="2295"/>
+        <location filename="ViewWindow.cpp" line="2301"/>
+        <location filename="ViewWindow.cpp" line="2305"/>
         <source>Delete items</source>
         <translation>删除文件</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2284"/>
+        <location filename="ViewWindow.cpp" line="2295"/>
         <source>Would you like to discard your edits and delete 
 &quot;%1&quot;?</source>
         <translation>是否要放弃编辑并删除
 &quot;%1&quot;？</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2290"/>
+        <location filename="ViewWindow.cpp" line="2301"/>
         <source>Are you sure to delete 
 &quot;%1&quot;?</source>
         <translation>您确定要删除 
 &quot;%1&quot;？</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2294"/>
+        <location filename="ViewWindow.cpp" line="2305"/>
         <source>Are you sure to delete 
 &quot;%1&quot; (%2 items)?</source>
         <translation>您确定要删除 
 &quot;%1&quot;（%2 项）？</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2960"/>
-        <location filename="ViewWindow.cpp" line="2970"/>
+        <location filename="ViewWindow.cpp" line="2971"/>
+        <location filename="ViewWindow.cpp" line="2981"/>
         <source>Save</source>
         <translation>保存</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4453"/>
+        <location filename="ViewWindow.cpp" line="4464"/>
         <source>Number of unique colors: %1</source>
         <translation>独特颜色的数量： %1</translation>
     </message>
@@ -473,28 +473,28 @@
 <context>
     <name>BaseViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="4958"/>
+        <location filename="ViewWindow.cpp" line="4969"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4949"/>
-        <location filename="ViewWindow.cpp" line="4958"/>
+        <location filename="ViewWindow.cpp" line="4960"/>
+        <location filename="ViewWindow.cpp" line="4969"/>
         <source>File can&apos;t be loaded!</source>
         <translation>无法加载文件！</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4949"/>
+        <location filename="ViewWindow.cpp" line="4960"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <translation>为了浏览及转换PDF/PS/EPS/AI文件，XnView MP需要系统中装有Ghostscript %1。</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4950"/>
+        <location filename="ViewWindow.cpp" line="4961"/>
         <source>Please visit the %1 for more information.</source>
         <translation>请访问 %1 以获取更多信息。</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4962"/>
+        <location filename="ViewWindow.cpp" line="4973"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; 空 &gt;</translation>
     </message>
@@ -548,94 +548,94 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 <context>
     <name>BrowserWindow</name>
     <message>
-        <location filename="BrowserWindow.cpp" line="1763"/>
+        <location filename="BrowserWindow.cpp" line="1764"/>
         <source>Folders</source>
         <translation>文件夹</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1767"/>
+        <location filename="BrowserWindow.cpp" line="1768"/>
         <source>Favorites</source>
         <translation>收藏夹</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1771"/>
+        <location filename="BrowserWindow.cpp" line="1772"/>
         <source>Catalog Filter</source>
         <oldsource>Categories Filter</oldsource>
         <translation>分类筛选器</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1782"/>
+        <location filename="BrowserWindow.cpp" line="1783"/>
         <source>Categories</source>
         <translation>分类</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1787"/>
+        <location filename="BrowserWindow.cpp" line="1788"/>
         <source>Category Sets</source>
         <translation>分类合集</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1820"/>
+        <location filename="BrowserWindow.cpp" line="1821"/>
         <source>Info</source>
         <translation>信息</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1999"/>
+        <location filename="BrowserWindow.cpp" line="2000"/>
         <source>Match</source>
         <translatorcomment>匹配筛选条件的意思吧，一致则无法理解其意义</translatorcomment>
         <translation>匹配</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2032"/>
+        <location filename="BrowserWindow.cpp" line="2033"/>
         <source>Global</source>
         <translatorcomment>整个电脑内的文件？</translatorcomment>
         <translation>全局</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2039"/>
+        <location filename="BrowserWindow.cpp" line="2040"/>
         <source>Current folder</source>
         <translation>当前目录</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2046"/>
+        <location filename="BrowserWindow.cpp" line="2047"/>
         <source>Current folder (Recursive)</source>
         <translatorcomment>包含子目录</translatorcomment>
         <translation>当前目录（递归）</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3454"/>
+        <location filename="BrowserWindow.cpp" line="3455"/>
         <source>&lt;Search results&gt;</source>
         <translation>&lt;搜索 结果&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3456"/>
+        <location filename="BrowserWindow.cpp" line="3457"/>
         <source>&lt;Tagged files&gt;</source>
         <translation>&lt;标记的文件&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3551"/>
+        <location filename="BrowserWindow.cpp" line="3552"/>
         <source>This folder doesn&apos;t exist!</source>
         <translation>文件夹不存在!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3764"/>
+        <location filename="BrowserWindow.cpp" line="3765"/>
         <source>Favorite name:</source>
         <translation>收藏夹名称:</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="4009"/>
+        <location filename="BrowserWindow.cpp" line="4010"/>
         <source>Are you sure to delete these %n item(s)?</source>
         <translation>
             <numerusform>确定要删除这%n个文件吗?</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4094"/>
+        <location filename="BrowserWindow.cpp" line="4095"/>
         <source>The files cannot be renamed, an error occurred.</source>
         <translation>文件不能被重命名，发生了一个错误。</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3551"/>
-        <location filename="BrowserWindow.cpp" line="4094"/>
+        <location filename="BrowserWindow.cpp" line="3552"/>
+        <location filename="BrowserWindow.cpp" line="4095"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
@@ -650,28 +650,28 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>合并预览面板</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="921"/>
+        <location filename="BrowserWindow.cpp" line="922"/>
         <source>The database is corrupted. Please check it before you continue!</source>
         <oldsource>The database is corrupted, please check it before to continue!</oldsource>
         <translation type="unfinished">数据库已损坏，请检查后再继续！</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1664"/>
+        <location filename="BrowserWindow.cpp" line="1665"/>
         <source>Add to Favorites</source>
         <translation>添加到收藏夹</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1828"/>
+        <location filename="BrowserWindow.cpp" line="1829"/>
         <source>Metadata</source>
         <translation>元数据</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1837"/>
+        <location filename="BrowserWindow.cpp" line="1838"/>
         <source>Histogram</source>
         <translation>直方图</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2009"/>
+        <location filename="BrowserWindow.cpp" line="2010"/>
         <source>Click to filter - use Shift and Control for multiple selections.
 Right Click on different items for pop-up menus with actions.
 Drag and Drop over the desired node to assign.</source>
@@ -680,75 +680,75 @@ Drag and Drop over the desired node to assign.</source>
 拖放到期望的节点上完成分配。</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2015"/>
+        <location filename="BrowserWindow.cpp" line="2016"/>
         <source>Match any selected entry (OR)</source>
         <translation>匹配任何选定的条目（充分）</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2021"/>
+        <location filename="BrowserWindow.cpp" line="2022"/>
         <source>Match all selected entries (AND)</source>
         <translation>匹配所有选定的条目（必要）</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2261"/>
+        <location filename="BrowserWindow.cpp" line="2262"/>
         <source>Thumbnails</source>
         <translation type="unfinished">缩略图</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3458"/>
+        <location filename="BrowserWindow.cpp" line="3459"/>
         <source>&lt;Catalog filter results&gt;</source>
         <translation>&lt;分类筛选结果&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3460"/>
+        <location filename="BrowserWindow.cpp" line="3461"/>
         <source>&lt;files&gt;</source>
         <translation>&lt;文件&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4002"/>
+        <location filename="BrowserWindow.cpp" line="4003"/>
         <source>Delete items &amp; companions</source>
         <translatorcomment>companions应该是与之相关的XMP sidecar之类的相关文件意思吧？</translatorcomment>
         <translation>删除文件及相关文件</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="4003"/>
+        <location filename="BrowserWindow.cpp" line="4004"/>
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
         <translation>
             <numerusform>确定要删除选中的 %n 项 - %1 项吗?</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4458"/>
+        <location filename="BrowserWindow.cpp" line="4459"/>
         <source>Search...</source>
         <translation>搜索…</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4459"/>
+        <location filename="BrowserWindow.cpp" line="4460"/>
         <source>Add to favorites...</source>
         <translation>添加到收藏夹…</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4462"/>
+        <location filename="BrowserWindow.cpp" line="4463"/>
         <source>Start slideshow</source>
         <translation>启动幻灯片</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4464"/>
+        <location filename="BrowserWindow.cpp" line="4465"/>
         <source>Open in file manager</source>
         <translation type="unfinished">用资源管理器打开文件</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4467"/>
+        <location filename="BrowserWindow.cpp" line="4468"/>
         <source>Properties</source>
         <translation>属性</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4576"/>
+        <location filename="BrowserWindow.cpp" line="4577"/>
         <source>Load filelist</source>
         <translation>加载文件列表</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4008"/>
+        <location filename="BrowserWindow.cpp" line="4009"/>
         <source>Delete items</source>
         <translation>删除文件</translation>
     </message>
@@ -758,22 +758,22 @@ Drag and Drop over the desired node to assign.</source>
         <translation>自定义工具栏…</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1672"/>
+        <location filename="BrowserWindow.cpp" line="1673"/>
         <source>Add Favorite...</source>
         <translation>添加到收藏夹…</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4456"/>
+        <location filename="BrowserWindow.cpp" line="4457"/>
         <source>Show files in subfolders</source>
         <translation>显示子文件夹中的文件</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4499"/>
+        <location filename="BrowserWindow.cpp" line="4500"/>
         <source>Delete folder</source>
         <translation>删除文件夹</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4499"/>
+        <location filename="BrowserWindow.cpp" line="4500"/>
         <source>Are you sure to delete this folder?</source>
         <translation>您确定要把此文件夹放入回收站吗?</translation>
     </message>
@@ -1936,8 +1936,8 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CategoryManager.cpp" line="159"/>
         <location filename="MyDB.cpp" line="909"/>
-        <location filename="MyDB.cpp" line="2328"/>
-        <location filename="MyDB.cpp" line="3653"/>
+        <location filename="MyDB.cpp" line="2358"/>
+        <location filename="MyDB.cpp" line="3683"/>
         <source>Other</source>
         <translation>其他</translation>
     </message>
@@ -11774,8 +11774,8 @@ Do you want to remove entries assigned to a category?</oldsource>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="437"/>
-        <source>Update metadata...</source>
-        <oldsource>Update metadatas...</oldsource>
+        <source>Update metadata</source>
+        <oldsource>Update metadata...</oldsource>
         <translation type="unfinished">更新元数据...</translation>
     </message>
     <message>
@@ -12593,98 +12593,88 @@ Thumbnail</source>
 <context>
     <name>DlgSettingsIntegration</name>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="29"/>
-        <location filename="DlgSettingsIntegration.cpp" line="38"/>
-        <location filename="DlgSettingsIntegration.cpp" line="45"/>
-        <location filename="DlgSettingsIntegration.cpp" line="53"/>
+        <location filename="DlgSettingsIntegration.cpp" line="31"/>
+        <location filename="DlgSettingsIntegration.cpp" line="40"/>
+        <location filename="DlgSettingsIntegration.cpp" line="47"/>
+        <location filename="DlgSettingsIntegration.cpp" line="55"/>
         <source>System - Current user</source>
         <oldsource>User (System)</oldsource>
         <translation type="unfinished">用户（系统）</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="31"/>
+        <location filename="DlgSettingsIntegration.cpp" line="33"/>
         <source>System - Current user (Windows registry)</source>
         <translation type="unfinished">系统 - 当前用户（Windows 注册表）</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsIntegration.cpp" line="32"/>
-        <location filename="DlgSettingsIntegration.cpp" line="40"/>
-        <location filename="DlgSettingsIntegration.cpp" line="47"/>
-        <location filename="DlgSettingsIntegration.cpp" line="55"/>
-        <source>System - Local machine</source>
-        <translation type="unfinished">系统 - 本机</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="34"/>
         <location filename="DlgSettingsIntegration.cpp" line="42"/>
         <location filename="DlgSettingsIntegration.cpp" line="49"/>
+        <location filename="DlgSettingsIntegration.cpp" line="57"/>
+        <source>System - Local machine</source>
+        <translation type="unfinished">系统 - 本机</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsIntegration.cpp" line="36"/>
+        <location filename="DlgSettingsIntegration.cpp" line="44"/>
+        <location filename="DlgSettingsIntegration.cpp" line="51"/>
         <source>Application folder</source>
         <translation>应用程序文件夹</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="36"/>
-        <location filename="DlgSettingsIntegration.cpp" line="43"/>
-        <location filename="DlgSettingsIntegration.cpp" line="50"/>
-        <location filename="DlgSettingsIntegration.cpp" line="57"/>
+        <location filename="DlgSettingsIntegration.cpp" line="38"/>
+        <location filename="DlgSettingsIntegration.cpp" line="45"/>
+        <location filename="DlgSettingsIntegration.cpp" line="52"/>
+        <location filename="DlgSettingsIntegration.cpp" line="59"/>
         <source>Custom</source>
         <translation>自定义</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="52"/>
+        <location filename="DlgSettingsIntegration.cpp" line="54"/>
         <source>Same as Catalog</source>
         <translation>与缓存数据库相同</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="150"/>
-        <location filename="DlgSettingsIntegration.cpp" line="151"/>
         <location filename="DlgSettingsIntegration.cpp" line="152"/>
+        <location filename="DlgSettingsIntegration.cpp" line="153"/>
+        <location filename="DlgSettingsIntegration.cpp" line="154"/>
         <source>Browse with XnViewMP</source>
         <translation>使用XnViewMP浏览</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="380"/>
+        <location filename="DlgSettingsIntegration.cpp" line="395"/>
         <source>Select a program</source>
         <translation type="unfinished">选择程序</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="452"/>
+        <location filename="DlgSettingsIntegration.cpp" line="472"/>
         <source>Paths</source>
         <translation>路径</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="452"/>
+        <location filename="DlgSettingsIntegration.cpp" line="472"/>
         <source>Please be careful to folder rights by using XnView folder</source>
         <translation>使用XnView文件夹时，请留意文件夹权限</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="642"/>
+        <location filename="DlgSettingsIntegration.cpp" line="662"/>
         <source>XnViewMP is a fast multi-format graphics browser, viewer, and converter. It reads more than 400 file formats.</source>
         <translation>XnViewMP是一款集图像浏览、查看及转换于一身的便捷软件。它支持读取400余种文件格式。</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="643"/>
+        <location filename="DlgSettingsIntegration.cpp" line="663"/>
         <source>XnViewMP for Windows</source>
         <translation>XnViewMP Windows版</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="662"/>
+        <location filename="DlgSettingsIntegration.cpp" line="710"/>
         <source>XnView Slide file</source>
         <translation type="unfinished">XnView 幻灯片文件</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="669"/>
+        <location filename="DlgSettingsIntegration.cpp" line="717"/>
         <source>%1 Image file</source>
         <translation>%1 图像文件</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsIntegration.cpp" line="860"/>
-        <source>File Associations</source>
-        <translation>文件关联</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsIntegration.cpp" line="860"/>
-        <source>Please start XnViewMP with admin rights (only the first time).</source>
-        <translation>请以管理员权限启动 XnViewMP（只需一次）。</translation>
     </message>
 </context>
 <context>
@@ -12702,7 +12692,8 @@ Thumbnail</source>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="58"/>
-        <source>Enable shell extension to context menu</source>
+        <source>Add shell extension to context menu</source>
+        <oldsource>Enable shell extension to context menu</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12712,71 +12703,81 @@ Thumbnail</source>
         <translation>设置文件关联…</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="106"/>
+        <location filename="DlgSettingsIntegration.ui" line="94"/>
+        <source>Register application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsIntegration.ui" line="118"/>
+        <source>Open &apos;Default Apps&apos;...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsIntegration.ui" line="154"/>
         <source>Paths</source>
         <translation>路径</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="136"/>
+        <location filename="DlgSettingsIntegration.ui" line="184"/>
         <source>Settings - General</source>
         <translation>设置 - 常规</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="153"/>
-        <location filename="DlgSettingsIntegration.ui" line="209"/>
-        <location filename="DlgSettingsIntegration.ui" line="259"/>
-        <location filename="DlgSettingsIntegration.ui" line="315"/>
+        <location filename="DlgSettingsIntegration.ui" line="201"/>
+        <location filename="DlgSettingsIntegration.ui" line="257"/>
+        <location filename="DlgSettingsIntegration.ui" line="307"/>
         <location filename="DlgSettingsIntegration.ui" line="363"/>
+        <location filename="DlgSettingsIntegration.ui" line="411"/>
         <source>Current location</source>
         <translation>当前位置</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="182"/>
+        <location filename="DlgSettingsIntegration.ui" line="230"/>
         <source>Settings - Other</source>
         <translation type="unfinished">设置 - 其他</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="232"/>
+        <location filename="DlgSettingsIntegration.ui" line="280"/>
         <source>Database - Catalog</source>
         <translation type="unfinished">数据库 - 目录</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="288"/>
+        <location filename="DlgSettingsIntegration.ui" line="336"/>
         <source>Database - Thumbnails</source>
         <translation type="unfinished">数据库 - 缩略图</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="329"/>
+        <location filename="DlgSettingsIntegration.ui" line="377"/>
         <source>Configuration</source>
         <translation>配置</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="340"/>
+        <location filename="DlgSettingsIntegration.ui" line="388"/>
         <source>Current user (recommended)</source>
         <translation type="unfinished">当前用户（推荐）</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="345"/>
+        <location filename="DlgSettingsIntegration.ui" line="393"/>
         <source>Local machine</source>
         <translation type="unfinished">本地机器</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="350"/>
+        <location filename="DlgSettingsIntegration.ui" line="398"/>
         <source>Portable</source>
         <translation type="unfinished">便携式</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="355"/>
+        <location filename="DlgSettingsIntegration.ui" line="403"/>
         <source>Custom</source>
         <translation type="unfinished">自定义</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="397"/>
+        <location filename="DlgSettingsIntegration.ui" line="445"/>
         <source>ExifTool path</source>
         <translation>ExifTool 路径</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="414"/>
+        <location filename="DlgSettingsIntegration.ui" line="462"/>
         <source>...</source>
         <translation type="unfinished">…</translation>
     </message>
@@ -14950,17 +14951,12 @@ Do you want to reassign?</source>
         <translation type="unfinished">便携式（应用程序文件夹）</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="128"/>
-        <source>System integration</source>
-        <translation>系统集成</translation>
-    </message>
-    <message>
         <location filename="DlgStartupWizard.ui" line="134"/>
         <source>Add &apos;Browse with XnViewMP&apos; to context menu</source>
         <translation>为右键菜单添加&apos;使用XnViewMP浏览&apos;选项</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="141"/>
+        <location filename="DlgStartupWizard.ui" line="171"/>
         <source>Run the File association(s) tool...</source>
         <translation>运行文件关联工具…</translation>
     </message>
@@ -14971,27 +14967,52 @@ Do you want to reassign?</source>
         <translation>设置</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="153"/>
+        <location filename="DlgStartupWizard.ui" line="128"/>
+        <source>Windows Explorer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgStartupWizard.ui" line="141"/>
+        <source>Add shell extension to context menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgStartupWizard.ui" line="151"/>
+        <source>File Association</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgStartupWizard.ui" line="157"/>
+        <source>Register application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgStartupWizard.ui" line="164"/>
+        <source>Open &apos;Default Apps&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgStartupWizard.ui" line="183"/>
         <source>Check for program updates</source>
         <translation>检查更新</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="164"/>
+        <location filename="DlgStartupWizard.ui" line="194"/>
         <source>Never</source>
         <translation>从不</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="169"/>
+        <location filename="DlgStartupWizard.ui" line="199"/>
         <source>Daily</source>
         <translation>每天</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="174"/>
+        <location filename="DlgStartupWizard.ui" line="204"/>
         <source>Weekly</source>
         <translation>每周</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="179"/>
+        <location filename="DlgStartupWizard.ui" line="209"/>
         <source>Monthly</source>
         <translation>每月</translation>
     </message>
@@ -19046,7 +19067,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>类型</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="5073"/>
+        <location filename="ItemModel.cpp" line="5092"/>
         <source>New Folder %1</source>
         <translation>新建文件夹 %1</translation>
     </message>
@@ -20320,19 +20341,19 @@ Do you want to continue?</oldsource>
         <translation>打开文件列表…</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4439"/>
+        <location filename="BrowserWindow.cpp" line="4440"/>
         <location filename="BrowserMenu.h" line="421"/>
         <source>Cut</source>
         <translation>剪切</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4441"/>
+        <location filename="BrowserWindow.cpp" line="4442"/>
         <location filename="BrowserMenu.h" line="423"/>
         <source>Copy</source>
         <translation>复制</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4443"/>
+        <location filename="BrowserWindow.cpp" line="4444"/>
         <location filename="BrowserMenu.h" line="428"/>
         <source>Paste</source>
         <translation>粘贴</translation>
@@ -20363,19 +20384,19 @@ Do you want to continue?</oldsource>
         <translation>选择标记的文件</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4451"/>
+        <location filename="BrowserWindow.cpp" line="4452"/>
         <location filename="BrowserMenu.h" line="438"/>
         <source>Copy to...</source>
         <translation>复制到…</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4453"/>
+        <location filename="BrowserWindow.cpp" line="4454"/>
         <location filename="BrowserMenu.h" line="439"/>
         <source>Move to...</source>
         <translation>移动到…</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4446"/>
+        <location filename="BrowserWindow.cpp" line="4447"/>
         <location filename="BrowserMenu.h" line="440"/>
         <source>Delete</source>
         <translation>删除</translation>
@@ -20857,12 +20878,12 @@ Do you want to continue?</oldsource>
         <translation>帮助(&amp;H)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4436"/>
+        <location filename="BrowserWindow.cpp" line="4437"/>
         <source>New Folder</source>
         <translation>新建文件夹</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4448"/>
+        <location filename="BrowserWindow.cpp" line="4449"/>
         <source>Rename</source>
         <translation>重命名</translation>
     </message>
@@ -20875,95 +20896,95 @@ Do you want to continue?</oldsource>
 <context>
     <name>MenuGlobal</name>
     <message>
-        <location filename="xnview.cpp" line="1327"/>
+        <location filename="xnview.cpp" line="1329"/>
         <source>Quit</source>
         <translation>退出</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1330"/>
+        <location filename="xnview.cpp" line="1332"/>
         <source>Website...</source>
         <oldsource>Visit XnView&apos;s Website...</oldsource>
         <translation>网站…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1335"/>
+        <location filename="xnview.cpp" line="1337"/>
         <source>Make a donation...</source>
         <translation>捐赠…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1328"/>
+        <location filename="xnview.cpp" line="1330"/>
         <source>About</source>
         <translation>关于</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1329"/>
+        <location filename="xnview.cpp" line="1331"/>
         <source>PlugIns...</source>
         <translation>插件…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1331"/>
+        <location filename="xnview.cpp" line="1333"/>
         <source>Forum...</source>
         <translation>论坛…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1332"/>
+        <location filename="xnview.cpp" line="1334"/>
         <source>Technical Support...</source>
         <translation>技术支持…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1333"/>
+        <location filename="xnview.cpp" line="1335"/>
         <source>Report a Bug...</source>
         <oldsource>Report a Bug......</oldsource>
         <translation>报告Bug问题……</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1334"/>
+        <location filename="xnview.cpp" line="1336"/>
         <source>Wiki...</source>
         <translation>维基百科…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1336"/>
+        <location filename="xnview.cpp" line="1338"/>
         <source>Check for update...</source>
         <translation>检查更新…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1337"/>
+        <location filename="xnview.cpp" line="1339"/>
         <source>Registration...</source>
         <translation>注册…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1338"/>
+        <location filename="xnview.cpp" line="1340"/>
         <source>Purchase...</source>
         <translation>购买…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1348"/>
         <location filename="xnview.cpp" line="1350"/>
+        <location filename="xnview.cpp" line="1352"/>
         <source>Settings...</source>
         <translation>设置…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1354"/>
+        <location filename="xnview.cpp" line="1356"/>
         <source>Always on top</source>
         <translation>总在最前</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1356"/>
+        <location filename="xnview.cpp" line="1358"/>
         <source>Titlebar</source>
         <translation>标题栏</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1357"/>
+        <location filename="xnview.cpp" line="1359"/>
         <source>Show</source>
         <translation>显示</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1358"/>
+        <location filename="xnview.cpp" line="1360"/>
         <source>Bottom</source>
         <translation>窗口底部</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1359"/>
+        <location filename="xnview.cpp" line="1361"/>
         <source>Tab</source>
         <translation>标签卡</translation>
     </message>
@@ -22434,38 +22455,38 @@ Do you want to continue?</oldsource>
 <context>
     <name>MyDirModel</name>
     <message>
-        <location filename="MyDirModel.cpp" line="75"/>
+        <location filename="MyDirModel.cpp" line="49"/>
         <source>Volumes</source>
         <translation>卷标</translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="330"/>
+        <location filename="MyDirModel.cpp" line="318"/>
         <source>Desktop</source>
         <translation>桌面</translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="336"/>
+        <location filename="MyDirModel.cpp" line="324"/>
         <source>My Computer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="1218"/>
-        <location filename="MyDirModel.cpp" line="1220"/>
+        <location filename="MyDirModel.cpp" line="1024"/>
+        <location filename="MyDirModel.cpp" line="1026"/>
         <source>Computer</source>
         <translation>我的电脑</translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="1222"/>
+        <location filename="MyDirModel.cpp" line="1028"/>
         <source>Home</source>
         <translation type="unfinished">Home文件夹</translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="1718"/>
+        <location filename="MyDirModel.cpp" line="1549"/>
         <source>Folders</source>
         <translation>文件夹</translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="2019"/>
+        <location filename="MyDirModel.cpp" line="1840"/>
         <source>New Folder %1</source>
         <translation>新建文件夹 %1</translation>
     </message>
@@ -22502,12 +22523,12 @@ Do you want to continue?</oldsource>
 <context>
     <name>MyFolderView</name>
     <message>
-        <location filename="MyFolderView.cpp" line="553"/>
+        <location filename="MyFolderView.cpp" line="573"/>
         <source>Delete folder</source>
         <translation>删除文件夹</translation>
     </message>
     <message>
-        <location filename="MyFolderView.cpp" line="553"/>
+        <location filename="MyFolderView.cpp" line="573"/>
         <source>Are you sure to delete this folder?</source>
         <translation>确定要删除此文件夹吗?</translation>
     </message>
@@ -24359,38 +24380,38 @@ Do you want to keep the thumbnails?
         <translation>正在更新缓存数据库，请稍候…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="475"/>
+        <location filename="xnview.cpp" line="476"/>
         <source>Catalog problem</source>
         <translation>分类出错</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="475"/>
+        <location filename="xnview.cpp" line="476"/>
         <source>There is a problem to open catalog, check your settings or folder used!</source>
         <translation type="unfinished">打开目录有问题，请检查设置或使用的文件夹！</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="483"/>
+        <location filename="xnview.cpp" line="485"/>
         <source>Catalog update</source>
         <translation type="unfinished">缓存数据库更新</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="483"/>
+        <location filename="xnview.cpp" line="485"/>
         <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
         <translation type="unfinished">如果要在 &quot;缓存数据库筛选器 &quot;中使用新节点，则需要更新目录（设置&gt;缓存数据库&gt;更新元数据）。 </translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="878"/>
+        <location filename="xnview.cpp" line="880"/>
         <source>Application is up to date.</source>
         <oldsource>XnView MP is currently up to date.</oldsource>
         <translation>软件已经是最新版本。</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1552"/>
+        <location filename="xnview.cpp" line="1554"/>
         <source>Do you want to save session?</source>
         <translation>你是否要保存进程？</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="3021"/>
+        <location filename="xnview.cpp" line="3023"/>
         <source>Catalog and Metadata are disabled - 
 Rating, Tag &amp; Color labels will not be saved.</source>
         <oldsource>Rating/Tag/Color label can&apos;t be saved if catalog and metadata export are disabled!</oldsource>
@@ -24398,7 +24419,7 @@ Rating, Tag &amp; Color labels will not be saved.</source>
 评级、标记、颜色等标签无法被保存。</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="949"/>
+        <location filename="xnview.cpp" line="951"/>
         <source>Your previous session contains many loaded images, this can cause a slowdown!</source>
         <translation>上一次的会话包含了大量已加载的图像，可能会影响流畅度！</translation>
     </message>
@@ -24412,39 +24433,39 @@ Please contact the developer.</source>
 请联系开发人员。</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="949"/>
+        <location filename="xnview.cpp" line="951"/>
         <source>Session</source>
         <translation>进程</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1477"/>
+        <location filename="xnview.cpp" line="1479"/>
         <source>Do you want to quit?</source>
         <translation>是否想要退出？</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1553"/>
+        <location filename="xnview.cpp" line="1555"/>
         <source>Saving many tabs may noticeably slow application reopening.</source>
         <oldsource>Saving many tabs may noticeably slow reopening XnView MP</oldsource>
         <translation type="unfinished">保存多个标签卡可能会导致再次打开软件的速度变慢。</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1559"/>
+        <location filename="xnview.cpp" line="1561"/>
         <source>Don&apos;t ask again</source>
         <oldsource>Do not ask again</oldsource>
         <translation>不要再次询问</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1125"/>
+        <location filename="xnview.cpp" line="1127"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1125"/>
+        <location filename="xnview.cpp" line="1127"/>
         <source>File not found!</source>
         <translation>未找到文件！</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1578"/>
+        <location filename="xnview.cpp" line="1580"/>
         <source>Do you want to save this session?</source>
         <translation>是否想要保存本次会话？</translation>
     </message>

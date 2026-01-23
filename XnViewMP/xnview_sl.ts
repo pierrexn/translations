@@ -285,65 +285,65 @@
         <translation>&lt; Prazno &gt;</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2028"/>
+        <location filename="ViewWindow.cpp" line="2039"/>
         <source>Customize toolbar...</source>
         <translation>Prilagodi orodno vrstico...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2284"/>
-        <location filename="ViewWindow.cpp" line="2290"/>
-        <location filename="ViewWindow.cpp" line="2294"/>
+        <location filename="ViewWindow.cpp" line="2295"/>
+        <location filename="ViewWindow.cpp" line="2301"/>
+        <location filename="ViewWindow.cpp" line="2305"/>
         <source>Delete items</source>
         <translation>Izbriši postavke</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2284"/>
+        <location filename="ViewWindow.cpp" line="2295"/>
         <source>Would you like to discard your edits and delete 
 &quot;%1&quot;?</source>
         <translation>Ali želite zavreči svoje popravke in izbrisati
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2290"/>
+        <location filename="ViewWindow.cpp" line="2301"/>
         <source>Are you sure to delete 
 &quot;%1&quot;?</source>
         <translation>Ali ste prepričani, da želite izbrisati
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2294"/>
+        <location filename="ViewWindow.cpp" line="2305"/>
         <source>Are you sure to delete 
 &quot;%1&quot; (%2 items)?</source>
         <translation>Ali ste prepričani, da želite izbrisati
 &quot;%1&quot; (%2 postavk)?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2960"/>
+        <location filename="ViewWindow.cpp" line="2971"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
         <translation>Slika bo pretvorjena v 24-bitni RGB (8 bitov na kanal)</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2970"/>
+        <location filename="ViewWindow.cpp" line="2981"/>
         <source>The file &lt;%1&gt; is read-only. Please choose another file name.</source>
         <translation>Datoteka &lt;%1&gt; je samo za branje. Izberite drugo ime datoteke.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2978"/>
+        <location filename="ViewWindow.cpp" line="2989"/>
         <source>Confirm Save</source>
         <translation>Potrdi Shrani</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2979"/>
+        <location filename="ViewWindow.cpp" line="2990"/>
         <source>&lt;%1&gt; already exists!</source>
         <translation>&lt;%1&gt; že obstaja!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2979"/>
+        <location filename="ViewWindow.cpp" line="2990"/>
         <source>Do you want to overwrite it?</source>
         <translation>Ali jo želite prepisati?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4453"/>
+        <location filename="ViewWindow.cpp" line="4464"/>
         <source>Number of unique colors: %1</source>
         <translation>Število edinstvenih barv: %1</translation>
     </message>
@@ -384,38 +384,38 @@
         <translation>Ne sprašuj več</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2960"/>
-        <location filename="ViewWindow.cpp" line="2970"/>
+        <location filename="ViewWindow.cpp" line="2971"/>
+        <location filename="ViewWindow.cpp" line="2981"/>
         <source>Save</source>
         <translation>Shrani</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3003"/>
-        <location filename="ViewWindow.cpp" line="3134"/>
-        <location filename="ViewWindow.cpp" line="3184"/>
+        <location filename="ViewWindow.cpp" line="3014"/>
+        <location filename="ViewWindow.cpp" line="3145"/>
+        <location filename="ViewWindow.cpp" line="3195"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
         <translation>Shranjevanje slike...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3005"/>
-        <location filename="ViewWindow.cpp" line="3186"/>
+        <location filename="ViewWindow.cpp" line="3016"/>
+        <location filename="ViewWindow.cpp" line="3197"/>
         <source>Error</source>
         <translation>Napaka</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3005"/>
-        <location filename="ViewWindow.cpp" line="3186"/>
+        <location filename="ViewWindow.cpp" line="3016"/>
+        <location filename="ViewWindow.cpp" line="3197"/>
         <source>An error occurred during saving!</source>
         <translation>Med shranjevanjem je prišlo do napake!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3276"/>
+        <location filename="ViewWindow.cpp" line="3287"/>
         <source>Properties</source>
         <translation>Lastnosti</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4453"/>
+        <location filename="ViewWindow.cpp" line="4464"/>
         <source>Colors count</source>
         <translation>Število barv</translation>
     </message>
@@ -473,28 +473,28 @@
 <context>
     <name>BaseViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="4949"/>
+        <location filename="ViewWindow.cpp" line="4960"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <translation>Za ogled in pretvorbo datotek PDF/PS/EPS/AI XnView MP zahteva, da je v vašem sistemu nameščen Ghostscript %1.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4950"/>
+        <location filename="ViewWindow.cpp" line="4961"/>
         <source>Please visit the %1 for more information.</source>
         <translation>Prosim, obiščite %1 za več informacij.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4958"/>
+        <location filename="ViewWindow.cpp" line="4969"/>
         <source>Error</source>
         <translation>Napaka</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4949"/>
-        <location filename="ViewWindow.cpp" line="4958"/>
+        <location filename="ViewWindow.cpp" line="4960"/>
+        <location filename="ViewWindow.cpp" line="4969"/>
         <source>File can&apos;t be loaded!</source>
         <translation>Datoteke ni mogoče naložiti!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4962"/>
+        <location filename="ViewWindow.cpp" line="4973"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; Prazno &gt;</translation>
     </message>
@@ -553,38 +553,38 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <translation>Prilagodi orodno vrstico...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1672"/>
+        <location filename="BrowserWindow.cpp" line="1673"/>
         <source>Add Favorite...</source>
         <translation>Dodaj priljubljeno...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1763"/>
+        <location filename="BrowserWindow.cpp" line="1764"/>
         <source>Folders</source>
         <translation>Mape</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1767"/>
+        <location filename="BrowserWindow.cpp" line="1768"/>
         <source>Favorites</source>
         <translation>Priljubljene</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1771"/>
+        <location filename="BrowserWindow.cpp" line="1772"/>
         <source>Catalog Filter</source>
         <oldsource>Categories Filter</oldsource>
         <translation>Katalog Filter</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1782"/>
+        <location filename="BrowserWindow.cpp" line="1783"/>
         <source>Categories</source>
         <translation>Razredi</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1787"/>
+        <location filename="BrowserWindow.cpp" line="1788"/>
         <source>Category Sets</source>
         <translation>Nabori razredov</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1820"/>
+        <location filename="BrowserWindow.cpp" line="1821"/>
         <source>Info</source>
         <translation>Info</translation>
     </message>
@@ -599,28 +599,28 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <translation>Priloži panel za predogled</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="921"/>
+        <location filename="BrowserWindow.cpp" line="922"/>
         <source>The database is corrupted. Please check it before you continue!</source>
         <oldsource>The database is corrupted, please check it before to continue!</oldsource>
         <translation>Podatkovna baza je poškodovana. Preden nadaljujete, jo preverite!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1664"/>
+        <location filename="BrowserWindow.cpp" line="1665"/>
         <source>Add to Favorites</source>
         <translation>Dodaj med priljubljene</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1828"/>
+        <location filename="BrowserWindow.cpp" line="1829"/>
         <source>Metadata</source>
         <translation>Metapodatki</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1837"/>
+        <location filename="BrowserWindow.cpp" line="1838"/>
         <source>Histogram</source>
         <translation>Histogram</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2009"/>
+        <location filename="BrowserWindow.cpp" line="2010"/>
         <source>Click to filter - use Shift and Control for multiple selections.
 Right Click on different items for pop-up menus with actions.
 Drag and Drop over the desired node to assign.</source>
@@ -629,57 +629,57 @@ Desni klik na različne postavke za pojavne menije z ukrepi.
 Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2015"/>
+        <location filename="BrowserWindow.cpp" line="2016"/>
         <source>Match any selected entry (OR)</source>
         <translation>Ujemanje s katerim koli izbranim vnosom (ALI)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2021"/>
+        <location filename="BrowserWindow.cpp" line="2022"/>
         <source>Match all selected entries (AND)</source>
         <translation>Ujemanje z vsemi izbranimi vnosi (IN)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2032"/>
+        <location filename="BrowserWindow.cpp" line="2033"/>
         <source>Global</source>
         <translation>Globalno</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2039"/>
+        <location filename="BrowserWindow.cpp" line="2040"/>
         <source>Current folder</source>
         <translation>Trenutna mapa</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2046"/>
+        <location filename="BrowserWindow.cpp" line="2047"/>
         <source>Current folder (Recursive)</source>
         <translation>Trenutna mapa (rekurzivno)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2261"/>
+        <location filename="BrowserWindow.cpp" line="2262"/>
         <source>Thumbnails</source>
         <translation>Sličice</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3454"/>
+        <location filename="BrowserWindow.cpp" line="3455"/>
         <source>&lt;Search results&gt;</source>
         <translation>&lt;Izid iskanja&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3456"/>
+        <location filename="BrowserWindow.cpp" line="3457"/>
         <source>&lt;Tagged files&gt;</source>
         <translation>&lt;Označene datoteke&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3551"/>
+        <location filename="BrowserWindow.cpp" line="3552"/>
         <source>This folder doesn&apos;t exist!</source>
         <translation>Ta mapa ne obstaja!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3764"/>
+        <location filename="BrowserWindow.cpp" line="3765"/>
         <source>Favorite name:</source>
         <translation>Ime priljubljene:</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="4009"/>
+        <location filename="BrowserWindow.cpp" line="4010"/>
         <source>Are you sure to delete these %n item(s)?</source>
         <translation>
             <numerusform>Ali ste prepričani, da želite izbrisati %n postavko?</numerusform>
@@ -689,33 +689,33 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4094"/>
+        <location filename="BrowserWindow.cpp" line="4095"/>
         <source>The files cannot be renamed, an error occurred.</source>
         <translation>Datotek ni mogoče preimenovati, prišlo je do napake.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3551"/>
-        <location filename="BrowserWindow.cpp" line="4094"/>
+        <location filename="BrowserWindow.cpp" line="3552"/>
+        <location filename="BrowserWindow.cpp" line="4095"/>
         <source>Error</source>
         <translation>Napaka</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3458"/>
+        <location filename="BrowserWindow.cpp" line="3459"/>
         <source>&lt;Catalog filter results&gt;</source>
         <translation>&lt;Rezultati filtra kataloga&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3460"/>
+        <location filename="BrowserWindow.cpp" line="3461"/>
         <source>&lt;files&gt;</source>
         <translation>&lt;datoteke&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4002"/>
+        <location filename="BrowserWindow.cpp" line="4003"/>
         <source>Delete items &amp; companions</source>
         <translation>Izbriši postavke in spremljevalce</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="4003"/>
+        <location filename="BrowserWindow.cpp" line="4004"/>
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
         <translation>
             <numerusform>Ali ste prepričani, da želite izbrisati %n postavko - %1 postavka izbrana?</numerusform>
@@ -725,57 +725,57 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4458"/>
+        <location filename="BrowserWindow.cpp" line="4459"/>
         <source>Search...</source>
         <translation>Najdi...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4459"/>
+        <location filename="BrowserWindow.cpp" line="4460"/>
         <source>Add to favorites...</source>
         <translation>Dodaj med priljubljene...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4462"/>
+        <location filename="BrowserWindow.cpp" line="4463"/>
         <source>Start slideshow</source>
         <translation>Začni diaprojekcijo</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4464"/>
+        <location filename="BrowserWindow.cpp" line="4465"/>
         <source>Open in file manager</source>
         <translation>Odpri v upravitelju datotek</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4467"/>
+        <location filename="BrowserWindow.cpp" line="4468"/>
         <source>Properties</source>
         <translation>Lastnosti</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4576"/>
+        <location filename="BrowserWindow.cpp" line="4577"/>
         <source>Load filelist</source>
         <translation>Naloži seznam datotek</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1999"/>
+        <location filename="BrowserWindow.cpp" line="2000"/>
         <source>Match</source>
         <translation>Ujemanje</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4008"/>
+        <location filename="BrowserWindow.cpp" line="4009"/>
         <source>Delete items</source>
         <translation>Izbriši postavke</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4456"/>
+        <location filename="BrowserWindow.cpp" line="4457"/>
         <source>Show files in subfolders</source>
         <translation>Pokaži datoteke v podmapah</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4499"/>
+        <location filename="BrowserWindow.cpp" line="4500"/>
         <source>Delete folder</source>
         <translation>Izbriši mapo</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4499"/>
+        <location filename="BrowserWindow.cpp" line="4500"/>
         <source>Are you sure to delete this folder?</source>
         <translation>Ali ste prepričani, da želite izbrisati to mapo?</translation>
     </message>
@@ -1936,8 +1936,8 @@ Povlecite in spustite želeno vozlišče, ki ga želite dodeliti.</translation>
     <message>
         <location filename="CategoryManager.cpp" line="159"/>
         <location filename="MyDB.cpp" line="909"/>
-        <location filename="MyDB.cpp" line="2328"/>
-        <location filename="MyDB.cpp" line="3653"/>
+        <location filename="MyDB.cpp" line="2358"/>
+        <location filename="MyDB.cpp" line="3683"/>
         <source>Other</source>
         <translation>Drugo</translation>
     </message>
@@ -11824,9 +11824,9 @@ Ali želite najprej preveriti prizadete vnose?</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="437"/>
-        <source>Update metadata...</source>
-        <oldsource>Update metadatas...</oldsource>
-        <translation>Posodobi metapodatke...</translation>
+        <source>Update metadata</source>
+        <oldsource>Update metadata...</oldsource>
+        <translation type="unfinished">Posodobi metapodatke...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="501"/>
@@ -12640,98 +12640,88 @@ sličico</translation>
 <context>
     <name>DlgSettingsIntegration</name>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="29"/>
-        <location filename="DlgSettingsIntegration.cpp" line="38"/>
-        <location filename="DlgSettingsIntegration.cpp" line="45"/>
-        <location filename="DlgSettingsIntegration.cpp" line="53"/>
+        <location filename="DlgSettingsIntegration.cpp" line="31"/>
+        <location filename="DlgSettingsIntegration.cpp" line="40"/>
+        <location filename="DlgSettingsIntegration.cpp" line="47"/>
+        <location filename="DlgSettingsIntegration.cpp" line="55"/>
         <source>System - Current user</source>
         <oldsource>User (System)</oldsource>
         <translation>Sistem – trenutni uporabnik</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="31"/>
+        <location filename="DlgSettingsIntegration.cpp" line="33"/>
         <source>System - Current user (Windows registry)</source>
         <translation>Sistem - Trenutni uporabnik (register Windows)</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsIntegration.cpp" line="32"/>
-        <location filename="DlgSettingsIntegration.cpp" line="40"/>
-        <location filename="DlgSettingsIntegration.cpp" line="47"/>
-        <location filename="DlgSettingsIntegration.cpp" line="55"/>
-        <source>System - Local machine</source>
-        <translation>Sistem – lokalni stroj</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="34"/>
         <location filename="DlgSettingsIntegration.cpp" line="42"/>
         <location filename="DlgSettingsIntegration.cpp" line="49"/>
+        <location filename="DlgSettingsIntegration.cpp" line="57"/>
+        <source>System - Local machine</source>
+        <translation>Sistem – lokalni stroj</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsIntegration.cpp" line="36"/>
+        <location filename="DlgSettingsIntegration.cpp" line="44"/>
+        <location filename="DlgSettingsIntegration.cpp" line="51"/>
         <source>Application folder</source>
         <translation>Mapa aplikacij</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="36"/>
-        <location filename="DlgSettingsIntegration.cpp" line="43"/>
-        <location filename="DlgSettingsIntegration.cpp" line="50"/>
-        <location filename="DlgSettingsIntegration.cpp" line="57"/>
+        <location filename="DlgSettingsIntegration.cpp" line="38"/>
+        <location filename="DlgSettingsIntegration.cpp" line="45"/>
+        <location filename="DlgSettingsIntegration.cpp" line="52"/>
+        <location filename="DlgSettingsIntegration.cpp" line="59"/>
         <source>Custom</source>
         <translation>Po meri</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="52"/>
+        <location filename="DlgSettingsIntegration.cpp" line="54"/>
         <source>Same as Catalog</source>
         <translation>Enako kot Katalog</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="150"/>
-        <location filename="DlgSettingsIntegration.cpp" line="151"/>
         <location filename="DlgSettingsIntegration.cpp" line="152"/>
+        <location filename="DlgSettingsIntegration.cpp" line="153"/>
+        <location filename="DlgSettingsIntegration.cpp" line="154"/>
         <source>Browse with XnViewMP</source>
         <translation>Brskajte z XnViewMP</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="380"/>
+        <location filename="DlgSettingsIntegration.cpp" line="395"/>
         <source>Select a program</source>
         <translation>Izberite program</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="452"/>
+        <location filename="DlgSettingsIntegration.cpp" line="472"/>
         <source>Paths</source>
         <translation>Poti</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="452"/>
+        <location filename="DlgSettingsIntegration.cpp" line="472"/>
         <source>Please be careful to folder rights by using XnView folder</source>
         <translation>Prosimo, bodite pozorni na pravice mape pri uporabi XnView mape</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="642"/>
+        <location filename="DlgSettingsIntegration.cpp" line="662"/>
         <source>XnViewMP is a fast multi-format graphics browser, viewer, and converter. It reads more than 400 file formats.</source>
         <translation>XnViewMP je hiter multi-formatni grafični brskalnik, pregledovalnik in pretvornik. Bere več kot 400 formatov datotek.</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="643"/>
+        <location filename="DlgSettingsIntegration.cpp" line="663"/>
         <source>XnViewMP for Windows</source>
         <translation>XnViewMP za Windows</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="662"/>
+        <location filename="DlgSettingsIntegration.cpp" line="710"/>
         <source>XnView Slide file</source>
         <translation>Datoteka XnView Slide</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="669"/>
+        <location filename="DlgSettingsIntegration.cpp" line="717"/>
         <source>%1 Image file</source>
         <translation>%1 slikovna datoteka</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsIntegration.cpp" line="860"/>
-        <source>File Associations</source>
-        <translation>Pridružitve datotek</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsIntegration.cpp" line="860"/>
-        <source>Please start XnViewMP with admin rights (only the first time).</source>
-        <translation>Zaženite XnViewMP s skrbniškimi pravicami (samo prvič).</translation>
     </message>
 </context>
 <context>
@@ -12749,8 +12739,9 @@ sličico</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="58"/>
-        <source>Enable shell extension to context menu</source>
-        <translation>Omogoči razširitev lupine v kontekstni meni</translation>
+        <source>Add shell extension to context menu</source>
+        <oldsource>Enable shell extension to context menu</oldsource>
+        <translation type="unfinished">Omogoči razširitev lupine v kontekstni meni</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="70"/>
@@ -12759,71 +12750,81 @@ sličico</translation>
         <translation>Nastavi pridružitev datotek...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="106"/>
+        <location filename="DlgSettingsIntegration.ui" line="94"/>
+        <source>Register application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsIntegration.ui" line="118"/>
+        <source>Open &apos;Default Apps&apos;...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsIntegration.ui" line="154"/>
         <source>Paths</source>
         <translation>Poti</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="136"/>
+        <location filename="DlgSettingsIntegration.ui" line="184"/>
         <source>Settings - General</source>
         <translation>Nastavitve – Splošno</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="153"/>
-        <location filename="DlgSettingsIntegration.ui" line="209"/>
-        <location filename="DlgSettingsIntegration.ui" line="259"/>
-        <location filename="DlgSettingsIntegration.ui" line="315"/>
+        <location filename="DlgSettingsIntegration.ui" line="201"/>
+        <location filename="DlgSettingsIntegration.ui" line="257"/>
+        <location filename="DlgSettingsIntegration.ui" line="307"/>
         <location filename="DlgSettingsIntegration.ui" line="363"/>
+        <location filename="DlgSettingsIntegration.ui" line="411"/>
         <source>Current location</source>
         <translation>Trenutna lokacija</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="182"/>
+        <location filename="DlgSettingsIntegration.ui" line="230"/>
         <source>Settings - Other</source>
         <translation>Nastavitve – Drugo</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="232"/>
+        <location filename="DlgSettingsIntegration.ui" line="280"/>
         <source>Database - Catalog</source>
         <translation>Baza podatkov - Katalog</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="288"/>
+        <location filename="DlgSettingsIntegration.ui" line="336"/>
         <source>Database - Thumbnails</source>
         <translation>Baza podatkov – Sličice</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="329"/>
+        <location filename="DlgSettingsIntegration.ui" line="377"/>
         <source>Configuration</source>
         <translation>Konfiguracija</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="340"/>
+        <location filename="DlgSettingsIntegration.ui" line="388"/>
         <source>Current user (recommended)</source>
         <translation>Trenutni uporabnik (priporočeno)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="345"/>
+        <location filename="DlgSettingsIntegration.ui" line="393"/>
         <source>Local machine</source>
         <translation>Lokalni stroj</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="350"/>
+        <location filename="DlgSettingsIntegration.ui" line="398"/>
         <source>Portable</source>
         <translation>Prenosni</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="355"/>
+        <location filename="DlgSettingsIntegration.ui" line="403"/>
         <source>Custom</source>
         <translation>Po meri</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="397"/>
+        <location filename="DlgSettingsIntegration.ui" line="445"/>
         <source>ExifTool path</source>
         <translation>Pot do ExifTool</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="414"/>
+        <location filename="DlgSettingsIntegration.ui" line="462"/>
         <source>...</source>
         <translation>...</translation>
     </message>
@@ -14994,17 +14995,12 @@ Ali želite ponovno dodeliti?</translation>
         <translation>Prenosni (mapa aplikacij)</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="128"/>
-        <source>System integration</source>
-        <translation>Sistemska integracija</translation>
-    </message>
-    <message>
         <location filename="DlgStartupWizard.ui" line="134"/>
         <source>Add &apos;Browse with XnViewMP&apos; to context menu</source>
         <translation>Dodaj &apos;Brskanje z XnViewMP&apos; v kontekstni meni</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="141"/>
+        <location filename="DlgStartupWizard.ui" line="171"/>
         <source>Run the File association(s) tool...</source>
         <translation>Zaženi orodje za pridružitev datotek...</translation>
     </message>
@@ -15015,27 +15011,52 @@ Ali želite ponovno dodeliti?</translation>
         <translation>Nastavitve</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="153"/>
+        <location filename="DlgStartupWizard.ui" line="128"/>
+        <source>Windows Explorer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgStartupWizard.ui" line="141"/>
+        <source>Add shell extension to context menu</source>
+        <translation type="unfinished">Omogoči razširitev lupine v kontekstni meni</translation>
+    </message>
+    <message>
+        <location filename="DlgStartupWizard.ui" line="151"/>
+        <source>File Association</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgStartupWizard.ui" line="157"/>
+        <source>Register application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgStartupWizard.ui" line="164"/>
+        <source>Open &apos;Default Apps&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgStartupWizard.ui" line="183"/>
         <source>Check for program updates</source>
         <translation>Preveri za posodobitve programa</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="164"/>
+        <location filename="DlgStartupWizard.ui" line="194"/>
         <source>Never</source>
         <translation>Nikoli</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="169"/>
+        <location filename="DlgStartupWizard.ui" line="199"/>
         <source>Daily</source>
         <translation>Dnevno</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="174"/>
+        <location filename="DlgStartupWizard.ui" line="204"/>
         <source>Weekly</source>
         <translation>Tedensko</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="179"/>
+        <location filename="DlgStartupWizard.ui" line="209"/>
         <source>Monthly</source>
         <translation>Mesečno</translation>
     </message>
@@ -19063,7 +19084,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <translation>Vrsta</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="5073"/>
+        <location filename="ItemModel.cpp" line="5092"/>
         <source>New Folder %1</source>
         <translation>Nova mapa %1</translation>
     </message>
@@ -19471,12 +19492,12 @@ Do you want to continue?</oldsource>
 <context>
     <name>MenuBrowser</name>
     <message>
-        <location filename="BrowserWindow.cpp" line="4436"/>
+        <location filename="BrowserWindow.cpp" line="4437"/>
         <source>New Folder</source>
         <translation>Nova mapa</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4448"/>
+        <location filename="BrowserWindow.cpp" line="4449"/>
         <source>Rename</source>
         <translation>Preimenuj</translation>
     </message>
@@ -20422,13 +20443,13 @@ Do you want to continue?</oldsource>
         <translation>Odpri seznam datotek...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4439"/>
+        <location filename="BrowserWindow.cpp" line="4440"/>
         <location filename="BrowserMenu.h" line="421"/>
         <source>Cut</source>
         <translation>Izreži</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4441"/>
+        <location filename="BrowserWindow.cpp" line="4442"/>
         <location filename="BrowserMenu.h" line="423"/>
         <source>Copy</source>
         <translation>Kopiraj</translation>
@@ -20439,7 +20460,7 @@ Do you want to continue?</oldsource>
         <translation>Slika</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4443"/>
+        <location filename="BrowserWindow.cpp" line="4444"/>
         <location filename="BrowserMenu.h" line="428"/>
         <source>Paste</source>
         <translation>Prilepi</translation>
@@ -20475,19 +20496,19 @@ Do you want to continue?</oldsource>
         <translation>Izberi označene datoteke</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4451"/>
+        <location filename="BrowserWindow.cpp" line="4452"/>
         <location filename="BrowserMenu.h" line="438"/>
         <source>Copy to...</source>
         <translation>Kopiraj v...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4453"/>
+        <location filename="BrowserWindow.cpp" line="4454"/>
         <location filename="BrowserMenu.h" line="439"/>
         <source>Move to...</source>
         <translation>Premakni v...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4446"/>
+        <location filename="BrowserWindow.cpp" line="4447"/>
         <location filename="BrowserMenu.h" line="440"/>
         <source>Delete</source>
         <translation>Izbriši</translation>
@@ -20888,95 +20909,95 @@ Do you want to continue?</oldsource>
 <context>
     <name>MenuGlobal</name>
     <message>
-        <location filename="xnview.cpp" line="1327"/>
+        <location filename="xnview.cpp" line="1329"/>
         <source>Quit</source>
         <translation>Izhod</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1330"/>
+        <location filename="xnview.cpp" line="1332"/>
         <source>Website...</source>
         <oldsource>Visit XnView&apos;s Website...</oldsource>
         <translation>Spletna stran...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1335"/>
+        <location filename="xnview.cpp" line="1337"/>
         <source>Make a donation...</source>
         <translation>Donirajte...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1328"/>
+        <location filename="xnview.cpp" line="1330"/>
         <source>About</source>
         <translation>Vizitka</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1329"/>
+        <location filename="xnview.cpp" line="1331"/>
         <source>PlugIns...</source>
         <translation>Vtičniki...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1331"/>
+        <location filename="xnview.cpp" line="1333"/>
         <source>Forum...</source>
         <translation>Forum...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1332"/>
+        <location filename="xnview.cpp" line="1334"/>
         <source>Technical Support...</source>
         <translation>Tehnična podpora...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1333"/>
+        <location filename="xnview.cpp" line="1335"/>
         <source>Report a Bug...</source>
         <oldsource>Report a Bug......</oldsource>
         <translation>Prijavite napako...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1334"/>
+        <location filename="xnview.cpp" line="1336"/>
         <source>Wiki...</source>
         <translation>Wiki...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1336"/>
+        <location filename="xnview.cpp" line="1338"/>
         <source>Check for update...</source>
         <translation>Preverite za posodobitve...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1337"/>
+        <location filename="xnview.cpp" line="1339"/>
         <source>Registration...</source>
         <translation>Registracija...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1338"/>
+        <location filename="xnview.cpp" line="1340"/>
         <source>Purchase...</source>
         <translation>Nakup...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1348"/>
         <location filename="xnview.cpp" line="1350"/>
+        <location filename="xnview.cpp" line="1352"/>
         <source>Settings...</source>
         <translation>Nastavitve...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1354"/>
+        <location filename="xnview.cpp" line="1356"/>
         <source>Always on top</source>
         <translation>Vedno na vrhu</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1356"/>
+        <location filename="xnview.cpp" line="1358"/>
         <source>Titlebar</source>
         <translation>Naslovna vrstica</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1357"/>
+        <location filename="xnview.cpp" line="1359"/>
         <source>Show</source>
         <translation>Pokaži</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1358"/>
+        <location filename="xnview.cpp" line="1360"/>
         <source>Bottom</source>
         <translation>Spodaj</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1359"/>
+        <location filename="xnview.cpp" line="1361"/>
         <source>Tab</source>
         <translation>Zavihek</translation>
     </message>
@@ -22451,38 +22472,38 @@ Do you want to continue?</oldsource>
 <context>
     <name>MyDirModel</name>
     <message>
-        <location filename="MyDirModel.cpp" line="75"/>
+        <location filename="MyDirModel.cpp" line="49"/>
         <source>Volumes</source>
         <translation>Pogoni</translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="330"/>
+        <location filename="MyDirModel.cpp" line="318"/>
         <source>Desktop</source>
         <translation>Namizje</translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="336"/>
+        <location filename="MyDirModel.cpp" line="324"/>
         <source>My Computer</source>
         <translation>Moj računalnik</translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="1218"/>
-        <location filename="MyDirModel.cpp" line="1220"/>
+        <location filename="MyDirModel.cpp" line="1024"/>
+        <location filename="MyDirModel.cpp" line="1026"/>
         <source>Computer</source>
         <translation>Računalnik</translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="1222"/>
+        <location filename="MyDirModel.cpp" line="1028"/>
         <source>Home</source>
         <translation>Domov</translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="1718"/>
+        <location filename="MyDirModel.cpp" line="1549"/>
         <source>Folders</source>
         <translation>Mape</translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="2019"/>
+        <location filename="MyDirModel.cpp" line="1840"/>
         <source>New Folder %1</source>
         <translation>Nova mapa %1</translation>
     </message>
@@ -22519,12 +22540,12 @@ Do you want to continue?</oldsource>
 <context>
     <name>MyFolderView</name>
     <message>
-        <location filename="MyFolderView.cpp" line="553"/>
+        <location filename="MyFolderView.cpp" line="573"/>
         <source>Delete folder</source>
         <translation>Izbriši mapo</translation>
     </message>
     <message>
-        <location filename="MyFolderView.cpp" line="553"/>
+        <location filename="MyFolderView.cpp" line="573"/>
         <source>Are you sure to delete this folder?</source>
         <translation>Ali ste prepričani, da želite izbrisati to mapo?</translation>
     </message>
@@ -24382,38 +24403,38 @@ Do you want to keep the thumbnails?
         <translation>Nadgradnja kataloga, počakajte trenutek...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="475"/>
+        <location filename="xnview.cpp" line="476"/>
         <source>Catalog problem</source>
         <translation>Težava s katalogom</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="475"/>
+        <location filename="xnview.cpp" line="476"/>
         <source>There is a problem to open catalog, check your settings or folder used!</source>
         <translation>Prišlo je do težave pri odpiranju kataloga, preverjanju nastavitev ali uporabljene mape!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="483"/>
+        <location filename="xnview.cpp" line="485"/>
         <source>Catalog update</source>
         <translation>Posodobitev kataloga</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="483"/>
+        <location filename="xnview.cpp" line="485"/>
         <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
         <translation>Posodobiti morate katalog (Nastavitve&gt;Katalog&gt;Posodobi metapodatke), če želite uporabiti novo vozlišče v &apos;Filter kataloga&apos;. </translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="878"/>
+        <location filename="xnview.cpp" line="880"/>
         <source>Application is up to date.</source>
         <oldsource>XnView MP is currently up to date.</oldsource>
         <translation>Aplikacija je posodobljena.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1552"/>
+        <location filename="xnview.cpp" line="1554"/>
         <source>Do you want to save session?</source>
         <translation>Ali želite shraniti sejo?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="3021"/>
+        <location filename="xnview.cpp" line="3023"/>
         <source>Catalog and Metadata are disabled - 
 Rating, Tag &amp; Color labels will not be saved.</source>
         <oldsource>Rating/Tag/Color label can&apos;t be saved if catalog and metadata export are disabled!</oldsource>
@@ -24421,7 +24442,7 @@ Rating, Tag &amp; Color labels will not be saved.</source>
 Oznake z oceno, oznako in barvo ne bodo shranjene.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="949"/>
+        <location filename="xnview.cpp" line="951"/>
         <source>Your previous session contains many loaded images, this can cause a slowdown!</source>
         <translation>Vaša prejšnja seja vsebuje veliko naloženih slik, kar lahko povzroči upočasnitev!</translation>
     </message>
@@ -24435,39 +24456,39 @@ Please contact the developer.</source>
 Prosimo, obrnite se na razvijalca.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="949"/>
+        <location filename="xnview.cpp" line="951"/>
         <source>Session</source>
         <translation>Seja</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1477"/>
+        <location filename="xnview.cpp" line="1479"/>
         <source>Do you want to quit?</source>
         <translation>Ali želite končati?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1553"/>
+        <location filename="xnview.cpp" line="1555"/>
         <source>Saving many tabs may noticeably slow application reopening.</source>
         <oldsource>Saving many tabs may noticeably slow reopening XnView MP</oldsource>
         <translation>Shranjevanje številnih zavihkov lahko opazno upočasni ponovno odpiranje.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1559"/>
+        <location filename="xnview.cpp" line="1561"/>
         <source>Don&apos;t ask again</source>
         <oldsource>Do not ask again</oldsource>
         <translation>Ne sprašuj več</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1125"/>
+        <location filename="xnview.cpp" line="1127"/>
         <source>Error</source>
         <translation>Napaka</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1125"/>
+        <location filename="xnview.cpp" line="1127"/>
         <source>File not found!</source>
         <translation>Datoteka ni najdena!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1578"/>
+        <location filename="xnview.cpp" line="1580"/>
         <source>Do you want to save this session?</source>
         <translation>Ali želite shraniti to sejo?</translation>
     </message>

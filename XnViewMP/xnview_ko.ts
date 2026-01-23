@@ -285,63 +285,63 @@
         <translation>&lt; 비었음 &gt;</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2028"/>
+        <location filename="ViewWindow.cpp" line="2039"/>
         <source>Customize toolbar...</source>
         <translation>도구모음 사용자 정의...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2284"/>
-        <location filename="ViewWindow.cpp" line="2290"/>
-        <location filename="ViewWindow.cpp" line="2294"/>
+        <location filename="ViewWindow.cpp" line="2295"/>
+        <location filename="ViewWindow.cpp" line="2301"/>
+        <location filename="ViewWindow.cpp" line="2305"/>
         <source>Delete items</source>
         <translation>항목 삭제</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2284"/>
+        <location filename="ViewWindow.cpp" line="2295"/>
         <source>Would you like to discard your edits and delete 
 &quot;%1&quot;?</source>
         <translation>변경사항을 저장하지 않고 삭제 하시겠습니까?
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2290"/>
+        <location filename="ViewWindow.cpp" line="2301"/>
         <source>Are you sure to delete 
 &quot;%1&quot;?</source>
         <translation>&quot;%1&quot;를 삭제 하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2294"/>
+        <location filename="ViewWindow.cpp" line="2305"/>
         <source>Are you sure to delete 
 &quot;%1&quot; (%2 items)?</source>
         <translation>&quot;%1&quot;를 삭제 하시겠습니까 (%2 항목)?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2960"/>
+        <location filename="ViewWindow.cpp" line="2971"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
         <translation>이미지가 24비트 RGB (채널당 8비트)로 변환될 것입니다</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2970"/>
+        <location filename="ViewWindow.cpp" line="2981"/>
         <source>The file &lt;%1&gt; is read-only. Please choose another file name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2978"/>
+        <location filename="ViewWindow.cpp" line="2989"/>
         <source>Confirm Save</source>
         <translation>저장</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2979"/>
+        <location filename="ViewWindow.cpp" line="2990"/>
         <source>&lt;%1&gt; already exists!</source>
         <translation>&lt;%1&gt; 이 이미 존재합니다!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2979"/>
+        <location filename="ViewWindow.cpp" line="2990"/>
         <source>Do you want to overwrite it?</source>
         <translation>덮어쓰겠습니까?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4453"/>
+        <location filename="ViewWindow.cpp" line="4464"/>
         <source>Number of unique colors: %1</source>
         <translation>중요 색상 수: %1</translation>
     </message>
@@ -381,38 +381,38 @@
         <translation>다시 묻지 않기</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2960"/>
-        <location filename="ViewWindow.cpp" line="2970"/>
+        <location filename="ViewWindow.cpp" line="2971"/>
+        <location filename="ViewWindow.cpp" line="2981"/>
         <source>Save</source>
         <translation>저장</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3003"/>
-        <location filename="ViewWindow.cpp" line="3134"/>
-        <location filename="ViewWindow.cpp" line="3184"/>
+        <location filename="ViewWindow.cpp" line="3014"/>
+        <location filename="ViewWindow.cpp" line="3145"/>
+        <location filename="ViewWindow.cpp" line="3195"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
         <translation>이미지 저장 중...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3005"/>
-        <location filename="ViewWindow.cpp" line="3186"/>
+        <location filename="ViewWindow.cpp" line="3016"/>
+        <location filename="ViewWindow.cpp" line="3197"/>
         <source>Error</source>
         <translation>오류</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3005"/>
-        <location filename="ViewWindow.cpp" line="3186"/>
+        <location filename="ViewWindow.cpp" line="3016"/>
+        <location filename="ViewWindow.cpp" line="3197"/>
         <source>An error occurred during saving!</source>
         <translation>저장중 오류가 발생하였습니다!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3276"/>
+        <location filename="ViewWindow.cpp" line="3287"/>
         <source>Properties</source>
         <translation>속성</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4453"/>
+        <location filename="ViewWindow.cpp" line="4464"/>
         <source>Colors count</source>
         <translation>색상 수</translation>
     </message>
@@ -470,28 +470,28 @@
 <context>
     <name>BaseViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="4958"/>
+        <location filename="ViewWindow.cpp" line="4969"/>
         <source>Error</source>
         <translation>오류</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4949"/>
-        <location filename="ViewWindow.cpp" line="4958"/>
+        <location filename="ViewWindow.cpp" line="4960"/>
+        <location filename="ViewWindow.cpp" line="4969"/>
         <source>File can&apos;t be loaded!</source>
         <translation>파일을 불러올 수 없습니다!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4949"/>
+        <location filename="ViewWindow.cpp" line="4960"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <translation>PDF/PS/EPS/AI 파일을 보거나 변환하는데 XnView MP를 사용하려면, Ghostscript %1을 시스템에 설치해야 합니다. </translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4950"/>
+        <location filename="ViewWindow.cpp" line="4961"/>
         <source>Please visit the %1 for more information.</source>
         <translation>추가 정보는 %1을 방문해 주세요.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4962"/>
+        <location filename="ViewWindow.cpp" line="4973"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; 비어 있음 &gt;</translation>
     </message>
@@ -550,38 +550,38 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>도구모음 사용자 정의...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1672"/>
+        <location filename="BrowserWindow.cpp" line="1673"/>
         <source>Add Favorite...</source>
         <translation>즐겨찾기 추가...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1763"/>
+        <location filename="BrowserWindow.cpp" line="1764"/>
         <source>Folders</source>
         <translation>폴더</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1767"/>
+        <location filename="BrowserWindow.cpp" line="1768"/>
         <source>Favorites</source>
         <translation>즐겨찾기</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1771"/>
+        <location filename="BrowserWindow.cpp" line="1772"/>
         <source>Catalog Filter</source>
         <oldsource>Categories Filter</oldsource>
         <translation>카탈로그 필터</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1782"/>
+        <location filename="BrowserWindow.cpp" line="1783"/>
         <source>Categories</source>
         <translation>카테고리</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1787"/>
+        <location filename="BrowserWindow.cpp" line="1788"/>
         <source>Category Sets</source>
         <translation>카테고리 세트</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1820"/>
+        <location filename="BrowserWindow.cpp" line="1821"/>
         <source>Info</source>
         <translation>정보</translation>
     </message>
@@ -596,28 +596,28 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>미리보기 패널 붙이기</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="921"/>
+        <location filename="BrowserWindow.cpp" line="922"/>
         <source>The database is corrupted. Please check it before you continue!</source>
         <oldsource>The database is corrupted, please check it before to continue!</oldsource>
         <translation type="unfinished">데이터베이스가 손상되었습니다. 계속 진행하기 전에 확인 해 주세요!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1664"/>
+        <location filename="BrowserWindow.cpp" line="1665"/>
         <source>Add to Favorites</source>
         <translation>즐겨찾기에 추가</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1828"/>
+        <location filename="BrowserWindow.cpp" line="1829"/>
         <source>Metadata</source>
         <translation>메타데이터</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1837"/>
+        <location filename="BrowserWindow.cpp" line="1838"/>
         <source>Histogram</source>
         <translation>히스토그램</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2009"/>
+        <location filename="BrowserWindow.cpp" line="2010"/>
         <source>Click to filter - use Shift and Control for multiple selections.
 Right Click on different items for pop-up menus with actions.
 Drag and Drop over the desired node to assign.</source>
@@ -626,147 +626,147 @@ Drag and Drop over the desired node to assign.</source>
 할당하고 싶은 노드 위로 드래그 &amp; 드롭하세요.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2015"/>
+        <location filename="BrowserWindow.cpp" line="2016"/>
         <source>Match any selected entry (OR)</source>
         <translation>포함하는 항목 선택 (OR)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2021"/>
+        <location filename="BrowserWindow.cpp" line="2022"/>
         <source>Match all selected entries (AND)</source>
         <translation>일치하는 항목 선택 (AND)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2032"/>
+        <location filename="BrowserWindow.cpp" line="2033"/>
         <source>Global</source>
         <translation>전역</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2039"/>
+        <location filename="BrowserWindow.cpp" line="2040"/>
         <source>Current folder</source>
         <translation>현재 폴더</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2046"/>
+        <location filename="BrowserWindow.cpp" line="2047"/>
         <source>Current folder (Recursive)</source>
         <translation>현재 폴더 (하위 폴더 포함)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2261"/>
+        <location filename="BrowserWindow.cpp" line="2262"/>
         <source>Thumbnails</source>
         <translation type="unfinished">썸네일</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3454"/>
+        <location filename="BrowserWindow.cpp" line="3455"/>
         <source>&lt;Search results&gt;</source>
         <translation>&lt;검색 결과&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3456"/>
+        <location filename="BrowserWindow.cpp" line="3457"/>
         <source>&lt;Tagged files&gt;</source>
         <translation>&lt;태그된 파일&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3551"/>
+        <location filename="BrowserWindow.cpp" line="3552"/>
         <source>This folder doesn&apos;t exist!</source>
         <translation>이 폴더는 존재하지 않습니다!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3764"/>
+        <location filename="BrowserWindow.cpp" line="3765"/>
         <source>Favorite name:</source>
         <translation>즐겨찾기 이름:</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="4009"/>
+        <location filename="BrowserWindow.cpp" line="4010"/>
         <source>Are you sure to delete these %n item(s)?</source>
         <translation>
             <numerusform>이 %n개의 항목을 정말 삭제할까요?</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4094"/>
+        <location filename="BrowserWindow.cpp" line="4095"/>
         <source>The files cannot be renamed, an error occurred.</source>
         <translation>오류가 발생하여 파일 이름을 바꿀 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3551"/>
-        <location filename="BrowserWindow.cpp" line="4094"/>
+        <location filename="BrowserWindow.cpp" line="3552"/>
+        <location filename="BrowserWindow.cpp" line="4095"/>
         <source>Error</source>
         <translation>오류</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3458"/>
+        <location filename="BrowserWindow.cpp" line="3459"/>
         <source>&lt;Catalog filter results&gt;</source>
         <translation>&lt;카탈로그 필터 결과&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3460"/>
+        <location filename="BrowserWindow.cpp" line="3461"/>
         <source>&lt;files&gt;</source>
         <translation>&lt;files&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4002"/>
+        <location filename="BrowserWindow.cpp" line="4003"/>
         <source>Delete items &amp; companions</source>
         <translation>컴패니언과 항목 삭제</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="4003"/>
+        <location filename="BrowserWindow.cpp" line="4004"/>
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
         <translation>
             <numerusform>이 %n개의 항목을 정말 삭제할까요? - %1 항목 선택됨</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4458"/>
+        <location filename="BrowserWindow.cpp" line="4459"/>
         <source>Search...</source>
         <translation>검색...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4459"/>
+        <location filename="BrowserWindow.cpp" line="4460"/>
         <source>Add to favorites...</source>
         <translation>즐겨찾기에 추가</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4462"/>
+        <location filename="BrowserWindow.cpp" line="4463"/>
         <source>Start slideshow</source>
         <translation>슬라이드쇼 시작</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4464"/>
+        <location filename="BrowserWindow.cpp" line="4465"/>
         <source>Open in file manager</source>
         <translation type="unfinished">파일 탐색기에서 열기</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4467"/>
+        <location filename="BrowserWindow.cpp" line="4468"/>
         <source>Properties</source>
         <translation>속성</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4576"/>
+        <location filename="BrowserWindow.cpp" line="4577"/>
         <source>Load filelist</source>
         <translation>파일목록 불러오기</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1999"/>
+        <location filename="BrowserWindow.cpp" line="2000"/>
         <source>Match</source>
         <translation>일치</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4008"/>
+        <location filename="BrowserWindow.cpp" line="4009"/>
         <source>Delete items</source>
         <translation>항목 삭제</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4456"/>
+        <location filename="BrowserWindow.cpp" line="4457"/>
         <source>Show files in subfolders</source>
         <translation>하위폴더 내의 파일 보기</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4499"/>
+        <location filename="BrowserWindow.cpp" line="4500"/>
         <source>Delete folder</source>
         <translation>폴더 삭제</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4499"/>
+        <location filename="BrowserWindow.cpp" line="4500"/>
         <source>Are you sure to delete this folder?</source>
         <translation>이 폴더를 정말 삭제할까요?</translation>
     </message>
@@ -1926,8 +1926,8 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="CategoryManager.cpp" line="159"/>
         <location filename="MyDB.cpp" line="909"/>
-        <location filename="MyDB.cpp" line="2328"/>
-        <location filename="MyDB.cpp" line="3653"/>
+        <location filename="MyDB.cpp" line="2358"/>
+        <location filename="MyDB.cpp" line="3683"/>
         <source>Other</source>
         <translation>기타</translation>
     </message>
@@ -11738,8 +11738,8 @@ Do you want to remove entries assigned to a category?</oldsource>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="437"/>
-        <source>Update metadata...</source>
-        <oldsource>Update metadatas...</oldsource>
+        <source>Update metadata</source>
+        <oldsource>Update metadata...</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12553,98 +12553,88 @@ Thumbnail</source>
 <context>
     <name>DlgSettingsIntegration</name>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="29"/>
-        <location filename="DlgSettingsIntegration.cpp" line="38"/>
-        <location filename="DlgSettingsIntegration.cpp" line="45"/>
-        <location filename="DlgSettingsIntegration.cpp" line="53"/>
+        <location filename="DlgSettingsIntegration.cpp" line="31"/>
+        <location filename="DlgSettingsIntegration.cpp" line="40"/>
+        <location filename="DlgSettingsIntegration.cpp" line="47"/>
+        <location filename="DlgSettingsIntegration.cpp" line="55"/>
         <source>System - Current user</source>
         <oldsource>User (System)</oldsource>
         <translation>시스템 - 현재 사용자</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="31"/>
+        <location filename="DlgSettingsIntegration.cpp" line="33"/>
         <source>System - Current user (Windows registry)</source>
         <translation>시스템 - 현재 사용자 (레지스트리)</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsIntegration.cpp" line="32"/>
-        <location filename="DlgSettingsIntegration.cpp" line="40"/>
-        <location filename="DlgSettingsIntegration.cpp" line="47"/>
-        <location filename="DlgSettingsIntegration.cpp" line="55"/>
-        <source>System - Local machine</source>
-        <translation>시스템 - 컴퓨터</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="34"/>
         <location filename="DlgSettingsIntegration.cpp" line="42"/>
         <location filename="DlgSettingsIntegration.cpp" line="49"/>
+        <location filename="DlgSettingsIntegration.cpp" line="57"/>
+        <source>System - Local machine</source>
+        <translation>시스템 - 컴퓨터</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsIntegration.cpp" line="36"/>
+        <location filename="DlgSettingsIntegration.cpp" line="44"/>
+        <location filename="DlgSettingsIntegration.cpp" line="51"/>
         <source>Application folder</source>
         <translation>어플리케이션 폴더</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="36"/>
-        <location filename="DlgSettingsIntegration.cpp" line="43"/>
-        <location filename="DlgSettingsIntegration.cpp" line="50"/>
-        <location filename="DlgSettingsIntegration.cpp" line="57"/>
+        <location filename="DlgSettingsIntegration.cpp" line="38"/>
+        <location filename="DlgSettingsIntegration.cpp" line="45"/>
+        <location filename="DlgSettingsIntegration.cpp" line="52"/>
+        <location filename="DlgSettingsIntegration.cpp" line="59"/>
         <source>Custom</source>
         <translation>사용자 정의</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="52"/>
+        <location filename="DlgSettingsIntegration.cpp" line="54"/>
         <source>Same as Catalog</source>
         <translation>카탈로그와 동일</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="150"/>
-        <location filename="DlgSettingsIntegration.cpp" line="151"/>
         <location filename="DlgSettingsIntegration.cpp" line="152"/>
+        <location filename="DlgSettingsIntegration.cpp" line="153"/>
+        <location filename="DlgSettingsIntegration.cpp" line="154"/>
         <source>Browse with XnViewMP</source>
         <translation>XnViewMP로 찾아보기</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="380"/>
+        <location filename="DlgSettingsIntegration.cpp" line="395"/>
         <source>Select a program</source>
         <translation type="unfinished">프로그램을 선택</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="452"/>
+        <location filename="DlgSettingsIntegration.cpp" line="472"/>
         <source>Paths</source>
         <translation>경로</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="452"/>
+        <location filename="DlgSettingsIntegration.cpp" line="472"/>
         <source>Please be careful to folder rights by using XnView folder</source>
         <translation>XnView 폴더 사용시 폴더 권한에 주의하세요</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="642"/>
+        <location filename="DlgSettingsIntegration.cpp" line="662"/>
         <source>XnViewMP is a fast multi-format graphics browser, viewer, and converter. It reads more than 400 file formats.</source>
         <translation>XnViewMP는 빠른 다중 형식 그래픽 브라우저, 뷰어, 컨버터입니다. 400 파일 형식 이상을 읽을 수 있습니다.</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="643"/>
+        <location filename="DlgSettingsIntegration.cpp" line="663"/>
         <source>XnViewMP for Windows</source>
         <translation>윈도우용 XnViewMP</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="662"/>
+        <location filename="DlgSettingsIntegration.cpp" line="710"/>
         <source>XnView Slide file</source>
         <translation>XnView 슬라이드 파일</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="669"/>
+        <location filename="DlgSettingsIntegration.cpp" line="717"/>
         <source>%1 Image file</source>
         <translation>%1 이미지 파일</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsIntegration.cpp" line="860"/>
-        <source>File Associations</source>
-        <translation>파일 연결</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsIntegration.cpp" line="860"/>
-        <source>Please start XnViewMP with admin rights (only the first time).</source>
-        <translation>관리자 권한으로 XnViewMP을 시작하세요 (처음 한 번만)</translation>
     </message>
 </context>
 <context>
@@ -12662,7 +12652,8 @@ Thumbnail</source>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="58"/>
-        <source>Enable shell extension to context menu</source>
+        <source>Add shell extension to context menu</source>
+        <oldsource>Enable shell extension to context menu</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12671,71 +12662,81 @@ Thumbnail</source>
         <translation>파일 연결 설정...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="106"/>
+        <location filename="DlgSettingsIntegration.ui" line="94"/>
+        <source>Register application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsIntegration.ui" line="118"/>
+        <source>Open &apos;Default Apps&apos;...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsIntegration.ui" line="154"/>
         <source>Paths</source>
         <translation>경로</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="136"/>
+        <location filename="DlgSettingsIntegration.ui" line="184"/>
         <source>Settings - General</source>
         <translation>설정 - 일반</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="153"/>
-        <location filename="DlgSettingsIntegration.ui" line="209"/>
-        <location filename="DlgSettingsIntegration.ui" line="259"/>
-        <location filename="DlgSettingsIntegration.ui" line="315"/>
+        <location filename="DlgSettingsIntegration.ui" line="201"/>
+        <location filename="DlgSettingsIntegration.ui" line="257"/>
+        <location filename="DlgSettingsIntegration.ui" line="307"/>
         <location filename="DlgSettingsIntegration.ui" line="363"/>
+        <location filename="DlgSettingsIntegration.ui" line="411"/>
         <source>Current location</source>
         <translation>현재 위치</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="182"/>
+        <location filename="DlgSettingsIntegration.ui" line="230"/>
         <source>Settings - Other</source>
         <translation>설정 - 기타</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="232"/>
+        <location filename="DlgSettingsIntegration.ui" line="280"/>
         <source>Database - Catalog</source>
         <translation>데이터베이스 - 카탈로그</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="288"/>
+        <location filename="DlgSettingsIntegration.ui" line="336"/>
         <source>Database - Thumbnails</source>
         <translation>데이터베이스 - 썸네일</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="329"/>
+        <location filename="DlgSettingsIntegration.ui" line="377"/>
         <source>Configuration</source>
         <translation>설정</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="340"/>
+        <location filename="DlgSettingsIntegration.ui" line="388"/>
         <source>Current user (recommended)</source>
         <translation>현재 사용자 (권장)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="345"/>
+        <location filename="DlgSettingsIntegration.ui" line="393"/>
         <source>Local machine</source>
         <translation>컴퓨터</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="350"/>
+        <location filename="DlgSettingsIntegration.ui" line="398"/>
         <source>Portable</source>
         <translation>포터블</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="355"/>
+        <location filename="DlgSettingsIntegration.ui" line="403"/>
         <source>Custom</source>
         <translation>사용자 정의</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="397"/>
+        <location filename="DlgSettingsIntegration.ui" line="445"/>
         <source>ExifTool path</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.ui" line="414"/>
+        <location filename="DlgSettingsIntegration.ui" line="462"/>
         <source>...</source>
         <translation type="unfinished">...</translation>
     </message>
@@ -14900,17 +14901,12 @@ Do you want to reassign?</source>
         <translation>포터블 (어플리케이션 폴더)</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="128"/>
-        <source>System integration</source>
-        <translation>시스템 통합</translation>
-    </message>
-    <message>
         <location filename="DlgStartupWizard.ui" line="134"/>
         <source>Add &apos;Browse with XnViewMP&apos; to context menu</source>
         <translation>컨텍스트 메뉴에 &apos;XnViewMP로 찾아보기&apos; 추가하기</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="141"/>
+        <location filename="DlgStartupWizard.ui" line="171"/>
         <source>Run the File association(s) tool...</source>
         <translation>파일 연결 도구 실행...</translation>
     </message>
@@ -14921,27 +14917,52 @@ Do you want to reassign?</source>
         <translation>설정</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="153"/>
+        <location filename="DlgStartupWizard.ui" line="128"/>
+        <source>Windows Explorer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgStartupWizard.ui" line="141"/>
+        <source>Add shell extension to context menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgStartupWizard.ui" line="151"/>
+        <source>File Association</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgStartupWizard.ui" line="157"/>
+        <source>Register application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgStartupWizard.ui" line="164"/>
+        <source>Open &apos;Default Apps&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgStartupWizard.ui" line="183"/>
         <source>Check for program updates</source>
         <translation>프로그램 업데이트 확인</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="164"/>
+        <location filename="DlgStartupWizard.ui" line="194"/>
         <source>Never</source>
         <translation>안 함</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="169"/>
+        <location filename="DlgStartupWizard.ui" line="199"/>
         <source>Daily</source>
         <translation>매일</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="174"/>
+        <location filename="DlgStartupWizard.ui" line="204"/>
         <source>Weekly</source>
         <translation>매주</translation>
     </message>
     <message>
-        <location filename="DlgStartupWizard.ui" line="179"/>
+        <location filename="DlgStartupWizard.ui" line="209"/>
         <source>Monthly</source>
         <translation>매달</translation>
     </message>
@@ -18969,7 +18990,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>종류</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="5073"/>
+        <location filename="ItemModel.cpp" line="5092"/>
         <source>New Folder %1</source>
         <translation>새 폴더 %1</translation>
     </message>
@@ -19375,12 +19396,12 @@ Do you want to continue?</oldsource>
 <context>
     <name>MenuBrowser</name>
     <message>
-        <location filename="BrowserWindow.cpp" line="4436"/>
+        <location filename="BrowserWindow.cpp" line="4437"/>
         <source>New Folder</source>
         <translation>새 폴더</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4448"/>
+        <location filename="BrowserWindow.cpp" line="4449"/>
         <source>Rename</source>
         <translation>이름 변경</translation>
     </message>
@@ -20130,13 +20151,13 @@ Do you want to continue?</oldsource>
         <translation>파일 목록 열기...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4439"/>
+        <location filename="BrowserWindow.cpp" line="4440"/>
         <location filename="BrowserMenu.h" line="421"/>
         <source>Cut</source>
         <translation>잘라내기</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4441"/>
+        <location filename="BrowserWindow.cpp" line="4442"/>
         <location filename="BrowserMenu.h" line="423"/>
         <source>Copy</source>
         <translation>복사</translation>
@@ -20147,7 +20168,7 @@ Do you want to continue?</oldsource>
         <translation>이미지</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4443"/>
+        <location filename="BrowserWindow.cpp" line="4444"/>
         <location filename="BrowserMenu.h" line="428"/>
         <source>Paste</source>
         <translation>붙여넣기</translation>
@@ -20183,19 +20204,19 @@ Do you want to continue?</oldsource>
         <translation>태그된 파일 선택</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4451"/>
+        <location filename="BrowserWindow.cpp" line="4452"/>
         <location filename="BrowserMenu.h" line="438"/>
         <source>Copy to...</source>
         <translation>복사...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4453"/>
+        <location filename="BrowserWindow.cpp" line="4454"/>
         <location filename="BrowserMenu.h" line="439"/>
         <source>Move to...</source>
         <translation>이동...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4446"/>
+        <location filename="BrowserWindow.cpp" line="4447"/>
         <location filename="BrowserMenu.h" line="440"/>
         <source>Delete</source>
         <translation>삭제</translation>
@@ -20775,95 +20796,95 @@ Do you want to continue?</oldsource>
 <context>
     <name>MenuGlobal</name>
     <message>
-        <location filename="xnview.cpp" line="1327"/>
+        <location filename="xnview.cpp" line="1329"/>
         <source>Quit</source>
         <translation>종료</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1330"/>
+        <location filename="xnview.cpp" line="1332"/>
         <source>Website...</source>
         <oldsource>Visit XnView&apos;s Website...</oldsource>
         <translation>웹사이트...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1332"/>
+        <location filename="xnview.cpp" line="1334"/>
         <source>Technical Support...</source>
         <translation>기술 지원...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1333"/>
+        <location filename="xnview.cpp" line="1335"/>
         <source>Report a Bug...</source>
         <oldsource>Report a Bug......</oldsource>
         <translation>버그 제보...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1334"/>
+        <location filename="xnview.cpp" line="1336"/>
         <source>Wiki...</source>
         <translation>위키...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1335"/>
+        <location filename="xnview.cpp" line="1337"/>
         <source>Make a donation...</source>
         <translation>기부하기...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1328"/>
+        <location filename="xnview.cpp" line="1330"/>
         <source>About</source>
         <translation>정보</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1329"/>
+        <location filename="xnview.cpp" line="1331"/>
         <source>PlugIns...</source>
         <translation>플러그인...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1331"/>
+        <location filename="xnview.cpp" line="1333"/>
         <source>Forum...</source>
         <translation>포럼...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1336"/>
+        <location filename="xnview.cpp" line="1338"/>
         <source>Check for update...</source>
         <translation>업데이트 확인...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1337"/>
+        <location filename="xnview.cpp" line="1339"/>
         <source>Registration...</source>
         <translation>등록...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1338"/>
+        <location filename="xnview.cpp" line="1340"/>
         <source>Purchase...</source>
         <translation>구매...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1348"/>
         <location filename="xnview.cpp" line="1350"/>
+        <location filename="xnview.cpp" line="1352"/>
         <source>Settings...</source>
         <translation>설정...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1354"/>
+        <location filename="xnview.cpp" line="1356"/>
         <source>Always on top</source>
         <translation>항상 위에</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1356"/>
+        <location filename="xnview.cpp" line="1358"/>
         <source>Titlebar</source>
         <translation>제목 표시줄</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1357"/>
+        <location filename="xnview.cpp" line="1359"/>
         <source>Show</source>
         <translation>보이기</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1358"/>
+        <location filename="xnview.cpp" line="1360"/>
         <source>Bottom</source>
         <translation>하단</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1359"/>
+        <location filename="xnview.cpp" line="1361"/>
         <source>Tab</source>
         <translation>탭</translation>
     </message>
@@ -22326,38 +22347,38 @@ Do you want to continue?</oldsource>
 <context>
     <name>MyDirModel</name>
     <message>
-        <location filename="MyDirModel.cpp" line="75"/>
+        <location filename="MyDirModel.cpp" line="49"/>
         <source>Volumes</source>
         <translation>볼륨</translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="330"/>
+        <location filename="MyDirModel.cpp" line="318"/>
         <source>Desktop</source>
         <translation>화면 전체</translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="336"/>
+        <location filename="MyDirModel.cpp" line="324"/>
         <source>My Computer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="1218"/>
-        <location filename="MyDirModel.cpp" line="1220"/>
+        <location filename="MyDirModel.cpp" line="1024"/>
+        <location filename="MyDirModel.cpp" line="1026"/>
         <source>Computer</source>
         <translation>컴퓨터</translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="1222"/>
+        <location filename="MyDirModel.cpp" line="1028"/>
         <source>Home</source>
         <translation>홈</translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="1718"/>
+        <location filename="MyDirModel.cpp" line="1549"/>
         <source>Folders</source>
         <translation>폴더</translation>
     </message>
     <message>
-        <location filename="MyDirModel.cpp" line="2019"/>
+        <location filename="MyDirModel.cpp" line="1840"/>
         <source>New Folder %1</source>
         <translation>새 폴더 %1</translation>
     </message>
@@ -22394,12 +22415,12 @@ Do you want to continue?</oldsource>
 <context>
     <name>MyFolderView</name>
     <message>
-        <location filename="MyFolderView.cpp" line="553"/>
+        <location filename="MyFolderView.cpp" line="573"/>
         <source>Delete folder</source>
         <translation>폴더 삭제</translation>
     </message>
     <message>
-        <location filename="MyFolderView.cpp" line="553"/>
+        <location filename="MyFolderView.cpp" line="573"/>
         <source>Are you sure to delete this folder?</source>
         <translation>이 폴더를 정말 삭제할까요?</translation>
     </message>
@@ -24246,38 +24267,38 @@ Do you want to keep the thumbnails?
         <translation>카탈로그 업그레이드 중, 잠시 기다리세요...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="475"/>
+        <location filename="xnview.cpp" line="476"/>
         <source>Catalog problem</source>
         <translation>카탈로그 문제</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="475"/>
+        <location filename="xnview.cpp" line="476"/>
         <source>There is a problem to open catalog, check your settings or folder used!</source>
         <translation>카탈로그를 여는 중 문제가 발생하였습니다. 설정이나 폴더를 확인해 주세요!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="483"/>
+        <location filename="xnview.cpp" line="485"/>
         <source>Catalog update</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="483"/>
+        <location filename="xnview.cpp" line="485"/>
         <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="878"/>
+        <location filename="xnview.cpp" line="880"/>
         <source>Application is up to date.</source>
         <oldsource>XnView MP is currently up to date.</oldsource>
         <translation>프로그램이 최신 버전입니다.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1552"/>
+        <location filename="xnview.cpp" line="1554"/>
         <source>Do you want to save session?</source>
         <translation>세션을 저장 하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="3021"/>
+        <location filename="xnview.cpp" line="3023"/>
         <source>Catalog and Metadata are disabled - 
 Rating, Tag &amp; Color labels will not be saved.</source>
         <oldsource>Rating/Tag/Color label can&apos;t be saved if catalog and metadata export are disabled!</oldsource>
@@ -24285,7 +24306,7 @@ Rating, Tag &amp; Color labels will not be saved.</source>
 등급/태그/색상 레이블은 저장되지 않습니다.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="949"/>
+        <location filename="xnview.cpp" line="951"/>
         <source>Your previous session contains many loaded images, this can cause a slowdown!</source>
         <translation>귀하의 이전 세션은 불러온 이미지를 많이 포함하고 있습니다, 이것은 느려짐을 야기할 수 있습니다!</translation>
     </message>
@@ -24297,39 +24318,39 @@ Please contact the developer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="949"/>
+        <location filename="xnview.cpp" line="951"/>
         <source>Session</source>
         <translation>세션</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1477"/>
+        <location filename="xnview.cpp" line="1479"/>
         <source>Do you want to quit?</source>
         <translation>종료 하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1553"/>
+        <location filename="xnview.cpp" line="1555"/>
         <source>Saving many tabs may noticeably slow application reopening.</source>
         <oldsource>Saving many tabs may noticeably slow reopening XnView MP</oldsource>
         <translation>탭을 많이 저장하면 프로그램을 다시 열 때 매우 느려질 수 있습니다.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1559"/>
+        <location filename="xnview.cpp" line="1561"/>
         <source>Don&apos;t ask again</source>
         <oldsource>Do not ask again</oldsource>
         <translation>다시 묻지 않기</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1125"/>
+        <location filename="xnview.cpp" line="1127"/>
         <source>Error</source>
         <translation>오류</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1125"/>
+        <location filename="xnview.cpp" line="1127"/>
         <source>File not found!</source>
         <translation>파일을 찾지 못했습니다!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1578"/>
+        <location filename="xnview.cpp" line="1580"/>
         <source>Do you want to save this session?</source>
         <translation>이 세션을 저장할까요?</translation>
     </message>
