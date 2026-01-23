@@ -11776,7 +11776,7 @@ Wollen Sie alle Einträge, denen eine Kategorie zugewiesen, sind löschen?</tran
         <location filename="DlgSettingsCache.ui" line="437"/>
         <source>Update metadata</source>
         <oldsource>Update metadata...</oldsource>
-        <translation type="unfinished">Metadaten aktualisieren...</translation>
+        <translation>Metadaten aktualisieren</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="501"/>
