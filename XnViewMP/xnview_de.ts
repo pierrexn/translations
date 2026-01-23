@@ -12691,7 +12691,7 @@ Miniaturbild</translation>
         <location filename="DlgSettingsIntegration.ui" line="58"/>
         <source>Add shell extension to context menu</source>
         <oldsource>Enable shell extension to context menu</oldsource>
-        <translation type="unfinished">Shell-Erweiterung für Kontextmenü aktivieren</translation>
+        <translation>Shell-Erweiterung für Kontextmenü aktivieren</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="70"/>
@@ -12702,12 +12702,12 @@ Miniaturbild</translation>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="94"/>
         <source>Register application</source>
-        <translation type="unfinished"></translation>
+        <translation>Anwendung registrieren</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="118"/>
         <source>Open &apos;Default Apps&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;Standard-Apps&apos; öffnen...</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="154"/>
@@ -14963,27 +14963,27 @@ Möchten Sie neu zuweisen?</translation>
     <message>
         <location filename="DlgStartupWizard.ui" line="128"/>
         <source>Windows Explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows-Explorer</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="141"/>
         <source>Add shell extension to context menu</source>
-        <translation type="unfinished">Shell-Erweiterung für Kontextmenü aktivieren</translation>
+        <translation>Shell-Erweiterung für Kontextmenü aktivieren</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="151"/>
         <source>File Association</source>
-        <translation type="unfinished"></translation>
+        <translation>Dateizuordnung</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="157"/>
         <source>Register application</source>
-        <translation type="unfinished"></translation>
+        <translation>Anwendung registrieren</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="164"/>
         <source>Open &apos;Default Apps&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;Standard-Apps&apos; öffnen</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="183"/>
