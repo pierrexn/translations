@@ -11907,7 +11907,7 @@ Do you want to remove entries assigned to a category?</oldsource>
         <location filename="DlgSettingsCache.ui" line="437"/>
         <source>Update metadata</source>
         <oldsource>Update metadata...</oldsource>
-        <translation type="unfinished">メタデータを更新...</translation>
+        <translation>メタデータを更新</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="501"/>
