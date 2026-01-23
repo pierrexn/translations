@@ -11788,7 +11788,7 @@ Wilt u items verwijderen die zijn toegewezen aan een categorie?</translation>
         <location filename="DlgSettingsCache.ui" line="437"/>
         <source>Update metadata</source>
         <oldsource>Update metadata...</oldsource>
-        <translation type="unfinished">Metagegevens bijwerken…</translation>
+        <translation>Metagegevens bijwerken</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="501"/>
