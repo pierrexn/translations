@@ -11803,7 +11803,7 @@ Chcete odstrániť položky priradené ku kategórii?</translation>
         <location filename="DlgSettingsCache.ui" line="437"/>
         <source>Update metadata</source>
         <oldsource>Update metadata...</oldsource>
-        <translation type="unfinished">Aktualizovať metadáta...</translation>
+        <translation>Aktualizovať metadáta</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="501"/>
