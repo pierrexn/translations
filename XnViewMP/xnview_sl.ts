@@ -11826,7 +11826,7 @@ Ali želite najprej preveriti prizadete vnose?</translation>
         <location filename="DlgSettingsCache.ui" line="437"/>
         <source>Update metadata</source>
         <oldsource>Update metadata...</oldsource>
-        <translation type="unfinished">Posodobi metapodatke...</translation>
+        <translation>Posodobi metapodatke</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="501"/>
