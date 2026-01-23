@@ -11826,7 +11826,7 @@ Deseja remover registos atribuídos a uma categoria?</translation>
         <location filename="DlgSettingsCache.ui" line="437"/>
         <source>Update metadata</source>
         <oldsource>Update metadata...</oldsource>
-        <translation type="unfinished">Actualizar os metadados...</translation>
+        <translation>Actualizar os metadados</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="501"/>
