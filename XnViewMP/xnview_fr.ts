@@ -11789,7 +11789,7 @@ Voulez-vous supprimer les entrées attribuées à une catégorie?</translation>
         <location filename="DlgSettingsCache.ui" line="437"/>
         <source>Update metadata</source>
         <oldsource>Update metadata...</oldsource>
-        <translation type="unfinished">Mettre à jour les métadonnées...</translation>
+        <translation>Mettre à jour les métadonnées</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="501"/>
@@ -12704,7 +12704,7 @@ Vignette</translation>
         <location filename="DlgSettingsIntegration.ui" line="58"/>
         <source>Add shell extension to context menu</source>
         <oldsource>Enable shell extension to context menu</oldsource>
-        <translation type="unfinished">Activer l&apos;extension du shell au menu contextuel</translation>
+        <translation>Activer l&apos;extension du shell au menu contextuel</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="70"/>
@@ -12715,12 +12715,12 @@ Vignette</translation>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="94"/>
         <source>Register application</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrer l&apos;application</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="118"/>
         <source>Open &apos;Default Apps&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir &apos;Applications par défaut&apos;...</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="154"/>
@@ -14976,27 +14976,27 @@ Voulez-vous le réaffecter ?</translation>
     <message>
         <location filename="DlgStartupWizard.ui" line="128"/>
         <source>Windows Explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>Explorateur Windows</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="141"/>
         <source>Add shell extension to context menu</source>
-        <translation type="unfinished">Activer l&apos;extension du shell au menu contextuel</translation>
+        <translation>Activer l&apos;extension du shell au menu contextuel</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="151"/>
         <source>File Association</source>
-        <translation type="unfinished"></translation>
+        <translation>Association des fichiers</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="157"/>
         <source>Register application</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrer l&apos;application</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="164"/>
         <source>Open &apos;Default Apps&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir &apos;Applications par défaut&apos;</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="183"/>
