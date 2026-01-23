@@ -12684,7 +12684,7 @@ miniatűrként</translation>
         <location filename="DlgSettingsIntegration.ui" line="58"/>
         <source>Add shell extension to context menu</source>
         <oldsource>Enable shell extension to context menu</oldsource>
-        <translation type="unfinished">Bővítmény hozzáadása a helyi menühöz</translation>
+        <translation>Bővítmény hozzáadása a helyi menühöz</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="70"/>
@@ -12695,7 +12695,7 @@ miniatűrként</translation>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="94"/>
         <source>Register application</source>
-        <translation type="unfinished"></translation>
+        <translation>Alkalmazás regisztrálása</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="118"/>
@@ -14955,22 +14955,22 @@ Szeretné újratársítani?</translation>
     <message>
         <location filename="DlgStartupWizard.ui" line="128"/>
         <source>Windows Explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows Intéző</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="141"/>
         <source>Add shell extension to context menu</source>
-        <translation type="unfinished">Bővítmény hozzáadása a helyi menühöz</translation>
+        <translation>Bővítmény hozzáadása a helyi menühöz</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="151"/>
         <source>File Association</source>
-        <translation type="unfinished"></translation>
+        <translation>Fájl társítása</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="157"/>
         <source>Register application</source>
-        <translation type="unfinished"></translation>
+        <translation>Alkalmazás regisztrálása</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="164"/>
