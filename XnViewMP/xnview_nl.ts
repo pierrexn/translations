@@ -12702,7 +12702,7 @@ Miniatuur</translation>
         <location filename="DlgSettingsIntegration.ui" line="58"/>
         <source>Add shell extension to context menu</source>
         <oldsource>Enable shell extension to context menu</oldsource>
-        <translation type="unfinished">Uitbreidingsmenu in contextmenu inschakelen</translation>
+        <translation>Shell-extensie toevoegen aan contextmenu</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="70"/>
@@ -12713,12 +12713,12 @@ Miniatuur</translation>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="94"/>
         <source>Register application</source>
-        <translation type="unfinished"></translation>
+        <translation>Applicatie registreren</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="118"/>
         <source>Open &apos;Default Apps&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;Standaard Apps&apos; openen…</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="154"/>
@@ -14973,27 +14973,27 @@ Opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgStartupWizard.ui" line="128"/>
         <source>Windows Explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows Verkenner</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="141"/>
         <source>Add shell extension to context menu</source>
-        <translation type="unfinished">Uitbreidingsmenu in contextmenu inschakelen</translation>
+        <translation>Shell-extensie toevoegen aan contextmenu</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="151"/>
         <source>File Association</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestandsassociatie</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="157"/>
         <source>Register application</source>
-        <translation type="unfinished"></translation>
+        <translation>Applicatie registreren</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="164"/>
         <source>Open &apos;Default Apps&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;Standaard Apps&apos; openen</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="183"/>
