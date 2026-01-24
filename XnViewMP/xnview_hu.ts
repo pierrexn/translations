@@ -12700,7 +12700,7 @@ miniatűrként</translation>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="118"/>
         <source>Open &apos;Default Apps&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;Alapértelmezett alkalmazás&apos; megnyitása...</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="154"/>
@@ -14975,7 +14975,7 @@ Szeretné újratársítani?</translation>
     <message>
         <location filename="DlgStartupWizard.ui" line="164"/>
         <source>Open &apos;Default Apps&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;Alapértelmezett alkalmazás&apos; megnyitása</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="183"/>
