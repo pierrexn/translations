@@ -9233,7 +9233,7 @@ Dorești să verifici mai întâi intrările afectate?</translation>
     </message>
     <message>
         <source>Update metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizează metadatele</translation>
     </message>
 </context>
 <context>
@@ -9965,15 +9965,15 @@ miniatură</translation>
     </message>
     <message>
         <source>Add shell extension to context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Adaugă extensia shell în meniul contextual</translation>
     </message>
     <message>
         <source>Register application</source>
-        <translation type="unfinished"></translation>
+        <translation>Înregistrează aplicația</translation>
     </message>
     <message>
         <source>Open &apos;Default Apps&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschide „Aplicații implicite”...</translation>
     </message>
 </context>
 <context>
@@ -11590,23 +11590,23 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Windows Explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows Explorer (Exploratorul Windows)</translation>
     </message>
     <message>
         <source>Add shell extension to context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Adaugă extensia shell în meniul contextual</translation>
     </message>
     <message>
         <source>File Association</source>
-        <translation type="unfinished"></translation>
+        <translation>Asocierea fișierelor</translation>
     </message>
     <message>
         <source>Register application</source>
-        <translation type="unfinished"></translation>
+        <translation>Înregistrează aplicația</translation>
     </message>
     <message>
         <source>Open &apos;Default Apps&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschide „Aplicații implicite”</translation>
     </message>
 </context>
 <context>
