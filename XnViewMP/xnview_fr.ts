@@ -621,7 +621,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="2010"/>
         <source>Settings</source>
-        <translation type="unfinished">Paramètres</translation>
+        <translation>Paramètres</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2020"/>
@@ -2098,7 +2098,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DBFilterModel.cpp" line="188"/>
         <source>Categories</source>
-        <translation type="unfinished">Catégories</translation>
+        <translation>Catégories</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="374"/>
