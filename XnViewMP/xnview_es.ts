@@ -623,6 +623,10 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
         <source>Thumbnails</source>
         <translation type="unfinished">Miniaturas</translation>
     </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished">Configuración</translation>
+    </message>
 </context>
 <context>
     <name>CategoryCompleterModel</name>
@@ -1646,6 +1650,10 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
     <message>
         <source>Square</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Categories</source>
+        <translation type="unfinished">Categorías</translation>
     </message>
 </context>
 <context>

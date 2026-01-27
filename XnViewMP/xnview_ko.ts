@@ -4,132 +4,132 @@
 <context>
     <name>@default</name>
     <message>
-        <location filename="MyThumbSettings.cpp" line="441"/>
+        <location filename="MyThumbSettings.cpp" line="443"/>
         <source>Uncolored</source>
         <translation>무색</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="447"/>
+        <location filename="MyThumbSettings.cpp" line="449"/>
         <source>Important</source>
         <translation>중요</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="447"/>
+        <location filename="MyThumbSettings.cpp" line="449"/>
         <source>Red</source>
         <translation>빨강</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="447"/>
+        <location filename="MyThumbSettings.cpp" line="449"/>
         <source>Select</source>
         <translation>선택</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="448"/>
+        <location filename="MyThumbSettings.cpp" line="450"/>
         <source>Work</source>
         <translation>일</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="448"/>
+        <location filename="MyThumbSettings.cpp" line="450"/>
         <source>Yellow</source>
         <translation>노랑</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="448"/>
+        <location filename="MyThumbSettings.cpp" line="450"/>
         <source>Second</source>
         <translation>두번째</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="449"/>
+        <location filename="MyThumbSettings.cpp" line="451"/>
         <source>Personal</source>
         <translation>개인</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="449"/>
+        <location filename="MyThumbSettings.cpp" line="451"/>
         <source>Green</source>
         <translation>초록</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="449"/>
+        <location filename="MyThumbSettings.cpp" line="451"/>
         <source>Approved</source>
         <translation>승인</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="450"/>
+        <location filename="MyThumbSettings.cpp" line="452"/>
         <source>To do</source>
         <translation>할 일</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="450"/>
+        <location filename="MyThumbSettings.cpp" line="452"/>
         <source>Blue</source>
         <translation>파랑</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="450"/>
+        <location filename="MyThumbSettings.cpp" line="452"/>
         <source>Review</source>
         <translation>리뷰</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="451"/>
+        <location filename="MyThumbSettings.cpp" line="453"/>
         <source>Later</source>
         <translation>보류</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="451"/>
+        <location filename="MyThumbSettings.cpp" line="453"/>
         <source>Purple</source>
         <translation>보라</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="451"/>
+        <location filename="MyThumbSettings.cpp" line="453"/>
         <source>To Do</source>
         <translation>할 일</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="452"/>
+        <location filename="MyThumbSettings.cpp" line="454"/>
         <source>Orange</source>
         <translation>오렌지</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="453"/>
+        <location filename="MyThumbSettings.cpp" line="455"/>
         <source>Grey</source>
         <translation>회색</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="454"/>
+        <location filename="MyThumbSettings.cpp" line="456"/>
         <source>Black</source>
         <translation>검정</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="455"/>
+        <location filename="MyThumbSettings.cpp" line="457"/>
         <source>White</source>
         <translation>흰색</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="340"/>
+        <location filename="MyThumbSettings.cpp" line="341"/>
         <source>Unrated</source>
         <translation>무등급</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="341"/>
+        <location filename="MyThumbSettings.cpp" line="342"/>
         <source>Poor</source>
         <translation>별로임</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="342"/>
+        <location filename="MyThumbSettings.cpp" line="343"/>
         <source>Fair</source>
         <translation>괜찮음</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="343"/>
+        <location filename="MyThumbSettings.cpp" line="344"/>
         <source>Average</source>
         <translation>보통</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="344"/>
+        <location filename="MyThumbSettings.cpp" line="345"/>
         <source>Good</source>
         <translation>좋음</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="345"/>
+        <location filename="MyThumbSettings.cpp" line="346"/>
         <source>Excellent</source>
         <translation>훌륭함</translation>
     </message>
@@ -545,79 +545,84 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 <context>
     <name>BrowserWindow</name>
     <message>
-        <location filename="BrowserWindow.cpp" line="701"/>
+        <location filename="BrowserWindow.cpp" line="702"/>
         <source>Customize toolbar...</source>
         <translation>도구모음 사용자 정의...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1673"/>
+        <location filename="BrowserWindow.cpp" line="1674"/>
         <source>Add Favorite...</source>
         <translation>즐겨찾기 추가...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1764"/>
+        <location filename="BrowserWindow.cpp" line="1765"/>
         <source>Folders</source>
         <translation>폴더</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1768"/>
+        <location filename="BrowserWindow.cpp" line="1769"/>
         <source>Favorites</source>
         <translation>즐겨찾기</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1772"/>
+        <location filename="BrowserWindow.cpp" line="1773"/>
         <source>Catalog Filter</source>
         <oldsource>Categories Filter</oldsource>
         <translation>카탈로그 필터</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1783"/>
+        <location filename="BrowserWindow.cpp" line="1784"/>
         <source>Categories</source>
         <translation>카테고리</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1788"/>
+        <location filename="BrowserWindow.cpp" line="1789"/>
         <source>Category Sets</source>
         <translation>카테고리 세트</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1821"/>
+        <location filename="BrowserWindow.cpp" line="1822"/>
         <source>Info</source>
         <translation>정보</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="705"/>
+        <location filename="BrowserWindow.cpp" line="706"/>
         <source>Detach preview panel</source>
         <translation>미리보기 패널 떼기</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="707"/>
+        <location filename="BrowserWindow.cpp" line="708"/>
         <source>Attach preview panel</source>
         <translation>미리보기 패널 붙이기</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="922"/>
+        <location filename="BrowserWindow.cpp" line="923"/>
         <source>The database is corrupted. Please check it before you continue!</source>
         <oldsource>The database is corrupted, please check it before to continue!</oldsource>
         <translation type="unfinished">데이터베이스가 손상되었습니다. 계속 진행하기 전에 확인 해 주세요!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1665"/>
+        <location filename="BrowserWindow.cpp" line="1666"/>
         <source>Add to Favorites</source>
         <translation>즐겨찾기에 추가</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1829"/>
+        <location filename="BrowserWindow.cpp" line="1830"/>
         <source>Metadata</source>
         <translation>메타데이터</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1838"/>
+        <location filename="BrowserWindow.cpp" line="1839"/>
         <source>Histogram</source>
         <translation>히스토그램</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2010"/>
+        <source>Settings</source>
+        <translation type="unfinished">설정</translation>
+    </message>
+    <message>
+        <location filename="BrowserWindow.cpp" line="2020"/>
         <source>Click to filter - use Shift and Control for multiple selections.
 Right Click on different items for pop-up menus with actions.
 Drag and Drop over the desired node to assign.</source>
@@ -626,152 +631,152 @@ Drag and Drop over the desired node to assign.</source>
 할당하고 싶은 노드 위로 드래그 &amp; 드롭하세요.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2016"/>
+        <location filename="BrowserWindow.cpp" line="2026"/>
         <source>Match any selected entry (OR)</source>
         <translation>포함하는 항목 선택 (OR)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2022"/>
+        <location filename="BrowserWindow.cpp" line="2032"/>
         <source>Match all selected entries (AND)</source>
         <translation>일치하는 항목 선택 (AND)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2033"/>
+        <location filename="BrowserWindow.cpp" line="2044"/>
         <source>Global</source>
         <translation>전역</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2040"/>
+        <location filename="BrowserWindow.cpp" line="2051"/>
         <source>Current folder</source>
         <translation>현재 폴더</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2047"/>
+        <location filename="BrowserWindow.cpp" line="2058"/>
         <source>Current folder (Recursive)</source>
         <translation>현재 폴더 (하위 폴더 포함)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2262"/>
+        <location filename="BrowserWindow.cpp" line="2290"/>
         <source>Thumbnails</source>
         <translation type="unfinished">썸네일</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3455"/>
+        <location filename="BrowserWindow.cpp" line="3483"/>
         <source>&lt;Search results&gt;</source>
         <translation>&lt;검색 결과&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3457"/>
+        <location filename="BrowserWindow.cpp" line="3485"/>
         <source>&lt;Tagged files&gt;</source>
         <translation>&lt;태그된 파일&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3552"/>
+        <location filename="BrowserWindow.cpp" line="3580"/>
         <source>This folder doesn&apos;t exist!</source>
         <translation>이 폴더는 존재하지 않습니다!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3765"/>
+        <location filename="BrowserWindow.cpp" line="3793"/>
         <source>Favorite name:</source>
         <translation>즐겨찾기 이름:</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="4010"/>
+        <location filename="BrowserWindow.cpp" line="4038"/>
         <source>Are you sure to delete these %n item(s)?</source>
         <translation>
             <numerusform>이 %n개의 항목을 정말 삭제할까요?</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4095"/>
+        <location filename="BrowserWindow.cpp" line="4123"/>
         <source>The files cannot be renamed, an error occurred.</source>
         <translation>오류가 발생하여 파일 이름을 바꿀 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3552"/>
-        <location filename="BrowserWindow.cpp" line="4095"/>
+        <location filename="BrowserWindow.cpp" line="3580"/>
+        <location filename="BrowserWindow.cpp" line="4123"/>
         <source>Error</source>
         <translation>오류</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3459"/>
+        <location filename="BrowserWindow.cpp" line="3487"/>
         <source>&lt;Catalog filter results&gt;</source>
         <translation>&lt;카탈로그 필터 결과&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3461"/>
+        <location filename="BrowserWindow.cpp" line="3489"/>
         <source>&lt;files&gt;</source>
         <translation>&lt;files&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4003"/>
+        <location filename="BrowserWindow.cpp" line="4031"/>
         <source>Delete items &amp; companions</source>
         <translation>컴패니언과 항목 삭제</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="4004"/>
+        <location filename="BrowserWindow.cpp" line="4032"/>
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
         <translation>
             <numerusform>이 %n개의 항목을 정말 삭제할까요? - %1 항목 선택됨</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4459"/>
+        <location filename="BrowserWindow.cpp" line="4487"/>
         <source>Search...</source>
         <translation>검색...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4460"/>
+        <location filename="BrowserWindow.cpp" line="4488"/>
         <source>Add to favorites...</source>
         <translation>즐겨찾기에 추가</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4463"/>
+        <location filename="BrowserWindow.cpp" line="4491"/>
         <source>Start slideshow</source>
         <translation>슬라이드쇼 시작</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4465"/>
+        <location filename="BrowserWindow.cpp" line="4493"/>
         <source>Open in file manager</source>
         <translation type="unfinished">파일 탐색기에서 열기</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4468"/>
+        <location filename="BrowserWindow.cpp" line="4496"/>
         <source>Properties</source>
         <translation>속성</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4577"/>
+        <location filename="BrowserWindow.cpp" line="4605"/>
         <source>Load filelist</source>
         <translation>파일목록 불러오기</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2000"/>
+        <location filename="BrowserWindow.cpp" line="2001"/>
         <source>Match</source>
         <translation>일치</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4009"/>
+        <location filename="BrowserWindow.cpp" line="4037"/>
         <source>Delete items</source>
         <translation>항목 삭제</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4457"/>
+        <location filename="BrowserWindow.cpp" line="4485"/>
         <source>Show files in subfolders</source>
         <translation>하위폴더 내의 파일 보기</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4500"/>
+        <location filename="BrowserWindow.cpp" line="4528"/>
         <source>Delete folder</source>
         <translation>폴더 삭제</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4500"/>
+        <location filename="BrowserWindow.cpp" line="4528"/>
         <source>Are you sure to delete this folder?</source>
         <translation>이 폴더를 정말 삭제할까요?</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="656"/>
+        <location filename="BrowserWindow.cpp" line="657"/>
         <source>Browser</source>
         <translation>브라우저</translation>
     </message>
@@ -787,8 +792,8 @@ Drag and Drop over the desired node to assign.</source>
 <context>
     <name>CategoryManager</name>
     <message>
-        <location filename="CategoryManager.cpp" line="211"/>
-        <location filename="CategoryManager.cpp" line="400"/>
+        <location filename="CategoryManager.cpp" line="221"/>
+        <location filename="CategoryManager.cpp" line="410"/>
         <source>Categories</source>
         <translation>카테고리</translation>
     </message>
@@ -880,150 +885,150 @@ Drag and Drop over the desired node to assign.</source>
 <context>
     <name>CategoryView</name>
     <message>
-        <location filename="CategoryView.cpp" line="639"/>
-        <location filename="CategoryView.cpp" line="737"/>
+        <location filename="CategoryView.cpp" line="687"/>
+        <location filename="CategoryView.cpp" line="785"/>
         <source>New category</source>
         <translation>새 카테고리</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="497"/>
-        <location filename="CategoryView.cpp" line="551"/>
-        <location filename="CategoryView.cpp" line="643"/>
-        <location filename="CategoryView.cpp" line="739"/>
+        <location filename="CategoryView.cpp" line="545"/>
+        <location filename="CategoryView.cpp" line="599"/>
+        <location filename="CategoryView.cpp" line="691"/>
+        <location filename="CategoryView.cpp" line="787"/>
         <source>Rename</source>
         <translation>이름 변경</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="498"/>
-        <location filename="CategoryView.cpp" line="552"/>
-        <location filename="CategoryView.cpp" line="654"/>
-        <location filename="CategoryView.cpp" line="740"/>
+        <location filename="CategoryView.cpp" line="546"/>
+        <location filename="CategoryView.cpp" line="600"/>
+        <location filename="CategoryView.cpp" line="702"/>
+        <location filename="CategoryView.cpp" line="788"/>
         <source>Delete</source>
         <translation>삭제</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="392"/>
-        <location filename="CategoryView.cpp" line="696"/>
-        <location filename="CategoryView.cpp" line="761"/>
+        <location filename="CategoryView.cpp" line="440"/>
+        <location filename="CategoryView.cpp" line="744"/>
+        <location filename="CategoryView.cpp" line="809"/>
         <source>Delete category</source>
         <translation>카테고리 삭제</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="392"/>
-        <location filename="CategoryView.cpp" line="696"/>
-        <location filename="CategoryView.cpp" line="761"/>
+        <location filename="CategoryView.cpp" line="440"/>
+        <location filename="CategoryView.cpp" line="744"/>
+        <location filename="CategoryView.cpp" line="809"/>
         <source>Are you sure to delete this category?</source>
         <translation>이 카테고리를 정말 삭제할까요?</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="444"/>
+        <location filename="CategoryView.cpp" line="492"/>
         <source>EXIF: Date taken</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="446"/>
+        <location filename="CategoryView.cpp" line="494"/>
         <source>EXIF: Date modified</source>
         <translation type="unfinished">EXIF: 수정일</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="448"/>
+        <location filename="CategoryView.cpp" line="496"/>
         <source>File: Date modified</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="489"/>
+        <location filename="CategoryView.cpp" line="537"/>
         <source>New smart album...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="491"/>
-        <location filename="CategoryView.cpp" line="664"/>
+        <location filename="CategoryView.cpp" line="539"/>
+        <location filename="CategoryView.cpp" line="712"/>
         <source>Create Smart Album from current filter...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="495"/>
+        <location filename="CategoryView.cpp" line="543"/>
         <source>Edit...</source>
         <translation type="unfinished">편집...</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="522"/>
+        <location filename="CategoryView.cpp" line="570"/>
         <source>Delete Smart Album</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="522"/>
+        <location filename="CategoryView.cpp" line="570"/>
         <source>Are you sure to delete this Smart Album?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="547"/>
+        <location filename="CategoryView.cpp" line="595"/>
         <source>New album</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="554"/>
+        <location filename="CategoryView.cpp" line="602"/>
         <source>Empty</source>
         <translation>비어 있음</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="556"/>
+        <location filename="CategoryView.cpp" line="604"/>
         <source>Export (Bridge format)...</source>
         <translation>내보내기 (브릿지 형식)...</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="559"/>
+        <location filename="CategoryView.cpp" line="607"/>
         <source>Import (Bridge format)...</source>
         <translation>불러오기 (브릿지 형식)...</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="584"/>
+        <location filename="CategoryView.cpp" line="632"/>
         <source>Delete album</source>
         <translation>앨범 삭제</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="584"/>
+        <location filename="CategoryView.cpp" line="632"/>
         <source>Are you sure to delete this album?</source>
         <translation>앨범을 삭제 하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="593"/>
+        <location filename="CategoryView.cpp" line="641"/>
         <source>New Album</source>
         <translation>새 앨범</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="605"/>
+        <location filename="CategoryView.cpp" line="653"/>
         <source>Empty album</source>
         <translation>빈 앨범</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="605"/>
+        <location filename="CategoryView.cpp" line="653"/>
         <source>Are you sure to clear this album?</source>
         <translation>앨범을 비우시겠습니까?</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="616"/>
+        <location filename="CategoryView.cpp" line="664"/>
         <source>Import collection</source>
         <translation>모음 불러오기</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="622"/>
+        <location filename="CategoryView.cpp" line="670"/>
         <source>Export collection</source>
         <translation>모음 내보내기</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="662"/>
+        <location filename="CategoryView.cpp" line="710"/>
         <source>Create Smart Album...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="696"/>
+        <location filename="CategoryView.cpp" line="744"/>
         <source>Are you sure to delete these categories?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="709"/>
-        <location filename="CategoryView.cpp" line="773"/>
+        <location filename="CategoryView.cpp" line="757"/>
+        <location filename="CategoryView.cpp" line="821"/>
         <source>New Category</source>
         <translation>새 카테고리</translation>
     </message>
@@ -1924,85 +1929,85 @@ Drag and Drop over the desired node to assign.</source>
 <context>
     <name>DB</name>
     <message>
-        <location filename="CategoryManager.cpp" line="159"/>
-        <location filename="MyDB.cpp" line="909"/>
-        <location filename="MyDB.cpp" line="2358"/>
-        <location filename="MyDB.cpp" line="3683"/>
+        <location filename="CategoryManager.cpp" line="169"/>
+        <location filename="MyDB.cpp" line="871"/>
+        <location filename="MyDB.cpp" line="2297"/>
+        <location filename="MyDB.cpp" line="3473"/>
         <source>Other</source>
         <translation>기타</translation>
     </message>
     <message>
-        <location filename="CategoryManager.cpp" line="179"/>
+        <location filename="CategoryManager.cpp" line="189"/>
         <source>Orphaned</source>
         <translation>지정되지 않음</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="910"/>
+        <location filename="MyDB.cpp" line="872"/>
         <source>Photographs</source>
         <translation>사진</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="911"/>
+        <location filename="MyDB.cpp" line="873"/>
         <source>Family</source>
         <translation>가족</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="912"/>
+        <location filename="MyDB.cpp" line="874"/>
         <source>Friends</source>
         <translation>친구</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="913"/>
+        <location filename="MyDB.cpp" line="875"/>
         <source>Pets</source>
         <translation>애완동물</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="914"/>
+        <location filename="MyDB.cpp" line="876"/>
         <source>Travel</source>
         <translation>여행</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="915"/>
+        <location filename="MyDB.cpp" line="877"/>
         <source>Landscapes</source>
         <translation>풍경</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="916"/>
+        <location filename="MyDB.cpp" line="878"/>
         <source>Portraits</source>
         <translation>인물</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="917"/>
+        <location filename="MyDB.cpp" line="879"/>
         <source>Flowers</source>
         <translation>꽃</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="918"/>
+        <location filename="MyDB.cpp" line="880"/>
         <source>Animals</source>
         <translation>동물</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="919"/>
+        <location filename="MyDB.cpp" line="881"/>
         <source>Pictures</source>
         <translation>사진</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="920"/>
+        <location filename="MyDB.cpp" line="882"/>
         <source>Icons</source>
         <translation>아이콘</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="921"/>
+        <location filename="MyDB.cpp" line="883"/>
         <source>Drawings</source>
         <translation>스케치</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="922"/>
+        <location filename="MyDB.cpp" line="884"/>
         <source>Videos</source>
         <translation>비디오</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="923"/>
+        <location filename="MyDB.cpp" line="885"/>
         <source>Audios</source>
         <translation>오디오</translation>
     </message>
@@ -2010,121 +2015,134 @@ Drag and Drop over the desired node to assign.</source>
 <context>
     <name>DBFilterModel</name>
     <message>
-        <location filename="DBFilterModel.cpp" line="137"/>
+        <location filename="DBFilterModel.cpp" line="140"/>
+        <location filename="DBFilterModel.cpp" line="181"/>
         <source>Rating</source>
         <translation>등급</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="141"/>
+        <location filename="DBFilterModel.cpp" line="144"/>
+        <location filename="DBFilterModel.cpp" line="182"/>
         <source>Colour Label</source>
         <translation>색 레이블</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="145"/>
+        <location filename="DBFilterModel.cpp" line="148"/>
+        <location filename="DBFilterModel.cpp" line="183"/>
         <source>People</source>
         <translation>사람</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="148"/>
+        <location filename="DBFilterModel.cpp" line="151"/>
         <source>Special Items</source>
         <translation>특별 항목+</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="151"/>
+        <location filename="DBFilterModel.cpp" line="154"/>
         <source>Uncategorized</source>
         <translation>미분류</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="152"/>
+        <location filename="DBFilterModel.cpp" line="155"/>
         <source>No rating</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="153"/>
+        <location filename="DBFilterModel.cpp" line="156"/>
         <source>No colour label</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="154"/>
+        <location filename="DBFilterModel.cpp" line="157"/>
         <source>All</source>
         <translation>모두</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="155"/>
+        <location filename="DBFilterModel.cpp" line="158"/>
         <source>Taken in last 30 days</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="156"/>
+        <location filename="DBFilterModel.cpp" line="159"/>
         <source>Modified in last 30 days</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="158"/>
-        <location filename="DBFilterModel.cpp" line="1437"/>
+        <location filename="DBFilterModel.cpp" line="161"/>
+        <location filename="DBFilterModel.cpp" line="184"/>
+        <location filename="DBFilterModel.cpp" line="1516"/>
         <source>Date</source>
         <translation type="unfinished">날짜</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="162"/>
+        <location filename="DBFilterModel.cpp" line="165"/>
+        <location filename="DBFilterModel.cpp" line="185"/>
         <source>Properties</source>
         <translation type="unfinished">속성</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="167"/>
+        <location filename="DBFilterModel.cpp" line="170"/>
+        <location filename="DBFilterModel.cpp" line="186"/>
         <source>Albums</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="169"/>
+        <location filename="DBFilterModel.cpp" line="172"/>
+        <location filename="DBFilterModel.cpp" line="187"/>
         <source>Smart Albums</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="295"/>
-        <location filename="DBFilterModel.cpp" line="2061"/>
+        <location filename="DBFilterModel.cpp" line="188"/>
+        <source>Categories</source>
+        <translation type="unfinished">카테고리</translation>
+    </message>
+    <message>
+        <location filename="DBFilterModel.cpp" line="374"/>
+        <location filename="DBFilterModel.cpp" line="2140"/>
         <source>No Smart Album</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1300"/>
-        <location filename="DBFilterModel.cpp" line="1590"/>
-        <location filename="DBFilterModel.cpp" line="1899"/>
-        <location filename="DBFilterModel.cpp" line="1906"/>
-        <location filename="DBFilterModel.cpp" line="1911"/>
-        <location filename="DBFilterModel.cpp" line="1916"/>
-        <location filename="DBFilterModel.cpp" line="1933"/>
-        <location filename="DBFilterModel.cpp" line="1950"/>
+        <location filename="DBFilterModel.cpp" line="1379"/>
+        <location filename="DBFilterModel.cpp" line="1669"/>
+        <location filename="DBFilterModel.cpp" line="1978"/>
+        <location filename="DBFilterModel.cpp" line="1985"/>
+        <location filename="DBFilterModel.cpp" line="1990"/>
+        <location filename="DBFilterModel.cpp" line="1995"/>
+        <location filename="DBFilterModel.cpp" line="2012"/>
+        <location filename="DBFilterModel.cpp" line="2029"/>
         <source>Unknown</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1938"/>
+        <location filename="DBFilterModel.cpp" line="2017"/>
         <source>Landscape</source>
         <translation type="unfinished">가로</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1940"/>
+        <location filename="DBFilterModel.cpp" line="2019"/>
         <source>Portrait</source>
         <translation type="unfinished">세로</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1942"/>
+        <location filename="DBFilterModel.cpp" line="2021"/>
         <source>Square</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2015"/>
+        <location filename="DBFilterModel.cpp" line="2094"/>
         <source>Panoramic</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2041"/>
+        <location filename="DBFilterModel.cpp" line="2120"/>
         <source>No Color Profile</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="412"/>
+        <location filename="DBFilterModel.cpp" line="249"/>
+        <location filename="DBFilterModel.cpp" line="491"/>
         <source>Tag (%1)</source>
         <translation>태그 (%1)</translation>
     </message>
@@ -17275,12 +17293,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>비율</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1829"/>
+        <location filename="DBFilterModel.cpp" line="1908"/>
         <source>Aspect Ratio</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1865"/>
+        <location filename="DBFilterModel.cpp" line="1944"/>
         <source>File type</source>
         <translation type="unfinished">파일 유형</translation>
     </message>
@@ -17549,7 +17567,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 <context>
     <name>InfoExif</name>
     <message>
-        <location filename="DBFilterModel.cpp" line="1833"/>
+        <location filename="DBFilterModel.cpp" line="1912"/>
         <location filename="ItemModel.cpp" line="1072"/>
         <location filename="SearchField.cpp" line="79"/>
         <location filename="TemplateData.cpp" line="2611"/>
@@ -17557,7 +17575,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>제작사</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1837"/>
+        <location filename="DBFilterModel.cpp" line="1916"/>
         <location filename="ItemModel.cpp" line="1074"/>
         <location filename="SearchField.cpp" line="80"/>
         <location filename="TemplateData.cpp" line="2612"/>
@@ -17565,68 +17583,68 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>기종</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1841"/>
+        <location filename="DBFilterModel.cpp" line="1920"/>
         <source>Lens</source>
         <translation type="unfinished">렌즈 (Lens)</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1849"/>
+        <location filename="DBFilterModel.cpp" line="1928"/>
         <location filename="ItemModel.cpp" line="1076"/>
         <source>ISO</source>
         <translation>ISO</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1857"/>
+        <location filename="DBFilterModel.cpp" line="1936"/>
         <source>Shutter Speed</source>
         <translation type="unfinished">셔터속도</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1869"/>
+        <location filename="DBFilterModel.cpp" line="1948"/>
         <source>Colour Space</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1952"/>
+        <location filename="DBFilterModel.cpp" line="2031"/>
         <source>Not Defined</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1954"/>
+        <location filename="DBFilterModel.cpp" line="2033"/>
         <source>Manual</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1956"/>
+        <location filename="DBFilterModel.cpp" line="2035"/>
         <source>Program AE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1958"/>
+        <location filename="DBFilterModel.cpp" line="2037"/>
         <source>Aperture-priority AE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1960"/>
+        <location filename="DBFilterModel.cpp" line="2039"/>
         <source>Shutter speed priority AE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1962"/>
+        <location filename="DBFilterModel.cpp" line="2041"/>
         <source>Creative</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1964"/>
+        <location filename="DBFilterModel.cpp" line="2043"/>
         <source>Action</source>
         <translation type="unfinished">동작</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1966"/>
+        <location filename="DBFilterModel.cpp" line="2045"/>
         <source>Portrait</source>
         <translation type="unfinished">세로</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1968"/>
+        <location filename="DBFilterModel.cpp" line="2047"/>
         <source>Landscape</source>
         <translation type="unfinished">가로</translation>
     </message>
@@ -17641,7 +17659,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>노출 시간</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1845"/>
+        <location filename="DBFilterModel.cpp" line="1924"/>
         <location filename="ItemModel.cpp" line="1082"/>
         <source>Focal Length</source>
         <translation>초점 거리</translation>
@@ -17718,7 +17736,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>사용자 코멘트</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1853"/>
+        <location filename="DBFilterModel.cpp" line="1932"/>
         <location filename="ItemModel.cpp" line="1086"/>
         <location filename="SearchField.cpp" line="89"/>
         <location filename="TemplateData.cpp" line="2645"/>
@@ -17742,7 +17760,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>수정 날짜/시간</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1825"/>
+        <location filename="DBFilterModel.cpp" line="1904"/>
         <location filename="TemplateData.cpp" line="2616"/>
         <source>Orientation</source>
         <translation>방향</translation>
@@ -17831,7 +17849,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>노출 시간 (s)</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1861"/>
+        <location filename="DBFilterModel.cpp" line="1940"/>
         <location filename="TemplateData.cpp" line="2641"/>
         <source>Exposure Program</source>
         <translation>노출 프로그램</translation>
@@ -19396,12 +19414,12 @@ Do you want to continue?</oldsource>
 <context>
     <name>MenuBrowser</name>
     <message>
-        <location filename="BrowserWindow.cpp" line="4437"/>
+        <location filename="BrowserWindow.cpp" line="4465"/>
         <source>New Folder</source>
         <translation>새 폴더</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4449"/>
+        <location filename="BrowserWindow.cpp" line="4477"/>
         <source>Rename</source>
         <translation>이름 변경</translation>
     </message>
@@ -20151,13 +20169,13 @@ Do you want to continue?</oldsource>
         <translation>파일 목록 열기...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4440"/>
+        <location filename="BrowserWindow.cpp" line="4468"/>
         <location filename="BrowserMenu.h" line="421"/>
         <source>Cut</source>
         <translation>잘라내기</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4442"/>
+        <location filename="BrowserWindow.cpp" line="4470"/>
         <location filename="BrowserMenu.h" line="423"/>
         <source>Copy</source>
         <translation>복사</translation>
@@ -20168,7 +20186,7 @@ Do you want to continue?</oldsource>
         <translation>이미지</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4444"/>
+        <location filename="BrowserWindow.cpp" line="4472"/>
         <location filename="BrowserMenu.h" line="428"/>
         <source>Paste</source>
         <translation>붙여넣기</translation>
@@ -20204,19 +20222,19 @@ Do you want to continue?</oldsource>
         <translation>태그된 파일 선택</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4452"/>
+        <location filename="BrowserWindow.cpp" line="4480"/>
         <location filename="BrowserMenu.h" line="438"/>
         <source>Copy to...</source>
         <translation>복사...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4454"/>
+        <location filename="BrowserWindow.cpp" line="4482"/>
         <location filename="BrowserMenu.h" line="439"/>
         <source>Move to...</source>
         <translation>이동...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4447"/>
+        <location filename="BrowserWindow.cpp" line="4475"/>
         <location filename="BrowserMenu.h" line="440"/>
         <source>Delete</source>
         <translation>삭제</translation>

@@ -623,6 +623,10 @@ Drag and Drop over the desired node to assign.</translation>
         <source>Thumbnails</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished">Կարգավորումներ</translation>
+    </message>
 </context>
 <context>
     <name>CategoryCompleterModel</name>
@@ -1646,6 +1650,10 @@ Drag and Drop over the desired node to assign.</translation>
     <message>
         <source>Square</source>
         <translation type="unfinished">Քառակուսի</translation>
+    </message>
+    <message>
+        <source>Categories</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

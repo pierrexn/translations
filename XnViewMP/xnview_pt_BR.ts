@@ -623,6 +623,10 @@ Arraste e solte sobre o nó desejado para atribuir.</translation>
         <source>Thumbnails</source>
         <translation type="unfinished">Miniaturas</translation>
     </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished">Configurações</translation>
+    </message>
 </context>
 <context>
     <name>CategoryCompleterModel</name>
@@ -1646,6 +1650,10 @@ Arraste e solte sobre o nó desejado para atribuir.</translation>
     <message>
         <source>Square</source>
         <translation type="unfinished">Quadrado</translation>
+    </message>
+    <message>
+        <source>Categories</source>
+        <translation type="unfinished">Categorias</translation>
     </message>
 </context>
 <context>

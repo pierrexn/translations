@@ -625,6 +625,10 @@ Trage și plasează peste nodul dorit de alocat.</translation>
         <source>Thumbnails</source>
         <translation>Miniaturi</translation>
     </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished">Setări</translation>
+    </message>
 </context>
 <context>
     <name>CategoryCompleterModel</name>
@@ -1648,6 +1652,10 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     <message>
         <source>Square</source>
         <translation>Pătrat</translation>
+    </message>
+    <message>
+        <source>Categories</source>
+        <translation type="unfinished">Categorii</translation>
     </message>
 </context>
 <context>

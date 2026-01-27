@@ -623,6 +623,10 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
         <source>Thumbnails</source>
         <translation>Pienoiskuvat</translation>
     </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished">Asetukset</translation>
+    </message>
 </context>
 <context>
     <name>CategoryCompleterModel</name>
@@ -1646,6 +1650,10 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
     <message>
         <source>Square</source>
         <translation>Neliö</translation>
+    </message>
+    <message>
+        <source>Categories</source>
+        <translation type="unfinished">Kategoriat</translation>
     </message>
 </context>
 <context>
