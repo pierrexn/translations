@@ -623,7 +623,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="2010"/>
         <source>Settings</source>
-        <translation type="unfinished">Настройки</translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2020"/>
@@ -2119,7 +2119,7 @@ Drag and Drop over the desired node to assign.</source>
     <message>
         <location filename="DBFilterModel.cpp" line="188"/>
         <source>Categories</source>
-        <translation type="unfinished">Категории</translation>
+        <translation>Категории</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="374"/>
