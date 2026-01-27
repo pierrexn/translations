@@ -627,7 +627,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Setări</translation>
+        <translation>Setări</translation>
     </message>
 </context>
 <context>
@@ -1655,7 +1655,7 @@ Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Categories</source>
-        <translation type="unfinished">Categorii</translation>
+        <translation>Categorii</translation>
     </message>
 </context>
 <context>
