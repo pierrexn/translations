@@ -16530,7 +16530,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="GeneralSettings.cpp" line="1038"/>
         <source>Copy of %1%2</source>
-        <translation type="unfinished">%1 副本 %2</translation>
+        <translation>%1 副本 %2</translation>
     </message>
     <message>
         <location filename="GeneralSettings.cpp" line="1040"/>
