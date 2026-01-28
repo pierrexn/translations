@@ -611,7 +611,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="2010"/>
         <source>Settings</source>
-        <translation type="unfinished">Beállítások</translation>
+        <translation>Beállítások</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2020"/>
@@ -2099,7 +2099,7 @@ Jobb kattintással különböző elemeket rendelhet a felugró menükhöz.
     <message>
         <location filename="DBFilterModel.cpp" line="188"/>
         <source>Categories</source>
-        <translation type="unfinished">Kategóriák</translation>
+        <translation>Kategóriák</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="374"/>
