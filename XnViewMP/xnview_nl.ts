@@ -611,7 +611,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen?</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="2010"/>
         <source>Settings</source>
-        <translation type="unfinished">Instellingen</translation>
+        <translation>Instellingen</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2020"/>
@@ -2099,7 +2099,7 @@ Sleep bestanden hierheen om label toe te kennen.</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="188"/>
         <source>Categories</source>
-        <translation type="unfinished">Categorieën</translation>
+        <translation>Categorieën</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="374"/>
