@@ -611,7 +611,7 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="2010"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurações</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2020"/>
@@ -2111,7 +2111,7 @@ Arrastar e largar sobre o nó pretendido.</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="188"/>
         <source>Categories</source>
-        <translation type="unfinished">Categorias</translation>
+        <translation>Categorias</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="374"/>
@@ -12762,7 +12762,7 @@ Miniatura</translation>
         <location filename="DlgSettingsIntegration.ui" line="58"/>
         <source>Add shell extension to context menu</source>
         <oldsource>Enable shell extension to context menu</oldsource>
-        <translation type="unfinished">Activar a extensão Shell do menu de contexto</translation>
+        <translation>Adicionar a extensão Shell ao menu de contexto</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="70"/>
@@ -12773,12 +12773,12 @@ Miniatura</translation>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="94"/>
         <source>Register application</source>
-        <translation type="unfinished"></translation>
+        <translation>Registar a aplicação</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="118"/>
         <source>Open &apos;Default Apps&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir &apos;Apps pré-definidas&apos;...</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="154"/>
@@ -15038,27 +15038,27 @@ Pretende reatribuir?</translation>
     <message>
         <location filename="DlgStartupWizard.ui" line="128"/>
         <source>Windows Explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>Explorador do Windows</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="141"/>
         <source>Add shell extension to context menu</source>
-        <translation type="unfinished">Activar a extensão Shell do menu de contexto</translation>
+        <translation>Adicionar a extensão Shell ao menu de contexto</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="151"/>
         <source>File Association</source>
-        <translation type="unfinished"></translation>
+        <translation>Associação de ficheiros</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="157"/>
         <source>Register application</source>
-        <translation type="unfinished"></translation>
+        <translation>Registar aplicação</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="164"/>
         <source>Open &apos;Default Apps&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir &apos;Apps pré-definidas&apos;</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="183"/>
@@ -15179,7 +15179,7 @@ Pretende reatribuir?</translation>
     <message>
         <location filename="DlgStrip.ui" line="251"/>
         <source>inch</source>
-        <translation>polegadas</translation>
+        <translation>polegada</translation>
     </message>
     <message>
         <location filename="DlgStrip.ui" line="256"/>
@@ -15246,14 +15246,14 @@ Pretende reatribuir?</translation>
     <message>
         <location filename="DlgTagPhoto.cpp" line="471"/>
         <source>Overwrite face regions</source>
-        <translation>Substituir regiões de faces</translation>
+        <translation>Substituir regiões com faces</translation>
     </message>
     <message>
         <location filename="DlgTagPhoto.cpp" line="471"/>
         <source>This will overwrite XMP face&apos;s regions of the file. 
 
 Do you want to continue?</source>
-        <translation>Isso irá substituir as regiões de rostos do ficheiro.
+        <translation>Isso irá substituir as regiões de rosto XMP do ficheiro.
 
 Deseja continuar?</translation>
     </message>
@@ -15263,12 +15263,12 @@ Deseja continuar?</translation>
     <message>
         <location filename="DlgTimestamp.cpp" line="146"/>
         <source>File created date</source>
-        <translation>Ficheiro: Data de criação</translation>
+        <translation>Data de criação do ficheiro</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.cpp" line="146"/>
         <source>File modified date</source>
-        <translation>Ficheiro: Data de modificação</translation>
+        <translation>Data de modificação do ficheiro</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.cpp" line="147"/>
@@ -15300,12 +15300,12 @@ Deseja continuar?</translation>
         <location filename="DlgTimestamp.cpp" line="558"/>
         <source>Modifying timestamp, please wait...</source>
         <oldsource>Modifying timestamp, please wait... </oldsource>
-        <translation>Modificando registo da hora, por favor aguarde...</translation>
+        <translation>Mudando o registo da hora, por favor aguarde...</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.cpp" line="569"/>
         <source>An error occurred when updating these files:</source>
-        <translation>Houve um erro quando actualizava estes ficheiros:</translation>
+        <translation>Houve um erro quando se actualizavam estes ficheiros:</translation>
     </message>
 </context>
 <context>
@@ -15313,7 +15313,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="DlgTimestamp.ui" line="14"/>
         <source>Change timestamp</source>
-        <translation>Mudar a data</translation>
+        <translation>Mudar o registo da data</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="22"/>
@@ -15323,12 +15323,12 @@ Deseja continuar?</translation>
     <message>
         <location filename="DlgTimestamp.ui" line="28"/>
         <source>Current date &amp;&amp; time</source>
-        <translation>Data e hora actuais</translation>
+        <translation>Data &amp;&amp; hora actuais</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="38"/>
         <source>Specific date &amp;&amp; time</source>
-        <translation>Data e hora específica</translation>
+        <translation>Data &amp;&amp; hora específica</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="135"/>
