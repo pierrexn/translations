@@ -632,7 +632,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="2070"/>
         <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi - select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right - click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Фильтр Каталога&lt;/b&gt;&lt;br&gt;Левый клик - фильтрация&lt;br&gt;&amp;bull; Shift/Ctrl - мультивыбор&lt;br&gt;&amp;bull; Alt - исключение&lt;br&gt;Правый клик - открытие опций узла&lt;br&gt;Перетащить на узел - назначения</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2279"/>
@@ -753,18 +753,18 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="BrowserWindow.cpp" line="2007"/>
         <location filename="BrowserWindow.cpp" line="2019"/>
         <source>AND</source>
-        <translation type="unfinished">И</translation>
+        <translation>И</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2007"/>
         <location filename="BrowserWindow.cpp" line="2013"/>
         <source>OR</source>
-        <translation type="unfinished">ИЛИ</translation>
+        <translation>ИЛИ</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2008"/>
         <source>&lt;b&gt;Match&lt;/b&gt;&lt;br&gt;OR - match any selected entry&lt;br&gt;AND - match all selected entries</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Совпадение&lt;/b&gt;&lt;br&gt;ИЛИ - совпадение с любой из выбранных записей&lt;br&gt;И - совпадение со всеми выбранными записями</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4472"/>
@@ -2117,12 +2117,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DBFilterModel.cpp" line="240"/>
         <location filename="DBFilterModel.cpp" line="541"/>
         <source>Check (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Отмеченные (%1)</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="240"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Метка</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1450"/>
@@ -11548,7 +11548,7 @@ Do you want to remove them?</source>
         <location filename="DlgSettingsBrowser.ui" line="412"/>
         <source>Clear the list of checked files</source>
         <oldsource>Clear the list of tagged files</oldsource>
-        <translation type="unfinished">Очищать список отмеченных файлов</translation>
+        <translation>Очищать список отмеченных файлов</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="420"/>
@@ -11593,7 +11593,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="404"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Метка</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="472"/>
@@ -13867,7 +13867,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="722"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Метка</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="904"/>
@@ -17151,7 +17151,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="ItemModel.cpp" line="1051"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Метка</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1057"/>
@@ -19817,7 +19817,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="84"/>
         <source>Checked file(s)</source>
         <oldsource>Tagged file(s)</oldsource>
-        <translation type="unfinished">Отмеченные файлы</translation>
+        <translation>Отмеченные файлы</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="470"/>
@@ -19985,7 +19985,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="85"/>
         <source>Unchecked file(s)</source>
         <oldsource>Untagged file(s)</oldsource>
-        <translation type="unfinished">Неотмеченные файлы</translation>
+        <translation>Неотмеченные файлы</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="322"/>
@@ -20000,12 +20000,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="456"/>
         <source>Check/Uncheck</source>
-        <translation type="unfinished"></translation>
+        <translation>Поставить/снять метку</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="506"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Метка</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="511"/>
@@ -20520,7 +20520,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="436"/>
         <source>Select checked files</source>
         <oldsource>Select tagged files</oldsource>
-        <translation type="unfinished">Выделить отмеченные файлы</translation>
+        <translation>Выделить отмеченные файлы</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4467"/>
@@ -20604,7 +20604,7 @@ Do you want to continue?</oldsource>
         <location filename="CompareWidget.cpp" line="462"/>
         <source>Check/Uncheck current</source>
         <oldsource>Tag/Untag current</oldsource>
-        <translation type="unfinished">Поставить/снять метку</translation>
+        <translation>Поставить/снять метку</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="457"/>
@@ -20615,25 +20615,25 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="458"/>
         <source>Uncheck all</source>
         <oldsource>Untag all</oldsource>
-        <translation type="unfinished">Снять все метки</translation>
+        <translation>Снять метки</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="459"/>
         <source>Clear all checks</source>
         <oldsource>Clear all tags</oldsource>
-        <translation type="unfinished">Удалить все метки</translation>
+        <translation>Снять все метки</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="460"/>
         <source>Show checked files</source>
         <oldsource>Show tagged files</oldsource>
-        <translation type="unfinished">Показать все отмеченные файлы</translation>
+        <translation>Показать все отмеченные файлы</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="461"/>
         <source>Show checkbox</source>
         <oldsource>Show tag box</oldsource>
-        <translation type="unfinished">Показывать метки</translation>
+        <translation>Показывать метки</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="501"/>
@@ -21610,7 +21610,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="363"/>
         <source>Check/Uncheck</source>
-        <translation type="unfinished"></translation>
+        <translation>Поставить/снять метку</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="404"/>
