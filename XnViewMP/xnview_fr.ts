@@ -681,23 +681,23 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
         <location filename="BrowserWindow.cpp" line="2007"/>
         <location filename="BrowserWindow.cpp" line="2019"/>
         <source>AND</source>
-        <translation type="unfinished">ET</translation>
+        <translation>ET</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2007"/>
         <location filename="BrowserWindow.cpp" line="2013"/>
         <source>OR</source>
-        <translation type="unfinished">OU</translation>
+        <translation>OU</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2008"/>
         <source>&lt;b&gt;Match&lt;/b&gt;&lt;br&gt;OR - match any selected entry&lt;br&gt;AND - match all selected entries</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Match&lt;/b&gt;&lt;br&gt;OU- correspond à toute entrée sélectionnée&lt;br&gt;ET- correspond à toutes les entrées sélectionnées</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2070"/>
         <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi - select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right - click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Filtre de catalogue&lt;/b&gt;&lt;br&gt;Clic gauche pour filtrer&lt;br&gt;&amp;bull ; Shift/Ctrl - sélection multiple&lt;br&gt;&amp;bull ; Alt - exclusion d&apos;éléments&lt;br&gt;Clic droit pour ouvrir les options de nœud&lt;br&gt;Glisser-déposer sur un nœud pour l&apos;affecter</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3476"/>
@@ -2099,12 +2099,12 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
         <location filename="DBFilterModel.cpp" line="240"/>
         <location filename="DBFilterModel.cpp" line="541"/>
         <source>Check (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Marque (%1)</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="240"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Marque</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1450"/>
@@ -11475,7 +11475,7 @@ Voulez-vous les enlever?</translation>
         <location filename="DlgSettingsBrowser.ui" line="412"/>
         <source>Clear the list of checked files</source>
         <oldsource>Clear the list of tagged files</oldsource>
-        <translation type="unfinished">La liste des fichiers marqués doit être effacée</translation>
+        <translation>La liste des fichiers marqués doit être effacée</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="420"/>
@@ -11520,7 +11520,7 @@ Voulez-vous les enlever?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="404"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Marque</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="472"/>
@@ -13841,7 +13841,7 @@ Voulez-vous le réaffecter ?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="722"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Marque</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="904"/>
@@ -16752,7 +16752,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="ItemModel.cpp" line="1051"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Marque</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1069"/>
@@ -19715,7 +19715,7 @@ Voulez-vous continuer ?</translation>
         <location filename="BrowserMenu.h" line="84"/>
         <source>Checked file(s)</source>
         <oldsource>Tagged file(s)</oldsource>
-        <translation type="unfinished">Fichier(s) marqué(s)</translation>
+        <translation>Fichier(s) marqué(s)</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="472"/>
@@ -19775,7 +19775,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="BrowserMenu.h" line="456"/>
         <source>Check/Uncheck</source>
-        <translation type="unfinished"></translation>
+        <translation>Marquer/Démarquer</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="470"/>
@@ -19796,7 +19796,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="BrowserMenu.h" line="506"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Marque</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="507"/>
@@ -20395,7 +20395,7 @@ Voulez-vous continuer ?</translation>
         <location filename="BrowserMenu.h" line="436"/>
         <source>Select checked files</source>
         <oldsource>Select tagged files</oldsource>
-        <translation type="unfinished">Sélectionner les fichiers marqués</translation>
+        <translation>Sélectionner les fichiers marqués</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4467"/>
@@ -20474,7 +20474,7 @@ Voulez-vous continuer ?</translation>
         <location filename="CompareWidget.cpp" line="462"/>
         <source>Check/Uncheck current</source>
         <oldsource>Tag/Untag current</oldsource>
-        <translation type="unfinished">Marquer/Dé-marquer la sélection</translation>
+        <translation>Marquer/Dé-marquer la sélection</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="457"/>
@@ -20485,25 +20485,25 @@ Voulez-vous continuer ?</translation>
         <location filename="BrowserMenu.h" line="458"/>
         <source>Uncheck all</source>
         <oldsource>Untag all</oldsource>
-        <translation type="unfinished">Enlever toutes les marques dans la sélection</translation>
+        <translation>Enlever toutes les marques dans la sélection</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="459"/>
         <source>Clear all checks</source>
         <oldsource>Clear all tags</oldsource>
-        <translation type="unfinished">Effacer toutes les marques</translation>
+        <translation>Effacer toutes les marques</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="460"/>
         <source>Show checked files</source>
         <oldsource>Show tagged files</oldsource>
-        <translation type="unfinished">Voir les fichiers marqués seulement</translation>
+        <translation>Voir les fichiers marqués seulement</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="461"/>
         <source>Show checkbox</source>
         <oldsource>Show tag box</oldsource>
-        <translation type="unfinished">Afficher la marque</translation>
+        <translation>Afficher la marque</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="501"/>
@@ -20716,7 +20716,7 @@ Voulez-vous continuer ?</translation>
         <location filename="BrowserMenu.h" line="85"/>
         <source>Unchecked file(s)</source>
         <oldsource>Untagged file(s)</oldsource>
-        <translation type="unfinished">Fichier(s) non marqué(s)</translation>
+        <translation>Fichier(s) non marqué(s)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="453"/>
@@ -21675,7 +21675,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="ViewMenu.h" line="363"/>
         <source>Check/Uncheck</source>
-        <translation type="unfinished"></translation>
+        <translation>Marquer/Démarquer</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="372"/>
