@@ -665,13 +665,13 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <location filename="BrowserWindow.cpp" line="2007"/>
         <location filename="BrowserWindow.cpp" line="2019"/>
         <source>AND</source>
-        <translation type="unfinished">ÉS</translation>
+        <translation>ÉS</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2007"/>
         <location filename="BrowserWindow.cpp" line="2013"/>
         <source>OR</source>
-        <translation type="unfinished">VAGY</translation>
+        <translation>VAGY</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2008"/>
