@@ -623,7 +623,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="2070"/>
         <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi - select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right - click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Katalogfilter&lt;/b&gt;&lt;br&gt;Linksklick zum Filtern&lt;br&gt;;Umschalt/Strg - Mehrfachauswahl&lt;br&gt;;Alt - Elemente ausschließen&lt;br&gt;Rechtsklick zum Öffnen der Knotenoptionen&lt;br&gt;Ziehen und Ablegen auf einen Knoten zum Zuweisen</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2279"/>
@@ -741,18 +741,18 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
         <location filename="BrowserWindow.cpp" line="2007"/>
         <location filename="BrowserWindow.cpp" line="2019"/>
         <source>AND</source>
-        <translation type="unfinished">UND</translation>
+        <translation>UND</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2007"/>
         <location filename="BrowserWindow.cpp" line="2013"/>
         <source>OR</source>
-        <translation type="unfinished">ODER</translation>
+        <translation>ODER</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2008"/>
         <source>&lt;b&gt;Match&lt;/b&gt;&lt;br&gt;OR - match any selected entry&lt;br&gt;AND - match all selected entries</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Übereinstimmung&lt;/b&gt;&lt;br&gt;ODER - Übereinstimmung mit einem beliebigen ausgewählten Eintrag&lt;br&gt;UND - Übereinstimmung mit allen ausgewählten Einträgen</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4472"/>
@@ -2096,12 +2096,12 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
         <location filename="DBFilterModel.cpp" line="240"/>
         <location filename="DBFilterModel.cpp" line="541"/>
         <source>Check (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kennzeichnung (%1)</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="240"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Kennzeichnung</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1450"/>
@@ -11463,7 +11463,7 @@ Möchten Sie sie entfernen?</translation>
         <location filename="DlgSettingsBrowser.ui" line="412"/>
         <source>Clear the list of checked files</source>
         <oldsource>Clear the list of tagged files</oldsource>
-        <translation type="unfinished">Kennzeichnung global löschen</translation>
+        <translation>Kennzeichnung global löschen</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="420"/>
@@ -11508,7 +11508,7 @@ Möchten Sie sie entfernen?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="404"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Kennzeichnung</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="472"/>
@@ -13857,7 +13857,7 @@ Möchten Sie neu zuweisen?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="722"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Kennzeichnung</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="904"/>
@@ -17043,7 +17043,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="ItemModel.cpp" line="1051"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Kennzeichnung</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1057"/>
@@ -19691,7 +19691,7 @@ Möchten Sie fortfahren?</translation>
         <location filename="BrowserMenu.h" line="84"/>
         <source>Checked file(s)</source>
         <oldsource>Tagged file(s)</oldsource>
-        <translation type="unfinished">Dateien mit Kennzeichnung</translation>
+        <translation>Datei(en) mit Kennzeichnung</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="453"/>
@@ -19884,7 +19884,7 @@ Möchten Sie fortfahren?</translation>
         <location filename="BrowserMenu.h" line="85"/>
         <source>Unchecked file(s)</source>
         <oldsource>Untagged file(s)</oldsource>
-        <translation type="unfinished">Datei(en) ohne Tags</translation>
+        <translation>Datei(en) ohne Kennzeichnung</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="305"/>
@@ -19909,12 +19909,12 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="BrowserMenu.h" line="456"/>
         <source>Check/Uncheck</source>
-        <translation type="unfinished"></translation>
+        <translation>Kennzeichnung setzen/aufheben</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="506"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Kennzeichnung</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="530"/>
@@ -20396,7 +20396,7 @@ Möchten Sie fortfahren?</translation>
         <location filename="BrowserMenu.h" line="436"/>
         <source>Select checked files</source>
         <oldsource>Select tagged files</oldsource>
-        <translation type="unfinished">Alle Bilder mit Kennzeichnung auswählen</translation>
+        <translation>Dateien mit Kennzeichnung auswählen</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4467"/>
@@ -20480,7 +20480,7 @@ Möchten Sie fortfahren?</translation>
         <location filename="CompareWidget.cpp" line="462"/>
         <source>Check/Uncheck current</source>
         <oldsource>Tag/Untag current</oldsource>
-        <translation type="unfinished">Setzen</translation>
+        <translation>Kennzeichnung für Auswahl setzen/aufheben</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="457"/>
@@ -20491,25 +20491,25 @@ Möchten Sie fortfahren?</translation>
         <location filename="BrowserMenu.h" line="458"/>
         <source>Uncheck all</source>
         <oldsource>Untag all</oldsource>
-        <translation type="unfinished">Alle im aktuellen Ordner löschen</translation>
+        <translation>Alle Kennzeichnungen aufheben</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="459"/>
         <source>Clear all checks</source>
         <oldsource>Clear all tags</oldsource>
-        <translation type="unfinished">Alle global löschen</translation>
+        <translation>Alle Kennzeichnungen löschen</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="460"/>
         <source>Show checked files</source>
         <oldsource>Show tagged files</oldsource>
-        <translation type="unfinished">Alle Dateien mit Kennzeichnung anzeigen</translation>
+        <translation>Alle Dateien mit Kennzeichnung anzeigen</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="461"/>
         <source>Show checkbox</source>
         <oldsource>Show tag box</oldsource>
-        <translation type="unfinished">Kennzeichnung verwenden</translation>
+        <translation>Kennzeichnung verwenden</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="501"/>
@@ -21719,7 +21719,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="ViewMenu.h" line="363"/>
         <source>Check/Uncheck</source>
-        <translation type="unfinished"></translation>
+        <translation>Kennzeichnung setzen/aufheben</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="372"/>
