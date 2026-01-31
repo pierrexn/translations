@@ -450,16 +450,8 @@ Vrei să ștergi favoritul „%1”?</translation>
         <translation>Eroare</translation>
     </message>
     <message>
-        <source>Match</source>
-        <translation>Potrivește</translation>
-    </message>
-    <message>
         <source>The files cannot be renamed, an error occurred.</source>
         <translation>Fișierele nu pot fi redenumite, a apărut o eroare.</translation>
-    </message>
-    <message>
-        <source>Match any selected entry (OR)</source>
-        <translation>Potrivește orice intrare selectată (SAU)</translation>
     </message>
     <message>
         <source>Add to favorites...</source>
@@ -488,14 +480,6 @@ Vrei să ștergi favoritul „%1”?</translation>
     <message>
         <source>Attach preview panel</source>
         <translation>Atașează panoul de previzualizare</translation>
-    </message>
-    <message>
-        <source>Click to filter - use Shift and Control for multiple selections.
-Right Click on different items for pop-up menus with actions.
-Drag and Drop over the desired node to assign.</source>
-        <translation>Dă clic ca să filtrezi - folosește Shift și Control pentru mai multe selecții.
-Fă clic dreapta pe diferite elemente pentru meniurile pop-up cu acțiuni.
-Trage și plasează peste nodul dorit de alocat.</translation>
     </message>
     <message>
         <source>Properties</source>
@@ -570,10 +554,6 @@ Trage și plasează peste nodul dorit de alocat.</translation>
         <translation>Personalizează bara de instrumente...</translation>
     </message>
     <message>
-        <source>Match all selected entries (AND)</source>
-        <translation>Potriviește toate intrările selectate (AND/ȘI)</translation>
-    </message>
-    <message>
         <source>This folder doesn&apos;t exist!</source>
         <translation>Acest dosar (folder) nu există!</translation>
     </message>
@@ -626,8 +606,20 @@ Trage și plasează peste nodul dorit de alocat.</translation>
         <translation>Miniaturi</translation>
     </message>
     <message>
-        <source>Settings</source>
-        <translation>Setări</translation>
+        <source>AND</source>
+        <translation type="unfinished">ȘI</translation>
+    </message>
+    <message>
+        <source>OR</source>
+        <translation type="unfinished">SAU</translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Match&lt;/b&gt;&lt;br&gt;OR - match any selected entry&lt;br&gt;AND - match all selected entries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi - select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right - click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1590,10 +1582,6 @@ Trage și plasează peste nodul dorit de alocat.</translation>
         <translation>Evaluare</translation>
     </message>
     <message>
-        <source>Tag (%1)</source>
-        <translation>Etichetă (%1)</translation>
-    </message>
-    <message>
         <source>No rating</source>
         <translation>Nicio evaluare</translation>
     </message>
@@ -1646,16 +1634,20 @@ Trage și plasează peste nodul dorit de alocat.</translation>
         <translation>Albume inteligente</translation>
     </message>
     <message>
-        <source>No Smart Album</source>
-        <translation>Niciun album inteligent</translation>
-    </message>
-    <message>
         <source>Square</source>
         <translation>Pătrat</translation>
     </message>
     <message>
         <source>Categories</source>
         <translation>Categorii</translation>
+    </message>
+    <message>
+        <source>Check (%1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8848,10 +8840,6 @@ Vrei să le redenumești?</translation>
 <context>
     <name>DlgSettingsBrowserClass</name>
     <message>
-        <source>Tag</source>
-        <translation>Etichetă</translation>
-    </message>
-    <message>
         <source>List</source>
         <translation>Listă</translation>
     </message>
@@ -8882,10 +8870,6 @@ Vrei să le redenumești?</translation>
     <message>
         <source>Quick search</source>
         <translation>Căutare rapidă</translation>
-    </message>
-    <message>
-        <source>Clear the list of tagged files</source>
-        <translation>Șterge lista fișierelor etichetate</translation>
     </message>
     <message>
         <source>View scroll the content by thumbnail</source>
@@ -9010,6 +8994,14 @@ Vrei să le redenumești?</translation>
     <message>
         <source>Show &apos;Desktop&apos; in folder tree</source>
         <translation>Afișează „Desktop-ul” în arborele de foldere (de dosare)</translation>
+    </message>
+    <message>
+        <source>Check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear the list of checked files</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10589,10 +10581,6 @@ Dorești să-l reatribui?</translation>
         <translation>%</translation>
     </message>
     <message>
-        <source>Tag</source>
-        <translation>Etichetă</translation>
-    </message>
-    <message>
         <source>Left</source>
         <translation>Stânga</translation>
     </message>
@@ -10819,6 +10807,10 @@ Dorești să-l reatribui?</translation>
     <message>
         <source>Use transparency grid</source>
         <translation>Folosește grila de transparență</translation>
+    </message>
+    <message>
+        <source>Check</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12976,10 +12968,6 @@ Dorești să ștergi favoritul „%1”?</translation>
         <translation>DPI</translation>
     </message>
     <message>
-        <source>Tag</source>
-        <translation>Etichetă</translation>
-    </message>
-    <message>
         <source>Date</source>
         <translation>Data</translation>
     </message>
@@ -13394,6 +13382,10 @@ Dorești să ștergi favoritul „%1”?</translation>
     <message>
         <source>File path</source>
         <translation>Calea fișierului</translation>
+    </message>
+    <message>
+        <source>Check</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14903,10 +14895,6 @@ Vrei să continui?</translation>
         <translation>Taie</translation>
     </message>
     <message>
-        <source>Tag</source>
-        <translation>Etichetă</translation>
-    </message>
-    <message>
         <source>100%</source>
         <translation>100%</translation>
     </message>
@@ -15019,10 +15007,6 @@ Vrei să continui?</translation>
         <translation>Raportul</translation>
     </message>
     <message>
-        <source>Clear all tags</source>
-        <translation>Șterge toate etichetele</translation>
-    </message>
-    <message>
         <source>Colour label</source>
         <translation>Etichetă de culoare</translation>
     </message>
@@ -15069,10 +15053,6 @@ Vrei să continui?</translation>
     <message>
         <source>Use alpha channel</source>
         <translation>Folosește canalul alfa</translation>
-    </message>
-    <message>
-        <source>Show tagged files</source>
-        <translation>Afișează fișierele etichetate</translation>
     </message>
     <message>
         <source>Rotate based on EXIF orientation field</source>
@@ -15383,10 +15363,6 @@ Vrei să continui?</translation>
         <translation>Dimensiunea adevărată</translation>
     </message>
     <message>
-        <source>Select tagged files</source>
-        <translation>Selectează fișierele etichetate</translation>
-    </message>
-    <message>
         <source>Search...</source>
         <translation>Căutare...</translation>
     </message>
@@ -15551,10 +15527,6 @@ Vrei să continui?</translation>
         <translation>Sortează după</translation>
     </message>
     <message>
-        <source>Untag all</source>
-        <translation>Desetichetează-le pe toate</translation>
-    </message>
-    <message>
         <source>Show source panels</source>
         <translation>Afișează panourile sursă</translation>
     </message>
@@ -15597,10 +15569,6 @@ Vrei să continui?</translation>
     <message>
         <source>Thumbnails + Details</source>
         <translation>Miniaturi + Detalii</translation>
-    </message>
-    <message>
-        <source>Tagged file(s)</source>
-        <translation>Fișier(e) etichetat(e)</translation>
     </message>
     <message>
         <source>Toolbar</source>
@@ -15787,24 +15755,12 @@ Vrei să continui?</translation>
         <translation>Data la care a fost creat</translation>
     </message>
     <message>
-        <source>Show tag box</source>
-        <translation>Afișează caseta de etichete</translation>
-    </message>
-    <message>
-        <source>Tag/Untag current</source>
-        <translation>Etichetează/Deetichetează elementul curent</translation>
-    </message>
-    <message>
         <source>Fit image to desktop</source>
         <translation>Potrivește imaginea pe desktop</translation>
     </message>
     <message>
         <source>Path</source>
         <translation>Cale</translation>
-    </message>
-    <message>
-        <source>Untagged file(s)</source>
-        <translation>Fișier(e) neetichetat(e)</translation>
     </message>
     <message>
         <source>Catalog Filter</source>
@@ -15961,6 +15917,46 @@ Vrei să continui?</translation>
     <message>
         <source>Film strip 3</source>
         <translation>Banda de film 3</translation>
+    </message>
+    <message>
+        <source>Check/Uncheck current</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checked file(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unchecked file(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select checked files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check/Uncheck</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uncheck all</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear all checks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show checked files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show checkbox</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16832,10 +16828,6 @@ Vrei să continui?</translation>
         <translation>Potrivește imaginea pe desktop</translation>
     </message>
     <message>
-        <source>Tag/Untag current</source>
-        <translation>Etichetează/Deetichetează elementul curent</translation>
-    </message>
-    <message>
         <source>Excellent (go to next image)</source>
         <translation>Excelentă (mergi la imaginea următoare)</translation>
     </message>
@@ -17010,6 +17002,10 @@ Vrei să continui?</translation>
     <message>
         <source>Remove vertical strip</source>
         <translation>Îndepărtează banda verticală</translation>
+    </message>
+    <message>
+        <source>Check/Uncheck</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

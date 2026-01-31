@@ -450,16 +450,8 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
         <translation>Virhe</translation>
     </message>
     <message>
-        <source>Match</source>
-        <translation>Määrä</translation>
-    </message>
-    <message>
         <source>The files cannot be renamed, an error occurred.</source>
         <translation>Tapahtuneen virheen vuoksi, tiedostoja ei voitu nimetä uudelleen.</translation>
-    </message>
-    <message>
-        <source>Match any selected entry (OR)</source>
-        <translation>Vastaa mitä tahansa valittua merkintää (TAI)</translation>
     </message>
     <message>
         <source>Add to favorites...</source>
@@ -488,14 +480,6 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     <message>
         <source>Attach preview panel</source>
         <translation>Kiinnitä esikatselupaneeli</translation>
-    </message>
-    <message>
-        <source>Click to filter - use Shift and Control for multiple selections.
-Right Click on different items for pop-up menus with actions.
-Drag and Drop over the desired node to assign.</source>
-        <translation>Klikkaa käyttääksesi suodinta - käytä Shift ja Control-painikkeita monivalintoihin.
-Hiiren oikean painkkeen klikkaus avaa pikavalikon kohteen toiminnoille.
-Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translation>
     </message>
     <message>
         <source>Properties</source>
@@ -568,10 +552,6 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
         <translation>Muokkaa työkaluriviä...</translation>
     </message>
     <message>
-        <source>Match all selected entries (AND)</source>
-        <translation>Vastaa kaikkia valittuja merkintöjä (JA)</translation>
-    </message>
-    <message>
         <source>This folder doesn&apos;t exist!</source>
         <translation>Kansiota ei ole olemassa!</translation>
     </message>
@@ -624,8 +604,20 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
         <translation>Pienoiskuvat</translation>
     </message>
     <message>
-        <source>Settings</source>
-        <translation type="unfinished">Asetukset</translation>
+        <source>AND</source>
+        <translation type="unfinished">JA</translation>
+    </message>
+    <message>
+        <source>OR</source>
+        <translation type="unfinished">TAI</translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Match&lt;/b&gt;&lt;br&gt;OR - match any selected entry&lt;br&gt;AND - match all selected entries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi - select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right - click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1588,10 +1580,6 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
         <translation>Luokitus</translation>
     </message>
     <message>
-        <source>Tag (%1)</source>
-        <translation>Merkintä (Tagi) (%1)</translation>
-    </message>
-    <message>
         <source>No rating</source>
         <translation>Ei luokitusta</translation>
     </message>
@@ -1644,16 +1632,20 @@ Raahaa ja pudota-toiminnolla vot siirtää kohteen paikasta toiseen.</translatio
         <translation>Smart-albumi</translation>
     </message>
     <message>
-        <source>No Smart Album</source>
-        <translation>Ei Smart-albumia</translation>
-    </message>
-    <message>
         <source>Square</source>
         <translation>Neliö</translation>
     </message>
     <message>
         <source>Categories</source>
         <translation type="unfinished">Kategoriat</translation>
+    </message>
+    <message>
+        <source>Check (%1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8836,10 +8828,6 @@ Haluatko poistaa ne?</translation>
 <context>
     <name>DlgSettingsBrowserClass</name>
     <message>
-        <source>Tag</source>
-        <translation>Merkintä (Tagit)</translation>
-    </message>
-    <message>
         <source>List</source>
         <translation>Lista</translation>
     </message>
@@ -8870,10 +8858,6 @@ Haluatko poistaa ne?</translation>
     <message>
         <source>Quick search</source>
         <translation>Pikahaku</translation>
-    </message>
-    <message>
-        <source>Clear the list of tagged files</source>
-        <translation>Tyhjennä merkittyjen tiedostojen luettelo</translation>
     </message>
     <message>
         <source>View scroll the content by thumbnail</source>
@@ -8998,6 +8982,14 @@ Haluatko poistaa ne?</translation>
     <message>
         <source>Show &apos;Desktop&apos; in folder tree</source>
         <translation>Näytä &apos;Työpöytä&apos; hakemistopuussa</translation>
+    </message>
+    <message>
+        <source>Check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear the list of checked files</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10578,10 +10570,6 @@ Haluatko määrittää uudelleen?</translation>
         <translation>%</translation>
     </message>
     <message>
-        <source>Tag</source>
-        <translation>Merkintä (Tagit)</translation>
-    </message>
-    <message>
         <source>Left</source>
         <translation>Vasen</translation>
     </message>
@@ -10808,6 +10796,10 @@ Haluatko määrittää uudelleen?</translation>
     <message>
         <source>Use transparency grid</source>
         <translation>Käytä läpinäkyvää ruudukkoa</translation>
+    </message>
+    <message>
+        <source>Check</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12965,10 +12957,6 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
         <translation>DPI</translation>
     </message>
     <message>
-        <source>Tag</source>
-        <translation>Merkintä (Tagit)</translation>
-    </message>
-    <message>
         <source>Date</source>
         <translation>Päiväys</translation>
     </message>
@@ -13383,6 +13371,10 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     <message>
         <source>File path</source>
         <translation>Tiedostopolku</translation>
+    </message>
+    <message>
+        <source>Check</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14892,10 +14884,6 @@ Jatketaanko?</translation>
         <translation>Leikkaa</translation>
     </message>
     <message>
-        <source>Tag</source>
-        <translation>Merkintä (Tagit)</translation>
-    </message>
-    <message>
         <source>100%</source>
         <translation>100%</translation>
     </message>
@@ -15008,10 +14996,6 @@ Jatketaanko?</translation>
         <translation>Suhde</translation>
     </message>
     <message>
-        <source>Clear all tags</source>
-        <translation>Poista kaikki merkinnät</translation>
-    </message>
-    <message>
         <source>Colour label</source>
         <translation>Väritunniste</translation>
     </message>
@@ -15058,10 +15042,6 @@ Jatketaanko?</translation>
     <message>
         <source>Use alpha channel</source>
         <translation>Käytä alfa-kanavaa</translation>
-    </message>
-    <message>
-        <source>Show tagged files</source>
-        <translation>Näytä merkityt tiedostot</translation>
     </message>
     <message>
         <source>Rotate based on EXIF orientation field</source>
@@ -15372,10 +15352,6 @@ Jatketaanko?</translation>
         <translation>Todellinen koko</translation>
     </message>
     <message>
-        <source>Select tagged files</source>
-        <translation>Valitse merkityt tiedostot</translation>
-    </message>
-    <message>
         <source>Search...</source>
         <translation>Etsi...</translation>
     </message>
@@ -15544,10 +15520,6 @@ Jatketaanko?</translation>
         <translation>Järjestä käyttäen</translation>
     </message>
     <message>
-        <source>Untag all</source>
-        <translation>Älä merkitse mitään</translation>
-    </message>
-    <message>
         <source>Show source panels</source>
         <translation>Näytä lähdeikkunat</translation>
     </message>
@@ -15590,10 +15562,6 @@ Jatketaanko?</translation>
     <message>
         <source>Thumbnails + Details</source>
         <translation>Pienoiskuvat + lisätiedot</translation>
-    </message>
-    <message>
-        <source>Tagged file(s)</source>
-        <translation>Merkityt tiedostot</translation>
     </message>
     <message>
         <source>Toolbar</source>
@@ -15780,10 +15748,6 @@ Jatketaanko?</translation>
         <translation>Luontipäivä</translation>
     </message>
     <message>
-        <source>Show tag box</source>
-        <translation>Näytä merkintäruutu</translation>
-    </message>
-    <message>
         <source>Catalog Filter</source>
         <translation>Katalogisuodin</translation>
     </message>
@@ -15806,10 +15770,6 @@ Jatketaanko?</translation>
     <message>
         <source>Catalog</source>
         <translation>Katalogi</translation>
-    </message>
-    <message>
-        <source>Tag/Untag current</source>
-        <translation>Merkitse/poista merkintä</translation>
     </message>
     <message>
         <source>Fit image to desktop</source>
@@ -15900,10 +15860,6 @@ Jatketaanko?</translation>
         <translation>Aseta kategoria</translation>
     </message>
     <message>
-        <source>Untagged file(s)</source>
-        <translation>Merkitsemättömät tiedostot</translation>
-    </message>
-    <message>
         <source>Modified Date</source>
         <translation>Muokkauspäivä</translation>
     </message>
@@ -15950,6 +15906,46 @@ Jatketaanko?</translation>
     <message>
         <source>Film strip 3</source>
         <translation>Filminauha 3</translation>
+    </message>
+    <message>
+        <source>Check/Uncheck current</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checked file(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unchecked file(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select checked files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check/Uncheck</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uncheck all</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear all checks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show checked files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show checkbox</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16809,10 +16805,6 @@ Jatketaanko?</translation>
         <translation>Sovita kuva työpöydälle</translation>
     </message>
     <message>
-        <source>Tag/Untag current</source>
-        <translation>Merkitse/poista merkintä</translation>
-    </message>
-    <message>
         <source>Remove Background</source>
         <translation>Poista tausta</translation>
     </message>
@@ -16999,6 +16991,10 @@ Jatketaanko?</translation>
     <message>
         <source>Remove vertical strip</source>
         <translation>Poista pystysuora raita</translation>
+    </message>
+    <message>
+        <source>Check/Uncheck</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

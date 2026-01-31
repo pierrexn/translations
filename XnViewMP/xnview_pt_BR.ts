@@ -454,10 +454,6 @@ Deseja excluir o favorito &quot;%1&quot;?</translation>
         <translation>Info</translation>
     </message>
     <message>
-        <source>Match</source>
-        <translation>Equivalente</translation>
-    </message>
-    <message>
         <source>&lt;Search results&gt;</source>
         <translation>&lt;Resultados da pesquisa&gt;</translation>
     </message>
@@ -545,14 +541,6 @@ Deseja excluir o favorito &quot;%1&quot;?</translation>
         <translation>Adicionar aos Favoritos</translation>
     </message>
     <message>
-        <source>Click to filter - use Shift and Control for multiple selections.
-Right Click on different items for pop-up menus with actions.
-Drag and Drop over the desired node to assign.</source>
-        <translation>Clique para filtrar - Pressione Shift + Control para realizar múltiplas seleções.
-Clique com o botão direito do mouse em diferentes itens para obter menus pop-up com ações.
-Arraste e solte sobre o nó desejado para atribuir.</translation>
-    </message>
-    <message>
         <source>Add to favorites...</source>
         <translation>Adicionar aos Favoritos...</translation>
     </message>
@@ -574,14 +562,6 @@ Arraste e solte sobre o nó desejado para atribuir.</translation>
     <message>
         <source>The files cannot be renamed, an error occurred.</source>
         <translation>Não foi possível renomear os arquivos, ocorreu um erro.</translation>
-    </message>
-    <message>
-        <source>Match any selected entry (OR)</source>
-        <translation>Corresponder a qualquer entrada selecionada (OU)</translation>
-    </message>
-    <message>
-        <source>Match all selected entries (AND)</source>
-        <translation>Corresponder a todas as entradas selecionadas (E)</translation>
     </message>
     <message>
         <source>Catalog Filter</source>
@@ -624,8 +604,20 @@ Arraste e solte sobre o nó desejado para atribuir.</translation>
         <translation type="unfinished">Miniaturas</translation>
     </message>
     <message>
-        <source>Settings</source>
-        <translation type="unfinished">Configurações</translation>
+        <source>AND</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Match&lt;/b&gt;&lt;br&gt;OR - match any selected entry&lt;br&gt;AND - match all selected entries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi - select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right - click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1572,10 +1564,6 @@ Arraste e solte sobre o nó desejado para atribuir.</translation>
         <translation>Rótulo de cor</translation>
     </message>
     <message>
-        <source>Tag (%1)</source>
-        <translation>Etiqueta (%1)</translation>
-    </message>
-    <message>
         <source>Special Items</source>
         <translation>Itens Especiais</translation>
     </message>
@@ -1644,16 +1632,20 @@ Arraste e solte sobre o nó desejado para atribuir.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>No Smart Album</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Square</source>
         <translation type="unfinished">Quadrado</translation>
     </message>
     <message>
         <source>Categories</source>
         <translation type="unfinished">Categorias</translation>
+    </message>
+    <message>
+        <source>Check (%1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8846,10 +8838,6 @@ Deseja removê-los da lista?</translation>
         <translation>Pré-visualizar cor de fundo</translation>
     </message>
     <message>
-        <source>Tag</source>
-        <translation>Etiqueta</translation>
-    </message>
-    <message>
         <source>After an operation</source>
         <translation>Após uma operação</translation>
     </message>
@@ -8892,10 +8880,6 @@ Deseja removê-los da lista?</translation>
     <message>
         <source>Show ratings</source>
         <translation>Exibir avaliações</translation>
-    </message>
-    <message>
-        <source>Clear the list of tagged files</source>
-        <translation>Limpar a lista de arquivos marcados</translation>
     </message>
     <message>
         <source>ToolBar</source>
@@ -8995,6 +8979,14 @@ Deseja removê-los da lista?</translation>
     </message>
     <message>
         <source>Show &apos;Desktop&apos; in folder tree</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear the list of checked files</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10643,10 +10635,6 @@ Deseja reatribuir?</translation>
         <translation>Atalho</translation>
     </message>
     <message>
-        <source>Tag</source>
-        <translation>Etiqueta</translation>
-    </message>
-    <message>
         <source>Automatic rotation</source>
         <translation>Rotação automática</translation>
     </message>
@@ -10805,6 +10793,10 @@ Deseja reatribuir?</translation>
     <message>
         <source>Use transparency grid</source>
         <translation type="unfinished">Usar grade de transparência</translation>
+    </message>
+    <message>
+        <source>Check</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13038,10 +13030,6 @@ Deseja excluir o favorito &quot;%1&quot;?</translation>
         <translation>Rótulo de cor</translation>
     </message>
     <message>
-        <source>Tag</source>
-        <translation>Etiqueta</translation>
-    </message>
-    <message>
         <source>Comment</source>
         <translation>Comentário</translation>
     </message>
@@ -13383,6 +13371,10 @@ Deseja excluir o favorito &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>File path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15146,10 +15138,6 @@ Deseja continuar?</translation>
         <translation>Selecionar todas as imagens</translation>
     </message>
     <message>
-        <source>Select tagged files</source>
-        <translation>Selecionar arquivos com etiquetas</translation>
-    </message>
-    <message>
         <source>Paste as image</source>
         <translation>Colar como imagem</translation>
     </message>
@@ -15214,22 +15202,6 @@ Deseja continuar?</translation>
         <translation>Inverter</translation>
     </message>
     <message>
-        <source>Untag all</source>
-        <translation>Excluir todas as etiquetas</translation>
-    </message>
-    <message>
-        <source>Clear all tags</source>
-        <translation>Limpar todas as etiquetas</translation>
-    </message>
-    <message>
-        <source>Show tagged files</source>
-        <translation>Mostrar arquivos marcados</translation>
-    </message>
-    <message>
-        <source>Show tag box</source>
-        <translation>Mostrar caixa de etiquetas</translation>
-    </message>
-    <message>
         <source>Layout</source>
         <translation>Layout</translation>
     </message>
@@ -15248,10 +15220,6 @@ Deseja continuar?</translation>
     <message>
         <source>Thumbnails size</source>
         <translation>Tamanho das miniaturas</translation>
-    </message>
-    <message>
-        <source>Tag</source>
-        <translation>Etiqueta</translation>
     </message>
     <message>
         <source>Up</source>
@@ -15492,10 +15460,6 @@ Deseja continuar?</translation>
     <message>
         <source>Open file list...</source>
         <translation>Abrir lista de arquivos...</translation>
-    </message>
-    <message>
-        <source>Tagged file(s)</source>
-        <translation>Arquivo(s) etiquetado(s)</translation>
     </message>
     <message>
         <source>Selected path(s)</source>
@@ -15846,10 +15810,6 @@ Deseja continuar?</translation>
         <translation>Catálogo</translation>
     </message>
     <message>
-        <source>Tag/Untag current</source>
-        <translation>Marcar/Desmarcar atual</translation>
-    </message>
-    <message>
         <source>Fit image to desktop</source>
         <translation>Ajustar imagem à área de trabalho</translation>
     </message>
@@ -15896,10 +15856,6 @@ Deseja continuar?</translation>
     <message>
         <source>Modified Date</source>
         <translation>Data de Modificação</translation>
-    </message>
-    <message>
-        <source>Untagged file(s)</source>
-        <translation>Arquivo(s) não marcado(s)</translation>
     </message>
     <message>
         <source>##rating## (go to next image)</source>
@@ -15952,6 +15908,46 @@ Deseja continuar?</translation>
     <message>
         <source>Film strip 3</source>
         <translation type="unfinished">Faixa de filme 3</translation>
+    </message>
+    <message>
+        <source>Check/Uncheck current</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checked file(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unchecked file(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select checked files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check/Uncheck</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uncheck all</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear all checks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show checked files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show checkbox</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16811,10 +16807,6 @@ Deseja continuar?</translation>
         <translation>Ajustar imagem à área de trabalho</translation>
     </message>
     <message>
-        <source>Tag/Untag current</source>
-        <translation>Marcar/Desmarcar atual</translation>
-    </message>
-    <message>
         <source>Remove Background</source>
         <translation>Remover Fundo</translation>
     </message>
@@ -17000,6 +16992,10 @@ Deseja continuar?</translation>
     </message>
     <message>
         <source>Remove vertical strip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check/Uncheck</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

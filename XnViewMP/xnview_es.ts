@@ -450,16 +450,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Error</translation>
     </message>
     <message>
-        <source>Match</source>
-        <translation>Incluir</translation>
-    </message>
-    <message>
         <source>The files cannot be renamed, an error occurred.</source>
         <translation>No se puede cambiar el nombre de los archivos, se ha producido un error.</translation>
-    </message>
-    <message>
-        <source>Match any selected entry (OR)</source>
-        <translation>Coincidir con cualquier entrada seleccionada (OR)</translation>
     </message>
     <message>
         <source>Add to favorites...</source>
@@ -488,14 +480,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Attach preview panel</source>
         <translation>Añadir panel de vista previa</translation>
-    </message>
-    <message>
-        <source>Click to filter - use Shift and Control for multiple selections.
-Right Click on different items for pop-up menus with actions.
-Drag and Drop over the desired node to assign.</source>
-        <translation>Clic para filtrar - use Mayús y Control para selecciones múltiples.
-Clic derecho en diferentes elementos para menús emergentes con acciones.
-Arrastre y suelte sobre el nodo deseado para asignar.</translation>
     </message>
     <message>
         <source>Properties</source>
@@ -568,10 +552,6 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
         <translation>Personalizar barra de herramientas...</translation>
     </message>
     <message>
-        <source>Match all selected entries (AND)</source>
-        <translation>Coincidir con todas las entradas seleccionadas (AND)</translation>
-    </message>
-    <message>
         <source>This folder doesn&apos;t exist!</source>
         <translation>¡Esta carpeta no existe!</translation>
     </message>
@@ -624,8 +604,20 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
         <translation type="unfinished">Miniaturas</translation>
     </message>
     <message>
-        <source>Settings</source>
-        <translation type="unfinished">Configuración</translation>
+        <source>AND</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Match&lt;/b&gt;&lt;br&gt;OR - match any selected entry&lt;br&gt;AND - match all selected entries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi - select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right - click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1588,10 +1580,6 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
         <translation>Calificación</translation>
     </message>
     <message>
-        <source>Tag (%1)</source>
-        <translation>Marca (%1)</translation>
-    </message>
-    <message>
         <source>No rating</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1644,16 +1632,20 @@ Arrastre y suelte sobre el nodo deseado para asignar.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>No Smart Album</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Square</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Categories</source>
         <translation type="unfinished">Categorías</translation>
+    </message>
+    <message>
+        <source>Check (%1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8831,10 +8823,6 @@ Do you want to remove them?</source>
 <context>
     <name>DlgSettingsBrowserClass</name>
     <message>
-        <source>Tag</source>
-        <translation>Marcas</translation>
-    </message>
-    <message>
         <source>List</source>
         <translation>Lista</translation>
     </message>
@@ -8865,10 +8853,6 @@ Do you want to remove them?</source>
     <message>
         <source>Quick search</source>
         <translation>Búsqueda rápida</translation>
-    </message>
-    <message>
-        <source>Clear the list of tagged files</source>
-        <translation>Limpiar lista de archivos marcados</translation>
     </message>
     <message>
         <source>View scroll the content by thumbnail</source>
@@ -8992,6 +8976,14 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Show &apos;Desktop&apos; in folder tree</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear the list of checked files</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10572,10 +10564,6 @@ Do you want to reassign?</source>
         <translation>%</translation>
     </message>
     <message>
-        <source>Tag</source>
-        <translation>Casilla de Marca</translation>
-    </message>
-    <message>
         <source>Left</source>
         <translation>Izquierda</translation>
     </message>
@@ -10802,6 +10790,10 @@ Do you want to reassign?</source>
     <message>
         <source>Use transparency grid</source>
         <translation type="unfinished">Utilizar rejilla transparente</translation>
+    </message>
+    <message>
+        <source>Check</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12959,10 +12951,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>DPI</translation>
     </message>
     <message>
-        <source>Tag</source>
-        <translation>Marca</translation>
-    </message>
-    <message>
         <source>Date</source>
         <translation>Fecha</translation>
     </message>
@@ -13376,6 +13364,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>File path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14886,10 +14878,6 @@ Do you want to continue?</source>
         <translation>Cortar</translation>
     </message>
     <message>
-        <source>Tag</source>
-        <translation>Marcas</translation>
-    </message>
-    <message>
         <source>100%</source>
         <translation>100%</translation>
     </message>
@@ -15002,10 +14990,6 @@ Do you want to continue?</source>
         <translation>Relación</translation>
     </message>
     <message>
-        <source>Clear all tags</source>
-        <translation>Limpiar todas las marcas</translation>
-    </message>
-    <message>
         <source>Colour label</source>
         <translation>Etiqueta de color</translation>
     </message>
@@ -15052,10 +15036,6 @@ Do you want to continue?</source>
     <message>
         <source>Use alpha channel</source>
         <translation>Utilizar canal alfa</translation>
-    </message>
-    <message>
-        <source>Show tagged files</source>
-        <translation>Mostrar archivos marcados</translation>
     </message>
     <message>
         <source>Rotate based on EXIF orientation field</source>
@@ -15362,10 +15342,6 @@ Do you want to continue?</source>
         <translation>Tamaño real</translation>
     </message>
     <message>
-        <source>Select tagged files</source>
-        <translation>Seleccionar archivos marcados</translation>
-    </message>
-    <message>
         <source>Search...</source>
         <translation>Buscar...</translation>
     </message>
@@ -15530,10 +15506,6 @@ Do you want to continue?</source>
         <translation>Ordenar por</translation>
     </message>
     <message>
-        <source>Untag all</source>
-        <translation>Desmarcar todos</translation>
-    </message>
-    <message>
         <source>Show source panels</source>
         <translation>Mostrar paneles de origen</translation>
     </message>
@@ -15576,10 +15548,6 @@ Do you want to continue?</source>
     <message>
         <source>Thumbnails + Details</source>
         <translation>Miniaturas + Detalles</translation>
-    </message>
-    <message>
-        <source>Tagged file(s)</source>
-        <translation>Archivo(s) marcado(s)</translation>
     </message>
     <message>
         <source>Toolbar</source>
@@ -15762,10 +15730,6 @@ Do you want to continue?</source>
         <translation>Fecha de creación</translation>
     </message>
     <message>
-        <source>Show tag box</source>
-        <translation>Mostrar casilla de marca</translation>
-    </message>
-    <message>
         <source>Video thumbnails gallery...</source>
         <translation>Galería de miniaturas de vídeo...</translation>
     </message>
@@ -15800,10 +15764,6 @@ Do you want to continue?</source>
     <message>
         <source>Catalog</source>
         <translation>Catálogo</translation>
-    </message>
-    <message>
-        <source>Tag/Untag current</source>
-        <translation>Marcar/Desmarcar actual</translation>
     </message>
     <message>
         <source>Fit image to desktop</source>
@@ -15894,10 +15854,6 @@ Do you want to continue?</source>
         <translation>Establecer categoría</translation>
     </message>
     <message>
-        <source>Untagged file(s)</source>
-        <translation>Archivo(s) sin etiquetar</translation>
-    </message>
-    <message>
         <source>Modified Date</source>
         <translation>Fecha de modificación</translation>
     </message>
@@ -15944,6 +15900,46 @@ Do you want to continue?</source>
     <message>
         <source>Film strip 3</source>
         <translation type="unfinished">Cinta de imágenes abajo {3?}</translation>
+    </message>
+    <message>
+        <source>Check/Uncheck current</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checked file(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unchecked file(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select checked files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check/Uncheck</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uncheck all</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear all checks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show checked files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show checkbox</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16803,10 +16799,6 @@ Do you want to continue?</source>
         <translation>Ajustar imagen al escritorio</translation>
     </message>
     <message>
-        <source>Tag/Untag current</source>
-        <translation>Marcar/Desmarcar actual</translation>
-    </message>
-    <message>
         <source>Remove Background</source>
         <translation>Eliminar fondo</translation>
     </message>
@@ -16992,6 +16984,10 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Remove vertical strip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check/Uncheck</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

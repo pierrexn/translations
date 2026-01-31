@@ -446,10 +446,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Սխալ</translation>
     </message>
     <message>
-        <source>Match</source>
-        <translation>Համապատասխան</translation>
-    </message>
-    <message>
         <source>Delete items</source>
         <translation>Ջնջել միույթները</translation>
     </message>
@@ -545,14 +541,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Ավելացնել Ընտրյալներին</translation>
     </message>
     <message>
-        <source>Click to filter - use Shift and Control for multiple selections.
-Right Click on different items for pop-up menus with actions.
-Drag and Drop over the desired node to assign.</source>
-        <translation>Click to filter - use Shift and Control for multiple selections.
-Right Click on different items for pop-up menus with actions.
-Drag and Drop over the desired node to assign.</translation>
-    </message>
-    <message>
         <source>Add to favorites...</source>
         <translation>Ավելացնել ընտրյալներին...</translation>
     </message>
@@ -574,14 +562,6 @@ Drag and Drop over the desired node to assign.</translation>
     <message>
         <source>The files cannot be renamed, an error occurred.</source>
         <translation>Սխալ, ֆայլը հնարավոր չէ վերանվանել:</translation>
-    </message>
-    <message>
-        <source>Match any selected entry (OR)</source>
-        <translation>Համապատասխանում է ցանկացած ընտրված գրառում (OR)</translation>
-    </message>
-    <message>
-        <source>Match all selected entries (AND)</source>
-        <translation>Համապատասխանում է բոլոր ընտրված գրառումներին (AND)</translation>
     </message>
     <message>
         <source>Catalog Filter</source>
@@ -624,8 +604,20 @@ Drag and Drop over the desired node to assign.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Settings</source>
-        <translation type="unfinished">Կարգավորումներ</translation>
+        <source>AND</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Match&lt;/b&gt;&lt;br&gt;OR - match any selected entry&lt;br&gt;AND - match all selected entries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi - select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right - click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1584,10 +1576,6 @@ Drag and Drop over the desired node to assign.</translation>
         <translation>Գնահատական</translation>
     </message>
     <message>
-        <source>Tag (%1)</source>
-        <translation>Պիտակ (%1)</translation>
-    </message>
-    <message>
         <source>People</source>
         <translation>Մարդիկ</translation>
     </message>
@@ -1644,15 +1632,19 @@ Drag and Drop over the desired node to assign.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>No Smart Album</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Square</source>
         <translation type="unfinished">Քառակուսի</translation>
     </message>
     <message>
         <source>Categories</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check (%1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8830,10 +8822,6 @@ Do you want to remove them?</source>
 <context>
     <name>DlgSettingsBrowserClass</name>
     <message>
-        <source>Tag</source>
-        <translation>Պիտակ</translation>
-    </message>
-    <message>
         <source>Misc.</source>
         <translation>Տարբեր</translation>
     </message>
@@ -8888,10 +8876,6 @@ Do you want to remove them?</source>
     <message>
         <source>View scroll the content by thumbnail</source>
         <translation>Սղեցնելով դիտել բովանդակությունը</translation>
-    </message>
-    <message>
-        <source>Clear the list of tagged files</source>
-        <translation>Մաքրել կցված ֆայլերի ցուցակը</translation>
     </message>
     <message>
         <source>ToolBar</source>
@@ -8991,6 +8975,14 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Show &apos;Desktop&apos; in folder tree</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear the list of checked files</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10571,10 +10563,6 @@ Do you want to reassign?</source>
         <translation>%</translation>
     </message>
     <message>
-        <source>Tag</source>
-        <translation>Պիտակ</translation>
-    </message>
-    <message>
         <source>Left</source>
         <translation>Ձախ</translation>
     </message>
@@ -10801,6 +10789,10 @@ Do you want to reassign?</source>
     <message>
         <source>Use transparency grid</source>
         <translation type="unfinished">Օգտագործել թափանցիկության ցանց</translation>
+    </message>
+    <message>
+        <source>Check</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12958,10 +12950,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>DPI</translation>
     </message>
     <message>
-        <source>Tag</source>
-        <translation>Պիտակը</translation>
-    </message>
-    <message>
         <source>Date</source>
         <translation>Ամսաթիվ</translation>
     </message>
@@ -13375,6 +13363,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>File path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14885,10 +14877,6 @@ Do you want to continue?</source>
         <translation>Կտրել</translation>
     </message>
     <message>
-        <source>Tag</source>
-        <translation>Պիտակ</translation>
-    </message>
-    <message>
         <source>100%</source>
         <translation>100%</translation>
     </message>
@@ -14973,10 +14961,6 @@ Do you want to continue?</source>
         <translation>Գնահատական</translation>
     </message>
     <message>
-        <source>Clear all tags</source>
-        <translation>Մաքրել տվյալները</translation>
-    </message>
-    <message>
         <source>Colour label</source>
         <translation>Գույնի պիտակ</translation>
     </message>
@@ -15019,10 +15003,6 @@ Do you want to continue?</source>
     <message>
         <source>Use alpha channel</source>
         <translation>Օգտագործել ալֆա ալիքը</translation>
-    </message>
-    <message>
-        <source>Show tagged files</source>
-        <translation>Պիտակված բոլոր ֆայլերը</translation>
     </message>
     <message>
         <source>Rotate based on EXIF orientation field</source>
@@ -15233,10 +15213,6 @@ Do you want to continue?</source>
         <translation>Իրական չափ</translation>
     </message>
     <message>
-        <source>Select tagged files</source>
-        <translation>Ընտրել պիտակված ֆայլերը</translation>
-    </message>
-    <message>
         <source>Search...</source>
         <translation>Որոնում...</translation>
     </message>
@@ -15369,10 +15345,6 @@ Do you want to continue?</source>
         <translation>Խմբավորել ըստ՝</translation>
     </message>
     <message>
-        <source>Untag all</source>
-        <translation>Հանել պիտակները</translation>
-    </message>
-    <message>
         <source>Histogram</source>
         <translation>Շերտագիր</translation>
     </message>
@@ -15395,10 +15367,6 @@ Do you want to continue?</source>
     <message>
         <source>Thumbnails + Details</source>
         <translation>Մանրապատկեր + Մանրամասնություններ</translation>
-    </message>
-    <message>
-        <source>Tagged file(s)</source>
-        <translation>Պիտակված ֆայլեր</translation>
     </message>
     <message>
         <source>Toolbar</source>
@@ -15519,10 +15487,6 @@ Do you want to continue?</source>
     <message>
         <source>Created Date</source>
         <translation>Ստեղծելու ամսաթիվ</translation>
-    </message>
-    <message>
-        <source>Show tag box</source>
-        <translation>Ցուցադրել պիտակները</translation>
     </message>
     <message>
         <source>Remove from category</source>
@@ -15801,10 +15765,6 @@ Do you want to continue?</source>
         <translation>Գրացուցակ</translation>
     </message>
     <message>
-        <source>Tag/Untag current</source>
-        <translation>Պիտակել/հանել պիտակը</translation>
-    </message>
-    <message>
         <source>Fit image to desktop</source>
         <translation>Հարմարեցնել պատկերը աշխատասեղանին</translation>
     </message>
@@ -15893,10 +15853,6 @@ Do you want to continue?</source>
         <translation>Կայել անվանակարգ</translation>
     </message>
     <message>
-        <source>Untagged file(s)</source>
-        <translation>Չպիտակավորված ֆայլ(եր)</translation>
-    </message>
-    <message>
         <source>Modified Date</source>
         <translation>Փոփոխված ամսաթիվ</translation>
     </message>
@@ -15943,6 +15899,46 @@ Do you want to continue?</source>
     <message>
         <source>Film strip 3</source>
         <translation type="unfinished">Լայն գիծ 3</translation>
+    </message>
+    <message>
+        <source>Check/Uncheck current</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checked file(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unchecked file(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select checked files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check/Uncheck</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uncheck all</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear all checks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show checked files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show checkbox</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16802,10 +16798,6 @@ Do you want to continue?</source>
         <translation>Հարմարեցնել պատկերը աշխատասեղանին</translation>
     </message>
     <message>
-        <source>Tag/Untag current</source>
-        <translation>Պիտակել/հանել պիտակը</translation>
-    </message>
-    <message>
         <source>Remove Background</source>
         <translation>Հեռացնել խորքը</translation>
     </message>
@@ -16991,6 +16983,10 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Remove vertical strip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check/Uncheck</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
