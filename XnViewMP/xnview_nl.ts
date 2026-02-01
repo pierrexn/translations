@@ -666,23 +666,23 @@ Wil je de favoriet &quot;%1&quot; verwijderen?</translation>
         <location filename="BrowserWindow.cpp" line="2007"/>
         <location filename="BrowserWindow.cpp" line="2019"/>
         <source>AND</source>
-        <translation type="unfinished">EN</translation>
+        <translation>EN</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2007"/>
         <location filename="BrowserWindow.cpp" line="2013"/>
         <source>OR</source>
-        <translation type="unfinished">OF</translation>
+        <translation>OF</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2008"/>
         <source>&lt;b&gt;Match&lt;/b&gt;&lt;br&gt;OR - match any selected entry&lt;br&gt;AND - match all selected entries</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Overeenkomst&lt;/b&gt;&lt;br&gt;OF - overeenkomst met elke geselecteerde invoer&lt;br&gt;EN - overeenkomst met alle geselecteerde invoer</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2070"/>
         <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi - select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right - click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Catalogusfilter&lt;/b&gt;&lt;br&gt;Linkermuisknop - filteren&lt;br&gt;&amp;bull; Shift/Ctrl - meervoudige selectie&lt;br&gt;&amp;bull; Alt - items uitsluiten&lt;br&gt;Rechtermuisknop - opties openen&lt;br&gt;Slepen &amp; neerzetten op een knooppunt - toewijzen</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3478"/>
@@ -2098,12 +2098,12 @@ Wil je de favoriet &quot;%1&quot; verwijderen?</translation>
         <location filename="DBFilterModel.cpp" line="240"/>
         <location filename="DBFilterModel.cpp" line="541"/>
         <source>Check (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Markeren (%1)</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="240"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Markeren</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1450"/>
@@ -11472,7 +11472,7 @@ Wil je ze verwijderen?</translation>
         <location filename="DlgSettingsBrowser.ui" line="412"/>
         <source>Clear the list of checked files</source>
         <oldsource>Clear the list of tagged files</oldsource>
-        <translation type="unfinished">Lijst met gelabelde bestanden wissen</translation>
+        <translation>Lijst met gemarkeerde bestanden wissen</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="420"/>
@@ -11517,7 +11517,7 @@ Wil je ze verwijderen?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="404"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Markeren</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="472"/>
@@ -13327,7 +13327,7 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsInterface.ui" line="1968"/>
         <location filename="DlgSettingsInterface.ui" line="2037"/>
         <source>Make selection</source>
-        <translation>Selecteren</translation>
+        <translation>Maak een selectie</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1601"/>
@@ -13780,7 +13780,7 @@ Opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="722"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Markeren</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="904"/>
@@ -17054,7 +17054,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <message>
         <location filename="ItemModel.cpp" line="1051"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Markeren</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1057"/>
@@ -19780,13 +19780,13 @@ Doorgaan?</translation>
         <location filename="BrowserMenu.h" line="84"/>
         <source>Checked file(s)</source>
         <oldsource>Tagged file(s)</oldsource>
-        <translation type="unfinished">Gelabelde bestand(en)</translation>
+        <translation>Gemarkeerde bestand(en)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="85"/>
         <source>Unchecked file(s)</source>
         <oldsource>Untagged file(s)</oldsource>
-        <translation type="unfinished">Bestand(en) zonder label</translation>
+        <translation>Ongemarkeerde bestand(en)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="322"/>
@@ -19801,7 +19801,7 @@ Doorgaan?</translation>
     <message>
         <location filename="BrowserMenu.h" line="456"/>
         <source>Check/Uncheck</source>
-        <translation type="unfinished"></translation>
+        <translation>Wel/niet markeren</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="488"/>
@@ -19811,7 +19811,7 @@ Doorgaan?</translation>
     <message>
         <location filename="BrowserMenu.h" line="506"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Markeren</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="507"/>
@@ -20370,7 +20370,7 @@ Doorgaan?</translation>
         <location filename="BrowserMenu.h" line="436"/>
         <source>Select checked files</source>
         <oldsource>Select tagged files</oldsource>
-        <translation type="unfinished">Gelabelde bestanden selecteren</translation>
+        <translation>Gemarkeerde bestanden selecteren</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4467"/>
@@ -20454,7 +20454,7 @@ Doorgaan?</translation>
         <location filename="CompareWidget.cpp" line="462"/>
         <source>Check/Uncheck current</source>
         <oldsource>Tag/Untag current</oldsource>
-        <translation type="unfinished">Label toevoegen/verwijderen</translation>
+        <translation>Huidige markeren/onmarkeren</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="457"/>
@@ -20465,25 +20465,25 @@ Doorgaan?</translation>
         <location filename="BrowserMenu.h" line="458"/>
         <source>Uncheck all</source>
         <oldsource>Untag all</oldsource>
-        <translation type="unfinished">Alle labels wegnemen</translation>
+        <translation>Alle markeringen verwijderen</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="459"/>
         <source>Clear all checks</source>
         <oldsource>Clear all tags</oldsource>
-        <translation type="unfinished">Alle labels wissen</translation>
+        <translation>Alle markeringen wissen</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="460"/>
         <source>Show checked files</source>
         <oldsource>Show tagged files</oldsource>
-        <translation type="unfinished">Gelabelde bestanden weergeven</translation>
+        <translation>Gemarkeerde bestanden weergeven</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="461"/>
         <source>Show checkbox</source>
         <oldsource>Show tag box</oldsource>
-        <translation type="unfinished">Labels weergeven</translation>
+        <translation>Markering weergeven</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="501"/>
@@ -21497,7 +21497,7 @@ Doorgaan?</translation>
     <message>
         <location filename="ViewMenu.h" line="363"/>
         <source>Check/Uncheck</source>
-        <translation type="unfinished"></translation>
+        <translation>Markeren/onmarkeren</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="372"/>
