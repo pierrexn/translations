@@ -607,19 +607,19 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>AND</source>
-        <translation type="unfinished">ȘI</translation>
+        <translation>ȘI</translation>
     </message>
     <message>
         <source>OR</source>
-        <translation type="unfinished">SAU</translation>
+        <translation>SAU</translation>
     </message>
     <message>
         <source>&lt;b&gt;Match&lt;/b&gt;&lt;br&gt;OR - match any selected entry&lt;br&gt;AND - match all selected entries</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Potrivire&lt;/b&gt;&lt;br&gt;SAU - potrivește orice intrare selectată&lt;br&gt;ȘI - potrivește toate intrările selectate</translation>
     </message>
     <message>
         <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi - select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right - click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Filtrul de catalog&lt;/b&gt;&lt;br&gt;Dă clic stânga pentru filtrare&lt;br&gt;&amp;bull; Shift/Ctrl - selectare multiplă&lt;br&gt;&amp;bull; Alt - exclude elementele&lt;br&gt;Dă clic dreapta ca să deschizi opțiunile nodului&lt;br&gt;Trage și plasează pe un nod ca să-l atribui (undeva)</translation>
     </message>
 </context>
 <context>
@@ -870,7 +870,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Delete file</source>
-        <translation>Sterge fişierul</translation>
+        <translation>Șterge fişierul</translation>
     </message>
     <message>
         <source>Copy to</source>
@@ -878,7 +878,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Histogram</source>
-        <translation>Histogram</translation>
+        <translation>Histogramă</translation>
     </message>
     <message>
         <source>Best fit</source>
@@ -894,7 +894,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Tabs</source>
-        <translation>File</translation>
+        <translation>File (Tab-uri)</translation>
     </message>
     <message>
         <source>Navigator</source>
@@ -905,11 +905,11 @@ Vrei să ștergi favoritul „%1”?</translation>
     <name>CompareWindow</name>
     <message>
         <source>None</source>
-        <translation>Nmic</translation>
+        <translation>Nimic</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Dreapta</translation>
+        <translation>În dreapta</translation>
     </message>
     <message>
         <source>Thumbnails</source>
@@ -917,7 +917,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation>Fund</translation>
+        <translation>În jos</translation>
     </message>
     <message>
         <source>Compare</source>
@@ -943,19 +943,19 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Band</source>
-        <translation>Grup</translation>
+        <translation>Bandă</translation>
     </message>
     <message>
         <source>Blur</source>
-        <translation>Estompare</translation>
+        <translation>Estompează</translation>
     </message>
     <message>
         <source>Crop</source>
-        <translation>Decupare</translation>
+        <translation>Decupează</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Stânga</translation>
+        <translation>În stânga</translation>
     </message>
     <message>
         <source>Lens</source>
@@ -991,7 +991,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Dreapta</translation>
+        <translation>În dreapta</translation>
     </message>
     <message>
         <source>Sepia</source>
@@ -1063,7 +1063,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation>Sus în dreapta</translation>
+        <translation>În dreapta sus</translation>
     </message>
     <message>
         <source>Maximum</source>
@@ -1167,7 +1167,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation>Stânga jos</translation>
+        <translation>În stânga jos</translation>
     </message>
     <message>
         <source>Solarize</source>
@@ -1175,7 +1175,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation>Stânga sus</translation>
+        <translation>În stânga sus</translation>
     </message>
     <message>
         <source>QR Code</source>
@@ -1355,7 +1355,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation>Dreapta-jos</translation>
+        <translation>În dreapta jos</translation>
     </message>
     <message>
         <source>Temperature</source>
@@ -1643,11 +1643,11 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Check (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Verifică (%1)</translation>
     </message>
     <message>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Bifează</translation>
     </message>
 </context>
 <context>
@@ -1800,7 +1800,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     <name>DlgBannerClass</name>
     <message>
         <source>Top</source>
-        <translation>Sus</translation>
+        <translation>În sus</translation>
     </message>
     <message>
         <source>Font</source>
@@ -1808,7 +1808,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Stânga</translation>
+        <translation>În stânga</translation>
     </message>
     <message>
         <source>Size</source>
@@ -1824,15 +1824,15 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Dreapta</translation>
+        <translation>În dreapta</translation>
     </message>
     <message>
         <source>Right (bottom-top)</source>
-        <translation>Dreapta (jos-sus)</translation>
+        <translation>La dreapta (jos-sus)</translation>
     </message>
     <message>
         <source>Banner</source>
-        <translation>Pancartă</translation>
+        <translation>Pancartă (Banner)</translation>
     </message>
     <message>
         <source>Border</source>
@@ -1840,7 +1840,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation>Jos</translation>
+        <translation>În jos</translation>
     </message>
     <message>
         <source>Center</source>
@@ -3299,11 +3299,11 @@ Vrei să continui?</translation>
     <name>DlgConvertAutoCropClass</name>
     <message>
         <source>Top</source>
-        <translation>Sus</translation>
+        <translation>În sus</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Stânga</translation>
+        <translation>În stânga</translation>
     </message>
     <message>
         <source>Color</source>
@@ -3311,7 +3311,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Dreapta</translation>
+        <translation>În dreapta</translation>
     </message>
     <message>
         <source>Tolerance</source>
@@ -3319,7 +3319,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation>Jos</translation>
+        <translation>În jos</translation>
     </message>
     <message>
         <source>Color of pixel at</source>
@@ -3486,7 +3486,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation>Stânga sus</translation>
+        <translation>În stânga sus</translation>
     </message>
     <message>
         <source>Top-Center</source>
@@ -3494,7 +3494,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation>Dreapta sus</translation>
+        <translation>În dreapta sus</translation>
     </message>
     <message>
         <source>Center-Left</source>
@@ -3510,7 +3510,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation>Stânga jos</translation>
+        <translation>În stânga jos</translation>
     </message>
     <message>
         <source>Bottom-Center</source>
@@ -3518,7 +3518,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation>Dreapta jos</translation>
+        <translation>În dreapta jos</translation>
     </message>
 </context>
 <context>
@@ -3629,7 +3629,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation>Stânga sus</translation>
+        <translation>În stânga sus</translation>
     </message>
     <message>
         <source>Top-Center</source>
@@ -3637,7 +3637,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation>Dreapta sus</translation>
+        <translation>În dreapta sus</translation>
     </message>
     <message>
         <source>Center-Left</source>
@@ -3649,7 +3649,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation>Stânga jos</translation>
+        <translation>În stânga jos</translation>
     </message>
     <message>
         <source>Bottom-Center</source>
@@ -3657,7 +3657,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation>Dreapta jos</translation>
+        <translation>În dreapta jos</translation>
     </message>
 </context>
 <context>
@@ -3992,7 +3992,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>You can switch between tabs with &apos;space&apos; key</source>
-        <translation>Poți comuta între file cu tasta „space”</translation>
+        <translation>Poți comuta între file (între tab-uri) cu tasta „space” („spațiu”)</translation>
     </message>
     <message>
         <source>Delete original</source>
@@ -4221,15 +4221,15 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation>Sus</translation>
+        <translation>În sus</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Stânga</translation>
+        <translation>În stânga</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Dreapta</translation>
+        <translation>În dreapta</translation>
     </message>
     <message>
         <source>Width</source>
@@ -4237,7 +4237,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation>Jos</translation>
+        <translation>În jos</translation>
     </message>
     <message>
         <source>Height</source>
@@ -4699,7 +4699,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Stânga</translation>
+        <translation>În stânga</translation>
     </message>
     <message>
         <source>Wrap image around</source>
@@ -4707,7 +4707,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Dreapta</translation>
+        <translation>În dreapta</translation>
     </message>
     <message>
         <source>pixels</source>
@@ -4806,7 +4806,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation>Stânga sus</translation>
+        <translation>În stânga sus</translation>
     </message>
     <message>
         <source>Top-Center</source>
@@ -4814,7 +4814,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation>Dreapta jos</translation>
+        <translation>În dreapta sus</translation>
     </message>
     <message>
         <source>Center-Left</source>
@@ -4826,7 +4826,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation>Stânga jos</translation>
+        <translation>În stânga jos</translation>
     </message>
     <message>
         <source>Bottom-Center</source>
@@ -4834,7 +4834,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation>Dreapta jos</translation>
+        <translation>În dreapta jos</translation>
     </message>
 </context>
 <context>
@@ -5290,7 +5290,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation>Stânga sus</translation>
+        <translation>În stânga sus</translation>
     </message>
     <message>
         <source>Top-Center</source>
@@ -5298,7 +5298,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation>Dreapta sus</translation>
+        <translation>În dreapta sus</translation>
     </message>
     <message>
         <source>Center-Left</source>
@@ -5310,7 +5310,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation>Stânga jos</translation>
+        <translation>În stânga jos</translation>
     </message>
     <message>
         <source>Bottom-Center</source>
@@ -5318,7 +5318,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation>Dreapta jos</translation>
+        <translation>În dreapta jos</translation>
     </message>
 </context>
 <context>
@@ -5439,7 +5439,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation>Stânga sus</translation>
+        <translation>În stânga sus</translation>
     </message>
     <message>
         <source>Top-Center</source>
@@ -5447,7 +5447,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation>Dreapta jos</translation>
+        <translation>În dreapta sus</translation>
     </message>
     <message>
         <source>Center-Left</source>
@@ -5459,7 +5459,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation>Stânga jos</translation>
+        <translation>În stânga jos</translation>
     </message>
     <message>
         <source>Bottom-Center</source>
@@ -5467,7 +5467,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation>Dreapta jos</translation>
+        <translation>În dreapta jos</translation>
     </message>
     <message>
         <source>Offset</source>
@@ -5756,7 +5756,7 @@ Dorești să-ți salvezi modificările?</translation>
     </message>
     <message>
         <source>Field values are not loaded because &apos;Do not load field values&apos; is checked</source>
-        <translation>Valorile câmpurilor nu sunt încărcate deoarece „Nu încărca valorile câmpurilor” e bifat</translation>
+        <translation>Valorile câmpurilor nu sunt încărcate deoarece „Nu încărca valorile câmpurilor” e bifată</translation>
     </message>
     <message>
         <source>Load template...</source>
@@ -5896,7 +5896,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     <name>DlgEmailSettings</name>
     <message>
         <source>None</source>
-        <translation>Nmic</translation>
+        <translation>Nimic</translation>
     </message>
     <message>
         <source>Login</source>
@@ -7548,7 +7548,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Top</source>
-        <translation>Sus</translation>
+        <translation>În sus</translation>
     </message>
     <message>
         <source>Font</source>
@@ -7556,11 +7556,11 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Left</source>
-        <translation>Stânga</translation>
+        <translation>În stânga</translation>
     </message>
     <message>
         <source>Rows</source>
-        <translation>Rând</translation>
+        <translation>Rânduri</translation>
     </message>
     <message>
         <source>inch</source>
@@ -7588,7 +7588,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Right</source>
-        <translation>Dreapta</translation>
+        <translation>În dreapta</translation>
     </message>
     <message>
         <source>Units</source>
@@ -7636,7 +7636,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Top-Right</source>
-        <translation>Sus în dreapta</translation>
+        <translation>În dreapta sus</translation>
     </message>
     <message>
         <source>53x71mm (2x3&quot;) [14]</source>
@@ -7652,7 +7652,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Bottom</source>
-        <translation>Partea de jos</translation>
+        <translation>În jos</translation>
     </message>
     <message>
         <source>Center</source>
@@ -7688,11 +7688,11 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation>Stânga jos</translation>
+        <translation>În stânga jos</translation>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation>Stânga sus</translation>
+        <translation>În stânga sus</translation>
     </message>
     <message>
         <source>Print count</source>
@@ -7792,7 +7792,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation>Dreapta-jos</translation>
+        <translation>În dreapta jos</translation>
     </message>
     <message>
         <source>Print as grayscale</source>
@@ -8525,7 +8525,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation>Stânga sus</translation>
+        <translation>În stânga sus</translation>
     </message>
     <message>
         <source>Top-Center</source>
@@ -8533,7 +8533,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation>Dreapta sus</translation>
+        <translation>În dreapta sus</translation>
     </message>
     <message>
         <source>Center-Left</source>
@@ -8545,7 +8545,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation>Stânga jos</translation>
+        <translation>În stânga jos</translation>
     </message>
     <message>
         <source>Bottom-Center</source>
@@ -8553,14 +8553,14 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation>Dreapta jos</translation>
+        <translation>În dreapta jos</translation>
     </message>
 </context>
 <context>
     <name>DlgRotate</name>
     <message>
         <source>Angle:</source>
-        <translation>Unghi:</translation>
+        <translation>Unghiul:</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -8969,7 +8969,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>2 bars (top and bottom)</source>
-        <translation>2 bare (sus și jos)</translation>
+        <translation>2 bare (în sus și în jos)</translation>
     </message>
     <message>
         <source>2 bars (top)</source>
@@ -8997,11 +8997,11 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Bifează</translation>
     </message>
     <message>
         <source>Clear the list of checked files</source>
-        <translation type="unfinished"></translation>
+        <translation>Golește lista de fișiere bifate</translation>
     </message>
 </context>
 <context>
@@ -9525,7 +9525,7 @@ miniatură</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Nmic</translation>
+        <translation>Nimic</translation>
     </message>
     <message>
         <source>inch</source>
@@ -10065,7 +10065,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Tabs</source>
-        <translation>File</translation>
+        <translation>File (Tab-uri)</translation>
     </message>
     <message>
         <source>Quick Slideshow</source>
@@ -10113,7 +10113,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Maximum of view tabs:</source>
-        <translation>Maximul de file de vizualizare:</translation>
+        <translation>Numărul maxim de file (de tab-uri) pentru vizualizare:</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -10253,7 +10253,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Allow multiple Viewer tabs for same file</source>
-        <translation>Permite mai multe file ale Vizualizatorului pentru același fișier</translation>
+        <translation>Permite mai multe file (tab-uri) ale Vizualizatorului pentru același fișier</translation>
     </message>
     <message>
         <source>Select file in Browser when Viewer tab is closed</source>
@@ -10582,7 +10582,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Stânga</translation>
+        <translation>În stânga</translation>
     </message>
     <message>
         <source>Thumbnail cell</source>
@@ -10590,7 +10590,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Dreapta</translation>
+        <translation>În dreapta</translation>
     </message>
     <message>
         <source>Width</source>
@@ -10742,11 +10742,11 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation>Sus</translation>
+        <translation>În sus</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation>Jos</translation>
+        <translation>În jos</translation>
     </message>
     <message>
         <source>Companion</source>
@@ -10810,7 +10810,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Bifează</translation>
     </message>
 </context>
 <context>
@@ -11681,7 +11681,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Right / Bottom</source>
-        <translation>Dreapta / jos</translation>
+        <translation>La dreapta / în jos</translation>
     </message>
     <message>
         <source>Output size</source>
@@ -11888,7 +11888,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Nmic</translation>
+        <translation>Nimic</translation>
     </message>
     <message>
         <source>Speed</source>
@@ -12466,7 +12466,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Nmic</translation>
+        <translation>Nimic</translation>
     </message>
     <message>
         <source>Paeth</source>
@@ -13385,7 +13385,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Bifează</translation>
     </message>
 </context>
 <context>
@@ -13554,7 +13554,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Camera</source>
-        <translation>Aparat foto</translation>
+        <translation>Cameră (Aparat foto)</translation>
     </message>
     <message>
         <source>Thumbnail</source>
@@ -13709,7 +13709,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Camera</source>
-        <translation>Aparat foto</translation>
+        <translation>Cameră (Aparat foto)</translation>
     </message>
     <message>
         <source>Longitude</source>
@@ -14425,11 +14425,11 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation>Sus-dreapta</translation>
+        <translation>În dreapta sus</translation>
     </message>
     <message>
         <source>Camera</source>
-        <translation>Aparat foto</translation>
+        <translation>Cameră (Aparat foto)</translation>
     </message>
     <message>
         <source>Rating</source>
@@ -14437,11 +14437,11 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation>Stânga jos</translation>
+        <translation>În stânga jos</translation>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation>Stânga-sus</translation>
+        <translation>În stânga sus</translation>
     </message>
     <message>
         <source>Annotation</source>
@@ -14465,7 +14465,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation>Dreapta-jos</translation>
+        <translation>În dreapta jos</translation>
     </message>
     <message>
         <source>Color Profile</source>
@@ -15452,7 +15452,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Use tabs</source>
-        <translation>Folosește filele</translation>
+        <translation>Folosește filele (tab-urile)</translation>
     </message>
     <message>
         <source>Remove from category</source>
@@ -15564,7 +15564,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Vertical tabs</source>
-        <translation>File verticale</translation>
+        <translation>File (Tab-uri) verticale</translation>
     </message>
     <message>
         <source>Thumbnails + Details</source>
@@ -15920,43 +15920,43 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Check/Uncheck current</source>
-        <translation type="unfinished"></translation>
+        <translation>Bifează/Debifează elementul actual</translation>
     </message>
     <message>
         <source>Checked file(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișierul verificat (Fișierele verificate)</translation>
     </message>
     <message>
         <source>Unchecked file(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișier debifat (Fișierele debifate)</translation>
     </message>
     <message>
         <source>Select checked files</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectează fișierele verificate</translation>
     </message>
     <message>
         <source>Check/Uncheck</source>
-        <translation type="unfinished"></translation>
+        <translation>Bifează/Debifează</translation>
     </message>
     <message>
         <source>Uncheck all</source>
-        <translation type="unfinished"></translation>
+        <translation>Debifează-le pe toate</translation>
     </message>
     <message>
         <source>Clear all checks</source>
-        <translation type="unfinished"></translation>
+        <translation>Anulează selecția tuturor elementelor</translation>
     </message>
     <message>
         <source>Show checked files</source>
-        <translation type="unfinished"></translation>
+        <translation>Afișează fișierele selectate</translation>
     </message>
     <message>
         <source>Show checkbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Afișează caseta de selectare</translation>
     </message>
     <message>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Bifează</translation>
     </message>
 </context>
 <context>
@@ -15991,7 +15991,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation>Jos</translation>
+        <translation>În jos</translation>
     </message>
     <message>
         <source>Registration...</source>
@@ -16118,7 +16118,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>EXIF - Camera</source>
-        <translation>EXIF - Cameră</translation>
+        <translation>EXIF - Cameră (Aparat foto)</translation>
     </message>
     <message>
         <source>y - Year without century (00-99)</source>
@@ -16153,7 +16153,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation>Sus</translation>
+        <translation>În sus</translation>
     </message>
     <message>
         <source>100%</source>
@@ -16185,7 +16185,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Stânga</translation>
+        <translation>În stânga</translation>
     </message>
     <message>
         <source>Page</source>
@@ -16265,7 +16265,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Dreapta</translation>
+        <translation>În dreapta</translation>
     </message>
     <message>
         <source>US Letter (1.29)</source>
@@ -16373,7 +16373,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation>Jos</translation>
+        <translation>În jos</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -16425,7 +16425,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Old camera...</source>
-        <translation>Cameră veche...</translation>
+        <translation>Cameră veche (Aparat de fotografiat vechi)...</translation>
     </message>
     <message>
         <source>Fit image to window, small only</source>
@@ -17005,7 +17005,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Check/Uncheck</source>
-        <translation type="unfinished"></translation>
+        <translation>Bifează/Debifează</translation>
     </message>
 </context>
 <context>
@@ -17052,7 +17052,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation>Sus în dreapta</translation>
+        <translation>În dreapta sus</translation>
     </message>
     <message>
         <source>An error occurred during processing!</source>
@@ -17068,11 +17068,11 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation>Stânga jos</translation>
+        <translation>În stânga jos</translation>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation>Stânga sus</translation>
+        <translation>În stânga sus</translation>
     </message>
     <message>
         <source>inches</source>
@@ -17088,7 +17088,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Bottom-Center</source>
-        <translation>Centru de jos</translation>
+        <translation>În centru jos</translation>
     </message>
     <message>
         <source>Choose icon</source>
@@ -17116,7 +17116,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation>Dreapta-jos</translation>
+        <translation>În dreapta jos</translation>
     </message>
     <message>
         <source>All Files</source>
@@ -17321,11 +17321,11 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Iconify tabs</source>
-        <translation>Iconizează filele</translation>
+        <translation>Iconizează filele (tab-urile)</translation>
     </message>
     <message>
         <source>Close &amp;other tabs</source>
-        <translation>Închide &amp;alte file</translation>
+        <translation>Închide celel&amp;alte file (tab-uri)</translation>
     </message>
     <message>
         <source>Tab settings...</source>
@@ -17486,7 +17486,7 @@ O poți schimba în Setări › Catalog.</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Stânga</translation>
+        <translation>În stânga</translation>
     </message>
     <message>
         <source>Line</source>
@@ -17514,7 +17514,7 @@ O poți schimba în Setări › Catalog.</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Dreapta</translation>
+        <translation>În dreapta</translation>
     </message>
     <message>
         <source>Zoom in</source>
@@ -17674,11 +17674,11 @@ O poți schimba în Setări › Catalog.</translation>
     </message>
     <message>
         <source>Top-Left</source>
-        <translation>Stânga sus</translation>
+        <translation>În stânga sus</translation>
     </message>
     <message>
         <source>Top-Right</source>
-        <translation>Dreapta sus</translation>
+        <translation>În dreapta sus</translation>
     </message>
     <message>
         <source>Center</source>
@@ -17686,11 +17686,11 @@ O poți schimba în Setări › Catalog.</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
-        <translation>Stânga jos</translation>
+        <translation>În stânga jos</translation>
     </message>
     <message>
         <source>Bottom-Right</source>
-        <translation>Dreapta jos</translation>
+        <translation>În dreapta jos</translation>
     </message>
     <message>
         <source>Margin X</source>
@@ -18709,7 +18709,7 @@ Vrei să păstrezi miniaturile?
     </message>
     <message>
         <source>Saving many tabs may noticeably slow application reopening.</source>
-        <translation>Salvarea multor file poate încetini considerabil redeschiderea aplicației.</translation>
+        <translation>Salvarea multor file (tab-uri) poate încetini considerabil redeschiderea aplicației.</translation>
     </message>
     <message>
         <source>Don&apos;t ask again</source>
