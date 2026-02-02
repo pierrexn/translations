@@ -621,37 +621,27 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
         <translation>Aktueller Ordner mit Unterordnern</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2070"/>
-        <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi - select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right - click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
-        <translation>&lt;b&gt;Katalogfilter&lt;/b&gt;&lt;br&gt;Linksklick zum Filtern&lt;br&gt;;Umschalt/Strg - Mehrfachauswahl&lt;br&gt;;Alt - Elemente ausschließen&lt;br&gt;Rechtsklick zum Öffnen der Knotenoptionen&lt;br&gt;Ziehen und Ablegen auf einen Knoten zum Zuweisen</translation>
-    </message>
-    <message>
-        <location filename="BrowserWindow.cpp" line="2279"/>
+        <location filename="BrowserWindow.cpp" line="2281"/>
         <source>Thumbnails</source>
         <translation>Miniaturbilder</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3472"/>
+        <location filename="BrowserWindow.cpp" line="3474"/>
         <source>&lt;Search results&gt;</source>
         <translation>&lt;Suchergebnisse&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3474"/>
-        <source>&lt;Tagged files&gt;</source>
-        <translation>&lt;Gekennzeichnete Dateien&gt;</translation>
-    </message>
-    <message>
-        <location filename="BrowserWindow.cpp" line="3569"/>
+        <location filename="BrowserWindow.cpp" line="3571"/>
         <source>This folder doesn&apos;t exist!</source>
         <translation>Dieses Verzeichnis ist nicht vorhanden!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3782"/>
+        <location filename="BrowserWindow.cpp" line="3784"/>
         <source>Favorite name:</source>
         <translation>Lesezeichen:</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="4027"/>
+        <location filename="BrowserWindow.cpp" line="4029"/>
         <source>Are you sure to delete these %n item(s)?</source>
         <translation>
             <numerusform>Wollen Sie diese %n Datei wirklich löschen?</numerusform>
@@ -659,13 +649,13 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4111"/>
+        <location filename="BrowserWindow.cpp" line="4113"/>
         <source>The files cannot be renamed, an error occurred.</source>
         <translation>Fehler beim Umbenennen. Die Datei konnte nicht umbenannt werden.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3569"/>
-        <location filename="BrowserWindow.cpp" line="4111"/>
+        <location filename="BrowserWindow.cpp" line="3571"/>
+        <location filename="BrowserWindow.cpp" line="4113"/>
         <source>Error</source>
         <translation>Fehler</translation>
     </message>
@@ -680,22 +670,32 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
         <translation>Histogramm</translation>
     </message>
     <message>
+        <location filename="BrowserWindow.cpp" line="2072"/>
+        <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi-select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right-click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="BrowserWindow.cpp" line="3476"/>
+        <source>&lt;Checked files&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="BrowserWindow.cpp" line="3478"/>
         <source>&lt;Catalog filter results&gt;</source>
         <translation>&lt;Ergebnisse Katalogfilter&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3478"/>
+        <location filename="BrowserWindow.cpp" line="3480"/>
         <source>&lt;files&gt;</source>
         <translation>&lt;Dateien&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4020"/>
+        <location filename="BrowserWindow.cpp" line="4022"/>
         <source>Delete items &amp; companions</source>
         <translation>Dateien und Begleitdateien löschen</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="4021"/>
+        <location filename="BrowserWindow.cpp" line="4023"/>
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
         <translation>
             <numerusform>Wollen Sie wirklich diese %n Datei löschen - %1 Datei gewählt?</numerusform>
@@ -703,37 +703,37 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4474"/>
+        <location filename="BrowserWindow.cpp" line="4476"/>
         <source>Search...</source>
         <translation>Suchen...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4475"/>
+        <location filename="BrowserWindow.cpp" line="4477"/>
         <source>Add to favorites...</source>
         <translation>Zu Favoriten hinzufügen...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4478"/>
+        <location filename="BrowserWindow.cpp" line="4480"/>
         <source>Start slideshow</source>
         <translation>Diashow starten</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4480"/>
+        <location filename="BrowserWindow.cpp" line="4482"/>
         <source>Open in file manager</source>
         <translation>Im Dateimanager öffnen</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4483"/>
+        <location filename="BrowserWindow.cpp" line="4485"/>
         <source>Properties</source>
         <translation>Eigenschaften</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4594"/>
+        <location filename="BrowserWindow.cpp" line="4596"/>
         <source>Load filelist</source>
         <translation>Dateiliste öffnen</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4026"/>
+        <location filename="BrowserWindow.cpp" line="4028"/>
         <source>Delete items</source>
         <translation>Dateien löschen</translation>
     </message>
@@ -755,17 +755,17 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
         <translation>&lt;b&gt;Übereinstimmung&lt;/b&gt;&lt;br&gt;ODER - Übereinstimmung mit einem beliebigen ausgewählten Eintrag&lt;br&gt;UND - Übereinstimmung mit allen ausgewählten Einträgen</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4472"/>
+        <location filename="BrowserWindow.cpp" line="4474"/>
         <source>Show files in subfolders</source>
         <translation>Dateien in Unterordnern anzeigen</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4515"/>
+        <location filename="BrowserWindow.cpp" line="4517"/>
         <source>Delete folder</source>
         <translation>Ordner löschen</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4515"/>
+        <location filename="BrowserWindow.cpp" line="4517"/>
         <source>Are you sure to delete this folder?</source>
         <translation>Wollen Sie diesen Ordner wirklich löschen?</translation>
     </message>
@@ -2065,7 +2065,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="168"/>
         <location filename="DBFilterModel.cpp" line="191"/>
-        <location filename="DBFilterModel.cpp" line="1587"/>
+        <location filename="DBFilterModel.cpp" line="1675"/>
         <source>Date</source>
         <translation>Datum</translation>
     </message>
@@ -2093,50 +2093,51 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
         <translation>Kategorien</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="240"/>
-        <location filename="DBFilterModel.cpp" line="541"/>
+        <location filename="DBFilterModel.cpp" line="248"/>
+        <location filename="DBFilterModel.cpp" line="548"/>
         <source>Check (%1)</source>
         <translation>Kennzeichnung (%1)</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="240"/>
+        <location filename="DBFilterModel.cpp" line="248"/>
+        <location filename="DBFilterModel.cpp" line="548"/>
         <source>Check</source>
         <translation>Kennzeichnung</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1450"/>
-        <location filename="DBFilterModel.cpp" line="1740"/>
-        <location filename="DBFilterModel.cpp" line="2049"/>
-        <location filename="DBFilterModel.cpp" line="2056"/>
-        <location filename="DBFilterModel.cpp" line="2061"/>
-        <location filename="DBFilterModel.cpp" line="2066"/>
-        <location filename="DBFilterModel.cpp" line="2083"/>
-        <location filename="DBFilterModel.cpp" line="2100"/>
+        <location filename="DBFilterModel.cpp" line="1457"/>
+        <location filename="DBFilterModel.cpp" line="1828"/>
+        <location filename="DBFilterModel.cpp" line="2137"/>
+        <location filename="DBFilterModel.cpp" line="2144"/>
+        <location filename="DBFilterModel.cpp" line="2149"/>
+        <location filename="DBFilterModel.cpp" line="2154"/>
+        <location filename="DBFilterModel.cpp" line="2171"/>
+        <location filename="DBFilterModel.cpp" line="2188"/>
         <source>Unknown</source>
         <translation>Unbekannt</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2088"/>
+        <location filename="DBFilterModel.cpp" line="2176"/>
         <source>Landscape</source>
         <translation>Querformat</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2090"/>
+        <location filename="DBFilterModel.cpp" line="2178"/>
         <source>Portrait</source>
         <translation>Hochformat</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2092"/>
+        <location filename="DBFilterModel.cpp" line="2180"/>
         <source>Square</source>
         <translation>Quadrat</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2165"/>
+        <location filename="DBFilterModel.cpp" line="2253"/>
         <source>Panoramic</source>
         <translation>Panorama</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2191"/>
+        <location filename="DBFilterModel.cpp" line="2279"/>
         <source>No Color Profile</source>
         <translation>Kein Farbprofil</translation>
     </message>
@@ -7296,6 +7297,164 @@ Möchten Sie fortfahren?</translation>
     </message>
 </context>
 <context>
+    <name>DlgEditEXIFClass</name>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="14"/>
+        <source>Edit EXIF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="26"/>
+        <source>Manufacturer</source>
+        <translation type="unfinished">Hersteller</translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="36"/>
+        <source>Model</source>
+        <translation type="unfinished">Modell</translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="50"/>
+        <source>Software</source>
+        <translation type="unfinished">Software</translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="64"/>
+        <source>Image description</source>
+        <translation type="unfinished">Bildbeschreibung</translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="78"/>
+        <source>Document name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="92"/>
+        <source>Artist</source>
+        <translation type="unfinished">Künstler</translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="106"/>
+        <source>XP Title</source>
+        <translation type="unfinished">XP Titel</translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="120"/>
+        <source>XP Comment</source>
+        <translation type="unfinished">XP Kommentar</translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="134"/>
+        <source>XP Author</source>
+        <translation type="unfinished">XP Autor</translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="148"/>
+        <source>Copyright</source>
+        <translation type="unfinished">Urheberrecht</translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="162"/>
+        <source>User comment</source>
+        <translation type="unfinished">Benutzerkommentar</translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="176"/>
+        <source>F-Number</source>
+        <translation type="unfinished">F-Nummer</translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="185"/>
+        <source>f/</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="213"/>
+        <source>Focal length</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="222"/>
+        <source>mm</source>
+        <translation type="unfinished">mm</translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="247"/>
+        <source>Lens model</source>
+        <translation type="unfinished">Objektiv-Modell</translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="257"/>
+        <source>Date modified</source>
+        <translation type="unfinished">Geändert</translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="288"/>
+        <source>Date taken</source>
+        <translation type="unfinished">Aufnahmedatum</translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="319"/>
+        <source>Date digitized</source>
+        <translation type="unfinished">Digitalisierungsdatum</translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="350"/>
+        <source>Orientation</source>
+        <translation type="unfinished">Ausrichtung</translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="358"/>
+        <source>0 - Not defined</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="363"/>
+        <source>1 - Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="368"/>
+        <source>2 - Mirror horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="373"/>
+        <source>3 - Rotate 180</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="378"/>
+        <source>4 - Mirror vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="383"/>
+        <source>5 - Mirror horizontal and rotate 270 CW</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="388"/>
+        <source>6 - Rotate 90 CW</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="393"/>
+        <source>7 - Mirror horizontal and rotate 90 CW</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="398"/>
+        <source>8 - Rotate 270 CW</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="424"/>
+        <source>Write</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>DlgEditFavClass</name>
     <message>
         <location filename="DlgEditFav.ui" line="14"/>
@@ -11330,7 +11489,7 @@ Möchten Sie sie entfernen?</translation>
         <translation>Bildverwaltung</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="119"/>
+        <location filename="DlgSettingsBrowser.ui" line="145"/>
         <source>Use tooltips</source>
         <translation>Tooltip-Hilfe anzeigen</translation>
     </message>
@@ -11345,97 +11504,97 @@ Möchten Sie sie entfernen?</translation>
         <translation>Bewertungen anzeigen</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="85"/>
+        <location filename="DlgSettingsBrowser.ui" line="111"/>
         <source>View scroll the content by thumbnail</source>
         <translation>Anzeige entsprechend der Miniaturbilder scrollen</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="92"/>
+        <location filename="DlgSettingsBrowser.ui" line="118"/>
         <source>Show &apos;Desktop&apos; in folder tree</source>
         <translation>&apos;Desktop&apos; in der Ordnerstruktur anzeigen</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="181"/>
+        <location filename="DlgSettingsBrowser.ui" line="207"/>
         <source>ToolBar</source>
         <translation>Symbolleiste</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="189"/>
+        <location filename="DlgSettingsBrowser.ui" line="215"/>
         <source>Layout</source>
         <translation>Anordnung</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="197"/>
+        <location filename="DlgSettingsBrowser.ui" line="223"/>
         <source>1 bar v1</source>
         <translation>1 Leiste v1</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="202"/>
+        <location filename="DlgSettingsBrowser.ui" line="228"/>
         <source>1 bar v2</source>
         <translation>1 Leiste v2</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="207"/>
+        <location filename="DlgSettingsBrowser.ui" line="233"/>
         <source>2 bars (top and bottom)</source>
         <translation>2 Leisten (oben und unten)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="212"/>
+        <location filename="DlgSettingsBrowser.ui" line="238"/>
         <source>2 bars (top)</source>
         <translation>2 Leisten (oben)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="244"/>
+        <location filename="DlgSettingsBrowser.ui" line="270"/>
         <source>Delete</source>
         <translation>Löschen</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="339"/>
+        <location filename="DlgSettingsBrowser.ui" line="365"/>
         <source>Filter</source>
         <translation>Filter</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="265"/>
+        <location filename="DlgSettingsBrowser.ui" line="291"/>
         <source>Sort</source>
         <translation>Sortieren</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="332"/>
+        <location filename="DlgSettingsBrowser.ui" line="358"/>
         <source>Thumbnails + Details</source>
         <translation>Miniaturbilder mit Details</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="237"/>
+        <location filename="DlgSettingsBrowser.ui" line="263"/>
         <source>Thumbnails + Filename</source>
         <translation>Miniaturbilder mit Dateiname</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="302"/>
+        <location filename="DlgSettingsBrowser.ui" line="328"/>
         <source>Thumbnails</source>
         <translation>Miniaturbilder</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="346"/>
+        <location filename="DlgSettingsBrowser.ui" line="372"/>
         <source>Icons</source>
         <translation>Große Symbole</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="251"/>
+        <location filename="DlgSettingsBrowser.ui" line="277"/>
         <source>List</source>
         <translation>Liste</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="374"/>
+        <location filename="DlgSettingsBrowser.ui" line="400"/>
         <source>Favorites</source>
         <translation>Lesezeichen</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="258"/>
+        <location filename="DlgSettingsBrowser.ui" line="284"/>
         <source>View as</source>
         <translation>Anzeigen als</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="288"/>
+        <location filename="DlgSettingsBrowser.ui" line="314"/>
         <source>Thumbnails + Labels</source>
         <translation>Miniaturbilder mit Beschriftung</translation>
     </message>
@@ -11445,88 +11604,83 @@ Möchten Sie sie entfernen?</translation>
         <translation>Vorschau</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="113"/>
+        <location filename="DlgSettingsBrowser.ui" line="139"/>
         <source>Tooltip</source>
         <translation>Quick-Info (Tooltip)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="367"/>
+        <location filename="DlgSettingsBrowser.ui" line="393"/>
         <source>Details</source>
         <translation>Details</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="295"/>
+        <location filename="DlgSettingsBrowser.ui" line="321"/>
         <source>Thumbnails scaling</source>
         <translation>Miniaturbilder skalieren</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="412"/>
+        <location filename="DlgSettingsBrowser.ui" line="438"/>
         <source>Clear the list of checked files</source>
         <oldsource>Clear the list of tagged files</oldsource>
         <translation>Kennzeichnung global löschen</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="420"/>
+        <location filename="DlgSettingsBrowser.ui" line="446"/>
         <source>After an operation</source>
         <translation>Nach Stapelverarbeitung</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="425"/>
+        <location filename="DlgSettingsBrowser.ui" line="451"/>
         <source>After folder change</source>
         <translation>Bei Verzeichniswechsel</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="430"/>
+        <location filename="DlgSettingsBrowser.ui" line="456"/>
         <source>On exit</source>
         <translation>Bei Programmende</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="435"/>
+        <location filename="DlgSettingsBrowser.ui" line="461"/>
         <source>Never</source>
         <translation>Nie</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="325"/>
+        <location filename="DlgSettingsBrowser.ui" line="351"/>
         <source>Quick search</source>
         <translation>Schnellsuche</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="353"/>
+        <location filename="DlgSettingsBrowser.ui" line="379"/>
         <source>Rename</source>
         <translation>Umbenennen</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="360"/>
+        <location filename="DlgSettingsBrowser.ui" line="386"/>
         <source>New folder</source>
         <translation>Neuer Ordner</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="381"/>
+        <location filename="DlgSettingsBrowser.ui" line="407"/>
         <source>Rating (filter)</source>
         <translation>Bewertung (Filter)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="404"/>
+        <location filename="DlgSettingsBrowser.ui" line="430"/>
         <source>Check</source>
         <translation>Kennzeichnung</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="472"/>
-        <source>Misc.</source>
-        <translation>Verschiedenes</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsBrowser.ui" line="478"/>
+        <location filename="DlgSettingsBrowser.ui" line="85"/>
         <source>Rotation</source>
         <translation>Drehen</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="484"/>
+        <location filename="DlgSettingsBrowser.ui" line="91"/>
         <source>Change EXIF orientation ONLY (if possible)</source>
         <translation>Beim JPEG-Drehen nur die EXIF-Ausrichtung ändern (wenn möglich)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="491"/>
+        <location filename="DlgSettingsBrowser.ui" line="98"/>
         <source>Use lossless rotation (if possible)</source>
         <translation>Verlustfreies JPEG-Drehen verwenden (wenn möglich)</translation>
     </message>
@@ -15349,9 +15503,9 @@ Wollen Sie fortfahren?</translation>
     <name>DlgTransfer</name>
     <message>
         <location filename="DlgTransfer.ui" line="14"/>
-        <source>Edit Metadata</source>
-        <oldsource>Metadata transfer</oldsource>
-        <translation>Metadaten bearbeiten</translation>
+        <source>Add/Replace metadata</source>
+        <oldsource>Edit Metadata</oldsource>
+        <translation type="unfinished">Metadaten bearbeiten</translation>
     </message>
     <message>
         <location filename="DlgTransfer.ui" line="22"/>
@@ -17067,12 +17221,12 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
         <translation>Verhältnis</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1979"/>
+        <location filename="DBFilterModel.cpp" line="2067"/>
         <source>Aspect Ratio</source>
         <translation>Seitenverhältnis</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2015"/>
+        <location filename="DBFilterModel.cpp" line="2103"/>
         <source>File type</source>
         <translation>Dateityp</translation>
     </message>
@@ -17639,7 +17793,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
         <translation>Herstellerdaten</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1983"/>
+        <location filename="DBFilterModel.cpp" line="2071"/>
         <location filename="ItemModel.cpp" line="1072"/>
         <location filename="SearchField.cpp" line="79"/>
         <location filename="TemplateData.cpp" line="2614"/>
@@ -17647,7 +17801,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
         <translation>Ersteller</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1987"/>
+        <location filename="DBFilterModel.cpp" line="2075"/>
         <location filename="ItemModel.cpp" line="1074"/>
         <location filename="SearchField.cpp" line="80"/>
         <location filename="TemplateData.cpp" line="2615"/>
@@ -17655,68 +17809,68 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
         <translation>Modell</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1991"/>
+        <location filename="DBFilterModel.cpp" line="2079"/>
         <source>Lens</source>
         <translation>Objektiv</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1999"/>
+        <location filename="DBFilterModel.cpp" line="2087"/>
         <location filename="ItemModel.cpp" line="1076"/>
         <source>ISO</source>
         <translation>ISO</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2007"/>
+        <location filename="DBFilterModel.cpp" line="2095"/>
         <source>Shutter Speed</source>
         <translation>Verschlusszeit</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2019"/>
+        <location filename="DBFilterModel.cpp" line="2107"/>
         <source>Colour Space</source>
         <translation>Farbraum</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2102"/>
+        <location filename="DBFilterModel.cpp" line="2190"/>
         <source>Not Defined</source>
         <translation>Nicht definiert</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2104"/>
+        <location filename="DBFilterModel.cpp" line="2192"/>
         <source>Manual</source>
         <translation>Manuell</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2106"/>
+        <location filename="DBFilterModel.cpp" line="2194"/>
         <source>Program AE</source>
         <translation>Programmautomatik</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2108"/>
+        <location filename="DBFilterModel.cpp" line="2196"/>
         <source>Aperture-priority AE</source>
         <translation>Automatische Belichtung</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2110"/>
+        <location filename="DBFilterModel.cpp" line="2198"/>
         <source>Shutter speed priority AE</source>
         <translation>Blendenpriorität</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2112"/>
+        <location filename="DBFilterModel.cpp" line="2200"/>
         <source>Creative</source>
         <translation>Kreativ</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2114"/>
+        <location filename="DBFilterModel.cpp" line="2202"/>
         <source>Action</source>
         <translation>Actionmodus</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2116"/>
+        <location filename="DBFilterModel.cpp" line="2204"/>
         <source>Portrait</source>
         <translation>Hochformat</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2118"/>
+        <location filename="DBFilterModel.cpp" line="2206"/>
         <source>Landscape</source>
         <translation>Querformat</translation>
     </message>
@@ -17731,7 +17885,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
         <translation>Belichtungszeit</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1995"/>
+        <location filename="DBFilterModel.cpp" line="2083"/>
         <location filename="ItemModel.cpp" line="1082"/>
         <source>Focal Length</source>
         <translation>Brennweite</translation>
@@ -17778,7 +17932,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
         <translation>Benutzerkommentar</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2003"/>
+        <location filename="DBFilterModel.cpp" line="2091"/>
         <location filename="ItemModel.cpp" line="1086"/>
         <location filename="SearchField.cpp" line="89"/>
         <location filename="TemplateData.cpp" line="2648"/>
@@ -17802,7 +17956,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
         <translation>Änderungsdatum/-uhrzeit</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1975"/>
+        <location filename="DBFilterModel.cpp" line="2063"/>
         <location filename="TemplateData.cpp" line="2619"/>
         <source>Orientation</source>
         <translation>Ausrichtung</translation>
@@ -17891,7 +18045,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
         <translation>Belichtungszeit (s)</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2011"/>
+        <location filename="DBFilterModel.cpp" line="2099"/>
         <location filename="TemplateData.cpp" line="2644"/>
         <source>Exposure Program</source>
         <translation>Belichtungsmethode</translation>
@@ -19168,8 +19322,9 @@ Möchten Sie fortfahren?</translation>
     </message>
     <message>
         <location filename="ItemSelection.cpp" line="128"/>
-        <source>&amp;Tagged files</source>
-        <translation>&amp;Gekennzeichnete Dateien</translation>
+        <source>&amp;Checked files</source>
+        <oldsource>&amp;Tagged files</oldsource>
+        <translation type="unfinished">&amp;Gekennzeichnete Dateien</translation>
     </message>
     <message>
         <location filename="ItemSelection.cpp" line="130"/>
@@ -19694,74 +19849,69 @@ Möchten Sie fortfahren?</translation>
         <translation>Datei(en) mit Kennzeichnung</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="453"/>
+        <location filename="BrowserMenu.h" line="454"/>
         <source>Navigate to</source>
         <translation>Gehe zu</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="470"/>
         <location filename="BrowserMenu.h" line="471"/>
         <location filename="BrowserMenu.h" line="472"/>
         <location filename="BrowserMenu.h" line="473"/>
         <location filename="BrowserMenu.h" line="474"/>
         <location filename="BrowserMenu.h" line="475"/>
+        <location filename="BrowserMenu.h" line="476"/>
         <source>##rating## (go to next image)</source>
         <oldsource>Excellent (go to next image)</oldsource>
         <translation>##rating## (zum nächsten Bild wechseln)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="488"/>
+        <location filename="BrowserMenu.h" line="489"/>
         <source>##label## (go to next image)</source>
         <translation>##label## (zum nächsten Bild wechseln)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="507"/>
+        <location filename="BrowserMenu.h" line="508"/>
         <source>Set Rating</source>
         <translation>Bewertung festlegen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="508"/>
+        <location filename="BrowserMenu.h" line="509"/>
         <source>Set Color label</source>
         <translation>Farbmarkierung festlegen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="509"/>
+        <location filename="BrowserMenu.h" line="510"/>
         <source>Set Category</source>
         <translation>Kategorie festlegen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="539"/>
+        <location filename="BrowserMenu.h" line="540"/>
         <source>Show files in subfolders</source>
         <translation>Dateien in Unterordnern anzeigen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="562"/>
+        <location filename="BrowserMenu.h" line="563"/>
         <source>Info panels</source>
         <translation>Infobereiche</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="584"/>
+        <location filename="BrowserMenu.h" line="585"/>
         <source>Open GPS location in</source>
         <translation>GPS-Position öffnen in</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="597"/>
-        <source>Edit metadata...</source>
-        <translation>Metadaten bearbeiten...</translation>
-    </message>
-    <message>
-        <location filename="BrowserMenu.h" line="657"/>
+        <location filename="BrowserMenu.h" line="659"/>
         <source>Switch panel</source>
         <oldsource>Switch panel...</oldsource>
         <translation>Bereich wechseln</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="665"/>
+        <location filename="BrowserMenu.h" line="667"/>
         <source>Paste as image</source>
         <translation>Als Bild einfügen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="669"/>
+        <location filename="BrowserMenu.h" line="671"/>
         <source>Acquire (TWAIN)</source>
         <translation>Einlesen (TWAIN)</translation>
     </message>
@@ -19788,54 +19938,54 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="CompareWidget.cpp" line="486"/>
         <location filename="BrowserMenu.h" line="111"/>
-        <location filename="BrowserMenu.h" line="486"/>
+        <location filename="BrowserMenu.h" line="487"/>
         <source>Uncolored</source>
         <translation>Ohne Farbkennzeichnung</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="545"/>
+        <location filename="BrowserMenu.h" line="546"/>
         <source>Open all selected</source>
         <translation>Alle markierten öffnen</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="19"/>
         <location filename="DlgSettingsView.cpp" line="268"/>
-        <location filename="BrowserMenu.h" line="636"/>
+        <location filename="BrowserMenu.h" line="638"/>
         <source>No fit</source>
         <translation>Nicht anpassen</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="20"/>
         <location filename="DlgSettingsView.cpp" line="269"/>
-        <location filename="BrowserMenu.h" line="637"/>
+        <location filename="BrowserMenu.h" line="639"/>
         <source>Fit image to window</source>
         <translation>Auf Fenstergröße anpassen, alle Bilder</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="22"/>
         <location filename="DlgSettingsView.cpp" line="271"/>
-        <location filename="BrowserMenu.h" line="638"/>
+        <location filename="BrowserMenu.h" line="640"/>
         <source>Fit image to window, large only</source>
         <translation>Auf Fenstergröße anpassen, nur große Bilder</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="23"/>
         <location filename="DlgSettingsView.cpp" line="272"/>
-        <location filename="BrowserMenu.h" line="640"/>
+        <location filename="BrowserMenu.h" line="642"/>
         <source>Fit image to window width</source>
         <translation>Auf Fensterbreite anpassen, alle Bilder</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="24"/>
         <location filename="DlgSettingsView.cpp" line="273"/>
-        <location filename="BrowserMenu.h" line="641"/>
+        <location filename="BrowserMenu.h" line="643"/>
         <source>Fit image to window height</source>
         <translation>Auf Fensterhöhe anpassen, alle Bilder</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="25"/>
         <location filename="DlgSettingsView.cpp" line="274"/>
-        <location filename="BrowserMenu.h" line="642"/>
+        <location filename="BrowserMenu.h" line="644"/>
         <source>Fit image to window width or height</source>
         <translation>Auf Fensterhöhe oder Fensterbreite anpassen, alle Bilder</translation>
     </message>
@@ -19861,12 +20011,12 @@ Möchten Sie fortfahren?</translation>
         <translation>Kategoriengruppen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="561"/>
+        <location filename="BrowserMenu.h" line="562"/>
         <source>Panels</source>
         <translation>Bereiche</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="419"/>
+        <location filename="BrowserMenu.h" line="420"/>
         <source>Open file list...</source>
         <translation>Dateiliste öffnen...</translation>
     </message>
@@ -19897,280 +20047,280 @@ Möchten Sie fortfahren?</translation>
         <translation>Karte</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="424"/>
+        <location filename="BrowserMenu.h" line="425"/>
         <source>Image</source>
         <translation>Bild</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="435"/>
+        <location filename="BrowserMenu.h" line="436"/>
         <source>Select all files</source>
         <translation>Alle Dateien auswählen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="456"/>
+        <location filename="BrowserMenu.h" line="457"/>
         <source>Check/Uncheck</source>
         <translation>Kennzeichnung setzen/aufheben</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="506"/>
+        <location filename="BrowserMenu.h" line="507"/>
         <source>Check</source>
         <translation>Kennzeichnung</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="530"/>
+        <location filename="BrowserMenu.h" line="531"/>
         <source>Filelist toolbar</source>
         <translation>Kleine Symbolleiste für Bereich &quot;Dateien&quot;</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="536"/>
+        <location filename="BrowserMenu.h" line="537"/>
         <source>Update catalog from files</source>
         <translation>Katalog aus Dateien aktualisieren</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="537"/>
+        <location filename="BrowserMenu.h" line="538"/>
         <source>Update files from catalog</source>
         <translation>Dateien aus Katalog aktualisieren</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="544"/>
+        <location filename="BrowserMenu.h" line="545"/>
         <source>Open in file manager</source>
         <translation>Im Dateimanager öffnen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="550"/>
+        <location filename="BrowserMenu.h" line="551"/>
         <source>Preview as tab</source>
         <translation>Vorschau als Registerkarte</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="558"/>
+        <location filename="BrowserMenu.h" line="559"/>
         <source>Add to favorites...</source>
         <translation>Lesezeichen für diesen Ordner setzen...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="560"/>
+        <location filename="BrowserMenu.h" line="561"/>
         <source>Thumbnails view only</source>
         <translation>Nur Miniaturbilder</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="565"/>
+        <location filename="BrowserMenu.h" line="566"/>
         <source>Rotate 90° right</source>
         <translation>Um 90° nach rechts drehen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="566"/>
+        <location filename="BrowserMenu.h" line="567"/>
         <source>Rotate 90° left</source>
         <translation>Um 90° nach links drehen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="567"/>
+        <location filename="BrowserMenu.h" line="568"/>
         <source>Rotate 180°</source>
         <translation>180°</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="569"/>
+        <location filename="BrowserMenu.h" line="570"/>
         <source>Rotate 90° right (lossless)</source>
         <translation>Um 90° nach rechts drehen (verlustfrei)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="570"/>
+        <location filename="BrowserMenu.h" line="571"/>
         <source>Rotate 90° left (lossless)</source>
         <translation>Um 90° nach links drehen (verlustfrei)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="571"/>
+        <location filename="BrowserMenu.h" line="572"/>
         <source>Rotate 180° (lossless)</source>
         <translation>Um 180° drehen (verlustfrei)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="572"/>
+        <location filename="BrowserMenu.h" line="573"/>
         <source>Rotate based on EXIF orientation field</source>
         <translation>Bilder gemäß EXIF-Ausrichtung automatisch drehen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="573"/>
+        <location filename="BrowserMenu.h" line="574"/>
         <source>Reset EXIF orientation field</source>
         <translation>EXIF-Ausrichtung zurücksetzen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="574"/>
+        <location filename="BrowserMenu.h" line="575"/>
         <source>Flip horizontally (lossless)</source>
         <translation>Horizontal spiegeln (verlustfrei)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="575"/>
+        <location filename="BrowserMenu.h" line="576"/>
         <source>Flip vertically (lossless)</source>
         <translation>Vertikal spiegeln (verlustfrei)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="589"/>
+        <location filename="BrowserMenu.h" line="590"/>
         <source>Edit IPTC...</source>
         <translation>IPTC bearbeiten...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="590"/>
+        <location filename="BrowserMenu.h" line="591"/>
         <source>Edit XMP...</source>
         <translation>XMP bearbeiten...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="599"/>
+        <location filename="BrowserMenu.h" line="601"/>
         <source>EXIF Thumbnail</source>
         <translation>EXIF-Miniaturbild</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="604"/>
+        <location filename="BrowserMenu.h" line="606"/>
         <source>File listing...</source>
         <translation>Dateiliste...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="606"/>
+        <location filename="BrowserMenu.h" line="608"/>
         <source>Send by email...</source>
         <translation>Per E-Mail verschicken...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="613"/>
+        <location filename="BrowserMenu.h" line="615"/>
         <source>Import and sort...</source>
         <translation>Importieren und sortieren...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="614"/>
+        <location filename="BrowserMenu.h" line="616"/>
         <source>Multi-page file...</source>
         <translation>Multi-Frame-Datei...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="615"/>
+        <location filename="BrowserMenu.h" line="617"/>
         <source>Join images...</source>
         <translation>Bilder aneinanderreihen...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="616"/>
+        <location filename="BrowserMenu.h" line="618"/>
         <source>Contact sheet...</source>
         <translation>Kontaktabzug...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="617"/>
+        <location filename="BrowserMenu.h" line="619"/>
         <source>Slideshow...</source>
         <translation>Diashow...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="618"/>
+        <location filename="BrowserMenu.h" line="620"/>
         <source>Split image(s)...</source>
         <oldsource>Split...</oldsource>
         <translation>Bild in Kacheln zerschneiden...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="619"/>
+        <location filename="BrowserMenu.h" line="621"/>
         <source>Banner...</source>
         <translation>Banner...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="620"/>
+        <location filename="BrowserMenu.h" line="622"/>
         <source>New image...</source>
         <translation>Neues Bild...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="621"/>
+        <location filename="BrowserMenu.h" line="623"/>
         <source>Video thumbnails gallery...</source>
         <translation>Galerie der Video-Miniaturbilder...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="635"/>
+        <location filename="BrowserMenu.h" line="637"/>
         <source>Draw as tiled</source>
         <translation>Gekachelt anzeigen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="644"/>
+        <location filename="BrowserMenu.h" line="646"/>
         <source>Show channel</source>
         <translation>Kanal anzeigen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="649"/>
+        <location filename="BrowserMenu.h" line="651"/>
         <source>File operations</source>
         <translation>Dateioperationen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="652"/>
+        <location filename="BrowserMenu.h" line="654"/>
         <source>Clear &amp;&amp; Import...</source>
         <translation>Entfernen &amp;&amp; Importieren...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="653"/>
+        <location filename="BrowserMenu.h" line="655"/>
         <source>Catalog</source>
         <translation>Katalog</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="656"/>
+        <location filename="BrowserMenu.h" line="658"/>
         <source>Category Search</source>
         <translation>Kategoriensuche</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="658"/>
+        <location filename="BrowserMenu.h" line="660"/>
         <source>Path focus</source>
         <oldsource>Path focus...</oldsource>
         <translation>Pfadfokus</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="659"/>
+        <location filename="BrowserMenu.h" line="661"/>
         <source>Filter by All</source>
         <translation>Filtern nach Alle</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="661"/>
+        <location filename="BrowserMenu.h" line="663"/>
         <source>Edit face tag...</source>
         <translation>Gesichtsmarkierung bearbeiten ...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="664"/>
+        <location filename="BrowserMenu.h" line="666"/>
         <source>Capture...</source>
         <translation>Bildschirminhalt erfassen...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="666"/>
+        <location filename="BrowserMenu.h" line="668"/>
         <source>Empty tab</source>
         <oldsource>Empty tab...</oldsource>
         <translation>Leere Registerkarte</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="668"/>
+        <location filename="BrowserMenu.h" line="670"/>
         <source>Select TWAIN source...</source>
         <translation>TWAIN-Quelle wählen (Scanner, Kamera, etc.)...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="809"/>
+        <location filename="BrowserMenu.h" line="811"/>
         <source>&amp;File</source>
         <translation>&amp;Datei</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="810"/>
+        <location filename="BrowserMenu.h" line="812"/>
         <source>&amp;Edit</source>
         <translation>&amp;Bearbeiten</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="811"/>
+        <location filename="BrowserMenu.h" line="813"/>
         <source>&amp;View</source>
         <translation>&amp;Ansicht</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="812"/>
+        <location filename="BrowserMenu.h" line="814"/>
         <source>Meta&amp;data</source>
         <translation>Meta&amp;daten</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="813"/>
+        <location filename="BrowserMenu.h" line="815"/>
         <source>&amp;Tools</source>
         <translation>&amp;Werkzeuge</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="670"/>
+        <location filename="BrowserMenu.h" line="672"/>
         <source>Acquire into (TWAIN)...</source>
         <translation>Stapel-Einlesen (TWAIN)...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="814"/>
+        <location filename="BrowserMenu.h" line="816"/>
         <source>C&amp;reate</source>
         <translation>&amp;Erstellen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="815"/>
+        <location filename="BrowserMenu.h" line="817"/>
         <source>&amp;Help</source>
         <translation>I&amp;nfo</translation>
     </message>
@@ -20237,38 +20387,38 @@ Möchten Sie fortfahren?</translation>
         <translation>Als Anordnung C speichern</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="425"/>
+        <location filename="BrowserMenu.h" line="426"/>
         <source>Selected path(s)</source>
         <translation>Verzeichnisname(n)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="426"/>
+        <location filename="BrowserMenu.h" line="427"/>
         <source>Selected filename(s)</source>
         <translation>Dateiname(n)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="427"/>
+        <location filename="BrowserMenu.h" line="428"/>
         <source>Selected filename(s) and path(s)</source>
         <translation>Dateiname(n) und Pfad(e)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="526"/>
+        <location filename="BrowserMenu.h" line="527"/>
         <source>Back</source>
         <translation>Zurück</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="527"/>
+        <location filename="BrowserMenu.h" line="528"/>
         <source>Forward</source>
         <oldsource>forward</oldsource>
         <translation>Weiter</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="531"/>
+        <location filename="BrowserMenu.h" line="532"/>
         <source>Toolbar</source>
         <translation>Symbolleiste</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="532"/>
+        <location filename="BrowserMenu.h" line="533"/>
         <source>Status bar</source>
         <translation>Statusleiste</translation>
     </message>
@@ -20301,8 +20451,8 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="BrowserMenu.h" line="306"/>
         <location filename="BrowserMenu.h" line="316"/>
-        <location filename="BrowserMenu.h" line="556"/>
-        <location filename="BrowserMenu.h" line="646"/>
+        <location filename="BrowserMenu.h" line="557"/>
+        <location filename="BrowserMenu.h" line="648"/>
         <source>Preview</source>
         <translation>Vorschau</translation>
     </message>
@@ -20339,140 +20489,140 @@ Möchten Sie fortfahren?</translation>
         <translation>Schlecht</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="414"/>
+        <location filename="BrowserMenu.h" line="415"/>
         <source>Open with</source>
         <oldsource>Open with test</oldsource>
         <translation>Öffnen mit</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="415"/>
+        <location filename="BrowserMenu.h" line="416"/>
         <source>Recent files</source>
         <translation>Zuletzt geöffnete Dateien</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="418"/>
+        <location filename="BrowserMenu.h" line="419"/>
         <source>Open...</source>
         <translation>Öffnen...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4455"/>
-        <location filename="BrowserMenu.h" line="421"/>
+        <location filename="BrowserWindow.cpp" line="4457"/>
+        <location filename="BrowserMenu.h" line="422"/>
         <source>Cut</source>
         <translation>A&amp;usschneiden</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4457"/>
-        <location filename="BrowserMenu.h" line="423"/>
+        <location filename="BrowserWindow.cpp" line="4459"/>
+        <location filename="BrowserMenu.h" line="424"/>
         <source>Copy</source>
         <translation>&amp;Kopieren</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4459"/>
-        <location filename="BrowserMenu.h" line="428"/>
+        <location filename="BrowserWindow.cpp" line="4461"/>
+        <location filename="BrowserMenu.h" line="429"/>
         <source>Paste</source>
         <translation>Einfügen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="431"/>
+        <location filename="BrowserMenu.h" line="432"/>
         <source>Select all</source>
         <translation>Alle auswählen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="432"/>
+        <location filename="BrowserMenu.h" line="433"/>
         <source>Select none</source>
         <translation>Nichts auswählen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="433"/>
+        <location filename="BrowserMenu.h" line="434"/>
         <source>Invert selection</source>
         <translation>Auswahl umkehren</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="434"/>
+        <location filename="BrowserMenu.h" line="435"/>
         <source>Select all images</source>
         <translation>Alle Bilder auswählen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="436"/>
+        <location filename="BrowserMenu.h" line="437"/>
         <source>Select checked files</source>
         <oldsource>Select tagged files</oldsource>
         <translation>Dateien mit Kennzeichnung auswählen</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4467"/>
-        <location filename="BrowserMenu.h" line="438"/>
+        <location filename="BrowserWindow.cpp" line="4469"/>
+        <location filename="BrowserMenu.h" line="439"/>
         <source>Copy to...</source>
         <translation>Kopieren nach...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4469"/>
-        <location filename="BrowserMenu.h" line="439"/>
+        <location filename="BrowserWindow.cpp" line="4471"/>
+        <location filename="BrowserMenu.h" line="440"/>
         <source>Move to...</source>
         <translation>Verschieben nach...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4462"/>
-        <location filename="BrowserMenu.h" line="440"/>
+        <location filename="BrowserWindow.cpp" line="4464"/>
+        <location filename="BrowserMenu.h" line="441"/>
         <source>Delete</source>
         <translation>Löschen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="441"/>
+        <location filename="BrowserMenu.h" line="442"/>
         <source>Rename...</source>
         <translation>Umbenennen...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="442"/>
+        <location filename="BrowserMenu.h" line="443"/>
         <source>New folder</source>
         <translation>Neuer Ordner</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="444"/>
+        <location filename="BrowserMenu.h" line="445"/>
         <source>Previous file</source>
         <translation>Vorherige Datei</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="445"/>
+        <location filename="BrowserMenu.h" line="446"/>
         <source>Next file</source>
         <translation>Nächste Datei</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="446"/>
+        <location filename="BrowserMenu.h" line="447"/>
         <source>First file</source>
         <translation>Erste Datei</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="447"/>
+        <location filename="BrowserMenu.h" line="448"/>
         <source>Last file</source>
         <translation>Letzte Datei</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="448"/>
+        <location filename="BrowserMenu.h" line="449"/>
         <source>Previous page</source>
         <translation>Vorherige Seite</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="449"/>
+        <location filename="BrowserMenu.h" line="450"/>
         <source>Next page</source>
         <translation>Nächste Seite</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="450"/>
+        <location filename="BrowserMenu.h" line="451"/>
         <source>First page</source>
         <translation>Erste Seite</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="451"/>
+        <location filename="BrowserMenu.h" line="452"/>
         <source>Last page</source>
         <translation>Letzte Seite</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="452"/>
+        <location filename="BrowserMenu.h" line="453"/>
         <source>Page</source>
         <translation>Seite</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="455"/>
+        <location filename="BrowserMenu.h" line="456"/>
         <source>Show header</source>
         <translation>Spaltenüberschriften anzeigen</translation>
     </message>
@@ -20483,391 +20633,401 @@ Möchten Sie fortfahren?</translation>
         <translation>Kennzeichnung für Auswahl setzen/aufheben</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="457"/>
+        <location filename="BrowserMenu.h" line="458"/>
         <source>Invert</source>
         <translation>Umkehren</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="458"/>
+        <location filename="BrowserMenu.h" line="459"/>
         <source>Uncheck all</source>
         <oldsource>Untag all</oldsource>
         <translation>Alle Kennzeichnungen aufheben</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="459"/>
+        <location filename="BrowserMenu.h" line="460"/>
         <source>Clear all checks</source>
         <oldsource>Clear all tags</oldsource>
         <translation>Alle Kennzeichnungen löschen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="460"/>
+        <location filename="BrowserMenu.h" line="461"/>
         <source>Show checked files</source>
         <oldsource>Show tagged files</oldsource>
         <translation>Alle Dateien mit Kennzeichnung anzeigen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="461"/>
+        <location filename="BrowserMenu.h" line="462"/>
         <source>Show checkbox</source>
         <oldsource>Show tag box</oldsource>
         <translation>Kennzeichnung verwenden</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="501"/>
-        <location filename="BrowserMenu.h" line="647"/>
+        <location filename="BrowserMenu.h" line="502"/>
+        <location filename="BrowserMenu.h" line="649"/>
         <source>Layout</source>
         <translation>Anordnung</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="502"/>
+        <location filename="BrowserMenu.h" line="503"/>
         <source>View as</source>
         <translation>Anzeigen als</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="503"/>
+        <location filename="BrowserMenu.h" line="504"/>
         <source>Sort by</source>
         <translation>Sortieren nach</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="504"/>
+        <location filename="BrowserMenu.h" line="505"/>
         <source>Filter by</source>
         <translation>Filtern</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="505"/>
+        <location filename="BrowserMenu.h" line="506"/>
         <source>Thumbnails size</source>
         <translation>Miniaturbildgröße</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="510"/>
+        <location filename="BrowserMenu.h" line="511"/>
         <source>Add to album</source>
         <translation>Zum Album hinzufügen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="511"/>
+        <location filename="BrowserMenu.h" line="512"/>
         <source>Remove from category</source>
         <translation>Aus Kategorie entfernen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="512"/>
+        <location filename="BrowserMenu.h" line="513"/>
         <source>Remove from all categories</source>
         <translation>Aus allen Kategorien entfernen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="513"/>
+        <location filename="BrowserMenu.h" line="514"/>
         <source>Remove from this album</source>
         <translation>Aus diesem Album entfernen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="514"/>
+        <location filename="BrowserMenu.h" line="515"/>
         <source>Remove from all albums</source>
         <translation>Aus allen Alben entfernen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="516"/>
+        <location filename="BrowserMenu.h" line="517"/>
         <source>View as Thumbnails</source>
         <oldsource>Views as Thumbnails</oldsource>
         <translation>Als Miniaturbilder anzeigen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="517"/>
+        <location filename="BrowserMenu.h" line="518"/>
         <source>View as Thumbnails+Filename</source>
         <oldsource>Views as Thumbnails+Filename</oldsource>
         <translation>Als Miniaturbilder mit Dateiname anzeigen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="518"/>
+        <location filename="BrowserMenu.h" line="519"/>
         <source>View as Thumbnails+Labels</source>
         <oldsource>Views as Thumbnails+Labels</oldsource>
         <translation>Als Miniaturbilder mit Beschriftung anzeigen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="519"/>
+        <location filename="BrowserMenu.h" line="520"/>
         <source>View as Thumbnails+Details</source>
         <oldsource>Views as Thumbnails+Details</oldsource>
         <translation>Als Miniaturbilder mit Details anzeigen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="520"/>
+        <location filename="BrowserMenu.h" line="521"/>
         <source>View as Icons</source>
         <oldsource>Views as Icons</oldsource>
         <translation>Als Symbole anzeigen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="521"/>
+        <location filename="BrowserMenu.h" line="522"/>
         <source>View as List</source>
         <oldsource>Views as List</oldsource>
         <translation>Als Liste anzeigen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="522"/>
+        <location filename="BrowserMenu.h" line="523"/>
         <source>View as Details</source>
         <oldsource>Views as Details</oldsource>
         <translation>Als Details anzeigen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="524"/>
+        <location filename="BrowserMenu.h" line="525"/>
         <source>Show hidden files</source>
         <translation>Versteckte Dateien anzeigen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="528"/>
+        <location filename="BrowserMenu.h" line="529"/>
         <source>Up</source>
         <translation>Eine Ebene nach oben</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="533"/>
+        <location filename="BrowserMenu.h" line="534"/>
         <source>Show title of panels</source>
         <translation>Titel der Bereiche anzeigen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="535"/>
+        <location filename="BrowserMenu.h" line="536"/>
         <source>Rebuild thumbnails</source>
         <translation>Miniaturbilder neu erstellen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="538"/>
+        <location filename="BrowserMenu.h" line="539"/>
         <source>Refresh</source>
         <translation>Aktualisieren</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="540"/>
+        <location filename="BrowserMenu.h" line="541"/>
         <source>Stop</source>
         <translation>Stoppen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="542"/>
+        <location filename="BrowserMenu.h" line="543"/>
         <source>Open</source>
         <translation>Öffnen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="543"/>
+        <location filename="BrowserMenu.h" line="544"/>
         <source>Open containing folder</source>
         <translation>Beinhaltenden Ordner öffnen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="547"/>
+        <location filename="BrowserMenu.h" line="548"/>
         <source>Fullscreen</source>
         <translation>Vollbild</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="548"/>
+        <location filename="BrowserMenu.h" line="549"/>
         <source>Show</source>
         <translation>Anzeigen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="549"/>
+        <location filename="BrowserMenu.h" line="550"/>
         <source>Use tabs</source>
         <translation>Registerkarten verwenden</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="553"/>
+        <location filename="BrowserMenu.h" line="554"/>
         <source>Show source panels</source>
         <translation>Ordner/Filterbereiche anzeigen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="555"/>
+        <location filename="BrowserMenu.h" line="556"/>
         <source>Vertical tabs</source>
         <translation>Vertikale Registerkarten</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="576"/>
+        <location filename="BrowserMenu.h" line="577"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
         <translation>Verlustfreie JPEG-Konvertierung</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="578"/>
+        <location filename="BrowserMenu.h" line="579"/>
         <source>Batch rename...</source>
         <translation>Stapel-Umbenennen...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="579"/>
+        <location filename="BrowserMenu.h" line="580"/>
         <source>Compare...</source>
         <oldsource>Compare</oldsource>
         <translation>Vergleichen...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="585"/>
+        <location filename="BrowserMenu.h" line="586"/>
         <source>Search...</source>
         <translation>Suchen...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="586"/>
+        <location filename="BrowserMenu.h" line="587"/>
         <source>Find similar files...</source>
         <translation>Duplikate suchen...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="587"/>
+        <location filename="BrowserMenu.h" line="588"/>
         <source>Edit comment...</source>
         <oldsource>Set comment...</oldsource>
         <translation>Kommentar bearbeiten...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="588"/>
+        <location filename="BrowserMenu.h" line="589"/>
         <source>Change timestamp...</source>
         <translation>Datum und Uhrzeit ändern...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="591"/>
+        <location filename="BrowserMenu.h" line="592"/>
         <source>Edit GPS...</source>
         <translation>GPS bearbeiten...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="592"/>
-        <location filename="BrowserMenu.h" line="651"/>
+        <location filename="BrowserMenu.h" line="593"/>
+        <source>Edit EXIF...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="BrowserMenu.h" line="594"/>
+        <location filename="BrowserMenu.h" line="653"/>
         <source>Export...</source>
         <translation>Exportieren...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="593"/>
+        <location filename="BrowserMenu.h" line="595"/>
         <source>Clean...</source>
         <translation>Löschen...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="594"/>
+        <location filename="BrowserMenu.h" line="596"/>
         <source>EXIF thumbnail - Rotate 90° left</source>
         <translation>EXIF-Miniaturansicht - um 90° nach links drehen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="595"/>
+        <location filename="BrowserMenu.h" line="597"/>
         <source>EXIF thumbnail - Rotate 90° right</source>
         <translation>EXIF-Miniaturansicht - um 90° nach rechts drehen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="596"/>
+        <location filename="BrowserMenu.h" line="598"/>
         <source>EXIF thumbnail - Rebuild</source>
         <translation>EXIF-Miniaturbild neu erstellen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="598"/>
+        <location filename="BrowserMenu.h" line="599"/>
+        <source>Add/Replace metadata...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="BrowserMenu.h" line="600"/>
         <source>Metadata</source>
         <translation>Metadaten</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="600"/>
+        <location filename="BrowserMenu.h" line="602"/>
         <source>Convert into</source>
         <translation>Konvertieren nach</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="601"/>
+        <location filename="BrowserMenu.h" line="603"/>
         <source>Batch convert...</source>
         <translation>Stapelverarbeitung...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="602"/>
+        <location filename="BrowserMenu.h" line="604"/>
         <source>Send by FTP...</source>
         <translation>Per FTP übertragen...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="603"/>
+        <location filename="BrowserMenu.h" line="605"/>
         <source>Upload on web...</source>
         <translation>Im Web veröffentlichen...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="605"/>
+        <location filename="BrowserMenu.h" line="607"/>
         <source>Archive...</source>
         <translation>ZIP-Archiv...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="607"/>
+        <location filename="BrowserMenu.h" line="609"/>
         <source>Set as wallpaper...</source>
         <translation>Als Desktop-Hintergrundbild verwenden...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="608"/>
+        <location filename="BrowserMenu.h" line="610"/>
         <source>Print...</source>
         <translation>Drucken...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="610"/>
+        <location filename="BrowserMenu.h" line="612"/>
         <source>Properties...</source>
         <translation>Eigenschaften...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="624"/>
+        <location filename="BrowserMenu.h" line="626"/>
         <source>Real size</source>
         <translation>Originalgröße</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="625"/>
+        <location filename="BrowserMenu.h" line="627"/>
         <source>100%</source>
         <translation>100%</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="626"/>
+        <location filename="BrowserMenu.h" line="628"/>
         <source>Zoom in</source>
         <translation>Vergrößern</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="627"/>
+        <location filename="BrowserMenu.h" line="629"/>
         <source>Zoom out</source>
         <translation>Verkleinern</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="628"/>
+        <location filename="BrowserMenu.h" line="630"/>
         <source>Lock zoom</source>
         <translation>Zoom beibehalten</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="629"/>
+        <location filename="BrowserMenu.h" line="631"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
         <translation>Transparenten Index verwenden (≤ 8bits)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="630"/>
+        <location filename="BrowserMenu.h" line="632"/>
         <source>Use alpha channel</source>
         <translation>Alphakanal verwenden</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="631"/>
+        <location filename="BrowserMenu.h" line="633"/>
         <source>Show alpha</source>
         <translation>Alphakanal anzeigen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="632"/>
+        <location filename="BrowserMenu.h" line="634"/>
         <source>Show red</source>
         <translation>Rot anzeigen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="633"/>
+        <location filename="BrowserMenu.h" line="635"/>
         <source>Show green</source>
         <translation>Grün anzeigen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="634"/>
+        <location filename="BrowserMenu.h" line="636"/>
         <source>Show blue</source>
         <translation>Blau anzeigen</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="21"/>
         <location filename="DlgSettingsView.cpp" line="270"/>
-        <location filename="BrowserMenu.h" line="639"/>
+        <location filename="BrowserMenu.h" line="641"/>
         <source>Fit image to window, small only</source>
         <translation>Auf Fenstergröße anpassen, nur kleine Bilder</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="645"/>
+        <location filename="BrowserMenu.h" line="647"/>
         <source>Zoom</source>
         <translation>Zoom</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="648"/>
+        <location filename="BrowserMenu.h" line="650"/>
         <source>Copy to clipboard</source>
         <translation>In die Zwischenablage kopieren</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="655"/>
+        <location filename="BrowserMenu.h" line="657"/>
         <source>Quick Filter</source>
         <translation>Schnellfilter</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4452"/>
+        <location filename="BrowserWindow.cpp" line="4454"/>
         <source>New Folder</source>
         <translation>Neuer Ordner</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4464"/>
+        <location filename="BrowserWindow.cpp" line="4466"/>
         <source>Rename</source>
         <translation>Umbenennen</translation>
     </message>

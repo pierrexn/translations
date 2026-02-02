@@ -635,32 +635,32 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <translation>Trenutna mapa (rekurzivno)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2279"/>
+        <location filename="BrowserWindow.cpp" line="2072"/>
+        <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi-select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right-click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="BrowserWindow.cpp" line="2281"/>
         <source>Thumbnails</source>
         <translation>Sličice</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3472"/>
+        <location filename="BrowserWindow.cpp" line="3474"/>
         <source>&lt;Search results&gt;</source>
         <translation>&lt;Izid iskanja&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3474"/>
-        <source>&lt;Tagged files&gt;</source>
-        <translation>&lt;Označene datoteke&gt;</translation>
-    </message>
-    <message>
-        <location filename="BrowserWindow.cpp" line="3569"/>
+        <location filename="BrowserWindow.cpp" line="3571"/>
         <source>This folder doesn&apos;t exist!</source>
         <translation>Ta mapa ne obstaja!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3782"/>
+        <location filename="BrowserWindow.cpp" line="3784"/>
         <source>Favorite name:</source>
         <translation>Ime priljubljene:</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="4027"/>
+        <location filename="BrowserWindow.cpp" line="4029"/>
         <source>Are you sure to delete these %n item(s)?</source>
         <translation>
             <numerusform>Ali ste prepričani, da želite izbrisati %n postavko?</numerusform>
@@ -670,13 +670,13 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4111"/>
+        <location filename="BrowserWindow.cpp" line="4113"/>
         <source>The files cannot be renamed, an error occurred.</source>
         <translation>Datotek ni mogoče preimenovati, prišlo je do napake.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3569"/>
-        <location filename="BrowserWindow.cpp" line="4111"/>
+        <location filename="BrowserWindow.cpp" line="3571"/>
+        <location filename="BrowserWindow.cpp" line="4113"/>
         <source>Error</source>
         <translation>Napaka</translation>
     </message>
@@ -698,27 +698,22 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2070"/>
-        <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi - select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right - click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="BrowserWindow.cpp" line="3476"/>
+        <location filename="BrowserWindow.cpp" line="3478"/>
         <source>&lt;Catalog filter results&gt;</source>
         <translation>&lt;Rezultati filtra kataloga&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3478"/>
+        <location filename="BrowserWindow.cpp" line="3480"/>
         <source>&lt;files&gt;</source>
         <translation>&lt;datoteke&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4020"/>
+        <location filename="BrowserWindow.cpp" line="4022"/>
         <source>Delete items &amp; companions</source>
         <translation>Izbriši postavke in spremljevalce</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="4021"/>
+        <location filename="BrowserWindow.cpp" line="4023"/>
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
         <translation>
             <numerusform>Ali ste prepričani, da želite izbrisati %n postavko - %1 postavka izbrana?</numerusform>
@@ -728,52 +723,57 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4474"/>
+        <location filename="BrowserWindow.cpp" line="4476"/>
         <source>Search...</source>
         <translation>Najdi...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4475"/>
+        <location filename="BrowserWindow.cpp" line="4477"/>
         <source>Add to favorites...</source>
         <translation>Dodaj med priljubljene...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4478"/>
+        <location filename="BrowserWindow.cpp" line="4480"/>
         <source>Start slideshow</source>
         <translation>Začni diaprojekcijo</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4480"/>
+        <location filename="BrowserWindow.cpp" line="4482"/>
         <source>Open in file manager</source>
         <translation>Odpri v upravitelju datotek</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4483"/>
+        <location filename="BrowserWindow.cpp" line="4485"/>
         <source>Properties</source>
         <translation>Lastnosti</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4594"/>
+        <location filename="BrowserWindow.cpp" line="4596"/>
         <source>Load filelist</source>
         <translation>Naloži seznam datotek</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4026"/>
+        <location filename="BrowserWindow.cpp" line="4028"/>
         <source>Delete items</source>
         <translation>Izbriši postavke</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4472"/>
+        <location filename="BrowserWindow.cpp" line="3476"/>
+        <source>&lt;Checked files&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="BrowserWindow.cpp" line="4474"/>
         <source>Show files in subfolders</source>
         <translation>Pokaži datoteke v podmapah</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4515"/>
+        <location filename="BrowserWindow.cpp" line="4517"/>
         <source>Delete folder</source>
         <translation>Izbriši mapo</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4515"/>
+        <location filename="BrowserWindow.cpp" line="4517"/>
         <source>Are you sure to delete this folder?</source>
         <translation>Ali ste prepričani, da želite izbrisati to mapo?</translation>
     </message>
@@ -2073,7 +2073,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="168"/>
         <location filename="DBFilterModel.cpp" line="191"/>
-        <location filename="DBFilterModel.cpp" line="1587"/>
+        <location filename="DBFilterModel.cpp" line="1675"/>
         <source>Date</source>
         <translation>Datum</translation>
     </message>
@@ -2101,50 +2101,51 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="240"/>
-        <location filename="DBFilterModel.cpp" line="541"/>
+        <location filename="DBFilterModel.cpp" line="248"/>
+        <location filename="DBFilterModel.cpp" line="548"/>
         <source>Check (%1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="240"/>
+        <location filename="DBFilterModel.cpp" line="248"/>
+        <location filename="DBFilterModel.cpp" line="548"/>
         <source>Check</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1450"/>
-        <location filename="DBFilterModel.cpp" line="1740"/>
-        <location filename="DBFilterModel.cpp" line="2049"/>
-        <location filename="DBFilterModel.cpp" line="2056"/>
-        <location filename="DBFilterModel.cpp" line="2061"/>
-        <location filename="DBFilterModel.cpp" line="2066"/>
-        <location filename="DBFilterModel.cpp" line="2083"/>
-        <location filename="DBFilterModel.cpp" line="2100"/>
+        <location filename="DBFilterModel.cpp" line="1457"/>
+        <location filename="DBFilterModel.cpp" line="1828"/>
+        <location filename="DBFilterModel.cpp" line="2137"/>
+        <location filename="DBFilterModel.cpp" line="2144"/>
+        <location filename="DBFilterModel.cpp" line="2149"/>
+        <location filename="DBFilterModel.cpp" line="2154"/>
+        <location filename="DBFilterModel.cpp" line="2171"/>
+        <location filename="DBFilterModel.cpp" line="2188"/>
         <source>Unknown</source>
         <translation>Neznano</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2088"/>
+        <location filename="DBFilterModel.cpp" line="2176"/>
         <source>Landscape</source>
         <translation>Pokrajina</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2090"/>
+        <location filename="DBFilterModel.cpp" line="2178"/>
         <source>Portrait</source>
         <translation>Portret</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2092"/>
+        <location filename="DBFilterModel.cpp" line="2180"/>
         <source>Square</source>
         <translation>Kvadrat</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2165"/>
+        <location filename="DBFilterModel.cpp" line="2253"/>
         <source>Panoramic</source>
         <translation>Panoramsko</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2191"/>
+        <location filename="DBFilterModel.cpp" line="2279"/>
         <source>No Color Profile</source>
         <translation>Brez barvnega profila</translation>
     </message>
@@ -7341,6 +7342,164 @@ Do you want to continue?</source>
     </message>
 </context>
 <context>
+    <name>DlgEditEXIFClass</name>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="14"/>
+        <source>Edit EXIF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="26"/>
+        <source>Manufacturer</source>
+        <translation type="unfinished">Proizvajalec</translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="36"/>
+        <source>Model</source>
+        <translation type="unfinished">Model</translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="50"/>
+        <source>Software</source>
+        <translation type="unfinished">Programska oprema</translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="64"/>
+        <source>Image description</source>
+        <translation type="unfinished">Opis slike</translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="78"/>
+        <source>Document name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="92"/>
+        <source>Artist</source>
+        <translation type="unfinished">Izvajalec</translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="106"/>
+        <source>XP Title</source>
+        <translation type="unfinished">XP Naslov</translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="120"/>
+        <source>XP Comment</source>
+        <translation type="unfinished">XP Komentar</translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="134"/>
+        <source>XP Author</source>
+        <translation type="unfinished">XP Avtor</translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="148"/>
+        <source>Copyright</source>
+        <translation type="unfinished">Copyright</translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="162"/>
+        <source>User comment</source>
+        <translation type="unfinished">Komentar uporabnika</translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="176"/>
+        <source>F-Number</source>
+        <translation type="unfinished">F-številka</translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="185"/>
+        <source>f/</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="213"/>
+        <source>Focal length</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="222"/>
+        <source>mm</source>
+        <translation type="unfinished">mm</translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="247"/>
+        <source>Lens model</source>
+        <translation type="unfinished">Model objektiva</translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="257"/>
+        <source>Date modified</source>
+        <translation type="unfinished">Datum spremembe</translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="288"/>
+        <source>Date taken</source>
+        <translation type="unfinished">Datum posnetka</translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="319"/>
+        <source>Date digitized</source>
+        <translation type="unfinished">Datum digitalizacije</translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="350"/>
+        <source>Orientation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="358"/>
+        <source>0 - Not defined</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="363"/>
+        <source>1 - Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="368"/>
+        <source>2 - Mirror horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="373"/>
+        <source>3 - Rotate 180</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="378"/>
+        <source>4 - Mirror vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="383"/>
+        <source>5 - Mirror horizontal and rotate 270 CW</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="388"/>
+        <source>6 - Rotate 90 CW</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="393"/>
+        <source>7 - Mirror horizontal and rotate 90 CW</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="398"/>
+        <source>8 - Rotate 270 CW</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="424"/>
+        <source>Write</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>DlgEditFavClass</name>
     <message>
         <location filename="DlgEditFav.ui" line="14"/>
@@ -11377,7 +11536,7 @@ Ali jih želite odstraniti?</translation>
         <translation>Brskalnik</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="119"/>
+        <location filename="DlgSettingsBrowser.ui" line="145"/>
         <source>Use tooltips</source>
         <translation>Uporabi orodne vrstice</translation>
     </message>
@@ -11392,97 +11551,97 @@ Ali jih želite odstraniti?</translation>
         <translation>Prikaži ocene</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="85"/>
+        <location filename="DlgSettingsBrowser.ui" line="111"/>
         <source>View scroll the content by thumbnail</source>
         <translation>Pomikaj tako, da bo vedno videti celotno sličico</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="92"/>
+        <location filename="DlgSettingsBrowser.ui" line="118"/>
         <source>Show &apos;Desktop&apos; in folder tree</source>
         <translation>Prikaži &apos;Namizje&apos; v drevesu map</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="181"/>
+        <location filename="DlgSettingsBrowser.ui" line="207"/>
         <source>ToolBar</source>
         <translation>Orodna vrstica</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="189"/>
+        <location filename="DlgSettingsBrowser.ui" line="215"/>
         <source>Layout</source>
         <translation>Postavitev</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="197"/>
+        <location filename="DlgSettingsBrowser.ui" line="223"/>
         <source>1 bar v1</source>
         <translation>1 takt v1</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="202"/>
+        <location filename="DlgSettingsBrowser.ui" line="228"/>
         <source>1 bar v2</source>
         <translation>1 takt v2</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="207"/>
+        <location filename="DlgSettingsBrowser.ui" line="233"/>
         <source>2 bars (top and bottom)</source>
         <translation>2 vrstici (zgoraj in spodaj)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="212"/>
+        <location filename="DlgSettingsBrowser.ui" line="238"/>
         <source>2 bars (top)</source>
         <translation>2 vrstici (zgoraj)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="244"/>
+        <location filename="DlgSettingsBrowser.ui" line="270"/>
         <source>Delete</source>
         <translation>Izbriši</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="339"/>
+        <location filename="DlgSettingsBrowser.ui" line="365"/>
         <source>Filter</source>
         <translation>Filter</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="265"/>
+        <location filename="DlgSettingsBrowser.ui" line="291"/>
         <source>Sort</source>
         <translation>Razvrsti</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="332"/>
+        <location filename="DlgSettingsBrowser.ui" line="358"/>
         <source>Thumbnails + Details</source>
         <translation>Sličice + Podrobnosti</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="237"/>
+        <location filename="DlgSettingsBrowser.ui" line="263"/>
         <source>Thumbnails + Filename</source>
         <translation>Sličice + Ime datoteke</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="302"/>
+        <location filename="DlgSettingsBrowser.ui" line="328"/>
         <source>Thumbnails</source>
         <translation>Sličice</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="346"/>
+        <location filename="DlgSettingsBrowser.ui" line="372"/>
         <source>Icons</source>
         <translation>Ikone</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="251"/>
+        <location filename="DlgSettingsBrowser.ui" line="277"/>
         <source>List</source>
         <translation>Seznam</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="374"/>
+        <location filename="DlgSettingsBrowser.ui" line="400"/>
         <source>Favorites</source>
         <translation>Priljubljene</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="258"/>
+        <location filename="DlgSettingsBrowser.ui" line="284"/>
         <source>View as</source>
         <translation>Pogled kot</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="288"/>
+        <location filename="DlgSettingsBrowser.ui" line="314"/>
         <source>Thumbnails + Labels</source>
         <translation>Sličice + Oznake</translation>
     </message>
@@ -11492,88 +11651,83 @@ Ali jih želite odstraniti?</translation>
         <translation>Predogled</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="113"/>
+        <location filename="DlgSettingsBrowser.ui" line="139"/>
         <source>Tooltip</source>
         <translation>Opis orodja</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="367"/>
+        <location filename="DlgSettingsBrowser.ui" line="393"/>
         <source>Details</source>
         <translation>Podrobnosti</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="295"/>
+        <location filename="DlgSettingsBrowser.ui" line="321"/>
         <source>Thumbnails scaling</source>
         <translation>Skaliranje sličic</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="412"/>
+        <location filename="DlgSettingsBrowser.ui" line="438"/>
         <source>Clear the list of checked files</source>
         <oldsource>Clear the list of tagged files</oldsource>
         <translation type="unfinished">Počisti seznam označenih datotek</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="420"/>
+        <location filename="DlgSettingsBrowser.ui" line="446"/>
         <source>After an operation</source>
         <translation>Po operaciji</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="425"/>
+        <location filename="DlgSettingsBrowser.ui" line="451"/>
         <source>After folder change</source>
         <translation>Po spremembi mape</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="430"/>
+        <location filename="DlgSettingsBrowser.ui" line="456"/>
         <source>On exit</source>
         <translation>Ob izhodu</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="435"/>
+        <location filename="DlgSettingsBrowser.ui" line="461"/>
         <source>Never</source>
         <translation>Nikoli</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="325"/>
+        <location filename="DlgSettingsBrowser.ui" line="351"/>
         <source>Quick search</source>
         <translation>Hitro iskanje</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="353"/>
+        <location filename="DlgSettingsBrowser.ui" line="379"/>
         <source>Rename</source>
         <translation>Preimenuj</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="360"/>
+        <location filename="DlgSettingsBrowser.ui" line="386"/>
         <source>New folder</source>
         <translation>Nova mapa</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="381"/>
+        <location filename="DlgSettingsBrowser.ui" line="407"/>
         <source>Rating (filter)</source>
         <translation>Ocena (filter)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="404"/>
+        <location filename="DlgSettingsBrowser.ui" line="430"/>
         <source>Check</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="472"/>
-        <source>Misc.</source>
-        <translation>Razno</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsBrowser.ui" line="478"/>
+        <location filename="DlgSettingsBrowser.ui" line="85"/>
         <source>Rotation</source>
         <translation>Rotacija</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="484"/>
+        <location filename="DlgSettingsBrowser.ui" line="91"/>
         <source>Change EXIF orientation ONLY (if possible)</source>
         <translation>Spremeni SAMO EXIF usmerjenost (če je mogoče)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="491"/>
+        <location filename="DlgSettingsBrowser.ui" line="98"/>
         <source>Use lossless rotation (if possible)</source>
         <translation>Uporabi rotacijo brez izgub (če je mogoče)</translation>
     </message>
@@ -15399,9 +15553,9 @@ Do you want to continue?</source>
     <name>DlgTransfer</name>
     <message>
         <location filename="DlgTransfer.ui" line="14"/>
-        <source>Edit Metadata</source>
-        <oldsource>Metadata transfer</oldsource>
-        <translation>Urejanje metapodatkov</translation>
+        <source>Add/Replace metadata</source>
+        <oldsource>Edit Metadata</oldsource>
+        <translation type="unfinished">Urejanje metapodatkov</translation>
     </message>
     <message>
         <location filename="DlgTransfer.ui" line="22"/>
@@ -17380,12 +17534,12 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <translation>Razmerje</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1979"/>
+        <location filename="DBFilterModel.cpp" line="2067"/>
         <source>Aspect Ratio</source>
         <translation>Razmerje stranic</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2015"/>
+        <location filename="DBFilterModel.cpp" line="2103"/>
         <source>File type</source>
         <translation>Vrsta datoteke</translation>
     </message>
@@ -17654,7 +17808,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
 <context>
     <name>InfoExif</name>
     <message>
-        <location filename="DBFilterModel.cpp" line="1983"/>
+        <location filename="DBFilterModel.cpp" line="2071"/>
         <location filename="ItemModel.cpp" line="1072"/>
         <location filename="SearchField.cpp" line="79"/>
         <location filename="TemplateData.cpp" line="2614"/>
@@ -17662,7 +17816,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <translation>Avtor</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1987"/>
+        <location filename="DBFilterModel.cpp" line="2075"/>
         <location filename="ItemModel.cpp" line="1074"/>
         <location filename="SearchField.cpp" line="80"/>
         <location filename="TemplateData.cpp" line="2615"/>
@@ -17670,68 +17824,68 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <translation>Model</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1991"/>
+        <location filename="DBFilterModel.cpp" line="2079"/>
         <source>Lens</source>
         <translation>Objektiv</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1999"/>
+        <location filename="DBFilterModel.cpp" line="2087"/>
         <location filename="ItemModel.cpp" line="1076"/>
         <source>ISO</source>
         <translation>ISO</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2007"/>
+        <location filename="DBFilterModel.cpp" line="2095"/>
         <source>Shutter Speed</source>
         <translation>Hitrost zaklopa</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2019"/>
+        <location filename="DBFilterModel.cpp" line="2107"/>
         <source>Colour Space</source>
         <translation>Barvni prostor</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2102"/>
+        <location filename="DBFilterModel.cpp" line="2190"/>
         <source>Not Defined</source>
         <translation>Ni definirano</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2104"/>
+        <location filename="DBFilterModel.cpp" line="2192"/>
         <source>Manual</source>
         <translation>Ročno</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2106"/>
+        <location filename="DBFilterModel.cpp" line="2194"/>
         <source>Program AE</source>
         <translation>rogram AE</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2108"/>
+        <location filename="DBFilterModel.cpp" line="2196"/>
         <source>Aperture-priority AE</source>
         <translation>Zaslonka-prioriteta AE</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2110"/>
+        <location filename="DBFilterModel.cpp" line="2198"/>
         <source>Shutter speed priority AE</source>
         <translation>Hitrost zaklopa prioriteta AE</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2112"/>
+        <location filename="DBFilterModel.cpp" line="2200"/>
         <source>Creative</source>
         <translation>Ustvarjalno</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2114"/>
+        <location filename="DBFilterModel.cpp" line="2202"/>
         <source>Action</source>
         <translation>Ukrep</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2116"/>
+        <location filename="DBFilterModel.cpp" line="2204"/>
         <source>Portrait</source>
         <translation>Portret</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2118"/>
+        <location filename="DBFilterModel.cpp" line="2206"/>
         <source>Landscape</source>
         <translation>Pokrajina</translation>
     </message>
@@ -17746,7 +17900,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <translation>Čas osvetlitve</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1995"/>
+        <location filename="DBFilterModel.cpp" line="2083"/>
         <location filename="ItemModel.cpp" line="1082"/>
         <source>Focal Length</source>
         <translation>Goriščna razdalja</translation>
@@ -17823,7 +17977,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <translation>Komentar uporabnika</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2003"/>
+        <location filename="DBFilterModel.cpp" line="2091"/>
         <location filename="ItemModel.cpp" line="1086"/>
         <location filename="SearchField.cpp" line="89"/>
         <location filename="TemplateData.cpp" line="2648"/>
@@ -17847,7 +18001,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <translation>Datum/čas spremembe</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1975"/>
+        <location filename="DBFilterModel.cpp" line="2063"/>
         <location filename="TemplateData.cpp" line="2619"/>
         <source>Orientation</source>
         <translation>Usmerjenost</translation>
@@ -17936,7 +18090,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <translation>Čas osvetlitve (s)</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2011"/>
+        <location filename="DBFilterModel.cpp" line="2099"/>
         <location filename="TemplateData.cpp" line="2644"/>
         <source>Exposure Program</source>
         <translation>Program osvetlitve</translation>
@@ -19213,8 +19367,9 @@ Do you want to continue?</oldsource>
     </message>
     <message>
         <location filename="ItemSelection.cpp" line="128"/>
-        <source>&amp;Tagged files</source>
-        <translation>&amp;Označene datoteke</translation>
+        <source>&amp;Checked files</source>
+        <oldsource>&amp;Tagged files</oldsource>
+        <translation type="unfinished">&amp;Označene datoteke</translation>
     </message>
     <message>
         <location filename="ItemSelection.cpp" line="130"/>
@@ -19503,12 +19658,12 @@ Do you want to continue?</oldsource>
 <context>
     <name>MenuBrowser</name>
     <message>
-        <location filename="BrowserWindow.cpp" line="4452"/>
+        <location filename="BrowserWindow.cpp" line="4454"/>
         <source>New Folder</source>
         <translation>Nova mapa</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4464"/>
+        <location filename="BrowserWindow.cpp" line="4466"/>
         <source>Rename</source>
         <translation>Preimenuj</translation>
     </message>
@@ -19759,156 +19914,166 @@ Do you want to continue?</oldsource>
         <translation>Zemljevid</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="453"/>
+        <location filename="BrowserMenu.h" line="454"/>
         <source>Navigate to</source>
         <translation>Pojdi na</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="456"/>
+        <location filename="BrowserMenu.h" line="457"/>
         <source>Check/Uncheck</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="470"/>
         <location filename="BrowserMenu.h" line="471"/>
         <location filename="BrowserMenu.h" line="472"/>
         <location filename="BrowserMenu.h" line="473"/>
         <location filename="BrowserMenu.h" line="474"/>
         <location filename="BrowserMenu.h" line="475"/>
+        <location filename="BrowserMenu.h" line="476"/>
         <source>##rating## (go to next image)</source>
         <oldsource>Excellent (go to next image)</oldsource>
         <translation>##rating## (pojdi na naslednjo sliko)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="488"/>
+        <location filename="BrowserMenu.h" line="489"/>
         <source>##label## (go to next image)</source>
         <translation>##label## (pojdi na naslednjo sliko)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="506"/>
+        <location filename="BrowserMenu.h" line="507"/>
         <source>Check</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="507"/>
+        <location filename="BrowserMenu.h" line="508"/>
         <source>Set Rating</source>
         <translation>Nastavi oceno</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="508"/>
+        <location filename="BrowserMenu.h" line="509"/>
         <source>Set Color label</source>
         <translation>Nastavi barvno oznako</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="509"/>
+        <location filename="BrowserMenu.h" line="510"/>
         <source>Set Category</source>
         <translation>Nastavi kategorijo</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="510"/>
+        <location filename="BrowserMenu.h" line="511"/>
         <source>Add to album</source>
         <translation>Dodaj v album</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="513"/>
+        <location filename="BrowserMenu.h" line="514"/>
         <source>Remove from this album</source>
         <translation>Odstrani iz tega albuma</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="514"/>
+        <location filename="BrowserMenu.h" line="515"/>
         <source>Remove from all albums</source>
         <translation>Odstrani iz vseh albumov</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="516"/>
+        <location filename="BrowserMenu.h" line="517"/>
         <source>View as Thumbnails</source>
         <oldsource>Views as Thumbnails</oldsource>
         <translation>Prikaži kot sličice</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="517"/>
+        <location filename="BrowserMenu.h" line="518"/>
         <source>View as Thumbnails+Filename</source>
         <oldsource>Views as Thumbnails+Filename</oldsource>
         <translation>Prikaži kot sličice+ime datoteke</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="518"/>
+        <location filename="BrowserMenu.h" line="519"/>
         <source>View as Thumbnails+Labels</source>
         <oldsource>Views as Thumbnails+Labels</oldsource>
         <translation>Prikaži kot sličice+oznake</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="519"/>
+        <location filename="BrowserMenu.h" line="520"/>
         <source>View as Thumbnails+Details</source>
         <oldsource>Views as Thumbnails+Details</oldsource>
         <translation>Prikaži kot sličice+podrobnosti</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="520"/>
+        <location filename="BrowserMenu.h" line="521"/>
         <source>View as Icons</source>
         <oldsource>Views as Icons</oldsource>
         <translation>Prikaži kot ikone</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="521"/>
+        <location filename="BrowserMenu.h" line="522"/>
         <source>View as List</source>
         <oldsource>Views as List</oldsource>
         <translation>Prikaži kot seznam</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="522"/>
+        <location filename="BrowserMenu.h" line="523"/>
         <source>View as Details</source>
         <oldsource>Views as Details</oldsource>
         <translation>Prikaži kot podrobnosti</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="524"/>
+        <location filename="BrowserMenu.h" line="525"/>
         <source>Show hidden files</source>
         <translation>Prikaži skrite datoteke</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="533"/>
+        <location filename="BrowserMenu.h" line="534"/>
         <source>Show title of panels</source>
         <translation>Prikaži naslove panelov</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="539"/>
+        <location filename="BrowserMenu.h" line="540"/>
         <source>Show files in subfolders</source>
         <translation>Pokaži datoteke v podmapah</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="544"/>
+        <location filename="BrowserMenu.h" line="545"/>
         <source>Open in file manager</source>
         <translation>Odpri v upravitelju datotek</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="562"/>
+        <location filename="BrowserMenu.h" line="563"/>
         <source>Info panels</source>
         <translation>Info paneli</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="584"/>
+        <location filename="BrowserMenu.h" line="585"/>
         <source>Open GPS location in</source>
         <translation>Odpri GPS lokacijo v</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="644"/>
+        <location filename="BrowserMenu.h" line="593"/>
+        <source>Edit EXIF...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="BrowserMenu.h" line="599"/>
+        <source>Add/Replace metadata...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="BrowserMenu.h" line="646"/>
         <source>Show channel</source>
         <translation>Prikaži kanal</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="657"/>
+        <location filename="BrowserMenu.h" line="659"/>
         <source>Switch panel</source>
         <oldsource>Switch panel...</oldsource>
         <translation>Preklopi panel</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="665"/>
+        <location filename="BrowserMenu.h" line="667"/>
         <source>Paste as image</source>
         <translation>Prilepi kot sliko</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="669"/>
+        <location filename="BrowserMenu.h" line="671"/>
         <source>Acquire (TWAIN)</source>
         <translation>Pridobi (TWAIN)</translation>
     </message>
@@ -19938,288 +20103,288 @@ Do you want to continue?</oldsource>
         <translation>Shrani postavitev E</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="425"/>
+        <location filename="BrowserMenu.h" line="426"/>
         <source>Selected path(s)</source>
         <translation>Izbrana pot(i)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="426"/>
+        <location filename="BrowserMenu.h" line="427"/>
         <source>Selected filename(s)</source>
         <translation>Izbrano ime datotek(e)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="427"/>
+        <location filename="BrowserMenu.h" line="428"/>
         <source>Selected filename(s) and path(s)</source>
         <translation>Izbrano ime datotek(e) in pot(i)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="455"/>
+        <location filename="BrowserMenu.h" line="456"/>
         <source>Show header</source>
         <translation>Prikaži glavo</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="511"/>
+        <location filename="BrowserMenu.h" line="512"/>
         <source>Remove from category</source>
         <translation>Odstrani iz razreda</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="512"/>
+        <location filename="BrowserMenu.h" line="513"/>
         <source>Remove from all categories</source>
         <translation>Odstrani iz vseh razredov</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="526"/>
+        <location filename="BrowserMenu.h" line="527"/>
         <source>Back</source>
         <translation>Nazaj</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="527"/>
+        <location filename="BrowserMenu.h" line="528"/>
         <source>Forward</source>
         <oldsource>forward</oldsource>
         <translation>Naprej</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="530"/>
+        <location filename="BrowserMenu.h" line="531"/>
         <source>Filelist toolbar</source>
         <translation>Orodna vrstica seznama datotek</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="550"/>
+        <location filename="BrowserMenu.h" line="551"/>
         <source>Preview as tab</source>
         <translation>Predogled kot zavihek</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="558"/>
+        <location filename="BrowserMenu.h" line="559"/>
         <source>Add to favorites...</source>
         <translation>Dodaj med priljubljene...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="560"/>
+        <location filename="BrowserMenu.h" line="561"/>
         <source>Thumbnails view only</source>
         <translation>Samo prikaz sličic</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="565"/>
+        <location filename="BrowserMenu.h" line="566"/>
         <source>Rotate 90° right</source>
         <translation>Zasukaj za 90° v desno</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="566"/>
+        <location filename="BrowserMenu.h" line="567"/>
         <source>Rotate 90° left</source>
         <translation>Zasukaj za 90° v levo</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="567"/>
+        <location filename="BrowserMenu.h" line="568"/>
         <source>Rotate 180°</source>
         <translation>Zasuk za 180°</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="572"/>
+        <location filename="BrowserMenu.h" line="573"/>
         <source>Rotate based on EXIF orientation field</source>
         <translation>Rotacija na temelju usmerjevalnega polja EXIF</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="573"/>
+        <location filename="BrowserMenu.h" line="574"/>
         <source>Reset EXIF orientation field</source>
         <translation>Ponastavi polje za usmerjanje EXIF</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="589"/>
+        <location filename="BrowserMenu.h" line="590"/>
         <source>Edit IPTC...</source>
         <translation>Uredi IPTC...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="590"/>
+        <location filename="BrowserMenu.h" line="591"/>
         <source>Edit XMP...</source>
         <translation>Uredi XMP...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="599"/>
+        <location filename="BrowserMenu.h" line="601"/>
         <source>EXIF Thumbnail</source>
         <translation>EXIF sličica</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="600"/>
+        <location filename="BrowserMenu.h" line="602"/>
         <source>Convert into</source>
         <translation>Pretvori v</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="602"/>
+        <location filename="BrowserMenu.h" line="604"/>
         <source>Send by FTP...</source>
         <translation>Pošlji po FTP...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="603"/>
+        <location filename="BrowserMenu.h" line="605"/>
         <source>Upload on web...</source>
         <translation>Prenesi na splet...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="604"/>
+        <location filename="BrowserMenu.h" line="606"/>
         <source>File listing...</source>
         <translation>Seznam datotek...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="605"/>
+        <location filename="BrowserMenu.h" line="607"/>
         <source>Archive...</source>
         <translation>Arhiv...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="606"/>
+        <location filename="BrowserMenu.h" line="608"/>
         <source>Send by email...</source>
         <translation>Pošlji po e-pošti...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="607"/>
+        <location filename="BrowserMenu.h" line="609"/>
         <source>Set as wallpaper...</source>
         <translation>Nastavi za ozadje...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="608"/>
+        <location filename="BrowserMenu.h" line="610"/>
         <source>Print...</source>
         <translation>Natisni...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="610"/>
+        <location filename="BrowserMenu.h" line="612"/>
         <source>Properties...</source>
         <translation>Lastnosti...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="614"/>
+        <location filename="BrowserMenu.h" line="616"/>
         <source>Multi-page file...</source>
         <translation>Večstranska datoteka...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="615"/>
+        <location filename="BrowserMenu.h" line="617"/>
         <source>Join images...</source>
         <translation>Pridruži slike...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="616"/>
+        <location filename="BrowserMenu.h" line="618"/>
         <source>Contact sheet...</source>
         <translation>List stika...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="617"/>
+        <location filename="BrowserMenu.h" line="619"/>
         <source>Slideshow...</source>
         <translation>Diaprojekcija...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="618"/>
+        <location filename="BrowserMenu.h" line="620"/>
         <source>Split image(s)...</source>
         <translation>Razdelitev slik(e)...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="619"/>
+        <location filename="BrowserMenu.h" line="621"/>
         <source>Banner...</source>
         <translation>Pasica...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="620"/>
+        <location filename="BrowserMenu.h" line="622"/>
         <source>New image...</source>
         <translation>Nova slika...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="621"/>
+        <location filename="BrowserMenu.h" line="623"/>
         <source>Video thumbnails gallery...</source>
         <translation>Galerija sličic video posnetkov...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="635"/>
+        <location filename="BrowserMenu.h" line="637"/>
         <source>Draw as tiled</source>
         <translation>Nariši kot ploščice</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="21"/>
         <location filename="DlgSettingsView.cpp" line="270"/>
-        <location filename="BrowserMenu.h" line="639"/>
+        <location filename="BrowserMenu.h" line="641"/>
         <source>Fit image to window, small only</source>
         <translation>Prilagodi sliko oknu, samo manjše</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="648"/>
+        <location filename="BrowserMenu.h" line="650"/>
         <source>Copy to clipboard</source>
         <translation>Kopiraj v odložišče</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="649"/>
+        <location filename="BrowserMenu.h" line="651"/>
         <source>File operations</source>
         <translation>Operacije datoteke</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="656"/>
+        <location filename="BrowserMenu.h" line="658"/>
         <source>Category Search</source>
         <translation>Iskanje razreda</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="658"/>
+        <location filename="BrowserMenu.h" line="660"/>
         <source>Path focus</source>
         <oldsource>Path focus...</oldsource>
         <translation>Fokus na pot</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="659"/>
+        <location filename="BrowserMenu.h" line="661"/>
         <source>Filter by All</source>
         <translation>Filtriraj glede na vse</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="661"/>
+        <location filename="BrowserMenu.h" line="663"/>
         <source>Edit face tag...</source>
         <translation>Uredi oznako obraza...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="664"/>
+        <location filename="BrowserMenu.h" line="666"/>
         <source>Capture...</source>
         <translation>Zajemi...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="666"/>
+        <location filename="BrowserMenu.h" line="668"/>
         <source>Empty tab</source>
         <oldsource>Empty tab...</oldsource>
         <translation>Prazen zavihek</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="668"/>
+        <location filename="BrowserMenu.h" line="670"/>
         <source>Select TWAIN source...</source>
         <translation>Izberi vir TWAIN...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="809"/>
+        <location filename="BrowserMenu.h" line="811"/>
         <source>&amp;File</source>
         <translation>&amp;Datoteka</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="810"/>
+        <location filename="BrowserMenu.h" line="812"/>
         <source>&amp;Edit</source>
         <translation>&amp;Uredi</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="811"/>
+        <location filename="BrowserMenu.h" line="813"/>
         <source>&amp;View</source>
         <translation>&amp;Pogled</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="812"/>
+        <location filename="BrowserMenu.h" line="814"/>
         <source>Meta&amp;data</source>
         <translation>Meta&amp;podatki</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="813"/>
+        <location filename="BrowserMenu.h" line="815"/>
         <source>&amp;Tools</source>
         <translation>&amp;Orodja</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="670"/>
+        <location filename="BrowserMenu.h" line="672"/>
         <source>Acquire into (TWAIN)...</source>
         <translation>Pridobi v (TWAIN)...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="814"/>
+        <location filename="BrowserMenu.h" line="816"/>
         <source>C&amp;reate</source>
         <oldsource>&amp;Create</oldsource>
         <translation>U&amp;stvari</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="815"/>
+        <location filename="BrowserMenu.h" line="817"/>
         <source>&amp;Help</source>
         <translation>&amp;Pomoč</translation>
     </message>
@@ -20254,12 +20419,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="CompareWidget.cpp" line="486"/>
         <location filename="BrowserMenu.h" line="111"/>
-        <location filename="BrowserMenu.h" line="486"/>
+        <location filename="BrowserMenu.h" line="487"/>
         <source>Uncolored</source>
         <translation>Brez barve</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="545"/>
+        <location filename="BrowserMenu.h" line="546"/>
         <source>Open all selected</source>
         <oldsource>Open in Finder</oldsource>
         <translation>Odpri vse izbrane</translation>
@@ -20267,42 +20432,42 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="DlgSettingsView.cpp" line="19"/>
         <location filename="DlgSettingsView.cpp" line="268"/>
-        <location filename="BrowserMenu.h" line="636"/>
+        <location filename="BrowserMenu.h" line="638"/>
         <source>No fit</source>
         <translation>Brez prilagoditve</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="20"/>
         <location filename="DlgSettingsView.cpp" line="269"/>
-        <location filename="BrowserMenu.h" line="637"/>
+        <location filename="BrowserMenu.h" line="639"/>
         <source>Fit image to window</source>
         <translation>Prilagodi sliko oknu</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="22"/>
         <location filename="DlgSettingsView.cpp" line="271"/>
-        <location filename="BrowserMenu.h" line="638"/>
+        <location filename="BrowserMenu.h" line="640"/>
         <source>Fit image to window, large only</source>
         <translation>Prilagodi sliko oknu, samo večje</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="23"/>
         <location filename="DlgSettingsView.cpp" line="272"/>
-        <location filename="BrowserMenu.h" line="640"/>
+        <location filename="BrowserMenu.h" line="642"/>
         <source>Fit image to window width</source>
         <translation>Prilagodi sliko na širino okna</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="24"/>
         <location filename="DlgSettingsView.cpp" line="273"/>
-        <location filename="BrowserMenu.h" line="641"/>
+        <location filename="BrowserMenu.h" line="643"/>
         <source>Fit image to window height</source>
         <translation>Prilagodi sliko na višino okna</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="25"/>
         <location filename="DlgSettingsView.cpp" line="274"/>
-        <location filename="BrowserMenu.h" line="642"/>
+        <location filename="BrowserMenu.h" line="644"/>
         <source>Fit image to window width or height</source>
         <translation>Prilagodi sliko na širino ali višino okna</translation>
     </message>
@@ -20377,8 +20542,8 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="306"/>
         <location filename="BrowserMenu.h" line="316"/>
-        <location filename="BrowserMenu.h" line="556"/>
-        <location filename="BrowserMenu.h" line="646"/>
+        <location filename="BrowserMenu.h" line="557"/>
+        <location filename="BrowserMenu.h" line="648"/>
         <source>Preview</source>
         <translation>Predogled</translation>
     </message>
@@ -20435,160 +20600,160 @@ Do you want to continue?</oldsource>
         <translation>Informacije</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="414"/>
+        <location filename="BrowserMenu.h" line="415"/>
         <source>Open with</source>
         <oldsource>Open with test</oldsource>
         <translation>Odpri z</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="415"/>
+        <location filename="BrowserMenu.h" line="416"/>
         <source>Recent files</source>
         <translation>Nedavne datoteke</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="553"/>
+        <location filename="BrowserMenu.h" line="554"/>
         <source>Show source panels</source>
         <translation>Pokaži izvorne panele</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="561"/>
+        <location filename="BrowserMenu.h" line="562"/>
         <source>Panels</source>
         <translation>Paneli</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="418"/>
+        <location filename="BrowserMenu.h" line="419"/>
         <source>Open...</source>
         <translation>Odpri...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="419"/>
+        <location filename="BrowserMenu.h" line="420"/>
         <source>Open file list...</source>
         <translation>Odpri seznam datotek...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4455"/>
-        <location filename="BrowserMenu.h" line="421"/>
+        <location filename="BrowserWindow.cpp" line="4457"/>
+        <location filename="BrowserMenu.h" line="422"/>
         <source>Cut</source>
         <translation>Izreži</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4457"/>
-        <location filename="BrowserMenu.h" line="423"/>
+        <location filename="BrowserWindow.cpp" line="4459"/>
+        <location filename="BrowserMenu.h" line="424"/>
         <source>Copy</source>
         <translation>Kopiraj</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="424"/>
+        <location filename="BrowserMenu.h" line="425"/>
         <source>Image</source>
         <translation>Slika</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4459"/>
-        <location filename="BrowserMenu.h" line="428"/>
+        <location filename="BrowserWindow.cpp" line="4461"/>
+        <location filename="BrowserMenu.h" line="429"/>
         <source>Paste</source>
         <translation>Prilepi</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="431"/>
+        <location filename="BrowserMenu.h" line="432"/>
         <source>Select all</source>
         <translation>Izberi vse</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="432"/>
+        <location filename="BrowserMenu.h" line="433"/>
         <source>Select none</source>
         <translation>Brez izbire</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="433"/>
+        <location filename="BrowserMenu.h" line="434"/>
         <source>Invert selection</source>
         <translation>Obrni izbor</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="434"/>
+        <location filename="BrowserMenu.h" line="435"/>
         <source>Select all images</source>
         <translation>Izberi vse slike</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="435"/>
+        <location filename="BrowserMenu.h" line="436"/>
         <source>Select all files</source>
         <translation>Izberi vse datoteke</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="436"/>
+        <location filename="BrowserMenu.h" line="437"/>
         <source>Select checked files</source>
         <oldsource>Select tagged files</oldsource>
         <translation type="unfinished">Izberi označene datoteke</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4467"/>
-        <location filename="BrowserMenu.h" line="438"/>
+        <location filename="BrowserWindow.cpp" line="4469"/>
+        <location filename="BrowserMenu.h" line="439"/>
         <source>Copy to...</source>
         <translation>Kopiraj v...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4469"/>
-        <location filename="BrowserMenu.h" line="439"/>
+        <location filename="BrowserWindow.cpp" line="4471"/>
+        <location filename="BrowserMenu.h" line="440"/>
         <source>Move to...</source>
         <translation>Premakni v...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4462"/>
-        <location filename="BrowserMenu.h" line="440"/>
+        <location filename="BrowserWindow.cpp" line="4464"/>
+        <location filename="BrowserMenu.h" line="441"/>
         <source>Delete</source>
         <translation>Izbriši</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="441"/>
+        <location filename="BrowserMenu.h" line="442"/>
         <source>Rename...</source>
         <translation>Preimenuj...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="442"/>
+        <location filename="BrowserMenu.h" line="443"/>
         <source>New folder</source>
         <translation>Nova mapa</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="444"/>
+        <location filename="BrowserMenu.h" line="445"/>
         <source>Previous file</source>
         <translation>Predhodna datoteka</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="445"/>
+        <location filename="BrowserMenu.h" line="446"/>
         <source>Next file</source>
         <translation>Naslednja datoteka</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="446"/>
+        <location filename="BrowserMenu.h" line="447"/>
         <source>First file</source>
         <translation>Prva datoteka</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="447"/>
+        <location filename="BrowserMenu.h" line="448"/>
         <source>Last file</source>
         <translation>Zadnja datoteka</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="448"/>
+        <location filename="BrowserMenu.h" line="449"/>
         <source>Previous page</source>
         <translation>Predhodna stran</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="449"/>
+        <location filename="BrowserMenu.h" line="450"/>
         <source>Next page</source>
         <translation>Naslednja stran</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="450"/>
+        <location filename="BrowserMenu.h" line="451"/>
         <source>First page</source>
         <translation>Prva stran</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="451"/>
+        <location filename="BrowserMenu.h" line="452"/>
         <source>Last page</source>
         <translation>Zadnja stran</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="452"/>
+        <location filename="BrowserMenu.h" line="453"/>
         <source>Page</source>
         <translation>Stran</translation>
     </message>
@@ -20600,151 +20765,151 @@ Do you want to continue?</oldsource>
         <translation type="unfinished">Označi izbor</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="457"/>
+        <location filename="BrowserMenu.h" line="458"/>
         <source>Invert</source>
         <translation>Preobrni</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="458"/>
+        <location filename="BrowserMenu.h" line="459"/>
         <source>Uncheck all</source>
         <oldsource>Untag all</oldsource>
         <translation type="unfinished">Odznači vse</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="459"/>
+        <location filename="BrowserMenu.h" line="460"/>
         <source>Clear all checks</source>
         <oldsource>Clear all tags</oldsource>
         <translation type="unfinished">Počisti vse oznake</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="460"/>
+        <location filename="BrowserMenu.h" line="461"/>
         <source>Show checked files</source>
         <oldsource>Show tagged files</oldsource>
         <translation type="unfinished">Prikaži označene datoteke</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="461"/>
+        <location filename="BrowserMenu.h" line="462"/>
         <source>Show checkbox</source>
         <oldsource>Show tag box</oldsource>
         <translation type="unfinished">Pokaži polje oznake</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="501"/>
-        <location filename="BrowserMenu.h" line="647"/>
+        <location filename="BrowserMenu.h" line="502"/>
+        <location filename="BrowserMenu.h" line="649"/>
         <source>Layout</source>
         <translation>Postavitev</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="502"/>
+        <location filename="BrowserMenu.h" line="503"/>
         <source>View as</source>
         <oldsource>Preview pane</oldsource>
         <translation>Pogled kot</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="503"/>
+        <location filename="BrowserMenu.h" line="504"/>
         <source>Sort by</source>
         <translation>Razvrsti po</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="504"/>
+        <location filename="BrowserMenu.h" line="505"/>
         <source>Filter by</source>
         <translation>Filtriraj z</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="505"/>
+        <location filename="BrowserMenu.h" line="506"/>
         <source>Thumbnails size</source>
         <translation>Velikost sličic</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="528"/>
+        <location filename="BrowserMenu.h" line="529"/>
         <source>Up</source>
         <translation>Gor</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="531"/>
+        <location filename="BrowserMenu.h" line="532"/>
         <source>Toolbar</source>
         <oldsource>Use toolbar</oldsource>
         <translation>Orodna vrstica</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="532"/>
+        <location filename="BrowserMenu.h" line="533"/>
         <source>Status bar</source>
         <oldsource>Use statusbar</oldsource>
         <translation>Statusna vrstica</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="535"/>
+        <location filename="BrowserMenu.h" line="536"/>
         <source>Rebuild thumbnails</source>
         <translation>Ponovno ustvari sličice</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="536"/>
+        <location filename="BrowserMenu.h" line="537"/>
         <source>Update catalog from files</source>
         <translation>Posodobi katalog iz datotek</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="537"/>
+        <location filename="BrowserMenu.h" line="538"/>
         <source>Update files from catalog</source>
         <translation>Posodobi datoteke iz kataloga</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="538"/>
+        <location filename="BrowserMenu.h" line="539"/>
         <source>Refresh</source>
         <translation>Osveži</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="540"/>
+        <location filename="BrowserMenu.h" line="541"/>
         <source>Stop</source>
         <translation>Ustavi</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="542"/>
+        <location filename="BrowserMenu.h" line="543"/>
         <source>Open</source>
         <translation>Odpri</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="543"/>
+        <location filename="BrowserMenu.h" line="544"/>
         <source>Open containing folder</source>
         <translation>Odpri vsebino mape</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="576"/>
+        <location filename="BrowserMenu.h" line="577"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
         <translation>Transformacije brez izgub (JPEG)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="586"/>
+        <location filename="BrowserMenu.h" line="587"/>
         <source>Find similar files...</source>
         <translation>Najdi podobne datoteke...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="601"/>
+        <location filename="BrowserMenu.h" line="603"/>
         <source>Batch convert...</source>
         <translation>Pretvorba v paketu...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="631"/>
+        <location filename="BrowserMenu.h" line="633"/>
         <source>Show alpha</source>
         <translation>Pokaži alfa</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="632"/>
+        <location filename="BrowserMenu.h" line="634"/>
         <source>Show red</source>
         <translation>Prikaži rdečo</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="633"/>
+        <location filename="BrowserMenu.h" line="635"/>
         <source>Show green</source>
         <translation>Prikaži zeleno</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="634"/>
+        <location filename="BrowserMenu.h" line="636"/>
         <source>Show blue</source>
         <translation>Prikaži modro</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="547"/>
+        <location filename="BrowserMenu.h" line="548"/>
         <source>Fullscreen</source>
         <translation>Celozaslonski način</translation>
     </message>
@@ -20754,171 +20919,166 @@ Do you want to continue?</oldsource>
         <translation>Spremenjeni datum</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="548"/>
+        <location filename="BrowserMenu.h" line="549"/>
         <source>Show</source>
         <translation>Pokaži</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="549"/>
+        <location filename="BrowserMenu.h" line="550"/>
         <source>Use tabs</source>
         <translation>Uporabi zavihke</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="555"/>
+        <location filename="BrowserMenu.h" line="556"/>
         <source>Vertical tabs</source>
         <translation>Navpični zavihki</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="569"/>
+        <location filename="BrowserMenu.h" line="570"/>
         <source>Rotate 90° right (lossless)</source>
         <translation>Zasukaj za 90° v desno (brez izgub)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="570"/>
+        <location filename="BrowserMenu.h" line="571"/>
         <source>Rotate 90° left (lossless)</source>
         <translation>Zasukaj za 90° v levo (brez izgub)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="571"/>
+        <location filename="BrowserMenu.h" line="572"/>
         <source>Rotate 180° (lossless)</source>
         <translation>Zasukaj za 180° (brez izgub)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="574"/>
+        <location filename="BrowserMenu.h" line="575"/>
         <source>Flip horizontally (lossless)</source>
         <translation>Zrcali vodoravno (brez izgub)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="575"/>
+        <location filename="BrowserMenu.h" line="576"/>
         <source>Flip vertically (lossless)</source>
         <translation>Zrcali navpično (brez izgub)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="578"/>
+        <location filename="BrowserMenu.h" line="579"/>
         <source>Batch rename...</source>
         <translation>Preimenovanje v paketu...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="579"/>
+        <location filename="BrowserMenu.h" line="580"/>
         <source>Compare...</source>
         <oldsource>Compare</oldsource>
         <translation>Primerjaj...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="585"/>
+        <location filename="BrowserMenu.h" line="586"/>
         <source>Search...</source>
         <translation>Najdi...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="587"/>
+        <location filename="BrowserMenu.h" line="588"/>
         <source>Edit comment...</source>
         <oldsource>Set comment...</oldsource>
         <translation>Uredi komentar...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="588"/>
+        <location filename="BrowserMenu.h" line="589"/>
         <source>Change timestamp...</source>
         <translation>Spremeni časovno oznako...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="591"/>
+        <location filename="BrowserMenu.h" line="592"/>
         <source>Edit GPS...</source>
         <translation>Uredi GPS...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="592"/>
-        <location filename="BrowserMenu.h" line="651"/>
+        <location filename="BrowserMenu.h" line="594"/>
+        <location filename="BrowserMenu.h" line="653"/>
         <source>Export...</source>
         <translation>Izvoz...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="593"/>
+        <location filename="BrowserMenu.h" line="595"/>
         <source>Clean...</source>
         <translation>Počisti...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="594"/>
+        <location filename="BrowserMenu.h" line="596"/>
         <source>EXIF thumbnail - Rotate 90° left</source>
         <translation>EXIF sličica - Zasukaj za 90° v levo</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="595"/>
+        <location filename="BrowserMenu.h" line="597"/>
         <source>EXIF thumbnail - Rotate 90° right</source>
         <translation>EXIF sličica - Zasukaj za 90° v desno</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="596"/>
+        <location filename="BrowserMenu.h" line="598"/>
         <source>EXIF thumbnail - Rebuild</source>
         <translation>EXIF sličica - Obnovi</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="597"/>
-        <source>Edit metadata...</source>
-        <translation>Uredi metapodatke...</translation>
-    </message>
-    <message>
-        <location filename="BrowserMenu.h" line="598"/>
+        <location filename="BrowserMenu.h" line="600"/>
         <source>Metadata</source>
         <translation>Metapodatki</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="613"/>
+        <location filename="BrowserMenu.h" line="615"/>
         <source>Import and sort...</source>
         <translation>Uvozi in razvrsti...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="624"/>
+        <location filename="BrowserMenu.h" line="626"/>
         <source>Real size</source>
         <translation>Realna velikost</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="625"/>
+        <location filename="BrowserMenu.h" line="627"/>
         <source>100%</source>
         <translation>100%</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="626"/>
+        <location filename="BrowserMenu.h" line="628"/>
         <source>Zoom in</source>
         <translation>Povečaj</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="627"/>
+        <location filename="BrowserMenu.h" line="629"/>
         <source>Zoom out</source>
         <translation>Pomanjšaj</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="628"/>
+        <location filename="BrowserMenu.h" line="630"/>
         <source>Lock zoom</source>
         <translation>Zakleni povečavo</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="629"/>
+        <location filename="BrowserMenu.h" line="631"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
         <translation>Uporabi indeks transparence (≤ 8bits)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="630"/>
+        <location filename="BrowserMenu.h" line="632"/>
         <source>Use alpha channel</source>
         <translation>Uporabi alfa kanal</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="645"/>
+        <location filename="BrowserMenu.h" line="647"/>
         <source>Zoom</source>
         <translation>Povečava</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="652"/>
+        <location filename="BrowserMenu.h" line="654"/>
         <source>Clear &amp;&amp; Import...</source>
         <translation>Počisti &amp;&amp; Uvozi...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="653"/>
+        <location filename="BrowserMenu.h" line="655"/>
         <source>Catalog</source>
         <translation>Katalog</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="655"/>
+        <location filename="BrowserMenu.h" line="657"/>
         <source>Quick Filter</source>
         <translation>Hitri filter</translation>
     </message>

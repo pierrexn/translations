@@ -477,10 +477,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Ջնջել պանակը</translation>
     </message>
     <message>
-        <source>&lt;Tagged files&gt;</source>
-        <translation>&lt;Պիտակված ֆայլեր&gt;</translation>
-    </message>
-    <message>
         <source>Folders</source>
         <translation>Պանակներ</translation>
     </message>
@@ -616,7 +612,11 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi - select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right - click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
+        <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi-select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right-click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;Checked files&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5653,6 +5653,133 @@ Do you want to overwrite it?</source>
     </message>
 </context>
 <context>
+    <name>DlgEditEXIFClass</name>
+    <message>
+        <source>Edit EXIF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manufacturer</source>
+        <translation type="unfinished">Արտադրող</translation>
+    </message>
+    <message>
+        <source>Model</source>
+        <translation type="unfinished">Մոդել</translation>
+    </message>
+    <message>
+        <source>Software</source>
+        <translation type="unfinished">Ծրագիրը</translation>
+    </message>
+    <message>
+        <source>Image description</source>
+        <translation type="unfinished">Պատկերի նկարագրություն</translation>
+    </message>
+    <message>
+        <source>Document name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Artist</source>
+        <translation type="unfinished">Հեղինակ</translation>
+    </message>
+    <message>
+        <source>XP Title</source>
+        <translation type="unfinished">XP անվանում</translation>
+    </message>
+    <message>
+        <source>XP Comment</source>
+        <translation type="unfinished">XP Մեկնաբանություն</translation>
+    </message>
+    <message>
+        <source>XP Author</source>
+        <translation type="unfinished">XP Հեղինակ</translation>
+    </message>
+    <message>
+        <source>Copyright</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User comment</source>
+        <translation type="unfinished">Մեկնաբանությունը</translation>
+    </message>
+    <message>
+        <source>F-Number</source>
+        <translation type="unfinished">F համարը</translation>
+    </message>
+    <message>
+        <source>f/</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Focal length</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>mm</source>
+        <translation type="unfinished">մմ</translation>
+    </message>
+    <message>
+        <source>Lens model</source>
+        <translation type="unfinished">Ոսպնյակի մոդել</translation>
+    </message>
+    <message>
+        <source>Date modified</source>
+        <translation type="unfinished">Փոփոխման ամսաթիվ</translation>
+    </message>
+    <message>
+        <source>Date taken</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date digitized</source>
+        <translation type="unfinished">Թվայնացման ամսաթվիը</translation>
+    </message>
+    <message>
+        <source>Orientation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0 - Not defined</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1 - Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2 - Mirror horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3 - Rotate 180</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>4 - Mirror vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>5 - Mirror horizontal and rotate 270 CW</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>6 - Rotate 90 CW</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>7 - Mirror horizontal and rotate 90 CW</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>8 - Rotate 270 CW</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Write</source>
+        <translation type="unfinished">Գրել</translation>
+    </message>
+</context>
+<context>
     <name>DlgEditFavClass</name>
     <message>
         <source>Edit favorites</source>
@@ -8822,10 +8949,6 @@ Do you want to remove them?</source>
 <context>
     <name>DlgSettingsBrowserClass</name>
     <message>
-        <source>Misc.</source>
-        <translation>Տարբեր</translation>
-    </message>
-    <message>
         <source>Never</source>
         <translation>Երբեք</translation>
     </message>
@@ -11854,12 +11977,12 @@ Do you want to continue?</source>
         <translation>Մաքրել բոլորը</translation>
     </message>
     <message>
-        <source>Edit Metadata</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Write</source>
         <translation type="unfinished">Գրել</translation>
+    </message>
+    <message>
+        <source>Add/Replace metadata</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13994,7 +14117,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <name>InfoFavoritesView</name>
     <message>
         <source>Tag</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Պիտակ</translation>
     </message>
     <message>
         <source>Value</source>
@@ -14637,8 +14760,8 @@ Do you want to continue?</source>
         <translation>Ընտրեք, թե որ խումբն եք ցանկանում օգտագործել։</translation>
     </message>
     <message>
-        <source>&amp;Tagged files</source>
-        <translation>&amp;Պիտակված ֆայլերը</translation>
+        <source>&amp;Checked files</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15865,10 +15988,6 @@ Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Edit metadata...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Edit face tag...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15938,6 +16057,14 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit EXIF...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add/Replace metadata...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

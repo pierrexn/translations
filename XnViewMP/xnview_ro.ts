@@ -530,10 +530,6 @@ Vrei să ștergi favoritul „%1”?</translation>
         <translation>Șterge dosarul (folderul)</translation>
     </message>
     <message>
-        <source>&lt;Tagged files&gt;</source>
-        <translation>&lt;Fișiere etichetate&gt;</translation>
-    </message>
-    <message>
         <source>Add to Favorites</source>
         <translation>Adauga la favorite</translation>
     </message>
@@ -618,8 +614,12 @@ Vrei să ștergi favoritul „%1”?</translation>
         <translation>&lt;b&gt;Potrivire&lt;/b&gt;&lt;br&gt;SAU - potrivește orice intrare selectată&lt;br&gt;ȘI - potrivește toate intrările selectate</translation>
     </message>
     <message>
-        <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi - select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right - click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
-        <translation>&lt;b&gt;Filtrul de catalog&lt;/b&gt;&lt;br&gt;Dă clic stânga pentru filtrare&lt;br&gt;&amp;bull; Shift/Ctrl - selectare multiplă&lt;br&gt;&amp;bull; Alt - exclude elementele&lt;br&gt;Dă clic dreapta ca să deschizi opțiunile nodului&lt;br&gt;Trage și plasează pe un nod ca să-l atribui (undeva)</translation>
+        <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi-select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right-click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;Checked files&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5669,6 +5669,133 @@ Vrei să continui?</translation>
     </message>
 </context>
 <context>
+    <name>DlgEditEXIFClass</name>
+    <message>
+        <source>Edit EXIF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manufacturer</source>
+        <translation type="unfinished">Producător</translation>
+    </message>
+    <message>
+        <source>Model</source>
+        <translation type="unfinished">Model</translation>
+    </message>
+    <message>
+        <source>Software</source>
+        <translation type="unfinished">Software</translation>
+    </message>
+    <message>
+        <source>Image description</source>
+        <translation type="unfinished">Descrierea imaginii</translation>
+    </message>
+    <message>
+        <source>Document name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Artist</source>
+        <translation type="unfinished">Artist</translation>
+    </message>
+    <message>
+        <source>XP Title</source>
+        <translation type="unfinished">Titlul XP</translation>
+    </message>
+    <message>
+        <source>XP Comment</source>
+        <translation type="unfinished">Comentariu XP</translation>
+    </message>
+    <message>
+        <source>XP Author</source>
+        <translation type="unfinished">Autor XP</translation>
+    </message>
+    <message>
+        <source>Copyright</source>
+        <translation type="unfinished">Drepturi de autor</translation>
+    </message>
+    <message>
+        <source>User comment</source>
+        <translation type="unfinished">Comentariu utilizator</translation>
+    </message>
+    <message>
+        <source>F-Number</source>
+        <translation type="unfinished">Numărul F</translation>
+    </message>
+    <message>
+        <source>f/</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Focal length</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>mm</source>
+        <translation type="unfinished">mm</translation>
+    </message>
+    <message>
+        <source>Lens model</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date modified</source>
+        <translation type="unfinished">Data modificata</translation>
+    </message>
+    <message>
+        <source>Date taken</source>
+        <translation type="unfinished">Data luării</translation>
+    </message>
+    <message>
+        <source>Date digitized</source>
+        <translation type="unfinished">Data digitizată</translation>
+    </message>
+    <message>
+        <source>Orientation</source>
+        <translation type="unfinished">Orientare</translation>
+    </message>
+    <message>
+        <source>0 - Not defined</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1 - Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2 - Mirror horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3 - Rotate 180</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>4 - Mirror vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>5 - Mirror horizontal and rotate 270 CW</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>6 - Rotate 90 CW</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>7 - Mirror horizontal and rotate 90 CW</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>8 - Rotate 270 CW</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Write</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>DlgEditFavClass</name>
     <message>
         <source>Create subfolder</source>
@@ -8852,10 +8979,6 @@ Vrei să le redenumești?</translation>
         <translation>Pictograme</translation>
     </message>
     <message>
-        <source>Misc.</source>
-        <translation>Diverse</translation>
-    </message>
-    <message>
         <source>Never</source>
         <translation>Niciodată</translation>
     </message>
@@ -11872,12 +11995,12 @@ Vrei să continui?</translation>
         <translation>Curăţă tot</translation>
     </message>
     <message>
-        <source>Edit Metadata</source>
-        <translation>Editează metadatele</translation>
-    </message>
-    <message>
         <source>Write</source>
         <translation>Scriere</translation>
+    </message>
+    <message>
+        <source>Add/Replace metadata</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14655,8 +14778,8 @@ Vrei să continui?</translation>
         <translation>Te rugăm să selectezi ce grup să utilizezi</translation>
     </message>
     <message>
-        <source>&amp;Tagged files</source>
-        <translation>&amp;Fișiere etichetate</translation>
+        <source>&amp;Checked files</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15883,10 +16006,6 @@ Vrei să continui?</translation>
         <translation>Edit GPS-ul...</translation>
     </message>
     <message>
-        <source>Edit metadata...</source>
-        <translation>Editează metadatele...</translation>
-    </message>
-    <message>
         <source>Edit face tag...</source>
         <translation>Editează eticheta feței...</translation>
     </message>
@@ -15957,6 +16076,14 @@ Vrei să continui?</translation>
     <message>
         <source>Check</source>
         <translation>Bifează</translation>
+    </message>
+    <message>
+        <source>Edit EXIF...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add/Replace metadata...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

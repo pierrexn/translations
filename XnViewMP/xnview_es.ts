@@ -528,10 +528,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Eliminar carpeta</translation>
     </message>
     <message>
-        <source>&lt;Tagged files&gt;</source>
-        <translation>&lt;Archivos marcados&gt;</translation>
-    </message>
-    <message>
         <source>Add to Favorites</source>
         <translation>Añadir a Favoritos</translation>
     </message>
@@ -616,7 +612,11 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi - select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right - click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
+        <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi-select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right-click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;Checked files&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5653,6 +5653,133 @@ Do you want to overwrite it?</source>
     </message>
 </context>
 <context>
+    <name>DlgEditEXIFClass</name>
+    <message>
+        <source>Edit EXIF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manufacturer</source>
+        <translation type="unfinished">Fabricante</translation>
+    </message>
+    <message>
+        <source>Model</source>
+        <translation type="unfinished">Modelo</translation>
+    </message>
+    <message>
+        <source>Software</source>
+        <translation type="unfinished">Programa</translation>
+    </message>
+    <message>
+        <source>Image description</source>
+        <translation type="unfinished">Descripción de imagen</translation>
+    </message>
+    <message>
+        <source>Document name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Artist</source>
+        <translation type="unfinished">Artista</translation>
+    </message>
+    <message>
+        <source>XP Title</source>
+        <translation type="unfinished">Título XP</translation>
+    </message>
+    <message>
+        <source>XP Comment</source>
+        <translation type="unfinished">Comentario XP</translation>
+    </message>
+    <message>
+        <source>XP Author</source>
+        <translation type="unfinished">Autor XP</translation>
+    </message>
+    <message>
+        <source>Copyright</source>
+        <translation type="unfinished">Derechos de autor</translation>
+    </message>
+    <message>
+        <source>User comment</source>
+        <translation type="unfinished">Comentario de usuario</translation>
+    </message>
+    <message>
+        <source>F-Number</source>
+        <translation type="unfinished">Número-F</translation>
+    </message>
+    <message>
+        <source>f/</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Focal length</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>mm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lens model</source>
+        <translation type="unfinished">Modelo de lente</translation>
+    </message>
+    <message>
+        <source>Date modified</source>
+        <translation type="unfinished">Fecha de modificación</translation>
+    </message>
+    <message>
+        <source>Date taken</source>
+        <translation type="unfinished">Fecha de captura</translation>
+    </message>
+    <message>
+        <source>Date digitized</source>
+        <translation type="unfinished">Fecha de digitalización</translation>
+    </message>
+    <message>
+        <source>Orientation</source>
+        <translation type="unfinished">Orientación</translation>
+    </message>
+    <message>
+        <source>0 - Not defined</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1 - Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2 - Mirror horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3 - Rotate 180</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>4 - Mirror vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>5 - Mirror horizontal and rotate 270 CW</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>6 - Rotate 90 CW</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>7 - Mirror horizontal and rotate 90 CW</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>8 - Rotate 270 CW</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Write</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>DlgEditFavClass</name>
     <message>
         <source>Create subfolder</source>
@@ -8835,10 +8962,6 @@ Do you want to remove them?</source>
         <translation>Iconos</translation>
     </message>
     <message>
-        <source>Misc.</source>
-        <translation>Otros.</translation>
-    </message>
-    <message>
         <source>Never</source>
         <translation>Nunca</translation>
     </message>
@@ -11855,11 +11978,11 @@ Do you want to continue?</source>
         <translation>Limpiar todo</translation>
     </message>
     <message>
-        <source>Edit Metadata</source>
+        <source>Write</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Write</source>
+        <source>Add/Replace metadata</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13995,7 +14118,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <name>InfoFavoritesView</name>
     <message>
         <source>Tag</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Etiqueta</translation>
     </message>
     <message>
         <source>Value</source>
@@ -14638,8 +14761,8 @@ Do you want to continue?</source>
         <translation>Por favor, seleccione qué grupo utilizar</translation>
     </message>
     <message>
-        <source>&amp;Tagged files</source>
-        <translation>Archivos &amp;etiquetados</translation>
+        <source>&amp;Checked files</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15866,10 +15989,6 @@ Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Edit metadata...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Edit face tag...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15939,6 +16058,14 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit EXIF...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add/Replace metadata...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
