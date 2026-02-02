@@ -185,12 +185,12 @@
         <location filename="AboutWidget.ui" line="275"/>
         <location filename="AboutWidget.ui" line="299"/>
         <source>Translators</source>
-        <translation type="unfinished"></translation>
+        <translation>Tłumacze</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="294"/>
         <source>Language</source>
-        <translation type="unfinished">Język</translation>
+        <translation>Język</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="308"/>
@@ -314,7 +314,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="2981"/>
         <source>The file &lt;%1&gt; is read-only. Please choose another file name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik o nazwie &lt;%1&gt; jest tylko do odczytu. Proszę wybrać inną nazwę pliku.</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2989"/>
@@ -585,7 +585,7 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
         <location filename="BrowserWindow.cpp" line="926"/>
         <source>The database is corrupted. Please check it before you continue!</source>
         <oldsource>The database is corrupted, please check it before to continue!</oldsource>
-        <translation type="unfinished">Baza danych jest uszkodzona. Przed kontynuowaniem, proszę dokonać jej sprawdzenia!</translation>
+        <translation>Baza danych jest uszkodzona. Przed kontynuowaniem, proszę dokonać jej sprawdzenia!</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="1669"/>
@@ -621,7 +621,7 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="2281"/>
         <source>Thumbnails</source>
-        <translation type="unfinished">Miniatury</translation>
+        <translation>Miniatury</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3474"/>
@@ -671,12 +671,12 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="2072"/>
         <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi-select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right-click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Filtr katalogu&lt;/b&gt;&lt;br&gt;Kliknij lewym przyciskiem myszy, aby filtrować&lt;br&gt;&amp;bull; Shift/Ctrl - wielokrotny wybór&lt;br&gt;&amp;bull; Alt - wykluczenie elementów&lt;br&gt;Kliknij prawym przyciskiem myszy, aby otworzyć opcje węzeł&lt;br&gt;Przeciągnij i upuść na węzeł, aby przypisać</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3476"/>
         <source>&lt;Checked files&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Sprawdzone pliki&gt;</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3478"/>
@@ -720,7 +720,7 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="4482"/>
         <source>Open in file manager</source>
-        <translation type="unfinished">Otwórz w eksploratorze plików</translation>
+        <translation>Otwórz w eksploratorze plików</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4485"/>
@@ -746,18 +746,18 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
         <location filename="BrowserWindow.cpp" line="2007"/>
         <location filename="BrowserWindow.cpp" line="2019"/>
         <source>AND</source>
-        <translation type="unfinished"></translation>
+        <translation>ORAZ</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2007"/>
         <location filename="BrowserWindow.cpp" line="2013"/>
         <source>OR</source>
-        <translation type="unfinished"></translation>
+        <translation>LUB</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2008"/>
         <source>&lt;b&gt;Match&lt;/b&gt;&lt;br&gt;OR - match any selected entry&lt;br&gt;AND - match all selected entries</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Dopasuj&lt;/b&gt;&lt;br&gt;LUB - dopasowanie dowolnego wybranego wpisu&lt;br&gt;ORAZ - dopasowanie wszystkich wybranych wpisów</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4474"/>
@@ -922,48 +922,48 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     <message>
         <location filename="CategoryView.cpp" line="507"/>
         <source>EXIF: Date taken</source>
-        <translation type="unfinished"></translation>
+        <translation>EXIF: data wykonania</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="509"/>
         <source>EXIF: Date modified</source>
-        <translation type="unfinished"></translation>
+        <translation>EXIF: data modyfikacji</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="511"/>
         <source>File: Date modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik: Data modyfikacji</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="552"/>
         <source>New smart album...</source>
-        <translation type="unfinished"></translation>
+        <translation>Nowy inteligentny album...</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="554"/>
         <location filename="CategoryView.cpp" line="730"/>
         <source>Create Smart Album from current filter...</source>
-        <translation type="unfinished"></translation>
+        <translation>Utwórz inteligentny album z bieżącego filtra...</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="558"/>
         <source>Edit...</source>
-        <translation type="unfinished"></translation>
+        <translation>Edytuj...</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="588"/>
         <source>Delete Smart Album</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń inteligentny album</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="588"/>
         <source>Are you sure to delete this Smart Album?</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy na pewno usunąć ten inteligentny album?</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="613"/>
         <source>New album</source>
-        <translation type="unfinished"></translation>
+        <translation>Nowy album</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="620"/>
@@ -1018,12 +1018,12 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     <message>
         <location filename="CategoryView.cpp" line="728"/>
         <source>Create Smart Album...</source>
-        <translation type="unfinished"></translation>
+        <translation>Utwórz inteligentny album...</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="762"/>
         <source>Are you sure to delete these categories?</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy na pewno usunąć te kategorie?</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="775"/>
@@ -1073,7 +1073,7 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     <message>
         <location filename="CompareWidget.cpp" line="52"/>
         <source>Navigator</source>
-        <translation type="unfinished"></translation>
+        <translation>Nawigator</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="563"/>
@@ -2060,54 +2060,54 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="165"/>
         <source>Taken in last 30 days</source>
-        <translation type="unfinished"></translation>
+        <translation>Zrobione w ciągu ostatnich 30 dni</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="166"/>
         <source>Modified in last 30 days</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmodyfikowane w ciągu ostatnich 30 dni</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="168"/>
         <location filename="DBFilterModel.cpp" line="191"/>
         <location filename="DBFilterModel.cpp" line="1675"/>
         <source>Date</source>
-        <translation type="unfinished">Data</translation>
+        <translation>Data</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="172"/>
         <location filename="DBFilterModel.cpp" line="192"/>
         <source>Properties</source>
-        <translation type="unfinished">Właściwości</translation>
+        <translation>Właściwości</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="177"/>
         <location filename="DBFilterModel.cpp" line="193"/>
         <source>Albums</source>
-        <translation type="unfinished"></translation>
+        <translation>Albumy</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="179"/>
         <location filename="DBFilterModel.cpp" line="194"/>
         <source>Smart Albums</source>
-        <translation type="unfinished"></translation>
+        <translation>Inteligentne albumy</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="195"/>
         <source>Categories</source>
-        <translation type="unfinished">Kategorie</translation>
+        <translation>Kategorie</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="248"/>
         <location filename="DBFilterModel.cpp" line="548"/>
         <source>Check (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprawdź (%1)</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="248"/>
         <location filename="DBFilterModel.cpp" line="548"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprawdź</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1457"/>
@@ -2119,32 +2119,32 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
         <location filename="DBFilterModel.cpp" line="2171"/>
         <location filename="DBFilterModel.cpp" line="2188"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieznany</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2176"/>
         <source>Landscape</source>
-        <translation type="unfinished">w poziomie</translation>
+        <translation>w poziomie</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2178"/>
         <source>Portrait</source>
-        <translation type="unfinished">w pionie</translation>
+        <translation>w pionie</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2180"/>
         <source>Square</source>
-        <translation type="unfinished">Kwadrat</translation>
+        <translation>Kwadrat</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2253"/>
         <source>Panoramic</source>
-        <translation type="unfinished"></translation>
+        <translation>Panoramiczny</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2279"/>
         <source>No Color Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak profilu kolorów</translation>
     </message>
 </context>
 <context>
@@ -2307,7 +2307,7 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
         <location filename="DlgArchive.ui" line="41"/>
         <source>Open file manager after compressing</source>
         <oldsource>Open File Explorer after compressing</oldsource>
-        <translation type="unfinished">Otwórz okno Eksploratora plików po kompresji</translation>
+        <translation>Otwórz okno Eksploratora plików po kompresji</translation>
     </message>
     <message>
         <location filename="DlgArchive.cpp" line="103"/>
@@ -3611,7 +3611,7 @@ Czy nadpisać ten plik?</translation>
         <location filename="DlgContactSheet.ui" line="722"/>
         <source>Open File Manager</source>
         <oldsource>Open File Explorer</oldsource>
-        <translation type="unfinished">otwórz eksplorator plików</translation>
+        <translation>Otwórz eksplorator plików</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="766"/>
@@ -4267,22 +4267,22 @@ Czy na pewno kontynuować?</translation>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="104"/>
         <source>Mode</source>
-        <translation type="unfinished">Tryb</translation>
+        <translation>Tryb</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="115"/>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>W poziomie</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="161"/>
         <source>Edges</source>
-        <translation type="unfinished">Krawędzie</translation>
+        <translation>Krawędzie</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="174"/>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>W pionie</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="194"/>
@@ -4292,7 +4292,7 @@ Czy na pewno kontynuować?</translation>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="220"/>
         <source>Zealous</source>
-        <translation type="unfinished"></translation>
+        <translation>Zealous</translation>
     </message>
 </context>
 <context>
@@ -4384,7 +4384,7 @@ Czy na pewno kontynuować?</translation>
     <message>
         <location filename="DlgConvertBlurredFrame.ui" line="96"/>
         <source>Margin</source>
-        <translation type="unfinished">Margines</translation>
+        <translation>Margines</translation>
     </message>
     <message>
         <location filename="DlgConvertBlurredFrame.ui" line="141"/>
@@ -4902,7 +4902,7 @@ Czy na pewno kontynuować?</translation>
     <message>
         <location filename="DlgConvert.ui" line="1228"/>
         <source>Open File Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz eksplorator plików</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1521"/>
@@ -5407,7 +5407,7 @@ Czy na pewno kontynuować?</translation>
     <message>
         <location filename="Helper.cpp" line="530"/>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Opcje</translation>
     </message>
 </context>
 <context>
@@ -7154,7 +7154,7 @@ Czy na pewno kontynuować?</translation>
         <location filename="DlgCreateMulti.ui" line="251"/>
         <source>Open File Manager</source>
         <oldsource>Open File Explorer</oldsource>
-        <translation type="unfinished">Otwórz eksplorator plików</translation>
+        <translation>Otwórz eksplorator plików</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.ui" line="209"/>
@@ -7326,157 +7326,157 @@ Czy na pewno kontynuować?</translation>
     <message>
         <location filename="DlgEditEXIF.ui" line="14"/>
         <source>Edit EXIF</source>
-        <translation type="unfinished"></translation>
+        <translation>Edytuj EXIF</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="26"/>
         <source>Manufacturer</source>
-        <translation type="unfinished">Producent</translation>
+        <translation>Producent</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="36"/>
         <source>Model</source>
-        <translation type="unfinished">Model</translation>
+        <translation>Model</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="50"/>
         <source>Software</source>
-        <translation type="unfinished">Oprogramowanie</translation>
+        <translation>Oprogramowanie</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="64"/>
         <source>Image description</source>
-        <translation type="unfinished">Opis obrazu</translation>
+        <translation>Opis obrazu</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="78"/>
         <source>Document name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa dokumentu</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="92"/>
         <source>Artist</source>
-        <translation type="unfinished">Artysta</translation>
+        <translation>Artysta</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="106"/>
         <source>XP Title</source>
-        <translation type="unfinished">XP tytuł</translation>
+        <translation>XP tytuł</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="120"/>
         <source>XP Comment</source>
-        <translation type="unfinished">XP komentarz</translation>
+        <translation>XP komentarz</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="134"/>
         <source>XP Author</source>
-        <translation type="unfinished">XP autor</translation>
+        <translation>XP autor</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="148"/>
         <source>Copyright</source>
-        <translation type="unfinished">Prawa autorskie</translation>
+        <translation>Prawa autorskie</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="162"/>
         <source>User comment</source>
-        <translation type="unfinished">Komentarz użytkownika</translation>
+        <translation>Komentarz użytkownika</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="176"/>
         <source>F-Number</source>
-        <translation type="unfinished">Liczba-F</translation>
+        <translation>Liczba-F</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="185"/>
         <source>f/</source>
-        <translation type="unfinished"></translation>
+        <translation>f/</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="213"/>
         <source>Focal length</source>
-        <translation type="unfinished"></translation>
+        <translation>Długość ogniskowej</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="222"/>
         <source>mm</source>
-        <translation type="unfinished">mm</translation>
+        <translation>mm</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="247"/>
         <source>Lens model</source>
-        <translation type="unfinished">Model obiektywu</translation>
+        <translation>Model obiektywu</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="257"/>
         <source>Date modified</source>
-        <translation type="unfinished">Data modyfikacji</translation>
+        <translation>Data modyfikacji</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="288"/>
         <source>Date taken</source>
-        <translation type="unfinished">Data wykonania</translation>
+        <translation>Data wykonania</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="319"/>
         <source>Date digitized</source>
-        <translation type="unfinished">Data digitalizacji</translation>
+        <translation>Data digitalizacji</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="350"/>
         <source>Orientation</source>
-        <translation type="unfinished">Orientacja</translation>
+        <translation>Orientacja</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="358"/>
         <source>0 - Not defined</source>
-        <translation type="unfinished"></translation>
+        <translation>0 - Nie zdefiniowano</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="363"/>
         <source>1 - Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>1 - Poziomo</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="368"/>
         <source>2 - Mirror horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>2 - Poziomo odwrócone</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="373"/>
         <source>3 - Rotate 180</source>
-        <translation type="unfinished"></translation>
+        <translation>3 - Obrót o 180</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="378"/>
         <source>4 - Mirror vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>4 - Pionowo odwrócone</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="383"/>
         <source>5 - Mirror horizontal and rotate 270 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>5 - Poziomo odwrócone i obrót o 270 stopni w prawo</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="388"/>
         <source>6 - Rotate 90 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>6 - Obrót o 90 stopni w prawo</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="393"/>
         <source>7 - Mirror horizontal and rotate 90 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>7 - Poziomo odwrócone i obrót o 90 stopni w prawo</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="398"/>
         <source>8 - Rotate 270 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>6 - Obrót o 270 stopni w prawo</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="424"/>
         <source>Write</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisz</translation>
     </message>
 </context>
 <context>
@@ -8254,7 +8254,7 @@ Upewnij się, że pliki nie są tylko do odczytu!</translation>
         <location filename="DlgFileAssociation.cpp" line="111"/>
         <source>Problem to change file association. 
 Please try to start with admin rights.</source>
-        <translation type="unfinished">Wystąpił problem ze zmianą skojarzeń plików.
+        <translation>Wystąpił problem ze zmianą skojarzeń plików.
 Spróbuj ponownie, uruchamiając program z prawami administratora.</translation>
     </message>
     <message>
@@ -10650,7 +10650,8 @@ Dziękujmy za zakup %1.</translation>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Plugin is not installed. 
 Please install it via Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Wtyczka nie jest zainstalowana. 
+Zainstaluj ją poprzez Narzędzia &gt; Wtyczki</translation>
     </message>
 </context>
 <context>
@@ -11191,38 +11192,38 @@ Czy chcesz je usunąć?</translation>
         <location filename="DlgSearch.cpp" line="80"/>
         <location filename="DlgSearch.cpp" line="187"/>
         <source>Smart Albums</source>
-        <translation type="unfinished"></translation>
+        <translation>Inteligentne albumy</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="80"/>
         <location filename="DlgSearch.cpp" line="187"/>
         <source>Name:</source>
-        <translation type="unfinished">Nazwa:</translation>
+        <translation>Nazwa:</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="179"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisz</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="328"/>
         <source>Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustawienie</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="329"/>
         <source>Preset search name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Szukaj nazwy ustawienia:</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="332"/>
         <source>Save pathname</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisz ścieżkę</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="395"/>
         <source>GROUP</source>
-        <translation type="unfinished"></translation>
+        <translation>GRUPA</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="420"/>
@@ -11232,7 +11233,7 @@ Czy chcesz je usunąć?</translation>
     <message>
         <location filename="DlgSearch.cpp" line="445"/>
         <source>Search</source>
-        <translation type="unfinished">Wyszukiwanie</translation>
+        <translation>Wyszukiwanie</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="476"/>
@@ -11285,7 +11286,7 @@ Czy chcesz je usunąć?</translation>
     <message>
         <location filename="DlgSearch.ui" line="143"/>
         <source>Close dialog when browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamknij okno dialogowe podczas przeglądania</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="165"/>
@@ -11315,7 +11316,7 @@ Czy chcesz je usunąć?</translation>
     <message>
         <location filename="DlgSearch.ui" line="237"/>
         <source>Save as Smart Album...</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisz jako inteligentny album...</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="362"/>
@@ -11535,7 +11536,7 @@ Czy chcesz je usunąć?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="118"/>
         <source>Show &apos;Desktop&apos; in folder tree</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokazuj &quot;Pulpit&quot; w drzewie folderów</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="207"/>
@@ -11646,7 +11647,7 @@ Czy chcesz je usunąć?</translation>
         <location filename="DlgSettingsBrowser.ui" line="438"/>
         <source>Clear the list of checked files</source>
         <oldsource>Clear the list of tagged files</oldsource>
-        <translation type="unfinished">Czyść listę oznaczonych plików</translation>
+        <translation>Czyść listę zaznaczonych plików</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="446"/>
@@ -11691,7 +11692,7 @@ Czy chcesz je usunąć?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="430"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaznacz</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="85"/>
@@ -11795,7 +11796,7 @@ Czy na pewno kontynuować?</translation>
     <message>
         <location filename="DlgSettingsCache.cpp" line="547"/>
         <source>Updating database, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizacja bazy danych, proszę czekać...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="564"/>
@@ -11919,7 +11920,7 @@ Czy na pewno usunąć wpisy przypisane do kategorii?</translation>
     <message>
         <location filename="DlgSettingsCache.ui" line="265"/>
         <source>Store Exiftool fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Przechowywanie pól Exiftool</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="311"/>
@@ -11968,7 +11969,7 @@ Czy na pewno usunąć wpisy przypisane do kategorii?</translation>
         <location filename="DlgSettingsCache.ui" line="437"/>
         <source>Update metadata</source>
         <oldsource>Update metadata...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizacja metadanych</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="501"/>
@@ -12833,7 +12834,7 @@ miniatury</translation>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="395"/>
         <source>Select a program</source>
-        <translation type="unfinished">Wybierz program</translation>
+        <translation>Wybierz program</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="472"/>
@@ -12877,13 +12878,13 @@ miniatury</translation>
         <location filename="DlgSettingsIntegration.ui" line="51"/>
         <source>Add &apos;Browse with XnViewMP&apos; to context menu</source>
         <oldsource>Add &apos;Browse with XnViewMP&apos; to context menu (requires admin rights)</oldsource>
-        <translation type="unfinished">Dodaj &quot;Przeglądaj w XnViewMP&quot; do menu kontekstowego (wymaga praw administratora)</translation>
+        <translation>Dodaj &quot;Przeglądaj w XnViewMP&quot; do menu kontekstowego</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="58"/>
         <source>Add shell extension to context menu</source>
         <oldsource>Enable shell extension to context menu</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj rozszerzenie powłoki do menu kontekstowego</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="70"/>
@@ -12894,12 +12895,12 @@ miniatury</translation>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="94"/>
         <source>Register application</source>
-        <translation type="unfinished"></translation>
+        <translation>Zarejestruj aplikację</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="118"/>
         <source>Open &apos;Default Apps&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz &quot;Aplikacje domyślne&quot;...</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="154"/>
@@ -12963,12 +12964,12 @@ miniatury</translation>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="445"/>
         <source>ExifTool path</source>
-        <translation type="unfinished"></translation>
+        <translation>Ścieżka ExifTool</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="462"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
 </context>
 <context>
@@ -13827,12 +13828,12 @@ Czy zmienić przypisanie?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="569"/>
         <source>Copyright</source>
-        <translation type="unfinished">Prawa autorskie</translation>
+        <translation>Prawa autorskie</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="603"/>
         <source>Image description</source>
-        <translation type="unfinished">Opis obrazu</translation>
+        <translation>Opis obrazu</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="813"/>
@@ -13976,7 +13977,7 @@ Czy zmienić przypisanie?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="110"/>
         <source>Use transparency grid</source>
-        <translation type="unfinished">Użyj siatki dla przezroczystości</translation>
+        <translation>Użyj siatki dla przezroczystości</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="124"/>
@@ -14053,7 +14054,7 @@ Czy zmienić przypisanie?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="722"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaznacz</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="836"/>
@@ -14559,7 +14560,7 @@ Czy zmienić przypisanie?</translation>
     <message>
         <location filename="DlgSimilar.ui" line="41"/>
         <source>Include subfolders</source>
-        <translation type="unfinished">Uwzględniaj podfoldery</translation>
+        <translation>Uwzględniaj podfoldery</translation>
     </message>
     <message>
         <location filename="DlgSimilar.ui" line="46"/>
@@ -14861,7 +14862,7 @@ Czy zmienić przypisanie?</translation>
     <message>
         <location filename="DlgSlideshow.ui" line="343"/>
         <source>Watch folders for new files</source>
-        <translation type="unfinished"></translation>
+        <translation>Obserwuj foldery pod kątem nowych plików</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="580"/>
@@ -15154,27 +15155,27 @@ Czy zmienić przypisanie?</translation>
     <message>
         <location filename="DlgStartupWizard.ui" line="128"/>
         <source>Windows Explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksplorator Windows</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="141"/>
         <source>Add shell extension to context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj rozszerzenie powłoki do menu kontekstowego</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="151"/>
         <source>File Association</source>
-        <translation type="unfinished"></translation>
+        <translation>Skojarzenia plików</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="157"/>
         <source>Register application</source>
-        <translation type="unfinished"></translation>
+        <translation>Zarejestruj aplikację</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="164"/>
         <source>Open &apos;Default Apps&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz &quot;Aplikacje domyślne&quot;</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="183"/>
@@ -15531,7 +15532,7 @@ Czy chcesz kontynuować?</translation>
         <location filename="DlgTransfer.ui" line="14"/>
         <source>Add/Replace metadata</source>
         <oldsource>Edit Metadata</oldsource>
-        <translation type="unfinished">Edycja metadanych</translation>
+        <translation>Dodaj/Edytuj metadane</translation>
     </message>
     <message>
         <location filename="DlgTransfer.ui" line="22"/>
@@ -16067,7 +16068,7 @@ Czy chcesz kontynuować?</translation>
         <location filename="DlgWriteJP2K.ui" line="138"/>
         <source>File size (kB)</source>
         <oldsource>File size (kbytes)</oldsource>
-        <translation type="unfinished">Rozmiar pliku (kilobajty)</translation>
+        <translation>Rozmiar pliku (KB)</translation>
     </message>
 </context>
 <context>
@@ -16432,7 +16433,7 @@ Czy chcesz kontynuować?</translation>
         <location filename="DlgWriteWebP.ui" line="173"/>
         <source>File size (kB)</source>
         <oldsource>File size (kbytes)</oldsource>
-        <translation type="unfinished">Rozmiar pliku (KB)</translation>
+        <translation>Rozmiar pliku (KB)</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="207"/>
@@ -16684,7 +16685,7 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
         <location filename="FavoritesView.cpp" line="106"/>
         <source>Show files in subfolders</source>
         <oldsource>Show files in subfolder</oldsource>
-        <translation type="unfinished">Pokazuj pliki w podfolderach</translation>
+        <translation>Pokazuj pliki w podfolderach</translation>
     </message>
     <message>
         <location filename="FavoritesView.cpp" line="114"/>
@@ -16787,7 +16788,7 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     <message>
         <location filename="FileListWidget.cpp" line="302"/>
         <source>Do you want to add only the folder and not the filelist?</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy chcesz dodać tylko folder, a nie listę plików?</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="40"/>
@@ -16971,7 +16972,7 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="81"/>
         <source>Greyscale</source>
-        <translation type="unfinished">Skala szarości</translation>
+        <translation>Skala szarości</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="85"/>
@@ -17223,7 +17224,7 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     <message>
         <location filename="ItemModel.cpp" line="1051"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaznacz</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1057"/>
@@ -17249,12 +17250,12 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="2067"/>
         <source>Aspect Ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Współczynnik proporcji</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2103"/>
         <source>File type</source>
-        <translation type="unfinished">Typ pliku</translation>
+        <translation>Typ pliku</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1067"/>
@@ -17269,22 +17270,22 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     <message>
         <location filename="SearchField.cpp" line="29"/>
         <source>File path</source>
-        <translation type="unfinished"></translation>
+        <translation>Ścieżka pliku</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="40"/>
         <source>Bits per sample</source>
-        <translation type="unfinished"></translation>
+        <translation>Bity na próbkę</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="44"/>
         <source>All standard fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie standardowe pola</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="45"/>
         <source>ExifTool value</source>
-        <translation type="unfinished"></translation>
+        <translation>Wartość ExifTool</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="140"/>
@@ -17449,7 +17450,7 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
         <location filename="TemplateData.cpp" line="2809"/>
         <source>Size (kB)</source>
         <oldsource>Size (KB)</oldsource>
-        <translation type="unfinished">Rozmiar (KB)</translation>
+        <translation>Rozmiar (KB)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2590"/>
@@ -17837,7 +17838,7 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="2079"/>
         <source>Lens</source>
-        <translation type="unfinished">Soczewki</translation>
+        <translation>Soczewki</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2087"/>
@@ -17848,57 +17849,57 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="2095"/>
         <source>Shutter Speed</source>
-        <translation type="unfinished">Prędkość migawki</translation>
+        <translation>Prędkość migawki</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2107"/>
         <source>Colour Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Przestrzeń kolorów</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2190"/>
         <source>Not Defined</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieokreślony</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2192"/>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Ręcznie</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2194"/>
         <source>Program AE</source>
-        <translation type="unfinished"></translation>
+        <translation>Program AE</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2196"/>
         <source>Aperture-priority AE</source>
-        <translation type="unfinished"></translation>
+        <translation>AE z priorytetem przysłony</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2198"/>
         <source>Shutter speed priority AE</source>
-        <translation type="unfinished"></translation>
+        <translation>Priorytet czasu otwarcia migawki AE</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2200"/>
         <source>Creative</source>
-        <translation type="unfinished"></translation>
+        <translation>Kreatywny</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2202"/>
         <source>Action</source>
-        <translation type="unfinished"></translation>
+        <translation>Akcja</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2204"/>
         <source>Portrait</source>
-        <translation type="unfinished">w pionie</translation>
+        <translation>w pionie</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2206"/>
         <source>Landscape</source>
-        <translation type="unfinished">w poziomie</translation>
+        <translation>w poziomie</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1078"/>
@@ -17925,7 +17926,7 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     <message>
         <location filename="ItemModel.cpp" line="1088"/>
         <source>Lens model</source>
-        <translation type="unfinished">Model obiektywu</translation>
+        <translation>Model obiektywu</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1090"/>
@@ -18377,17 +18378,17 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoFavoritesView.cpp" line="19"/>
         <source>Tag</source>
-        <translation type="unfinished">Znacznik</translation>
+        <translation>Znacznik</translation>
     </message>
     <message>
         <location filename="InfoFavoritesView.cpp" line="19"/>
         <source>Value</source>
-        <translation type="unfinished">Wartość</translation>
+        <translation>Wartość</translation>
     </message>
     <message>
         <location filename="InfoFavoritesView.cpp" line="45"/>
         <source>Remove from Favorites panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń z panelu Ulubione</translation>
     </message>
 </context>
 <context>
@@ -18867,7 +18868,7 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
         <location filename="SearchField.cpp" line="65"/>
         <location filename="TemplateData.cpp" line="2748"/>
         <source>Document title</source>
-        <translation>Nazwa dokumentu</translation>
+        <translation>Tytuł dokumentu</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="112"/>
@@ -18921,7 +18922,7 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     <message>
         <location filename="EditXMPWidget.cpp" line="171"/>
         <source>Telephone number</source>
-        <translation type="unfinished"></translation>
+        <translation>Numer telefonu</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="122"/>
@@ -19150,7 +19151,7 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoPanel.cpp" line="95"/>
         <source>Add to Favorites panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj do panelu Ulubionych</translation>
     </message>
 </context>
 <context>
@@ -19354,7 +19355,7 @@ Czy chcesz kontynuować?</translation>
         <location filename="ItemSelection.cpp" line="128"/>
         <source>&amp;Checked files</source>
         <oldsource>&amp;Tagged files</oldsource>
-        <translation type="unfinished">&amp;Oznaczone pliki</translation>
+        <translation>&amp;Zaznaczone pliki</translation>
     </message>
     <message>
         <location filename="ItemSelection.cpp" line="130"/>
@@ -19636,7 +19637,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="MediaPlayerMDK.cpp" line="248"/>
         <source>Open with</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz w</translation>
     </message>
 </context>
 <context>
@@ -19876,7 +19877,7 @@ Czy chcesz kontynuować?</translation>
         <location filename="BrowserMenu.h" line="84"/>
         <source>Checked file(s)</source>
         <oldsource>Tagged file(s)</oldsource>
-        <translation type="unfinished">Oznaczone pliki</translation>
+        <translation>Zaznaczone pliki</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="454"/>
@@ -20044,12 +20045,12 @@ Czy chcesz kontynuować?</translation>
         <location filename="BrowserMenu.h" line="85"/>
         <source>Unchecked file(s)</source>
         <oldsource>Untagged file(s)</oldsource>
-        <translation type="unfinished">Nieoznaczone pliki</translation>
+        <translation>Niezaznaczone pliki</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="23"/>
         <source>Film strip 3</source>
-        <translation type="unfinished">Taśma filmowa 3</translation>
+        <translation>Taśma filmowa 3</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="45"/>
@@ -20064,17 +20065,17 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="BrowserMenu.h" line="322"/>
         <source>Map</source>
-        <translation type="unfinished">Mapa</translation>
+        <translation>Mapa</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="457"/>
         <source>Check/Uncheck</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaznacz/Odznacz</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="507"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaznacz</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="531"/>
@@ -20094,7 +20095,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="BrowserMenu.h" line="545"/>
         <source>Open in file manager</source>
-        <translation type="unfinished">Otwórz w eksploratorze plików</translation>
+        <translation>Otwórz w eksploratorze plików</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="546"/>
@@ -20169,7 +20170,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="BrowserMenu.h" line="599"/>
         <source>Add/Replace metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj/Edytuj metadane...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="606"/>
@@ -20509,7 +20510,7 @@ Czy chcesz kontynuować?</translation>
         <location filename="BrowserMenu.h" line="437"/>
         <source>Select checked files</source>
         <oldsource>Select tagged files</oldsource>
-        <translation type="unfinished">Zaznacz pliki ze znacznikami</translation>
+        <translation>Wybierz zaznaczone pliki</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4469"/>
@@ -20593,7 +20594,7 @@ Czy chcesz kontynuować?</translation>
         <location filename="CompareWidget.cpp" line="462"/>
         <source>Check/Uncheck current</source>
         <oldsource>Tag/Untag current</oldsource>
-        <translation type="unfinished">Dodaj/usuń znacznik</translation>
+        <translation>Dodaj/usuń zaznaczenie</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="458"/>
@@ -20604,25 +20605,25 @@ Czy chcesz kontynuować?</translation>
         <location filename="BrowserMenu.h" line="459"/>
         <source>Uncheck all</source>
         <oldsource>Untag all</oldsource>
-        <translation type="unfinished">Usuń znaczniki wszystkich plików</translation>
+        <translation>Odznacz wszystkie</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="460"/>
         <source>Clear all checks</source>
         <oldsource>Clear all tags</oldsource>
-        <translation type="unfinished">Usuń wszystkie znaczniki</translation>
+        <translation>Odznacz wszystkie pliki</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="461"/>
         <source>Show checked files</source>
         <oldsource>Show tagged files</oldsource>
-        <translation type="unfinished">Pokaż pliki ze znacznikami</translation>
+        <translation>Pokaż zaznaczone pliki</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="462"/>
         <source>Show checkbox</source>
         <oldsource>Show tag box</oldsource>
-        <translation type="unfinished">Pokazuj pola wyboru elementów</translation>
+        <translation>Pokazuj pola wyboru</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="502"/>
@@ -20653,7 +20654,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="BrowserMenu.h" line="511"/>
         <source>Add to album</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj do albumu</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="512"/>
@@ -20668,12 +20669,12 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="BrowserMenu.h" line="514"/>
         <source>Remove from this album</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń z tego albumu</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="515"/>
         <source>Remove from all albums</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń ze wszystkich albumów</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="517"/>
@@ -20838,7 +20839,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="BrowserMenu.h" line="593"/>
         <source>Edit EXIF...</source>
-        <translation type="unfinished"></translation>
+        <translation>Edytuj EXIF...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="594"/>
@@ -21482,7 +21483,7 @@ Czy chcesz kontynuować?</translation>
         <location filename="ViewMenu.h" line="307"/>
         <source>Open in file manager</source>
         <oldsource>Open in file explorer</oldsource>
-        <translation type="unfinished">Otwórz w eksploratorze plików</translation>
+        <translation>Otwórz w eksploratorze plików</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="308"/>
@@ -21898,7 +21899,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="ViewMenu.h" line="323"/>
         <source>Paste in selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Wklej do zaznaczenia</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="324"/>
@@ -21908,7 +21909,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="ViewMenu.h" line="363"/>
         <source>Check/Uncheck</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaznacz/Odznacz</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="372"/>
@@ -22111,12 +22112,12 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="ViewMenu.h" line="492"/>
         <source>Remove horizontal strip</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń poziomy pasek</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="493"/>
         <source>Remove vertical strip</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń pionowy pasek</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="498"/>
@@ -22642,7 +22643,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="MyDirModel.cpp" line="324"/>
         <source>My Computer</source>
-        <translation type="unfinished"></translation>
+        <translation>Mój komputer</translation>
     </message>
     <message>
         <location filename="MyDirModel.cpp" line="1024"/>
@@ -23361,7 +23362,7 @@ Można go zmienić w Ustawienia&gt;Katalog</translation>
     <message>
         <location filename="PreviewInfo.cpp" line="473"/>
         <source>Favorites</source>
-        <translation type="unfinished">Ulubione</translation>
+        <translation>Ulubione</translation>
     </message>
     <message>
         <location filename="PreviewInfo.cpp" line="530"/>
@@ -24021,12 +24022,12 @@ Można go zmienić w Ustawienia&gt;Katalog</translation>
     <message>
         <location filename="SearchField.cpp" line="944"/>
         <source>is between (today)</source>
-        <translation type="unfinished"></translation>
+        <translation>jest pomiędzy (dzisiaj)</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="945"/>
         <source>is within the last</source>
-        <translation type="unfinished"></translation>
+        <translation>zawiera się w ostatnich</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="1034"/>
@@ -24102,12 +24103,12 @@ Można go zmienić w Ustawienia&gt;Katalog</translation>
     <message>
         <location filename="SearchField.cpp" line="937"/>
         <source>day(s)</source>
-        <translation type="unfinished">dni</translation>
+        <translation>dniach</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="938"/>
         <source>TODAY</source>
-        <translation type="unfinished"></translation>
+        <translation>DZIŚ</translation>
     </message>
 </context>
 <context>
@@ -24115,32 +24116,32 @@ Można go zmienić w Ustawienia&gt;Katalog</translation>
     <message>
         <location filename="SearchGroup.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formularz</translation>
     </message>
     <message>
         <location filename="SearchGroup.ui" line="62"/>
         <source>Add &gt;&gt;</source>
-        <translation type="unfinished">Dodaj</translation>
+        <translation>Dodaj &gt;&gt;</translation>
     </message>
     <message>
         <location filename="SearchGroup.ui" line="72"/>
         <source>Clear all</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyczyść wszystko</translation>
     </message>
     <message>
         <location filename="SearchGroup.ui" line="92"/>
         <source>Match inside this group</source>
-        <translation type="unfinished"></translation>
+        <translation>Dopasuj wewnątrz tej grupy</translation>
     </message>
     <message>
         <location filename="SearchGroup.ui" line="100"/>
         <source>AND</source>
-        <translation type="unfinished"></translation>
+        <translation>ORAZ</translation>
     </message>
     <message>
         <location filename="SearchGroup.ui" line="105"/>
         <source>OR</source>
-        <translation type="unfinished"></translation>
+        <translation>LUB</translation>
     </message>
 </context>
 <context>
@@ -24168,12 +24169,12 @@ Można go zmienić w Ustawienia&gt;Katalog</translation>
         <location filename="SummaryWidget.cpp" line="293"/>
         <location filename="SummaryWidget.cpp" line="300"/>
         <source>Greyscale</source>
-        <translation type="unfinished">Skala szarości</translation>
+        <translation>Skala szarości</translation>
     </message>
     <message>
         <location filename="SummaryWidget.cpp" line="294"/>
         <source>Indexed</source>
-        <translation type="unfinished"></translation>
+        <translation>Indeksowane</translation>
     </message>
 </context>
 <context>
@@ -24569,12 +24570,12 @@ Czy chcesz zachować miniatury?
     <message>
         <location filename="xnview.cpp" line="485"/>
         <source>Catalog update</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizacja katalogu</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="485"/>
         <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
-        <translation type="unfinished"></translation>
+        <translation>Należy zaktualizować katalog (Ustawienia&gt;Katalog&gt;Zaktualizuj metadane), jeśli chcesz użyć nowego węzła w &quot;Filtrze katalogu&quot;. </translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="880"/>
@@ -24605,7 +24606,9 @@ Ocena, znacznik, kolorowa etykieta nie zostaną zapisane.</translation>
         <source>There is a problem to update Catalog:
 (Error: % 1)
 Please contact the developer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wystąpił problem z aktualizacją katalogu:
+(Błąd: %1)
+Prosimy o kontakt z deweloperem.</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="951"/>
