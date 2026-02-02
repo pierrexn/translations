@@ -636,7 +636,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="2072"/>
         <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi-select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right-click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Filtre de catalogue&lt;/b&gt;&lt;br&gt;Clic gauche pour filtrer&lt;br&gt;&amp;bull ; Maj/Ctrl - multi-sélection&lt;br&gt;&amp;bull ; Alt - exclure des éléments&lt;br&gt;Clic droit pour ouvrir les options de nœud&lt;br&gt;Glissez-déposez sur un nœud pour l&apos;affecter</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2281"/>
@@ -755,7 +755,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="3476"/>
         <source>&lt;Checked files&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Fichiers marqués&gt;</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4474"/>
@@ -7311,67 +7311,67 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="DlgEditEXIF.ui" line="14"/>
         <source>Edit EXIF</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier les EXIF</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="26"/>
         <source>Manufacturer</source>
-        <translation type="unfinished">Fabricant</translation>
+        <translation>Fabricant</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="36"/>
         <source>Model</source>
-        <translation type="unfinished">Modèle</translation>
+        <translation>Modèle</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="50"/>
         <source>Software</source>
-        <translation type="unfinished">Logiciel</translation>
+        <translation>Logiciel</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="64"/>
         <source>Image description</source>
-        <translation type="unfinished">Description de l&apos;image</translation>
+        <translation>Description de l&apos;image</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="78"/>
         <source>Document name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom du document</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="92"/>
         <source>Artist</source>
-        <translation type="unfinished">Artiste</translation>
+        <translation>Artiste</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="106"/>
         <source>XP Title</source>
-        <translation type="unfinished">XP Titre</translation>
+        <translation>XP Titre</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="120"/>
         <source>XP Comment</source>
-        <translation type="unfinished">XP Commentaire</translation>
+        <translation>XP Commentaire</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="134"/>
         <source>XP Author</source>
-        <translation type="unfinished">XP Auteur</translation>
+        <translation>XP Auteur</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="148"/>
         <source>Copyright</source>
-        <translation type="unfinished">Copyright</translation>
+        <translation>Copyright</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="162"/>
         <source>User comment</source>
-        <translation type="unfinished">Commentaire utilisateur</translation>
+        <translation>Commentaire utilisateur</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="176"/>
         <source>F-Number</source>
-        <translation type="unfinished">F/stop</translation>
+        <translation>F/stop</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="185"/>
@@ -7381,87 +7381,87 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="DlgEditEXIF.ui" line="213"/>
         <source>Focal length</source>
-        <translation type="unfinished"></translation>
+        <translation>Longueur focale</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="222"/>
         <source>mm</source>
-        <translation type="unfinished">mm</translation>
+        <translation>mm</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="247"/>
         <source>Lens model</source>
-        <translation type="unfinished">Modèle de lentille</translation>
+        <translation>Modèle de lentille</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="257"/>
         <source>Date modified</source>
-        <translation type="unfinished">Date de modification</translation>
+        <translation>Date de modification</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="288"/>
         <source>Date taken</source>
-        <translation type="unfinished">Date de prise</translation>
+        <translation>Date de prise</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="319"/>
         <source>Date digitized</source>
-        <translation type="unfinished">Date de digitalisation</translation>
+        <translation>Date de digitalisation</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="350"/>
         <source>Orientation</source>
-        <translation type="unfinished">Orientation</translation>
+        <translation>Orientation</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="358"/>
         <source>0 - Not defined</source>
-        <translation type="unfinished"></translation>
+        <translation>0 - Non défini</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="363"/>
         <source>1 - Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>1 - Horizontal</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="368"/>
         <source>2 - Mirror horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>2 - Miroir horizontal</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="373"/>
         <source>3 - Rotate 180</source>
-        <translation type="unfinished"></translation>
+        <translation>3 - Rotation de 180 degrés</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="378"/>
         <source>4 - Mirror vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>4 - Miroir vertical</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="383"/>
         <source>5 - Mirror horizontal and rotate 270 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>5 - Miroir horizontal et rotation de 270 degrés</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="388"/>
         <source>6 - Rotate 90 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>6 - Rotation de 90 degrés</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="393"/>
         <source>7 - Mirror horizontal and rotate 90 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>7 - Miroir horizontal et rotation de 90 degrés</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="398"/>
         <source>8 - Rotate 270 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>8 - Rotation 270 degrés</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="424"/>
         <source>Write</source>
-        <translation type="unfinished"></translation>
+        <translation>Ecrire</translation>
     </message>
 </context>
 <context>
@@ -15520,7 +15520,7 @@ Voulez-vous continuer?</translation>
         <location filename="DlgTransfer.ui" line="14"/>
         <source>Add/Replace metadata</source>
         <oldsource>Edit Metadata</oldsource>
-        <translation type="unfinished">Modifier les métadonnées</translation>
+        <translation>Ajouter/Remplacer les métadonnées</translation>
     </message>
     <message>
         <location filename="DlgTransfer.ui" line="22"/>
@@ -19339,7 +19339,7 @@ Voulez-vous continuer ?</translation>
         <location filename="ItemSelection.cpp" line="128"/>
         <source>&amp;Checked files</source>
         <oldsource>&amp;Tagged files</oldsource>
-        <translation type="unfinished">Fichiers &amp;marqués</translation>
+        <translation>Fichiers &amp;marqués</translation>
     </message>
     <message>
         <location filename="ItemSelection.cpp" line="130"/>
@@ -20067,12 +20067,12 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="BrowserMenu.h" line="593"/>
         <source>Edit EXIF...</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier les EXIF...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="599"/>
         <source>Add/Replace metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter/remplacer des métadonnées...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="601"/>
