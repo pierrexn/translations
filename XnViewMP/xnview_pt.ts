@@ -670,12 +670,12 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="2072"/>
         <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi-select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right-click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Filtro de catálogo&lt;/b&gt;&lt;br&gt;Clique esquerdo para filtrar&lt;br&gt;&amp;bull; Shift/Ctrl - selecção múltipla&lt;br&gt;&amp;bull; Alt - desseleccionar&lt;br&gt;Clique direito para abrir opções de nó&lt;br&gt;Arrastar e largar no nó para associar</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3476"/>
         <source>&lt;Checked files&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Ficheiros marcados&gt;</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3478"/>
@@ -749,18 +749,18 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
         <location filename="BrowserWindow.cpp" line="2007"/>
         <location filename="BrowserWindow.cpp" line="2019"/>
         <source>AND</source>
-        <translation type="unfinished">E</translation>
+        <translation>E</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2007"/>
         <location filename="BrowserWindow.cpp" line="2013"/>
         <source>OR</source>
-        <translation type="unfinished">OU</translation>
+        <translation>OU</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2008"/>
         <source>&lt;b&gt;Match&lt;/b&gt;&lt;br&gt;OR - match any selected entry&lt;br&gt;AND - match all selected entries</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Correspondência&lt;/b&gt;&lt;br&gt;OU - com um ou outro dos itens&lt;br&gt;E - com todos os itens em simultâneo</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4474"/>
@@ -2110,13 +2110,13 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
         <location filename="DBFilterModel.cpp" line="248"/>
         <location filename="DBFilterModel.cpp" line="548"/>
         <source>Check (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcar (%1)</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="248"/>
         <location filename="DBFilterModel.cpp" line="548"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Marca</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1457"/>
@@ -7334,157 +7334,157 @@ Deseja continuar?</translation>
     <message>
         <location filename="DlgEditEXIF.ui" line="14"/>
         <source>Edit EXIF</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar EXIF</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="26"/>
         <source>Manufacturer</source>
-        <translation type="unfinished">Fabricante</translation>
+        <translation>Fabricante</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="36"/>
         <source>Model</source>
-        <translation type="unfinished">Modelo</translation>
+        <translation>Modelo</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="50"/>
         <source>Software</source>
-        <translation type="unfinished">Software</translation>
+        <translation>Software</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="64"/>
         <source>Image description</source>
-        <translation type="unfinished">Descrição da imagem</translation>
+        <translation>Descrição da imagem</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="78"/>
         <source>Document name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome do documento</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="92"/>
         <source>Artist</source>
-        <translation type="unfinished">Artista</translation>
+        <translation>Artista</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="106"/>
         <source>XP Title</source>
-        <translation type="unfinished">XP Título</translation>
+        <translation>XP Título</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="120"/>
         <source>XP Comment</source>
-        <translation type="unfinished">XP Comentário</translation>
+        <translation>XP Comentário</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="134"/>
         <source>XP Author</source>
-        <translation type="unfinished">XP Autor</translation>
+        <translation>XP Autor</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="148"/>
         <source>Copyright</source>
-        <translation type="unfinished">Copyright</translation>
+        <translation>Copyright</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="162"/>
         <source>User comment</source>
-        <translation type="unfinished">Comentário do utilizador</translation>
+        <translation>Comentário do utilizador</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="176"/>
         <source>F-Number</source>
-        <translation type="unfinished">Número F</translation>
+        <translation>Número F</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="185"/>
         <source>f/</source>
-        <translation type="unfinished"></translation>
+        <translation>f/</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="213"/>
         <source>Focal length</source>
-        <translation type="unfinished"></translation>
+        <translation>Distância focal</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="222"/>
         <source>mm</source>
-        <translation type="unfinished">mm</translation>
+        <translation>mm</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="247"/>
         <source>Lens model</source>
-        <translation type="unfinished">Modelo da lente</translation>
+        <translation>Modelo da lente</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="257"/>
         <source>Date modified</source>
-        <translation type="unfinished">Data de modificação</translation>
+        <translation>Data de modificação</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="288"/>
         <source>Date taken</source>
-        <translation type="unfinished">Data de captação</translation>
+        <translation>Data de captação</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="319"/>
         <source>Date digitized</source>
-        <translation type="unfinished">Data de digitalização</translation>
+        <translation>Data de digitalização</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="350"/>
         <source>Orientation</source>
-        <translation type="unfinished">Orientação</translation>
+        <translation>Orientação</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="358"/>
         <source>0 - Not defined</source>
-        <translation type="unfinished"></translation>
+        <translation>0 - Por definir</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="363"/>
         <source>1 - Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>1 - Horizontal</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="368"/>
         <source>2 - Mirror horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>2 - Simetria horizontal</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="373"/>
         <source>3 - Rotate 180</source>
-        <translation type="unfinished"></translation>
+        <translation>3 - Rotação de 180 graus</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="378"/>
         <source>4 - Mirror vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>4 - Simetria vertical</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="383"/>
         <source>5 - Mirror horizontal and rotate 270 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>5 - Simetria horizontal e rodar 270 graus sentido horário</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="388"/>
         <source>6 - Rotate 90 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>6 - Rodar 90 graus sentido horário</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="393"/>
         <source>7 - Mirror horizontal and rotate 90 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>7 - Simetria horizontal e rodar 90 graus sentido horário</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="398"/>
         <source>8 - Rotate 270 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>8 - Rodar 270 graus sentido horário</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="424"/>
         <source>Write</source>
-        <translation type="unfinished"></translation>
+        <translation>Escrever</translation>
     </message>
 </context>
 <context>
@@ -11669,7 +11669,7 @@ Prefere retirá-los?</translation>
         <location filename="DlgSettingsBrowser.ui" line="438"/>
         <source>Clear the list of checked files</source>
         <oldsource>Clear the list of tagged files</oldsource>
-        <translation type="unfinished">Limpar lista de ficheiros etiquetados</translation>
+        <translation>Limpar lista de ficheiros marcados</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="446"/>
@@ -11714,7 +11714,7 @@ Prefere retirá-los?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="430"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Marca</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="85"/>
@@ -13978,7 +13978,7 @@ Pretende reatribuir?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="722"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Marca</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="904"/>
@@ -15564,7 +15564,7 @@ Deseja continuar?</translation>
         <location filename="DlgTransfer.ui" line="14"/>
         <source>Add/Replace metadata</source>
         <oldsource>Edit Metadata</oldsource>
-        <translation type="unfinished">Modifique metadados</translation>
+        <translation>Adicione/Substitua metadados</translation>
     </message>
     <message>
         <location filename="DlgTransfer.ui" line="22"/>
@@ -17257,7 +17257,7 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
     <message>
         <location filename="ItemModel.cpp" line="1051"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Marca</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1057"/>
@@ -18017,7 +18017,7 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
         <location filename="SearchField.cpp" line="84"/>
         <location filename="TemplateData.cpp" line="2618"/>
         <source>Date/time modified</source>
-        <translation>Data de modificação</translation>
+        <translation>Data/hora de modificação</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2063"/>
@@ -19391,7 +19391,7 @@ Deseja continuar?</translation>
         <location filename="ItemSelection.cpp" line="128"/>
         <source>&amp;Checked files</source>
         <oldsource>&amp;Tagged files</oldsource>
-        <translation type="unfinished">Ficheiros &amp;Etiquetados</translation>
+        <translation>Ficheiros &amp;Marcados</translation>
     </message>
     <message>
         <location filename="ItemSelection.cpp" line="130"/>
@@ -19932,13 +19932,13 @@ Deseja continuar?</translation>
         <source>Checked file(s)</source>
         <oldsource>Tagged file(s)</oldsource>
         <translatorcomment>I used only the plural, since the needed use of two (s) seemed inesthetical</translatorcomment>
-        <translation type="unfinished">Ficheiros etiquetados</translation>
+        <translation>Ficheiro(s) marcado(s)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="85"/>
         <source>Unchecked file(s)</source>
         <oldsource>Untagged file(s)</oldsource>
-        <translation type="unfinished">Ficheiro(s) sem etiqueta</translation>
+        <translation>Ficheiro(s) não marcados</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="322"/>
@@ -19953,7 +19953,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="BrowserMenu.h" line="457"/>
         <source>Check/Uncheck</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcar/Desmarcar</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="471"/>
@@ -19974,7 +19974,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="BrowserMenu.h" line="507"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Marca</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="508"/>
@@ -20498,7 +20498,7 @@ Deseja continuar?</translation>
         <location filename="BrowserMenu.h" line="437"/>
         <source>Select checked files</source>
         <oldsource>Select tagged files</oldsource>
-        <translation type="unfinished">Seleccionar ficheiros etiquetados</translation>
+        <translation>Seleccionar ficheiros marcados</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4469"/>
@@ -20582,7 +20582,7 @@ Deseja continuar?</translation>
         <location filename="CompareWidget.cpp" line="462"/>
         <source>Check/Uncheck current</source>
         <oldsource>Tag/Untag current</oldsource>
-        <translation type="unfinished">Colocar/tirar etiqueta actual</translation>
+        <translation>Marcar/Desmarcar actual</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="458"/>
@@ -20593,25 +20593,25 @@ Deseja continuar?</translation>
         <location filename="BrowserMenu.h" line="459"/>
         <source>Uncheck all</source>
         <oldsource>Untag all</oldsource>
-        <translation type="unfinished">Retirar todas as etiquetas</translation>
+        <translation>Desmarcar todos</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="460"/>
         <source>Clear all checks</source>
         <oldsource>Clear all tags</oldsource>
-        <translation type="unfinished">Limpar todas as etiquetas</translation>
+        <translation>Limpar todas as marcas</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="461"/>
         <source>Show checked files</source>
         <oldsource>Show tagged files</oldsource>
-        <translation type="unfinished">Mostrar ficheiros etiquetados</translation>
+        <translation>Mostrar ficheiros marcados</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="462"/>
         <source>Show checkbox</source>
         <oldsource>Show tag box</oldsource>
-        <translation type="unfinished">Mostrar caixa de etiquetagem</translation>
+        <translation>Mostrar caixa de marcação</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="502"/>
@@ -20823,7 +20823,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="BrowserMenu.h" line="593"/>
         <source>Edit EXIF...</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar EXIF...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="594"/>
@@ -20854,7 +20854,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="BrowserMenu.h" line="599"/>
         <source>Add/Replace metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Adicionar/Substituir metadados...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="600"/>
@@ -21726,7 +21726,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="ViewMenu.h" line="363"/>
         <source>Check/Uncheck</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcar/Desmarcar</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="404"/>
