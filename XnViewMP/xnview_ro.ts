@@ -559,7 +559,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Favorite name:</source>
-        <translation>Nume preferate:</translation>
+        <translation>Numele preferat:</translation>
     </message>
     <message>
         <source>Catalog Filter</source>
@@ -615,11 +615,11 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi-select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right-click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Filtrul de catalog&lt;/b&gt;&lt;br&gt;Dă clic stânga pentru filtrare&lt;br&gt;&amp;bull; Shift/Ctrl - selecție multiplă&lt;br&gt;&amp;bull; Alt - exclude elementele&lt;br&gt;Dă clic dreapta ca să deschizi opțiunile nodului&lt;br&gt;Trage și plasează (folosește drag &amp; drop) pe un nod pentru atribuire</translation>
     </message>
     <message>
         <source>&lt;Checked files&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Fișierele bifate&gt;</translation>
     </message>
 </context>
 <context>
@@ -640,7 +640,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     <name>CategoryModel</name>
     <message>
         <source>Label</source>
-        <translation>Eticheta</translation>
+        <translation>Etichetă</translation>
     </message>
 </context>
 <context>
@@ -1151,11 +1151,11 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>White Balance</source>
-        <translation>Echilibru alb</translation>
+        <translation>Echilibrul alb</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation>Rotire</translation>
+        <translation>Rotește</translation>
     </message>
     <message>
         <source>Soften</source>
@@ -2127,7 +2127,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation>Rotire</translation>
+        <translation>Rotește</translation>
     </message>
     <message numerus="yes">
         <source>%n second(s) remaining</source>
@@ -3269,7 +3269,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Brightness</source>
-        <translation>Luminozitate</translation>
+        <translation>Luminozitatea</translation>
     </message>
 </context>
 <context>
@@ -5672,127 +5672,127 @@ Vrei să continui?</translation>
     <name>DlgEditEXIFClass</name>
     <message>
         <source>Edit EXIF</source>
-        <translation type="unfinished"></translation>
+        <translation>Editează EXIF-ul</translation>
     </message>
     <message>
         <source>Manufacturer</source>
-        <translation type="unfinished">Producător</translation>
+        <translation>Producătorul</translation>
     </message>
     <message>
         <source>Model</source>
-        <translation type="unfinished">Model</translation>
+        <translation>Modelul</translation>
     </message>
     <message>
         <source>Software</source>
-        <translation type="unfinished">Software</translation>
+        <translation>Software</translation>
     </message>
     <message>
         <source>Image description</source>
-        <translation type="unfinished">Descrierea imaginii</translation>
+        <translation>Descrierea imaginii</translation>
     </message>
     <message>
         <source>Document name</source>
-        <translation type="unfinished"></translation>
+        <translation>Numele documentului</translation>
     </message>
     <message>
         <source>Artist</source>
-        <translation type="unfinished">Artist</translation>
+        <translation>Artistul</translation>
     </message>
     <message>
         <source>XP Title</source>
-        <translation type="unfinished">Titlul XP</translation>
+        <translation>Titlul XP-ului</translation>
     </message>
     <message>
         <source>XP Comment</source>
-        <translation type="unfinished">Comentariu XP</translation>
+        <translation>Comentariul XP-ului</translation>
     </message>
     <message>
         <source>XP Author</source>
-        <translation type="unfinished">Autor XP</translation>
+        <translation>Autorul XP-ului</translation>
     </message>
     <message>
         <source>Copyright</source>
-        <translation type="unfinished">Drepturi de autor</translation>
+        <translation>Drepturi de autor</translation>
     </message>
     <message>
         <source>User comment</source>
-        <translation type="unfinished">Comentariu utilizator</translation>
+        <translation>Comentariul utilizatorului</translation>
     </message>
     <message>
         <source>F-Number</source>
-        <translation type="unfinished">Numărul F</translation>
+        <translation>Numărul F</translation>
     </message>
     <message>
         <source>f/</source>
-        <translation type="unfinished"></translation>
+        <translation>f/</translation>
     </message>
     <message>
         <source>Focal length</source>
-        <translation type="unfinished"></translation>
+        <translation>Distanța focală</translation>
     </message>
     <message>
         <source>mm</source>
-        <translation type="unfinished">mm</translation>
+        <translation>mm</translation>
     </message>
     <message>
         <source>Lens model</source>
-        <translation type="unfinished"></translation>
+        <translation>Modelul lentilei</translation>
     </message>
     <message>
         <source>Date modified</source>
-        <translation type="unfinished">Data modificata</translation>
+        <translation>Data când a fost modificată</translation>
     </message>
     <message>
         <source>Date taken</source>
-        <translation type="unfinished">Data luării</translation>
+        <translation>Data când a fost făcută</translation>
     </message>
     <message>
         <source>Date digitized</source>
-        <translation type="unfinished">Data digitizată</translation>
+        <translation>Data la care a fost digitizată</translation>
     </message>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished">Orientare</translation>
+        <translation>Orientarea</translation>
     </message>
     <message>
         <source>0 - Not defined</source>
-        <translation type="unfinished"></translation>
+        <translation>0 - Nedefinită</translation>
     </message>
     <message>
         <source>1 - Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>1 - Orizontală</translation>
     </message>
     <message>
         <source>2 - Mirror horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>2 - Pe orizontală, în oglindă</translation>
     </message>
     <message>
         <source>3 - Rotate 180</source>
-        <translation type="unfinished"></translation>
+        <translation>3 - Rotește la 180 de grade</translation>
     </message>
     <message>
         <source>4 - Mirror vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>2 - Pe verticală, în oglindă</translation>
     </message>
     <message>
         <source>5 - Mirror horizontal and rotate 270 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>5 - Oglindire orizontală și rotește la 270 de grade în sensul acelor de ceasornic</translation>
     </message>
     <message>
         <source>6 - Rotate 90 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>6 - Rotește la 90° în sensul acelor de ceasornic</translation>
     </message>
     <message>
         <source>7 - Mirror horizontal and rotate 90 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>7 - Oglindire orizontală și rotește la 90° în sensul acelor de ceasornic</translation>
     </message>
     <message>
         <source>8 - Rotate 270 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>8 - Rotește la 270 de grade în sensul acelor de ceasornic</translation>
     </message>
     <message>
         <source>Write</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrie</translation>
     </message>
 </context>
 <context>
@@ -5811,7 +5811,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Edit favorites</source>
-        <translation>Editeaza favoritele</translation>
+        <translation>Editează favoritele</translation>
     </message>
     <message>
         <source>Edit...</source>
@@ -6110,7 +6110,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Brightness</source>
-        <translation>Luminozitate</translation>
+        <translation>Luminozitatea</translation>
     </message>
     <message>
         <source>Exposure</source>
@@ -8691,7 +8691,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation>Rotire</translation>
+        <translation>Rotește</translation>
     </message>
     <message>
         <source>Apply to image</source>
@@ -12000,7 +12000,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Add/Replace metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Adaugă/Înlocuiește metadate</translation>
     </message>
 </context>
 <context>
@@ -13070,7 +13070,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Date modified</source>
-        <translation>Data modificata</translation>
+        <translation>Data când a fost modificată</translation>
     </message>
 </context>
 <context>
@@ -13192,11 +13192,11 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Manufacturer</source>
-        <translation>Producător</translation>
+        <translation>Producătorul</translation>
     </message>
     <message>
         <source>Lens ID</source>
-        <translation>LensID</translation>
+        <translation>ID-ul lentilelor (Lens ID)</translation>
     </message>
     <message>
         <source>Aspect ratio</source>
@@ -13272,7 +13272,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Lens model</source>
-        <translation>Model de lentile</translation>
+        <translation>Modelul lentilei</translation>
     </message>
     <message>
         <source>Format settings</source>
@@ -13312,7 +13312,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Date taken</source>
-        <translation>Data luării</translation>
+        <translation>Data când a fost făcută</translation>
     </message>
     <message>
         <source>Tag status</source>
@@ -13764,7 +13764,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>XP Title</source>
-        <translation>Titlul XP</translation>
+        <translation>Titlul XP-ului</translation>
     </message>
     <message>
         <source>F-Number</source>
@@ -13824,11 +13824,11 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Artist</source>
-        <translation>Artist</translation>
+        <translation>Artistul</translation>
     </message>
     <message>
         <source>XP Author</source>
-        <translation>Autor XP</translation>
+        <translation>Autorul XP-ului</translation>
     </message>
     <message>
         <source>Camera</source>
@@ -13860,11 +13860,11 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Lens Model</source>
-        <translation>Model de lentile</translation>
+        <translation>Modelul lentilei</translation>
     </message>
     <message>
         <source>White balance</source>
-        <translation>Echilibru alb</translation>
+        <translation>Echilibrul alb</translation>
     </message>
     <message>
         <source>Software</source>
@@ -13888,7 +13888,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Date digitized</source>
-        <translation>Data digitizată</translation>
+        <translation>Data la care a fost digitizată</translation>
     </message>
     <message>
         <source>Aperture</source>
@@ -13916,7 +13916,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Date taken</source>
-        <translation>Data luării</translation>
+        <translation>Data când a fost făcută</translation>
     </message>
     <message>
         <source>File source</source>
@@ -14012,19 +14012,19 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>User comment</source>
-        <translation>Comentariu utilizator</translation>
+        <translation>Comentariul utilizatorului</translation>
     </message>
     <message>
         <source>Photometric interpretation</source>
-        <translation>Interpretare fotometrică</translation>
+        <translation>Interpretarea fotometrică</translation>
     </message>
     <message>
         <source>Brightness</source>
-        <translation>Luminozitate</translation>
+        <translation>Luminozitatea</translation>
     </message>
     <message>
         <source>Ref. black/white</source>
-        <translation>Ref. alb/negru</translation>
+        <translation>Referință alb/negru</translation>
     </message>
     <message>
         <source>Spatial freq. response</source>
@@ -14128,7 +14128,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Lens model</source>
-        <translation>Modelul de lentile</translation>
+        <translation>Modelul lentilei</translation>
     </message>
 </context>
 <context>
@@ -14229,7 +14229,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Digitized date</source>
-        <translation>Data digitizată</translation>
+        <translation>Data la care a fost digitizată</translation>
     </message>
     <message>
         <source>Digitized time</source>
@@ -14779,7 +14779,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>&amp;Checked files</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișierele &amp;bifate</translation>
     </message>
 </context>
 <context>
@@ -16079,11 +16079,11 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Edit EXIF...</source>
-        <translation type="unfinished"></translation>
+        <translation>Editează EXIF-ul...</translation>
     </message>
     <message>
         <source>Add/Replace metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Adaugă/Înlocuiește metadate...</translation>
     </message>
 </context>
 <context>
@@ -16528,7 +16528,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation>Rotire</translation>
+        <translation>Rotește</translation>
     </message>
     <message>
         <source>Remove alpha channel</source>
@@ -18669,7 +18669,7 @@ O poți schimba în Setări › Catalog.</translation>
     </message>
     <message>
         <source>Brightness</source>
-        <translation>Luminozitate</translation>
+        <translation>Luminozitatea</translation>
     </message>
     <message>
         <source>Remove last drawn rectangle</source>
