@@ -185,7 +185,7 @@
         <location filename="AboutWidget.ui" line="275"/>
         <location filename="AboutWidget.ui" line="299"/>
         <source>Translators</source>
-        <translation type="unfinished"></translation>
+        <translation>Översättare</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="294"/>
@@ -314,7 +314,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="2981"/>
         <source>The file &lt;%1&gt; is read-only. Please choose another file name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen &lt;%1&gt; är skrivskyddad. Välj ett annat filnamn.</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2989"/>
