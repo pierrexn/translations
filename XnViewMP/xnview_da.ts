@@ -360,7 +360,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="250"/>
         <source>&amp;Save</source>
-        <translation>Gem</translation>
+        <translation>&amp;Gem</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="251"/>
@@ -7640,7 +7640,7 @@ Vil du fortsætte?</translation>
         <location filename="DlgEditXMP.cpp" line="44"/>
         <source>&amp;Write</source>
         <oldsource>Write</oldsource>
-        <translation>Skriv</translation>
+        <translation>&amp;Skriv</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="45"/>
@@ -9145,7 +9145,7 @@ Undermapper vil blive oprettet. </translation>
         <location filename="DlgIptc.cpp" line="51"/>
         <source>&amp;Write</source>
         <oldsource>Write</oldsource>
-        <translation>Skriv</translation>
+        <translation>&amp;Skriv</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="178"/>
@@ -11242,17 +11242,17 @@ Vil du fjerne dem?</translation>
     <message>
         <location filename="DlgSearch.cpp" line="329"/>
         <source>Preset search name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Forudindstillet søgenavn:</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="332"/>
         <source>Save pathname</source>
-        <translation type="unfinished"></translation>
+        <translation>Gem navn på sti</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="395"/>
         <source>GROUP</source>
-        <translation type="unfinished"></translation>
+        <translation>GRUPPE</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="420"/>
@@ -11282,7 +11282,7 @@ Vil du fjerne dem?</translation>
     <message>
         <location filename="DlgSearch.ui" line="143"/>
         <source>Close dialog when browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Luk dialogboks, når du browser</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="195"/>
@@ -11302,7 +11302,7 @@ Vil du fjerne dem?</translation>
     <message>
         <location filename="DlgSearch.ui" line="237"/>
         <source>Save as Smart Album...</source>
-        <translation type="unfinished"></translation>
+        <translation>Gem som Smart Album...</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="299"/>
@@ -11528,12 +11528,12 @@ Vil du fjerne dem?</translation>
     <message>
         <location filename="DlgSettings.cpp" line="357"/>
         <source>The changes will be applied after restarting the application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ændringerne vil blive anvendt efter genstart af applikationen.</translation>
     </message>
     <message>
         <location filename="DlgSettings.cpp" line="360"/>
         <source>Restart now</source>
-        <translation type="unfinished"></translation>
+        <translation>Genstart nu</translation>
     </message>
 </context>
 <context>
@@ -11566,7 +11566,7 @@ Vil du fjerne dem?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="118"/>
         <source>Show &apos;Desktop&apos; in folder tree</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis &apos;Skrivebord&apos; i mappetræ</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="207"/>
@@ -11722,7 +11722,7 @@ Vil du fjerne dem?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="430"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrollér</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="85"/>
@@ -11780,7 +11780,7 @@ Vil du fjerne dem?</translation>
     <message>
         <location filename="DlgSettingsCache.cpp" line="152"/>
         <source>Database [catalog: %1 %2 - thumbnails: %3 %4]</source>
-        <translation type="unfinished"></translation>
+        <translation>Database [katalog:% 1% 2 - miniaturer:% 3% 4]</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="264"/>
@@ -11828,7 +11828,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgSettingsCache.cpp" line="547"/>
         <source>Updating database, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdaterer database, vent...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="564"/>
@@ -11946,7 +11946,7 @@ Vil du fjerne indtastninger, der er tilknyttet en kategori?</translation>
     <message>
         <location filename="DlgSettingsCache.ui" line="265"/>
         <source>Store Exiftool fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Lagr Exiftool felter</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="277"/>
@@ -12001,7 +12001,7 @@ Vil du fjerne indtastninger, der er tilknyttet en kategori?</translation>
         <location filename="DlgSettingsCache.ui" line="437"/>
         <source>Update metadata</source>
         <oldsource>Update metadata...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Opdatér metadata</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="501"/>
@@ -12594,7 +12594,7 @@ miniature</translation>
         <location filename="DlgSettingsGeneral.ui" line="112"/>
         <source>Custom</source>
         <comment>theme</comment>
-        <translation type="unfinished"></translation>
+        <translation>Brugerdefineret</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="402"/>
@@ -12693,7 +12693,7 @@ miniature</translation>
         <location filename="DlgSettingsGeneral.ui" line="997"/>
         <source>Custom</source>
         <comment>icc</comment>
-        <translation type="unfinished"></translation>
+        <translation>Brugerdefineret</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="1097"/>
@@ -12917,7 +12917,7 @@ miniature</translation>
         <location filename="DlgSettingsIntegration.ui" line="58"/>
         <source>Add shell extension to context menu</source>
         <oldsource>Enable shell extension to context menu</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Tilføj shell-udvidelse til kontekstmenu</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="70"/>
@@ -12928,12 +12928,12 @@ miniature</translation>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="94"/>
         <source>Register application</source>
-        <translation type="unfinished"></translation>
+        <translation>Registrér applikationen</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="118"/>
         <source>Open &apos;Default Apps&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Åbn &apos;Standardapps&apos;...</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="154"/>
@@ -12997,7 +12997,7 @@ miniature</translation>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="445"/>
         <source>ExifTool path</source>
-        <translation type="unfinished"></translation>
+        <translation>ExifTool-sti</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="462"/>
@@ -14021,7 +14021,7 @@ Vil du tilknytte igen?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="110"/>
         <source>Use transparency grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Brug gennemsigtighedsgitter</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="211"/>
@@ -14077,7 +14077,7 @@ Vil du tilknytte igen?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="722"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrollér</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="904"/>
@@ -14909,7 +14909,7 @@ Vil du tilknytte igen?</translation>
     <message>
         <location filename="DlgSlideshow.ui" line="343"/>
         <source>Watch folders for new files</source>
-        <translation type="unfinished"></translation>
+        <translation>Gennemse mapper for nye filer</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="580"/>
@@ -15181,7 +15181,7 @@ Vil du tilknytte igen?</translation>
     <message>
         <location filename="DlgStartupWizard.ui" line="102"/>
         <source>Portable (application folder)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bærbar (applikationsmappe)</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="134"/>
@@ -15203,27 +15203,27 @@ Vil du tilknytte igen?</translation>
     <message>
         <location filename="DlgStartupWizard.ui" line="128"/>
         <source>Windows Explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows Stifinder</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="141"/>
         <source>Add shell extension to context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilføj shell-udvidelse til kontekstmenu</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="151"/>
         <source>File Association</source>
-        <translation type="unfinished"></translation>
+        <translation>Fil-tilknytning</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="157"/>
         <source>Register application</source>
-        <translation type="unfinished"></translation>
+        <translation>Registrér applikationen</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="164"/>
         <source>Open &apos;Default Apps&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Åbn &apos;Standardapps&apos;</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="183"/>
@@ -15469,7 +15469,7 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="DlgTimestamp.cpp" line="569"/>
         <source>An error occurred when updating these files:</source>
-        <translation type="unfinished"></translation>
+        <translation>Der opstod en fejl under opdateringen af disse filer:</translation>
     </message>
 </context>
 <context>
@@ -16839,7 +16839,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     <message>
         <location filename="FileListWidget.cpp" line="302"/>
         <source>Do you want to add only the folder and not the filelist?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vil du kun tilføje mappen og ikke fillisten?</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="40"/>
@@ -17279,7 +17279,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     <message>
         <location filename="ItemModel.cpp" line="1051"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrollér</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1057"/>
@@ -17305,7 +17305,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="2067"/>
         <source>Aspect Ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Billedformat</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2103"/>
@@ -17325,22 +17325,22 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     <message>
         <location filename="SearchField.cpp" line="29"/>
         <source>File path</source>
-        <translation type="unfinished"></translation>
+        <translation>Fil-sti</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="40"/>
         <source>Bits per sample</source>
-        <translation type="unfinished"></translation>
+        <translation>Bits pr. prøve</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="44"/>
         <source>All standard fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle standard-felter</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="45"/>
         <source>ExifTool value</source>
-        <translation type="unfinished"></translation>
+        <translation>ExifTool-værdi</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="140"/>
@@ -17725,17 +17725,17 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="140"/>
         <source>Import Categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Importér kategorier...</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="142"/>
         <source>Import Categories (XnView Classic db)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Importér kategorier (XnView Classic-database)...</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="144"/>
         <source>Export Categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksportér kategorier...</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="147"/>
@@ -17913,37 +17913,37 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="2107"/>
         <source>Colour Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Farverum</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2190"/>
         <source>Not Defined</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikke defineret</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2192"/>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Manuel</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2194"/>
         <source>Program AE</source>
-        <translation type="unfinished"></translation>
+        <translation>Program AE</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2196"/>
         <source>Aperture-priority AE</source>
-        <translation type="unfinished"></translation>
+        <translation>Blændeprioriteret AE</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2198"/>
         <source>Shutter speed priority AE</source>
-        <translation type="unfinished"></translation>
+        <translation>Lukkerhastighedsprioritet AE</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2200"/>
         <source>Creative</source>
-        <translation type="unfinished"></translation>
+        <translation>Kreativt</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2202"/>
@@ -18028,7 +18028,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     <message>
         <location filename="SearchField.cpp" line="90"/>
         <source>Exposure time (s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksponeringstid (s)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2617"/>
@@ -18371,17 +18371,17 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2692"/>
         <source>SubSecTime</source>
-        <translation type="unfinished"></translation>
+        <translation>SubSecTime</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2693"/>
         <source>SubSecTime Original</source>
-        <translation type="unfinished"></translation>
+        <translation>SubSecTime Original</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2694"/>
         <source>SubSecTime Digitized</source>
-        <translation type="unfinished"></translation>
+        <translation>SubSecTime digitaliseret</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2700"/>
@@ -18444,7 +18444,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     <message>
         <location filename="InfoFavoritesView.cpp" line="45"/>
         <source>Remove from Favorites panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjern fra panelet Favoritter</translation>
     </message>
 </context>
 <context>
@@ -18681,7 +18681,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
         <location filename="InfoIPTCView.cpp" line="26"/>
         <location filename="IptcHelper.cpp" line="19"/>
         <source>Local caption</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokal billedtekst</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="65"/>
@@ -18815,67 +18815,67 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     <message>
         <location filename="SearchField.cpp" line="110"/>
         <source>Modify Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Modificér dato</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="111"/>
         <source>Create Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Oprettelsesdato</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="112"/>
         <source>Hierarchical Subject</source>
-        <translation type="unfinished"></translation>
+        <translation>Hierarkisk emne</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="129"/>
         <source>Custom field 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Brugerdefineret felt 1</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="130"/>
         <source>Custom field 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Brugerdefineret felt 2</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="131"/>
         <source>Custom field 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Brugerdefineret felt 3</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="132"/>
         <source>Custom field 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Brugerdefineret felt 4</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="133"/>
         <source>Custom field 5</source>
-        <translation type="unfinished"></translation>
+        <translation>Brugerdefineret felt 5</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="134"/>
         <source>Custom field 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Brugerdefineret felt 6</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="135"/>
         <source>Custom field 7</source>
-        <translation type="unfinished"></translation>
+        <translation>Brugerdefineret felt 7</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="136"/>
         <source>Custom field 8</source>
-        <translation type="unfinished"></translation>
+        <translation>Brugerdefineret felt 8</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="137"/>
         <source>Custom field 9</source>
-        <translation type="unfinished"></translation>
+        <translation>Brugerdefineret felt 9</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="138"/>
         <source>Custom field 10</source>
-        <translation type="unfinished"></translation>
+        <translation>Brugerdefineret felt 10</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="133"/>
@@ -18978,7 +18978,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     <message>
         <location filename="EditXMPWidget.cpp" line="171"/>
         <source>Telephone number</source>
-        <translation type="unfinished"></translation>
+        <translation>Telefonnummer</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="122"/>
@@ -19209,7 +19209,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     <message>
         <location filename="InfoPanel.cpp" line="95"/>
         <source>Add to Favorites panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilføj til panelet Favoritter</translation>
     </message>
 </context>
 <context>
@@ -19276,7 +19276,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     <message>
         <location filename="ItemModel.cpp" line="1035"/>
         <source>Created date</source>
-        <translation>Oprettelsesdato</translation>
+        <translation>Oprettet-dato</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1037"/>
@@ -19962,7 +19962,7 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="BrowserMenu.h" line="322"/>
         <source>Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Kort</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="454"/>
@@ -19972,7 +19972,7 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="BrowserMenu.h" line="457"/>
         <source>Check/Uncheck</source>
-        <translation type="unfinished"></translation>
+        <translation>Markér/Afmarkér</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="471"/>
@@ -19993,7 +19993,7 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="BrowserMenu.h" line="507"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrollér</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="508"/>
@@ -20033,7 +20033,7 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="BrowserMenu.h" line="646"/>
         <source>Show channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis kanal</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="659"/>
@@ -20664,7 +20664,7 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="BrowserMenu.h" line="511"/>
         <source>Add to album</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilføj til album</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="512"/>
@@ -20679,12 +20679,12 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="BrowserMenu.h" line="514"/>
         <source>Remove from this album</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjern fra dette album</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="515"/>
         <source>Remove from all albums</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjern fra alle albums</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="517"/>
@@ -20854,12 +20854,12 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="BrowserMenu.h" line="592"/>
         <source>Edit GPS...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ret GPS...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="593"/>
         <source>Edit EXIF...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ret EXIF...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="594"/>
@@ -20890,7 +20890,7 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="BrowserMenu.h" line="599"/>
         <source>Add/Replace metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilføj/erstat metadata...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="600"/>
@@ -21074,7 +21074,7 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="BrowserMenu.h" line="663"/>
         <source>Edit face tag...</source>
-        <translation type="unfinished"></translation>
+        <translation>Rediger ansigtstag...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="666"/>
@@ -21978,12 +21978,12 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="ViewMenu.h" line="315"/>
         <source>Print opened images...</source>
-        <translation type="unfinished"></translation>
+        <translation>Udskriv de åbnede billeder...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="323"/>
         <source>Paste in selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Indsæt i det markerede</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="324"/>
@@ -21993,7 +21993,7 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="ViewMenu.h" line="363"/>
         <source>Check/Uncheck</source>
-        <translation type="unfinished"></translation>
+        <translation>Markér/Afmarkér</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="372"/>
@@ -22049,12 +22049,12 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="ViewMenu.h" line="448"/>
         <source>Use transparency grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Brug gennemsigtighedsgitter</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="449"/>
         <source>Show channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis kanal</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="459"/>
@@ -22194,12 +22194,12 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="ViewMenu.h" line="492"/>
         <source>Remove horizontal strip</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjern den vandrette strimmel</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="493"/>
         <source>Remove vertical strip</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjern den lodrette strimmel</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="498"/>
@@ -22731,7 +22731,7 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="MyDirModel.cpp" line="324"/>
         <source>My Computer</source>
-        <translation type="unfinished"></translation>
+        <translation>Min computer</translation>
     </message>
     <message>
         <location filename="MyDirModel.cpp" line="1024"/>
@@ -24109,12 +24109,12 @@ Du kan ændre det i Indstillinger &gt; Katalog.</translation>
     <message>
         <location filename="SearchField.cpp" line="944"/>
         <source>is between (today)</source>
-        <translation type="unfinished"></translation>
+        <translation>er mellem (i dag)</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="945"/>
         <source>is within the last</source>
-        <translation type="unfinished"></translation>
+        <translation>er inden for det sidste</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="1034"/>
@@ -24195,7 +24195,7 @@ Du kan ændre det i Indstillinger &gt; Katalog.</translation>
     <message>
         <location filename="SearchField.cpp" line="938"/>
         <source>TODAY</source>
-        <translation type="unfinished"></translation>
+        <translation>I DAG</translation>
     </message>
 </context>
 <context>
@@ -24203,7 +24203,7 @@ Du kan ændre det i Indstillinger &gt; Katalog.</translation>
     <message>
         <location filename="SearchGroup.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Form</translation>
     </message>
     <message>
         <location filename="SearchGroup.ui" line="62"/>
@@ -24218,17 +24218,17 @@ Du kan ændre det i Indstillinger &gt; Katalog.</translation>
     <message>
         <location filename="SearchGroup.ui" line="92"/>
         <source>Match inside this group</source>
-        <translation type="unfinished"></translation>
+        <translation>Match inden for denne gruppe</translation>
     </message>
     <message>
         <location filename="SearchGroup.ui" line="100"/>
         <source>AND</source>
-        <translation type="unfinished"></translation>
+        <translation>OG</translation>
     </message>
     <message>
         <location filename="SearchGroup.ui" line="105"/>
         <source>OR</source>
-        <translation type="unfinished"></translation>
+        <translation>ELLER</translation>
     </message>
 </context>
 <context>
@@ -24261,7 +24261,7 @@ Du kan ændre det i Indstillinger &gt; Katalog.</translation>
     <message>
         <location filename="SummaryWidget.cpp" line="294"/>
         <source>Indexed</source>
-        <translation type="unfinished"></translation>
+        <translation>Indekseret</translation>
     </message>
 </context>
 <context>
@@ -24659,12 +24659,12 @@ Vil du beholde miniaturerne?
     <message>
         <location filename="xnview.cpp" line="485"/>
         <source>Catalog update</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalogopdatering</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="485"/>
         <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
-        <translation type="unfinished"></translation>
+        <translation>Du skal opdatere kataloget (Indstillinger&gt;Katalog&gt;Opdatér metadata), hvis du vil bruge en ny node i &apos;Katalogfilter&apos;. </translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="880"/>
@@ -24695,7 +24695,9 @@ Bedømmelse, tags og farve-etiket(ter) vil ikke blive gemt.</translation>
         <source>There is a problem to update Catalog:
 (Error: % 1)
 Please contact the developer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der er et problem med at opdatere kataloget:
+(Fejl: % 1)
+ Kontakt udvikleren.</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="951"/>
