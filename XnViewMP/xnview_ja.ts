@@ -684,12 +684,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="2072"/>
         <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi-select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right-click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;カタログフィルター&lt;/b&gt;&lt;br&gt;左クリックでフィルター&lt;br&gt;&amp;bull; Shift/Ctrl - 複数選択&lt;br&gt;&amp;bull; Alt - 除外&lt;br&gt;右クリックでノードオプションを開く&lt;br&gt;ノードにドラッグ＆ドロップして割り当て</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3476"/>
         <source>&lt;Checked files&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;チェック済みファイル&gt;</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3478"/>
@@ -752,18 +752,18 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="BrowserWindow.cpp" line="2007"/>
         <location filename="BrowserWindow.cpp" line="2019"/>
         <source>AND</source>
-        <translation type="unfinished">かつ</translation>
+        <translation>かつ</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2007"/>
         <location filename="BrowserWindow.cpp" line="2013"/>
         <source>OR</source>
-        <translation type="unfinished">または</translation>
+        <translation>または</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2008"/>
         <source>&lt;b&gt;Match&lt;/b&gt;&lt;br&gt;OR - match any selected entry&lt;br&gt;AND - match all selected entries</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;一致条件&lt;/b&gt;&lt;br&gt;OR - 選択したいずれかの項目に一致（または）&lt;br&gt;AND - 選択したすべての項目に一致（かつ）</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4474"/>
@@ -929,17 +929,17 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="CategoryView.cpp" line="507"/>
         <source>EXIF: Date taken</source>
-        <translation>EXIF: 撮影日付</translation>
+        <translation>EXIF: 撮影日時</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="509"/>
         <source>EXIF: Date modified</source>
-        <translation>EXIF: 更新日付</translation>
+        <translation>EXIF: 更新日時</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="511"/>
         <source>File: Date modified</source>
-        <translation>ファイル: 更新日付</translation>
+        <translation>ファイル: 更新日時</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="552"/>
@@ -1255,7 +1255,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DlgAutoCrop.h" line="97"/>
         <source>Automatic crop</source>
         <translatorcomment>TXT_NviewMenu_Auto_Crop</translatorcomment>
-        <translation>自動トリミング</translation>
+        <translation>自動切り抜き</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="576"/>
@@ -1285,7 +1285,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgConvertProcess.h" line="1354"/>
         <source>Crop</source>
-        <translation>トリミング</translation>
+        <translation>切り抜き</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="1422"/>
@@ -2156,19 +2156,19 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DBFilterModel.cpp" line="195"/>
         <source>Categories</source>
-        <translation type="unfinished">カテゴリー</translation>
+        <translation>カテゴリー</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="248"/>
         <location filename="DBFilterModel.cpp" line="548"/>
         <source>Check (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>チェック（%1）</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="248"/>
         <location filename="DBFilterModel.cpp" line="548"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>チェック</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1457"/>
@@ -2509,7 +2509,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgBatchResize.ui" line="74"/>
         <source>Action</source>
-        <translation>動作</translation>
+        <translation>処理</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="257"/>
@@ -2903,7 +2903,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgBatchResize.ui" line="1357"/>
         <source>Rotate images according to EXIF orientation tag</source>
-        <translation>EXIF方向に基づき画像を回転させる</translation>
+        <translation>EXIFの向きに従って回転</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1371"/>
@@ -3824,7 +3824,7 @@ Do you want to go on the download page?</source>
         <location filename="DlgConvert.cpp" line="1531"/>
         <location filename="DlgConvert.cpp" line="1540"/>
         <source>Actions</source>
-        <translation>動作</translation>
+        <translation>処理</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1655"/>
@@ -4196,7 +4196,7 @@ Do you want to continue?</source>
         <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
 
 Do you want to continue?</source>
-        <translation>「元のファイルを保持する（結果が大きい場合）」オプションといくつかの操作があります。
+        <translation>「結果が大きい場合は元のファイルを保持」を選択しており、いくつかの処理が実行されます。
 
 続行しますか？</translation>
     </message>
@@ -4776,7 +4776,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert.ui" line="84"/>
         <location filename="DlgConvert-old.ui" line="148"/>
         <source>Actions</source>
-        <translation>動作</translation>
+        <translation>処理</translation>
     </message>
     <message>
         <location filename="DlgConvert-old.ui" line="154"/>
@@ -5175,7 +5175,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="107"/>
         <source>Add action&gt;</source>
-        <translation>動作を追加&gt;</translation>
+        <translation>処理を追加&gt;</translation>
     </message>
     <message>
         <location filename="DlgConvert-old.ui" line="806"/>
@@ -5236,7 +5236,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert.ui" line="223"/>
         <location filename="DlgConvert-old.ui" line="752"/>
         <source>Apply actions</source>
-        <translation>動作を適用</translation>
+        <translation>処理を適用</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="527"/>
@@ -5387,7 +5387,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="1756"/>
         <source>Save actions list at exiting</source>
-        <translation>終了するときに動作リストを保存する</translation>
+        <translation>終了するときに処理リストを保存する</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1763"/>
@@ -5437,7 +5437,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="1777"/>
         <source>Rotate images according to EXIF orientation tag</source>
-        <translation>EXIF方向に基づき画像を回転させる</translation>
+        <translation>EXIFの向きに従って回転</translation>
     </message>
     <message>
         <location filename="DlgConvert-old.ui" line="1891"/>
@@ -5822,13 +5822,13 @@ Do you want to continue?</source>
         <location filename="DlgConvertICC.ui" line="17"/>
         <source>Input profile (sRGB by default)</source>
         <translatorcomment>TXT_Icc_Src_Profile</translatorcomment>
-        <translation>入力プロファイル(デフォルトでsRGB)</translation>
+        <translation>入力プロファイル（既定値：sRGB）</translation>
     </message>
     <message>
         <location filename="DlgConvertICC.ui" line="54"/>
         <source>Output profile (sRGB by default)</source>
         <translatorcomment>TXT_Icc_Dst_Profile</translatorcomment>
-        <translation>出力プロファイル(デフォルトでsRGB)</translation>
+        <translation>出力プロファイル（既定値：sRGB）</translation>
     </message>
     <message>
         <location filename="DlgConvertICC.ui" line="93"/>
@@ -5840,7 +5840,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertICC.ui" line="101"/>
         <source>Perceptual</source>
         <translatorcomment>TXT_String_ICC_Perceptual</translatorcomment>
-        <translation>知覚</translation>
+        <translation>知覚的</translation>
     </message>
     <message>
         <location filename="DlgConvertICC.ui" line="106"/>
@@ -5852,7 +5852,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertICC.ui" line="111"/>
         <source>Saturation</source>
         <translatorcomment>TXT_String_ICC_Saturation</translatorcomment>
-        <translation>彩度</translation>
+        <translation>彩度優先</translation>
     </message>
     <message>
         <location filename="DlgConvertICC.ui" line="116"/>
@@ -5864,7 +5864,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertICC.ui" line="139"/>
         <source>Ignore embedded profile</source>
         <translatorcomment>TXT_Icc_Ignore_Embedded</translatorcomment>
-        <translation>埋め込まれたプロファイルを無視</translation>
+        <translation>埋め込みプロファイルを無視</translation>
     </message>
     <message>
         <location filename="DlgConvertICC.ui" line="146"/>
@@ -5915,13 +5915,13 @@ Do you want to continue?</source>
         <location filename="DlgConvertIptc.ui" line="124"/>
         <source>Keep and add new value
  (Keywords and supplemental categories)</source>
-        <translation>元の値に新しい値を追加
-（キーワードと追加のカテゴリー）</translation>
+        <translation>元の値を保持して新しい値を追加
+（キーワードと補足カテゴリー）</translation>
     </message>
     <message>
         <location filename="DlgConvertIptc.ui" line="135"/>
         <source>Replace all values</source>
-        <translation>すべての値を置換</translation>
+        <translation>すべての値を置き換え</translation>
     </message>
     <message>
         <location filename="DlgConvertIptc.ui" line="144"/>
@@ -5936,7 +5936,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertIptc.ui" line="157"/>
         <source>IPTC-IIM, update or create XMP</source>
-        <translation>IPTC-IIM、更新または作成されたXMP</translation>
+        <translation>IPTC-IIMを更新またはXMPを作成</translation>
     </message>
     <message>
         <location filename="DlgConvertIptc.ui" line="162"/>
@@ -5946,7 +5946,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertIptc.ui" line="167"/>
         <source>XMP, update or create IPTC-IIM</source>
-        <translation>XMP、更新または作成されたIPTC-IIM</translation>
+        <translation>XMPを更新またはIPTC-IIMを作成</translation>
     </message>
     <message>
         <location filename="DlgConvertIptc.ui" line="240"/>
@@ -5961,7 +5961,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertIptc.ui" line="193"/>
         <source>Works only for JPEG, TIFF, PNG output format</source>
-        <translation>JPEG,TIFF,PNG形式のみ</translation>
+        <translation>出力形式がJPEG、TIFF、PNGの場合のみ有効</translation>
     </message>
     <message>
         <location filename="DlgConvertIptc.h" line="236"/>
@@ -6033,7 +6033,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertLossless.ui" line="57"/>
         <source>based on EXIF rotation value</source>
-        <translation>EXIF値に基づいて回転</translation>
+        <translation>EXIFの回転値に基づいて</translation>
     </message>
 </context>
 <context>
@@ -6619,7 +6619,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertRotate.ui" line="154"/>
         <source>EXIF Orientation</source>
-        <translation>EXIF回転値</translation>
+        <translation>EXIFの向き</translation>
     </message>
     <message>
         <location filename="DlgConvertRotate.ui" line="163"/>
@@ -6629,7 +6629,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertRotate.ui" line="188"/>
         <source>Auto crop</source>
-        <translation>自動トリミング</translation>
+        <translation>自動切り抜き</translation>
     </message>
     <message>
         <location filename="DlgConvertRotate.ui" line="195"/>
@@ -7261,7 +7261,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgCropSize.ui" line="14"/>
         <source>Crop size</source>
-        <translation>トリミングサイズ</translation>
+        <translation>切り抜きサイズ</translation>
     </message>
     <message>
         <location filename="DlgCropSize.ui" line="37"/>
@@ -7277,12 +7277,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgCropSize.ui" line="51"/>
         <source>Remove</source>
-        <translation>除去</translation>
+        <translation>取り除く</translation>
     </message>
     <message>
         <location filename="DlgCropSize.ui" line="58"/>
         <source>Defaults</source>
-        <translation>デフォルト</translation>
+        <translation>既定</translation>
     </message>
 </context>
 <context>
@@ -7398,157 +7398,157 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditEXIF.ui" line="14"/>
         <source>Edit EXIF</source>
-        <translation type="unfinished"></translation>
+        <translation>EXIFを編集</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="26"/>
         <source>Manufacturer</source>
-        <translation type="unfinished">メーカー名</translation>
+        <translation>メーカー名</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="36"/>
         <source>Model</source>
-        <translation type="unfinished">機種名</translation>
+        <translation>機種名</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="50"/>
         <source>Software</source>
-        <translation type="unfinished">ソフトウェア</translation>
+        <translation>ソフトウェア</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="64"/>
         <source>Image description</source>
-        <translation type="unfinished">説明</translation>
+        <translation>画像の説明</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="78"/>
         <source>Document name</source>
-        <translation type="unfinished"></translation>
+        <translation>文書名</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="92"/>
         <source>Artist</source>
-        <translation type="unfinished">作者</translation>
+        <translation>作者名</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="106"/>
         <source>XP Title</source>
-        <translation type="unfinished">XP タイトル</translation>
+        <translation>タイトル名</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="120"/>
         <source>XP Comment</source>
-        <translation type="unfinished">XP コメント</translation>
+        <translation>コメント</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="134"/>
         <source>XP Author</source>
-        <translation type="unfinished">XP 著作者</translation>
+        <translation>作者名</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="148"/>
         <source>Copyright</source>
-        <translation type="unfinished">著作権</translation>
+        <translation>著作権</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="162"/>
         <source>User comment</source>
-        <translation type="unfinished">ユーザーコメント</translation>
+        <translation>ユーザーコメント</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="176"/>
         <source>F-Number</source>
-        <translation type="unfinished">F-値</translation>
+        <translation>F値</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="185"/>
         <source>f/</source>
-        <translation type="unfinished"></translation>
+        <translation>f/</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="213"/>
         <source>Focal length</source>
-        <translation type="unfinished"></translation>
+        <translation>焦点距離</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="222"/>
         <source>mm</source>
-        <translation type="unfinished">mm</translation>
+        <translation>mm</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="247"/>
         <source>Lens model</source>
-        <translation type="unfinished">レンズモデル</translation>
+        <translation>レンズ名</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="257"/>
         <source>Date modified</source>
-        <translation type="unfinished">更新日付</translation>
+        <translation>更新日時</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="288"/>
         <source>Date taken</source>
-        <translation type="unfinished">撮影日付</translation>
+        <translation>撮影日時</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="319"/>
         <source>Date digitized</source>
-        <translation type="unfinished">デジタル化日付</translation>
+        <translation>デジタル化日時</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="350"/>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>向き</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="358"/>
         <source>0 - Not defined</source>
-        <translation type="unfinished"></translation>
+        <translation>0 – 未定義</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="363"/>
         <source>1 - Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>1 – 正位置</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="368"/>
         <source>2 - Mirror horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>2 – 左右反転</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="373"/>
         <source>3 - Rotate 180</source>
-        <translation type="unfinished"></translation>
+        <translation>3 – 180°回転</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="378"/>
         <source>4 - Mirror vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>4 – 上下反転</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="383"/>
         <source>5 - Mirror horizontal and rotate 270 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>5 – 左右反転＋270°回転（時計回り）</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="388"/>
         <source>6 - Rotate 90 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>6 – 90°回転（時計回り）</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="393"/>
         <source>7 - Mirror horizontal and rotate 90 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>7 – 左右反転＋90°回転（時計回り）</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="398"/>
         <source>8 - Rotate 270 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>8 – 270°回転（時計回り）</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="424"/>
         <source>Write</source>
-        <translation type="unfinished">書き込み</translation>
+        <translation>書き込み</translation>
     </message>
 </context>
 <context>
@@ -7713,7 +7713,7 @@ Do you want to continue?</source>
         <location filename="DlgEditXMP.cpp" line="227"/>
         <source>IPTC data has changed.
 Do you want to save your changes?</source>
-        <translation>IPTCデータが変更されました
+        <translation>IPTCデータが変更されています。
 変更を保存しますか？</translation>
     </message>
     <message>
@@ -8223,12 +8223,12 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="616"/>
         <source>Keep EXIF</source>
-        <translation>EXIFを保つ</translation>
+        <translation>EXIFを保持</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="623"/>
         <source>Keep IPTC</source>
-        <translation>IPTCを保つ</translation>
+        <translation>IPTCを保持</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="630"/>
@@ -9120,7 +9120,7 @@ Subfolders will be created. </source>
     <message>
         <location filename="DlgImport.ui" line="101"/>
         <source>The &apos;Other Files&apos; folder if doesn&apos;t exist will be created as a subfolder of destination.</source>
-        <translation>&apos;Other Files&apos; フォルダが存在しない場合、宛先のサブフォルダとして作成されます</translation>
+        <translation>&apos;Other Files&apos;フォルダが存在しない場合、宛先のサブフォルダとして作成されます</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="191"/>
@@ -9162,7 +9162,7 @@ Subfolders will be created. </source>
     <message>
         <location filename="DlgImport.cpp" line="277"/>
         <source>No action</source>
-        <translation>何もしない</translation>
+        <translation>処理なし</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="280"/>
@@ -9201,13 +9201,13 @@ Subfolders will be created. </source>
         <location filename="DlgIptc.cpp" line="50"/>
         <source>Write &amp;to all files</source>
         <oldsource>Write to all files</oldsource>
-        <translation>すべてのファイルに書き込み(&amp;T)</translation>
+        <translation>すべてのファイルに書き込む(&amp;T)</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="51"/>
         <source>&amp;Write</source>
         <oldsource>Write</oldsource>
-        <translation>書き込み(&amp;W)</translation>
+        <translation>書き込む(&amp;W)</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="178"/>
@@ -9225,7 +9225,7 @@ Subfolders will be created. </source>
         <location filename="DlgIptc.cpp" line="179"/>
         <source>5: Normal</source>
         <translatorcomment>TXT_String_Iptc_5</translatorcomment>
-        <translation>5: 中</translation>
+        <translation>5: 標準</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="179"/>
@@ -9265,34 +9265,34 @@ Subfolders will be created. </source>
         <location filename="DlgIptc.cpp" line="220"/>
         <source>EXIF date/time taken (if exists)</source>
         <translatorcomment>TXT_Menu_Exif_Date_Taken</translatorcomment>
-        <translation>EXIF撮影日時（ある場合）</translation>
+        <translation>EXIF撮影日時（存在する場合）</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="220"/>
         <source>EXIF date/time digitized (if exists)</source>
         <translatorcomment>TXT_Menu_Exif_Date_Digitized</translatorcomment>
-        <translation>EXIFデジタル化日時（ある場合）</translation>
+        <translation>EXIFデジタル化日時（存在する場合）</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="220"/>
         <source>EXIF date/time modified (if exists)</source>
-        <translation>EXIF更新日時（ある場合）</translation>
+        <translation>EXIF更新日時（存在する場合）</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="327"/>
         <source>If you want to edit XMP metadata, please check the new &apos;Edit XMP&apos; dialog. </source>
-        <translation>XMPメタデータを編集したいのであれば、新しい&apos;XMPを編集&apos;ダイアログをチェックしてください。 </translation>
+        <translation>XMPメタデータを編集するには、新しい「XMPを編集」ダイアログをご確認ください。 </translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="371"/>
         <source>Field values are not loaded because &apos;Do not load field values&apos; is checked</source>
-        <translation>&quot;フィールドの値を読み込まない&quot;にチェックが入ってたので値は読み込まれませんでした</translation>
+        <translation>「フィールドの値を読み込まない」にチェックが入っているため、値は読み込まれません</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="1701"/>
         <location filename="DlgIptc.cpp" line="1747"/>
         <source>Modifying files, please wait...</source>
-        <translation>ファイルを修正しています。お待ち下さい…</translation>
+        <translation>ファイルを変更中です。しばらくお待ちください...</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="52"/>
@@ -9304,13 +9304,13 @@ Subfolders will be created. </source>
         <location filename="DlgIptc.cpp" line="904"/>
         <source>IPTC data has changed.
 Do you want to save your changes?</source>
-        <translation>IPTCデータが変更されました
+        <translation>IPTC データが変更されています。 
 変更を保存しますか？</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="924"/>
         <source>IPTC has changed</source>
-        <translation>IPTCを変更しました</translation>
+        <translation>IPTCデータが変更されています</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="925"/>
@@ -9355,7 +9355,7 @@ Do you want to save your changes?</source>
     <message>
         <location filename="DlgIptc.cpp" line="1579"/>
         <source>Some fields are required, please fill them!</source>
-        <translation>項目は必須です。記入をしてください</translation>
+        <translation>必須項目があります。入力してください</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="1650"/>
@@ -9371,7 +9371,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgIptc.cpp" line="1671"/>
         <source>Are you sure to overwrite IPTC/XMP data for ALL files with the current values of the fields?</source>
-        <translation>このフィールドの現在の値ですべてのファイルのIPTC/XMPデータを上書きしてよろしいですか？</translation>
+        <translation>すべてのファイルのIPTC/XMPデータを、現在のフィールド値で上書きしてもよろしいですか？</translation>
     </message>
 </context>
 <context>
@@ -9380,7 +9380,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgIptc.ui" line="14"/>
         <source>Edit IPTC-IIM</source>
         <oldsource>Edit IPTC-IIM/XMP</oldsource>
-        <translation>IPTC-IIM/XMPを編集</translation>
+        <translation>IPTC-IIMを編集</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="821"/>
@@ -9401,7 +9401,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgIptc.ui" line="749"/>
         <source>Remember opened tab</source>
         <oldsource>Open last opened tab</oldsource>
-        <translation>開いたタブを記憶</translation>
+        <translation>開いていたタブを記憶</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="889"/>
@@ -9417,7 +9417,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgIptc.ui" line="882"/>
         <source>Clear all fields</source>
-        <translation>すべてのフィールドをクリア</translation>
+        <translation>すべてのフィールドを消去</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="44"/>
@@ -9437,7 +9437,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgIptc.ui" line="107"/>
         <source>Categories (database)</source>
-        <translation>カテゴリー（データベース）</translation>
+        <translation>カテゴリー（データベースから）</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="112"/>
@@ -9472,7 +9472,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgIptc.ui" line="330"/>
         <source>Status</source>
-        <translation>編集ステータス</translation>
+        <translation>ステータス</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="339"/>
@@ -9482,7 +9482,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgIptc.ui" line="362"/>
         <source>Object cycle</source>
-        <translation>オブジェクトのサイクル</translation>
+        <translation>オブジェクトの循環</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="408"/>
@@ -9492,7 +9492,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgIptc.ui" line="414"/>
         <source>Created date/time</source>
-        <translation>作成された日付/時刻</translation>
+        <translation>作成された日時</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="460"/>
@@ -9503,7 +9503,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgIptc.ui" line="483"/>
         <source>Released date/time</source>
-        <translation>リリースした日付/時刻</translation>
+        <translation>公開日時</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="550"/>
@@ -9528,17 +9528,17 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgIptc.ui" line="725"/>
         <source>Keep and add new value (Keywords and supplemental categories)</source>
-        <translation>新しい値を追加する（キーワードと追加のカテゴリー）</translation>
+        <translation>元の値を保持して新しい値を追加（キーワードと補足カテゴリー）</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="732"/>
         <source>Keep original value if new value is empty</source>
-        <translation>新しい値が空の場合、元の値を保つ</translation>
+        <translation>新しい値が空の場合は元の値を保持</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="739"/>
         <source>Replace only if original value is empty</source>
-        <translation>元の値が空の場合のみ置き換える</translation>
+        <translation>元の値が空の場合のみ新しい値で置き換える</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="664"/>
@@ -9976,7 +9976,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPrint.ui" line="52"/>
         <source>Single - Crop to page</source>
-        <translation>シングル - ページにあわせて切り取る</translation>
+        <translation>単一ページ：ページに合わせて切り抜く</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="57"/>
@@ -10107,7 +10107,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPrint.ui" line="414"/>
         <source>Crop to size</source>
-        <translation>サイズにあわせて切り取る</translation>
+        <translation>指定サイズに切り抜く</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="423"/>
@@ -11271,7 +11271,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgRotate.ui" line="117"/>
         <source>Auto crop</source>
-        <translation>自動トリミング</translation>
+        <translation>自動切り抜き</translation>
     </message>
     <message>
         <location filename="DlgRotate.ui" line="124"/>
@@ -11538,7 +11538,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSetDpi.ui" line="144"/>
         <source>Change EXIF DPI if exists</source>
-        <translation>EXIF DPIがあれば変更する</translation>
+        <translation>EXIFのDPIが存在する場合に変更</translation>
     </message>
 </context>
 <context>
@@ -11745,7 +11745,7 @@ Do you want to remove them?</source>
         <location filename="DlgSettingsBrowser.ui" line="438"/>
         <source>Clear the list of checked files</source>
         <oldsource>Clear the list of tagged files</oldsource>
-        <translation type="unfinished">タグのついたファイルのリストを消去</translation>
+        <translation>チェックしたファイルのリストをクリア</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="446"/>
@@ -11790,7 +11790,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="430"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>チェック</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="85"/>
@@ -11800,7 +11800,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="91"/>
         <source>Change EXIF orientation ONLY (if possible)</source>
-        <translation>EXIFの向きのみ変更する（可能であれば）</translation>
+        <translation>可能であればEXIFの向きのみ変更</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="98"/>
@@ -12022,7 +12022,7 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettingsCache.ui" line="265"/>
         <source>Store Exiftool fields</source>
-        <translation>Exiftoolフィールドを保存する</translation>
+        <translation>ExifToolのフィールドを保存</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="311"/>
@@ -12325,7 +12325,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="203"/>
         <source>Link companion files for the following actions</source>
-        <translation>以下のアクションのコンパニオンファイルをリンクする</translation>
+        <translation>以下の処理のコンパニオンファイルをリンクする</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="209"/>
@@ -12467,7 +12467,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="172"/>
         <source>Use EXIF DPI (if exists)</source>
-        <translation>EXIF DPIを使用する（もしあれば）</translation>
+        <translation>EXIF DPIを使用する（存在する場合）</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="179"/>
@@ -12560,7 +12560,7 @@ Thumbnail</source>
         <location filename="DlgSettingsGeneral.ui" line="165"/>
         <source>Auto-rotate images according to EXIF orientation tag</source>
         <oldsource>Rotate images according to EXIF orientation tag</oldsource>
-        <translation>EXIF方向タグに基づき画像を自動回転させる</translation>
+        <translation>EXIFの向きタグに従って画像を自動回転</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="397"/>
@@ -12742,7 +12742,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="761"/>
         <source>Make backup for lossless crop</source>
-        <translation>ロスレス切り取りのためにバックアップを作成</translation>
+        <translation>ロスレス切り抜き用にバックアップを作成</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="768"/>
@@ -12848,7 +12848,7 @@ Thumbnail</source>
         <location filename="DlgSettingsGeneral.ui" line="837"/>
         <source>Use ICC profile for monitor (slower)</source>
         <oldsource>Use ICC profile (slower)</oldsource>
-        <translation>モニタのICCプロファイルを使用する（遅め）</translation>
+        <translation>モニター用ICC プロファイルを使用（動作が遅くなります）</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="881"/>
@@ -12991,7 +12991,7 @@ Thumbnail</source>
         <location filename="DlgSettingsIntegration.ui" line="58"/>
         <source>Add shell extension to context menu</source>
         <oldsource>Enable shell extension to context menu</oldsource>
-        <translation type="unfinished">コンテキストメニューのシェル拡張を有効にする</translation>
+        <translation>シェル拡張をコンテキストメニューに追加</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="70"/>
@@ -13002,12 +13002,12 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="94"/>
         <source>Register application</source>
-        <translation type="unfinished"></translation>
+        <translation>アプリケーションを登録</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="118"/>
         <source>Open &apos;Default Apps&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>「既定のアプリ」を開く…</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="154"/>
@@ -13453,13 +13453,13 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="732"/>
         <location filename="DlgSettingsInterface.ui" line="848"/>
         <source>EXIF date taken</source>
-        <translation>EXIF撮影日付</translation>
+        <translation>EXIF撮影日時</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="737"/>
         <location filename="DlgSettingsInterface.ui" line="853"/>
         <source>EXIF date modified</source>
-        <translation>EXIF更新日付</translation>
+        <translation>EXIF更新日時</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="698"/>
@@ -13522,7 +13522,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="1216"/>
         <location filename="DlgSettingsInterface.ui" line="1259"/>
         <source>Action</source>
-        <translation>動作</translation>
+        <translation>処理</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1226"/>
@@ -13770,7 +13770,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1281"/>
         <source>Shortcut for selected action</source>
-        <translation>選択した動作のショートカット</translation>
+        <translation>選択した処理のショートカット</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="285"/>
@@ -13859,7 +13859,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="308"/>
         <source>Write comment in XMP (dc:description and exif:UserComment)</source>
-        <translation>XMPにコメントを書き込む (dc:説明 &amp;&amp; exif:ユーザーコメント)</translation>
+        <translation>XMPのdc:descriptionとexif:UserComment にコメントを書き込み</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="332"/>
@@ -14146,7 +14146,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="722"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>チェック</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="904"/>
@@ -15264,27 +15264,27 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgStartupWizard.ui" line="128"/>
         <source>Windows Explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>Windowsエクスプローラー</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="141"/>
         <source>Add shell extension to context menu</source>
-        <translation type="unfinished">コンテキストメニューのシェル拡張を有効にする</translation>
+        <translation>シェル拡張をコンテキストメニューに追加</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="151"/>
         <source>File Association</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルの関連付け</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="157"/>
         <source>Register application</source>
-        <translation type="unfinished"></translation>
+        <translation>アプリケーションを登録</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="164"/>
         <source>Open &apos;Default Apps&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>「既定のアプリ」を開く</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="183"/>
@@ -15498,17 +15498,17 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgTimestamp.cpp" line="147"/>
         <source>EXIF: Date modified</source>
-        <translation>EXIF: 更新日付</translation>
+        <translation>EXIF: 更新日時</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.cpp" line="147"/>
         <source>EXIF: Date taken</source>
-        <translation>EXIF: 撮影日付</translation>
+        <translation>EXIF: 撮影日時</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.cpp" line="147"/>
         <source>EXIF: Date digitized</source>
-        <translation>EXIF:デジタル化日付</translation>
+        <translation>EXIF:デジタル化日時</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.cpp" line="543"/>
@@ -15611,17 +15611,17 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgTimestamp.ui" line="472"/>
         <source>EXIF: Date taken</source>
-        <translation>EXIF: 撮影日付</translation>
+        <translation>EXIF: 撮影日時</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="498"/>
         <source>EXIF: Date digitized</source>
-        <translation>EXIF: デジタル化日付</translation>
+        <translation>EXIF: デジタル化日時</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="511"/>
         <source>EXIF: Date modified</source>
-        <translation>EXIF: 更新日付</translation>
+        <translation>EXIF: 更新日時</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="548"/>
@@ -15641,7 +15641,7 @@ Do you want to continue?</source>
         <location filename="DlgTransfer.ui" line="14"/>
         <source>Add/Replace metadata</source>
         <oldsource>Edit Metadata</oldsource>
-        <translation type="unfinished">メタデータの編集</translation>
+        <translation>メタデータを追加／置換</translation>
     </message>
     <message>
         <location filename="DlgTransfer.ui" line="22"/>
@@ -16575,7 +16575,7 @@ Do you want to continue?</source>
     <message>
         <location filename="EditXMPWidget.ui" line="144"/>
         <source>Copyright status</source>
-        <translation>著作権の状況</translation>
+        <translation>著作権ステータス</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="152"/>
@@ -16585,7 +16585,7 @@ Do you want to continue?</source>
     <message>
         <location filename="EditXMPWidget.ui" line="157"/>
         <source>Protected by copyright</source>
-        <translation>著作権で保護</translation>
+        <translation>著作権保護済み</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="162"/>
@@ -16615,12 +16615,12 @@ Do you want to continue?</source>
     <message>
         <location filename="EditXMPWidget.ui" line="295"/>
         <source>Apply parent categories</source>
-        <translation>親カテゴリーを適用</translation>
+        <translation>親カテゴリーを反映</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="303"/>
         <source>Origin</source>
-        <translation>起源</translation>
+        <translation>由来</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="341"/>
@@ -16635,7 +16635,7 @@ Do you want to continue?</source>
     <message>
         <location filename="EditXMPWidget.ui" line="463"/>
         <source>IPTC Contact</source>
-        <translation>IPTC コンタクト</translation>
+        <translation>IPTC連絡先</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="515"/>
@@ -16666,22 +16666,22 @@ Do you want to continue?</source>
     <message>
         <location filename="EditXMPWidget.ui" line="681"/>
         <source>Keep and add new value (Keywords)</source>
-        <translation>新しい値（キーワード）を追加し保持する</translation>
+        <translation>元の値を保持して新しい値（キーワード）を追加</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="688"/>
         <source>Keep original value if new value is empty</source>
-        <translation>新しい値が空の場合、元の値を保つ</translation>
+        <translation>新しい値が空の場合は元の値を保持</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="695"/>
         <source>Replace only if original value is empty</source>
-        <translation>元の値が空の場合のみ置き換える</translation>
+        <translation>元の値が空の場合のみ新しい値で置き換える</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="705"/>
         <source>Remember opened tab</source>
-        <translation>開いたタブを記憶</translation>
+        <translation>開いていたタブを記憶</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="70"/>
@@ -16701,7 +16701,7 @@ Do you want to continue?</source>
     <message>
         <location filename="EditXMPWidget.cpp" line="137"/>
         <source>5: Normal</source>
-        <translation>5: 中</translation>
+        <translation>5: 標準</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="137"/>
@@ -16716,7 +16716,7 @@ Do you want to continue?</source>
     <message>
         <location filename="EditXMPWidget.cpp" line="319"/>
         <source>Some fields are required, please fill them!</source>
-        <translation>項目は必須です。記入をしてください</translation>
+        <translation>必須項目があります。入力してください</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="461"/>
@@ -16741,7 +16741,7 @@ Do you want to continue?</source>
     <message>
         <location filename="EditXMPWidget.cpp" line="523"/>
         <source>Edit history...</source>
-        <translation>履歴編集...</translation>
+        <translation>編集履歴...</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="524"/>
@@ -17000,22 +17000,22 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="ThumbInfo.cpp" line="170"/>
         <source>EXIF Date taken</source>
-        <translation>EXIF 撮影日付</translation>
+        <translation>EXIF 撮影日時</translation>
     </message>
     <message>
         <location filename="ThumbInfo.cpp" line="171"/>
         <source>EXIF Date modified</source>
-        <translation>EXIF 更新日付</translation>
+        <translation>EXIF 更新日時</translation>
     </message>
     <message>
         <location filename="ThumbInfo.cpp" line="172"/>
         <source>EXIF Maker</source>
-        <translation>EXIF メーカー</translation>
+        <translation>EXIF メーカー名</translation>
     </message>
     <message>
         <location filename="ThumbInfo.cpp" line="173"/>
         <source>EXIF ISO</source>
-        <translation>EXIF ISO</translation>
+        <translation>EXIF ISO感度</translation>
     </message>
 </context>
 <context>
@@ -17350,7 +17350,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="ItemModel.cpp" line="1051"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>チェック</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1057"/>
@@ -17783,7 +17783,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoCategoryView.cpp" line="122"/>
         <source>Action</source>
-        <translation>動作</translation>
+        <translation>処理</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="124"/>
@@ -17916,7 +17916,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoEXIFView.cpp" line="72"/>
         <source>Camera</source>
         <translatorcomment>TXT_String_Exif_Camera_Section</translatorcomment>
-        <translation>カメラ</translation>
+        <translation>カメラ名</translation>
     </message>
     <message>
         <location filename="InfoEXIFView.cpp" line="74"/>
@@ -17937,7 +17937,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoEXIFView.cpp" line="105"/>
         <source>Camera</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Camera</translatorcomment>
-        <translation>カメラ</translation>
+        <translation>カメラ名</translation>
     </message>
     <message>
         <location filename="InfoEXIFView.cpp" line="109"/>
@@ -17985,18 +17985,18 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DBFilterModel.cpp" line="2079"/>
         <source>Lens</source>
-        <translation>レンズ</translation>
+        <translation>レンズ名</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2087"/>
         <location filename="ItemModel.cpp" line="1076"/>
         <source>ISO</source>
-        <translation>ISO</translation>
+        <translation>ISO感度</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2095"/>
         <source>Shutter Speed</source>
-        <translation>シャッタースピード</translation>
+        <translation>シャッター速度</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2107"/>
@@ -18006,7 +18006,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DBFilterModel.cpp" line="2190"/>
         <source>Not Defined</source>
-        <translation>未定</translation>
+        <translation>未定義</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2192"/>
@@ -18026,7 +18026,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DBFilterModel.cpp" line="2198"/>
         <source>Shutter speed priority AE</source>
-        <translation>シャッタースピード優先AE</translation>
+        <translation>シャッター速度優先AE</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2200"/>
@@ -18036,7 +18036,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DBFilterModel.cpp" line="2202"/>
         <source>Action</source>
-        <translation>アクション</translation>
+        <translation>動きのある被写体</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2204"/>
@@ -18052,7 +18052,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="ItemModel.cpp" line="1078"/>
         <source>ShutterSpeed</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Shutter_speed</translatorcomment>
-        <translation>シャッタースピード</translation>
+        <translation>シャッター速度</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1080"/>
@@ -18064,7 +18064,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="ItemModel.cpp" line="1082"/>
         <source>Focal Length</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Focal_length</translatorcomment>
-        <translation>焦点距離 [mm]</translation>
+        <translation>焦点距離</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1084"/>
@@ -18083,14 +18083,14 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2701"/>
         <source>Latitude</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Latitude</translatorcomment>
-        <translation>&quot;緯度 (数値)&quot;</translation>
+        <translation>緯度</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1092"/>
         <location filename="TemplateData.cpp" line="2704"/>
         <source>Longitude</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Longitude</translatorcomment>
-        <translation>経度 (数値)</translation>
+        <translation>経度</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="82"/>
@@ -18138,7 +18138,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2618"/>
         <source>Date/time modified</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Date_time_modified</translatorcomment>
-        <translation>更新時</translation>
+        <translation>更新日時</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2063"/>
@@ -18151,43 +18151,43 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2620"/>
         <source>X-Resolution</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_XResolution</translatorcomment>
-        <translation>横解像度</translation>
+        <translation>水平解像度</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2621"/>
         <source>Y-Resolution</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_YResolution</translatorcomment>
-        <translation>縦解像度</translation>
+        <translation>垂直解像度</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2622"/>
         <source>Resolution unit</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Resolution_unit</translatorcomment>
-        <translation>解像度単位</translation>
+        <translation>解像度の単位</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2623"/>
         <source>Primary chromaticities</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Primary_chromaticities</translatorcomment>
-        <translation>一次色度</translation>
+        <translation>原色色度点</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2624"/>
         <source>YCbCr-Coefficients</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_YCbCr_Coefficients</translatorcomment>
-        <translation>YCbCr - 係数</translation>
+        <translation>YCbCr係数</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2625"/>
         <source>YCbCr-Positioning</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_YCbCr_Positioning</translatorcomment>
-        <translation>YCbCr - 位置</translation>
+        <translation>YCbCr配置</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2626"/>
         <source>Ref. black/white</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Ref_black_white</translatorcomment>
-        <translation>基準白/黒</translation>
+        <translation>基準黒点／基準白点</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2629"/>
@@ -18197,41 +18197,41 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2631"/>
         <source>XP Title</source>
-        <translation>XP タイトル</translation>
+        <translation>タイトル</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2632"/>
         <source>XP Comment</source>
-        <translation>XP コメント</translation>
+        <translation>コメント</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2633"/>
         <source>XP Author</source>
-        <translation>XP 著作者</translation>
+        <translation>著作者</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2634"/>
         <source>XP Keywords</source>
-        <translation>XP キーワード</translation>
+        <translation>キーワード</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2635"/>
         <source>XP Subject</source>
-        <translation>XP 被写体</translation>
+        <translation>件名</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="85"/>
         <location filename="TemplateData.cpp" line="2641"/>
         <source>Date taken</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Date_taken</translatorcomment>
-        <translation>撮影日付</translation>
+        <translation>撮影日時</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="86"/>
         <location filename="TemplateData.cpp" line="2642"/>
         <source>Date digitized</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Date_digitized</translatorcomment>
-        <translation>デジタル化日付</translation>
+        <translation>デジタル化日時</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2643"/>
@@ -18277,21 +18277,21 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2650"/>
         <source>35mm Focal length</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_35mm_focal_length</translatorcomment>
-        <translation>35mm 相当焦点距離</translation>
+        <translation>35mm換算焦点距離</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="87"/>
         <location filename="TemplateData.cpp" line="2651"/>
         <source>ISO Value</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_ISO_value</translatorcomment>
-        <translation>ISO 値</translation>
+        <translation>ISO値</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2652"/>
         <source>Shutter speed (s)</source>
         <oldsource>Shutter speed [s]</oldsource>
         <translatorcomment>TXT_TemplateMenu_EXIF_Shutter_speed</translatorcomment>
-        <translation>シャッタースピード (s)</translation>
+        <translation>シャッタースピード（秒）</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2654"/>
@@ -18339,19 +18339,19 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2661"/>
         <source>Flash energy</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Flash_energy</translatorcomment>
-        <translation>フラッシュエネルギー</translation>
+        <translation>フラッシュ光量</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2662"/>
         <source>Metering mode</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Metering_mode</translatorcomment>
-        <translation>計量モード</translation>
+        <translation>測光モード</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2663"/>
         <source>Gain control</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Gain_control</translatorcomment>
-        <translation>ゲインコントロール</translation>
+        <translation>ゲイン制御</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2664"/>
@@ -18405,7 +18405,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2672"/>
         <source>Sensing method</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Sensing_method</translatorcomment>
-        <translation>感知方法</translation>
+        <translation>撮像方式</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2673"/>
@@ -18423,13 +18423,13 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2675"/>
         <source>Custom rendered</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Custom_rendered</translatorcomment>
-        <translation>カスタムレンダリング</translation>
+        <translation>カスタム処理</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2676"/>
         <source>Device settings desc.</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Device_settings_desc</translatorcomment>
-        <translation>デバイス設定記述</translation>
+        <translation>デバイス設定情報</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2677"/>
@@ -18465,37 +18465,37 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2682"/>
         <source>Image description</source>
         <translatorcomment>TXT_String_Exif_Image_Description</translatorcomment>
-        <translation>説明</translation>
+        <translation>画像説明</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2683"/>
         <source>Components configuration</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Components_conf</translatorcomment>
-        <translation>構成要素設定</translation>
+        <translation>コンポーネント構成</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2684"/>
         <source>Photometric interpretation</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Photometric_interp</translatorcomment>
-        <translation>測光解説</translation>
+        <translation>光度解釈</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2685"/>
         <source>Focal Plane X-Resolution</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Focal_plane_XRes</translatorcomment>
-        <translation>焦点面の幅の解像度</translation>
+        <translation>撮像面X解像度</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2686"/>
         <source>Focal Plane Y-Resolution</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Focal_plane_YRes</translatorcomment>
-        <translation>焦点面の高さの解像度</translation>
+        <translation>撮像面Y解像度</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2687"/>
         <source>Focal Plane Res. Unit</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Focal_plane_res_unit</translatorcomment>
-        <translation>焦点面解像度単位</translation>
+        <translation>撮像面解像度単位</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2688"/>
@@ -18507,7 +18507,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2689"/>
         <source>White point</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_White_point</translatorcomment>
-        <translation>白点</translation>
+        <translation>ホワイトポイント</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2690"/>
@@ -18523,56 +18523,56 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2692"/>
         <source>SubSecTime</source>
-        <translation>日時の秒以下</translation>
+        <translation>サブセックタイム</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2693"/>
         <source>SubSecTime Original</source>
-        <translation>撮影日時の秒以下</translation>
+        <translation>サブセックタイム（オリジナル）</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2694"/>
         <source>SubSecTime Digitized</source>
-        <translation>デジタル化日時の秒以下</translation>
+        <translation>サブセックタイム（デジタイズ）</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2700"/>
         <source>Latitude ref.</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Latitude_Ref</translatorcomment>
-        <translation>北緯(N) or 南緯(S)</translation>
+        <translation>緯度基準</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2702"/>
         <source>Latitude (value)</source>
-        <translation>緯度（数値）</translation>
+        <translation>緯度</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2703"/>
         <source>Longitude ref.</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Longitude_Ref</translatorcomment>
-        <translation>東経(E) or 西経(W)</translation>
+        <translation>経度基準</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2705"/>
         <source>Longitude (value)</source>
-        <translation>経度（数値）</translation>
+        <translation>経度</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2706"/>
         <source>Altitude ref.</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Altitude_Ref</translatorcomment>
-        <translation>高度の単位</translation>
+        <translation>高度基準</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2707"/>
         <source>Altitude</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_Altitude</translatorcomment>
-        <translation>高度 (数値)</translation>
+        <translation>高度</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2708"/>
         <source>Direction ref.</source>
-        <translation>方向の単位</translation>
+        <translation>方向基準</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2709"/>
@@ -18582,7 +18582,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2710"/>
         <source>Location Code</source>
-        <translation>撮影地コード</translation>
+        <translation>ロケーションコード</translation>
     </message>
 </context>
 <context>
@@ -18627,13 +18627,13 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="129"/>
         <source>Status</source>
         <translatorcomment>TXT_TemplateMenu_IPTC_Status</translatorcomment>
-        <translation>ステータス</translation>
+        <translation>編集ステータス</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="133"/>
         <source>Origin</source>
         <translatorcomment>TXT_TemplateMenu_IPTC_Origin</translatorcomment>
-        <translation>起源</translation>
+        <translation>由来</translation>
     </message>
 </context>
 <context>
@@ -18659,7 +18659,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2769"/>
         <source>Caption writer</source>
         <translatorcomment>TXT_String_Iptc_Caption_Writer</translatorcomment>
-        <translation>筆者</translation>
+        <translation>キャプション作成者</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="132"/>
@@ -18681,7 +18681,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2718"/>
         <source>Special instructions</source>
         <translatorcomment>TXT_Iptc_Special_Instruction</translatorcomment>
-        <translation>特殊な指示</translation>
+        <translation>特記事項</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="122"/>
@@ -18731,7 +18731,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2731"/>
         <source>Byline</source>
         <translatorcomment>TXT_String_Iptc_Byline</translatorcomment>
-        <translation>著者欄</translation>
+        <translation>クレジット</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="43"/>
@@ -18741,7 +18741,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2732"/>
         <source>Byline title</source>
         <translatorcomment>TXT_String_Iptc_BylineTitle</translatorcomment>
-        <translation>著者欄のタイトル</translation>
+        <translation>クレジット肩書き</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="44"/>
@@ -18810,7 +18810,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="IptcHelper.cpp" line="37"/>
         <source>Object cycle</source>
         <translatorcomment>TXT_Iptc_Object_Cycle</translatorcomment>
-        <translation>オブジェクトのサイクル</translation>
+        <translation>オブジェクトの循環</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="126"/>
@@ -18878,7 +18878,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="66"/>
         <source>Original tr. ref.</source>
         <translatorcomment>TXT_Iptc_Original_Transmission</translatorcomment>
-        <translation>オリジナル送信のリファレンス</translation>
+        <translation>オリジナル送信リファレンス</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="67"/>
@@ -18900,13 +18900,13 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2750"/>
         <source>Released date</source>
         <translatorcomment>TXT_Iptc_Release_Date</translatorcomment>
-        <translation>リリース日付</translation>
+        <translation>公開日付</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="70"/>
         <source>Release time</source>
         <translatorcomment>TXT_Iptc_Release_Time</translatorcomment>
-        <translation>リリース時刻</translation>
+        <translation>公開時刻</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="71"/>
@@ -18938,7 +18938,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2752"/>
         <source>Location</source>
         <translatorcomment>TXT_Iptc_Location?</translatorcomment>
-        <translation>場所</translation>
+        <translation>ロケーション</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="148"/>
@@ -18999,14 +18999,14 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2741"/>
         <source>Cycle</source>
         <translatorcomment>TXT_Iptc_Object_Cycle</translatorcomment>
-        <translation>オブジェクトのサイクル</translation>
+        <translation>オブジェクトの循環</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="73"/>
         <location filename="TemplateData.cpp" line="2756"/>
         <source>Original trans. ref.</source>
         <translatorcomment>TXT_Iptc_Original_Transmission</translatorcomment>
-        <translation>オリジナル送信のリファレンス</translation>
+        <translation>オリジナル送信リファレンス</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="96"/>
@@ -19103,7 +19103,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="SearchField.cpp" line="101"/>
         <location filename="TemplateData.cpp" line="2768"/>
         <source>Authors position</source>
-        <translation>作者の位置</translation>
+        <translation>作者の肩書き</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="133"/>
@@ -19208,13 +19208,13 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="EditXMPWidget.cpp" line="178"/>
         <location filename="SearchField.cpp" line="126"/>
         <source>Name of organization represented</source>
-        <translation>組織代表者の名前</translation>
+        <translation>所属組織名</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="179"/>
         <location filename="SearchField.cpp" line="127"/>
         <source>Code of organization represented</source>
-        <translation>組織代表者のコード</translation>
+        <translation>所属組織コード</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="180"/>
@@ -19432,7 +19432,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="IptcEditBase.cpp" line="178"/>
         <source>Edit history...</source>
-        <translation>履歴編集...</translation>
+        <translation>編集履歴...</translation>
     </message>
     <message>
         <location filename="IptcEditBase.cpp" line="179"/>
@@ -19475,12 +19475,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="ItemModel.cpp" line="1037"/>
         <source>EXIF Date Taken</source>
-        <translation>EXIF撮影日付</translation>
+        <translation>EXIF撮影日時</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1039"/>
         <source>EXIF Date Modified</source>
-        <translation>EXIF更新日付</translation>
+        <translation>EXIF更新日時</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1045"/>
@@ -19498,7 +19498,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="ItemProcess.cpp" line="303"/>
         <source>Lossless Crop</source>
-        <translation>ロスレス切り取り</translation>
+        <translation>ロスレス切り抜き</translation>
     </message>
     <message>
         <location filename="ItemProcess.cpp" line="304"/>
@@ -19608,7 +19608,7 @@ Do you want to continue?</oldsource>
         <location filename="ItemSelection.cpp" line="128"/>
         <source>&amp;Checked files</source>
         <oldsource>&amp;Tagged files</oldsource>
-        <translation type="unfinished">タグのついたファイル(&amp;T)</translation>
+        <translation>チェックしたファイル(&amp;C)</translation>
     </message>
     <message>
         <location filename="ItemSelection.cpp" line="130"/>
@@ -20005,12 +20005,12 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="47"/>
         <source>EXIF Date Taken</source>
         <oldsource>EXIF Date</oldsource>
-        <translation>EXIF撮影日付</translation>
+        <translation>EXIF撮影日時</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="48"/>
         <source>EXIF Date Modified</source>
-        <translation>EXIF更新日付</translation>
+        <translation>EXIF更新日時</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="49"/>
@@ -20135,7 +20135,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="84"/>
         <source>Checked file(s)</source>
         <oldsource>Tagged file(s)</oldsource>
-        <translation type="unfinished">タグのついたファイル</translation>
+        <translation>チェックしたファイル</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="454"/>
@@ -20315,7 +20315,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="85"/>
         <source>Unchecked file(s)</source>
         <oldsource>Untagged file(s)</oldsource>
-        <translation type="unfinished">タグなしファイル</translation>
+        <translation>未チェックのファイル</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="305"/>
@@ -20330,12 +20330,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="457"/>
         <source>Check/Uncheck</source>
-        <translation type="unfinished"></translation>
+        <translation>チェック／解除</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="507"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>チェック</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="531"/>
@@ -20400,12 +20400,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="573"/>
         <source>Rotate based on EXIF orientation field</source>
-        <translation>EXIFの方向値に基づき回転</translation>
+        <translation>Exif 方向情報に基づいて回転</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="574"/>
         <source>Reset EXIF orientation field</source>
-        <translation>EXIF回転値をリセット</translation>
+        <translation>Exif方向情報をリセット</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="575"/>
@@ -20822,7 +20822,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="437"/>
         <source>Select checked files</source>
         <oldsource>Select tagged files</oldsource>
-        <translation type="unfinished">タグのついたファイルを選択</translation>
+        <translation>チェックしたファイルを選択</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4469"/>
@@ -20909,7 +20909,7 @@ Do you want to continue?</oldsource>
         <source>Check/Uncheck current</source>
         <oldsource>Tag/Untag current</oldsource>
         <translatorcomment>TXT_BrowseMenu_Tag_current</translatorcomment>
-        <translation type="unfinished">タグを付ける/はずす</translation>
+        <translation>現在の項目をチェック／解除</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="458"/>
@@ -20921,26 +20921,26 @@ Do you want to continue?</oldsource>
         <source>Uncheck all</source>
         <oldsource>Untag all</oldsource>
         <translatorcomment>TXT_BrowseMenu_Untag_All</translatorcomment>
-        <translation type="unfinished">すべてのタグをはずす</translation>
+        <translation>すべてチェック解除</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="460"/>
         <source>Clear all checks</source>
         <oldsource>Clear all tags</oldsource>
         <translatorcomment>TXT_NviewMenu_Clear_All_Tags</translatorcomment>
-        <translation type="unfinished">すべてのタグをクリア</translation>
+        <translation>すべてのチェックをクリア</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="461"/>
         <source>Show checked files</source>
         <oldsource>Show tagged files</oldsource>
-        <translation type="unfinished">タグのついたファイルを表示</translation>
+        <translation>チェックしたファイルを表示</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="462"/>
         <source>Show checkbox</source>
         <oldsource>Show tag box</oldsource>
-        <translation type="unfinished">タグボックスを表示</translation>
+        <translation>チェックボックスを表示</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="502"/>
@@ -21157,7 +21157,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="593"/>
         <source>Edit EXIF...</source>
-        <translation type="unfinished"></translation>
+        <translation>EXIFを編集...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="594"/>
@@ -21188,7 +21188,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="599"/>
         <source>Add/Replace metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>メタデータを追加／置換...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="600"/>
@@ -21556,7 +21556,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="TemplateData.cpp" line="2822"/>
         <source>IPTC - Keywords&amp;&amp;Categories</source>
-        <translation>IPTC - キーワード ＆ カテゴリー</translation>
+        <translation>IPTC - キーワード＆カテゴリー</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2826"/>
@@ -21576,7 +21576,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="TemplateData.cpp" line="2825"/>
         <source>IPTC - Origin</source>
-        <translation>IPTC - 起源</translation>
+        <translation>IPTC - 由来</translation>
     </message>
 </context>
 <context>
@@ -21866,7 +21866,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="330"/>
         <source>Crop...</source>
         <oldsource>Crop</oldsource>
-        <translation>トリミング...</translation>
+        <translation>切り抜き...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="331"/>
@@ -22225,7 +22225,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="363"/>
         <source>Check/Uncheck</source>
-        <translation type="unfinished"></translation>
+        <translation>チェック／解除</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="372"/>
@@ -22423,7 +22423,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="491"/>
         <source>Automatic crop...</source>
-        <translation>自動クロップ...</translation>
+        <translation>自動切り抜き...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="492"/>
@@ -22576,7 +22576,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="535"/>
         <source>Crop (lossless)</source>
-        <translation>切り取り（ロスレス）</translation>
+        <translation>切り抜き（ロスレス）</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="539"/>
@@ -22639,12 +22639,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="531"/>
         <source>Rotate based on EXIF orientation field</source>
-        <translation>EXIFの方向値に基づき回転</translation>
+        <translation>Exif方向情報に基づいて回転</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="532"/>
         <source>Reset EXIF orientation field</source>
-        <translation>EXIF回転値をリセット</translation>
+        <translation>Exif方向情報をリセット</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="536"/>
@@ -24145,7 +24145,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="qtotherdialog.ui" line="98"/>
         <source>Destination file already exists.</source>
-        <translation>変換後のファイルがすでに存在します。</translation>
+        <translation>宛先ファイルはすでに存在します。</translation>
     </message>
     <message>
         <location filename="qtotherdialog.ui" line="129"/>
@@ -24545,12 +24545,12 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="ToolbarSearch.cpp" line="153"/>
         <source>IPTC fields</source>
-        <translation>IPTC項目</translation>
+        <translation>IPTCフィールド</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="158"/>
         <source>XMP fields</source>
-        <translation>XMP項目</translation>
+        <translation>XMPフィールド</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="163"/>
@@ -24621,17 +24621,17 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="ViewCropAction.cpp" line="213"/>
         <source>Selection horizontal position</source>
-        <translation>水平位置を保存</translation>
+        <translation>選択範囲の水平位置</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="216"/>
         <source>Selection vertical position</source>
-        <translation>垂直位置を保存</translation>
+        <translation>選択範囲の垂直位置</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="228"/>
         <source>Swap selection width and height</source>
-        <translation>幅と高さの選択を入れ替え</translation>
+        <translation>選択範囲の幅と高さを入れ替え</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="240"/>
@@ -24641,23 +24641,23 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="ViewCropAction.cpp" line="246"/>
         <source>Center selection</source>
-        <translation>中央選択</translation>
+        <translation>選択範囲を中央に</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="250"/>
         <source>Crop</source>
-        <translation>トリミング</translation>
+        <translation>切り抜き</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="274"/>
         <source>Save selection as...</source>
         <translatorcomment>0.60</translatorcomment>
-        <translation>選択範囲を保存...</translation>
+        <translation>選択範囲を名前を付けて保存…</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="279"/>
         <source>Crop, Save &amp;&amp; Next</source>
-        <translation>トリミング, 保存 ＆ 次へ</translation>
+        <translation>切り抜き・保存・次へ</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="284"/>
@@ -24700,12 +24700,12 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="ViewSpotlightAction.cpp" line="123"/>
         <source>Undo</source>
-        <translation>アンドゥ</translation>
+        <translation>元に戻す</translation>
     </message>
     <message>
         <location filename="ViewSpotlightAction.cpp" line="125"/>
         <source>Remove last drawn rectangle</source>
-        <translation>前回描いた長方形を除去</translation>
+        <translation>最後に描いた長方形を削除</translation>
     </message>
     <message>
         <location filename="ViewSpotlightAction.cpp" line="135"/>
@@ -24816,22 +24816,22 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="WriteSettingsWidget.ui" line="23"/>
         <source>Keep EXIF</source>
-        <translation>EXIFを保つ</translation>
+        <translation>EXIFを保持</translation>
     </message>
     <message>
         <location filename="WriteSettingsWidget.ui" line="30"/>
         <source>Keep IPTC</source>
-        <translation>IPTCを保つ</translation>
+        <translation>IPTCを保持</translation>
     </message>
     <message>
         <location filename="WriteSettingsWidget.ui" line="37"/>
         <source>Keep XMP</source>
-        <translation>XMPを保つ</translation>
+        <translation>XMPを保持</translation>
     </message>
     <message>
         <location filename="WriteSettingsWidget.ui" line="44"/>
         <source>Keep ICC profile</source>
-        <translation>ICCプロファイルを保つ</translation>
+        <translation>ICCプロファイルを保持</translation>
     </message>
 </context>
 <context>
