@@ -196,7 +196,7 @@
     </message>
     <message>
         <source>Translators</source>
-        <translation type="unfinished"></translation>
+        <translation>Թարգմանիչներ</translation>
     </message>
     <message>
         <source>Language</source>
@@ -326,7 +326,7 @@
     </message>
     <message>
         <source>The file &lt;%1&gt; is read-only. Please choose another file name.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;%1&gt; ֆայլը միայն կարդալու համար է: Ընտրեք այլ անուն:</translation>
     </message>
 </context>
 <context>
@@ -589,35 +589,35 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Open in file manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Բացել ֆայլերի կառավարիչում</translation>
     </message>
     <message>
         <source>The database is corrupted. Please check it before you continue!</source>
-        <translation type="unfinished"></translation>
+        <translation>Տվյալների շտեմարանը վնասված է: Նախ ստուգեք այն:</translation>
     </message>
     <message>
         <source>Thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Մանրապատկերներ</translation>
     </message>
     <message>
         <source>AND</source>
-        <translation type="unfinished"></translation>
+        <translation>ԵՎ</translation>
     </message>
     <message>
         <source>OR</source>
-        <translation type="unfinished"></translation>
+        <translation>ԿԱՄ</translation>
     </message>
     <message>
         <source>&lt;b&gt;Match&lt;/b&gt;&lt;br&gt;OR - match any selected entry&lt;br&gt;AND - match all selected entries</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Համապատասխան&lt;/b&gt;&lt;br&gt;ԿԱՄ - համապատասխանում է ընտրված ցանկացած գրառմանը&lt;br&gt;ԵՎ - համապատասխանում է ընտրված բոլոր գրառումներին</translation>
     </message>
     <message>
         <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi-select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right-click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Գրացուցակի զտիչ&lt;/b&gt;&lt;br&gt;Ձախ կտտոց՝ զտելու համար&lt;br&gt;&amp;bull; Shift/Ctrl՝ բազմակի ընտրում&lt;br&gt;&amp;bull; Alt՝ միավորների բացառում&lt;br&gt;Աջ կտտոց՝ հանգույցի ընտրանքները բացելու համար&lt;br&gt;Քաշեք և գցեք հանգույցի վրա՝ նշանակելու համար</translation>
     </message>
     <message>
         <source>&lt;Checked files&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>«Նշված ֆայլեր»</translation>
     </message>
 </context>
 <context>
@@ -775,19 +775,19 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>File: Date modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Ֆայլ. Փոփոխման ամսաթիվ</translation>
     </message>
     <message>
         <source>New album</source>
-        <translation type="unfinished"></translation>
+        <translation>Նոր ալբոմ</translation>
     </message>
     <message>
         <source>New smart album...</source>
-        <translation type="unfinished"></translation>
+        <translation>Նոր խելացօ ալբոմ...</translation>
     </message>
     <message>
         <source>Create Smart Album from current filter...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ստեղծել խելացի ալբոմ ընթացիկ զտիչից...</translation>
     </message>
     <message>
         <source>Edit...</source>
@@ -795,19 +795,19 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Delete Smart Album</source>
-        <translation type="unfinished"></translation>
+        <translation>Ջնջել խելացի ալբոմը</translation>
     </message>
     <message>
         <source>Are you sure to delete this Smart Album?</source>
-        <translation type="unfinished"></translation>
+        <translation>Համոզվա՞ծ եք, որ ցանկանում եք ջնջել խելացի ալբոմը:</translation>
     </message>
     <message>
         <source>Create Smart Album...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ստեղծել խելացի ալբոմ...</translation>
     </message>
     <message>
         <source>Are you sure to delete these categories?</source>
-        <translation type="unfinished"></translation>
+        <translation>Համոզվա՞ծ եք, որ ցանկանում եք ջնջել այս անվանակարգերը:</translation>
     </message>
 </context>
 <context>
@@ -896,7 +896,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Navigator</source>
-        <translation type="unfinished"></translation>
+        <translation>Նավարկիչ</translation>
     </message>
 </context>
 <context>
@@ -1581,11 +1581,11 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>No rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Չկա վարկանիշ</translation>
     </message>
     <message>
         <source>No colour label</source>
-        <translation type="unfinished"></translation>
+        <translation>Չկա գույնային պիտակ</translation>
     </message>
     <message>
         <source>Date</source>
@@ -1593,23 +1593,23 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Taken in last 30 days</source>
-        <translation type="unfinished"></translation>
+        <translation>Վերցված վերջին 30 օրում</translation>
     </message>
     <message>
         <source>Modified in last 30 days</source>
-        <translation type="unfinished"></translation>
+        <translation>Փոփոխված վերջին 30 օրում</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Հատկություններ</translation>
     </message>
     <message>
         <source>Albums</source>
-        <translation type="unfinished"></translation>
+        <translation>Ալբոմներ</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Անհայտ</translation>
     </message>
     <message>
         <source>Landscape</source>
@@ -1621,15 +1621,15 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Panoramic</source>
-        <translation type="unfinished"></translation>
+        <translation>Համայնապատկերային</translation>
     </message>
     <message>
         <source>No Color Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Չկա գույնային պրոֆիլ</translation>
     </message>
     <message>
         <source>Smart Albums</source>
-        <translation type="unfinished"></translation>
+        <translation>Խելացի ալբոմներ</translation>
     </message>
     <message>
         <source>Square</source>
@@ -1637,15 +1637,15 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Անվանակարգեր</translation>
     </message>
     <message>
         <source>Check (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Նշված (%1)</translation>
     </message>
     <message>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Նշել</translation>
     </message>
 </context>
 <context>
@@ -1784,7 +1784,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Open file manager after compressing</source>
-        <translation type="unfinished"></translation>
+        <translation>Սեղմելուց հետո բացել ֆայլերի կառավարիչը</translation>
     </message>
 </context>
 <context>
@@ -2885,14 +2885,14 @@ Do you want to overwrite it?</source>
     </message>
     <message numerus="yes">
         <source>File list (%n)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Ֆայլերի ցանկ (%n)</numerusform>
+            <numerusform>Ֆայլերի ցանկ (%n)</numerusform>
         </translation>
     </message>
     <message>
         <source>Open File Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Բացել ֆայլերի կառավարիչը</translation>
     </message>
 </context>
 <context>
@@ -3311,7 +3311,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Կերպ</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -3327,7 +3327,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Zealous</source>
-        <translation type="unfinished"></translation>
+        <translation>Եռանդուն</translation>
     </message>
 </context>
 <context>
@@ -4132,11 +4132,11 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Open File Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Բացել ֆայլերի կառավարիչը</translation>
     </message>
     <message>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ընտրանքներ</translation>
     </message>
 </context>
 <context>
@@ -5548,7 +5548,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Open File Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Բացել ֆայլերի կառավարիչը</translation>
     </message>
 </context>
 <context>
@@ -5656,7 +5656,7 @@ Do you want to overwrite it?</source>
     <name>DlgEditEXIFClass</name>
     <message>
         <source>Edit EXIF</source>
-        <translation type="unfinished"></translation>
+        <translation>Խմբագրել EXIF-ը</translation>
     </message>
     <message>
         <source>Manufacturer</source>
@@ -5676,7 +5676,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Document name</source>
-        <translation type="unfinished"></translation>
+        <translation>Փաստաթղթի անունը</translation>
     </message>
     <message>
         <source>Artist</source>
@@ -5696,7 +5696,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Copyright</source>
-        <translation type="unfinished"></translation>
+        <translation>Հեղ. իրավունք</translation>
     </message>
     <message>
         <source>User comment</source>
@@ -5708,11 +5708,11 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>f/</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">f/</translation>
     </message>
     <message>
         <source>Focal length</source>
-        <translation type="unfinished"></translation>
+        <translation>Ֆոկուսային հեռավորություն</translation>
     </message>
     <message>
         <source>mm</source>
@@ -5728,7 +5728,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Date taken</source>
-        <translation type="unfinished"></translation>
+        <translation>Վերցնելու ամսաթիվը</translation>
     </message>
     <message>
         <source>Date digitized</source>
@@ -5736,43 +5736,43 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Դիրքը</translation>
     </message>
     <message>
         <source>0 - Not defined</source>
-        <translation type="unfinished"></translation>
+        <translation>0 - սահմանված չէ</translation>
     </message>
     <message>
         <source>1 - Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>1 - հորիզոնական</translation>
     </message>
     <message>
         <source>2 - Mirror horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>2 - հայելային հորիզոնական</translation>
     </message>
     <message>
         <source>3 - Rotate 180</source>
-        <translation type="unfinished"></translation>
+        <translation>3 - պտտել 180</translation>
     </message>
     <message>
         <source>4 - Mirror vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>4 - հայելային ուղղահայաց</translation>
     </message>
     <message>
         <source>5 - Mirror horizontal and rotate 270 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>5 - հայելային հորիզոնական և պտտել 270 CW</translation>
     </message>
     <message>
         <source>6 - Rotate 90 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>6 - պտտել 90 CW</translation>
     </message>
     <message>
         <source>7 - Mirror horizontal and rotate 90 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>7 - հայելային հորիզոնական և պտտել 90 CW</translation>
     </message>
     <message>
         <source>8 - Rotate 270 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>8 - Պտտել 270 CW</translation>
     </message>
     <message>
         <source>Write</source>
@@ -5917,7 +5917,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Modifying files, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ֆայլերի փոփոխում, խնդրում ենք սպասել...</translation>
     </message>
 </context>
 <context>
@@ -7190,7 +7190,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Modifying files, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ֆայլերը փոփոխվում են, խնդրում ենք սպասել...</translation>
     </message>
 </context>
 <context>
@@ -8276,7 +8276,8 @@ Thank you for purchasing %1.</source>
     <message>
         <source>Plugin is not installed. 
 Please install it via Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Օժանդակիչը տեղադրված չէ:
+Տեղադրեք այն Գործիքներ » Օժանդակիչներ բաժնում</translation>
     </message>
 </context>
 <context>
@@ -8708,19 +8709,19 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Նախակայում</translation>
     </message>
     <message>
         <source>Preset search name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Նախակայման որոնում՝</translation>
     </message>
     <message>
         <source>Save pathname</source>
-        <translation type="unfinished"></translation>
+        <translation>Պահել ուղու անունը</translation>
     </message>
     <message>
         <source>Smart Albums</source>
-        <translation type="unfinished"></translation>
+        <translation>Խելացի ալբոմներ</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -8732,7 +8733,7 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>GROUP</source>
-        <translation type="unfinished"></translation>
+        <translation>ԽՈՒՄԲ</translation>
     </message>
     <message>
         <source>Search</source>
@@ -8839,11 +8840,11 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Close dialog when browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Դիտարկելիս փակել երկխոսությունը</translation>
     </message>
     <message>
         <source>Save as Smart Album...</source>
-        <translation type="unfinished"></translation>
+        <translation>Պահել որպես խելացի ալբոմ...</translation>
     </message>
 </context>
 <context>
@@ -8939,11 +8940,11 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Restart now</source>
-        <translation type="unfinished"></translation>
+        <translation>Վերամեկնարկել</translation>
     </message>
     <message>
         <source>The changes will be applied after restarting the application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Փոփոխությունները կգործադրվեն ծրագիրը վերամեկնարկելուց հետո:</translation>
     </message>
 </context>
 <context>
@@ -9098,15 +9099,15 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Show &apos;Desktop&apos; in folder tree</source>
-        <translation type="unfinished"></translation>
+        <translation>Ցուցադրել «Աշխատասեղանը» պանակների ծառում</translation>
     </message>
     <message>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Նշել</translation>
     </message>
     <message>
         <source>Clear the list of checked files</source>
-        <translation type="unfinished"></translation>
+        <translation>Մաքրել նշված ֆայլերի ցանկը</translation>
     </message>
 </context>
 <context>
@@ -9211,11 +9212,11 @@ Do you want to check for affected entries first?</source>
     </message>
     <message>
         <source>Database [catalog: %1 %2 - thumbnails: %3 %4]</source>
-        <translation type="unfinished"></translation>
+        <translation>Տվյալների շտեմարան [գրացուցակ՝ %1 %2 - մանրապատկերներ՝ %3 %4]</translation>
     </message>
     <message>
         <source>Updating database, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Տվյալների շտեմարանի թարմացում, խնդրում ենք սպասել...</translation>
     </message>
 </context>
 <context>
@@ -9334,11 +9335,11 @@ Do you want to check for affected entries first?</source>
     </message>
     <message>
         <source>Store Exiftool fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Պահել Exiftool դաշտերը</translation>
     </message>
     <message>
         <source>Update metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Թարմացնել մետատվյալները</translation>
     </message>
 </context>
 <context>
@@ -9935,12 +9936,12 @@ Thumbnail</source>
     <message>
         <source>Custom</source>
         <comment>theme</comment>
-        <translation type="unfinished"></translation>
+        <translation>Հարմարեցված</translation>
     </message>
     <message>
         <source>Custom</source>
         <comment>icc</comment>
-        <translation type="unfinished"></translation>
+        <translation>Հարմարեցված</translation>
     </message>
 </context>
 <context>
@@ -10058,7 +10059,7 @@ Thumbnail</source>
     </message>
     <message>
         <source>ExifTool path</source>
-        <translation type="unfinished"></translation>
+        <translation>ExifTool-ի ուղի</translation>
     </message>
     <message>
         <source>...</source>
@@ -10070,15 +10071,15 @@ Thumbnail</source>
     </message>
     <message>
         <source>Add shell extension to context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Հավելել թաղանթի ընդլայնումը համատեքստային ցանկում</translation>
     </message>
     <message>
         <source>Register application</source>
-        <translation type="unfinished"></translation>
+        <translation>Գրանցել ծրագիրը</translation>
     </message>
     <message>
         <source>Open &apos;Default Apps&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Բացել «Սկզբնադիր հավելվածները»...</translation>
     </message>
 </context>
 <context>
@@ -10672,7 +10673,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Copyright</source>
-        <translation type="unfinished"></translation>
+        <translation>Հեղ. իրավունք</translation>
     </message>
     <message>
         <source>Image description</source>
@@ -10915,7 +10916,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Նշել</translation>
     </message>
 </context>
 <context>
@@ -11276,7 +11277,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Include subfolders</source>
-        <translation type="unfinished"></translation>
+        <translation>Ներառել ենթապանակները</translation>
     </message>
 </context>
 <context>
@@ -11541,7 +11542,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Watch folders for new files</source>
-        <translation type="unfinished"></translation>
+        <translation>Դիտել պանակները նոր ֆայլերի համար</translation>
     </message>
 </context>
 <context>
@@ -11695,23 +11696,23 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Windows Explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows Հետախույզ</translation>
     </message>
     <message>
         <source>Add shell extension to context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Հավելել թաղանթի ընդլայնումը համատեքստային ցանկում</translation>
     </message>
     <message>
         <source>File Association</source>
-        <translation type="unfinished"></translation>
+        <translation>Ֆայլերի համակցում</translation>
     </message>
     <message>
         <source>Register application</source>
-        <translation type="unfinished"></translation>
+        <translation>Գրանցել ծրագիրը</translation>
     </message>
     <message>
         <source>Open &apos;Default Apps&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Բացել «Սկզբնադիր հավելվածները»</translation>
     </message>
 </context>
 <context>
@@ -11982,7 +11983,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Add/Replace metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Հավելել/Փոխարինել մետատվյալները</translation>
     </message>
 </context>
 <context>
@@ -12389,7 +12390,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>File size (kB)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ֆայլի չափ (ԿԲ)</translation>
     </message>
 </context>
 <context>
@@ -12691,7 +12692,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>File size (kB)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ֆայլի չափ (ԿԲ)</translation>
     </message>
 </context>
 <context>
@@ -12842,7 +12843,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>XMP and IPTC-IIM</source>
-        <translation type="unfinished"></translation>
+        <translation>XMP և IPTC-IIM</translation>
     </message>
 </context>
 <context>
@@ -13001,7 +13002,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Do you want to add only the folder and not the filelist?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ցանկանո՞ւմ եք հավելել միայն պանակը և ոչ թե ֆայլերի ցանկը:</translation>
     </message>
 </context>
 <context>
@@ -13462,11 +13463,11 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Aspect Ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Կողմերի հարաբերություն</translation>
     </message>
     <message>
         <source>Size (kB)</source>
-        <translation type="unfinished"></translation>
+        <translation>Չափ (ԿԲ)</translation>
     </message>
     <message>
         <source>Greyscale</source>
@@ -13474,23 +13475,23 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Bits per sample</source>
-        <translation type="unfinished"></translation>
+        <translation>Բիթ վայրկյանում</translation>
     </message>
     <message>
         <source>All standard fields</source>
-        <translation type="unfinished"></translation>
+        <translation>Բոլոր ստանդարտ դաշտերը</translation>
     </message>
     <message>
         <source>ExifTool value</source>
-        <translation type="unfinished"></translation>
+        <translation>ExifTool արժեք</translation>
     </message>
     <message>
         <source>File path</source>
-        <translation type="unfinished"></translation>
+        <translation>Ֆայլի ուղի</translation>
     </message>
     <message>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Նշել</translation>
     </message>
 </context>
 <context>
@@ -13624,15 +13625,15 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Import Categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ներմուծել անվանակարգեր...</translation>
     </message>
     <message>
         <source>Import Categories (XnView Classic db)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Անվանակարգերի ներմուծում (XnView Classic db)...</translation>
     </message>
     <message>
         <source>Export Categories...</source>
-        <translation type="unfinished"></translation>
+        <translation>Անվանակարգերի արտահանում...</translation>
     </message>
     <message>
         <source>Can&apos;t import XnView Classic category database</source>
@@ -14050,15 +14051,15 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>SubSecTime</source>
-        <translation type="unfinished"></translation>
+        <translation>SubSecTime</translation>
     </message>
     <message>
         <source>SubSecTime Original</source>
-        <translation type="unfinished"></translation>
+        <translation>SubSecTime սկզբնական</translation>
     </message>
     <message>
         <source>SubSecTime Digitized</source>
-        <translation type="unfinished"></translation>
+        <translation>SubSecTime թվայնացված</translation>
     </message>
     <message>
         <source>Lens</source>
@@ -14066,35 +14067,35 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Shutter Speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Փականի արագություն</translation>
     </message>
     <message>
         <source>Colour Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Գույնի տարածք</translation>
     </message>
     <message>
         <source>Not Defined</source>
-        <translation type="unfinished"></translation>
+        <translation>Սահմանված չէ</translation>
     </message>
     <message>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Ձեռքով</translation>
     </message>
     <message>
         <source>Program AE</source>
-        <translation type="unfinished"></translation>
+        <translation>Ծրագրի AE</translation>
     </message>
     <message>
         <source>Aperture-priority AE</source>
-        <translation type="unfinished"></translation>
+        <translation>Դիաֆրագմայի առաջնահերթություն AE</translation>
     </message>
     <message>
         <source>Shutter speed priority AE</source>
-        <translation type="unfinished"></translation>
+        <translation>Փականի արագության առաջնահերթություն AE</translation>
     </message>
     <message>
         <source>Creative</source>
-        <translation type="unfinished"></translation>
+        <translation>Ստեղծագործական</translation>
     </message>
     <message>
         <source>Action</source>
@@ -14125,7 +14126,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Remove from Favorites panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Հեռացնել Ընտրյալներ փեղկից</translation>
     </message>
 </context>
 <context>
@@ -14475,7 +14476,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Telephone number</source>
-        <translation type="unfinished"></translation>
+        <translation>Հեռախոսահամար</translation>
     </message>
 </context>
 <context>
@@ -14609,7 +14610,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Add to Favorites panel</source>
-        <translation type="unfinished"></translation>
+        <translation>Հավելել Ընտրյալներ փեղկում</translation>
     </message>
 </context>
 <context>
@@ -14761,7 +14762,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>&amp;Checked files</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ստուգված ֆայլեր</translation>
     </message>
 </context>
 <context>
@@ -14982,7 +14983,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Open with</source>
-        <translation type="unfinished"></translation>
+        <translation>Բացել հետևյալով՝</translation>
     </message>
 </context>
 <context>
@@ -15985,11 +15986,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Edit GPS...</source>
-        <translation type="unfinished"></translation>
+        <translation>Խմբագրել GPS-ը...</translation>
     </message>
     <message>
         <source>Edit face tag...</source>
-        <translation type="unfinished"></translation>
+        <translation>Խմբագրել դեմքի պիտակը...</translation>
     </message>
     <message>
         <source>##rating## (go to next image)</source>
@@ -15997,23 +15998,23 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Open in file manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Բացել ֆայլերի կառավարիչում</translation>
     </message>
     <message>
         <source>Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Քարտեզ</translation>
     </message>
     <message>
         <source>Add to album</source>
-        <translation type="unfinished"></translation>
+        <translation>Հավելել ալբոմում</translation>
     </message>
     <message>
         <source>Remove from this album</source>
-        <translation type="unfinished"></translation>
+        <translation>Հեռացնել այս ալբոմից</translation>
     </message>
     <message>
         <source>Remove from all albums</source>
-        <translation type="unfinished"></translation>
+        <translation>Հեռացնել բոլոր ալբոմներից</translation>
     </message>
     <message>
         <source>Film strip 3</source>
@@ -16021,51 +16022,51 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Check/Uncheck current</source>
-        <translation type="unfinished"></translation>
+        <translation>Նշել/Ապանշել ընթացիկը</translation>
     </message>
     <message>
         <source>Checked file(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Նշված ֆայլ(եր)</translation>
     </message>
     <message>
         <source>Unchecked file(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ապանշված ֆայլ(եր)</translation>
     </message>
     <message>
         <source>Select checked files</source>
-        <translation type="unfinished"></translation>
+        <translation>Ընտրել նշված ֆայլերը</translation>
     </message>
     <message>
         <source>Check/Uncheck</source>
-        <translation type="unfinished"></translation>
+        <translation>Նշել/Ապանշել</translation>
     </message>
     <message>
         <source>Uncheck all</source>
-        <translation type="unfinished"></translation>
+        <translation>Ապանշել բոլորը</translation>
     </message>
     <message>
         <source>Clear all checks</source>
-        <translation type="unfinished"></translation>
+        <translation>Մաքրել բոլոր նշումները</translation>
     </message>
     <message>
         <source>Show checked files</source>
-        <translation type="unfinished"></translation>
+        <translation>Ցուցադրել նշված ֆայլերը</translation>
     </message>
     <message>
         <source>Show checkbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Ցուցադրել նշատուփը</translation>
     </message>
     <message>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Նշել</translation>
     </message>
     <message>
         <source>Edit EXIF...</source>
-        <translation type="unfinished"></translation>
+        <translation>Խմբագրել EXIF-ը...</translation>
     </message>
     <message>
         <source>Add/Replace metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Հավելել/փոխարինել մետատվյալները...</translation>
     </message>
 </context>
 <context>
@@ -17098,23 +17099,23 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Open in file manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Բացել ֆայլերի կառավարիչում</translation>
     </message>
     <message>
         <source>Paste in selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Կպցնել ընտրվածում</translation>
     </message>
     <message>
         <source>Remove horizontal strip</source>
-        <translation type="unfinished"></translation>
+        <translation>Հեռացնել հորիզոնական շերտը</translation>
     </message>
     <message>
         <source>Remove vertical strip</source>
-        <translation type="unfinished"></translation>
+        <translation>Հեռացնել ուղղահայաց շերտը</translation>
     </message>
     <message>
         <source>Check/Uncheck</source>
-        <translation type="unfinished"></translation>
+        <translation>Նշել/Ապանշել</translation>
     </message>
 </context>
 <context>
@@ -17304,7 +17305,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>My Computer</source>
-        <translation type="unfinished"></translation>
+        <translation>Իմ համակարգիչը</translation>
     </message>
 </context>
 <context>
@@ -17859,7 +17860,7 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>Favorites</source>
-        <translation type="unfinished"></translation>
+        <translation>Ընտրյալներ</translation>
     </message>
 </context>
 <context>
@@ -18400,11 +18401,11 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>is between (today)</source>
-        <translation type="unfinished"></translation>
+        <translation>միջև (այսօր)</translation>
     </message>
     <message>
         <source>is within the last</source>
-        <translation type="unfinished"></translation>
+        <translation>վերջինի միջակայքում</translation>
     </message>
 </context>
 <context>
@@ -18415,14 +18416,14 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>TODAY</source>
-        <translation type="unfinished"></translation>
+        <translation>ԱՅՍՕՐ</translation>
     </message>
 </context>
 <context>
     <name>SearchGroup</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Ձև</translation>
     </message>
     <message>
         <source>Add &gt;&gt;</source>
@@ -18430,19 +18431,19 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>Clear all</source>
-        <translation type="unfinished"></translation>
+        <translation>Մաքրել բոլորը</translation>
     </message>
     <message>
         <source>Match inside this group</source>
-        <translation type="unfinished"></translation>
+        <translation>Համապատասխանություն խմբի ներսում</translation>
     </message>
     <message>
         <source>AND</source>
-        <translation type="unfinished"></translation>
+        <translation>ԵՎ</translation>
     </message>
     <message>
         <source>OR</source>
-        <translation type="unfinished"></translation>
+        <translation>ԿԱՄ</translation>
     </message>
 </context>
 <context>
@@ -18467,7 +18468,7 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>Indexed</source>
-        <translation type="unfinished"></translation>
+        <translation>Ցուցակված</translation>
     </message>
 </context>
 <context>
@@ -18829,17 +18830,19 @@ Rating, Tag &amp; Color labels will not be saved.</source>
     </message>
     <message>
         <source>Catalog update</source>
-        <translation type="unfinished"></translation>
+        <translation>Գրացուցակի թարմացում</translation>
     </message>
     <message>
         <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
-        <translation type="unfinished"></translation>
+        <translation>Դուք պետք է թարմացնեք գրացուցակը (Կարգավորումներ»Գրացուցակ»Թարմացնել մետատվյալները), եթե ցանկանում եք օգտագործել նոր կերպը «Գրացուցակի զտիչում»: </translation>
     </message>
     <message>
         <source>There is a problem to update Catalog:
 (Error: % 1)
 Please contact the developer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Գրացուցակի թարմացման խնդիր.:
+(Սխալ՝ % 1)
+Կապվեք ծրագրավորողի հետ:</translation>
     </message>
 </context>
 </TS>
