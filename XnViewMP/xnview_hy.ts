@@ -200,7 +200,7 @@
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished">Լեզուն</translation>
+        <translation>Լեզու</translation>
     </message>
 </context>
 <context>
@@ -767,11 +767,11 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>EXIF: Date taken</source>
-        <translation type="unfinished">EXIF: Տրման ամսաթիվ</translation>
+        <translation>EXIF: Տրման ամսաթիվ</translation>
     </message>
     <message>
         <source>EXIF: Date modified</source>
-        <translation type="unfinished">EXIF: Փոփոխումը</translation>
+        <translation>EXIF: Փոփոխման ամսաթիվ</translation>
     </message>
     <message>
         <source>File: Date modified</source>
@@ -791,7 +791,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Edit...</source>
-        <translation type="unfinished">Խմբագրել...</translation>
+        <translation>Խմբագրել...</translation>
     </message>
     <message>
         <source>Delete Smart Album</source>
@@ -1589,7 +1589,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Date</source>
-        <translation type="unfinished">Ամսաթիվ</translation>
+        <translation>Ամսաթիվ</translation>
     </message>
     <message>
         <source>Taken in last 30 days</source>
@@ -1613,11 +1613,11 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Landscape</source>
-        <translation type="unfinished">Բնապատկեր</translation>
+        <translation>Բնապատկեր</translation>
     </message>
     <message>
         <source>Portrait</source>
-        <translation type="unfinished">Դիմանկար</translation>
+        <translation>Դիմանկար</translation>
     </message>
     <message>
         <source>Panoramic</source>
@@ -1633,7 +1633,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Square</source>
-        <translation type="unfinished">Քառակուսի</translation>
+        <translation>Քառակուսի</translation>
     </message>
     <message>
         <source>Categories</source>
@@ -3315,15 +3315,15 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished">Հորիզոնական</translation>
+        <translation>Հորիզոնական</translation>
     </message>
     <message>
         <source>Edges</source>
-        <translation type="unfinished">Եզրեր</translation>
+        <translation>Եզրեր</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished">Ուղղահայաց</translation>
+        <translation>Ուղղահայաց</translation>
     </message>
     <message>
         <source>Zealous</source>
@@ -3407,7 +3407,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Margin</source>
-        <translation type="unfinished">Լուսանցք</translation>
+        <translation>Լուսանցք</translation>
     </message>
 </context>
 <context>
@@ -5660,19 +5660,19 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Manufacturer</source>
-        <translation type="unfinished">Արտադրող</translation>
+        <translation>Արտադրող</translation>
     </message>
     <message>
         <source>Model</source>
-        <translation type="unfinished">Մոդել</translation>
+        <translation>Մոդել</translation>
     </message>
     <message>
         <source>Software</source>
-        <translation type="unfinished">Ծրագիրը</translation>
+        <translation>Ծրագիր</translation>
     </message>
     <message>
         <source>Image description</source>
-        <translation type="unfinished">Պատկերի նկարագրություն</translation>
+        <translation>Պատկերի նկարագրություն</translation>
     </message>
     <message>
         <source>Document name</source>
@@ -5680,19 +5680,19 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Artist</source>
-        <translation type="unfinished">Հեղինակ</translation>
+        <translation>Հեղինակ</translation>
     </message>
     <message>
         <source>XP Title</source>
-        <translation type="unfinished">XP անվանում</translation>
+        <translation>XP անվանում</translation>
     </message>
     <message>
         <source>XP Comment</source>
-        <translation type="unfinished">XP Մեկնաբանություն</translation>
+        <translation>XP Մեկնաբանություն</translation>
     </message>
     <message>
         <source>XP Author</source>
-        <translation type="unfinished">XP Հեղինակ</translation>
+        <translation>XP Հեղինակ</translation>
     </message>
     <message>
         <source>Copyright</source>
@@ -5700,15 +5700,15 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>User comment</source>
-        <translation type="unfinished">Մեկնաբանությունը</translation>
+        <translation>Օգտվողի մեկնաբանություն</translation>
     </message>
     <message>
         <source>F-Number</source>
-        <translation type="unfinished">F համարը</translation>
+        <translation>F համար</translation>
     </message>
     <message>
         <source>f/</source>
-        <translation type="unfinished">f/</translation>
+        <translation>f/</translation>
     </message>
     <message>
         <source>Focal length</source>
@@ -5716,15 +5716,15 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>mm</source>
-        <translation type="unfinished">մմ</translation>
+        <translation>մմ</translation>
     </message>
     <message>
         <source>Lens model</source>
-        <translation type="unfinished">Ոսպնյակի մոդել</translation>
+        <translation>Ոսպնյակի մոդել</translation>
     </message>
     <message>
         <source>Date modified</source>
-        <translation type="unfinished">Փոփոխման ամսաթիվ</translation>
+        <translation>Փոփոխման ամսաթիվը</translation>
     </message>
     <message>
         <source>Date taken</source>
@@ -5732,7 +5732,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Date digitized</source>
-        <translation type="unfinished">Թվայնացման ամսաթվիը</translation>
+        <translation>Թվայնացման ամսաթիվը</translation>
     </message>
     <message>
         <source>Orientation</source>
@@ -5776,7 +5776,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Write</source>
-        <translation type="unfinished">Գրել</translation>
+        <translation>Գրել</translation>
     </message>
 </context>
 <context>
@@ -6391,7 +6391,7 @@ Please make sure that files are not read-only!</source>
     <message>
         <source>Problem to change file association. 
 Please try to start with admin rights.</source>
-        <translation type="unfinished">Ասոցիացման հաստատման սխալ։
+        <translation>Համակցման հաստատման սխալ։
 Կրկին փորձեք Ադմինի իրավունքներով։</translation>
     </message>
 </context>
@@ -8725,11 +8725,11 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished">Անուն.</translation>
+        <translation>Անուն.</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished">Պահել</translation>
+        <translation>Պահել</translation>
     </message>
     <message>
         <source>GROUP</source>
@@ -8737,7 +8737,7 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Որոնում</translation>
+        <translation>Որոնում</translation>
     </message>
 </context>
 <context>
@@ -9063,7 +9063,7 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Layout</source>
-        <translation type="unfinished">Դասավորություն</translation>
+        <translation>Դասավորություն</translation>
     </message>
     <message>
         <source>1 bar v1</source>
@@ -9083,15 +9083,15 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Ջնջել</translation>
+        <translation>Ջնջել</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished">Վերանվանել</translation>
+        <translation>Վերանվանել</translation>
     </message>
     <message>
         <source>New folder</source>
-        <translation type="unfinished">Նոր պանակ</translation>
+        <translation>Նոր պանակ</translation>
     </message>
     <message>
         <source>Rating (filter)</source>
@@ -10000,7 +10000,7 @@ Thumbnail</source>
     </message>
     <message>
         <source>Select a program</source>
-        <translation type="unfinished">Ընտրել ծրագիր</translation>
+        <translation>Ընտրել ծրագիր</translation>
     </message>
 </context>
 <context>
@@ -10063,11 +10063,11 @@ Thumbnail</source>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>Add &apos;Browse with XnViewMP&apos; to context menu</source>
-        <translation type="unfinished">Ավելացնել &apos;Դիտել XnViewMP-ում&apos; հարցումը համատեքստային ցանկում</translation>
+        <translation>Ավելացնել &apos;Դիտել XnViewMP-ում&apos; հարցումը համատեքստային ցանկում</translation>
     </message>
     <message>
         <source>Add shell extension to context menu</source>
@@ -10677,7 +10677,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Image description</source>
-        <translation type="unfinished">Պատկերի նկարագրություն</translation>
+        <translation>Պատկերի նկարագրություն</translation>
     </message>
 </context>
 <context>
@@ -10912,7 +10912,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Use transparency grid</source>
-        <translation type="unfinished">Օգտագործել թափանցիկության ցանց</translation>
+        <translation>Օգտագործել թափանցիկության ցանց</translation>
     </message>
     <message>
         <source>Check</source>
@@ -11979,7 +11979,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Write</source>
-        <translation type="unfinished">Գրել</translation>
+        <translation>Գրել</translation>
     </message>
     <message>
         <source>Add/Replace metadata</source>
@@ -12897,7 +12897,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Show files in subfolders</source>
-        <translation type="unfinished">Ցուցադրել ֆայլերը ենթապանակներում</translation>
+        <translation>Ցուցադրել ֆայլերը ենթապանակներում</translation>
     </message>
 </context>
 <context>
@@ -13459,7 +13459,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>File type</source>
-        <translation type="unfinished">Ֆայլի տեսակ</translation>
+        <translation>Ֆայլի տեսակ</translation>
     </message>
     <message>
         <source>Aspect Ratio</source>
@@ -13471,7 +13471,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Greyscale</source>
-        <translation type="unfinished">Մոխրագույն</translation>
+        <translation>Մոխրագույն</translation>
     </message>
     <message>
         <source>Bits per sample</source>
@@ -13637,19 +13637,19 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Can&apos;t import XnView Classic category database</source>
-        <translation type="unfinished">ՀՆարավոր չէ ներմուծել XnView Classic անվանակարգի տվյալների շտեմարանը</translation>
+        <translation>Հնարավոր չէ ներմուծել XnView Classic անվանակարգի տվյալների շտեմարանը</translation>
     </message>
     <message>
         <source>Problem during database import!</source>
-        <translation type="unfinished">Խնդիր՝ շտեմարանը ներմուծելիս</translation>
+        <translation>Խնդիր՝ շտեմարանը ներմուծելիս:</translation>
     </message>
     <message>
         <source>Category tree successfully imported into XnView categories</source>
-        <translation type="unfinished">Անվանակարգի ծառը հաջողությամբ ներմուծվել է XnView-ի անվանակարգերում</translation>
+        <translation>Անվանակարգի ծառը հաջողությամբ ներմուծվել է XnView-ի անվանակարգերում</translation>
     </message>
     <message>
         <source>Can&apos;t import XnView database</source>
-        <translation type="unfinished">Հնարավոր չէ ներմուծել XnView ՏՇ-ը</translation>
+        <translation>Հնարավոր չէ ներմուծել XnView ՏՇ-ը</translation>
     </message>
 </context>
 <context>
@@ -14063,7 +14063,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Lens</source>
-        <translation type="unfinished">Լինզա</translation>
+        <translation>Ոսպնյակ</translation>
     </message>
     <message>
         <source>Shutter Speed</source>
@@ -14099,30 +14099,30 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Action</source>
-        <translation type="unfinished">Գործողություն</translation>
+        <translation>Գործողություն</translation>
     </message>
     <message>
         <source>Portrait</source>
-        <translation type="unfinished">Դիմանկար</translation>
+        <translation>Դիմանկար</translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation type="unfinished">Բնապատկեր</translation>
+        <translation>Բնապատկեր</translation>
     </message>
     <message>
         <source>Lens model</source>
-        <translation type="unfinished">Ոսպնյակի մոդել</translation>
+        <translation>Ոսպնյակի մոդել</translation>
     </message>
 </context>
 <context>
     <name>InfoFavoritesView</name>
     <message>
         <source>Tag</source>
-        <translation type="unfinished">Պիտակ</translation>
+        <translation>Պիտակ</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished">Արժեք</translation>
+        <translation>Արժեք</translation>
     </message>
     <message>
         <source>Remove from Favorites panel</source>
@@ -16018,7 +16018,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Film strip 3</source>
-        <translation type="unfinished">Լայն գիծ 3</translation>
+        <translation>Ֆիլմի շերտ 3</translation>
     </message>
     <message>
         <source>Check/Uncheck current</source>
@@ -17391,14 +17391,14 @@ Do you want to continue?</source>
     <name>MyLittleToolBarV1</name>
     <message>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished">Փոխարկել շարժիչի գործառույթը. մանրապատկերի չափը [փիքսել] կամ մանրապատկերները մեկ սյունակում</translation>
+        <translation>Փոխարկել շարժիչի գործառույթը. մանրապատկերի չափը [փիքսել] կամ մանրապատկերներ մեկ սյունակում</translation>
     </message>
 </context>
 <context>
     <name>MyLittleToolBarV2_2</name>
     <message>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation type="unfinished">Փոխարկել շարժիչի գործառույթը. մանրապատկերի չափը [փիքսել] կամ մանրապատկերները մեկ սյունակում</translation>
+        <translation>Փոխարկել սահիկի գործառույթը. մանրապատկերի չափը [փիքսել] կամ մանրապատկերներ մեկ սյունակում</translation>
     </message>
 </context>
 <context>
@@ -18412,7 +18412,7 @@ You can change it in Settings › Catalog.</source>
     <name>SearchFieldRangeDate</name>
     <message>
         <source>day(s)</source>
-        <translation type="unfinished">օր</translation>
+        <translation>օր</translation>
     </message>
     <message>
         <source>TODAY</source>
@@ -18427,7 +18427,7 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>Add &gt;&gt;</source>
-        <translation type="unfinished">Ավելացնել »»</translation>
+        <translation>Ավելացնել »»</translation>
     </message>
     <message>
         <source>Clear all</source>
@@ -18464,7 +18464,7 @@ You can change it in Settings › Catalog.</source>
     <name>SummaryWidget</name>
     <message>
         <source>Greyscale</source>
-        <translation type="unfinished">Մոխրագույն</translation>
+        <translation>Մոխրագույն</translation>
     </message>
     <message>
         <source>Indexed</source>
