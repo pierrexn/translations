@@ -637,7 +637,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="2072"/>
         <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi-select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right-click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Filter kataloga&lt;/b&gt;&lt;br&gt;Kliknite z levo tipko miške za filtriranje&lt;br&gt;&amp;bull; Shift/Ctrl - izbira več elementov&lt;br&gt;&amp;bull; Alt - izključitev elementov&lt;br&gt;Kliknite z desno tipko miške za odpiranje možnosti vozlišča&lt;br&gt;Povlecite in spustite na vozlišče za dodelitev</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2281"/>
@@ -684,18 +684,18 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <location filename="BrowserWindow.cpp" line="2007"/>
         <location filename="BrowserWindow.cpp" line="2019"/>
         <source>AND</source>
-        <translation type="unfinished">IN</translation>
+        <translation>IN</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2007"/>
         <location filename="BrowserWindow.cpp" line="2013"/>
         <source>OR</source>
-        <translation type="unfinished">ALI</translation>
+        <translation>ALI</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2008"/>
         <source>&lt;b&gt;Match&lt;/b&gt;&lt;br&gt;OR - match any selected entry&lt;br&gt;AND - match all selected entries</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Ujemanje&lt;/b&gt;&lt;br&gt;ALI - ujemanje katerega koli izbranega vnosa&lt;br&gt;IN - ujemanje vseh izbranih vnosov</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3478"/>
@@ -760,7 +760,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="3476"/>
         <source>&lt;Checked files&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Preverjene datoteke&gt;</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4474"/>
@@ -2098,19 +2098,19 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="195"/>
         <source>Categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Kategorije</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="248"/>
         <location filename="DBFilterModel.cpp" line="548"/>
         <source>Check (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Preveri (%1)</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="248"/>
         <location filename="DBFilterModel.cpp" line="548"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Preveri</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1457"/>
@@ -7346,157 +7346,157 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditEXIF.ui" line="14"/>
         <source>Edit EXIF</source>
-        <translation type="unfinished"></translation>
+        <translation>Uredi EXIF</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="26"/>
         <source>Manufacturer</source>
-        <translation type="unfinished">Proizvajalec</translation>
+        <translation>Proizvajalec</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="36"/>
         <source>Model</source>
-        <translation type="unfinished">Model</translation>
+        <translation>Model</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="50"/>
         <source>Software</source>
-        <translation type="unfinished">Programska oprema</translation>
+        <translation>Programska oprema</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="64"/>
         <source>Image description</source>
-        <translation type="unfinished">Opis slike</translation>
+        <translation>Opis slike</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="78"/>
         <source>Document name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ime dokumenta</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="92"/>
         <source>Artist</source>
-        <translation type="unfinished">Izvajalec</translation>
+        <translation>Umetnik</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="106"/>
         <source>XP Title</source>
-        <translation type="unfinished">XP Naslov</translation>
+        <translation>XP Naslov</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="120"/>
         <source>XP Comment</source>
-        <translation type="unfinished">XP Komentar</translation>
+        <translation>XP Komentar</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="134"/>
         <source>XP Author</source>
-        <translation type="unfinished">XP Avtor</translation>
+        <translation>XP Avtor</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="148"/>
         <source>Copyright</source>
-        <translation type="unfinished">Copyright</translation>
+        <translation>Copyright</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="162"/>
         <source>User comment</source>
-        <translation type="unfinished">Komentar uporabnika</translation>
+        <translation>Komentar uporabnika</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="176"/>
         <source>F-Number</source>
-        <translation type="unfinished">F-številka</translation>
+        <translation>F-številka</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="185"/>
         <source>f/</source>
-        <translation type="unfinished"></translation>
+        <translation>f/</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="213"/>
         <source>Focal length</source>
-        <translation type="unfinished"></translation>
+        <translation>Goriščna razdalja</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="222"/>
         <source>mm</source>
-        <translation type="unfinished">mm</translation>
+        <translation>mm</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="247"/>
         <source>Lens model</source>
-        <translation type="unfinished">Model objektiva</translation>
+        <translation>Model objektiva</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="257"/>
         <source>Date modified</source>
-        <translation type="unfinished">Datum spremembe</translation>
+        <translation>Datum spremembe</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="288"/>
         <source>Date taken</source>
-        <translation type="unfinished">Datum posnetka</translation>
+        <translation>Datum posnetka</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="319"/>
         <source>Date digitized</source>
-        <translation type="unfinished">Datum digitalizacije</translation>
+        <translation>Datum digitalizacije</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="350"/>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientacija</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="358"/>
         <source>0 - Not defined</source>
-        <translation type="unfinished"></translation>
+        <translation>0 - Ni definirano</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="363"/>
         <source>1 - Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>1 - Vodoravno</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="368"/>
         <source>2 - Mirror horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>2 - Zrcalno vodoravno</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="373"/>
         <source>3 - Rotate 180</source>
-        <translation type="unfinished"></translation>
+        <translation>3 - Zavrtite za 180</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="378"/>
         <source>4 - Mirror vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>4 - Zrcali navpično</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="383"/>
         <source>5 - Mirror horizontal and rotate 270 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>5 - Zrcali vodoravno in zavrti za 270 stopinj v smeri urinega kazalca</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="388"/>
         <source>6 - Rotate 90 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>6 - Zavrti za 90 stopinj v smeri kazalca na uri</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="393"/>
         <source>7 - Mirror horizontal and rotate 90 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>7 - Zrcali vodoravno in zavrti za 90 stopinj v smeri urinega kazalca</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="398"/>
         <source>8 - Rotate 270 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>8 - Zavrti se za 270 stopinj v smeri kazalca na uri</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="424"/>
         <source>Write</source>
-        <translation type="unfinished"></translation>
+        <translation>Piši</translation>
     </message>
 </context>
 <context>
@@ -11669,7 +11669,7 @@ Ali jih želite odstraniti?</translation>
         <location filename="DlgSettingsBrowser.ui" line="438"/>
         <source>Clear the list of checked files</source>
         <oldsource>Clear the list of tagged files</oldsource>
-        <translation type="unfinished">Počisti seznam označenih datotek</translation>
+        <translation>Počisti seznam preverjenih datotek</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="446"/>
@@ -11714,7 +11714,7 @@ Ali jih želite odstraniti?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="430"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Preveri</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="85"/>
@@ -12906,7 +12906,7 @@ sličico</translation>
         <location filename="DlgSettingsIntegration.ui" line="58"/>
         <source>Add shell extension to context menu</source>
         <oldsource>Enable shell extension to context menu</oldsource>
-        <translation type="unfinished">Omogoči razširitev lupine v kontekstni meni</translation>
+        <translation>Dodaj razširitev lupine v kontekstni meni</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="70"/>
@@ -12917,12 +12917,12 @@ sličico</translation>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="94"/>
         <source>Register application</source>
-        <translation type="unfinished"></translation>
+        <translation>Registracija vloge</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="118"/>
         <source>Open &apos;Default Apps&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpri &apos;Privzete aplikacije&apos;...</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="154"/>
@@ -14030,7 +14030,7 @@ Ali želite ponovno dodeliti?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="722"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Preveri</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="904"/>
@@ -15178,27 +15178,27 @@ Ali želite ponovno dodeliti?</translation>
     <message>
         <location filename="DlgStartupWizard.ui" line="128"/>
         <source>Windows Explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>Raziskovalec</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="141"/>
         <source>Add shell extension to context menu</source>
-        <translation type="unfinished">Omogoči razširitev lupine v kontekstni meni</translation>
+        <translation>Dodaj razširitev lupine v kontekstni meni</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="151"/>
         <source>File Association</source>
-        <translation type="unfinished"></translation>
+        <translation>Povezava datotek</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="157"/>
         <source>Register application</source>
-        <translation type="unfinished"></translation>
+        <translation>Registracija vloge</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="164"/>
         <source>Open &apos;Default Apps&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpri &apos;Privzete aplikacije&apos;</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="183"/>
@@ -15457,7 +15457,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgTimestamp.ui" line="22"/>
         <source>Use</source>
-        <translation>Uporabi</translation>
+        <translation>Uporaba</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="28"/>
@@ -15555,7 +15555,7 @@ Do you want to continue?</source>
         <location filename="DlgTransfer.ui" line="14"/>
         <source>Add/Replace metadata</source>
         <oldsource>Edit Metadata</oldsource>
-        <translation type="unfinished">Urejanje metapodatkov</translation>
+        <translation>Dodaj/zamenjaj metapodatke</translation>
     </message>
     <message>
         <location filename="DlgTransfer.ui" line="22"/>
@@ -16936,7 +16936,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="ItemModel.cpp" line="1051"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Preveri</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1069"/>
@@ -17338,7 +17338,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="703"/>
         <source>Recorded date</source>
-        <translation>Datum posnetka</translation>
+        <translation>Datum snemanja</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2581"/>
@@ -19369,7 +19369,7 @@ Do you want to continue?</oldsource>
         <location filename="ItemSelection.cpp" line="128"/>
         <source>&amp;Checked files</source>
         <oldsource>&amp;Tagged files</oldsource>
-        <translation type="unfinished">&amp;Označene datoteke</translation>
+        <translation>&amp;Preverjene datoteke</translation>
     </message>
     <message>
         <location filename="ItemSelection.cpp" line="130"/>
@@ -19900,13 +19900,13 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="84"/>
         <source>Checked file(s)</source>
         <oldsource>Tagged file(s)</oldsource>
-        <translation type="unfinished">Označena datoteka(e)</translation>
+        <translation>Preverjena datoteka(e)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="85"/>
         <source>Unchecked file(s)</source>
         <oldsource>Untagged file(s)</oldsource>
-        <translation type="unfinished">Neoznačena datoteka(e)</translation>
+        <translation>Nepreverjena datoteka(e)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="322"/>
@@ -19921,7 +19921,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="457"/>
         <source>Check/Uncheck</source>
-        <translation type="unfinished"></translation>
+        <translation>Označi/Odznači</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="471"/>
@@ -19942,7 +19942,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="507"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Preveri</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="508"/>
@@ -20049,12 +20049,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="593"/>
         <source>Edit EXIF...</source>
-        <translation type="unfinished"></translation>
+        <translation>Uredi EXIF...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="599"/>
         <source>Add/Replace metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj/zamenjaj metapodatke...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="646"/>
@@ -20682,7 +20682,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="437"/>
         <source>Select checked files</source>
         <oldsource>Select tagged files</oldsource>
-        <translation type="unfinished">Izberi označene datoteke</translation>
+        <translation>Izberi označene datoteke</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4469"/>
@@ -20762,7 +20762,7 @@ Do you want to continue?</oldsource>
         <source>Check/Uncheck current</source>
         <oldsource>Tag/Untag current</oldsource>
         <translatorcomment>Označi/Odznači trenutno</translatorcomment>
-        <translation type="unfinished">Označi izbor</translation>
+        <translation>Označi/Odznači trenutno</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="458"/>
@@ -20773,25 +20773,25 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="459"/>
         <source>Uncheck all</source>
         <oldsource>Untag all</oldsource>
-        <translation type="unfinished">Odznači vse</translation>
+        <translation>Odznači vse</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="460"/>
         <source>Clear all checks</source>
         <oldsource>Clear all tags</oldsource>
-        <translation type="unfinished">Počisti vse oznake</translation>
+        <translation>Počisti vse oznake</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="461"/>
         <source>Show checked files</source>
         <oldsource>Show tagged files</oldsource>
-        <translation type="unfinished">Prikaži označene datoteke</translation>
+        <translation>Prikaži označene datoteke</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="462"/>
         <source>Show checkbox</source>
         <oldsource>Show tag box</oldsource>
-        <translation type="unfinished">Pokaži polje oznake</translation>
+        <translation>Pokaži polje oznake</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="502"/>
@@ -21875,7 +21875,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="363"/>
         <source>Check/Uncheck</source>
-        <translation type="unfinished"></translation>
+        <translation>Označi/Odznači</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="372"/>
