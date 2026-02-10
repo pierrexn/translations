@@ -2104,13 +2104,13 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DBFilterModel.cpp" line="248"/>
         <location filename="DBFilterModel.cpp" line="548"/>
         <source>Check (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">检查 (%1)</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="248"/>
         <location filename="DBFilterModel.cpp" line="548"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">检查</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1457"/>
@@ -7295,7 +7295,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditEXIF.ui" line="14"/>
         <source>Edit EXIF</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">编辑 EXIF</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="26"/>
@@ -7365,7 +7365,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditEXIF.ui" line="213"/>
         <source>Focal length</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">焦距</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="222"/>
@@ -7395,32 +7395,32 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditEXIF.ui" line="350"/>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">方向</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="358"/>
         <source>0 - Not defined</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">0 - 未定义</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="363"/>
         <source>1 - Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1 - 水平</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="368"/>
         <source>2 - Mirror horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">2 - 水平镜像</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="373"/>
         <source>3 - Rotate 180</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3 - 旋转 180 度</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="378"/>
         <source>4 - Mirror vertical</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">4 - 垂直镜像</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="383"/>
