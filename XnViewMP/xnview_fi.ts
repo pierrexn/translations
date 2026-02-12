@@ -601,23 +601,23 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>AND</source>
-        <translation type="unfinished">JA</translation>
+        <translation>JA</translation>
     </message>
     <message>
         <source>OR</source>
-        <translation type="unfinished">TAI</translation>
+        <translation>TAI</translation>
     </message>
     <message>
         <source>&lt;b&gt;Match&lt;/b&gt;&lt;br&gt;OR - match any selected entry&lt;br&gt;AND - match all selected entries</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;br&gt;Vastaa&lt;/b&gt;&lt;br&gt;TA I - mitä tahansa valittua merkintää &lt;br&gt;JA - vastaa kaikkia valittuja merkintöjä</translation>
     </message>
     <message>
         <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi-select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right-click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Katalogisuodatin&lt;/b&gt;&lt;br&gt;Napsauta vasemmalla painikkeella suodattaaksesi&lt;br&gt;&amp;bull; Shift/Ctrl - usean kohteen valinta&lt;br&gt;&amp;bull; Alt - kohteiden poisjättäminen&lt;br&gt;Napsauta hiiren kakkospainikkeella avataksesi solmuasetukset&lt;br&gt;Vedä ja pudota solmuun määrittääksesi</translation>
     </message>
     <message>
         <source>&lt;Checked files&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Valitut tiedostot&gt;</translation>
     </message>
 </context>
 <context>
@@ -1637,15 +1637,15 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Categories</source>
-        <translation type="unfinished">Kategoriat</translation>
+        <translation>Kategoriat</translation>
     </message>
     <message>
         <source>Check (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse (%1)</translation>
     </message>
     <message>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse</translation>
     </message>
 </context>
 <context>
@@ -5656,127 +5656,127 @@ Haluatko korvata sen?</translation>
     <name>DlgEditEXIFClass</name>
     <message>
         <source>Edit EXIF</source>
-        <translation type="unfinished"></translation>
+        <translation>Muokkaa EXIF-tiedostoa</translation>
     </message>
     <message>
         <source>Manufacturer</source>
-        <translation type="unfinished">Valmistaja</translation>
+        <translation>Valmistaja</translation>
     </message>
     <message>
         <source>Model</source>
-        <translation type="unfinished">Malli</translation>
+        <translation>Malli</translation>
     </message>
     <message>
         <source>Software</source>
-        <translation type="unfinished">Ohjelmisto</translation>
+        <translation>Ohjelmisto</translation>
     </message>
     <message>
         <source>Image description</source>
-        <translation type="unfinished">Kuvan selitys</translation>
+        <translation>Kuvan selitys</translation>
     </message>
     <message>
         <source>Document name</source>
-        <translation type="unfinished"></translation>
+        <translation>Asiakirjan nimi</translation>
     </message>
     <message>
         <source>Artist</source>
-        <translation type="unfinished">Kuvaaja</translation>
+        <translation>Kuvaaja</translation>
     </message>
     <message>
         <source>XP Title</source>
-        <translation type="unfinished">XP Otsikko</translation>
+        <translation>XP Otsikko</translation>
     </message>
     <message>
         <source>XP Comment</source>
-        <translation type="unfinished">XP Kommentti</translation>
+        <translation>XP Kommentti</translation>
     </message>
     <message>
         <source>XP Author</source>
-        <translation type="unfinished">XP Tekijä</translation>
+        <translation>XP Tekijä</translation>
     </message>
     <message>
         <source>Copyright</source>
-        <translation type="unfinished">Tekijänoikeus (Copyright)</translation>
+        <translation>Tekijänoikeus (Copyright)</translation>
     </message>
     <message>
         <source>User comment</source>
-        <translation type="unfinished">Käyttäjän kommentti</translation>
+        <translation>Käyttäjän kommentti</translation>
     </message>
     <message>
         <source>F-Number</source>
-        <translation type="unfinished">F-numero</translation>
+        <translation>F-numero</translation>
     </message>
     <message>
         <source>f/</source>
-        <translation type="unfinished"></translation>
+        <translation>f/</translation>
     </message>
     <message>
         <source>Focal length</source>
-        <translation type="unfinished"></translation>
+        <translation>Polttoväli</translation>
     </message>
     <message>
         <source>mm</source>
-        <translation type="unfinished">mm</translation>
+        <translation>mm</translation>
     </message>
     <message>
         <source>Lens model</source>
-        <translation type="unfinished">Linssin malli</translation>
+        <translation>Linssin malli</translation>
     </message>
     <message>
         <source>Date modified</source>
-        <translation type="unfinished">Muokkauspäivä</translation>
+        <translation>Muokkauspäivä</translation>
     </message>
     <message>
         <source>Date taken</source>
-        <translation type="unfinished">Kuvauspäivä</translation>
+        <translation>Kuvauspäivä</translation>
     </message>
     <message>
         <source>Date digitized</source>
-        <translation type="unfinished">Digitointipäivä</translation>
+        <translation>Digitointipäivä</translation>
     </message>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished">Suuntaus</translation>
+        <translation>Suuntaus</translation>
     </message>
     <message>
         <source>0 - Not defined</source>
-        <translation type="unfinished"></translation>
+        <translation>0 - Ei määritelty</translation>
     </message>
     <message>
         <source>1 - Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>1 - Vaakasuunta</translation>
     </message>
     <message>
         <source>2 - Mirror horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>2 - Peilaa vaakasuunnassa</translation>
     </message>
     <message>
         <source>3 - Rotate 180</source>
-        <translation type="unfinished"></translation>
+        <translation>3 - Kierrä 180 astetta</translation>
     </message>
     <message>
         <source>4 - Mirror vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>4 - Peilaa pystysuunnassa</translation>
     </message>
     <message>
         <source>5 - Mirror horizontal and rotate 270 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>5 - Peilaa vaakasuunnassa ja käännä 270 myötäpäivään</translation>
     </message>
     <message>
         <source>6 - Rotate 90 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>6 - Kierrä 90 astetta myötäpäivään</translation>
     </message>
     <message>
         <source>7 - Mirror horizontal and rotate 90 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>7 - Peilaa vaakasuunnassa ja käännä 90 astetta myötäpäivään</translation>
     </message>
     <message>
         <source>8 - Rotate 270 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>8 - Kierrä 270 myötäpäivään</translation>
     </message>
     <message>
         <source>Write</source>
-        <translation type="unfinished">Kirjoita</translation>
+        <translation>Kirjoita</translation>
     </message>
 </context>
 <context>
@@ -9108,11 +9108,11 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse</translation>
     </message>
     <message>
         <source>Clear the list of checked files</source>
-        <translation type="unfinished"></translation>
+        <translation>Tyhjennä tarkistettujen tiedostojen luettelo</translation>
     </message>
 </context>
 <context>
@@ -9345,7 +9345,7 @@ Haluatko ensin tarkastaa tiedot, joihin tämä vaikuttaa?</translation>
     </message>
     <message>
         <source>Update metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Päivitä metatiedot</translation>
     </message>
 </context>
 <context>
@@ -10077,15 +10077,15 @@ pienoiskuvina</translation>
     </message>
     <message>
         <source>Add shell extension to context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisää tiedostolaajennus hiiren pikavalikkoon</translation>
     </message>
     <message>
         <source>Register application</source>
-        <translation type="unfinished"></translation>
+        <translation>Rekisteröintisovellus</translation>
     </message>
     <message>
         <source>Open &apos;Default Apps&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Avaa &apos;Oletussovellukset&apos;...</translation>
     </message>
 </context>
 <context>
@@ -10922,7 +10922,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse</translation>
     </message>
 </context>
 <context>
@@ -11702,23 +11702,23 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Windows Explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>Windowsin resurssienhallinta</translation>
     </message>
     <message>
         <source>Add shell extension to context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisää tiedostolaajennus hiiren pikavalikkoon</translation>
     </message>
     <message>
         <source>File Association</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiedostoyhteys</translation>
     </message>
     <message>
         <source>Register application</source>
-        <translation type="unfinished"></translation>
+        <translation>Rekisteröintisovellus</translation>
     </message>
     <message>
         <source>Open &apos;Default Apps&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Avaa &apos;Oletussovellukset&apos;</translation>
     </message>
 </context>
 <context>
@@ -11989,7 +11989,7 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Add/Replace metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisää/korvaa metatiedot</translation>
     </message>
 </context>
 <context>
@@ -13497,7 +13497,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse</translation>
     </message>
 </context>
 <context>
@@ -14768,7 +14768,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>&amp;Checked files</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Valitut tiedostot</translation>
     </message>
 </context>
 <context>
@@ -16028,51 +16028,51 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Check/Uncheck current</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse/Poista nykyinen valinta</translation>
     </message>
     <message>
         <source>Checked file(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitutt tiedosto(t)</translation>
     </message>
     <message>
         <source>Unchecked file(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitsemattomat tiedosto(t)</translation>
     </message>
     <message>
         <source>Select checked files</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse valitut tiedostot</translation>
     </message>
     <message>
         <source>Check/Uncheck</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse/Poista valinta</translation>
     </message>
     <message>
         <source>Uncheck all</source>
-        <translation type="unfinished"></translation>
+        <translation>Poista kaikkien valinta</translation>
     </message>
     <message>
         <source>Clear all checks</source>
-        <translation type="unfinished"></translation>
+        <translation>Tyhjennä kaikki valinnat</translation>
     </message>
     <message>
         <source>Show checked files</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytä valitut tiedostot</translation>
     </message>
     <message>
         <source>Show checkbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytä valintaruutu</translation>
     </message>
     <message>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse</translation>
     </message>
     <message>
         <source>Edit EXIF...</source>
-        <translation type="unfinished"></translation>
+        <translation>Muokkaa EXIF-tiedostoa...</translation>
     </message>
     <message>
         <source>Add/Replace metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisää/korvaa metatiedot...</translation>
     </message>
 </context>
 <context>
@@ -17121,7 +17121,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Check/Uncheck</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse/Poista valinta</translation>
     </message>
 </context>
 <context>
