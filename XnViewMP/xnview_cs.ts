@@ -186,7 +186,7 @@
         <location filename="AboutWidget.ui" line="275"/>
         <location filename="AboutWidget.ui" line="299"/>
         <source>Translators</source>
-        <translation type="unfinished"></translation>
+        <translation>Překladatelé</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="294"/>
@@ -309,7 +309,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="2981"/>
         <source>The file &lt;%1&gt; is read-only. Please choose another file name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Soubor &lt;%1&gt; je pouze pro čtení. Vyberte jiné jméno souboru.</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2989"/>
@@ -455,7 +455,7 @@
     <message>
         <location filename="AutoDateTimeEdit.h" line="89"/>
         <source>Not set</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenastaveno</translation>
     </message>
 </context>
 <context>
@@ -601,7 +601,7 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
         <source>The database is corrupted. Please check it before you continue!</source>
         <oldsource>The database is corrupted, please check it before to continue!</oldsource>
         <translatorcomment>Better as two sentences...</translatorcomment>
-        <translation type="unfinished">Databáze je poškozená. Než budete pokračovat, zkontrolujte ji, prosím.</translation>
+        <translation>Databáze je poškozená. Než budete pokračovat, zkontrolujte ji, prosím!</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="1642"/>
