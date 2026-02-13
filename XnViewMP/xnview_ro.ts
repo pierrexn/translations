@@ -358,7 +358,7 @@
     <name>AutoDateTimeEdit</name>
     <message>
         <source>Not set</source>
-        <translation type="unfinished"></translation>
+        <translation>Nesetat</translation>
     </message>
 </context>
 <context>
@@ -1503,15 +1503,15 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation>Pictograme</translation>
+        <translation>Pictograme (Iconițe)</translation>
     </message>
     <message>
         <source>Other</source>
-        <translation>Alte</translation>
+        <translation>Altele</translation>
     </message>
     <message>
         <source>Audios</source>
-        <translation>Audio</translation>
+        <translation>Fișiere de sunet (audio)</translation>
     </message>
     <message>
         <source>Family</source>
@@ -3361,7 +3361,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Use anti-aliasing</source>
-        <translation type="unfinished"></translation>
+        <translation>Folosește antialiasarea</translation>
     </message>
 </context>
 <context>
@@ -3465,7 +3465,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Use anti-aliasing</source>
-        <translation>Folosește anti-aliasarea</translation>
+        <translation>Folosește antialiasarea</translation>
     </message>
     <message>
         <source>Frame 1</source>
@@ -5102,7 +5102,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Use anti-aliasing</source>
-        <translation type="unfinished"></translation>
+        <translation>Folosește antialiasarea</translation>
     </message>
 </context>
 <context>
@@ -5269,7 +5269,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Use anti-aliasing</source>
-        <translation>Folosește anti-aliasarea</translation>
+        <translation>Folosește antialiasarea</translation>
     </message>
     <message>
         <source>Activated</source>
@@ -5799,7 +5799,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>XP Subject</source>
-        <translation type="unfinished">Subiect XP</translation>
+        <translation>Subiect XP</translation>
     </message>
 </context>
 <context>
@@ -8714,7 +8714,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Use anti-aliasing</source>
-        <translation>Folosește anti-aliasarea</translation>
+        <translation>Folosește antialiasarea</translation>
     </message>
     <message>
         <source>Auto crop</source>
@@ -8868,15 +8868,15 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Search in</source>
-        <translation type="unfinished">Caută în</translation>
+        <translation>Caută în</translation>
     </message>
     <message>
         <source>Filesystem</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistem de fișiere</translation>
     </message>
     <message>
         <source>Catalog</source>
-        <translation type="unfinished">Catalog</translation>
+        <translation>Catalog</translation>
     </message>
 </context>
 <context>
@@ -8940,7 +8940,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Catalog</source>
-        <translation>Catalog</translation>
+        <translation>Catalogul</translation>
     </message>
     <message>
         <source>Browser</source>
@@ -8983,35 +8983,35 @@ Vrei să le redenumești?</translation>
     <name>DlgSettingsBrowser</name>
     <message>
         <source>Clear All</source>
-        <translation type="unfinished"></translation>
+        <translation>Curăţă tot</translation>
     </message>
     <message>
         <source>Remove all items from the list?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ștergi toate elementele din listă?</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Implicit</translation>
     </message>
     <message>
         <source>Reset list to default?</source>
-        <translation type="unfinished"></translation>
+        <translation>Resetezi lista la valorile implicite?</translation>
     </message>
     <message>
         <source>Expand All</source>
-        <translation type="unfinished"></translation>
+        <translation>Extinde tot</translation>
     </message>
     <message>
         <source>Collapse All</source>
-        <translation type="unfinished"></translation>
+        <translation>Restrânge tot</translation>
     </message>
     <message>
         <source>Save Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvează presetarea</translation>
     </message>
     <message>
         <source>Preset name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Numele presetării:</translation>
     </message>
 </context>
 <context>
@@ -9026,7 +9026,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation>Pictograme</translation>
+        <translation>Pictograme (Iconițe)</translation>
     </message>
     <message>
         <source>Never</source>
@@ -9178,27 +9178,27 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Header</source>
-        <translation type="unfinished">Antet</translation>
+        <translation>Antet</translation>
     </message>
     <message>
         <source>Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Etichetă</translation>
     </message>
     <message>
         <source>Field</source>
-        <translation type="unfinished">Câmp</translation>
+        <translation>Câmp</translation>
     </message>
     <message>
         <source>Clear all</source>
-        <translation type="unfinished">Curăţă tot</translation>
+        <translation>Curăţă tot</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>&lt;Default&gt;</source>
-        <translation type="unfinished">&lt;Implicit&gt;</translation>
+        <translation>&lt;Implicit&gt;</translation>
     </message>
 </context>
 <context>
@@ -13582,7 +13582,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Check status</source>
-        <translation type="unfinished"></translation>
+        <translation>Verifică starea</translation>
     </message>
 </context>
 <context>
@@ -14251,7 +14251,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Other</source>
-        <translation>Alte</translation>
+        <translation>Altele</translation>
     </message>
     <message>
         <source>State</source>
@@ -15173,7 +15173,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation>Pictograme</translation>
+        <translation>Pictograme (Iconițe)</translation>
     </message>
     <message>
         <source>Image</source>
@@ -16149,19 +16149,19 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Load...</source>
-        <translation type="unfinished">Încarcă...</translation>
+        <translation>Încarcă...</translation>
     </message>
     <message>
         <source>Save...</source>
-        <translation type="unfinished">Salvează...</translation>
+        <translation>Salvează...</translation>
     </message>
     <message>
         <source>Unload all</source>
-        <translation type="unfinished"></translation>
+        <translation>Descarcă tot</translation>
     </message>
     <message>
         <source>Session</source>
-        <translation type="unfinished">Sesiune</translation>
+        <translation>Sesiune</translation>
     </message>
 </context>
 <context>
@@ -17590,11 +17590,11 @@ O poți schimba în Setări › Catalog.</translation>
     </message>
     <message>
         <source>&lt;Default&gt;</source>
-        <translation type="unfinished">&lt;Implicit&gt;</translation>
+        <translation>&lt;Implicit&gt;</translation>
     </message>
     <message>
         <source>Customize header...</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizează antetul...</translation>
     </message>
 </context>
 <context>
@@ -18940,7 +18940,9 @@ Te rugăm să contactezi dezvoltatorul.</translation>
         <source>Catalog is disabled
 Metadata (check, ratings/colour labels and other file details)
 will not be saved to the database.</source>
-        <translation type="unfinished"></translation>
+        <translation>Catalogul este dezactivat
+Metadatele (verificare, evaluări/etichete de culoare și alte detalii despre fișier)
+nu vor fi salvate în baza de date.</translation>
     </message>
 </context>
 </TS>
