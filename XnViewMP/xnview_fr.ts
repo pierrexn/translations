@@ -453,7 +453,7 @@
     <message>
         <location filename="AutoDateTimeEdit.h" line="89"/>
         <source>Not set</source>
-        <translation type="unfinished"></translation>
+        <translation>Non défini</translation>
     </message>
 </context>
 <context>
@@ -4295,7 +4295,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="DlgConvertAutoDeskew.ui" line="47"/>
         <source>Use anti-aliasing</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser l&apos;anti-crénelage</translation>
     </message>
 </context>
 <context>
@@ -6563,7 +6563,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="DlgConvertRotate.ui" line="195"/>
         <source>Use anti-aliasing</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser l&apos;anti-crénelage</translation>
     </message>
     <message>
         <location filename="DlgConvertRotate.ui" line="203"/>
@@ -7464,7 +7464,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="DlgEditEXIF.ui" line="460"/>
         <source>XP Subject</source>
-        <translation type="unfinished">XP Sujet</translation>
+        <translation>XP Sujet</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="522"/>
@@ -11252,17 +11252,17 @@ Voulez-vous les enlever?</translation>
     <message>
         <location filename="DlgSearch.ui" line="145"/>
         <source>Search in</source>
-        <translation type="unfinished">Rechercher dans</translation>
+        <translation>Rechercher dans</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="153"/>
         <source>Filesystem</source>
-        <translation type="unfinished"></translation>
+        <translation>Système de fichiers</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="158"/>
         <source>Catalog</source>
-        <translation type="unfinished">Catalogue</translation>
+        <translation>Catalogue</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="226"/>
@@ -11515,42 +11515,42 @@ Voulez-vous les enlever?</translation>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="323"/>
         <source>Clear All</source>
-        <translation type="unfinished"></translation>
+        <translation>Tout effacer</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="323"/>
         <source>Remove all items from the list?</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer tous les éléments de la liste ?</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="334"/>
         <source>Default</source>
-        <translation type="unfinished">Défaut</translation>
+        <translation>Défaut</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="334"/>
         <source>Reset list to default?</source>
-        <translation type="unfinished"></translation>
+        <translation>Réinitialiser la liste par défaut ?</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="485"/>
         <source>Expand All</source>
-        <translation type="unfinished"></translation>
+        <translation>Tout développer</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="490"/>
         <source>Collapse All</source>
-        <translation type="unfinished"></translation>
+        <translation>Réduire tout</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="800"/>
         <source>Save Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Sauvegarder le préréglage</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="800"/>
         <source>Preset name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom du préréglage:</translation>
     </message>
 </context>
 <context>
@@ -11629,22 +11629,22 @@ Voulez-vous les enlever?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="498"/>
         <source>Header</source>
-        <translation type="unfinished">Haut de page</translation>
+        <translation>En-tête</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="531"/>
         <source>Label</source>
-        <translation type="unfinished">Libellé</translation>
+        <translation>Libellé</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="536"/>
         <source>Field</source>
-        <translation type="unfinished">Champs</translation>
+        <translation>Champs</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="546"/>
         <source>Clear all</source>
-        <translation type="unfinished">Effacer tout</translation>
+        <translation>Effacer tout</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="648"/>
@@ -11654,7 +11654,7 @@ Voulez-vous les enlever?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="700"/>
         <source>&lt;Default&gt;</source>
-        <translation type="unfinished">&lt;Défaut&gt;</translation>
+        <translation>&lt;Défaut&gt;</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="291"/>
@@ -17486,7 +17486,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2803"/>
         <source>Check status</source>
-        <translation type="unfinished"></translation>
+        <translation>Statut de la marque</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="30"/>
@@ -20108,22 +20108,22 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="BrowserMenu.h" line="585"/>
         <source>Load...</source>
-        <translation type="unfinished">Charger...</translation>
+        <translation>Charger...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="586"/>
         <source>Save...</source>
-        <translation type="unfinished">Enregistrer...</translation>
+        <translation>Enregistrer...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="587"/>
         <source>Unload all</source>
-        <translation type="unfinished"></translation>
+        <translation>Tout décharger</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="589"/>
         <source>Session</source>
-        <translation type="unfinished"></translation>
+        <translation>Session</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="596"/>
@@ -22962,12 +22962,12 @@ Vous pouvez changer celle-ci dans Paramètres › Catalogue</translation>
     <message>
         <location filename="MyThumbView.cpp" line="1680"/>
         <source>&lt;Default&gt;</source>
-        <translation type="unfinished">&lt;Défaut&gt;</translation>
+        <translation>&lt;Défaut&gt;</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="1691"/>
         <source>Customize header...</source>
-        <translation type="unfinished"></translation>
+        <translation>Personnaliser l&apos;en-tête...</translation>
     </message>
 </context>
 <context>
@@ -24660,7 +24660,9 @@ Souhaitez-vous conserver les vignettes ?
         <source>Catalog is disabled
 Metadata (check, ratings/colour labels and other file details)
 will not be saved to the database.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le catalogue est désactivé
+Les métadonnées (vérification, classement/étiquettes de couleur et autres détails du fichier)
+ne seront pas enregistrées dans la base de données.</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="951"/>
