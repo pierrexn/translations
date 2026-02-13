@@ -453,7 +453,7 @@
     <message>
         <location filename="AutoDateTimeEdit.h" line="89"/>
         <source>Not set</source>
-        <translation type="unfinished"></translation>
+        <translation>Niet ingesteld</translation>
     </message>
 </context>
 <context>
@@ -4296,7 +4296,7 @@ Doorgaan?</translation>
     <message>
         <location filename="DlgConvertAutoDeskew.ui" line="47"/>
         <source>Use anti-aliasing</source>
-        <translation type="unfinished">Anti-aliasing gebruiken</translation>
+        <translation>Anti-aliasing gebruiken</translation>
     </message>
 </context>
 <context>
@@ -6562,7 +6562,7 @@ Doorgaan?</translation>
     <message>
         <location filename="DlgConvertRotate.ui" line="195"/>
         <source>Use anti-aliasing</source>
-        <translation type="unfinished">Anti-aliasing gebruiken</translation>
+        <translation>Anti-aliasing gebruiken</translation>
     </message>
     <message>
         <location filename="DlgConvertRotate.ui" line="203"/>
@@ -7463,7 +7463,7 @@ Doorgaan?</translation>
     <message>
         <location filename="DlgEditEXIF.ui" line="460"/>
         <source>XP Subject</source>
-        <translation type="unfinished">XP onderwerp</translation>
+        <translation>XP onderwerp</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="522"/>
@@ -11250,17 +11250,17 @@ Wil je ze verwijderen?</translation>
     <message>
         <location filename="DlgSearch.ui" line="145"/>
         <source>Search in</source>
-        <translation type="unfinished">Zoeken in</translation>
+        <translation>Zoeken in</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="153"/>
         <source>Filesystem</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestandssysteem</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="158"/>
         <source>Catalog</source>
-        <translation type="unfinished">Catalogus</translation>
+        <translation>Catalogus</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="226"/>
@@ -11512,42 +11512,42 @@ Wil je ze verwijderen?</translation>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="323"/>
         <source>Clear All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles wissen</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="323"/>
         <source>Remove all items from the list?</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle items uit de lijst verwijderen?</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="334"/>
         <source>Default</source>
-        <translation type="unfinished">Standaard</translation>
+        <translation>Standaard</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="334"/>
         <source>Reset list to default?</source>
-        <translation type="unfinished"></translation>
+        <translation>Lijst terugzetten naar standaard?</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="485"/>
         <source>Expand All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles uitklappen</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="490"/>
         <source>Collapse All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles inklappen</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="800"/>
         <source>Save Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Voorinstelling opslaan</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="800"/>
         <source>Preset name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Naam voorinstelling:</translation>
     </message>
 </context>
 <context>
@@ -11626,32 +11626,32 @@ Wil je ze verwijderen?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="498"/>
         <source>Header</source>
-        <translation type="unfinished">Koptekst</translation>
+        <translation>Koptekst</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="531"/>
         <source>Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Label</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="536"/>
         <source>Field</source>
-        <translation type="unfinished">Veld</translation>
+        <translation>Veld</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="546"/>
         <source>Clear all</source>
-        <translation type="unfinished">Alles wissen</translation>
+        <translation>Alles wissen</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="648"/>
         <source>...</source>
-        <translation type="unfinished">…</translation>
+        <translation>…</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="700"/>
         <source>&lt;Default&gt;</source>
-        <translation type="unfinished">&lt;Standaard&gt;</translation>
+        <translation>&lt;Standaard&gt;</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="291"/>
@@ -17572,7 +17572,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2803"/>
         <source>Check status</source>
-        <translation type="unfinished"></translation>
+        <translation>Status controleren</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="30"/>
@@ -20899,22 +20899,22 @@ Doorgaan?</translation>
     <message>
         <location filename="BrowserMenu.h" line="585"/>
         <source>Load...</source>
-        <translation type="unfinished">Laden…</translation>
+        <translation>Laden…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="586"/>
         <source>Save...</source>
-        <translation type="unfinished">Opslaan…</translation>
+        <translation>Opslaan…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="587"/>
         <source>Unload all</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles ontladen</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="589"/>
         <source>Session</source>
-        <translation type="unfinished">Sessie</translation>
+        <translation>Sessie</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="590"/>
@@ -22944,12 +22944,12 @@ Dit is te wijzigen in Instellingen › Catalogus.</translation>
     <message>
         <location filename="MyThumbView.cpp" line="1680"/>
         <source>&lt;Default&gt;</source>
-        <translation type="unfinished">&lt;Standaard&gt;</translation>
+        <translation>&lt;Standaard&gt;</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="1691"/>
         <source>Customize header...</source>
-        <translation type="unfinished"></translation>
+        <translation>Koptekst aanpassen…</translation>
     </message>
 </context>
 <context>
@@ -24654,7 +24654,9 @@ Wilt u de miniaturen behouden?
         <source>Catalog is disabled
 Metadata (check, ratings/colour labels and other file details)
 will not be saved to the database.</source>
-        <translation type="unfinished"></translation>
+        <translation>Catalogus is uitgeschakeld
+Metagegevens (check, beoordelingen/kleurlabels en andere bestandsdetails)
+worden niet opgeslagen in de database.</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="951"/>
