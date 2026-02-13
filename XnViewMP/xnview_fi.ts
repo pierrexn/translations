@@ -355,6 +355,13 @@
     </message>
 </context>
 <context>
+    <name>AutoDateTimeEdit</name>
+    <message>
+        <source>Not set</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>AutoHideButton</name>
     <message>
         <source>Pin</source>
@@ -3333,12 +3340,12 @@ Haluatko korvata sen?</translation>
 <context>
     <name>DlgConvertAutoDeskew</name>
     <message>
-        <source>Smooth</source>
-        <translation>Pehmennä</translation>
-    </message>
-    <message>
         <source>Background color</source>
         <translation>Taustaväri</translation>
+    </message>
+    <message>
+        <source>Use anti-aliasing</source>
+        <translation type="unfinished">Käytä pehmennystä</translation>
     </message>
 </context>
 <context>
@@ -5066,10 +5073,6 @@ Haluatko korvata sen?</translation>
         <translation>-180°</translation>
     </message>
     <message>
-        <source>Smooth</source>
-        <translation>Pehmennä</translation>
-    </message>
-    <message>
         <source>Background color</source>
         <translation>Taustaväri</translation>
     </message>
@@ -5080,6 +5083,10 @@ Haluatko korvata sen?</translation>
     <message>
         <source>EXIF Orientation</source>
         <translation>Exif-suuntaus</translation>
+    </message>
+    <message>
+        <source>Use anti-aliasing</source>
+        <translation type="unfinished">Käytä pehmennystä</translation>
     </message>
 </context>
 <context>
@@ -5707,10 +5714,6 @@ Haluatko korvata sen?</translation>
         <translation>F-numero</translation>
     </message>
     <message>
-        <source>f/</source>
-        <translation>f/</translation>
-    </message>
-    <message>
         <source>Focal length</source>
         <translation>Polttoväli</translation>
     </message>
@@ -5777,6 +5780,10 @@ Haluatko korvata sen?</translation>
     <message>
         <source>Write</source>
         <translation>Kirjoita</translation>
+    </message>
+    <message>
+        <source>XP Subject</source>
+        <translation type="unfinished">XP Aihe</translation>
     </message>
 </context>
 <context>
@@ -8832,10 +8839,6 @@ Haluatko poistaa ne?</translation>
         <translation>S&amp;elaa...</translation>
     </message>
     <message>
-        <source>Search in Catalog only</source>
-        <translation>Etsi vain katalogista</translation>
-    </message>
-    <message>
         <source>Search in subfolders</source>
         <translation>Hae alikansioista</translation>
     </message>
@@ -8850,6 +8853,18 @@ Haluatko poistaa ne?</translation>
     <message>
         <source>Save as Smart Album...</source>
         <translation>Tallenna Smart-albumina...</translation>
+    </message>
+    <message>
+        <source>Search in</source>
+        <translation type="unfinished">Etsi</translation>
+    </message>
+    <message>
+        <source>Filesystem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Catalog</source>
+        <translation type="unfinished">Katalogi</translation>
     </message>
 </context>
 <context>
@@ -8950,6 +8965,41 @@ Haluatko poistaa ne?</translation>
     <message>
         <source>The changes will be applied after restarting the application.</source>
         <translation>Muutokset tulevat voimaan sovelluksen uudelleenkäynnistyksen jälkeen.</translation>
+    </message>
+</context>
+<context>
+    <name>DlgSettingsBrowser</name>
+    <message>
+        <source>Clear All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove all items from the list?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default</source>
+        <translation type="unfinished">Oletus</translation>
+    </message>
+    <message>
+        <source>Reset list to default?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expand All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Collapse All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save Preset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preset name:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9113,6 +9163,30 @@ Haluatko poistaa ne?</translation>
     <message>
         <source>Clear the list of checked files</source>
         <translation>Tyhjennä tarkistettujen tiedostojen luettelo</translation>
+    </message>
+    <message>
+        <source>Header</source>
+        <translation type="unfinished">Ylätunniste</translation>
+    </message>
+    <message>
+        <source>Label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Field</source>
+        <translation type="unfinished">Kenttä</translation>
+    </message>
+    <message>
+        <source>Clear all</source>
+        <translation type="unfinished">Tyhjennä kaikki</translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation type="unfinished">...</translation>
+    </message>
+    <message>
+        <source>&lt;Default&gt;</source>
+        <translation type="unfinished">&lt;Oletus&gt;</translation>
     </message>
 </context>
 <context>
@@ -13304,10 +13378,6 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
         <translation>Kuvauspäivä</translation>
     </message>
     <message>
-        <source>Tag status</source>
-        <translation>Merkintätila</translation>
-    </message>
-    <message>
         <source>Copyright</source>
         <translation>Tekijänoikeus (Copyright)</translation>
     </message>
@@ -13498,6 +13568,10 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     <message>
         <source>Check</source>
         <translation>Valitse</translation>
+    </message>
+    <message>
+        <source>Check status</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13804,10 +13878,6 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
         <translation>Kohtauksen tyyppi</translation>
     </message>
     <message>
-        <source>Exposure Time</source>
-        <translation>Valotusaika</translation>
-    </message>
-    <message>
         <source>Exposure Bias</source>
         <translation>Valotusasetukset</translation>
     </message>
@@ -13946,10 +14016,6 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     <message>
         <source>Latitude ref.</source>
         <translation>Leveysaste viitteelinen</translation>
-    </message>
-    <message>
-        <source>ShutterSpeed</source>
-        <translation>Suljinnopeus</translation>
     </message>
     <message>
         <source>XP Comment</source>
@@ -14114,10 +14180,6 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     <message>
         <source>Landscape</source>
         <translation>Vaaka</translation>
-    </message>
-    <message>
-        <source>Lens model</source>
-        <translation>Linssin malli</translation>
     </message>
 </context>
 <context>
@@ -16074,6 +16136,22 @@ Jatketaanko?</translation>
         <source>Add/Replace metadata...</source>
         <translation>Lisää/korvaa metatiedot...</translation>
     </message>
+    <message>
+        <source>Load...</source>
+        <translation type="unfinished">Lataa...</translation>
+    </message>
+    <message>
+        <source>Save...</source>
+        <translation type="unfinished">Tallenna...</translation>
+    </message>
+    <message>
+        <source>Unload all</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Session</source>
+        <translation type="unfinished">Istunto</translation>
+    </message>
 </context>
 <context>
     <name>MenuGlobal</name>
@@ -17458,14 +17536,6 @@ Jatketaanko?</translation>
 <context>
     <name>MyThumbView</name>
     <message>
-        <source>All</source>
-        <translation>Kaikki</translation>
-    </message>
-    <message>
-        <source>None</source>
-        <translation>Ei mitään</translation>
-    </message>
-    <message>
         <source>Updating catalog, please wait...</source>
         <translation>Päivitetään katalogia, odota...</translation>
     </message>
@@ -17503,6 +17573,14 @@ Jatketaanko?</translation>
 You can change it in Settings › Catalog.</source>
         <translation>Välimuistissa olevien pienoiskuvien koko on valittua pienempi.
 Voit muuttaa sitä asetusten kohdasta &quot;Katalogi&quot;.</translation>
+    </message>
+    <message>
+        <source>&lt;Default&gt;</source>
+        <translation type="unfinished">&lt;Oletus&gt;</translation>
+    </message>
+    <message>
+        <source>Customize header...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18825,12 +18903,6 @@ Haluatko säilyttää pienoiskuvat?
         <translation>Älä kysy uudestaan</translation>
     </message>
     <message>
-        <source>Catalog and Metadata are disabled - 
-Rating, Tag &amp; Color labels will not be saved.</source>
-        <translation>Katalogi- ja metatiedot on poistettu käytöstä -
-Luokituksia-, tageja ja väritunnisteita ei tallenneta.</translation>
-    </message>
-    <message>
         <source>Do you want to save session?</source>
         <translation>Haluatko tallentaa istunnon?</translation>
     </message>
@@ -18849,6 +18921,12 @@ Please contact the developer.</source>
         <translation>Ongelma katalogin päivittämisessä:
 (Virhe: % 1)
 Ota yhteyttä kehittäjään.</translation>
+    </message>
+    <message>
+        <source>Catalog is disabled
+Metadata (check, ratings/colour labels and other file details)
+will not be saved to the database.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

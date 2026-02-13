@@ -355,6 +355,13 @@
     </message>
 </context>
 <context>
+    <name>AutoDateTimeEdit</name>
+    <message>
+        <source>Not set</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>AutoHideButton</name>
     <message>
         <source>Pin</source>
@@ -3337,8 +3344,8 @@ Do you want to overwrite it?</source>
         <translation>Խորքի գույնը</translation>
     </message>
     <message>
-        <source>Smooth</source>
-        <translation>Հարթ</translation>
+        <source>Use anti-aliasing</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5058,10 +5065,6 @@ Do you want to overwrite it?</source>
         <translation>Միայն լայնքով</translation>
     </message>
     <message>
-        <source>Smooth</source>
-        <translation>Հարթ</translation>
-    </message>
-    <message>
         <source>Background color</source>
         <translation>Խորքի գույնը</translation>
     </message>
@@ -5080,6 +5083,10 @@ Do you want to overwrite it?</source>
     <message>
         <source>Auto crop</source>
         <translation>Ինքնաեզրատել</translation>
+    </message>
+    <message>
+        <source>Use anti-aliasing</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5707,10 +5714,6 @@ Do you want to overwrite it?</source>
         <translation>F համար</translation>
     </message>
     <message>
-        <source>f/</source>
-        <translation>f/</translation>
-    </message>
-    <message>
         <source>Focal length</source>
         <translation>Ֆոկուսային հեռավորություն</translation>
     </message>
@@ -5777,6 +5780,10 @@ Do you want to overwrite it?</source>
     <message>
         <source>Write</source>
         <translation>Գրել</translation>
+    </message>
+    <message>
+        <source>XP Subject</source>
+        <translation type="unfinished">XP Վերնագիրը</translation>
     </message>
 </context>
 <context>
@@ -8827,10 +8834,6 @@ Do you want to remove them?</source>
         <translation>&amp;Ընտրել...</translation>
     </message>
     <message>
-        <source>Search in Catalog only</source>
-        <translation>Որոնել միայն գրացուցակում</translation>
-    </message>
-    <message>
         <source>Search in subfolders</source>
         <translation>Որոնել ենթապանակներում</translation>
     </message>
@@ -8845,6 +8848,18 @@ Do you want to remove them?</source>
     <message>
         <source>Save as Smart Album...</source>
         <translation>Պահել որպես խելացի ալբոմ...</translation>
+    </message>
+    <message>
+        <source>Search in</source>
+        <translation type="unfinished">Որոնել՝</translation>
+    </message>
+    <message>
+        <source>Filesystem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Catalog</source>
+        <translation type="unfinished">Գրացուցակ</translation>
     </message>
 </context>
 <context>
@@ -8945,6 +8960,41 @@ Do you want to remove them?</source>
     <message>
         <source>The changes will be applied after restarting the application.</source>
         <translation>Փոփոխությունները կգործադրվեն ծրագիրը վերամեկնարկելուց հետո:</translation>
+    </message>
+</context>
+<context>
+    <name>DlgSettingsBrowser</name>
+    <message>
+        <source>Clear All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove all items from the list?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default</source>
+        <translation type="unfinished">Սկզբնադիր</translation>
+    </message>
+    <message>
+        <source>Reset list to default?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expand All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Collapse All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save Preset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preset name:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9108,6 +9158,30 @@ Do you want to remove them?</source>
     <message>
         <source>Clear the list of checked files</source>
         <translation>Մաքրել նշված ֆայլերի ցանկը</translation>
+    </message>
+    <message>
+        <source>Header</source>
+        <translation type="unfinished">Գլխագիրը</translation>
+    </message>
+    <message>
+        <source>Label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Field</source>
+        <translation type="unfinished">Դաշտ</translation>
+    </message>
+    <message>
+        <source>Clear all</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation type="unfinished">...</translation>
+    </message>
+    <message>
+        <source>&lt;Default&gt;</source>
+        <translation type="unfinished">&lt;Սկզբնադիր &gt;</translation>
     </message>
 </context>
 <context>
@@ -13210,10 +13284,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Տրված ամսաթիվ</translation>
     </message>
     <message>
-        <source>Tag status</source>
-        <translation>Պիտակի վիճակ</translation>
-    </message>
-    <message>
         <source>Copyright</source>
         <translation>Հեղինակային իրավունք</translation>
     </message>
@@ -13492,6 +13562,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Check</source>
         <translation>Նշել</translation>
+    </message>
+    <message>
+        <source>Check status</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13918,10 +13992,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Լայնածավալության հղ.</translation>
     </message>
     <message>
-        <source>ShutterSpeed</source>
-        <translation>Shutter speed</translation>
-    </message>
-    <message>
         <source>XP Comment</source>
         <translation>XP Մեկնաբանություն</translation>
     </message>
@@ -14030,10 +14100,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Տեղադրության կոդ</translation>
     </message>
     <message>
-        <source>Exposure Time</source>
-        <translation>Ցուցահանդես</translation>
-    </message>
-    <message>
         <source>Exposure Time (s)</source>
         <translation>Լուսավորման ժամանակ(ներ)</translation>
     </message>
@@ -14108,10 +14174,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Landscape</source>
         <translation>Բնապատկեր</translation>
-    </message>
-    <message>
-        <source>Lens model</source>
-        <translation>Ոսպնյակի մոդել</translation>
     </message>
 </context>
 <context>
@@ -16068,6 +16130,22 @@ Do you want to continue?</source>
         <source>Add/Replace metadata...</source>
         <translation>Հավելել/փոխարինել մետատվյալները...</translation>
     </message>
+    <message>
+        <source>Load...</source>
+        <translation type="unfinished">Բեռնել...</translation>
+    </message>
+    <message>
+        <source>Save...</source>
+        <translation type="unfinished">Պահել...</translation>
+    </message>
+    <message>
+        <source>Unload all</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Session</source>
+        <translation type="unfinished">Աշխատաշրջան</translation>
+    </message>
 </context>
 <context>
     <name>MenuGlobal</name>
@@ -17451,14 +17529,6 @@ Do you want to continue?</source>
 </context>
 <context>
     <name>MyThumbView</name>
-    <message>
-        <source>All</source>
-        <translation>Բոլորը</translation>
-    </message>
-    <message>
-        <source>None</source>
-        <translation>Չկա</translation>
-    </message>
     <message numerus="yes">
         <source>%n object(s)</source>
         <translation>
@@ -17497,6 +17567,14 @@ Do you want to continue?</source>
 You can change it in Settings › Catalog.</source>
         <translation>Շտեմված մանրապատկերների չափն ավելի փոքր է, քան ընտրվածինը: 
 Կարող եք փոխել այն Կարգավորումներ › Անվանակարգ-ում:</translation>
+    </message>
+    <message>
+        <source>&lt;Default&gt;</source>
+        <translation type="unfinished">&lt;Սկզբնադիր &gt;</translation>
+    </message>
+    <message>
+        <source>Customize header...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18819,12 +18897,6 @@ Do you want to keep the thumbnails?
         <translation>Այլևս չհարցնել</translation>
     </message>
     <message>
-        <source>Catalog and Metadata are disabled - 
-Rating, Tag &amp; Color labels will not be saved.</source>
-        <translation>Գրացուցակը և մետատվյալները անջատված են - 
-Գնահատականը, Պիտակը և գույնը չեն պահվի:</translation>
-    </message>
-    <message>
         <source>Do you want to save session?</source>
         <translation>Պահպանե՞լ աշխատաշրջանը:</translation>
     </message>
@@ -18843,6 +18915,12 @@ Please contact the developer.</source>
         <translation>Գրացուցակի թարմացման խնդիր.:
 (Սխալ՝ % 1)
 Կապվեք ծրագրավորողի հետ:</translation>
+    </message>
+    <message>
+        <source>Catalog is disabled
+Metadata (check, ratings/colour labels and other file details)
+will not be saved to the database.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

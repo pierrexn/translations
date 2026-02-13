@@ -355,6 +355,13 @@
     </message>
 </context>
 <context>
+    <name>AutoDateTimeEdit</name>
+    <message>
+        <source>Not set</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>AutoHideButton</name>
     <message>
         <source>Pin</source>
@@ -3349,12 +3356,12 @@ Vrei să continui?</translation>
 <context>
     <name>DlgConvertAutoDeskew</name>
     <message>
-        <source>Smooth</source>
-        <translation>Neted</translation>
-    </message>
-    <message>
         <source>Background color</source>
         <translation>Culoare de fundal</translation>
+    </message>
+    <message>
+        <source>Use anti-aliasing</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5082,10 +5089,6 @@ Vrei să continui?</translation>
         <translation>-180°</translation>
     </message>
     <message>
-        <source>Smooth</source>
-        <translation>Neted</translation>
-    </message>
-    <message>
         <source>Background color</source>
         <translation>Culoare de fundal</translation>
     </message>
@@ -5096,6 +5099,10 @@ Vrei să continui?</translation>
     <message>
         <source>EXIF Orientation</source>
         <translation>Orientare EXIF</translation>
+    </message>
+    <message>
+        <source>Use anti-aliasing</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5723,10 +5730,6 @@ Vrei să continui?</translation>
         <translation>Numărul F</translation>
     </message>
     <message>
-        <source>f/</source>
-        <translation>f/</translation>
-    </message>
-    <message>
         <source>Focal length</source>
         <translation>Distanța focală</translation>
     </message>
@@ -5793,6 +5796,10 @@ Vrei să continui?</translation>
     <message>
         <source>Write</source>
         <translation>Scrie</translation>
+    </message>
+    <message>
+        <source>XP Subject</source>
+        <translation type="unfinished">Subiect XP</translation>
     </message>
 </context>
 <context>
@@ -8816,10 +8823,6 @@ Vrei să le redenumești?</translation>
         <translation>&amp;Doar majuscule</translation>
     </message>
     <message>
-        <source>Search in Catalog only</source>
-        <translation>Caută numai în catalog</translation>
-    </message>
-    <message>
         <source>Search in subfolders</source>
         <translation>Caută în subfoldere (subdosare)</translation>
     </message>
@@ -8862,6 +8865,18 @@ Vrei să le redenumești?</translation>
     <message>
         <source>Save as Smart Album...</source>
         <translation>Salvează ca un album inteligent...</translation>
+    </message>
+    <message>
+        <source>Search in</source>
+        <translation type="unfinished">Caută în</translation>
+    </message>
+    <message>
+        <source>Filesystem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Catalog</source>
+        <translation type="unfinished">Catalog</translation>
     </message>
 </context>
 <context>
@@ -8962,6 +8977,41 @@ Vrei să le redenumești?</translation>
     <message>
         <source>The changes will be applied after restarting the application.</source>
         <translation>Modificările vor fi aplicate după repornirea aplicației.</translation>
+    </message>
+</context>
+<context>
+    <name>DlgSettingsBrowser</name>
+    <message>
+        <source>Clear All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove all items from the list?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset list to default?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expand All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Collapse All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save Preset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preset name:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9125,6 +9175,30 @@ Vrei să le redenumești?</translation>
     <message>
         <source>Clear the list of checked files</source>
         <translation>Golește lista de fișiere bifate</translation>
+    </message>
+    <message>
+        <source>Header</source>
+        <translation type="unfinished">Antet</translation>
+    </message>
+    <message>
+        <source>Label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Field</source>
+        <translation type="unfinished">Câmp</translation>
+    </message>
+    <message>
+        <source>Clear all</source>
+        <translation type="unfinished">Curăţă tot</translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation type="unfinished">...</translation>
+    </message>
+    <message>
+        <source>&lt;Default&gt;</source>
+        <translation type="unfinished">&lt;Implicit&gt;</translation>
     </message>
 </context>
 <context>
@@ -13315,10 +13389,6 @@ Dorești să ștergi favoritul „%1”?</translation>
         <translation>Data când a fost făcută</translation>
     </message>
     <message>
-        <source>Tag status</source>
-        <translation>Starea etichetei</translation>
-    </message>
-    <message>
         <source>Copyright</source>
         <translation>Drepturi de autor</translation>
     </message>
@@ -13509,6 +13579,10 @@ Dorești să ștergi favoritul „%1”?</translation>
     <message>
         <source>Check</source>
         <translation>Bifează</translation>
+    </message>
+    <message>
+        <source>Check status</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13955,10 +14029,6 @@ Dorești să ștergi favoritul „%1”?</translation>
         <translation>Latitudine ref.</translation>
     </message>
     <message>
-        <source>ShutterSpeed</source>
-        <translation>Viteza obturatorului</translation>
-    </message>
-    <message>
         <source>XP Comment</source>
         <translation>Comentariu XP</translation>
     </message>
@@ -14047,10 +14117,6 @@ Dorești să ștergi favoritul „%1”?</translation>
         <translation>Poziționare YCbCr</translation>
     </message>
     <message>
-        <source>Exposure Time</source>
-        <translation>Timp de expunere</translation>
-    </message>
-    <message>
         <source>Exposure Time (s)</source>
         <translation>Timp de expunere (s)</translation>
     </message>
@@ -14125,10 +14191,6 @@ Dorești să ștergi favoritul „%1”?</translation>
     <message>
         <source>Landscape</source>
         <translation>Peisaj (Vedere)</translation>
-    </message>
-    <message>
-        <source>Lens model</source>
-        <translation>Modelul lentilei</translation>
     </message>
 </context>
 <context>
@@ -16085,6 +16147,22 @@ Vrei să continui?</translation>
         <source>Add/Replace metadata...</source>
         <translation>Adaugă/Înlocuiește metadate...</translation>
     </message>
+    <message>
+        <source>Load...</source>
+        <translation type="unfinished">Încarcă...</translation>
+    </message>
+    <message>
+        <source>Save...</source>
+        <translation type="unfinished">Salvează...</translation>
+    </message>
+    <message>
+        <source>Unload all</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Session</source>
+        <translation type="unfinished">Sesiune</translation>
+    </message>
 </context>
 <context>
     <name>MenuGlobal</name>
@@ -17469,14 +17547,6 @@ Vrei să continui?</translation>
 <context>
     <name>MyThumbView</name>
     <message>
-        <source>All</source>
-        <translation>Toate</translation>
-    </message>
-    <message>
-        <source>None</source>
-        <translation>Nici unul</translation>
-    </message>
-    <message>
         <source>Updating catalog, please wait...</source>
         <translation>Se actualizează catalogul, te rugăm să aștepți...</translation>
     </message>
@@ -17517,6 +17587,14 @@ Vrei să continui?</translation>
 You can change it in Settings › Catalog.</source>
         <translation>Dimensiunea miniaturilor din cache este mai mică decât cea aleasă.
 O poți schimba în Setări › Catalog.</translation>
+    </message>
+    <message>
+        <source>&lt;Default&gt;</source>
+        <translation type="unfinished">&lt;Implicit&gt;</translation>
+    </message>
+    <message>
+        <source>Customize header...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18843,12 +18921,6 @@ Vrei să păstrezi miniaturile?
         <translation>Nu mai întreba din nou</translation>
     </message>
     <message>
-        <source>Catalog and Metadata are disabled - 
-Rating, Tag &amp; Color labels will not be saved.</source>
-        <translation>Catalogul și metadatele sunt dezactivate -
-Etichetele de evaluare (de rating), etichetare și culoare nu vor fi salvate.</translation>
-    </message>
-    <message>
         <source>Catalog update</source>
         <translation>Actualizează catalogul</translation>
     </message>
@@ -18863,6 +18935,12 @@ Please contact the developer.</source>
         <translation>E o problemă cu actualizarea Catalogului:
 (Eroare: % 1)
 Te rugăm să contactezi dezvoltatorul.</translation>
+    </message>
+    <message>
+        <source>Catalog is disabled
+Metadata (check, ratings/colour labels and other file details)
+will not be saved to the database.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

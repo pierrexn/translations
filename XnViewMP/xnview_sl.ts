@@ -4,132 +4,132 @@
 <context>
     <name>@default</name>
     <message>
-        <location filename="MyThumbSettings.cpp" line="444"/>
+        <location filename="MyThumbSettings.cpp" line="757"/>
         <source>Uncolored</source>
         <translation>Neobarvan</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="450"/>
+        <location filename="MyThumbSettings.cpp" line="763"/>
         <source>Important</source>
         <translation>Pomembno</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="450"/>
+        <location filename="MyThumbSettings.cpp" line="763"/>
         <source>Red</source>
         <translation>Rdeča</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="450"/>
+        <location filename="MyThumbSettings.cpp" line="763"/>
         <source>Select</source>
         <translation>Izbira</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="451"/>
+        <location filename="MyThumbSettings.cpp" line="764"/>
         <source>Work</source>
         <translation>Delo</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="451"/>
+        <location filename="MyThumbSettings.cpp" line="764"/>
         <source>Yellow</source>
         <translation>Rumena</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="451"/>
+        <location filename="MyThumbSettings.cpp" line="764"/>
         <source>Second</source>
         <translation>Drugo</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="452"/>
+        <location filename="MyThumbSettings.cpp" line="765"/>
         <source>Personal</source>
         <translation>Osebno</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="452"/>
+        <location filename="MyThumbSettings.cpp" line="765"/>
         <source>Green</source>
         <translation>Zelena</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="452"/>
+        <location filename="MyThumbSettings.cpp" line="765"/>
         <source>Approved</source>
         <translation>Odobreno</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="453"/>
+        <location filename="MyThumbSettings.cpp" line="766"/>
         <source>To do</source>
         <translation>Stori</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="453"/>
+        <location filename="MyThumbSettings.cpp" line="766"/>
         <source>Blue</source>
         <translation>Modra</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="453"/>
+        <location filename="MyThumbSettings.cpp" line="766"/>
         <source>Review</source>
         <translation>Pregled</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="454"/>
+        <location filename="MyThumbSettings.cpp" line="767"/>
         <source>Later</source>
         <translation>Kasneje</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="454"/>
+        <location filename="MyThumbSettings.cpp" line="767"/>
         <source>Purple</source>
         <translation>Vijolična</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="454"/>
+        <location filename="MyThumbSettings.cpp" line="767"/>
         <source>To Do</source>
         <translation>Naredi</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="455"/>
+        <location filename="MyThumbSettings.cpp" line="768"/>
         <source>Orange</source>
         <translation>Oranžna</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="456"/>
+        <location filename="MyThumbSettings.cpp" line="769"/>
         <source>Grey</source>
         <translation>Siva</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="457"/>
+        <location filename="MyThumbSettings.cpp" line="770"/>
         <source>Black</source>
         <translation>Črna</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="458"/>
+        <location filename="MyThumbSettings.cpp" line="771"/>
         <source>White</source>
         <translation>Bela</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="341"/>
+        <location filename="MyThumbSettings.cpp" line="654"/>
         <source>Unrated</source>
         <translation>Neocenjeno</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="342"/>
+        <location filename="MyThumbSettings.cpp" line="655"/>
         <source>Poor</source>
         <translation>Slabo</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="343"/>
+        <location filename="MyThumbSettings.cpp" line="656"/>
         <source>Fair</source>
         <translation>Razumno</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="344"/>
+        <location filename="MyThumbSettings.cpp" line="657"/>
         <source>Average</source>
         <translation>Povprečno</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="345"/>
+        <location filename="MyThumbSettings.cpp" line="658"/>
         <source>Good</source>
         <translation>Dobro</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="346"/>
+        <location filename="MyThumbSettings.cpp" line="659"/>
         <source>Excellent</source>
         <translation>Odlično</translation>
     </message>
@@ -450,6 +450,14 @@
     </message>
 </context>
 <context>
+    <name>AutoDateTimeEdit</name>
+    <message>
+        <location filename="AutoDateTimeEdit.h" line="89"/>
+        <source>Not set</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>AutoHideButton</name>
     <message>
         <location filename="ViewAutoHidePanel.cpp" line="41"/>
@@ -548,119 +556,119 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
 <context>
     <name>BrowserWindow</name>
     <message>
-        <location filename="BrowserWindow.cpp" line="705"/>
+        <location filename="BrowserWindow.cpp" line="670"/>
         <source>Customize toolbar...</source>
         <translation>Prilagodi orodno vrstico...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1677"/>
+        <location filename="BrowserWindow.cpp" line="1650"/>
         <source>Add Favorite...</source>
         <translation>Dodaj priljubljeno...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1768"/>
+        <location filename="BrowserWindow.cpp" line="1741"/>
         <source>Folders</source>
         <translation>Mape</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1772"/>
+        <location filename="BrowserWindow.cpp" line="1745"/>
         <source>Favorites</source>
         <translation>Priljubljene</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1776"/>
+        <location filename="BrowserWindow.cpp" line="1749"/>
         <source>Catalog Filter</source>
         <oldsource>Categories Filter</oldsource>
         <translation>Katalog Filter</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1787"/>
+        <location filename="BrowserWindow.cpp" line="1760"/>
         <source>Categories</source>
         <translation>Razredi</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1792"/>
+        <location filename="BrowserWindow.cpp" line="1765"/>
         <source>Category Sets</source>
         <translation>Nabori razredov</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1825"/>
+        <location filename="BrowserWindow.cpp" line="1798"/>
         <source>Info</source>
         <translation>Info</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="709"/>
+        <location filename="BrowserWindow.cpp" line="674"/>
         <source>Detach preview panel</source>
         <translation>Odstrani panel za predogled</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="711"/>
+        <location filename="BrowserWindow.cpp" line="676"/>
         <source>Attach preview panel</source>
         <translation>Priloži panel za predogled</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="926"/>
+        <location filename="BrowserWindow.cpp" line="892"/>
         <source>The database is corrupted. Please check it before you continue!</source>
         <oldsource>The database is corrupted, please check it before to continue!</oldsource>
         <translation>Podatkovna baza je poškodovana. Preden nadaljujete, jo preverite!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1669"/>
+        <location filename="BrowserWindow.cpp" line="1642"/>
         <source>Add to Favorites</source>
         <translation>Dodaj med priljubljene</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1833"/>
+        <location filename="BrowserWindow.cpp" line="1806"/>
         <source>Metadata</source>
         <translation>Metapodatki</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1842"/>
+        <location filename="BrowserWindow.cpp" line="1815"/>
         <source>Histogram</source>
         <translation>Histogram</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2027"/>
+        <location filename="BrowserWindow.cpp" line="2000"/>
         <source>Global</source>
         <translation>Globalno</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2027"/>
+        <location filename="BrowserWindow.cpp" line="2000"/>
         <source>Current folder</source>
         <translation>Trenutna mapa</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2027"/>
+        <location filename="BrowserWindow.cpp" line="2000"/>
         <source>Current folder (Recursive)</source>
         <translation>Trenutna mapa (rekurzivno)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2072"/>
+        <location filename="BrowserWindow.cpp" line="2045"/>
         <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi-select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right-click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
         <translation>&lt;b&gt;Filter kataloga&lt;/b&gt;&lt;br&gt;Kliknite z levo tipko miške za filtriranje&lt;br&gt;&amp;bull; Shift/Ctrl - izbira več elementov&lt;br&gt;&amp;bull; Alt - izključitev elementov&lt;br&gt;Kliknite z desno tipko miške za odpiranje možnosti vozlišča&lt;br&gt;Povlecite in spustite na vozlišče za dodelitev</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2281"/>
+        <location filename="BrowserWindow.cpp" line="2254"/>
         <source>Thumbnails</source>
         <translation>Sličice</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3474"/>
+        <location filename="BrowserWindow.cpp" line="3450"/>
         <source>&lt;Search results&gt;</source>
         <translation>&lt;Izid iskanja&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3571"/>
+        <location filename="BrowserWindow.cpp" line="3547"/>
         <source>This folder doesn&apos;t exist!</source>
         <translation>Ta mapa ne obstaja!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3784"/>
+        <location filename="BrowserWindow.cpp" line="3760"/>
         <source>Favorite name:</source>
         <translation>Ime priljubljene:</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="4029"/>
+        <location filename="BrowserWindow.cpp" line="4005"/>
         <source>Are you sure to delete these %n item(s)?</source>
         <translation>
             <numerusform>Ali ste prepričani, da želite izbrisati %n postavko?</numerusform>
@@ -670,50 +678,50 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4113"/>
+        <location filename="BrowserWindow.cpp" line="4089"/>
         <source>The files cannot be renamed, an error occurred.</source>
         <translation>Datotek ni mogoče preimenovati, prišlo je do napake.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3571"/>
-        <location filename="BrowserWindow.cpp" line="4113"/>
+        <location filename="BrowserWindow.cpp" line="3547"/>
+        <location filename="BrowserWindow.cpp" line="4089"/>
         <source>Error</source>
         <translation>Napaka</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2007"/>
-        <location filename="BrowserWindow.cpp" line="2019"/>
+        <location filename="BrowserWindow.cpp" line="1980"/>
+        <location filename="BrowserWindow.cpp" line="1992"/>
         <source>AND</source>
         <translation>IN</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2007"/>
-        <location filename="BrowserWindow.cpp" line="2013"/>
+        <location filename="BrowserWindow.cpp" line="1980"/>
+        <location filename="BrowserWindow.cpp" line="1986"/>
         <source>OR</source>
         <translation>ALI</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2008"/>
+        <location filename="BrowserWindow.cpp" line="1981"/>
         <source>&lt;b&gt;Match&lt;/b&gt;&lt;br&gt;OR - match any selected entry&lt;br&gt;AND - match all selected entries</source>
         <translation>&lt;b&gt;Ujemanje&lt;/b&gt;&lt;br&gt;ALI - ujemanje katerega koli izbranega vnosa&lt;br&gt;IN - ujemanje vseh izbranih vnosov</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3478"/>
+        <location filename="BrowserWindow.cpp" line="3454"/>
         <source>&lt;Catalog filter results&gt;</source>
         <translation>&lt;Rezultati filtra kataloga&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3480"/>
+        <location filename="BrowserWindow.cpp" line="3456"/>
         <source>&lt;files&gt;</source>
         <translation>&lt;datoteke&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4022"/>
+        <location filename="BrowserWindow.cpp" line="3998"/>
         <source>Delete items &amp; companions</source>
         <translation>Izbriši postavke in spremljevalce</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="4023"/>
+        <location filename="BrowserWindow.cpp" line="3999"/>
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
         <translation>
             <numerusform>Ali ste prepričani, da želite izbrisati %n postavko - %1 postavka izbrana?</numerusform>
@@ -723,62 +731,62 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4476"/>
+        <location filename="BrowserWindow.cpp" line="4467"/>
         <source>Search...</source>
         <translation>Najdi...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4477"/>
+        <location filename="BrowserWindow.cpp" line="4468"/>
         <source>Add to favorites...</source>
         <translation>Dodaj med priljubljene...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4480"/>
+        <location filename="BrowserWindow.cpp" line="4471"/>
         <source>Start slideshow</source>
         <translation>Začni diaprojekcijo</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4482"/>
+        <location filename="BrowserWindow.cpp" line="4473"/>
         <source>Open in file manager</source>
         <translation>Odpri v upravitelju datotek</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4485"/>
+        <location filename="BrowserWindow.cpp" line="4476"/>
         <source>Properties</source>
         <translation>Lastnosti</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4596"/>
+        <location filename="BrowserWindow.cpp" line="4587"/>
         <source>Load filelist</source>
         <translation>Naloži seznam datotek</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4028"/>
+        <location filename="BrowserWindow.cpp" line="4004"/>
         <source>Delete items</source>
         <translation>Izbriši postavke</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3476"/>
+        <location filename="BrowserWindow.cpp" line="3452"/>
         <source>&lt;Checked files&gt;</source>
         <translation>&lt;Preverjene datoteke&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4474"/>
+        <location filename="BrowserWindow.cpp" line="4465"/>
         <source>Show files in subfolders</source>
         <translation>Pokaži datoteke v podmapah</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4517"/>
+        <location filename="BrowserWindow.cpp" line="4508"/>
         <source>Delete folder</source>
         <translation>Izbriši mapo</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4517"/>
+        <location filename="BrowserWindow.cpp" line="4508"/>
         <source>Are you sure to delete this folder?</source>
         <translation>Ali ste prepričani, da želite izbrisati to mapo?</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="660"/>
+        <location filename="BrowserWindow.cpp" line="625"/>
         <source>Browser</source>
         <translation>Brskalnik</translation>
     </message>
@@ -1934,8 +1942,8 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="CategoryManager.cpp" line="131"/>
         <location filename="MyDB.cpp" line="871"/>
-        <location filename="MyDB.cpp" line="2297"/>
-        <location filename="MyDB.cpp" line="3499"/>
+        <location filename="MyDB.cpp" line="2285"/>
+        <location filename="MyDB.cpp" line="3487"/>
         <source>Other</source>
         <translation>Drugo</translation>
     </message>
@@ -2018,134 +2026,134 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
 <context>
     <name>DBFilterModel</name>
     <message>
-        <location filename="DBFilterModel.cpp" line="147"/>
-        <location filename="DBFilterModel.cpp" line="188"/>
+        <location filename="DBFilterModel.cpp" line="149"/>
+        <location filename="DBFilterModel.cpp" line="190"/>
         <source>Rating</source>
         <translation>Ocena</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="151"/>
-        <location filename="DBFilterModel.cpp" line="189"/>
+        <location filename="DBFilterModel.cpp" line="153"/>
+        <location filename="DBFilterModel.cpp" line="191"/>
         <source>Colour Label</source>
         <translation>Barvna oznaka</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="155"/>
-        <location filename="DBFilterModel.cpp" line="190"/>
+        <location filename="DBFilterModel.cpp" line="157"/>
+        <location filename="DBFilterModel.cpp" line="192"/>
         <source>People</source>
         <translation>Ljudje</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="158"/>
+        <location filename="DBFilterModel.cpp" line="160"/>
         <source>Special Items</source>
         <translation>Posebne postavke</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="161"/>
+        <location filename="DBFilterModel.cpp" line="163"/>
         <source>Uncategorized</source>
         <translation>Nekategorizirano</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="162"/>
+        <location filename="DBFilterModel.cpp" line="164"/>
         <source>No rating</source>
         <translation>Brez ocene</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="163"/>
+        <location filename="DBFilterModel.cpp" line="165"/>
         <source>No colour label</source>
         <translation>Brez barvne oznake</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="164"/>
+        <location filename="DBFilterModel.cpp" line="166"/>
         <source>All</source>
         <translation>Vse</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="165"/>
+        <location filename="DBFilterModel.cpp" line="167"/>
         <source>Taken in last 30 days</source>
         <translation>Posneto v zadnjih 30 dneh</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="166"/>
+        <location filename="DBFilterModel.cpp" line="168"/>
         <source>Modified in last 30 days</source>
         <translation>Spremenjeno v zadnjih 30 dneh</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="168"/>
-        <location filename="DBFilterModel.cpp" line="191"/>
-        <location filename="DBFilterModel.cpp" line="1675"/>
+        <location filename="DBFilterModel.cpp" line="170"/>
+        <location filename="DBFilterModel.cpp" line="193"/>
+        <location filename="DBFilterModel.cpp" line="1677"/>
         <source>Date</source>
         <translation>Datum</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="172"/>
-        <location filename="DBFilterModel.cpp" line="192"/>
+        <location filename="DBFilterModel.cpp" line="174"/>
+        <location filename="DBFilterModel.cpp" line="194"/>
         <source>Properties</source>
         <translation>Lastnosti</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="177"/>
-        <location filename="DBFilterModel.cpp" line="193"/>
+        <location filename="DBFilterModel.cpp" line="179"/>
+        <location filename="DBFilterModel.cpp" line="195"/>
         <source>Albums</source>
         <translation>Albumi</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="179"/>
-        <location filename="DBFilterModel.cpp" line="194"/>
+        <location filename="DBFilterModel.cpp" line="181"/>
+        <location filename="DBFilterModel.cpp" line="196"/>
         <source>Smart Albums</source>
         <translation>Pametni albumi</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="195"/>
+        <location filename="DBFilterModel.cpp" line="197"/>
         <source>Categories</source>
         <translation>Kategorije</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="248"/>
-        <location filename="DBFilterModel.cpp" line="548"/>
+        <location filename="DBFilterModel.cpp" line="250"/>
+        <location filename="DBFilterModel.cpp" line="550"/>
         <source>Check (%1)</source>
         <translation>Preveri (%1)</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="248"/>
-        <location filename="DBFilterModel.cpp" line="548"/>
+        <location filename="DBFilterModel.cpp" line="250"/>
+        <location filename="DBFilterModel.cpp" line="550"/>
         <source>Check</source>
         <translation>Preveri</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1457"/>
-        <location filename="DBFilterModel.cpp" line="1828"/>
-        <location filename="DBFilterModel.cpp" line="2137"/>
-        <location filename="DBFilterModel.cpp" line="2144"/>
-        <location filename="DBFilterModel.cpp" line="2149"/>
-        <location filename="DBFilterModel.cpp" line="2154"/>
-        <location filename="DBFilterModel.cpp" line="2171"/>
-        <location filename="DBFilterModel.cpp" line="2188"/>
+        <location filename="DBFilterModel.cpp" line="1459"/>
+        <location filename="DBFilterModel.cpp" line="1830"/>
+        <location filename="DBFilterModel.cpp" line="2139"/>
+        <location filename="DBFilterModel.cpp" line="2146"/>
+        <location filename="DBFilterModel.cpp" line="2151"/>
+        <location filename="DBFilterModel.cpp" line="2156"/>
+        <location filename="DBFilterModel.cpp" line="2173"/>
+        <location filename="DBFilterModel.cpp" line="2190"/>
         <source>Unknown</source>
         <translation>Neznano</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2176"/>
+        <location filename="DBFilterModel.cpp" line="2178"/>
         <source>Landscape</source>
         <translation>Pokrajina</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2178"/>
+        <location filename="DBFilterModel.cpp" line="2180"/>
         <source>Portrait</source>
         <translation>Portret</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2180"/>
+        <location filename="DBFilterModel.cpp" line="2182"/>
         <source>Square</source>
         <translation>Kvadrat</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2253"/>
+        <location filename="DBFilterModel.cpp" line="2255"/>
         <source>Panoramic</source>
         <translation>Panoramsko</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2279"/>
+        <location filename="DBFilterModel.cpp" line="2281"/>
         <source>No Color Profile</source>
         <translation>Brez barvnega profila</translation>
     </message>
@@ -4320,8 +4328,8 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="DlgConvertAutoDeskew.ui" line="47"/>
-        <source>Smooth</source>
-        <translation>Gladko</translation>
+        <source>Use anti-aliasing</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6589,8 +6597,8 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="DlgConvertRotate.ui" line="195"/>
-        <source>Smooth</source>
-        <translation>Gladko</translation>
+        <source>Use anti-aliasing</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgConvertRotate.ui" line="203"/>
@@ -7394,107 +7402,107 @@ Do you want to continue?</source>
         <translation>XP Avtor</translation>
     </message>
     <message>
-        <location filename="DlgEditEXIF.ui" line="148"/>
+        <location filename="DlgEditEXIF.ui" line="446"/>
         <source>Copyright</source>
         <translation>Copyright</translation>
     </message>
     <message>
-        <location filename="DlgEditEXIF.ui" line="162"/>
+        <location filename="DlgEditEXIF.ui" line="148"/>
         <source>User comment</source>
         <translation>Komentar uporabnika</translation>
     </message>
     <message>
-        <location filename="DlgEditEXIF.ui" line="176"/>
+        <location filename="DlgEditEXIF.ui" line="162"/>
         <source>F-Number</source>
         <translation>F-številka</translation>
     </message>
     <message>
-        <location filename="DlgEditEXIF.ui" line="185"/>
-        <source>f/</source>
-        <translation>f/</translation>
-    </message>
-    <message>
-        <location filename="DlgEditEXIF.ui" line="213"/>
+        <location filename="DlgEditEXIF.ui" line="199"/>
         <source>Focal length</source>
         <translation>Goriščna razdalja</translation>
     </message>
     <message>
-        <location filename="DlgEditEXIF.ui" line="222"/>
+        <location filename="DlgEditEXIF.ui" line="208"/>
         <source>mm</source>
         <translation>mm</translation>
     </message>
     <message>
-        <location filename="DlgEditEXIF.ui" line="247"/>
+        <location filename="DlgEditEXIF.ui" line="436"/>
         <source>Lens model</source>
         <translation>Model objektiva</translation>
     </message>
     <message>
-        <location filename="DlgEditEXIF.ui" line="257"/>
+        <location filename="DlgEditEXIF.ui" line="470"/>
         <source>Date modified</source>
         <translation>Datum spremembe</translation>
     </message>
     <message>
-        <location filename="DlgEditEXIF.ui" line="288"/>
+        <location filename="DlgEditEXIF.ui" line="477"/>
         <source>Date taken</source>
         <translation>Datum posnetka</translation>
     </message>
     <message>
-        <location filename="DlgEditEXIF.ui" line="319"/>
+        <location filename="DlgEditEXIF.ui" line="484"/>
         <source>Date digitized</source>
         <translation>Datum digitalizacije</translation>
     </message>
     <message>
-        <location filename="DlgEditEXIF.ui" line="350"/>
+        <location filename="DlgEditEXIF.ui" line="380"/>
         <source>Orientation</source>
         <translation>Orientacija</translation>
     </message>
     <message>
-        <location filename="DlgEditEXIF.ui" line="358"/>
+        <location filename="DlgEditEXIF.ui" line="388"/>
         <source>0 - Not defined</source>
         <translation>0 - Ni definirano</translation>
     </message>
     <message>
-        <location filename="DlgEditEXIF.ui" line="363"/>
+        <location filename="DlgEditEXIF.ui" line="393"/>
         <source>1 - Horizontal</source>
         <translation>1 - Vodoravno</translation>
     </message>
     <message>
-        <location filename="DlgEditEXIF.ui" line="368"/>
+        <location filename="DlgEditEXIF.ui" line="398"/>
         <source>2 - Mirror horizontal</source>
         <translation>2 - Zrcalno vodoravno</translation>
     </message>
     <message>
-        <location filename="DlgEditEXIF.ui" line="373"/>
+        <location filename="DlgEditEXIF.ui" line="403"/>
         <source>3 - Rotate 180</source>
         <translation>3 - Zavrtite za 180</translation>
     </message>
     <message>
-        <location filename="DlgEditEXIF.ui" line="378"/>
+        <location filename="DlgEditEXIF.ui" line="408"/>
         <source>4 - Mirror vertical</source>
         <translation>4 - Zrcali navpično</translation>
     </message>
     <message>
-        <location filename="DlgEditEXIF.ui" line="383"/>
+        <location filename="DlgEditEXIF.ui" line="413"/>
         <source>5 - Mirror horizontal and rotate 270 CW</source>
         <translation>5 - Zrcali vodoravno in zavrti za 270 stopinj v smeri urinega kazalca</translation>
     </message>
     <message>
-        <location filename="DlgEditEXIF.ui" line="388"/>
+        <location filename="DlgEditEXIF.ui" line="418"/>
         <source>6 - Rotate 90 CW</source>
         <translation>6 - Zavrti za 90 stopinj v smeri kazalca na uri</translation>
     </message>
     <message>
-        <location filename="DlgEditEXIF.ui" line="393"/>
+        <location filename="DlgEditEXIF.ui" line="423"/>
         <source>7 - Mirror horizontal and rotate 90 CW</source>
         <translation>7 - Zrcali vodoravno in zavrti za 90 stopinj v smeri urinega kazalca</translation>
     </message>
     <message>
-        <location filename="DlgEditEXIF.ui" line="398"/>
+        <location filename="DlgEditEXIF.ui" line="428"/>
         <source>8 - Rotate 270 CW</source>
         <translation>8 - Zavrti se za 270 stopinj v smeri kazalca na uri</translation>
     </message>
     <message>
-        <location filename="DlgEditEXIF.ui" line="424"/>
+        <location filename="DlgEditEXIF.ui" line="460"/>
+        <source>XP Subject</source>
+        <translation type="unfinished">XP Subjekt</translation>
+    </message>
+    <message>
+        <location filename="DlgEditEXIF.ui" line="522"/>
         <source>Write</source>
         <translation>Piši</translation>
     </message>
@@ -11210,55 +11218,55 @@ Ali jih želite odstraniti?</translation>
 <context>
     <name>DlgSearch</name>
     <message>
-        <location filename="DlgSearch.cpp" line="80"/>
-        <location filename="DlgSearch.cpp" line="187"/>
+        <location filename="DlgSearch.cpp" line="81"/>
+        <location filename="DlgSearch.cpp" line="189"/>
         <source>Smart Albums</source>
         <translation>Pametni albumi</translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="80"/>
-        <location filename="DlgSearch.cpp" line="187"/>
+        <location filename="DlgSearch.cpp" line="81"/>
+        <location filename="DlgSearch.cpp" line="189"/>
         <source>Name:</source>
         <translation>Ime:</translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="179"/>
+        <location filename="DlgSearch.cpp" line="181"/>
         <source>Save</source>
         <translation>Shrani</translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="328"/>
+        <location filename="DlgSearch.cpp" line="332"/>
         <source>Preset</source>
         <translation>Prednastavitev</translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="329"/>
+        <location filename="DlgSearch.cpp" line="333"/>
         <source>Preset search name:</source>
         <translation>Ime prednastavljenega iskanja:</translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="332"/>
+        <location filename="DlgSearch.cpp" line="336"/>
         <source>Save pathname</source>
         <translation>Shrani ime poti</translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="395"/>
+        <location filename="DlgSearch.cpp" line="399"/>
         <source>GROUP</source>
         <translation>SKUPINA</translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="420"/>
+        <location filename="DlgSearch.cpp" line="424"/>
         <source>Files found (%1):</source>
         <translation>Najdene datoteke (%1):</translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="445"/>
+        <location filename="DlgSearch.cpp" line="449"/>
         <source>Search</source>
         <translation>Najdi</translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="476"/>
-        <location filename="DlgSearch.cpp" line="477"/>
+        <location filename="DlgSearch.cpp" line="480"/>
+        <location filename="DlgSearch.cpp" line="481"/>
         <source>Finished: %1 file(s) found.</source>
         <oldsource>Finished: %1 file(s) found...</oldsource>
         <translation>Dokončano: najdeno je %1 datotek(a).</translation>
@@ -11272,58 +11280,73 @@ Ali jih želite odstraniti?</translation>
         <translation>Najdi</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="143"/>
+        <location filename="DlgSearch.ui" line="95"/>
         <source>Close dialog when browse</source>
         <translation>Zapri pogovorno okno med brskanjem</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="195"/>
+        <location filename="DlgSearch.ui" line="145"/>
+        <source>Search in</source>
+        <translation type="unfinished">Išči v</translation>
+    </message>
+    <message>
+        <location filename="DlgSearch.ui" line="153"/>
+        <source>Filesystem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSearch.ui" line="158"/>
+        <source>Catalog</source>
+        <translation type="unfinished">Katalog</translation>
+    </message>
+    <message>
+        <location filename="DlgSearch.ui" line="226"/>
         <source>Match</source>
         <translation>Ujemanje</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="202"/>
+        <location filename="DlgSearch.ui" line="233"/>
         <source>All</source>
         <translation>Vse</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="209"/>
+        <location filename="DlgSearch.ui" line="240"/>
         <source>Any</source>
         <translation>Katerakoli</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="237"/>
+        <location filename="DlgSearch.ui" line="268"/>
         <source>Save as Smart Album...</source>
         <translation>Shrani kot pametni album...</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="299"/>
+        <location filename="DlgSearch.ui" line="330"/>
         <source>Current pathname:</source>
         <translation>Ime trenutne poti:</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="362"/>
+        <location filename="DlgSearch.ui" line="393"/>
         <source>Presets: </source>
         <translation>Prednastavitve: </translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="461"/>
+        <location filename="DlgSearch.ui" line="492"/>
         <source>Close</source>
         <translation>Zapri</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="468"/>
+        <location filename="DlgSearch.ui" line="499"/>
         <source>Abort</source>
         <translation>Preklic</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="95"/>
+        <location filename="DlgSearch.ui" line="102"/>
         <source>Search in subfolders</source>
         <oldsource>Recurse through subfolders</oldsource>
         <translation>Iskanje v podmapah</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="102"/>
+        <location filename="DlgSearch.ui" line="109"/>
         <source>&amp;Use Regular Expression</source>
         <translation>&amp;Uporabi regularni izraz</translation>
     </message>
@@ -11333,71 +11356,65 @@ Ali jih želite odstraniti?</translation>
         <translation>M&amp;apa</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="123"/>
+        <location filename="DlgSearch.ui" line="116"/>
         <source>&amp;Case sensitive</source>
         <translation>&amp;Razlikuje med velikimi in malimi črkami</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="109"/>
+        <location filename="DlgSearch.ui" line="136"/>
         <source>Search in folder names</source>
         <oldsource>&amp;Include folders</oldsource>
         <translation>Iskanje v imenih map</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="379"/>
+        <location filename="DlgSearch.ui" line="410"/>
         <source>Save this request</source>
         <translation>Shrani to zahtevo</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="393"/>
+        <location filename="DlgSearch.ui" line="424"/>
         <source>Save current search</source>
         <translation>Shrani trenutno iskanje</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="407"/>
+        <location filename="DlgSearch.ui" line="438"/>
         <source>Delete current search</source>
         <translation>Izbriši trenutno iskanje</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="424"/>
+        <location filename="DlgSearch.ui" line="455"/>
         <source>&lt; Bac&amp;k</source>
         <translation>&lt; Naz&amp;aj</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="444"/>
+        <location filename="DlgSearch.ui" line="475"/>
         <source>&amp;Search</source>
         <translation>&amp;Išči</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="454"/>
+        <location filename="DlgSearch.ui" line="485"/>
         <source>&amp;Browse...</source>
         <translation>&amp;Prebrskaj...</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="157"/>
+        <location filename="DlgSearch.ui" line="188"/>
         <source>Conditions</source>
         <translation>Pogoji</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="53"/>
+        <location filename="DlgSearch.ui" line="73"/>
         <source>&amp;Filename</source>
         <oldsource>Filename</oldsource>
         <translation>&amp;Ime datoteke</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="116"/>
-        <source>Search in Catalog only</source>
-        <oldsource>Use catalog</oldsource>
-        <translation>Iskanje samo v katalogu</translation>
-    </message>
-    <message>
-        <location filename="DlgSearch.ui" line="165"/>
+        <location filename="DlgSearch.ui" line="196"/>
         <source>Add &gt;&gt;</source>
         <oldsource>Add&gt;&gt;</oldsource>
         <translation>Dodaj &gt;&gt;</translation>
     </message>
     <message>
-        <location filename="DlgSearch.ui" line="175"/>
+        <location filename="DlgSearch.ui" line="206"/>
         <source>Clear all</source>
         <translation>Počisti vse</translation>
     </message>
@@ -11468,7 +11485,7 @@ Ali jih želite odstraniti?</translation>
 <context>
     <name>DlgSettings</name>
     <message>
-        <location filename="DlgSettingsBrowser.h" line="14"/>
+        <location filename="DlgSettingsBrowser.h" line="15"/>
         <source>Browser</source>
         <translation>Brskalnik</translation>
     </message>
@@ -11518,14 +11535,57 @@ Ali jih želite odstraniti?</translation>
         <translation>Katalog</translation>
     </message>
     <message>
-        <location filename="DlgSettings.cpp" line="357"/>
+        <location filename="DlgSettings.cpp" line="358"/>
         <source>The changes will be applied after restarting the application.</source>
         <translation>Spremembe bodo uporabljene po ponovnem zagonu aplikacije.</translation>
     </message>
     <message>
-        <location filename="DlgSettings.cpp" line="360"/>
+        <location filename="DlgSettings.cpp" line="361"/>
         <source>Restart now</source>
         <translation>Znova zaženi zdaj</translation>
+    </message>
+</context>
+<context>
+    <name>DlgSettingsBrowser</name>
+    <message>
+        <location filename="DlgSettingsBrowser.cpp" line="323"/>
+        <source>Clear All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsBrowser.cpp" line="323"/>
+        <source>Remove all items from the list?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsBrowser.cpp" line="334"/>
+        <source>Default</source>
+        <translation type="unfinished">Privzeto</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsBrowser.cpp" line="334"/>
+        <source>Reset list to default?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsBrowser.cpp" line="485"/>
+        <source>Expand All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsBrowser.cpp" line="490"/>
+        <source>Collapse All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsBrowser.cpp" line="800"/>
+        <source>Save Preset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsBrowser.cpp" line="800"/>
+        <source>Preset name:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11597,8 +11657,39 @@ Ali jih želite odstraniti?</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="365"/>
+        <location filename="DlgSettingsBrowser.ui" line="506"/>
         <source>Filter</source>
         <translation>Filter</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsBrowser.ui" line="498"/>
+        <source>Header</source>
+        <translation type="unfinished">Glava</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsBrowser.ui" line="531"/>
+        <source>Label</source>
+        <translation type="unfinished">Oznaka</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsBrowser.ui" line="536"/>
+        <source>Field</source>
+        <translation type="unfinished">Polje</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsBrowser.ui" line="546"/>
+        <source>Clear all</source>
+        <translation type="unfinished">Počisti vse</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsBrowser.ui" line="648"/>
+        <source>...</source>
+        <translation type="unfinished">...</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsBrowser.ui" line="700"/>
+        <source>&lt;Default&gt;</source>
+        <translation type="unfinished">&lt;Privzeto&gt;</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="291"/>
@@ -15568,7 +15659,7 @@ Do you want to continue?</source>
         <translation>Počisti vse</translation>
     </message>
     <message>
-        <location filename="DlgTransfer.cpp" line="243"/>
+        <location filename="DlgTransfer.cpp" line="244"/>
         <source>Write</source>
         <translation>Napiši</translation>
     </message>
@@ -16764,17 +16855,17 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
 <context>
     <name>FileListViewEx</name>
     <message>
-        <location filename="FileListViewEx.cpp" line="230"/>
+        <location filename="FileListViewEx.cpp" line="216"/>
         <source>All</source>
         <translation>Vse</translation>
     </message>
     <message>
-        <location filename="FileListViewEx.cpp" line="234"/>
+        <location filename="FileListViewEx.cpp" line="220"/>
         <source>None</source>
         <translation>Brez</translation>
     </message>
     <message>
-        <location filename="FileListViewEx.cpp" line="283"/>
+        <location filename="FileListViewEx.cpp" line="269"/>
         <source>Paste filenames</source>
         <translation>Prilepi imena datotek</translation>
     </message>
@@ -16804,7 +16895,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <translation>Podrobnosti</translation>
     </message>
     <message>
-        <location filename="FileListWidget.cpp" line="302"/>
+        <location filename="FileListWidget.cpp" line="300"/>
         <source>Do you want to add only the folder and not the filelist?</source>
         <translation>Ali želite dodati samo mapo in ne seznama datotek?</translation>
     </message>
@@ -16854,8 +16945,8 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <translation>...</translation>
     </message>
     <message>
-        <location filename="FileListWidget.cpp" line="299"/>
-        <location filename="FileListWidget.cpp" line="302"/>
+        <location filename="FileListWidget.cpp" line="297"/>
+        <location filename="FileListWidget.cpp" line="300"/>
         <source>Choose a directory</source>
         <translation>Izberite imenik</translation>
     </message>
@@ -16934,72 +17025,72 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
 <context>
     <name>Info</name>
     <message>
-        <location filename="ItemModel.cpp" line="1051"/>
+        <location filename="ItemModel.cpp" line="1053"/>
         <source>Check</source>
         <translation>Preveri</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1069"/>
-        <location filename="SearchField.cpp" line="30"/>
-        <location filename="TemplateData.cpp" line="2791"/>
+        <location filename="ItemModel.cpp" line="1071"/>
+        <location filename="SearchField.cpp" line="34"/>
+        <location filename="TemplateData.cpp" line="2808"/>
         <source>Categories</source>
         <translation>Kategorije</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1047"/>
-        <location filename="SearchField.cpp" line="31"/>
-        <location filename="TemplateData.cpp" line="2787"/>
+        <location filename="ItemModel.cpp" line="1049"/>
+        <location filename="SearchField.cpp" line="35"/>
+        <location filename="TemplateData.cpp" line="2804"/>
         <source>Rating</source>
         <translation>Ocena</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="27"/>
+        <location filename="SearchField.cpp" line="31"/>
         <source>Pathname</source>
         <translation>Ime poti</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="29"/>
+        <location filename="SearchField.cpp" line="33"/>
         <source>File path</source>
         <translation>Pot do datoteke</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="40"/>
+        <location filename="SearchField.cpp" line="44"/>
         <source>Bits per sample</source>
         <translation>Bitov na vzorec</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="44"/>
+        <location filename="SearchField.cpp" line="48"/>
         <source>All standard fields</source>
         <translation>Vsa standardna polja</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="45"/>
+        <location filename="SearchField.cpp" line="49"/>
         <source>ExifTool value</source>
         <translation>Vrednost ExifTool</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="140"/>
+        <location filename="SearchField.cpp" line="148"/>
         <source>All fields (Number)</source>
         <translation>Vsa polja (števiło)</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="141"/>
+        <location filename="SearchField.cpp" line="149"/>
         <source>Field</source>
         <translation>Polje</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="142"/>
+        <location filename="SearchField.cpp" line="150"/>
         <source>Field (Number)</source>
         <translation>Polje (številka)</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="32"/>
-        <location filename="TemplateData.cpp" line="2789"/>
+        <location filename="SearchField.cpp" line="36"/>
+        <location filename="TemplateData.cpp" line="2806"/>
         <source>Color label</source>
         <translation>Barvna oznaka</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="33"/>
+        <location filename="SearchField.cpp" line="37"/>
         <source>File size</source>
         <translation>Velikost datoteke</translation>
     </message>
@@ -17008,8 +17099,8 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <location filename="InfoPropertiesView.cpp" line="650"/>
         <location filename="InfoPropertiesView.cpp" line="668"/>
         <location filename="InfoPropertiesView.cpp" line="687"/>
-        <location filename="SearchField.cpp" line="37"/>
-        <location filename="TemplateData.cpp" line="2576"/>
+        <location filename="SearchField.cpp" line="41"/>
+        <location filename="TemplateData.cpp" line="2593"/>
         <source>Format</source>
         <translation>Format</translation>
     </message>
@@ -17017,9 +17108,9 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <location filename="EditXMPWidget.cpp" line="369"/>
         <location filename="IptcEditBase.cpp" line="83"/>
         <location filename="IptcEditBase.cpp" line="115"/>
-        <location filename="ItemModel.cpp" line="1055"/>
-        <location filename="SearchField.cpp" line="42"/>
-        <location filename="TemplateData.cpp" line="2811"/>
+        <location filename="ItemModel.cpp" line="1057"/>
+        <location filename="SearchField.cpp" line="46"/>
+        <location filename="TemplateData.cpp" line="2828"/>
         <source>Annotation</source>
         <translation>Opomba</translation>
     </message>
@@ -17041,8 +17132,8 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <location filename="DlgImport.cpp" line="230"/>
         <location filename="EditXMPWidget.cpp" line="365"/>
         <location filename="IptcEditBase.cpp" line="79"/>
-        <location filename="SearchField.cpp" line="34"/>
-        <location filename="TemplateData.cpp" line="2806"/>
+        <location filename="SearchField.cpp" line="38"/>
+        <location filename="TemplateData.cpp" line="2823"/>
         <source>Modified date</source>
         <translation>Spremenjen datum</translation>
     </message>
@@ -17053,57 +17144,57 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <translation>Integrirani komentar</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1041"/>
+        <location filename="ItemModel.cpp" line="1043"/>
         <source>Properties</source>
         <translation>Lastnosti</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="92"/>
-        <location filename="ItemModel.cpp" line="1043"/>
+        <location filename="ItemModel.cpp" line="1045"/>
         <source>Print size</source>
         <translation>Velikost izpisa</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1049"/>
+        <location filename="ItemModel.cpp" line="1051"/>
         <source>Colour label</source>
         <translation>Barvna oznaka</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1057"/>
+        <location filename="ItemModel.cpp" line="1059"/>
         <source>Path</source>
         <translation>Pot</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="665"/>
         <location filename="InfoPropertiesView.cpp" line="705"/>
-        <location filename="ItemModel.cpp" line="1053"/>
-        <location filename="SearchField.cpp" line="43"/>
-        <location filename="TemplateData.cpp" line="2582"/>
+        <location filename="ItemModel.cpp" line="1055"/>
+        <location filename="SearchField.cpp" line="47"/>
+        <location filename="TemplateData.cpp" line="2599"/>
         <source>Comment</source>
         <translation>Komentar</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1067"/>
+        <location filename="ItemModel.cpp" line="1069"/>
         <source>Extension</source>
         <translation>Pripona</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="69"/>
         <location filename="InfoPropertiesView.cpp" line="653"/>
-        <location filename="ItemModel.cpp" line="1061"/>
-        <location filename="SearchField.cpp" line="38"/>
-        <location filename="TemplateData.cpp" line="2579"/>
-        <location filename="TemplateData.cpp" line="2602"/>
+        <location filename="ItemModel.cpp" line="1063"/>
+        <location filename="SearchField.cpp" line="42"/>
+        <location filename="TemplateData.cpp" line="2596"/>
+        <location filename="TemplateData.cpp" line="2619"/>
         <source>Width</source>
         <translation>Širina</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="70"/>
         <location filename="InfoPropertiesView.cpp" line="654"/>
-        <location filename="ItemModel.cpp" line="1063"/>
-        <location filename="SearchField.cpp" line="39"/>
-        <location filename="TemplateData.cpp" line="2580"/>
-        <location filename="TemplateData.cpp" line="2603"/>
+        <location filename="ItemModel.cpp" line="1065"/>
+        <location filename="SearchField.cpp" line="43"/>
+        <location filename="TemplateData.cpp" line="2597"/>
+        <location filename="TemplateData.cpp" line="2620"/>
         <source>Height</source>
         <translation>Višina</translation>
     </message>
@@ -17122,7 +17213,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <location filename="InfoPropertiesView.cpp" line="79"/>
         <location filename="InfoPropertiesView.cpp" line="81"/>
         <location filename="InfoPropertiesView.cpp" line="83"/>
-        <location filename="TemplateData.cpp" line="2577"/>
+        <location filename="TemplateData.cpp" line="2594"/>
         <source>Color model</source>
         <translation>Barvni model</translation>
     </message>
@@ -17143,16 +17234,16 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="87"/>
-        <location filename="ItemModel.cpp" line="1065"/>
-        <location filename="TemplateData.cpp" line="2583"/>
-        <location filename="TemplateData.cpp" line="2605"/>
+        <location filename="ItemModel.cpp" line="1067"/>
+        <location filename="TemplateData.cpp" line="2600"/>
+        <location filename="TemplateData.cpp" line="2622"/>
         <source>DPI</source>
         <translation>DPI</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="95"/>
         <location filename="InfoPropertiesView.cpp" line="100"/>
-        <location filename="TemplateData.cpp" line="2578"/>
+        <location filename="TemplateData.cpp" line="2595"/>
         <source>Compression</source>
         <translation>Stiskanje</translation>
     </message>
@@ -17341,106 +17432,111 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <translation>Datum snemanja</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2581"/>
-        <location filename="TemplateData.cpp" line="2604"/>
+        <location filename="TemplateData.cpp" line="2598"/>
+        <location filename="TemplateData.cpp" line="2621"/>
         <source>BPP</source>
         <translation>BPP</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2584"/>
+        <location filename="TemplateData.cpp" line="2601"/>
         <source>DPI-X</source>
         <translation>DPI-X</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2585"/>
+        <location filename="TemplateData.cpp" line="2602"/>
         <source>DPI-Y</source>
         <translation>DPI-Y</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2586"/>
-        <location filename="TemplateData.cpp" line="2606"/>
+        <location filename="TemplateData.cpp" line="2603"/>
+        <location filename="TemplateData.cpp" line="2623"/>
         <source>Width (inch)</source>
         <translation>Širina (palcev)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2587"/>
-        <location filename="TemplateData.cpp" line="2607"/>
+        <location filename="TemplateData.cpp" line="2604"/>
+        <location filename="TemplateData.cpp" line="2624"/>
         <source>Height (inch)</source>
         <translation>Višina (palcev)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2588"/>
-        <location filename="TemplateData.cpp" line="2608"/>
+        <location filename="TemplateData.cpp" line="2605"/>
+        <location filename="TemplateData.cpp" line="2625"/>
         <source>Width (cm)</source>
         <translation>Širina (cm)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2589"/>
-        <location filename="TemplateData.cpp" line="2609"/>
+        <location filename="TemplateData.cpp" line="2606"/>
+        <location filename="TemplateData.cpp" line="2626"/>
         <source>Height (cm)</source>
         <translation>Višina (cm)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2590"/>
+        <location filename="TemplateData.cpp" line="2607"/>
         <source>Width (mm)</source>
         <translation>Širina (mm)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2591"/>
+        <location filename="TemplateData.cpp" line="2608"/>
         <source>Height (mm)</source>
         <translation>Višina (mm)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2593"/>
+        <location filename="TemplateData.cpp" line="2610"/>
         <source>Ratio Decimal</source>
         <translation>Razmerje decimalno</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2594"/>
+        <location filename="TemplateData.cpp" line="2611"/>
         <source>Width/Height Ratio</source>
         <oldsource>Ratio Width/Height</oldsource>
         <translation>Razmerje Širina/Višina</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2595"/>
+        <location filename="TemplateData.cpp" line="2612"/>
         <source>Height/Width Ratio</source>
         <oldsource>Ratio Height/Width</oldsource>
         <translation>Razmerje Višina/Širina</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2596"/>
+        <location filename="TemplateData.cpp" line="2613"/>
         <source>MPixels</source>
         <translation>Mpikslov</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2781"/>
+        <location filename="TemplateData.cpp" line="2798"/>
         <source>Create date</source>
         <translation>Ustvari datum</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2782"/>
+        <location filename="TemplateData.cpp" line="2799"/>
         <source>Modify date</source>
         <translation>Spremeni datum</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="26"/>
-        <location filename="TemplateData.cpp" line="2800"/>
+        <location filename="TemplateData.cpp" line="2803"/>
+        <source>Check status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="SearchField.cpp" line="30"/>
+        <location filename="TemplateData.cpp" line="2817"/>
         <source>Filename (with extension)</source>
         <translation>Ime datoteke (s pripono)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2810"/>
+        <location filename="TemplateData.cpp" line="2827"/>
         <source>Type</source>
         <translation>Vrsta</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2812"/>
+        <location filename="TemplateData.cpp" line="2829"/>
         <source>Output filename</source>
         <oldsource>Output filename without extension</oldsource>
         <translation>Izhodno ime datoteke</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2813"/>
+        <location filename="TemplateData.cpp" line="2830"/>
         <source>Output filename (with extension)</source>
         <translation>Izhodno ime datoteke (s pripono)</translation>
     </message>
@@ -17449,8 +17545,8 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <location filename="EditXMPWidget.cpp" line="359"/>
         <location filename="IptcEditBase.cpp" line="73"/>
         <location filename="IptcEditBase.cpp" line="111"/>
-        <location filename="SearchField.cpp" line="25"/>
-        <location filename="TemplateData.cpp" line="2799"/>
+        <location filename="SearchField.cpp" line="29"/>
+        <location filename="TemplateData.cpp" line="2816"/>
         <source>Filename</source>
         <translation>Ime datoteke</translation>
     </message>
@@ -17463,114 +17559,109 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="EditXMPWidget.cpp" line="360"/>
         <location filename="IptcEditBase.cpp" line="74"/>
-        <location filename="TemplateData.cpp" line="2801"/>
+        <location filename="TemplateData.cpp" line="2818"/>
         <source>Filename (last number)</source>
         <translation>Ime datoteke (zadnja številka)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="361"/>
         <location filename="IptcEditBase.cpp" line="75"/>
-        <location filename="TemplateData.cpp" line="2802"/>
+        <location filename="TemplateData.cpp" line="2819"/>
         <source>Folder</source>
         <translation>Mapa</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="362"/>
         <location filename="IptcEditBase.cpp" line="76"/>
-        <location filename="SearchField.cpp" line="28"/>
-        <location filename="TemplateData.cpp" line="2803"/>
+        <location filename="SearchField.cpp" line="32"/>
+        <location filename="TemplateData.cpp" line="2820"/>
         <source>Folder name</source>
         <translation>Ime mape</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="363"/>
         <location filename="IptcEditBase.cpp" line="77"/>
-        <location filename="SearchField.cpp" line="36"/>
-        <location filename="TemplateData.cpp" line="2804"/>
+        <location filename="SearchField.cpp" line="40"/>
+        <location filename="TemplateData.cpp" line="2821"/>
         <source>Accessed date</source>
         <translation>Datum dostopa</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="364"/>
         <location filename="IptcEditBase.cpp" line="78"/>
-        <location filename="SearchField.cpp" line="35"/>
-        <location filename="TemplateData.cpp" line="2805"/>
+        <location filename="SearchField.cpp" line="39"/>
+        <location filename="TemplateData.cpp" line="2822"/>
         <source>Creation date</source>
         <translation>Datum nastanka</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="368"/>
         <location filename="IptcEditBase.cpp" line="82"/>
-        <location filename="TemplateData.cpp" line="2809"/>
+        <location filename="TemplateData.cpp" line="2826"/>
         <source>Size (kB)</source>
         <oldsource>Size (KB)</oldsource>
         <translation>Velikost (kB)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2783"/>
+        <location filename="TemplateData.cpp" line="2800"/>
         <source>File index</source>
         <translation>Indeks datoteke</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2784"/>
+        <location filename="TemplateData.cpp" line="2801"/>
         <source>Zoom</source>
         <translation>Povečava</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2785"/>
+        <location filename="TemplateData.cpp" line="2802"/>
         <source>Current date</source>
         <translation>Trenutni datum</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2786"/>
-        <source>Tag status</source>
-        <translation>Status oznake</translation>
-    </message>
-    <message>
-        <location filename="ItemModel.cpp" line="1059"/>
-        <location filename="SearchField.cpp" line="41"/>
-        <location filename="TemplateData.cpp" line="2592"/>
+        <location filename="ItemModel.cpp" line="1061"/>
+        <location filename="SearchField.cpp" line="45"/>
+        <location filename="TemplateData.cpp" line="2609"/>
         <source>Ratio</source>
         <translation>Razmerje</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2067"/>
+        <location filename="DBFilterModel.cpp" line="2069"/>
         <source>Aspect Ratio</source>
         <translation>Razmerje stranic</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2103"/>
+        <location filename="DBFilterModel.cpp" line="2105"/>
         <source>File type</source>
         <translation>Vrsta datoteke</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="366"/>
         <location filename="IptcEditBase.cpp" line="80"/>
-        <location filename="TemplateData.cpp" line="2807"/>
+        <location filename="TemplateData.cpp" line="2824"/>
         <source>Size (Auto)</source>
         <translation>Velikost (avto)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="367"/>
         <location filename="IptcEditBase.cpp" line="81"/>
-        <location filename="TemplateData.cpp" line="2808"/>
+        <location filename="TemplateData.cpp" line="2825"/>
         <source>Size (Bytes)</source>
         <translation>Velikost (bajtov)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2788"/>
+        <location filename="TemplateData.cpp" line="2805"/>
         <source>Rating (number)</source>
         <translation>Ocena (številka)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2790"/>
+        <location filename="TemplateData.cpp" line="2807"/>
         <source>Color label (number)</source>
         <translation>Barvna oznaka (številka)</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="76"/>
-        <location filename="SearchField.cpp" line="93"/>
-        <location filename="SearchField.cpp" line="139"/>
+        <location filename="SearchField.cpp" line="80"/>
+        <location filename="SearchField.cpp" line="101"/>
+        <location filename="SearchField.cpp" line="147"/>
         <source>All fields</source>
         <translation>Vsa polja</translation>
     </message>
@@ -17808,123 +17899,101 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
 <context>
     <name>InfoExif</name>
     <message>
-        <location filename="DBFilterModel.cpp" line="2071"/>
-        <location filename="ItemModel.cpp" line="1072"/>
-        <location filename="SearchField.cpp" line="79"/>
-        <location filename="TemplateData.cpp" line="2614"/>
+        <location filename="DBFilterModel.cpp" line="2073"/>
+        <location filename="SearchField.cpp" line="83"/>
+        <location filename="TemplateData.cpp" line="2631"/>
         <source>Maker</source>
         <translation>Avtor</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2075"/>
-        <location filename="ItemModel.cpp" line="1074"/>
-        <location filename="SearchField.cpp" line="80"/>
-        <location filename="TemplateData.cpp" line="2615"/>
+        <location filename="DBFilterModel.cpp" line="2077"/>
+        <location filename="SearchField.cpp" line="84"/>
+        <location filename="TemplateData.cpp" line="2632"/>
         <source>Model</source>
         <translation>Model</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2079"/>
+        <location filename="DBFilterModel.cpp" line="2081"/>
         <source>Lens</source>
         <translation>Objektiv</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2087"/>
-        <location filename="ItemModel.cpp" line="1076"/>
+        <location filename="DBFilterModel.cpp" line="2089"/>
         <source>ISO</source>
         <translation>ISO</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2095"/>
+        <location filename="DBFilterModel.cpp" line="2097"/>
         <source>Shutter Speed</source>
         <translation>Hitrost zaklopa</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2107"/>
+        <location filename="DBFilterModel.cpp" line="2109"/>
         <source>Colour Space</source>
         <translation>Barvni prostor</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2190"/>
+        <location filename="DBFilterModel.cpp" line="2192"/>
         <source>Not Defined</source>
         <translation>Ni definirano</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2192"/>
+        <location filename="DBFilterModel.cpp" line="2194"/>
         <source>Manual</source>
         <translation>Ročno</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2194"/>
+        <location filename="DBFilterModel.cpp" line="2196"/>
         <source>Program AE</source>
         <translation>rogram AE</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2196"/>
+        <location filename="DBFilterModel.cpp" line="2198"/>
         <source>Aperture-priority AE</source>
         <translation>Zaslonka-prioriteta AE</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2198"/>
+        <location filename="DBFilterModel.cpp" line="2200"/>
         <source>Shutter speed priority AE</source>
         <translation>Hitrost zaklopa prioriteta AE</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2200"/>
+        <location filename="DBFilterModel.cpp" line="2202"/>
         <source>Creative</source>
         <translation>Ustvarjalno</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2202"/>
+        <location filename="DBFilterModel.cpp" line="2204"/>
         <source>Action</source>
         <translation>Ukrep</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2204"/>
+        <location filename="DBFilterModel.cpp" line="2206"/>
         <source>Portrait</source>
         <translation>Portret</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2206"/>
+        <location filename="DBFilterModel.cpp" line="2208"/>
         <source>Landscape</source>
         <translation>Pokrajina</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1078"/>
-        <source>ShutterSpeed</source>
-        <translation>Hitrost zaklopa</translation>
-    </message>
-    <message>
-        <location filename="ItemModel.cpp" line="1080"/>
-        <source>Exposure Time</source>
-        <translation>Čas osvetlitve</translation>
-    </message>
-    <message>
-        <location filename="DBFilterModel.cpp" line="2083"/>
-        <location filename="ItemModel.cpp" line="1082"/>
+        <location filename="DBFilterModel.cpp" line="2085"/>
         <source>Focal Length</source>
         <translation>Goriščna razdalja</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1084"/>
-        <location filename="TemplateData.cpp" line="2653"/>
+        <location filename="TemplateData.cpp" line="2670"/>
         <source>Aperture</source>
         <translation>Zaslonka</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1088"/>
-        <source>Lens model</source>
-        <translation>Model objektiva</translation>
-    </message>
-    <message>
-        <location filename="ItemModel.cpp" line="1090"/>
-        <location filename="TemplateData.cpp" line="2701"/>
+        <location filename="TemplateData.cpp" line="2718"/>
         <source>Latitude</source>
         <translation>Zemljepisna širina</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1092"/>
-        <location filename="TemplateData.cpp" line="2704"/>
+        <location filename="TemplateData.cpp" line="2721"/>
         <source>Longitude</source>
         <translation>Zemljepisna dolžina</translation>
     </message>
@@ -17959,430 +18028,433 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <translation>Avtor opombe</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="82"/>
-        <location filename="TemplateData.cpp" line="2627"/>
+        <location filename="SearchField.cpp" line="86"/>
+        <location filename="TemplateData.cpp" line="2644"/>
         <source>Software</source>
         <translation>Programska oprema</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="81"/>
-        <location filename="TemplateData.cpp" line="2616"/>
+        <location filename="SearchField.cpp" line="85"/>
+        <location filename="TemplateData.cpp" line="2633"/>
         <source>Artist</source>
         <translation>Izvajalec</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="83"/>
-        <location filename="TemplateData.cpp" line="2640"/>
+        <location filename="SearchField.cpp" line="87"/>
+        <location filename="TemplateData.cpp" line="2657"/>
         <source>User comment</source>
         <translation>Komentar uporabnika</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2091"/>
-        <location filename="ItemModel.cpp" line="1086"/>
-        <location filename="SearchField.cpp" line="89"/>
-        <location filename="TemplateData.cpp" line="2648"/>
+        <location filename="DBFilterModel.cpp" line="2093"/>
+        <location filename="SearchField.cpp" line="93"/>
+        <location filename="TemplateData.cpp" line="2665"/>
         <source>F-Number</source>
         <translation>F-številka</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="90"/>
+        <location filename="SearchField.cpp" line="94"/>
         <source>Exposure time (s)</source>
         <translation>Čas osvetlitve (s)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2617"/>
+        <location filename="TemplateData.cpp" line="2634"/>
         <source>Copyright</source>
         <translation>Copyright</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="84"/>
-        <location filename="TemplateData.cpp" line="2618"/>
+        <location filename="SearchField.cpp" line="88"/>
+        <location filename="TemplateData.cpp" line="2635"/>
         <source>Date/time modified</source>
         <translation>Datum/čas spremembe</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2063"/>
-        <location filename="TemplateData.cpp" line="2619"/>
+        <location filename="DBFilterModel.cpp" line="2065"/>
+        <location filename="TemplateData.cpp" line="2636"/>
         <source>Orientation</source>
         <translation>Usmerjenost</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2620"/>
+        <location filename="TemplateData.cpp" line="2637"/>
         <source>X-Resolution</source>
         <translation>X-resolucija</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2621"/>
+        <location filename="TemplateData.cpp" line="2638"/>
         <source>Y-Resolution</source>
         <translation>Y-resolucija</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2622"/>
+        <location filename="TemplateData.cpp" line="2639"/>
         <source>Resolution unit</source>
         <translation>Enota za resolucijo</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2623"/>
+        <location filename="TemplateData.cpp" line="2640"/>
         <source>Primary chromaticities</source>
         <translation>Primarne kromatičnosti</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2624"/>
+        <location filename="TemplateData.cpp" line="2641"/>
         <source>YCbCr-Coefficients</source>
         <translation>YCbCr-koeficienti</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2625"/>
+        <location filename="TemplateData.cpp" line="2642"/>
         <source>YCbCr-Positioning</source>
         <translation>YCbCr-pozicioniranje</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2626"/>
+        <location filename="TemplateData.cpp" line="2643"/>
         <source>Ref. black/white</source>
         <translation>Ref. črno/belo</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2629"/>
+        <location filename="TemplateData.cpp" line="2646"/>
         <source>LensID</source>
         <translation>ID objektiva</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2631"/>
+        <location filename="SearchField.cpp" line="97"/>
+        <location filename="TemplateData.cpp" line="2648"/>
         <source>XP Title</source>
         <translation>XP Naslov</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2632"/>
+        <location filename="SearchField.cpp" line="98"/>
+        <location filename="TemplateData.cpp" line="2649"/>
         <source>XP Comment</source>
         <translation>XP Komentar</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2633"/>
+        <location filename="SearchField.cpp" line="99"/>
+        <location filename="TemplateData.cpp" line="2650"/>
         <source>XP Author</source>
         <translation>XP Avtor</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2634"/>
+        <location filename="TemplateData.cpp" line="2651"/>
         <source>XP Keywords</source>
         <translation>XP Ključne besede</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2635"/>
+        <location filename="SearchField.cpp" line="100"/>
+        <location filename="TemplateData.cpp" line="2652"/>
         <source>XP Subject</source>
         <translation>XP Subjekt</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="85"/>
-        <location filename="TemplateData.cpp" line="2641"/>
+        <location filename="SearchField.cpp" line="89"/>
+        <location filename="TemplateData.cpp" line="2658"/>
         <source>Date taken</source>
         <translation>Datum posnetka</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="86"/>
-        <location filename="TemplateData.cpp" line="2642"/>
+        <location filename="SearchField.cpp" line="90"/>
+        <location filename="TemplateData.cpp" line="2659"/>
         <source>Date digitized</source>
         <translation>Datum digitalizacije</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2643"/>
+        <location filename="TemplateData.cpp" line="2660"/>
         <source>Exposure Time (s)</source>
         <oldsource>Exposure Time [s]</oldsource>
         <translation>Čas osvetlitve (s)</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2099"/>
-        <location filename="TemplateData.cpp" line="2644"/>
+        <location filename="DBFilterModel.cpp" line="2101"/>
+        <location filename="TemplateData.cpp" line="2661"/>
         <source>Exposure Program</source>
         <translation>Program osvetlitve</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2645"/>
+        <location filename="TemplateData.cpp" line="2662"/>
         <source>Exposure Mode</source>
         <translation>Način osvetlitve</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2646"/>
+        <location filename="TemplateData.cpp" line="2663"/>
         <source>Exposure Bias</source>
         <translation>Osvetlitev Bias</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2647"/>
+        <location filename="TemplateData.cpp" line="2664"/>
         <source>Exposure Index</source>
         <translation>Indeks osvetlitve</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="88"/>
-        <location filename="TemplateData.cpp" line="2649"/>
+        <location filename="SearchField.cpp" line="92"/>
+        <location filename="TemplateData.cpp" line="2666"/>
         <source>Focal length (mm)</source>
         <oldsource>Focal length [mm]</oldsource>
         <translation>Goriščna razdalja (mm)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2650"/>
+        <location filename="TemplateData.cpp" line="2667"/>
         <source>35mm Focal length</source>
         <translation>35mm Goriščna razdalja</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="87"/>
-        <location filename="TemplateData.cpp" line="2651"/>
+        <location filename="SearchField.cpp" line="91"/>
+        <location filename="TemplateData.cpp" line="2668"/>
         <source>ISO Value</source>
         <translation>ISO vrednost</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2652"/>
+        <location filename="TemplateData.cpp" line="2669"/>
         <source>Shutter speed (s)</source>
         <oldsource>Shutter speed [s]</oldsource>
         <translation>Hitrost zaklopa (s)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2654"/>
+        <location filename="TemplateData.cpp" line="2671"/>
         <source>Max. aperture</source>
         <translation>Maks. zaslonka</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2655"/>
+        <location filename="TemplateData.cpp" line="2672"/>
         <source>Colour space</source>
         <translation>Barva prostora</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2656"/>
+        <location filename="TemplateData.cpp" line="2673"/>
         <source>Digital zoom</source>
         <translation>Digitalna povečava</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2657"/>
+        <location filename="TemplateData.cpp" line="2674"/>
         <source>Subject Distance (m)</source>
         <translation>Oddaljenost objekta (m)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2658"/>
+        <location filename="TemplateData.cpp" line="2675"/>
         <source>Subj. Dist. Range</source>
         <translation>Subj. Razst. Razpon</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2659"/>
+        <location filename="TemplateData.cpp" line="2676"/>
         <source>Subject location</source>
         <translation>Lokacija objekta</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="91"/>
-        <location filename="TemplateData.cpp" line="2660"/>
+        <location filename="SearchField.cpp" line="95"/>
+        <location filename="TemplateData.cpp" line="2677"/>
         <source>Flash</source>
         <translation>Flash</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2661"/>
+        <location filename="TemplateData.cpp" line="2678"/>
         <source>Flash energy</source>
         <translation>Vrsta bliskavice</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2662"/>
+        <location filename="TemplateData.cpp" line="2679"/>
         <source>Metering mode</source>
         <translation>Način merjenja</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2663"/>
+        <location filename="TemplateData.cpp" line="2680"/>
         <source>Gain control</source>
         <translation>Pridobi nadzor</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2664"/>
+        <location filename="TemplateData.cpp" line="2681"/>
         <source>Light source</source>
         <translation>Vir svetlobe</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2665"/>
+        <location filename="TemplateData.cpp" line="2682"/>
         <source>White balance</source>
         <translation>Ravnovesje beline</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2666"/>
+        <location filename="TemplateData.cpp" line="2683"/>
         <source>Contrast</source>
         <translation>Kontrast</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2667"/>
+        <location filename="TemplateData.cpp" line="2684"/>
         <source>Saturation</source>
         <translation>Nasičenost</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2668"/>
+        <location filename="TemplateData.cpp" line="2685"/>
         <source>Sharpness</source>
         <translation>Ostrina</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2669"/>
+        <location filename="TemplateData.cpp" line="2686"/>
         <source>Brightness</source>
         <translation>Svetlost</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2670"/>
+        <location filename="TemplateData.cpp" line="2687"/>
         <source>Spectral sensitivity</source>
         <translation>Spektralna občutljivost</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2671"/>
+        <location filename="TemplateData.cpp" line="2688"/>
         <source>Spatial freq. response</source>
         <translation>Prostorski frekvenčni odziv</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2672"/>
+        <location filename="TemplateData.cpp" line="2689"/>
         <source>Sensing method</source>
         <translation>Metoda zaznavanja</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2673"/>
+        <location filename="TemplateData.cpp" line="2690"/>
         <source>File source</source>
         <translation>Vir datoteke</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2674"/>
+        <location filename="TemplateData.cpp" line="2691"/>
         <source>CFA pattern</source>
         <translation>CFA vzorec</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2675"/>
+        <location filename="TemplateData.cpp" line="2692"/>
         <source>Custom rendered</source>
         <translation>Popravljeno po meri</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2676"/>
+        <location filename="TemplateData.cpp" line="2693"/>
         <source>Device settings desc.</source>
         <translation>Opis nastavitev naprave</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2677"/>
+        <location filename="TemplateData.cpp" line="2694"/>
         <source>Scene type</source>
         <translation>Vrsta prizora</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2678"/>
+        <location filename="TemplateData.cpp" line="2695"/>
         <source>Scene capture type</source>
         <translation>Vrsta zajema prizora</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2679"/>
+        <location filename="TemplateData.cpp" line="2696"/>
         <source>Image-ID</source>
         <translation>ID-slike</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2680"/>
+        <location filename="TemplateData.cpp" line="2697"/>
         <source>Image width</source>
         <translation>Širina slike</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2681"/>
+        <location filename="TemplateData.cpp" line="2698"/>
         <source>Image height</source>
         <translation>Višina slike</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2682"/>
+        <location filename="TemplateData.cpp" line="2699"/>
         <source>Image description</source>
         <translation>Opis slike</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2683"/>
+        <location filename="TemplateData.cpp" line="2700"/>
         <source>Components configuration</source>
         <translation>Konfiguracija komponent</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2684"/>
+        <location filename="TemplateData.cpp" line="2701"/>
         <source>Photometric interpretation</source>
         <translation>Fotometrična interpretacija</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2685"/>
+        <location filename="TemplateData.cpp" line="2702"/>
         <source>Focal Plane X-Resolution</source>
         <translation>Goriščna ravnina X-resolucije</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2686"/>
+        <location filename="TemplateData.cpp" line="2703"/>
         <source>Focal Plane Y-Resolution</source>
         <translation>Goriščna ravnina Y-resolucije</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2687"/>
+        <location filename="TemplateData.cpp" line="2704"/>
         <source>Focal Plane Res. Unit</source>
         <translation>Enota resolucije goriščne ravnine</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2688"/>
+        <location filename="TemplateData.cpp" line="2705"/>
         <source>EXIF Version</source>
         <translation>Različica EXIF</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2689"/>
+        <location filename="TemplateData.cpp" line="2706"/>
         <source>White point</source>
         <translation>Bela točka</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2690"/>
+        <location filename="TemplateData.cpp" line="2707"/>
         <source>Lens Make</source>
         <translation>Izdelava objektiva</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="92"/>
-        <location filename="TemplateData.cpp" line="2691"/>
+        <location filename="SearchField.cpp" line="96"/>
+        <location filename="TemplateData.cpp" line="2708"/>
         <source>Lens Model</source>
         <translation>Model objektiva</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2692"/>
+        <location filename="TemplateData.cpp" line="2709"/>
         <source>SubSecTime</source>
         <translation>Podsekundni čas</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2693"/>
+        <location filename="TemplateData.cpp" line="2710"/>
         <source>SubSecTime Original</source>
         <translation>Izvirnik podsekundnega časa</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2694"/>
+        <location filename="TemplateData.cpp" line="2711"/>
         <source>SubSecTime Digitized</source>
         <translation>Podsekundni čas digitaliziran</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2700"/>
+        <location filename="TemplateData.cpp" line="2717"/>
         <source>Latitude ref.</source>
         <translation>Ref. zemljepisne širine</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2702"/>
+        <location filename="TemplateData.cpp" line="2719"/>
         <source>Latitude (value)</source>
         <translation>Zemljepisna širina (vrednost)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2703"/>
+        <location filename="TemplateData.cpp" line="2720"/>
         <source>Longitude ref.</source>
         <translation>Ref. zemljepisne dolžine</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2705"/>
+        <location filename="TemplateData.cpp" line="2722"/>
         <source>Longitude (value)</source>
         <translation>Zemljepisna dolžina (vrednost)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2706"/>
+        <location filename="TemplateData.cpp" line="2723"/>
         <source>Altitude ref.</source>
         <translation>Ref. nadmorske višine.</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2707"/>
+        <location filename="TemplateData.cpp" line="2724"/>
         <source>Altitude</source>
         <translation>Nadmorska višina</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2708"/>
+        <location filename="TemplateData.cpp" line="2725"/>
         <source>Direction ref.</source>
         <translation>Ref. smeri</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2709"/>
+        <location filename="TemplateData.cpp" line="2726"/>
         <source>Direction</source>
         <translation>Smer</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2710"/>
+        <location filename="TemplateData.cpp" line="2727"/>
         <source>Location Code</source>
         <translation>Koda lokacije</translation>
     </message>
@@ -18438,9 +18510,8 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="25"/>
         <location filename="IptcHelper.cpp" line="18"/>
-        <location filename="ItemModel.cpp" line="1095"/>
-        <location filename="SearchField.cpp" line="48"/>
-        <location filename="TemplateData.cpp" line="2715"/>
+        <location filename="SearchField.cpp" line="52"/>
+        <location filename="TemplateData.cpp" line="2732"/>
         <source>Caption</source>
         <translation>Zaglavje</translation>
     </message>
@@ -18448,11 +18519,10 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <location filename="EditXMPWidget.cpp" line="116"/>
         <location filename="InfoIPTCView.cpp" line="27"/>
         <location filename="IptcHelper.cpp" line="20"/>
-        <location filename="ItemModel.cpp" line="1097"/>
-        <location filename="SearchField.cpp" line="49"/>
-        <location filename="SearchField.cpp" line="102"/>
-        <location filename="TemplateData.cpp" line="2716"/>
-        <location filename="TemplateData.cpp" line="2769"/>
+        <location filename="SearchField.cpp" line="53"/>
+        <location filename="SearchField.cpp" line="110"/>
+        <location filename="TemplateData.cpp" line="2733"/>
+        <location filename="TemplateData.cpp" line="2786"/>
         <source>Caption writer</source>
         <translation>Avtor</translation>
     </message>
@@ -18460,11 +18530,10 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <location filename="EditXMPWidget.cpp" line="132"/>
         <location filename="InfoIPTCView.cpp" line="28"/>
         <location filename="IptcHelper.cpp" line="21"/>
-        <location filename="ItemModel.cpp" line="1099"/>
-        <location filename="SearchField.cpp" line="50"/>
-        <location filename="SearchField.cpp" line="106"/>
-        <location filename="TemplateData.cpp" line="2717"/>
-        <location filename="TemplateData.cpp" line="2773"/>
+        <location filename="SearchField.cpp" line="54"/>
+        <location filename="SearchField.cpp" line="114"/>
+        <location filename="TemplateData.cpp" line="2734"/>
+        <location filename="TemplateData.cpp" line="2790"/>
         <source>Headline</source>
         <translation>Naslov</translation>
     </message>
@@ -18472,15 +18541,13 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <location filename="EditXMPWidget.cpp" line="122"/>
         <location filename="InfoIPTCView.cpp" line="34"/>
         <location filename="IptcHelper.cpp" line="24"/>
-        <location filename="ItemModel.cpp" line="1101"/>
-        <location filename="SearchField.cpp" line="52"/>
-        <location filename="TemplateData.cpp" line="2723"/>
+        <location filename="SearchField.cpp" line="56"/>
+        <location filename="TemplateData.cpp" line="2740"/>
         <source>Keywords</source>
         <translation>Ključne besede</translation>
     </message>
     <message>
         <location filename="IptcHelper.cpp" line="25"/>
-        <location filename="ItemModel.cpp" line="1103"/>
         <source>Categories</source>
         <translation>Razredi</translation>
     </message>
@@ -18502,28 +18569,25 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="42"/>
         <location filename="IptcHelper.cpp" line="28"/>
-        <location filename="ItemModel.cpp" line="1105"/>
-        <location filename="SearchField.cpp" line="56"/>
-        <location filename="TemplateData.cpp" line="2731"/>
+        <location filename="SearchField.cpp" line="60"/>
+        <location filename="TemplateData.cpp" line="2748"/>
         <source>Byline</source>
         <translation>Avtor</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="43"/>
         <location filename="IptcHelper.cpp" line="29"/>
-        <location filename="ItemModel.cpp" line="1107"/>
-        <location filename="SearchField.cpp" line="57"/>
-        <location filename="TemplateData.cpp" line="2732"/>
+        <location filename="SearchField.cpp" line="61"/>
+        <location filename="TemplateData.cpp" line="2749"/>
         <source>Byline title</source>
         <translation>Naslov avtorja</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="130"/>
-        <location filename="ItemModel.cpp" line="1109"/>
-        <location filename="SearchField.cpp" line="58"/>
-        <location filename="SearchField.cpp" line="105"/>
-        <location filename="TemplateData.cpp" line="2733"/>
-        <location filename="TemplateData.cpp" line="2772"/>
+        <location filename="SearchField.cpp" line="62"/>
+        <location filename="SearchField.cpp" line="113"/>
+        <location filename="TemplateData.cpp" line="2750"/>
+        <location filename="TemplateData.cpp" line="2789"/>
         <source>Credit</source>
         <translation>Zasluga</translation>
     </message>
@@ -18531,22 +18595,20 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <location filename="EditXMPWidget.cpp" line="131"/>
         <location filename="InfoIPTCView.cpp" line="45"/>
         <location filename="IptcHelper.cpp" line="31"/>
-        <location filename="ItemModel.cpp" line="1111"/>
-        <location filename="SearchField.cpp" line="59"/>
-        <location filename="SearchField.cpp" line="108"/>
-        <location filename="TemplateData.cpp" line="2734"/>
-        <location filename="TemplateData.cpp" line="2775"/>
+        <location filename="SearchField.cpp" line="63"/>
+        <location filename="SearchField.cpp" line="116"/>
+        <location filename="TemplateData.cpp" line="2751"/>
+        <location filename="TemplateData.cpp" line="2792"/>
         <source>Source</source>
         <translation>Vir</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="41"/>
         <location filename="IptcHelper.cpp" line="32"/>
-        <location filename="ItemModel.cpp" line="1113"/>
-        <location filename="SearchField.cpp" line="55"/>
-        <location filename="SearchField.cpp" line="98"/>
-        <location filename="TemplateData.cpp" line="2730"/>
-        <location filename="TemplateData.cpp" line="2765"/>
+        <location filename="SearchField.cpp" line="59"/>
+        <location filename="SearchField.cpp" line="106"/>
+        <location filename="TemplateData.cpp" line="2747"/>
+        <location filename="TemplateData.cpp" line="2782"/>
         <source>Copyright</source>
         <translation>Copyright</translation>
     </message>
@@ -18563,9 +18625,8 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="73"/>
         <location filename="IptcHelper.cpp" line="33"/>
-        <location filename="ItemModel.cpp" line="1115"/>
-        <location filename="SearchField.cpp" line="74"/>
-        <location filename="TemplateData.cpp" line="2757"/>
+        <location filename="SearchField.cpp" line="78"/>
+        <location filename="TemplateData.cpp" line="2774"/>
         <source>Contact</source>
         <translation>Stik</translation>
     </message>
@@ -18575,19 +18636,18 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <location filename="EditXMPWidget.cpp" line="184"/>
         <location filename="InfoIPTCView.cpp" line="61"/>
         <location filename="IptcHelper.cpp" line="44"/>
-        <location filename="ItemModel.cpp" line="1117"/>
-        <location filename="SearchField.cpp" line="68"/>
-        <location filename="SearchField.cpp" line="103"/>
-        <location filename="SearchField.cpp" line="118"/>
-        <location filename="TemplateData.cpp" line="2751"/>
-        <location filename="TemplateData.cpp" line="2770"/>
+        <location filename="SearchField.cpp" line="72"/>
+        <location filename="SearchField.cpp" line="111"/>
+        <location filename="SearchField.cpp" line="126"/>
+        <location filename="TemplateData.cpp" line="2768"/>
+        <location filename="TemplateData.cpp" line="2787"/>
         <source>City</source>
         <translation>Mesto</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="74"/>
-        <location filename="SearchField.cpp" line="75"/>
-        <location filename="TemplateData.cpp" line="2758"/>
+        <location filename="SearchField.cpp" line="79"/>
+        <location filename="TemplateData.cpp" line="2775"/>
         <source>Content location</source>
         <translation>Lokacija</translation>
     </message>
@@ -18595,12 +18655,11 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <location filename="EditXMPWidget.cpp" line="127"/>
         <location filename="EditXMPWidget.cpp" line="168"/>
         <location filename="EditXMPWidget.cpp" line="183"/>
-        <location filename="ItemModel.cpp" line="1121"/>
-        <location filename="SearchField.cpp" line="70"/>
-        <location filename="SearchField.cpp" line="109"/>
-        <location filename="SearchField.cpp" line="119"/>
-        <location filename="TemplateData.cpp" line="2753"/>
-        <location filename="TemplateData.cpp" line="2776"/>
+        <location filename="SearchField.cpp" line="74"/>
+        <location filename="SearchField.cpp" line="117"/>
+        <location filename="SearchField.cpp" line="127"/>
+        <location filename="TemplateData.cpp" line="2770"/>
+        <location filename="TemplateData.cpp" line="2793"/>
         <source>State</source>
         <translation>Država</translation>
     </message>
@@ -18610,12 +18669,11 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <location filename="EditXMPWidget.cpp" line="185"/>
         <location filename="InfoIPTCView.cpp" line="64"/>
         <location filename="IptcHelper.cpp" line="47"/>
-        <location filename="ItemModel.cpp" line="1123"/>
-        <location filename="SearchField.cpp" line="71"/>
-        <location filename="SearchField.cpp" line="104"/>
-        <location filename="SearchField.cpp" line="121"/>
-        <location filename="TemplateData.cpp" line="2754"/>
+        <location filename="SearchField.cpp" line="75"/>
+        <location filename="SearchField.cpp" line="112"/>
+        <location filename="SearchField.cpp" line="129"/>
         <location filename="TemplateData.cpp" line="2771"/>
+        <location filename="TemplateData.cpp" line="2788"/>
         <source>Country</source>
         <translation>Država</translation>
     </message>
@@ -18628,23 +18686,23 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="29"/>
         <location filename="IptcHelper.cpp" line="22"/>
-        <location filename="SearchField.cpp" line="51"/>
-        <location filename="TemplateData.cpp" line="2718"/>
+        <location filename="SearchField.cpp" line="55"/>
+        <location filename="TemplateData.cpp" line="2735"/>
         <source>Special instructions</source>
         <translation>Posebna navodila</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="35"/>
-        <location filename="SearchField.cpp" line="53"/>
-        <location filename="TemplateData.cpp" line="2724"/>
+        <location filename="SearchField.cpp" line="57"/>
+        <location filename="TemplateData.cpp" line="2741"/>
         <source>Category</source>
         <translation>Razred</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="36"/>
         <location filename="IptcHelper.cpp" line="26"/>
-        <location filename="SearchField.cpp" line="54"/>
-        <location filename="TemplateData.cpp" line="2725"/>
+        <location filename="SearchField.cpp" line="58"/>
+        <location filename="TemplateData.cpp" line="2742"/>
         <source>Supplemental categories</source>
         <translation>Dodatni razredi</translation>
     </message>
@@ -18657,24 +18715,24 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="50"/>
         <location filename="IptcHelper.cpp" line="35"/>
-        <location filename="SearchField.cpp" line="60"/>
-        <location filename="TemplateData.cpp" line="2739"/>
+        <location filename="SearchField.cpp" line="64"/>
+        <location filename="TemplateData.cpp" line="2756"/>
         <source>Edit status</source>
         <translation>Status urejanja</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="51"/>
         <location filename="IptcHelper.cpp" line="38"/>
-        <location filename="SearchField.cpp" line="63"/>
-        <location filename="TemplateData.cpp" line="2742"/>
+        <location filename="SearchField.cpp" line="67"/>
+        <location filename="TemplateData.cpp" line="2759"/>
         <source>Job ID</source>
         <translation>ID posla</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="52"/>
         <location filename="IptcHelper.cpp" line="39"/>
-        <location filename="SearchField.cpp" line="64"/>
-        <location filename="TemplateData.cpp" line="2743"/>
+        <location filename="SearchField.cpp" line="68"/>
+        <location filename="TemplateData.cpp" line="2760"/>
         <source>Program</source>
         <translation>Program</translation>
     </message>
@@ -18687,8 +18745,8 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="54"/>
         <location filename="IptcHelper.cpp" line="36"/>
-        <location filename="SearchField.cpp" line="61"/>
-        <location filename="TemplateData.cpp" line="2740"/>
+        <location filename="SearchField.cpp" line="65"/>
+        <location filename="TemplateData.cpp" line="2757"/>
         <source>Priority</source>
         <translation>Prednost</translation>
     </message>
@@ -18707,9 +18765,9 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="65"/>
         <location filename="IptcHelper.cpp" line="48"/>
-        <location filename="SearchField.cpp" line="72"/>
-        <location filename="SearchField.cpp" line="116"/>
-        <location filename="TemplateData.cpp" line="2755"/>
+        <location filename="SearchField.cpp" line="76"/>
+        <location filename="SearchField.cpp" line="124"/>
+        <location filename="TemplateData.cpp" line="2772"/>
         <source>Country code</source>
         <translation>Koda države</translation>
     </message>
@@ -18720,8 +18778,8 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="67"/>
-        <location filename="SearchField.cpp" line="66"/>
-        <location filename="TemplateData.cpp" line="2749"/>
+        <location filename="SearchField.cpp" line="70"/>
+        <location filename="TemplateData.cpp" line="2766"/>
         <source>Created date</source>
         <translation>Datum nastanka</translation>
     </message>
@@ -18732,8 +18790,8 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="69"/>
-        <location filename="SearchField.cpp" line="67"/>
-        <location filename="TemplateData.cpp" line="2750"/>
+        <location filename="SearchField.cpp" line="71"/>
+        <location filename="TemplateData.cpp" line="2767"/>
         <source>Released date</source>
         <translation>Datum izdaje</translation>
     </message>
@@ -18746,10 +18804,9 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <location filename="EditXMPWidget.cpp" line="182"/>
         <location filename="InfoIPTCView.cpp" line="62"/>
         <location filename="IptcHelper.cpp" line="45"/>
-        <location filename="ItemModel.cpp" line="1119"/>
-        <location filename="SearchField.cpp" line="69"/>
-        <location filename="SearchField.cpp" line="115"/>
-        <location filename="TemplateData.cpp" line="2752"/>
+        <location filename="SearchField.cpp" line="73"/>
+        <location filename="SearchField.cpp" line="123"/>
+        <location filename="TemplateData.cpp" line="2769"/>
         <source>Location</source>
         <translation>Lokacija</translation>
     </message>
@@ -18759,118 +18816,118 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <translation>Drugo</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="62"/>
-        <location filename="TemplateData.cpp" line="2741"/>
+        <location filename="SearchField.cpp" line="66"/>
+        <location filename="TemplateData.cpp" line="2758"/>
         <source>Cycle</source>
         <translation>Okrožje</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="73"/>
-        <location filename="TemplateData.cpp" line="2756"/>
+        <location filename="SearchField.cpp" line="77"/>
+        <location filename="TemplateData.cpp" line="2773"/>
         <source>Original trans. ref.</source>
         <translation>Izvorna ref. pren.</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="96"/>
-        <location filename="TemplateData.cpp" line="2763"/>
+        <location filename="SearchField.cpp" line="104"/>
+        <location filename="TemplateData.cpp" line="2780"/>
         <source>Creator</source>
         <translation>Avtor</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="110"/>
+        <location filename="SearchField.cpp" line="118"/>
         <source>Modify Date</source>
         <translation>Datum spremembe</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="111"/>
+        <location filename="SearchField.cpp" line="119"/>
         <source>Create Date</source>
         <translation>Datum ustvarjanja</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="112"/>
+        <location filename="SearchField.cpp" line="120"/>
         <source>Hierarchical Subject</source>
         <translation>Hierarhični subjekt</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="129"/>
+        <location filename="SearchField.cpp" line="137"/>
         <source>Custom field 1</source>
         <translation>Polje po meri 1</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="130"/>
+        <location filename="SearchField.cpp" line="138"/>
         <source>Custom field 2</source>
         <translation>Polje po meri 2</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="131"/>
+        <location filename="SearchField.cpp" line="139"/>
         <source>Custom field 3</source>
         <translation>Polje po meri 3</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="132"/>
+        <location filename="SearchField.cpp" line="140"/>
         <source>Custom field 4</source>
         <translation>Polje po meri 4</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="133"/>
+        <location filename="SearchField.cpp" line="141"/>
         <source>Custom field 5</source>
         <translation>Polje po meri 5</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="134"/>
+        <location filename="SearchField.cpp" line="142"/>
         <source>Custom field 6</source>
         <translation>Polje po meri 6</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="135"/>
+        <location filename="SearchField.cpp" line="143"/>
         <source>Custom field 7</source>
         <translation>Polje po meri 7</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="136"/>
+        <location filename="SearchField.cpp" line="144"/>
         <source>Custom field 8</source>
         <translation>Polje po meri 8</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="137"/>
+        <location filename="SearchField.cpp" line="145"/>
         <source>Custom field 9</source>
         <translation>Polje po meri 9</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="138"/>
+        <location filename="SearchField.cpp" line="146"/>
         <source>Custom field 10</source>
         <translation>Polje po meri 10</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="114"/>
-        <location filename="SearchField.cpp" line="97"/>
-        <location filename="TemplateData.cpp" line="2764"/>
+        <location filename="SearchField.cpp" line="105"/>
+        <location filename="TemplateData.cpp" line="2781"/>
         <source>Description</source>
         <translation>Opis</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="99"/>
-        <location filename="TemplateData.cpp" line="2766"/>
+        <location filename="SearchField.cpp" line="107"/>
+        <location filename="TemplateData.cpp" line="2783"/>
         <source>Subject</source>
         <translation>Predmet</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="100"/>
-        <location filename="TemplateData.cpp" line="2767"/>
+        <location filename="SearchField.cpp" line="108"/>
+        <location filename="TemplateData.cpp" line="2784"/>
         <source>Title</source>
         <translation>Naslov</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="113"/>
-        <location filename="SearchField.cpp" line="101"/>
-        <location filename="TemplateData.cpp" line="2768"/>
+        <location filename="SearchField.cpp" line="109"/>
+        <location filename="TemplateData.cpp" line="2785"/>
         <source>Authors position</source>
         <translation>Pozicija avtorja</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="133"/>
-        <location filename="SearchField.cpp" line="107"/>
-        <location filename="TemplateData.cpp" line="2774"/>
+        <location filename="SearchField.cpp" line="115"/>
+        <location filename="TemplateData.cpp" line="2791"/>
         <source>Instructions</source>
         <translation>Navodila</translation>
     </message>
@@ -18878,9 +18935,8 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <location filename="EditXMPWidget.cpp" line="111"/>
         <location filename="InfoIPTCView.cpp" line="60"/>
         <location filename="IptcHelper.cpp" line="50"/>
-        <location filename="ItemModel.cpp" line="1125"/>
-        <location filename="SearchField.cpp" line="65"/>
-        <location filename="TemplateData.cpp" line="2748"/>
+        <location filename="SearchField.cpp" line="69"/>
+        <location filename="TemplateData.cpp" line="2765"/>
         <source>Document title</source>
         <translation>Naslov dokumenta</translation>
     </message>
@@ -18896,7 +18952,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="118"/>
-        <location filename="SearchField.cpp" line="114"/>
+        <location filename="SearchField.cpp" line="122"/>
         <source>Copyright info URL</source>
         <translation>URL informacij o avtorskih pravicah</translation>
     </message>
@@ -18917,19 +18973,19 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="134"/>
-        <location filename="SearchField.cpp" line="113"/>
+        <location filename="SearchField.cpp" line="121"/>
         <source>Transmission reference</source>
         <translation>Sklic na prenos</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="166"/>
-        <location filename="SearchField.cpp" line="117"/>
+        <location filename="SearchField.cpp" line="125"/>
         <source>Address</source>
         <translation>Naslov</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="169"/>
-        <location filename="SearchField.cpp" line="120"/>
+        <location filename="SearchField.cpp" line="128"/>
         <source>ZIP code</source>
         <translation>Poštna številka</translation>
     </message>
@@ -18939,19 +18995,19 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <translation>Telefonska številka</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="122"/>
+        <location filename="SearchField.cpp" line="130"/>
         <source>Telephon number</source>
         <translation>Telefonska številka</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="172"/>
-        <location filename="SearchField.cpp" line="123"/>
+        <location filename="SearchField.cpp" line="131"/>
         <source>Email</source>
         <translation>E-naslov</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="173"/>
-        <location filename="SearchField.cpp" line="124"/>
+        <location filename="SearchField.cpp" line="132"/>
         <source>Web site</source>
         <translation>Spletna stran</translation>
     </message>
@@ -18962,25 +19018,25 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="177"/>
-        <location filename="SearchField.cpp" line="125"/>
+        <location filename="SearchField.cpp" line="133"/>
         <source>Person in image</source>
         <translation>Oseba na sliki</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="178"/>
-        <location filename="SearchField.cpp" line="126"/>
+        <location filename="SearchField.cpp" line="134"/>
         <source>Name of organization represented</source>
         <translation>Ime zastopane organizacije</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="179"/>
-        <location filename="SearchField.cpp" line="127"/>
+        <location filename="SearchField.cpp" line="135"/>
         <source>Code of organization represented</source>
         <translation>Kodeks zastopane organizacije</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="180"/>
-        <location filename="SearchField.cpp" line="128"/>
+        <location filename="SearchField.cpp" line="136"/>
         <source>Event</source>
         <translation>Dogodek</translation>
     </message>
@@ -19204,52 +19260,52 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
 <context>
     <name>ItemModel</name>
     <message>
-        <location filename="ItemModel.cpp" line="1025"/>
+        <location filename="ItemModel.cpp" line="1027"/>
         <source>No.</source>
         <translation>Št.</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1027"/>
+        <location filename="ItemModel.cpp" line="1029"/>
         <source>Name</source>
         <translation>Ime</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1029"/>
+        <location filename="ItemModel.cpp" line="1031"/>
         <source>Size</source>
         <translation>Velikost</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1031"/>
+        <location filename="ItemModel.cpp" line="1033"/>
         <source>Info</source>
         <translation>Info</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1033"/>
+        <location filename="ItemModel.cpp" line="1035"/>
         <source>Modified date</source>
         <translation>Spremenjen datum</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1035"/>
+        <location filename="ItemModel.cpp" line="1037"/>
         <source>Created date</source>
         <translation>Datum nastanka</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1037"/>
+        <location filename="ItemModel.cpp" line="1039"/>
         <source>EXIF Date Taken</source>
         <translation>EXIF datum posnetka</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1039"/>
+        <location filename="ItemModel.cpp" line="1041"/>
         <source>EXIF Date Modified</source>
         <translation>EXIF datum spremembe</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1045"/>
+        <location filename="ItemModel.cpp" line="1047"/>
         <source>Type</source>
         <translation>Vrsta</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="5117"/>
+        <location filename="ItemModel.cpp" line="5126"/>
         <source>New Folder %1</source>
         <translation>Nova mapa %1</translation>
     </message>
@@ -19658,12 +19714,12 @@ Do you want to continue?</oldsource>
 <context>
     <name>MenuBrowser</name>
     <message>
-        <location filename="BrowserWindow.cpp" line="4454"/>
+        <location filename="BrowserWindow.cpp" line="4445"/>
         <source>New Folder</source>
         <translation>Nova mapa</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4466"/>
+        <location filename="BrowserWindow.cpp" line="4457"/>
         <source>Rename</source>
         <translation>Preimenuj</translation>
     </message>
@@ -19846,234 +19902,254 @@ Do you want to continue?</oldsource>
         <translation>Barvna oznaka</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="64"/>
+        <location filename="BrowserMenu.h" line="63"/>
         <source>Ascending</source>
         <translation>Naraščajoče</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="65"/>
+        <location filename="BrowserMenu.h" line="64"/>
         <source>Descending</source>
         <translation>Padajoče</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="67"/>
+        <location filename="BrowserMenu.h" line="66"/>
         <source>Name - numeric order</source>
         <translation>Ime - številčni vrstni red</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="68"/>
+        <location filename="BrowserMenu.h" line="67"/>
         <source>Name - normal order</source>
         <translation>Ime - običajni vrstni red</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="69"/>
+        <location filename="BrowserMenu.h" line="68"/>
         <source>Name - alphabetic order</source>
         <translation>Ime - abecedni vrstni red</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="77"/>
+        <location filename="BrowserMenu.h" line="76"/>
         <source>Images</source>
         <translation>Slike</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="79"/>
+        <location filename="BrowserMenu.h" line="78"/>
         <source>Videos</source>
         <translation>Video posnetki</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="81"/>
+        <location filename="BrowserMenu.h" line="80"/>
         <source>Sounds</source>
         <translation>Zvoki</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="82"/>
+        <location filename="BrowserMenu.h" line="81"/>
         <source>Archives</source>
         <translation>Arhivi</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="83"/>
-        <location filename="BrowserMenu.h" line="112"/>
+        <location filename="BrowserMenu.h" line="82"/>
+        <location filename="BrowserMenu.h" line="111"/>
         <source>All</source>
         <translation>Vse</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="84"/>
+        <location filename="BrowserMenu.h" line="83"/>
         <source>Checked file(s)</source>
         <oldsource>Tagged file(s)</oldsource>
         <translation>Preverjena datoteka(e)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="85"/>
+        <location filename="BrowserMenu.h" line="84"/>
         <source>Unchecked file(s)</source>
         <oldsource>Untagged file(s)</oldsource>
         <translation>Nepreverjena datoteka(e)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="322"/>
+        <location filename="BrowserMenu.h" line="321"/>
         <source>Map</source>
         <translation>Zemljevid</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="454"/>
+        <location filename="BrowserMenu.h" line="460"/>
         <source>Navigate to</source>
         <translation>Pojdi na</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="457"/>
+        <location filename="BrowserMenu.h" line="463"/>
         <source>Check/Uncheck</source>
         <translation>Označi/Odznači</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="471"/>
-        <location filename="BrowserMenu.h" line="472"/>
-        <location filename="BrowserMenu.h" line="473"/>
-        <location filename="BrowserMenu.h" line="474"/>
-        <location filename="BrowserMenu.h" line="475"/>
-        <location filename="BrowserMenu.h" line="476"/>
+        <location filename="BrowserMenu.h" line="477"/>
+        <location filename="BrowserMenu.h" line="478"/>
+        <location filename="BrowserMenu.h" line="479"/>
+        <location filename="BrowserMenu.h" line="480"/>
+        <location filename="BrowserMenu.h" line="481"/>
+        <location filename="BrowserMenu.h" line="482"/>
         <source>##rating## (go to next image)</source>
         <oldsource>Excellent (go to next image)</oldsource>
         <translation>##rating## (pojdi na naslednjo sliko)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="489"/>
+        <location filename="BrowserMenu.h" line="495"/>
         <source>##label## (go to next image)</source>
         <translation>##label## (pojdi na naslednjo sliko)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="507"/>
+        <location filename="BrowserMenu.h" line="513"/>
         <source>Check</source>
         <translation>Preveri</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="508"/>
+        <location filename="BrowserMenu.h" line="514"/>
         <source>Set Rating</source>
         <translation>Nastavi oceno</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="509"/>
+        <location filename="BrowserMenu.h" line="515"/>
         <source>Set Color label</source>
         <translation>Nastavi barvno oznako</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="510"/>
+        <location filename="BrowserMenu.h" line="516"/>
         <source>Set Category</source>
         <translation>Nastavi kategorijo</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="511"/>
+        <location filename="BrowserMenu.h" line="517"/>
         <source>Add to album</source>
         <translation>Dodaj v album</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="514"/>
+        <location filename="BrowserMenu.h" line="520"/>
         <source>Remove from this album</source>
         <translation>Odstrani iz tega albuma</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="515"/>
+        <location filename="BrowserMenu.h" line="521"/>
         <source>Remove from all albums</source>
         <translation>Odstrani iz vseh albumov</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="517"/>
+        <location filename="BrowserMenu.h" line="523"/>
         <source>View as Thumbnails</source>
         <oldsource>Views as Thumbnails</oldsource>
         <translation>Prikaži kot sličice</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="518"/>
+        <location filename="BrowserMenu.h" line="524"/>
         <source>View as Thumbnails+Filename</source>
         <oldsource>Views as Thumbnails+Filename</oldsource>
         <translation>Prikaži kot sličice+ime datoteke</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="519"/>
+        <location filename="BrowserMenu.h" line="525"/>
         <source>View as Thumbnails+Labels</source>
         <oldsource>Views as Thumbnails+Labels</oldsource>
         <translation>Prikaži kot sličice+oznake</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="520"/>
+        <location filename="BrowserMenu.h" line="526"/>
         <source>View as Thumbnails+Details</source>
         <oldsource>Views as Thumbnails+Details</oldsource>
         <translation>Prikaži kot sličice+podrobnosti</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="521"/>
+        <location filename="BrowserMenu.h" line="527"/>
         <source>View as Icons</source>
         <oldsource>Views as Icons</oldsource>
         <translation>Prikaži kot ikone</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="522"/>
+        <location filename="BrowserMenu.h" line="528"/>
         <source>View as List</source>
         <oldsource>Views as List</oldsource>
         <translation>Prikaži kot seznam</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="523"/>
+        <location filename="BrowserMenu.h" line="529"/>
         <source>View as Details</source>
         <oldsource>Views as Details</oldsource>
         <translation>Prikaži kot podrobnosti</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="525"/>
+        <location filename="BrowserMenu.h" line="531"/>
         <source>Show hidden files</source>
         <translation>Prikaži skrite datoteke</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="534"/>
+        <location filename="BrowserMenu.h" line="540"/>
         <source>Show title of panels</source>
         <translation>Prikaži naslove panelov</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="540"/>
+        <location filename="BrowserMenu.h" line="546"/>
         <source>Show files in subfolders</source>
         <translation>Pokaži datoteke v podmapah</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="545"/>
+        <location filename="BrowserMenu.h" line="551"/>
         <source>Open in file manager</source>
         <translation>Odpri v upravitelju datotek</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="563"/>
+        <location filename="BrowserMenu.h" line="569"/>
         <source>Info panels</source>
         <translation>Info paneli</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="585"/>
+        <source>Load...</source>
+        <translation type="unfinished">Naloži...</translation>
+    </message>
+    <message>
+        <location filename="BrowserMenu.h" line="586"/>
+        <source>Save...</source>
+        <translation type="unfinished">Shrani...</translation>
+    </message>
+    <message>
+        <location filename="BrowserMenu.h" line="587"/>
+        <source>Unload all</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="BrowserMenu.h" line="589"/>
+        <source>Session</source>
+        <translation type="unfinished">Seja</translation>
+    </message>
+    <message>
+        <location filename="BrowserMenu.h" line="596"/>
         <source>Open GPS location in</source>
         <translation>Odpri GPS lokacijo v</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="593"/>
+        <location filename="BrowserMenu.h" line="604"/>
         <source>Edit EXIF...</source>
         <translation>Uredi EXIF...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="599"/>
+        <location filename="BrowserMenu.h" line="610"/>
         <source>Add/Replace metadata...</source>
         <translation>Dodaj/zamenjaj metapodatke...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="646"/>
+        <location filename="BrowserMenu.h" line="657"/>
         <source>Show channel</source>
         <translation>Prikaži kanal</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="659"/>
+        <location filename="BrowserMenu.h" line="670"/>
         <source>Switch panel</source>
         <oldsource>Switch panel...</oldsource>
         <translation>Preklopi panel</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="667"/>
+        <location filename="BrowserMenu.h" line="678"/>
         <source>Paste as image</source>
         <translation>Prilepi kot sliko</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="671"/>
+        <location filename="BrowserMenu.h" line="682"/>
         <source>Acquire (TWAIN)</source>
         <translation>Pridobi (TWAIN)</translation>
     </message>
@@ -20088,311 +20164,311 @@ Do you want to continue?</oldsource>
         <translation>Slabo</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="242"/>
+        <location filename="BrowserMenu.h" line="241"/>
         <source>Restore layout D</source>
         <translation>Obnovi postavitev D</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="248"/>
+        <location filename="BrowserMenu.h" line="247"/>
         <source>Save layout D</source>
         <translation>Shrani postavitev D</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="249"/>
+        <location filename="BrowserMenu.h" line="248"/>
         <source>Save layout E</source>
         <translation>Shrani postavitev E</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="426"/>
+        <location filename="BrowserMenu.h" line="432"/>
         <source>Selected path(s)</source>
         <translation>Izbrana pot(i)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="427"/>
+        <location filename="BrowserMenu.h" line="433"/>
         <source>Selected filename(s)</source>
         <translation>Izbrano ime datotek(e)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="428"/>
+        <location filename="BrowserMenu.h" line="434"/>
         <source>Selected filename(s) and path(s)</source>
         <translation>Izbrano ime datotek(e) in pot(i)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="456"/>
+        <location filename="BrowserMenu.h" line="462"/>
         <source>Show header</source>
         <translation>Prikaži glavo</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="512"/>
+        <location filename="BrowserMenu.h" line="518"/>
         <source>Remove from category</source>
         <translation>Odstrani iz razreda</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="513"/>
+        <location filename="BrowserMenu.h" line="519"/>
         <source>Remove from all categories</source>
         <translation>Odstrani iz vseh razredov</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="527"/>
+        <location filename="BrowserMenu.h" line="533"/>
         <source>Back</source>
         <translation>Nazaj</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="528"/>
+        <location filename="BrowserMenu.h" line="534"/>
         <source>Forward</source>
         <oldsource>forward</oldsource>
         <translation>Naprej</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="531"/>
+        <location filename="BrowserMenu.h" line="537"/>
         <source>Filelist toolbar</source>
         <translation>Orodna vrstica seznama datotek</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="551"/>
+        <location filename="BrowserMenu.h" line="557"/>
         <source>Preview as tab</source>
         <translation>Predogled kot zavihek</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="559"/>
+        <location filename="BrowserMenu.h" line="565"/>
         <source>Add to favorites...</source>
         <translation>Dodaj med priljubljene...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="561"/>
+        <location filename="BrowserMenu.h" line="567"/>
         <source>Thumbnails view only</source>
         <translation>Samo prikaz sličic</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="566"/>
+        <location filename="BrowserMenu.h" line="572"/>
         <source>Rotate 90° right</source>
         <translation>Zasukaj za 90° v desno</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="567"/>
+        <location filename="BrowserMenu.h" line="573"/>
         <source>Rotate 90° left</source>
         <translation>Zasukaj za 90° v levo</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="568"/>
+        <location filename="BrowserMenu.h" line="574"/>
         <source>Rotate 180°</source>
         <translation>Zasuk za 180°</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="573"/>
+        <location filename="BrowserMenu.h" line="579"/>
         <source>Rotate based on EXIF orientation field</source>
         <translation>Rotacija na temelju usmerjevalnega polja EXIF</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="574"/>
+        <location filename="BrowserMenu.h" line="580"/>
         <source>Reset EXIF orientation field</source>
         <translation>Ponastavi polje za usmerjanje EXIF</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="590"/>
+        <location filename="BrowserMenu.h" line="601"/>
         <source>Edit IPTC...</source>
         <translation>Uredi IPTC...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="591"/>
+        <location filename="BrowserMenu.h" line="602"/>
         <source>Edit XMP...</source>
         <translation>Uredi XMP...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="601"/>
+        <location filename="BrowserMenu.h" line="612"/>
         <source>EXIF Thumbnail</source>
         <translation>EXIF sličica</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="602"/>
+        <location filename="BrowserMenu.h" line="613"/>
         <source>Convert into</source>
         <translation>Pretvori v</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="604"/>
+        <location filename="BrowserMenu.h" line="615"/>
         <source>Send by FTP...</source>
         <translation>Pošlji po FTP...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="605"/>
+        <location filename="BrowserMenu.h" line="616"/>
         <source>Upload on web...</source>
         <translation>Prenesi na splet...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="606"/>
+        <location filename="BrowserMenu.h" line="617"/>
         <source>File listing...</source>
         <translation>Seznam datotek...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="607"/>
+        <location filename="BrowserMenu.h" line="618"/>
         <source>Archive...</source>
         <translation>Arhiv...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="608"/>
+        <location filename="BrowserMenu.h" line="619"/>
         <source>Send by email...</source>
         <translation>Pošlji po e-pošti...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="609"/>
+        <location filename="BrowserMenu.h" line="620"/>
         <source>Set as wallpaper...</source>
         <translation>Nastavi za ozadje...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="610"/>
+        <location filename="BrowserMenu.h" line="621"/>
         <source>Print...</source>
         <translation>Natisni...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="612"/>
+        <location filename="BrowserMenu.h" line="623"/>
         <source>Properties...</source>
         <translation>Lastnosti...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="616"/>
+        <location filename="BrowserMenu.h" line="627"/>
         <source>Multi-page file...</source>
         <translation>Večstranska datoteka...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="617"/>
+        <location filename="BrowserMenu.h" line="628"/>
         <source>Join images...</source>
         <translation>Pridruži slike...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="618"/>
+        <location filename="BrowserMenu.h" line="629"/>
         <source>Contact sheet...</source>
         <translation>List stika...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="619"/>
+        <location filename="BrowserMenu.h" line="630"/>
         <source>Slideshow...</source>
         <translation>Diaprojekcija...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="620"/>
+        <location filename="BrowserMenu.h" line="631"/>
         <source>Split image(s)...</source>
         <translation>Razdelitev slik(e)...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="621"/>
+        <location filename="BrowserMenu.h" line="632"/>
         <source>Banner...</source>
         <translation>Pasica...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="622"/>
+        <location filename="BrowserMenu.h" line="633"/>
         <source>New image...</source>
         <translation>Nova slika...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="623"/>
+        <location filename="BrowserMenu.h" line="634"/>
         <source>Video thumbnails gallery...</source>
         <translation>Galerija sličic video posnetkov...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="637"/>
+        <location filename="BrowserMenu.h" line="648"/>
         <source>Draw as tiled</source>
         <translation>Nariši kot ploščice</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="21"/>
         <location filename="DlgSettingsView.cpp" line="270"/>
-        <location filename="BrowserMenu.h" line="641"/>
+        <location filename="BrowserMenu.h" line="652"/>
         <source>Fit image to window, small only</source>
         <translation>Prilagodi sliko oknu, samo manjše</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="650"/>
+        <location filename="BrowserMenu.h" line="661"/>
         <source>Copy to clipboard</source>
         <translation>Kopiraj v odložišče</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="651"/>
+        <location filename="BrowserMenu.h" line="662"/>
         <source>File operations</source>
         <translation>Operacije datoteke</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="658"/>
+        <location filename="BrowserMenu.h" line="669"/>
         <source>Category Search</source>
         <translation>Iskanje razreda</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="660"/>
+        <location filename="BrowserMenu.h" line="671"/>
         <source>Path focus</source>
         <oldsource>Path focus...</oldsource>
         <translation>Fokus na pot</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="661"/>
+        <location filename="BrowserMenu.h" line="672"/>
         <source>Filter by All</source>
         <translation>Filtriraj glede na vse</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="663"/>
+        <location filename="BrowserMenu.h" line="674"/>
         <source>Edit face tag...</source>
         <translation>Uredi oznako obraza...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="666"/>
+        <location filename="BrowserMenu.h" line="677"/>
         <source>Capture...</source>
         <translation>Zajemi...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="668"/>
+        <location filename="BrowserMenu.h" line="679"/>
         <source>Empty tab</source>
         <oldsource>Empty tab...</oldsource>
         <translation>Prazen zavihek</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="670"/>
+        <location filename="BrowserMenu.h" line="681"/>
         <source>Select TWAIN source...</source>
         <translation>Izberi vir TWAIN...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="811"/>
+        <location filename="BrowserMenu.h" line="823"/>
         <source>&amp;File</source>
         <translation>&amp;Datoteka</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="812"/>
+        <location filename="BrowserMenu.h" line="824"/>
         <source>&amp;Edit</source>
         <translation>&amp;Uredi</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="813"/>
+        <location filename="BrowserMenu.h" line="825"/>
         <source>&amp;View</source>
         <translation>&amp;Pogled</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="814"/>
+        <location filename="BrowserMenu.h" line="826"/>
         <source>Meta&amp;data</source>
         <translation>Meta&amp;podatki</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="815"/>
+        <location filename="BrowserMenu.h" line="827"/>
         <source>&amp;Tools</source>
         <translation>&amp;Orodja</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="672"/>
+        <location filename="BrowserMenu.h" line="683"/>
         <source>Acquire into (TWAIN)...</source>
         <translation>Pridobi v (TWAIN)...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="816"/>
+        <location filename="BrowserMenu.h" line="828"/>
         <source>C&amp;reate</source>
         <oldsource>&amp;Create</oldsource>
         <translation>U&amp;stvari</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="817"/>
+        <location filename="BrowserMenu.h" line="829"/>
         <source>&amp;Help</source>
         <translation>&amp;Pomoč</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="7"/>
-        <location filename="BrowserMenu.h" line="62"/>
-        <location filename="BrowserMenu.h" line="86"/>
-        <location filename="BrowserMenu.h" line="126"/>
+        <location filename="BrowserMenu.h" line="61"/>
+        <location filename="BrowserMenu.h" line="85"/>
+        <location filename="BrowserMenu.h" line="125"/>
         <source>Custom</source>
         <translation>Po meri</translation>
     </message>
@@ -20418,13 +20494,13 @@ Do you want to continue?</oldsource>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="486"/>
-        <location filename="BrowserMenu.h" line="111"/>
-        <location filename="BrowserMenu.h" line="487"/>
+        <location filename="BrowserMenu.h" line="110"/>
+        <location filename="BrowserMenu.h" line="493"/>
         <source>Uncolored</source>
         <translation>Brez barve</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="546"/>
+        <location filename="BrowserMenu.h" line="552"/>
         <source>Open all selected</source>
         <oldsource>Open in Finder</oldsource>
         <translation>Odpri vse izbrane</translation>
@@ -20432,42 +20508,42 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="DlgSettingsView.cpp" line="19"/>
         <location filename="DlgSettingsView.cpp" line="268"/>
-        <location filename="BrowserMenu.h" line="638"/>
+        <location filename="BrowserMenu.h" line="649"/>
         <source>No fit</source>
         <translation>Brez prilagoditve</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="20"/>
         <location filename="DlgSettingsView.cpp" line="269"/>
-        <location filename="BrowserMenu.h" line="639"/>
+        <location filename="BrowserMenu.h" line="650"/>
         <source>Fit image to window</source>
         <translation>Prilagodi sliko oknu</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="22"/>
         <location filename="DlgSettingsView.cpp" line="271"/>
-        <location filename="BrowserMenu.h" line="640"/>
+        <location filename="BrowserMenu.h" line="651"/>
         <source>Fit image to window, large only</source>
         <translation>Prilagodi sliko oknu, samo večje</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="23"/>
         <location filename="DlgSettingsView.cpp" line="272"/>
-        <location filename="BrowserMenu.h" line="642"/>
+        <location filename="BrowserMenu.h" line="653"/>
         <source>Fit image to window width</source>
         <translation>Prilagodi sliko na širino okna</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="24"/>
         <location filename="DlgSettingsView.cpp" line="273"/>
-        <location filename="BrowserMenu.h" line="643"/>
+        <location filename="BrowserMenu.h" line="654"/>
         <source>Fit image to window height</source>
         <translation>Prilagodi sliko na višino okna</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="25"/>
         <location filename="DlgSettingsView.cpp" line="274"/>
-        <location filename="BrowserMenu.h" line="644"/>
+        <location filename="BrowserMenu.h" line="655"/>
         <source>Fit image to window width or height</source>
         <translation>Prilagodi sliko na širino ali višino okna</translation>
     </message>
@@ -20477,49 +20553,49 @@ Do you want to continue?</oldsource>
         <translation>Prilagodi sliko namizju</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="239"/>
+        <location filename="BrowserMenu.h" line="238"/>
         <source>Restore layout A</source>
         <oldsource>Restore layout 3</oldsource>
         <translation>Obnovi postavitev A</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="240"/>
+        <location filename="BrowserMenu.h" line="239"/>
         <source>Restore layout B</source>
         <oldsource>Restore layout 4</oldsource>
         <translation>Obnovi postavitev B</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="241"/>
+        <location filename="BrowserMenu.h" line="240"/>
         <source>Restore layout C</source>
         <oldsource>Restore layout 5</oldsource>
         <translation>Obnovi postavitev C</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="243"/>
+        <location filename="BrowserMenu.h" line="242"/>
         <source>Restore layout E</source>
         <oldsource>Save layout 1</oldsource>
         <translation>Obnovi postavitev E</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="245"/>
+        <location filename="BrowserMenu.h" line="244"/>
         <source>Save layout A</source>
         <oldsource>Save layout 3</oldsource>
         <translation>Shrani postavitev A</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="246"/>
+        <location filename="BrowserMenu.h" line="245"/>
         <source>Save layout B</source>
         <oldsource>Save layout 4</oldsource>
         <translation>Shrani postavitev B</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="247"/>
+        <location filename="BrowserMenu.h" line="246"/>
         <source>Save layout C</source>
         <oldsource>Save layout 5</oldsource>
         <translation>Shrani postavitev C</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="300"/>
+        <location filename="BrowserMenu.h" line="299"/>
         <source>Folder</source>
         <translation>Mapa</translation>
     </message>
@@ -20529,26 +20605,26 @@ Do you want to continue?</oldsource>
         <translation>Svetlo</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="301"/>
-        <location filename="BrowserMenu.h" line="323"/>
+        <location filename="BrowserMenu.h" line="300"/>
+        <location filename="BrowserMenu.h" line="322"/>
         <source>Favorites</source>
         <translation>Priljubljene</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="303"/>
+        <location filename="BrowserMenu.h" line="302"/>
         <source>Categories</source>
         <translation>Razredi</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="306"/>
-        <location filename="BrowserMenu.h" line="316"/>
-        <location filename="BrowserMenu.h" line="557"/>
-        <location filename="BrowserMenu.h" line="648"/>
+        <location filename="BrowserMenu.h" line="305"/>
+        <location filename="BrowserMenu.h" line="315"/>
+        <location filename="BrowserMenu.h" line="563"/>
+        <location filename="BrowserMenu.h" line="659"/>
         <source>Preview</source>
         <translation>Predogled</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="317"/>
+        <location filename="BrowserMenu.h" line="316"/>
         <source>Histogram</source>
         <translation>Histogram</translation>
     </message>
@@ -20574,186 +20650,186 @@ Do you want to continue?</oldsource>
         <translation>EXIF datum spremembe</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="78"/>
+        <location filename="BrowserMenu.h" line="77"/>
         <source>Images (+folders)</source>
         <translation>Slike (+mape)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="80"/>
+        <location filename="BrowserMenu.h" line="79"/>
         <source>Videos (+folders)</source>
         <translation>Videi (+mape)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="302"/>
+        <location filename="BrowserMenu.h" line="301"/>
         <source>Catalog Filter</source>
         <oldsource>Categories Filter</oldsource>
         <translation>Katalog Filter</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="304"/>
+        <location filename="BrowserMenu.h" line="303"/>
         <source>Category Sets</source>
         <translation>Nabori razredov</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="305"/>
+        <location filename="BrowserMenu.h" line="304"/>
         <source>Information</source>
         <translation>Informacije</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="415"/>
+        <location filename="BrowserMenu.h" line="421"/>
         <source>Open with</source>
         <oldsource>Open with test</oldsource>
         <translation>Odpri z</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="416"/>
+        <location filename="BrowserMenu.h" line="422"/>
         <source>Recent files</source>
         <translation>Nedavne datoteke</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="554"/>
+        <location filename="BrowserMenu.h" line="560"/>
         <source>Show source panels</source>
         <translation>Pokaži izvorne panele</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="562"/>
+        <location filename="BrowserMenu.h" line="568"/>
         <source>Panels</source>
         <translation>Paneli</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="419"/>
+        <location filename="BrowserMenu.h" line="425"/>
         <source>Open...</source>
         <translation>Odpri...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="420"/>
+        <location filename="BrowserMenu.h" line="426"/>
         <source>Open file list...</source>
         <translation>Odpri seznam datotek...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4457"/>
-        <location filename="BrowserMenu.h" line="422"/>
+        <location filename="BrowserWindow.cpp" line="4448"/>
+        <location filename="BrowserMenu.h" line="428"/>
         <source>Cut</source>
         <translation>Izreži</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4459"/>
-        <location filename="BrowserMenu.h" line="424"/>
+        <location filename="BrowserWindow.cpp" line="4450"/>
+        <location filename="BrowserMenu.h" line="430"/>
         <source>Copy</source>
         <translation>Kopiraj</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="425"/>
+        <location filename="BrowserMenu.h" line="431"/>
         <source>Image</source>
         <translation>Slika</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4461"/>
-        <location filename="BrowserMenu.h" line="429"/>
+        <location filename="BrowserWindow.cpp" line="4452"/>
+        <location filename="BrowserMenu.h" line="435"/>
         <source>Paste</source>
         <translation>Prilepi</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="432"/>
+        <location filename="BrowserMenu.h" line="438"/>
         <source>Select all</source>
         <translation>Izberi vse</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="433"/>
+        <location filename="BrowserMenu.h" line="439"/>
         <source>Select none</source>
         <translation>Brez izbire</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="434"/>
+        <location filename="BrowserMenu.h" line="440"/>
         <source>Invert selection</source>
         <translation>Obrni izbor</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="435"/>
+        <location filename="BrowserMenu.h" line="441"/>
         <source>Select all images</source>
         <translation>Izberi vse slike</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="436"/>
+        <location filename="BrowserMenu.h" line="442"/>
         <source>Select all files</source>
         <translation>Izberi vse datoteke</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="437"/>
+        <location filename="BrowserMenu.h" line="443"/>
         <source>Select checked files</source>
         <oldsource>Select tagged files</oldsource>
         <translation>Izberi označene datoteke</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4469"/>
-        <location filename="BrowserMenu.h" line="439"/>
+        <location filename="BrowserWindow.cpp" line="4460"/>
+        <location filename="BrowserMenu.h" line="445"/>
         <source>Copy to...</source>
         <translation>Kopiraj v...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4471"/>
-        <location filename="BrowserMenu.h" line="440"/>
+        <location filename="BrowserWindow.cpp" line="4462"/>
+        <location filename="BrowserMenu.h" line="446"/>
         <source>Move to...</source>
         <translation>Premakni v...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4464"/>
-        <location filename="BrowserMenu.h" line="441"/>
+        <location filename="BrowserWindow.cpp" line="4455"/>
+        <location filename="BrowserMenu.h" line="447"/>
         <source>Delete</source>
         <translation>Izbriši</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="442"/>
+        <location filename="BrowserMenu.h" line="448"/>
         <source>Rename...</source>
         <translation>Preimenuj...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="443"/>
+        <location filename="BrowserMenu.h" line="449"/>
         <source>New folder</source>
         <translation>Nova mapa</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="445"/>
+        <location filename="BrowserMenu.h" line="451"/>
         <source>Previous file</source>
         <translation>Predhodna datoteka</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="446"/>
+        <location filename="BrowserMenu.h" line="452"/>
         <source>Next file</source>
         <translation>Naslednja datoteka</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="447"/>
+        <location filename="BrowserMenu.h" line="453"/>
         <source>First file</source>
         <translation>Prva datoteka</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="448"/>
+        <location filename="BrowserMenu.h" line="454"/>
         <source>Last file</source>
         <translation>Zadnja datoteka</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="449"/>
+        <location filename="BrowserMenu.h" line="455"/>
         <source>Previous page</source>
         <translation>Predhodna stran</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="450"/>
+        <location filename="BrowserMenu.h" line="456"/>
         <source>Next page</source>
         <translation>Naslednja stran</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="451"/>
+        <location filename="BrowserMenu.h" line="457"/>
         <source>First page</source>
         <translation>Prva stran</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="452"/>
+        <location filename="BrowserMenu.h" line="458"/>
         <source>Last page</source>
         <translation>Zadnja stran</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="453"/>
+        <location filename="BrowserMenu.h" line="459"/>
         <source>Page</source>
         <translation>Stran</translation>
     </message>
@@ -20765,151 +20841,151 @@ Do you want to continue?</oldsource>
         <translation>Označi/Odznači trenutno</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="458"/>
+        <location filename="BrowserMenu.h" line="464"/>
         <source>Invert</source>
         <translation>Preobrni</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="459"/>
+        <location filename="BrowserMenu.h" line="465"/>
         <source>Uncheck all</source>
         <oldsource>Untag all</oldsource>
         <translation>Odznači vse</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="460"/>
+        <location filename="BrowserMenu.h" line="466"/>
         <source>Clear all checks</source>
         <oldsource>Clear all tags</oldsource>
         <translation>Počisti vse oznake</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="461"/>
+        <location filename="BrowserMenu.h" line="467"/>
         <source>Show checked files</source>
         <oldsource>Show tagged files</oldsource>
         <translation>Prikaži označene datoteke</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="462"/>
+        <location filename="BrowserMenu.h" line="468"/>
         <source>Show checkbox</source>
         <oldsource>Show tag box</oldsource>
         <translation>Pokaži polje oznake</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="502"/>
-        <location filename="BrowserMenu.h" line="649"/>
+        <location filename="BrowserMenu.h" line="508"/>
+        <location filename="BrowserMenu.h" line="660"/>
         <source>Layout</source>
         <translation>Postavitev</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="503"/>
+        <location filename="BrowserMenu.h" line="509"/>
         <source>View as</source>
         <oldsource>Preview pane</oldsource>
         <translation>Pogled kot</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="504"/>
+        <location filename="BrowserMenu.h" line="510"/>
         <source>Sort by</source>
         <translation>Razvrsti po</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="505"/>
+        <location filename="BrowserMenu.h" line="511"/>
         <source>Filter by</source>
         <translation>Filtriraj z</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="506"/>
+        <location filename="BrowserMenu.h" line="512"/>
         <source>Thumbnails size</source>
         <translation>Velikost sličic</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="529"/>
+        <location filename="BrowserMenu.h" line="535"/>
         <source>Up</source>
         <translation>Gor</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="532"/>
+        <location filename="BrowserMenu.h" line="538"/>
         <source>Toolbar</source>
         <oldsource>Use toolbar</oldsource>
         <translation>Orodna vrstica</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="533"/>
+        <location filename="BrowserMenu.h" line="539"/>
         <source>Status bar</source>
         <oldsource>Use statusbar</oldsource>
         <translation>Statusna vrstica</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="536"/>
+        <location filename="BrowserMenu.h" line="542"/>
         <source>Rebuild thumbnails</source>
         <translation>Ponovno ustvari sličice</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="537"/>
+        <location filename="BrowserMenu.h" line="543"/>
         <source>Update catalog from files</source>
         <translation>Posodobi katalog iz datotek</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="538"/>
+        <location filename="BrowserMenu.h" line="544"/>
         <source>Update files from catalog</source>
         <translation>Posodobi datoteke iz kataloga</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="539"/>
+        <location filename="BrowserMenu.h" line="545"/>
         <source>Refresh</source>
         <translation>Osveži</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="541"/>
+        <location filename="BrowserMenu.h" line="547"/>
         <source>Stop</source>
         <translation>Ustavi</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="543"/>
+        <location filename="BrowserMenu.h" line="549"/>
         <source>Open</source>
         <translation>Odpri</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="544"/>
+        <location filename="BrowserMenu.h" line="550"/>
         <source>Open containing folder</source>
         <translation>Odpri vsebino mape</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="577"/>
+        <location filename="BrowserMenu.h" line="583"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
         <translation>Transformacije brez izgub (JPEG)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="587"/>
+        <location filename="BrowserMenu.h" line="598"/>
         <source>Find similar files...</source>
         <translation>Najdi podobne datoteke...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="603"/>
+        <location filename="BrowserMenu.h" line="614"/>
         <source>Batch convert...</source>
         <translation>Pretvorba v paketu...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="633"/>
+        <location filename="BrowserMenu.h" line="644"/>
         <source>Show alpha</source>
         <translation>Pokaži alfa</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="634"/>
+        <location filename="BrowserMenu.h" line="645"/>
         <source>Show red</source>
         <translation>Prikaži rdečo</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="635"/>
+        <location filename="BrowserMenu.h" line="646"/>
         <source>Show green</source>
         <translation>Prikaži zeleno</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="636"/>
+        <location filename="BrowserMenu.h" line="647"/>
         <source>Show blue</source>
         <translation>Prikaži modro</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="548"/>
+        <location filename="BrowserMenu.h" line="554"/>
         <source>Fullscreen</source>
         <translation>Celozaslonski način</translation>
     </message>
@@ -20919,166 +20995,166 @@ Do you want to continue?</oldsource>
         <translation>Spremenjeni datum</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="549"/>
+        <location filename="BrowserMenu.h" line="555"/>
         <source>Show</source>
         <translation>Pokaži</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="550"/>
+        <location filename="BrowserMenu.h" line="556"/>
         <source>Use tabs</source>
         <translation>Uporabi zavihke</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="556"/>
+        <location filename="BrowserMenu.h" line="562"/>
         <source>Vertical tabs</source>
         <translation>Navpični zavihki</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="570"/>
+        <location filename="BrowserMenu.h" line="576"/>
         <source>Rotate 90° right (lossless)</source>
         <translation>Zasukaj za 90° v desno (brez izgub)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="571"/>
+        <location filename="BrowserMenu.h" line="577"/>
         <source>Rotate 90° left (lossless)</source>
         <translation>Zasukaj za 90° v levo (brez izgub)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="572"/>
+        <location filename="BrowserMenu.h" line="578"/>
         <source>Rotate 180° (lossless)</source>
         <translation>Zasukaj za 180° (brez izgub)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="575"/>
+        <location filename="BrowserMenu.h" line="581"/>
         <source>Flip horizontally (lossless)</source>
         <translation>Zrcali vodoravno (brez izgub)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="576"/>
+        <location filename="BrowserMenu.h" line="582"/>
         <source>Flip vertically (lossless)</source>
         <translation>Zrcali navpično (brez izgub)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="579"/>
+        <location filename="BrowserMenu.h" line="590"/>
         <source>Batch rename...</source>
         <translation>Preimenovanje v paketu...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="580"/>
+        <location filename="BrowserMenu.h" line="591"/>
         <source>Compare...</source>
         <oldsource>Compare</oldsource>
         <translation>Primerjaj...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="586"/>
+        <location filename="BrowserMenu.h" line="597"/>
         <source>Search...</source>
         <translation>Najdi...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="588"/>
+        <location filename="BrowserMenu.h" line="599"/>
         <source>Edit comment...</source>
         <oldsource>Set comment...</oldsource>
         <translation>Uredi komentar...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="589"/>
+        <location filename="BrowserMenu.h" line="600"/>
         <source>Change timestamp...</source>
         <translation>Spremeni časovno oznako...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="592"/>
+        <location filename="BrowserMenu.h" line="603"/>
         <source>Edit GPS...</source>
         <translation>Uredi GPS...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="594"/>
-        <location filename="BrowserMenu.h" line="653"/>
+        <location filename="BrowserMenu.h" line="605"/>
+        <location filename="BrowserMenu.h" line="664"/>
         <source>Export...</source>
         <translation>Izvoz...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="595"/>
+        <location filename="BrowserMenu.h" line="606"/>
         <source>Clean...</source>
         <translation>Počisti...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="596"/>
+        <location filename="BrowserMenu.h" line="607"/>
         <source>EXIF thumbnail - Rotate 90° left</source>
         <translation>EXIF sličica - Zasukaj za 90° v levo</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="597"/>
+        <location filename="BrowserMenu.h" line="608"/>
         <source>EXIF thumbnail - Rotate 90° right</source>
         <translation>EXIF sličica - Zasukaj za 90° v desno</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="598"/>
+        <location filename="BrowserMenu.h" line="609"/>
         <source>EXIF thumbnail - Rebuild</source>
         <translation>EXIF sličica - Obnovi</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="600"/>
+        <location filename="BrowserMenu.h" line="611"/>
         <source>Metadata</source>
         <translation>Metapodatki</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="615"/>
+        <location filename="BrowserMenu.h" line="626"/>
         <source>Import and sort...</source>
         <translation>Uvozi in razvrsti...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="626"/>
+        <location filename="BrowserMenu.h" line="637"/>
         <source>Real size</source>
         <translation>Realna velikost</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="627"/>
+        <location filename="BrowserMenu.h" line="638"/>
         <source>100%</source>
         <translation>100%</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="628"/>
+        <location filename="BrowserMenu.h" line="639"/>
         <source>Zoom in</source>
         <translation>Povečaj</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="629"/>
+        <location filename="BrowserMenu.h" line="640"/>
         <source>Zoom out</source>
         <translation>Pomanjšaj</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="630"/>
+        <location filename="BrowserMenu.h" line="641"/>
         <source>Lock zoom</source>
         <translation>Zakleni povečavo</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="631"/>
+        <location filename="BrowserMenu.h" line="642"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
         <translation>Uporabi indeks transparence (≤ 8bits)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="632"/>
+        <location filename="BrowserMenu.h" line="643"/>
         <source>Use alpha channel</source>
         <translation>Uporabi alfa kanal</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="647"/>
+        <location filename="BrowserMenu.h" line="658"/>
         <source>Zoom</source>
         <translation>Povečava</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="654"/>
+        <location filename="BrowserMenu.h" line="665"/>
         <source>Clear &amp;&amp; Import...</source>
         <translation>Počisti &amp;&amp; Uvozi...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="655"/>
+        <location filename="BrowserMenu.h" line="666"/>
         <source>Catalog</source>
         <translation>Katalog</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="657"/>
+        <location filename="BrowserMenu.h" line="668"/>
         <source>Quick Filter</source>
         <translation>Hitri filter</translation>
     </message>
@@ -21187,128 +21263,128 @@ Do you want to continue?</oldsource>
 <context>
     <name>MenuTemplate</name>
     <message>
-        <location filename="TemplateData.cpp" line="2797"/>
+        <location filename="TemplateData.cpp" line="2814"/>
         <source>Date format variables</source>
         <translation>Spremenljivke zapisa datuma</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2556"/>
+        <location filename="TemplateData.cpp" line="2573"/>
         <source>Y - Year</source>
         <translation>Y - Leto</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2557"/>
+        <location filename="TemplateData.cpp" line="2574"/>
         <source>y - Year without century (00-99)</source>
         <translation>y - Leto brez stoletja (00-99)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2558"/>
+        <location filename="TemplateData.cpp" line="2575"/>
         <source>m - Month as decimal (01-12)</source>
         <translation>m - Mesec decimalno (01-12)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2559"/>
+        <location filename="TemplateData.cpp" line="2576"/>
         <source>d - Day as decimal (01-31)</source>
         <translation>d - Dan decimalno (01-31)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2561"/>
+        <location filename="TemplateData.cpp" line="2578"/>
         <source>H - Hour (01-24)</source>
         <translation>H - Ura (01-24)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2562"/>
+        <location filename="TemplateData.cpp" line="2579"/>
         <source>M - Minute (00-59)</source>
         <translation>M - Minuta (00-59)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2563"/>
+        <location filename="TemplateData.cpp" line="2580"/>
         <source>S - Second (00-59)</source>
         <translation>S - Sekunda (00-59)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2565"/>
+        <location filename="TemplateData.cpp" line="2582"/>
         <source>B - Month name (eg. february)</source>
         <translation>B - Ime meseca (npr. februar)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2566"/>
+        <location filename="TemplateData.cpp" line="2583"/>
         <source>b - Abbreviated month name (eg. feb)</source>
         <translation>b - Skrajšano ime meseca (npr. feb)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2567"/>
+        <location filename="TemplateData.cpp" line="2584"/>
         <source>A - Weekday name (eg. wednesday)</source>
         <translation>A - Ime dneva v tednu (npr. sreda)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2568"/>
+        <location filename="TemplateData.cpp" line="2585"/>
         <source>a - Abbreviated weekday name (eg. wed)</source>
         <translation>a - Skrajšano ime dneva v tednu (npr. sre)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2796"/>
+        <location filename="TemplateData.cpp" line="2813"/>
         <source># - Numeric enumerator</source>
         <oldsource>#: Numeric enumerator</oldsource>
         <translation># - Numerični popisovalec</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2814"/>
+        <location filename="TemplateData.cpp" line="2831"/>
         <source>Extra</source>
         <translation>Dodatno</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2816"/>
+        <location filename="TemplateData.cpp" line="2833"/>
         <source>Image</source>
         <translation>Slika</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2817"/>
+        <location filename="TemplateData.cpp" line="2834"/>
         <source>Saved Image</source>
         <translation>Shranjena slika</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2818"/>
+        <location filename="TemplateData.cpp" line="2835"/>
         <source>EXIF - Camera</source>
         <translation>EXIF - Kamera</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2819"/>
+        <location filename="TemplateData.cpp" line="2836"/>
         <source>EXIF - Image</source>
         <translation>EXIF - Slika</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2820"/>
+        <location filename="TemplateData.cpp" line="2837"/>
         <source>EXIF - GPS</source>
         <translation>EXIF - GPS</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2821"/>
+        <location filename="TemplateData.cpp" line="2838"/>
         <source>IPTC - Caption</source>
         <translation>IPTC - Zaglavje</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2822"/>
+        <location filename="TemplateData.cpp" line="2839"/>
         <source>IPTC - Keywords&amp;&amp;Categories</source>
         <translation>IPTC - Ključne besede&amp;&amp;Razredi</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2826"/>
+        <location filename="TemplateData.cpp" line="2843"/>
         <source>XMP</source>
         <translation>XMP</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2823"/>
+        <location filename="TemplateData.cpp" line="2840"/>
         <source>IPTC - Credits</source>
         <translation>IPTC - Zasluge</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2824"/>
+        <location filename="TemplateData.cpp" line="2841"/>
         <source>IPTC - Status</source>
         <translation>IPTC - Status</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2825"/>
+        <location filename="TemplateData.cpp" line="2842"/>
         <source>IPTC - Origin</source>
         <translation>IPTC - Izvor</translation>
     </message>
@@ -22862,7 +22938,7 @@ Do you want to continue?</oldsource>
 <context>
     <name>MyThumbView</name>
     <message>
-        <location filename="MyThumbView.cpp" line="562"/>
+        <location filename="MyThumbView.cpp" line="553"/>
         <source>Size of cached thumbnails is smaller than chosen one. 
 You can change it in Settings › Catalog.</source>
         <oldsource>Size of cached thumbnails is smaller than choosen one. 
@@ -22871,20 +22947,20 @@ You can change it in Settings › Catalog.</oldsource>
 Spremenite ga lahko v Nastavitve › Katalog.</translation>
     </message>
     <message>
-        <location filename="MyThumbView.cpp" line="683"/>
+        <location filename="MyThumbView.cpp" line="688"/>
         <source>Updating catalog, please wait...</source>
         <oldsource>Updating catalog, please wait... </oldsource>
         <translation>Posodobitev kataloga, počakajte trenutek...</translation>
     </message>
     <message>
-        <location filename="MyThumbView.cpp" line="697"/>
+        <location filename="MyThumbView.cpp" line="702"/>
         <source>Updating files, please wait...</source>
         <oldsource>Updating files, please wait... </oldsource>
         <translation>Posodobitev datotek, počakajte trenutek...</translation>
     </message>
     <message numerus="yes">
-        <location filename="MyThumbView.cpp" line="1304"/>
-        <location filename="MyThumbView.cpp" line="1317"/>
+        <location filename="MyThumbView.cpp" line="1333"/>
+        <location filename="MyThumbView.cpp" line="1346"/>
         <source>%n object(s)</source>
         <translation>
             <numerusform>%n postavka</numerusform>
@@ -22894,7 +22970,7 @@ Spremenite ga lahko v Nastavitve › Katalog.</translation>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="MyThumbView.cpp" line="1304"/>
+        <location filename="MyThumbView.cpp" line="1333"/>
         <source>%n object(s) selected [%3 %4]</source>
         <translation>
             <numerusform>%n izbrana postavka [%3 %4]</numerusform>
@@ -22904,7 +22980,7 @@ Spremenite ga lahko v Nastavitve › Katalog.</translation>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="MyThumbView.cpp" line="1315"/>
+        <location filename="MyThumbView.cpp" line="1344"/>
         <source>%n object(s) [%2 %3]</source>
         <oldsource>%1 object(s)</oldsource>
         <translation>
@@ -22915,19 +22991,19 @@ Spremenite ga lahko v Nastavitve › Katalog.</translation>
         </translation>
     </message>
     <message>
-        <location filename="MyThumbView.cpp" line="1357"/>
+        <location filename="MyThumbView.cpp" line="1386"/>
         <source>[Free disk space: %1 %2]</source>
         <translation>[Nezaseden prostor na disku: %1 %2]</translation>
     </message>
     <message>
-        <location filename="MyThumbView.cpp" line="1684"/>
-        <source>All</source>
-        <translation>Vse</translation>
+        <location filename="MyThumbView.cpp" line="1680"/>
+        <source>&lt;Default&gt;</source>
+        <translation type="unfinished">&lt;Privzeto&gt;</translation>
     </message>
     <message>
-        <location filename="MyThumbView.cpp" line="1688"/>
-        <source>None</source>
-        <translation>Brez</translation>
+        <location filename="MyThumbView.cpp" line="1691"/>
+        <source>Customize header...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -23982,7 +24058,7 @@ Spremenite ga lahko v Nastavitve › Katalog.</translation>
 <context>
     <name>Rename</name>
     <message>
-        <location filename="ItemModel.cpp" line="4712"/>
+        <location filename="ItemModel.cpp" line="4721"/>
         <source>An error has occurred during renaming!</source>
         <oldsource>An error occured during renaming!</oldsource>
         <translation>Pri preimenovanju je prišlo do napake!</translation>
@@ -23991,136 +24067,136 @@ Spremenite ga lahko v Nastavitve › Katalog.</translation>
 <context>
     <name>SearchDlg</name>
     <message>
-        <location filename="SearchField.cpp" line="499"/>
-        <location filename="SearchField.cpp" line="701"/>
+        <location filename="SearchField.cpp" line="510"/>
+        <location filename="SearchField.cpp" line="745"/>
         <source>is</source>
         <translation>je</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="500"/>
+        <location filename="SearchField.cpp" line="511"/>
         <source>is not</source>
         <translation>ni</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="501"/>
-        <location filename="SearchField.cpp" line="599"/>
+        <location filename="SearchField.cpp" line="512"/>
+        <location filename="SearchField.cpp" line="643"/>
         <source>is any of</source>
         <translation>je kateri koli od</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="502"/>
-        <location filename="SearchField.cpp" line="600"/>
-        <location filename="SearchField.cpp" line="699"/>
+        <location filename="SearchField.cpp" line="513"/>
+        <location filename="SearchField.cpp" line="644"/>
+        <location filename="SearchField.cpp" line="743"/>
         <source>contains</source>
         <translation>vsebuje</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="503"/>
-        <location filename="SearchField.cpp" line="700"/>
+        <location filename="SearchField.cpp" line="514"/>
+        <location filename="SearchField.cpp" line="744"/>
         <source>does not contain</source>
         <oldsource>does not contains</oldsource>
         <translation>ne vsebuje</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="504"/>
+        <location filename="SearchField.cpp" line="515"/>
         <source>starts with</source>
         <translation>se začne z</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="845"/>
+        <location filename="SearchField.cpp" line="889"/>
         <source>and</source>
         <translation>in</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="941"/>
+        <location filename="SearchField.cpp" line="985"/>
         <source>is before</source>
         <translation>je pred</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="942"/>
+        <location filename="SearchField.cpp" line="986"/>
         <source>is after</source>
         <translation>je po</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="943"/>
+        <location filename="SearchField.cpp" line="987"/>
         <source>is between</source>
         <translation>je med</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="944"/>
+        <location filename="SearchField.cpp" line="988"/>
         <source>is between (today)</source>
         <translation>je med (danes)</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="945"/>
+        <location filename="SearchField.cpp" line="989"/>
         <source>is within the last</source>
         <translation>je v zadnjem</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1034"/>
-        <location filename="SearchField.cpp" line="1163"/>
-        <location filename="SearchField.cpp" line="1222"/>
-        <location filename="SearchField.cpp" line="1291"/>
+        <location filename="SearchField.cpp" line="1078"/>
+        <location filename="SearchField.cpp" line="1207"/>
+        <location filename="SearchField.cpp" line="1266"/>
+        <location filename="SearchField.cpp" line="1335"/>
         <source>is less than</source>
         <translation>je manj kot</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1035"/>
-        <location filename="SearchField.cpp" line="1164"/>
-        <location filename="SearchField.cpp" line="1223"/>
-        <location filename="SearchField.cpp" line="1292"/>
+        <location filename="SearchField.cpp" line="1079"/>
+        <location filename="SearchField.cpp" line="1208"/>
+        <location filename="SearchField.cpp" line="1267"/>
+        <location filename="SearchField.cpp" line="1336"/>
         <source>is less than or equal to</source>
         <translation>je manjša ali enaka</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1036"/>
-        <location filename="SearchField.cpp" line="1165"/>
-        <location filename="SearchField.cpp" line="1224"/>
-        <location filename="SearchField.cpp" line="1293"/>
+        <location filename="SearchField.cpp" line="1080"/>
+        <location filename="SearchField.cpp" line="1209"/>
+        <location filename="SearchField.cpp" line="1268"/>
+        <location filename="SearchField.cpp" line="1337"/>
         <source>equal to</source>
         <translation>enako</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1037"/>
-        <location filename="SearchField.cpp" line="1166"/>
-        <location filename="SearchField.cpp" line="1225"/>
-        <location filename="SearchField.cpp" line="1294"/>
+        <location filename="SearchField.cpp" line="1081"/>
+        <location filename="SearchField.cpp" line="1210"/>
+        <location filename="SearchField.cpp" line="1269"/>
+        <location filename="SearchField.cpp" line="1338"/>
         <source>is greater than</source>
         <translation>je večja od</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1038"/>
-        <location filename="SearchField.cpp" line="1167"/>
-        <location filename="SearchField.cpp" line="1226"/>
-        <location filename="SearchField.cpp" line="1295"/>
+        <location filename="SearchField.cpp" line="1082"/>
+        <location filename="SearchField.cpp" line="1211"/>
+        <location filename="SearchField.cpp" line="1270"/>
+        <location filename="SearchField.cpp" line="1339"/>
         <source>is greater than or equal to</source>
         <translation>je večja ali enaka</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1039"/>
-        <location filename="SearchField.cpp" line="1168"/>
-        <location filename="SearchField.cpp" line="1227"/>
-        <location filename="SearchField.cpp" line="1296"/>
+        <location filename="SearchField.cpp" line="1083"/>
+        <location filename="SearchField.cpp" line="1212"/>
+        <location filename="SearchField.cpp" line="1271"/>
+        <location filename="SearchField.cpp" line="1340"/>
         <source>between</source>
         <translation>med</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1093"/>
+        <location filename="SearchField.cpp" line="1137"/>
         <source>bytes</source>
         <translation>bajtov</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1094"/>
+        <location filename="SearchField.cpp" line="1138"/>
         <source>KiB</source>
         <translation>KiB</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1095"/>
+        <location filename="SearchField.cpp" line="1139"/>
         <source>MiB</source>
         <translation>MiB</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1096"/>
+        <location filename="SearchField.cpp" line="1140"/>
         <source>GiB</source>
         <translation>GiB</translation>
     </message>
@@ -24128,12 +24204,12 @@ Spremenite ga lahko v Nastavitve › Katalog.</translation>
 <context>
     <name>SearchFieldRangeDate</name>
     <message>
-        <location filename="SearchField.cpp" line="937"/>
+        <location filename="SearchField.cpp" line="981"/>
         <source>day(s)</source>
         <translation>dan</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="938"/>
+        <location filename="SearchField.cpp" line="982"/>
         <source>TODAY</source>
         <translation>DANES</translation>
     </message>
@@ -24611,17 +24687,16 @@ Do you want to keep the thumbnails?
         <translation>Aplikacija je posodobljena.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1554"/>
+        <location filename="xnview.cpp" line="1605"/>
         <source>Do you want to save session?</source>
         <translation>Ali želite shraniti sejo?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="3023"/>
-        <source>Catalog and Metadata are disabled - 
-Rating, Tag &amp; Color labels will not be saved.</source>
-        <oldsource>Rating/Tag/Color label can&apos;t be saved if catalog and metadata export are disabled!</oldsource>
-        <translation>Katalog in metapodatki so onemogočeni -
-Oznake z oceno, oznako in barvo ne bodo shranjene.</translation>
+        <location filename="xnview.cpp" line="3076"/>
+        <source>Catalog is disabled
+Metadata (check, ratings/colour labels and other file details)
+will not be saved to the database.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="951"/>
@@ -24639,22 +24714,24 @@ Prosimo, obrnite se na razvijalca.</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="951"/>
+        <location filename="xnview.cpp" line="1411"/>
+        <location filename="xnview.cpp" line="1427"/>
         <source>Session</source>
         <translation>Seja</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1479"/>
+        <location filename="xnview.cpp" line="1530"/>
         <source>Do you want to quit?</source>
         <translation>Ali želite končati?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1555"/>
+        <location filename="xnview.cpp" line="1606"/>
         <source>Saving many tabs may noticeably slow application reopening.</source>
         <oldsource>Saving many tabs may noticeably slow reopening XnView MP</oldsource>
         <translation>Shranjevanje številnih zavihkov lahko opazno upočasni ponovno odpiranje.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1561"/>
+        <location filename="xnview.cpp" line="1612"/>
         <source>Don&apos;t ask again</source>
         <oldsource>Do not ask again</oldsource>
         <translation>Ne sprašuj več</translation>
@@ -24670,7 +24747,7 @@ Prosimo, obrnite se na razvijalca.</translation>
         <translation>Datoteka ni najdena!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1580"/>
+        <location filename="xnview.cpp" line="1631"/>
         <source>Do you want to save this session?</source>
         <translation>Ali želite shraniti to sejo?</translation>
     </message>

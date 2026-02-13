@@ -355,6 +355,13 @@
     </message>
 </context>
 <context>
+    <name>AutoDateTimeEdit</name>
+    <message>
+        <source>Not set</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>AutoHideButton</name>
     <message>
         <source>Pin</source>
@@ -3333,12 +3340,12 @@ Do you want to overwrite it?</source>
 <context>
     <name>DlgConvertAutoDeskew</name>
     <message>
-        <source>Smooth</source>
-        <translation>Suavizar</translation>
-    </message>
-    <message>
         <source>Background color</source>
         <translation>Color de fondo</translation>
+    </message>
+    <message>
+        <source>Use anti-aliasing</source>
+        <translation type="unfinished">Utilizar anti-aliasing</translation>
     </message>
 </context>
 <context>
@@ -5066,10 +5073,6 @@ Do you want to overwrite it?</source>
         <translation>-180°</translation>
     </message>
     <message>
-        <source>Smooth</source>
-        <translation>Suavizar</translation>
-    </message>
-    <message>
         <source>Background color</source>
         <translation>Color de fondo</translation>
     </message>
@@ -5080,6 +5083,10 @@ Do you want to overwrite it?</source>
     <message>
         <source>EXIF Orientation</source>
         <translation>Orientación EXIF</translation>
+    </message>
+    <message>
+        <source>Use anti-aliasing</source>
+        <translation type="unfinished">Utilizar anti-aliasing</translation>
     </message>
 </context>
 <context>
@@ -5707,10 +5714,6 @@ Do you want to overwrite it?</source>
         <translation type="unfinished">Número-F</translation>
     </message>
     <message>
-        <source>f/</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Focal length</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5777,6 +5780,10 @@ Do you want to overwrite it?</source>
     <message>
         <source>Write</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XP Subject</source>
+        <translation type="unfinished">Sujeto XP</translation>
     </message>
 </context>
 <context>
@@ -8827,10 +8834,6 @@ Do you want to remove them?</source>
         <translation>&amp;Explorar...</translation>
     </message>
     <message>
-        <source>Search in Catalog only</source>
-        <translation>Buscar solo en el catálogo</translation>
-    </message>
-    <message>
         <source>Search in subfolders</source>
         <translation>Buscar en subcarpetas</translation>
     </message>
@@ -8845,6 +8848,18 @@ Do you want to remove them?</source>
     <message>
         <source>Save as Smart Album...</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search in</source>
+        <translation type="unfinished">Buscar en</translation>
+    </message>
+    <message>
+        <source>Filesystem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Catalog</source>
+        <translation type="unfinished">Catálogo</translation>
     </message>
 </context>
 <context>
@@ -8944,6 +8959,41 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>The changes will be applied after restarting the application.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>DlgSettingsBrowser</name>
+    <message>
+        <source>Clear All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove all items from the list?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default</source>
+        <translation type="unfinished">Predeterminado</translation>
+    </message>
+    <message>
+        <source>Reset list to default?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expand All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Collapse All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save Preset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preset name:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9108,6 +9158,30 @@ Do you want to remove them?</source>
     <message>
         <source>Clear the list of checked files</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Header</source>
+        <translation type="unfinished">Encabezado</translation>
+    </message>
+    <message>
+        <source>Label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Field</source>
+        <translation type="unfinished">Campo</translation>
+    </message>
+    <message>
+        <source>Clear all</source>
+        <translation type="unfinished">Limpiar todo</translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation type="unfinished">...</translation>
+    </message>
+    <message>
+        <source>&lt;Default&gt;</source>
+        <translation type="unfinished">&lt;Predeterminado&gt;</translation>
     </message>
 </context>
 <context>
@@ -13294,10 +13368,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Fecha de captura</translation>
     </message>
     <message>
-        <source>Tag status</source>
-        <translation>Estado de marca</translation>
-    </message>
-    <message>
         <source>Copyright</source>
         <translation>Derechos de autor</translation>
     </message>
@@ -13491,6 +13561,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check status</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13938,10 +14012,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Latitud de referencia.</translation>
     </message>
     <message>
-        <source>ShutterSpeed</source>
-        <translation>Velocidad obturador</translation>
-    </message>
-    <message>
         <source>XP Comment</source>
         <translation>Comentario XP</translation>
     </message>
@@ -14030,10 +14100,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Posicionamiento-YCbCr</translation>
     </message>
     <message>
-        <source>Exposure Time</source>
-        <translation>Tiempo de exposición</translation>
-    </message>
-    <message>
         <source>Exposure Time (s)</source>
         <translation>Tiempo de exposición (s)</translation>
     </message>
@@ -14108,10 +14174,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Landscape</source>
         <translation type="unfinished">Paisaje</translation>
-    </message>
-    <message>
-        <source>Lens model</source>
-        <translation type="unfinished">Modelo de lente</translation>
     </message>
 </context>
 <context>
@@ -16068,6 +16130,22 @@ Do you want to continue?</source>
         <source>Add/Replace metadata...</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Load...</source>
+        <translation type="unfinished">Cargar...</translation>
+    </message>
+    <message>
+        <source>Save...</source>
+        <translation type="unfinished">Guardar...</translation>
+    </message>
+    <message>
+        <source>Unload all</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Session</source>
+        <translation type="unfinished">Sesión</translation>
+    </message>
 </context>
 <context>
     <name>MenuGlobal</name>
@@ -17452,14 +17530,6 @@ Do you want to continue?</source>
 <context>
     <name>MyThumbView</name>
     <message>
-        <source>All</source>
-        <translation>Todo</translation>
-    </message>
-    <message>
-        <source>None</source>
-        <translation>Ninguno</translation>
-    </message>
-    <message>
         <source>Updating catalog, please wait...</source>
         <translation>Actualizando el catálogo, por favor espere...</translation>
     </message>
@@ -17497,6 +17567,14 @@ Do you want to continue?</source>
 You can change it in Settings › Catalog.</source>
         <translation>El tamaño de las miniaturas en caché es menor que el seleccionado. 
 Puedo cambiarlo en Configuración › Catálogo.</translation>
+    </message>
+    <message>
+        <source>&lt;Default&gt;</source>
+        <translation type="unfinished">&lt;Predeterminado&gt;</translation>
+    </message>
+    <message>
+        <source>Customize header...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18819,12 +18897,6 @@ Do you want to keep the thumbnails?
         <translation>No volver a preguntar</translation>
     </message>
     <message>
-        <source>Catalog and Metadata are disabled - 
-Rating, Tag &amp; Color labels will not be saved.</source>
-        <translation>Catálogo y Metadatos están desactivados - 
-Evaluación, Marcas y Etiquetas de color no se guardarán.</translation>
-    </message>
-    <message>
         <source>Do you want to save session?</source>
         <translation>¿Desea guardar la sesión?</translation>
     </message>
@@ -18840,6 +18912,12 @@ Evaluación, Marcas y Etiquetas de color no se guardarán.</translation>
         <source>There is a problem to update Catalog:
 (Error: % 1)
 Please contact the developer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Catalog is disabled
+Metadata (check, ratings/colour labels and other file details)
+will not be saved to the database.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

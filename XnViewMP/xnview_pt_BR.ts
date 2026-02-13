@@ -355,6 +355,13 @@
     </message>
 </context>
 <context>
+    <name>AutoDateTimeEdit</name>
+    <message>
+        <source>Not set</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>AutoHideButton</name>
     <message>
         <source>Pin</source>
@@ -3337,8 +3344,8 @@ Deseja continuar?</translation>
         <translation>Cor de fundo</translation>
     </message>
     <message>
-        <source>Smooth</source>
-        <translation>Suavizar</translation>
+        <source>Use anti-aliasing</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5050,10 +5057,6 @@ Deseja continuar?</translation>
         <translation>Cor de fundo</translation>
     </message>
     <message>
-        <source>Smooth</source>
-        <translation>Suavizar</translation>
-    </message>
-    <message>
         <source>All</source>
         <translation>Tudo</translation>
     </message>
@@ -5080,6 +5083,10 @@ Deseja continuar?</translation>
     <message>
         <source>Auto crop</source>
         <translation>Recorte automático</translation>
+    </message>
+    <message>
+        <source>Use anti-aliasing</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5707,10 +5714,6 @@ Deseja continuar?</translation>
         <translation type="unfinished">Número F</translation>
     </message>
     <message>
-        <source>f/</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Focal length</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5777,6 +5780,10 @@ Deseja continuar?</translation>
     <message>
         <source>Write</source>
         <translation type="unfinished">Escrita</translation>
+    </message>
+    <message>
+        <source>XP Subject</source>
+        <translation type="unfinished">Assunto de XP</translation>
     </message>
 </context>
 <context>
@@ -8822,10 +8829,6 @@ Deseja removê-los da lista?</translation>
         <translation>Pesquisar nos nomes das pastas</translation>
     </message>
     <message>
-        <source>Search in Catalog only</source>
-        <translation>Pesquisar apenas no Catálogo</translation>
-    </message>
-    <message>
         <source>&amp;Case sensitive</source>
         <translation>Diferen&amp;ciar maiúsculas de minúsculas</translation>
     </message>
@@ -8848,6 +8851,18 @@ Deseja removê-los da lista?</translation>
     <message>
         <source>Save as Smart Album...</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search in</source>
+        <translation type="unfinished">Pesquisar em</translation>
+    </message>
+    <message>
+        <source>Filesystem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Catalog</source>
+        <translation type="unfinished">Catálogo</translation>
     </message>
 </context>
 <context>
@@ -8948,6 +8963,41 @@ Deseja removê-los da lista?</translation>
     <message>
         <source>Restart now</source>
         <translation>Reiniciar agora</translation>
+    </message>
+</context>
+<context>
+    <name>DlgSettingsBrowser</name>
+    <message>
+        <source>Clear All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove all items from the list?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default</source>
+        <translation type="unfinished">Padrão</translation>
+    </message>
+    <message>
+        <source>Reset list to default?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expand All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Collapse All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save Preset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preset name:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9111,6 +9161,30 @@ Deseja removê-los da lista?</translation>
     <message>
         <source>Clear the list of checked files</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Header</source>
+        <translation type="unfinished">Cabeçalho</translation>
+    </message>
+    <message>
+        <source>Label</source>
+        <translation type="unfinished">Rótulo</translation>
+    </message>
+    <message>
+        <source>Field</source>
+        <translation type="unfinished">Campo</translation>
+    </message>
+    <message>
+        <source>Clear all</source>
+        <translation type="unfinished">Limpar tudo</translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation type="unfinished">...</translation>
+    </message>
+    <message>
+        <source>&lt;Default&gt;</source>
+        <translation type="unfinished">&lt;Padrão&gt;</translation>
     </message>
 </context>
 <context>
@@ -13241,10 +13315,6 @@ Deseja excluir o favorito &quot;%1&quot;?</translation>
         <translation>Data atual</translation>
     </message>
     <message>
-        <source>Tag status</source>
-        <translation>Status da etiqueta</translation>
-    </message>
-    <message>
         <source>Rating (number)</source>
         <translation>Avaliação (numeração)</translation>
     </message>
@@ -13500,6 +13570,10 @@ Deseja excluir o favorito &quot;%1&quot;?</translation>
         <source>Check</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Check status</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>InfoCategoryTreeView</name>
@@ -13716,10 +13790,6 @@ Deseja excluir o favorito &quot;%1&quot;?</translation>
     <message>
         <source>ISO</source>
         <translation>ISO</translation>
-    </message>
-    <message>
-        <source>ShutterSpeed</source>
-        <translation>Velocidade do Obturador</translation>
     </message>
     <message>
         <source>Focal Length</source>
@@ -14038,10 +14108,6 @@ Deseja excluir o favorito &quot;%1&quot;?</translation>
         <translation>Código de localização</translation>
     </message>
     <message>
-        <source>Exposure Time</source>
-        <translation>Tempo de Exposição</translation>
-    </message>
-    <message>
         <source>Lens</source>
         <translation>Lente</translation>
     </message>
@@ -14116,10 +14182,6 @@ Deseja excluir o favorito &quot;%1&quot;?</translation>
     <message>
         <source>Landscape</source>
         <translation>Paisagem</translation>
-    </message>
-    <message>
-        <source>Lens model</source>
-        <translation type="unfinished">Modelo da lente</translation>
     </message>
 </context>
 <context>
@@ -16076,6 +16138,22 @@ Deseja continuar?</translation>
         <source>Add/Replace metadata...</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Load...</source>
+        <translation type="unfinished">Carregar...</translation>
+    </message>
+    <message>
+        <source>Save...</source>
+        <translation type="unfinished">Salvar...</translation>
+    </message>
+    <message>
+        <source>Unload all</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Session</source>
+        <translation type="unfinished">Sessão</translation>
+    </message>
 </context>
 <context>
     <name>MenuGlobal</name>
@@ -17486,14 +17564,6 @@ Deseja continuar?</translation>
         <translation>[Espaço livre em disco: %1 %2]</translation>
     </message>
     <message>
-        <source>All</source>
-        <translation>Tudo</translation>
-    </message>
-    <message>
-        <source>None</source>
-        <translation>Nenhum</translation>
-    </message>
-    <message>
         <source>Updating catalog, please wait...</source>
         <translation>Atualizando catálogo. Aguarde...</translation>
     </message>
@@ -17506,6 +17576,14 @@ Deseja continuar?</translation>
 You can change it in Settings › Catalog.</source>
         <translation>O tamanho das miniaturas em cache é menor que o escolhido.
 Você pode alterá-lo em Configurações › Catálogo.</translation>
+    </message>
+    <message>
+        <source>&lt;Default&gt;</source>
+        <translation type="unfinished">&lt;Padrão&gt;</translation>
+    </message>
+    <message>
+        <source>Customize header...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18828,12 +18906,6 @@ Você deseja manter as miniaturas?
         <translation>Não perguntar novamente</translation>
     </message>
     <message>
-        <source>Catalog and Metadata are disabled - 
-Rating, Tag &amp; Color labels will not be saved.</source>
-        <translation>O catálogo e os metadados estão desativados - 
-As avaliações, etiquetas e os rótulos de cor não serão salvos.</translation>
-    </message>
-    <message>
         <source>Do you want to save session?</source>
         <translation>Deseja salvar a sessão?</translation>
     </message>
@@ -18852,6 +18924,12 @@ Please contact the developer.</source>
         <translation>Houve um problema ao atualizar o Catálogo:
 (Erro: %1)
 Entre em contato com o desenvolvedor.</translation>
+    </message>
+    <message>
+        <source>Catalog is disabled
+Metadata (check, ratings/colour labels and other file details)
+will not be saved to the database.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>
