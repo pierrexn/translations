@@ -458,7 +458,7 @@
     <message>
         <location filename="AutoDateTimeEdit.h" line="89"/>
         <source>Not set</source>
-        <translation type="unfinished"></translation>
+        <translation>Не задано</translation>
     </message>
 </context>
 <context>
@@ -4332,7 +4332,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertAutoDeskew.ui" line="47"/>
         <source>Use anti-aliasing</source>
-        <translation type="unfinished"></translation>
+        <translation>Использовать сглаживание</translation>
     </message>
 </context>
 <context>
@@ -6612,7 +6612,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertRotate.ui" line="195"/>
         <source>Use anti-aliasing</source>
-        <translation type="unfinished"></translation>
+        <translation>Использовать сглаживание</translation>
     </message>
     <message>
         <location filename="DlgConvertRotate.ui" line="203"/>
@@ -6802,7 +6802,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertText.ui" line="471"/>
         <source>Use anti-aliasing</source>
         <oldsource>Antialiasing</oldsource>
-        <translation>Сглаживание</translation>
+        <translation>Использовать сглаживание</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="640"/>
@@ -7514,7 +7514,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditEXIF.ui" line="460"/>
         <source>XP Subject</source>
-        <translation type="unfinished">XP Тема</translation>
+        <translation>XP Тема</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="522"/>
@@ -11350,17 +11350,17 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.ui" line="145"/>
         <source>Search in</source>
-        <translation type="unfinished">Искать в</translation>
+        <translation>Искать в</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="153"/>
         <source>Filesystem</source>
-        <translation type="unfinished"></translation>
+        <translation>Файловая система</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="158"/>
         <source>Catalog</source>
-        <translation type="unfinished">Каталог</translation>
+        <translation>Каталог</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="196"/>
@@ -11586,42 +11586,42 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="323"/>
         <source>Clear All</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистить все</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="323"/>
         <source>Remove all items from the list?</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить все элементы из списка?</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="334"/>
         <source>Default</source>
-        <translation type="unfinished">По умолчанию</translation>
+        <translation>По умолчанию</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="334"/>
         <source>Reset list to default?</source>
-        <translation type="unfinished"></translation>
+        <translation>Сбросить до настроек по умолчанию?</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="485"/>
         <source>Expand All</source>
-        <translation type="unfinished"></translation>
+        <translation>Развернуть все</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="490"/>
         <source>Collapse All</source>
-        <translation type="unfinished"></translation>
+        <translation>Свернуть все</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="800"/>
         <source>Save Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить предустановку</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="800"/>
         <source>Preset name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Название предустановки:</translation>
     </message>
 </context>
 <context>
@@ -11701,32 +11701,32 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="498"/>
         <source>Header</source>
-        <translation type="unfinished">Верхний колонтитул</translation>
+        <translation>Заголовок</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="531"/>
         <source>Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Название</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="536"/>
         <source>Field</source>
-        <translation type="unfinished">Поле</translation>
+        <translation>Поле</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="546"/>
         <source>Clear all</source>
-        <translation type="unfinished">Очистить все</translation>
+        <translation>Очистить все</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="648"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="700"/>
         <source>&lt;Default&gt;</source>
-        <translation type="unfinished">&lt;По умолчанию&gt;</translation>
+        <translation>&lt;По умолчанию&gt;</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="291"/>
@@ -17670,7 +17670,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2803"/>
         <source>Check status</source>
-        <translation type="unfinished"></translation>
+        <translation>Состояние метки</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="30"/>
@@ -18781,7 +18781,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoIPTCView.cpp" line="66"/>
         <source>Original tr. ref.</source>
-        <translation>Ссылка на оригинал</translation>
+        <translation>Первоначальный идентификатор передачи</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="67"/>
@@ -18858,7 +18858,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="IptcHelper.cpp" line="51"/>
         <source>Original transmission reference</source>
-        <translation>Ссылка на оригинал</translation>
+        <translation>Первоначальный идентификатор передачи</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="130"/>
@@ -18892,7 +18892,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="SearchField.cpp" line="77"/>
         <location filename="TemplateData.cpp" line="2773"/>
         <source>Original trans. ref.</source>
-        <translation>Ссылка на оригинал</translation>
+        <translation>Первоначальный идентификатор передачи</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="104"/>
@@ -19042,7 +19042,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="EditXMPWidget.cpp" line="134"/>
         <location filename="SearchField.cpp" line="121"/>
         <source>Transmission reference</source>
-        <translation>Ссылка на оригинал</translation>
+        <translation>Идентификатор передачи</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="166"/>
@@ -21002,22 +21002,22 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="585"/>
         <source>Load...</source>
-        <translation type="unfinished">Загрузить...</translation>
+        <translation>Загрузить...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="586"/>
         <source>Save...</source>
-        <translation type="unfinished">Сохранить...</translation>
+        <translation>Сохранить...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="587"/>
         <source>Unload all</source>
-        <translation type="unfinished"></translation>
+        <translation>Выгрузить все</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="589"/>
         <source>Session</source>
-        <translation type="unfinished">Сессия</translation>
+        <translation>Сессия</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="590"/>
@@ -22993,7 +22993,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyTabBar.cpp" line="228"/>
         <source>Tab settings...</source>
-        <translation>Настройки вкладок...</translation>
+        <translation>Настроить вкладки...</translation>
     </message>
     <message>
         <location filename="MyTabBar.cpp" line="230"/>
@@ -23068,12 +23068,12 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="MyThumbView.cpp" line="1680"/>
         <source>&lt;Default&gt;</source>
-        <translation type="unfinished">&lt;По умолчанию&gt;</translation>
+        <translation>&lt;По умолчанию&gt;</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="1691"/>
         <source>Customize header...</source>
-        <translation type="unfinished"></translation>
+        <translation>Настроить заголовок...</translation>
     </message>
 </context>
 <context>
@@ -24768,7 +24768,9 @@ Do you want to keep the thumbnails?
         <source>Catalog is disabled
 Metadata (check, ratings/colour labels and other file details)
 will not be saved to the database.</source>
-        <translation type="unfinished"></translation>
+        <translation>Каталог отключен
+Метаданные (метка, рейтинги/цветовые метки и другие сведения о файле)
+не будут сохраняться в базе данных.</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="951"/>
