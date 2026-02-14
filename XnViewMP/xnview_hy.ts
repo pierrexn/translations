@@ -6878,6 +6878,17 @@ Please try to start with admin rights.</source>
     </message>
 </context>
 <context>
+    <name>DlgHistoryList</name>
+    <message>
+        <source>Save preset</source>
+        <translation type="unfinished">Պահել նախակայումը</translation>
+    </message>
+    <message>
+        <source>Preset name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>DlgHistoryListClass</name>
     <message>
         <source>Name</source>
@@ -9160,10 +9171,6 @@ Do you want to remove them?</source>
         <translation>Մաքրել նշված ֆայլերի ցանկը</translation>
     </message>
     <message>
-        <source>Header</source>
-        <translation type="unfinished">Գլխագիրը</translation>
-    </message>
-    <message>
         <source>Label</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9176,12 +9183,12 @@ Do you want to remove them?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>...</source>
-        <translation type="unfinished">...</translation>
-    </message>
-    <message>
         <source>&lt;Default&gt;</source>
         <translation type="unfinished">&lt;Սկզբնադիր &gt;</translation>
+    </message>
+    <message>
+        <source>Filelist header</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9406,10 +9413,6 @@ Do you want to check for affected entries first?</source>
     <message>
         <source>Base path of files</source>
         <translation>Ֆայլերի հիմնական ուղին</translation>
-    </message>
-    <message>
-        <source>Store Exiftool fields</source>
-        <translation>Պահել Exiftool դաշտերը</translation>
     </message>
     <message>
         <source>Update metadata</source>
@@ -14253,10 +14256,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Նահանգ/Շրջան</translation>
     </message>
     <message>
-        <source>Original trans. ref.</source>
-        <translation>Հղումը սկզբնականին</translation>
-    </message>
-    <message>
         <source>Byline</source>
         <translation>Հեղինակը</translation>
     </message>
@@ -14267,10 +14266,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Job ID</source>
         <translation>Աշխատանքի ID</translation>
-    </message>
-    <message>
-        <source>Original tr. ref.</source>
-        <translation>Հղումը սկզբնականին</translation>
     </message>
     <message>
         <source>Location</source>
@@ -17567,10 +17562,6 @@ Do you want to continue?</source>
 You can change it in Settings › Catalog.</source>
         <translation>Շտեմված մանրապատկերների չափն ավելի փոքր է, քան ընտրվածինը: 
 Կարող եք փոխել այն Կարգավորումներ › Անվանակարգ-ում:</translation>
-    </message>
-    <message>
-        <source>&lt;Default&gt;</source>
-        <translation type="unfinished">&lt;Սկզբնադիր &gt;</translation>
     </message>
     <message>
         <source>Customize header...</source>

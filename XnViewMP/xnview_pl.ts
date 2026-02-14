@@ -8302,52 +8302,52 @@ Spróbuj ponownie, uruchamiając program z prawami administratora.</translation>
         <translation>Lista plików</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.ui" line="20"/>
+        <location filename="DlgFileListing.ui" line="22"/>
         <source>Add column</source>
         <translation>Dodaj kolumnę</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.ui" line="53"/>
+        <location filename="DlgFileListing.ui" line="80"/>
         <source>Format</source>
         <translation>Format</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.ui" line="61"/>
+        <location filename="DlgFileListing.ui" line="88"/>
         <source>Text</source>
         <translation>Tekst</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.ui" line="84"/>
+        <location filename="DlgFileListing.ui" line="111"/>
         <source>Include subfolders</source>
         <translation>Uwzględniaj podfoldery</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.ui" line="91"/>
+        <location filename="DlgFileListing.ui" line="118"/>
         <source>Only image files</source>
         <translation>Tylko pliki obrazów</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.ui" line="98"/>
+        <location filename="DlgFileListing.ui" line="125"/>
         <source>Append to file</source>
         <translation>Dołącz do pliku</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.cpp" line="76"/>
+        <location filename="DlgFileListing.cpp" line="121"/>
         <source>Preview</source>
         <translation>Podgląd</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.cpp" line="78"/>
+        <location filename="DlgFileListing.cpp" line="123"/>
         <source>Copy to Clipboard</source>
         <translation>Kopiuj do schowka</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.cpp" line="81"/>
+        <location filename="DlgFileListing.cpp" line="126"/>
         <source>Save as...</source>
         <translation>Zapisz jako...</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.cpp" line="121"/>
+        <location filename="DlgFileListing.cpp" line="167"/>
         <source>Export file listing</source>
         <translation>Eksportuj listę plików</translation>
     </message>
@@ -8874,6 +8874,19 @@ Spróbuj ponownie, uruchamiając program z prawami administratora.</translation>
         <location filename="DlgGrid.ui" line="362"/>
         <source>Label</source>
         <translation>Etykieta</translation>
+    </message>
+</context>
+<context>
+    <name>DlgHistoryList</name>
+    <message>
+        <location filename="DlgHistoryList.h" line="26"/>
+        <source>Save preset</source>
+        <translation type="unfinished">Zapisz ustawienie</translation>
+    </message>
+    <message>
+        <location filename="DlgHistoryList.h" line="27"/>
+        <source>Preset name:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11526,42 +11539,42 @@ Czy chcesz je usunąć?</translation>
 <context>
     <name>DlgSettingsBrowser</name>
     <message>
-        <location filename="DlgSettingsBrowser.cpp" line="323"/>
+        <location filename="DlgSettingsBrowser.cpp" line="363"/>
         <source>Clear All</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.cpp" line="323"/>
+        <location filename="DlgSettingsBrowser.cpp" line="363"/>
         <source>Remove all items from the list?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.cpp" line="334"/>
+        <location filename="DlgSettingsBrowser.cpp" line="374"/>
         <source>Default</source>
         <translation type="unfinished">Domyślny</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.cpp" line="334"/>
+        <location filename="DlgSettingsBrowser.cpp" line="374"/>
         <source>Reset list to default?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.cpp" line="485"/>
+        <location filename="DlgSettingsBrowser.cpp" line="525"/>
         <source>Expand All</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.cpp" line="490"/>
+        <location filename="DlgSettingsBrowser.cpp" line="530"/>
         <source>Collapse All</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.cpp" line="800"/>
+        <location filename="DlgSettingsBrowser.cpp" line="842"/>
         <source>Save Preset</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.cpp" line="800"/>
+        <location filename="DlgSettingsBrowser.cpp" line="842"/>
         <source>Preset name:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11641,7 +11654,8 @@ Czy chcesz je usunąć?</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="498"/>
-        <source>Header</source>
+        <source>Filelist header</source>
+        <oldsource>Header</oldsource>
         <translation type="unfinished">Nagłówek</translation>
     </message>
     <message>
@@ -11658,11 +11672,6 @@ Czy chcesz je usunąć?</translation>
         <location filename="DlgSettingsBrowser.ui" line="546"/>
         <source>Clear all</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsBrowser.ui" line="648"/>
-        <source>...</source>
-        <translation type="unfinished">...</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="700"/>
@@ -11825,14 +11834,14 @@ Czy chcesz je usunąć?</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="92"/>
-        <location filename="DlgSettingsCache.cpp" line="295"/>
-        <location filename="DlgSettingsCache.cpp" line="715"/>
+        <location filename="DlgSettingsCache.cpp" line="294"/>
+        <location filename="DlgSettingsCache.cpp" line="711"/>
         <source>Excluded</source>
         <translation>Wyklucz</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="93"/>
-        <location filename="DlgSettingsCache.cpp" line="295"/>
+        <location filename="DlgSettingsCache.cpp" line="294"/>
         <source>Included</source>
         <translation>Uwzględnij</translation>
     </message>
@@ -11864,18 +11873,18 @@ Korzystaj z tej opcji tylko, jeśli chcesz współdzielić folder pomiędzy ró�
 Czy na pewno zmienić ścieżkę bazową?</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="362"/>
-        <location filename="DlgSettingsCache.cpp" line="605"/>
+        <location filename="DlgSettingsCache.cpp" line="360"/>
+        <location filename="DlgSettingsCache.cpp" line="601"/>
         <source>Catalog - Remove Entries</source>
         <translation>Katalog - usuń elementy</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="513"/>
+        <location filename="DlgSettingsCache.cpp" line="511"/>
         <source>Catalog - Synchronize Folders</source>
         <translation>Katalog - synchronizuj foldery</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="514"/>
+        <location filename="DlgSettingsCache.cpp" line="512"/>
         <source>All orphaned files will be deleted from Catalog.
 
 Do you want to continue?</source>
@@ -11885,33 +11894,33 @@ Do you want to continue?</source>
 Czy na pewno kontynuować?</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="547"/>
+        <location filename="DlgSettingsCache.cpp" line="543"/>
         <source>Updating database, please wait...</source>
         <translation>Aktualizacja bazy danych, proszę czekać...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="564"/>
+        <location filename="DlgSettingsCache.cpp" line="560"/>
         <source>Catalog - Relocate the folder</source>
         <oldsource>Relocate the folder</oldsource>
         <translation>Katalog - przenieś folder</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="564"/>
+        <location filename="DlgSettingsCache.cpp" line="560"/>
         <source>New path:</source>
         <translation>Nowa ścieżka:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="564"/>
+        <location filename="DlgSettingsCache.cpp" line="560"/>
         <source>Old path:</source>
         <translation>Stara ścieżka:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="582"/>
+        <location filename="DlgSettingsCache.cpp" line="578"/>
         <source>Catalog Maintenance</source>
         <translation>Konserwacja katalogu</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="583"/>
+        <location filename="DlgSettingsCache.cpp" line="579"/>
         <source>Some database entries with assigned Rating, 
 Color labels, Keywords may be deleted. 
 
@@ -11923,8 +11932,8 @@ kolorowymi etykietami lub słowami kluczowymi mogą zostać usunięte.
 Czy wyszukać wpisy dotknięte taką możliwością?</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="363"/>
-        <location filename="DlgSettingsCache.cpp" line="606"/>
+        <location filename="DlgSettingsCache.cpp" line="361"/>
+        <location filename="DlgSettingsCache.cpp" line="602"/>
         <source>Catalog entries with Categories, Rating &amp; Color labels will be removed. 
 
 If information is exported into embedded or sidecar metadata, 
@@ -11962,7 +11971,7 @@ Czy na pewno usunąć wpisy przypisane do kategorii?</translation>
         <translation>Maksymalny rozmiar bufora miniatur</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="277"/>
+        <location filename="DlgSettingsCache.ui" line="270"/>
         <source>Base path of files</source>
         <oldsource>Base path of your pictures</oldsource>
         <translation>Ścieżka bazowa obrazów</translation>
@@ -12009,97 +12018,92 @@ Czy na pewno usunąć wpisy przypisane do kategorii?</translation>
         <translation>Sprawdzaj integralność katalogu podczas uruchamiania programu</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="265"/>
-        <source>Store Exiftool fields</source>
-        <translation>Przechowywanie pól Exiftool</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsCache.ui" line="311"/>
+        <location filename="DlgSettingsCache.ui" line="304"/>
         <source>Directory</source>
         <oldsource>Cached directory</oldsource>
         <translation>Folder</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="316"/>
+        <location filename="DlgSettingsCache.ui" line="309"/>
         <source>Files</source>
         <translation>Pliki</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="321"/>
+        <location filename="DlgSettingsCache.ui" line="314"/>
         <source>Size</source>
         <translation>Rozmiar</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="336"/>
-        <location filename="DlgSettingsCache.ui" line="527"/>
+        <location filename="DlgSettingsCache.ui" line="329"/>
+        <location filename="DlgSettingsCache.ui" line="519"/>
         <source>Delete</source>
         <translation>Usuń</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="343"/>
-        <location filename="DlgSettingsCache.ui" line="534"/>
+        <location filename="DlgSettingsCache.ui" line="336"/>
+        <location filename="DlgSettingsCache.ui" line="526"/>
         <source>Delete all</source>
         <translation>Usuń wszystkie</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="382"/>
+        <location filename="DlgSettingsCache.ui" line="375"/>
         <source>Maintenance...</source>
         <translation>Konserwacja...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="389"/>
+        <location filename="DlgSettingsCache.ui" line="382"/>
         <source>Import folder...</source>
         <translation>Importuj folder...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="423"/>
+        <location filename="DlgSettingsCache.ui" line="416"/>
         <source>Rebuild thumbnails</source>
         <translation>Odbuduj miniatury</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="437"/>
+        <location filename="DlgSettingsCache.ui" line="430"/>
         <source>Update metadata</source>
         <oldsource>Update metadata...</oldsource>
         <translation>Aktualizacja metadanych</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="501"/>
+        <location filename="DlgSettingsCache.ui" line="493"/>
         <source>Add folder...</source>
         <translation>Dodaj folder...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="399"/>
+        <location filename="DlgSettingsCache.ui" line="392"/>
         <source>Relocate...</source>
         <translation>Przenieś...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="430"/>
+        <location filename="DlgSettingsCache.ui" line="423"/>
         <source>Synchronize Folders...</source>
         <oldsource>Check folders...</oldsource>
         <translation>Synchronizuj foldery...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="461"/>
+        <location filename="DlgSettingsCache.ui" line="453"/>
         <source>Excluded/Included</source>
         <translation>Uwzględnij lub wyklucz</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="486"/>
+        <location filename="DlgSettingsCache.ui" line="478"/>
         <source>1</source>
         <translation>1</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="491"/>
+        <location filename="DlgSettingsCache.ui" line="483"/>
         <source>2</source>
         <translation>2</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="556"/>
+        <location filename="DlgSettingsCache.ui" line="548"/>
         <source>Always exclude removable drives</source>
         <translation>Nie buforuj z dysków przenośnych</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="563"/>
+        <location filename="DlgSettingsCache.ui" line="555"/>
         <source>Always exclude CD/DVD drives</source>
         <translation>Nie buforuj z dysków CD/DVD</translation>
     </message>
@@ -13776,7 +13780,7 @@ Czy zmienić przypisanie?</translation>
 <context>
     <name>DlgSettingsKeywords</name>
     <message>
-        <location filename="DlgSettingsKeywords.cpp" line="70"/>
+        <location filename="DlgSettingsKeywords.cpp" line="75"/>
         <source>Locale</source>
         <translation>wg ustawień regionalnych</translation>
     </message>
@@ -13784,48 +13788,48 @@ Czy zmienić przypisanie?</translation>
 <context>
     <name>DlgSettingsKeywordsClass</name>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="191"/>
+        <location filename="DlgSettingsKeywords.ui" line="205"/>
         <source>Read hierarchical keywords from images as categories</source>
         <oldsource>Read hierarchical keywords</oldsource>
         <translation>Odczytaj zhierarchizowane słowa kluczowe z obrazów jako kategorie</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="292"/>
+        <location filename="DlgSettingsKeywords.ui" line="306"/>
         <source>Automatically assign parent Category (Ctrl+click for current only)</source>
         <oldsource>Automatically apply parent category (Ctrl+click for single category)</oldsource>
         <translation>Automatycznie zastosuj kategorię nadrzędną (Ctrl + kliknięcie dla pojedynczej kategorii)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="285"/>
+        <location filename="DlgSettingsKeywords.ui" line="299"/>
         <source>Write categories into images as hierarchical keywords</source>
         <oldsource>Write categories into images as hierachical keywords</oldsource>
         <translation>Zapisz kategorie do obrazów jako zhierarchizowane słowa kluczowe</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="338"/>
+        <location filename="DlgSettingsKeywords.ui" line="352"/>
         <source>Create or update XMP Sidecar</source>
         <oldsource>Update or create XMP Sidecar</oldsource>
         <translation>Utwórz lub aktualizuj plik towarzyszący XMP</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="375"/>
+        <location filename="DlgSettingsKeywords.ui" line="389"/>
         <source>Naming convention</source>
         <translation>Konwencja nazewnictwa</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="381"/>
+        <location filename="DlgSettingsKeywords.ui" line="395"/>
         <source>&lt;filename&gt;.xmp</source>
         <oldsource>Filename.xmp</oldsource>
         <translation>&lt;nazwa&gt;.xmp</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="388"/>
+        <location filename="DlgSettingsKeywords.ui" line="402"/>
         <source>&lt;filename&gt;.&lt;extension&gt;.xmp</source>
         <oldsource>Filename.extension.xmp</oldsource>
         <translation>&lt;nazwa&gt;.&lt;rozszerzenie&gt;.xmp</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="308"/>
+        <location filename="DlgSettingsKeywords.ui" line="322"/>
         <source>Write comment in XMP (dc:description and exif:UserComment)</source>
         <translation>Zapisuj komentarz w XMP (DC: opis oraz EXIF: komentarz użytkownika)</translation>
     </message>
@@ -13836,125 +13840,125 @@ Czy zmienić przypisanie?</translation>
         <translation>Metadane</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="332"/>
+        <location filename="DlgSettingsKeywords.ui" line="346"/>
         <source>Sidecar</source>
         <translation>Plik towarzyszący</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="366"/>
+        <location filename="DlgSettingsKeywords.ui" line="380"/>
         <source>Update master file</source>
         <translation>Zaktualizuj plik główny</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="431"/>
+        <location filename="DlgSettingsKeywords.ui" line="445"/>
         <source>Video files</source>
         <translation>Pliki wideo</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="438"/>
+        <location filename="DlgSettingsKeywords.ui" line="452"/>
         <source>Other files</source>
         <translation>Inne pliki</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="462"/>
+        <location filename="DlgSettingsKeywords.ui" line="476"/>
         <source>Encoding</source>
         <translation>Kodowanie</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="476"/>
-        <location filename="DlgSettingsKeywords.ui" line="526"/>
+        <location filename="DlgSettingsKeywords.ui" line="490"/>
+        <location filename="DlgSettingsKeywords.ui" line="540"/>
         <source>Default encoding</source>
         <translation>Kodowanie domyślne</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="518"/>
+        <location filename="DlgSettingsKeywords.ui" line="532"/>
         <source>Embedded comment</source>
         <translation>Komentarz osadzony</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="820"/>
+        <location filename="DlgSettingsKeywords.ui" line="834"/>
         <source>Label</source>
         <translation>Etykieta</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="770"/>
+        <location filename="DlgSettingsKeywords.ui" line="784"/>
         <source>Read (separated by ,)</source>
         <translation>Odczyt (rozdzielony za pomocą &quot;,&quot;)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="45"/>
+        <location filename="DlgSettingsKeywords.ui" line="152"/>
         <source>Import</source>
         <translation>Importuj</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="52"/>
+        <location filename="DlgSettingsKeywords.ui" line="66"/>
         <source>Export</source>
         <translation>Eksportuj</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="59"/>
+        <location filename="DlgSettingsKeywords.ui" line="52"/>
         <source>Rating</source>
         <translation>Ocena</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="80"/>
+        <location filename="DlgSettingsKeywords.ui" line="121"/>
         <source>Color label</source>
         <translation>Kolorowa etykieta</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="114"/>
+        <location filename="DlgSettingsKeywords.ui" line="128"/>
         <source>Categories</source>
         <translation>Kategorie</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="142"/>
+        <location filename="DlgSettingsKeywords.ui" line="159"/>
         <source>Face tag</source>
         <translation>Oznaczenie twarzy</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="398"/>
+        <location filename="DlgSettingsKeywords.ui" line="412"/>
         <source>Supported formats</source>
         <translation>Obsługiwane formaty</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="569"/>
+        <location filename="DlgSettingsKeywords.ui" line="583"/>
         <source>Copyright</source>
         <translation>Prawa autorskie</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="603"/>
+        <location filename="DlgSettingsKeywords.ui" line="617"/>
         <source>Image description</source>
         <translation>Opis obrazu</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="813"/>
+        <location filename="DlgSettingsKeywords.ui" line="827"/>
         <source>Write</source>
         <translation>Zapis</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="508"/>
+        <location filename="DlgSettingsKeywords.ui" line="522"/>
         <source>Use UTF-8 to write IPTC fields</source>
         <oldsource>Use utf8 to write IPTC fields</oldsource>
         <translation>Używaj UTF8 do zapisu pól IPTC</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="652"/>
+        <location filename="DlgSettingsKeywords.ui" line="666"/>
         <source>Color labels</source>
         <oldsource>Labels</oldsource>
         <translation>Kolorowe etykiety</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="169"/>
+        <location filename="DlgSettingsKeywords.ui" line="183"/>
         <source>Categories and keywords</source>
         <translation>Kategorie i słowa kluczowe</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="180"/>
+        <location filename="DlgSettingsKeywords.ui" line="194"/>
         <source>Update when file is changed outside (date/size)</source>
         <translation>Zaktualizuj, gdy plik zostanie zmieniony na zewnątrz (data/rozmiar)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="302"/>
+        <location filename="DlgSettingsKeywords.ui" line="316"/>
         <source>Comment</source>
         <translation>Komentarz</translation>
     </message>
@@ -18700,8 +18704,12 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="66"/>
-        <source>Original tr. ref.</source>
-        <translation>Kod ref. oryg. transmisji</translation>
+        <location filename="IptcHelper.cpp" line="51"/>
+        <location filename="SearchField.cpp" line="77"/>
+        <location filename="TemplateData.cpp" line="2773"/>
+        <source>Original transmission reference</source>
+        <oldsource>Original tr. ref.</oldsource>
+        <translation type="unfinished">Kod ref. oryg. transmisji</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="67"/>
@@ -18776,7 +18784,10 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
         <translation>Nazwa lokalizacji zawartości</translation>
     </message>
     <message>
+        <location filename="InfoIPTCView.cpp" line="66"/>
         <location filename="IptcHelper.cpp" line="51"/>
+        <location filename="SearchField.cpp" line="77"/>
+        <location filename="TemplateData.cpp" line="2773"/>
         <source>Original transmission reference</source>
         <translation>Kod referencyjny oryginalnej transmisji</translation>
     </message>
@@ -18808,10 +18819,13 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
         <translation>Cykl</translation>
     </message>
     <message>
+        <location filename="InfoIPTCView.cpp" line="66"/>
+        <location filename="IptcHelper.cpp" line="51"/>
         <location filename="SearchField.cpp" line="77"/>
         <location filename="TemplateData.cpp" line="2773"/>
-        <source>Original trans. ref.</source>
-        <translation>Odniesienie oryg. trans.</translation>
+        <source>Original transmission reference</source>
+        <oldsource>Original trans. ref.</oldsource>
+        <translation type="unfinished">Odniesienie oryg. trans.</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="118"/>
@@ -22970,11 +22984,6 @@ Można go zmienić w Ustawienia&gt;Katalog</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="1680"/>
-        <source>&lt;Default&gt;</source>
-        <translation type="unfinished">&lt;domyślny&gt;</translation>
-    </message>
-    <message>
-        <location filename="MyThumbView.cpp" line="1691"/>
         <source>Customize header...</source>
         <translation type="unfinished"></translation>
     </message>

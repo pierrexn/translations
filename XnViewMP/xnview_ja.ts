@@ -8380,52 +8380,52 @@ Please try to start with admin rights.</source>
         <translation>ファイルリスト</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.ui" line="20"/>
+        <location filename="DlgFileListing.ui" line="22"/>
         <source>Add column</source>
         <translation>列を追加</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.ui" line="53"/>
+        <location filename="DlgFileListing.ui" line="80"/>
         <source>Format</source>
         <translation>形式</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.ui" line="61"/>
+        <location filename="DlgFileListing.ui" line="88"/>
         <source>Text</source>
         <translation>文章</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.ui" line="84"/>
+        <location filename="DlgFileListing.ui" line="111"/>
         <source>Include subfolders</source>
         <translation>サブフォルダーを含める</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.ui" line="91"/>
+        <location filename="DlgFileListing.ui" line="118"/>
         <source>Only image files</source>
         <translation>画像ファイルのみ</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.ui" line="98"/>
+        <location filename="DlgFileListing.ui" line="125"/>
         <source>Append to file</source>
         <translation>ファイルに添付</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.cpp" line="76"/>
+        <location filename="DlgFileListing.cpp" line="121"/>
         <source>Preview</source>
         <translation>プレビュー</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.cpp" line="78"/>
+        <location filename="DlgFileListing.cpp" line="123"/>
         <source>Copy to Clipboard</source>
         <translation>クリップボードにコピー</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.cpp" line="81"/>
+        <location filename="DlgFileListing.cpp" line="126"/>
         <source>Save as...</source>
         <translation>ファイル名を付けて保存...</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.cpp" line="121"/>
+        <location filename="DlgFileListing.cpp" line="167"/>
         <source>Export file listing</source>
         <translation>ファイルリストをエクスポートする</translation>
     </message>
@@ -8954,6 +8954,19 @@ Please try to start with admin rights.</source>
         <location filename="DlgGrid.ui" line="362"/>
         <source>Label</source>
         <translation>ラベル</translation>
+    </message>
+</context>
+<context>
+    <name>DlgHistoryList</name>
+    <message>
+        <location filename="DlgHistoryList.h" line="26"/>
+        <source>Save preset</source>
+        <translation type="unfinished">プリセットを保存</translation>
+    </message>
+    <message>
+        <location filename="DlgHistoryList.h" line="27"/>
+        <source>Preset name:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11623,42 +11636,42 @@ Do you want to remove them?</source>
 <context>
     <name>DlgSettingsBrowser</name>
     <message>
-        <location filename="DlgSettingsBrowser.cpp" line="323"/>
+        <location filename="DlgSettingsBrowser.cpp" line="363"/>
         <source>Clear All</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.cpp" line="323"/>
+        <location filename="DlgSettingsBrowser.cpp" line="363"/>
         <source>Remove all items from the list?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.cpp" line="334"/>
+        <location filename="DlgSettingsBrowser.cpp" line="374"/>
         <source>Default</source>
         <translation type="unfinished">デフォルト</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.cpp" line="334"/>
+        <location filename="DlgSettingsBrowser.cpp" line="374"/>
         <source>Reset list to default?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.cpp" line="485"/>
+        <location filename="DlgSettingsBrowser.cpp" line="525"/>
         <source>Expand All</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.cpp" line="490"/>
+        <location filename="DlgSettingsBrowser.cpp" line="530"/>
         <source>Collapse All</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.cpp" line="800"/>
+        <location filename="DlgSettingsBrowser.cpp" line="842"/>
         <source>Save Preset</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.cpp" line="800"/>
+        <location filename="DlgSettingsBrowser.cpp" line="842"/>
         <source>Preset name:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11738,7 +11751,8 @@ Do you want to remove them?</source>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="498"/>
-        <source>Header</source>
+        <source>Filelist header</source>
+        <oldsource>Header</oldsource>
         <translation type="unfinished">ヘッダー</translation>
     </message>
     <message>
@@ -11755,11 +11769,6 @@ Do you want to remove them?</source>
         <location filename="DlgSettingsBrowser.ui" line="546"/>
         <source>Clear all</source>
         <translation type="unfinished">すべてクリア</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsBrowser.ui" line="648"/>
-        <source>...</source>
-        <translation type="unfinished">...</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="700"/>
@@ -11922,14 +11931,14 @@ Do you want to remove them?</source>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="92"/>
-        <location filename="DlgSettingsCache.cpp" line="295"/>
-        <location filename="DlgSettingsCache.cpp" line="715"/>
+        <location filename="DlgSettingsCache.cpp" line="294"/>
+        <location filename="DlgSettingsCache.cpp" line="711"/>
         <source>Excluded</source>
         <translation>除外</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="93"/>
-        <location filename="DlgSettingsCache.cpp" line="295"/>
+        <location filename="DlgSettingsCache.cpp" line="294"/>
         <source>Included</source>
         <translation>含む</translation>
     </message>
@@ -11961,18 +11970,18 @@ Do you want to change the &apos;base path&apos;?</source>
 &apos;基本のパス&apos;を変更してよろしいですか？</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="362"/>
-        <location filename="DlgSettingsCache.cpp" line="605"/>
+        <location filename="DlgSettingsCache.cpp" line="360"/>
+        <location filename="DlgSettingsCache.cpp" line="601"/>
         <source>Catalog - Remove Entries</source>
         <translation>カタログ - エントリーの除去</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="513"/>
+        <location filename="DlgSettingsCache.cpp" line="511"/>
         <source>Catalog - Synchronize Folders</source>
         <translation>カタログ - フォルダーの同期</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="514"/>
+        <location filename="DlgSettingsCache.cpp" line="512"/>
         <source>All orphaned files will be deleted from Catalog.
 
 Do you want to continue?</source>
@@ -11982,33 +11991,33 @@ Do you want to continue?</source>
 続けてよろしいですか？</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="547"/>
+        <location filename="DlgSettingsCache.cpp" line="543"/>
         <source>Updating database, please wait...</source>
         <translation>データベースの更新中、お待ちください...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="564"/>
+        <location filename="DlgSettingsCache.cpp" line="560"/>
         <source>Catalog - Relocate the folder</source>
         <oldsource>Relocate the folder</oldsource>
         <translation>カタログ - フォルダーの再配置</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="564"/>
+        <location filename="DlgSettingsCache.cpp" line="560"/>
         <source>New path:</source>
         <translation>新しいパス：</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="564"/>
+        <location filename="DlgSettingsCache.cpp" line="560"/>
         <source>Old path:</source>
         <translation>元のパス:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="582"/>
+        <location filename="DlgSettingsCache.cpp" line="578"/>
         <source>Catalog Maintenance</source>
         <translation>カタログのメンテナンス</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="583"/>
+        <location filename="DlgSettingsCache.cpp" line="579"/>
         <source>Some database entries with assigned Rating, 
 Color labels, Keywords may be deleted. 
 
@@ -12020,8 +12029,8 @@ Do you want to check for affected entries first?</source>
 最初に、影響を受けたエントリーをチェックしますか？</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="363"/>
-        <location filename="DlgSettingsCache.cpp" line="606"/>
+        <location filename="DlgSettingsCache.cpp" line="361"/>
+        <location filename="DlgSettingsCache.cpp" line="602"/>
         <source>Catalog entries with Categories, Rating &amp; Color labels will be removed. 
 
 If information is exported into embedded or sidecar metadata, 
@@ -12059,7 +12068,7 @@ Do you want to remove entries assigned to a category?</oldsource>
         <translation>サムネイルキャッシュする最大のサイズ</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="277"/>
+        <location filename="DlgSettingsCache.ui" line="270"/>
         <source>Base path of files</source>
         <oldsource>Base path of your pictures</oldsource>
         <translation>ファイルの基本的なパス</translation>
@@ -12110,98 +12119,93 @@ Do you want to remove entries assigned to a category?</oldsource>
         <translation>スタートアップ時にカタログの整合性をチェック</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="265"/>
-        <source>Store Exiftool fields</source>
-        <translation>ExifToolのフィールドを保存</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsCache.ui" line="311"/>
+        <location filename="DlgSettingsCache.ui" line="304"/>
         <source>Directory</source>
         <oldsource>Cached directory</oldsource>
         <translation>ディレクトリ</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="316"/>
+        <location filename="DlgSettingsCache.ui" line="309"/>
         <source>Files</source>
         <translation>ファイル</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="321"/>
+        <location filename="DlgSettingsCache.ui" line="314"/>
         <source>Size</source>
         <translation>サイズ</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="336"/>
-        <location filename="DlgSettingsCache.ui" line="527"/>
+        <location filename="DlgSettingsCache.ui" line="329"/>
+        <location filename="DlgSettingsCache.ui" line="519"/>
         <source>Delete</source>
         <translation>削除</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="343"/>
-        <location filename="DlgSettingsCache.ui" line="534"/>
+        <location filename="DlgSettingsCache.ui" line="336"/>
+        <location filename="DlgSettingsCache.ui" line="526"/>
         <source>Delete all</source>
         <translation>すべて削除</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="382"/>
+        <location filename="DlgSettingsCache.ui" line="375"/>
         <source>Maintenance...</source>
         <translation>メンテナンス...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="389"/>
+        <location filename="DlgSettingsCache.ui" line="382"/>
         <source>Import folder...</source>
         <translation>インポートするフォルダー...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="423"/>
+        <location filename="DlgSettingsCache.ui" line="416"/>
         <source>Rebuild thumbnails</source>
         <translatorcomment>0.60</translatorcomment>
         <translation>サムネイルを再構築</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="437"/>
+        <location filename="DlgSettingsCache.ui" line="430"/>
         <source>Update metadata</source>
         <oldsource>Update metadata...</oldsource>
         <translation>メタデータを更新</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="501"/>
+        <location filename="DlgSettingsCache.ui" line="493"/>
         <source>Add folder...</source>
         <translation>フォルダーの追加...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="399"/>
+        <location filename="DlgSettingsCache.ui" line="392"/>
         <source>Relocate...</source>
         <translation>移動...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="430"/>
+        <location filename="DlgSettingsCache.ui" line="423"/>
         <source>Synchronize Folders...</source>
         <oldsource>Check folders...</oldsource>
         <translation>フォルダーの同期...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="461"/>
+        <location filename="DlgSettingsCache.ui" line="453"/>
         <source>Excluded/Included</source>
         <translation>除外する/含める</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="486"/>
+        <location filename="DlgSettingsCache.ui" line="478"/>
         <source>1</source>
         <translation>1</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="491"/>
+        <location filename="DlgSettingsCache.ui" line="483"/>
         <source>2</source>
         <translation>2</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="556"/>
+        <location filename="DlgSettingsCache.ui" line="548"/>
         <source>Always exclude removable drives</source>
         <translation>取り外し可能なドライブを常に除外する</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="563"/>
+        <location filename="DlgSettingsCache.ui" line="555"/>
         <source>Always exclude CD/DVD drives</source>
         <translation>CD/DVDドライブを常に除外する</translation>
     </message>
@@ -13882,7 +13886,7 @@ Do you want to reassign?</source>
 <context>
     <name>DlgSettingsKeywords</name>
     <message>
-        <location filename="DlgSettingsKeywords.cpp" line="70"/>
+        <location filename="DlgSettingsKeywords.cpp" line="75"/>
         <source>Locale</source>
         <translation>地域・言語</translation>
     </message>
@@ -13890,47 +13894,47 @@ Do you want to reassign?</source>
 <context>
     <name>DlgSettingsKeywordsClass</name>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="191"/>
+        <location filename="DlgSettingsKeywords.ui" line="205"/>
         <source>Read hierarchical keywords from images as categories</source>
         <oldsource>Read hierarchical keywords</oldsource>
         <translation>カテゴリーとして画像から階層的なキーワードを読み込み</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="292"/>
+        <location filename="DlgSettingsKeywords.ui" line="306"/>
         <source>Automatically assign parent Category (Ctrl+click for current only)</source>
         <oldsource>Automatically apply parent category (Ctrl+click for single category)</oldsource>
         <translation>親カテゴリーを自動的に割り当てる（Ctrl+クリックで現在のカテゴリーのみ）</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="180"/>
+        <location filename="DlgSettingsKeywords.ui" line="194"/>
         <source>Update when file is changed outside (date/size)</source>
         <translation>ファイルが外部で変更された時更新する（日付/サイズ）</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="285"/>
+        <location filename="DlgSettingsKeywords.ui" line="299"/>
         <source>Write categories into images as hierarchical keywords</source>
         <oldsource>Write categories into images as hierachical keywords</oldsource>
         <translation>カテゴリーを階層キーワードとして画像に書き込む</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="338"/>
+        <location filename="DlgSettingsKeywords.ui" line="352"/>
         <source>Create or update XMP Sidecar</source>
         <oldsource>Update or create XMP Sidecar</oldsource>
         <translation>XMPサイドカーの作成または更新</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="375"/>
+        <location filename="DlgSettingsKeywords.ui" line="389"/>
         <source>Naming convention</source>
         <translation>命名規則</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="381"/>
+        <location filename="DlgSettingsKeywords.ui" line="395"/>
         <source>&lt;filename&gt;.xmp</source>
         <oldsource>Filename.xmp</oldsource>
         <translation>&lt;ファイル名&gt;.xmp</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="388"/>
+        <location filename="DlgSettingsKeywords.ui" line="402"/>
         <source>&lt;filename&gt;.&lt;extension&gt;.xmp</source>
         <oldsource>Filename.extension.xmp</oldsource>
         <translation>&lt;ファイル名&gt;.&lt;拡張子&gt;.xmp</translation>
@@ -13942,124 +13946,124 @@ Do you want to reassign?</source>
         <translation>メタデータ</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="302"/>
+        <location filename="DlgSettingsKeywords.ui" line="316"/>
         <source>Comment</source>
         <translation>コメント</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="308"/>
+        <location filename="DlgSettingsKeywords.ui" line="322"/>
         <source>Write comment in XMP (dc:description and exif:UserComment)</source>
         <translation>XMPのdc:descriptionとexif:UserComment にコメントを書き込み</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="332"/>
+        <location filename="DlgSettingsKeywords.ui" line="346"/>
         <source>Sidecar</source>
         <translation>サイドカー</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="366"/>
+        <location filename="DlgSettingsKeywords.ui" line="380"/>
         <source>Update master file</source>
         <translation>マスターファイルの更新</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="431"/>
+        <location filename="DlgSettingsKeywords.ui" line="445"/>
         <source>Video files</source>
         <translation>動画ファイル</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="438"/>
+        <location filename="DlgSettingsKeywords.ui" line="452"/>
         <source>Other files</source>
         <translation>その他のファイル</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="462"/>
+        <location filename="DlgSettingsKeywords.ui" line="476"/>
         <source>Encoding</source>
         <translation>エンコーディング</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="476"/>
-        <location filename="DlgSettingsKeywords.ui" line="526"/>
+        <location filename="DlgSettingsKeywords.ui" line="490"/>
+        <location filename="DlgSettingsKeywords.ui" line="540"/>
         <source>Default encoding</source>
         <translation>デフォルトのエンコーディング</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="518"/>
+        <location filename="DlgSettingsKeywords.ui" line="532"/>
         <source>Embedded comment</source>
         <translation>埋め込みコメント</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="820"/>
+        <location filename="DlgSettingsKeywords.ui" line="834"/>
         <source>Label</source>
         <translation>ラベル</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="770"/>
+        <location filename="DlgSettingsKeywords.ui" line="784"/>
         <source>Read (separated by ,)</source>
         <translation>読み込み（カンマ区切り）</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="813"/>
+        <location filename="DlgSettingsKeywords.ui" line="827"/>
         <source>Write</source>
         <translation>書き込み</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="508"/>
+        <location filename="DlgSettingsKeywords.ui" line="522"/>
         <source>Use UTF-8 to write IPTC fields</source>
         <oldsource>Use utf8 to write IPTC fields</oldsource>
         <translation>IPTC項目をUTF8で書き込み</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="45"/>
+        <location filename="DlgSettingsKeywords.ui" line="152"/>
         <source>Import</source>
         <translation>インポート</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="52"/>
+        <location filename="DlgSettingsKeywords.ui" line="66"/>
         <source>Export</source>
         <translation>エクスポート</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="59"/>
+        <location filename="DlgSettingsKeywords.ui" line="52"/>
         <source>Rating</source>
         <translation>レーティング</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="80"/>
+        <location filename="DlgSettingsKeywords.ui" line="121"/>
         <source>Color label</source>
         <translation>カラーラベル</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="114"/>
+        <location filename="DlgSettingsKeywords.ui" line="128"/>
         <source>Categories</source>
         <translation>カテゴリー</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="142"/>
+        <location filename="DlgSettingsKeywords.ui" line="159"/>
         <source>Face tag</source>
         <translation>フェイスタグ</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="169"/>
+        <location filename="DlgSettingsKeywords.ui" line="183"/>
         <source>Categories and keywords</source>
         <translation>カテゴリーとキーワード</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="398"/>
+        <location filename="DlgSettingsKeywords.ui" line="412"/>
         <source>Supported formats</source>
         <translation>サポートされている形式</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="569"/>
+        <location filename="DlgSettingsKeywords.ui" line="583"/>
         <source>Copyright</source>
         <translation>著作権</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="603"/>
+        <location filename="DlgSettingsKeywords.ui" line="617"/>
         <source>Image description</source>
         <translation>説明</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="652"/>
+        <location filename="DlgSettingsKeywords.ui" line="666"/>
         <source>Color labels</source>
         <oldsource>Labels</oldsource>
         <translation>カラーラベル</translation>
@@ -18935,9 +18939,13 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="66"/>
-        <source>Original tr. ref.</source>
+        <location filename="IptcHelper.cpp" line="51"/>
+        <location filename="SearchField.cpp" line="77"/>
+        <location filename="TemplateData.cpp" line="2773"/>
+        <source>Original transmission reference</source>
+        <oldsource>Original tr. ref.</oldsource>
         <translatorcomment>TXT_Iptc_Original_Transmission</translatorcomment>
-        <translation>オリジナル送信リファレンス</translation>
+        <translation type="unfinished">オリジナル送信リファレンス</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="67"/>
@@ -19021,7 +19029,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>撮影地名</translation>
     </message>
     <message>
+        <location filename="InfoIPTCView.cpp" line="66"/>
         <location filename="IptcHelper.cpp" line="51"/>
+        <location filename="SearchField.cpp" line="77"/>
+        <location filename="TemplateData.cpp" line="2773"/>
         <source>Original transmission reference</source>
         <translatorcomment>TXT_Iptc_Original_Transmission</translatorcomment>
         <translation>オリジナル送信リファレンス</translation>
@@ -19056,11 +19067,14 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>オブジェクトの循環</translation>
     </message>
     <message>
+        <location filename="InfoIPTCView.cpp" line="66"/>
+        <location filename="IptcHelper.cpp" line="51"/>
         <location filename="SearchField.cpp" line="77"/>
         <location filename="TemplateData.cpp" line="2773"/>
-        <source>Original trans. ref.</source>
+        <source>Original transmission reference</source>
+        <oldsource>Original trans. ref.</oldsource>
         <translatorcomment>TXT_Iptc_Original_Transmission</translatorcomment>
-        <translation>オリジナル送信リファレンス</translation>
+        <translation type="unfinished">オリジナル送信リファレンス</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="104"/>
@@ -23279,11 +23293,6 @@ You can change it in Settings › Catalog.</oldsource>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="1680"/>
-        <source>&lt;Default&gt;</source>
-        <translation type="unfinished">&lt;Default&gt;</translation>
-    </message>
-    <message>
-        <location filename="MyThumbView.cpp" line="1691"/>
         <source>Customize header...</source>
         <translation type="unfinished"></translation>
     </message>

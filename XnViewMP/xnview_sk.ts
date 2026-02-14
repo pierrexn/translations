@@ -8301,52 +8301,52 @@ Skúste spustiť program s právami správcu.</translation>
         <translation>Zoznam súborov</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.ui" line="20"/>
+        <location filename="DlgFileListing.ui" line="22"/>
         <source>Add column</source>
         <translation>Pridať stĺpec</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.ui" line="53"/>
+        <location filename="DlgFileListing.ui" line="80"/>
         <source>Format</source>
         <translation>Formát</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.ui" line="61"/>
+        <location filename="DlgFileListing.ui" line="88"/>
         <source>Text</source>
         <translation>Text</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.ui" line="84"/>
+        <location filename="DlgFileListing.ui" line="111"/>
         <source>Include subfolders</source>
         <translation>Vrátane podpriečinkov</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.ui" line="91"/>
+        <location filename="DlgFileListing.ui" line="118"/>
         <source>Only image files</source>
         <translation>Len obrázkové súbory</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.ui" line="98"/>
+        <location filename="DlgFileListing.ui" line="125"/>
         <source>Append to file</source>
         <translation>Pripojiť k súboru</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.cpp" line="76"/>
+        <location filename="DlgFileListing.cpp" line="121"/>
         <source>Preview</source>
         <translation>Náhľad</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.cpp" line="78"/>
+        <location filename="DlgFileListing.cpp" line="123"/>
         <source>Copy to Clipboard</source>
         <translation>Kopírovať do schránky</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.cpp" line="81"/>
+        <location filename="DlgFileListing.cpp" line="126"/>
         <source>Save as...</source>
         <translation>Uložiť ako...</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.cpp" line="121"/>
+        <location filename="DlgFileListing.cpp" line="167"/>
         <source>Export file listing</source>
         <translation>Exportovať zoznam súborov</translation>
     </message>
@@ -8873,6 +8873,19 @@ Skúste spustiť program s právami správcu.</translation>
         <location filename="DlgGrid.ui" line="362"/>
         <source>Label</source>
         <translation>Označenie</translation>
+    </message>
+</context>
+<context>
+    <name>DlgHistoryList</name>
+    <message>
+        <location filename="DlgHistoryList.h" line="26"/>
+        <source>Save preset</source>
+        <translation type="unfinished">Uložiť predvoľbu</translation>
+    </message>
+    <message>
+        <location filename="DlgHistoryList.h" line="27"/>
+        <source>Preset name:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11525,42 +11538,42 @@ Chcete ich odstrániť?</translation>
 <context>
     <name>DlgSettingsBrowser</name>
     <message>
-        <location filename="DlgSettingsBrowser.cpp" line="323"/>
+        <location filename="DlgSettingsBrowser.cpp" line="363"/>
         <source>Clear All</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.cpp" line="323"/>
+        <location filename="DlgSettingsBrowser.cpp" line="363"/>
         <source>Remove all items from the list?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.cpp" line="334"/>
+        <location filename="DlgSettingsBrowser.cpp" line="374"/>
         <source>Default</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.cpp" line="334"/>
+        <location filename="DlgSettingsBrowser.cpp" line="374"/>
         <source>Reset list to default?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.cpp" line="485"/>
+        <location filename="DlgSettingsBrowser.cpp" line="525"/>
         <source>Expand All</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.cpp" line="490"/>
+        <location filename="DlgSettingsBrowser.cpp" line="530"/>
         <source>Collapse All</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.cpp" line="800"/>
+        <location filename="DlgSettingsBrowser.cpp" line="842"/>
         <source>Save Preset</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.cpp" line="800"/>
+        <location filename="DlgSettingsBrowser.cpp" line="842"/>
         <source>Preset name:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11640,7 +11653,8 @@ Chcete ich odstrániť?</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="498"/>
-        <source>Header</source>
+        <source>Filelist header</source>
+        <oldsource>Header</oldsource>
         <translation type="unfinished">Záhlavie</translation>
     </message>
     <message>
@@ -11657,11 +11671,6 @@ Chcete ich odstrániť?</translation>
         <location filename="DlgSettingsBrowser.ui" line="546"/>
         <source>Clear all</source>
         <translation type="unfinished">Vymazať všetky</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsBrowser.ui" line="648"/>
-        <source>...</source>
-        <translation type="unfinished">...</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="700"/>
@@ -11824,14 +11833,14 @@ Chcete ich odstrániť?</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="92"/>
-        <location filename="DlgSettingsCache.cpp" line="295"/>
-        <location filename="DlgSettingsCache.cpp" line="715"/>
+        <location filename="DlgSettingsCache.cpp" line="294"/>
+        <location filename="DlgSettingsCache.cpp" line="711"/>
         <source>Excluded</source>
         <translation>Vylúčiť</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="93"/>
-        <location filename="DlgSettingsCache.cpp" line="295"/>
+        <location filename="DlgSettingsCache.cpp" line="294"/>
         <source>Included</source>
         <translation>Zahrnúť</translation>
     </message>
@@ -11863,18 +11872,18 @@ Urobte to iba vtedy, ak chcete zdieľať rovnaký priečinok medzi niekoľkými 
 Chcete zmeniť „základnú cestu“?</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="362"/>
-        <location filename="DlgSettingsCache.cpp" line="605"/>
+        <location filename="DlgSettingsCache.cpp" line="360"/>
+        <location filename="DlgSettingsCache.cpp" line="601"/>
         <source>Catalog - Remove Entries</source>
         <translation>Katalóg - Odstrániť záznamy</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="513"/>
+        <location filename="DlgSettingsCache.cpp" line="511"/>
         <source>Catalog - Synchronize Folders</source>
         <translation>Katalóg - Synchronizovať priečinky</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="514"/>
+        <location filename="DlgSettingsCache.cpp" line="512"/>
         <source>All orphaned files will be deleted from Catalog.
 
 Do you want to continue?</source>
@@ -11884,33 +11893,33 @@ Do you want to continue?</source>
 Chcete pokračovať?</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="547"/>
+        <location filename="DlgSettingsCache.cpp" line="543"/>
         <source>Updating database, please wait...</source>
         <translation>Aktualizácia databázy, čakajte prosím...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="564"/>
+        <location filename="DlgSettingsCache.cpp" line="560"/>
         <source>Catalog - Relocate the folder</source>
         <oldsource>Relocate the folder</oldsource>
         <translation>Katalóg – Premiestniť priečinok</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="564"/>
+        <location filename="DlgSettingsCache.cpp" line="560"/>
         <source>New path:</source>
         <translation>Nová cesta:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="564"/>
+        <location filename="DlgSettingsCache.cpp" line="560"/>
         <source>Old path:</source>
         <translation>Stará cesta:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="582"/>
+        <location filename="DlgSettingsCache.cpp" line="578"/>
         <source>Catalog Maintenance</source>
         <translation>Údržba katalógu</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="583"/>
+        <location filename="DlgSettingsCache.cpp" line="579"/>
         <source>Some database entries with assigned Rating, 
 Color labels, Keywords may be deleted. 
 
@@ -11922,8 +11931,8 @@ Farebné štítky, kľúčové slová môžu byť vymazané.
 Chcete najprv skontrolovať dotknuté položky?</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="363"/>
-        <location filename="DlgSettingsCache.cpp" line="606"/>
+        <location filename="DlgSettingsCache.cpp" line="361"/>
+        <location filename="DlgSettingsCache.cpp" line="602"/>
         <source>Catalog entries with Categories, Rating &amp; Color labels will be removed. 
 
 If information is exported into embedded or sidecar metadata, 
@@ -11961,7 +11970,7 @@ Chcete odstrániť položky priradené ku kategórii?</translation>
         <translation>Maximálna veľkosť pre vyrovnávaciu pamať miniatúr</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="277"/>
+        <location filename="DlgSettingsCache.ui" line="270"/>
         <source>Base path of files</source>
         <oldsource>Base path of your pictures</oldsource>
         <translation>Základná cesta k súborom</translation>
@@ -12008,97 +12017,92 @@ Chcete odstrániť položky priradené ku kategórii?</translation>
         <translation>Skontrolovať integritu katalógu pri spustení</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="265"/>
-        <source>Store Exiftool fields</source>
-        <translation>Uložiť polia Exiftool</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsCache.ui" line="311"/>
+        <location filename="DlgSettingsCache.ui" line="304"/>
         <source>Directory</source>
         <oldsource>Cached directory</oldsource>
         <translation>Priečinok</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="316"/>
+        <location filename="DlgSettingsCache.ui" line="309"/>
         <source>Files</source>
         <translation>Súbory</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="321"/>
+        <location filename="DlgSettingsCache.ui" line="314"/>
         <source>Size</source>
         <translation>Veľkosť</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="336"/>
-        <location filename="DlgSettingsCache.ui" line="527"/>
+        <location filename="DlgSettingsCache.ui" line="329"/>
+        <location filename="DlgSettingsCache.ui" line="519"/>
         <source>Delete</source>
         <translation>Odstrániť</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="343"/>
-        <location filename="DlgSettingsCache.ui" line="534"/>
+        <location filename="DlgSettingsCache.ui" line="336"/>
+        <location filename="DlgSettingsCache.ui" line="526"/>
         <source>Delete all</source>
         <translation>Odstrániť všetky</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="382"/>
+        <location filename="DlgSettingsCache.ui" line="375"/>
         <source>Maintenance...</source>
         <translation>Údržba...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="389"/>
+        <location filename="DlgSettingsCache.ui" line="382"/>
         <source>Import folder...</source>
         <translation>Importovať priečinok...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="423"/>
+        <location filename="DlgSettingsCache.ui" line="416"/>
         <source>Rebuild thumbnails</source>
         <translation>Znovu vytvoriť miniatúry</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="437"/>
+        <location filename="DlgSettingsCache.ui" line="430"/>
         <source>Update metadata</source>
         <oldsource>Update metadata...</oldsource>
         <translation>Aktualizovať metadáta</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="501"/>
+        <location filename="DlgSettingsCache.ui" line="493"/>
         <source>Add folder...</source>
         <translation>Pridať priečinok...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="399"/>
+        <location filename="DlgSettingsCache.ui" line="392"/>
         <source>Relocate...</source>
         <translation>Premiestniť...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="430"/>
+        <location filename="DlgSettingsCache.ui" line="423"/>
         <source>Synchronize Folders...</source>
         <oldsource>Check folders...</oldsource>
         <translation>Synchronizovať priečinky...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="461"/>
+        <location filename="DlgSettingsCache.ui" line="453"/>
         <source>Excluded/Included</source>
         <translation>Vylúčené/Zahrnuté</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="486"/>
+        <location filename="DlgSettingsCache.ui" line="478"/>
         <source>1</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="491"/>
+        <location filename="DlgSettingsCache.ui" line="483"/>
         <source>2</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="556"/>
+        <location filename="DlgSettingsCache.ui" line="548"/>
         <source>Always exclude removable drives</source>
         <translation>Vždy vylúčiť odpojiteľné zariadenia</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="563"/>
+        <location filename="DlgSettingsCache.ui" line="555"/>
         <source>Always exclude CD/DVD drives</source>
         <translation>Vždy vylúčiť CD/DVD mechaniky</translation>
     </message>
@@ -13775,7 +13779,7 @@ Chcete ho priradiť znova?</translation>
 <context>
     <name>DlgSettingsKeywords</name>
     <message>
-        <location filename="DlgSettingsKeywords.cpp" line="70"/>
+        <location filename="DlgSettingsKeywords.cpp" line="75"/>
         <source>Locale</source>
         <translation>Lokálne</translation>
     </message>
@@ -13783,47 +13787,47 @@ Chcete ho priradiť znova?</translation>
 <context>
     <name>DlgSettingsKeywordsClass</name>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="191"/>
+        <location filename="DlgSettingsKeywords.ui" line="205"/>
         <source>Read hierarchical keywords from images as categories</source>
         <oldsource>Read hierarchical keywords</oldsource>
         <translation>Čítať hierarchické kľúčové slová z obrázkov ako kategórie</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="292"/>
+        <location filename="DlgSettingsKeywords.ui" line="306"/>
         <source>Automatically assign parent Category (Ctrl+click for current only)</source>
         <oldsource>Automatically apply parent category (Ctrl+click for single category)</oldsource>
         <translation>Automaticky použiť nadradenú kategóriu (Ctrl+klik pre jednu kategóriu)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="180"/>
+        <location filename="DlgSettingsKeywords.ui" line="194"/>
         <source>Update when file is changed outside (date/size)</source>
         <translation>Aktualizovať pri zmene súboru iným programom (dátum/čas)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="285"/>
+        <location filename="DlgSettingsKeywords.ui" line="299"/>
         <source>Write categories into images as hierarchical keywords</source>
         <oldsource>Write categories into images as hierachical keywords</oldsource>
         <translation>Zapísať kategórie do obrázkov ako hierarchické kľúčové slová</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="338"/>
+        <location filename="DlgSettingsKeywords.ui" line="352"/>
         <source>Create or update XMP Sidecar</source>
         <oldsource>Update or create XMP Sidecar</oldsource>
         <translation>Aktualizovať alebo vytvoriť XMP sprievodný súbor</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="375"/>
+        <location filename="DlgSettingsKeywords.ui" line="389"/>
         <source>Naming convention</source>
         <translation>Konvencia pomenovania</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="381"/>
+        <location filename="DlgSettingsKeywords.ui" line="395"/>
         <source>&lt;filename&gt;.xmp</source>
         <oldsource>Filename.xmp</oldsource>
         <translation>&lt;názov&gt;.xmp</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="388"/>
+        <location filename="DlgSettingsKeywords.ui" line="402"/>
         <source>&lt;filename&gt;.&lt;extension&gt;.xmp</source>
         <oldsource>Filename.extension.xmp</oldsource>
         <translation>&lt;názov&gt;.&lt;prípona&gt;.xmp</translation>
@@ -13835,124 +13839,124 @@ Chcete ho priradiť znova?</translation>
         <translation>Metaúdaje</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="302"/>
+        <location filename="DlgSettingsKeywords.ui" line="316"/>
         <source>Comment</source>
         <translation>Komentár</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="308"/>
+        <location filename="DlgSettingsKeywords.ui" line="322"/>
         <source>Write comment in XMP (dc:description and exif:UserComment)</source>
         <translation>Zapísať komentár do XMP (dc:popis a exif:UžívateľskýKomentár)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="332"/>
+        <location filename="DlgSettingsKeywords.ui" line="346"/>
         <source>Sidecar</source>
         <translation>Postranný vozík</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="366"/>
+        <location filename="DlgSettingsKeywords.ui" line="380"/>
         <source>Update master file</source>
         <translation>Aktualizácia hlavného súboru</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="431"/>
+        <location filename="DlgSettingsKeywords.ui" line="445"/>
         <source>Video files</source>
         <translation>Video súbory</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="438"/>
+        <location filename="DlgSettingsKeywords.ui" line="452"/>
         <source>Other files</source>
         <translation>Iné súbory</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="462"/>
+        <location filename="DlgSettingsKeywords.ui" line="476"/>
         <source>Encoding</source>
         <translation>Kódovanie</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="476"/>
-        <location filename="DlgSettingsKeywords.ui" line="526"/>
+        <location filename="DlgSettingsKeywords.ui" line="490"/>
+        <location filename="DlgSettingsKeywords.ui" line="540"/>
         <source>Default encoding</source>
         <translation>Predvolené kódovanie</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="518"/>
+        <location filename="DlgSettingsKeywords.ui" line="532"/>
         <source>Embedded comment</source>
         <translation>Zapustený komentár</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="820"/>
+        <location filename="DlgSettingsKeywords.ui" line="834"/>
         <source>Label</source>
         <translation>Popis</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="770"/>
+        <location filename="DlgSettingsKeywords.ui" line="784"/>
         <source>Read (separated by ,)</source>
         <translation>Načítať (oddelené pomocou ,)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="813"/>
+        <location filename="DlgSettingsKeywords.ui" line="827"/>
         <source>Write</source>
         <translation>Zapísať</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="508"/>
+        <location filename="DlgSettingsKeywords.ui" line="522"/>
         <source>Use UTF-8 to write IPTC fields</source>
         <oldsource>Use utf8 to write IPTC fields</oldsource>
         <translation>Používať UTF-8 pre zápis IPTC položiek</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="45"/>
+        <location filename="DlgSettingsKeywords.ui" line="152"/>
         <source>Import</source>
         <translation>Importovať</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="52"/>
+        <location filename="DlgSettingsKeywords.ui" line="66"/>
         <source>Export</source>
         <translation>Exportovať</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="59"/>
+        <location filename="DlgSettingsKeywords.ui" line="52"/>
         <source>Rating</source>
         <translation>Hodnotenie</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="80"/>
+        <location filename="DlgSettingsKeywords.ui" line="121"/>
         <source>Color label</source>
         <translation>Farebný štítok</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="114"/>
+        <location filename="DlgSettingsKeywords.ui" line="128"/>
         <source>Categories</source>
         <translation>Kategórie</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="142"/>
+        <location filename="DlgSettingsKeywords.ui" line="159"/>
         <source>Face tag</source>
         <translation>Označenie tváre</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="169"/>
+        <location filename="DlgSettingsKeywords.ui" line="183"/>
         <source>Categories and keywords</source>
         <translation>Kategórie a kľúčové slová</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="398"/>
+        <location filename="DlgSettingsKeywords.ui" line="412"/>
         <source>Supported formats</source>
         <translation>Podporované formáty</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="569"/>
+        <location filename="DlgSettingsKeywords.ui" line="583"/>
         <source>Copyright</source>
         <translation>Autorské právo</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="603"/>
+        <location filename="DlgSettingsKeywords.ui" line="617"/>
         <source>Image description</source>
         <translation>Popis obrázka</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="652"/>
+        <location filename="DlgSettingsKeywords.ui" line="666"/>
         <source>Color labels</source>
         <oldsource>Labels</oldsource>
         <translation>Farebné štítky</translation>
@@ -18696,8 +18700,12 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="66"/>
-        <source>Original tr. ref.</source>
-        <translation>Orig. prenosová ref.</translation>
+        <location filename="IptcHelper.cpp" line="51"/>
+        <location filename="SearchField.cpp" line="77"/>
+        <location filename="TemplateData.cpp" line="2773"/>
+        <source>Original transmission reference</source>
+        <oldsource>Original tr. ref.</oldsource>
+        <translation type="unfinished">Orig. prenosová ref.</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="67"/>
@@ -18772,7 +18780,10 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <translation>Názov krajiny (obsahu)</translation>
     </message>
     <message>
+        <location filename="InfoIPTCView.cpp" line="66"/>
         <location filename="IptcHelper.cpp" line="51"/>
+        <location filename="SearchField.cpp" line="77"/>
+        <location filename="TemplateData.cpp" line="2773"/>
         <source>Original transmission reference</source>
         <translation>Originálna prenosová referencia</translation>
     </message>
@@ -18804,10 +18815,13 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <translation>Cyklus</translation>
     </message>
     <message>
+        <location filename="InfoIPTCView.cpp" line="66"/>
+        <location filename="IptcHelper.cpp" line="51"/>
         <location filename="SearchField.cpp" line="77"/>
         <location filename="TemplateData.cpp" line="2773"/>
-        <source>Original trans. ref.</source>
-        <translation>Originálna pren. ref.</translation>
+        <source>Original transmission reference</source>
+        <oldsource>Original trans. ref.</oldsource>
+        <translation type="unfinished">Originálna pren. ref.</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="118"/>
@@ -22968,11 +22982,6 @@ Môžete to zmeniť v Nastavenia › Katalóg.</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="1680"/>
-        <source>&lt;Default&gt;</source>
-        <translation type="unfinished">&lt;Predvolená&gt;</translation>
-    </message>
-    <message>
-        <location filename="MyThumbView.cpp" line="1691"/>
         <source>Customize header...</source>
         <translation type="unfinished"></translation>
     </message>

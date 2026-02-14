@@ -6881,6 +6881,17 @@ Tente iniciar com direitos de administrador.</translation>
     </message>
 </context>
 <context>
+    <name>DlgHistoryList</name>
+    <message>
+        <source>Save preset</source>
+        <translation type="unfinished">Salvar predefinição</translation>
+    </message>
+    <message>
+        <source>Preset name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>DlgHistoryListClass</name>
     <message>
         <source>History</source>
@@ -9163,10 +9174,6 @@ Deseja removê-los da lista?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Header</source>
-        <translation type="unfinished">Cabeçalho</translation>
-    </message>
-    <message>
         <source>Label</source>
         <translation type="unfinished">Rótulo</translation>
     </message>
@@ -9179,12 +9186,12 @@ Deseja removê-los da lista?</translation>
         <translation type="unfinished">Limpar tudo</translation>
     </message>
     <message>
-        <source>...</source>
-        <translation type="unfinished">...</translation>
-    </message>
-    <message>
         <source>&lt;Default&gt;</source>
         <translation type="unfinished">&lt;Padrão&gt;</translation>
+    </message>
+    <message>
+        <source>Filelist header</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9409,10 +9416,6 @@ Deseja verificar primeiro se há entradas afetadas?</translation>
     <message>
         <source>Base path of files</source>
         <translation>Caminho base dos arquivos</translation>
-    </message>
-    <message>
-        <source>Store Exiftool fields</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Update metadata</source>
@@ -14313,10 +14316,6 @@ Deseja excluir o favorito &quot;%1&quot;?</translation>
         <translation>Código do país</translation>
     </message>
     <message>
-        <source>Original tr. ref.</source>
-        <translation>Ref. de tr. original.</translation>
-    </message>
-    <message>
         <source>Created date</source>
         <translation>Data de criação</translation>
     </message>
@@ -14367,10 +14366,6 @@ Deseja excluir o favorito &quot;%1&quot;?</translation>
     <message>
         <source>Cycle</source>
         <translation>Ciclo</translation>
-    </message>
-    <message>
-        <source>Original trans. ref.</source>
-        <translation>Ref. de trans. original.</translation>
     </message>
     <message>
         <source>Creator</source>
@@ -17576,10 +17571,6 @@ Deseja continuar?</translation>
 You can change it in Settings › Catalog.</source>
         <translation>O tamanho das miniaturas em cache é menor que o escolhido.
 Você pode alterá-lo em Configurações › Catálogo.</translation>
-    </message>
-    <message>
-        <source>&lt;Default&gt;</source>
-        <translation type="unfinished">&lt;Padrão&gt;</translation>
     </message>
     <message>
         <source>Customize header...</source>

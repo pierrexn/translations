@@ -6895,6 +6895,17 @@ Te rugăm să încerci să pornești programul cu drepturi de administrator.</tr
     </message>
 </context>
 <context>
+    <name>DlgHistoryList</name>
+    <message>
+        <source>Save preset</source>
+        <translation type="unfinished">Salvează presetarea</translation>
+    </message>
+    <message>
+        <source>Preset name:</source>
+        <translation type="unfinished">Numele presetării:</translation>
+    </message>
+</context>
+<context>
     <name>DlgHistoryListClass</name>
     <message>
         <source>Name</source>
@@ -9177,10 +9188,6 @@ Vrei să le redenumești?</translation>
         <translation>Golește lista de fișiere bifate</translation>
     </message>
     <message>
-        <source>Header</source>
-        <translation>Antet</translation>
-    </message>
-    <message>
         <source>Label</source>
         <translation>Etichetă</translation>
     </message>
@@ -9193,12 +9200,12 @@ Vrei să le redenumești?</translation>
         <translation>Curăţă tot</translation>
     </message>
     <message>
-        <source>...</source>
-        <translation>...</translation>
-    </message>
-    <message>
         <source>&lt;Default&gt;</source>
         <translation>&lt;Implicit&gt;</translation>
+    </message>
+    <message>
+        <source>Filelist header</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9423,10 +9430,6 @@ Dorești să verifici mai întâi intrările afectate?</translation>
     <message>
         <source>Maintenance...</source>
         <translation>Mentenanță...</translation>
-    </message>
-    <message>
-        <source>Store Exiftool fields</source>
-        <translation>Stochează câmpurile Exiftool-ului (uneltei Exif)</translation>
     </message>
     <message>
         <source>Update metadata</source>
@@ -14286,10 +14289,6 @@ Dorești să ștergi favoritul „%1”?</translation>
         <translation>Stat/Provincie</translation>
     </message>
     <message>
-        <source>Original trans. ref.</source>
-        <translation>Traducere de referință originală</translation>
-    </message>
-    <message>
         <source>Digitized date</source>
         <translation>Data la care a fost digitizată</translation>
     </message>
@@ -14312,10 +14311,6 @@ Dorești să ștergi favoritul „%1”?</translation>
     <message>
         <source>Job ID</source>
         <translation>ID-ul sarcinii</translation>
-    </message>
-    <message>
-        <source>Original tr. ref.</source>
-        <translation>Ref. de trans. originale</translation>
     </message>
     <message>
         <source>Location</source>
@@ -17587,10 +17582,6 @@ Vrei să continui?</translation>
 You can change it in Settings › Catalog.</source>
         <translation>Dimensiunea miniaturilor din cache este mai mică decât cea aleasă.
 O poți schimba în Setări › Catalog.</translation>
-    </message>
-    <message>
-        <source>&lt;Default&gt;</source>
-        <translation>&lt;Implicit&gt;</translation>
     </message>
     <message>
         <source>Customize header...</source>

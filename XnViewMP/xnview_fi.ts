@@ -6879,6 +6879,17 @@ Käynnistä ohjelma uudelleen ylläpitäjän oikeuksilla.</translation>
     </message>
 </context>
 <context>
+    <name>DlgHistoryList</name>
+    <message>
+        <source>Save preset</source>
+        <translation type="unfinished">Tallenna esiasetus</translation>
+    </message>
+    <message>
+        <source>Preset name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>DlgHistoryListClass</name>
     <message>
         <source>Name</source>
@@ -9165,10 +9176,6 @@ Haluatko poistaa ne?</translation>
         <translation>Tyhjennä tarkistettujen tiedostojen luettelo</translation>
     </message>
     <message>
-        <source>Header</source>
-        <translation type="unfinished">Ylätunniste</translation>
-    </message>
-    <message>
         <source>Label</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9181,12 +9188,12 @@ Haluatko poistaa ne?</translation>
         <translation type="unfinished">Tyhjennä kaikki</translation>
     </message>
     <message>
-        <source>...</source>
-        <translation type="unfinished">...</translation>
-    </message>
-    <message>
         <source>&lt;Default&gt;</source>
         <translation type="unfinished">&lt;Oletus&gt;</translation>
+    </message>
+    <message>
+        <source>Filelist header</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9412,10 +9419,6 @@ Haluatko ensin tarkastaa tiedot, joihin tämä vaikuttaa?</translation>
     <message>
         <source>Base path of files</source>
         <translation>Tiedostojen peruspolku</translation>
-    </message>
-    <message>
-        <source>Store Exiftool fields</source>
-        <translation>Tallenna Exiftool-kentät</translation>
     </message>
     <message>
         <source>Update metadata</source>
@@ -14275,10 +14278,6 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
         <translation>Osavaltio/Maakunta</translation>
     </message>
     <message>
-        <source>Original trans. ref.</source>
-        <translation>Alkuperäinen siirt.viit.</translation>
-    </message>
-    <message>
         <source>Digitized date</source>
         <translation>Digitointipäivä</translation>
     </message>
@@ -14301,10 +14300,6 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     <message>
         <source>Job ID</source>
         <translation>työ ID</translation>
-    </message>
-    <message>
-        <source>Original tr. ref.</source>
-        <translation>Alkuperäinen siirt. viit.</translation>
     </message>
     <message>
         <source>Location</source>
@@ -17573,10 +17568,6 @@ Jatketaanko?</translation>
 You can change it in Settings › Catalog.</source>
         <translation>Välimuistissa olevien pienoiskuvien koko on valittua pienempi.
 Voit muuttaa sitä asetusten kohdasta &quot;Katalogi&quot;.</translation>
-    </message>
-    <message>
-        <source>&lt;Default&gt;</source>
-        <translation type="unfinished">&lt;Oletus&gt;</translation>
     </message>
     <message>
         <source>Customize header...</source>

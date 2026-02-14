@@ -8271,52 +8271,52 @@ Please try to start with admin rights.</source>
         <translation>文件列表</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.ui" line="20"/>
+        <location filename="DlgFileListing.ui" line="22"/>
         <source>Add column</source>
         <translation>添加列</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.ui" line="53"/>
+        <location filename="DlgFileListing.ui" line="80"/>
         <source>Format</source>
         <translation>格式</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.ui" line="61"/>
+        <location filename="DlgFileListing.ui" line="88"/>
         <source>Text</source>
         <translation>文字</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.ui" line="84"/>
+        <location filename="DlgFileListing.ui" line="111"/>
         <source>Include subfolders</source>
         <translation>包括子目录</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.ui" line="91"/>
+        <location filename="DlgFileListing.ui" line="118"/>
         <source>Only image files</source>
         <translation>仅图像文件</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.ui" line="98"/>
+        <location filename="DlgFileListing.ui" line="125"/>
         <source>Append to file</source>
         <translation>追加到文件</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.cpp" line="76"/>
+        <location filename="DlgFileListing.cpp" line="121"/>
         <source>Preview</source>
         <translation>预览</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.cpp" line="78"/>
+        <location filename="DlgFileListing.cpp" line="123"/>
         <source>Copy to Clipboard</source>
         <translation>复制到剪贴板</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.cpp" line="81"/>
+        <location filename="DlgFileListing.cpp" line="126"/>
         <source>Save as...</source>
         <translation>另存为…</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.cpp" line="121"/>
+        <location filename="DlgFileListing.cpp" line="167"/>
         <source>Export file listing</source>
         <translation>导出文件列表</translation>
     </message>
@@ -8843,6 +8843,19 @@ Please try to start with admin rights.</source>
         <location filename="DlgGrid.ui" line="362"/>
         <source>Label</source>
         <translation>标签</translation>
+    </message>
+</context>
+<context>
+    <name>DlgHistoryList</name>
+    <message>
+        <location filename="DlgHistoryList.h" line="26"/>
+        <source>Save preset</source>
+        <translation type="unfinished">保存预设</translation>
+    </message>
+    <message>
+        <location filename="DlgHistoryList.h" line="27"/>
+        <source>Preset name:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11500,42 +11513,42 @@ Do you want to remove them?</source>
 <context>
     <name>DlgSettingsBrowser</name>
     <message>
-        <location filename="DlgSettingsBrowser.cpp" line="323"/>
+        <location filename="DlgSettingsBrowser.cpp" line="363"/>
         <source>Clear All</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.cpp" line="323"/>
+        <location filename="DlgSettingsBrowser.cpp" line="363"/>
         <source>Remove all items from the list?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.cpp" line="334"/>
+        <location filename="DlgSettingsBrowser.cpp" line="374"/>
         <source>Default</source>
         <translation type="unfinished">默认</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.cpp" line="334"/>
+        <location filename="DlgSettingsBrowser.cpp" line="374"/>
         <source>Reset list to default?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.cpp" line="485"/>
+        <location filename="DlgSettingsBrowser.cpp" line="525"/>
         <source>Expand All</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.cpp" line="490"/>
+        <location filename="DlgSettingsBrowser.cpp" line="530"/>
         <source>Collapse All</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.cpp" line="800"/>
+        <location filename="DlgSettingsBrowser.cpp" line="842"/>
         <source>Save Preset</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.cpp" line="800"/>
+        <location filename="DlgSettingsBrowser.cpp" line="842"/>
         <source>Preset name:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11615,7 +11628,8 @@ Do you want to remove them?</source>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="498"/>
-        <source>Header</source>
+        <source>Filelist header</source>
+        <oldsource>Header</oldsource>
         <translation type="unfinished">页眉</translation>
     </message>
     <message>
@@ -11632,11 +11646,6 @@ Do you want to remove them?</source>
         <location filename="DlgSettingsBrowser.ui" line="546"/>
         <source>Clear all</source>
         <translation type="unfinished">全部清除</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsBrowser.ui" line="648"/>
-        <source>...</source>
-        <translation type="unfinished">…</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="700"/>
@@ -11799,15 +11808,15 @@ Do you want to remove them?</source>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="92"/>
-        <location filename="DlgSettingsCache.cpp" line="295"/>
-        <location filename="DlgSettingsCache.cpp" line="715"/>
+        <location filename="DlgSettingsCache.cpp" line="294"/>
+        <location filename="DlgSettingsCache.cpp" line="711"/>
         <source>Excluded</source>
         <translatorcomment>除外</translatorcomment>
         <translation>排除</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="93"/>
-        <location filename="DlgSettingsCache.cpp" line="295"/>
+        <location filename="DlgSettingsCache.cpp" line="294"/>
         <source>Included</source>
         <translation>包含</translation>
     </message>
@@ -11839,18 +11848,18 @@ Do you want to change the &apos;base path&apos;?</source>
 您想更改 &quot;基本路径 &quot;吗？</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="362"/>
-        <location filename="DlgSettingsCache.cpp" line="605"/>
+        <location filename="DlgSettingsCache.cpp" line="360"/>
+        <location filename="DlgSettingsCache.cpp" line="601"/>
         <source>Catalog - Remove Entries</source>
         <translation type="unfinished">缓存数据库 - 删除项目</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="513"/>
+        <location filename="DlgSettingsCache.cpp" line="511"/>
         <source>Catalog - Synchronize Folders</source>
         <translation type="unfinished">缓存数据库 - 同步目录</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="514"/>
+        <location filename="DlgSettingsCache.cpp" line="512"/>
         <source>All orphaned files will be deleted from Catalog.
 
 Do you want to continue?</source>
@@ -11860,33 +11869,33 @@ Do you want to continue?</source>
 是否继续？</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="547"/>
+        <location filename="DlgSettingsCache.cpp" line="543"/>
         <source>Updating database, please wait...</source>
         <translation type="unfinished">正在更新数据库，请稍候……</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="564"/>
+        <location filename="DlgSettingsCache.cpp" line="560"/>
         <source>Catalog - Relocate the folder</source>
         <oldsource>Relocate the folder</oldsource>
         <translation type="unfinished">缓存数据库 - 重新定位文件夹</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="564"/>
+        <location filename="DlgSettingsCache.cpp" line="560"/>
         <source>New path:</source>
         <translation>新路径:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="564"/>
+        <location filename="DlgSettingsCache.cpp" line="560"/>
         <source>Old path:</source>
         <translation>原路径:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="582"/>
+        <location filename="DlgSettingsCache.cpp" line="578"/>
         <source>Catalog Maintenance</source>
         <translation>缓存数据库维护</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="583"/>
+        <location filename="DlgSettingsCache.cpp" line="579"/>
         <source>Some database entries with assigned Rating, 
 Color labels, Keywords may be deleted. 
 
@@ -11895,8 +11904,8 @@ Do you want to check for affected entries first?</source>
         <translation type="unfinished">警告！此操作可删除数据库中的某些已指定了评级信息、颜色信息或关键词的条目。是否想要先对这些条目进行确认？</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="363"/>
-        <location filename="DlgSettingsCache.cpp" line="606"/>
+        <location filename="DlgSettingsCache.cpp" line="361"/>
+        <location filename="DlgSettingsCache.cpp" line="602"/>
         <source>Catalog entries with Categories, Rating &amp; Color labels will be removed. 
 
 If information is exported into embedded or sidecar metadata, 
@@ -11933,7 +11942,7 @@ Do you want to remove entries assigned to a category?</oldsource>
         <translation>缓存缩略图最大容量</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="277"/>
+        <location filename="DlgSettingsCache.ui" line="270"/>
         <source>Base path of files</source>
         <oldsource>Base path of your pictures</oldsource>
         <translation type="unfinished">图像基准路径</translation>
@@ -11980,97 +11989,92 @@ Do you want to remove entries assigned to a category?</oldsource>
         <translation>启动时检查缓存的完整性</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="265"/>
-        <source>Store Exiftool fields</source>
-        <translation type="unfinished">存储 Exiftool 字段</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsCache.ui" line="311"/>
+        <location filename="DlgSettingsCache.ui" line="304"/>
         <source>Directory</source>
         <oldsource>Cached directory</oldsource>
         <translation>缓存目录</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="316"/>
+        <location filename="DlgSettingsCache.ui" line="309"/>
         <source>Files</source>
         <translation>文件</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="321"/>
+        <location filename="DlgSettingsCache.ui" line="314"/>
         <source>Size</source>
         <translation>尺寸</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="336"/>
-        <location filename="DlgSettingsCache.ui" line="527"/>
+        <location filename="DlgSettingsCache.ui" line="329"/>
+        <location filename="DlgSettingsCache.ui" line="519"/>
         <source>Delete</source>
         <translation>删除</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="343"/>
-        <location filename="DlgSettingsCache.ui" line="534"/>
+        <location filename="DlgSettingsCache.ui" line="336"/>
+        <location filename="DlgSettingsCache.ui" line="526"/>
         <source>Delete all</source>
         <translation>删除全部</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="382"/>
+        <location filename="DlgSettingsCache.ui" line="375"/>
         <source>Maintenance...</source>
         <translation>维护…</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="389"/>
+        <location filename="DlgSettingsCache.ui" line="382"/>
         <source>Import folder...</source>
         <translation>导入文件夹…</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="423"/>
+        <location filename="DlgSettingsCache.ui" line="416"/>
         <source>Rebuild thumbnails</source>
         <translation>重建缩略图</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="437"/>
+        <location filename="DlgSettingsCache.ui" line="430"/>
         <source>Update metadata</source>
         <oldsource>Update metadata...</oldsource>
         <translation>更新元数据</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="501"/>
+        <location filename="DlgSettingsCache.ui" line="493"/>
         <source>Add folder...</source>
         <translation>添加文件夹…</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="399"/>
+        <location filename="DlgSettingsCache.ui" line="392"/>
         <source>Relocate...</source>
         <translation>重新定位…</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="430"/>
+        <location filename="DlgSettingsCache.ui" line="423"/>
         <source>Synchronize Folders...</source>
         <oldsource>Check folders...</oldsource>
         <translation>同步文件夹…</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="461"/>
+        <location filename="DlgSettingsCache.ui" line="453"/>
         <source>Excluded/Included</source>
         <translation>包含/除外</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="486"/>
+        <location filename="DlgSettingsCache.ui" line="478"/>
         <source>1</source>
         <translation>1</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="491"/>
+        <location filename="DlgSettingsCache.ui" line="483"/>
         <source>2</source>
         <translation>2</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="556"/>
+        <location filename="DlgSettingsCache.ui" line="548"/>
         <source>Always exclude removable drives</source>
         <translation>总是排除可移动驱动器</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="563"/>
+        <location filename="DlgSettingsCache.ui" line="555"/>
         <source>Always exclude CD/DVD drives</source>
         <translation>总是排除CD/DVD驱动器</translation>
     </message>
@@ -13751,7 +13755,7 @@ Do you want to reassign?</source>
 <context>
     <name>DlgSettingsKeywords</name>
     <message>
-        <location filename="DlgSettingsKeywords.cpp" line="70"/>
+        <location filename="DlgSettingsKeywords.cpp" line="75"/>
         <source>Locale</source>
         <translation>区域</translation>
     </message>
@@ -13759,48 +13763,48 @@ Do you want to reassign?</source>
 <context>
     <name>DlgSettingsKeywordsClass</name>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="191"/>
+        <location filename="DlgSettingsKeywords.ui" line="205"/>
         <source>Read hierarchical keywords from images as categories</source>
         <oldsource>Read hierarchical keywords</oldsource>
         <translation type="unfinished">从图像分类读取分层的关键词</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="292"/>
+        <location filename="DlgSettingsKeywords.ui" line="306"/>
         <source>Automatically assign parent Category (Ctrl+click for current only)</source>
         <oldsource>Automatically apply parent category (Ctrl+click for single category)</oldsource>
         <translation type="unfinished">自动采用父关键字(Ctrl+单击应用单个关键词）</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="180"/>
+        <location filename="DlgSettingsKeywords.ui" line="194"/>
         <source>Update when file is changed outside (date/size)</source>
         <translation type="unfinished">当文件在外部被改变(日期/大小)时进行更新</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="338"/>
+        <location filename="DlgSettingsKeywords.ui" line="352"/>
         <source>Create or update XMP Sidecar</source>
         <oldsource>Update or create XMP Sidecar</oldsource>
         <translatorcomment>待确定</translatorcomment>
         <translation type="unfinished">更新或创建 XMP Sidecar</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="375"/>
+        <location filename="DlgSettingsKeywords.ui" line="389"/>
         <source>Naming convention</source>
         <translation type="unfinished">命名转换</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="381"/>
+        <location filename="DlgSettingsKeywords.ui" line="395"/>
         <source>&lt;filename&gt;.xmp</source>
         <oldsource>Filename.xmp</oldsource>
         <translation>&lt;文件名&gt;.xmp</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="388"/>
+        <location filename="DlgSettingsKeywords.ui" line="402"/>
         <source>&lt;filename&gt;.&lt;extension&gt;.xmp</source>
         <oldsource>Filename.extension.xmp</oldsource>
         <translation>&lt;文件名&gt;.&lt;扩展名&gt;.xmp</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="285"/>
+        <location filename="DlgSettingsKeywords.ui" line="299"/>
         <source>Write categories into images as hierarchical keywords</source>
         <oldsource>Write categories into images as hierachical keywords</oldsource>
         <translation type="unfinished">写入层级关键字</translation>
@@ -13812,124 +13816,124 @@ Do you want to reassign?</source>
         <translation>元数据</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="45"/>
+        <location filename="DlgSettingsKeywords.ui" line="152"/>
         <source>Import</source>
         <translation type="unfinished">导入</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="52"/>
+        <location filename="DlgSettingsKeywords.ui" line="66"/>
         <source>Export</source>
         <translation type="unfinished">导出</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="59"/>
+        <location filename="DlgSettingsKeywords.ui" line="52"/>
         <source>Rating</source>
         <translation type="unfinished">评级</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="80"/>
+        <location filename="DlgSettingsKeywords.ui" line="121"/>
         <source>Color label</source>
         <translation type="unfinished">颜色标签</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="114"/>
+        <location filename="DlgSettingsKeywords.ui" line="128"/>
         <source>Categories</source>
         <translation type="unfinished">分类</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="142"/>
+        <location filename="DlgSettingsKeywords.ui" line="159"/>
         <source>Face tag</source>
         <translation type="unfinished">脸部标记</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="169"/>
+        <location filename="DlgSettingsKeywords.ui" line="183"/>
         <source>Categories and keywords</source>
         <translation>分类及关键字</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="302"/>
+        <location filename="DlgSettingsKeywords.ui" line="316"/>
         <source>Comment</source>
         <translation>注释</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="308"/>
+        <location filename="DlgSettingsKeywords.ui" line="322"/>
         <source>Write comment in XMP (dc:description and exif:UserComment)</source>
         <translation type="unfinished">将注释写入XMP（dc:描述 exif:用户注释）</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="332"/>
+        <location filename="DlgSettingsKeywords.ui" line="346"/>
         <source>Sidecar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="366"/>
+        <location filename="DlgSettingsKeywords.ui" line="380"/>
         <source>Update master file</source>
         <translation>更新主文件</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="431"/>
+        <location filename="DlgSettingsKeywords.ui" line="445"/>
         <source>Video files</source>
         <translation>视频文件</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="438"/>
+        <location filename="DlgSettingsKeywords.ui" line="452"/>
         <source>Other files</source>
         <translation>其他文件</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="462"/>
+        <location filename="DlgSettingsKeywords.ui" line="476"/>
         <source>Encoding</source>
         <translation>编码</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="476"/>
-        <location filename="DlgSettingsKeywords.ui" line="526"/>
+        <location filename="DlgSettingsKeywords.ui" line="490"/>
+        <location filename="DlgSettingsKeywords.ui" line="540"/>
         <source>Default encoding</source>
         <translation>默认编码</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="518"/>
+        <location filename="DlgSettingsKeywords.ui" line="532"/>
         <source>Embedded comment</source>
         <translation>内嵌的注释</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="652"/>
+        <location filename="DlgSettingsKeywords.ui" line="666"/>
         <source>Color labels</source>
         <oldsource>Labels</oldsource>
         <translation type="unfinished">标签</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="820"/>
+        <location filename="DlgSettingsKeywords.ui" line="834"/>
         <source>Label</source>
         <translation>标签</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="770"/>
+        <location filename="DlgSettingsKeywords.ui" line="784"/>
         <source>Read (separated by ,)</source>
         <translation>读取(以 , 分隔)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="398"/>
+        <location filename="DlgSettingsKeywords.ui" line="412"/>
         <source>Supported formats</source>
         <translation type="unfinished">支持的格式</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="569"/>
+        <location filename="DlgSettingsKeywords.ui" line="583"/>
         <source>Copyright</source>
         <translation type="unfinished">版权</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="603"/>
+        <location filename="DlgSettingsKeywords.ui" line="617"/>
         <source>Image description</source>
         <translation type="unfinished">图像描述</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="813"/>
+        <location filename="DlgSettingsKeywords.ui" line="827"/>
         <source>Write</source>
         <translation>写入</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="508"/>
+        <location filename="DlgSettingsKeywords.ui" line="522"/>
         <source>Use UTF-8 to write IPTC fields</source>
         <translation>使用UTF-8编码写入IPTC</translation>
     </message>
@@ -18692,8 +18696,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="66"/>
-        <source>Original tr. ref.</source>
-        <translation>原始传输参考</translation>
+        <location filename="IptcHelper.cpp" line="51"/>
+        <location filename="SearchField.cpp" line="77"/>
+        <location filename="TemplateData.cpp" line="2773"/>
+        <source>Original transmission reference</source>
+        <oldsource>Original tr. ref.</oldsource>
+        <translation type="unfinished">原始传输参考</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="67"/>
@@ -18768,7 +18776,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>摄影地点</translation>
     </message>
     <message>
+        <location filename="InfoIPTCView.cpp" line="66"/>
         <location filename="IptcHelper.cpp" line="51"/>
+        <location filename="SearchField.cpp" line="77"/>
+        <location filename="TemplateData.cpp" line="2773"/>
         <source>Original transmission reference</source>
         <translation>原始传输参考</translation>
     </message>
@@ -18801,10 +18812,13 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>周期</translation>
     </message>
     <message>
+        <location filename="InfoIPTCView.cpp" line="66"/>
+        <location filename="IptcHelper.cpp" line="51"/>
         <location filename="SearchField.cpp" line="77"/>
         <location filename="TemplateData.cpp" line="2773"/>
-        <source>Original trans. ref.</source>
-        <translation>原始传输参考</translation>
+        <source>Original transmission reference</source>
+        <oldsource>Original trans. ref.</oldsource>
+        <translation type="unfinished">原始传输参考</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="118"/>
@@ -22970,11 +22984,6 @@ You can change it in Settings › Catalog.</oldsource>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="1680"/>
-        <source>&lt;Default&gt;</source>
-        <translation type="unfinished">&lt;默认&gt;</translation>
-    </message>
-    <message>
-        <location filename="MyThumbView.cpp" line="1691"/>
         <source>Customize header...</source>
         <translation type="unfinished"></translation>
     </message>

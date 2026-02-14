@@ -6879,6 +6879,17 @@ Por favor, intente iniciar con derechos de Administrador.</translation>
     </message>
 </context>
 <context>
+    <name>DlgHistoryList</name>
+    <message>
+        <source>Save preset</source>
+        <translation type="unfinished">Guardar ajuste preestablecido</translation>
+    </message>
+    <message>
+        <source>Preset name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>DlgHistoryListClass</name>
     <message>
         <source>Name</source>
@@ -9160,10 +9171,6 @@ Do you want to remove them?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Header</source>
-        <translation type="unfinished">Encabezado</translation>
-    </message>
-    <message>
         <source>Label</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9176,12 +9183,12 @@ Do you want to remove them?</source>
         <translation type="unfinished">Limpiar todo</translation>
     </message>
     <message>
-        <source>...</source>
-        <translation type="unfinished">...</translation>
-    </message>
-    <message>
         <source>&lt;Default&gt;</source>
         <translation type="unfinished">&lt;Predeterminado&gt;</translation>
+    </message>
+    <message>
+        <source>Filelist header</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9406,10 +9413,6 @@ etiquetas de color o palabras clave pueden ser eliminadas.
     <message>
         <source>Base path of files</source>
         <translation>Ruta base de los archivos</translation>
-    </message>
-    <message>
-        <source>Store Exiftool fields</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Update metadata</source>
@@ -14269,10 +14272,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Estado/Provincia</translation>
     </message>
     <message>
-        <source>Original trans. ref.</source>
-        <translation>Referencia de transmisión original.</translation>
-    </message>
-    <message>
         <source>Author</source>
         <translation>Autor</translation>
     </message>
@@ -14287,10 +14286,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Job ID</source>
         <translation>ID del trabajo</translation>
-    </message>
-    <message>
-        <source>Original tr. ref.</source>
-        <translation>Referencia de transmisión original.</translation>
     </message>
     <message>
         <source>Location</source>
@@ -17567,10 +17562,6 @@ Do you want to continue?</source>
 You can change it in Settings › Catalog.</source>
         <translation>El tamaño de las miniaturas en caché es menor que el seleccionado. 
 Puedo cambiarlo en Configuración › Catálogo.</translation>
-    </message>
-    <message>
-        <source>&lt;Default&gt;</source>
-        <translation type="unfinished">&lt;Predeterminado&gt;</translation>
     </message>
     <message>
         <source>Customize header...</source>
