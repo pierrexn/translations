@@ -6898,11 +6898,11 @@ Te rugăm să încerci să pornești programul cu drepturi de administrator.</tr
     <name>DlgHistoryList</name>
     <message>
         <source>Save preset</source>
-        <translation type="unfinished">Salvează presetarea</translation>
+        <translation>Salvează presetarea</translation>
     </message>
     <message>
         <source>Preset name:</source>
-        <translation type="unfinished">Numele presetării:</translation>
+        <translation>Numele presetării:</translation>
     </message>
 </context>
 <context>
@@ -9205,7 +9205,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Filelist header</source>
-        <translation type="unfinished"></translation>
+        <translation>Antetul listei de fișiere</translation>
     </message>
 </context>
 <context>
