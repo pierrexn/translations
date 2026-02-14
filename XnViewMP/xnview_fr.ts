@@ -8866,12 +8866,12 @@ Essayez de relancer avec les droits administrateur.</translation>
     <message>
         <location filename="DlgHistoryList.h" line="26"/>
         <source>Save preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrer les préréglages</translation>
     </message>
     <message>
         <location filename="DlgHistoryList.h" line="27"/>
         <source>Preset name:</source>
-        <translation type="unfinished">Nom du préréglage:</translation>
+        <translation>Nom du préréglage:</translation>
     </message>
 </context>
 <context>
@@ -11643,7 +11643,7 @@ Voulez-vous les enlever?</translation>
         <location filename="DlgSettingsBrowser.ui" line="498"/>
         <source>Filelist header</source>
         <oldsource>Header</oldsource>
-        <translation type="unfinished">En-tête</translation>
+        <translation>En-tête</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="531"/>
