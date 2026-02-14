@@ -8929,12 +8929,12 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgHistoryList.h" line="26"/>
         <source>Save preset</source>
-        <translation type="unfinished">Сохранить предустановку</translation>
+        <translation>Сохранить предустановку</translation>
     </message>
     <message>
         <location filename="DlgHistoryList.h" line="27"/>
         <source>Preset name:</source>
-        <translation type="unfinished">Название предустановки:</translation>
+        <translation>Название предустановки:</translation>
     </message>
 </context>
 <context>
@@ -11715,7 +11715,7 @@ Do you want to remove them?</source>
         <location filename="DlgSettingsBrowser.ui" line="498"/>
         <source>Filelist header</source>
         <oldsource>Header</oldsource>
-        <translation type="unfinished">Заголовок</translation>
+        <translation>Заголовок списка файлов</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="531"/>
@@ -18906,7 +18906,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2773"/>
         <source>Original transmission reference</source>
         <oldsource>Original trans. ref.</oldsource>
-        <translation type="unfinished">Первоначальный идентификатор передачи</translation>
+        <translation>Первоначальный идентификатор передачи</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="104"/>
