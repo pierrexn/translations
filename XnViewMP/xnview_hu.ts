@@ -453,7 +453,7 @@
     <message>
         <location filename="AutoDateTimeEdit.h" line="89"/>
         <source>Not set</source>
-        <translation type="unfinished"></translation>
+        <translation>Nincs megadva</translation>
     </message>
 </context>
 <context>
@@ -629,7 +629,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="2045"/>
         <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi-select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right-click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Katalógusszűrő&lt;/b&gt;&lt;br&gt;Bal egérkattintás a szűréshez&lt;br&gt;&amp;bull; Shift/Ctrl - többszörös kijelölés&lt;br&gt;&amp;bull; Alt - elemek kizárása&lt;br&gt;Jobb egérkattintás a csomóponti beállítások megnyitásához&lt;br&gt;Hozzárendelés a csomópontra húzással</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2254"/>
@@ -684,7 +684,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="1981"/>
         <source>&lt;b&gt;Match&lt;/b&gt;&lt;br&gt;OR - match any selected entry&lt;br&gt;AND - match all selected entries</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Egyezés&lt;/b&gt;&lt;br&gt;VAGY - egyezés bármelyik kiválasztott bejegyzéssel&lt;br&gt;ÉS - egyezés az összes kiválasztott bejegyzéssel</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3456"/>
@@ -751,7 +751,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="3452"/>
         <source>&lt;Checked files&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Megjelölt fájlok&gt;</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3454"/>
@@ -2106,13 +2106,13 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <location filename="DBFilterModel.cpp" line="250"/>
         <location filename="DBFilterModel.cpp" line="550"/>
         <source>Check (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Megjelölés (%1)</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="250"/>
         <location filename="DBFilterModel.cpp" line="550"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Megjelölés</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1459"/>
@@ -4278,7 +4278,7 @@ Biztos folytassuk?</translation>
     <message>
         <location filename="DlgConvertAutoDeskew.ui" line="47"/>
         <source>Use anti-aliasing</source>
-        <translation type="unfinished">Élsimítás használata</translation>
+        <translation>Élsimítás használata</translation>
     </message>
 </context>
 <context>
@@ -6544,7 +6544,7 @@ Biztos folytassuk?</translation>
     <message>
         <location filename="DlgConvertRotate.ui" line="195"/>
         <source>Use anti-aliasing</source>
-        <translation type="unfinished">Élsimítás használata</translation>
+        <translation>Élsimítás használata</translation>
     </message>
     <message>
         <location filename="DlgConvertRotate.ui" line="203"/>
@@ -7405,47 +7405,47 @@ Biztos folytassuk?</translation>
     <message>
         <location filename="DlgEditEXIF.ui" line="393"/>
         <source>1 - Horizontal</source>
-        <translation type="unfinished">1 - Vízszintes</translation>
+        <translation>1 - Vízszintes</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="398"/>
         <source>2 - Mirror horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>2- Vízszintes tükrözés</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="403"/>
         <source>3 - Rotate 180</source>
-        <translation type="unfinished"></translation>
+        <translation>3 - Forgatás 180 fokkal</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="408"/>
         <source>4 - Mirror vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>4 - Függőleges tükrözés</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="413"/>
         <source>5 - Mirror horizontal and rotate 270 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>5 - Vízszintes tükrözés és forgatás 270 fokkal jobbra</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="418"/>
         <source>6 - Rotate 90 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>6 - Forgatás 90 fokkal jobbra</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="423"/>
         <source>7 - Mirror horizontal and rotate 90 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>7 - Vízszintes tükrözés és forgatás 90 fokkal jobbra</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="428"/>
         <source>8 - Rotate 270 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>8 - Forgatás 270 fokkal jobbra</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="460"/>
         <source>XP Subject</source>
-        <translation type="unfinished">XP tárgy</translation>
+        <translation>XP tárgy</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="522"/>
@@ -8847,12 +8847,12 @@ Próbálja rendszergazdai jogokkal.</translation>
     <message>
         <location filename="DlgHistoryList.h" line="26"/>
         <source>Save preset</source>
-        <translation type="unfinished">Készlet mentése</translation>
+        <translation>Készlet mentése</translation>
     </message>
     <message>
         <location filename="DlgHistoryList.h" line="27"/>
         <source>Preset name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Készlet neve:</translation>
     </message>
 </context>
 <context>
@@ -11245,17 +11245,17 @@ El szeretné őket távolítani?</translation>
     <message>
         <location filename="DlgSearch.ui" line="145"/>
         <source>Search in</source>
-        <translation type="unfinished">Keresés</translation>
+        <translation>Keresés</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="153"/>
         <source>Filesystem</source>
-        <translation type="unfinished"></translation>
+        <translation>Fájlrendszer</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="158"/>
         <source>Catalog</source>
-        <translation type="unfinished">Katalógus</translation>
+        <translation>Katalógus</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="226"/>
@@ -11507,42 +11507,42 @@ El szeretné őket távolítani?</translation>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="363"/>
         <source>Clear All</source>
-        <translation type="unfinished"></translation>
+        <translation>Mind töröl</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="363"/>
         <source>Remove all items from the list?</source>
-        <translation type="unfinished"></translation>
+        <translation>Az összes elem eltávolítása a listából?</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="374"/>
         <source>Default</source>
-        <translation type="unfinished">Alapértelmezett</translation>
+        <translation>Alapértelmezett</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="374"/>
         <source>Reset list to default?</source>
-        <translation type="unfinished"></translation>
+        <translation>A lista visszaállítása az alapértelmezett értékekre?</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="525"/>
         <source>Expand All</source>
-        <translation type="unfinished"></translation>
+        <translation>Összes kibontása</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="530"/>
         <source>Collapse All</source>
-        <translation type="unfinished"></translation>
+        <translation>Összes becsukása</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="842"/>
         <source>Save Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Készlet mentése</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="842"/>
         <source>Preset name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Készlet neve:</translation>
     </message>
 </context>
 <context>
@@ -11622,27 +11622,27 @@ El szeretné őket távolítani?</translation>
         <location filename="DlgSettingsBrowser.ui" line="498"/>
         <source>Filelist header</source>
         <oldsource>Header</oldsource>
-        <translation type="unfinished">Fejléc</translation>
+        <translation>Fájllista fejléce</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="531"/>
         <source>Label</source>
-        <translation type="unfinished">Címke</translation>
+        <translation>Címke</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="536"/>
         <source>Field</source>
-        <translation type="unfinished">Mező</translation>
+        <translation>Mező</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="546"/>
         <source>Clear all</source>
-        <translation type="unfinished">Mind töröl</translation>
+        <translation>Mind töröl</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="700"/>
         <source>&lt;Default&gt;</source>
-        <translation type="unfinished">&lt;Alapértelmezett&gt;</translation>
+        <translation>&lt;Alapértelmezett&gt;</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="291"/>
@@ -11713,7 +11713,7 @@ El szeretné őket távolítani?</translation>
         <location filename="DlgSettingsBrowser.ui" line="438"/>
         <source>Clear the list of checked files</source>
         <oldsource>Clear the list of tagged files</oldsource>
-        <translation type="unfinished">Cimkézett fájllista megtisztítása</translation>
+        <translation>A kiválasztott fájlok listájának törlése</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="446"/>
@@ -11758,7 +11758,7 @@ El szeretné őket távolítani?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="430"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Megjelölés</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="85"/>
@@ -14011,7 +14011,7 @@ Szeretné újratársítani?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="722"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Megjelölés</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="904"/>
@@ -17284,7 +17284,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="ItemModel.cpp" line="1053"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Megjelölés</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1059"/>
@@ -17557,7 +17557,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2803"/>
         <source>Check status</source>
-        <translation type="unfinished"></translation>
+        <translation>Állapot ellenőrzése</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="30"/>
@@ -18883,7 +18883,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <location filename="TemplateData.cpp" line="2773"/>
         <source>Original transmission reference</source>
         <oldsource>Original trans. ref.</oldsource>
-        <translation type="unfinished">Eredeti trans. ref.</translation>
+        <translation>Eredeti adatszolgáltatási hivatkozás</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="133"/>
@@ -19385,7 +19385,7 @@ Biztosan folytassuk?</translation>
         <location filename="ItemSelection.cpp" line="128"/>
         <source>&amp;Checked files</source>
         <oldsource>&amp;Tagged files</oldsource>
-        <translation type="unfinished">&amp;Cimkézett fájlok</translation>
+        <translation>&amp;Megjelölt fájlok</translation>
     </message>
     <message>
         <location filename="ItemSelection.cpp" line="130"/>
@@ -19849,7 +19849,7 @@ Biztosan folytassuk?</translation>
         <location filename="BrowserMenu.h" line="84"/>
         <source>Unchecked file(s)</source>
         <oldsource>Untagged file(s)</oldsource>
-        <translation type="unfinished">Címkétlen fájl(ok)</translation>
+        <translation>Megjelöletlen fájl(ok)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="299"/>
@@ -19934,7 +19934,7 @@ Biztosan folytassuk?</translation>
         <location filename="BrowserMenu.h" line="83"/>
         <source>Checked file(s)</source>
         <oldsource>Tagged file(s)</oldsource>
-        <translation type="unfinished">Cimkézett fájl(ok)</translation>
+        <translation>Megjelölt fájl(ok)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="321"/>
@@ -19949,7 +19949,7 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="BrowserMenu.h" line="463"/>
         <source>Check/Uncheck</source>
-        <translation type="unfinished"></translation>
+        <translation>Megjelölés beállítása/törlése</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="477"/>
@@ -19970,7 +19970,7 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="BrowserMenu.h" line="513"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Megjelölés</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="514"/>
@@ -20469,7 +20469,7 @@ Biztosan folytassuk?</translation>
         <location filename="BrowserMenu.h" line="443"/>
         <source>Select checked files</source>
         <oldsource>Select tagged files</oldsource>
-        <translation type="unfinished">Megjelölt fájlok kijelölése</translation>
+        <translation>Megjelölt fájlok kijelölése</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4460"/>
@@ -20553,7 +20553,7 @@ Biztosan folytassuk?</translation>
         <location filename="CompareWidget.cpp" line="462"/>
         <source>Check/Uncheck current</source>
         <oldsource>Tag/Untag current</oldsource>
-        <translation type="unfinished">Jelenlegi címkézése/címkétlenítése</translation>
+        <translation>Jelenlegi megjelölésének beállítása/törlése</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="464"/>
@@ -20564,25 +20564,25 @@ Biztosan folytassuk?</translation>
         <location filename="BrowserMenu.h" line="465"/>
         <source>Uncheck all</source>
         <oldsource>Untag all</oldsource>
-        <translation type="unfinished">Minden cimkétlenítése</translation>
+        <translation>Minden megjelölés eltávolítása</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="466"/>
         <source>Clear all checks</source>
         <oldsource>Clear all tags</oldsource>
-        <translation type="unfinished">Minden megjelölés törlése</translation>
+        <translation>Minden megjelölés törlése</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="467"/>
         <source>Show checked files</source>
         <oldsource>Show tagged files</oldsource>
-        <translation type="unfinished">Cimkézett fájlok megjelenítése</translation>
+        <translation>Megjelölt fájlok megjelenítése</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="468"/>
         <source>Show checkbox</source>
         <oldsource>Show tag box</oldsource>
-        <translation type="unfinished">Címke doboz megjelenítése</translation>
+        <translation>Jelölőnégyzet megjelenítése</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="508"/>
@@ -20782,22 +20782,22 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="BrowserMenu.h" line="585"/>
         <source>Load...</source>
-        <translation type="unfinished">Betöltés...</translation>
+        <translation>Betöltés...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="586"/>
         <source>Save...</source>
-        <translation type="unfinished">Mentés...</translation>
+        <translation>Mentés...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="587"/>
         <source>Unload all</source>
-        <translation type="unfinished"></translation>
+        <translation>Összes kiürítése</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="589"/>
         <source>Session</source>
-        <translation type="unfinished">Munkamenet</translation>
+        <translation>Munkamenet</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="590"/>
@@ -21725,7 +21725,7 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="ViewMenu.h" line="363"/>
         <source>Check/Uncheck</source>
-        <translation type="unfinished"></translation>
+        <translation>Megjelölés beállítása/törlése</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="372"/>
@@ -22933,7 +22933,7 @@ Megváltoztathatja a Beállítások › Katalógus alatt.</translation>
     <message>
         <location filename="MyThumbView.cpp" line="1680"/>
         <source>Customize header...</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejléc testreszabása...</translation>
     </message>
 </context>
 <context>
@@ -24164,7 +24164,7 @@ Megváltoztathatja a Beállítások › Katalógus alatt.</translation>
     <message>
         <location filename="SearchGroup.ui" line="92"/>
         <source>Match inside this group</source>
-        <translation>egyezés a csoportonban</translation>
+        <translation>egyezés a csoportban</translation>
     </message>
     <message>
         <location filename="SearchGroup.ui" line="100"/>
@@ -24626,7 +24626,9 @@ Megőrizzük a miniatűröket?
         <source>Catalog is disabled
 Metadata (check, ratings/colour labels and other file details)
 will not be saved to the database.</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalógus kikapcsolva
+A metaadatok (megjelölés, értékelések/színcímkék és egyéb fájlrészletek)
+nem kerülnek mentésre az adatbázisba.</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="951"/>
