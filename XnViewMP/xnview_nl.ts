@@ -8865,12 +8865,12 @@ Probeer te beginnen met beheerdersrechten.</translation>
     <message>
         <location filename="DlgHistoryList.h" line="26"/>
         <source>Save preset</source>
-        <translation type="unfinished">Voorinstelling opslaan</translation>
+        <translation>Voorinstelling opslaan</translation>
     </message>
     <message>
         <location filename="DlgHistoryList.h" line="27"/>
         <source>Preset name:</source>
-        <translation type="unfinished">Naam voorinstelling:</translation>
+        <translation>Naam voorinstelling:</translation>
     </message>
 </context>
 <context>
@@ -11640,7 +11640,7 @@ Wil je ze verwijderen?</translation>
         <location filename="DlgSettingsBrowser.ui" line="498"/>
         <source>Filelist header</source>
         <oldsource>Header</oldsource>
-        <translation type="unfinished">Koptekst</translation>
+        <translation>Koptekst bestandenlijst</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="531"/>
@@ -18902,7 +18902,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
         <location filename="TemplateData.cpp" line="2773"/>
         <source>Original transmission reference</source>
         <oldsource>Original trans. ref.</oldsource>
-        <translation type="unfinished">Originele trans. ref.</translation>
+        <translation>Originele overdrachtsreferentie</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="133"/>
