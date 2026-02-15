@@ -13182,7 +13182,7 @@ Voulez-vous le réaffecter ?</translation>
         <location filename="DlgSettingsInterface.ui" line="56"/>
         <source>Drag&amp;&amp;Drop: Open single Viewer tab for filelist</source>
         <oldsource>Drag&amp;&amp;Drop: Open one view for filelist</oldsource>
-        <translation>Copier&amp;&amp;Coller: Une seul vue pour une liste de fichiers</translation>
+        <translation>Copier&amp;&amp;Coller: Une seule vue pour une liste de fichiers</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="87"/>
