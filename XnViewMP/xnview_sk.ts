@@ -453,7 +453,7 @@
     <message>
         <location filename="AutoDateTimeEdit.h" line="89"/>
         <source>Not set</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenastavené</translation>
     </message>
 </context>
 <context>
@@ -684,12 +684,12 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="2045"/>
         <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi-select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right-click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Filter katalógu&lt;/b&gt;&lt;br&gt;Ľavým tlačidlom myši filtrujte&lt;br&gt;&amp;bull; Shift/Ctrl – viacero výberov&lt;br&gt;&amp;bull; Alt – vylúčenie položiek&lt;br&gt;Pravým tlačidlom myši otvoríte možnosti uzla&lt;br&gt;Pre priradenie potiahnite na uzol</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3452"/>
         <source>&lt;Checked files&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Skontrolované súbory&gt;</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3454"/>
