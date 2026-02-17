@@ -754,18 +754,18 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="BrowserWindow.cpp" line="1980"/>
         <location filename="BrowserWindow.cpp" line="1992"/>
         <source>AND</source>
-        <translation type="unfinished">A</translation>
+        <translation>A</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="1980"/>
         <location filename="BrowserWindow.cpp" line="1986"/>
         <source>OR</source>
-        <translation type="unfinished">ALEBO</translation>
+        <translation>ALEBO</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="1981"/>
         <source>&lt;b&gt;Match&lt;/b&gt;&lt;br&gt;OR - match any selected entry&lt;br&gt;AND - match all selected entries</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Zhoda&lt;/b&gt;&lt;br&gt;ALEBO – zhoda s ľubovoľným vybraným záznamom&lt;br&gt;A – zhoda so všetkými vybranými záznamami</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4465"/>
@@ -2102,19 +2102,19 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="197"/>
         <source>Categories</source>
-        <translation type="unfinished">Kategórie</translation>
+        <translation>Kategórie</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="250"/>
         <location filename="DBFilterModel.cpp" line="550"/>
         <source>Check (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Skontrolovať (%1)</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="250"/>
         <location filename="DBFilterModel.cpp" line="550"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Skontrolovať</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1459"/>
@@ -4312,7 +4312,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="DlgConvertAutoDeskew.ui" line="47"/>
         <source>Use anti-aliasing</source>
-        <translation type="unfinished"></translation>
+        <translation>Použiť vyhladzovanie</translation>
     </message>
 </context>
 <context>
@@ -6577,7 +6577,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="DlgConvertRotate.ui" line="195"/>
         <source>Use anti-aliasing</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyhladzovať hrany</translation>
     </message>
     <message>
         <location filename="DlgConvertRotate.ui" line="203"/>
@@ -7222,7 +7222,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="DlgCropSize.ui" line="58"/>
         <source>Defaults</source>
-        <translation>Predvolené</translation>
+        <translation>Predvolené nastavenia</translation>
     </message>
 </context>
 <context>
@@ -7333,157 +7333,157 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="DlgEditEXIF.ui" line="14"/>
         <source>Edit EXIF</source>
-        <translation type="unfinished"></translation>
+        <translation>Upraviť EXIF</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="26"/>
         <source>Manufacturer</source>
-        <translation type="unfinished">Výrobca</translation>
+        <translation>Výrobca</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="36"/>
         <source>Model</source>
-        <translation type="unfinished">Model</translation>
+        <translation>Model</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="50"/>
         <source>Software</source>
-        <translation type="unfinished">Softvér</translation>
+        <translation>Softvér</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="64"/>
         <source>Image description</source>
-        <translation type="unfinished">Popis obrázka</translation>
+        <translation>Popis obrázka</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="78"/>
         <source>Document name</source>
-        <translation type="unfinished"></translation>
+        <translation>Názov dokumentu</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="92"/>
         <source>Artist</source>
-        <translation type="unfinished">Vytvoril</translation>
+        <translation>Vytvoril</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="106"/>
         <source>XP Title</source>
-        <translation type="unfinished">XP Názov</translation>
+        <translation>XP Názov</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="120"/>
         <source>XP Comment</source>
-        <translation type="unfinished">XP Komentár</translation>
+        <translation>XP Komentár</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="134"/>
         <source>XP Author</source>
-        <translation type="unfinished">XP Autor</translation>
+        <translation>XP Autor</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="446"/>
         <source>Copyright</source>
-        <translation type="unfinished">Autorské právo</translation>
+        <translation>Autorské práva</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="148"/>
         <source>User comment</source>
-        <translation type="unfinished">Užívateľský komentár</translation>
+        <translation>Používateľský komentár</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="162"/>
         <source>F-Number</source>
-        <translation type="unfinished">F-číslo</translation>
+        <translation>F-číslo</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="199"/>
         <source>Focal length</source>
-        <translation type="unfinished"></translation>
+        <translation>Ohnisková vzdialenosť</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="208"/>
         <source>mm</source>
-        <translation type="unfinished">mm</translation>
+        <translation>mm</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="436"/>
         <source>Lens model</source>
-        <translation type="unfinished">Model objektívu</translation>
+        <translation>Model objektívu</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="470"/>
         <source>Date modified</source>
-        <translation type="unfinished">Dátum poslednej zmeny</translation>
+        <translation>Dátum poslednej zmeny</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="477"/>
         <source>Date taken</source>
-        <translation type="unfinished">Dátum zhotovenia</translation>
+        <translation>Dátum zhotovenia</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="484"/>
         <source>Date digitized</source>
-        <translation type="unfinished">Dátum digitalizácie</translation>
+        <translation>Dátum digitalizácie</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="380"/>
         <source>Orientation</source>
-        <translation type="unfinished"></translation>
+        <translation>Orientácia</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="388"/>
         <source>0 - Not defined</source>
-        <translation type="unfinished"></translation>
+        <translation>0 - Nedefinovaná</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="393"/>
         <source>1 - Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>1 - Vodorovne</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="398"/>
         <source>2 - Mirror horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>2 - Zrkadlovo vodorovne</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="403"/>
         <source>3 - Rotate 180</source>
-        <translation type="unfinished"></translation>
+        <translation>3 - Otočiť o 180</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="408"/>
         <source>4 - Mirror vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>4 - Zrkadlovo zvislo</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="413"/>
         <source>5 - Mirror horizontal and rotate 270 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>5 - Zrkadlovo vodorovne a otočiť o 270° v smere hodinových ručičiek</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="418"/>
         <source>6 - Rotate 90 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>6 - Otočiť o 90° v smere hodinových ručičiek</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="423"/>
         <source>7 - Mirror horizontal and rotate 90 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>7 - Zrkadlovo vodorovne a otočiť o 90° v smere hodinových ručičiek</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="428"/>
         <source>8 - Rotate 270 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>8 - Otočiť o 270 v smere hodinových ručičiek</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="460"/>
         <source>XP Subject</source>
-        <translation type="unfinished">XP Predmet</translation>
+        <translation>XP Predmet</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="522"/>
         <source>Write</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapísať</translation>
     </message>
 </context>
 <context>
@@ -8880,12 +8880,12 @@ Skúste spustiť program s právami správcu.</translation>
     <message>
         <location filename="DlgHistoryList.h" line="26"/>
         <source>Save preset</source>
-        <translation type="unfinished">Uložiť predvoľbu</translation>
+        <translation>Uložiť predvoľbu</translation>
     </message>
     <message>
         <location filename="DlgHistoryList.h" line="27"/>
         <source>Preset name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Názov predvolby:</translation>
     </message>
 </context>
 <context>
@@ -9351,7 +9351,7 @@ Uistite sa, že súbory nie sú len na čítanie!</translation>
     <message>
         <location filename="DlgIptc.ui" line="44"/>
         <source>Caption</source>
-        <translation>Popis</translation>
+        <translation>Titulok</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="90"/>
@@ -10154,7 +10154,7 @@ Uistite sa, že súbory nie sú len na čítanie!</translation>
     <message>
         <location filename="DlgPrint.ui" line="667"/>
         <source>Caption</source>
-        <translation>Popis</translation>
+        <translation>Titulok</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="673"/>
@@ -11305,17 +11305,17 @@ Chcete ich odstrániť?</translation>
     <message>
         <location filename="DlgSearch.ui" line="145"/>
         <source>Search in</source>
-        <translation type="unfinished">Vyhľadávať v</translation>
+        <translation>Vyhľadávať v</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="153"/>
         <source>Filesystem</source>
-        <translation type="unfinished"></translation>
+        <translation>Súborový systém</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="158"/>
         <source>Catalog</source>
-        <translation type="unfinished">Katalóg</translation>
+        <translation>Katalóg</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="196"/>
@@ -11540,42 +11540,42 @@ Chcete ich odstrániť?</translation>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="363"/>
         <source>Clear All</source>
-        <translation type="unfinished"></translation>
+        <translation>Vymazať všetko</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="363"/>
         <source>Remove all items from the list?</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstrániť všetky položky zo zoznamu?</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="374"/>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Predvolené</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="374"/>
         <source>Reset list to default?</source>
-        <translation type="unfinished"></translation>
+        <translation>Obnoviť zoznam na predvolené nastavenia?</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="525"/>
         <source>Expand All</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozbaliť všetko</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="530"/>
         <source>Collapse All</source>
-        <translation type="unfinished"></translation>
+        <translation>Zbaliť všetko</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="842"/>
         <source>Save Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Uložiť predvoľbu</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="842"/>
         <source>Preset name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Názov predvolby:</translation>
     </message>
 </context>
 <context>
@@ -11655,27 +11655,27 @@ Chcete ich odstrániť?</translation>
         <location filename="DlgSettingsBrowser.ui" line="498"/>
         <source>Filelist header</source>
         <oldsource>Header</oldsource>
-        <translation type="unfinished">Záhlavie</translation>
+        <translation>Záhlavie zoznamu súborov</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="531"/>
         <source>Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Popis</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="536"/>
         <source>Field</source>
-        <translation type="unfinished">Pole</translation>
+        <translation>Pole</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="546"/>
         <source>Clear all</source>
-        <translation type="unfinished">Vymazať všetky</translation>
+        <translation>Vymazať všetko</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="700"/>
         <source>&lt;Default&gt;</source>
-        <translation type="unfinished">&lt;Predvolená&gt;</translation>
+        <translation>&lt;Predvolená&gt;</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="291"/>
@@ -11746,7 +11746,7 @@ Chcete ich odstrániť?</translation>
         <location filename="DlgSettingsBrowser.ui" line="438"/>
         <source>Clear the list of checked files</source>
         <oldsource>Clear the list of tagged files</oldsource>
-        <translation type="unfinished">Vymazať zoznam označených súborov</translation>
+        <translation>Vymazať zoznam označených súborov</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="446"/>
@@ -11791,7 +11791,7 @@ Chcete ich odstrániť?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="430"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Skontrolovať</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="85"/>
@@ -12978,7 +12978,7 @@ Miniatúru</translation>
         <location filename="DlgSettingsIntegration.ui" line="58"/>
         <source>Add shell extension to context menu</source>
         <oldsource>Enable shell extension to context menu</oldsource>
-        <translation type="unfinished">Povoliť rozšírenie shellu do kontextového menu</translation>
+        <translation>Povoliť rozšírenie shellu do kontextového menu</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="70"/>
@@ -12989,12 +12989,12 @@ Miniatúru</translation>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="94"/>
         <source>Register application</source>
-        <translation type="unfinished"></translation>
+        <translation>Registrácia žiadosti</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="118"/>
         <source>Open &apos;Default Apps&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Otvoriť „Predvolené aplikácie“...</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="154"/>
@@ -13366,7 +13366,7 @@ Chcete ho priradiť znova?</translation>
         <location filename="DlgSettingsInterface.ui" line="1118"/>
         <location filename="DlgSettingsInterface.ui" line="1345"/>
         <source>Defaults</source>
-        <translation>Predvolené</translation>
+        <translation>Predvolené nastavenia</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="672"/>
@@ -14133,7 +14133,7 @@ Chcete ho priradiť znova?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="722"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Skontrolovať</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="904"/>
@@ -15250,27 +15250,27 @@ Chcete ho priradiť znova?</translation>
     <message>
         <location filename="DlgStartupWizard.ui" line="128"/>
         <source>Windows Explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>Prieskumník Windows</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="141"/>
         <source>Add shell extension to context menu</source>
-        <translation type="unfinished">Povoliť rozšírenie shellu do kontextového menu</translation>
+        <translation>Povoliť rozšírenie shellu do kontextového menu</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="151"/>
         <source>File Association</source>
-        <translation type="unfinished"></translation>
+        <translation>Priradenie súborov</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="157"/>
         <source>Register application</source>
-        <translation type="unfinished"></translation>
+        <translation>Registrovať aplikáciu</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="164"/>
         <source>Open &apos;Default Apps&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Otvoriť „Predvolené aplikácie“</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="183"/>
@@ -15627,7 +15627,7 @@ Chcette pokračovať?</translation>
         <location filename="DlgTransfer.ui" line="14"/>
         <source>Add/Replace metadata</source>
         <oldsource>Edit Metadata</oldsource>
-        <translation type="unfinished">Prenos metaúdajov</translation>
+        <translation>Pridať/Nahradiť metadáta</translation>
     </message>
     <message>
         <location filename="DlgTransfer.ui" line="22"/>
@@ -17319,7 +17319,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="ItemModel.cpp" line="1053"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Skontrolovať</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1059"/>
@@ -17592,7 +17592,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2803"/>
         <source>Check status</source>
-        <translation type="unfinished"></translation>
+        <translation>Skontrolovať stav</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="30"/>
@@ -18468,7 +18468,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="113"/>
         <source>Caption</source>
-        <translation>Popis</translation>
+        <translation>Titulok</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="117"/>
@@ -18499,7 +18499,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="SearchField.cpp" line="52"/>
         <location filename="TemplateData.cpp" line="2732"/>
         <source>Caption</source>
-        <translation>Popis</translation>
+        <translation>Titulok</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="116"/>
@@ -18821,7 +18821,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="TemplateData.cpp" line="2773"/>
         <source>Original transmission reference</source>
         <oldsource>Original trans. ref.</oldsource>
-        <translation type="unfinished">Originálna pren. ref.</translation>
+        <translation>Orig. prenosová ref.</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="118"/>
@@ -19421,7 +19421,7 @@ Chcete pokračovať?</translation>
         <location filename="ItemSelection.cpp" line="128"/>
         <source>&amp;Checked files</source>
         <oldsource>&amp;Tagged files</oldsource>
-        <translation type="unfinished">&amp;Označené súbory</translation>
+        <translation>&amp;Označené súbory</translation>
     </message>
     <message>
         <location filename="ItemSelection.cpp" line="130"/>
@@ -19953,13 +19953,13 @@ Chcete pokračovať?</translation>
         <location filename="BrowserMenu.h" line="83"/>
         <source>Checked file(s)</source>
         <oldsource>Tagged file(s)</oldsource>
-        <translation type="unfinished">Označené súbory</translation>
+        <translation>Označené súbory</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="84"/>
         <source>Unchecked file(s)</source>
         <oldsource>Untagged file(s)</oldsource>
-        <translation type="unfinished">Neoznačené súbory</translation>
+        <translation>Neoznačené súbory</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="460"/>
@@ -20126,12 +20126,12 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="BrowserMenu.h" line="463"/>
         <source>Check/Uncheck</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaškrtnúť/Odškrtnúť</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="513"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Skontrolovať</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="537"/>
@@ -20639,7 +20639,7 @@ Chcete pokračovať?</translation>
         <location filename="BrowserMenu.h" line="443"/>
         <source>Select checked files</source>
         <oldsource>Select tagged files</oldsource>
-        <translation type="unfinished">Vybrať označené súbory</translation>
+        <translation>Vybrať označené súbory</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4460"/>
@@ -20723,7 +20723,7 @@ Chcete pokračovať?</translation>
         <location filename="CompareWidget.cpp" line="462"/>
         <source>Check/Uncheck current</source>
         <oldsource>Tag/Untag current</oldsource>
-        <translation type="unfinished">Označiť/odznačiť aktuálne</translation>
+        <translation>Označiť/odznačiť aktuálne</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="464"/>
@@ -20734,25 +20734,25 @@ Chcete pokračovať?</translation>
         <location filename="BrowserMenu.h" line="465"/>
         <source>Uncheck all</source>
         <oldsource>Untag all</oldsource>
-        <translation type="unfinished">Zrušiť označenie všetkých</translation>
+        <translation>Zrušiť označenie všetkých</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="466"/>
         <source>Clear all checks</source>
         <oldsource>Clear all tags</oldsource>
-        <translation type="unfinished">Vymazať všetky označenia</translation>
+        <translation>Vymazať všetky označenia</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="467"/>
         <source>Show checked files</source>
         <oldsource>Show tagged files</oldsource>
-        <translation type="unfinished">Zobraziť označené súbory</translation>
+        <translation>Zobraziť označené súbory</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="468"/>
         <source>Show checkbox</source>
         <oldsource>Show tag box</oldsource>
-        <translation type="unfinished">Zobraziť okienko označenia</translation>
+        <translation>Zobraziť okienko označenia</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="508"/>
@@ -20926,22 +20926,22 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="BrowserMenu.h" line="585"/>
         <source>Load...</source>
-        <translation type="unfinished">Načítať...</translation>
+        <translation>Načítať...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="586"/>
         <source>Save...</source>
-        <translation type="unfinished">Uložiť...</translation>
+        <translation>Uložiť...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="587"/>
         <source>Unload all</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyložiť všetko</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="589"/>
         <source>Session</source>
-        <translation type="unfinished">Relácia</translation>
+        <translation>Relácia</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="590"/>
@@ -20983,7 +20983,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="BrowserMenu.h" line="604"/>
         <source>Edit EXIF...</source>
-        <translation type="unfinished"></translation>
+        <translation>Upraviť EXIF...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="605"/>
@@ -21014,7 +21014,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="BrowserMenu.h" line="610"/>
         <source>Add/Replace metadata...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pridať/Nahradiť metadáta...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="611"/>
@@ -21997,7 +21997,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="ViewMenu.h" line="363"/>
         <source>Check/Uncheck</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaškrtnúť/Odškrtnúť</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="372"/>
@@ -22983,7 +22983,7 @@ Môžete to zmeniť v Nastavenia › Katalóg.</translation>
     <message>
         <location filename="MyThumbView.cpp" line="1680"/>
         <source>Customize header...</source>
-        <translation type="unfinished"></translation>
+        <translation>Prispôsobiť hlavičku...</translation>
     </message>
 </context>
 <context>
@@ -24677,7 +24677,9 @@ Chcete v ňom ponechať miniatúry?
         <source>Catalog is disabled
 Metadata (check, ratings/colour labels and other file details)
 will not be saved to the database.</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalóg je deaktivovaný
+Metadáta (kontrola, hodnotenia/farebné štítky a ďalšie podrobnosti o súboroch)
+nebudú uložené do databázy.</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="951"/>
