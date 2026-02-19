@@ -4386,7 +4386,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation>Ușoară</translation>
+        <translation>Ușor</translation>
     </message>
     <message>
         <source>Medium</source>
@@ -11722,7 +11722,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation>Ușoară</translation>
+        <translation>Luminoasă</translation>
     </message>
     <message>
         <source>Never</source>
@@ -15176,7 +15176,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation>Ușoară</translation>
+        <translation>Luminoasă</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -15192,7 +15192,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>EXIF thumbnail - Rebuild</source>
-        <translation>Miniatura EXIF - Reconstruire</translation>
+        <translation>Miniatură EXIF - Reconstruire</translation>
     </message>
     <message>
         <source>Show title of panels</source>
