@@ -10672,7 +10672,7 @@ Thank you for purchasing %1.</source>
         <source>Plugin is not installed. 
 Please install it via Tools › Plugins</source>
         <translation>Zásuvný modul nie je nainštalovaný.&#xa0;
-Nainštalujte ho cez Nástroje › Zásuvné moduly.</translation>
+Nainštalujte ho cez Nástroje › Zásuvné moduly</translation>
     </message>
 </context>
 <context>
@@ -18821,7 +18821,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="TemplateData.cpp" line="2773"/>
         <source>Original transmission reference</source>
         <oldsource>Original trans. ref.</oldsource>
-        <translation>Orig. prenosová ref.</translation>
+        <translation>Referenčné číslo pôvodného prenosu</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="118"/>
