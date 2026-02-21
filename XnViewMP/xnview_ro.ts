@@ -720,7 +720,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Are you sure to delete this album?</source>
-        <translation>Sigur vei șterge acest album?</translation>
+        <translation>Ești sigur(ă) că vei șterge acest album?</translation>
     </message>
     <message>
         <source>Delete album</source>
@@ -768,7 +768,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Are you sure to clear this album?</source>
-        <translation>Ești sigur că ștergi acest album?</translation>
+        <translation>Ești sigur(ă) că vrei să ștergi acest album?</translation>
     </message>
     <message>
         <source>Are you sure to delete this category?</source>
@@ -776,7 +776,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>EXIF: Date taken</source>
-        <translation>EXIF: Data facerii pozei</translation>
+        <translation>EXIF: Data fotografierii</translation>
     </message>
     <message>
         <source>EXIF: Date modified</source>
@@ -2290,7 +2290,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Rotate images according to EXIF orientation tag</source>
-        <translation>Rotește imaginile conform etichetei de orientare EXIF</translation>
+        <translation>Rotește imaginile conform etichetei de orientare a EXIF-ului</translation>
     </message>
     <message>
         <source>+90° (clockwise)</source>
@@ -3811,11 +3811,11 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Album:</source>
-        <translation>Album:</translation>
+        <translation>Albumul:</translation>
     </message>
     <message>
         <source>Before</source>
-        <translation>Inainte de</translation>
+        <translation>Înainte de</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3831,7 +3831,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation>Format</translation>
+        <translation>Formatul</translation>
     </message>
     <message>
         <source>Add folder...</source>
@@ -4027,7 +4027,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Rotate images according to EXIF orientation tag</source>
-        <translation>Rotește imaginile conform etichetei de orientare EXIF</translation>
+        <translation>Rotește imaginile conform etichetei de orientare a EXIF-ului</translation>
     </message>
     <message>
         <source>Add files...</source>
@@ -4614,7 +4614,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>based on EXIF rotation value</source>
-        <translation>pe baza valorii de rotație EXIF</translation>
+        <translation>pe baza valorii de rotație a EXIF-ului</translation>
     </message>
     <message>
         <source>90° to the left</source>
@@ -4691,7 +4691,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Uniform</source>
-        <translation>Uniform</translation>
+        <translation>Uniformă</translation>
     </message>
 </context>
 <context>
@@ -5098,7 +5098,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>EXIF Orientation</source>
-        <translation>Orientare EXIF</translation>
+        <translation>Orientarea EXIF-ului</translation>
     </message>
     <message>
         <source>Use anti-aliasing</source>
@@ -5747,7 +5747,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Date taken</source>
-        <translation>Data când a fost făcută</translation>
+        <translation>Data fotografierii</translation>
     </message>
     <message>
         <source>Date digitized</source>
@@ -11971,7 +11971,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>EXIF: Date taken</source>
-        <translation>EXIF: Data luării</translation>
+        <translation>EXIF: Data fotografierii</translation>
     </message>
     <message>
         <source>Modifying timestamp, please wait...</source>
@@ -12054,7 +12054,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>EXIF: Date taken</source>
-        <translation>EXIF: Data luării</translation>
+        <translation>EXIF: Data fotografierii</translation>
     </message>
     <message>
         <source>Increment at each image by</source>
@@ -12662,7 +12662,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Sub</source>
-        <translation>Sub</translation>
+        <translation>Indice</translation>
     </message>
     <message>
         <source>None</source>
@@ -13181,7 +13181,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>Tip</translation>
+        <translation>Tipul</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -13193,19 +13193,19 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Album</source>
-        <translation>Album</translation>
+        <translation>Albumul</translation>
     </message>
     <message>
         <source>Codec</source>
-        <translation>Codec</translation>
+        <translation>Codecul</translation>
     </message>
     <message>
         <source>Genre</source>
-        <translation>Gen</translation>
+        <translation>Genul</translation>
     </message>
     <message>
         <source>Model</source>
-        <translation>Model</translation>
+        <translation>Modelul</translation>
     </message>
     <message>
         <source>Ratio</source>
@@ -13237,7 +13237,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Filename (with extension)</source>
-        <translation>Nume fișier (cu extensie)</translation>
+        <translation>Numele fișierului (cu extensie)</translation>
     </message>
     <message>
         <source>Colour label</source>
@@ -13389,7 +13389,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Date taken</source>
-        <translation>Data când a fost făcută</translation>
+        <translation>Data fotografierii</translation>
     </message>
     <message>
         <source>Copyright</source>
@@ -13993,7 +13993,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Date taken</source>
-        <translation>Data când a fost făcută</translation>
+        <translation>Data fotografierii</translation>
     </message>
     <message>
         <source>File source</source>
@@ -18385,7 +18385,7 @@ O poți schimba în Setări › Catalog.</translation>
     </message>
     <message>
         <source>Camera RAW</source>
-        <translation>Camera RAW</translation>
+        <translation>Formatul RAW al aparatului de fotografiat (Camera RAW)</translation>
     </message>
 </context>
 <context>
