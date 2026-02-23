@@ -8294,7 +8294,7 @@ Essayez de relancer avec les droits administrateur.</translation>
     <message>
         <location filename="DlgFileListing.ui" line="36"/>
         <source>Columns presets:</source>
-        <translation type="unfinished"></translation>
+        <translation>Présélections de colonnes :</translation>
     </message>
     <message>
         <location filename="DlgFileListing.ui" line="87"/>
@@ -8309,7 +8309,7 @@ Essayez de relancer avec les droits administrateur.</translation>
     <message>
         <location filename="DlgFileListing.ui" line="116"/>
         <source>Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Séparateur</translation>
     </message>
     <message>
         <location filename="DlgFileListing.ui" line="179"/>
@@ -8329,7 +8329,7 @@ Essayez de relancer avec les droits administrateur.</translation>
     <message>
         <location filename="DlgFileListing.cpp" line="40"/>
         <source>Current columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Colonnes actuelles</translation>
     </message>
     <message>
         <location filename="DlgFileListing.cpp" line="132"/>
@@ -11672,7 +11672,7 @@ Voulez-vous les enlever?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="498"/>
         <source>Columns</source>
-        <translation type="unfinished">Colonnes</translation>
+        <translation>Colonnes</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="510"/>
@@ -22972,7 +22972,7 @@ Vous pouvez changer celle-ci dans Paramètres › Catalogue</translation>
     <message>
         <location filename="MyThumbView.cpp" line="1728"/>
         <source>Customize columns...</source>
-        <translation type="unfinished"></translation>
+        <translation>Personnaliser les colonnes...</translation>
     </message>
 </context>
 <context>
