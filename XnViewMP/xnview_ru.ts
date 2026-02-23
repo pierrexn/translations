@@ -8347,7 +8347,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFileListing.ui" line="36"/>
         <source>Columns presets:</source>
-        <translation type="unfinished"></translation>
+        <translation>Предустановки столбцов:</translation>
     </message>
     <message>
         <location filename="DlgFileListing.ui" line="87"/>
@@ -8362,7 +8362,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFileListing.ui" line="116"/>
         <source>Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Разделитель</translation>
     </message>
     <message>
         <location filename="DlgFileListing.ui" line="179"/>
@@ -8382,7 +8382,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFileListing.cpp" line="40"/>
         <source>Current columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Текущие столбцы</translation>
     </message>
     <message>
         <location filename="DlgFileListing.cpp" line="132"/>
@@ -11744,7 +11744,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="498"/>
         <source>Columns</source>
-        <translation type="unfinished">Столбцы</translation>
+        <translation>Столбцы</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="510"/>
@@ -18104,7 +18104,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2681"/>
         <source>Subject Distance Range</source>
-        <translation type="unfinished"></translation>
+        <translation>Расстояние до объекта, диапазон</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2724"/>
@@ -18803,7 +18803,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2779"/>
         <source>Original transmission reference</source>
         <oldsource>Original tr. ref.</oldsource>
-        <translation type="unfinished">Первоначальный идентификатор передачи</translation>
+        <translation>Первоначальный идентификатор передачи</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="67"/>
@@ -23079,7 +23079,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="MyThumbView.cpp" line="1728"/>
         <source>Customize columns...</source>
-        <translation type="unfinished"></translation>
+        <translation>Настроить столбцы...</translation>
     </message>
 </context>
 <context>
