@@ -8284,7 +8284,7 @@ Bitte versuchen Sie, mit Administratorrechten zu starten.</translation>
     <message>
         <location filename="DlgFileListing.ui" line="36"/>
         <source>Columns presets:</source>
-        <translation type="unfinished"></translation>
+        <translation>Spalten-Voreinstellungen:</translation>
     </message>
     <message>
         <location filename="DlgFileListing.ui" line="87"/>
@@ -8299,7 +8299,7 @@ Bitte versuchen Sie, mit Administratorrechten zu starten.</translation>
     <message>
         <location filename="DlgFileListing.ui" line="116"/>
         <source>Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Trennzeichen</translation>
     </message>
     <message>
         <location filename="DlgFileListing.ui" line="179"/>
@@ -8319,7 +8319,7 @@ Bitte versuchen Sie, mit Administratorrechten zu starten.</translation>
     <message>
         <location filename="DlgFileListing.cpp" line="40"/>
         <source>Current columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuelle Spalten</translation>
     </message>
     <message>
         <location filename="DlgFileListing.cpp" line="132"/>
@@ -11660,7 +11660,7 @@ Möchten Sie sie entfernen?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="498"/>
         <source>Columns</source>
-        <translation type="unfinished">Spalten</translation>
+        <translation>Spalten</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="510"/>
@@ -17993,7 +17993,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2681"/>
         <source>Subject Distance Range</source>
-        <translation type="unfinished"></translation>
+        <translation>Motivdistanzbereich</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2724"/>
@@ -18692,7 +18692,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
         <location filename="TemplateData.cpp" line="2779"/>
         <source>Original transmission reference</source>
         <oldsource>Original tr. ref.</oldsource>
-        <translation type="unfinished">Auftraggeber</translation>
+        <translation>Auftraggeber</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="67"/>
@@ -22949,7 +22949,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="MyThumbView.cpp" line="1728"/>
         <source>Customize columns...</source>
-        <translation type="unfinished"></translation>
+        <translation>Spalten anpassen...</translation>
     </message>
 </context>
 <context>
