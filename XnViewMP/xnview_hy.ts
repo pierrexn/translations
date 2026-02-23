@@ -6471,6 +6471,18 @@ Please try to start with admin rights.</source>
         <source>Append to file</source>
         <translation>Հավելել ֆայլին</translation>
     </message>
+    <message>
+        <source>Columns presets:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Separator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current columns</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgFileReplace</name>
@@ -9187,8 +9199,8 @@ Do you want to remove them?</source>
         <translation type="unfinished">&lt;Սկզբնադիր &gt;</translation>
     </message>
     <message>
-        <source>Filelist header</source>
-        <translation type="unfinished"></translation>
+        <source>Columns</source>
+        <translation type="unfinished">Սյուներ</translation>
     </message>
 </context>
 <context>
@@ -13767,10 +13779,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Պատկերի նկարագրություն</translation>
     </message>
     <message>
-        <source>Subj. Dist. Range</source>
-        <translation>Բով. Արտ. Կարգը</translation>
-    </message>
-    <message>
         <source>Flash</source>
         <translation>Flash</translation>
     </message>
@@ -14177,6 +14185,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Landscape</source>
         <translation>Բնապատկեր</translation>
+    </message>
+    <message>
+        <source>Subject Distance Range</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17564,7 +17576,7 @@ You can change it in Settings › Catalog.</source>
 Կարող եք փոխել այն Կարգավորումներ › Անվանակարգ-ում:</translation>
     </message>
     <message>
-        <source>Customize header...</source>
+        <source>Customize columns...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

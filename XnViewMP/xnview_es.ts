@@ -6472,6 +6472,18 @@ Por favor, intente iniciar con derechos de Administrador.</translation>
         <source>Append to file</source>
         <translation>Anexar al archivo</translation>
     </message>
+    <message>
+        <source>Columns presets:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Separator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current columns</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgFileReplace</name>
@@ -9187,8 +9199,8 @@ Do you want to remove them?</source>
         <translation type="unfinished">&lt;Predeterminado&gt;</translation>
     </message>
     <message>
-        <source>Filelist header</source>
-        <translation type="unfinished"></translation>
+        <source>Columns</source>
+        <translation type="unfinished">Columnas</translation>
     </message>
 </context>
 <context>
@@ -13767,10 +13779,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Descripción de imagen</translation>
     </message>
     <message>
-        <source>Subj. Dist. Range</source>
-        <translation>Rango de distancia al sujeto</translation>
-    </message>
-    <message>
         <source>Flash</source>
         <translation>Flash</translation>
     </message>
@@ -14177,6 +14185,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Landscape</source>
         <translation type="unfinished">Paisaje</translation>
+    </message>
+    <message>
+        <source>Subject Distance Range</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17564,7 +17576,7 @@ You can change it in Settings › Catalog.</source>
 Puedo cambiarlo en Configuración › Catálogo.</translation>
     </message>
     <message>
-        <source>Customize header...</source>
+        <source>Customize columns...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

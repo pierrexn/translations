@@ -6472,6 +6472,18 @@ Käynnistä ohjelma uudelleen ylläpitäjän oikeuksilla.</translation>
         <source>Append to file</source>
         <translation>Liitä tiedostoon</translation>
     </message>
+    <message>
+        <source>Columns presets:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Separator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current columns</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgFileReplace</name>
@@ -9192,8 +9204,8 @@ Haluatko poistaa ne?</translation>
         <translation type="unfinished">&lt;Oletus&gt;</translation>
     </message>
     <message>
-        <source>Filelist header</source>
-        <translation type="unfinished"></translation>
+        <source>Columns</source>
+        <translation type="unfinished">Sarakkeet</translation>
     </message>
 </context>
 <context>
@@ -13773,10 +13785,6 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
         <translation>Kuvan selitys</translation>
     </message>
     <message>
-        <source>Subj. Dist. Range</source>
-        <translation>Kohteen etäisyysväli</translation>
-    </message>
-    <message>
         <source>Flash</source>
         <translation>Salama</translation>
     </message>
@@ -14183,6 +14191,10 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     <message>
         <source>Landscape</source>
         <translation>Vaaka</translation>
+    </message>
+    <message>
+        <source>Subject Distance Range</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17570,7 +17582,7 @@ You can change it in Settings › Catalog.</source>
 Voit muuttaa sitä asetusten kohdasta &quot;Katalogi&quot;.</translation>
     </message>
     <message>
-        <source>Customize header...</source>
+        <source>Customize columns...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

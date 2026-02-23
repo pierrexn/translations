@@ -6473,6 +6473,18 @@ Tente iniciar com direitos de administrador.</translation>
         <source>Append to file</source>
         <translation>Anexar ao arquivo</translation>
     </message>
+    <message>
+        <source>Columns presets:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Separator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current columns</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgFileReplace</name>
@@ -9190,8 +9202,8 @@ Deseja removê-los da lista?</translation>
         <translation type="unfinished">&lt;Padrão&gt;</translation>
     </message>
     <message>
-        <source>Filelist header</source>
-        <translation type="unfinished"></translation>
+        <source>Columns</source>
+        <translation type="unfinished">Colunas</translation>
     </message>
 </context>
 <context>
@@ -13935,10 +13947,6 @@ Deseja excluir o favorito &quot;%1&quot;?</translation>
         <translation>Distância do objeto (m)</translation>
     </message>
     <message>
-        <source>Subj. Dist. Range</source>
-        <translation>Distância do objeto - alcance</translation>
-    </message>
-    <message>
         <source>Subject location</source>
         <translation>Localização do assunto</translation>
     </message>
@@ -14185,6 +14193,10 @@ Deseja excluir o favorito &quot;%1&quot;?</translation>
     <message>
         <source>Landscape</source>
         <translation>Paisagem</translation>
+    </message>
+    <message>
+        <source>Subject Distance Range</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17573,7 +17585,7 @@ You can change it in Settings › Catalog.</source>
 Você pode alterá-lo em Configurações › Catálogo.</translation>
     </message>
     <message>
-        <source>Customize header...</source>
+        <source>Customize columns...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

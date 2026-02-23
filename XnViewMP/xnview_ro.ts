@@ -6488,6 +6488,18 @@ Te rugăm să încerci să pornești programul cu drepturi de administrator.</tr
         <source>Append to file</source>
         <translation>Adaugă la fișier</translation>
     </message>
+    <message>
+        <source>Columns presets:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Separator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current columns</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgFileReplace</name>
@@ -9204,8 +9216,8 @@ Vrei să le redenumești?</translation>
         <translation>&lt;Implicit&gt;</translation>
     </message>
     <message>
-        <source>Filelist header</source>
-        <translation>Antetul listei de fișiere</translation>
+        <source>Columns</source>
+        <translation type="unfinished">Coloane</translation>
     </message>
 </context>
 <context>
@@ -13784,10 +13796,6 @@ Dorești să ștergi favoritul „%1”?</translation>
         <translation>Descrierea imaginii</translation>
     </message>
     <message>
-        <source>Subj. Dist. Range</source>
-        <translation>Subj. Dist. Gamă</translation>
-    </message>
-    <message>
         <source>Flash</source>
         <translation>Bliţ</translation>
     </message>
@@ -14194,6 +14202,10 @@ Dorești să ștergi favoritul „%1”?</translation>
     <message>
         <source>Landscape</source>
         <translation>Peisaj (Vedere)</translation>
+    </message>
+    <message>
+        <source>Subject Distance Range</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17584,8 +17596,8 @@ You can change it in Settings › Catalog.</source>
 O poți schimba în Setări › Catalog.</translation>
     </message>
     <message>
-        <source>Customize header...</source>
-        <translation>Personalizează antetul...</translation>
+        <source>Customize columns...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

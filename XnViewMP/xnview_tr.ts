@@ -4,132 +4,132 @@
 <context>
     <name>@default</name>
     <message>
-        <location filename="MyThumbSettings.cpp" line="757"/>
+        <location filename="MyThumbSettings.cpp" line="856"/>
         <source>Uncolored</source>
         <translation>Renksiz</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="763"/>
+        <location filename="MyThumbSettings.cpp" line="862"/>
         <source>Important</source>
         <translation>Önemli</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="763"/>
+        <location filename="MyThumbSettings.cpp" line="862"/>
         <source>Red</source>
         <translation>Kırmızı</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="763"/>
+        <location filename="MyThumbSettings.cpp" line="862"/>
         <source>Select</source>
         <translation>Şeç</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="764"/>
+        <location filename="MyThumbSettings.cpp" line="863"/>
         <source>Work</source>
         <translation>İş</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="764"/>
+        <location filename="MyThumbSettings.cpp" line="863"/>
         <source>Yellow</source>
         <translation>Sarı</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="764"/>
+        <location filename="MyThumbSettings.cpp" line="863"/>
         <source>Second</source>
         <translation>Saniye</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="765"/>
+        <location filename="MyThumbSettings.cpp" line="864"/>
         <source>Personal</source>
         <translation>Kişisel</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="765"/>
+        <location filename="MyThumbSettings.cpp" line="864"/>
         <source>Green</source>
         <translation>Yeşil</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="765"/>
+        <location filename="MyThumbSettings.cpp" line="864"/>
         <source>Approved</source>
         <translation>Onaylı</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="766"/>
+        <location filename="MyThumbSettings.cpp" line="865"/>
         <source>To do</source>
         <translation>Yapılacak</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="766"/>
+        <location filename="MyThumbSettings.cpp" line="865"/>
         <source>Blue</source>
         <translation>Mavi</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="766"/>
+        <location filename="MyThumbSettings.cpp" line="865"/>
         <source>Review</source>
         <translation>Gözden geçirme</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="767"/>
+        <location filename="MyThumbSettings.cpp" line="866"/>
         <source>Later</source>
         <translation>Sonra</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="767"/>
+        <location filename="MyThumbSettings.cpp" line="866"/>
         <source>Purple</source>
         <translation>Mor</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="767"/>
+        <location filename="MyThumbSettings.cpp" line="866"/>
         <source>To Do</source>
         <translation>Yapmak</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="768"/>
+        <location filename="MyThumbSettings.cpp" line="867"/>
         <source>Orange</source>
         <translation>Turuncu</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="769"/>
+        <location filename="MyThumbSettings.cpp" line="868"/>
         <source>Grey</source>
         <translation>Gri</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="770"/>
+        <location filename="MyThumbSettings.cpp" line="869"/>
         <source>Black</source>
         <translation type="unfinished">Siyah</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="771"/>
+        <location filename="MyThumbSettings.cpp" line="870"/>
         <source>White</source>
         <translation type="unfinished">Beyaz</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="654"/>
+        <location filename="MyThumbSettings.cpp" line="753"/>
         <source>Unrated</source>
         <translation>Oylanmamış</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="655"/>
+        <location filename="MyThumbSettings.cpp" line="754"/>
         <source>Poor</source>
         <translation>Kötü</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="656"/>
+        <location filename="MyThumbSettings.cpp" line="755"/>
         <source>Fair</source>
         <translation>Zayıf</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="657"/>
+        <location filename="MyThumbSettings.cpp" line="756"/>
         <source>Average</source>
         <translation>Ortalama</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="658"/>
+        <location filename="MyThumbSettings.cpp" line="757"/>
         <source>Good</source>
         <translation>İyi</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="659"/>
+        <location filename="MyThumbSettings.cpp" line="758"/>
         <source>Excellent</source>
         <translation>Harika</translation>
     </message>
@@ -264,85 +264,85 @@
 <context>
     <name>AbstractViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="1419"/>
+        <location filename="ViewWindow.cpp" line="1421"/>
         <source>Frame %1/%2</source>
         <translation>Kare %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1422"/>
+        <location filename="ViewWindow.cpp" line="1424"/>
         <source>Icon %1/%2</source>
         <translation>Simge %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1424"/>
+        <location filename="ViewWindow.cpp" line="1426"/>
         <source>Page %1/%2</source>
         <translation>Sayfa %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2039"/>
+        <location filename="ViewWindow.cpp" line="2041"/>
         <source>Customize toolbar...</source>
         <translation>Araç Çubuğunu Özelleştir...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2295"/>
-        <location filename="ViewWindow.cpp" line="2301"/>
-        <location filename="ViewWindow.cpp" line="2305"/>
+        <location filename="ViewWindow.cpp" line="2297"/>
+        <location filename="ViewWindow.cpp" line="2303"/>
+        <location filename="ViewWindow.cpp" line="2307"/>
         <source>Delete items</source>
         <translation>Nesneleri Sil</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2295"/>
+        <location filename="ViewWindow.cpp" line="2297"/>
         <source>Would you like to discard your edits and delete 
 &quot;%1&quot;?</source>
         <translation>Düzenlemelerinizi atmak ve silmek ister misiniz 
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2301"/>
+        <location filename="ViewWindow.cpp" line="2303"/>
         <source>Are you sure to delete 
 &quot;%1&quot;?</source>
         <translation>Sildiğinizden emin misiniz 
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2305"/>
+        <location filename="ViewWindow.cpp" line="2307"/>
         <source>Are you sure to delete 
 &quot;%1&quot; (%2 items)?</source>
         <translation>Sildiğinizden emin misiniz 
 &quot;%1&quot; (%2 öğe)?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2981"/>
+        <location filename="ViewWindow.cpp" line="2983"/>
         <source>The file &lt;%1&gt; is read-only. Please choose another file name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2989"/>
+        <location filename="ViewWindow.cpp" line="2991"/>
         <source>Confirm Save</source>
         <translation>Kaydet&apos;i Onayla</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2990"/>
+        <location filename="ViewWindow.cpp" line="2992"/>
         <source>&lt;%1&gt; already exists!</source>
         <translation>&lt;%1&gt; zaten var!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2990"/>
+        <location filename="ViewWindow.cpp" line="2992"/>
         <source>Do you want to overwrite it?</source>
         <translation>Üzerine yazmak ister misin?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4464"/>
+        <location filename="ViewWindow.cpp" line="4466"/>
         <source>Number of unique colors: %1</source>
         <translation>Benzersiz renk sayısı: %1</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="238"/>
+        <location filename="ViewWindow.cpp" line="240"/>
         <source>Save changed file</source>
         <translation>Değişen Dosyayı Kaydet</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="239"/>
+        <location filename="ViewWindow.cpp" line="241"/>
         <source>Do you want to save changes to
 &quot;%1&quot;?</source>
         <oldsource>Do you want to save changes to
@@ -352,69 +352,69 @@
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="242"/>
+        <location filename="ViewWindow.cpp" line="244"/>
         <source>Save &amp;as...</source>
         <translation>Kaydet &amp;as...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="250"/>
+        <location filename="ViewWindow.cpp" line="252"/>
         <source>&amp;Save</source>
         <translation type="unfinished">&amp;Kaydet</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="251"/>
+        <location filename="ViewWindow.cpp" line="253"/>
         <source>&amp;Don&apos;t Save</source>
         <translation>&amp;Kaydetme</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="254"/>
+        <location filename="ViewWindow.cpp" line="256"/>
         <source>Don&apos;t ask again</source>
         <translation type="unfinished">Tekrar sorma</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1591"/>
-        <location filename="ViewWindow.cpp" line="1610"/>
+        <location filename="ViewWindow.cpp" line="1593"/>
+        <location filename="ViewWindow.cpp" line="1612"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; Boş &gt;</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2971"/>
-        <location filename="ViewWindow.cpp" line="2981"/>
+        <location filename="ViewWindow.cpp" line="2973"/>
+        <location filename="ViewWindow.cpp" line="2983"/>
         <source>Save</source>
         <translation>Kaydet</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2971"/>
+        <location filename="ViewWindow.cpp" line="2973"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
         <translation>Görüntü 24-bit RGB&apos;ye dönüştürülecektir (kanal başına 8 bit)</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3014"/>
-        <location filename="ViewWindow.cpp" line="3145"/>
-        <location filename="ViewWindow.cpp" line="3195"/>
+        <location filename="ViewWindow.cpp" line="3016"/>
+        <location filename="ViewWindow.cpp" line="3147"/>
+        <location filename="ViewWindow.cpp" line="3197"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
         <translation type="unfinished">Resim kaydediliyor...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3016"/>
-        <location filename="ViewWindow.cpp" line="3197"/>
+        <location filename="ViewWindow.cpp" line="3018"/>
+        <location filename="ViewWindow.cpp" line="3199"/>
         <source>Error</source>
         <translation>Hata</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3016"/>
-        <location filename="ViewWindow.cpp" line="3197"/>
+        <location filename="ViewWindow.cpp" line="3018"/>
+        <location filename="ViewWindow.cpp" line="3199"/>
         <source>An error occurred during saving!</source>
         <translation>Kaydetme sırasında bir hata oluştu!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3287"/>
+        <location filename="ViewWindow.cpp" line="3289"/>
         <source>Properties</source>
         <translation>Özellikler</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4464"/>
+        <location filename="ViewWindow.cpp" line="4466"/>
         <source>Colors count</source>
         <translation>Renk Sayısı</translation>
     </message>
@@ -480,28 +480,28 @@
 <context>
     <name>BaseViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="4969"/>
+        <location filename="ViewWindow.cpp" line="4971"/>
         <source>Error</source>
         <translation>Hata</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4960"/>
-        <location filename="ViewWindow.cpp" line="4969"/>
+        <location filename="ViewWindow.cpp" line="4962"/>
+        <location filename="ViewWindow.cpp" line="4971"/>
         <source>File can&apos;t be loaded!</source>
         <translation>Dosya yüklenemedi!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4960"/>
+        <location filename="ViewWindow.cpp" line="4962"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <translation>XnView MP, PDF/PS/EPS/AI dosyalarını görüntülemek ve dönüştürmek  için sisteminizde Ghostscript %1 yüklü olmasını gerektirir.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4961"/>
+        <location filename="ViewWindow.cpp" line="4963"/>
         <source>Please visit the %1 for more information.</source>
         <translation>Daha fazla bilgi için lütfen %1 adresini ziyaret ediniz.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4973"/>
+        <location filename="ViewWindow.cpp" line="4975"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; Boş &gt;</translation>
     </message>
@@ -555,231 +555,231 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
 <context>
     <name>BrowserWindow</name>
     <message>
-        <location filename="BrowserWindow.cpp" line="1650"/>
+        <location filename="BrowserWindow.cpp" line="1655"/>
         <source>Add Favorite...</source>
         <translation>Favorilere Ekle...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1741"/>
+        <location filename="BrowserWindow.cpp" line="1746"/>
         <source>Folders</source>
         <translation>Klasörler</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1745"/>
+        <location filename="BrowserWindow.cpp" line="1750"/>
         <source>Favorites</source>
         <translation>Favoriler</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1760"/>
+        <location filename="BrowserWindow.cpp" line="1765"/>
         <source>Categories</source>
         <translation>Kategoriler</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1798"/>
+        <location filename="BrowserWindow.cpp" line="1803"/>
         <source>Info</source>
         <translation>Bilgi</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="674"/>
+        <location filename="BrowserWindow.cpp" line="679"/>
         <source>Detach preview panel</source>
         <translation>Önizleme panelini ayır</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="676"/>
+        <location filename="BrowserWindow.cpp" line="681"/>
         <source>Attach preview panel</source>
         <translation>Önizleme panelini ekle</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="892"/>
+        <location filename="BrowserWindow.cpp" line="897"/>
         <source>The database is corrupted. Please check it before you continue!</source>
         <oldsource>The database is corrupted, please check it before to continue!</oldsource>
         <translation type="unfinished">Veritabanı kopuktur, lütfen devam etmeden kontrol ediniz!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1642"/>
+        <location filename="BrowserWindow.cpp" line="1647"/>
         <source>Add to Favorites</source>
         <translation>Favorilere ekle</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1749"/>
+        <location filename="BrowserWindow.cpp" line="1754"/>
         <source>Catalog Filter</source>
         <oldsource>Categories Filter</oldsource>
         <translation type="unfinished">Kategori Süzme</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1765"/>
+        <location filename="BrowserWindow.cpp" line="1770"/>
         <source>Category Sets</source>
         <translation>Kategori Setleri</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2000"/>
+        <location filename="BrowserWindow.cpp" line="2005"/>
         <source>Global</source>
         <translation>Genel</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2000"/>
+        <location filename="BrowserWindow.cpp" line="2005"/>
         <source>Current folder</source>
         <translation>Şu anki klasör</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2000"/>
+        <location filename="BrowserWindow.cpp" line="2005"/>
         <source>Current folder (Recursive)</source>
         <translation>Şu anki klasör (alt klasörler dahil)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2045"/>
+        <location filename="BrowserWindow.cpp" line="2050"/>
         <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi-select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right-click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2254"/>
+        <location filename="BrowserWindow.cpp" line="2260"/>
         <source>Thumbnails</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3450"/>
+        <location filename="BrowserWindow.cpp" line="3458"/>
         <source>&lt;Search results&gt;</source>
         <translation>&lt;Search results&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3547"/>
+        <location filename="BrowserWindow.cpp" line="3555"/>
         <source>This folder doesn&apos;t exist!</source>
         <translation>Bu klasör mevcut değil!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3760"/>
+        <location filename="BrowserWindow.cpp" line="3768"/>
         <source>Favorite name:</source>
         <translation>Favori Adı:</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="4005"/>
+        <location filename="BrowserWindow.cpp" line="4013"/>
         <source>Are you sure to delete these %n item(s)?</source>
         <translation>
             <numerusform>%n nesneyi silmek istiyor musunuz?</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3547"/>
-        <location filename="BrowserWindow.cpp" line="4089"/>
+        <location filename="BrowserWindow.cpp" line="3555"/>
+        <location filename="BrowserWindow.cpp" line="4097"/>
         <source>Error</source>
         <translation>Hata</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1980"/>
-        <location filename="BrowserWindow.cpp" line="1992"/>
+        <location filename="BrowserWindow.cpp" line="1985"/>
+        <location filename="BrowserWindow.cpp" line="1997"/>
         <source>AND</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1980"/>
-        <location filename="BrowserWindow.cpp" line="1986"/>
+        <location filename="BrowserWindow.cpp" line="1985"/>
+        <location filename="BrowserWindow.cpp" line="1991"/>
         <source>OR</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1981"/>
+        <location filename="BrowserWindow.cpp" line="1986"/>
         <source>&lt;b&gt;Match&lt;/b&gt;&lt;br&gt;OR - match any selected entry&lt;br&gt;AND - match all selected entries</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3998"/>
+        <location filename="BrowserWindow.cpp" line="4006"/>
         <source>Delete items &amp; companions</source>
         <translation>Öğeleri &amp; tamamlayıcıları sil</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="3999"/>
+        <location filename="BrowserWindow.cpp" line="4007"/>
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
         <translation>
             <numerusform>Bu %n - %1 seçilmiş öğeleri silmek için emin misiniz?</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4465"/>
+        <location filename="BrowserWindow.cpp" line="4473"/>
         <source>Show files in subfolders</source>
         <translation>Alt klasörlerdeki dosyaları göster</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4468"/>
+        <location filename="BrowserWindow.cpp" line="4476"/>
         <source>Add to favorites...</source>
         <translation>Favorilere ekle...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4473"/>
+        <location filename="BrowserWindow.cpp" line="4481"/>
         <source>Open in file manager</source>
         <translation type="unfinished">Dosya Gezgininde Aç</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4476"/>
+        <location filename="BrowserWindow.cpp" line="4484"/>
         <source>Properties</source>
         <translation>Özellikler</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4587"/>
+        <location filename="BrowserWindow.cpp" line="4595"/>
         <source>Load filelist</source>
         <translation>Dosya Listesi Yükle</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4004"/>
+        <location filename="BrowserWindow.cpp" line="4012"/>
         <source>Delete items</source>
         <translation>Nesne Sil</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="670"/>
+        <location filename="BrowserWindow.cpp" line="675"/>
         <source>Customize toolbar...</source>
         <translation>Araç Çubuğunu Özelleştir...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1806"/>
+        <location filename="BrowserWindow.cpp" line="1811"/>
         <source>Metadata</source>
         <translation type="unfinished">Metaveri</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1815"/>
+        <location filename="BrowserWindow.cpp" line="1820"/>
         <source>Histogram</source>
         <translation type="unfinished">Histogram</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3452"/>
+        <location filename="BrowserWindow.cpp" line="3460"/>
         <source>&lt;Checked files&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3454"/>
+        <location filename="BrowserWindow.cpp" line="3462"/>
         <source>&lt;Catalog filter results&gt;</source>
         <translation>&lt;Katalog filtre sonuçları&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3456"/>
+        <location filename="BrowserWindow.cpp" line="3464"/>
         <source>&lt;files&gt;</source>
         <translation>&lt;dosyalar&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4089"/>
+        <location filename="BrowserWindow.cpp" line="4097"/>
         <source>The files cannot be renamed, an error occurred.</source>
         <translation>Dosyalar yeniden adlandırılamıyor, bir hata oluştu.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4467"/>
+        <location filename="BrowserWindow.cpp" line="4475"/>
         <source>Search...</source>
         <translation>Ara...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4471"/>
+        <location filename="BrowserWindow.cpp" line="4479"/>
         <source>Start slideshow</source>
         <translation>Slayt gösterisini başlat</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4508"/>
+        <location filename="BrowserWindow.cpp" line="4516"/>
         <source>Delete folder</source>
         <translation>Klasör Sil</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4508"/>
+        <location filename="BrowserWindow.cpp" line="4516"/>
         <source>Are you sure to delete this folder?</source>
         <translation>Bu klasörü silmek istiyor musunuz?</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="625"/>
+        <location filename="BrowserWindow.cpp" line="630"/>
         <source>Browser</source>
         <translation>Tarayıcı</translation>
     </message>
@@ -2074,7 +2074,7 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="170"/>
         <location filename="DBFilterModel.cpp" line="193"/>
-        <location filename="DBFilterModel.cpp" line="1677"/>
+        <location filename="DBFilterModel.cpp" line="1684"/>
         <source>Date</source>
         <translation type="unfinished">Tarih</translation>
     </message>
@@ -2102,51 +2102,51 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <translation type="unfinished">Kategoriler</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="250"/>
-        <location filename="DBFilterModel.cpp" line="550"/>
+        <location filename="DBFilterModel.cpp" line="251"/>
+        <location filename="DBFilterModel.cpp" line="551"/>
         <source>Check (%1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="250"/>
-        <location filename="DBFilterModel.cpp" line="550"/>
+        <location filename="DBFilterModel.cpp" line="251"/>
+        <location filename="DBFilterModel.cpp" line="551"/>
         <source>Check</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1459"/>
-        <location filename="DBFilterModel.cpp" line="1830"/>
-        <location filename="DBFilterModel.cpp" line="2139"/>
+        <location filename="DBFilterModel.cpp" line="1460"/>
+        <location filename="DBFilterModel.cpp" line="1837"/>
         <location filename="DBFilterModel.cpp" line="2146"/>
-        <location filename="DBFilterModel.cpp" line="2151"/>
-        <location filename="DBFilterModel.cpp" line="2156"/>
-        <location filename="DBFilterModel.cpp" line="2173"/>
-        <location filename="DBFilterModel.cpp" line="2190"/>
+        <location filename="DBFilterModel.cpp" line="2153"/>
+        <location filename="DBFilterModel.cpp" line="2158"/>
+        <location filename="DBFilterModel.cpp" line="2163"/>
+        <location filename="DBFilterModel.cpp" line="2180"/>
+        <location filename="DBFilterModel.cpp" line="2197"/>
         <source>Unknown</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2178"/>
+        <location filename="DBFilterModel.cpp" line="2185"/>
         <source>Landscape</source>
         <translation type="unfinished">Peyzaj</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2180"/>
+        <location filename="DBFilterModel.cpp" line="2187"/>
         <source>Portrait</source>
         <translation type="unfinished">Portre</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2182"/>
+        <location filename="DBFilterModel.cpp" line="2189"/>
         <source>Square</source>
         <translation type="unfinished">Kare</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2255"/>
+        <location filename="DBFilterModel.cpp" line="2262"/>
         <source>Panoramic</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2281"/>
+        <location filename="DBFilterModel.cpp" line="2288"/>
         <source>No Color Profile</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8261,47 +8261,62 @@ Lütfen yönetici yetkileri ile başlatarak tekrar deneyin.</translation>
         <translation>Sütun Ekle</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.ui" line="80"/>
+        <location filename="DlgFileListing.ui" line="36"/>
+        <source>Columns presets:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgFileListing.ui" line="87"/>
         <source>Format</source>
         <translation>Dosya türü</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.ui" line="88"/>
+        <location filename="DlgFileListing.ui" line="95"/>
         <source>Text</source>
         <translation>Metin</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.ui" line="111"/>
+        <location filename="DlgFileListing.ui" line="116"/>
+        <source>Separator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgFileListing.ui" line="179"/>
         <source>Include subfolders</source>
         <translation>Alt Klasörleri İçersin</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.ui" line="118"/>
+        <location filename="DlgFileListing.ui" line="186"/>
         <source>Only image files</source>
         <translation>Sadece Resim Dosyaları</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.ui" line="125"/>
+        <location filename="DlgFileListing.ui" line="193"/>
         <source>Append to file</source>
         <translation>Dosyaya ekle</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.cpp" line="121"/>
+        <location filename="DlgFileListing.cpp" line="40"/>
+        <source>Current columns</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgFileListing.cpp" line="132"/>
         <source>Preview</source>
         <translation>Önizleme</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.cpp" line="123"/>
+        <location filename="DlgFileListing.cpp" line="134"/>
         <source>Copy to Clipboard</source>
         <translation>Panoya Kopyala</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.cpp" line="126"/>
+        <location filename="DlgFileListing.cpp" line="137"/>
         <source>Save as...</source>
         <translation>Farklı Kaydet...</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.cpp" line="167"/>
+        <location filename="DlgFileListing.cpp" line="183"/>
         <source>Export file listing</source>
         <translation>Dosya Listesini Çıkart</translation>
     </message>
@@ -9173,8 +9188,8 @@ Alt dizinler oluşturulacak. </translation>
         <translation>Alan değerleri yüklenemedi çünkü &apos;Alan değerleri yüklenmez&apos; olarak işaretlenmiştir</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="1701"/>
-        <location filename="DlgIptc.cpp" line="1747"/>
+        <location filename="DlgIptc.cpp" line="1716"/>
+        <location filename="DlgIptc.cpp" line="1762"/>
         <source>Modifying files, please wait...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9232,19 +9247,19 @@ Değişiklikleri kaydetmek istiyor musunuz?</translation>
         <translation>Alfabetik olarak sırala</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="1579"/>
+        <location filename="DlgIptc.cpp" line="1594"/>
         <source>Required field</source>
         <translation type="unfinished">Zorunlu alan</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="1579"/>
+        <location filename="DlgIptc.cpp" line="1594"/>
         <source>Some fields are required, please fill them!</source>
         <translation>Bazı alanlar zorunludur, lütfen doldurun!</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="1650"/>
-        <location filename="DlgIptc.cpp" line="1704"/>
-        <location filename="DlgIptc.cpp" line="1750"/>
+        <location filename="DlgIptc.cpp" line="1665"/>
+        <location filename="DlgIptc.cpp" line="1719"/>
+        <location filename="DlgIptc.cpp" line="1765"/>
         <source>An error has occurred during processing. 
 Please make sure that files are not read-only!</source>
         <oldsource>An error occured during processing. 
@@ -9252,7 +9267,7 @@ Please make sure that files are not read-only!</oldsource>
         <translation type="unfinished">İşlem sırasında oluşun bir hata oluştu. Lütfen dosyaların salt okunur olup olmadığını kontrol edin!</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="1671"/>
+        <location filename="DlgIptc.cpp" line="1686"/>
         <source>Are you sure to overwrite IPTC/XMP data for ALL files with the current values of the fields?</source>
         <translation>Alanların geçerli değerler ile TÜM dosyalar için IPTC/XMP verilerini üzerine yazmak istiyor musunuz?</translation>
     </message>
@@ -11486,42 +11501,42 @@ Do you want to remove them?</source>
 <context>
     <name>DlgSettingsBrowser</name>
     <message>
-        <location filename="DlgSettingsBrowser.cpp" line="363"/>
+        <location filename="DlgSettingsBrowser.cpp" line="374"/>
         <source>Clear All</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.cpp" line="363"/>
+        <location filename="DlgSettingsBrowser.cpp" line="374"/>
         <source>Remove all items from the list?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.cpp" line="374"/>
+        <location filename="DlgSettingsBrowser.cpp" line="393"/>
         <source>Default</source>
         <translation type="unfinished">Varsayılan</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.cpp" line="374"/>
+        <location filename="DlgSettingsBrowser.cpp" line="393"/>
         <source>Reset list to default?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.cpp" line="525"/>
+        <location filename="DlgSettingsBrowser.cpp" line="583"/>
         <source>Expand All</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.cpp" line="530"/>
+        <location filename="DlgSettingsBrowser.cpp" line="588"/>
         <source>Collapse All</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.cpp" line="842"/>
+        <location filename="DlgSettingsBrowser.cpp" line="904"/>
         <source>Save Preset</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.cpp" line="842"/>
+        <location filename="DlgSettingsBrowser.cpp" line="904"/>
         <source>Preset name:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11595,33 +11610,32 @@ Do you want to remove them?</source>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="365"/>
-        <location filename="DlgSettingsBrowser.ui" line="506"/>
+        <location filename="DlgSettingsBrowser.ui" line="562"/>
         <source>Filter</source>
         <translation>Filtre</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="498"/>
-        <source>Filelist header</source>
-        <oldsource>Header</oldsource>
-        <translation type="unfinished">Başlık</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsBrowser.ui" line="531"/>
+        <location filename="DlgSettingsBrowser.ui" line="585"/>
         <source>Label</source>
         <translation type="unfinished">Etiket</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="536"/>
+        <location filename="DlgSettingsBrowser.ui" line="590"/>
         <source>Field</source>
         <translation type="unfinished">Alan</translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="546"/>
+        <location filename="DlgSettingsBrowser.ui" line="553"/>
         <source>Clear all</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.ui" line="700"/>
+        <location filename="DlgSettingsBrowser.ui" line="498"/>
+        <source>Columns</source>
+        <translation type="unfinished">Sütunlar</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsBrowser.ui" line="510"/>
         <source>&lt;Default&gt;</source>
         <translation type="unfinished">&lt;Varsayılan&gt;</translation>
     </message>
@@ -12862,37 +12876,37 @@ Thumbnail</source>
         <translation>XnViewMP ile Gözat</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="395"/>
+        <location filename="DlgSettingsIntegration.cpp" line="416"/>
         <source>Select a program</source>
         <translation type="unfinished">Bir Program Seçin</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="472"/>
+        <location filename="DlgSettingsIntegration.cpp" line="491"/>
         <source>Paths</source>
         <translation>Yollar</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="472"/>
+        <location filename="DlgSettingsIntegration.cpp" line="491"/>
         <source>Please be careful to folder rights by using XnView folder</source>
         <translation>XnView klasörü kullanarak klasör haklarına lütfen dikkat edin</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="662"/>
+        <location filename="DlgSettingsIntegration.cpp" line="681"/>
         <source>XnViewMP is a fast multi-format graphics browser, viewer, and converter. It reads more than 400 file formats.</source>
         <translation>XnViewMP çoklu format graphic görüntüleyici ve dönüştürücüdür. 500 den fazla dosya formatını okumaktadır.</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="663"/>
+        <location filename="DlgSettingsIntegration.cpp" line="682"/>
         <source>XnViewMP for Windows</source>
         <translation>Windows için XnViewMP</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="710"/>
+        <location filename="DlgSettingsIntegration.cpp" line="729"/>
         <source>XnView Slide file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="717"/>
+        <location filename="DlgSettingsIntegration.cpp" line="736"/>
         <source>%1 Image file</source>
         <translation type="unfinished"></translation>
     </message>
@@ -16743,32 +16757,32 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
 <context>
     <name>File</name>
     <message>
-        <location filename="GeneralSettings.cpp" line="1038"/>
+        <location filename="GeneralSettings.cpp" line="1039"/>
         <source>Copy of %1%2</source>
         <translation>Kopyası in %1%2</translation>
     </message>
     <message>
-        <location filename="GeneralSettings.cpp" line="1040"/>
+        <location filename="GeneralSettings.cpp" line="1041"/>
         <source>Copy (%3) of %1%2</source>
         <translation>Kopyası (%3) in %1%2</translation>
     </message>
     <message>
-        <location filename="GeneralSettings.cpp" line="1046"/>
+        <location filename="GeneralSettings.cpp" line="1047"/>
         <source>%1 - Copy%2</source>
         <translation>%1 - Kopya%2</translation>
     </message>
     <message>
-        <location filename="GeneralSettings.cpp" line="1048"/>
+        <location filename="GeneralSettings.cpp" line="1049"/>
         <source>%1 - Copy (%3)%2</source>
         <translation>%1 - Kopyası (%3)%2</translation>
     </message>
     <message>
-        <location filename="GeneralSettings.cpp" line="1053"/>
+        <location filename="GeneralSettings.cpp" line="1054"/>
         <source>%1-Copy%2</source>
         <translation>%1-Kopyala%2</translation>
     </message>
     <message>
-        <location filename="GeneralSettings.cpp" line="1055"/>
+        <location filename="GeneralSettings.cpp" line="1056"/>
         <source>%1-Copy (%3)%2</source>
         <translation>%1-Kopya (%3)%2</translation>
     </message>
@@ -16816,7 +16830,7 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <translation>Ayrıntılar</translation>
     </message>
     <message>
-        <location filename="FileListWidget.cpp" line="300"/>
+        <location filename="FileListWidget.cpp" line="308"/>
         <source>Do you want to add only the folder and not the filelist?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -16866,8 +16880,8 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <translation type="unfinished">...</translation>
     </message>
     <message>
-        <location filename="FileListWidget.cpp" line="297"/>
-        <location filename="FileListWidget.cpp" line="300"/>
+        <location filename="FileListWidget.cpp" line="305"/>
+        <location filename="FileListWidget.cpp" line="308"/>
         <source>Choose a directory</source>
         <translation>Bir dizin seçin</translation>
     </message>
@@ -16951,27 +16965,27 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <location filename="InfoPropertiesView.cpp" line="668"/>
         <location filename="InfoPropertiesView.cpp" line="687"/>
         <location filename="SearchField.cpp" line="41"/>
-        <location filename="TemplateData.cpp" line="2593"/>
+        <location filename="TemplateData.cpp" line="2599"/>
         <source>Format</source>
         <translation>Biçim</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="69"/>
         <location filename="InfoPropertiesView.cpp" line="653"/>
-        <location filename="ItemModel.cpp" line="1063"/>
+        <location filename="ItemModel.cpp" line="1021"/>
         <location filename="SearchField.cpp" line="42"/>
-        <location filename="TemplateData.cpp" line="2596"/>
-        <location filename="TemplateData.cpp" line="2619"/>
+        <location filename="TemplateData.cpp" line="2602"/>
+        <location filename="TemplateData.cpp" line="2625"/>
         <source>Width</source>
         <translation>Genişlik</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="70"/>
         <location filename="InfoPropertiesView.cpp" line="654"/>
-        <location filename="ItemModel.cpp" line="1065"/>
+        <location filename="ItemModel.cpp" line="1023"/>
         <location filename="SearchField.cpp" line="43"/>
-        <location filename="TemplateData.cpp" line="2597"/>
-        <location filename="TemplateData.cpp" line="2620"/>
+        <location filename="TemplateData.cpp" line="2603"/>
+        <location filename="TemplateData.cpp" line="2626"/>
         <source>Height</source>
         <translation>Yükseklik</translation>
     </message>
@@ -16990,7 +17004,7 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <location filename="InfoPropertiesView.cpp" line="79"/>
         <location filename="InfoPropertiesView.cpp" line="81"/>
         <location filename="InfoPropertiesView.cpp" line="83"/>
-        <location filename="TemplateData.cpp" line="2594"/>
+        <location filename="TemplateData.cpp" line="2600"/>
         <source>Color model</source>
         <translation>Renk Modeli</translation>
     </message>
@@ -17011,22 +17025,22 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="87"/>
-        <location filename="ItemModel.cpp" line="1067"/>
-        <location filename="TemplateData.cpp" line="2600"/>
-        <location filename="TemplateData.cpp" line="2622"/>
+        <location filename="ItemModel.cpp" line="1025"/>
+        <location filename="TemplateData.cpp" line="2606"/>
+        <location filename="TemplateData.cpp" line="2628"/>
         <source>DPI</source>
         <translation>DPI</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="92"/>
-        <location filename="ItemModel.cpp" line="1045"/>
+        <location filename="ItemModel.cpp" line="1003"/>
         <source>Print size</source>
         <translation>Yazdırma Boyutu</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="95"/>
         <location filename="InfoPropertiesView.cpp" line="100"/>
-        <location filename="TemplateData.cpp" line="2595"/>
+        <location filename="TemplateData.cpp" line="2601"/>
         <source>Compression</source>
         <translation>Sıkıştırma</translation>
     </message>
@@ -17237,65 +17251,65 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="665"/>
         <location filename="InfoPropertiesView.cpp" line="705"/>
-        <location filename="ItemModel.cpp" line="1055"/>
+        <location filename="ItemModel.cpp" line="1013"/>
         <location filename="SearchField.cpp" line="47"/>
-        <location filename="TemplateData.cpp" line="2599"/>
+        <location filename="TemplateData.cpp" line="2605"/>
         <source>Comment</source>
         <translation>Yorum</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1043"/>
+        <location filename="ItemModel.cpp" line="1001"/>
         <source>Properties</source>
         <translation>Özellikler</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1049"/>
+        <location filename="ItemModel.cpp" line="1007"/>
         <location filename="SearchField.cpp" line="35"/>
-        <location filename="TemplateData.cpp" line="2804"/>
+        <location filename="TemplateData.cpp" line="2810"/>
         <source>Rating</source>
         <translation>Puanlama</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1051"/>
+        <location filename="ItemModel.cpp" line="1009"/>
         <source>Colour label</source>
         <translation>Renk Etiketi</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1053"/>
+        <location filename="ItemModel.cpp" line="1011"/>
         <source>Check</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1059"/>
+        <location filename="ItemModel.cpp" line="1017"/>
         <source>Path</source>
         <translation type="unfinished">Yol</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1061"/>
+        <location filename="ItemModel.cpp" line="1019"/>
         <location filename="SearchField.cpp" line="45"/>
-        <location filename="TemplateData.cpp" line="2609"/>
+        <location filename="TemplateData.cpp" line="2615"/>
         <source>Ratio</source>
         <translation>Oran</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2069"/>
+        <location filename="DBFilterModel.cpp" line="2076"/>
         <source>Aspect Ratio</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2105"/>
+        <location filename="DBFilterModel.cpp" line="2112"/>
         <source>File type</source>
         <translation type="unfinished">Dosya Türü</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1069"/>
+        <location filename="ItemModel.cpp" line="1027"/>
         <source>Extension</source>
         <translation>Uzantı</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="361"/>
         <location filename="IptcEditBase.cpp" line="75"/>
-        <location filename="TemplateData.cpp" line="2819"/>
+        <location filename="TemplateData.cpp" line="2825"/>
         <source>Folder</source>
         <translation>Klasör</translation>
     </message>
@@ -17303,9 +17317,9 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <location filename="EditXMPWidget.cpp" line="369"/>
         <location filename="IptcEditBase.cpp" line="83"/>
         <location filename="IptcEditBase.cpp" line="115"/>
-        <location filename="ItemModel.cpp" line="1057"/>
+        <location filename="ItemModel.cpp" line="1015"/>
         <location filename="SearchField.cpp" line="46"/>
-        <location filename="TemplateData.cpp" line="2828"/>
+        <location filename="TemplateData.cpp" line="2834"/>
         <source>Annotation</source>
         <translation>Not</translation>
     </message>
@@ -17321,14 +17335,14 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <location filename="IptcEditBase.cpp" line="73"/>
         <location filename="IptcEditBase.cpp" line="111"/>
         <location filename="SearchField.cpp" line="29"/>
-        <location filename="TemplateData.cpp" line="2816"/>
+        <location filename="TemplateData.cpp" line="2822"/>
         <source>Filename</source>
         <translation>Dosya Adı</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="360"/>
         <location filename="IptcEditBase.cpp" line="74"/>
-        <location filename="TemplateData.cpp" line="2818"/>
+        <location filename="TemplateData.cpp" line="2824"/>
         <source>Filename (last number)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -17336,7 +17350,7 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <location filename="EditXMPWidget.cpp" line="362"/>
         <location filename="IptcEditBase.cpp" line="76"/>
         <location filename="SearchField.cpp" line="32"/>
-        <location filename="TemplateData.cpp" line="2820"/>
+        <location filename="TemplateData.cpp" line="2826"/>
         <source>Folder name</source>
         <translation>Klasör Adı</translation>
     </message>
@@ -17344,7 +17358,7 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <location filename="EditXMPWidget.cpp" line="363"/>
         <location filename="IptcEditBase.cpp" line="77"/>
         <location filename="SearchField.cpp" line="40"/>
-        <location filename="TemplateData.cpp" line="2821"/>
+        <location filename="TemplateData.cpp" line="2827"/>
         <source>Accessed date</source>
         <translation>Erişim Tarihi</translation>
     </message>
@@ -17352,7 +17366,7 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <location filename="EditXMPWidget.cpp" line="364"/>
         <location filename="IptcEditBase.cpp" line="78"/>
         <location filename="SearchField.cpp" line="39"/>
-        <location filename="TemplateData.cpp" line="2822"/>
+        <location filename="TemplateData.cpp" line="2828"/>
         <source>Creation date</source>
         <translation>Oluşturulma Tarihi</translation>
     </message>
@@ -17361,28 +17375,28 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <location filename="EditXMPWidget.cpp" line="365"/>
         <location filename="IptcEditBase.cpp" line="79"/>
         <location filename="SearchField.cpp" line="38"/>
-        <location filename="TemplateData.cpp" line="2823"/>
+        <location filename="TemplateData.cpp" line="2829"/>
         <source>Modified date</source>
         <translation>Değiştirilme Tarihi</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="366"/>
         <location filename="IptcEditBase.cpp" line="80"/>
-        <location filename="TemplateData.cpp" line="2824"/>
+        <location filename="TemplateData.cpp" line="2830"/>
         <source>Size (Auto)</source>
         <translation>Boyut (Otomatik)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="367"/>
         <location filename="IptcEditBase.cpp" line="81"/>
-        <location filename="TemplateData.cpp" line="2825"/>
+        <location filename="TemplateData.cpp" line="2831"/>
         <source>Size (Bytes)</source>
         <translation>Boyut (Byte)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="368"/>
         <location filename="IptcEditBase.cpp" line="82"/>
-        <location filename="TemplateData.cpp" line="2826"/>
+        <location filename="TemplateData.cpp" line="2832"/>
         <source>Size (kB)</source>
         <oldsource>Size (KB)</oldsource>
         <translation type="unfinished">Boyut (KB)</translation>
@@ -17428,15 +17442,15 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <translation type="unfinished">Alan (Sayı)</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1071"/>
+        <location filename="ItemModel.cpp" line="1029"/>
         <location filename="SearchField.cpp" line="34"/>
-        <location filename="TemplateData.cpp" line="2808"/>
+        <location filename="TemplateData.cpp" line="2814"/>
         <source>Categories</source>
         <translation>Kategoriler</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="36"/>
-        <location filename="TemplateData.cpp" line="2806"/>
+        <location filename="TemplateData.cpp" line="2812"/>
         <source>Color label</source>
         <translation>Renk Etiketi</translation>
     </message>
@@ -17453,136 +17467,136 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <translation>Bütün Alanlar</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2598"/>
-        <location filename="TemplateData.cpp" line="2621"/>
+        <location filename="TemplateData.cpp" line="2604"/>
+        <location filename="TemplateData.cpp" line="2627"/>
         <source>BPP</source>
         <translation>BPP</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2601"/>
+        <location filename="TemplateData.cpp" line="2607"/>
         <source>DPI-X</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2602"/>
+        <location filename="TemplateData.cpp" line="2608"/>
         <source>DPI-Y</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2603"/>
-        <location filename="TemplateData.cpp" line="2623"/>
+        <location filename="TemplateData.cpp" line="2609"/>
+        <location filename="TemplateData.cpp" line="2629"/>
         <source>Width (inch)</source>
         <translation>Genişlik (inç)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2604"/>
-        <location filename="TemplateData.cpp" line="2624"/>
+        <location filename="TemplateData.cpp" line="2610"/>
+        <location filename="TemplateData.cpp" line="2630"/>
         <source>Height (inch)</source>
         <translation>Yükseklik (inç)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2605"/>
-        <location filename="TemplateData.cpp" line="2625"/>
+        <location filename="TemplateData.cpp" line="2611"/>
+        <location filename="TemplateData.cpp" line="2631"/>
         <source>Width (cm)</source>
         <translation>Genişlik (cm)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2606"/>
-        <location filename="TemplateData.cpp" line="2626"/>
+        <location filename="TemplateData.cpp" line="2612"/>
+        <location filename="TemplateData.cpp" line="2632"/>
         <source>Height (cm)</source>
         <translation>Yükseklik (cm)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2607"/>
+        <location filename="TemplateData.cpp" line="2613"/>
         <source>Width (mm)</source>
         <translation>Genişlik (mm)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2608"/>
+        <location filename="TemplateData.cpp" line="2614"/>
         <source>Height (mm)</source>
         <translation>Yükseklik (mm)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2610"/>
+        <location filename="TemplateData.cpp" line="2616"/>
         <source>Ratio Decimal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2611"/>
+        <location filename="TemplateData.cpp" line="2617"/>
         <source>Width/Height Ratio</source>
         <oldsource>Ratio Width/Height</oldsource>
         <translation>Genişlik/Yükseklik Oranı</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2612"/>
+        <location filename="TemplateData.cpp" line="2618"/>
         <source>Height/Width Ratio</source>
         <oldsource>Ratio Height/Width</oldsource>
         <translation>Yükseklik/Genişlik Oranı</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2613"/>
+        <location filename="TemplateData.cpp" line="2619"/>
         <source>MPixels</source>
         <translation>MPiksel</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2798"/>
+        <location filename="TemplateData.cpp" line="2804"/>
         <source>Create date</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2799"/>
+        <location filename="TemplateData.cpp" line="2805"/>
         <source>Modify date</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2803"/>
+        <location filename="TemplateData.cpp" line="2809"/>
         <source>Check status</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="30"/>
-        <location filename="TemplateData.cpp" line="2817"/>
+        <location filename="TemplateData.cpp" line="2823"/>
         <source>Filename (with extension)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2827"/>
+        <location filename="TemplateData.cpp" line="2833"/>
         <source>Type</source>
         <translation>Tür</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2829"/>
+        <location filename="TemplateData.cpp" line="2835"/>
         <source>Output filename</source>
         <oldsource>Output filename without extension</oldsource>
         <translation>Oluşturulacak Dosya Adı</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2830"/>
+        <location filename="TemplateData.cpp" line="2836"/>
         <source>Output filename (with extension)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2800"/>
+        <location filename="TemplateData.cpp" line="2806"/>
         <source>File index</source>
         <translation>Dosya İndeksi</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2801"/>
+        <location filename="TemplateData.cpp" line="2807"/>
         <source>Zoom</source>
         <translation>Yakınlaştırma</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2802"/>
+        <location filename="TemplateData.cpp" line="2808"/>
         <source>Current date</source>
         <translation>Şu anki tarih</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2805"/>
+        <location filename="TemplateData.cpp" line="2811"/>
         <source>Rating (number)</source>
         <translation>Puanlama (Numara)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2807"/>
+        <location filename="TemplateData.cpp" line="2813"/>
         <source>Color label (number)</source>
         <translation>Renk Etiketi (Numara)</translation>
     </message>
@@ -17820,126 +17834,131 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
 <context>
     <name>InfoExif</name>
     <message>
-        <location filename="DBFilterModel.cpp" line="2073"/>
+        <location filename="DBFilterModel.cpp" line="2080"/>
         <location filename="SearchField.cpp" line="83"/>
-        <location filename="TemplateData.cpp" line="2631"/>
+        <location filename="TemplateData.cpp" line="2637"/>
         <source>Maker</source>
         <translation>Yapımcı</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2077"/>
+        <location filename="DBFilterModel.cpp" line="2084"/>
         <location filename="SearchField.cpp" line="84"/>
-        <location filename="TemplateData.cpp" line="2632"/>
+        <location filename="TemplateData.cpp" line="2638"/>
         <source>Model</source>
         <translation>Model</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2081"/>
+        <location filename="DBFilterModel.cpp" line="2088"/>
         <source>Lens</source>
         <translation type="unfinished">Lens</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2089"/>
+        <location filename="DBFilterModel.cpp" line="2096"/>
         <source>ISO</source>
         <translation>ISO</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2097"/>
+        <location filename="DBFilterModel.cpp" line="2104"/>
         <source>Shutter Speed</source>
         <translation type="unfinished">Poz Süresi</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2109"/>
+        <location filename="DBFilterModel.cpp" line="2116"/>
         <source>Colour Space</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2192"/>
+        <location filename="DBFilterModel.cpp" line="2199"/>
         <source>Not Defined</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2194"/>
+        <location filename="DBFilterModel.cpp" line="2201"/>
         <source>Manual</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2196"/>
+        <location filename="DBFilterModel.cpp" line="2203"/>
         <source>Program AE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2198"/>
+        <location filename="DBFilterModel.cpp" line="2205"/>
         <source>Aperture-priority AE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2200"/>
+        <location filename="DBFilterModel.cpp" line="2207"/>
         <source>Shutter speed priority AE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2202"/>
+        <location filename="DBFilterModel.cpp" line="2209"/>
         <source>Creative</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2204"/>
+        <location filename="DBFilterModel.cpp" line="2211"/>
         <source>Action</source>
         <translation type="unfinished">Görev</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2206"/>
+        <location filename="DBFilterModel.cpp" line="2213"/>
         <source>Portrait</source>
         <translation type="unfinished">Portre</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2208"/>
+        <location filename="DBFilterModel.cpp" line="2215"/>
         <source>Landscape</source>
         <translation type="unfinished">Peyzaj</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2085"/>
+        <location filename="DBFilterModel.cpp" line="2092"/>
         <source>Focal Length</source>
         <translation>Odak boyutu</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2670"/>
+        <location filename="TemplateData.cpp" line="2676"/>
         <source>Aperture</source>
         <translation>Açıklık</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2718"/>
+        <location filename="TemplateData.cpp" line="2681"/>
+        <source>Subject Distance Range</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TemplateData.cpp" line="2724"/>
         <source>Latitude</source>
         <translation>Enlem</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2721"/>
+        <location filename="TemplateData.cpp" line="2727"/>
         <source>Longitude</source>
         <translation>Boylam</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="86"/>
-        <location filename="TemplateData.cpp" line="2644"/>
+        <location filename="TemplateData.cpp" line="2650"/>
         <source>Software</source>
         <translation>Yazılım</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="85"/>
-        <location filename="TemplateData.cpp" line="2633"/>
+        <location filename="TemplateData.cpp" line="2639"/>
         <source>Artist</source>
         <translation>Artist</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="87"/>
-        <location filename="TemplateData.cpp" line="2657"/>
+        <location filename="TemplateData.cpp" line="2663"/>
         <source>User comment</source>
         <translation>Kullanıcı Yorumu</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2093"/>
+        <location filename="DBFilterModel.cpp" line="2100"/>
         <location filename="SearchField.cpp" line="93"/>
-        <location filename="TemplateData.cpp" line="2665"/>
+        <location filename="TemplateData.cpp" line="2671"/>
         <source>F-Number</source>
         <translation>F-Numarası</translation>
     </message>
@@ -17949,403 +17968,398 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2634"/>
+        <location filename="TemplateData.cpp" line="2640"/>
         <source>Copyright</source>
         <translation>Telif</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="88"/>
-        <location filename="TemplateData.cpp" line="2635"/>
+        <location filename="TemplateData.cpp" line="2641"/>
         <source>Date/time modified</source>
         <translation>Değiştirilen Tarih/Zaman</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2065"/>
-        <location filename="TemplateData.cpp" line="2636"/>
+        <location filename="DBFilterModel.cpp" line="2072"/>
+        <location filename="TemplateData.cpp" line="2642"/>
         <source>Orientation</source>
         <translation>Yönelim</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2637"/>
+        <location filename="TemplateData.cpp" line="2643"/>
         <source>X-Resolution</source>
         <translation>X-Çözünürlüğü</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2638"/>
+        <location filename="TemplateData.cpp" line="2644"/>
         <source>Y-Resolution</source>
         <translation>Y-Çözünürlüğü</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2639"/>
+        <location filename="TemplateData.cpp" line="2645"/>
         <source>Resolution unit</source>
         <translation>Çözünürlük Birimi</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2640"/>
+        <location filename="TemplateData.cpp" line="2646"/>
         <source>Primary chromaticities</source>
         <translation>Birincil Renkler</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2641"/>
+        <location filename="TemplateData.cpp" line="2647"/>
         <source>YCbCr-Coefficients</source>
         <translation>YCbCr-Katsayıları</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2642"/>
+        <location filename="TemplateData.cpp" line="2648"/>
         <source>YCbCr-Positioning</source>
         <translation>YCbCr-Hizalaması</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2643"/>
+        <location filename="TemplateData.cpp" line="2649"/>
         <source>Ref. black/white</source>
         <translation>Ref. Siyah/Beyaz</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2646"/>
+        <location filename="TemplateData.cpp" line="2652"/>
         <source>LensID</source>
         <translation>LensID</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="97"/>
-        <location filename="TemplateData.cpp" line="2648"/>
+        <location filename="TemplateData.cpp" line="2654"/>
         <source>XP Title</source>
         <translation>XP Başlığı</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="98"/>
-        <location filename="TemplateData.cpp" line="2649"/>
+        <location filename="TemplateData.cpp" line="2655"/>
         <source>XP Comment</source>
         <translation>XP Yorumu</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="99"/>
-        <location filename="TemplateData.cpp" line="2650"/>
+        <location filename="TemplateData.cpp" line="2656"/>
         <source>XP Author</source>
         <translation>XP Yazarı</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2651"/>
+        <location filename="TemplateData.cpp" line="2657"/>
         <source>XP Keywords</source>
         <translation>XP Anahtar Kelimeler</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="100"/>
-        <location filename="TemplateData.cpp" line="2652"/>
+        <location filename="TemplateData.cpp" line="2658"/>
         <source>XP Subject</source>
         <translation>XP Konusu</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="89"/>
-        <location filename="TemplateData.cpp" line="2658"/>
+        <location filename="TemplateData.cpp" line="2664"/>
         <source>Date taken</source>
         <translation>Çekilme tarihi</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="90"/>
-        <location filename="TemplateData.cpp" line="2659"/>
+        <location filename="TemplateData.cpp" line="2665"/>
         <source>Date digitized</source>
         <translation>Sayısallaştıma Tarihi</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2660"/>
+        <location filename="TemplateData.cpp" line="2666"/>
         <source>Exposure Time (s)</source>
         <oldsource>Exposure Time [s]</oldsource>
         <translation>Poz Zamanı (s)</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2101"/>
-        <location filename="TemplateData.cpp" line="2661"/>
+        <location filename="DBFilterModel.cpp" line="2108"/>
+        <location filename="TemplateData.cpp" line="2667"/>
         <source>Exposure Program</source>
         <translation>Poz Programı</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2662"/>
+        <location filename="TemplateData.cpp" line="2668"/>
         <source>Exposure Mode</source>
         <translation>Poz Modu</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2663"/>
+        <location filename="TemplateData.cpp" line="2669"/>
         <source>Exposure Bias</source>
         <translation>Poz Sapması</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2664"/>
+        <location filename="TemplateData.cpp" line="2670"/>
         <source>Exposure Index</source>
         <translation>Poz İndeksi</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="92"/>
-        <location filename="TemplateData.cpp" line="2666"/>
+        <location filename="TemplateData.cpp" line="2672"/>
         <source>Focal length (mm)</source>
         <oldsource>Focal length [mm]</oldsource>
         <translation>Odak uzaklığı (mm)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2667"/>
+        <location filename="TemplateData.cpp" line="2673"/>
         <source>35mm Focal length</source>
         <translation>35mm mercek</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="91"/>
-        <location filename="TemplateData.cpp" line="2668"/>
+        <location filename="TemplateData.cpp" line="2674"/>
         <source>ISO Value</source>
         <translation>ISO Değeri</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2669"/>
+        <location filename="TemplateData.cpp" line="2675"/>
         <source>Shutter speed (s)</source>
         <oldsource>Shutter speed [s]</oldsource>
         <translation>Deklanşör Hızı (s)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2671"/>
+        <location filename="TemplateData.cpp" line="2677"/>
         <source>Max. aperture</source>
         <translation>Maks. Açıklık</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2672"/>
+        <location filename="TemplateData.cpp" line="2678"/>
         <source>Colour space</source>
         <translation>Renk Boşluğu</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2673"/>
+        <location filename="TemplateData.cpp" line="2679"/>
         <source>Digital zoom</source>
         <translation>Dijital Zoom</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2674"/>
+        <location filename="TemplateData.cpp" line="2680"/>
         <source>Subject Distance (m)</source>
         <translation>Nesne Uzaklığı (m)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2675"/>
-        <source>Subj. Dist. Range</source>
-        <translation>Nesne Uzaklık Menzili</translation>
-    </message>
-    <message>
-        <location filename="TemplateData.cpp" line="2676"/>
+        <location filename="TemplateData.cpp" line="2682"/>
         <source>Subject location</source>
         <translation>Nesne Konumu</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="95"/>
-        <location filename="TemplateData.cpp" line="2677"/>
+        <location filename="TemplateData.cpp" line="2683"/>
         <source>Flash</source>
         <translation>Flaş</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2678"/>
+        <location filename="TemplateData.cpp" line="2684"/>
         <source>Flash energy</source>
         <translation>Flaş Enerjisi</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2679"/>
+        <location filename="TemplateData.cpp" line="2685"/>
         <source>Metering mode</source>
         <translation>Ölçme Modu</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2680"/>
+        <location filename="TemplateData.cpp" line="2686"/>
         <source>Gain control</source>
         <translation>İlerleme Kontrolü</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2681"/>
+        <location filename="TemplateData.cpp" line="2687"/>
         <source>Light source</source>
         <translation>Işık Kaynağı</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2682"/>
+        <location filename="TemplateData.cpp" line="2688"/>
         <source>White balance</source>
         <translation>Beyaz Dengesi</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2683"/>
+        <location filename="TemplateData.cpp" line="2689"/>
         <source>Contrast</source>
         <translation>Kontrast</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2684"/>
+        <location filename="TemplateData.cpp" line="2690"/>
         <source>Saturation</source>
         <translation>Doygunluk</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2685"/>
+        <location filename="TemplateData.cpp" line="2691"/>
         <source>Sharpness</source>
         <translation>Keskinlik</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2686"/>
+        <location filename="TemplateData.cpp" line="2692"/>
         <source>Brightness</source>
         <translation>Parlaklık</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2687"/>
+        <location filename="TemplateData.cpp" line="2693"/>
         <source>Spectral sensitivity</source>
         <translation>Spektral Duyarlılık</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2688"/>
+        <location filename="TemplateData.cpp" line="2694"/>
         <source>Spatial freq. response</source>
         <translation>Mekansal Frekans Tepkisi</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2689"/>
+        <location filename="TemplateData.cpp" line="2695"/>
         <source>Sensing method</source>
         <translation>Algılama Metodu</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2690"/>
+        <location filename="TemplateData.cpp" line="2696"/>
         <source>File source</source>
         <translation>Dosya Kaynağı</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2691"/>
+        <location filename="TemplateData.cpp" line="2697"/>
         <source>CFA pattern</source>
         <translation>CFA Dokusu</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2692"/>
+        <location filename="TemplateData.cpp" line="2698"/>
         <source>Custom rendered</source>
         <translation>Özel render</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2693"/>
+        <location filename="TemplateData.cpp" line="2699"/>
         <source>Device settings desc.</source>
         <translation>Cihaz Ayarları Açklm.</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2694"/>
+        <location filename="TemplateData.cpp" line="2700"/>
         <source>Scene type</source>
         <translation>Sahne Türü</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2695"/>
+        <location filename="TemplateData.cpp" line="2701"/>
         <source>Scene capture type</source>
         <translation>Sahne yakalama türü</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2696"/>
+        <location filename="TemplateData.cpp" line="2702"/>
         <source>Image-ID</source>
         <translation>Resim ID</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2697"/>
+        <location filename="TemplateData.cpp" line="2703"/>
         <source>Image width</source>
         <translation>Resim Genişliği</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2698"/>
+        <location filename="TemplateData.cpp" line="2704"/>
         <source>Image height</source>
         <translation>Resim Yüksekliği</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2699"/>
+        <location filename="TemplateData.cpp" line="2705"/>
         <source>Image description</source>
         <translation>Resim Açıklaması</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2700"/>
+        <location filename="TemplateData.cpp" line="2706"/>
         <source>Components configuration</source>
         <translation>Bileşen Yapılandırması</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2701"/>
+        <location filename="TemplateData.cpp" line="2707"/>
         <source>Photometric interpretation</source>
         <translation>Fotometrik Yorumlama</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2702"/>
+        <location filename="TemplateData.cpp" line="2708"/>
         <source>Focal Plane X-Resolution</source>
         <translation>Odak Düzlemi X-Çözünürlüğü</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2703"/>
+        <location filename="TemplateData.cpp" line="2709"/>
         <source>Focal Plane Y-Resolution</source>
         <translation>Odak Düzlemi Y-Çözünürlüğü</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2704"/>
+        <location filename="TemplateData.cpp" line="2710"/>
         <source>Focal Plane Res. Unit</source>
         <translation>Odak Düzlemi Res. Birimi</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2705"/>
+        <location filename="TemplateData.cpp" line="2711"/>
         <source>EXIF Version</source>
         <translation>EXIF Versiyonu</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2706"/>
+        <location filename="TemplateData.cpp" line="2712"/>
         <source>White point</source>
         <translation>Beyaz Nokta</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2707"/>
+        <location filename="TemplateData.cpp" line="2713"/>
         <source>Lens Make</source>
         <translation>Lens Yapmak</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="96"/>
-        <location filename="TemplateData.cpp" line="2708"/>
+        <location filename="TemplateData.cpp" line="2714"/>
         <source>Lens Model</source>
         <translation>Lens Modeli</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2709"/>
+        <location filename="TemplateData.cpp" line="2715"/>
         <source>SubSecTime</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2710"/>
+        <location filename="TemplateData.cpp" line="2716"/>
         <source>SubSecTime Original</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2711"/>
+        <location filename="TemplateData.cpp" line="2717"/>
         <source>SubSecTime Digitized</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2717"/>
+        <location filename="TemplateData.cpp" line="2723"/>
         <source>Latitude ref.</source>
         <translation>Enlem Ref.</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2719"/>
+        <location filename="TemplateData.cpp" line="2725"/>
         <source>Latitude (value)</source>
         <translation>Enlem (değer)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2720"/>
+        <location filename="TemplateData.cpp" line="2726"/>
         <source>Longitude ref.</source>
         <translation>Boylam Ref.</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2722"/>
+        <location filename="TemplateData.cpp" line="2728"/>
         <source>Longitude (value)</source>
         <translation>Boylam (değer)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2723"/>
+        <location filename="TemplateData.cpp" line="2729"/>
         <source>Altitude ref.</source>
         <translation>Yükselti Ref.</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2724"/>
+        <location filename="TemplateData.cpp" line="2730"/>
         <source>Altitude</source>
         <translation>Yükseklik</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2725"/>
+        <location filename="TemplateData.cpp" line="2731"/>
         <source>Direction ref.</source>
         <translation>Yön ref.</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2726"/>
+        <location filename="TemplateData.cpp" line="2732"/>
         <source>Direction</source>
         <translation>Yön</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2727"/>
+        <location filename="TemplateData.cpp" line="2733"/>
         <source>Location Code</source>
         <translation>Konum kodu</translation>
     </message>
@@ -18431,7 +18445,7 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
     <message>
         <location filename="EditXMPWidget.cpp" line="133"/>
         <location filename="SearchField.cpp" line="115"/>
-        <location filename="TemplateData.cpp" line="2791"/>
+        <location filename="TemplateData.cpp" line="2797"/>
         <source>Instructions</source>
         <translation>Talimatlar</translation>
     </message>
@@ -18439,8 +18453,8 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <location filename="EditXMPWidget.cpp" line="130"/>
         <location filename="SearchField.cpp" line="62"/>
         <location filename="SearchField.cpp" line="113"/>
-        <location filename="TemplateData.cpp" line="2750"/>
-        <location filename="TemplateData.cpp" line="2789"/>
+        <location filename="TemplateData.cpp" line="2756"/>
+        <location filename="TemplateData.cpp" line="2795"/>
         <source>Credit</source>
         <translation>Teşekkür</translation>
     </message>
@@ -18451,33 +18465,33 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <location filename="SearchField.cpp" line="74"/>
         <location filename="SearchField.cpp" line="117"/>
         <location filename="SearchField.cpp" line="127"/>
-        <location filename="TemplateData.cpp" line="2770"/>
-        <location filename="TemplateData.cpp" line="2793"/>
+        <location filename="TemplateData.cpp" line="2776"/>
+        <location filename="TemplateData.cpp" line="2799"/>
         <source>State</source>
         <translation>Eyalet</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="104"/>
-        <location filename="TemplateData.cpp" line="2780"/>
+        <location filename="TemplateData.cpp" line="2786"/>
         <source>Creator</source>
         <translation>Yapımcı</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="114"/>
         <location filename="SearchField.cpp" line="105"/>
-        <location filename="TemplateData.cpp" line="2781"/>
+        <location filename="TemplateData.cpp" line="2787"/>
         <source>Description</source>
         <translation>Açıklama</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="107"/>
-        <location filename="TemplateData.cpp" line="2783"/>
+        <location filename="TemplateData.cpp" line="2789"/>
         <source>Subject</source>
         <translation>Konu</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="108"/>
-        <location filename="TemplateData.cpp" line="2784"/>
+        <location filename="TemplateData.cpp" line="2790"/>
         <source>Title</source>
         <translation>Başlık</translation>
     </message>
@@ -18549,13 +18563,13 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
     <message>
         <location filename="EditXMPWidget.cpp" line="113"/>
         <location filename="SearchField.cpp" line="109"/>
-        <location filename="TemplateData.cpp" line="2785"/>
+        <location filename="TemplateData.cpp" line="2791"/>
         <source>Authors position</source>
         <translation>Yazarın Görevi</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="66"/>
-        <location filename="TemplateData.cpp" line="2758"/>
+        <location filename="TemplateData.cpp" line="2764"/>
         <source>Cycle</source>
         <translation>Döngü</translation>
     </message>
@@ -18563,7 +18577,7 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <location filename="InfoIPTCView.cpp" line="66"/>
         <location filename="IptcHelper.cpp" line="51"/>
         <location filename="SearchField.cpp" line="77"/>
-        <location filename="TemplateData.cpp" line="2773"/>
+        <location filename="TemplateData.cpp" line="2779"/>
         <source>Original transmission reference</source>
         <oldsource>Original trans. ref.</oldsource>
         <translation type="unfinished">Orjinal Trans. Ref.</translation>
@@ -18572,7 +18586,7 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <location filename="InfoIPTCView.cpp" line="25"/>
         <location filename="IptcHelper.cpp" line="18"/>
         <location filename="SearchField.cpp" line="52"/>
-        <location filename="TemplateData.cpp" line="2732"/>
+        <location filename="TemplateData.cpp" line="2738"/>
         <source>Caption</source>
         <translation>Başlık</translation>
     </message>
@@ -18582,8 +18596,8 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <location filename="IptcHelper.cpp" line="20"/>
         <location filename="SearchField.cpp" line="53"/>
         <location filename="SearchField.cpp" line="110"/>
-        <location filename="TemplateData.cpp" line="2733"/>
-        <location filename="TemplateData.cpp" line="2786"/>
+        <location filename="TemplateData.cpp" line="2739"/>
+        <location filename="TemplateData.cpp" line="2792"/>
         <source>Caption writer</source>
         <translation>Başlık Yazarı</translation>
     </message>
@@ -18593,8 +18607,8 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <location filename="IptcHelper.cpp" line="21"/>
         <location filename="SearchField.cpp" line="54"/>
         <location filename="SearchField.cpp" line="114"/>
-        <location filename="TemplateData.cpp" line="2734"/>
-        <location filename="TemplateData.cpp" line="2790"/>
+        <location filename="TemplateData.cpp" line="2740"/>
+        <location filename="TemplateData.cpp" line="2796"/>
         <source>Headline</source>
         <translation>Başlık</translation>
     </message>
@@ -18602,7 +18616,7 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <location filename="InfoIPTCView.cpp" line="29"/>
         <location filename="IptcHelper.cpp" line="22"/>
         <location filename="SearchField.cpp" line="55"/>
-        <location filename="TemplateData.cpp" line="2735"/>
+        <location filename="TemplateData.cpp" line="2741"/>
         <source>Special instructions</source>
         <translation>Özel bilgiler</translation>
     </message>
@@ -18611,14 +18625,14 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <location filename="InfoIPTCView.cpp" line="34"/>
         <location filename="IptcHelper.cpp" line="24"/>
         <location filename="SearchField.cpp" line="56"/>
-        <location filename="TemplateData.cpp" line="2740"/>
+        <location filename="TemplateData.cpp" line="2746"/>
         <source>Keywords</source>
         <translation>Anahtar Kelimeler</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="35"/>
         <location filename="SearchField.cpp" line="57"/>
-        <location filename="TemplateData.cpp" line="2741"/>
+        <location filename="TemplateData.cpp" line="2747"/>
         <source>Category</source>
         <translation>Kategori</translation>
     </message>
@@ -18626,7 +18640,7 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <location filename="InfoIPTCView.cpp" line="36"/>
         <location filename="IptcHelper.cpp" line="26"/>
         <location filename="SearchField.cpp" line="58"/>
-        <location filename="TemplateData.cpp" line="2742"/>
+        <location filename="TemplateData.cpp" line="2748"/>
         <source>Supplemental categories</source>
         <translation>Ek Kategoriler</translation>
     </message>
@@ -18635,8 +18649,8 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <location filename="IptcHelper.cpp" line="32"/>
         <location filename="SearchField.cpp" line="59"/>
         <location filename="SearchField.cpp" line="106"/>
-        <location filename="TemplateData.cpp" line="2747"/>
-        <location filename="TemplateData.cpp" line="2782"/>
+        <location filename="TemplateData.cpp" line="2753"/>
+        <location filename="TemplateData.cpp" line="2788"/>
         <source>Copyright</source>
         <translation>Telif</translation>
     </message>
@@ -18644,7 +18658,7 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <location filename="InfoIPTCView.cpp" line="42"/>
         <location filename="IptcHelper.cpp" line="28"/>
         <location filename="SearchField.cpp" line="60"/>
-        <location filename="TemplateData.cpp" line="2748"/>
+        <location filename="TemplateData.cpp" line="2754"/>
         <source>Byline</source>
         <translation>Yazar Satırı</translation>
     </message>
@@ -18652,7 +18666,7 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <location filename="InfoIPTCView.cpp" line="43"/>
         <location filename="IptcHelper.cpp" line="29"/>
         <location filename="SearchField.cpp" line="61"/>
-        <location filename="TemplateData.cpp" line="2749"/>
+        <location filename="TemplateData.cpp" line="2755"/>
         <source>Byline title</source>
         <translation>Yazar Satırı Başlığı</translation>
     </message>
@@ -18668,8 +18682,8 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <location filename="IptcHelper.cpp" line="31"/>
         <location filename="SearchField.cpp" line="63"/>
         <location filename="SearchField.cpp" line="116"/>
-        <location filename="TemplateData.cpp" line="2751"/>
-        <location filename="TemplateData.cpp" line="2792"/>
+        <location filename="TemplateData.cpp" line="2757"/>
+        <location filename="TemplateData.cpp" line="2798"/>
         <source>Source</source>
         <translation>Kaynak</translation>
     </message>
@@ -18677,7 +18691,7 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <location filename="InfoIPTCView.cpp" line="50"/>
         <location filename="IptcHelper.cpp" line="35"/>
         <location filename="SearchField.cpp" line="64"/>
-        <location filename="TemplateData.cpp" line="2756"/>
+        <location filename="TemplateData.cpp" line="2762"/>
         <source>Edit status</source>
         <translation>Düzenleme durumu</translation>
     </message>
@@ -18685,7 +18699,7 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <location filename="InfoIPTCView.cpp" line="51"/>
         <location filename="IptcHelper.cpp" line="38"/>
         <location filename="SearchField.cpp" line="67"/>
-        <location filename="TemplateData.cpp" line="2759"/>
+        <location filename="TemplateData.cpp" line="2765"/>
         <source>Job ID</source>
         <translation>İş ID</translation>
     </message>
@@ -18693,7 +18707,7 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <location filename="InfoIPTCView.cpp" line="52"/>
         <location filename="IptcHelper.cpp" line="39"/>
         <location filename="SearchField.cpp" line="68"/>
-        <location filename="TemplateData.cpp" line="2760"/>
+        <location filename="TemplateData.cpp" line="2766"/>
         <source>Program</source>
         <translation>Program</translation>
     </message>
@@ -18707,7 +18721,7 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <location filename="InfoIPTCView.cpp" line="54"/>
         <location filename="IptcHelper.cpp" line="36"/>
         <location filename="SearchField.cpp" line="65"/>
-        <location filename="TemplateData.cpp" line="2757"/>
+        <location filename="TemplateData.cpp" line="2763"/>
         <source>Priority</source>
         <translation>Öncelik</translation>
     </message>
@@ -18726,15 +18740,15 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <location filename="SearchField.cpp" line="72"/>
         <location filename="SearchField.cpp" line="111"/>
         <location filename="SearchField.cpp" line="126"/>
-        <location filename="TemplateData.cpp" line="2768"/>
-        <location filename="TemplateData.cpp" line="2787"/>
+        <location filename="TemplateData.cpp" line="2774"/>
+        <location filename="TemplateData.cpp" line="2793"/>
         <source>City</source>
         <translation>Şehir</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="74"/>
         <location filename="SearchField.cpp" line="79"/>
-        <location filename="TemplateData.cpp" line="2775"/>
+        <location filename="TemplateData.cpp" line="2781"/>
         <source>Content location</source>
         <translation>İçerik Konumu</translation>
     </message>
@@ -18753,8 +18767,8 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <location filename="SearchField.cpp" line="75"/>
         <location filename="SearchField.cpp" line="112"/>
         <location filename="SearchField.cpp" line="129"/>
-        <location filename="TemplateData.cpp" line="2771"/>
-        <location filename="TemplateData.cpp" line="2788"/>
+        <location filename="TemplateData.cpp" line="2777"/>
+        <location filename="TemplateData.cpp" line="2794"/>
         <source>Country</source>
         <translation>Ülke</translation>
     </message>
@@ -18769,23 +18783,14 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <location filename="IptcHelper.cpp" line="48"/>
         <location filename="SearchField.cpp" line="76"/>
         <location filename="SearchField.cpp" line="124"/>
-        <location filename="TemplateData.cpp" line="2772"/>
+        <location filename="TemplateData.cpp" line="2778"/>
         <source>Country code</source>
         <translation>Ülke Kodu</translation>
     </message>
     <message>
-        <location filename="InfoIPTCView.cpp" line="66"/>
-        <location filename="IptcHelper.cpp" line="51"/>
-        <location filename="SearchField.cpp" line="77"/>
-        <location filename="TemplateData.cpp" line="2773"/>
-        <source>Original transmission reference</source>
-        <oldsource>Original tr. ref.</oldsource>
-        <translation type="unfinished">Orijinal Tr. Ref.</translation>
-    </message>
-    <message>
         <location filename="InfoIPTCView.cpp" line="67"/>
         <location filename="SearchField.cpp" line="70"/>
-        <location filename="TemplateData.cpp" line="2766"/>
+        <location filename="TemplateData.cpp" line="2772"/>
         <source>Created date</source>
         <translation>Oluşturulma Tarihi</translation>
     </message>
@@ -18797,7 +18802,7 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="69"/>
         <location filename="SearchField.cpp" line="71"/>
-        <location filename="TemplateData.cpp" line="2767"/>
+        <location filename="TemplateData.cpp" line="2773"/>
         <source>Released date</source>
         <translation>Sürüm Tarihi</translation>
     </message>
@@ -18820,7 +18825,7 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <location filename="InfoIPTCView.cpp" line="73"/>
         <location filename="IptcHelper.cpp" line="33"/>
         <location filename="SearchField.cpp" line="78"/>
-        <location filename="TemplateData.cpp" line="2774"/>
+        <location filename="TemplateData.cpp" line="2780"/>
         <source>Contact</source>
         <translation>İletişim</translation>
     </message>
@@ -18830,7 +18835,7 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <location filename="IptcHelper.cpp" line="45"/>
         <location filename="SearchField.cpp" line="73"/>
         <location filename="SearchField.cpp" line="123"/>
-        <location filename="TemplateData.cpp" line="2769"/>
+        <location filename="TemplateData.cpp" line="2775"/>
         <source>Location</source>
         <translation>Konum</translation>
     </message>
@@ -18855,19 +18860,11 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <translation>İçerik Konumu Adı</translation>
     </message>
     <message>
-        <location filename="InfoIPTCView.cpp" line="66"/>
-        <location filename="IptcHelper.cpp" line="51"/>
-        <location filename="SearchField.cpp" line="77"/>
-        <location filename="TemplateData.cpp" line="2773"/>
-        <source>Original transmission reference</source>
-        <translation>Nesne Aktarım Referansı</translation>
-    </message>
-    <message>
         <location filename="EditXMPWidget.cpp" line="111"/>
         <location filename="InfoIPTCView.cpp" line="60"/>
         <location filename="IptcHelper.cpp" line="50"/>
         <location filename="SearchField.cpp" line="69"/>
-        <location filename="TemplateData.cpp" line="2765"/>
+        <location filename="TemplateData.cpp" line="2771"/>
         <source>Document title</source>
         <translation>Belge başlığı</translation>
     </message>
@@ -19190,52 +19187,52 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
 <context>
     <name>ItemModel</name>
     <message>
-        <location filename="ItemModel.cpp" line="1027"/>
+        <location filename="ItemModel.cpp" line="985"/>
         <source>No.</source>
         <translation>No.</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1029"/>
+        <location filename="ItemModel.cpp" line="987"/>
         <source>Name</source>
         <translation>Ad</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1031"/>
+        <location filename="ItemModel.cpp" line="989"/>
         <source>Size</source>
         <translation>Boyut</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1033"/>
+        <location filename="ItemModel.cpp" line="991"/>
         <source>Info</source>
         <translation>Bilgi</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1035"/>
+        <location filename="ItemModel.cpp" line="993"/>
         <source>Modified date</source>
         <translation>Değiştirilme Tarihi</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1037"/>
+        <location filename="ItemModel.cpp" line="995"/>
         <source>Created date</source>
         <translation>Oluşturulma Tarihi</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1039"/>
+        <location filename="ItemModel.cpp" line="997"/>
         <source>EXIF Date Taken</source>
         <translation>EXIF Alındığı Târih</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1041"/>
+        <location filename="ItemModel.cpp" line="999"/>
         <source>EXIF Date Modified</source>
         <translation>EXIF Düzenlendiği Târih</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="1047"/>
+        <location filename="ItemModel.cpp" line="1005"/>
         <source>Type</source>
         <translation>Tür</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="5126"/>
+        <location filename="ItemModel.cpp" line="5064"/>
         <source>New Folder %1</source>
         <translation>Yeni Klasör %1</translation>
     </message>
@@ -19644,12 +19641,12 @@ Devam etmek istiyor musunuz?</translation>
 <context>
     <name>MenuBrowser</name>
     <message>
-        <location filename="BrowserWindow.cpp" line="4445"/>
+        <location filename="BrowserWindow.cpp" line="4453"/>
         <source>New Folder</source>
         <translation>Yeni Klasör</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4457"/>
+        <location filename="BrowserWindow.cpp" line="4465"/>
         <source>Rename</source>
         <translation>Yeniden Adlandır</translation>
     </message>
@@ -20415,13 +20412,13 @@ Devam etmek istiyor musunuz?</translation>
         <translation>Dosya Listesi Aç...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4448"/>
+        <location filename="BrowserWindow.cpp" line="4456"/>
         <location filename="BrowserMenu.h" line="428"/>
         <source>Cut</source>
         <translation>Kes</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4450"/>
+        <location filename="BrowserWindow.cpp" line="4458"/>
         <location filename="BrowserMenu.h" line="430"/>
         <source>Copy</source>
         <translation>Kopyala</translation>
@@ -20442,7 +20439,7 @@ Devam etmek istiyor musunuz?</translation>
         <translation>Seçili Dosya Ad(lar)ı ve Yol(lar)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4452"/>
+        <location filename="BrowserWindow.cpp" line="4460"/>
         <location filename="BrowserMenu.h" line="435"/>
         <source>Paste</source>
         <translation>Yapıştır</translation>
@@ -20479,19 +20476,19 @@ Devam etmek istiyor musunuz?</translation>
         <translation type="unfinished">Etiketlenen Dosyaları Seç</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4460"/>
+        <location filename="BrowserWindow.cpp" line="4468"/>
         <location filename="BrowserMenu.h" line="445"/>
         <source>Copy to...</source>
         <translation>Kopyala...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4462"/>
+        <location filename="BrowserWindow.cpp" line="4470"/>
         <location filename="BrowserMenu.h" line="446"/>
         <source>Move to...</source>
         <translation>Taşı...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4455"/>
+        <location filename="BrowserWindow.cpp" line="4463"/>
         <location filename="BrowserMenu.h" line="447"/>
         <source>Delete</source>
         <translation>Sil</translation>
@@ -21186,128 +21183,128 @@ Devam etmek istiyor musunuz?</translation>
 <context>
     <name>MenuTemplate</name>
     <message>
-        <location filename="TemplateData.cpp" line="2573"/>
+        <location filename="TemplateData.cpp" line="2579"/>
         <source>Y - Year</source>
         <translation>Y - Yıl</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2574"/>
+        <location filename="TemplateData.cpp" line="2580"/>
         <source>y - Year without century (00-99)</source>
         <translation>y - Yıl kısa (00-99)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2575"/>
+        <location filename="TemplateData.cpp" line="2581"/>
         <source>m - Month as decimal (01-12)</source>
         <translation>m - Ay (01-12)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2576"/>
+        <location filename="TemplateData.cpp" line="2582"/>
         <source>d - Day as decimal (01-31)</source>
         <translation>d - Gün (01-31)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2578"/>
+        <location filename="TemplateData.cpp" line="2584"/>
         <source>H - Hour (01-24)</source>
         <translation>H - Saat (01-24)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2579"/>
+        <location filename="TemplateData.cpp" line="2585"/>
         <source>M - Minute (00-59)</source>
         <translation>M - Dakika (00-59)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2580"/>
+        <location filename="TemplateData.cpp" line="2586"/>
         <source>S - Second (00-59)</source>
         <translation>S - Saniye (00-59)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2582"/>
+        <location filename="TemplateData.cpp" line="2588"/>
         <source>B - Month name (eg. february)</source>
         <translation>B - Ay Adı (ör. ocak)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2583"/>
+        <location filename="TemplateData.cpp" line="2589"/>
         <source>b - Abbreviated month name (eg. feb)</source>
         <translation>b - Kısa Ay Adı (ör. ock)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2584"/>
+        <location filename="TemplateData.cpp" line="2590"/>
         <source>A - Weekday name (eg. wednesday)</source>
         <translation>A - Gün Adı (ör. cumartesi)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2585"/>
+        <location filename="TemplateData.cpp" line="2591"/>
         <source>a - Abbreviated weekday name (eg. wed)</source>
         <translation>a - Kısa Gün Adı (ör. cts)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2813"/>
+        <location filename="TemplateData.cpp" line="2819"/>
         <source># - Numeric enumerator</source>
         <oldsource>#: Numeric enumerator</oldsource>
         <translation># - Numaralı</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2814"/>
+        <location filename="TemplateData.cpp" line="2820"/>
         <source>Date format variables</source>
         <translation>Tarih Format Değişkenleri</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2831"/>
+        <location filename="TemplateData.cpp" line="2837"/>
         <source>Extra</source>
         <translation>Ekstra</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2833"/>
+        <location filename="TemplateData.cpp" line="2839"/>
         <source>Image</source>
         <translation>Resim</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2834"/>
+        <location filename="TemplateData.cpp" line="2840"/>
         <source>Saved Image</source>
         <translation>Kaydedilen Resim</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2835"/>
+        <location filename="TemplateData.cpp" line="2841"/>
         <source>EXIF - Camera</source>
         <translation>EXIF - Kamera</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2836"/>
+        <location filename="TemplateData.cpp" line="2842"/>
         <source>EXIF - Image</source>
         <translation>EXIF - Resim</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2837"/>
+        <location filename="TemplateData.cpp" line="2843"/>
         <source>EXIF - GPS</source>
         <translation>EXIF - GPS</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2838"/>
+        <location filename="TemplateData.cpp" line="2844"/>
         <source>IPTC - Caption</source>
         <translation>IPTC - Başlık</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2839"/>
+        <location filename="TemplateData.cpp" line="2845"/>
         <source>IPTC - Keywords&amp;&amp;Categories</source>
         <translation>IPTC - Anahtar Kelimeler&amp;&amp;Kategoriler</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2840"/>
+        <location filename="TemplateData.cpp" line="2846"/>
         <source>IPTC - Credits</source>
         <translation>IPTC - Teşekkürler</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2841"/>
+        <location filename="TemplateData.cpp" line="2847"/>
         <source>IPTC - Status</source>
         <translation>IPTC - Durum</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2842"/>
+        <location filename="TemplateData.cpp" line="2848"/>
         <source>IPTC - Origin</source>
         <translation>IPTC - Kaynak</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2843"/>
+        <location filename="TemplateData.cpp" line="2849"/>
         <source>XMP</source>
         <translation>XMP</translation>
     </message>
@@ -22856,7 +22853,7 @@ Devam etmek istiyor musunuz?</translation>
 <context>
     <name>MyThumbView</name>
     <message>
-        <location filename="MyThumbView.cpp" line="553"/>
+        <location filename="MyThumbView.cpp" line="624"/>
         <source>Size of cached thumbnails is smaller than chosen one. 
 You can change it in Settings › Catalog.</source>
         <oldsource>Size of cached thumbnails is smaller than choosen one. 
@@ -22864,47 +22861,47 @@ You can change it in Settings › Catalog.</oldsource>
         <translation type="unfinished">Katalogdaki küçük resim boyutu seçilen boyuttan küçüktür, Seçenekler&gt;Katalog kısmından değiştirebilirsiniz</translation>
     </message>
     <message>
-        <location filename="MyThumbView.cpp" line="688"/>
+        <location filename="MyThumbView.cpp" line="759"/>
         <source>Updating catalog, please wait...</source>
         <oldsource>Updating catalog, please wait... </oldsource>
         <translation>Katalog güncelleniyor, lütfen bekleyiniz...</translation>
     </message>
     <message>
-        <location filename="MyThumbView.cpp" line="702"/>
+        <location filename="MyThumbView.cpp" line="773"/>
         <source>Updating files, please wait...</source>
         <oldsource>Updating files, please wait... </oldsource>
         <translation>Dosyalar güncelleniyor, lütfen bekleyin...</translation>
     </message>
     <message numerus="yes">
-        <location filename="MyThumbView.cpp" line="1333"/>
-        <location filename="MyThumbView.cpp" line="1346"/>
+        <location filename="MyThumbView.cpp" line="1381"/>
+        <location filename="MyThumbView.cpp" line="1394"/>
         <source>%n object(s)</source>
         <translation>
             <numerusform>%n nesne</numerusform>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="MyThumbView.cpp" line="1333"/>
+        <location filename="MyThumbView.cpp" line="1381"/>
         <source>%n object(s) selected [%3 %4]</source>
         <translation>
             <numerusform>%n nesne seçildi [%3 %4]</numerusform>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="MyThumbView.cpp" line="1344"/>
+        <location filename="MyThumbView.cpp" line="1392"/>
         <source>%n object(s) [%2 %3]</source>
         <translation>
             <numerusform>%n nesne [%2 %3]</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="MyThumbView.cpp" line="1386"/>
+        <location filename="MyThumbView.cpp" line="1434"/>
         <source>[Free disk space: %1 %2]</source>
         <translation>[Boş Disk Alanı: %1 %2]</translation>
     </message>
     <message>
-        <location filename="MyThumbView.cpp" line="1680"/>
-        <source>Customize header...</source>
+        <location filename="MyThumbView.cpp" line="1728"/>
+        <source>Customize columns...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -23951,7 +23948,7 @@ You can change it in Settings › Catalog.</oldsource>
 <context>
     <name>Rename</name>
     <message>
-        <location filename="ItemModel.cpp" line="4721"/>
+        <location filename="ItemModel.cpp" line="4659"/>
         <source>An error has occurred during renaming!</source>
         <oldsource>An error occured during renaming!</oldsource>
         <translation type="unfinished">Yeniden adlandırma sırasında bir hata oluştu!</translation>
@@ -24614,7 +24611,7 @@ Varolan küçük resimleri saklamak ister misiniz?
         <translation type="unfinished">Tekrar sorma</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="3076"/>
+        <location filename="xnview.cpp" line="3079"/>
         <source>Catalog is disabled
 Metadata (check, ratings/colour labels and other file details)
 will not be saved to the database.</source>
