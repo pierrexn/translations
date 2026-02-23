@@ -8293,7 +8293,7 @@ Probeer te beginnen met beheerdersrechten.</translation>
     <message>
         <location filename="DlgFileListing.ui" line="36"/>
         <source>Columns presets:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolommen-voorinstellingen:</translation>
     </message>
     <message>
         <location filename="DlgFileListing.ui" line="87"/>
@@ -8308,7 +8308,7 @@ Probeer te beginnen met beheerdersrechten.</translation>
     <message>
         <location filename="DlgFileListing.ui" line="116"/>
         <source>Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Scheidingsteken</translation>
     </message>
     <message>
         <location filename="DlgFileListing.ui" line="179"/>
@@ -8328,7 +8328,7 @@ Probeer te beginnen met beheerdersrechten.</translation>
     <message>
         <location filename="DlgFileListing.cpp" line="40"/>
         <source>Current columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Huidige kolommen</translation>
     </message>
     <message>
         <location filename="DlgFileListing.cpp" line="132"/>
@@ -11669,7 +11669,7 @@ Wil je ze verwijderen?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="498"/>
         <source>Columns</source>
-        <translation type="unfinished">Kolommen</translation>
+        <translation>Kolommen</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="510"/>
@@ -18004,7 +18004,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2681"/>
         <source>Subject Distance Range</source>
-        <translation type="unfinished"></translation>
+        <translation>Onderwerp afstandsbereik</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2724"/>
@@ -18703,7 +18703,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
         <location filename="TemplateData.cpp" line="2779"/>
         <source>Original transmission reference</source>
         <oldsource>Original tr. ref.</oldsource>
-        <translation type="unfinished">Originele tr. ref.</translation>
+        <translation>Originele transmissiereferentie</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="67"/>
@@ -22955,7 +22955,7 @@ Dit is te wijzigen in Instellingen › Catalogus.</translation>
     <message>
         <location filename="MyThumbView.cpp" line="1728"/>
         <source>Customize columns...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolommen aanpassen...</translation>
     </message>
 </context>
 <context>
