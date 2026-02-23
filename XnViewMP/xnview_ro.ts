@@ -6490,15 +6490,15 @@ Te rugăm să încerci să pornești programul cu drepturi de administrator.</tr
     </message>
     <message>
         <source>Columns presets:</source>
-        <translation type="unfinished"></translation>
+        <translation>Presetările coloanelor:</translation>
     </message>
     <message>
         <source>Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Separatorul</translation>
     </message>
     <message>
         <source>Current columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Coloanele curente</translation>
     </message>
 </context>
 <context>
@@ -9217,7 +9217,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Columns</source>
-        <translation type="unfinished">Coloane</translation>
+        <translation>Coloane</translation>
     </message>
 </context>
 <context>
@@ -14205,7 +14205,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Subject Distance Range</source>
-        <translation type="unfinished"></translation>
+        <translation>Intervalul distanței subiectului</translation>
     </message>
 </context>
 <context>
@@ -17597,7 +17597,7 @@ O poți schimba în Setări › Catalog.</translation>
     </message>
     <message>
         <source>Customize columns...</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizează coloanele...</translation>
     </message>
 </context>
 <context>
