@@ -8275,7 +8275,7 @@ Próbálja rendszergazdai jogokkal.</translation>
     <message>
         <location filename="DlgFileListing.ui" line="36"/>
         <source>Columns presets:</source>
-        <translation type="unfinished"></translation>
+        <translation>Oszlop-készletek:</translation>
     </message>
     <message>
         <location filename="DlgFileListing.ui" line="87"/>
@@ -8290,7 +8290,7 @@ Próbálja rendszergazdai jogokkal.</translation>
     <message>
         <location filename="DlgFileListing.ui" line="116"/>
         <source>Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Elválasztó</translation>
     </message>
     <message>
         <location filename="DlgFileListing.ui" line="179"/>
@@ -8310,7 +8310,7 @@ Próbálja rendszergazdai jogokkal.</translation>
     <message>
         <location filename="DlgFileListing.cpp" line="40"/>
         <source>Current columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Jelenlegi oszlopok</translation>
     </message>
     <message>
         <location filename="DlgFileListing.cpp" line="132"/>
@@ -11651,7 +11651,7 @@ El szeretné őket távolítani?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="498"/>
         <source>Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Oszlop</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="510"/>
@@ -17985,7 +17985,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2681"/>
         <source>Subject Distance Range</source>
-        <translation type="unfinished"></translation>
+        <translation>Tárgytávolsági tartomány</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2724"/>
@@ -18684,7 +18684,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <location filename="TemplateData.cpp" line="2779"/>
         <source>Original transmission reference</source>
         <oldsource>Original tr. ref.</oldsource>
-        <translation type="unfinished">Eredeti tr. ref.</translation>
+        <translation>Eredeti adatszolgáltatási hivatkozás</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="67"/>
@@ -22930,7 +22930,7 @@ Megváltoztathatja a Beállítások › Katalógus alatt.</translation>
     <message>
         <location filename="MyThumbView.cpp" line="1728"/>
         <source>Customize columns...</source>
-        <translation type="unfinished"></translation>
+        <translation>Oszlopok testreszabása...</translation>
     </message>
 </context>
 <context>
