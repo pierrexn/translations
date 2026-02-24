@@ -11592,11 +11592,11 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Export Slideshow</source>
-        <translation>Exportă prezentarea de diapozitive</translation>
+        <translation>Exportă prezentarea de diapozitive (de slide-uri)</translation>
     </message>
     <message>
         <source>Import Slideshow</source>
-        <translation>Importă prezentarea de diapozitive</translation>
+        <translation>Importă prezentarea de diapozitive (de slide-uri)</translation>
     </message>
     <message>
         <source>Save...</source>
@@ -11632,7 +11632,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Slideshow</source>
-        <translation>Prezentare de diapozitive</translation>
+        <translation>Prezentare de diapozitive (de slide-uri)</translation>
     </message>
     <message>
         <source>Auto hide cursor (fullscreen)</source>
@@ -15804,7 +15804,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Slideshow...</source>
-        <translation>Prezentare de diapozitive...</translation>
+        <translation>Prezentare de diapozitive (de slide-uri)...</translation>
     </message>
     <message>
         <source>Unrated</source>
@@ -17137,7 +17137,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Slideshow...</source>
-        <translation>Prezentare de diapozitive...</translation>
+        <translation>Prezentare de diapozitive (de slide-uri)...</translation>
     </message>
     <message>
         <source>Send by email...</source>
@@ -18558,7 +18558,7 @@ O poți schimba în Setări › Catalog.</translation>
     <name>Slideshow</name>
     <message>
         <source>Slideshow</source>
-        <translation>Prezentare de diapozitive</translation>
+        <translation>Prezentare de diapozitive (de slide-uri)</translation>
     </message>
 </context>
 <context>
