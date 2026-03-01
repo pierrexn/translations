@@ -7428,7 +7428,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditEXIF.ui" line="413"/>
         <source>5 - Mirror horizontal and rotate 270 CW</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">5 - 水平镜像并旋转 270 CW</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="418"/>
@@ -8870,7 +8870,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgHistoryList.h" line="27"/>
         <source>Preset name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">预设名称：</translation>
     </message>
 </context>
 <context>
@@ -11550,22 +11550,22 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="583"/>
         <source>Expand All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">全部展开</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="588"/>
         <source>Collapse All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">全部折叠</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="904"/>
         <source>Save Preset</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">保存预设值</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="904"/>
         <source>Preset name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">预设名称：</translation>
     </message>
 </context>
 <context>
