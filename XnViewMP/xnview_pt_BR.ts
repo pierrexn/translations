@@ -13589,6 +13589,10 @@ Deseja excluir o favorito &quot;%1&quot;?</translation>
         <source>Check status</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Bits</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>InfoCategoryTreeView</name>

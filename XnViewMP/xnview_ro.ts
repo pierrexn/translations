@@ -13599,6 +13599,10 @@ Dorești să ștergi favoritul „%1”?</translation>
         <source>Check status</source>
         <translation>Verifică starea</translation>
     </message>
+    <message>
+        <source>Bits</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>InfoCategoryTreeView</name>
