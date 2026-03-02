@@ -13601,7 +13601,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Bits</source>
-        <translation type="unfinished"></translation>
+        <translation>Biți</translation>
     </message>
 </context>
 <context>
