@@ -17027,7 +17027,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="ItemModel.cpp" line="1038"/>
         <source>Bits</source>
-        <translation type="unfinished"></translation>
+        <translation>Bits</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1014"/>
