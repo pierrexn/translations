@@ -17316,7 +17316,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="ItemModel.cpp" line="1038"/>
         <source>Bits</source>
-        <translation type="unfinished"></translation>
+        <translation>Bits</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="665"/>
