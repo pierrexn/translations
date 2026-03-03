@@ -17423,7 +17423,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="ItemModel.cpp" line="1038"/>
         <source>Bits</source>
-        <translation type="unfinished"></translation>
+        <translation>Биты</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="665"/>
@@ -17470,7 +17470,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="SearchField.cpp" line="44"/>
         <source>Bits per sample</source>
-        <translation>Биты на образец</translation>
+        <translation>Бит на образец</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="48"/>
