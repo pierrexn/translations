@@ -17308,7 +17308,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="ItemModel.cpp" line="1038"/>
         <source>Bits</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bit</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="665"/>
