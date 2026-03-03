@@ -8320,7 +8320,7 @@ Por favor tente, abrindo o programa como administrador.</translation>
     <message>
         <location filename="DlgFileListing.ui" line="36"/>
         <source>Columns presets:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pré-configurações das colunas:</translation>
     </message>
     <message>
         <location filename="DlgFileListing.ui" line="87"/>
@@ -8335,7 +8335,7 @@ Por favor tente, abrindo o programa como administrador.</translation>
     <message>
         <location filename="DlgFileListing.ui" line="116"/>
         <source>Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Separador</translation>
     </message>
     <message>
         <location filename="DlgFileListing.ui" line="179"/>
@@ -8355,7 +8355,7 @@ Por favor tente, abrindo o programa como administrador.</translation>
     <message>
         <location filename="DlgFileListing.cpp" line="40"/>
         <source>Current columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Colunas actuais</translation>
     </message>
     <message>
         <location filename="DlgFileListing.cpp" line="132"/>
@@ -11706,7 +11706,7 @@ Prefere retirá-los?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="498"/>
         <source>Columns</source>
-        <translation type="unfinished">Colunas</translation>
+        <translation>Colunas</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="510"/>
@@ -17376,7 +17376,7 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
     <message>
         <location filename="ItemModel.cpp" line="1038"/>
         <source>Bits</source>
-        <translation type="unfinished"></translation>
+        <translation>Bits</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="665"/>
@@ -18062,7 +18062,7 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2682"/>
         <source>Subject Distance Range</source>
-        <translation type="unfinished"></translation>
+        <translation>Intervalo de distância do objeto</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2725"/>
@@ -18763,7 +18763,7 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
         <location filename="TemplateData.cpp" line="2780"/>
         <source>Original transmission reference</source>
         <oldsource>Original tr. ref.</oldsource>
-        <translation type="unfinished">Tr. original ref.</translation>
+        <translation>Referência de transmissão original</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="67"/>
@@ -23037,7 +23037,7 @@ Pode mudá-lo em Configurações &gt; Catálogo.</translation>
     <message>
         <location filename="MyThumbView.cpp" line="1728"/>
         <source>Customize columns...</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizar colunas...</translation>
     </message>
 </context>
 <context>
