@@ -453,7 +453,7 @@
     <message>
         <location filename="AutoDateTimeEdit.h" line="89"/>
         <source>Not set</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie ustawiono</translation>
     </message>
 </context>
 <context>
@@ -4313,7 +4313,7 @@ Czy na pewno kontynuować?</translation>
     <message>
         <location filename="DlgConvertAutoDeskew.ui" line="47"/>
         <source>Use anti-aliasing</source>
-        <translation type="unfinished">Użyj wygładzania krawędzi</translation>
+        <translation>Użyj wygładzania krawędzi</translation>
     </message>
 </context>
 <context>
@@ -6578,7 +6578,7 @@ Czy na pewno kontynuować?</translation>
     <message>
         <location filename="DlgConvertRotate.ui" line="195"/>
         <source>Use anti-aliasing</source>
-        <translation type="unfinished">Użyj wygładzania krawędzi</translation>
+        <translation>Użyj wygładzania krawędzi</translation>
     </message>
     <message>
         <location filename="DlgConvertRotate.ui" line="203"/>
@@ -7479,7 +7479,7 @@ Czy na pewno kontynuować?</translation>
     <message>
         <location filename="DlgEditEXIF.ui" line="460"/>
         <source>XP Subject</source>
-        <translation type="unfinished">XP temat</translation>
+        <translation>XP temat</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="522"/>
@@ -8309,7 +8309,7 @@ Spróbuj ponownie, uruchamiając program z prawami administratora.</translation>
     <message>
         <location filename="DlgFileListing.ui" line="36"/>
         <source>Columns presets:</source>
-        <translation type="unfinished"></translation>
+        <translation>Zestawy kolumn:</translation>
     </message>
     <message>
         <location filename="DlgFileListing.ui" line="87"/>
@@ -8324,7 +8324,7 @@ Spróbuj ponownie, uruchamiając program z prawami administratora.</translation>
     <message>
         <location filename="DlgFileListing.ui" line="116"/>
         <source>Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Separator</translation>
     </message>
     <message>
         <location filename="DlgFileListing.ui" line="179"/>
@@ -8344,7 +8344,7 @@ Spróbuj ponownie, uruchamiając program z prawami administratora.</translation>
     <message>
         <location filename="DlgFileListing.cpp" line="40"/>
         <source>Current columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualne kolumny</translation>
     </message>
     <message>
         <location filename="DlgFileListing.cpp" line="132"/>
@@ -8896,12 +8896,12 @@ Spróbuj ponownie, uruchamiając program z prawami administratora.</translation>
     <message>
         <location filename="DlgHistoryList.h" line="26"/>
         <source>Save preset</source>
-        <translation type="unfinished">Zapisz ustawienie</translation>
+        <translation>Zapisz ustawienie</translation>
     </message>
     <message>
         <location filename="DlgHistoryList.h" line="27"/>
         <source>Preset name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa ustawienia:</translation>
     </message>
 </context>
 <context>
@@ -11321,17 +11321,17 @@ Czy chcesz je usunąć?</translation>
     <message>
         <location filename="DlgSearch.ui" line="145"/>
         <source>Search in</source>
-        <translation type="unfinished">Szukaj w</translation>
+        <translation>Szukaj w</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="153"/>
         <source>Filesystem</source>
-        <translation type="unfinished"></translation>
+        <translation>System plików</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="158"/>
         <source>Catalog</source>
-        <translation type="unfinished">Katalog</translation>
+        <translation>Katalog</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="196"/>
@@ -11556,42 +11556,42 @@ Czy chcesz je usunąć?</translation>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="378"/>
         <source>Clear All</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyczyść wszystko</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="378"/>
         <source>Remove all items from the list?</source>
-        <translation type="unfinished"></translation>
+        <translation>Usunąć wszystkie elementy z listy?</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="397"/>
         <source>Default</source>
-        <translation type="unfinished">Domyślny</translation>
+        <translation>Domyślny</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="397"/>
         <source>Reset list to default?</source>
-        <translation type="unfinished"></translation>
+        <translation>Przywrócić domyślne ustawienia listy?</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="588"/>
         <source>Expand All</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozwiń wszystko</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="593"/>
         <source>Collapse All</source>
-        <translation type="unfinished"></translation>
+        <translation>Zwiń wszystko</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="913"/>
         <source>Save Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisz ustawienie</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="913"/>
         <source>Preset name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa ustawienia:</translation>
     </message>
 </context>
 <context>
@@ -11670,27 +11670,27 @@ Czy chcesz je usunąć?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="585"/>
         <source>Label</source>
-        <translation type="unfinished">Etykieta</translation>
+        <translation>Etykieta</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="590"/>
         <source>Field</source>
-        <translation type="unfinished">Pole</translation>
+        <translation>Pole</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="553"/>
         <source>Clear all</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyczyść wszystko</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="498"/>
         <source>Columns</source>
-        <translation type="unfinished">Kolumny</translation>
+        <translation>Kolumny</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="510"/>
         <source>&lt;Default&gt;</source>
-        <translation type="unfinished">&lt;domyślny&gt;</translation>
+        <translation>&lt;domyślny&gt;</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="291"/>
@@ -17343,7 +17343,7 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     <message>
         <location filename="ItemModel.cpp" line="1038"/>
         <source>Bits</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitów</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="665"/>
@@ -17611,7 +17611,7 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2810"/>
         <source>Check status</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprawdź stan</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="30"/>
@@ -18025,7 +18025,7 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2682"/>
         <source>Subject Distance Range</source>
-        <translation type="unfinished"></translation>
+        <translation>Zakres odległości podmiotu</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2725"/>
@@ -18727,7 +18727,7 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
         <location filename="TemplateData.cpp" line="2780"/>
         <source>Original transmission reference</source>
         <oldsource>Original tr. ref.</oldsource>
-        <translation type="unfinished">Kod ref. oryg. transmisji</translation>
+        <translation>Kod ref. oryg. transmisji</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="67"/>
@@ -20873,22 +20873,22 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="BrowserMenu.h" line="585"/>
         <source>Load...</source>
-        <translation type="unfinished">Wczytaj...</translation>
+        <translation>Wczytaj...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="586"/>
         <source>Save...</source>
-        <translation type="unfinished">Zapisz...</translation>
+        <translation>Zapisz...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="587"/>
         <source>Unload all</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyładuj wszystko</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="589"/>
         <source>Session</source>
-        <translation type="unfinished">Sesja</translation>
+        <translation>Sesja</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="590"/>
@@ -22986,7 +22986,7 @@ Można go zmienić w Ustawienia&gt;Katalog</translation>
     <message>
         <location filename="MyThumbView.cpp" line="1728"/>
         <source>Customize columns...</source>
-        <translation type="unfinished"></translation>
+        <translation>Dostosuj kolumny...</translation>
     </message>
 </context>
 <context>
@@ -24679,7 +24679,9 @@ Czy chcesz zachować miniatury?
         <source>Catalog is disabled
 Metadata (check, ratings/colour labels and other file details)
 will not be saved to the database.</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalog jest wyłączony
+Metadane (kontrola, oceny/kolorowe etykiety i inne szczegóły pliku)
+nie zostaną zapisane w bazie danych.</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="951"/>
