@@ -454,7 +454,7 @@
     <message>
         <location filename="AutoDateTimeEdit.h" line="89"/>
         <source>Not set</source>
-        <translation type="unfinished"></translation>
+        <translation>Ni nastavljeno</translation>
     </message>
 </context>
 <context>
@@ -4329,7 +4329,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertAutoDeskew.ui" line="47"/>
         <source>Use anti-aliasing</source>
-        <translation type="unfinished"></translation>
+        <translation>Uporabite anti-aliasing</translation>
     </message>
 </context>
 <context>
@@ -6598,7 +6598,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertRotate.ui" line="195"/>
         <source>Use anti-aliasing</source>
-        <translation type="unfinished"></translation>
+        <translation>Uporabite anti-aliasing</translation>
     </message>
     <message>
         <location filename="DlgConvertRotate.ui" line="203"/>
@@ -7499,7 +7499,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditEXIF.ui" line="460"/>
         <source>XP Subject</source>
-        <translation type="unfinished">XP Subjekt</translation>
+        <translation>XP Subjekt</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="522"/>
@@ -8329,7 +8329,7 @@ Poskusite znova zagnati s skrbniškimi pravicami.</translation>
     <message>
         <location filename="DlgFileListing.ui" line="36"/>
         <source>Columns presets:</source>
-        <translation type="unfinished"></translation>
+        <translation>Prednastavitve stolpcev:</translation>
     </message>
     <message>
         <location filename="DlgFileListing.ui" line="87"/>
@@ -8344,7 +8344,7 @@ Poskusite znova zagnati s skrbniškimi pravicami.</translation>
     <message>
         <location filename="DlgFileListing.ui" line="116"/>
         <source>Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Ločilo</translation>
     </message>
     <message>
         <location filename="DlgFileListing.ui" line="179"/>
@@ -8364,7 +8364,7 @@ Poskusite znova zagnati s skrbniškimi pravicami.</translation>
     <message>
         <location filename="DlgFileListing.cpp" line="40"/>
         <source>Current columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Trenutni stolpci</translation>
     </message>
     <message>
         <location filename="DlgFileListing.cpp" line="132"/>
@@ -8916,12 +8916,12 @@ Poskusite znova zagnati s skrbniškimi pravicami.</translation>
     <message>
         <location filename="DlgHistoryList.h" line="26"/>
         <source>Save preset</source>
-        <translation type="unfinished">Shrani prednastavitev</translation>
+        <translation>Shrani prednastavitevShrani prednastavitev</translation>
     </message>
     <message>
         <location filename="DlgHistoryList.h" line="27"/>
         <source>Preset name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ime prednastavitve:</translation>
     </message>
 </context>
 <context>
@@ -11315,17 +11315,17 @@ Ali jih želite odstraniti?</translation>
     <message>
         <location filename="DlgSearch.ui" line="145"/>
         <source>Search in</source>
-        <translation type="unfinished">Išči v</translation>
+        <translation>Išči v</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="153"/>
         <source>Filesystem</source>
-        <translation type="unfinished"></translation>
+        <translation>Datotečni sistem</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="158"/>
         <source>Catalog</source>
-        <translation type="unfinished">Katalog</translation>
+        <translation>Katalog</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="226"/>
@@ -11578,42 +11578,42 @@ Ali jih želite odstraniti?</translation>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="378"/>
         <source>Clear All</source>
-        <translation type="unfinished"></translation>
+        <translation>Počisti vse</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="378"/>
         <source>Remove all items from the list?</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstraniti vse elemente s seznama?</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="397"/>
         <source>Default</source>
-        <translation type="unfinished">Privzeto</translation>
+        <translation>Privzeto</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="397"/>
         <source>Reset list to default?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ponastavi seznam na privzete vrednosti?</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="588"/>
         <source>Expand All</source>
-        <translation type="unfinished"></translation>
+        <translation>Razširi vse</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="593"/>
         <source>Collapse All</source>
-        <translation type="unfinished"></translation>
+        <translation>Strni vse</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="913"/>
         <source>Save Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Shrani prednastavitev</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="913"/>
         <source>Preset name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ime prednastavitve:</translation>
     </message>
 </context>
 <context>
@@ -11692,27 +11692,27 @@ Ali jih želite odstraniti?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="585"/>
         <source>Label</source>
-        <translation type="unfinished">Oznaka</translation>
+        <translation>Oznaka</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="590"/>
         <source>Field</source>
-        <translation type="unfinished">Polje</translation>
+        <translation>Polje</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="553"/>
         <source>Clear all</source>
-        <translation type="unfinished">Počisti vse</translation>
+        <translation>Počisti vse</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="498"/>
         <source>Columns</source>
-        <translation type="unfinished">Stolpci</translation>
+        <translation>Stolpci</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="510"/>
         <source>&lt;Default&gt;</source>
-        <translation type="unfinished">&lt;Privzeto&gt;</translation>
+        <translation>&lt;Privzeto&gt;</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="291"/>
@@ -17057,7 +17057,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="ItemModel.cpp" line="1038"/>
         <source>Bits</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitovi</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1014"/>
@@ -17539,7 +17539,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2810"/>
         <source>Check status</source>
-        <translation type="unfinished"></translation>
+        <translation>Preveri stanje</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="30"/>
@@ -18013,7 +18013,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2682"/>
         <source>Subject Distance Range</source>
-        <translation type="unfinished"></translation>
+        <translation>Razdalja med motivom in razdaljo</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2725"/>
@@ -20115,22 +20115,22 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="585"/>
         <source>Load...</source>
-        <translation type="unfinished">Naloži...</translation>
+        <translation>Naloži...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="586"/>
         <source>Save...</source>
-        <translation type="unfinished">Shrani...</translation>
+        <translation>Shrani...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="587"/>
         <source>Unload all</source>
-        <translation type="unfinished"></translation>
+        <translation>Raztovori vse</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="589"/>
         <source>Session</source>
-        <translation type="unfinished">Seja</translation>
+        <translation>Seja</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="596"/>
@@ -23013,7 +23013,7 @@ Spremenite ga lahko v Nastavitve › Katalog.</translation>
     <message>
         <location filename="MyThumbView.cpp" line="1728"/>
         <source>Customize columns...</source>
-        <translation type="unfinished"></translation>
+        <translation>Prilagodi stolpce...</translation>
     </message>
 </context>
 <context>
@@ -24706,7 +24706,9 @@ Do you want to keep the thumbnails?
         <source>Catalog is disabled
 Metadata (check, ratings/colour labels and other file details)
 will not be saved to the database.</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalog je onemogočen
+Metapodatki (preverjanje, ocene/barvne oznake in druge podrobnosti o datoteki)
+ne bodo shranjeni v podatkovno bazo.</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="951"/>
