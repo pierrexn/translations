@@ -15393,7 +15393,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Invert</source>
-        <translation>Käännä merkintä</translation>
+        <translation>Käännä valinta</translation>
     </message>
     <message>
         <source>Send by email...</source>
