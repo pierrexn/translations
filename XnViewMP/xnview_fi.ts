@@ -16113,7 +16113,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Select checked files</source>
-        <translation>Valitse merkityt tiedostot</translation>
+        <translation>Valitse ruksatut tiedostot</translation>
     </message>
     <message>
         <source>Check/Uncheck</source>
@@ -16121,15 +16121,15 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Uncheck all</source>
-        <translation>Poista kaikkien valinta</translation>
+        <translation>Älä valitse mitään</translation>
     </message>
     <message>
         <source>Clear all checks</source>
-        <translation>Tyhjennä kaikki valinnat</translation>
+        <translation>Tyhjennä valintaruudut</translation>
     </message>
     <message>
         <source>Show checked files</source>
-        <translation>Näytä merkityt tiedostot</translation>
+        <translation>Näytä ruksatut tiedostot</translation>
     </message>
     <message>
         <source>Show checkbox</source>
