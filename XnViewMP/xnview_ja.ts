@@ -11787,7 +11787,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="510"/>
         <source>&lt;Default&gt;</source>
-        <translation type="unfinished">&lt;Default&gt;</translation>
+        <translation>&lt;デフォルト&gt;</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="291"/>
@@ -18963,7 +18963,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <source>Original transmission reference</source>
         <oldsource>Original tr. ref.</oldsource>
         <translatorcomment>TXT_Iptc_Original_Transmission</translatorcomment>
-        <translation type="unfinished">オリジナル送信リファレンス</translation>
+        <translation>オリジナル送信参照</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="67"/>
@@ -21182,12 +21182,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="585"/>
         <source>Load...</source>
-        <translation type="unfinished">読み込み...</translation>
+        <translation>読み込む...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="586"/>
         <source>Save...</source>
-        <translation type="unfinished">保存...</translation>
+        <translation>保存...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="587"/>
@@ -21197,7 +21197,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="589"/>
         <source>Session</source>
-        <translation type="unfinished">セッション</translation>
+        <translation>セッション</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="590"/>
