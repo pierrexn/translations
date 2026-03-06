@@ -3345,7 +3345,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Use anti-aliasing</source>
-        <translation type="unfinished">Käytä pehmennystä</translation>
+        <translation>Käytä pehmennystä</translation>
     </message>
 </context>
 <context>
@@ -5086,7 +5086,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Use anti-aliasing</source>
-        <translation type="unfinished">Käytä pehmennystä</translation>
+        <translation>Käytä pehmennystä</translation>
     </message>
 </context>
 <context>
@@ -5783,7 +5783,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>XP Subject</source>
-        <translation type="unfinished">XP Aihe</translation>
+        <translation>XP Aihe</translation>
     </message>
 </context>
 <context>
@@ -6894,7 +6894,7 @@ Käynnistä ohjelma uudelleen ylläpitäjän oikeuksilla.</translation>
     <name>DlgHistoryList</name>
     <message>
         <source>Save preset</source>
-        <translation type="unfinished">Tallenna esiasetus</translation>
+        <translation>Tallenna esiasetus</translation>
     </message>
     <message>
         <source>Preset name:</source>
@@ -8879,7 +8879,7 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Search in</source>
-        <translation type="unfinished">Etsi</translation>
+        <translation>Etsi</translation>
     </message>
     <message>
         <source>Filesystem</source>
@@ -8887,7 +8887,7 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Catalog</source>
-        <translation type="unfinished">Katalogi</translation>
+        <translation>Katalogi</translation>
     </message>
 </context>
 <context>
@@ -9002,7 +9002,7 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished">Oletus</translation>
+        <translation>Oletus</translation>
     </message>
     <message>
         <source>Reset list to default?</source>
@@ -9193,19 +9193,19 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Field</source>
-        <translation type="unfinished">Kenttä</translation>
+        <translation>Kenttä</translation>
     </message>
     <message>
         <source>Clear all</source>
-        <translation type="unfinished">Tyhjennä kaikki</translation>
+        <translation>Tyhjennä kaikki</translation>
     </message>
     <message>
         <source>&lt;Default&gt;</source>
-        <translation type="unfinished">&lt;Oletus&gt;</translation>
+        <translation>&lt;Oletus&gt;</translation>
     </message>
     <message>
         <source>Columns</source>
-        <translation type="unfinished">Sarakkeet</translation>
+        <translation>Sarakkeet</translation>
     </message>
 </context>
 <context>
@@ -13586,7 +13586,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Check status</source>
-        <translation type="unfinished"></translation>
+        <translation>Tarkista tila</translation>
     </message>
     <message>
         <source>Bits</source>
@@ -16149,11 +16149,11 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Load...</source>
-        <translation type="unfinished">Lataa...</translation>
+        <translation>Lataa...</translation>
     </message>
     <message>
         <source>Save...</source>
-        <translation type="unfinished">Tallenna...</translation>
+        <translation>Tallenna...</translation>
     </message>
     <message>
         <source>Unload all</source>
@@ -16161,7 +16161,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Session</source>
-        <translation type="unfinished">Istunto</translation>
+        <translation>Istunto</translation>
     </message>
 </context>
 <context>
@@ -18934,7 +18934,6 @@ Ota yhteyttä kehittäjään.</translation>
 Metadata (check, ratings/colour labels and other file details)
 will not be saved to the database.</source>
         <translation>Katalogi on poistettu käytöstä
-
 Metatietoja (tarkistuksia, arvioita/väritunnisteita ja muita tiedostotietoja)
 ei tallenneta tietokantaan.</translation>
     </message>
