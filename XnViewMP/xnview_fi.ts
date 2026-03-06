@@ -358,7 +358,7 @@
     <name>AutoDateTimeEdit</name>
     <message>
         <source>Not set</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei asetettu</translation>
     </message>
 </context>
 <context>
@@ -624,7 +624,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>&lt;Checked files&gt;</source>
-        <translation>&lt;Valitut tiedostot&gt;</translation>
+        <translation>&lt;Merkityt tiedostot&gt;</translation>
     </message>
 </context>
 <context>
@@ -5874,7 +5874,7 @@ Haluatko tallentaa muutokset?</translation>
     </message>
     <message>
         <source>Field values are not loaded because &apos;Do not load field values&apos; is checked</source>
-        <translation>Kentän arvoja ei ladata, koska &apos;Älä lataa kenttien arvoja&apos; -valinta on valittu</translation>
+        <translation>Kentän arvoja ei ladata, koska valinta &apos;Älä lataa kenttien arvoja&apos; on käytössä</translation>
     </message>
     <message>
         <source>Load template...</source>
@@ -6474,15 +6474,15 @@ Käynnistä ohjelma uudelleen ylläpitäjän oikeuksilla.</translation>
     </message>
     <message>
         <source>Columns presets:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sarakkeiden esiasetukset:</translation>
     </message>
     <message>
         <source>Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Erotin</translation>
     </message>
     <message>
         <source>Current columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Nykyiset sarakkeet</translation>
     </message>
 </context>
 <context>
@@ -6898,7 +6898,7 @@ Käynnistä ohjelma uudelleen ylläpitäjän oikeuksilla.</translation>
     </message>
     <message>
         <source>Preset name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Esiasetuksen nimi:</translation>
     </message>
 </context>
 <context>
@@ -7131,7 +7131,7 @@ Haluatko tallentaa muutokset?</translation>
     </message>
     <message>
         <source>Field values are not loaded because &apos;Do not load field values&apos; is checked</source>
-        <translation>Kentän arvoja ei ladata, koska &apos;Älä lataa kenttien arvoja&apos; -valinta on valittu</translation>
+        <translation>Kentän arvoja ei ladata, koska valinta &apos;Älä lataa kenttien arvoja&apos; on käytössä</translation>
     </message>
     <message>
         <source>Sort alphabetically</source>
@@ -8883,7 +8883,7 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Filesystem</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiedostojärjestelmä</translation>
     </message>
     <message>
         <source>Catalog</source>
@@ -8994,11 +8994,11 @@ Haluatko poistaa ne?</translation>
     <name>DlgSettingsBrowser</name>
     <message>
         <source>Clear All</source>
-        <translation type="unfinished"></translation>
+        <translation>Tyhjennä kaikki</translation>
     </message>
     <message>
         <source>Remove all items from the list?</source>
-        <translation type="unfinished"></translation>
+        <translation>Poistetaanko kaikki kohteet listalta?</translation>
     </message>
     <message>
         <source>Default</source>
@@ -9006,23 +9006,23 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Reset list to default?</source>
-        <translation type="unfinished"></translation>
+        <translation>Palauta lista oletusasetuksiin?</translation>
     </message>
     <message>
         <source>Expand All</source>
-        <translation type="unfinished"></translation>
+        <translation>Laajenna kaikki</translation>
     </message>
     <message>
         <source>Collapse All</source>
-        <translation type="unfinished"></translation>
+        <translation>Pienennä kaikki</translation>
     </message>
     <message>
         <source>Save Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Tallenna esiasetus</translation>
     </message>
     <message>
         <source>Preset name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Esiasetuksen nimi:</translation>
     </message>
 </context>
 <context>
@@ -9189,7 +9189,7 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Tunniste</translation>
     </message>
     <message>
         <source>Field</source>
@@ -13590,7 +13590,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Bits</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitit</translation>
     </message>
 </context>
 <context>
@@ -14198,7 +14198,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Subject Distance Range</source>
-        <translation type="unfinished"></translation>
+        <translation>Kohteen etäisyysalue</translation>
     </message>
 </context>
 <context>
@@ -16105,7 +16105,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Checked file(s)</source>
-        <translation>Valitutt tiedosto(t)</translation>
+        <translation>Valitut tiedostot</translation>
     </message>
     <message>
         <source>Unchecked file(s)</source>
@@ -16113,7 +16113,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Select checked files</source>
-        <translation>Valitse valitut tiedostot</translation>
+        <translation>Valitse merkityt tiedostot</translation>
     </message>
     <message>
         <source>Check/Uncheck</source>
@@ -16129,7 +16129,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Show checked files</source>
-        <translation>Näytä valitut tiedostot</translation>
+        <translation>Näytä merkityt tiedostot</translation>
     </message>
     <message>
         <source>Show checkbox</source>
@@ -16157,7 +16157,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Unload all</source>
-        <translation type="unfinished"></translation>
+        <translation>Älä lataa mitään</translation>
     </message>
     <message>
         <source>Session</source>
@@ -17587,7 +17587,7 @@ Voit muuttaa sitä asetusten kohdasta &quot;Katalogi&quot;.</translation>
     </message>
     <message>
         <source>Customize columns...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mukauta sarakkeita...</translation>
     </message>
 </context>
 <context>
@@ -18933,7 +18933,10 @@ Ota yhteyttä kehittäjään.</translation>
         <source>Catalog is disabled
 Metadata (check, ratings/colour labels and other file details)
 will not be saved to the database.</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalogi on poistettu käytöstä
+
+Metatietoja (tarkistuksia, arvioita/väritunnisteita ja muita tiedostotietoja)
+ei tallenneta tietokantaan.</translation>
     </message>
 </context>
 </TS>
