@@ -460,7 +460,7 @@
     <message>
         <location filename="AutoDateTimeEdit.h" line="89"/>
         <source>Not set</source>
-        <translation type="unfinished"></translation>
+        <translation>未設定</translation>
     </message>
 </context>
 <context>
@@ -712,7 +712,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="4011"/>
         <source>Delete items &amp; companions</source>
-        <translation>ファイルとコンパニオンの削除</translation>
+        <translation>項目と付随ファイルを削除</translation>
     </message>
     <message numerus="yes">
         <location filename="BrowserWindow.cpp" line="4012"/>
@@ -830,13 +830,13 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="CategorySetPanel.cpp" line="299"/>
         <source>Assign Set to selection</source>
         <oldsource>Assign Set to selection...</oldsource>
-        <translation>選択からセットを割り当て</translation>
+        <translation>選択範囲にセットを割り当て</translation>
     </message>
     <message>
         <location filename="CategorySetPanel.cpp" line="300"/>
         <source>Unassign Set from selection</source>
         <oldsource>Unassign Set to selection...</oldsource>
-        <translation>選択からセットを除外</translation>
+        <translation>選択範囲からセットの割り当てを解除</translation>
     </message>
 </context>
 <context>
@@ -1570,7 +1570,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgConvertProcess.h" line="3090"/>
         <source>Expansion limit</source>
-        <translation>拡大限度</translation>
+        <translation>展開の上限</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="3141"/>
@@ -3452,12 +3452,12 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgConbright.ui" line="19"/>
         <source>Conbright</source>
-        <translation>Conbright</translation>
+        <translation>コンブライト</translation>
     </message>
     <message>
         <location filename="DlgConbright.ui" line="73"/>
         <source>Gammasat</source>
-        <translation>Gammasat</translation>
+        <translation>ガンマサット</translation>
     </message>
 </context>
 <context>
@@ -3805,7 +3805,7 @@ Do you want to overwrite it?</oldsource>
 これらのソフトウェアは&quot;現状のまま&quot;で提供されます。
 明示黙示を問わずいかなる保証もありません。
 </translatorcomment>
-        <translation>&lt;br&gt;XnConvert is provided as freeware&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </translation>
+        <translation>&lt;br&gt;XnConvert はフリーウェアとして提供されています。&lt;br&gt;&lt;br&gt;このソフトウェアは自由に使用でき、コピーも無制限に作成できます。&lt;br&gt;&lt;br&gt;本ソフトウェアは「現状のまま」提供されます。&lt;br&gt;明示・黙示を問わず、いかなる保証も行いません。&lt;br&gt;本ソフトウェアの使用または誤使用により発生したデータ損失、損害、利益の損失、その他いかなる損失についても、作者は一切の責任を負いません。&lt;br&gt;&lt;br&gt;ご意見・ご要望・フィードバックを歓迎します。&lt;br&gt; </translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1349"/>
@@ -4357,7 +4357,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertAutoDeskew.ui" line="47"/>
         <source>Use anti-aliasing</source>
-        <translation type="unfinished"></translation>
+        <translation>アンチエイリアシングを使用</translation>
     </message>
 </context>
 <context>
@@ -6642,7 +6642,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertRotate.ui" line="195"/>
         <source>Use anti-aliasing</source>
-        <translation type="unfinished"></translation>
+        <translation>アンチエイリアシングを使用</translation>
     </message>
     <message>
         <location filename="DlgConvertRotate.ui" line="203"/>
@@ -7550,7 +7550,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditEXIF.ui" line="460"/>
         <source>XP Subject</source>
-        <translation type="unfinished">件名</translation>
+        <translation>XP サブジェクト</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="522"/>
@@ -8387,7 +8387,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFileListing.ui" line="36"/>
         <source>Columns presets:</source>
-        <translation type="unfinished"></translation>
+        <translation>列プリセット:</translation>
     </message>
     <message>
         <location filename="DlgFileListing.ui" line="87"/>
@@ -8402,7 +8402,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFileListing.ui" line="116"/>
         <source>Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>区切り</translation>
     </message>
     <message>
         <location filename="DlgFileListing.ui" line="179"/>
@@ -8422,7 +8422,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFileListing.cpp" line="40"/>
         <source>Current columns</source>
-        <translation type="unfinished"></translation>
+        <translation>現在の列</translation>
     </message>
     <message>
         <location filename="DlgFileListing.cpp" line="132"/>
@@ -8858,7 +8858,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgGoXY.ui" line="14"/>
         <source>Pan to coordinates</source>
-        <translation>座標にパン</translation>
+        <translation>座標に移動</translation>
     </message>
     <message>
         <location filename="DlgGoXY.ui" line="20"/>
@@ -8976,12 +8976,12 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgHistoryList.h" line="26"/>
         <source>Save preset</source>
-        <translation type="unfinished">プリセットを保存</translation>
+        <translation>プリセットを保存</translation>
     </message>
     <message>
         <location filename="DlgHistoryList.h" line="27"/>
         <source>Preset name:</source>
-        <translation type="unfinished"></translation>
+        <translation>プリセット名:</translation>
     </message>
 </context>
 <context>
@@ -10796,14 +10796,14 @@ Please install it via Tools › Plugins</source>
     <message>
         <location filename="DlgRename.cpp" line="311"/>
         <source>Companion renaming</source>
-        <translation>コンパニオンファイルの名前の変更</translation>
+        <translation>付随ファイルの名前の変更</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="311"/>
         <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. 
 
 Do you want to remove them?</source>
-        <translation>コンパニオンファイルがファイルリストで検出されると、マスターファイル名に従って自動的に名前が変更されます。 
+        <translation>ファイルリスト内で付随ファイルが検出されました。これらは主ファイル名に従って自動的に名前が変更されます。 
 
 削除しますか？</translation>
     </message>
@@ -11418,17 +11418,17 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.ui" line="145"/>
         <source>Search in</source>
-        <translation type="unfinished">検索</translation>
+        <translation>検索対象</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="153"/>
         <source>Filesystem</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルシステム</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="158"/>
         <source>Catalog</source>
-        <translation type="unfinished">カタログ</translation>
+        <translation>カタログ</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="196"/>
@@ -11653,42 +11653,42 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="378"/>
         <source>Clear All</source>
-        <translation type="unfinished"></translation>
+        <translation>すべてクリア</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="378"/>
         <source>Remove all items from the list?</source>
-        <translation type="unfinished"></translation>
+        <translation>リストからすべての項目を削除しますか？</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="397"/>
         <source>Default</source>
-        <translation type="unfinished">デフォルト</translation>
+        <translation>デフォルト</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="397"/>
         <source>Reset list to default?</source>
-        <translation type="unfinished"></translation>
+        <translation>リストを初期状態に戻しますか？</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="588"/>
         <source>Expand All</source>
-        <translation type="unfinished"></translation>
+        <translation>すべて展開</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="593"/>
         <source>Collapse All</source>
-        <translation type="unfinished"></translation>
+        <translation>すべて折りたたむ</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="913"/>
         <source>Save Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>プリセットを保存</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="913"/>
         <source>Preset name:</source>
-        <translation type="unfinished"></translation>
+        <translation>プリセット名:</translation>
     </message>
 </context>
 <context>
@@ -11767,22 +11767,22 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="585"/>
         <source>Label</source>
-        <translation type="unfinished">ラベル</translation>
+        <translation>ラベル</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="590"/>
         <source>Field</source>
-        <translation type="unfinished">フィールド</translation>
+        <translation>フィールド</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="553"/>
         <source>Clear all</source>
-        <translation type="unfinished">すべてクリア</translation>
+        <translation>すべてクリア</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="498"/>
         <source>Columns</source>
-        <translation type="unfinished">縦列</translation>
+        <translation>列</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="510"/>
@@ -12330,7 +12330,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.cpp" line="385"/>
         <source>Companion</source>
-        <translation>コンパニオン</translation>
+        <translation>付随ファイル</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.cpp" line="450"/>
@@ -12353,7 +12353,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="196"/>
         <source>Show companion files</source>
-        <translation>コンパニオンファイルを表示する</translation>
+        <translation>付随ファイルを表示する</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="110"/>
@@ -12433,7 +12433,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="203"/>
         <source>Link companion files for the following actions</source>
-        <translation>以下の処理のコンパニオンファイルをリンクする</translation>
+        <translation>以下の操作で付随ファイルを連動させる</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="209"/>
@@ -12453,7 +12453,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="187"/>
         <source>Companion files</source>
-        <translation>コンパニオンファイル</translation>
+        <translation>付随ファイル</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="254"/>
@@ -13474,7 +13474,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2032"/>
         <source>Pan image</source>
         <oldsource>Move image</oldsource>
-        <translation>画像をパンする</translation>
+        <translation>画像を移動</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1596"/>
@@ -13685,7 +13685,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="1983"/>
         <source>Zoom &amp; pan</source>
         <oldsource>Zoom &amp; move</oldsource>
-        <translation>ズーム＆パン</translation>
+        <translation>ズームと移動</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1759"/>
@@ -14320,7 +14320,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="649"/>
         <source>Companion</source>
-        <translation>コンパニオン</translation>
+        <translation>付随ファイル</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1068"/>
@@ -17468,7 +17468,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="ItemModel.cpp" line="1038"/>
         <source>Bits</source>
-        <translation type="unfinished"></translation>
+        <translation>ビット</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="665"/>
@@ -17747,7 +17747,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2810"/>
         <source>Check status</source>
-        <translation type="unfinished"></translation>
+        <translation>状態を確認</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="30"/>
@@ -18172,7 +18172,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2682"/>
         <source>Subject Distance Range</source>
-        <translation type="unfinished"></translation>
+        <translation>被写体距離範囲</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2725"/>
@@ -21192,7 +21192,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="587"/>
         <source>Unload all</source>
-        <translation type="unfinished"></translation>
+        <translation>すべてアンロード</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="589"/>
@@ -22255,7 +22255,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="413"/>
         <source>Pan to coordinates...</source>
         <oldsource>Go to x,y location...</oldsource>
-        <translation>座標にパンする...</translation>
+        <translation>座標へ移動..</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="446"/>
@@ -23293,7 +23293,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="MyThumbView.cpp" line="1728"/>
         <source>Customize columns...</source>
-        <translation type="unfinished"></translation>
+        <translation>列をカスタマイズ...</translation>
     </message>
 </context>
 <context>
@@ -24990,7 +24990,9 @@ Do you want to keep the thumbnails?
         <source>Catalog is disabled
 Metadata (check, ratings/colour labels and other file details)
 will not be saved to the database.</source>
-        <translation type="unfinished"></translation>
+        <translation>カタログは無効です。
+メタデータ（チェック、レーティング／カラーラベル、その他のファイル情報）は
+データベースに保存されません。</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="951"/>
