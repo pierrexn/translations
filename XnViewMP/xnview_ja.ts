@@ -3556,7 +3556,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgContactSheet.ui" line="308"/>
         <source>Columns</source>
-        <translation>縦列</translation>
+        <translation>列</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="328"/>
@@ -8447,7 +8447,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="ListingLine.h" line="28"/>
         <source>Remove column</source>
-        <translation>列を除去</translation>
+        <translation>列を削除</translation>
     </message>
 </context>
 <context>
@@ -10082,7 +10082,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPrint.ui" line="319"/>
         <source>Columns</source>
-        <translation>縦列</translation>
+        <translation>列</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="345"/>
@@ -15243,7 +15243,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSplit.ui" line="140"/>
         <source>Columns</source>
-        <translation>縦列</translation>
+        <translation>列</translation>
     </message>
     <message>
         <location filename="DlgSplit.ui" line="169"/>
@@ -16037,7 +16037,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgVideoGallery.ui" line="59"/>
         <source>Columns</source>
-        <translation>縦列</translation>
+        <translation>列</translation>
     </message>
     <message>
         <location filename="DlgVideoGallery.ui" line="69"/>
