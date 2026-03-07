@@ -196,7 +196,7 @@
     </message>
     <message>
         <source>Translators</source>
-        <translation type="unfinished"></translation>
+        <translation>Traductores</translation>
     </message>
     <message>
         <source>Language</source>
@@ -279,7 +279,7 @@
     <message>
         <source>Are you sure to delete 
 &quot;%1&quot;?</source>
-        <translation>¿Está seguro de eliminar
+        <translation>¿Está seguro de eliminar .
 &quot;%1&quot;?</translation>
     </message>
     <message>
@@ -326,7 +326,7 @@
     </message>
     <message>
         <source>The file &lt;%1&gt; is read-only. Please choose another file name.</source>
-        <translation type="unfinished"></translation>
+        <translation>El archivo &lt;%1&gt; es de solo lectura. Elija otro nombre de archivo.</translation>
     </message>
 </context>
 <context>
@@ -358,7 +358,7 @@
     <name>AutoDateTimeEdit</name>
     <message>
         <source>Not set</source>
-        <translation type="unfinished"></translation>
+        <translation>No establecido</translation>
     </message>
 </context>
 <context>
@@ -596,11 +596,11 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Open in file manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir en el administrador de archivos</translation>
     </message>
     <message>
         <source>The database is corrupted. Please check it before you continue!</source>
-        <translation type="unfinished"></translation>
+        <translation>La base de datos está dañada. ¡Compruébela antes de continuar!</translation>
     </message>
     <message>
         <source>Thumbnails</source>
@@ -608,23 +608,23 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>AND</source>
-        <translation type="unfinished"></translation>
+        <translation>Y</translation>
     </message>
     <message>
         <source>OR</source>
-        <translation type="unfinished"></translation>
+        <translation>O</translation>
     </message>
     <message>
         <source>&lt;b&gt;Match&lt;/b&gt;&lt;br&gt;OR - match any selected entry&lt;br&gt;AND - match all selected entries</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Coincidir&lt;/b&gt;&lt;br&gt;O - coincide con cualquier entrada seleccionada&lt;br&gt;Y - coincide con todas las entradas seleccionadas</translation>
     </message>
     <message>
         <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi-select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right-click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Filtro del catálogo&lt;/b&gt;&lt;br&gt;Clic izquierdo para filtrar&lt;br&gt;&amp;bull; Mayús/Ctrl - selección múltiple&lt;br&gt;&amp;bull; Alt - excluir elementos&lt;br&gt;Clic derecho para abrir opciones del nodo&lt;br&gt;Arrastrar y soltar sobre un nodo para asignarlo</translation>
     </message>
     <message>
         <source>&lt;Checked files&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Archivos comprobados&gt;</translation>
     </message>
 </context>
 <context>
@@ -778,23 +778,23 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>EXIF: Date modified</source>
-        <translation type="unfinished"></translation>
+        <translation>EXIF: Fecha de modificación</translation>
     </message>
     <message>
         <source>File: Date modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo: Fecha de modificación</translation>
     </message>
     <message>
         <source>New album</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuevo álbum</translation>
     </message>
     <message>
         <source>New smart album...</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuevo álbum inteligente...</translation>
     </message>
     <message>
         <source>Create Smart Album from current filter...</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear álbum inteligente a partir del filtro actual...</translation>
     </message>
     <message>
         <source>Edit...</source>
@@ -802,19 +802,19 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Delete Smart Album</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar álbum inteligente</translation>
     </message>
     <message>
         <source>Are you sure to delete this Smart Album?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Está seguro de que desea eliminar este álbum inteligente?</translation>
     </message>
     <message>
         <source>Create Smart Album...</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear álbum inteligente...</translation>
     </message>
     <message>
         <source>Are you sure to delete these categories?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Está seguro de que desea eliminar estas categorías?</translation>
     </message>
 </context>
 <context>
@@ -903,7 +903,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Navigator</source>
-        <translation type="unfinished"></translation>
+        <translation>Navegador</translation>
     </message>
 </context>
 <context>
@@ -1588,11 +1588,11 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>No rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin calificación</translation>
     </message>
     <message>
         <source>No colour label</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin etiqueta de color</translation>
     </message>
     <message>
         <source>Date</source>
@@ -1600,11 +1600,11 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Taken in last 30 days</source>
-        <translation type="unfinished"></translation>
+        <translation>Tomado en los últimos 30 días</translation>
     </message>
     <message>
         <source>Modified in last 30 days</source>
-        <translation type="unfinished"></translation>
+        <translation>Modificado en los últimos 30 días</translation>
     </message>
     <message>
         <source>Properties</source>
@@ -1612,11 +1612,11 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Albums</source>
-        <translation type="unfinished"></translation>
+        <translation>Álbumes</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Desconocido</translation>
     </message>
     <message>
         <source>Landscape</source>
@@ -1628,19 +1628,19 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Panoramic</source>
-        <translation type="unfinished"></translation>
+        <translation>Panorámico</translation>
     </message>
     <message>
         <source>No Color Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin perfil de color</translation>
     </message>
     <message>
         <source>Smart Albums</source>
-        <translation type="unfinished"></translation>
+        <translation>Álbumes inteligentes</translation>
     </message>
     <message>
         <source>Square</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuadrado</translation>
     </message>
     <message>
         <source>Categories</source>
@@ -1648,11 +1648,11 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Check (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprobar (%1)</translation>
     </message>
     <message>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprobar</translation>
     </message>
 </context>
 <context>
@@ -1791,7 +1791,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Open file manager after compressing</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir el administrador de archivos después de comprimir</translation>
     </message>
 </context>
 <context>
@@ -2892,14 +2892,14 @@ Do you want to overwrite it?</source>
     </message>
     <message numerus="yes">
         <source>File list (%n)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Lista de archivo (%n)</numerusform>
+            <numerusform>Lista de archivos (%n)</numerusform>
         </translation>
     </message>
     <message>
         <source>Open File Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir el administrador de archivos</translation>
     </message>
 </context>
 <context>
@@ -3322,7 +3322,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <source>Edges</source>
@@ -3330,11 +3330,11 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertical</translation>
     </message>
     <message>
         <source>Zealous</source>
-        <translation type="unfinished"></translation>
+        <translation>Entusiasta</translation>
     </message>
 </context>
 <context>
@@ -4139,11 +4139,11 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Open File Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir el administrador de archivos</translation>
     </message>
     <message>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Opciones</translation>
     </message>
 </context>
 <context>
@@ -5555,7 +5555,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Open File Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir el administrador de archivos</translation>
     </message>
 </context>
 <context>
@@ -5663,7 +5663,7 @@ Do you want to overwrite it?</source>
     <name>DlgEditEXIFClass</name>
     <message>
         <source>Edit EXIF</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar EXIF</translation>
     </message>
     <message>
         <source>Manufacturer</source>
@@ -5683,7 +5683,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Document name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre del documento</translation>
     </message>
     <message>
         <source>Artist</source>
@@ -5715,11 +5715,11 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Focal length</source>
-        <translation type="unfinished"></translation>
+        <translation>Distancia focal</translation>
     </message>
     <message>
         <source>mm</source>
-        <translation type="unfinished"></translation>
+        <translation>mm</translation>
     </message>
     <message>
         <source>Lens model</source>
@@ -5743,43 +5743,43 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>0 - Not defined</source>
-        <translation type="unfinished"></translation>
+        <translation>0 - No definido</translation>
     </message>
     <message>
         <source>1 - Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>1 - Horizontal</translation>
     </message>
     <message>
         <source>2 - Mirror horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>2 - Voltear horizontalmente</translation>
     </message>
     <message>
         <source>3 - Rotate 180</source>
-        <translation type="unfinished"></translation>
+        <translation>3 - Girar 180º</translation>
     </message>
     <message>
         <source>4 - Mirror vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>4 - Voltear verticalmente</translation>
     </message>
     <message>
         <source>5 - Mirror horizontal and rotate 270 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>5 - Voltear horizontalmente y girar 270º en sentido horario</translation>
     </message>
     <message>
         <source>6 - Rotate 90 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>6 - Girar 90º en sentido horario</translation>
     </message>
     <message>
         <source>7 - Mirror horizontal and rotate 90 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>7 - Voltear horizontalmente y girar 90º en sentido horario</translation>
     </message>
     <message>
         <source>8 - Rotate 270 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>8 - Girar 270º en sentido horario</translation>
     </message>
     <message>
         <source>Write</source>
-        <translation type="unfinished"></translation>
+        <translation>Escribir</translation>
     </message>
     <message>
         <source>XP Subject</source>
@@ -5924,7 +5924,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Modifying files, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Modificando archivos, por favor, espere...</translation>
     </message>
 </context>
 <context>
@@ -6474,15 +6474,15 @@ Por favor, intente iniciar con derechos de Administrador.</translation>
     </message>
     <message>
         <source>Columns presets:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustes preestablecidos de columnas:</translation>
     </message>
     <message>
         <source>Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Separador</translation>
     </message>
     <message>
         <source>Current columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Columnas actuales</translation>
     </message>
 </context>
 <context>
@@ -6898,7 +6898,7 @@ Por favor, intente iniciar con derechos de Administrador.</translation>
     </message>
     <message>
         <source>Preset name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre preestablecido:</translation>
     </message>
 </context>
 <context>
@@ -7221,7 +7221,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Modifying files, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Modificando archivos, por favor, espere...</translation>
     </message>
 </context>
 <context>
@@ -8307,7 +8307,8 @@ Gracias por su compra %1.</translation>
     <message>
         <source>Plugin is not installed. 
 Please install it via Tools › Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Complemento no instalado. 
+Instalar a través de Herramientas &gt; Complementos</translation>
     </message>
 </context>
 <context>
@@ -8739,19 +8740,19 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Preestablecido</translation>
     </message>
     <message>
         <source>Preset search name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de búsqueda preestablecido:</translation>
     </message>
     <message>
         <source>Save pathname</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar ruta de acceso</translation>
     </message>
     <message>
         <source>Smart Albums</source>
-        <translation type="unfinished"></translation>
+        <translation>Álbumes inteligentes</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -8763,7 +8764,7 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>GROUP</source>
-        <translation type="unfinished"></translation>
+        <translation>GRUPO</translation>
     </message>
     <message>
         <source>Search</source>
@@ -8866,11 +8867,11 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Close dialog when browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar diálogo al navegar</translation>
     </message>
     <message>
         <source>Save as Smart Album...</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar como álbum inteligente...</translation>
     </message>
     <message>
         <source>Search in</source>
@@ -8878,7 +8879,7 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Filesystem</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistema de archivos</translation>
     </message>
     <message>
         <source>Catalog</source>
@@ -8978,22 +8979,22 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Restart now</source>
-        <translation type="unfinished"></translation>
+        <translation>Reiniciar ahora</translation>
     </message>
     <message>
         <source>The changes will be applied after restarting the application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Los cambios se aplicarán después de reiniciar la aplicación.</translation>
     </message>
 </context>
 <context>
     <name>DlgSettingsBrowser</name>
     <message>
         <source>Clear All</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpiar todo</translation>
     </message>
     <message>
         <source>Remove all items from the list?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Eliminar todos los elementos de la lista?</translation>
     </message>
     <message>
         <source>Default</source>
@@ -9001,23 +9002,23 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Reset list to default?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Restablecer la lista predeterminada?</translation>
     </message>
     <message>
         <source>Expand All</source>
-        <translation type="unfinished"></translation>
+        <translation>Expandir todo</translation>
     </message>
     <message>
         <source>Collapse All</source>
-        <translation type="unfinished"></translation>
+        <translation>Contraer todo</translation>
     </message>
     <message>
         <source>Save Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar ajuste preestablecido</translation>
     </message>
     <message>
         <source>Preset name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre preestablecido:</translation>
     </message>
 </context>
 <context>
@@ -9172,19 +9173,19 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Show &apos;Desktop&apos; in folder tree</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar &apos;Escritorio&apos; en el árbol de carpetas</translation>
     </message>
     <message>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprobar</translation>
     </message>
     <message>
         <source>Clear the list of checked files</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar la lista de archivos marcados</translation>
     </message>
     <message>
         <source>Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Etiqueta</translation>
     </message>
     <message>
         <source>Field</source>
@@ -9305,11 +9306,11 @@ etiquetas de color o palabras clave pueden ser eliminadas.
     </message>
     <message>
         <source>Database [catalog: %1 %2 - thumbnails: %3 %4]</source>
-        <translation type="unfinished"></translation>
+        <translation>Base de datos [catálogo: %1 %2 - miniaturas: %3 %4]</translation>
     </message>
     <message>
         <source>Updating database, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizando la base de datos, por favor, espere...</translation>
     </message>
 </context>
 <context>
@@ -9428,7 +9429,7 @@ etiquetas de color o palabras clave pueden ser eliminadas.
     </message>
     <message>
         <source>Update metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizar metadatos</translation>
     </message>
 </context>
 <context>
@@ -10148,7 +10149,7 @@ miniatura</translation>
     </message>
     <message>
         <source>ExifTool path</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruta de ExifTool</translation>
     </message>
     <message>
         <source>...</source>
@@ -10160,15 +10161,15 @@ miniatura</translation>
     </message>
     <message>
         <source>Add shell extension to context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir extensión de shell al menú contextual</translation>
     </message>
     <message>
         <source>Register application</source>
-        <translation type="unfinished"></translation>
+        <translation>Solicitud de registro</translation>
     </message>
     <message>
         <source>Open &apos;Default Apps&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir &apos;Aplicaciones predeterminadas&apos;...</translation>
     </message>
 </context>
 <context>
@@ -11005,7 +11006,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprobar</translation>
     </message>
 </context>
 <context>
@@ -11631,7 +11632,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Watch folders for new files</source>
-        <translation type="unfinished"></translation>
+        <translation>Supervisar carpetas en busca de nuevos archivos</translation>
     </message>
 </context>
 <context>
