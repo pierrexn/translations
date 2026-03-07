@@ -16112,7 +16112,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Check/Uncheck</source>
-        <translation>Marcado/Desmarcado</translation>
+        <translation>Marcar/Desmarcar</translation>
     </message>
     <message>
         <source>Uncheck all</source>
@@ -17205,7 +17205,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Check/Uncheck</source>
-        <translation>Marcado/Desmarcado</translation>
+        <translation>Marcar/Desmarcar</translation>
     </message>
 </context>
 <context>
