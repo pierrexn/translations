@@ -1306,7 +1306,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Watermark</source>
-        <translation>Filigran</translation>
+        <translation>Filigran (Watermark)</translation>
     </message>
     <message>
         <source>Film Simulation</source>
@@ -17029,7 +17029,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Add watermark...</source>
-        <translation>Adaugă filigran...</translation>
+        <translation>Adaugă filigran (Adaugă watermark)...</translation>
     </message>
     <message>
         <source>Selection - set ratio</source>
@@ -17850,7 +17850,7 @@ O poți schimba în Setări › Catalog.</translation>
     </message>
     <message>
         <source>Add a watermark</source>
-        <translation>Adaugă un filigran</translation>
+        <translation>Adaugă un filigran (Adaugă un watermark)</translation>
     </message>
     <message>
         <source>Offset X</source>
