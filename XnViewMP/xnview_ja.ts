@@ -55,7 +55,7 @@
     <message>
         <location filename="MyThumbSettings.cpp" line="875"/>
         <source>Approved</source>
-        <translation>承認</translation>
+        <translation>承認済み</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="876"/>
@@ -303,7 +303,8 @@
         <location filename="ViewWindow.cpp" line="2297"/>
         <source>Would you like to discard your edits and delete 
 &quot;%1&quot;?</source>
-        <translation>編集を破棄し、&quot;%1&quot;を削除してよろしいですか？</translation>
+        <translation>編集内容を破棄して
+「%1」を削除しますか？</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2303"/>
@@ -1609,7 +1610,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgConvertProcess.h" line="3799"/>
         <source>Add mask</source>
-        <translation>マスク</translation>
+        <translation>マスクを追加</translation>
     </message>
     <message>
         <location filename="DlgConvertSwap.h" line="21"/>
@@ -2230,7 +2231,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DlgAcquireInto.ui" line="14"/>
         <source>Batch acquire (TWAIN)</source>
         <oldsource>Batch scanning</oldsource>
-        <translation>一括取得（TWAIN）</translation>
+        <translation>バッチ取り込み（TWAIN）</translation>
     </message>
     <message>
         <location filename="DlgAcquireInto.ui" line="28"/>
@@ -2458,7 +2459,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgBanner.ui" line="23"/>
         <source>&lt;html&gt;&lt;p&gt;All banner specifications (font, color, size, etc.) carry forward from the previously created banner. An exception is text size, which is calculated to &apos;Best fit&apos; for banner height.&lt;/p&gt;&lt;p&gt;You may select multiple images to apply the same banner to several images at once. Note that the text will be the same size in all images, then.&lt;/p&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; align=&quot;left&quot; style=&quot;border-bottom:1px solid gray;padding-top:15px&quot;&gt;Shortcuts&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Increase/decrease font size by 2 points&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Shift+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Increase/decrease banner size by 1%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+S&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Start banner creation&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;p&gt;すべてのバナーの仕様（フォント、⾊、サイズなど）は以前作成されたバナーから繰り越されます。例外はバナーの⾼さに最適化された⽂字サイズです。&lt;/p&gt;&lt;p&gt;いく つかの画像を同じバナーに同時に適⽤できるよう選択できます。 ⽂字はすべての画像で同じサイズにになることに注意してください。&lt;/p&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; align=&quot;left&quot; style=&quot;border-bottom:1px solid gray;padding-top:15px&quot;&gt;ショートカットキー&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;フォントサイズを2ポイント増加／減少&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Shift+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;バナーサイズを1%増 加／減少&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+S&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;バナー作成を開 始&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;p&gt;すべてのバナー設定（フォント、色、サイズなど）は、前回作成したバナーから引き継がれます。ただし、テキストサイズだけは例外で、バナーの高さに合わせて「最適なサイズ」に自動調整されます。&lt;/p&gt;&lt;p&gt;複数の画像を選択すると、同じバナーをまとめて適用できます。その場合、すべての画像でテキストサイズは同じになります。&lt;/p&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; align=&quot;left&quot; style=&quot;border-bottom:1px solid gray;padding-top:15px&quot;&gt;ショートカット&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;フォントサイズを 2pt ずつ拡大／縮小&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Shift+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;バナーサイズを1%ずつ拡大／縮小&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+S&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;バナー作成を開始&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="DlgBanner.ui" line="177"/>
@@ -2816,7 +2817,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgBatchResize.ui" line="1063"/>
         <source>Ask</source>
-        <translation>確認する</translation>
+        <translation>確認</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1068"/>
@@ -2926,7 +2927,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgBatchResize.ui" line="1364"/>
         <source>Use multiple CPU Cores</source>
-        <translation>使用するCPUコア</translation>
+        <translation>複数CPUコアを使用</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1460"/>
@@ -2981,7 +2982,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DlgBatchResize.cpp" line="590"/>
         <source>The &apos;Use multiple CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</source>
         <oldsource>The &apos;Use CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</oldsource>
-        <translation>&apos;使用するCPUコア&apos;設定が不可です。&apos;Ask&apos;モードやマルチページPDFファイルが使用できません。</translation>
+        <translation>「複数CPUコアを使用」設定は無効化されました。この設定は「確認」モードやマルチページPDFと併用できません。</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="638"/>
@@ -3044,7 +3045,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgBatchResize.cpp" line="1379"/>
         <source>&lt;br&gt;XnResize is provided as freeware for private or commercial use. &lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
-        <translation>&lt;br&gt;XnResizeは私用もしくは商用においてフリーウェアとして提供されます。&lt;br&gt;本ソフトウェアの無限の複製を作り使用する権利が付与されます。&lt;br&gt;&lt;br&gt;本ソフトウェアは&quot;現状のまま&quot;で提供されます。&lt;br&gt;明示黙示を問わず、いかなる保証もありません。&lt;br&gt;著作者はデータの損失・ダメージ、利益の損失、その他ソフトウェアの使用・誤使用による損失に責任を持ちません。&lt;br&gt;&lt;br&gt;あらゆる提案・フィードバック・コメントを歓迎します。 </translation>
+        <translation>&lt;br&gt;XnResize は、個人利用・商用利用を問わずフリーウェアとして提供されています。&lt;br&gt;このソフトウェアは自由に使用でき、コピーも無制限に作成できます。&lt;br&gt;&lt;br&gt;本ソフトウェアは「現状のまま」提供されます。&lt;br&gt;明示・黙示を問わず、いかなる保証も行いません。&lt;br&gt;本ソフトウェアの使用または誤使用により発生したデータ損失、損害、利益の損失、その他いかなる損失についても、作者は一切の責任を負いません。&lt;br&gt;&lt;br&gt;ご意見・ご要望・フィードバックを歓迎します。 </translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1426"/>
@@ -3367,7 +3368,7 @@ Do you want to overwrite it?</oldsource>
         <location filename="DlgClean.ui" line="20"/>
         <source>Optimize Huffman table</source>
         <translatorcomment>TXT_Option_Optimize_Huffman</translatorcomment>
-        <translation>ハフマン表最適化</translation>
+        <translation>ハフマン表を最適化</translation>
     </message>
     <message>
         <location filename="DlgClean.ui" line="27"/>
@@ -3397,7 +3398,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgClean.ui" line="122"/>
         <source>All other &apos;APP&apos; markers</source>
-        <translation>&apos;APP&apos;マーカー以外すべて</translation>
+        <translation>その他の「APP」マーカー</translation>
     </message>
 </context>
 <context>
@@ -3426,7 +3427,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgComment.ui" line="90"/>
         <source>Embedded comment (not available for all formats)</source>
-        <translation>埋め込みコメント（一部のファイル形式）</translation>
+        <translation>埋め込みコメント（一部の形式のみ対応）</translation>
     </message>
     <message>
         <location filename="DlgComment.ui" line="65"/>
@@ -3520,17 +3521,17 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgContactSheet.ui" line="193"/>
         <source>Margin (pixels)</source>
-        <translation>マージン（ピクセル）</translation>
+        <translation>余白（ピクセル）</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="200"/>
         <source>Horizontal margin</source>
-        <translation>水平方向のマージン</translation>
+        <translation>横方向の余白</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="207"/>
         <source>Vertical margin</source>
-        <translation>垂直方向のマージン</translation>
+        <translation>縦方向の余白</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="231"/>
@@ -3551,7 +3552,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgContactSheet.ui" line="301"/>
         <source>Thumbnails per page</source>
-        <translation>ページ当たりのサムネイル数</translation>
+        <translation>1ページあたりのサムネイル数</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="308"/>
@@ -3561,7 +3562,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgContactSheet.ui" line="328"/>
         <source>Rows</source>
-        <translation>横列</translation>
+        <translation>行</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="358"/>
@@ -3571,17 +3572,17 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgContactSheet.ui" line="365"/>
         <source>Horizontal spacing</source>
-        <translation>水平方向の間隔</translation>
+        <translation>横方向の間隔</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="372"/>
         <source>Vertical spacing</source>
-        <translation>垂直方向の間隔</translation>
+        <translation>縦方向の間隔</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="421"/>
         <source>Fill mode</source>
-        <translation>フィルモード</translation>
+        <translation>塗りつぶしモード</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="448"/>
@@ -3631,7 +3632,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgContactSheet.ui" line="633"/>
         <source>Source folder</source>
-        <translation>元のフォルダー</translation>
+        <translation>元フォルダー</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="642"/>
@@ -3651,7 +3652,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgContactSheet.ui" line="704"/>
         <source>After finish</source>
-        <translation>完了後</translation>
+        <translation>完了後の動作</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="712"/>
@@ -3661,7 +3662,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgContactSheet.ui" line="717"/>
         <source>Open Browser</source>
-        <translation>ブラウザを開く</translation>
+        <translation>ブラウザーを開く</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="722"/>
@@ -3692,7 +3693,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgContactSheet.ui" line="844"/>
         <source>Best fit</source>
-        <translation>ズーム調整</translation>
+        <translation>最適表示</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="872"/>
@@ -3712,17 +3713,17 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgContactSheet.cpp" line="222"/>
         <source>You need to choose an output folder.</source>
-        <translation>出力フォルダーを選択する必要があります。</translation>
+        <translation>出力フォルダーを選択してください。</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.cpp" line="360"/>
         <source>Page number</source>
-        <translation>ページ数</translation>
+        <translation>ページ番号</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.cpp" line="362"/>
         <source>Page count</source>
-        <translation>ページ総数</translation>
+        <translation>ページ数</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.cpp" line="364"/>
@@ -3732,22 +3733,22 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgContactSheet.cpp" line="395"/>
         <source>Letter (8.5x11 inch)</source>
-        <translation>Letter (8.5x11インチ)</translation>
+        <translation>レター（8.5×11インチ）</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.cpp" line="397"/>
         <source>Legal (8.5x14 inch)</source>
-        <translation>Legal (8.5x14インチ)</translation>
+        <translation>リーガル（8.5×14インチ）</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.cpp" line="399"/>
         <source>A4 (21.0x29.7cm)</source>
-        <translation></translation>
+        <translation>A4（21.0×29.7cm）</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.cpp" line="401"/>
         <source>A3 (29.7x42.0cm)</source>
-        <translation></translation>
+        <translation>A3 （29.7x42.0cm）</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.cpp" line="403"/>
@@ -3783,7 +3784,7 @@ Do you want to overwrite it?</oldsource>
         <location filename="DlgContactSheet.cpp" line="462"/>
         <source>File list (%n)</source>
         <translation>
-            <numerusform>ファイルリスト（%n件）</numerusform>
+            <numerusform>ファイルリスト（%n）</numerusform>
         </translation>
     </message>
 </context>
@@ -3811,7 +3812,7 @@ Do you want to overwrite it?</oldsource>
         <location filename="DlgConvert.cpp" line="1349"/>
         <source>Please restart application.</source>
         <oldsource>Please restart XnConvert</oldsource>
-        <translation>アプリケーションを再起動してください</translation>
+        <translation>アプリを再起動してください</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1371"/>
@@ -3824,9 +3825,9 @@ Do you want to overwrite it?</oldsource>
 
 Do you want to go on the download page?</source>
         <oldsource>The %1 version of XnConvert is available, do you want to go on the download page?</oldsource>
-        <translation>XnConvertの%1バージョンが利用できます。
+        <translation>XnConvertの%1バージョンが利用可能です。
 
-ダウンロードページに進みますか？</translation>
+ダウンロードページを開きますか？</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1531"/>
@@ -3998,9 +3999,9 @@ Do you want to overwrite it?</source>
         <source>The &apos;Delete original&apos; option is enabled
 
 Do you want to continue?</source>
-        <translation>&apos;元画像を削除&apos;が有効になっています
+        <translation>「元ファイルを削除」オプションが有効です。
 
-続けてよろしいですか？</translation>
+続行しますか？</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2898"/>
@@ -4212,7 +4213,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert.cpp" line="3050"/>
         <source>The &apos;Use multiple CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</source>
         <oldsource>The &apos;Use CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</oldsource>
-        <translation>&apos;使用するCPUコア&apos;設定が不可です。&apos;Ask&apos;モードやマルチページPDFファイルが使用できません。</translation>
+        <translation>「複数CPUコアを使用」設定は無効化されました。この設定は「確認」モードやマルチページPDF と併用できません。</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="3052"/>
@@ -5026,7 +5027,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert.ui" line="1131"/>
         <source>Use multiple CPU Cores</source>
         <oldsource>Use CPU Cores</oldsource>
-        <translation>使用するCPUコア</translation>
+        <translation>複数CPUコアを使用</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1193"/>
@@ -5390,7 +5391,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="1695"/>
         <source>Note: You need to start with admin rights to be able to change this setting</source>
-        <translation>注意：この設定の変更を有効にするには管理者権限で起動する必要があります</translation>
+        <translation>注意：この設定を変更するには、管理者権限で起動する必要があります</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1756"/>
@@ -6071,7 +6072,7 @@ Do you want to continue?</source>
         <source>Stretch</source>
         <oldsource>Stretch mask</oldsource>
         <translatorcomment>未確定</translatorcomment>
-        <translation>引き伸ばし</translation>
+        <translation>伸縮</translation>
     </message>
     <message>
         <location filename="DlgConvertMask.ui" line="136"/>
@@ -8157,7 +8158,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgExport.ui" line="390"/>
         <source>Optimize Huffman table</source>
         <translatorcomment>TXT_Clean_Optimize</translatorcomment>
-        <translation>最適化(ハフマンテーブル)</translation>
+        <translation>ハフマン表を最適化</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="249"/>
@@ -8417,7 +8418,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFileListing.ui" line="193"/>
         <source>Append to file</source>
-        <translation>ファイルに添付</translation>
+        <translation>ファイルに追加</translation>
     </message>
     <message>
         <location filename="DlgFileListing.cpp" line="40"/>
@@ -8678,7 +8679,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFtp.cpp" line="583"/>
         <source>Unable to connect to the FTP server at %1. Please check if the username and password is correct.</source>
-        <translation>FTPサーバ&quot;%1&quot;に接続できませんでした。ユーザー名、パスワードが正しいかチェックしてください</translation>
+        <translation>%1 のFTP サーバーに接続できません。ユーザー名とパスワードが正しいか確認してください。</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="594"/>
@@ -8703,12 +8704,12 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFtp.cpp" line="547"/>
         <source>Unable to load the file %1: %2.</source>
-        <translation>%1: %2ファイルを読み込めません</translation>
+        <translation>ファイル%1を読み込めません：%2。</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="570"/>
         <source>Unable to connect to the FTP server at %1. Please check that the host name is correct.</source>
-        <translation>FTPサーバー%1に接続できませんでした。正しいホスト名を確認してください。</translation>
+        <translation>%1 のFTPサーバーに接続できません。ホスト名が正しいか確認してください。</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="575"/>
@@ -8718,7 +8719,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFtp.cpp" line="614"/>
         <source>Unable to go to folder %1</source>
-        <translation>フォルダー%1に進めません</translation>
+        <translation>フォルダー%1に移動できません</translation>
     </message>
 </context>
 <context>
@@ -8830,17 +8831,17 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFtp.h" line="269"/>
         <source>Unable to load the file %1: %2.</source>
-        <translation>%1: %2ファイルを読み込めません</translation>
+        <translation>ファイル%1を読み込めません：%2。</translation>
     </message>
     <message>
         <location filename="DlgFtp.h" line="311"/>
         <source>Unable to connect to the FTP server at %1. Please check that the host name is correct.</source>
-        <translation>FTPサーバ&quot;%1&quot;に接続できませんでした。ユーザー名、パスワードをチェックしてください</translation>
+        <translation>%1 のFTPサーバーに接続できません。ホスト名が正しいか確認してください。</translation>
     </message>
     <message>
         <location filename="DlgFtp.h" line="323"/>
         <source>Unable to connect to the FTP server at %1. Please check if the username and password is correct.</source>
-        <translation>FTPサーバ&quot;%1&quot;に接続できませんでした。ユーザー名とパスワードが正しいかチェックしてください</translation>
+        <translation>FTPサーバ&quot;%1&quot;に接続できませんでした。ユーザー名とパスワードが正しいかチェックしてください。</translation>
     </message>
     <message>
         <location filename="DlgFtp.h" line="328"/>
@@ -8850,7 +8851,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFtp.h" line="369"/>
         <source>Unable to go to folder %1</source>
-        <translation>フォルダー%1に進めません</translation>
+        <translation>フォルダー%1に移動できません</translation>
     </message>
 </context>
 <context>
@@ -9527,7 +9528,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgIptc.ui" line="414"/>
         <source>Created date/time</source>
-        <translation>作成された日時</translation>
+        <translation>作成日時</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="460"/>
@@ -11640,7 +11641,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettings.cpp" line="358"/>
         <source>The changes will be applied after restarting the application.</source>
-        <translation>この変更はアプリケーションの再起動後に適用されます。</translation>
+        <translation>この変更はアプリの再起動後に適用されます。</translation>
     </message>
     <message>
         <location filename="DlgSettings.cpp" line="361"/>
@@ -12055,12 +12056,12 @@ Do you want to remove entries assigned to a Category?</source>
 (If information are exported into embedded or sidecar metadata, you&apos;ll be able to re-import them later)
 
 Do you want to remove entries assigned to a category?</oldsource>
-        <translation>カテゴリー、レーティング、カラーラベルの付いたカタログ項目は削除されます。
+        <translation>カテゴリー、レーティング、カラーラベル付きのカタログ項目は削除されます。
 
-もし情報が埋め込みもしくはサイドカーメタデータにエクスポートされていれば、
-後で再度インポートすることができます。
+情報が埋め込みメタデータまたはサイドカーメタデータに
+書き出されている場合は、後で再インポートできます。
 
-カテゴリーに割り当てられたエントリーを削除しますか？</translation>
+カテゴリに割り当てられた項目を削除しますか？</translation>
     </message>
 </context>
 <context>
@@ -12216,7 +12217,7 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettingsCache.ui" line="548"/>
         <source>Always exclude removable drives</source>
-        <translation>取り外し可能なドライブを常に除外する</translation>
+        <translation>リムーバブルドライブを常に除外する</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="555"/>
@@ -12570,7 +12571,7 @@ Thumbnail</source>
         <location filename="DlgSettingsGeneral.ui" line="158"/>
         <source>Allow only one application instance</source>
         <oldsource>Allow only one instance of XnView</oldsource>
-        <translation>複数起動しない</translation>
+        <translation>アプリを1つだけ起動</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="172"/>
@@ -12624,7 +12625,7 @@ Thumbnail</source>
         <location filename="DlgSettingsGeneral.ui" line="239"/>
         <location filename="DlgSettingsGeneral.ui" line="591"/>
         <source>Ask</source>
-        <translation>確認する</translation>
+        <translation>確認</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="244"/>
@@ -13023,7 +13024,7 @@ Thumbnail</source>
         <location filename="DlgSettingsIntegration.cpp" line="44"/>
         <location filename="DlgSettingsIntegration.cpp" line="51"/>
         <source>Application folder</source>
-        <translation>アプリケーションフォルダー</translation>
+        <translation>アプリのフォルダー</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="38"/>
@@ -13110,7 +13111,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="94"/>
         <source>Register application</source>
-        <translation>アプリケーションを登録</translation>
+        <translation>アプリを登録</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="118"/>
@@ -13778,7 +13779,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="221"/>
         <source>Closing last tab exits application</source>
         <oldsource>Closing last tab exits XnView</oldsource>
-        <translation>最後のタブを閉じたときアプリケーションを終了する</translation>
+        <translation>最後のタブを閉じたときにアプリを終了する</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="49"/>
@@ -14416,22 +14417,22 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="129"/>
         <source>Use transparency grid (checkerboard pattern)</source>
         <oldsource>Use checkboard pattern as background</oldsource>
-        <translation>透明グリッド（市松模様）の使用</translation>
+        <translation>透明グリッド（市松模様）を使用</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="382"/>
         <source>Zoom step</source>
-        <translation>ズーム率</translation>
+        <translation>ズーム刻み</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="390"/>
         <source>Fixed step</source>
-        <translation>固定</translation>
+        <translation>固定刻み</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="395"/>
         <source>Relative step</source>
-        <translation>変動</translation>
+        <translation>相対刻み</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="224"/>
@@ -14442,7 +14443,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="193"/>
         <source>Border line around canvas</source>
         <oldsource>Border line around picture</oldsource>
-        <translation>キャンバスを囲むボーダーライン</translation>
+        <translation>キャンバスの周囲に枠線</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="301"/>
@@ -14471,7 +14472,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="726"/>
         <source>Auto play (video)</source>
-        <translation>自動再生(Video)</translation>
+        <translation>自動再生（動画）</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="528"/>
@@ -14483,39 +14484,39 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="848"/>
         <source>Draw multi-resolution icons as Snapshots</source>
         <oldsource>Display multi-resolution icons as snapshots</oldsource>
-        <translation>複数解像度のアイコンをスナップショットとして描画</translation>
+        <translation>複数解像度アイコンをスナップショットとして描画</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="670"/>
         <source>Misc.</source>
-        <translation>その他.</translation>
+        <translation>その他</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="91"/>
         <source>Reset &apos;Auto zoom&apos; setting with next/previous file</source>
         <oldsource>Reset &apos;Auto Image size&apos; setting with next/previous file</oldsource>
-        <translation>前の/次のファイルでは自動画像サイズ設定をリセット</translation>
+        <translation>次／前のファイルに移動したときに「自動ズーム」をリセット</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="264"/>
         <source>Use sharpen</source>
-        <translation>シャープ化を使用</translation>
+        <translation>シャープを使用</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="493"/>
         <source>Scale on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
         <oldsource>Zoom on HiDPI screen: 1 image pixel equals 1 screen pixel</oldsource>
-        <translation>HiDPIスクリーンでのスケール：1画像ピクセルは画面上での1ピクセルに等しい</translation>
+        <translation>HiDPI画面でのスケール: 1画像ピクセル＝1画面ピクセル</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="549"/>
         <source>Filter</source>
-        <translation>検索</translation>
+        <translation>フィルター</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="561"/>
         <source>Like Browser</source>
-        <translation>ブラウザのように</translation>
+        <translation>ブラウザ風に</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="568"/>
@@ -14535,23 +14536,23 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="613"/>
         <source>Text</source>
-        <translation>文章</translation>
+        <translation>テキスト</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="627"/>
         <source>Exclude</source>
-        <translation>含まない</translation>
+        <translation>除外</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="634"/>
         <source>Include</source>
-        <translation>含む</translation>
+        <translation>含める</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="641"/>
         <source>(From Settings › File list › Custom Filter)</source>
         <oldsource>(From Settings&gt;File list&gt;Custom Filter)</oldsource>
-        <translation>（設定から › ファイルリスト › カスタム検索）</translation>
+        <translation>（設定 › ファイルリスト › カスタムフィルターより）</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="678"/>
@@ -14571,12 +14572,12 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="500"/>
         <source>Show highlight selection</source>
-        <translation>ハイライト選択を表示</translation>
+        <translation>選択をハイライト表示</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="322"/>
         <source>1.00  Square</source>
-        <translation>1.00 平方</translation>
+        <translation>1.00 正方形</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="352"/>
@@ -14608,17 +14609,17 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="514"/>
         <source>Show Rating &amp;&amp; Color labels</source>
         <oldsource>Show Rating &amp;&amp; Label color</oldsource>
-        <translation>レーティング ＆ カラーラベルを表示</translation>
+        <translation>レーティングとカラーラベルを表示</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="696"/>
         <source>Golden ratio (Phi)</source>
-        <translation>黄金比</translation>
+        <translation>黄金比（Φ）</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="719"/>
         <source>Loop on the file list</source>
-        <translation>ファイルリストをループする</translation>
+        <translation>ファイルリストをループ</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="733"/>
@@ -14628,7 +14629,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="740"/>
         <source>Two-pass rendering at loading</source>
-        <translation>読み込みに２パスレンダリング</translation>
+        <translation>読み込み時に二段階レンダリング</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="747"/>
@@ -14638,7 +14639,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="753"/>
         <source>Read one image ahead</source>
-        <translation>１つの画像を先読み</translation>
+        <translation>1画像先読み</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="760"/>
@@ -14653,7 +14654,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="776"/>
         <source>Delay (ms)</source>
-        <translation>ディレイ(ms)</translation>
+        <translation>遅延(ms)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="793"/>
@@ -14693,17 +14694,17 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="1133"/>
         <source>Show playbar</source>
-        <translation>プレイバーを表示する</translation>
+        <translation>再生バーを表示</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1140"/>
         <source>Show info</source>
-        <translation>情報を表示する</translation>
+        <translation>情報を表示</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1154"/>
         <source>Show toolbar</source>
-        <translation>ツールバーを表示する</translation>
+        <translation>ツールバーを表示</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1161"/>
@@ -14713,7 +14714,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="1195"/>
         <source>Dual monitor: Use second monitor</source>
-        <translation>デュアルモニター:セカンドモニターを使用する</translation>
+        <translation>デュアルモニター:セカンドモニターを使用</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1208"/>
@@ -14723,7 +14724,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="1233"/>
         <source>(appear when the mouse is moved to the top or right of the screen)</source>
-        <translation>（マウスが画面の上または右に移動した時に表示）</translation>
+        <translation>（マウスを画面の上端または右端に移動したときに表示）</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1050"/>
@@ -14743,7 +14744,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="1088"/>
         <source>Always show in fullscreen</source>
-        <translation>常にフルスクリーンで表示</translation>
+        <translation>フルスクリーン時に常に表示</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1070"/>
@@ -14763,7 +14764,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="841"/>
         <source>Disable GIF/JIF/APNG/ANI animation</source>
-        <translation>GIF/JIF/APNG/ANI アニメーションを不可にする</translation>
+        <translation>GIF/JIF/APNG/ANI アニメーションを無効化</translation>
     </message>
 </context>
 <context>
@@ -15351,7 +15352,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgStartupWizard.ui" line="102"/>
         <source>Portable (application folder)</source>
-        <translation>ポータブル（アプリケーションフォルダ）</translation>
+        <translation>ポータブル（アプリのフォルダー）</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="134"/>
@@ -15387,7 +15388,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgStartupWizard.ui" line="157"/>
         <source>Register application</source>
-        <translation>アプリケーションを登録</translation>
+        <translation>アプリを登録</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="164"/>
@@ -15646,7 +15647,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgTimestamp.ui" line="14"/>
         <source>Change timestamp</source>
-        <translation>タイムスタンプの変更</translation>
+        <translation>タイムスタンプ変更</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="22"/>
@@ -15656,12 +15657,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgTimestamp.ui" line="28"/>
         <source>Current date &amp;&amp; time</source>
-        <translation>現在の日付と時刻</translation>
+        <translation>現在の日時</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="38"/>
         <source>Specific date &amp;&amp; time</source>
-        <translation>指定した日付と時刻</translation>
+        <translation>指定した日時</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="135"/>
@@ -15684,7 +15685,7 @@ Do you want to continue?</source>
         <location filename="DlgTimestamp.ui" line="262"/>
         <source>Increment at each image by</source>
         <oldsource>Increment at each images by</oldsource>
-        <translation>各画像をインクリメントする</translation>
+        <translation>各画像ごとに増加</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="276"/>
@@ -15694,42 +15695,42 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgTimestamp.ui" line="428"/>
         <source>Force the update in case of anomaly</source>
-        <translation>異常な場合、強制アップデートする</translation>
+        <translation>異常時に更新を強制</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="403"/>
         <source>Create EXIF metadata if needed</source>
-        <translation>必要があればEXIFメタデータを作成</translation>
+        <translation>必要に応じてEXIFメタデータを作成</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="437"/>
         <source>Change</source>
-        <translation>変換</translation>
+        <translation>変更</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="446"/>
         <source>File: Created date</source>
-        <translation>ファイル: 作成された日付</translation>
+        <translation>ファイル:作成日時</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="459"/>
         <source>File: Modified date</source>
-        <translation>ファイル: 更新日付</translation>
+        <translation>ファイル:更新日時</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="472"/>
         <source>EXIF: Date taken</source>
-        <translation>EXIF: 撮影日時</translation>
+        <translation>EXIF:撮影日時</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="498"/>
         <source>EXIF: Date digitized</source>
-        <translation>EXIF: デジタル化日時</translation>
+        <translation>EXIF:デジタル化日時</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="511"/>
         <source>EXIF: Date modified</source>
-        <translation>EXIF: 更新日時</translation>
+        <translation>EXIF:更新日時</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="548"/>
@@ -15835,7 +15836,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgUpdate.ui" line="20"/>
         <source>A new version is available</source>
-        <translation>新しいバージョンが利用できます</translation>
+        <translation>新しいバージョンが利用可能です</translation>
     </message>
     <message>
         <location filename="DlgUpdate.ui" line="39"/>
@@ -15885,12 +15886,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgUpload.cpp" line="189"/>
         <source>Unable to load image file...</source>
-        <translation>読み込めない画像ファイル...</translation>
+        <translation>画像ファイルを読み込めません…</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="213"/>
         <source>Unable to upload image file...</source>
-        <translation>アップロードできない画像ファイル...</translation>
+        <translation>画像ファイルをアップロードできません…</translation>
     </message>
 </context>
 <context>
@@ -16435,7 +16436,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteJpegXR.ui" line="126"/>
         <source>Overlapped block filtering</source>
-        <translation>オーバーラップドブロックフィルタリング</translation>
+        <translation>重なりブロックフィルタリング</translation>
     </message>
     <message>
         <location filename="DlgWriteJpegXR.ui" line="134"/>
@@ -16723,7 +16724,7 @@ Do you want to continue?</source>
     <message>
         <location filename="EditXMPWidget.ui" line="295"/>
         <source>Apply parent categories</source>
-        <translation>親カテゴリーを反映</translation>
+        <translation>親カテゴリーを適用</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="303"/>
@@ -17259,7 +17260,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPropertiesView.cpp" line="137"/>
         <source>Origin</source>
         <translatorcomment>TXT_String_Infos_Origin</translatorcomment>
-        <translation>起源</translation>
+        <translation>起点</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="140"/>
@@ -18619,7 +18620,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2717"/>
         <source>SubSecTime Original</source>
-        <translation>サブセックタイム（オリジナル）</translation>
+        <translation>撮影日時（サブ秒）</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2718"/>
@@ -19614,7 +19615,7 @@ Do you want to continue?</source>
     <message>
         <location filename="ItemProcess.cpp" line="460"/>
         <source>This file uses a nonwritable format, so it&apos;s not possible to rotate it.</source>
-        <translation>このファイルは書き込めない形式なので、回転させることができません。</translation>
+        <translation>このファイルは書き込み不可の形式のため、回転できません。</translation>
     </message>
     <message>
         <location filename="ItemProcess.cpp" line="474"/>
@@ -20268,7 +20269,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="682"/>
         <source>Acquire (TWAIN)</source>
-        <translation>取得（TWAIN）</translation>
+        <translation>取り込み（TWAIN）</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="481"/>
@@ -20596,7 +20597,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="681"/>
         <source>Select TWAIN source...</source>
-        <translation>TWAINを選択...</translation>
+        <translation>TWAINソースを選択...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="823"/>
@@ -20626,7 +20627,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="683"/>
         <source>Acquire into (TWAIN)...</source>
-        <translation>～に取得 (TWAIN)...</translation>
+        <translation>取り込み先を指定（TWAIN）…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="828"/>
@@ -21541,7 +21542,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="TemplateData.cpp" line="2821"/>
         <source>Date format variables</source>
-        <translation>日付書式の変数記号</translation>
+        <translation>日付書式の変数</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2580"/>
@@ -22672,13 +22673,13 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="543"/>
         <source>Acquire (TWAIN)</source>
-        <translation>取得（TWAIN）</translation>
+        <translation>取り込み（TWAIN）</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="544"/>
         <source>Acquire into (TWAIN)...</source>
         <oldsource>Acquire into (TWAIN)......</oldsource>
-        <translation>～に取得 (TWAIN)...</translation>
+        <translation>取り込み先を指定（TWAIN）…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="547"/>
@@ -22751,7 +22752,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="542"/>
         <source>Select TWAIN source...</source>
-        <translation>TWAINを選択...</translation>
+        <translation>TWAINソースを選択...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="546"/>
@@ -24978,7 +24979,7 @@ Do you want to keep the thumbnails?
         <location filename="xnview.cpp" line="880"/>
         <source>Application is up to date.</source>
         <oldsource>XnView MP is currently up to date.</oldsource>
-        <translation>アプリケーションは最新版を使用しています。</translation>
+        <translation>アプリは最新です</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1605"/>
@@ -25024,7 +25025,7 @@ Please contact the developer.</source>
         <location filename="xnview.cpp" line="1606"/>
         <source>Saving many tabs may noticeably slow application reopening.</source>
         <oldsource>Saving many tabs may noticeably slow reopening XnView MP</oldsource>
-        <translation>多くのタブを保存すると、アプリケーションの再開が著しく遅くなることがあります。</translation>
+        <translation>多くのタブを保存すると、アプリの再起動が遅くなる場合があります。</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1612"/>
