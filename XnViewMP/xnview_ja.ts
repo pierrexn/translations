@@ -792,7 +792,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="662"/>
         <source>Browser</source>
-        <translation>ブラウザ</translation>
+        <translation>ブラウザー</translation>
     </message>
 </context>
 <context>
@@ -926,7 +926,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="CategoryView.cpp" line="771"/>
         <location filename="CategoryView.cpp" line="836"/>
         <source>Delete category</source>
-        <translation>カテゴリーの削除</translation>
+        <translation>カテゴリーを削除</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="464"/>
@@ -2142,7 +2142,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DBFilterModel.cpp" line="193"/>
         <location filename="DBFilterModel.cpp" line="1687"/>
         <source>Date</source>
-        <translation>日付</translation>
+        <translation>日時</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="174"/>
@@ -2246,7 +2246,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgAcquireInto.ui" line="44"/>
         <source>Use subfolder based on current date</source>
-        <translation>現日付に基づくサブフォルダーを使用する</translation>
+        <translation>現在の日付でサブフォルダーを作成</translation>
     </message>
     <message>
         <location filename="DlgAcquireInto.ui" line="67"/>
@@ -2842,7 +2842,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgBatchResize.ui" line="1133"/>
         <source>Keep original date/time attributes</source>
-        <translation>元の日付/時刻属性を保持する</translation>
+        <translation>元の日時属性を保持</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1140"/>
@@ -2882,7 +2882,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgBatchResize.ui" line="1280"/>
         <source>Check for program updates</source>
-        <translation>プログラムのアップデートをチェック</translation>
+        <translation>プログラムの更新を確認</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1288"/>
@@ -4325,7 +4325,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="115"/>
         <source>Horizontal</source>
-        <translation>水平方向</translation>
+        <translation>横方向</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="161"/>
@@ -4335,7 +4335,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="174"/>
         <source>Vertical</source>
-        <translation>垂直方向</translation>
+        <translation>縦方向</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="194"/>
@@ -4998,7 +4998,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert.ui" line="1094"/>
         <location filename="DlgConvert-old.ui" line="1540"/>
         <source>Keep original date/time attributes</source>
-        <translation>元の日付/時刻属性を保持する</translation>
+        <translation>元の日時属性を保持</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1101"/>
@@ -5089,7 +5089,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="1235"/>
         <source>Open in Browser</source>
-        <translation>ブラウザで開く</translation>
+        <translation>ブラウザーで開く</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1256"/>
@@ -5361,7 +5361,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="1617"/>
         <source>Check for program updates</source>
-        <translation>プログラムのアップデートをチェック</translation>
+        <translation>プログラムの更新を確認</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1625"/>
@@ -6095,12 +6095,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertMirror.ui" line="17"/>
         <source>Vertical</source>
-        <translation>垂直</translation>
+        <translation>縦方向</translation>
     </message>
     <message>
         <location filename="DlgConvertMirror.ui" line="24"/>
         <source>Horizontal</source>
-        <translation>水平</translation>
+        <translation>横方向</translation>
     </message>
 </context>
 <context>
@@ -6695,17 +6695,17 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertSymetry.ui" line="75"/>
         <source>Horizontal</source>
-        <translation>水平方向</translation>
+        <translation>横方向</translation>
     </message>
     <message>
         <location filename="DlgConvertSymetry.ui" line="80"/>
         <source>Vertical</source>
-        <translation>垂直方向</translation>
+        <translation>縦方向</translation>
     </message>
     <message>
         <location filename="DlgConvertSymetry.ui" line="85"/>
         <source>Vertical and Horizontal</source>
-        <translation>垂直方向と水平方向</translation>
+        <translation>縦方向と横方向</translation>
     </message>
     <message>
         <location filename="DlgConvertSymetry.ui" line="90"/>
@@ -7223,7 +7223,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgCreateMulti.ui" line="246"/>
         <source>Open Browser</source>
-        <translation>ブラウザで開く</translation>
+        <translation>ブラウザーを開く</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.ui" line="251"/>
@@ -8913,7 +8913,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgGrid.ui" line="82"/>
         <source>Horizontal</source>
-        <translation>水平方向</translation>
+        <translation>横方向</translation>
     </message>
     <message>
         <location filename="DlgGrid.ui" line="14"/>
@@ -8949,7 +8949,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgGrid.ui" line="178"/>
         <source>Vertical</source>
-        <translation>垂直方向</translation>
+        <translation>縦方向</translation>
     </message>
     <message>
         <location filename="DlgGrid.ui" line="278"/>
@@ -9523,7 +9523,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgIptc.ui" line="408"/>
         <source>Date/Time</source>
-        <translation>日付/時刻</translation>
+        <translation>日時</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="414"/>
@@ -9700,7 +9700,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgKeywordTree.ui" line="14"/>
         <source>Select new parent</source>
-        <translation>親カテゴリーの選択</translation>
+        <translation>親カテゴリーを選択</translation>
     </message>
 </context>
 <context>
@@ -10068,7 +10068,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPrint.ui" line="284"/>
         <source>Vertical spacing</source>
-        <translation>垂直方向の間隔</translation>
+        <translation>縦方向の間隔</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="305"/>
@@ -10078,7 +10078,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPrint.ui" line="312"/>
         <source>Horizontal spacing</source>
-        <translation>水平方向の間隔</translation>
+        <translation>横方向の間隔</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="319"/>
@@ -10369,7 +10369,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPrint.cpp" line="1631"/>
         <source>Current date</source>
-        <translation>日付</translation>
+        <translation>現在の日付</translation>
     </message>
 </context>
 <context>
@@ -11028,7 +11028,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgRenameFile.ui" line="99"/>
         <source>Insert Date/Time&gt;&gt;</source>
-        <translation>日付/時刻を挿入&gt;&gt;</translation>
+        <translation>日時を挿入 &gt;&gt;</translation>
     </message>
 </context>
 <context>
@@ -11591,7 +11591,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.h" line="15"/>
         <source>Browser</source>
-        <translation>ブラウザ</translation>
+        <translation>ブラウザー</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.h" line="16"/>
@@ -11697,7 +11697,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="36"/>
         <source>Browser</source>
-        <translation>ブラウザ</translation>
+        <translation>ブラウザー</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="145"/>
@@ -12061,7 +12061,7 @@ Do you want to remove entries assigned to a category?</oldsource>
 情報が埋め込みメタデータまたはサイドカーメタデータに
 書き出されている場合は、後で再インポートできます。
 
-カテゴリに割り当てられた項目を削除しますか？</translation>
+カテゴリーに割り当てられた項目を削除しますか？</translation>
     </message>
 </context>
 <context>
@@ -12674,7 +12674,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="397"/>
         <source>Browser</source>
-        <translation>ブラウザ</translation>
+        <translation>ブラウザー</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="274"/>
@@ -12710,12 +12710,12 @@ Thumbnail</source>
         <location filename="DlgSettingsGeneral.ui" line="392"/>
         <source>Viewer - Fullscreen</source>
         <oldsource>Fullscreen - Viewer</oldsource>
-        <translation>フルスクリーン - ビューア</translation>
+        <translation>ビューアー - フルスクリーン</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="298"/>
         <source>Check for program updates</source>
-        <translation>プログラムのアップデートをチェック</translation>
+        <translation>プログラムの更新を確認</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="84"/>
@@ -12781,12 +12781,12 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="387"/>
         <source>Viewer</source>
-        <translation>ビューア</translation>
+        <translation>ビューアー</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="402"/>
         <source>Browser - Fullscreen</source>
-        <translation>ブラウザ - フルスクリーン</translation>
+        <translation>ブラウザー - フルスクリーン</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="428"/>
@@ -12796,7 +12796,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="434"/>
         <source>Open browser</source>
-        <translation>ブラウザで開く</translation>
+        <translation>ブラウザーを開く</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="443"/>
@@ -12936,7 +12936,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="778"/>
         <source>Keep original date/time</source>
-        <translation>元の日付/時刻を保つ</translation>
+        <translation>元の日時を保持</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="784"/>
@@ -13064,7 +13064,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="683"/>
         <source>XnViewMP is a fast multi-format graphics browser, viewer, and converter. It reads more than 400 file formats.</source>
-        <translation>XnViewMPは高速でマルチフォーマット対応の画像ブラウザ・ビューア・コンバーターです。400種類以上のファイルを読み込めます。</translation>
+        <translation>XnViewMPは、高速で多機能な画像ブラウザー／ビューアー／コンバーターです。400以上のファイル形式に対応しています。</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="684"/>
@@ -13227,7 +13227,7 @@ Thumbnail</source>
         <location filename="DlgSettingsInterface.cpp" line="499"/>
         <source>Viewer mode</source>
         <oldsource>View mode</oldsource>
-        <translation>表示モード</translation>
+        <translation>ビューアーモード</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="856"/>
@@ -13293,7 +13293,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="42"/>
         <source>Allow multiple Viewer tabs for same file</source>
         <oldsource>Multiple view for same file</oldsource>
-        <translation>同じファイルに対して複数のビューアタブを許可する</translation>
+        <translation>同じファイルの複数ビューアータブを許可する</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="118"/>
@@ -13360,7 +13360,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="1522"/>
         <source>Browser</source>
         <oldsource>Browse mode</oldsource>
-        <translation>ブラウザ</translation>
+        <translation>ブラウザー</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="645"/>
@@ -13404,7 +13404,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2210"/>
         <source>Horizontal scroll</source>
         <oldsource>Scroll left/right</oldsource>
-        <translation>スクロール 左/右</translation>
+        <translation>横スクロール</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1416"/>
@@ -13528,7 +13528,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="1155"/>
         <location filename="DlgSettingsInterface.ui" line="1529"/>
         <source>Viewer</source>
-        <translation>ビューア</translation>
+        <translation>ビューアー</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="164"/>
@@ -13620,12 +13620,12 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="943"/>
         <source>Browser - Filelist</source>
         <oldsource>Browser - Thumbnail</oldsource>
-        <translation>ブラウザ - ファイルリスト</translation>
+        <translation>ブラウザー - ファイルリスト</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="948"/>
         <source>Browser - Preview</source>
-        <translation>ブラウザ - プレビュー</translation>
+        <translation>ブラウザー - プレビュー</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1216"/>
@@ -13744,7 +13744,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2386"/>
         <source>Browser ↔ Fullscreen | Viewer ↔ Fullscreen</source>
         <oldsource>Browser &lt;&gt; Fullscreen | Viewer &lt;&gt; Fullscreen</oldsource>
-        <translation>ブラウザ ↔ フルスクリーン | ビューア ↔ フルスクリーン</translation>
+        <translation>ブラウザー ↔ フルスクリーン | ビューアー ↔ フルスクリーン</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2279"/>
@@ -13757,7 +13757,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2391"/>
         <source>Browser ↔ Viewer</source>
         <oldsource>Browser &lt;&gt; Viewer</oldsource>
-        <translation>ブラウザ ↔ ビューア</translation>
+        <translation>ブラウザー ↔ ビューアー</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2311"/>
@@ -13765,7 +13765,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2396"/>
         <source>Browser → Fullscreen → Viewer</source>
         <oldsource>Browser &gt; Fullscreen &gt; Viewer</oldsource>
-        <translation>ブラウザ → フルスクリーン → ビューア</translation>
+        <translation>ブラウザー → フルスクリーン → ビューアー</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2316"/>
@@ -13773,7 +13773,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2401"/>
         <source>Browser → Viewer → Fullscreen</source>
         <oldsource>Browser &gt; Viewer &gt; Fullscreen</oldsource>
-        <translation>ブラウザ → ビューア → フルスクリーン</translation>
+        <translation>ブラウザー → ビューアー → フルスクリーン</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="221"/>
@@ -13785,13 +13785,13 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="49"/>
         <source>Select file in Browser when Viewer tab is closed</source>
         <oldsource>Synchronize browser when view is closed</oldsource>
-        <translation>ビューアタブを閉じたときにブラウザでファイルを選択する</translation>
+        <translation>ビューアータブを閉じたとき、ブラウザーでファイルを選択する</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="56"/>
         <source>Drag&amp;&amp;Drop: Open single Viewer tab for filelist</source>
         <oldsource>Drag&amp;&amp;Drop: Open one view for filelist</oldsource>
-        <translation>ドラッグ＆ドロップ：ファイルリストに対してビューアタブをひとつ開く</translation>
+        <translation>ドラッグ＆ドロップ:ファイルリストを単一のビューアータブで開く</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="87"/>
@@ -13923,7 +13923,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="194"/>
         <source>Update when file is changed outside (date/size)</source>
-        <translation>ファイルが外部で変更された時更新する（日付/サイズ）</translation>
+        <translation>外部でファイルが変更された場合に更新（日時／サイズ）</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="299"/>
@@ -14387,7 +14387,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsThumbnail.ui" line="928"/>
         <source>Browser › View › View as › Thumbnails + Labels</source>
         <oldsource>Browser - Thumbnail</oldsource>
-        <translation>ブラウザ › 表示 › 表示形式 › サムネイル+ラベル</translation>
+        <translation>ブラウザー › 表示 › 表示形式 › サムネイル+ラベル</translation>
     </message>
 </context>
 <context>
@@ -14684,7 +14684,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="1077"/>
         <source>Stretch horizontally</source>
-        <translation>水平方向に引き伸ばす</translation>
+        <translation>横方向に引き伸ばす</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1096"/>
@@ -15398,7 +15398,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgStartupWizard.ui" line="183"/>
         <source>Check for program updates</source>
-        <translation>プログラムのアップデートをチェック</translation>
+        <translation>プログラムの更新を確認</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="194"/>
@@ -15442,12 +15442,12 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgStrip.ui" line="59"/>
         <source>Vertical</source>
-        <translation>垂直</translation>
+        <translation>縦方向</translation>
     </message>
     <message>
         <location filename="DlgStrip.ui" line="66"/>
         <source>Horizontal</source>
-        <translation>水平</translation>
+        <translation>横方向</translation>
     </message>
     <message>
         <location filename="DlgStrip.ui" line="75"/>
@@ -15597,12 +15597,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgTimestamp.cpp" line="146"/>
         <source>File created date</source>
-        <translation>ファイルを作成した日付</translation>
+        <translation>ファイル作成日付</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.cpp" line="146"/>
         <source>File modified date</source>
-        <translation>ファイルを更新した日付</translation>
+        <translation>ファイル更新日付</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.cpp" line="147"/>
@@ -17420,7 +17420,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="703"/>
         <source>Recorded date</source>
-        <translation>録音日</translation>
+        <translation>記録日</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="254"/>
@@ -17797,7 +17797,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2809"/>
         <source>Current date</source>
         <translatorcomment>TXT_TemplateMenu_Current_Date</translatorcomment>
-        <translation>現在日付</translation>
+        <translation>現在の日付</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2812"/>
@@ -17851,7 +17851,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoCategoryView.cpp" line="1390"/>
         <location filename="InfoCategoryView.cpp" line="1449"/>
         <source>Delete category</source>
-        <translation>カテゴリーの削除</translation>
+        <translation>カテゴリーを削除</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="1390"/>
@@ -17901,7 +17901,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoCategoryView.cpp" line="124"/>
         <source>Assign Category</source>
-        <translation>カテゴリーの割り当て</translation>
+        <translation>カテゴリーを割り当て</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="129"/>
@@ -17921,7 +17921,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoCategoryView.cpp" line="140"/>
         <source>Import Categories...</source>
-        <translation>カテゴリーのインポート…</translation>
+        <translation>カテゴリーをインポート…</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="142"/>
@@ -17931,7 +17931,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoCategoryView.cpp" line="144"/>
         <source>Export Categories...</source>
-        <translation>カテゴリーのエクスポート…</translation>
+        <translation>カテゴリーをエクスポート…</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="147"/>
@@ -17956,7 +17956,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoCategoryView.cpp" line="658"/>
         <source>Category tree successfully imported into XnView categories</source>
-        <translation>カテゴリツリーを XnView のカテゴリにインポートしました</translation>
+        <translation>カテゴリーツリーをXnViewのカテゴリーに正常にインポートしました</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="668"/>
@@ -17976,7 +17976,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoCategoryView.cpp" line="709"/>
         <source>Delete unused categories</source>
-        <translation>使用していないカテゴリーの削除</translation>
+        <translation>使用していないカテゴリーを削除</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="709"/>
@@ -18707,7 +18707,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="117"/>
         <source>Keywords &amp; Categories</source>
         <translatorcomment>TXT_TemplateMenu_IPTC_Keywords_categories</translatorcomment>
-        <translation>キーワード &amp; カテゴリー</translation>
+        <translation>キーワードとカテゴリー</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="125"/>
@@ -19396,7 +19396,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPropertiesView.cpp" line="598"/>
         <source>Modified date/time</source>
         <oldsource>Changed date/time</oldsource>
-        <translation>変更日時</translation>
+        <translation>更新日時</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="599"/>
@@ -20185,7 +20185,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="80"/>
         <source>Sounds</source>
-        <translation>音楽</translation>
+        <translation>音声</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="81"/>
@@ -20207,7 +20207,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="460"/>
         <source>Navigate to</source>
-        <translation>ナビゲート先</translation>
+        <translation>移動先</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="477"/>
@@ -20259,7 +20259,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="670"/>
         <source>Switch panel</source>
         <oldsource>Switch panel...</oldsource>
-        <translation>スイッチパネル</translation>
+        <translation>パネル切り替え</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="678"/>
@@ -20376,7 +20376,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="45"/>
         <source>Modified Date</source>
-        <translation>更新日付</translation>
+        <translation>更新日時</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="84"/>
@@ -20477,12 +20477,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="581"/>
         <source>Flip horizontally (lossless)</source>
-        <translation>水平方向に反転（ロスレス）</translation>
+        <translation>左右反転（ロスレス）</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="582"/>
         <source>Flip vertically (lossless)</source>
-        <translation>垂直方向に反転（ロスレス）</translation>
+        <translation>上下反転（ロスレス）</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="601"/>
@@ -20571,7 +20571,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="671"/>
         <source>Path focus</source>
         <oldsource>Path focus...</oldsource>
-        <translation>ピントのパス</translation>
+        <translation>パスフォーカス</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="672"/>
@@ -20807,7 +20807,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="46"/>
         <source>Created Date</source>
-        <translation>作成日付</translation>
+        <translation>作成日時</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="472"/>
@@ -21044,12 +21044,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="518"/>
         <source>Remove from category</source>
-        <translation>カテゴリーから除去</translation>
+        <translation>カテゴリーから削除</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="519"/>
         <source>Remove from all categories</source>
-        <translation>すべてのカテゴリーから除去</translation>
+        <translation>すべてのカテゴリーから削除</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="520"/>
@@ -21065,43 +21065,43 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="523"/>
         <source>View as Thumbnails</source>
         <oldsource>Views as Thumbnails</oldsource>
-        <translation>サムネイルを表示</translation>
+        <translation>サムネイル表示</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="524"/>
         <source>View as Thumbnails+Filename</source>
         <oldsource>Views as Thumbnails+Filename</oldsource>
-        <translation>サムネイル+ファイル名を表示</translation>
+        <translation>サムネイル+ファイル名表示</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="525"/>
         <source>View as Thumbnails+Labels</source>
         <oldsource>Views as Thumbnails+Labels</oldsource>
-        <translation>サムネイル+ラベルを表示</translation>
+        <translation>サムネイル+ラベル表示</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="526"/>
         <source>View as Thumbnails+Details</source>
         <oldsource>Views as Thumbnails+Details</oldsource>
-        <translation>サムネイル+詳細を表示</translation>
+        <translation>サムネイル+詳細表示</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="527"/>
         <source>View as Icons</source>
         <oldsource>Views as Icons</oldsource>
-        <translation>アイコンを表示</translation>
+        <translation>アイコン表示</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="528"/>
         <source>View as List</source>
         <oldsource>Views as List</oldsource>
-        <translation>リストを表示</translation>
+        <translation>リスト表示</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="529"/>
         <source>View as Details</source>
         <oldsource>Views as Details</oldsource>
-        <translation>詳細を表示</translation>
+        <translation>詳細表示</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="531"/>
@@ -21116,7 +21116,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="540"/>
         <source>Show title of panels</source>
-        <translation>パネルのタイトルを表示</translation>
+        <translation>パネルタイトルを表示</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="542"/>
@@ -21167,7 +21167,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="562"/>
         <source>Vertical tabs</source>
-        <translation>垂直タブ</translation>
+        <translation>縦タブ</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="567"/>
@@ -21183,7 +21183,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="585"/>
         <source>Load...</source>
-        <translation>読み込む...</translation>
+        <translation>読み込み...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="586"/>
@@ -21228,23 +21228,23 @@ Do you want to continue?</oldsource>
         <source>Edit comment...</source>
         <oldsource>Set comment...</oldsource>
         <translatorcomment>TXT_String_Set_Comment</translatorcomment>
-        <translation>コメントを編集...</translation>
+        <translation>コメント編集...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="600"/>
         <source>Change timestamp...</source>
         <translatorcomment>TXT_String_Change_Timestamp</translatorcomment>
-        <translation>タイムスタンプの変更...</translation>
+        <translation>タイムスタンプ変更...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="603"/>
         <source>Edit GPS...</source>
-        <translation>GPSの編集...</translation>
+        <translation>GPS編集...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="604"/>
         <source>Edit EXIF...</source>
-        <translation>EXIFを編集...</translation>
+        <translation>EXIF編集...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="605"/>
@@ -21255,7 +21255,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="606"/>
         <source>Clean...</source>
-        <translation>消去...</translation>
+        <translation>クリーンアップ...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="607"/>
@@ -21305,7 +21305,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="616"/>
         <source>Upload on web...</source>
-        <translation>ウェブでアップロード...</translation>
+        <translation>ウェブにアップロード...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="618"/>
@@ -21421,7 +21421,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="668"/>
         <source>Quick Filter</source>
-        <translation>クイック検索</translation>
+        <translation>クイックフィルター</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4458"/>
@@ -21438,7 +21438,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="DlgSettingsView.cpp" line="27"/>
         <source>Fit window to image</source>
-        <translation>画像にウインドウを合わせる</translation>
+        <translation>ウインドウを画像に合わせる</translation>
     </message>
 </context>
 <context>
@@ -21643,7 +21643,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="TemplateData.cpp" line="2846"/>
         <source>IPTC - Keywords&amp;&amp;Categories</source>
-        <translation>IPTC - キーワード＆カテゴリー</translation>
+        <translation>IPTC - キーワードとカテゴリー</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2850"/>
@@ -22515,12 +22515,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="492"/>
         <source>Remove horizontal strip</source>
-        <translation>水平方向のストリップを除去</translation>
+        <translation>横方向の帯を削除</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="493"/>
         <source>Remove vertical strip</source>
-        <translation>垂直方向のストリップを除去</translation>
+        <translation>縦方向の帯を削除</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="498"/>
@@ -22653,12 +22653,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="533"/>
         <source>Flip horizontally (lossless)</source>
-        <translation>水平方向に反転（ロスレス）</translation>
+        <translation>左右反転（ロスレス）</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="534"/>
         <source>Flip vertically (lossless)</source>
-        <translation>垂直方向に反転（ロスレス）</translation>
+        <translation>上下反転（ロスレス）</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="535"/>
@@ -22716,12 +22716,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="499"/>
         <source>Flip horizontally</source>
-        <translation>水平方向に反転</translation>
+        <translation>左右反転</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="500"/>
         <source>Flip vertically</source>
-        <translation>垂直方向に反転</translation>
+        <translation>上下反転</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="531"/>
@@ -24703,12 +24703,12 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="ViewCropAction.cpp" line="213"/>
         <source>Selection horizontal position</source>
-        <translation>選択範囲の水平位置</translation>
+        <translation>選択範囲の横位置</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="216"/>
         <source>Selection vertical position</source>
-        <translation>選択範囲の垂直位置</translation>
+        <translation>選択範囲の縦位置</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="228"/>
@@ -24973,7 +24973,7 @@ Do you want to keep the thumbnails?
     <message>
         <location filename="xnview.cpp" line="485"/>
         <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
-        <translation>「カタログフィルター」で新しいノードを使用するには、カタログを更新する必要があります（設定&gt;カタログ&gt;メタデータを更新）。 </translation>
+        <translation>「カタログフィルター」で新しいノードを使用するには、（設定&gt;カタログ&gt;メタデータを更新）でカタログを更新する必要があります。 </translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="880"/>
@@ -25005,9 +25005,9 @@ will not be saved to the database.</source>
         <source>There is a problem to update Catalog:
 (Error: % 1)
 Please contact the developer.</source>
-        <translation>カタログの更新に問題があります：
+        <translation>カタログの更新中に問題が発生しました:
 (エラー: %1)
-開発者に連絡してください。</translation>
+開発者にお問い合わせください。</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="951"/>
