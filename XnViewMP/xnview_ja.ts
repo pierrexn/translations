@@ -1274,7 +1274,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgConvertProcess.h" line="617"/>
         <source>Automatic deskew</source>
-        <translation>自動デスキュー</translation>
+        <translation>自動傾き補正</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="638"/>
@@ -2069,7 +2069,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="MyDB.cpp" line="883"/>
         <source>Drawings</source>
-        <translation>ドローイング</translation>
+        <translation>素描</translation>
     </message>
     <message>
         <location filename="MyDB.cpp" line="884"/>
@@ -8954,7 +8954,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgGrid.ui" line="278"/>
         <source>Sub-divisions</source>
-        <translation>細分</translation>
+        <translation>細分割数</translation>
     </message>
     <message>
         <location filename="DlgGrid.ui" line="325"/>
@@ -10445,7 +10445,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgProcess.ui" line="174"/>
         <source>Undo</source>
-        <translation>アンドゥ</translation>
+        <translation>元に戻す</translation>
     </message>
 </context>
 <context>
@@ -10668,7 +10668,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgReadRaw.ui" line="174"/>
         <source>Interleaved</source>
-        <translation>インターリーブ</translation>
+        <translation>交互配置</translation>
     </message>
     <message>
         <location filename="DlgReadRaw.ui" line="184"/>
@@ -21905,12 +21905,12 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="318"/>
         <source>Undo</source>
         <translatorcomment>TXT_NviewMenu_Undo</translatorcomment>
-        <translation>アンドゥ</translation>
+        <translation>元に戻す</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="319"/>
         <source>Redo</source>
-        <translation>リドゥ</translation>
+        <translation>再実行</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="320"/>
@@ -22530,7 +22530,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="501"/>
         <source>Automatic Deskew</source>
-        <translation>自動デスキュー</translation>
+        <translation>自動傾き補正</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="502"/>
@@ -23372,7 +23372,7 @@ You can change it in Settings › Catalog.</oldsource>
         <location filename="PaintDialog.cpp" line="64"/>
         <source>Do you want to exit drawing and discard your changes?</source>
         <oldsource>Do you want to close the draw tools?</oldsource>
-        <translation>変更を破棄し描画ツールを閉じてよろしいですか？</translation>
+        <translation>描画を終了して変更を破棄しますか？</translation>
     </message>
     <message>
         <location filename="PaintDialog.cpp" line="64"/>
@@ -23539,12 +23539,12 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="PaintWidget.ui" line="43"/>
         <source>Redo</source>
-        <translation>リドゥ</translation>
+        <translation>再実行</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="411"/>
         <source>Undo</source>
-        <translation>アンドゥ</translation>
+        <translation>元に戻す</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="503"/>
