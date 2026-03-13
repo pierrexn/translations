@@ -4145,6 +4145,10 @@ Deseja continuar?</translation>
         <source>&amp;Options</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Multiple resolution...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgConvertCleanMetaClass</name>
@@ -4649,6 +4653,21 @@ Deseja continuar?</translation>
     <message>
         <source>Horizontal</source>
         <translation>Horizontal</translation>
+    </message>
+</context>
+<context>
+    <name>DlgConvertMulti</name>
+    <message>
+        <source>Multiple output</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Width:</source>
+        <translation type="unfinished">Largura:</translation>
+    </message>
+    <message>
+        <source>Height:</source>
+        <translation type="unfinished">Altura:</translation>
     </message>
 </context>
 <context>

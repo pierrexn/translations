@@ -4145,6 +4145,10 @@ Haluatko korvata sen?</translation>
         <source>&amp;Options</source>
         <translation>&amp;Asetukset</translation>
     </message>
+    <message>
+        <source>Multiple resolution...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgConvertCleanMetaClass</name>
@@ -4649,6 +4653,21 @@ Haluatko korvata sen?</translation>
     <message>
         <source>Vertical</source>
         <translation>Pystysuunnassa</translation>
+    </message>
+</context>
+<context>
+    <name>DlgConvertMulti</name>
+    <message>
+        <source>Multiple output</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Width:</source>
+        <translation type="unfinished">Leveys:</translation>
+    </message>
+    <message>
+        <source>Height:</source>
+        <translation type="unfinished">Korkeus:</translation>
     </message>
 </context>
 <context>

@@ -4,132 +4,132 @@
 <context>
     <name>@default</name>
     <message>
-        <location filename="MyThumbSettings.cpp" line="867"/>
+        <location filename="MyThumbSettings.cpp" line="869"/>
         <source>Uncolored</source>
         <translation>Színtelen</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="873"/>
+        <location filename="MyThumbSettings.cpp" line="875"/>
         <source>Important</source>
         <translation>Fontos</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="873"/>
+        <location filename="MyThumbSettings.cpp" line="875"/>
         <source>Red</source>
         <translation>Vörös</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="873"/>
+        <location filename="MyThumbSettings.cpp" line="875"/>
         <source>Select</source>
         <translation>Kiválaszt</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="874"/>
+        <location filename="MyThumbSettings.cpp" line="876"/>
         <source>Work</source>
         <translation>Munka</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="874"/>
+        <location filename="MyThumbSettings.cpp" line="876"/>
         <source>Yellow</source>
         <translation>Sárga</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="874"/>
+        <location filename="MyThumbSettings.cpp" line="876"/>
         <source>Second</source>
         <translation>Második</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="875"/>
+        <location filename="MyThumbSettings.cpp" line="877"/>
         <source>Personal</source>
         <translation>Személyes</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="875"/>
+        <location filename="MyThumbSettings.cpp" line="877"/>
         <source>Green</source>
         <translation>Zöld</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="875"/>
+        <location filename="MyThumbSettings.cpp" line="877"/>
         <source>Approved</source>
         <translation>Jóváhagyott</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="876"/>
+        <location filename="MyThumbSettings.cpp" line="878"/>
         <source>To do</source>
         <translation>Tennivaló</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="876"/>
+        <location filename="MyThumbSettings.cpp" line="878"/>
         <source>Blue</source>
         <translation>Kék</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="876"/>
+        <location filename="MyThumbSettings.cpp" line="878"/>
         <source>Review</source>
         <translation>Felülvizsgál</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="877"/>
+        <location filename="MyThumbSettings.cpp" line="879"/>
         <source>Later</source>
         <translation>Később</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="877"/>
+        <location filename="MyThumbSettings.cpp" line="879"/>
         <source>Purple</source>
         <translation>Lila</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="877"/>
+        <location filename="MyThumbSettings.cpp" line="879"/>
         <source>To Do</source>
         <translation>Tennivaló</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="878"/>
+        <location filename="MyThumbSettings.cpp" line="880"/>
         <source>Orange</source>
         <translation>Narancs</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="879"/>
+        <location filename="MyThumbSettings.cpp" line="881"/>
         <source>Grey</source>
         <translation>Szürke</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="880"/>
+        <location filename="MyThumbSettings.cpp" line="882"/>
         <source>Black</source>
         <translation>Fekete</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="881"/>
+        <location filename="MyThumbSettings.cpp" line="883"/>
         <source>White</source>
         <translation>Fehér</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="764"/>
+        <location filename="MyThumbSettings.cpp" line="766"/>
         <source>Unrated</source>
         <translation>Nem minősített</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="765"/>
+        <location filename="MyThumbSettings.cpp" line="767"/>
         <source>Poor</source>
         <translation>Rossz</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="766"/>
+        <location filename="MyThumbSettings.cpp" line="768"/>
         <source>Fair</source>
         <translation>Megfelelő</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="767"/>
+        <location filename="MyThumbSettings.cpp" line="769"/>
         <source>Average</source>
         <translation>Átlagos</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="768"/>
+        <location filename="MyThumbSettings.cpp" line="770"/>
         <source>Good</source>
         <translation>Jó</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="769"/>
+        <location filename="MyThumbSettings.cpp" line="771"/>
         <source>Excellent</source>
         <translation>Kiváló</translation>
     </message>
@@ -279,60 +279,60 @@
         <translation>%1/%2 oldal</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2041"/>
+        <location filename="ViewWindow.cpp" line="2042"/>
         <source>Customize toolbar...</source>
         <translation>Eszköztár testreszabása...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2297"/>
-        <location filename="ViewWindow.cpp" line="2303"/>
-        <location filename="ViewWindow.cpp" line="2307"/>
+        <location filename="ViewWindow.cpp" line="2298"/>
+        <location filename="ViewWindow.cpp" line="2304"/>
+        <location filename="ViewWindow.cpp" line="2308"/>
         <source>Delete items</source>
         <translation>Elemek törlése</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2297"/>
+        <location filename="ViewWindow.cpp" line="2298"/>
         <source>Would you like to discard your edits and delete 
 &quot;%1&quot;?</source>
         <translation>Szeretné elvetni a módosításokat és törölni
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2303"/>
+        <location filename="ViewWindow.cpp" line="2304"/>
         <source>Are you sure to delete 
 &quot;%1&quot;?</source>
         <translation>Biztosan törölni szeretné
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2307"/>
+        <location filename="ViewWindow.cpp" line="2308"/>
         <source>Are you sure to delete 
 &quot;%1&quot; (%2 items)?</source>
         <translation>Biztosan törölni szeretné
 &quot;%1&quot; (%2 elem)?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2983"/>
+        <location filename="ViewWindow.cpp" line="2984"/>
         <source>The file &lt;%1&gt; is read-only. Please choose another file name.</source>
         <translation>A fájl írásvédett: &lt;%1&gt;. Kérem, válasszon másik fájlnevet.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2991"/>
+        <location filename="ViewWindow.cpp" line="2992"/>
         <source>Confirm Save</source>
         <translation>Mentés megerősítése</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2992"/>
+        <location filename="ViewWindow.cpp" line="2993"/>
         <source>&lt;%1&gt; already exists!</source>
         <translation>&lt;%1&gt; már létezik!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2992"/>
+        <location filename="ViewWindow.cpp" line="2993"/>
         <source>Do you want to overwrite it?</source>
         <translation>Biztos felül szeretné írni?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4466"/>
+        <location filename="ViewWindow.cpp" line="4467"/>
         <source>Number of unique colors: %1</source>
         <translation>Egyedi színek száma: %1</translation>
     </message>
@@ -378,43 +378,43 @@
         <translation>&lt;Üres&gt;</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2973"/>
-        <location filename="ViewWindow.cpp" line="2983"/>
+        <location filename="ViewWindow.cpp" line="2974"/>
+        <location filename="ViewWindow.cpp" line="2984"/>
         <source>Save</source>
         <translation>Mentés</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2973"/>
+        <location filename="ViewWindow.cpp" line="2974"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
         <translation>A kép 24 bites RGB-be lesz konvertálva (csatornánként 8 bit)</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3016"/>
-        <location filename="ViewWindow.cpp" line="3147"/>
-        <location filename="ViewWindow.cpp" line="3197"/>
+        <location filename="ViewWindow.cpp" line="3017"/>
+        <location filename="ViewWindow.cpp" line="3148"/>
+        <location filename="ViewWindow.cpp" line="3198"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
         <translation>Kép mentése...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3018"/>
-        <location filename="ViewWindow.cpp" line="3199"/>
+        <location filename="ViewWindow.cpp" line="3019"/>
+        <location filename="ViewWindow.cpp" line="3200"/>
         <source>Error</source>
         <translation>Hiba</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3018"/>
-        <location filename="ViewWindow.cpp" line="3199"/>
+        <location filename="ViewWindow.cpp" line="3019"/>
+        <location filename="ViewWindow.cpp" line="3200"/>
         <source>An error occurred during saving!</source>
         <translation>Hiba történt a mentés során!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3289"/>
+        <location filename="ViewWindow.cpp" line="3290"/>
         <source>Properties</source>
         <translation>Tulajdonságok</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4466"/>
+        <location filename="ViewWindow.cpp" line="4467"/>
         <source>Colors count</source>
         <translation>Színek száma</translation>
     </message>
@@ -480,28 +480,28 @@
 <context>
     <name>BaseViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="4971"/>
+        <location filename="ViewWindow.cpp" line="4972"/>
         <source>Error</source>
         <translation>Hiba</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4962"/>
-        <location filename="ViewWindow.cpp" line="4971"/>
+        <location filename="ViewWindow.cpp" line="4963"/>
+        <location filename="ViewWindow.cpp" line="4972"/>
         <source>File can&apos;t be loaded!</source>
         <translation>A fájl nem tölthető be!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4962"/>
+        <location filename="ViewWindow.cpp" line="4963"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <translation>A PDF/PS/EPS/AI fájlok megtekintéséhez és konvertálásához az XnView MP programnak szükséges a Ghostscript %1 program telepítése.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4963"/>
+        <location filename="ViewWindow.cpp" line="4964"/>
         <source>Please visit the %1 for more information.</source>
         <translation>Tekintse meg %1 bővebb információért.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4975"/>
+        <location filename="ViewWindow.cpp" line="4976"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt;Üres&gt;</translation>
     </message>
@@ -1236,7 +1236,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <translation>Színmélység módosítása</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1811"/>
+        <location filename="DlgConvert.cpp" line="1821"/>
         <location filename="DlgConvertProcess.h" line="372"/>
         <source>Adjust</source>
         <translation>Módosítás</translation>
@@ -1615,274 +1615,274 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <translation>Jobb</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="389"/>
+        <location filename="DlgConvert.cpp" line="397"/>
         <source>Automatic levels</source>
         <translation>Automatikus szintek</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="390"/>
+        <location filename="DlgConvert.cpp" line="398"/>
         <source>Automatic contrast</source>
         <translation>Automatikus kontraszt</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="391"/>
+        <location filename="DlgConvert.cpp" line="399"/>
         <source>Negative</source>
         <translation>Negatív</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="392"/>
+        <location filename="DlgConvert.cpp" line="400"/>
         <source>Desaturate</source>
         <translation>Telítettség eltávolítása</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="395"/>
+        <location filename="DlgConvert.cpp" line="403"/>
         <source>Logarithmic LUT</source>
         <oldsource>Logarithmic lut</oldsource>
         <translation>Logaritmikus LUT</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="397"/>
+        <location filename="DlgConvert.cpp" line="405"/>
         <source>Normalize</source>
         <translation>Normalizálás</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="401"/>
+        <location filename="DlgConvert.cpp" line="409"/>
         <source>Equalize</source>
         <translation>Kiegyenlítés</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="402"/>
+        <location filename="DlgConvert.cpp" line="410"/>
         <location filename="Dlg1SliderPanel.h" line="92"/>
         <source>Sepia</source>
         <translation>Szépia</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="403"/>
+        <location filename="DlgConvert.cpp" line="411"/>
         <location filename="Dlg1SliderPanel.h" line="72"/>
         <source>Solarize</source>
         <translation>Elégetés</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="412"/>
+        <location filename="DlgConvert.cpp" line="420"/>
         <source>Exposure</source>
         <translation>Megvilágítás</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="420"/>
+        <location filename="DlgConvert.cpp" line="428"/>
         <location filename="DlgFilter.cpp" line="42"/>
         <source>Enhance detail</source>
         <translation>Részlet növelése</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="421"/>
+        <location filename="DlgConvert.cpp" line="429"/>
         <location filename="DlgFilter.cpp" line="43"/>
         <source>Enhance focus</source>
         <translation>Fókusz növelése</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="422"/>
+        <location filename="DlgConvert.cpp" line="430"/>
         <location filename="DlgFilter.cpp" line="44"/>
         <source>Enhance edges</source>
         <translation>Élek növelése</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="423"/>
+        <location filename="DlgConvert.cpp" line="431"/>
         <location filename="DlgFilter.cpp" line="45"/>
         <source>Focus restoration</source>
         <translation>Fókusz helyreállítása</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="425"/>
+        <location filename="DlgConvert.cpp" line="433"/>
         <location filename="DlgFilter.cpp" line="52"/>
         <source>Emboss</source>
         <translation>Domborítás</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="426"/>
+        <location filename="DlgConvert.cpp" line="434"/>
         <location filename="DlgFilter.cpp" line="53"/>
         <source>Emboss more</source>
         <translation>További domborítás</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="427"/>
+        <location filename="DlgConvert.cpp" line="435"/>
         <location filename="DlgFilter.cpp" line="36"/>
         <source>Average</source>
         <translation>Átlagos</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="428"/>
-        <location filename="DlgConvert.cpp" line="1812"/>
+        <location filename="DlgConvert.cpp" line="436"/>
+        <location filename="DlgConvert.cpp" line="1822"/>
         <location filename="DlgFilter.cpp" line="37"/>
         <source>Blur</source>
         <translation>Elmosás</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="429"/>
+        <location filename="DlgConvert.cpp" line="437"/>
         <location filename="DlgFilter.cpp" line="38"/>
         <source>Soften</source>
         <translation>Lágyítás</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="430"/>
+        <location filename="DlgConvert.cpp" line="438"/>
         <location filename="DlgFilter.cpp" line="39"/>
         <source>Gaussian blur</source>
         <translation>Gauss-elmosás</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="431"/>
+        <location filename="DlgConvert.cpp" line="439"/>
         <location filename="DlgFilter.cpp" line="54"/>
         <source>Maximum</source>
         <translation>Maximum</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="432"/>
+        <location filename="DlgConvert.cpp" line="440"/>
         <location filename="DlgFilter.cpp" line="55"/>
         <source>Minimum</source>
         <translation>Minimum</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="433"/>
+        <location filename="DlgConvert.cpp" line="441"/>
         <location filename="DlgFilter.cpp" line="56"/>
         <source>Median box</source>
         <translation>Medián doboz</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="434"/>
+        <location filename="DlgConvert.cpp" line="442"/>
         <location filename="DlgFilter.cpp" line="57"/>
         <source>Median cross</source>
         <translation>Medián kereszt</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="435"/>
+        <location filename="DlgConvert.cpp" line="443"/>
         <location filename="DlgFilter.cpp" line="51"/>
         <source>Sharpen</source>
         <translation>Élesítés</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="437"/>
+        <location filename="DlgConvert.cpp" line="445"/>
         <location filename="DlgFilter.cpp" line="59"/>
         <source>Reduce noise</source>
         <translation>Zajcsökkentés</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="446"/>
+        <location filename="DlgConvert.cpp" line="454"/>
         <location filename="DlgFilter.cpp" line="68"/>
         <source>Mosaic</source>
         <translation>Mozaik</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="447"/>
+        <location filename="DlgConvert.cpp" line="455"/>
         <location filename="DlgFilter.cpp" line="69"/>
         <source>Slice</source>
         <translation>Szeletel</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="448"/>
+        <location filename="DlgConvert.cpp" line="456"/>
         <location filename="DlgFilter.cpp" line="70"/>
         <source>Tile</source>
         <translation>Csempe</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="449"/>
+        <location filename="DlgConvert.cpp" line="457"/>
         <location filename="DlgFilter.cpp" line="71"/>
         <source>Shear</source>
         <translation>Nyírás</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="450"/>
+        <location filename="DlgConvert.cpp" line="458"/>
         <location filename="DlgFilter.cpp" line="72"/>
         <source>Oil painting</source>
         <translation>Olajfestmény</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="451"/>
+        <location filename="DlgConvert.cpp" line="459"/>
         <location filename="DlgFilter.cpp" line="73"/>
         <source>Oil painting 2</source>
         <translation>Olajfestmény 2</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="452"/>
+        <location filename="DlgConvert.cpp" line="460"/>
         <location filename="DlgFilter.cpp" line="74"/>
         <source>Swirl</source>
         <translation>Örvény</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="453"/>
+        <location filename="DlgConvert.cpp" line="461"/>
         <location filename="DlgFilter.cpp" line="75"/>
         <source>Spread</source>
         <translation>Terjedelem</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="454"/>
+        <location filename="DlgConvert.cpp" line="462"/>
         <location filename="DlgFilter.cpp" line="76"/>
         <source>Lens</source>
         <translation>Objektív</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="457"/>
+        <location filename="DlgConvert.cpp" line="465"/>
         <location filename="DlgFilter.cpp" line="79"/>
         <source>Band</source>
         <translation>Sáv</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="470"/>
+        <location filename="DlgConvert.cpp" line="478"/>
         <location filename="DlgFilter.cpp" line="92"/>
         <source>Pointillize</source>
         <translation>Pontosítás</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1810"/>
+        <location filename="DlgConvert.cpp" line="1820"/>
         <source>Add</source>
         <translation>Hozzáadás</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1813"/>
+        <location filename="DlgConvert.cpp" line="1823"/>
         <source>Channel</source>
         <translation>Csatorna</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1814"/>
+        <location filename="DlgConvert.cpp" line="1824"/>
         <source>Enhance</source>
         <translation>Hangsúlyozás</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1815"/>
+        <location filename="DlgConvert.cpp" line="1825"/>
         <source>Frame</source>
         <translation>Keret</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1816"/>
+        <location filename="DlgConvert.cpp" line="1826"/>
         <source>Metadata</source>
         <translation>Metaadatok</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1817"/>
+        <location filename="DlgConvert.cpp" line="1827"/>
         <source>Noise</source>
         <translation>Zaj</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1818"/>
+        <location filename="DlgConvert.cpp" line="1828"/>
         <source>Pixelate</source>
         <translation>Képpontosítás</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1819"/>
+        <location filename="DlgConvert.cpp" line="1829"/>
         <source>Stylize</source>
         <translation>Stilizálás</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1820"/>
+        <location filename="DlgConvert.cpp" line="1830"/>
         <source>Transform</source>
         <translation>Átalakítás</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1821"/>
+        <location filename="DlgConvert.cpp" line="1831"/>
         <source>Video</source>
         <translation>Videó</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1570"/>
-        <location filename="DlgConvert.cpp" line="2874"/>
+        <location filename="DlgConvert.cpp" line="2884"/>
         <source>%1 file(s) - %2% - %3</source>
         <translation>%1 fájl - %2% - %3</translation>
     </message>
@@ -1910,8 +1910,8 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
 <context>
     <name>ConvertThread</name>
     <message>
-        <location filename="ConvertThread.cpp" line="785"/>
-        <location filename="ConvertThread.cpp" line="1276"/>
+        <location filename="ConvertThread.cpp" line="822"/>
+        <location filename="ConvertThread.cpp" line="1313"/>
         <source>WARNING: Image will be converted to 24-bit RGB (8bits per channel)</source>
         <oldsource>WARNING: The picture will be converted to RGB with 8bits per component</oldsource>
         <translation>FIGYELEM: A kép 24 bites RGB-be lesz konvertálva (csatornánként 8 bit)</translation>
@@ -2020,134 +2020,134 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
 <context>
     <name>DBFilterModel</name>
     <message>
-        <location filename="DBFilterModel.cpp" line="149"/>
-        <location filename="DBFilterModel.cpp" line="190"/>
+        <location filename="DBFilterModel.cpp" line="150"/>
+        <location filename="DBFilterModel.cpp" line="191"/>
         <source>Rating</source>
         <translation>Értékelés</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="153"/>
-        <location filename="DBFilterModel.cpp" line="191"/>
+        <location filename="DBFilterModel.cpp" line="154"/>
+        <location filename="DBFilterModel.cpp" line="192"/>
         <source>Colour Label</source>
         <translation>Színcímke</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="157"/>
-        <location filename="DBFilterModel.cpp" line="192"/>
+        <location filename="DBFilterModel.cpp" line="158"/>
+        <location filename="DBFilterModel.cpp" line="193"/>
         <source>People</source>
         <translation>Személyek</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="160"/>
+        <location filename="DBFilterModel.cpp" line="161"/>
         <source>Special Items</source>
         <translation>Speciális elemek</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="163"/>
+        <location filename="DBFilterModel.cpp" line="164"/>
         <source>Uncategorized</source>
         <translation>Kategórizálatlan</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="164"/>
+        <location filename="DBFilterModel.cpp" line="165"/>
         <source>No rating</source>
         <translation>Nincs értékelés</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="165"/>
+        <location filename="DBFilterModel.cpp" line="166"/>
         <source>No colour label</source>
         <translation>Nincs színcímke</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="166"/>
+        <location filename="DBFilterModel.cpp" line="167"/>
         <source>All</source>
         <translation>Mind</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="167"/>
+        <location filename="DBFilterModel.cpp" line="168"/>
         <source>Taken in last 30 days</source>
         <translation>Az elmúlt 30 napban készült</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="168"/>
+        <location filename="DBFilterModel.cpp" line="169"/>
         <source>Modified in last 30 days</source>
         <translation>Az elmúlt 30 napban módosult</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="170"/>
-        <location filename="DBFilterModel.cpp" line="193"/>
-        <location filename="DBFilterModel.cpp" line="1687"/>
+        <location filename="DBFilterModel.cpp" line="171"/>
+        <location filename="DBFilterModel.cpp" line="194"/>
+        <location filename="DBFilterModel.cpp" line="1691"/>
         <source>Date</source>
         <translation>Dátum</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="174"/>
-        <location filename="DBFilterModel.cpp" line="194"/>
+        <location filename="DBFilterModel.cpp" line="175"/>
+        <location filename="DBFilterModel.cpp" line="195"/>
         <source>Properties</source>
         <translation>Tulajdonságok</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="179"/>
-        <location filename="DBFilterModel.cpp" line="195"/>
+        <location filename="DBFilterModel.cpp" line="180"/>
+        <location filename="DBFilterModel.cpp" line="196"/>
         <source>Albums</source>
         <translation>Albumok</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="181"/>
-        <location filename="DBFilterModel.cpp" line="196"/>
+        <location filename="DBFilterModel.cpp" line="182"/>
+        <location filename="DBFilterModel.cpp" line="197"/>
         <source>Smart Albums</source>
         <translation>Intelligens albumok</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="197"/>
+        <location filename="DBFilterModel.cpp" line="198"/>
         <source>Categories</source>
         <translation>Kategóriák</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="251"/>
-        <location filename="DBFilterModel.cpp" line="551"/>
+        <location filename="DBFilterModel.cpp" line="255"/>
+        <location filename="DBFilterModel.cpp" line="555"/>
         <source>Check (%1)</source>
         <translation>Megjelölés (%1)</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="251"/>
-        <location filename="DBFilterModel.cpp" line="551"/>
+        <location filename="DBFilterModel.cpp" line="255"/>
+        <location filename="DBFilterModel.cpp" line="555"/>
         <source>Check</source>
         <translation>Megjelölés</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1463"/>
-        <location filename="DBFilterModel.cpp" line="1840"/>
-        <location filename="DBFilterModel.cpp" line="2149"/>
-        <location filename="DBFilterModel.cpp" line="2156"/>
-        <location filename="DBFilterModel.cpp" line="2161"/>
-        <location filename="DBFilterModel.cpp" line="2166"/>
-        <location filename="DBFilterModel.cpp" line="2183"/>
-        <location filename="DBFilterModel.cpp" line="2200"/>
+        <location filename="DBFilterModel.cpp" line="1467"/>
+        <location filename="DBFilterModel.cpp" line="1844"/>
+        <location filename="DBFilterModel.cpp" line="2153"/>
+        <location filename="DBFilterModel.cpp" line="2160"/>
+        <location filename="DBFilterModel.cpp" line="2165"/>
+        <location filename="DBFilterModel.cpp" line="2170"/>
+        <location filename="DBFilterModel.cpp" line="2187"/>
+        <location filename="DBFilterModel.cpp" line="2204"/>
         <source>Unknown</source>
         <translation>Ismeretlen</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2188"/>
+        <location filename="DBFilterModel.cpp" line="2192"/>
         <source>Landscape</source>
         <translation>Fekvő</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2190"/>
+        <location filename="DBFilterModel.cpp" line="2194"/>
         <source>Portrait</source>
         <translation>Álló</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2192"/>
+        <location filename="DBFilterModel.cpp" line="2196"/>
         <source>Square</source>
         <translation>Négyzet</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2265"/>
+        <location filename="DBFilterModel.cpp" line="2269"/>
         <source>Panoramic</source>
         <translation>Panoráma</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2291"/>
+        <location filename="DBFilterModel.cpp" line="2295"/>
         <source>No Color Profile</source>
         <translation>Nincs színprofil</translation>
     </message>
@@ -3722,29 +3722,29 @@ Felül szeretné írni?</translation>
 <context>
     <name>DlgConvert</name>
     <message>
-        <location filename="DlgConvert.cpp" line="761"/>
+        <location filename="DlgConvert.cpp" line="769"/>
         <source>_result</source>
         <translation>_eredmény</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1177"/>
+        <location filename="DlgConvert.cpp" line="1187"/>
         <source>&lt;br&gt;XnConvert is provided as freeware for private (non commercial), or educational use, including non-profit organization. &lt;br&gt;Company must purchase licenses to be able to use it.&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
         <oldsource>&lt;br&gt;XnConvert is provided as freeware&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </oldsource>
         <translation>&lt;br&gt;Az XnConvert ingyenes magán - nem kereskedelmi - vagy oktatási célra, beleértve a non-profit szervezeteket. &lt;br&gt;Cégek számára megvásárolt licenc szükséges a használathoz.&lt;br&gt;&lt;br&gt;Ön ezen szoftvert korlátlan számban telepítheti.&lt;br&gt;&lt;br&gt; Ezek a szoftverek &quot;ahogy van&quot; kategóriásak.&lt;br&gt;Nem vállalunk semmiféle felelősséget, legyen az kifejezett vagy vélelmezett.&lt;br&gt;A szerző nem vállal felelősséget az adatok elvesztéséért, károkért, az elmaradt haszon vagy bármilyen más vesztesért, amely a szoftver használatából, vagy szoftver visszaélésből adódott.&lt;br&gt;&lt;br&gt;Szívesen veszünk bármilyen javaslatot, visszajelzést és észrevételt. </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1349"/>
+        <location filename="DlgConvert.cpp" line="1359"/>
         <source>Please restart application.</source>
         <oldsource>Please restart XnConvert</oldsource>
         <translation>Kérem, indítsa újra az alkalmazást.</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1371"/>
+        <location filename="DlgConvert.cpp" line="1381"/>
         <source>New version</source>
         <translation>Új verzió</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1372"/>
+        <location filename="DlgConvert.cpp" line="1382"/>
         <source>The %1 version of XnConvert is available. 
 
 Do you want to go on the download page?</source>
@@ -3754,128 +3754,128 @@ Do you want to go on the download page?</source>
 Szeretné a weboldalról letölteni?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1531"/>
-        <location filename="DlgConvert.cpp" line="1540"/>
+        <location filename="DlgConvert.cpp" line="1541"/>
+        <location filename="DlgConvert.cpp" line="1550"/>
         <source>Actions</source>
         <translation>Műveletek</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1655"/>
+        <location filename="DlgConvert.cpp" line="1665"/>
         <source>Load image...</source>
         <translation>Kép betöltése...</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1661"/>
+        <location filename="DlgConvert.cpp" line="1671"/>
         <source>Remove file from filelist</source>
         <translation>Fájl eltávolítása a fájllistáról</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1668"/>
+        <location filename="DlgConvert.cpp" line="1678"/>
         <source>Use image from input files</source>
         <translation>Kép használata bemeneti fájlból</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1700"/>
+        <location filename="DlgConvert.cpp" line="1710"/>
         <source>Export script</source>
         <translation>Szkript exportálása</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="1706"/>
+        <location filename="DlgConvert.cpp" line="1716"/>
         <source>Would you like to export filenames, too?</source>
         <translation>Exportálni szeretné a fájlneveket is?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2065"/>
+        <location filename="DlgConvert.cpp" line="2075"/>
         <source>Load script</source>
         <translation>Szkript betöltése</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2079"/>
+        <location filename="DlgConvert.cpp" line="2089"/>
         <source>Save script</source>
         <translation>Szkript mentése</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2212"/>
-        <location filename="DlgConvert.cpp" line="2216"/>
+        <location filename="DlgConvert.cpp" line="2222"/>
+        <location filename="DlgConvert.cpp" line="2226"/>
         <source>Parameters</source>
         <translation>Paraméterek</translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2261"/>
+        <location filename="DlgConvert.cpp" line="2271"/>
         <source>Input: %n file(s)</source>
         <translation>
             <numerusform>Bemenet: %n fájl</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2291"/>
+        <location filename="DlgConvert.cpp" line="2301"/>
         <source>Choose a directory</source>
         <translation>Válasszon mappát</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2330"/>
+        <location filename="DlgConvert.cpp" line="2340"/>
         <source>Choose ZIP filename</source>
         <translation>Válasszon Zip fájlnevet</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2415"/>
+        <location filename="DlgConvert.cpp" line="2425"/>
         <source>Cancel batch processing</source>
         <translation>Kötegelt feldolgozás megszakítása</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2415"/>
+        <location filename="DlgConvert.cpp" line="2425"/>
         <source>Do you want to cancel current batch processing?</source>
         <translation>Biztos meg akarja szakítani a kötegelt feldolgozást?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2467"/>
-        <location filename="DlgConvert.cpp" line="4178"/>
+        <location filename="DlgConvert.cpp" line="2477"/>
+        <location filename="DlgConvert.cpp" line="4193"/>
         <source>Loading error(s):</source>
         <translation>Betöltési hiba:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2475"/>
-        <location filename="DlgConvert.cpp" line="4186"/>
+        <location filename="DlgConvert.cpp" line="2485"/>
+        <location filename="DlgConvert.cpp" line="4201"/>
         <source>Saving error(s):</source>
         <translation>Mentési hiba:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2498"/>
+        <location filename="DlgConvert.cpp" line="2508"/>
         <source>Total input file size:</source>
         <translation>Bementi fájl teljes mérete:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2499"/>
+        <location filename="DlgConvert.cpp" line="2509"/>
         <source>Total output file size:</source>
         <translation>Kimenti fájl teljes mérete:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2501"/>
+        <location filename="DlgConvert.cpp" line="2511"/>
         <source>File size ratio:</source>
         <translation>Fájlméret arány:</translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2511"/>
+        <location filename="DlgConvert.cpp" line="2521"/>
         <source>%n second(s)</source>
         <translation>
             <numerusform>%n másodperc</numerusform>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2514"/>
-        <location filename="DlgConvert.cpp" line="2518"/>
+        <location filename="DlgConvert.cpp" line="2524"/>
+        <location filename="DlgConvert.cpp" line="2528"/>
         <source>%n minute(s)</source>
         <translation>
             <numerusform>%n perc</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2548"/>
+        <location filename="DlgConvert.cpp" line="2558"/>
         <source>Overwrite</source>
         <translation>Felülírás</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2549"/>
+        <location filename="DlgConvert.cpp" line="2559"/>
         <source>Output file already exist. 
 
 Do you want to overwrite it?</source>
@@ -3885,54 +3885,54 @@ Do you want to overwrite it?</source>
 Felül szeretné írni?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2558"/>
+        <location filename="DlgConvert.cpp" line="2568"/>
         <source>Saving ZIP file...</source>
         <translation>Zip fájl mentése...</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2561"/>
+        <location filename="DlgConvert.cpp" line="2571"/>
         <source>: saved</source>
         <translation>: mentve</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2587"/>
+        <location filename="DlgConvert.cpp" line="2597"/>
         <source>Uploading image(s) to server...</source>
         <translation>Kép(ek) feltöltése a szerverre...</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2650"/>
-        <location filename="DlgConvert.cpp" line="2652"/>
+        <location filename="DlgConvert.cpp" line="2660"/>
+        <location filename="DlgConvert.cpp" line="2662"/>
         <source>[Finished]</source>
         <translation>[Befejezve]</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2775"/>
-        <location filename="DlgConvert.cpp" line="4129"/>
+        <location filename="DlgConvert.cpp" line="2785"/>
+        <location filename="DlgConvert.cpp" line="4144"/>
         <source>copied</source>
         <translation>másolva</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2793"/>
+        <location filename="DlgConvert.cpp" line="2803"/>
         <source>%1 of %2 files</source>
         <translation>%1 / %2 fájl</translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2859"/>
+        <location filename="DlgConvert.cpp" line="2869"/>
         <source>%n second(s) remaining</source>
         <translation>
             <numerusform>%n másodperc van hátra</numerusform>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2862"/>
-        <location filename="DlgConvert.cpp" line="2866"/>
+        <location filename="DlgConvert.cpp" line="2872"/>
+        <location filename="DlgConvert.cpp" line="2876"/>
         <source>%n minute(s) remaining</source>
         <translation>
             <numerusform>%n perc van hátra</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2921"/>
+        <location filename="DlgConvert.cpp" line="2931"/>
         <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
 
 Do you want to continue?</source>
@@ -3941,140 +3941,140 @@ Do you want to continue?</source>
 Szeretné folytatni?</translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2518"/>
-        <location filename="DlgConvert.cpp" line="2866"/>
+        <location filename="DlgConvert.cpp" line="2528"/>
+        <location filename="DlgConvert.cpp" line="2876"/>
         <source>%n hour(s) and </source>
         <translation>
             <numerusform>%n óra és </numerusform>
         </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="172"/>
+        <location filename="DlgConvert.cpp" line="176"/>
         <source>Same as original</source>
         <translation>Eredetivel megegyező</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="573"/>
+        <location filename="DlgConvert.cpp" line="581"/>
         <source>Convert with XnConvert</source>
         <translation>Konvertálás XnConvert-tel</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="608"/>
+        <location filename="DlgConvert.cpp" line="616"/>
         <source>Save log as...</source>
         <translation>Napló mentése másként...</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="614"/>
+        <location filename="DlgConvert.cpp" line="622"/>
         <source>Export log</source>
         <translation>Exportálási napló</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2898"/>
+        <location filename="DlgConvert.cpp" line="2908"/>
         <source>Output filename</source>
         <translation>Kimeneti fájlnév</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2486"/>
-        <location filename="DlgConvert.cpp" line="4197"/>
+        <location filename="DlgConvert.cpp" line="2496"/>
+        <location filename="DlgConvert.cpp" line="4212"/>
         <source>Input files:</source>
         <translation>Bemeneti fájlok:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2487"/>
-        <location filename="DlgConvert.cpp" line="4198"/>
+        <location filename="DlgConvert.cpp" line="2497"/>
+        <location filename="DlgConvert.cpp" line="4213"/>
         <source>Extracted pages:</source>
         <translation>Kivont oldalak:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2490"/>
-        <location filename="DlgConvert.cpp" line="4201"/>
+        <location filename="DlgConvert.cpp" line="2500"/>
+        <location filename="DlgConvert.cpp" line="4216"/>
         <source>New files:</source>
         <translation>Új fájlok:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2492"/>
-        <location filename="DlgConvert.cpp" line="4203"/>
+        <location filename="DlgConvert.cpp" line="2502"/>
+        <location filename="DlgConvert.cpp" line="4218"/>
         <source>Overwritten:</source>
         <translation>Felülírva:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2494"/>
-        <location filename="DlgConvert.cpp" line="4205"/>
+        <location filename="DlgConvert.cpp" line="2504"/>
+        <location filename="DlgConvert.cpp" line="4220"/>
         <source>Skipped:</source>
         <translation>Kihagyva:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2505"/>
+        <location filename="DlgConvert.cpp" line="2515"/>
         <source>Total Duration:</source>
         <translation>Teljes időtartam:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2664"/>
+        <location filename="DlgConvert.cpp" line="2674"/>
         <source>Finished at: </source>
         <translation>Befejezve: </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2695"/>
+        <location filename="DlgConvert.cpp" line="2705"/>
         <source>uploaded</source>
         <translation>feltölve</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2703"/>
+        <location filename="DlgConvert.cpp" line="2713"/>
         <source>not an image</source>
         <oldsource>not a picture</oldsource>
         <translation>nem kép</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2706"/>
+        <location filename="DlgConvert.cpp" line="2716"/>
         <source>open error</source>
         <translation>megnyitási hiba</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2709"/>
+        <location filename="DlgConvert.cpp" line="2719"/>
         <source>create error</source>
         <translation>létrehozási hiba</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2712"/>
+        <location filename="DlgConvert.cpp" line="2722"/>
         <source>has read-only attribute, and can&apos;t be overwritten!</source>
         <translation>csak olvasható, nem lehet felülírni!</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2715"/>
+        <location filename="DlgConvert.cpp" line="2725"/>
         <source>skipped, file already exists!</source>
         <translation>kihagyva, a fájl már létezik!</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2717"/>
+        <location filename="DlgConvert.cpp" line="2727"/>
         <source>failed</source>
         <translation>sikertelen</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2723"/>
-        <location filename="DlgConvert.cpp" line="4088"/>
+        <location filename="DlgConvert.cpp" line="2733"/>
+        <location filename="DlgConvert.cpp" line="4103"/>
         <source>loading</source>
         <translation>töltés</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2741"/>
-        <location filename="DlgConvert.cpp" line="4103"/>
+        <location filename="DlgConvert.cpp" line="2751"/>
+        <location filename="DlgConvert.cpp" line="4118"/>
         <source>loaded</source>
         <translation>betöltött</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2779"/>
-        <location filename="DlgConvert.cpp" line="4133"/>
+        <location filename="DlgConvert.cpp" line="2789"/>
+        <location filename="DlgConvert.cpp" line="4148"/>
         <source>saved</source>
         <translation>mentve</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2824"/>
+        <location filename="DlgConvert.cpp" line="2834"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
         <translation>Fájl felülírása</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2825"/>
+        <location filename="DlgConvert.cpp" line="2835"/>
         <source>Destination already has a file named: 
 %1
 
@@ -4087,32 +4087,32 @@ Do you want to overwrite it?</oldsource>
 Felül szeretné írni?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2827"/>
+        <location filename="DlgConvert.cpp" line="2837"/>
         <source>Yes to &amp;all</source>
         <translation>Mindre &amp;igen</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2828"/>
+        <location filename="DlgConvert.cpp" line="2838"/>
         <source>&amp;Yes</source>
         <translation>&amp;Igen</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2829"/>
+        <location filename="DlgConvert.cpp" line="2839"/>
         <source>&amp;No</source>
         <translation>&amp;Nem</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2830"/>
+        <location filename="DlgConvert.cpp" line="2840"/>
         <source>&amp;Rename</source>
         <translation>Á&amp;tnevezés</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2831"/>
+        <location filename="DlgConvert.cpp" line="2841"/>
         <source>&amp;Cancel</source>
         <translation>&amp;Mégse</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2888"/>
+        <location filename="DlgConvert.cpp" line="2898"/>
         <source>The &apos;Delete original&apos; option is enabled
 
 Do you want to continue?</source>
@@ -4121,7 +4121,7 @@ Do you want to continue?</source>
 Biztosan folytassuk?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2898"/>
+        <location filename="DlgConvert.cpp" line="2908"/>
         <source>Output filename will be the same for all converted files. 
 
 Do you want to continue?</source>
@@ -4130,18 +4130,18 @@ Do you want to continue?</source>
 Biztos folytassuk?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2907"/>
+        <location filename="DlgConvert.cpp" line="2917"/>
         <source>Choose output pathname</source>
         <translation>Válasszon kimeneti elérési utat</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="3050"/>
+        <location filename="DlgConvert.cpp" line="3065"/>
         <source>The &apos;Use multiple CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</source>
         <oldsource>The &apos;Use CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</oldsource>
         <translation>A &apos;Több CPU mag használata&apos; ki volt kapcsolva. Ezen beállítás nem kombinálható a &apos;Kérdés&apos; móddal vagy többoldalas PDF fájllal.</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="3052"/>
+        <location filename="DlgConvert.cpp" line="3067"/>
         <source>Started at: </source>
         <translation>Kezdés: </translation>
     </message>
@@ -4702,7 +4702,7 @@ Biztos folytassuk?</translation>
         <translation>Mappa hozzáadása...</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1793"/>
+        <location filename="DlgConvert.ui" line="1810"/>
         <location filename="DlgConvert-old.ui" line="101"/>
         <source>Load format settings...</source>
         <translation>Formátum beállítások betöltése...</translation>
@@ -4817,13 +4817,13 @@ Biztos folytassuk?</translation>
         <translation>Legjobb illesztés</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1001"/>
+        <location filename="DlgConvert.ui" line="1018"/>
         <source>If an output file already exists</source>
         <oldsource>If an output file arealdy exists</oldsource>
         <translation>Ha a kimeneti fájl már létezik</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1242"/>
+        <location filename="DlgConvert.ui" line="1259"/>
         <location filename="DlgConvert-old.ui" line="1617"/>
         <source>Clear the &apos;Input&apos; file(s)</source>
         <translation>&apos;Bemeneti&apos; fájlok tisztítása</translation>
@@ -4842,30 +4842,30 @@ Biztos folytassuk?</translation>
         <translation>Kimenet</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1256"/>
+        <location filename="DlgConvert.ui" line="1273"/>
         <source>Exit after conversion</source>
         <translation>Kilépés átalakítás után</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1297"/>
+        <location filename="DlgConvert.ui" line="1314"/>
         <location filename="DlgConvert-old.ui" line="1658"/>
         <source>Status</source>
         <translation>Státusz</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1353"/>
+        <location filename="DlgConvert.ui" line="1370"/>
         <location filename="DlgConvert-old.ui" line="1683"/>
         <source>Estimated end time:</source>
         <translation>Becsült hátralevő idő:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1383"/>
+        <location filename="DlgConvert.ui" line="1400"/>
         <location filename="DlgConvert-old.ui" line="1713"/>
         <source>Remaining:</source>
         <translation>Hátralévő:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1457"/>
+        <location filename="DlgConvert.ui" line="1474"/>
         <location filename="DlgConvert-old.ui" line="1743"/>
         <source>Error(s):</source>
         <translation>Hibák:</translation>
@@ -4920,110 +4920,115 @@ Biztos folytassuk?</translation>
         <translation>Kicsinyítés</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="827"/>
-        <location filename="DlgConvert.ui" line="835"/>
+        <location filename="DlgConvert.ui" line="649"/>
+        <source>Multiple resolution...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgConvert.ui" line="844"/>
+        <location filename="DlgConvert.ui" line="852"/>
         <location filename="DlgConvert-old.ui" line="1370"/>
         <location filename="DlgConvert-old.ui" line="1379"/>
         <source>Filename</source>
         <translation>Fájlnév</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="864"/>
+        <location filename="DlgConvert.ui" line="881"/>
         <location filename="DlgConvert-old.ui" line="1389"/>
         <source>Case</source>
         <translation>Betűk</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="872"/>
+        <location filename="DlgConvert.ui" line="889"/>
         <location filename="DlgConvert-old.ui" line="1397"/>
         <source>No change</source>
         <translation>Nincs változás</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="877"/>
+        <location filename="DlgConvert.ui" line="894"/>
         <location filename="DlgConvert-old.ui" line="1402"/>
         <source>Name &amp; extension lowercase</source>
         <translation>Név és kiterjesztés kisbetűs</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="882"/>
+        <location filename="DlgConvert.ui" line="899"/>
         <location filename="DlgConvert-old.ui" line="1407"/>
         <source>Name &amp; extension uppercase</source>
         <translation>Név és kiterjesztés nagybetűs</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="887"/>
+        <location filename="DlgConvert.ui" line="904"/>
         <location filename="DlgConvert-old.ui" line="1412"/>
         <source>Name lowercase</source>
         <translation>Név kisbetűs</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="892"/>
+        <location filename="DlgConvert.ui" line="909"/>
         <location filename="DlgConvert-old.ui" line="1417"/>
         <source>Name uppercase</source>
         <translation>Név nagybetűs</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="897"/>
+        <location filename="DlgConvert.ui" line="914"/>
         <location filename="DlgConvert-old.ui" line="1422"/>
         <source>Extension lowercase</source>
         <translation>Kiterjesztés kisbetűs</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="902"/>
+        <location filename="DlgConvert.ui" line="919"/>
         <location filename="DlgConvert-old.ui" line="1427"/>
         <source>Extension uppercase</source>
         <translation>Kiterjesztés nagybetűs</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="907"/>
+        <location filename="DlgConvert.ui" line="924"/>
         <location filename="DlgConvert-old.ui" line="1432"/>
         <source>First letters uppercase</source>
         <translation>Első betű nagybetűs</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="958"/>
+        <location filename="DlgConvert.ui" line="975"/>
         <location filename="DlgConvert-old.ui" line="1449"/>
         <source>Format</source>
         <translation>Formátum</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1228"/>
+        <location filename="DlgConvert.ui" line="1245"/>
         <source>Open File Manager</source>
         <translation>Fájlkezelő megnyitása</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1305"/>
+        <location filename="DlgConvert.ui" line="1322"/>
         <source>Processing list:</source>
         <translation>Feldolgozás lista:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1784"/>
+        <location filename="DlgConvert.ui" line="1801"/>
         <source>Use color based on file format</source>
         <translation>Színek használata a fájlformátum alapján</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1249"/>
+        <location filename="DlgConvert.ui" line="1266"/>
         <source>Beep at the end of process</source>
         <translation>Hangjelzés a folyamat végén</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1889"/>
+        <location filename="DlgConvert.ui" line="1906"/>
         <source>Presets:</source>
         <translation>Készletek:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1896"/>
+        <location filename="DlgConvert.ui" line="1913"/>
         <source>Load preset</source>
         <translation>Készlet betöltése</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1929"/>
+        <location filename="DlgConvert.ui" line="1946"/>
         <source>Save preset</source>
         <translation>Készlet mentése</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1943"/>
+        <location filename="DlgConvert.ui" line="1960"/>
         <source>Remove preset from list</source>
         <translation>Készlet eltávolítása a listáról</translation>
     </message>
@@ -5033,8 +5038,8 @@ Biztos folytassuk?</translation>
         <translation>Mint az eredeti</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="775"/>
-        <location filename="DlgConvert.ui" line="977"/>
+        <location filename="DlgConvert.ui" line="792"/>
+        <location filename="DlgConvert.ui" line="994"/>
         <location filename="DlgConvert-old.ui" line="1223"/>
         <location filename="DlgConvert-old.ui" line="1285"/>
         <location filename="DlgConvert-old.ui" line="1322"/>
@@ -5055,13 +5060,13 @@ Biztos folytassuk?</translation>
         <translation>FTP</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="650"/>
+        <location filename="DlgConvert.ui" line="667"/>
         <location filename="DlgConvert-old.ui" line="1104"/>
         <source>Recipient:</source>
         <translation>Fogadó:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="711"/>
+        <location filename="DlgConvert.ui" line="728"/>
         <location filename="DlgConvert-old.ui" line="1162"/>
         <source>Output filename:</source>
         <translation>Kimeneti fájlnév:</translation>
@@ -5072,7 +5077,7 @@ Biztos folytassuk?</translation>
         <translation>Album:</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="993"/>
+        <location filename="DlgConvert.ui" line="1010"/>
         <location filename="DlgConvert-old.ui" line="1489"/>
         <source>Options</source>
         <translation>Beállítások</translation>
@@ -5084,96 +5089,96 @@ Biztos folytassuk?</translation>
         <translation>Amikor a kimeneti fájl már létezik</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1012"/>
+        <location filename="DlgConvert.ui" line="1029"/>
         <location filename="DlgConvert-old.ui" line="1508"/>
         <source>Replace</source>
         <translation>Csere</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1017"/>
+        <location filename="DlgConvert.ui" line="1034"/>
         <location filename="DlgConvert-old.ui" line="1513"/>
         <source>Ask</source>
         <translation>Rákérdez</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1022"/>
+        <location filename="DlgConvert.ui" line="1039"/>
         <location filename="DlgConvert-old.ui" line="1518"/>
         <source>Skip</source>
         <translation>Kihagy</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1027"/>
+        <location filename="DlgConvert.ui" line="1044"/>
         <location filename="DlgConvert-old.ui" line="1523"/>
         <source>Rename</source>
         <translation>Átnevezés</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1050"/>
+        <location filename="DlgConvert.ui" line="1067"/>
         <source>Keep original file when encoded result is larger (experimental)</source>
         <oldsource>Keep original file when encoded result is larger</oldsource>
         <translation>Eredeti fájl megtartása, ha a kódolt eredmény nagyobb (kísérleti)</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1057"/>
+        <location filename="DlgConvert.ui" line="1074"/>
         <location filename="DlgConvert-old.ui" line="1533"/>
         <source>Keep folder structure</source>
         <translation>Mappaszerkezet megtartása</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1094"/>
+        <location filename="DlgConvert.ui" line="1111"/>
         <location filename="DlgConvert-old.ui" line="1540"/>
         <source>Keep original date/time attributes</source>
         <translation>Eredeti dátum/idő attribútum megtartása</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1101"/>
+        <location filename="DlgConvert.ui" line="1118"/>
         <source>Preserve extension</source>
         <translation>Tartsa meg a kiterjesztést</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1108"/>
+        <location filename="DlgConvert.ui" line="1125"/>
         <location filename="DlgConvert-old.ui" line="1547"/>
         <source>Preserve Metadata</source>
         <translation>Metaadatok megőrzése</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1115"/>
+        <location filename="DlgConvert.ui" line="1132"/>
         <location filename="DlgConvert-old.ui" line="1554"/>
         <source>Preserve color profile</source>
         <translation>Színprofil megőrzése</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1122"/>
+        <location filename="DlgConvert.ui" line="1139"/>
         <location filename="DlgConvert-old.ui" line="1561"/>
         <source>Delete original</source>
         <translation>Eredeti törlése</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1131"/>
+        <location filename="DlgConvert.ui" line="1148"/>
         <source>Use multiple CPU Cores</source>
         <oldsource>Use CPU Cores</oldsource>
         <translation>Több CPU mag használata</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1193"/>
+        <location filename="DlgConvert.ui" line="1210"/>
         <location filename="DlgConvert-old.ui" line="1575"/>
         <source>Multipage</source>
         <translation>Többoldalas</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1199"/>
+        <location filename="DlgConvert.ui" line="1216"/>
         <location filename="DlgConvert-old.ui" line="1581"/>
         <source>Convert multipage file to multipage file (when possible)</source>
         <translation>Többoldalas fájl konvertálása többoldalas fájlra (ha lehetséges)</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1206"/>
+        <location filename="DlgConvert.ui" line="1223"/>
         <location filename="DlgConvert-old.ui" line="1588"/>
         <source>Convert all pages from multipage file</source>
         <translation>Összes lap konvertálása többoldalas fájlnál</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1222"/>
+        <location filename="DlgConvert.ui" line="1239"/>
         <location filename="DlgConvert-old.ui" line="1604"/>
         <source>After conversion</source>
         <translation>Átalakítás után</translation>
@@ -5184,32 +5189,32 @@ Biztos folytassuk?</translation>
         <translation>Fájlböngésző megnyitása</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1574"/>
+        <location filename="DlgConvert.ui" line="1591"/>
         <source>Theme</source>
         <translation>Téma</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1582"/>
+        <location filename="DlgConvert.ui" line="1599"/>
         <source>Default</source>
         <translation>Alapértelmezett</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1587"/>
+        <location filename="DlgConvert.ui" line="1604"/>
         <source>Light</source>
         <translation>Világos</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1592"/>
+        <location filename="DlgConvert.ui" line="1609"/>
         <source>Dark</source>
         <translation>Sötét</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="2087"/>
+        <location filename="DlgConvert.ui" line="2104"/>
         <source>&amp;Convert</source>
         <translation>&amp;Konvertálás</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="931"/>
+        <location filename="DlgConvert.ui" line="948"/>
         <source>Start index</source>
         <translation>Kezdő sorszám</translation>
     </message>
@@ -5229,67 +5234,67 @@ Biztos folytassuk?</translation>
         <translation>Utolsó fájl</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1085"/>
+        <location filename="DlgConvert.ui" line="1102"/>
         <source>Keep parent folder</source>
         <translation>Szülőmappa megtartása</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1235"/>
+        <location filename="DlgConvert.ui" line="1252"/>
         <source>Open in Browser</source>
         <translation>Megnyitás böngészőben</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1521"/>
+        <location filename="DlgConvert.ui" line="1538"/>
         <source>Settings</source>
         <translation>Beállítások</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1617"/>
+        <location filename="DlgConvert.ui" line="1634"/>
         <source>Check for program updates</source>
         <translation>Frissítések ellenőrzése</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1625"/>
+        <location filename="DlgConvert.ui" line="1642"/>
         <source>Never</source>
         <translation>Soha</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1630"/>
+        <location filename="DlgConvert.ui" line="1647"/>
         <source>Daily</source>
         <translation>Naponta</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1635"/>
+        <location filename="DlgConvert.ui" line="1652"/>
         <source>Weekly</source>
         <translation>Hetente</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1640"/>
+        <location filename="DlgConvert.ui" line="1657"/>
         <source>Monthly</source>
         <translation>Havonta</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1670"/>
+        <location filename="DlgConvert.ui" line="1687"/>
         <source>Add &apos;Convert with XnConvert&apos; to context menu</source>
         <translation>&apos;Átalakítás XnConvert-tel&apos; hozzáadása a helyi menühöz</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1695"/>
+        <location filename="DlgConvert.ui" line="1712"/>
         <source>Note: You need to start with admin rights to be able to change this setting</source>
         <translation>Megjegyzés: Rendszergazdaként indítsa hogy legyen lehetősége ezen beállítás változtatására</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1756"/>
+        <location filename="DlgConvert.ui" line="1773"/>
         <source>Save actions list at exiting</source>
         <translation>Műveletek lista mentése kilépéskor</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1763"/>
+        <location filename="DlgConvert.ui" line="1780"/>
         <source>Clear filename field at startup</source>
         <translation>Indításkor kiüríti a fájlnév mezőt</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1777"/>
+        <location filename="DlgConvert.ui" line="1794"/>
         <source>Rotate images according to EXIF orientation tag</source>
         <translation>Képek forgatása EXIF információk alapján</translation>
     </message>
@@ -5299,35 +5304,35 @@ Biztos folytassuk?</translation>
         <translation>Szkript mentése</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1829"/>
+        <location filename="DlgConvert.ui" line="1846"/>
         <location filename="DlgConvert-old.ui" line="1763"/>
         <source>About</source>
         <translation>Névjegy</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1543"/>
+        <location filename="DlgConvert.ui" line="1560"/>
         <location filename="DlgConvert-old.ui" line="1798"/>
         <source>Language</source>
         <translation>Nyelv</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1663"/>
+        <location filename="DlgConvert.ui" line="1680"/>
         <location filename="DlgConvert-old.ui" line="1825"/>
         <source>Load last script used at startup</source>
         <translation>Utoljára használt szkript betöltése indításkor</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1731"/>
+        <location filename="DlgConvert.ui" line="1748"/>
         <source>Preview background color</source>
         <translation>Előnézeti háttérszín</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1770"/>
+        <location filename="DlgConvert.ui" line="1787"/>
         <source>Restore previous input file list</source>
         <translation>Előző bemeneti fájl lista helyreállítása</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1719"/>
+        <location filename="DlgConvert.ui" line="1736"/>
         <source>Registration...</source>
         <translation>Regisztráció...</translation>
     </message>
@@ -5342,23 +5347,23 @@ Biztos folytassuk?</translation>
         <translation>Szkript eltávolítása a listából</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="1970"/>
+        <location filename="DlgConvert.ui" line="1987"/>
         <location filename="DlgConvert-old.ui" line="1916"/>
         <source>Export for NConvert...</source>
         <translation>NConvertbe exportálás...</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="2018"/>
+        <location filename="DlgConvert.ui" line="2035"/>
         <source>Follow us on Facebook...</source>
         <translation>Kövessen minket Facebookon...</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="2041"/>
+        <location filename="DlgConvert.ui" line="2058"/>
         <source>Follow us on Twitter...</source>
         <translation>Kövessen minket Twitteren...</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="2080"/>
+        <location filename="DlgConvert.ui" line="2097"/>
         <location filename="DlgConvert-old.ui" line="1943"/>
         <source>Stop</source>
         <translation>Stop</translation>
@@ -5374,7 +5379,7 @@ Biztos folytassuk?</translation>
         <translation>Mégse</translation>
     </message>
     <message>
-        <location filename="DlgConvert.ui" line="2098"/>
+        <location filename="DlgConvert.ui" line="2115"/>
         <source>Close</source>
         <translation>Bezárás</translation>
     </message>
@@ -6008,6 +6013,25 @@ Biztos folytassuk?</translation>
         <location filename="DlgConvertMirror.ui" line="24"/>
         <source>Horizontal</source>
         <translation>Vízszintes</translation>
+    </message>
+</context>
+<context>
+    <name>DlgConvertMulti</name>
+    <message>
+        <location filename="DlgConvertMulti.ui" line="14"/>
+        <location filename="DlgConvertMulti.cpp" line="18"/>
+        <source>Multiple output</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgConvertMulti.cpp" line="45"/>
+        <source>Width:</source>
+        <translation type="unfinished">Szélesség:</translation>
+    </message>
+    <message>
+        <location filename="DlgConvertMulti.cpp" line="51"/>
+        <source>Height:</source>
+        <translation type="unfinished">Magasság:</translation>
     </message>
 </context>
 <context>
@@ -17334,12 +17358,12 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <translation>Arány</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2079"/>
+        <location filename="DBFilterModel.cpp" line="2083"/>
         <source>Aspect Ratio</source>
         <translation>Képarány</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2115"/>
+        <location filename="DBFilterModel.cpp" line="2119"/>
         <source>File type</source>
         <translation>Fájltípus</translation>
     </message>
@@ -17899,86 +17923,86 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <translation>Készítői jegyzetek</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2083"/>
+        <location filename="DBFilterModel.cpp" line="2087"/>
         <location filename="SearchField.cpp" line="83"/>
         <location filename="TemplateData.cpp" line="2638"/>
         <source>Maker</source>
         <translation>Készítő</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2087"/>
+        <location filename="DBFilterModel.cpp" line="2091"/>
         <location filename="SearchField.cpp" line="84"/>
         <location filename="TemplateData.cpp" line="2639"/>
         <source>Model</source>
         <translation>Modell</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2091"/>
+        <location filename="DBFilterModel.cpp" line="2095"/>
         <source>Lens</source>
         <translation>Objektív</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2099"/>
+        <location filename="DBFilterModel.cpp" line="2103"/>
         <source>ISO</source>
         <translation>ISO</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2107"/>
+        <location filename="DBFilterModel.cpp" line="2111"/>
         <source>Shutter Speed</source>
         <translation>Záridő</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2119"/>
+        <location filename="DBFilterModel.cpp" line="2123"/>
         <source>Colour Space</source>
         <translation>Színtér</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2202"/>
+        <location filename="DBFilterModel.cpp" line="2206"/>
         <source>Not Defined</source>
         <translation>Nincs megadva</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2204"/>
+        <location filename="DBFilterModel.cpp" line="2208"/>
         <source>Manual</source>
         <translation>Manuális</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2206"/>
+        <location filename="DBFilterModel.cpp" line="2210"/>
         <source>Program AE</source>
         <translation>AE program</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2208"/>
+        <location filename="DBFilterModel.cpp" line="2212"/>
         <source>Aperture-priority AE</source>
         <translation>Rekeszprioritású AE</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2210"/>
+        <location filename="DBFilterModel.cpp" line="2214"/>
         <source>Shutter speed priority AE</source>
         <translation>Záridő prioritású AE</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2212"/>
+        <location filename="DBFilterModel.cpp" line="2216"/>
         <source>Creative</source>
         <translation>Kreatív</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2214"/>
+        <location filename="DBFilterModel.cpp" line="2218"/>
         <source>Action</source>
         <translation>Művelet</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2216"/>
+        <location filename="DBFilterModel.cpp" line="2220"/>
         <source>Portrait</source>
         <translation>Álló</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2218"/>
+        <location filename="DBFilterModel.cpp" line="2222"/>
         <source>Landscape</source>
         <translation>Fekvő</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2095"/>
+        <location filename="DBFilterModel.cpp" line="2099"/>
         <source>Focal Length</source>
         <translation>Fókusztávolság</translation>
     </message>
@@ -18021,7 +18045,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <translation>Felhasználói megjegyzés</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2103"/>
+        <location filename="DBFilterModel.cpp" line="2107"/>
         <location filename="SearchField.cpp" line="93"/>
         <location filename="TemplateData.cpp" line="2672"/>
         <source>F-Number</source>
@@ -18044,7 +18068,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <translation>Módosítási dátum/idő</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2075"/>
+        <location filename="DBFilterModel.cpp" line="2079"/>
         <location filename="TemplateData.cpp" line="2643"/>
         <source>Orientation</source>
         <translation>Tájolás</translation>
@@ -18137,7 +18161,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <translation>Expozíciós idő (mp)</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2111"/>
+        <location filename="DBFilterModel.cpp" line="2115"/>
         <location filename="TemplateData.cpp" line="2668"/>
         <source>Exposure Program</source>
         <translation>Expozíciós program</translation>
@@ -19267,7 +19291,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <translation>Típus</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="5075"/>
+        <location filename="ItemModel.cpp" line="5077"/>
         <source>New Folder %1</source>
         <translation>Új mappa %1</translation>
     </message>
@@ -19652,22 +19676,22 @@ Biztosan folytassuk?</translation>
 <context>
     <name>MediaPlayerMDK</name>
     <message>
-        <location filename="MediaPlayerMDK.cpp" line="238"/>
+        <location filename="MediaPlayerMDK.cpp" line="243"/>
         <source>Show playbar</source>
         <translation>Lejátszósáv megjelenítése</translation>
     </message>
     <message>
-        <location filename="MediaPlayerMDK.cpp" line="242"/>
+        <location filename="MediaPlayerMDK.cpp" line="247"/>
         <source>Extract current frame</source>
         <translation>Jelenlegi képkocka kivonása</translation>
     </message>
     <message>
-        <location filename="MediaPlayerMDK.cpp" line="245"/>
+        <location filename="MediaPlayerMDK.cpp" line="250"/>
         <source>Save frame as...</source>
         <translation>Képkocka mentése másként...</translation>
     </message>
     <message>
-        <location filename="MediaPlayerMDK.cpp" line="248"/>
+        <location filename="MediaPlayerMDK.cpp" line="253"/>
         <source>Open with</source>
         <translation>Megnyitás a következővel</translation>
     </message>
@@ -21123,95 +21147,95 @@ Biztosan folytassuk?</translation>
 <context>
     <name>MenuGlobal</name>
     <message>
-        <location filename="xnview.cpp" line="1329"/>
+        <location filename="xnview.cpp" line="1332"/>
         <source>Quit</source>
         <translation>Kilépés</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1332"/>
+        <location filename="xnview.cpp" line="1335"/>
         <source>Website...</source>
         <oldsource>Visit XnView&apos;s Website...</oldsource>
         <translation>Weboldal...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1337"/>
+        <location filename="xnview.cpp" line="1340"/>
         <source>Make a donation...</source>
         <translation>Adományozás...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1330"/>
+        <location filename="xnview.cpp" line="1333"/>
         <source>About</source>
         <translation>Névjegy</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1331"/>
+        <location filename="xnview.cpp" line="1334"/>
         <source>PlugIns...</source>
         <translation>Beépülők...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1333"/>
+        <location filename="xnview.cpp" line="1336"/>
         <source>Forum...</source>
         <translation>Fórum...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1334"/>
+        <location filename="xnview.cpp" line="1337"/>
         <source>Technical Support...</source>
         <translation>Technikai támogatás...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1335"/>
+        <location filename="xnview.cpp" line="1338"/>
         <source>Report a Bug...</source>
         <oldsource>Report a Bug......</oldsource>
         <translation>Hiba jelentése...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1336"/>
+        <location filename="xnview.cpp" line="1339"/>
         <source>Wiki...</source>
         <translation>Wiki...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1338"/>
+        <location filename="xnview.cpp" line="1341"/>
         <source>Check for update...</source>
         <translation>Frissítések keresése...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1339"/>
+        <location filename="xnview.cpp" line="1342"/>
         <source>Registration...</source>
         <translation>Regisztráció...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1340"/>
+        <location filename="xnview.cpp" line="1343"/>
         <source>Purchase...</source>
         <translation>Vásárlás...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1350"/>
-        <location filename="xnview.cpp" line="1352"/>
+        <location filename="xnview.cpp" line="1353"/>
+        <location filename="xnview.cpp" line="1355"/>
         <source>Settings...</source>
         <translation>Beállítások...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1356"/>
+        <location filename="xnview.cpp" line="1359"/>
         <source>Always on top</source>
         <translation>Mindig látható</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1358"/>
+        <location filename="xnview.cpp" line="1361"/>
         <source>Titlebar</source>
         <translation>Címsor</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1359"/>
+        <location filename="xnview.cpp" line="1362"/>
         <source>Show</source>
         <translation>Megjelenítés</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1360"/>
+        <location filename="xnview.cpp" line="1363"/>
         <source>Bottom</source>
         <translation>Lent</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1361"/>
+        <location filename="xnview.cpp" line="1364"/>
         <source>Tab</source>
         <translation>Lap</translation>
     </message>
@@ -24619,12 +24643,12 @@ Megőrizzük a miniatűröket?
         <translation>Az alkalmazás jelenleg naprakész.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1605"/>
+        <location filename="xnview.cpp" line="1608"/>
         <source>Do you want to save session?</source>
         <translation>El akarja menteni a munkamenetet?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="3079"/>
+        <location filename="xnview.cpp" line="3082"/>
         <source>Catalog is disabled
 Metadata (check, ratings/colour labels and other file details)
 will not be saved to the database.</source>
@@ -24648,40 +24672,40 @@ Lépjen kapcsolatba a fejlesztővel.</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="951"/>
-        <location filename="xnview.cpp" line="1411"/>
-        <location filename="xnview.cpp" line="1427"/>
+        <location filename="xnview.cpp" line="1414"/>
+        <location filename="xnview.cpp" line="1430"/>
         <source>Session</source>
         <translation>Munkamenet</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1530"/>
+        <location filename="xnview.cpp" line="1533"/>
         <source>Do you want to quit?</source>
         <translation>Biztosan kilép?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1606"/>
+        <location filename="xnview.cpp" line="1609"/>
         <source>Saving many tabs may noticeably slow application reopening.</source>
         <oldsource>Saving many tabs may noticeably slow reopening XnView MP</oldsource>
         <translation>Túl sok lap elmentése az alkalmazás lassú újraindítását okozhatja.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1612"/>
+        <location filename="xnview.cpp" line="1615"/>
         <source>Don&apos;t ask again</source>
         <oldsource>Do not ask again</oldsource>
         <translation>Ne kérdezze többet</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1127"/>
+        <location filename="xnview.cpp" line="1130"/>
         <source>Error</source>
         <translation>Hiba</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1127"/>
+        <location filename="xnview.cpp" line="1130"/>
         <source>File not found!</source>
         <translation>Fájl nem található!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1631"/>
+        <location filename="xnview.cpp" line="1634"/>
         <source>Do you want to save this session?</source>
         <translation>Szeretné menteni ezt a munkamenetet?</translation>
     </message>

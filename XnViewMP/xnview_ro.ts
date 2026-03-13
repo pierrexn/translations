@@ -4161,6 +4161,10 @@ Vrei să continui?</translation>
         <source>&amp;Options</source>
         <translation>&amp;Opțiuni</translation>
     </message>
+    <message>
+        <source>Multiple resolution...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgConvertCleanMetaClass</name>
@@ -4665,6 +4669,21 @@ Vrei să continui?</translation>
     <message>
         <source>Vertical</source>
         <translation>Vertical</translation>
+    </message>
+</context>
+<context>
+    <name>DlgConvertMulti</name>
+    <message>
+        <source>Multiple output</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Width:</source>
+        <translation type="unfinished">Lăţime:</translation>
+    </message>
+    <message>
+        <source>Height:</source>
+        <translation type="unfinished">Înălţime:</translation>
     </message>
 </context>
 <context>

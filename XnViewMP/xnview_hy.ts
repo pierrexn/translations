@@ -4145,6 +4145,10 @@ Do you want to overwrite it?</source>
         <source>&amp;Options</source>
         <translation>&amp;Ընտրանքներ</translation>
     </message>
+    <message>
+        <source>Multiple resolution...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgConvertCleanMetaClass</name>
@@ -4649,6 +4653,21 @@ Do you want to overwrite it?</source>
     <message>
         <source>Vertical</source>
         <translation>Ուղղահայաց</translation>
+    </message>
+</context>
+<context>
+    <name>DlgConvertMulti</name>
+    <message>
+        <source>Multiple output</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Width:</source>
+        <translation type="unfinished">Լայնքը.</translation>
+    </message>
+    <message>
+        <source>Height:</source>
+        <translation type="unfinished">Բարձր-ը.</translation>
     </message>
 </context>
 <context>
