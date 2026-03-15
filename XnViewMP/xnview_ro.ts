@@ -1914,7 +1914,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Fit</source>
-        <translation>Potrivire</translation>
+        <translation>Potrivește</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
@@ -1926,11 +1926,11 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation>Umplere</translation>
+        <translation>Umple</translation>
     </message>
     <message>
         <source>Mode</source>
-        <translation>Mod</translation>
+        <translation>Modul</translation>
     </message>
     <message>
         <source>Size</source>
@@ -3268,11 +3268,11 @@ Vrei să continui?</translation>
     <name>DlgConvertAdjustClass</name>
     <message>
         <source>Gamma</source>
-        <translation>Gamma</translation>
+        <translation>Gama (Gamma)</translation>
     </message>
     <message>
         <source>Contrast</source>
-        <translation>Contrast</translation>
+        <translation>Contrastul</translation>
     </message>
     <message>
         <source>Brightness</source>
@@ -3544,7 +3544,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Alpha</source>
-        <translation>Alfa</translation>
+        <translation>Alfa (Alpha)</translation>
     </message>
     <message>
         <source>Width</source>
@@ -4163,7 +4163,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Multiple resolution...</source>
-        <translation type="unfinished"></translation>
+        <translation>Rezoluție multiplă...</translation>
     </message>
 </context>
 <context>
@@ -4185,7 +4185,7 @@ Vrei să continui?</translation>
     <name>DlgConvertColorsClass</name>
     <message>
         <source>Alpha</source>
-        <translation>Alfa</translation>
+        <translation>Alfa (Alpha)</translation>
     </message>
     <message>
         <source>Binary</source>
@@ -4413,7 +4413,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Alpha</source>
-        <translation>Alfa</translation>
+        <translation>Alfa (Alpha)</translation>
     </message>
     <message>
         <source>Green</source>
@@ -4443,7 +4443,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Lightness</source>
-        <translation>Lejeritate</translation>
+        <translation>Luminozitate</translation>
     </message>
 </context>
 <context>
@@ -4489,7 +4489,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Input profile (sRGB by default)</source>
-        <translation>Profil de intrare (sRGB implicit)</translation>
+        <translation>Profilul de intrare (sRGB implicit)</translation>
     </message>
 </context>
 <context>
@@ -4675,22 +4675,22 @@ Vrei să continui?</translation>
     <name>DlgConvertMulti</name>
     <message>
         <source>Multiple output</source>
-        <translation type="unfinished"></translation>
+        <translation>Ieșire multiplă</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished">Lăţime:</translation>
+        <translation>Lăţimea:</translation>
     </message>
     <message>
         <source>Height:</source>
-        <translation type="unfinished">Înălţime:</translation>
+        <translation>Înălţimea:</translation>
     </message>
 </context>
 <context>
     <name>DlgConvertNoiseClass</name>
     <message>
         <source>Type</source>
-        <translation>Tip</translation>
+        <translation>Tipul</translation>
     </message>
     <message>
         <source>Laplacian</source>
@@ -4753,11 +4753,11 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Offset X</source>
-        <translation>Decalaj X</translation>
+        <translation>Decalajul X</translation>
     </message>
     <message>
         <source>Offset Y</source>
-        <translation>Decalaj Y</translation>
+        <translation>Decalajul Y</translation>
     </message>
 </context>
 <context>
@@ -4783,7 +4783,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Count</source>
-        <translation>Numara</translation>
+        <translation>Numără</translation>
     </message>
 </context>
 <context>
@@ -4932,11 +4932,11 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Fit</source>
-        <translation>Potrivi</translation>
+        <translation>Potrivește</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation>Completati</translation>
+        <translation>Umple</translation>
     </message>
     <message>
         <source>Mode</source>
@@ -5170,7 +5170,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Vertical and Horizontal</source>
-        <translation>Verticală și Orizontală</translation>
+        <translation>Verticală și orizontală</translation>
     </message>
 </context>
 <context>
@@ -5208,7 +5208,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation>Completati</translation>
+        <translation>Umple</translation>
     </message>
     <message>
         <source>Font</source>
@@ -5228,15 +5228,15 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Style</source>
-        <translation>Stil</translation>
+        <translation>Stilul</translation>
     </message>
     <message>
         <source>Unit:</source>
-        <translation>Unitate:</translation>
+        <translation>Unitatea:</translation>
     </message>
     <message>
         <source>% (Minimum)</source>
-        <translation>% (Minimum)</translation>
+        <translation>% (Minim)</translation>
     </message>
     <message>
         <source>Adjust to image&apos;s width</source>
@@ -5244,7 +5244,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Aspect</source>
-        <translation>Aspect</translation>
+        <translation>Aspectul</translation>
     </message>
     <message>
         <source>Border</source>
@@ -5982,7 +5982,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Image(s)</source>
-        <translation>Imagine(i)</translation>
+        <translation>Imagine (Imagini)</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -5990,7 +5990,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Width:</source>
-        <translation>Lăţime:</translation>
+        <translation>Lăţimea:</translation>
     </message>
     <message>
         <source>Send email</source>
@@ -6002,7 +6002,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Quality</source>
-        <translation>Calitate</translation>
+        <translation>Calitatea</translation>
     </message>
     <message>
         <source>Large (1024x768)</source>
@@ -6018,7 +6018,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Subject:</source>
-        <translation>Subiectt:</translation>
+        <translation>Subiectul:</translation>
     </message>
     <message>
         <source>Convert to JPEG (if needed)</source>
@@ -6030,7 +6030,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>SMTP settings...</source>
-        <translation>Setări SMTP...</translation>
+        <translation>Setări pentru SMTP...</translation>
     </message>
     <message>
         <source>Delete metadata</source>
@@ -6038,7 +6038,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Height:</source>
-        <translation>Înălţime:</translation>
+        <translation>Înălţimea:</translation>
     </message>
     <message>
         <source>Compress file(s) as ZIP file</source>
@@ -6057,7 +6057,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Port:</source>
-        <translation>Port:</translation>
+        <translation>Portul:</translation>
     </message>
     <message>
         <source>Authentication</source>
@@ -6065,19 +6065,19 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>User password:</source>
-        <translation>Parolă de utilizator:</translation>
+        <translation>Parola de utilizator:</translation>
     </message>
     <message>
         <source>User name:</source>
-        <translation>Nume de utilizator:</translation>
+        <translation>Numele de utilizator:</translation>
     </message>
     <message>
         <source>Server:</source>
-        <translation>Server:</translation>
+        <translation>Serverul:</translation>
     </message>
     <message>
         <source>Proxy type:</source>
-        <translation>Tip proxy:</translation>
+        <translation>Tipul de proxy:</translation>
     </message>
     <message>
         <source>Use secure connection (SSL)</source>
@@ -6085,7 +6085,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>SMTP server:</source>
-        <translation>SMTP server:</translation>
+        <translation>Serverul SMTP:</translation>
     </message>
     <message>
         <source>Sender address:</source>
@@ -6093,7 +6093,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Email settings</source>
-        <translation>Setări de e-mail</translation>
+        <translation>Setări pentru e-mail</translation>
     </message>
 </context>
 <context>
@@ -6112,7 +6112,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Gamma</source>
-        <translation>Gamma</translation>
+        <translation>Gama (Gamma)</translation>
     </message>
     <message>
         <source>Green</source>
@@ -6120,7 +6120,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Contrast</source>
-        <translation>Contrast</translation>
+        <translation>Contrastul</translation>
     </message>
     <message>
         <source>Saturation</source>
@@ -6132,7 +6132,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Lightness</source>
-        <translation>Lejeritate</translation>
+        <translation>Luminozitate</translation>
     </message>
     <message>
         <source>Brightness</source>
@@ -7672,7 +7672,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>User email:</source>
-        <translation>E-mail utilizator:</translation>
+        <translation>E-mail-ul utilizatorului:</translation>
     </message>
 </context>
 <context>
@@ -8151,7 +8151,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     <name>DlgReadHDRI</name>
     <message>
         <source>Gamma</source>
-        <translation>Gamma</translation>
+        <translation>Gama (Gamma)</translation>
     </message>
 </context>
 <context>
@@ -8185,14 +8185,14 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     <name>DlgReadOpenEXR</name>
     <message>
         <source>Gamma</source>
-        <translation>Gamma</translation>
+        <translation>Gama (Gamma)</translation>
     </message>
 </context>
 <context>
     <name>DlgReadPCD</name>
     <message>
         <source>PCD size</source>
-        <translation>Dimensiunea PCD</translation>
+        <translation>Dimensiunea PCD-ului</translation>
     </message>
 </context>
 <context>
@@ -12369,11 +12369,11 @@ Vrei să continui?</translation>
     <name>DlgWallpaper</name>
     <message>
         <source>Fit</source>
-        <translation>Potrivire</translation>
+        <translation>Potrivește</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation>Completează</translation>
+        <translation>Umple</translation>
     </message>
     <message>
         <source>Set as wallpaper</source>
@@ -12836,7 +12836,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Undefined</source>
-        <translation>Nedefinit</translation>
+        <translation>Nedefinită</translation>
     </message>
     <message>
         <source>Protected by copyright</source>
@@ -16484,7 +16484,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Alpha</source>
-        <translation>Alfa</translation>
+        <translation>Alfa (Alpha)</translation>
     </message>
     <message>
         <source>Close</source>
@@ -17885,7 +17885,7 @@ O poți schimba în Setări › Catalog.</translation>
     </message>
     <message>
         <source>Style</source>
-        <translation>Stil</translation>
+        <translation>Stilul</translation>
     </message>
     <message>
         <source>Fill</source>
