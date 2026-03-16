@@ -4922,7 +4922,7 @@ Biztos folytassuk?</translation>
     <message>
         <location filename="DlgConvert.ui" line="649"/>
         <source>Multiple resolution...</source>
-        <translation type="unfinished"></translation>
+        <translation>Többszöri felbontás...</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="844"/>
@@ -6021,17 +6021,17 @@ Biztos folytassuk?</translation>
         <location filename="DlgConvertMulti.ui" line="14"/>
         <location filename="DlgConvertMulti.cpp" line="18"/>
         <source>Multiple output</source>
-        <translation type="unfinished"></translation>
+        <translation>Többszöri kimenet</translation>
     </message>
     <message>
         <location filename="DlgConvertMulti.cpp" line="45"/>
         <source>Width:</source>
-        <translation type="unfinished">Szélesség:</translation>
+        <translation>Szélesség:</translation>
     </message>
     <message>
         <location filename="DlgConvertMulti.cpp" line="51"/>
         <source>Height:</source>
-        <translation type="unfinished">Magasság:</translation>
+        <translation>Magasság:</translation>
     </message>
 </context>
 <context>
@@ -17332,7 +17332,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="ItemModel.cpp" line="1038"/>
         <source>Bits</source>
-        <translation type="unfinished">Bit</translation>
+        <translation>Bit</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="665"/>
