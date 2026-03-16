@@ -16740,7 +16740,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Real size</source>
-        <translation>Mărimea adevarată</translation>
+        <translation>Mărimea adevărată</translation>
     </message>
     <message>
         <source>Print selection...</source>
