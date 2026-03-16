@@ -3163,7 +3163,7 @@ Deseja substituí-lo?</translation>
     <message>
         <location filename="DlgCapture.ui" line="153"/>
         <source>Output</source>
-        <translation>Árra capturada</translation>
+        <translation>Área capturada</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="159"/>
@@ -5303,7 +5303,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="DlgConvert.ui" line="649"/>
         <source>Multiple resolution...</source>
-        <translation type="unfinished"></translation>
+        <translation>Resolução múltipla...</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1067"/>
@@ -6063,17 +6063,17 @@ Deseja continuar?</translation>
         <location filename="DlgConvertMulti.ui" line="14"/>
         <location filename="DlgConvertMulti.cpp" line="18"/>
         <source>Multiple output</source>
-        <translation type="unfinished"></translation>
+        <translation>Resultado múltiplo</translation>
     </message>
     <message>
         <location filename="DlgConvertMulti.cpp" line="45"/>
         <source>Width:</source>
-        <translation type="unfinished">Largura:</translation>
+        <translation>Largura:</translation>
     </message>
     <message>
         <location filename="DlgConvertMulti.cpp" line="51"/>
         <source>Height:</source>
-        <translation type="unfinished">Altura:</translation>
+        <translation>Altura:</translation>
     </message>
 </context>
 <context>
