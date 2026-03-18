@@ -191,7 +191,7 @@
     <message>
         <location filename="AboutWidget.ui" line="294"/>
         <source>Language</source>
-        <translation type="unfinished">Jazyk</translation>
+        <translation>Jazyk</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="308"/>
@@ -637,7 +637,7 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="2265"/>
         <source>Thumbnails</source>
-        <translation type="unfinished">Náhledy</translation>
+        <translation>Náhledy</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3463"/>
@@ -682,7 +682,7 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="2055"/>
         <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi-select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right-click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Filtr katalogu&lt;/b&gt;&lt;br&gt;Klikněte levým tlačítkem pro filtrování&lt;br&gt;&amp;bull; Shift/Ctrl - vícenásobný výběr&lt;br&gt;&amp;bull; Alt - vynechání položek&lt;br&gt;Klikněte pravým tlačítkem pro volby uzlu&lt;br&gt;Chytnutím a přetažením na uzel přiřaďte</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3465"/>
