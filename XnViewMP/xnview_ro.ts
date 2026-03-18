@@ -372,7 +372,7 @@
     <name>BannerProcess</name>
     <message>
         <source>Abort</source>
-        <translation>Anulează</translation>
+        <translation>Întrerupe</translation>
     </message>
     <message>
         <source>Creating contact sheet...</source>
@@ -935,7 +935,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     <name>ContactSheetProcess</name>
     <message>
         <source>Abort</source>
-        <translation>Anulează</translation>
+        <translation>Întrerupe</translation>
     </message>
     <message>
         <source>Creating contact sheet...</source>
@@ -954,7 +954,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Blur</source>
-        <translation>Estompează</translation>
+        <translation>Estompează/Blurează/Încețoșează</translation>
     </message>
     <message>
         <source>Crop</source>
@@ -1266,7 +1266,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Sharpen</source>
-        <translation>Ascuţit</translation>
+        <translation>Accentuează detaliile (Claritate)</translation>
     </message>
     <message>
         <source>Emboss more</source>
@@ -1370,7 +1370,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Unsharp Mask</source>
-        <translation>Mască neclară</translation>
+        <translation>Mască de neclaritate</translation>
     </message>
     <message>
         <source>No settings</source>
@@ -3395,7 +3395,7 @@ Vrei să continui?</translation>
     <name>DlgConvertBloom</name>
     <message>
         <source>Blur</source>
-        <translation>Blurare</translation>
+        <translation>Estompează/Blurează/Încețoșează</translation>
     </message>
     <message>
         <source>Method</source>
@@ -3414,7 +3414,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Blur</source>
-        <translation>Estompa</translation>
+        <translation>Estompează/Blurează/Încețoșează</translation>
     </message>
     <message>
         <source>Width</source>
@@ -4599,7 +4599,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>RGB</source>
-        <translation>RGB</translation>
+        <translation>RGB (Roșu, Verde, Albastru)</translation>
     </message>
     <message>
         <source>RGB+Luminance</source>
@@ -4633,7 +4633,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Blur</source>
-        <translation>Estompare</translation>
+        <translation>Estompează/Blurează/Încețoșează</translation>
     </message>
     <message>
         <source>Mask</source>
@@ -5204,7 +5204,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Blur</source>
-        <translation>Estompare</translation>
+        <translation>Estompează/Blurează/Încețoșează</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -5620,7 +5620,7 @@ Vrei să continui?</translation>
     <name>DlgCurves</name>
     <message>
         <source>RGB</source>
-        <translation>RGB</translation>
+        <translation>RGB (Roșu, Verde, Albastru)</translation>
     </message>
     <message>
         <source>Red</source>
@@ -6671,7 +6671,7 @@ Te rugăm să încerci să pornești programul cu drepturi de administrator.</tr
     </message>
     <message>
         <source>Abort</source>
-        <translation>Anulează</translation>
+        <translation>Întrerupe</translation>
     </message>
     <message>
         <source>Unable to load the file %1: %2.</source>
@@ -6793,7 +6793,7 @@ Te rugăm să încerci să pornești programul cu drepturi de administrator.</tr
     </message>
     <message>
         <source>Abort</source>
-        <translation>Anulează</translation>
+        <translation>Întrerupe</translation>
     </message>
     <message>
         <source>Unable to load the file %1: %2.</source>
@@ -6817,7 +6817,7 @@ Te rugăm să încerci să pornești programul cu drepturi de administrator.</tr
     </message>
     <message>
         <source>Aborted.</source>
-        <translation>Anulat.</translation>
+        <translation>Întrerupt.</translation>
     </message>
     <message>
         <source>Unable to connect to the FTP server at %1. Please check that the host name is correct.</source>
@@ -7121,7 +7121,7 @@ Subfolderele (Subdosarele) vor fi create.. </translation>
     <name>DlgImportThread</name>
     <message>
         <source>Abort</source>
-        <translation>Anulează</translation>
+        <translation>Întrerupe</translation>
     </message>
     <message>
         <source>Import and sort files...</source>
@@ -7559,7 +7559,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>RGB</source>
-        <translation>RGB</translation>
+        <translation>RGB (Roșu, Verde, Albastru)</translation>
     </message>
     <message>
         <source>Mode</source>
@@ -7679,7 +7679,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     <name>DlgPlugins</name>
     <message>
         <source>Abort</source>
-        <translation>Anulează</translation>
+        <translation>Întrerupe</translation>
     </message>
 </context>
 <context>
@@ -8077,7 +8077,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     <name>DlgReadCRaw</name>
     <message>
         <source>Convert to sRGB</source>
-        <translation>Convertește în sRGB</translation>
+        <translation>Convertește în sRGB (în Roșu, Verde și Albastru standard)</translation>
     </message>
     <message>
         <source>Use Automatic white balance</source>
@@ -8429,7 +8429,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Create new name template when opening dialog</source>
-        <translation>Crează un nou șablon de nume când deschizi dialogul</translation>
+        <translation>Crează un nou șablon de nume când deschizi caseta de dialog</translation>
     </message>
     <message>
         <source>Directory</source>
@@ -8673,7 +8673,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Sharpen</source>
-        <translation>Ascuţit</translation>
+        <translation>Accentuează detaliile (Claritate)</translation>
     </message>
     <message>
         <source>Resample</source>
@@ -8810,7 +8810,7 @@ Vrei să le redenumești?</translation>
     <name>DlgSearchClass</name>
     <message>
         <source>Abort</source>
-        <translation>Anulează</translation>
+        <translation>Întrerupe</translation>
     </message>
     <message>
         <source>Close</source>
@@ -9764,7 +9764,7 @@ miniatură</translation>
     </message>
     <message>
         <source>sRGB</source>
-        <translation>sRGB</translation>
+        <translation>sRGB (Roșu, Verde și Albastru standard)</translation>
     </message>
     <message>
         <source>Daily</source>
@@ -9872,7 +9872,7 @@ miniatură</translation>
     </message>
     <message>
         <source>Use dialog to rename file/folder</source>
-        <translation>Folosește dialogul pentru a redenumi fișierul/dosarul (folderul)</translation>
+        <translation>Folosește caseta de dialog ca să redenumești fișierul/dosarul (folderul)</translation>
     </message>
     <message>
         <source>Keep original date/time</source>
@@ -10267,7 +10267,7 @@ miniatură</translation>
     </message>
     <message>
         <source>-- NEW XMP TEMPLATE --</source>
-        <translation>-- șABLON NOU XMP --</translation>
+        <translation>-- ȘABLON NOU XMP --</translation>
     </message>
     <message>
         <source>%1 is already assigned to:
@@ -11025,7 +11025,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Use sharpen</source>
-        <translation>Crește claritatea miniaturilor</translation>
+        <translation>Aplică accentuarea/Folosește claritatea</translation>
     </message>
     <message>
         <source>Browser › View › View as › Thumbnails + Labels</source>
@@ -11163,7 +11163,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Use sharpen</source>
-        <translation>Folosește accentuarea</translation>
+        <translation>Aplică accentuarea/Folosește claritatea</translation>
     </message>
     <message>
         <source>Keep current image</source>
@@ -11327,7 +11327,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Reset X/Y position on file change (No fit)</source>
-        <translation>Resetează poziția X/Y la modificarea fișierului (Fără potrivire)</translation>
+        <translation>Resetează poziția X/Y la modificarea fișierului (fără potrivire)</translation>
     </message>
     <message>
         <source>Anti-aliasing</source>
@@ -12658,7 +12658,7 @@ Vrei să continui?</translation>
     <name>DlgWritePDFClass</name>
     <message>
         <source>B&amp;W</source>
-        <translation>B&amp;W</translation>
+        <translation>A&amp;N (Alb și negru)</translation>
     </message>
     <message>
         <source>Color</source>
@@ -12813,7 +12813,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Use sharp (and slow) RGB→YUV conversion</source>
-        <translation>Folosește o conversia RGB → YUV curată (și lentă)</translation>
+        <translation>Folosește conversia RGB → YUV precisă (și lentă)</translation>
     </message>
     <message>
         <source>File size (kB)</source>
@@ -12975,7 +12975,7 @@ Vrei să continui?</translation>
     <name>Email</name>
     <message>
         <source>Abort</source>
-        <translation>Anulează</translation>
+        <translation>Întrerupe</translation>
     </message>
     <message>
         <source>Sending...</source>
@@ -14048,7 +14048,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Sharpness</source>
-        <translation>Claritate</translation>
+        <translation>Accentuare/Claritate</translation>
     </message>
     <message>
         <source>Latitude</source>
@@ -17370,7 +17370,7 @@ Vrei să continui?</translation>
     <name>MyAddFolderProcess</name>
     <message>
         <source>Abort</source>
-        <translation>Anulare</translation>
+        <translation>Întrerupe</translation>
     </message>
     <message>
         <source>Building catalog entries...</source>
@@ -17388,7 +17388,7 @@ Vrei să continui?</translation>
     <name>MyAddFolderProcess3</name>
     <message>
         <source>Abort</source>
-        <translation>Anulare</translation>
+        <translation>Întrerupe</translation>
     </message>
     <message>
         <source>Check folders...</source>
@@ -17473,7 +17473,7 @@ Vrei să continui?</translation>
     <name>MyHistogram</name>
     <message>
         <source>RGB</source>
-        <translation>RGB</translation>
+        <translation>RGB (Roșu, Verde, Albastru)</translation>
     </message>
     <message>
         <source>Red</source>
@@ -17530,7 +17530,7 @@ Vrei să continui?</translation>
     <name>MyProgressDialog</name>
     <message>
         <source>Abort</source>
-        <translation>Anulare</translation>
+        <translation>Întrerupe</translation>
     </message>
 </context>
 <context>
@@ -17627,7 +17627,7 @@ O poți schimba în Setări › Catalog.</translation>
     <name>MyView</name>
     <message>
         <source>RGB</source>
-        <translation>RGB</translation>
+        <translation>RGB (Roșu, Verde, Albastru)</translation>
     </message>
     <message>
         <source>RGB/A</source>
@@ -17701,7 +17701,7 @@ O poți schimba în Setări › Catalog.</translation>
     <name>PaintWidget</name>
     <message>
         <source>Blur</source>
-        <translation>Estompare</translation>
+        <translation>Estompează/Blurează/Încețoșează</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -18749,7 +18749,7 @@ O poți schimba în Setări › Catalog.</translation>
     </message>
     <message>
         <source>Blur</source>
-        <translation>Estompare</translation>
+        <translation>Estompează/Blurează/Încețoșează</translation>
     </message>
     <message>
         <source>Undo</source>
