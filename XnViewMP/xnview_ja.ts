@@ -3849,19 +3849,19 @@ Do you want to go on the download page?</source>
         <location filename="DlgConvert.cpp" line="1710"/>
         <source>Export script</source>
         <translatorcomment>TXT_SeqConvert_Export</translatorcomment>
-        <translation>エクスポート</translation>
+        <translation>スクリプトをエクスポート</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2075"/>
         <source>Load script</source>
         <translatorcomment>TXT_SeqConvert_Load_Script</translatorcomment>
-        <translation>スクリプト読み込み</translation>
+        <translation>スクリプトを読み込む</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2089"/>
         <source>Save script</source>
         <translatorcomment>TXT_SeqConvert_Save_Script</translatorcomment>
-        <translation>スクリプト保存</translation>
+        <translation>スクリプトを保存</translation>
     </message>
     <message numerus="yes">
         <location filename="DlgConvert.cpp" line="2271"/>
@@ -5326,7 +5326,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="649"/>
         <source>Multiple resolution...</source>
-        <translation type="unfinished"></translation>
+        <translation>複数解像度…</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1102"/>
@@ -6114,17 +6114,17 @@ Do you want to continue?</source>
         <location filename="DlgConvertMulti.ui" line="14"/>
         <location filename="DlgConvertMulti.cpp" line="18"/>
         <source>Multiple output</source>
-        <translation type="unfinished"></translation>
+        <translation>複数出力</translation>
     </message>
     <message>
         <location filename="DlgConvertMulti.cpp" line="45"/>
         <source>Width:</source>
-        <translation type="unfinished">幅：</translation>
+        <translation>幅:</translation>
     </message>
     <message>
         <location filename="DlgConvertMulti.cpp" line="51"/>
         <source>Height:</source>
-        <translation type="unfinished">高さ：</translation>
+        <translation>高さ:</translation>
     </message>
 </context>
 <context>
@@ -6144,7 +6144,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertNoise.ui" line="32"/>
         <source>Laplacian</source>
         <translatorcomment>TXT_String_Add_Laplacian_Noise</translatorcomment>
-        <translation>ラップノイズ</translation>
+        <translation>ラプラシアンノイズ</translation>
     </message>
     <message>
         <location filename="DlgConvertNoise.ui" line="37"/>
@@ -6205,7 +6205,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertOffset.ui" line="213"/>
         <source>Empty Area</source>
-        <translation>空白域</translation>
+        <translation>空白部分</translation>
     </message>
     <message>
         <location filename="DlgConvertOffset.ui" line="221"/>
@@ -6215,12 +6215,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertOffset.ui" line="250"/>
         <source>Repeat edges pixels</source>
-        <translation>端のピクセルを繰り返す</translation>
+        <translation>端のピクセルを繰り返し配置</translation>
     </message>
     <message>
         <location filename="DlgConvertOffset.ui" line="257"/>
         <source>Wrap image around</source>
-        <translation>画像をラップアラウンド</translation>
+        <translation>画像を折り返す</translation>
     </message>
 </context>
 <context>
@@ -6303,7 +6303,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertQRcode.ui" line="74"/>
         <source>Top-Center</source>
-        <translation>中央-上</translation>
+        <translation>上-中央</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="84"/>
@@ -8883,7 +8883,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgGoXY.ui" line="14"/>
         <source>Pan to coordinates</source>
-        <translation>座標に移動</translation>
+        <translation>座標移動</translation>
     </message>
     <message>
         <location filename="DlgGoXY.ui" line="20"/>
@@ -22280,7 +22280,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="413"/>
         <source>Pan to coordinates...</source>
         <oldsource>Go to x,y location...</oldsource>
-        <translation>座標へ移動..</translation>
+        <translation>座標移動…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="446"/>
