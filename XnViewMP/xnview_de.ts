@@ -2476,22 +2476,22 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="DlgBatchResize.ui" line="302"/>
         <source>Photo 4x6 inches (10x15 cm)</source>
-        <translation>Foto 10x15cm (4x6 Zoll)</translation>
+        <translation>Foto 4x6 Zoll (10x15 cm)</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="307"/>
         <source>Photo 5x7 inches (13x18 cm)</source>
-        <translation>Foto 13x18 cm (5x7 Zoll)</translation>
+        <translation>Foto 5x7 Zoll (13x18 cm)</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="312"/>
         <source>Photo 6x8 inches (15x20 cm)</source>
-        <translation>Foto 15x20 cm (6x8 Zoll)</translation>
+        <translation>Foto 6x8 Zoll (15x20 cm)</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="317"/>
         <source>Photo 8x10 inches (20x25 cm)</source>
-        <translation>Foto 20x25 cm (8x10 Zoll)</translation>
+        <translation>Foto 8x10 Zoll (20x25 cm)</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="358"/>
@@ -4531,22 +4531,22 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="DlgConvertCanvas.ui" line="53"/>
         <source>Photo 4x6 inches (10x15 cm)</source>
-        <translation>Foto 10x15 cm (4x6 Zoll) {4x?} {6 ?} {10x?} {15 ?}</translation>
+        <translation>Foto 4x6 Zoll (10x15 cm)</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="58"/>
         <source>Photo 5x7 inches (13x18 cm)</source>
-        <translation>Foto 13x18 cm (5x7 Zoll) {5x?} {7 ?} {13x?} {18 ?}</translation>
+        <translation>Foto 5x7 Zoll (13x18 cm)</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="63"/>
         <source>Photo 6x8 inches (15x20 cm)</source>
-        <translation>Foto 15x20 cm (6x8 Zoll) {6x?} {8 ?} {15x?} {20 ?}</translation>
+        <translation>Foto 6x8 Zoll (15x20 cm)</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="68"/>
         <source>Photo 8x10 inches (20x25 cm)</source>
-        <translation>Foto 20x25 cm (8x10 Zoll) {6x?} {8 ?} {15x?} {20 ?}</translation>
+        <translation>Foto 8x10 Zoll (20x25 cm)</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="116"/>
@@ -6353,7 +6353,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="DlgConvertResize.ui" line="50"/>
         <source>Photo 4x6 inches (10x15 cm)</source>
-        <translation>Foto 4x6 Zoll (10x15cm)</translation>
+        <translation>Foto 4x6 Zoll (10x15 cm)</translation>
     </message>
     <message>
         <location filename="DlgConvertResize.ui" line="55"/>
@@ -21965,7 +21965,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="ViewMenu.h" line="746"/>
         <source>Effect</source>
-        <translation>Effekt</translation>
+        <translation>&amp;Effekt</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="458"/>
