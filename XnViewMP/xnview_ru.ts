@@ -2497,22 +2497,22 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgBatchResize.ui" line="302"/>
         <source>Photo 4x6 inches (10x15 cm)</source>
-        <translation>Фотография 4x6 дюйма (10x15 см)</translation>
+        <translation>Фото 4x6 дюйма (10x15 см)</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="307"/>
         <source>Photo 5x7 inches (13x18 cm)</source>
-        <translation>Фотография 5x7 дюйма (13x18 см)</translation>
+        <translation>Фото 5x7 дюйма (13x18 см)</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="312"/>
         <source>Photo 6x8 inches (15x20 cm)</source>
-        <translation>Фотография 6x8 дюйма (15x20 см)</translation>
+        <translation>Фото 6x8 дюйма (15x20 см)</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="317"/>
         <source>Photo 8x10 inches (20x25 cm)</source>
-        <translation>Фотография 8x10 дюйма (20x25 см)</translation>
+        <translation>Фото 8x10 дюйма (20x25 см)</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="358"/>
@@ -4576,22 +4576,22 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertCanvas.ui" line="53"/>
         <source>Photo 4x6 inches (10x15 cm)</source>
-        <translation>Фотография 4x6 дюйма (10x15 см)</translation>
+        <translation>Фото 4x6 дюйма (10x15 см)</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="58"/>
         <source>Photo 5x7 inches (13x18 cm)</source>
-        <translation>Фотография 5x7 дюйма (13x18 см)</translation>
+        <translation>Фото 5x7 дюйма (13x18 см)</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="63"/>
         <source>Photo 6x8 inches (15x20 cm)</source>
-        <translation>Фотография 6x8 дюйма (15x20 см)</translation>
+        <translation>Фото 6x8 дюйма (15x20 см)</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="68"/>
         <source>Photo 8x10 inches (20x25 cm)</source>
-        <translation>Фотография 8x10 дюйма (20x25 см)</translation>
+        <translation>Фото 8x10 дюйма (20x25 см)</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="116"/>
@@ -6408,22 +6408,22 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertResize.ui" line="50"/>
         <source>Photo 4x6 inches (10x15 cm)</source>
-        <translation>Фотография 4x6 дюйма (10x15 см)</translation>
+        <translation>Фото 4x6 дюйма (10x15 см)</translation>
     </message>
     <message>
         <location filename="DlgConvertResize.ui" line="55"/>
         <source>Photo 5x7 inches (13x18 cm)</source>
-        <translation>Фотография 5x7 дюйма (13x18 см)</translation>
+        <translation>Фото 5x7 дюйма (13x18 см)</translation>
     </message>
     <message>
         <location filename="DlgConvertResize.ui" line="60"/>
         <source>Photo 6x8 inches (15x20 cm)</source>
-        <translation>Фотография 6x8 дюйма (15x20 см)</translation>
+        <translation>Фото 6x8 дюйма (15x20 см)</translation>
     </message>
     <message>
         <location filename="DlgConvertResize.ui" line="65"/>
         <source>Photo 8x10 inches (20x25 cm)</source>
-        <translation>Фотография 8x10 дюйма (20x25 см)</translation>
+        <translation>Фото 8x10 дюйма (20x25 см)</translation>
     </message>
     <message>
         <location filename="DlgConvertResize.ui" line="113"/>
@@ -9400,7 +9400,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgIptc.ui" line="14"/>
         <source>Edit IPTC-IIM</source>
         <oldsource>Edit IPTC-IIM/XMP</oldsource>
-        <translation>Изменить данные IPTC/IIM</translation>
+        <translation>Изменить данные IPTC-IIM</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="821"/>
