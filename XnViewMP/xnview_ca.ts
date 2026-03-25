@@ -20365,7 +20365,7 @@ Vols continuar?</translation>
     <message>
         <location filename="BrowserMenu.h" line="827"/>
         <source>&amp;Tools</source>
-        <translation>&amp;Eines</translation>
+        <translation>E&amp;ines</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="3"/>
@@ -20381,7 +20381,7 @@ Vols continuar?</translation>
         <location filename="BrowserMenu.h" line="828"/>
         <source>C&amp;reate</source>
         <oldsource>&amp;Create</oldsource>
-        <translation>&amp;Crea</translation>
+        <translation>C&amp;rea</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="829"/>
@@ -22386,7 +22386,7 @@ Vols continuar?</translation>
     <message>
         <location filename="ViewMenu.h" line="747"/>
         <source>&amp;Tools</source>
-        <translation>&amp;Eines</translation>
+        <translation>E&amp;ines</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="748"/>
