@@ -7321,7 +7321,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditEXIF.ui" line="14"/>
         <source>Edit EXIF</source>
-        <translation type="unfinished"></translation>
+        <translation>編輯 EXIF</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="26"/>
@@ -20024,7 +20024,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="603"/>
         <source>Edit GPS...</source>
-        <translation type="unfinished"></translation>
+        <translation>編輯 GPS...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="657"/>
@@ -20162,7 +20162,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="602"/>
         <source>Edit XMP...</source>
-        <translation>編輯XMP...</translation>
+        <translation>編輯 XMP...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="626"/>
@@ -20849,7 +20849,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="604"/>
         <source>Edit EXIF...</source>
-        <translation type="unfinished"></translation>
+        <translation>編輯 EXIF...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="605"/>
@@ -21064,7 +21064,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="674"/>
         <source>Edit face tag...</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑人臉標籤...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="677"/>
@@ -21100,7 +21100,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="826"/>
         <source>Meta&amp;data</source>
-        <translation>詮釋資料(&amp;d)</translation>
+        <translation>詮釋資料(&amp;D)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="827"/>
@@ -21115,7 +21115,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="828"/>
         <source>C&amp;reate</source>
-        <translation>建立(&amp;r)</translation>
+        <translation>建立(&amp;R)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="829"/>
@@ -21943,7 +21943,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="745"/>
         <source>Meta&amp;data</source>
         <oldsource>Metadata</oldsource>
-        <translation type="unfinished">詮釋資料</translation>
+        <translation>詮釋資料(&amp;D)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="746"/>
@@ -22081,7 +22081,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="520"/>
         <source>Edit XMP...</source>
-        <translation>編輯XMP...</translation>
+        <translation>編輯 XMP...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="522"/>
