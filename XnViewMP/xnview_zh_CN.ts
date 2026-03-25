@@ -7327,7 +7327,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditEXIF.ui" line="14"/>
         <source>Edit EXIF</source>
-        <translation type="unfinished">编辑 EXIF</translation>
+        <translation>编辑 EXIF</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="26"/>
@@ -7513,7 +7513,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditGps.ui" line="14"/>
         <source>Edit GPS Data</source>
-        <translation>编辑 GPS 数据</translation>
+        <translation>编辑 GPS</translation>
     </message>
     <message>
         <location filename="DlgEditGps.ui" line="79"/>
@@ -7582,7 +7582,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditXMP.ui" line="14"/>
         <source>Edit XMP</source>
-        <translation>编辑 XMP元数据</translation>
+        <translation>编辑 XMP</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="73"/>
@@ -13881,7 +13881,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="159"/>
         <source>Face tag</source>
-        <translation type="unfinished">脸部标记</translation>
+        <translation>脸部标记</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="183"/>
@@ -20158,7 +20158,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="603"/>
         <source>Edit GPS...</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑 GPS...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="607"/>
@@ -20345,12 +20345,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="601"/>
         <source>Edit IPTC...</source>
-        <translation type="unfinished">编辑 IPTC元数据…</translation>
+        <translation>编辑 IPTC…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="602"/>
         <source>Edit XMP...</source>
-        <translation>编辑 IPTC元数据/XMP元数据…</translation>
+        <translation>编辑 XMP…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="626"/>
@@ -20928,7 +20928,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="604"/>
         <source>Edit EXIF...</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑 EXIF...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="605"/>
@@ -21105,7 +21105,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="674"/>
         <source>Edit face tag...</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑 face tag...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="677"/>
@@ -21142,7 +21142,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="826"/>
         <source>Meta&amp;data</source>
-        <translation type="unfinished">元数据(&amp;d)</translation>
+        <translation>元数据(&amp;D)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="827"/>
@@ -21167,7 +21167,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="828"/>
         <source>C&amp;reate</source>
-        <translation>创建(&amp;C)</translation>
+        <translation>创建(&amp;R)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="829"/>
@@ -21585,12 +21585,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="519"/>
         <source>Edit IPTC...</source>
-        <translation>编辑 IPTC 元数据…</translation>
+        <translation>编辑 IPTC…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="520"/>
         <source>Edit XMP...</source>
-        <translation>编辑 XMP 元数据…</translation>
+        <translation>编辑 XMP…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="523"/>
@@ -22488,7 +22488,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="745"/>
         <source>Meta&amp;data</source>
         <oldsource>Metadata</oldsource>
-        <translation type="unfinished">元数据</translation>
+        <translation>元数据(&amp;D)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="746"/>
