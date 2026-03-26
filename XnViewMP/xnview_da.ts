@@ -3690,22 +3690,22 @@ Vil du overskrive den?</translation>
     <message>
         <location filename="DlgContactSheet.cpp" line="395"/>
         <source>Letter (8.5x11 inch)</source>
-        <translation>Brev</translation>
+        <translation>Brev (8.5x11&quot;)</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.cpp" line="397"/>
         <source>Legal (8.5x14 inch)</source>
-        <translation>Gyldige</translation>
+        <translation>Gyldige (8.5x14&quot;)</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.cpp" line="399"/>
         <source>A4 (21.0x29.7cm)</source>
-        <translation>A4(21.0x29.7cm)</translation>
+        <translation>A4 (21.0x29.7cm)</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.cpp" line="401"/>
         <source>A3 (29.7x42.0cm)</source>
-        <translation>A3(29.7x42.0cm)</translation>
+        <translation>A3 (29.7x42.0cm)</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.cpp" line="403"/>
@@ -10072,12 +10072,12 @@ Tjek at filerne ikke er read-only!</translation>
     <message>
         <location filename="DlgPrint.ui" line="384"/>
         <source>Post card - 148x100mm (5.83x3.94&quot;)</source>
-        <translation>Postkort - 148x100mm (5.83x3.94&quot;)</translation>
+        <translation>148x100mm (5.83x3.94&quot;) Postkort</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="389"/>
         <source>Visiting card - 91x55mm (3.58x2.17&quot;)</source>
-        <translation>Visitkort - 91x55mm (3.58x2.17&quot;)</translation>
+        <translation>91x55mm (3.58x2.17&quot;) Visitkort</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="394"/>
