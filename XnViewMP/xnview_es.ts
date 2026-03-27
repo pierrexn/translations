@@ -4147,7 +4147,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Multiple resolution...</source>
-        <translation type="unfinished"></translation>
+        <translation>Varias resoluciones...</translation>
     </message>
 </context>
 <context>
@@ -4659,15 +4659,15 @@ Do you want to overwrite it?</source>
     <name>DlgConvertMulti</name>
     <message>
         <source>Multiple output</source>
-        <translation type="unfinished"></translation>
+        <translation>Varias salidas</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished">Ancho:</translation>
+        <translation>Ancho:</translation>
     </message>
     <message>
         <source>Height:</source>
-        <translation type="unfinished">Alto:</translation>
+        <translation>Alto:</translation>
     </message>
 </context>
 <context>
