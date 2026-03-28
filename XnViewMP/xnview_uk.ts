@@ -3707,7 +3707,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgContactSheet.cpp" line="401"/>
         <source>A3 (29.7x42.0cm)</source>
-        <translation>A3 (29.7x42.0cm)</translation>
+        <translation>A3 (29.7x42.0 см)</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.cpp" line="403"/>
