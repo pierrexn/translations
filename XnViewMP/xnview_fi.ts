@@ -16092,7 +16092,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>##rating## (go to next image)</source>
-        <translation>##luokitus## (siirry seuraavaan kuvaan)</translation>
+        <translation>##rating## (siirry seuraavaan kuvaan)</translation>
     </message>
     <message>
         <source>Open in file manager</source>
