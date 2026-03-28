@@ -185,7 +185,7 @@
         <location filename="AboutWidget.ui" line="275"/>
         <location filename="AboutWidget.ui" line="299"/>
         <source>Translators</source>
-        <translation type="unfinished"></translation>
+        <translation>譯者</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="294"/>
@@ -354,17 +354,17 @@
     <message>
         <location filename="ViewWindow.cpp" line="244"/>
         <source>Save &amp;as...</source>
-        <translation>另存(&amp;a)為...</translation>
+        <translation>另存為(&amp;A)…</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="252"/>
         <source>&amp;Save</source>
-        <translation>儲存(&amp;s)</translation>
+        <translation>儲存(&amp;S)</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="253"/>
         <source>&amp;Don&apos;t Save</source>
-        <translation>不儲存(&amp;d)</translation>
+        <translation>不儲存(&amp;D)</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="256"/>
@@ -2086,13 +2086,13 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DBFilterModel.cpp" line="180"/>
         <location filename="DBFilterModel.cpp" line="196"/>
         <source>Albums</source>
-        <translation type="unfinished"></translation>
+        <translation>專輯</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="182"/>
         <location filename="DBFilterModel.cpp" line="197"/>
         <source>Smart Albums</source>
-        <translation type="unfinished"></translation>
+        <translation>智慧型相簿</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="198"/>
@@ -2109,7 +2109,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DBFilterModel.cpp" line="255"/>
         <location filename="DBFilterModel.cpp" line="555"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>勾選</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1467"/>
@@ -2121,7 +2121,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DBFilterModel.cpp" line="2187"/>
         <location filename="DBFilterModel.cpp" line="2204"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>未知</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2192"/>
@@ -3047,7 +3047,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgBatchResize.cpp" line="1523"/>
         <source>Yes to &amp;all</source>
-        <translation>全都確定(&amp;a)</translation>
+        <translation>全都確定(&amp;A)</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1524"/>
@@ -3370,13 +3370,13 @@ Do you want to overwrite it?</oldsource>
         <location filename="DlgComment.ui" line="138"/>
         <source>&amp;Write</source>
         <oldsource>Write</oldsource>
-        <translation>寫入(&amp;w)</translation>
+        <translation>寫入(&amp;W)</translation>
     </message>
     <message>
         <location filename="DlgComment.ui" line="145"/>
         <source>Write &amp;all</source>
         <oldsource>Write all</oldsource>
-        <translation>寫入所有(&amp;a)</translation>
+        <translation>寫入所有(&amp;A)</translation>
     </message>
 </context>
 <context>
@@ -4075,7 +4075,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgConvert.cpp" line="2837"/>
         <source>Yes to &amp;all</source>
-        <translation>全都確定(&amp;a)</translation>
+        <translation>全都確定(&amp;A)</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2838"/>
@@ -7613,19 +7613,19 @@ Do you want to continue?</source>
         <location filename="DlgEditXMP.cpp" line="43"/>
         <source>Write &amp;to all files</source>
         <oldsource>Write to all files</oldsource>
-        <translation>全部寫入(&amp;t)</translation>
+        <translation>全部寫入(&amp;T)</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="44"/>
         <source>&amp;Write</source>
         <oldsource>Write</oldsource>
-        <translation>寫入(&amp;w)</translation>
+        <translation>寫入(&amp;W)</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="45"/>
         <source>&amp;Apply</source>
         <oldsource>Apply</oldsource>
-        <translation>套用(&amp;a)</translation>
+        <translation>套用(&amp;A)</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="143"/>
@@ -8406,7 +8406,7 @@ Please try to start with admin rights.</source>
         <location filename="DlgFileReplace.ui" line="352"/>
         <source>Re&amp;name</source>
         <oldsource>Rename</oldsource>
-        <translation>重新命名(&amp;n)</translation>
+        <translation>重新命名(&amp;N)</translation>
     </message>
     <message>
         <location filename="DlgFileReplace.ui" line="362"/>
@@ -8416,18 +8416,18 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFileReplace.ui" line="432"/>
         <source>&amp;Replace</source>
-        <translation>取代(&amp;r)</translation>
+        <translation>取代(&amp;R)</translation>
     </message>
     <message>
         <location filename="DlgFileReplace.ui" line="442"/>
         <source>Replace &amp;all</source>
         <oldsource>Replace all</oldsource>
-        <translation>全部取代(&amp;a)</translation>
+        <translation>全部取代(&amp;A)</translation>
     </message>
     <message>
         <location filename="DlgFileReplace.ui" line="449"/>
         <source>&amp;Skip</source>
-        <translation>跳過(&amp;s)</translation>
+        <translation>跳過(&amp;S)</translation>
     </message>
     <message>
         <location filename="DlgFileReplace.cpp" line="123"/>
@@ -8438,7 +8438,7 @@ Please try to start with admin rights.</source>
         <location filename="DlgFileReplace.ui" line="459"/>
         <source>Skip a&amp;ll</source>
         <oldsource>Skip all</oldsource>
-        <translation>全部跳過(&amp;l)</translation>
+        <translation>全部跳過(&amp;L)</translation>
     </message>
     <message>
         <location filename="DlgFileReplace.ui" line="479"/>
@@ -9141,13 +9141,13 @@ Subfolders will be created. </source>
         <location filename="DlgIptc.cpp" line="50"/>
         <source>Write &amp;to all files</source>
         <oldsource>Write to all files</oldsource>
-        <translation>全部寫入(&amp;t)</translation>
+        <translation>全部寫入(&amp;T)</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="51"/>
         <source>&amp;Write</source>
         <oldsource>Write</oldsource>
-        <translation>寫入(&amp;w)</translation>
+        <translation>寫入(&amp;W)</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="178"/>
@@ -9229,7 +9229,7 @@ Subfolders will be created. </source>
         <location filename="DlgIptc.cpp" line="52"/>
         <source>&amp;Apply</source>
         <oldsource>Apply</oldsource>
-        <translation>套用(&amp;a)</translation>
+        <translation>套用(&amp;A)</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="904"/>
@@ -11212,7 +11212,7 @@ Do you want to remove them?</source>
         <location filename="DlgSearch.cpp" line="81"/>
         <location filename="DlgSearch.cpp" line="189"/>
         <source>Smart Albums</source>
-        <translation type="unfinished"></translation>
+        <translation>智慧型相簿</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="81"/>
@@ -11670,7 +11670,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="498"/>
         <source>Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>欄</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="510"/>
@@ -13351,7 +13351,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="164"/>
         <source>TitleBar</source>
-        <translation type="unfinished"></translation>
+        <translation>標題列</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="499"/>
@@ -14043,7 +14043,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="722"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>勾選</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="904"/>
@@ -15910,7 +15910,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgVideoGallery.ui" line="59"/>
         <source>Columns</source>
-        <translation>行</translation>
+        <translation>欄</translation>
     </message>
     <message>
         <location filename="DlgVideoGallery.ui" line="69"/>
@@ -17313,7 +17313,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="ItemModel.cpp" line="1018"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>勾選</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1024"/>
@@ -17344,7 +17344,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DBFilterModel.cpp" line="2083"/>
         <source>Aspect Ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>外觀比</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2119"/>
@@ -17475,14 +17475,14 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="EditXMPWidget.cpp" line="358"/>
         <location filename="IptcEditBase.cpp" line="72"/>
         <source>Filename without extension</source>
-        <translation>主檔名(不含副檔名)</translation>
+        <translation>檔名 (不含副檔名)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="360"/>
         <location filename="IptcEditBase.cpp" line="74"/>
         <location filename="TemplateData.cpp" line="2825"/>
         <source>Filename (last number)</source>
-        <translation type="unfinished"></translation>
+        <translation>檔名 (最後一個數字)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="361"/>
@@ -17597,7 +17597,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="SearchField.cpp" line="30"/>
         <location filename="TemplateData.cpp" line="2824"/>
         <source>Filename (with extension)</source>
-        <translation>檔名(含副檔名)</translation>
+        <translation>檔名 (含副檔名)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2834"/>
@@ -17613,7 +17613,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2837"/>
         <source>Output filename (with extension)</source>
-        <translation>輸出檔名(含副檔名)</translation>
+        <translation>輸出檔名 (含副檔名)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2807"/>
@@ -18006,7 +18006,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2682"/>
         <source>Subject Distance Range</source>
-        <translation type="unfinished"></translation>
+        <translation>主體距離範圍</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2725"/>
@@ -19963,7 +19963,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="463"/>
         <source>Check/Uncheck</source>
-        <translation type="unfinished"></translation>
+        <translation>勾選 / 取消勾選</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="477"/>
@@ -19984,7 +19984,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="513"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>勾選</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="514"/>
@@ -21445,7 +21445,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="388"/>
         <source>Uncolored</source>
-        <translation>不加上顏色標籤</translation>
+        <translation>未加上顏色標籤</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="351"/>
@@ -21749,7 +21749,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="363"/>
         <source>Check/Uncheck</source>
-        <translation type="unfinished"></translation>
+        <translation>勾選 / 取消勾選</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="404"/>
