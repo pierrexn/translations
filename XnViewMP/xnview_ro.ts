@@ -1474,7 +1474,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Remove alpha channel</source>
-        <translation>Elimină canalul alfa</translation>
+        <translation>Elimină canalul alfa (alpha)</translation>
     </message>
 </context>
 <context>
@@ -4201,7 +4201,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Background color to use if image has an alpha channel</source>
-        <translation>Culoarea de fundal de utilizat dacă imaginea are un canal alfa</translation>
+        <translation>Culoarea de fundal de utilizat dacă imaginea are un canal alfa (alpha)</translation>
     </message>
     <message>
         <source>32 bits</source>
@@ -4217,7 +4217,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Replace alpha for 32bits images</source>
-        <translation>Înlocuiește canalul alfa pentru imaginile pe 32 de biți</translation>
+        <translation>Înlocuiește canalul alfa (alpha) pentru imaginile pe 32 de biți</translation>
     </message>
 </context>
 <context>
@@ -5417,7 +5417,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Don&apos;t use alpha channel</source>
-        <translation>Nu utiliza canalul alfa</translation>
+        <translation>Nu utiliza canalul alfa (alpha)</translation>
     </message>
     <message>
         <source>Image filename</source>
@@ -5508,7 +5508,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Contrast</source>
-        <translation>Contrast</translation>
+        <translation>Contrastul</translation>
     </message>
 </context>
 <context>
@@ -8234,7 +8234,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     <name>DlgReadPSD</name>
     <message>
         <source>Fix alpha channel</source>
-        <translation>Remediază canalul alfa</translation>
+        <translation>Remediază canalul alfa (alpha)</translation>
     </message>
 </context>
 <context>
@@ -9591,7 +9591,7 @@ miniatură</translation>
     </message>
     <message>
         <source>Folder always sorted alphabetically</source>
-        <translation>Dosar (Folder) sortat întotdeauna alfabetic</translation>
+        <translation>Dosarul (Folderul) să fie sortat întotdeauna alfabetic</translation>
     </message>
     <message>
         <source>Mixed file/folder sorting</source>
@@ -10833,7 +10833,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Use alpha channel</source>
-        <translation>Folosește canalul alfa</translation>
+        <translation>Folosește canalul alfa (alpha)</translation>
     </message>
     <message>
         <source>Spacing between labels</source>
@@ -13988,7 +13988,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Contrast</source>
-        <translation>Contrast</translation>
+        <translation>Contrastul</translation>
     </message>
     <message>
         <source>Direction ref.</source>
@@ -14425,7 +14425,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Creator</source>
-        <translation>Creator</translation>
+        <translation>Creatorul</translation>
     </message>
     <message>
         <source>Credits</source>
@@ -15267,7 +15267,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Use alpha channel</source>
-        <translation>Folosește canalul alfa</translation>
+        <translation>Folosește canalul alfa (alpha)</translation>
     </message>
     <message>
         <source>Rotate based on EXIF orientation field</source>
@@ -15655,7 +15655,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Show alpha</source>
-        <translation>Arată alfa</translation>
+        <translation>Afișează canalul alfa (alpha)</translation>
     </message>
     <message>
         <source>Information</source>
@@ -16516,7 +16516,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Use alpha channel</source>
-        <translation>Folosește canalul alfa</translation>
+        <translation>Folosește canalul alfa (alpha)</translation>
     </message>
     <message>
         <source>Rotate based on EXIF orientation field</source>
@@ -16640,7 +16640,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Remove alpha channel</source>
-        <translation>Elimină canalul alfa</translation>
+        <translation>Elimină canalul alfa (alpha)</translation>
     </message>
     <message>
         <source>Edit XMP...</source>
@@ -16784,7 +16784,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Show alpha</source>
-        <translation>Arată alfa</translation>
+        <translation>Afișează canalul alfa (alpha)</translation>
     </message>
     <message>
         <source>Solarize...</source>
