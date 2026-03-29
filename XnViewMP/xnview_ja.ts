@@ -259,7 +259,7 @@
     <message>
         <location filename="AboutWidget.cpp" line="263"/>
         <source>Formats in reading: %1 | Formats in writing: %2</source>
-        <translation>読み込み形式: %1 | 書き込み形式 %2</translation>
+        <translation>読み込み形式：%1 | 書き込み形式： %2</translation>
     </message>
 </context>
 <context>
@@ -342,7 +342,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="4467"/>
         <source>Number of unique colors: %1</source>
-        <translation>色の種類数: %1</translation>
+        <translation>色の種類数：%1</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="240"/>
@@ -362,17 +362,17 @@
     <message>
         <location filename="ViewWindow.cpp" line="244"/>
         <source>Save &amp;as...</source>
-        <translation>ファイル名をつけて保存（&amp;A)...</translation>
+        <translation>ファイル名をつけて保存(&amp;A)...</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="252"/>
         <source>&amp;Save</source>
-        <translation>保存（&amp;S)</translation>
+        <translation>保存(&amp;S)</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="253"/>
         <source>&amp;Don&apos;t Save</source>
-        <translation>保存しない（&amp;D)</translation>
+        <translation>保存しない(&amp;D)</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="256"/>
@@ -2942,7 +2942,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgBatchResize.ui" line="1500"/>
         <source>&amp;Convert</source>
-        <translation>変換（&amp;C）</translation>
+        <translation>変換(&amp;C)</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1522"/>
@@ -3115,7 +3115,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgBatchResize.cpp" line="1523"/>
         <source>Yes to &amp;all</source>
-        <translation>すべてはい(&amp;a)</translation>
+        <translation>すべてはい(&amp;A)</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1524"/>
@@ -3445,7 +3445,7 @@ Do you want to overwrite it?</oldsource>
         <location filename="DlgComment.ui" line="145"/>
         <source>Write &amp;all</source>
         <oldsource>Write all</oldsource>
-        <translation>すべて書き込み (&amp;a)</translation>
+        <translation>すべて書き込み(&amp;A)</translation>
     </message>
 </context>
 <context>
@@ -4169,7 +4169,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgConvert.cpp" line="2837"/>
         <source>Yes to &amp;all</source>
-        <translation>すべてはい(&amp;a)</translation>
+        <translation>すべてはい(&amp;A)</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2838"/>
@@ -4532,7 +4532,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertBorder.ui" line="460"/>
         <source>Top-Center</source>
         <oldsource>Top center</oldsource>
-        <translation>中央上</translation>
+        <translation>上-中央</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="465"/>
@@ -5421,7 +5421,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="1906"/>
         <source>Presets:</source>
-        <translation>プリセット:</translation>
+        <translation>プリセット：</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1913"/>
@@ -5441,7 +5441,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="2104"/>
         <source>&amp;Convert</source>
-        <translation>変換（&amp;C）</translation>
+        <translation>変換(&amp;C)</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="2115"/>
@@ -6879,7 +6879,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertText.ui" line="114"/>
         <source>Top-Center</source>
-        <translation>中央-上</translation>
+        <translation>上-中央</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="124"/>
@@ -7202,7 +7202,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgCreateMulti.ui" line="26"/>
         <source>View as:</source>
-        <translation>表示:</translation>
+        <translation>表示：</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.ui" line="33"/>
@@ -7722,7 +7722,7 @@ Do you want to continue?</source>
         <location filename="DlgEditXMP.cpp" line="43"/>
         <source>Write &amp;to all files</source>
         <oldsource>Write to all files</oldsource>
-        <translation>すべてのファイルに書き込み(&amp;T)</translation>
+        <translation>すべてのファイルに書き込む(&amp;T)</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="44"/>
@@ -9267,7 +9267,7 @@ Subfolders will be created. </source>
         <location filename="DlgIptc.cpp" line="51"/>
         <source>&amp;Write</source>
         <oldsource>Write</oldsource>
-        <translation>書き込む(&amp;W)</translation>
+        <translation>書き込み(&amp;W)</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="178"/>
@@ -10378,7 +10378,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPrint.cpp" line="1619"/>
         <source>Page size: %1x%2 inches, %3x%4 mm</source>
-        <translation>ページサイズ: %1x%2インチ, %3x%4 mm</translation>
+        <translation>ページサイズ：%1×%2インチ、%3×%4 mm</translation>
     </message>
     <message>
         <location filename="DlgPrint.cpp" line="1627"/>
@@ -10438,7 +10438,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgProcess.ui" line="24"/>
         <source>Presets:</source>
-        <translation>プリセット:</translation>
+        <translation>プリセット：</translation>
     </message>
     <message>
         <location filename="DlgProcess.ui" line="38"/>
@@ -11061,7 +11061,7 @@ Do you want to remove them?</source>
         <location filename="DlgResize.cpp" line="423"/>
         <source>Result image size: %1x%2 - %3 Mpixels</source>
         <oldsource>Result image size: %1x%2 - %1 Mpixels</oldsource>
-        <translation>結果画像サイズ：%1x%2 - %3 メガピクセル</translation>
+        <translation>結果画像サイズ：%1×%2 - %3 メガピクセル</translation>
     </message>
     <message>
         <location filename="DlgResize.cpp" line="1103"/>
@@ -11422,7 +11422,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.ui" line="63"/>
         <source>F&amp;older</source>
-        <translation>フォルダー(&amp;o)</translation>
+        <translation>フォルダー(&amp;O)</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="116"/>
@@ -13322,7 +13322,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="118"/>
         <source>Purge &apos;Recent files and folders&apos; on exit</source>
-        <translation>終了時に&quot;最近使用したファイル&quot;を削除</translation>
+        <translation>終了時に「最近使用したファイル」を削除</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="335"/>
@@ -13815,7 +13815,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="56"/>
         <source>Drag&amp;&amp;Drop: Open single Viewer tab for filelist</source>
         <oldsource>Drag&amp;&amp;Drop: Open one view for filelist</oldsource>
-        <translation>ドラッグ＆ドロップ:ファイルリストを単一のビューアータブで開く</translation>
+        <translation>ドラッグ＆ドロップ：ファイルリストを単一のビューアータブで開く</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="87"/>
@@ -13826,7 +13826,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="230"/>
         <source>Maximum of view tabs:</source>
-        <translation>表示タブの最大:</translation>
+        <translation>表示タブの最大：</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="262"/>
@@ -13841,7 +13841,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="277"/>
         <source>Display:</source>
-        <translation>表示:</translation>
+        <translation>表示：</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="290"/>
@@ -13856,7 +13856,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="320"/>
         <source>Max width:</source>
-        <translation>最大幅:</translation>
+        <translation>最大幅：</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="79"/>
@@ -17725,7 +17725,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2833"/>
         <source>Size (kB)</source>
         <oldsource>Size (KB)</oldsource>
-        <translation>サイズ(kB)</translation>
+        <translation>サイズ（kB）</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2614"/>
@@ -17826,7 +17826,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2812"/>
         <source>Rating (number)</source>
-        <translation>レーティング(数字)</translation>
+        <translation>レーティング（数字）</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2814"/>
@@ -20352,7 +20352,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="651"/>
         <source>Fit image to window, large only</source>
         <translatorcomment>TXT_String_Fit_Image_To_Window_Large_Only</translatorcomment>
-        <translation>ウィンドウに合わせる（大のみ）</translation>
+        <translation>ウィンドウに合わせる（縮小のみ）</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="23"/>
@@ -20360,7 +20360,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="653"/>
         <source>Fit image to window width</source>
         <translatorcomment>TXT_String_Fit_Image_To_Window_Width</translatorcomment>
-        <translation>ウィンドウ幅に合わせる</translation>
+        <translation>ウィンドウの幅に合わせる</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="24"/>
@@ -20368,14 +20368,14 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="654"/>
         <source>Fit image to window height</source>
         <translatorcomment>TXT_String_Fit_Image_To_Window_Height</translatorcomment>
-        <translation>ウィンドウ高に合わせる</translation>
+        <translation>ウィンドウの高さに合わせる</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="25"/>
         <location filename="DlgSettingsView.cpp" line="274"/>
         <location filename="BrowserMenu.h" line="655"/>
         <source>Fit image to window width or height</source>
-        <translation>ウィンドウ幅または高さに合わせる</translation>
+        <translation>ウィンドウの幅または高さに合わせる</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="26"/>
@@ -20579,7 +20579,7 @@ Do you want to continue?</oldsource>
         <location filename="DlgSettingsView.cpp" line="270"/>
         <location filename="BrowserMenu.h" line="652"/>
         <source>Fit image to window, small only</source>
-        <translation>小さい画像のみ、ウィンドウに画像を合わせる</translation>
+        <translation>ウィンドウに合わせる（拡大のみ）</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="662"/>
@@ -21507,7 +21507,7 @@ Do you want to continue?</oldsource>
         <location filename="xnview.cpp" line="1338"/>
         <source>Report a Bug...</source>
         <oldsource>Report a Bug......</oldsource>
-        <translation>バグを報告......</translation>
+        <translation>バグを報告...</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1339"/>
@@ -21581,17 +21581,17 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="TemplateData.cpp" line="2582"/>
         <source>m - Month as decimal (01-12)</source>
-        <translation>m - 月(01-12)</translation>
+        <translation>m - 月 (01-12)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2583"/>
         <source>d - Day as decimal (01-31)</source>
-        <translation>d - 日(01-31)</translation>
+        <translation>d - 日 (01-31)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2585"/>
         <source>H - Hour (01-24)</source>
-        <translation>H - 時(01-24)</translation>
+        <translation>H - 時 (01-24)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2586"/>
@@ -21601,27 +21601,27 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="TemplateData.cpp" line="2587"/>
         <source>S - Second (00-59)</source>
-        <translation>S - 秒(00-59)</translation>
+        <translation>S - 秒 (00-59)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2589"/>
         <source>B - Month name (eg. february)</source>
-        <translation>B - 月の名前(例:february)</translation>
+        <translation>B - 月の名前（例：february）</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2590"/>
         <source>b - Abbreviated month name (eg. feb)</source>
-        <translation>b - 省略された月の名前(例:feb)</translation>
+        <translation>b - 省略された月の名前（例：feb）</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2591"/>
         <source>A - Weekday name (eg. wednesday)</source>
-        <translation>A - 曜日の名前(例:wednesday)</translation>
+        <translation>A - 曜日の名前（例：wednesday）</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2592"/>
         <source>a - Abbreviated weekday name (eg. wed)</source>
-        <translation>a - 省略された曜日の名前(例:wed)</translation>
+        <translation>a - 省略された曜日の名前（例：wed）</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2820"/>
@@ -21702,25 +21702,25 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="349"/>
         <source>Fit image to window</source>
         <translatorcomment>TXT_NviewMenu_Fit_Image_To_Window_All</translatorcomment>
-        <translation>ウィンドウサイズに合わせる(全)</translation>
+        <translation>ウィンドウに合わせる</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="350"/>
         <source>Fit image to window, large only</source>
         <translatorcomment>TXT_NviewMenu_Fit_Image_To_Window_Large_Only</translatorcomment>
-        <translation>ウィンドウサイズに合わせる(大のみ)</translation>
+        <translation>ウィンドウに合わせる（縮小のみ）</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="352"/>
         <source>Fit image to window width</source>
         <translatorcomment>TXT_NviewMenu_Fit_Image_To_Window_Width</translatorcomment>
-        <translation>ウィンドウ幅に合わせる</translation>
+        <translation>ウィンドウの幅に合わせる</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="353"/>
         <source>Fit image to window height</source>
         <translatorcomment>TXT_NviewMenu_Fit_Image_To_Window_Height</translatorcomment>
-        <translation>ウィンドウ高に合わせる</translation>
+        <translation>ウィンドウの高さに合わせる</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="354"/>
@@ -21782,7 +21782,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="351"/>
         <source>Fit image to window, small only</source>
-        <translation>小さい画像のみ、ウィンドウに画像を合わせる</translation>
+        <translation>ウィンドウに合わせる（拡大のみ）</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="338"/>
