@@ -21301,7 +21301,7 @@ Vil du fortsætte?</translation>
         <location filename="xnview.cpp" line="1338"/>
         <source>Report a Bug...</source>
         <oldsource>Report a Bug......</oldsource>
-        <translation>Rapportér fejl....</translation>
+        <translation>Rapportér fejl...</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1339"/>
