@@ -373,7 +373,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="253"/>
         <source>&amp;Don&apos;t Save</source>
-        <translation>不保存（&amp;D）</translation>
+        <translation>不保存(&amp;D)</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="256"/>
@@ -3054,7 +3054,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgBatchResize.cpp" line="1523"/>
         <source>Yes to &amp;all</source>
-        <translation>全部选是(&amp;Y)</translation>
+        <translation>全部选是(&amp;A)</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1524"/>
@@ -3069,7 +3069,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgBatchResize.cpp" line="1526"/>
         <source>&amp;Rename</source>
-        <translation>重命名（&amp;R）</translation>
+        <translation>重命名(&amp;R)</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1527"/>
@@ -4084,7 +4084,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgConvert.cpp" line="2837"/>
         <source>Yes to &amp;all</source>
-        <translation>全部选是(&amp;Y)</translation>
+        <translation>全部选是(&amp;A)</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2838"/>
@@ -4099,7 +4099,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgConvert.cpp" line="2840"/>
         <source>&amp;Rename</source>
-        <translation>重命名（&amp;R）</translation>
+        <translation>重命名(&amp;R)</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2841"/>
@@ -8412,7 +8412,7 @@ Please try to start with admin rights.</source>
         <location filename="DlgFileReplace.ui" line="352"/>
         <source>Re&amp;name</source>
         <oldsource>Rename</oldsource>
-        <translation>重命名(&amp;n)</translation>
+        <translation>重命名(&amp;N)</translation>
     </message>
     <message>
         <location filename="DlgFileReplace.ui" line="362"/>
@@ -8459,7 +8459,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFileReplace.cpp" line="121"/>
         <source>The destination contains already a folder with same name, what do you want to do?</source>
-        <translation>目标路径中已存在一个同名文件, 您想执行哪种操作?</translation>
+        <translation>目标路径中已存在一个同名文件，您想执行哪种操作？</translation>
     </message>
     <message>
         <location filename="DlgFileReplace.cpp" line="124"/>
@@ -8621,7 +8621,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFtp.cpp" line="570"/>
         <source>Unable to connect to the FTP server at %1. Please check that the host name is correct.</source>
-        <translation>无法连接到FTP服务器 %1, 请检查主机名是否正确。</translation>
+        <translation>无法连接到FTP服务器 %1，请检查主机名是否正确。</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="575"/>
@@ -8748,7 +8748,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFtp.h" line="311"/>
         <source>Unable to connect to the FTP server at %1. Please check that the host name is correct.</source>
-        <translation>无法连接到FTP服务器 %1, 请检查主机名是否正确。</translation>
+        <translation>无法连接到FTP服务器 %1，请检查主机名是否正确。</translation>
     </message>
     <message>
         <location filename="DlgFtp.h" line="323"/>
@@ -17561,14 +17561,14 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="IptcEditBase.cpp" line="80"/>
         <location filename="TemplateData.cpp" line="2831"/>
         <source>Size (Auto)</source>
-        <translation>大小（自动)</translation>
+        <translation>大小（自动）</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="367"/>
         <location filename="IptcEditBase.cpp" line="81"/>
         <location filename="TemplateData.cpp" line="2832"/>
         <source>Size (Bytes)</source>
-        <translation>大小(B)</translation>
+        <translation>大小（B）</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="368"/>
@@ -17576,17 +17576,17 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2833"/>
         <source>Size (kB)</source>
         <oldsource>Size (KB)</oldsource>
-        <translation type="unfinished">大小（KB)</translation>
+        <translation>大小（KB）</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2614"/>
         <source>Width (mm)</source>
-        <translation>宽度(毫米)</translation>
+        <translation>宽度（毫米）</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2615"/>
         <source>Height (mm)</source>
-        <translation>高度(毫米)</translation>
+        <translation>高度（毫米）</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2617"/>
@@ -17675,7 +17675,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2812"/>
         <source>Rating (number)</source>
-        <translation>评级(数字)</translation>
+        <translation>评级（数字）</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2814"/>
@@ -20015,7 +20015,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="463"/>
         <source>Check/Uncheck</source>
-        <translation type="unfinished"></translation>
+        <translation>勾选 / 取消勾选</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="477"/>
@@ -21074,7 +21074,7 @@ Do you want to continue?</oldsource>
         <location filename="DlgSettingsView.cpp" line="270"/>
         <location filename="BrowserMenu.h" line="652"/>
         <source>Fit image to window, small only</source>
-        <translation>图像适应窗口大小，仅针对小图片</translation>
+        <translation>适应窗口大小（仅小图片）</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="658"/>
@@ -21122,7 +21122,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="681"/>
         <source>Select TWAIN source...</source>
-        <translation>选择 TWAIN(图像通讯) 来源…</translation>
+        <translation>选择 TWAIN（图像通讯）来源…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="823"/>
@@ -21232,7 +21232,7 @@ Do you want to continue?</oldsource>
         <location filename="xnview.cpp" line="1338"/>
         <source>Report a Bug...</source>
         <oldsource>Report a Bug......</oldsource>
-        <translation>报告Bug问题……</translation>
+        <translation>报告Bug问题…</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1339"/>
@@ -21883,7 +21883,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="363"/>
         <source>Check/Uncheck</source>
-        <translation type="unfinished"></translation>
+        <translation>勾选 / 取消勾选</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="404"/>
@@ -22242,7 +22242,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="542"/>
         <source>Select TWAIN source...</source>
-        <translation>选择TWAIN(图像通讯)来源…</translation>
+        <translation>选择 TWAIN（图像通讯）来源…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="546"/>
