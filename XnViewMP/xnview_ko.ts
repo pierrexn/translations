@@ -364,7 +364,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="244"/>
         <source>Save &amp;as...</source>
-        <translation>다른 이름으로 저장... (%A)</translation>
+        <translation>다른 이름으로 저장 (&amp;A)…</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="252"/>
@@ -3047,27 +3047,27 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgBatchResize.cpp" line="1523"/>
         <source>Yes to &amp;all</source>
-        <translation>모두 예(&amp;A)</translation>
+        <translation>모두 예 (&amp;A)</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1524"/>
         <source>&amp;Yes</source>
-        <translation>예(&amp;Y)</translation>
+        <translation>예 (&amp;Y)</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1525"/>
         <source>&amp;No</source>
-        <translation>아니오(&amp;N)</translation>
+        <translation>아니오 (&amp;N)</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1526"/>
         <source>&amp;Rename</source>
-        <translation>이름 변경(&amp;R)</translation>
+        <translation>이름 변경 (&amp;R)</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1527"/>
         <source>&amp;Cancel</source>
-        <translation>취소(&amp;C)</translation>
+        <translation>취소 (&amp;C)</translation>
     </message>
     <message numerus="yes">
         <location filename="DlgBatchResize.cpp" line="1555"/>
@@ -3368,13 +3368,13 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgComment.ui" line="138"/>
         <source>&amp;Write</source>
-        <translation>쓰기(&amp;W)</translation>
+        <translation>쓰기 (&amp;W)</translation>
     </message>
     <message>
         <location filename="DlgComment.ui" line="145"/>
         <source>Write &amp;all</source>
         <oldsource>Write all</oldsource>
-        <translation>모두 쓰기 (&amp;a)</translation>
+        <translation>모두 쓰기 (&amp;A)</translation>
     </message>
 </context>
 <context>
@@ -3445,7 +3445,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgContactSheet.ui" line="156"/>
         <source>DPI</source>
-        <translation>DPI </translation>
+        <translation>DPI</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="193"/>
@@ -4098,27 +4098,27 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgConvert.cpp" line="2837"/>
         <source>Yes to &amp;all</source>
-        <translation>모두 예(&amp;A)</translation>
+        <translation>모두 예 (&amp;A)</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2838"/>
         <source>&amp;Yes</source>
-        <translation>예(&amp;Y)</translation>
+        <translation>예 (&amp;Y)</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2839"/>
         <source>&amp;No</source>
-        <translation>아니오(&amp;N)</translation>
+        <translation>아니오 (&amp;N)</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2840"/>
         <source>&amp;Rename</source>
-        <translation>이름 변경(&amp;R)</translation>
+        <translation>이름 변경 (&amp;R)</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2841"/>
         <source>&amp;Cancel</source>
-        <translation>취소(&amp;C)</translation>
+        <translation>취소 (&amp;C)</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2908"/>
@@ -8402,7 +8402,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFileReplace.ui" line="432"/>
         <source>&amp;Replace</source>
-        <translation>바꾸기(&amp;R)</translation>
+        <translation>바꾸기 (&amp;R)</translation>
     </message>
     <message>
         <location filename="DlgFileReplace.ui" line="442"/>
