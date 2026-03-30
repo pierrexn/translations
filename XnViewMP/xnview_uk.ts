@@ -14519,17 +14519,17 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="322"/>
         <source>1.00  Square</source>
-        <translation>1.00 Квадратне</translation>
+        <translation>1.00  Квадратне</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="352"/>
         <source>1.90  D4/D16 Anamorphic</source>
-        <translation>1.90 D4/D16 Анаморфне</translation>
+        <translation>1.90  D4/D16 Анаморфне</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="357"/>
         <source>2.00  Anamorphic</source>
-        <translation>2.00 Анаморфне</translation>
+        <translation>2.00  Анаморфне</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="435"/>
