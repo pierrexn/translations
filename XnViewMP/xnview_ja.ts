@@ -1383,7 +1383,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DlgConvertProcess.h" line="2725"/>
         <source>HLS</source>
         <translatorcomment>TXT_String_Adjust_HLS</translatorcomment>
-        <translation>色相/明度/彩度</translation>
+        <translation>色相／明度／彩度</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2800"/>
@@ -2672,7 +2672,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgBatchResize.ui" line="719"/>
         <source>Enlarge/Reduce</source>
-        <translation>拡大/縮小</translation>
+        <translation>拡大／縮小</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="730"/>
@@ -2698,13 +2698,13 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DlgBatchResize.ui" line="789"/>
         <source>+90° (clockwise)</source>
         <oldsource>90° Clockwise</oldsource>
-        <translation>+90° (時計回り)</translation>
+        <translation>+90°（時計回り）</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="796"/>
         <source>-90° (counter clockwise)</source>
         <oldsource>90° Anti Clockwise</oldsource>
-        <translation>-90° (反時計回り)</translation>
+        <translation>-90°（反時計回り）</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="803"/>
@@ -6560,7 +6560,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertResize.ui" line="423"/>
         <source>Enlarge/Reduce</source>
-        <translation>拡大/縮小</translation>
+        <translation>拡大／縮小</translation>
     </message>
     <message>
         <location filename="DlgConvertResize.ui" line="434"/>
@@ -7621,7 +7621,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditGps.ui" line="79"/>
         <source>Longitude</source>
-        <translation>経度 (数値)</translation>
+        <translation>経度</translation>
     </message>
     <message>
         <location filename="DlgEditGps.ui" line="125"/>
@@ -7641,7 +7641,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditGps.ui" line="50"/>
         <source>Latitude</source>
-        <translation>緯度 (数値)</translation>
+        <translation>緯度</translation>
     </message>
     <message>
         <location filename="DlgEditGps.ui" line="138"/>
@@ -7739,7 +7739,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditXMP.cpp" line="143"/>
         <source>Field values are not loaded because &apos;Do not load field values&apos; is checked</source>
-        <translation>&quot;フィールドの値を読み込まない&quot;にチェックが入ってたので値は読み込まれませんでした</translation>
+        <translation>「フィールドの値を読み込まない」にチェックが入っているため、値は読み込まれません</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="227"/>
@@ -7786,7 +7786,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgEmail.ui" line="55"/>
         <source>Text:</source>
-        <translation>本文:</translation>
+        <translation>本文：</translation>
     </message>
     <message>
         <location filename="DlgEmail.ui" line="72"/>
@@ -7806,7 +7806,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgEmail.ui" line="94"/>
         <source>Size:</source>
-        <translation>サイズ:</translation>
+        <translation>サイズ：</translation>
     </message>
     <message>
         <location filename="DlgEmail.ui" line="102"/>
@@ -8200,13 +8200,13 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgExport.ui" line="362"/>
         <source>Fast integer (worst but fastest)</source>
         <oldsource>Fast (worst but faster)</oldsource>
-        <translation>高速整数 (低品質だが高速）</translation>
+        <translation>高速整数（低品質だが高速）</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="367"/>
         <source>Floating-point (best but slowest)</source>
         <oldsource>Float (best but slowest)</oldsource>
-        <translation>浮動小数(高品質だが低速）</translation>
+        <translation>浮動小数（高品質だが低速）</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="399"/>
@@ -8224,7 +8224,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="441"/>
         <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
-        <translation>4:2:0 (2x2,1x1,1x1) 最小のファイル</translation>
+        <translation>4:2:0 (2x2,1x1,1x1) 最小サイズ</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="477"/>
@@ -8270,7 +8270,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="672"/>
         <source>&amp;Export...</source>
-        <translation>エクスポート(&amp;e)...</translation>
+        <translation>エクスポート(&amp;E)…</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="682"/>
@@ -10311,7 +10311,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPrint.ui" line="754"/>
         <source>Header/Footer</source>
-        <translation>ヘッダー/フッター</translation>
+        <translation>ヘッダー／フッター</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="787"/>
@@ -10425,12 +10425,12 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgProcess.cpp" line="318"/>
         <source>&lt;Last Used&gt;</source>
-        <translation>&lt;Last Used&gt;</translation>
+        <translation>&lt;最後に使用&gt;</translation>
     </message>
     <message>
         <location filename="DlgProcess.cpp" line="318"/>
         <source>&lt;Default&gt;</source>
-        <translation>&lt;Default&gt;</translation>
+        <translation>&lt;デフォルト&gt;</translation>
     </message>
 </context>
 <context>
@@ -11071,12 +11071,12 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgResize.cpp" line="1117"/>
         <source>&lt;Last Used&gt;</source>
-        <translation>&lt;Last Used&gt;</translation>
+        <translation>&lt;最後に使用&gt;</translation>
     </message>
     <message>
         <location filename="DlgResize.cpp" line="1118"/>
         <source>&lt;Default&gt;</source>
-        <translation>&lt;Default&gt;</translation>
+        <translation>&lt;デフォルト&gt;</translation>
     </message>
 </context>
 <context>
@@ -11141,7 +11141,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgResize.ui" line="113"/>
         <source>Load &apos;Default values&apos;</source>
-        <translation>&apos;デフォルトの値&apos;を読み込む</translation>
+        <translation>「デフォルトの値」を読み込む</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="163"/>
@@ -11156,7 +11156,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgResize.ui" line="182"/>
         <source>Size (%)</source>
-        <translation>サイズ （%）</translation>
+        <translation>サイズ（%）</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="187"/>
@@ -11827,7 +11827,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="263"/>
         <source>Thumbnails + Filename</source>
-        <translation>サムネイル+ファイル名</translation>
+        <translation>サムネイル＋ファイル名</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="328"/>
@@ -14411,7 +14411,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsThumbnail.ui" line="928"/>
         <source>Browser › View › View as › Thumbnails + Labels</source>
         <oldsource>Browser - Thumbnail</oldsource>
-        <translation>ブラウザー › 表示 › 表示形式 › サムネイル+ラベル</translation>
+        <translation>ブラウザー › 表示 › 表示形式 › サムネイル＋ラベル</translation>
     </message>
 </context>
 <context>
@@ -14601,17 +14601,17 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="322"/>
         <source>1.00  Square</source>
-        <translation>1.00 正方形</translation>
+        <translation>1.00  正方形</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="352"/>
         <source>1.90  D4/D16 Anamorphic</source>
-        <translation>1.90 D4/D16 アナモフィック</translation>
+        <translation>1.90  D4/D16 アナモフィック</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="357"/>
         <source>2.00  Anamorphic</source>
-        <translation>2.00 アナモフィック</translation>
+        <translation>2.00  アナモフィック</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="435"/>
@@ -16350,13 +16350,13 @@ Do you want to continue?</source>
         <location filename="DlgWriteJPEG.ui" line="125"/>
         <source>Fast integer (worst but fastest)</source>
         <oldsource>Fast integer (worst but faster)</oldsource>
-        <translation>高速整数 (低品質だが高速）</translation>
+        <translation>高速整数（低品質だが高速）</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="130"/>
         <source>Floating-point (best but slowest)</source>
         <oldsource>Float (best but slowest)</oldsource>
-        <translation>浮動小数 (高品質だが低速）</translation>
+        <translation>浮動小数（高品質だが低速）</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="167"/>
@@ -16382,7 +16382,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteJPEG.ui" line="201"/>
         <source>4:2:0 (2x2,1x1,1x1) smallest file</source>
-        <translation>4:2:0 (2x2,1x1,1x1) 最小ファイル</translation>
+        <translation>4:2:0 (2x2,1x1,1x1) 最小サイズ</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="211"/>
@@ -18660,7 +18660,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2726"/>
         <source>Latitude (value)</source>
-        <translation>緯度</translation>
+        <translation>緯度（数値）</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2727"/>
@@ -18671,7 +18671,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2729"/>
         <source>Longitude (value)</source>
-        <translation>経度</translation>
+        <translation>経度（数値）</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2730"/>
@@ -20682,12 +20682,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="77"/>
         <source>Images (+folders)</source>
-        <translation>画像（+フォルダー）</translation>
+        <translation>画像（＋フォルダー）</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="79"/>
         <source>Videos (+folders)</source>
-        <translation>動画（+フォルダー）</translation>
+        <translation>動画（＋フォルダー）</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="239"/>
@@ -20826,7 +20826,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="32"/>
         <source>Thumbnails + Filenames</source>
         <oldsource>Thumbnails + Filename</oldsource>
-        <translation>サムネイル+ファイル名</translation>
+        <translation>サムネイル＋ファイル名</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="46"/>
@@ -21095,19 +21095,19 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="524"/>
         <source>View as Thumbnails+Filename</source>
         <oldsource>Views as Thumbnails+Filename</oldsource>
-        <translation>サムネイル+ファイル名表示</translation>
+        <translation>サムネイル＋ファイル名表示</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="525"/>
         <source>View as Thumbnails+Labels</source>
         <oldsource>Views as Thumbnails+Labels</oldsource>
-        <translation>サムネイル+ラベル表示</translation>
+        <translation>サムネイル＋ラベル表示</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="526"/>
         <source>View as Thumbnails+Details</source>
         <oldsource>Views as Thumbnails+Details</oldsource>
-        <translation>サムネイル+詳細表示</translation>
+        <translation>サムネイル＋詳細表示</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="527"/>
