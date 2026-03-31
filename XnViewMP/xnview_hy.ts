@@ -15518,7 +15518,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Lock zoom</source>
-        <translation>Կողպել չափ</translation>
+        <translation>Կողպել մասշտաբը</translation>
     </message>
     <message>
         <source>Rotate 180°</source>
@@ -16667,7 +16667,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Lock zoom</source>
-        <translation>Կողպել դիտափոխումը</translation>
+        <translation>Կողպել մասշտաբը</translation>
     </message>
     <message>
         <source>Resize...</source>
