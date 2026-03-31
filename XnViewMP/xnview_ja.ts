@@ -21389,7 +21389,7 @@ Do you want to continue?</oldsource>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
         <translatorcomment>TXT_NviewMenu_Use_Transparent_Index</translatorcomment>
-        <translation>透過インデックスを使用(≤ 8ビット)</translation>
+        <translation>透過インデックスを使用（≦ 8ビット）</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="643"/>
@@ -22168,7 +22168,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="423"/>
         <source>Lock zoom</source>
-        <translation>ズームをロック</translation>
+        <translation>ズーム固定</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="426"/>
@@ -22197,7 +22197,7 @@ Do you want to continue?</oldsource>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
         <translatorcomment>TXT_NviewMenu_Use_Transparent_Index</translatorcomment>
-        <translation>透過インデックスを使用(≤ 8ビット)</translation>
+        <translation>透過インデックスを使用（≦ 8ビット）</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="431"/>
