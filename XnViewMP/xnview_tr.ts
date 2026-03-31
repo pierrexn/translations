@@ -20982,7 +20982,7 @@ Devam etmek istiyor musunuz?</translation>
         <location filename="BrowserMenu.h" line="642"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
-        <translation>Transparan İndex Kullan(≤ 8bits)</translation>
+        <translation>Transparan İndex Kullan (≤ 8bits)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="643"/>
