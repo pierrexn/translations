@@ -22306,7 +22306,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="430"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
-        <translation>투명 지수 사용 (≤ 8비트)</translation>
+        <translation>투명 인덱스 사용 (≤ 8비트)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="431"/>
