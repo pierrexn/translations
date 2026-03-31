@@ -21972,7 +21972,7 @@ Vil du fortsætte?</translation>
         <location filename="ViewMenu.h" line="430"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
-        <translation>Brug gennemsigtig indeks (≤ 8bits)</translation>
+        <translation>Brug gennemsigtigt indeks (≤ 8bits)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="431"/>
