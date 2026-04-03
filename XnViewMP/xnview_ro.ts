@@ -2717,7 +2717,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Show information</source>
-        <translation>Arată informațiile</translation>
+        <translation>Afișează informațiile</translation>
     </message>
     <message>
         <source>File list</source>
@@ -16912,7 +16912,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Capture...</source>
-        <translation>Captură...</translation>
+        <translation>Capturează...</translation>
     </message>
     <message>
         <source>Negative</source>
@@ -16936,7 +16936,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Unrated</source>
-        <translation>Neevaluat</translation>
+        <translation>Neevaluat(ă)</translation>
     </message>
     <message>
         <source>Sepia...</source>
