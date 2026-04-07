@@ -4877,7 +4877,7 @@ Chcete pokračovať?</translation>
     <message>
         <location filename="DlgConvert.ui" line="649"/>
         <source>Multiple resolution...</source>
-        <translation type="unfinished"></translation>
+        <translation>Viacero rozlíšení...</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="948"/>
@@ -6054,17 +6054,17 @@ Chcete pokračovať?</translation>
         <location filename="DlgConvertMulti.ui" line="14"/>
         <location filename="DlgConvertMulti.cpp" line="18"/>
         <source>Multiple output</source>
-        <translation type="unfinished"></translation>
+        <translation>Viacnásobný výstup</translation>
     </message>
     <message>
         <location filename="DlgConvertMulti.cpp" line="45"/>
         <source>Width:</source>
-        <translation type="unfinished">Šírka:</translation>
+        <translation>Šírka:</translation>
     </message>
     <message>
         <location filename="DlgConvertMulti.cpp" line="51"/>
         <source>Height:</source>
-        <translation type="unfinished">Výška:</translation>
+        <translation>Výška:</translation>
     </message>
 </context>
 <context>
@@ -8332,7 +8332,7 @@ Skúste spustiť program s právami správcu.</translation>
     <message>
         <location filename="DlgFileListing.ui" line="36"/>
         <source>Columns presets:</source>
-        <translation type="unfinished"></translation>
+        <translation>Prednastavenia stĺpcov:</translation>
     </message>
     <message>
         <location filename="DlgFileListing.ui" line="87"/>
@@ -8347,7 +8347,7 @@ Skúste spustiť program s právami správcu.</translation>
     <message>
         <location filename="DlgFileListing.ui" line="116"/>
         <source>Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Oddeľovač</translation>
     </message>
     <message>
         <location filename="DlgFileListing.ui" line="179"/>
@@ -8367,7 +8367,7 @@ Skúste spustiť program s právami správcu.</translation>
     <message>
         <location filename="DlgFileListing.cpp" line="40"/>
         <source>Current columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuálne stĺpce</translation>
     </message>
     <message>
         <location filename="DlgFileListing.cpp" line="132"/>
@@ -11708,7 +11708,7 @@ Chcete ich odstrániť?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="498"/>
         <source>Columns</source>
-        <translation type="unfinished">Stĺpce</translation>
+        <translation>Stĺpce</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="510"/>
@@ -17367,7 +17367,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="ItemModel.cpp" line="1038"/>
         <source>Bits</source>
-        <translation type="unfinished"></translation>
+        <translation>Bity</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="665"/>
@@ -18049,7 +18049,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2682"/>
         <source>Subject Distance Range</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozsah vzdialenosti predmetu</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2725"/>
@@ -18748,7 +18748,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <location filename="TemplateData.cpp" line="2780"/>
         <source>Original transmission reference</source>
         <oldsource>Original tr. ref.</oldsource>
-        <translation type="unfinished">Orig. prenosová ref.</translation>
+        <translation>Orig. prenosová ref.</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="67"/>
@@ -23009,7 +23009,7 @@ Môžete to zmeniť v Nastavenia › Katalóg.</translation>
     <message>
         <location filename="MyThumbView.cpp" line="1728"/>
         <source>Customize columns...</source>
-        <translation type="unfinished"></translation>
+        <translation>Prispôsobiť stĺpce...</translation>
     </message>
 </context>
 <context>
