@@ -13559,7 +13559,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2070"/>
         <source>Wheel</source>
-        <translation type="unfinished">滚轮gplp</translation>
+        <translation>鼠标滚轮</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1441"/>
