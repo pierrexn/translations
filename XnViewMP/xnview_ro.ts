@@ -1658,7 +1658,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>No face</source>
-        <translation type="unfinished"></translation>
+        <translation>Nicio față</translation>
     </message>
 </context>
 <context>
@@ -2006,7 +2006,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>The &apos;Use multiple CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</source>
-        <translation>Setarea „Se utilizează mai multe nuclee CPU” a fost dezactivată. Această setare nu poate fi combinată cu modul „Întreabă” sau cu fișierele PDF cu mai multe pagini.</translation>
+        <translation>Setarea „Utilizează mai multe nuclee ale CPU-ului (ale procesorului)” a fost dezactivată. Această setare nu poate fi combinată cu modul „Întreabă” sau cu fișierele PDF cu mai multe pagini.</translation>
     </message>
     <message>
         <source>Source: %1 %2 - Output (estimated): %3 %4</source>
@@ -2944,7 +2944,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>The &apos;Use multiple CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</source>
-        <translation>Setarea „Se utilizează mai multe nuclee CPU” a fost dezactivată. Această setare nu poate fi combinată cu modul „Întreabă” sau cu fișierele PDF cu mai multe pagini.</translation>
+        <translation>Setarea „Utilizează mai multe nuclee ale CPU-ului (ale procesorului)” a fost dezactivată. Această setare nu poate fi combinată cu modul „Întreabă” sau cu fișierele PDF cu mai multe pagini.</translation>
     </message>
     <message>
         <source>File size ratio:</source>
@@ -3847,7 +3847,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Use multiple CPU Cores</source>
-        <translation>Se utilizează mai multe nuclee CPU</translation>
+        <translation>Utilizează mai multe nuclee ale CPU-ului (ale procesorului)</translation>
     </message>
     <message>
         <source>Keep parent folder</source>
@@ -4816,7 +4816,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Border</source>
-        <translation>Frontieră</translation>
+        <translation>Bordură</translation>
     </message>
     <message>
         <source>Center</source>
@@ -5252,7 +5252,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Border</source>
-        <translation>Frontieră</translation>
+        <translation>Bordură</translation>
     </message>
     <message>
         <source>Center</source>
@@ -8368,7 +8368,7 @@ Te rugăm să-l instalezi folosind Unelte › Pluginuri</translation>
         <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. 
 
 Do you want to remove them?</source>
-        <translation>Fișierele însoțitoare sunt detectate în lista de fișiere, sunt redenumite automat pentru a urma numele fișierului principal. 
+        <translation>Fișierele însoțitoare sunt detectate în lista de fișiere, sunt redenumite automat pentru a urma numele fișierului principal (master). 
 
 Vrei să le redenumești?</translation>
     </message>
@@ -9506,7 +9506,7 @@ Dorești să verifici mai întâi intrările afectate?</translation>
     </message>
     <message>
         <source>Master extension</source>
-        <translation>Extensie principală</translation>
+        <translation>Extensie principală (Extensie master)</translation>
     </message>
     <message>
         <source>All others files</source>
@@ -10074,7 +10074,7 @@ miniatură</translation>
     </message>
     <message>
         <source>Grey</source>
-        <translation type="unfinished">Gri</translation>
+        <translation>Gri</translation>
     </message>
 </context>
 <context>
@@ -10802,19 +10802,19 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Update catalog when file is modified outside (file date/size)</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizează catalogul atunci când fișierul este modificat în afară (data/dimensiunea fișierului)</translation>
     </message>
     <message>
         <source>Update keywords when file is modified outside (file date/size)</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizează cuvintele cheie atunci când fișierul este modificat în afară (data/dimensiunea fișierului)</translation>
     </message>
     <message>
         <source>Read Hierarchical keywords</source>
-        <translation type="unfinished"></translation>
+        <translation>Citește cuvintele cheie ierarhice</translation>
     </message>
     <message>
         <source>Write Hierarchical keywords (| as separator)</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrie cuvintele cheie ierarhice (| ca separator)</translation>
     </message>
 </context>
 <context>
@@ -10877,7 +10877,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Border</source>
-        <translation>Limită</translation>
+        <translation>Bordură</translation>
     </message>
     <message>
         <source>Center</source>
@@ -11347,7 +11347,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Auto-play audio companion files</source>
-        <translation type="unfinished"></translation>
+        <translation>Redă automat fișierele audio însoțitoare</translation>
     </message>
 </context>
 <context>
@@ -12201,47 +12201,47 @@ Vrei să continui?</translation>
     <name>DlgUpdateDatabase</name>
     <message>
         <source>Update database</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizează baza de date</translation>
     </message>
     <message>
         <source>Update from</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizează din</translation>
     </message>
     <message>
         <source>Sidecar/Master files</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișiere principale (master)/însoțitoare (sidecar)</translation>
     </message>
     <message>
         <source>Master files only</source>
-        <translation type="unfinished"></translation>
+        <translation>Numai fișiere principale (master)</translation>
     </message>
     <message>
         <source>Use modified files only</source>
-        <translation type="unfinished"></translation>
+        <translation>Folosește numai fișierele modificate</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Actualizare</translation>
+        <translation>Actualizează</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished">Oprește</translation>
+        <translation>Oprește (Stop)</translation>
     </message>
     <message>
         <source>%1 file(s) to process</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 fișier/(de) fișiere de procesat</translation>
     </message>
     <message>
         <source>Update cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizarea a fost anulată</translation>
     </message>
     <message>
         <source>Update completed</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizarea s-a finalizat</translation>
     </message>
     <message>
         <source>Stopping...</source>
-        <translation type="unfinished"></translation>
+        <translation>Se oprește...</translation>
     </message>
 </context>
 <context>
@@ -16254,7 +16254,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Update catalog from files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizează catalogul din fișierele...</translation>
     </message>
 </context>
 <context>
@@ -16436,7 +16436,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>h - Hour (01-12)</source>
-        <translation type="unfinished"></translation>
+        <translation>h/o - Oră (01-12)</translation>
     </message>
 </context>
 <context>
@@ -19024,11 +19024,11 @@ nu vor fi salvate în baza de date.</translation>
     </message>
     <message>
         <source>Tabs</source>
-        <translation type="unfinished">File (Tab-uri)</translation>
+        <translation>File (Tab-uri)</translation>
     </message>
     <message>
         <source>The tab bar is hidden, but tabs will still open. Set a tab limit in Settings&gt;Interface&gt;Tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>Bara de file (de tab-uri) este ascunsă, dar filele (tab-urile) se vor deschide în continuare. Setează o limită de file (de tab-uri) în Setări&gt;Interfață&gt;File (Tab-uri)</translation>
     </message>
 </context>
 </TS>
