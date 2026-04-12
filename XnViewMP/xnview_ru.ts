@@ -2079,7 +2079,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DBFilterModel.cpp" line="167"/>
         <source>No face</source>
-        <translation type="unfinished"></translation>
+        <translation>Без лица</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="168"/>
@@ -12747,7 +12747,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="112"/>
         <source>Grey</source>
-        <translation type="unfinished">Серый</translation>
+        <translation>Серая</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="117"/>
@@ -13970,7 +13970,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="124"/>
         <source>Update catalog when file is modified outside (file date/size)</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновлять Каталог при изменении файла вне программы (дата/размер файла)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="197"/>
@@ -13980,17 +13980,17 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="203"/>
         <source>Update keywords when file is modified outside (file date/size)</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновлять Категории при изменении файла вне программы (дата/размер файла)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="219"/>
         <source>Read Hierarchical keywords</source>
-        <translation type="unfinished"></translation>
+        <translation>Читать иерархические ключевые слова</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="313"/>
         <source>Write Hierarchical keywords (| as separator)</source>
-        <translation type="unfinished"></translation>
+        <translation>Записывать иерархические ключевые слова (| - разделитель)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="323"/>
@@ -14618,7 +14618,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="740"/>
         <source>Auto-play audio companion files</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматически воспроизводить сопутствующие аудиофайлы</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="747"/>
@@ -15871,27 +15871,27 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="20"/>
         <source>Update database</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновить базу данных</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="28"/>
         <source>Update from</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновить из</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="35"/>
         <source>Sidecar/Master files</source>
-        <translation type="unfinished"></translation>
+        <translation>Связаный/основной файлы</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="42"/>
         <source>Master files only</source>
-        <translation type="unfinished"></translation>
+        <translation>Только основные файлы</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="64"/>
         <source>Use modified files only</source>
-        <translation type="unfinished"></translation>
+        <translation>Использовать только измененные файлы</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="20"/>
@@ -15906,22 +15906,22 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="55"/>
         <source>%1 file(s) to process</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 файл(ов) для обработки</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="129"/>
         <source>Update cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновление отменено</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="129"/>
         <source>Update completed</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновление завершено</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="150"/>
         <source>Stopping...</source>
-        <translation type="unfinished"></translation>
+        <translation>Остановка...</translation>
     </message>
 </context>
 <context>
@@ -20347,7 +20347,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="543"/>
         <source>Update catalog from files...</source>
         <oldsource>Update catalog from files</oldsource>
-        <translation type="unfinished">Обновить Каталог из файлов</translation>
+        <translation>Обновить Каталог из файлов...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="544"/>
@@ -24861,12 +24861,13 @@ Do you want to keep the thumbnails?
     <message>
         <location filename="xnview.cpp" line="2612"/>
         <source>Tabs</source>
-        <translation type="unfinished">Вкладки</translation>
+        <translation>Вкладки</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="2612"/>
         <source>The tab bar is hidden, but tabs will still open. Set a tab limit in Settings&gt;Interface&gt;Tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>Панель вкладок скрыта, но вкладки по-прежнему открываются.
+Установите ограничение на количество вкладок в Настройки › Интерфейс › Вкладки</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="3090"/>
