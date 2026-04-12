@@ -1654,6 +1654,10 @@ Deseja excluir o favorito &quot;%1&quot;?</translation>
         <source>Check</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>No face</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgAboutClass</name>
@@ -10054,6 +10058,10 @@ miniatura</translation>
         <comment>icc</comment>
         <translation>Personalizado</translation>
     </message>
+    <message>
+        <source>Grey</source>
+        <translation type="unfinished">Cinza</translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsIntegration</name>
@@ -10699,20 +10707,12 @@ Deseja reatribuir?</translation>
         <translation>Escrita</translation>
     </message>
     <message>
-        <source>Update when file is changed outside (date/size)</source>
-        <translation>Atualizar quando o arquivo for alterado fora (data/tamanho)</translation>
-    </message>
-    <message>
         <source>Embedded comment</source>
         <translation>Comentário incorporado</translation>
     </message>
     <message>
         <source>Categories and keywords</source>
         <translation>Categorias e palavras-chave</translation>
-    </message>
-    <message>
-        <source>Read hierarchical keywords from images as categories</source>
-        <translation>Ler palavras-chave hierárquicas das imagens como categorias</translation>
     </message>
     <message>
         <source>Sidecar</source>
@@ -10763,10 +10763,6 @@ Deseja reatribuir?</translation>
         <translation>Marcação de rosto</translation>
     </message>
     <message>
-        <source>Write categories into images as hierarchical keywords</source>
-        <translation>Gravar categorias nas imagens como palavras-chave hierárquicas</translation>
-    </message>
-    <message>
         <source>Automatically assign parent Category (Ctrl+click for current only)</source>
         <translation>Atribuir Categoria principal automaticamente (Ctrl+clique apenas para a atual)</translation>
     </message>
@@ -10789,6 +10785,22 @@ Deseja reatribuir?</translation>
     <message>
         <source>Image description</source>
         <translation type="unfinished">Descrição da Imagem</translation>
+    </message>
+    <message>
+        <source>Update catalog when file is modified outside (file date/size)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update keywords when file is modified outside (file date/size)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read Hierarchical keywords</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Write Hierarchical keywords (| as separator)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11318,6 +11330,10 @@ Deseja reatribuir?</translation>
     <message>
         <source>Stretch horizontally</source>
         <translation>Esticar horizontalmente</translation>
+    </message>
+    <message>
+        <source>Auto-play audio companion files</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12165,6 +12181,53 @@ Deseja continuar?</translation>
     <message>
         <source>Download new version...</source>
         <translation>Baixar nova versão...</translation>
+    </message>
+</context>
+<context>
+    <name>DlgUpdateDatabase</name>
+    <message>
+        <source>Update database</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update from</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sidecar/Master files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Master files only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use modified files only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update</source>
+        <translation type="unfinished">Atualização</translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <translation type="unfinished">Parar</translation>
+    </message>
+    <message>
+        <source>%1 file(s) to process</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update cancelled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update completed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stopping...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15765,10 +15828,6 @@ Deseja continuar?</translation>
         <translation>Pesquisar Categoria</translation>
     </message>
     <message>
-        <source>Update catalog from files</source>
-        <translation>Atualizar catálogo de arquivos</translation>
-    </message>
-    <message>
         <source>Update files from catalog</source>
         <translation>Atualizar arquivos do catálogo</translation>
     </message>
@@ -16184,6 +16243,10 @@ Deseja continuar?</translation>
         <source>Session</source>
         <translation type="unfinished">Sessão</translation>
     </message>
+    <message>
+        <source>Update catalog from files...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MenuGlobal</name>
@@ -16361,6 +16424,10 @@ Deseja continuar?</translation>
     <message>
         <source># - Numeric enumerator</source>
         <translation># - Enumerador numérico</translation>
+    </message>
+    <message>
+        <source>h - Hour (01-21)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17594,10 +17661,6 @@ Deseja continuar?</translation>
         <translation>[Espaço livre em disco: %1 %2]</translation>
     </message>
     <message>
-        <source>Updating catalog, please wait...</source>
-        <translation>Atualizando catálogo. Aguarde...</translation>
-    </message>
-    <message>
         <source>Updating files, please wait...</source>
         <translation>Atualizando arquivos. Aguarde...</translation>
     </message>
@@ -18574,17 +18637,6 @@ Você pode alterá-lo em Configurações › Catálogo.</translation>
     </message>
 </context>
 <context>
-    <name>SummaryWidget</name>
-    <message>
-        <source>Greyscale</source>
-        <translation type="unfinished">Tons de cinza</translation>
-    </message>
-    <message>
-        <source>Indexed</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>TagEntryModel</name>
     <message>
         <source>Enter a name</source>
@@ -18955,6 +19007,14 @@ Entre em contato com o desenvolvedor.</translation>
         <source>Catalog is disabled
 Metadata (check, ratings/colour labels and other file details)
 will not be saved to the database.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tabs</source>
+        <translation type="unfinished">Guias</translation>
+    </message>
+    <message>
+        <source>The tab bar is hidden, but tabs will still open. Set a tab limit in Settings&gt;Interface&gt;Tabs</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

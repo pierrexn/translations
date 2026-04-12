@@ -1654,6 +1654,10 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
         <source>Check</source>
         <translation>Valitse</translation>
     </message>
+    <message>
+        <source>No face</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgAboutClass</name>
@@ -10057,6 +10061,10 @@ pienoiskuvina</translation>
         <comment>icc</comment>
         <translation>Mukautettu</translation>
     </message>
+    <message>
+        <source>Grey</source>
+        <translation type="unfinished">Harmaa</translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsIntegration</name>
@@ -10698,10 +10706,6 @@ Haluatko määrittää uudelleen?</translation>
         <translation>Luku (erottele pilkuin ,)</translation>
     </message>
     <message>
-        <source>Read hierarchical keywords from images as categories</source>
-        <translation>Lue hierarkkisia avainsanoja kuvista kategorioina</translation>
-    </message>
-    <message>
         <source>Sidecar</source>
         <translation>Aputiedosto (sivuvaunu)</translation>
     </message>
@@ -10716,10 +10720,6 @@ Haluatko määrittää uudelleen?</translation>
     <message>
         <source>Use UTF-8 to write IPTC fields</source>
         <translation>Käytä UTF-8 standardia IPTC-kenttien kirjoittamiseen</translation>
-    </message>
-    <message>
-        <source>Update when file is changed outside (date/size)</source>
-        <translation>Päivitä, kun tiedosto muuttuu ulkoisesti (päiväys/koko)</translation>
     </message>
     <message>
         <source>&lt;filename&gt;.xmp</source>
@@ -10740,10 +10740,6 @@ Haluatko määrittää uudelleen?</translation>
     <message>
         <source>Supported formats</source>
         <translation>Tuetut formaatit</translation>
-    </message>
-    <message>
-        <source>Write categories into images as hierarchical keywords</source>
-        <translation>Kirjoita kategoriat kuviin hierarkkisina avainsanoina</translation>
     </message>
     <message>
         <source>Automatically assign parent Category (Ctrl+click for current only)</source>
@@ -10792,6 +10788,22 @@ Haluatko määrittää uudelleen?</translation>
     <message>
         <source>Image description</source>
         <translation>Kuvan selitys</translation>
+    </message>
+    <message>
+        <source>Update catalog when file is modified outside (file date/size)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update keywords when file is modified outside (file date/size)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read Hierarchical keywords</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Write Hierarchical keywords (| as separator)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11321,6 +11333,10 @@ Haluatko määrittää uudelleen?</translation>
     <message>
         <source>Anti-aliasing</source>
         <translation>Pehmennys</translation>
+    </message>
+    <message>
+        <source>Auto-play audio companion files</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12168,6 +12184,53 @@ Haluatko jatkaa?</translation>
     <message>
         <source>New version: </source>
         <translation>Uusi versio: </translation>
+    </message>
+</context>
+<context>
+    <name>DlgUpdateDatabase</name>
+    <message>
+        <source>Update database</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update from</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sidecar/Master files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Master files only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use modified files only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update</source>
+        <translation type="unfinished">Päivitä</translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <translation type="unfinished">Pysäytä</translation>
+    </message>
+    <message>
+        <source>%1 file(s) to process</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update cancelled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update completed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stopping...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15163,10 +15226,6 @@ Jatketaanko?</translation>
         <translation>Zoomaus</translation>
     </message>
     <message>
-        <source>Update catalog from files</source>
-        <translation>Päivitä katalogi tiedostoista</translation>
-    </message>
-    <message>
         <source>&amp;Edit</source>
         <translation>&amp;Muokkaa</translation>
     </message>
@@ -16182,6 +16241,10 @@ Jatketaanko?</translation>
         <source>Session</source>
         <translation>Istunto</translation>
     </message>
+    <message>
+        <source>Update catalog from files...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MenuGlobal</name>
@@ -16359,6 +16422,10 @@ Jatketaanko?</translation>
     <message>
         <source># - Numeric enumerator</source>
         <translation># - Numeerinen luetteloija</translation>
+    </message>
+    <message>
+        <source>h - Hour (01-21)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17565,10 +17632,6 @@ Jatketaanko?</translation>
 </context>
 <context>
     <name>MyThumbView</name>
-    <message>
-        <source>Updating catalog, please wait...</source>
-        <translation>Päivitetään katalogia, odota...</translation>
-    </message>
     <message numerus="yes">
         <source>%n object(s)</source>
         <translation>
@@ -18571,17 +18634,6 @@ Voit muuttaa sitä asetusten kohdasta &quot;Katalogi&quot;.</translation>
     </message>
 </context>
 <context>
-    <name>SummaryWidget</name>
-    <message>
-        <source>Greyscale</source>
-        <translation>Harmaasävy</translation>
-    </message>
-    <message>
-        <source>Indexed</source>
-        <translation>Indeksoitu</translation>
-    </message>
-</context>
-<context>
     <name>TagEntryModel</name>
     <message>
         <source>Enter a name</source>
@@ -18955,6 +19007,14 @@ will not be saved to the database.</source>
         <translation>Katalogi on poistettu käytöstä
 Metatietoja (tarkistuksia, arvioita/väritunnisteita ja muita tiedostotietoja)
 ei tallenneta tietokantaan.</translation>
+    </message>
+    <message>
+        <source>Tabs</source>
+        <translation type="unfinished">Välilehdet</translation>
+    </message>
+    <message>
+        <source>The tab bar is hidden, but tabs will still open. Set a tab limit in Settings&gt;Interface&gt;Tabs</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

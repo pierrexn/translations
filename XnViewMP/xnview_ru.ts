@@ -4,133 +4,133 @@
 <context>
     <name>@default</name>
     <message>
-        <location filename="MyThumbSettings.cpp" line="869"/>
+        <location filename="MyThumbSettings.cpp" line="883"/>
         <source>Uncolored</source>
         <translation>Без цветовой метки</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="875"/>
+        <location filename="MyThumbSettings.cpp" line="889"/>
         <source>Important</source>
         <translation>Важное</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="875"/>
+        <location filename="MyThumbSettings.cpp" line="889"/>
         <source>Red</source>
         <translation>Краcный</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="875"/>
+        <location filename="MyThumbSettings.cpp" line="889"/>
         <source>Select</source>
         <translation>Выделение</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="876"/>
+        <location filename="MyThumbSettings.cpp" line="890"/>
         <source>Work</source>
         <translation>Рабочее</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="876"/>
+        <location filename="MyThumbSettings.cpp" line="890"/>
         <source>Yellow</source>
         <translation>Желтый</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="876"/>
+        <location filename="MyThumbSettings.cpp" line="890"/>
         <source>Second</source>
         <translatorcomment>Секунда?</translatorcomment>
         <translation>Вторичные</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="877"/>
+        <location filename="MyThumbSettings.cpp" line="891"/>
         <source>Personal</source>
         <translation>Личное</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="877"/>
+        <location filename="MyThumbSettings.cpp" line="891"/>
         <source>Green</source>
         <translation>Зеленый</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="877"/>
+        <location filename="MyThumbSettings.cpp" line="891"/>
         <source>Approved</source>
         <translation>Утверждённые</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="878"/>
+        <location filename="MyThumbSettings.cpp" line="892"/>
         <source>To do</source>
         <translation>На обработку</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="878"/>
+        <location filename="MyThumbSettings.cpp" line="892"/>
         <source>Blue</source>
         <translation>Синий</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="878"/>
+        <location filename="MyThumbSettings.cpp" line="892"/>
         <source>Review</source>
         <translation>На рассмотрение</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="879"/>
+        <location filename="MyThumbSettings.cpp" line="893"/>
         <source>Later</source>
         <translation>На потом</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="879"/>
+        <location filename="MyThumbSettings.cpp" line="893"/>
         <source>Purple</source>
         <translation>Фиолетовый</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="879"/>
+        <location filename="MyThumbSettings.cpp" line="893"/>
         <source>To Do</source>
         <translation>На обработку</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="880"/>
+        <location filename="MyThumbSettings.cpp" line="894"/>
         <source>Orange</source>
         <translation>Оранжевый</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="881"/>
+        <location filename="MyThumbSettings.cpp" line="895"/>
         <source>Grey</source>
         <translation>Серый</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="882"/>
+        <location filename="MyThumbSettings.cpp" line="896"/>
         <source>Black</source>
         <translation>Черный</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="883"/>
+        <location filename="MyThumbSettings.cpp" line="897"/>
         <source>White</source>
         <translation>Белый</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="766"/>
+        <location filename="MyThumbSettings.cpp" line="767"/>
         <source>Unrated</source>
         <translation>Без рейтинга</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="767"/>
+        <location filename="MyThumbSettings.cpp" line="768"/>
         <source>Poor</source>
         <translation>Плохо</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="768"/>
+        <location filename="MyThumbSettings.cpp" line="769"/>
         <source>Fair</source>
         <translation>Неплохо</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="769"/>
+        <location filename="MyThumbSettings.cpp" line="770"/>
         <source>Average</source>
         <translation>Средне</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="770"/>
+        <location filename="MyThumbSettings.cpp" line="771"/>
         <source>Good</source>
         <translation>Хорошо</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="771"/>
+        <location filename="MyThumbSettings.cpp" line="772"/>
         <source>Excellent</source>
         <translation>Отлично</translation>
     </message>
@@ -265,12 +265,12 @@
 <context>
     <name>AbstractViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="240"/>
+        <location filename="ViewWindow.cpp" line="243"/>
         <source>Save changed file</source>
         <translation>Сохранение изменений</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="241"/>
+        <location filename="ViewWindow.cpp" line="244"/>
         <source>Do you want to save changes to
 &quot;%1&quot;?</source>
         <oldsource>Do you want to save changes to
@@ -280,145 +280,145 @@
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1421"/>
+        <location filename="ViewWindow.cpp" line="1424"/>
         <source>Frame %1/%2</source>
         <translation>Кадр %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1424"/>
+        <location filename="ViewWindow.cpp" line="1427"/>
         <source>Icon %1/%2</source>
         <translation>Значок %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1426"/>
+        <location filename="ViewWindow.cpp" line="1429"/>
         <source>Page %1/%2</source>
         <translation>Страница %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1593"/>
-        <location filename="ViewWindow.cpp" line="1612"/>
+        <location filename="ViewWindow.cpp" line="1596"/>
+        <location filename="ViewWindow.cpp" line="1615"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; Пусто &gt;</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2984"/>
+        <location filename="ViewWindow.cpp" line="2987"/>
         <source>The file &lt;%1&gt; is read-only. Please choose another file name.</source>
         <translation>Файл &lt;%1&gt; доступен только для чтения.
 Попробуйте сохранить файл под другим именем.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2992"/>
+        <location filename="ViewWindow.cpp" line="2995"/>
         <source>Confirm Save</source>
         <translation>Подтверждение сохранения</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2993"/>
+        <location filename="ViewWindow.cpp" line="2996"/>
         <source>&lt;%1&gt; already exists!</source>
         <translation>&lt;%1&gt; уже существует!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2993"/>
+        <location filename="ViewWindow.cpp" line="2996"/>
         <source>Do you want to overwrite it?</source>
         <translation>Вы хотите его перезаписать?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3017"/>
-        <location filename="ViewWindow.cpp" line="3148"/>
-        <location filename="ViewWindow.cpp" line="3198"/>
+        <location filename="ViewWindow.cpp" line="3020"/>
+        <location filename="ViewWindow.cpp" line="3151"/>
+        <location filename="ViewWindow.cpp" line="3201"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
         <translatorcomment>Правильный падеж?</translatorcomment>
         <translation>Сохранение изображения...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3019"/>
-        <location filename="ViewWindow.cpp" line="3200"/>
+        <location filename="ViewWindow.cpp" line="3022"/>
+        <location filename="ViewWindow.cpp" line="3203"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4467"/>
+        <location filename="ViewWindow.cpp" line="4470"/>
         <source>Colors count</source>
         <translation>Количество цветов</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2042"/>
+        <location filename="ViewWindow.cpp" line="2045"/>
         <source>Customize toolbar...</source>
         <translation>Настроить панель инструментов...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="244"/>
+        <location filename="ViewWindow.cpp" line="247"/>
         <source>Save &amp;as...</source>
         <translation>Сохранить как...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="252"/>
+        <location filename="ViewWindow.cpp" line="255"/>
         <source>&amp;Save</source>
         <translation>Сохранить</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="253"/>
+        <location filename="ViewWindow.cpp" line="256"/>
         <source>&amp;Don&apos;t Save</source>
         <translation>Не сохранять</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="256"/>
+        <location filename="ViewWindow.cpp" line="259"/>
         <source>Don&apos;t ask again</source>
         <translation>Больше не спрашивать</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2298"/>
-        <location filename="ViewWindow.cpp" line="2304"/>
-        <location filename="ViewWindow.cpp" line="2308"/>
+        <location filename="ViewWindow.cpp" line="2301"/>
+        <location filename="ViewWindow.cpp" line="2307"/>
+        <location filename="ViewWindow.cpp" line="2311"/>
         <source>Delete items</source>
         <translation>Удаление элементов</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2298"/>
+        <location filename="ViewWindow.cpp" line="2301"/>
         <source>Would you like to discard your edits and delete 
 &quot;%1&quot;?</source>
         <translation>Вы действительно хотите отменить изменения и удалить 
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2304"/>
+        <location filename="ViewWindow.cpp" line="2307"/>
         <source>Are you sure to delete 
 &quot;%1&quot;?</source>
         <translation>Вы действительно хотите удалить 
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2308"/>
+        <location filename="ViewWindow.cpp" line="2311"/>
         <source>Are you sure to delete 
 &quot;%1&quot; (%2 items)?</source>
         <translation>Вы действительно хотите удалить 
 &quot;%1&quot; (%2 объект(ов))?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2974"/>
-        <location filename="ViewWindow.cpp" line="2984"/>
+        <location filename="ViewWindow.cpp" line="2977"/>
+        <location filename="ViewWindow.cpp" line="2987"/>
         <source>Save</source>
         <translatorcomment>Используется пи вылезании второго диалого, когда не возможно сохранить файл</translatorcomment>
         <translation>Сохранение</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2974"/>
+        <location filename="ViewWindow.cpp" line="2977"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
         <translation>Изображение будет преобразовано в 24-битный RGB (8 бит на канал)</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3019"/>
-        <location filename="ViewWindow.cpp" line="3200"/>
+        <location filename="ViewWindow.cpp" line="3022"/>
+        <location filename="ViewWindow.cpp" line="3203"/>
         <source>An error occurred during saving!</source>
         <translation>Произошла ошибка при сохранении!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3290"/>
+        <location filename="ViewWindow.cpp" line="3293"/>
         <source>Properties</source>
         <translation>Свойства</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4467"/>
+        <location filename="ViewWindow.cpp" line="4470"/>
         <source>Number of unique colors: %1</source>
         <translation>Количество уникальных цветов: %1</translation>
     </message>
@@ -485,28 +485,28 @@
 <context>
     <name>BaseViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="4972"/>
+        <location filename="ViewWindow.cpp" line="4975"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4963"/>
-        <location filename="ViewWindow.cpp" line="4972"/>
+        <location filename="ViewWindow.cpp" line="4966"/>
+        <location filename="ViewWindow.cpp" line="4975"/>
         <source>File can&apos;t be loaded!</source>
         <translation>Не удалось загрузить файл!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4963"/>
+        <location filename="ViewWindow.cpp" line="4966"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <translation>Для просмотра и конвертирования файлов PDF/PS/EPS/AI необходимо установить Ghostscript %1.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4964"/>
+        <location filename="ViewWindow.cpp" line="4967"/>
         <source>Please visit the %1 for more information.</source>
         <translation>Для получения более подробной информации, пожалуйста, посетите %1.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4976"/>
+        <location filename="ViewWindow.cpp" line="4979"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; Пусто &gt;</translation>
     </message>
@@ -565,27 +565,27 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Настроить панель инструментов...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1659"/>
+        <location filename="BrowserWindow.cpp" line="1665"/>
         <source>Add Favorite...</source>
         <translation>Добавить в избранное...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1750"/>
+        <location filename="BrowserWindow.cpp" line="1756"/>
         <source>Folders</source>
         <translation>Папки</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1754"/>
+        <location filename="BrowserWindow.cpp" line="1760"/>
         <source>Favorites</source>
         <translation>Избранное</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1769"/>
+        <location filename="BrowserWindow.cpp" line="1775"/>
         <source>Categories</source>
         <translation>Категории</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1807"/>
+        <location filename="BrowserWindow.cpp" line="1813"/>
         <source>Info</source>
         <translation>Информация</translation>
     </message>
@@ -600,66 +600,66 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Прикрепить область предпросмотра</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="901"/>
+        <location filename="BrowserWindow.cpp" line="907"/>
         <source>The database is corrupted. Please check it before you continue!</source>
         <oldsource>The database is corrupted, please check it before to continue!</oldsource>
         <translation>База данных повреждена.
 Пожалуйста, проверьте данные перед продолжением!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1651"/>
+        <location filename="BrowserWindow.cpp" line="1657"/>
         <source>Add to Favorites</source>
         <translation>Добавить в избранное</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1758"/>
+        <location filename="BrowserWindow.cpp" line="1764"/>
         <source>Catalog Filter</source>
         <oldsource>Categories Filter</oldsource>
         <translation>Фильтр Каталога</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1774"/>
+        <location filename="BrowserWindow.cpp" line="1780"/>
         <source>Category Sets</source>
         <translation>Наборы категорий</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2009"/>
+        <location filename="BrowserWindow.cpp" line="2015"/>
         <source>Global</source>
         <translation>Везде</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2009"/>
+        <location filename="BrowserWindow.cpp" line="2015"/>
         <source>Current folder</source>
         <translation>Текущая папка</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2009"/>
+        <location filename="BrowserWindow.cpp" line="2015"/>
         <source>Current folder (Recursive)</source>
         <translation>Текущая папка (включая вложенные)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2265"/>
+        <location filename="BrowserWindow.cpp" line="2271"/>
         <source>Thumbnails</source>
         <translation>Эскизы</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3463"/>
+        <location filename="BrowserWindow.cpp" line="3469"/>
         <source>&lt;Search results&gt;</source>
         <translatorcomment>Результат поиска</translatorcomment>
         <translation>&lt;Результат поиска&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3560"/>
+        <location filename="BrowserWindow.cpp" line="3566"/>
         <source>This folder doesn&apos;t exist!</source>
         <translation>Папка не найдена!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3773"/>
+        <location filename="BrowserWindow.cpp" line="3781"/>
         <source>Favorite name:</source>
         <translation>Имя для избранного:</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="4018"/>
+        <location filename="BrowserWindow.cpp" line="4026"/>
         <source>Are you sure to delete these %n item(s)?</source>
         <translation>
             <numerusform>Вы действительно хотите удалить %n объект?</numerusform>
@@ -668,53 +668,53 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4102"/>
+        <location filename="BrowserWindow.cpp" line="4112"/>
         <source>The files cannot be renamed, an error occurred.</source>
         <translation>Файл не может быть переименован, возникла ошибка.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3560"/>
-        <location filename="BrowserWindow.cpp" line="4102"/>
+        <location filename="BrowserWindow.cpp" line="3566"/>
+        <location filename="BrowserWindow.cpp" line="4112"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1815"/>
+        <location filename="BrowserWindow.cpp" line="1821"/>
         <source>Metadata</source>
         <translation>Метаданные</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1824"/>
+        <location filename="BrowserWindow.cpp" line="1830"/>
         <source>Histogram</source>
         <translation>Гистограмма</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2055"/>
+        <location filename="BrowserWindow.cpp" line="2061"/>
         <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi-select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right-click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
         <translation>&lt;b&gt;Фильтр Каталога&lt;/b&gt;&lt;br&gt;Левый клик - фильтрация&lt;br&gt;&amp;bull; Shift/Ctrl - мультивыбор&lt;br&gt;&amp;bull; Alt - исключение&lt;br&gt;Правый клик - открыть опций узла&lt;br&gt;Перетащить на узел - назначение</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3465"/>
+        <location filename="BrowserWindow.cpp" line="3471"/>
         <source>&lt;Checked files&gt;</source>
         <translation>&lt;Отмеченные файлы&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3467"/>
+        <location filename="BrowserWindow.cpp" line="3473"/>
         <source>&lt;Catalog filter results&gt;</source>
         <translation>&lt;Результат фильтрации каталога&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3469"/>
+        <location filename="BrowserWindow.cpp" line="3475"/>
         <source>&lt;files&gt;</source>
         <translation>&lt;файлы&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4011"/>
+        <location filename="BrowserWindow.cpp" line="4019"/>
         <source>Delete items &amp; companions</source>
         <translation>Удаление элементов и сопутствующих файлов</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="4012"/>
+        <location filename="BrowserWindow.cpp" line="4020"/>
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
         <translation>
             <numerusform>Вы действительно хотите удалить %n объект - %1 объект выделен?</numerusform>
@@ -723,69 +723,69 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4480"/>
+        <location filename="BrowserWindow.cpp" line="4493"/>
         <source>Search...</source>
         <translation>Поиск...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4481"/>
+        <location filename="BrowserWindow.cpp" line="4494"/>
         <source>Add to favorites...</source>
         <translation>Добавить в избранное...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4484"/>
+        <location filename="BrowserWindow.cpp" line="4497"/>
         <source>Start slideshow</source>
         <translation>Запустить слайд-шоу</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4486"/>
+        <location filename="BrowserWindow.cpp" line="4499"/>
         <source>Open in file manager</source>
         <translation>Открыть в файловом менеджере</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4489"/>
+        <location filename="BrowserWindow.cpp" line="4502"/>
         <source>Properties</source>
         <translation>Свойства</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4600"/>
+        <location filename="BrowserWindow.cpp" line="4617"/>
         <source>Load filelist</source>
         <translation>Открыть список файлов</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4017"/>
+        <location filename="BrowserWindow.cpp" line="4025"/>
         <source>Delete items</source>
         <translation>Удаление элементов</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1989"/>
-        <location filename="BrowserWindow.cpp" line="2001"/>
+        <location filename="BrowserWindow.cpp" line="1995"/>
+        <location filename="BrowserWindow.cpp" line="2007"/>
         <source>AND</source>
         <translation>И</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1989"/>
         <location filename="BrowserWindow.cpp" line="1995"/>
+        <location filename="BrowserWindow.cpp" line="2001"/>
         <source>OR</source>
         <translation>ИЛИ</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1990"/>
+        <location filename="BrowserWindow.cpp" line="1996"/>
         <source>&lt;b&gt;Match&lt;/b&gt;&lt;br&gt;OR - match any selected entry&lt;br&gt;AND - match all selected entries</source>
         <translation>&lt;b&gt;Совпадение&lt;/b&gt;&lt;br&gt;ИЛИ - совпадение с любой из выбранных записей&lt;br&gt;И - совпадение со всеми выбранными записями</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4478"/>
+        <location filename="BrowserWindow.cpp" line="4491"/>
         <source>Show files in subfolders</source>
         <translation>Показывать файлы из подпапок</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4521"/>
+        <location filename="BrowserWindow.cpp" line="4534"/>
         <source>Delete folder</source>
         <translation>Удаление папки</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4521"/>
+        <location filename="BrowserWindow.cpp" line="4534"/>
         <source>Are you sure to delete this folder?</source>
         <translation>Вы действительно хотите удалить эту папку?</translation>
     </message>
@@ -815,7 +815,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 <context>
     <name>CategoryModel</name>
     <message>
-        <location filename="CategoryModel.cpp" line="557"/>
+        <location filename="CategoryModel.cpp" line="558"/>
         <source>Label</source>
         <translation>Нумерация</translation>
     </message>
@@ -900,150 +900,150 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 <context>
     <name>CategoryView</name>
     <message>
-        <location filename="CategoryView.cpp" line="714"/>
-        <location filename="CategoryView.cpp" line="812"/>
+        <location filename="CategoryView.cpp" line="719"/>
+        <location filename="CategoryView.cpp" line="817"/>
         <source>New category</source>
         <translation>Новая категория</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="569"/>
-        <location filename="CategoryView.cpp" line="626"/>
-        <location filename="CategoryView.cpp" line="718"/>
-        <location filename="CategoryView.cpp" line="814"/>
+        <location filename="CategoryView.cpp" line="574"/>
+        <location filename="CategoryView.cpp" line="631"/>
+        <location filename="CategoryView.cpp" line="723"/>
+        <location filename="CategoryView.cpp" line="819"/>
         <source>Rename</source>
         <translation>Переименовать</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="570"/>
-        <location filename="CategoryView.cpp" line="627"/>
-        <location filename="CategoryView.cpp" line="729"/>
-        <location filename="CategoryView.cpp" line="815"/>
+        <location filename="CategoryView.cpp" line="575"/>
+        <location filename="CategoryView.cpp" line="632"/>
+        <location filename="CategoryView.cpp" line="734"/>
+        <location filename="CategoryView.cpp" line="820"/>
         <source>Delete</source>
         <translation>Удалить</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="464"/>
-        <location filename="CategoryView.cpp" line="771"/>
-        <location filename="CategoryView.cpp" line="836"/>
+        <location filename="CategoryView.cpp" line="469"/>
+        <location filename="CategoryView.cpp" line="776"/>
+        <location filename="CategoryView.cpp" line="841"/>
         <source>Delete category</source>
         <translation>Удаление категории</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="464"/>
-        <location filename="CategoryView.cpp" line="771"/>
-        <location filename="CategoryView.cpp" line="836"/>
+        <location filename="CategoryView.cpp" line="469"/>
+        <location filename="CategoryView.cpp" line="776"/>
+        <location filename="CategoryView.cpp" line="841"/>
         <source>Are you sure to delete this category?</source>
         <translation>Вы действительно хотите удалить эту категорию?</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="516"/>
+        <location filename="CategoryView.cpp" line="521"/>
         <source>EXIF: Date taken</source>
         <translation>EXIF: Дата съёмки</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="518"/>
+        <location filename="CategoryView.cpp" line="523"/>
         <source>EXIF: Date modified</source>
         <translation>EXIF: Дата изменения</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="520"/>
+        <location filename="CategoryView.cpp" line="525"/>
         <source>File: Date modified</source>
         <translation>Файл: Дата изменения</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="561"/>
+        <location filename="CategoryView.cpp" line="566"/>
         <source>New smart album...</source>
         <translation>Новый умный альбом...</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="563"/>
-        <location filename="CategoryView.cpp" line="739"/>
+        <location filename="CategoryView.cpp" line="568"/>
+        <location filename="CategoryView.cpp" line="744"/>
         <source>Create Smart Album from current filter...</source>
         <translation>Создать Умный альбом из текущего фильтра...</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="567"/>
+        <location filename="CategoryView.cpp" line="572"/>
         <source>Edit...</source>
         <translation>Правка...</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="597"/>
+        <location filename="CategoryView.cpp" line="602"/>
         <source>Delete Smart Album</source>
         <translation>Удалить Умный альбом</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="597"/>
+        <location filename="CategoryView.cpp" line="602"/>
         <source>Are you sure to delete this Smart Album?</source>
         <translation>Вы действительно хотите удалить этот Умный альбом?</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="622"/>
+        <location filename="CategoryView.cpp" line="627"/>
         <source>New album</source>
         <translation>Новый альбом</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="629"/>
+        <location filename="CategoryView.cpp" line="634"/>
         <source>Empty</source>
         <translation>Очистить</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="631"/>
+        <location filename="CategoryView.cpp" line="636"/>
         <source>Export (Bridge format)...</source>
         <translation>Экспорт (формат Bridge)...</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="634"/>
+        <location filename="CategoryView.cpp" line="639"/>
         <source>Import (Bridge format)...</source>
         <translation>Импорт (формат Bridge)...</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="659"/>
+        <location filename="CategoryView.cpp" line="664"/>
         <source>Delete album</source>
         <translation>Удалить альбом</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="659"/>
+        <location filename="CategoryView.cpp" line="664"/>
         <source>Are you sure to delete this album?</source>
         <translation>Вы действительно хотите удалить этот альбом?</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="668"/>
+        <location filename="CategoryView.cpp" line="673"/>
         <source>New Album</source>
         <translation>Новый альбом</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="680"/>
+        <location filename="CategoryView.cpp" line="685"/>
         <source>Empty album</source>
         <translation>Очистить альбом</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="680"/>
+        <location filename="CategoryView.cpp" line="685"/>
         <source>Are you sure to clear this album?</source>
         <translation>Вы действительно хотите очистить этот альбом?</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="691"/>
+        <location filename="CategoryView.cpp" line="696"/>
         <source>Import collection</source>
         <translation>Импортировать коллекцию</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="697"/>
+        <location filename="CategoryView.cpp" line="702"/>
         <source>Export collection</source>
         <translation>Экспортировать коллекцию</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="737"/>
+        <location filename="CategoryView.cpp" line="742"/>
         <source>Create Smart Album...</source>
         <translation>Создать Умный альбом...</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="771"/>
+        <location filename="CategoryView.cpp" line="776"/>
         <source>Are you sure to delete these categories?</source>
         <translation>Вы действительно хотите удалить эти Категории?</translation>
     </message>
     <message>
-        <location filename="CategoryView.cpp" line="784"/>
-        <location filename="CategoryView.cpp" line="848"/>
+        <location filename="CategoryView.cpp" line="789"/>
+        <location filename="CategoryView.cpp" line="853"/>
         <source>New Category</source>
         <translation>Новая категория</translation>
     </message>
@@ -1955,8 +1955,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="CategoryManager.cpp" line="131"/>
         <location filename="MyDB.cpp" line="871"/>
-        <location filename="MyDB.cpp" line="2285"/>
-        <location filename="MyDB.cpp" line="3487"/>
+        <location filename="MyDB.cpp" line="2293"/>
+        <location filename="MyDB.cpp" line="3545"/>
         <source>Other</source>
         <translation>Прочее</translation>
     </message>
@@ -2040,19 +2040,19 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <name>DBFilterModel</name>
     <message>
         <location filename="DBFilterModel.cpp" line="150"/>
-        <location filename="DBFilterModel.cpp" line="191"/>
+        <location filename="DBFilterModel.cpp" line="192"/>
         <source>Rating</source>
         <translation>Рейтинг</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="154"/>
-        <location filename="DBFilterModel.cpp" line="192"/>
+        <location filename="DBFilterModel.cpp" line="193"/>
         <source>Colour Label</source>
         <translation>Цветовая метка</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="158"/>
-        <location filename="DBFilterModel.cpp" line="193"/>
+        <location filename="DBFilterModel.cpp" line="194"/>
         <source>People</source>
         <translation>Люди</translation>
     </message>
@@ -2078,95 +2078,100 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="167"/>
+        <source>No face</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DBFilterModel.cpp" line="168"/>
         <source>All</source>
         <translation>Все</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="168"/>
+        <location filename="DBFilterModel.cpp" line="169"/>
         <source>Taken in last 30 days</source>
         <translation>Снято за последние 30 дней</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="169"/>
+        <location filename="DBFilterModel.cpp" line="170"/>
         <source>Modified in last 30 days</source>
         <translation>Изменено за последние 30 дней</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="171"/>
-        <location filename="DBFilterModel.cpp" line="194"/>
-        <location filename="DBFilterModel.cpp" line="1691"/>
+        <location filename="DBFilterModel.cpp" line="172"/>
+        <location filename="DBFilterModel.cpp" line="195"/>
+        <location filename="DBFilterModel.cpp" line="1707"/>
         <source>Date</source>
         <translation>Дата</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="175"/>
-        <location filename="DBFilterModel.cpp" line="195"/>
+        <location filename="DBFilterModel.cpp" line="176"/>
+        <location filename="DBFilterModel.cpp" line="196"/>
         <source>Properties</source>
         <translation>Свойства</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="180"/>
-        <location filename="DBFilterModel.cpp" line="196"/>
+        <location filename="DBFilterModel.cpp" line="181"/>
+        <location filename="DBFilterModel.cpp" line="197"/>
         <source>Albums</source>
         <translation>Альбомы</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="182"/>
-        <location filename="DBFilterModel.cpp" line="197"/>
+        <location filename="DBFilterModel.cpp" line="183"/>
+        <location filename="DBFilterModel.cpp" line="198"/>
         <source>Smart Albums</source>
         <translation>Умные альбомы</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="198"/>
+        <location filename="DBFilterModel.cpp" line="199"/>
         <source>Categories</source>
         <translation>Категории</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="255"/>
-        <location filename="DBFilterModel.cpp" line="555"/>
+        <location filename="DBFilterModel.cpp" line="256"/>
+        <location filename="DBFilterModel.cpp" line="562"/>
         <source>Check (%1)</source>
         <translation>Отмеченные (%1)</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="255"/>
-        <location filename="DBFilterModel.cpp" line="555"/>
+        <location filename="DBFilterModel.cpp" line="256"/>
+        <location filename="DBFilterModel.cpp" line="562"/>
         <source>Check</source>
         <translation>Отмеченные</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1467"/>
-        <location filename="DBFilterModel.cpp" line="1844"/>
-        <location filename="DBFilterModel.cpp" line="2153"/>
-        <location filename="DBFilterModel.cpp" line="2160"/>
-        <location filename="DBFilterModel.cpp" line="2165"/>
-        <location filename="DBFilterModel.cpp" line="2170"/>
-        <location filename="DBFilterModel.cpp" line="2187"/>
-        <location filename="DBFilterModel.cpp" line="2204"/>
+        <location filename="DBFilterModel.cpp" line="1483"/>
+        <location filename="DBFilterModel.cpp" line="1860"/>
+        <location filename="DBFilterModel.cpp" line="2169"/>
+        <location filename="DBFilterModel.cpp" line="2176"/>
+        <location filename="DBFilterModel.cpp" line="2181"/>
+        <location filename="DBFilterModel.cpp" line="2186"/>
+        <location filename="DBFilterModel.cpp" line="2203"/>
+        <location filename="DBFilterModel.cpp" line="2220"/>
         <source>Unknown</source>
         <translation>Неизвестно</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2192"/>
+        <location filename="DBFilterModel.cpp" line="2208"/>
         <source>Landscape</source>
         <translation>Альбомная</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2194"/>
+        <location filename="DBFilterModel.cpp" line="2210"/>
         <source>Portrait</source>
         <translation>Портретная</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2196"/>
+        <location filename="DBFilterModel.cpp" line="2212"/>
         <source>Square</source>
         <translation>Квадратная</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2269"/>
+        <location filename="DBFilterModel.cpp" line="2285"/>
         <source>Panoramic</source>
         <translation>Панорамное</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2295"/>
+        <location filename="DBFilterModel.cpp" line="2311"/>
         <source>No Color Profile</source>
         <translation>Нет цветового профиля</translation>
     </message>
@@ -7441,7 +7446,7 @@ Do you want to continue?</source>
         <translation>XP Автор</translation>
     </message>
     <message>
-        <location filename="DlgEditEXIF.ui" line="446"/>
+        <location filename="DlgEditEXIF.ui" line="449"/>
         <source>Copyright</source>
         <translation>Авторские права</translation>
     </message>
@@ -7466,82 +7471,82 @@ Do you want to continue?</source>
         <translation>мм</translation>
     </message>
     <message>
-        <location filename="DlgEditEXIF.ui" line="436"/>
+        <location filename="DlgEditEXIF.ui" line="439"/>
         <source>Lens model</source>
         <translation>Объектив, модель</translation>
     </message>
     <message>
-        <location filename="DlgEditEXIF.ui" line="470"/>
+        <location filename="DlgEditEXIF.ui" line="473"/>
         <source>Date modified</source>
         <translation>Дата изменения</translation>
     </message>
     <message>
-        <location filename="DlgEditEXIF.ui" line="477"/>
+        <location filename="DlgEditEXIF.ui" line="480"/>
         <source>Date taken</source>
         <translation>Дата съёмки</translation>
     </message>
     <message>
-        <location filename="DlgEditEXIF.ui" line="484"/>
+        <location filename="DlgEditEXIF.ui" line="487"/>
         <source>Date digitized</source>
         <translation>Дата оцифровки</translation>
     </message>
     <message>
-        <location filename="DlgEditEXIF.ui" line="380"/>
+        <location filename="DlgEditEXIF.ui" line="383"/>
         <source>Orientation</source>
         <translation>Ориентация</translation>
     </message>
     <message>
-        <location filename="DlgEditEXIF.ui" line="388"/>
+        <location filename="DlgEditEXIF.ui" line="391"/>
         <source>0 - Not defined</source>
         <translation>0 - Не определено</translation>
     </message>
     <message>
-        <location filename="DlgEditEXIF.ui" line="393"/>
+        <location filename="DlgEditEXIF.ui" line="396"/>
         <source>1 - Horizontal</source>
         <translation>1 - Горизонтально</translation>
     </message>
     <message>
-        <location filename="DlgEditEXIF.ui" line="398"/>
+        <location filename="DlgEditEXIF.ui" line="401"/>
         <source>2 - Mirror horizontal</source>
         <translation>2 - Отражение по горизонтали</translation>
     </message>
     <message>
-        <location filename="DlgEditEXIF.ui" line="403"/>
+        <location filename="DlgEditEXIF.ui" line="406"/>
         <source>3 - Rotate 180</source>
         <translation>3 - Поворот на 180</translation>
     </message>
     <message>
-        <location filename="DlgEditEXIF.ui" line="408"/>
+        <location filename="DlgEditEXIF.ui" line="411"/>
         <source>4 - Mirror vertical</source>
         <translation>4 - Отражение по вертикали</translation>
     </message>
     <message>
-        <location filename="DlgEditEXIF.ui" line="413"/>
+        <location filename="DlgEditEXIF.ui" line="416"/>
         <source>5 - Mirror horizontal and rotate 270 CW</source>
         <translation>5 - Отражение и поворот на 270 CW</translation>
     </message>
     <message>
-        <location filename="DlgEditEXIF.ui" line="418"/>
+        <location filename="DlgEditEXIF.ui" line="421"/>
         <source>6 - Rotate 90 CW</source>
         <translation>6 - Поворот на 90 CW</translation>
     </message>
     <message>
-        <location filename="DlgEditEXIF.ui" line="423"/>
+        <location filename="DlgEditEXIF.ui" line="426"/>
         <source>7 - Mirror horizontal and rotate 90 CW</source>
         <translation>7 - Отражение и поворот на 90 CW</translation>
     </message>
     <message>
-        <location filename="DlgEditEXIF.ui" line="428"/>
+        <location filename="DlgEditEXIF.ui" line="431"/>
         <source>8 - Rotate 270 CW</source>
         <translation>8 - Поворот на 270 CW</translation>
     </message>
     <message>
-        <location filename="DlgEditEXIF.ui" line="460"/>
+        <location filename="DlgEditEXIF.ui" line="463"/>
         <source>XP Subject</source>
         <translation>XP Тема</translation>
     </message>
     <message>
-        <location filename="DlgEditEXIF.ui" line="522"/>
+        <location filename="DlgEditEXIF.ui" line="525"/>
         <source>Write</source>
         <translation>Записать</translation>
     </message>
@@ -12506,38 +12511,38 @@ Thumbnail</source>
 <context>
     <name>DlgSettingsGeneral</name>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="283"/>
         <location filename="DlgSettingsGeneral.cpp" line="284"/>
+        <location filename="DlgSettingsGeneral.cpp" line="285"/>
         <source>Load profile</source>
         <translation>Загрузить профиль</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="291"/>
+        <location filename="DlgSettingsGeneral.cpp" line="292"/>
         <source>Perceptual</source>
         <translation>Перцепционный</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="291"/>
+        <location filename="DlgSettingsGeneral.cpp" line="292"/>
         <source>Relative colorimetric</source>
         <translation>Относительный колориметрический</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="291"/>
+        <location filename="DlgSettingsGeneral.cpp" line="292"/>
         <source>Saturation</source>
         <translation>Насыщенность</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="291"/>
+        <location filename="DlgSettingsGeneral.cpp" line="292"/>
         <source>Absolute colorimetric</source>
         <translation>Абсолютный колориметрический</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="457"/>
+        <location filename="DlgSettingsGeneral.cpp" line="458"/>
         <source>Delete</source>
         <translation>Удалить</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.cpp" line="457"/>
+        <location filename="DlgSettingsGeneral.cpp" line="458"/>
         <source>Do you want to delete the selected Auto Correct entry?</source>
         <translation>Вы действительно хотите удалить выбранную позицию автозамены?</translation>
     </message>
@@ -12550,126 +12555,126 @@ Thumbnail</source>
         <translation>Основные</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="158"/>
+        <location filename="DlgSettingsGeneral.ui" line="163"/>
         <source>Allow only one application instance</source>
         <oldsource>Allow only one instance of XnView</oldsource>
         <translation>Разрешить запускать только один экземпляр приложения</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="172"/>
+        <location filename="DlgSettingsGeneral.ui" line="177"/>
         <source>Use EXIF DPI (if exists)</source>
         <translation>Использовать информацию о кол-ве точек/дюйм из EXIF, если возможно</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="179"/>
+        <location filename="DlgSettingsGeneral.ui" line="184"/>
         <source>Adjust image if X/Y DPI are different</source>
         <oldsource>Adjust zoom if X/Y DPI are different</oldsource>
         <translation>Изменять изображение, если X/Y DPI различны</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="365"/>
+        <location filename="DlgSettingsGeneral.ui" line="370"/>
         <source>Startup</source>
         <translation>Запуск</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="371"/>
+        <location filename="DlgSettingsGeneral.ui" line="376"/>
         <source>Start with file</source>
         <translation>Запуск с файлом</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="379"/>
+        <location filename="DlgSettingsGeneral.ui" line="384"/>
         <source>Open</source>
         <translation>Открыть</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="504"/>
-        <location filename="DlgSettingsGeneral.ui" line="914"/>
-        <location filename="DlgSettingsGeneral.ui" line="981"/>
+        <location filename="DlgSettingsGeneral.ui" line="509"/>
+        <location filename="DlgSettingsGeneral.ui" line="919"/>
+        <location filename="DlgSettingsGeneral.ui" line="986"/>
         <source>None</source>
         <translation>Нет</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="151"/>
+        <location filename="DlgSettingsGeneral.ui" line="156"/>
         <source>Show all graphic formats</source>
         <translation>Показывать все доступные графические форматы</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="165"/>
+        <location filename="DlgSettingsGeneral.ui" line="170"/>
         <source>Auto-rotate images according to EXIF orientation tag</source>
         <oldsource>Rotate images according to EXIF orientation tag</oldsource>
         <translation>Автоповорот изображений в соответствии с тегом ориентации EXIF</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="188"/>
+        <location filename="DlgSettingsGeneral.ui" line="193"/>
         <source>Unit for print size</source>
         <translation>Единицы измерения для размера при печати</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="196"/>
+        <location filename="DlgSettingsGeneral.ui" line="201"/>
         <source>inch</source>
         <translation>дюймы</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="201"/>
+        <location filename="DlgSettingsGeneral.ui" line="206"/>
         <source>cm</source>
         <translation>см</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="206"/>
+        <location filename="DlgSettingsGeneral.ui" line="211"/>
         <source>mm</source>
         <translation>мм</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="231"/>
+        <location filename="DlgSettingsGeneral.ui" line="236"/>
         <source>Save session on program exit</source>
         <translation>Сохранять &quot;Сессию&quot; при выходе из программы</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="239"/>
-        <location filename="DlgSettingsGeneral.ui" line="591"/>
+        <location filename="DlgSettingsGeneral.ui" line="244"/>
+        <location filename="DlgSettingsGeneral.ui" line="596"/>
         <source>Ask</source>
         <translation>Уведомлять</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="244"/>
-        <location filename="DlgSettingsGeneral.ui" line="596"/>
+        <location filename="DlgSettingsGeneral.ui" line="249"/>
+        <location filename="DlgSettingsGeneral.ui" line="601"/>
         <source>Always</source>
         <translation>Всегда</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="249"/>
-        <location filename="DlgSettingsGeneral.ui" line="306"/>
-        <location filename="DlgSettingsGeneral.ui" line="601"/>
+        <location filename="DlgSettingsGeneral.ui" line="254"/>
+        <location filename="DlgSettingsGeneral.ui" line="311"/>
+        <location filename="DlgSettingsGeneral.ui" line="606"/>
         <source>Never</source>
         <translation>Никогда</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="483"/>
+        <location filename="DlgSettingsGeneral.ui" line="488"/>
         <source>Directory</source>
         <translation>Папка</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="490"/>
+        <location filename="DlgSettingsGeneral.ui" line="495"/>
         <source>Last</source>
         <translation>Папка последнего сеанса работы</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="497"/>
+        <location filename="DlgSettingsGeneral.ui" line="502"/>
         <source>Specified</source>
         <translation>Указанная</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="453"/>
+        <location filename="DlgSettingsGeneral.ui" line="458"/>
         <source>...</source>
         <translation>...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="344"/>
+        <location filename="DlgSettingsGeneral.ui" line="349"/>
         <source>Send anonymous logs</source>
         <translation>Отправлять анонимные логи</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="574"/>
+        <location filename="DlgSettingsGeneral.ui" line="579"/>
         <source>For &apos;Save as&apos;, use original format</source>
         <translation>Использовать исходный формат для &quot;Сохранить как&quot;</translation>
     </message>
@@ -12679,38 +12684,38 @@ Thumbnail</source>
         <translation>Язык</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="274"/>
+        <location filename="DlgSettingsGeneral.ui" line="279"/>
         <source>Reset all confirm prompts</source>
         <translation>Сбросить информацию о всех подтверждающих сообщениях</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="546"/>
+        <location filename="DlgSettingsGeneral.ui" line="551"/>
         <source>File operations</source>
         <translation>Операции с файлами</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="633"/>
+        <location filename="DlgSettingsGeneral.ui" line="638"/>
         <source>Confirm file delete</source>
         <translation>Подтверждать удаление файла</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="640"/>
+        <location filename="DlgSettingsGeneral.ui" line="645"/>
         <source>Use Recycle Bin</source>
         <translation>Удалять в Корзину</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="397"/>
+        <location filename="DlgSettingsGeneral.ui" line="402"/>
         <source>Browser</source>
         <translation>Обозреватель</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="392"/>
+        <location filename="DlgSettingsGeneral.ui" line="397"/>
         <source>Viewer - Fullscreen</source>
         <oldsource>Fullscreen - Viewer</oldsource>
         <translation>Просмотр - Полноэкранный режим</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="298"/>
+        <location filename="DlgSettingsGeneral.ui" line="303"/>
         <source>Check for program updates</source>
         <translation>Выполнять поиск обновлений</translation>
     </message>
@@ -12741,238 +12746,243 @@ Thumbnail</source>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="112"/>
+        <source>Grey</source>
+        <translation type="unfinished">Серый</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsGeneral.ui" line="117"/>
         <source>Custom</source>
         <comment>theme</comment>
         <translation>Пользовательская</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="311"/>
+        <location filename="DlgSettingsGeneral.ui" line="316"/>
         <source>Daily</source>
         <translation>Ежедневно</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="316"/>
+        <location filename="DlgSettingsGeneral.ui" line="321"/>
         <source>Weekly</source>
         <translation>Раз в неделю</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="321"/>
+        <location filename="DlgSettingsGeneral.ui" line="326"/>
         <source>Monthly</source>
         <translation>Раз в месяц</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="387"/>
+        <location filename="DlgSettingsGeneral.ui" line="392"/>
         <source>Viewer</source>
         <translation>Просмотр</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="402"/>
+        <location filename="DlgSettingsGeneral.ui" line="407"/>
         <source>Browser - Fullscreen</source>
         <translation>Обозреватель - Полноэкранный режим</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="428"/>
+        <location filename="DlgSettingsGeneral.ui" line="433"/>
         <source>Start without file</source>
         <translation>Запуск без файла</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="434"/>
+        <location filename="DlgSettingsGeneral.ui" line="439"/>
         <source>Open browser</source>
         <translation>Открыть Обозреватель</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="443"/>
+        <location filename="DlgSettingsGeneral.ui" line="448"/>
         <source>Remember selected filename</source>
         <translation>Запомнить выбранное имя файла</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="560"/>
+        <location filename="DlgSettingsGeneral.ui" line="565"/>
         <source>Save as copy for &apos;Save&apos; action</source>
         <translation>Сохранять копию для действия &quot;Сохранить&quot;</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="567"/>
+        <location filename="DlgSettingsGeneral.ui" line="572"/>
         <source>For &apos;Save as&apos;, use original pathname</source>
         <translation>Использовать исходный путь для &quot;Сохранить как&quot;</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="721"/>
+        <location filename="DlgSettingsGeneral.ui" line="726"/>
         <source>Use dialog to rename file/folder</source>
         <translation>Открывать диалоговое окно при переименовании файла/папки</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="754"/>
+        <location filename="DlgSettingsGeneral.ui" line="759"/>
         <source>Make backup for lossless flip/rotation</source>
         <translation>Создавать резервную копию при Отражении/Вращении без потерь</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="761"/>
+        <location filename="DlgSettingsGeneral.ui" line="766"/>
         <source>Make backup for lossless crop</source>
         <translation>Создавать резервную копию при Обрезке без потерь</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="768"/>
+        <location filename="DlgSettingsGeneral.ui" line="773"/>
         <source>Make backup for other lossless operations</source>
         <translation>Создавать резервную копию при прочих преобразованиях без потерь</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="658"/>
+        <location filename="DlgSettingsGeneral.ui" line="663"/>
         <source>Duplicate files naming</source>
         <oldsource>Duplicate files</oldsource>
         <translation>Именование дубликатов файлов</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="554"/>
+        <location filename="DlgSettingsGeneral.ui" line="559"/>
         <source>Save</source>
         <translation>Сохранение</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="583"/>
+        <location filename="DlgSettingsGeneral.ui" line="588"/>
         <source>Save changes to file</source>
         <translation>Сохранять измененный файл</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="627"/>
+        <location filename="DlgSettingsGeneral.ui" line="632"/>
         <source>Delete</source>
         <translation>Удаление</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="650"/>
+        <location filename="DlgSettingsGeneral.ui" line="655"/>
         <source>Copy</source>
         <translation>Копирование</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="669"/>
+        <location filename="DlgSettingsGeneral.ui" line="674"/>
         <source>&lt;Filename&gt; - Copy (#)</source>
         <translation>&lt;Имя файла&gt; - Копия (#)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="689"/>
+        <location filename="DlgSettingsGeneral.ui" line="694"/>
         <source>Copy (#) of &lt;Filename&gt;</source>
         <translation>Копия (#) &lt;Имя файла&gt;</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="674"/>
+        <location filename="DlgSettingsGeneral.ui" line="679"/>
         <source>&lt;Filename&gt;-Copy (#)</source>
         <translation>&lt;Имя файла&gt;-Копия (#)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="679"/>
+        <location filename="DlgSettingsGeneral.ui" line="684"/>
         <source>&lt;Filename&gt;-(#)</source>
         <translation>&lt;Имя файла&gt;-(#)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="684"/>
+        <location filename="DlgSettingsGeneral.ui" line="689"/>
         <source>&lt;Filename&gt;-#</source>
         <translation>&lt;Имя файла&gt;-#</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="715"/>
+        <location filename="DlgSettingsGeneral.ui" line="720"/>
         <source>Rename</source>
         <translation>Переименование</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="748"/>
+        <location filename="DlgSettingsGeneral.ui" line="753"/>
         <source>Lossless operations</source>
         <translation>Преобразование без потерь</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="778"/>
+        <location filename="DlgSettingsGeneral.ui" line="783"/>
         <source>Keep original date/time</source>
         <translation>Coхранение исходных даты/времени</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="784"/>
+        <location filename="DlgSettingsGeneral.ui" line="789"/>
         <source>File saving</source>
         <translation>При сохранении файла</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="791"/>
+        <location filename="DlgSettingsGeneral.ui" line="796"/>
         <source>File copying</source>
         <translation>При копировании файла</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="798"/>
+        <location filename="DlgSettingsGeneral.ui" line="803"/>
         <source>Lossless transformations</source>
         <translation>При преобразовании без потерь</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="805"/>
+        <location filename="DlgSettingsGeneral.ui" line="810"/>
         <source>Embedded Metadata change</source>
         <translation>При изменении встроенных метаданных</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="837"/>
+        <location filename="DlgSettingsGeneral.ui" line="842"/>
         <source>Use ICC profile for monitor (slower)</source>
         <oldsource>Use ICC profile (slower)</oldsource>
         <translation>Использовать профиль ICC (замедляет работу программы)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="868"/>
-        <location filename="DlgSettingsGeneral.ui" line="930"/>
-        <location filename="DlgSettingsGeneral.ui" line="997"/>
+        <location filename="DlgSettingsGeneral.ui" line="873"/>
+        <location filename="DlgSettingsGeneral.ui" line="935"/>
+        <location filename="DlgSettingsGeneral.ui" line="1002"/>
         <source>Custom</source>
         <comment>icc</comment>
         <translation>Пользовательский</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="881"/>
+        <location filename="DlgSettingsGeneral.ui" line="886"/>
         <source>System</source>
         <translation>Система</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="1097"/>
+        <location filename="DlgSettingsGeneral.ui" line="1102"/>
         <source>Auto correct</source>
         <translation>Автозамена</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="1125"/>
+        <location filename="DlgSettingsGeneral.ui" line="1130"/>
         <source>Replace</source>
         <translation>Заменять</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="1130"/>
+        <location filename="DlgSettingsGeneral.ui" line="1135"/>
         <source>With</source>
         <translation>на</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="1167"/>
+        <location filename="DlgSettingsGeneral.ui" line="1172"/>
         <source>Delimiter character</source>
         <translation>Символ-разделитель</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="831"/>
+        <location filename="DlgSettingsGeneral.ui" line="836"/>
         <source>Color management</source>
         <oldsource>Color profile</oldsource>
         <translation>Управление цветом</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="908"/>
+        <location filename="DlgSettingsGeneral.ui" line="913"/>
         <source>RGB Profile used when embedded profile doesn&apos;t exist</source>
         <translation>Использовать RGB профиль, если встроенный профиль не найден</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="921"/>
+        <location filename="DlgSettingsGeneral.ui" line="926"/>
         <source>sRGB</source>
         <translation>sRGB</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="975"/>
+        <location filename="DlgSettingsGeneral.ui" line="980"/>
         <source>CMYK Profile used when embedded profile doesn&apos;t exist</source>
         <translation>Использовать CMYK профиль, если встроенный профиль не найден</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="988"/>
+        <location filename="DlgSettingsGeneral.ui" line="993"/>
         <source>System profile</source>
         <translation>Системный профиль</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="1044"/>
+        <location filename="DlgSettingsGeneral.ui" line="1049"/>
         <source>Rendering intent:</source>
         <translation>Метод преобразования:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsGeneral.ui" line="1073"/>
+        <location filename="DlgSettingsGeneral.ui" line="1078"/>
         <source>Black Point Compensation</source>
         <translation>Компенсация чёрной точки</translation>
     </message>
@@ -12980,87 +12990,87 @@ Thumbnail</source>
 <context>
     <name>DlgSettingsIntegration</name>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="31"/>
-        <location filename="DlgSettingsIntegration.cpp" line="40"/>
-        <location filename="DlgSettingsIntegration.cpp" line="47"/>
-        <location filename="DlgSettingsIntegration.cpp" line="55"/>
+        <location filename="DlgSettingsIntegration.cpp" line="35"/>
+        <location filename="DlgSettingsIntegration.cpp" line="44"/>
+        <location filename="DlgSettingsIntegration.cpp" line="51"/>
+        <location filename="DlgSettingsIntegration.cpp" line="59"/>
         <source>System - Current user</source>
         <oldsource>User (System)</oldsource>
         <translation>Система - текущий пользователь</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="33"/>
+        <location filename="DlgSettingsIntegration.cpp" line="37"/>
         <source>System - Current user (Windows registry)</source>
         <translation>Система - текущий пользователь (реестр Windows)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="34"/>
-        <location filename="DlgSettingsIntegration.cpp" line="42"/>
-        <location filename="DlgSettingsIntegration.cpp" line="49"/>
-        <location filename="DlgSettingsIntegration.cpp" line="57"/>
+        <location filename="DlgSettingsIntegration.cpp" line="38"/>
+        <location filename="DlgSettingsIntegration.cpp" line="46"/>
+        <location filename="DlgSettingsIntegration.cpp" line="53"/>
+        <location filename="DlgSettingsIntegration.cpp" line="61"/>
         <source>System - Local machine</source>
         <translation>Система - локальный компьютер</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="36"/>
-        <location filename="DlgSettingsIntegration.cpp" line="44"/>
-        <location filename="DlgSettingsIntegration.cpp" line="51"/>
+        <location filename="DlgSettingsIntegration.cpp" line="40"/>
+        <location filename="DlgSettingsIntegration.cpp" line="48"/>
+        <location filename="DlgSettingsIntegration.cpp" line="55"/>
         <source>Application folder</source>
         <translation>Папка приложения</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="38"/>
-        <location filename="DlgSettingsIntegration.cpp" line="45"/>
-        <location filename="DlgSettingsIntegration.cpp" line="52"/>
-        <location filename="DlgSettingsIntegration.cpp" line="59"/>
+        <location filename="DlgSettingsIntegration.cpp" line="42"/>
+        <location filename="DlgSettingsIntegration.cpp" line="49"/>
+        <location filename="DlgSettingsIntegration.cpp" line="56"/>
+        <location filename="DlgSettingsIntegration.cpp" line="63"/>
         <source>Custom</source>
         <translation>Пользовательская</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="54"/>
+        <location filename="DlgSettingsIntegration.cpp" line="58"/>
         <source>Same as Catalog</source>
         <translation>Как у Каталога</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="152"/>
-        <location filename="DlgSettingsIntegration.cpp" line="153"/>
-        <location filename="DlgSettingsIntegration.cpp" line="154"/>
+        <location filename="DlgSettingsIntegration.cpp" line="156"/>
+        <location filename="DlgSettingsIntegration.cpp" line="157"/>
+        <location filename="DlgSettingsIntegration.cpp" line="158"/>
         <source>Browse with XnViewMP</source>
         <translatorcomment>Открыть с помощью  XnViewMP</translatorcomment>
         <translation>Открыть с помощью XnViewMP</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="416"/>
+        <location filename="DlgSettingsIntegration.cpp" line="420"/>
         <source>Select a program</source>
         <translation>Выбор программы</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="493"/>
+        <location filename="DlgSettingsIntegration.cpp" line="497"/>
         <source>Paths</source>
         <translation>Пути</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="493"/>
+        <location filename="DlgSettingsIntegration.cpp" line="497"/>
         <source>Please be careful to folder rights by using XnView folder</source>
         <translation>Пожалуйста, предоставьте необходимые права папке, которую использует XnView</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="683"/>
+        <location filename="DlgSettingsIntegration.cpp" line="687"/>
         <source>XnViewMP is a fast multi-format graphics browser, viewer, and converter. It reads more than 400 file formats.</source>
         <translation>XnViewMP - это быстрая кроссплатформенная программа для просмотра, каталогизации и редактирования изображений. Всего поддерживается более 400 форматов.</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="684"/>
+        <location filename="DlgSettingsIntegration.cpp" line="688"/>
         <source>XnViewMP for Windows</source>
         <translation>XnViewMP для Windows</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="731"/>
+        <location filename="DlgSettingsIntegration.cpp" line="735"/>
         <source>XnView Slide file</source>
         <translation>SLD файл слайдшоу XnView</translation>
     </message>
     <message>
-        <location filename="DlgSettingsIntegration.cpp" line="738"/>
+        <location filename="DlgSettingsIntegration.cpp" line="742"/>
         <source>%1 Image file</source>
         <translation>%1 Файл изображения</translation>
     </message>
@@ -13885,7 +13895,7 @@ Do you want to reassign?</source>
 <context>
     <name>DlgSettingsKeywords</name>
     <message>
-        <location filename="DlgSettingsKeywords.cpp" line="75"/>
+        <location filename="DlgSettingsKeywords.cpp" line="78"/>
         <source>Locale</source>
         <translation>Локальная</translation>
     </message>
@@ -13893,50 +13903,33 @@ Do you want to reassign?</source>
 <context>
     <name>DlgSettingsKeywordsClass</name>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="205"/>
-        <source>Read hierarchical keywords from images as categories</source>
-        <oldsource>Read hierarchical keywords</oldsource>
-        <translation>Читать иерархию Ключевых слов как Категории</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsKeywords.ui" line="306"/>
+        <location filename="DlgSettingsKeywords.ui" line="210"/>
         <source>Automatically assign parent Category (Ctrl+click for current only)</source>
         <oldsource>Automatically apply parent category (Ctrl+click for single category)</oldsource>
         <translation>Автоматически присваивать родительскую Категорию (Ctrl+клик только для текущей)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="194"/>
-        <source>Update when file is changed outside (date/size)</source>
-        <translation>Обновлять при изменении файла вне программы (дата/размер)</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsKeywords.ui" line="352"/>
+        <location filename="DlgSettingsKeywords.ui" line="359"/>
         <source>Create or update XMP Sidecar</source>
         <oldsource>Update or create XMP Sidecar</oldsource>
         <translation>Создавать или обновлять связанные файлы XMP (sidecar)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="389"/>
+        <location filename="DlgSettingsKeywords.ui" line="396"/>
         <source>Naming convention</source>
         <translation>Наименование</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="395"/>
+        <location filename="DlgSettingsKeywords.ui" line="402"/>
         <source>&lt;filename&gt;.xmp</source>
         <oldsource>Filename.xmp</oldsource>
         <translation>&lt;имя файла&gt;.xmp</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="402"/>
+        <location filename="DlgSettingsKeywords.ui" line="409"/>
         <source>&lt;filename&gt;.&lt;extension&gt;.xmp</source>
         <oldsource>Filename.extension.xmp</oldsource>
         <translation>&lt;имя файла&gt;.&lt;расширение&gt;.xmp</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsKeywords.ui" line="299"/>
-        <source>Write categories into images as hierarchical keywords</source>
-        <oldsource>Write categories into images as hierachical keywords</oldsource>
-        <translation>Записывать Категории в изображения как иерархию Ключевых слов</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="33"/>
@@ -13945,124 +13938,144 @@ Do you want to reassign?</source>
         <translation>Метаданные</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="152"/>
+        <location filename="DlgSettingsKeywords.ui" line="96"/>
         <source>Import</source>
         <translation>Импорт</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="66"/>
+        <location filename="DlgSettingsKeywords.ui" line="117"/>
         <source>Export</source>
         <translation>Экспорт</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="52"/>
+        <location filename="DlgSettingsKeywords.ui" line="55"/>
         <source>Rating</source>
         <translation>Рейтинг</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="121"/>
+        <location filename="DlgSettingsKeywords.ui" line="62"/>
         <source>Color label</source>
         <translation>Цветовая метка</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="128"/>
+        <location filename="DlgSettingsKeywords.ui" line="138"/>
         <source>Categories</source>
         <translation>Категории</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="159"/>
+        <location filename="DlgSettingsKeywords.ui" line="131"/>
         <source>Face tag</source>
         <translation>Тег лица</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="183"/>
+        <location filename="DlgSettingsKeywords.ui" line="124"/>
+        <source>Update catalog when file is modified outside (file date/size)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsKeywords.ui" line="197"/>
         <source>Categories and keywords</source>
         <translation>Категории и Ключевые слова</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="316"/>
+        <location filename="DlgSettingsKeywords.ui" line="203"/>
+        <source>Update keywords when file is modified outside (file date/size)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsKeywords.ui" line="219"/>
+        <source>Read Hierarchical keywords</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsKeywords.ui" line="313"/>
+        <source>Write Hierarchical keywords (| as separator)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsKeywords.ui" line="323"/>
         <source>Comment</source>
         <translation>Комментарий</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="322"/>
+        <location filename="DlgSettingsKeywords.ui" line="329"/>
         <source>Write comment in XMP (dc:description and exif:UserComment)</source>
         <translation>Сохранять комментарий в XMP (dc:описание и exif:КомментарийПользователя)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="346"/>
+        <location filename="DlgSettingsKeywords.ui" line="353"/>
         <source>Sidecar</source>
         <translation>Связанные файлы</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="380"/>
+        <location filename="DlgSettingsKeywords.ui" line="387"/>
         <source>Update master file</source>
         <translation>Обновлять основной файл</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="445"/>
+        <location filename="DlgSettingsKeywords.ui" line="452"/>
         <source>Video files</source>
         <translation>Видеофайлы</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="452"/>
+        <location filename="DlgSettingsKeywords.ui" line="459"/>
         <source>Other files</source>
         <translation>Прочие файлы</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="476"/>
+        <location filename="DlgSettingsKeywords.ui" line="483"/>
         <source>Encoding</source>
         <translation>Кодировка</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="490"/>
-        <location filename="DlgSettingsKeywords.ui" line="540"/>
+        <location filename="DlgSettingsKeywords.ui" line="497"/>
+        <location filename="DlgSettingsKeywords.ui" line="547"/>
         <source>Default encoding</source>
         <translation>Кодировка по умолчанию</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="532"/>
+        <location filename="DlgSettingsKeywords.ui" line="539"/>
         <source>Embedded comment</source>
         <translation>Встроенный комментарий</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="666"/>
+        <location filename="DlgSettingsKeywords.ui" line="673"/>
         <source>Color labels</source>
         <oldsource>Labels</oldsource>
         <translation>Цветовые метки</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="834"/>
+        <location filename="DlgSettingsKeywords.ui" line="841"/>
         <source>Label</source>
         <translation>Название</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="784"/>
+        <location filename="DlgSettingsKeywords.ui" line="791"/>
         <source>Read (separated by ,)</source>
         <translation>Чтение (разделять с помощью ,)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="412"/>
+        <location filename="DlgSettingsKeywords.ui" line="419"/>
         <source>Supported formats</source>
         <translation>Поддерживаемые форматы</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="583"/>
+        <location filename="DlgSettingsKeywords.ui" line="590"/>
         <source>Copyright</source>
         <translation>Авторские права</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="617"/>
+        <location filename="DlgSettingsKeywords.ui" line="624"/>
         <source>Image description</source>
         <translation>Описание изображения</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="827"/>
+        <location filename="DlgSettingsKeywords.ui" line="834"/>
         <source>Write</source>
         <translation>Запись</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="522"/>
+        <location filename="DlgSettingsKeywords.ui" line="529"/>
         <source>Use UTF-8 to write IPTC fields</source>
         <oldsource>Use utf8 to write IPTC fields</oldsource>
         <translation>Использовать UTF-8 при записи в IPTC</translation>
@@ -14395,15 +14408,15 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="44"/>
-        <location filename="DlgSettingsView.ui" line="1104"/>
+        <location filename="DlgSettingsView.ui" line="1111"/>
         <source>Auto zoom</source>
         <oldsource>Auto image size</oldsource>
         <translation>Автомасштабирование</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="102"/>
-        <location filename="DlgSettingsView.ui" line="1013"/>
-        <location filename="DlgSettingsView.ui" line="1170"/>
+        <location filename="DlgSettingsView.ui" line="1020"/>
+        <location filename="DlgSettingsView.ui" line="1177"/>
         <source>Background color</source>
         <translation>Цвет фона</translation>
     </message>
@@ -14452,12 +14465,12 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="521"/>
-        <location filename="DlgSettingsView.ui" line="1147"/>
+        <location filename="DlgSettingsView.ui" line="1154"/>
         <source>Show scrollbars</source>
         <translation>Показывать полосы прокрутки</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="848"/>
+        <location filename="DlgSettingsView.ui" line="855"/>
         <source>Draw multi-resolution icons as Snapshots</source>
         <oldsource>Display multi-resolution icons as snapshots</oldsource>
         <translation>Показывать иконки с несколькими разрешениями в виде Снимков</translation>
@@ -14604,131 +14617,136 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="740"/>
+        <source>Auto-play audio companion files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsView.ui" line="747"/>
         <source>Two-pass rendering at loading</source>
         <translation>Двухпроходный рендеринг при загрузке</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="747"/>
+        <location filename="DlgSettingsView.ui" line="754"/>
         <source>Cache</source>
         <translation>Кэширование</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="753"/>
+        <location filename="DlgSettingsView.ui" line="760"/>
         <source>Read one image ahead</source>
         <translation>Читать следующее изображение заранее</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="760"/>
+        <location filename="DlgSettingsView.ui" line="767"/>
         <source>Keep current image</source>
         <translation>Сохранять текущее изображение в кэше</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="770"/>
+        <location filename="DlgSettingsView.ui" line="777"/>
         <source>Quick slideshow</source>
         <translation>Быстрое слайд-шоу</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="776"/>
+        <location filename="DlgSettingsView.ui" line="783"/>
         <source>Delay (ms)</source>
         <translation>Задержка (мс)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="793"/>
+        <location filename="DlgSettingsView.ui" line="800"/>
         <source>Direction</source>
         <translation>Направление</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="801"/>
+        <location filename="DlgSettingsView.ui" line="808"/>
         <source>Forward</source>
         <translation>Вперед</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="806"/>
+        <location filename="DlgSettingsView.ui" line="813"/>
         <source>Backward</source>
         <translation>Назад</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="811"/>
+        <location filename="DlgSettingsView.ui" line="818"/>
         <source>Random</source>
         <translation>Случайно</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="872"/>
+        <location filename="DlgSettingsView.ui" line="879"/>
         <source>Info</source>
         <translation>Блок информации</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1077"/>
+        <location filename="DlgSettingsView.ui" line="1084"/>
         <source>Stretch horizontally</source>
         <translation>Растянуть по горизонтали</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1096"/>
+        <location filename="DlgSettingsView.ui" line="1103"/>
         <source>Fullscreen</source>
         <translation>Полноэкранный режим</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1133"/>
+        <location filename="DlgSettingsView.ui" line="1140"/>
         <source>Show playbar</source>
         <translation>Показывать панель воспроизведения</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1140"/>
+        <location filename="DlgSettingsView.ui" line="1147"/>
         <source>Show info</source>
         <translation>Показывать информацию</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1154"/>
+        <location filename="DlgSettingsView.ui" line="1161"/>
         <source>Show toolbar</source>
         <translation>Показывать панель инструментов</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1161"/>
+        <location filename="DlgSettingsView.ui" line="1168"/>
         <source>Hide mouse cursor</source>
         <translation>Скрывать курсор мыши</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1195"/>
+        <location filename="DlgSettingsView.ui" line="1202"/>
         <source>Dual monitor: Use second monitor</source>
         <translation>Использовать второй монитор (при наличии двух мониторов)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1208"/>
+        <location filename="DlgSettingsView.ui" line="1215"/>
         <source>Floating views</source>
         <translation>Всплывающие панели</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1233"/>
+        <location filename="DlgSettingsView.ui" line="1240"/>
         <source>(appear when the mouse is moved to the top or right of the screen)</source>
         <translation>(появляются при наведении курсора мыши на верхний или правый край экрана)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1050"/>
+        <location filename="DlgSettingsView.ui" line="1057"/>
         <source>Text color</source>
         <translation>Цвет текста</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1006"/>
+        <location filename="DlgSettingsView.ui" line="1013"/>
         <source>Font</source>
         <translation>Шрифт</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="885"/>
+        <location filename="DlgSettingsView.ui" line="892"/>
         <source>Support HTML tags</source>
         <translation>Поддержка HTML тегов</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1088"/>
+        <location filename="DlgSettingsView.ui" line="1095"/>
         <source>Always show in fullscreen</source>
         <translation>Всегда показывать в полноэкранном режиме</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="1070"/>
+        <location filename="DlgSettingsView.ui" line="1077"/>
         <source>Opacity</source>
         <translation>Непрозрачность</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="976"/>
+        <location filename="DlgSettingsView.ui" line="983"/>
         <source>Position</source>
         <translation>Расположение</translation>
     </message>
@@ -14744,12 +14762,12 @@ Do you want to reassign?</source>
         <translation>Сбрасывать X/Y координаты при смене файла (Без подгонки)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="835"/>
+        <location filename="DlgSettingsView.ui" line="842"/>
         <source>Multipage files</source>
         <translation>Многостраничный файл</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.ui" line="841"/>
+        <location filename="DlgSettingsView.ui" line="848"/>
         <source>Disable GIF/JIF/APNG/ANI animation</source>
         <translation>Отключить анимацию GIF/JIF/APNG/ANI</translation>
     </message>
@@ -15562,17 +15580,17 @@ Do you want to reassign?</source>
     </message>
     <message>
         <location filename="DlgTagPhoto.ui" line="134"/>
-        <location filename="DlgTagPhoto.cpp" line="452"/>
+        <location filename="DlgTagPhoto.cpp" line="458"/>
         <source>Remove</source>
         <translation>Удалить</translation>
     </message>
     <message>
-        <location filename="DlgTagPhoto.cpp" line="471"/>
+        <location filename="DlgTagPhoto.cpp" line="477"/>
         <source>Overwrite face regions</source>
         <translation>Перезаписать области с лицами</translation>
     </message>
     <message>
-        <location filename="DlgTagPhoto.cpp" line="471"/>
+        <location filename="DlgTagPhoto.cpp" line="477"/>
         <source>This will overwrite XMP face&apos;s regions of the file. 
 
 Do you want to continue?</source>
@@ -15846,6 +15864,64 @@ Do you want to continue?</source>
         <location filename="DlgUpdate.ui" line="106"/>
         <source>Download new version...</source>
         <translation>Скачать новую версию...</translation>
+    </message>
+</context>
+<context>
+    <name>DlgUpdateDatabase</name>
+    <message>
+        <location filename="DlgUpdateDatabase.ui" line="20"/>
+        <source>Update database</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgUpdateDatabase.ui" line="28"/>
+        <source>Update from</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgUpdateDatabase.ui" line="35"/>
+        <source>Sidecar/Master files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgUpdateDatabase.ui" line="42"/>
+        <source>Master files only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgUpdateDatabase.ui" line="64"/>
+        <source>Use modified files only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgUpdateDatabase.cpp" line="20"/>
+        <source>Update</source>
+        <translation type="unfinished">Обновление</translation>
+    </message>
+    <message>
+        <location filename="DlgUpdateDatabase.cpp" line="21"/>
+        <source>Stop</source>
+        <translation type="unfinished">Остановить</translation>
+    </message>
+    <message>
+        <location filename="DlgUpdateDatabase.cpp" line="55"/>
+        <source>%1 file(s) to process</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgUpdateDatabase.cpp" line="129"/>
+        <source>Update cancelled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgUpdateDatabase.cpp" line="129"/>
+        <source>Update completed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgUpdateDatabase.cpp" line="150"/>
+        <source>Stopping...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16924,32 +17000,32 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 <context>
     <name>File</name>
     <message>
-        <location filename="GeneralSettings.cpp" line="1039"/>
+        <location filename="GeneralSettings.cpp" line="1057"/>
         <source>Copy of %1%2</source>
         <translation>Копия %1%2</translation>
     </message>
     <message>
-        <location filename="GeneralSettings.cpp" line="1041"/>
+        <location filename="GeneralSettings.cpp" line="1059"/>
         <source>Copy (%3) of %1%2</source>
         <translation>Копия (%3) из %1%2</translation>
     </message>
     <message>
-        <location filename="GeneralSettings.cpp" line="1047"/>
+        <location filename="GeneralSettings.cpp" line="1065"/>
         <source>%1 - Copy%2</source>
         <translation>%1 - Копия%2</translation>
     </message>
     <message>
-        <location filename="GeneralSettings.cpp" line="1049"/>
+        <location filename="GeneralSettings.cpp" line="1067"/>
         <source>%1 - Copy (%3)%2</source>
         <translation>%1 - Копия (%3)%2</translation>
     </message>
     <message>
-        <location filename="GeneralSettings.cpp" line="1054"/>
+        <location filename="GeneralSettings.cpp" line="1072"/>
         <source>%1-Copy%2</source>
         <translation>%1-Копия%2</translation>
     </message>
     <message>
-        <location filename="GeneralSettings.cpp" line="1056"/>
+        <location filename="GeneralSettings.cpp" line="1074"/>
         <source>%1-Copy (%3)%2</source>
         <translation>%1-Копия (%3)%2</translation>
     </message>
@@ -17132,7 +17208,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPropertiesView.cpp" line="668"/>
         <location filename="InfoPropertiesView.cpp" line="687"/>
         <location filename="SearchField.cpp" line="41"/>
-        <location filename="TemplateData.cpp" line="2600"/>
+        <location filename="TemplateData.cpp" line="2615"/>
         <source>Format</source>
         <translation>Формат</translation>
     </message>
@@ -17141,8 +17217,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPropertiesView.cpp" line="653"/>
         <location filename="ItemModel.cpp" line="1028"/>
         <location filename="SearchField.cpp" line="42"/>
-        <location filename="TemplateData.cpp" line="2603"/>
-        <location filename="TemplateData.cpp" line="2626"/>
+        <location filename="TemplateData.cpp" line="2618"/>
+        <location filename="TemplateData.cpp" line="2641"/>
         <source>Width</source>
         <translation>Ширина</translation>
     </message>
@@ -17151,8 +17227,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPropertiesView.cpp" line="654"/>
         <location filename="ItemModel.cpp" line="1030"/>
         <location filename="SearchField.cpp" line="43"/>
-        <location filename="TemplateData.cpp" line="2604"/>
-        <location filename="TemplateData.cpp" line="2627"/>
+        <location filename="TemplateData.cpp" line="2619"/>
+        <location filename="TemplateData.cpp" line="2642"/>
         <source>Height</source>
         <translation>Высота</translation>
     </message>
@@ -17172,7 +17248,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPropertiesView.cpp" line="79"/>
         <location filename="InfoPropertiesView.cpp" line="81"/>
         <location filename="InfoPropertiesView.cpp" line="83"/>
-        <location filename="TemplateData.cpp" line="2601"/>
+        <location filename="TemplateData.cpp" line="2616"/>
         <source>Color model</source>
         <translation>Цветовая модель</translation>
     </message>
@@ -17194,8 +17270,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="87"/>
         <location filename="ItemModel.cpp" line="1032"/>
-        <location filename="TemplateData.cpp" line="2607"/>
-        <location filename="TemplateData.cpp" line="2629"/>
+        <location filename="TemplateData.cpp" line="2622"/>
+        <location filename="TemplateData.cpp" line="2644"/>
         <source>DPI</source>
         <translation>Кол-во точек/дюйм</translation>
     </message>
@@ -17208,7 +17284,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="95"/>
         <location filename="InfoPropertiesView.cpp" line="100"/>
-        <location filename="TemplateData.cpp" line="2602"/>
+        <location filename="TemplateData.cpp" line="2617"/>
         <source>Compression</source>
         <translation>Сжатие</translation>
     </message>
@@ -17425,7 +17501,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="ItemModel.cpp" line="1014"/>
         <location filename="SearchField.cpp" line="35"/>
-        <location filename="TemplateData.cpp" line="2811"/>
+        <location filename="TemplateData.cpp" line="2826"/>
         <source>Rating</source>
         <translation>Рейтинг</translation>
     </message>
@@ -17454,25 +17530,25 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPropertiesView.cpp" line="705"/>
         <location filename="ItemModel.cpp" line="1020"/>
         <location filename="SearchField.cpp" line="47"/>
-        <location filename="TemplateData.cpp" line="2606"/>
+        <location filename="TemplateData.cpp" line="2621"/>
         <source>Comment</source>
         <translation>Комментарий</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1026"/>
         <location filename="SearchField.cpp" line="45"/>
-        <location filename="TemplateData.cpp" line="2616"/>
+        <location filename="TemplateData.cpp" line="2631"/>
         <source>Ratio</source>
         <translatorcomment>Рейтинг?</translatorcomment>
         <translation>Соотношение</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2083"/>
+        <location filename="DBFilterModel.cpp" line="2099"/>
         <source>Aspect Ratio</source>
         <translation>Соотношение</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2119"/>
+        <location filename="DBFilterModel.cpp" line="2135"/>
         <source>File type</source>
         <translation>Тип файла</translation>
     </message>
@@ -17524,13 +17600,13 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="ItemModel.cpp" line="1036"/>
         <location filename="SearchField.cpp" line="34"/>
-        <location filename="TemplateData.cpp" line="2815"/>
+        <location filename="TemplateData.cpp" line="2830"/>
         <source>Categories</source>
         <translation>Категории</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="36"/>
-        <location filename="TemplateData.cpp" line="2813"/>
+        <location filename="TemplateData.cpp" line="2828"/>
         <source>Color label</source>
         <translation>Цветовая метка</translation>
     </message>
@@ -17545,7 +17621,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="IptcEditBase.cpp" line="115"/>
         <location filename="ItemModel.cpp" line="1022"/>
         <location filename="SearchField.cpp" line="46"/>
-        <location filename="TemplateData.cpp" line="2835"/>
+        <location filename="TemplateData.cpp" line="2850"/>
         <source>Annotation</source>
         <translatorcomment>Аннотация</translatorcomment>
         <translation>Описание</translation>
@@ -17558,32 +17634,32 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Все поля</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2605"/>
-        <location filename="TemplateData.cpp" line="2628"/>
+        <location filename="TemplateData.cpp" line="2620"/>
+        <location filename="TemplateData.cpp" line="2643"/>
         <source>BPP</source>
         <translation>Кол-во бит/пиксель</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2610"/>
-        <location filename="TemplateData.cpp" line="2630"/>
+        <location filename="TemplateData.cpp" line="2625"/>
+        <location filename="TemplateData.cpp" line="2645"/>
         <source>Width (inch)</source>
         <translation>Ширина (дюймы)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2611"/>
-        <location filename="TemplateData.cpp" line="2631"/>
+        <location filename="TemplateData.cpp" line="2626"/>
+        <location filename="TemplateData.cpp" line="2646"/>
         <source>Height (inch)</source>
         <translation>Высота (дюймы)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2612"/>
-        <location filename="TemplateData.cpp" line="2632"/>
+        <location filename="TemplateData.cpp" line="2627"/>
+        <location filename="TemplateData.cpp" line="2647"/>
         <source>Width (cm)</source>
         <translation>Ширина (см)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2613"/>
-        <location filename="TemplateData.cpp" line="2633"/>
+        <location filename="TemplateData.cpp" line="2628"/>
+        <location filename="TemplateData.cpp" line="2648"/>
         <source>Height (cm)</source>
         <translation>Высота (см)</translation>
     </message>
@@ -17593,7 +17669,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="IptcEditBase.cpp" line="73"/>
         <location filename="IptcEditBase.cpp" line="111"/>
         <location filename="SearchField.cpp" line="29"/>
-        <location filename="TemplateData.cpp" line="2823"/>
+        <location filename="TemplateData.cpp" line="2838"/>
         <source>Filename</source>
         <translation>Имя файла</translation>
     </message>
@@ -17606,14 +17682,14 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="EditXMPWidget.cpp" line="360"/>
         <location filename="IptcEditBase.cpp" line="74"/>
-        <location filename="TemplateData.cpp" line="2825"/>
+        <location filename="TemplateData.cpp" line="2840"/>
         <source>Filename (last number)</source>
         <translation>Имя файла (последний номер)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="361"/>
         <location filename="IptcEditBase.cpp" line="75"/>
-        <location filename="TemplateData.cpp" line="2826"/>
+        <location filename="TemplateData.cpp" line="2841"/>
         <source>Folder</source>
         <translation>Путь папки</translation>
     </message>
@@ -17621,7 +17697,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="EditXMPWidget.cpp" line="362"/>
         <location filename="IptcEditBase.cpp" line="76"/>
         <location filename="SearchField.cpp" line="32"/>
-        <location filename="TemplateData.cpp" line="2827"/>
+        <location filename="TemplateData.cpp" line="2842"/>
         <source>Folder name</source>
         <translation>Имя папки</translation>
     </message>
@@ -17629,7 +17705,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="EditXMPWidget.cpp" line="363"/>
         <location filename="IptcEditBase.cpp" line="77"/>
         <location filename="SearchField.cpp" line="40"/>
-        <location filename="TemplateData.cpp" line="2828"/>
+        <location filename="TemplateData.cpp" line="2843"/>
         <source>Accessed date</source>
         <translation>Дата открытия</translation>
     </message>
@@ -17637,7 +17713,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="EditXMPWidget.cpp" line="364"/>
         <location filename="IptcEditBase.cpp" line="78"/>
         <location filename="SearchField.cpp" line="39"/>
-        <location filename="TemplateData.cpp" line="2829"/>
+        <location filename="TemplateData.cpp" line="2844"/>
         <source>Creation date</source>
         <translation>Дата создания</translation>
     </message>
@@ -17646,134 +17722,134 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="EditXMPWidget.cpp" line="365"/>
         <location filename="IptcEditBase.cpp" line="79"/>
         <location filename="SearchField.cpp" line="38"/>
-        <location filename="TemplateData.cpp" line="2830"/>
+        <location filename="TemplateData.cpp" line="2845"/>
         <source>Modified date</source>
         <translation>Дата изменения</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="366"/>
         <location filename="IptcEditBase.cpp" line="80"/>
-        <location filename="TemplateData.cpp" line="2831"/>
+        <location filename="TemplateData.cpp" line="2846"/>
         <source>Size (Auto)</source>
         <translation>Размер (Авто)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="367"/>
         <location filename="IptcEditBase.cpp" line="81"/>
-        <location filename="TemplateData.cpp" line="2832"/>
+        <location filename="TemplateData.cpp" line="2847"/>
         <source>Size (Bytes)</source>
         <translation>Размер (Байты)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="368"/>
         <location filename="IptcEditBase.cpp" line="82"/>
-        <location filename="TemplateData.cpp" line="2833"/>
+        <location filename="TemplateData.cpp" line="2848"/>
         <source>Size (kB)</source>
         <oldsource>Size (KB)</oldsource>
         <translation>Размер (Кб)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2614"/>
+        <location filename="TemplateData.cpp" line="2629"/>
         <source>Width (mm)</source>
         <translation>Ширина (мм)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2615"/>
+        <location filename="TemplateData.cpp" line="2630"/>
         <source>Height (mm)</source>
         <translation>Высота (мм)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2617"/>
+        <location filename="TemplateData.cpp" line="2632"/>
         <source>Ratio Decimal</source>
         <translation>Соотношение (десятичное)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2618"/>
+        <location filename="TemplateData.cpp" line="2633"/>
         <source>Width/Height Ratio</source>
         <oldsource>Ratio Width/Height</oldsource>
         <translation>Соотношение ширина/высота</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2619"/>
+        <location filename="TemplateData.cpp" line="2634"/>
         <source>Height/Width Ratio</source>
         <oldsource>Ratio Height/Width</oldsource>
         <translation>Соотношение высота/ширина</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2620"/>
+        <location filename="TemplateData.cpp" line="2635"/>
         <source>MPixels</source>
         <translation>Мегапиксели</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2805"/>
+        <location filename="TemplateData.cpp" line="2820"/>
         <source>Create date</source>
         <translation>Дата создания</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2806"/>
+        <location filename="TemplateData.cpp" line="2821"/>
         <source>Modify date</source>
         <translation>Дата изменения</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2810"/>
+        <location filename="TemplateData.cpp" line="2825"/>
         <source>Check status</source>
         <translation>Состояние метки</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="30"/>
-        <location filename="TemplateData.cpp" line="2824"/>
+        <location filename="TemplateData.cpp" line="2839"/>
         <source>Filename (with extension)</source>
         <translation>Имя файла (с расширением)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2834"/>
+        <location filename="TemplateData.cpp" line="2849"/>
         <source>Type</source>
         <translation>Тип</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2836"/>
+        <location filename="TemplateData.cpp" line="2851"/>
         <source>Output filename</source>
         <oldsource>Output filename without extension</oldsource>
         <translation>Имя файла на выходе</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2837"/>
+        <location filename="TemplateData.cpp" line="2852"/>
         <source>Output filename (with extension)</source>
         <translation>Имя файла на выходе (с расширением)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2807"/>
+        <location filename="TemplateData.cpp" line="2822"/>
         <source>File index</source>
         <translation>Индекс файла</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2608"/>
+        <location filename="TemplateData.cpp" line="2623"/>
         <source>DPI-X</source>
         <translation>DPI-X</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2609"/>
+        <location filename="TemplateData.cpp" line="2624"/>
         <source>DPI-Y</source>
         <translation>DPI-Y</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2808"/>
+        <location filename="TemplateData.cpp" line="2823"/>
         <source>Zoom</source>
         <translation>Масштаб</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2809"/>
+        <location filename="TemplateData.cpp" line="2824"/>
         <source>Current date</source>
         <translation>Текущая дата</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2812"/>
+        <location filename="TemplateData.cpp" line="2827"/>
         <source>Rating (number)</source>
         <translatorcomment>рейтинг?</translatorcomment>
         <translation>Рейтинг (число)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2814"/>
+        <location filename="TemplateData.cpp" line="2829"/>
         <source>Color label (number)</source>
         <translation>Цветовая метка (число)</translation>
     </message>
@@ -18042,131 +18118,131 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Теги производителя</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2087"/>
+        <location filename="DBFilterModel.cpp" line="2103"/>
         <location filename="SearchField.cpp" line="83"/>
-        <location filename="TemplateData.cpp" line="2638"/>
+        <location filename="TemplateData.cpp" line="2653"/>
         <source>Maker</source>
         <translation>Камера, производитель</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2091"/>
+        <location filename="DBFilterModel.cpp" line="2107"/>
         <location filename="SearchField.cpp" line="84"/>
-        <location filename="TemplateData.cpp" line="2639"/>
+        <location filename="TemplateData.cpp" line="2654"/>
         <source>Model</source>
         <translation>Камера, модель</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2095"/>
+        <location filename="DBFilterModel.cpp" line="2111"/>
         <source>Lens</source>
         <translation>Объектив</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2103"/>
+        <location filename="DBFilterModel.cpp" line="2119"/>
         <source>ISO</source>
         <translation>ISO</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2111"/>
+        <location filename="DBFilterModel.cpp" line="2127"/>
         <source>Shutter Speed</source>
         <translation>Скорость затвора</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2123"/>
+        <location filename="DBFilterModel.cpp" line="2139"/>
         <source>Colour Space</source>
         <translation>Цветовое пространство</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2206"/>
+        <location filename="DBFilterModel.cpp" line="2222"/>
         <source>Not Defined</source>
         <translation>Не определена</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2208"/>
+        <location filename="DBFilterModel.cpp" line="2224"/>
         <source>Manual</source>
         <translation>Ручная</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2210"/>
+        <location filename="DBFilterModel.cpp" line="2226"/>
         <source>Program AE</source>
         <translation>АЭ - программная линия</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2212"/>
+        <location filename="DBFilterModel.cpp" line="2228"/>
         <source>Aperture-priority AE</source>
         <translation>АЭ - приоритет диафрагмы</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2214"/>
+        <location filename="DBFilterModel.cpp" line="2230"/>
         <source>Shutter speed priority AE</source>
         <translation>АЭ - приоритет выдержки</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2216"/>
+        <location filename="DBFilterModel.cpp" line="2232"/>
         <source>Creative</source>
         <translation>Креативный</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2218"/>
+        <location filename="DBFilterModel.cpp" line="2234"/>
         <source>Action</source>
         <translation>Действие</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2220"/>
+        <location filename="DBFilterModel.cpp" line="2236"/>
         <source>Portrait</source>
         <translation>Портретная</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2222"/>
+        <location filename="DBFilterModel.cpp" line="2238"/>
         <source>Landscape</source>
         <translation>Альбомная</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2099"/>
+        <location filename="DBFilterModel.cpp" line="2115"/>
         <source>Focal Length</source>
         <translation>Фокусное расстояние</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2677"/>
+        <location filename="TemplateData.cpp" line="2692"/>
         <source>Aperture</source>
         <translation>Диафрагма</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2682"/>
+        <location filename="TemplateData.cpp" line="2697"/>
         <source>Subject Distance Range</source>
         <translation>Расстояние до объекта, диапазон</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2725"/>
+        <location filename="TemplateData.cpp" line="2740"/>
         <source>Latitude</source>
         <translation>Широта</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2728"/>
+        <location filename="TemplateData.cpp" line="2743"/>
         <source>Longitude</source>
         <translation>Долгота</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="86"/>
-        <location filename="TemplateData.cpp" line="2651"/>
+        <location filename="TemplateData.cpp" line="2666"/>
         <source>Software</source>
         <translation>Программное обеспечение</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="85"/>
-        <location filename="TemplateData.cpp" line="2640"/>
+        <location filename="TemplateData.cpp" line="2655"/>
         <source>Artist</source>
         <translation>Автор</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="87"/>
-        <location filename="TemplateData.cpp" line="2664"/>
+        <location filename="TemplateData.cpp" line="2679"/>
         <source>User comment</source>
         <translation>Комментарий пользователя</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2107"/>
+        <location filename="DBFilterModel.cpp" line="2123"/>
         <location filename="SearchField.cpp" line="93"/>
-        <location filename="TemplateData.cpp" line="2672"/>
+        <location filename="TemplateData.cpp" line="2687"/>
         <source>F-Number</source>
         <translation>Диафрагменное число</translation>
     </message>
@@ -18176,398 +18252,398 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Выдержка (c)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2641"/>
+        <location filename="TemplateData.cpp" line="2656"/>
         <source>Copyright</source>
         <translation>Авторские права</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="88"/>
-        <location filename="TemplateData.cpp" line="2642"/>
+        <location filename="TemplateData.cpp" line="2657"/>
         <source>Date/time modified</source>
         <translation>Дата/время изменения</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2079"/>
-        <location filename="TemplateData.cpp" line="2643"/>
+        <location filename="DBFilterModel.cpp" line="2095"/>
+        <location filename="TemplateData.cpp" line="2658"/>
         <source>Orientation</source>
         <translation>Ориентация</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2644"/>
+        <location filename="TemplateData.cpp" line="2659"/>
         <source>X-Resolution</source>
         <translation>Разрешение по Х</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2645"/>
+        <location filename="TemplateData.cpp" line="2660"/>
         <source>Y-Resolution</source>
         <translation>Разрешение по Y</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2646"/>
+        <location filename="TemplateData.cpp" line="2661"/>
         <source>Resolution unit</source>
         <translation>Единица измерения разрешения</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2647"/>
+        <location filename="TemplateData.cpp" line="2662"/>
         <source>Primary chromaticities</source>
         <translation>Цветность основных цветов</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2648"/>
+        <location filename="TemplateData.cpp" line="2663"/>
         <source>YCbCr-Coefficients</source>
         <translation>YCbCr-коэффициенты</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2649"/>
+        <location filename="TemplateData.cpp" line="2664"/>
         <source>YCbCr-Positioning</source>
         <translation>YCbCr-положение</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2650"/>
+        <location filename="TemplateData.cpp" line="2665"/>
         <source>Ref. black/white</source>
         <translation>Эталонный черный/белый</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2653"/>
+        <location filename="TemplateData.cpp" line="2668"/>
         <source>LensID</source>
         <translation>ID объектива</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="97"/>
-        <location filename="TemplateData.cpp" line="2655"/>
+        <location filename="TemplateData.cpp" line="2670"/>
         <source>XP Title</source>
         <translation>XP Заголовок</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="98"/>
-        <location filename="TemplateData.cpp" line="2656"/>
+        <location filename="TemplateData.cpp" line="2671"/>
         <source>XP Comment</source>
         <translation>XP Комментарий</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="99"/>
-        <location filename="TemplateData.cpp" line="2657"/>
+        <location filename="TemplateData.cpp" line="2672"/>
         <source>XP Author</source>
         <translation>XP Автор</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2658"/>
+        <location filename="TemplateData.cpp" line="2673"/>
         <source>XP Keywords</source>
         <translation>XP Ключевые слова</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="100"/>
-        <location filename="TemplateData.cpp" line="2659"/>
+        <location filename="TemplateData.cpp" line="2674"/>
         <source>XP Subject</source>
         <translation>XP Тема</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="89"/>
-        <location filename="TemplateData.cpp" line="2665"/>
+        <location filename="TemplateData.cpp" line="2680"/>
         <source>Date taken</source>
         <translation>Дата съёмки</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="90"/>
-        <location filename="TemplateData.cpp" line="2666"/>
+        <location filename="TemplateData.cpp" line="2681"/>
         <source>Date digitized</source>
         <translation>Дата оцифровки</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2667"/>
+        <location filename="TemplateData.cpp" line="2682"/>
         <source>Exposure Time (s)</source>
         <oldsource>Exposure Time [s]</oldsource>
         <translation>Выдержка (c)</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2115"/>
-        <location filename="TemplateData.cpp" line="2668"/>
+        <location filename="DBFilterModel.cpp" line="2131"/>
+        <location filename="TemplateData.cpp" line="2683"/>
         <source>Exposure Program</source>
         <translation>Программа экспозиции</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2669"/>
+        <location filename="TemplateData.cpp" line="2684"/>
         <source>Exposure Mode</source>
         <translation>Режим экспозиции</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2670"/>
+        <location filename="TemplateData.cpp" line="2685"/>
         <source>Exposure Bias</source>
         <translation>Компенсация экспозиции</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2671"/>
+        <location filename="TemplateData.cpp" line="2686"/>
         <source>Exposure Index</source>
         <translation>Индекс экспозиции</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="92"/>
-        <location filename="TemplateData.cpp" line="2673"/>
+        <location filename="TemplateData.cpp" line="2688"/>
         <source>Focal length (mm)</source>
         <oldsource>Focal length [mm]</oldsource>
         <translation>Фокусное расстояние (мм)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2674"/>
+        <location filename="TemplateData.cpp" line="2689"/>
         <source>35mm Focal length</source>
         <translation>Фокусное расстояние 35мм</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="91"/>
-        <location filename="TemplateData.cpp" line="2675"/>
+        <location filename="TemplateData.cpp" line="2690"/>
         <source>ISO Value</source>
         <translation>ISO</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2676"/>
+        <location filename="TemplateData.cpp" line="2691"/>
         <source>Shutter speed (s)</source>
         <oldsource>Shutter speed [s]</oldsource>
         <translation>Скорость затвора (c)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2678"/>
+        <location filename="TemplateData.cpp" line="2693"/>
         <source>Max. aperture</source>
         <translation>Диафрагма макс.</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2679"/>
+        <location filename="TemplateData.cpp" line="2694"/>
         <source>Colour space</source>
         <translation>Цветовое пространство</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2680"/>
+        <location filename="TemplateData.cpp" line="2695"/>
         <source>Digital zoom</source>
         <translation>Цифровое увеличение</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2681"/>
+        <location filename="TemplateData.cpp" line="2696"/>
         <source>Subject Distance (m)</source>
         <translation>Расстояние до объекта (м)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2683"/>
+        <location filename="TemplateData.cpp" line="2698"/>
         <source>Subject location</source>
         <translation>Положение объекта</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="95"/>
-        <location filename="TemplateData.cpp" line="2684"/>
+        <location filename="TemplateData.cpp" line="2699"/>
         <source>Flash</source>
         <translation>Вспышка</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2685"/>
+        <location filename="TemplateData.cpp" line="2700"/>
         <source>Flash energy</source>
         <translation>Вспышка, энергия</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2686"/>
+        <location filename="TemplateData.cpp" line="2701"/>
         <source>Metering mode</source>
         <translation>Фокусировка</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2687"/>
+        <location filename="TemplateData.cpp" line="2702"/>
         <source>Gain control</source>
         <translation>Регулировка усиления</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2688"/>
+        <location filename="TemplateData.cpp" line="2703"/>
         <source>Light source</source>
         <translation>Источник света</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2689"/>
+        <location filename="TemplateData.cpp" line="2704"/>
         <source>White balance</source>
         <translation>Баланс белого</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2690"/>
+        <location filename="TemplateData.cpp" line="2705"/>
         <source>Contrast</source>
         <translation>Контрастность</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2691"/>
+        <location filename="TemplateData.cpp" line="2706"/>
         <source>Saturation</source>
         <translation>Насыщенность</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2692"/>
+        <location filename="TemplateData.cpp" line="2707"/>
         <source>Sharpness</source>
         <translation>Резкость</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2693"/>
+        <location filename="TemplateData.cpp" line="2708"/>
         <source>Brightness</source>
         <translation>Яркость</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2694"/>
+        <location filename="TemplateData.cpp" line="2709"/>
         <source>Spectral sensitivity</source>
         <translation>Спектральная чувствительность</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2695"/>
+        <location filename="TemplateData.cpp" line="2710"/>
         <source>Spatial freq. response</source>
         <translation>Пространственно-частотная хар-ка</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2696"/>
+        <location filename="TemplateData.cpp" line="2711"/>
         <source>Sensing method</source>
         <translation>Метод измерения</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2697"/>
+        <location filename="TemplateData.cpp" line="2712"/>
         <source>File source</source>
         <translation>Файл источник</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2698"/>
+        <location filename="TemplateData.cpp" line="2713"/>
         <source>CFA pattern</source>
         <translation>Модель CFA</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2699"/>
+        <location filename="TemplateData.cpp" line="2714"/>
         <source>Custom rendered</source>
         <translation>Режим рендеринга</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2700"/>
+        <location filename="TemplateData.cpp" line="2715"/>
         <source>Device settings desc.</source>
         <translation>Настройка устройства</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2701"/>
+        <location filename="TemplateData.cpp" line="2716"/>
         <source>Scene type</source>
         <translation>Тип сцены</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2702"/>
+        <location filename="TemplateData.cpp" line="2717"/>
         <source>Scene capture type</source>
         <translation>Тип снимка</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2703"/>
+        <location filename="TemplateData.cpp" line="2718"/>
         <source>Image-ID</source>
         <translation>ID изображения</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2704"/>
+        <location filename="TemplateData.cpp" line="2719"/>
         <source>Image width</source>
         <translation>Ширина изображения</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2705"/>
+        <location filename="TemplateData.cpp" line="2720"/>
         <source>Image height</source>
         <translation>Высота изображения</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2706"/>
+        <location filename="TemplateData.cpp" line="2721"/>
         <source>Image description</source>
         <translation>Описание изображения</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2707"/>
+        <location filename="TemplateData.cpp" line="2722"/>
         <source>Components configuration</source>
         <translation>Конфигурация компонентов</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2708"/>
+        <location filename="TemplateData.cpp" line="2723"/>
         <source>Photometric interpretation</source>
         <translation>Фотометрическая интерпретация</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2709"/>
+        <location filename="TemplateData.cpp" line="2724"/>
         <source>Focal Plane X-Resolution</source>
         <translation>Разрешение фокальной плоскости по Х</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2710"/>
+        <location filename="TemplateData.cpp" line="2725"/>
         <source>Focal Plane Y-Resolution</source>
         <translation>Разрешение фокальной плоскости по Y</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2711"/>
+        <location filename="TemplateData.cpp" line="2726"/>
         <source>Focal Plane Res. Unit</source>
         <translation>Единица измерения фокальной плоскости</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2712"/>
+        <location filename="TemplateData.cpp" line="2727"/>
         <source>EXIF Version</source>
         <translation>Версия EXIF</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2713"/>
+        <location filename="TemplateData.cpp" line="2728"/>
         <source>White point</source>
         <translation>Белая точка</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2714"/>
+        <location filename="TemplateData.cpp" line="2729"/>
         <source>Lens Make</source>
         <translation>Объектив, производитель</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="96"/>
-        <location filename="TemplateData.cpp" line="2715"/>
+        <location filename="TemplateData.cpp" line="2730"/>
         <source>Lens Model</source>
         <translation>Объектив, модель</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2716"/>
+        <location filename="TemplateData.cpp" line="2731"/>
         <source>SubSecTime</source>
         <translation>ВремяДолиСек</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2717"/>
+        <location filename="TemplateData.cpp" line="2732"/>
         <source>SubSecTime Original</source>
         <translation>ВремяДолиСек исходное</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2718"/>
+        <location filename="TemplateData.cpp" line="2733"/>
         <source>SubSecTime Digitized</source>
         <translation>ВремяДолиСек оцифровки</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2724"/>
+        <location filename="TemplateData.cpp" line="2739"/>
         <source>Latitude ref.</source>
         <translation>Широта ref.</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2726"/>
+        <location filename="TemplateData.cpp" line="2741"/>
         <source>Latitude (value)</source>
         <translation>Широта (значение)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2727"/>
+        <location filename="TemplateData.cpp" line="2742"/>
         <source>Longitude ref.</source>
         <translation>Долгота ref.</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2729"/>
+        <location filename="TemplateData.cpp" line="2744"/>
         <source>Longitude (value)</source>
         <translation>Долгота (значение)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2730"/>
+        <location filename="TemplateData.cpp" line="2745"/>
         <source>Altitude ref.</source>
         <translation>Высота ref.</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2731"/>
+        <location filename="TemplateData.cpp" line="2746"/>
         <source>Altitude</source>
         <translation>Высота</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2732"/>
+        <location filename="TemplateData.cpp" line="2747"/>
         <source>Direction ref.</source>
         <translation>Направление ref.</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2733"/>
+        <location filename="TemplateData.cpp" line="2748"/>
         <source>Direction</source>
         <translation>Направление</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2734"/>
+        <location filename="TemplateData.cpp" line="2749"/>
         <source>Location Code</source>
         <translation>Код местоположения</translation>
     </message>
@@ -18624,7 +18700,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="25"/>
         <location filename="IptcHelper.cpp" line="18"/>
         <location filename="SearchField.cpp" line="52"/>
-        <location filename="TemplateData.cpp" line="2739"/>
+        <location filename="TemplateData.cpp" line="2754"/>
         <source>Caption</source>
         <translation>Описание</translation>
     </message>
@@ -18634,8 +18710,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="IptcHelper.cpp" line="20"/>
         <location filename="SearchField.cpp" line="53"/>
         <location filename="SearchField.cpp" line="110"/>
-        <location filename="TemplateData.cpp" line="2740"/>
-        <location filename="TemplateData.cpp" line="2793"/>
+        <location filename="TemplateData.cpp" line="2755"/>
+        <location filename="TemplateData.cpp" line="2808"/>
         <source>Caption writer</source>
         <translation>Автор описания</translation>
     </message>
@@ -18645,8 +18721,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="IptcHelper.cpp" line="21"/>
         <location filename="SearchField.cpp" line="54"/>
         <location filename="SearchField.cpp" line="114"/>
-        <location filename="TemplateData.cpp" line="2741"/>
-        <location filename="TemplateData.cpp" line="2797"/>
+        <location filename="TemplateData.cpp" line="2756"/>
+        <location filename="TemplateData.cpp" line="2812"/>
         <source>Headline</source>
         <translation>Заголовок</translation>
     </message>
@@ -18654,7 +18730,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="29"/>
         <location filename="IptcHelper.cpp" line="22"/>
         <location filename="SearchField.cpp" line="55"/>
-        <location filename="TemplateData.cpp" line="2742"/>
+        <location filename="TemplateData.cpp" line="2757"/>
         <source>Special instructions</source>
         <translation>Особая заметка</translation>
     </message>
@@ -18663,14 +18739,14 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="34"/>
         <location filename="IptcHelper.cpp" line="24"/>
         <location filename="SearchField.cpp" line="56"/>
-        <location filename="TemplateData.cpp" line="2747"/>
+        <location filename="TemplateData.cpp" line="2762"/>
         <source>Keywords</source>
         <translation>Ключевые слова</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="35"/>
         <location filename="SearchField.cpp" line="57"/>
-        <location filename="TemplateData.cpp" line="2748"/>
+        <location filename="TemplateData.cpp" line="2763"/>
         <source>Category</source>
         <translation>Категория</translation>
     </message>
@@ -18678,7 +18754,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="36"/>
         <location filename="IptcHelper.cpp" line="26"/>
         <location filename="SearchField.cpp" line="58"/>
-        <location filename="TemplateData.cpp" line="2749"/>
+        <location filename="TemplateData.cpp" line="2764"/>
         <source>Supplemental categories</source>
         <translation>Дополнительные категории</translation>
     </message>
@@ -18687,8 +18763,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="IptcHelper.cpp" line="32"/>
         <location filename="SearchField.cpp" line="59"/>
         <location filename="SearchField.cpp" line="106"/>
-        <location filename="TemplateData.cpp" line="2754"/>
-        <location filename="TemplateData.cpp" line="2789"/>
+        <location filename="TemplateData.cpp" line="2769"/>
+        <location filename="TemplateData.cpp" line="2804"/>
         <source>Copyright</source>
         <translation>Авторские права</translation>
     </message>
@@ -18696,7 +18772,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="42"/>
         <location filename="IptcHelper.cpp" line="28"/>
         <location filename="SearchField.cpp" line="60"/>
-        <location filename="TemplateData.cpp" line="2755"/>
+        <location filename="TemplateData.cpp" line="2770"/>
         <source>Byline</source>
         <translation>Автор</translation>
     </message>
@@ -18704,7 +18780,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="43"/>
         <location filename="IptcHelper.cpp" line="29"/>
         <location filename="SearchField.cpp" line="61"/>
-        <location filename="TemplateData.cpp" line="2756"/>
+        <location filename="TemplateData.cpp" line="2771"/>
         <source>Byline title</source>
         <translation>Авторское заглавие</translation>
     </message>
@@ -18720,8 +18796,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="IptcHelper.cpp" line="31"/>
         <location filename="SearchField.cpp" line="63"/>
         <location filename="SearchField.cpp" line="116"/>
-        <location filename="TemplateData.cpp" line="2758"/>
-        <location filename="TemplateData.cpp" line="2799"/>
+        <location filename="TemplateData.cpp" line="2773"/>
+        <location filename="TemplateData.cpp" line="2814"/>
         <source>Source</source>
         <translation>Источник</translation>
     </message>
@@ -18729,7 +18805,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="50"/>
         <location filename="IptcHelper.cpp" line="35"/>
         <location filename="SearchField.cpp" line="64"/>
-        <location filename="TemplateData.cpp" line="2763"/>
+        <location filename="TemplateData.cpp" line="2778"/>
         <source>Edit status</source>
         <translation>Состояние редактирования</translation>
     </message>
@@ -18737,7 +18813,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="51"/>
         <location filename="IptcHelper.cpp" line="38"/>
         <location filename="SearchField.cpp" line="67"/>
-        <location filename="TemplateData.cpp" line="2766"/>
+        <location filename="TemplateData.cpp" line="2781"/>
         <source>Job ID</source>
         <translation>ID работы</translation>
     </message>
@@ -18745,7 +18821,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="52"/>
         <location filename="IptcHelper.cpp" line="39"/>
         <location filename="SearchField.cpp" line="68"/>
-        <location filename="TemplateData.cpp" line="2767"/>
+        <location filename="TemplateData.cpp" line="2782"/>
         <source>Program</source>
         <translation>Программа</translation>
     </message>
@@ -18759,7 +18835,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="54"/>
         <location filename="IptcHelper.cpp" line="36"/>
         <location filename="SearchField.cpp" line="65"/>
-        <location filename="TemplateData.cpp" line="2764"/>
+        <location filename="TemplateData.cpp" line="2779"/>
         <source>Priority</source>
         <translation>Приоритет</translation>
     </message>
@@ -18778,15 +18854,15 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="SearchField.cpp" line="72"/>
         <location filename="SearchField.cpp" line="111"/>
         <location filename="SearchField.cpp" line="126"/>
-        <location filename="TemplateData.cpp" line="2775"/>
-        <location filename="TemplateData.cpp" line="2794"/>
+        <location filename="TemplateData.cpp" line="2790"/>
+        <location filename="TemplateData.cpp" line="2809"/>
         <source>City</source>
         <translation>Город</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="74"/>
         <location filename="SearchField.cpp" line="79"/>
-        <location filename="TemplateData.cpp" line="2782"/>
+        <location filename="TemplateData.cpp" line="2797"/>
         <source>Content location</source>
         <translation>Регион</translation>
     </message>
@@ -18805,8 +18881,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="SearchField.cpp" line="75"/>
         <location filename="SearchField.cpp" line="112"/>
         <location filename="SearchField.cpp" line="129"/>
-        <location filename="TemplateData.cpp" line="2778"/>
-        <location filename="TemplateData.cpp" line="2795"/>
+        <location filename="TemplateData.cpp" line="2793"/>
+        <location filename="TemplateData.cpp" line="2810"/>
         <source>Country</source>
         <translation>Страна</translation>
     </message>
@@ -18821,7 +18897,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="IptcHelper.cpp" line="48"/>
         <location filename="SearchField.cpp" line="76"/>
         <location filename="SearchField.cpp" line="124"/>
-        <location filename="TemplateData.cpp" line="2779"/>
+        <location filename="TemplateData.cpp" line="2794"/>
         <source>Country code</source>
         <translation>Код страны</translation>
     </message>
@@ -18829,7 +18905,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="66"/>
         <location filename="IptcHelper.cpp" line="51"/>
         <location filename="SearchField.cpp" line="77"/>
-        <location filename="TemplateData.cpp" line="2780"/>
+        <location filename="TemplateData.cpp" line="2795"/>
         <source>Original transmission reference</source>
         <oldsource>Original tr. ref.</oldsource>
         <translation>Первоначальный идентификатор передачи</translation>
@@ -18837,7 +18913,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoIPTCView.cpp" line="67"/>
         <location filename="SearchField.cpp" line="70"/>
-        <location filename="TemplateData.cpp" line="2773"/>
+        <location filename="TemplateData.cpp" line="2788"/>
         <source>Created date</source>
         <translation>Дата создания</translation>
     </message>
@@ -18849,7 +18925,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoIPTCView.cpp" line="69"/>
         <location filename="SearchField.cpp" line="71"/>
-        <location filename="TemplateData.cpp" line="2774"/>
+        <location filename="TemplateData.cpp" line="2789"/>
         <source>Released date</source>
         <translation>Дата публикации</translation>
     </message>
@@ -18872,7 +18948,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="73"/>
         <location filename="IptcHelper.cpp" line="33"/>
         <location filename="SearchField.cpp" line="78"/>
-        <location filename="TemplateData.cpp" line="2781"/>
+        <location filename="TemplateData.cpp" line="2796"/>
         <source>Contact</source>
         <translation>Контактная информация</translation>
     </message>
@@ -18882,7 +18958,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="IptcHelper.cpp" line="45"/>
         <location filename="SearchField.cpp" line="73"/>
         <location filename="SearchField.cpp" line="123"/>
-        <location filename="TemplateData.cpp" line="2776"/>
+        <location filename="TemplateData.cpp" line="2791"/>
         <source>Location</source>
         <translation>Название региона</translation>
     </message>
@@ -18910,8 +18986,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="EditXMPWidget.cpp" line="130"/>
         <location filename="SearchField.cpp" line="62"/>
         <location filename="SearchField.cpp" line="113"/>
-        <location filename="TemplateData.cpp" line="2757"/>
-        <location filename="TemplateData.cpp" line="2796"/>
+        <location filename="TemplateData.cpp" line="2772"/>
+        <location filename="TemplateData.cpp" line="2811"/>
         <source>Credit</source>
         <translation>Соавтор</translation>
     </message>
@@ -18922,21 +18998,21 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="SearchField.cpp" line="74"/>
         <location filename="SearchField.cpp" line="117"/>
         <location filename="SearchField.cpp" line="127"/>
-        <location filename="TemplateData.cpp" line="2777"/>
-        <location filename="TemplateData.cpp" line="2800"/>
+        <location filename="TemplateData.cpp" line="2792"/>
+        <location filename="TemplateData.cpp" line="2815"/>
         <source>State</source>
         <translatorcomment>Верно ли???</translatorcomment>
         <translation>Край/Область</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="66"/>
-        <location filename="TemplateData.cpp" line="2765"/>
+        <location filename="TemplateData.cpp" line="2780"/>
         <source>Cycle</source>
         <translation>Цикл объекта</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="104"/>
-        <location filename="TemplateData.cpp" line="2787"/>
+        <location filename="TemplateData.cpp" line="2802"/>
         <source>Creator</source>
         <translation>Создатель</translation>
     </message>
@@ -19008,33 +19084,33 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="EditXMPWidget.cpp" line="114"/>
         <location filename="SearchField.cpp" line="105"/>
-        <location filename="TemplateData.cpp" line="2788"/>
+        <location filename="TemplateData.cpp" line="2803"/>
         <source>Description</source>
         <translation>Описание</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="107"/>
-        <location filename="TemplateData.cpp" line="2790"/>
+        <location filename="TemplateData.cpp" line="2805"/>
         <source>Subject</source>
         <translation>Тема</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="108"/>
-        <location filename="TemplateData.cpp" line="2791"/>
+        <location filename="TemplateData.cpp" line="2806"/>
         <source>Title</source>
         <translation>Название</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="113"/>
         <location filename="SearchField.cpp" line="109"/>
-        <location filename="TemplateData.cpp" line="2792"/>
+        <location filename="TemplateData.cpp" line="2807"/>
         <source>Authors position</source>
         <translation>Должность автора</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="133"/>
         <location filename="SearchField.cpp" line="115"/>
-        <location filename="TemplateData.cpp" line="2798"/>
+        <location filename="TemplateData.cpp" line="2813"/>
         <source>Instructions</source>
         <translation>Инструкции</translation>
     </message>
@@ -19043,7 +19119,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="60"/>
         <location filename="IptcHelper.cpp" line="50"/>
         <location filename="SearchField.cpp" line="69"/>
-        <location filename="TemplateData.cpp" line="2772"/>
+        <location filename="TemplateData.cpp" line="2787"/>
         <source>Document title</source>
         <translation>Заголовок документа</translation>
     </message>
@@ -19413,7 +19489,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Тип</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="5077"/>
+        <location filename="ItemModel.cpp" line="5100"/>
         <source>New Folder %1</source>
         <translation>Новая папка %1</translation>
     </message>
@@ -19750,8 +19826,8 @@ Do you want to continue?</oldsource>
 <context>
     <name>MainMenu</name>
     <message>
-        <location filename="MainMenu.cpp" line="550"/>
-        <location filename="MainMenu.cpp" line="571"/>
+        <location filename="MainMenu.cpp" line="564"/>
+        <location filename="MainMenu.cpp" line="585"/>
         <source>ToolBar %1</source>
         <translation>Панель инструментов %1</translation>
     </message>
@@ -19759,12 +19835,12 @@ Do you want to continue?</oldsource>
 <context>
     <name>MediaPlayer</name>
     <message>
-        <location filename="MediaPlayer.cpp" line="312"/>
+        <location filename="MediaPlayer.cpp" line="314"/>
         <source>Show playbar</source>
         <translation>Показывать панель воспроизведения</translation>
     </message>
     <message>
-        <location filename="MediaPlayer.cpp" line="316"/>
+        <location filename="MediaPlayer.cpp" line="318"/>
         <source>Extract current frame</source>
         <translation>Извлечь текущий кадр</translation>
     </message>
@@ -20160,42 +20236,42 @@ Do you want to continue?</oldsource>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="19"/>
-        <location filename="DlgSettingsView.cpp" line="268"/>
+        <location filename="DlgSettingsView.cpp" line="270"/>
         <location filename="BrowserMenu.h" line="649"/>
         <source>No fit</source>
         <translation>Без подгонки</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="20"/>
-        <location filename="DlgSettingsView.cpp" line="269"/>
+        <location filename="DlgSettingsView.cpp" line="271"/>
         <location filename="BrowserMenu.h" line="650"/>
         <source>Fit image to window</source>
         <translation>По размеру окна</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="22"/>
-        <location filename="DlgSettingsView.cpp" line="271"/>
+        <location filename="DlgSettingsView.cpp" line="273"/>
         <location filename="BrowserMenu.h" line="651"/>
         <source>Fit image to window, large only</source>
         <translation>По размеру окна, только большие</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="23"/>
-        <location filename="DlgSettingsView.cpp" line="272"/>
+        <location filename="DlgSettingsView.cpp" line="274"/>
         <location filename="BrowserMenu.h" line="653"/>
         <source>Fit image to window width</source>
         <translation>По ширине окна</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="24"/>
-        <location filename="DlgSettingsView.cpp" line="273"/>
+        <location filename="DlgSettingsView.cpp" line="275"/>
         <location filename="BrowserMenu.h" line="654"/>
         <source>Fit image to window height</source>
         <translation>По высоте окна</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="25"/>
-        <location filename="DlgSettingsView.cpp" line="274"/>
+        <location filename="DlgSettingsView.cpp" line="276"/>
         <location filename="BrowserMenu.h" line="655"/>
         <source>Fit image to window width or height</source>
         <translation>По ширине или высоте окна</translation>
@@ -20269,8 +20345,9 @@ Do you want to continue?</oldsource>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="543"/>
-        <source>Update catalog from files</source>
-        <translation>Обновить Каталог из файлов</translation>
+        <source>Update catalog from files...</source>
+        <oldsource>Update catalog from files</oldsource>
+        <translation type="unfinished">Обновить Каталог из файлов</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="544"/>
@@ -20719,19 +20796,19 @@ Do you want to continue?</oldsource>
         <translation>Открыть файл...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4461"/>
+        <location filename="BrowserWindow.cpp" line="4474"/>
         <location filename="BrowserMenu.h" line="428"/>
         <source>Cut</source>
         <translation>Вырезать</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4463"/>
+        <location filename="BrowserWindow.cpp" line="4476"/>
         <location filename="BrowserMenu.h" line="430"/>
         <source>Copy</source>
         <translation>Копировать</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4465"/>
+        <location filename="BrowserWindow.cpp" line="4478"/>
         <location filename="BrowserMenu.h" line="435"/>
         <source>Paste</source>
         <translation>Вставить</translation>
@@ -20768,19 +20845,19 @@ Do you want to continue?</oldsource>
         <translation>Выделить отмеченные файлы</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4473"/>
+        <location filename="BrowserWindow.cpp" line="4486"/>
         <location filename="BrowserMenu.h" line="445"/>
         <source>Copy to...</source>
         <translation>Копировать в...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4475"/>
+        <location filename="BrowserWindow.cpp" line="4488"/>
         <location filename="BrowserMenu.h" line="446"/>
         <source>Move to...</source>
         <translation>Переместить в...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4468"/>
+        <location filename="BrowserWindow.cpp" line="4481"/>
         <location filename="BrowserMenu.h" line="447"/>
         <source>Delete</source>
         <translation>Удалить</translation>
@@ -21236,7 +21313,7 @@ Do you want to continue?</oldsource>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="21"/>
-        <location filename="DlgSettingsView.cpp" line="270"/>
+        <location filename="DlgSettingsView.cpp" line="272"/>
         <location filename="BrowserMenu.h" line="652"/>
         <source>Fit image to window, small only</source>
         <translation>По размеру окна, только маленькие</translation>
@@ -21258,12 +21335,12 @@ Do you want to continue?</oldsource>
         <translation>Фильтр</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4458"/>
+        <location filename="BrowserWindow.cpp" line="4471"/>
         <source>New Folder</source>
         <translation>Создать новую папку</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4470"/>
+        <location filename="BrowserWindow.cpp" line="4483"/>
         <source>Rename</source>
         <translation>Переименовать</translation>
     </message>
@@ -21276,95 +21353,95 @@ Do you want to continue?</oldsource>
 <context>
     <name>MenuGlobal</name>
     <message>
-        <location filename="xnview.cpp" line="1332"/>
+        <location filename="xnview.cpp" line="1338"/>
         <source>Quit</source>
         <translation>Выход</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1335"/>
+        <location filename="xnview.cpp" line="1341"/>
         <source>Website...</source>
         <oldsource>Visit XnView&apos;s Website...</oldsource>
         <translation>Веб-сайт...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1340"/>
+        <location filename="xnview.cpp" line="1346"/>
         <source>Make a donation...</source>
         <translation>Пожертвовать...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1333"/>
+        <location filename="xnview.cpp" line="1339"/>
         <source>About</source>
         <translation>О программе</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1334"/>
+        <location filename="xnview.cpp" line="1340"/>
         <source>PlugIns...</source>
         <translation>Подключаемые модули...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1336"/>
+        <location filename="xnview.cpp" line="1342"/>
         <source>Forum...</source>
         <translation>Форум...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1337"/>
+        <location filename="xnview.cpp" line="1343"/>
         <source>Technical Support...</source>
         <translation>Техническая поддержка...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1338"/>
+        <location filename="xnview.cpp" line="1344"/>
         <source>Report a Bug...</source>
         <oldsource>Report a Bug......</oldsource>
         <translation>Сообщить об ошибке...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1339"/>
+        <location filename="xnview.cpp" line="1345"/>
         <source>Wiki...</source>
         <translation>Wiki...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1341"/>
+        <location filename="xnview.cpp" line="1347"/>
         <source>Check for update...</source>
         <translation>Проверить обновление...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1342"/>
+        <location filename="xnview.cpp" line="1348"/>
         <source>Registration...</source>
         <translation>Регистрация...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1343"/>
+        <location filename="xnview.cpp" line="1349"/>
         <source>Purchase...</source>
         <translation>Купить...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1353"/>
-        <location filename="xnview.cpp" line="1355"/>
+        <location filename="xnview.cpp" line="1359"/>
+        <location filename="xnview.cpp" line="1361"/>
         <source>Settings...</source>
         <translation>Настройки...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1359"/>
+        <location filename="xnview.cpp" line="1365"/>
         <source>Always on top</source>
         <translation>Всегда поверх окон</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1361"/>
+        <location filename="xnview.cpp" line="1367"/>
         <source>Titlebar</source>
         <translation>Заголовок окна</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1362"/>
+        <location filename="xnview.cpp" line="1368"/>
         <source>Show</source>
         <translation>Показывать</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1363"/>
+        <location filename="xnview.cpp" line="1369"/>
         <source>Bottom</source>
         <translation>Располагать снизу</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1364"/>
+        <location filename="xnview.cpp" line="1370"/>
         <source>Tab</source>
         <translation>Вкладка</translation>
     </message>
@@ -21372,128 +21449,133 @@ Do you want to continue?</oldsource>
 <context>
     <name>MenuTemplate</name>
     <message>
-        <location filename="TemplateData.cpp" line="2821"/>
+        <location filename="TemplateData.cpp" line="2836"/>
         <source>Date format variables</source>
         <translation>Дата (переменные формата)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2580"/>
+        <location filename="TemplateData.cpp" line="2594"/>
         <source>Y - Year</source>
         <translation>Y - Год</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2581"/>
+        <location filename="TemplateData.cpp" line="2595"/>
         <source>y - Year without century (00-99)</source>
         <translation>y - Год без столетия (00-99)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2582"/>
+        <location filename="TemplateData.cpp" line="2596"/>
         <source>m - Month as decimal (01-12)</source>
         <translation>m - Месяц в виде порядкового номера (01-12)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2583"/>
+        <location filename="TemplateData.cpp" line="2597"/>
         <source>d - Day as decimal (01-31)</source>
         <translation>d - День в виде порядкового номера (01-31)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2585"/>
+        <location filename="TemplateData.cpp" line="2599"/>
         <source>H - Hour (01-24)</source>
         <translation>H - Часы (01-24)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2586"/>
+        <location filename="TemplateData.cpp" line="2600"/>
+        <source>h - Hour (01-21)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TemplateData.cpp" line="2601"/>
         <source>M - Minute (00-59)</source>
         <translation>M - Минуты (00-59)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2587"/>
+        <location filename="TemplateData.cpp" line="2602"/>
         <source>S - Second (00-59)</source>
         <translation>S - Секунды (00-59)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2589"/>
+        <location filename="TemplateData.cpp" line="2604"/>
         <source>B - Month name (eg. february)</source>
         <translation>B - Название месяца (н-р, февраль)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2590"/>
+        <location filename="TemplateData.cpp" line="2605"/>
         <source>b - Abbreviated month name (eg. feb)</source>
         <translation>b - Аббревиатура названия месяца (н-р, фев)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2591"/>
+        <location filename="TemplateData.cpp" line="2606"/>
         <source>A - Weekday name (eg. wednesday)</source>
         <translation>A - День недели (н-р, четверг)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2592"/>
+        <location filename="TemplateData.cpp" line="2607"/>
         <source>a - Abbreviated weekday name (eg. wed)</source>
         <translation>a - Аббревиатура дня недели (н-р, чт)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2820"/>
+        <location filename="TemplateData.cpp" line="2835"/>
         <source># - Numeric enumerator</source>
         <oldsource>#: Numeric enumerator</oldsource>
         <translation># - счётчик</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2838"/>
+        <location filename="TemplateData.cpp" line="2853"/>
         <source>Extra</source>
         <translation>Дополнительно</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2840"/>
+        <location filename="TemplateData.cpp" line="2855"/>
         <source>Image</source>
         <translation>Изображение</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2841"/>
+        <location filename="TemplateData.cpp" line="2856"/>
         <source>Saved Image</source>
         <translation>Сохраненное изображение</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2842"/>
+        <location filename="TemplateData.cpp" line="2857"/>
         <source>EXIF - Camera</source>
         <translation>EXIF - Камера</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2843"/>
+        <location filename="TemplateData.cpp" line="2858"/>
         <source>EXIF - Image</source>
         <translation>EXIF - Изображение</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2844"/>
+        <location filename="TemplateData.cpp" line="2859"/>
         <source>EXIF - GPS</source>
         <translation>EXIF - GPS</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2845"/>
+        <location filename="TemplateData.cpp" line="2860"/>
         <source>IPTC - Caption</source>
         <translation>IPTC - Описание</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2846"/>
+        <location filename="TemplateData.cpp" line="2861"/>
         <source>IPTC - Keywords&amp;&amp;Categories</source>
         <translation>IPTC - Ключевые слова и Категории</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2850"/>
+        <location filename="TemplateData.cpp" line="2865"/>
         <source>XMP</source>
         <translation>XMP</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2847"/>
+        <location filename="TemplateData.cpp" line="2862"/>
         <source>IPTC - Credits</source>
         <translation>IPTC - Контакты</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2848"/>
+        <location filename="TemplateData.cpp" line="2863"/>
         <source>IPTC - Status</source>
         <translation>IPTC - Состояние</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2849"/>
+        <location filename="TemplateData.cpp" line="2864"/>
         <source>IPTC - Origin</source>
         <translation>IPTC - Местоположение</translation>
     </message>
@@ -22712,55 +22794,55 @@ Do you want to continue?</oldsource>
         <translation>Сохранить как</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="219"/>
+        <location filename="DlgSettingsView.cpp" line="221"/>
         <location filename="DlgSlideshow.cpp" line="43"/>
         <source>Top-Left</source>
         <translation>Верх-Слева</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="220"/>
+        <location filename="DlgSettingsView.cpp" line="222"/>
         <location filename="DlgSlideshow.cpp" line="44"/>
         <source>Top-Center</source>
         <translation>Верх-Центр</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="221"/>
+        <location filename="DlgSettingsView.cpp" line="223"/>
         <location filename="DlgSlideshow.cpp" line="45"/>
         <source>Top-Right</source>
         <translation>Верх-Справа</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="222"/>
+        <location filename="DlgSettingsView.cpp" line="224"/>
         <location filename="DlgSlideshow.cpp" line="46"/>
         <source>Center-Left</source>
         <translation>Центр-Слева</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="223"/>
+        <location filename="DlgSettingsView.cpp" line="225"/>
         <location filename="DlgSlideshow.cpp" line="47"/>
         <source>Center</source>
         <translation>Центр</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="224"/>
+        <location filename="DlgSettingsView.cpp" line="226"/>
         <location filename="DlgSlideshow.cpp" line="48"/>
         <source>Center-Right</source>
         <translation>Центр-Справа</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="225"/>
+        <location filename="DlgSettingsView.cpp" line="227"/>
         <location filename="DlgSlideshow.cpp" line="49"/>
         <source>Bottom-Left</source>
         <translation>Низ-Слева</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="226"/>
+        <location filename="DlgSettingsView.cpp" line="228"/>
         <location filename="DlgSlideshow.cpp" line="50"/>
         <source>Bottom-Center</source>
         <translation>Низ-Центр</translation>
     </message>
     <message>
-        <location filename="DlgSettingsView.cpp" line="227"/>
+        <location filename="DlgSettingsView.cpp" line="229"/>
         <location filename="DlgSlideshow.cpp" line="51"/>
         <source>Bottom-Right</source>
         <translation>Низ-Справа</translation>
@@ -22782,7 +22864,7 @@ Do you want to continue?</oldsource>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="18"/>
-        <location filename="DlgSettingsView.cpp" line="267"/>
+        <location filename="DlgSettingsView.cpp" line="269"/>
         <source>Last used</source>
         <translation>Последнее использованное</translation>
     </message>
@@ -23052,7 +23134,7 @@ Do you want to continue?</oldsource>
 <context>
     <name>MyThumbView</name>
     <message>
-        <location filename="MyThumbView.cpp" line="624"/>
+        <location filename="MyThumbView.cpp" line="625"/>
         <source>Size of cached thumbnails is smaller than chosen one. 
 You can change it in Settings › Catalog.</source>
         <oldsource>Size of cached thumbnails is smaller than choosen one. 
@@ -23061,13 +23143,7 @@ You can change it in Settings › Catalog.</oldsource>
 Вы можете это изменить в Настройки › Каталог.</translation>
     </message>
     <message>
-        <location filename="MyThumbView.cpp" line="759"/>
-        <source>Updating catalog, please wait...</source>
-        <oldsource>Updating catalog, please wait... </oldsource>
-        <translation>Обновление Каталога...</translation>
-    </message>
-    <message>
-        <location filename="MyThumbView.cpp" line="773"/>
+        <location filename="MyThumbView.cpp" line="787"/>
         <source>Updating files, please wait...</source>
         <oldsource>Updating files, please wait... </oldsource>
         <translation>Обновление файлов...</translation>
@@ -23114,23 +23190,23 @@ You can change it in Settings › Catalog.</oldsource>
 <context>
     <name>MyView</name>
     <message>
-        <location filename="MyView.cpp" line="376"/>
+        <location filename="MyView.cpp" line="424"/>
         <source>RGB/A</source>
         <translation>RGB/A</translation>
     </message>
     <message>
-        <location filename="MyView.cpp" line="379"/>
+        <location filename="MyView.cpp" line="427"/>
         <source>RGB</source>
         <translation>RGB</translation>
     </message>
     <message>
-        <location filename="MyView.cpp" line="907"/>
+        <location filename="MyView.cpp" line="957"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <oldsource>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system. </oldsource>
         <translation>Для просмотра и конвертирования файлов PDF/PS/EPS/AI необходимо установить Ghostscript %1.</translation>
     </message>
     <message>
-        <location filename="MyView.cpp" line="908"/>
+        <location filename="MyView.cpp" line="958"/>
         <source>Please visit the XnView %1 for more information.</source>
         <translation>Для получения более подробной информации, пожалуйста, посетите %1.</translation>
     </message>
@@ -23595,7 +23671,7 @@ You can change it in Settings › Catalog.</oldsource>
 <context>
     <name>PreviewInfo</name>
     <message>
-        <location filename="PreviewInfo.cpp" line="778"/>
+        <location filename="PreviewInfo.cpp" line="779"/>
         <source>Preview</source>
         <translation>Предпросмотр</translation>
     </message>
@@ -24164,7 +24240,7 @@ You can change it in Settings › Catalog.</oldsource>
 <context>
     <name>Rename</name>
     <message>
-        <location filename="ItemModel.cpp" line="4670"/>
+        <location filename="ItemModel.cpp" line="4693"/>
         <source>An error has occurred during renaming!</source>
         <oldsource>An error occured during renaming!</oldsource>
         <translation>Произошла ошибка при переименовании!</translation>
@@ -24369,22 +24445,6 @@ You can change it in Settings › Catalog.</oldsource>
         <location filename="Slideshow.cpp" line="41"/>
         <source>Slideshow</source>
         <translation>Слайд-шоу</translation>
-    </message>
-</context>
-<context>
-    <name>SummaryWidget</name>
-    <message>
-        <location filename="SummaryWidget.cpp" line="287"/>
-        <location filename="SummaryWidget.cpp" line="293"/>
-        <location filename="SummaryWidget.cpp" line="300"/>
-        <source>Greyscale</source>
-        <translation>Оттенки
-серого</translation>
-    </message>
-    <message>
-        <location filename="SummaryWidget.cpp" line="294"/>
-        <source>Indexed</source>
-        <translation>Индексированное</translation>
     </message>
 </context>
 <context>
@@ -24794,12 +24854,22 @@ Do you want to keep the thumbnails?
         <translation>Обновлений нет. Вы используете последнюю версию программы.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1608"/>
+        <location filename="xnview.cpp" line="1614"/>
         <source>Do you want to save session?</source>
         <translation>Вы хотите сохранять сессию?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="3082"/>
+        <location filename="xnview.cpp" line="2612"/>
+        <source>Tabs</source>
+        <translation type="unfinished">Вкладки</translation>
+    </message>
+    <message>
+        <location filename="xnview.cpp" line="2612"/>
+        <source>The tab bar is hidden, but tabs will still open. Set a tab limit in Settings&gt;Interface&gt;Tabs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="xnview.cpp" line="3090"/>
         <source>Catalog is disabled
 Metadata (check, ratings/colour labels and other file details)
 will not be saved to the database.</source>
@@ -24823,40 +24893,40 @@ Please contact the developer.</source>
     </message>
     <message>
         <location filename="xnview.cpp" line="951"/>
-        <location filename="xnview.cpp" line="1414"/>
-        <location filename="xnview.cpp" line="1430"/>
+        <location filename="xnview.cpp" line="1420"/>
+        <location filename="xnview.cpp" line="1436"/>
         <source>Session</source>
         <translation>Сессия</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1533"/>
+        <location filename="xnview.cpp" line="1539"/>
         <source>Do you want to quit?</source>
         <translation>Вы действительно хотите выйти?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1609"/>
+        <location filename="xnview.cpp" line="1615"/>
         <source>Saving many tabs may noticeably slow application reopening.</source>
         <oldsource>Saving many tabs may noticeably slow reopening XnView MP</oldsource>
         <translation>Сохранение большого количества вкладок может заметно замедлить открытие программы.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1615"/>
+        <location filename="xnview.cpp" line="1621"/>
         <source>Don&apos;t ask again</source>
         <oldsource>Do not ask again</oldsource>
         <translation>Больше не спрашивать</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1130"/>
+        <location filename="xnview.cpp" line="1136"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1130"/>
+        <location filename="xnview.cpp" line="1136"/>
         <source>File not found!</source>
         <translation>Файл не найден.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1634"/>
+        <location filename="xnview.cpp" line="1640"/>
         <source>Do you want to save this session?</source>
         <translation>Хотите сохранить эту сессию?</translation>
     </message>

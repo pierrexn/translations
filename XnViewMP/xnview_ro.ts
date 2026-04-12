@@ -1656,6 +1656,10 @@ Vrei să ștergi favoritul „%1”?</translation>
         <source>Check</source>
         <translation>Bifează</translation>
     </message>
+    <message>
+        <source>No face</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgAboutClass</name>
@@ -10068,6 +10072,10 @@ miniatură</translation>
         <comment>icc</comment>
         <translation>Personalizată</translation>
     </message>
+    <message>
+        <source>Grey</source>
+        <translation type="unfinished">Gri</translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsIntegration</name>
@@ -10709,10 +10717,6 @@ Dorești să-l reatribui?</translation>
         <translation>Citire (separat(ă) prin ,)</translation>
     </message>
     <message>
-        <source>Read hierarchical keywords from images as categories</source>
-        <translation>Citește cuvintele cheie ierarhice din imagini ca niște categorii</translation>
-    </message>
-    <message>
         <source>Sidecar</source>
         <translation>Fișierul însoțitor (Sidecar-ul)</translation>
     </message>
@@ -10729,10 +10733,6 @@ Dorești să-l reatribui?</translation>
         <translation>Folosește UTF-8 ca să scrii câmpuri IPTC</translation>
     </message>
     <message>
-        <source>Update when file is changed outside (date/size)</source>
-        <translation>Actualizează când fișierul este schimbat în afară (dată/dimensiune)</translation>
-    </message>
-    <message>
         <source>&lt;filename&gt;.xmp</source>
         <translation>&lt;numele fișierului&gt;.xmp</translation>
     </message>
@@ -10743,10 +10743,6 @@ Dorești să-l reatribui?</translation>
     <message>
         <source>Metadata</source>
         <translation>Metadate</translation>
-    </message>
-    <message>
-        <source>Write categories into images as hierarchical keywords</source>
-        <translation>Scrie categoriile în imagini ca și cuvinte cheie ierarhice</translation>
     </message>
     <message>
         <source>Automatically assign parent Category (Ctrl+click for current only)</source>
@@ -10803,6 +10799,22 @@ Dorești să-l reatribui?</translation>
     <message>
         <source>Image description</source>
         <translation>Descrierea imaginii</translation>
+    </message>
+    <message>
+        <source>Update catalog when file is modified outside (file date/size)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update keywords when file is modified outside (file date/size)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read Hierarchical keywords</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Write Hierarchical keywords (| as separator)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11332,6 +11344,10 @@ Dorești să-l reatribui?</translation>
     <message>
         <source>Anti-aliasing</source>
         <translation>Antialiasare</translation>
+    </message>
+    <message>
+        <source>Auto-play audio companion files</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12179,6 +12195,53 @@ Vrei să continui?</translation>
     <message>
         <source>New version: </source>
         <translation>Versiune nouă: </translation>
+    </message>
+</context>
+<context>
+    <name>DlgUpdateDatabase</name>
+    <message>
+        <source>Update database</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update from</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sidecar/Master files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Master files only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use modified files only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update</source>
+        <translation type="unfinished">Actualizare</translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <translation type="unfinished">Oprește</translation>
+    </message>
+    <message>
+        <source>%1 file(s) to process</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update cancelled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update completed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stopping...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15174,10 +15237,6 @@ Vrei să continui?</translation>
         <translation>Mărește/Micșorează (Scalează)</translation>
     </message>
     <message>
-        <source>Update catalog from files</source>
-        <translation>Actualizează catalogul de fișiere</translation>
-    </message>
-    <message>
         <source>&amp;Edit</source>
         <translation>&amp;Editare</translation>
     </message>
@@ -16193,6 +16252,10 @@ Vrei să continui?</translation>
         <source>Session</source>
         <translation>Sesiune</translation>
     </message>
+    <message>
+        <source>Update catalog from files...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MenuGlobal</name>
@@ -16370,6 +16433,10 @@ Vrei să continui?</translation>
     <message>
         <source># - Numeric enumerator</source>
         <translation># - enumerator numeric</translation>
+    </message>
+    <message>
+        <source>h - Hour (01-21)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17576,10 +17643,6 @@ Vrei să continui?</translation>
 </context>
 <context>
     <name>MyThumbView</name>
-    <message>
-        <source>Updating catalog, please wait...</source>
-        <translation>Se actualizează catalogul, te rugăm să aștepți...</translation>
-    </message>
     <message numerus="yes">
         <source>%n object(s)</source>
         <translation>
@@ -18585,17 +18648,6 @@ O poți schimba în Setări › Catalog.</translation>
     </message>
 </context>
 <context>
-    <name>SummaryWidget</name>
-    <message>
-        <source>Greyscale</source>
-        <translation>Tonuri de gri</translation>
-    </message>
-    <message>
-        <source>Indexed</source>
-        <translation>Indexat</translation>
-    </message>
-</context>
-<context>
     <name>TagEntryModel</name>
     <message>
         <source>Enter a name</source>
@@ -18969,6 +19021,14 @@ will not be saved to the database.</source>
         <translation>Catalogul este dezactivat
 Metadatele (verificare, evaluări/etichete de culoare și alte detalii despre fișier)
 nu vor fi salvate în baza de date.</translation>
+    </message>
+    <message>
+        <source>Tabs</source>
+        <translation type="unfinished">File (Tab-uri)</translation>
+    </message>
+    <message>
+        <source>The tab bar is hidden, but tabs will still open. Set a tab limit in Settings&gt;Interface&gt;Tabs</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

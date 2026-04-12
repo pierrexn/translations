@@ -1654,6 +1654,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <source>Check</source>
         <translation>Նշել</translation>
     </message>
+    <message>
+        <source>No face</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgAboutClass</name>
@@ -10051,6 +10055,10 @@ Thumbnail</source>
         <comment>icc</comment>
         <translation>Հարմարեցված</translation>
     </message>
+    <message>
+        <source>Grey</source>
+        <translation type="unfinished">Մոխագույն</translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsIntegration</name>
@@ -10696,20 +10704,12 @@ Do you want to reassign?</source>
         <translation>Գրել</translation>
     </message>
     <message>
-        <source>Update when file is changed outside (date/size)</source>
-        <translation>Արդիացնել, երբ ֆայլը փոխվում է դրսում (ամսաթիվ/չափ)</translation>
-    </message>
-    <message>
         <source>Embedded comment</source>
         <translation>Ներկառուցված մեկնաբանություն</translation>
     </message>
     <message>
         <source>Categories and keywords</source>
         <translation>Անվանակարգեր և հիմնաբառեր</translation>
-    </message>
-    <message>
-        <source>Read hierarchical keywords from images as categories</source>
-        <translation>Կարդալ աստիճանական հիմնաբառերը պատկերներից որպես նվանակարգեր</translation>
     </message>
     <message>
         <source>Sidecar</source>
@@ -10734,10 +10734,6 @@ Do you want to reassign?</source>
     <message>
         <source>Supported formats</source>
         <translation>Աջակցվող ձևաչափեր</translation>
-    </message>
-    <message>
-        <source>Write categories into images as hierarchical keywords</source>
-        <translation>Գրել անվանակարգերը պատկերներում որպես հիերարխիկ հիմնաբառեր</translation>
     </message>
     <message>
         <source>Automatically assign parent Category (Ctrl+click for current only)</source>
@@ -10786,6 +10782,22 @@ Do you want to reassign?</source>
     <message>
         <source>Image description</source>
         <translation>Պատկերի նկարագրություն</translation>
+    </message>
+    <message>
+        <source>Update catalog when file is modified outside (file date/size)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update keywords when file is modified outside (file date/size)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read Hierarchical keywords</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Write Hierarchical keywords (| as separator)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11315,6 +11327,10 @@ Do you want to reassign?</source>
     <message>
         <source>Anti-aliasing</source>
         <translation>Հակահարթում</translation>
+    </message>
+    <message>
+        <source>Auto-play audio companion files</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12162,6 +12178,53 @@ Do you want to continue?</source>
     <message>
         <source>Download new version...</source>
         <translation>Ներբեռնել...</translation>
+    </message>
+</context>
+<context>
+    <name>DlgUpdateDatabase</name>
+    <message>
+        <source>Update database</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update from</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sidecar/Master files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Master files only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use modified files only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update</source>
+        <translation type="unfinished">Թարմացում</translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <translation type="unfinished">Կանգնեցնել</translation>
+    </message>
+    <message>
+        <source>%1 file(s) to process</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update cancelled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update completed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stopping...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15741,10 +15804,6 @@ Do you want to continue?</source>
         <translation>Ներմուծել և խմբավորել...</translation>
     </message>
     <message>
-        <source>Update catalog from files</source>
-        <translation>Թարմացնել գրացուցակը ֆայլից</translation>
-    </message>
-    <message>
         <source>Update files from catalog</source>
         <translation>Թարմացնել գրացուցակը ֆայլերից</translation>
     </message>
@@ -16176,6 +16235,10 @@ Do you want to continue?</source>
         <source>Session</source>
         <translation type="unfinished">Աշխատաշրջան</translation>
     </message>
+    <message>
+        <source>Update catalog from files...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MenuGlobal</name>
@@ -16353,6 +16416,10 @@ Do you want to continue?</source>
     <message>
         <source># - Numeric enumerator</source>
         <translation># - Թվային հաշվարար</translation>
+    </message>
+    <message>
+        <source>h - Hour (01-21)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17585,10 +17652,6 @@ Do you want to continue?</source>
         <translation>[Պնակի վրա ազատ է՝ %1 %2]</translation>
     </message>
     <message>
-        <source>Updating catalog, please wait...</source>
-        <translation>Գրացուցակի արդիացում, սպասեք...</translation>
-    </message>
-    <message>
         <source>Updating files, please wait...</source>
         <translation>Ֆայլերի արդիացում, սպասեք...</translation>
     </message>
@@ -18565,17 +18628,6 @@ You can change it in Settings › Catalog.</source>
     </message>
 </context>
 <context>
-    <name>SummaryWidget</name>
-    <message>
-        <source>Greyscale</source>
-        <translation>Մոխրագույն</translation>
-    </message>
-    <message>
-        <source>Indexed</source>
-        <translation>Ցուցակված</translation>
-    </message>
-</context>
-<context>
     <name>TagEntryModel</name>
     <message>
         <source>Enter a name</source>
@@ -18946,6 +18998,14 @@ Please contact the developer.</source>
         <source>Catalog is disabled
 Metadata (check, ratings/colour labels and other file details)
 will not be saved to the database.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tabs</source>
+        <translation type="unfinished">Ներդիրներ</translation>
+    </message>
+    <message>
+        <source>The tab bar is hidden, but tabs will still open. Set a tab limit in Settings&gt;Interface&gt;Tabs</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
