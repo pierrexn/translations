@@ -466,7 +466,7 @@
     <message>
         <location filename="BannerProcess.h" line="53"/>
         <source>Abort</source>
-        <translation>Stoppen</translation>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <location filename="BannerProcess.h" line="54"/>
@@ -1177,7 +1177,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="ContactSheetProcess.h" line="44"/>
         <source>Abort</source>
-        <translation>Stoppen</translation>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <location filename="ContactSheetProcess.h" line="44"/>
@@ -2058,7 +2058,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="167"/>
         <source>No face</source>
-        <translation type="unfinished"></translation>
+        <translation>Kein Gesicht</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="168"/>
@@ -8567,7 +8567,7 @@ Bitte versuchen Sie, mit Administratorrechten zu starten.</translation>
     <message>
         <location filename="DlgFtp.cpp" line="244"/>
         <source>Abort</source>
-        <translation>Stoppen</translation>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="246"/>
@@ -8718,7 +8718,7 @@ Bitte versuchen Sie, mit Administratorrechten zu starten.</translation>
     <message>
         <location filename="DlgFtp.h" line="101"/>
         <source>Abort</source>
-        <translation>Stoppen</translation>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <location filename="DlgFtp.h" line="210"/>
@@ -9145,7 +9145,7 @@ Unterordner werden erstellt. </translation>
     <message>
         <location filename="DlgImportThread.h" line="93"/>
         <source>Abort</source>
-        <translation>Stoppen</translation>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <location filename="DlgImportThread.h" line="94"/>
@@ -11415,7 +11415,7 @@ Möchten Sie sie entfernen?</translation>
     <message>
         <location filename="DlgSearch.ui" line="499"/>
         <source>Abort</source>
-        <translation>Stoppen</translation>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="188"/>
@@ -12640,7 +12640,7 @@ Miniaturbild</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="112"/>
         <source>Grey</source>
-        <translation type="unfinished">Grau</translation>
+        <translation>Grau</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="117"/>
@@ -13875,7 +13875,7 @@ Möchten Sie neu zuweisen?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="124"/>
         <source>Update catalog when file is modified outside (file date/size)</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalog aktualisieren, wenn eine Datei außerhalb geändert wird (Dateidatum/-größe)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="197"/>
@@ -13885,17 +13885,17 @@ Möchten Sie neu zuweisen?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="203"/>
         <source>Update keywords when file is modified outside (file date/size)</source>
-        <translation type="unfinished"></translation>
+        <translation>Schlüsselwörter aktualisieren, wenn die Datei außerhalb geändert wird (Dateidatum/-größe)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="219"/>
         <source>Read Hierarchical keywords</source>
-        <translation type="unfinished"></translation>
+        <translation>Hierarchische Schlüsselwörter lesen</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="313"/>
         <source>Write Hierarchical keywords (| as separator)</source>
-        <translation type="unfinished"></translation>
+        <translation>Hierarchische Schlüsselwörter schreiben (| als Trennzeichen)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="323"/>
@@ -14531,7 +14531,7 @@ Möchten Sie neu zuweisen?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="740"/>
         <source>Auto-play audio companion files</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatische Wiedergabe von Begleit-Audiodateien</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="747"/>
@@ -15770,57 +15770,57 @@ Wollen Sie fortfahren?</translation>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="20"/>
         <source>Update database</source>
-        <translation type="unfinished"></translation>
+        <translation>Datenbank aktualisieren</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="28"/>
         <source>Update from</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualisierung von</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="35"/>
         <source>Sidecar/Master files</source>
-        <translation type="unfinished"></translation>
+        <translation>Filial-/Haupt-Dateien</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="42"/>
         <source>Master files only</source>
-        <translation type="unfinished"></translation>
+        <translation>Nur Haupt-Dateien</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="64"/>
         <source>Use modified files only</source>
-        <translation type="unfinished"></translation>
+        <translation>Nur modifizierte Dateien verwenden</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="20"/>
         <source>Update</source>
-        <translation type="unfinished">Programmaktualisierung</translation>
+        <translation>Aktualisierung</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="21"/>
         <source>Stop</source>
-        <translation type="unfinished">Stoppen</translation>
+        <translation>Stoppen</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="55"/>
         <source>%1 file(s) to process</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Datei(en) zu verarbeiten</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="129"/>
         <source>Update cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualisierung abgebrochen</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="129"/>
         <source>Update completed</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualisierung abgeschlossen</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="150"/>
         <source>Stopping...</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoppt...</translation>
     </message>
 </context>
 <context>
@@ -16832,7 +16832,7 @@ Wollen Sie fortfahren?</translation>
     <message>
         <location filename="Email.cpp" line="177"/>
         <source>Abort</source>
-        <translation>Stoppen</translation>
+        <translation>Abbrechen</translation>
     </message>
 </context>
 <context>
@@ -20247,7 +20247,7 @@ Möchten Sie fortfahren?</translation>
         <location filename="BrowserMenu.h" line="543"/>
         <source>Update catalog from files...</source>
         <oldsource>Update catalog from files</oldsource>
-        <translation type="unfinished">Katalog aus Dateien aktualisieren</translation>
+        <translation>Katalog aus Dateien aktualisieren...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="544"/>
@@ -21362,7 +21362,7 @@ Möchten Sie fortfahren?</translation>
         <location filename="TemplateData.cpp" line="2600"/>
         <source>h - Hour (01-12)</source>
         <oldsource>h - Hour (01-21)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>h - Stunde (01-12)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2601"/>
@@ -22759,7 +22759,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="MyAddFolderProcess.h" line="55"/>
         <source>Abort</source>
-        <translation>Stoppen</translation>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <location filename="MyAddFolderProcess.h" line="55"/>
@@ -22780,7 +22780,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="MyAddFolderProcess.h" line="296"/>
         <source>Abort</source>
-        <translation>Stoppen</translation>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <location filename="MyAddFolderProcess.h" line="296"/>
@@ -22952,7 +22952,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="MyProgressDialog.ui" line="67"/>
         <source>Abort</source>
-        <translation>Stoppen</translation>
+        <translation>Abbrechen</translation>
     </message>
 </context>
 <context>
@@ -24605,7 +24605,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="WebCapture.h" line="74"/>
         <source>Abort</source>
-        <translation>Stoppen</translation>
+        <translation>Abbrechen</translation>
     </message>
 </context>
 <context>
@@ -24741,12 +24741,12 @@ Wollen Sie die Miniaturbilder beibehalten?
     <message>
         <location filename="xnview.cpp" line="2612"/>
         <source>Tabs</source>
-        <translation type="unfinished">Registerkarten</translation>
+        <translation>Tabs</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="2612"/>
         <source>The tab bar is hidden, but tabs will still open. Set a tab limit in Settings&gt;Interface&gt;Tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Tab-Leiste ist ausgeblendet, Tabs lassen sich aber weiterhin öffnen. Legen Sie ein Tab-Limit unter Einstellungen &gt; Benutzeroberfläche &gt; Tabs fest.</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="3090"/>
