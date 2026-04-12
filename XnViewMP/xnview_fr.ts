@@ -2061,7 +2061,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="167"/>
         <source>No face</source>
-        <translation type="unfinished"></translation>
+        <translation>Pas de visage</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="168"/>
@@ -5290,7 +5290,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="DlgConvert.ui" line="649"/>
         <source>Multiple resolution...</source>
-        <translation type="unfinished"></translation>
+        <translation>Résolution multiple...</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1102"/>
@@ -6045,17 +6045,17 @@ Voulez-vous continuer ?</translation>
         <location filename="DlgConvertMulti.ui" line="14"/>
         <location filename="DlgConvertMulti.cpp" line="18"/>
         <source>Multiple output</source>
-        <translation type="unfinished"></translation>
+        <translation>Sortie multiple</translation>
     </message>
     <message>
         <location filename="DlgConvertMulti.cpp" line="45"/>
         <source>Width:</source>
-        <translation type="unfinished">Largeur :</translation>
+        <translation>Largeur:</translation>
     </message>
     <message>
         <location filename="DlgConvertMulti.cpp" line="51"/>
         <source>Height:</source>
-        <translation type="unfinished">Hauteur :</translation>
+        <translation>Hauteur:</translation>
     </message>
 </context>
 <context>
@@ -12602,7 +12602,7 @@ Vignette</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="112"/>
         <source>Grey</source>
-        <translation type="unfinished">Gris</translation>
+        <translation>Gris</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="117"/>
@@ -13865,22 +13865,22 @@ Voulez-vous le réaffecter ?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="124"/>
         <source>Update catalog when file is modified outside (file date/size)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise à jour du catalogue lorsque le fichier est modifié à l&apos;extérieur (date/taille du fichier)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="203"/>
         <source>Update keywords when file is modified outside (file date/size)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise à jour des mots-clés lorsque le fichier est modifié à l&apos;extérieur (date/taille du fichier)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="219"/>
         <source>Read Hierarchical keywords</source>
-        <translation type="unfinished"></translation>
+        <translation>Lire les mots-clés hiérarchiques</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="313"/>
         <source>Write Hierarchical keywords (| as separator)</source>
-        <translation type="unfinished"></translation>
+        <translation>Écrire des mots-clés hiérarchiques (| comme séparateur)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="323"/>
@@ -14571,7 +14571,7 @@ Voulez-vous le réaffecter ?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="740"/>
         <source>Auto-play audio companion files</source>
-        <translation type="unfinished"></translation>
+        <translation>Lecture automatique des fichiers compagnons audio</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="747"/>
@@ -15785,57 +15785,57 @@ Voulez-vous continuer?</translation>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="20"/>
         <source>Update database</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise à jour de la base de données</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="28"/>
         <source>Update from</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise à jour de</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="35"/>
         <source>Sidecar/Master files</source>
-        <translation type="unfinished"></translation>
+        <translation>Fichiers Sidecar/Maître</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="42"/>
         <source>Master files only</source>
-        <translation type="unfinished"></translation>
+        <translation>Fichiers maîtres uniquement</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="64"/>
         <source>Use modified files only</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser uniquement les fichiers modifiés</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="20"/>
         <source>Update</source>
-        <translation type="unfinished">Mise à jour</translation>
+        <translation>Mise à jour</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="21"/>
         <source>Stop</source>
-        <translation type="unfinished">Stopper</translation>
+        <translation>Stopper</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="55"/>
         <source>%1 file(s) to process</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 fichier(s) à traiter</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="129"/>
         <source>Update cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise à jour annulée</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="129"/>
         <source>Update completed</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise à jour terminée</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="150"/>
         <source>Stopping...</source>
-        <translation type="unfinished"></translation>
+        <translation>En arrêt...</translation>
     </message>
 </context>
 <context>
@@ -20966,7 +20966,7 @@ Voulez-vous continuer ?</translation>
         <location filename="BrowserMenu.h" line="543"/>
         <source>Update catalog from files...</source>
         <oldsource>Update catalog from files</oldsource>
-        <translation type="unfinished">Mise à jour du catalogue à partir des fichiers</translation>
+        <translation>Mise à jour du catalogue à partir des fichiers...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="544"/>
@@ -21381,7 +21381,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2600"/>
         <source>h - Hour (01-21)</source>
-        <translation type="unfinished"></translation>
+        <translation>h - Heure (01-21)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2601"/>
@@ -24753,12 +24753,12 @@ Souhaitez-vous conserver les vignettes ?
     <message>
         <location filename="xnview.cpp" line="2612"/>
         <source>Tabs</source>
-        <translation type="unfinished">Onglets</translation>
+        <translation>Onglets</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="2612"/>
         <source>The tab bar is hidden, but tabs will still open. Set a tab limit in Settings&gt;Interface&gt;Tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>La barre d&apos;onglets est masquée, mais les onglets restent ouverts. Définissez une limite pour les onglets dans Paramètres&gt;Interface&gt;Onglets</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="3090"/>
