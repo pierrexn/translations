@@ -21397,7 +21397,8 @@ Do you want to continue?</oldsource>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2600"/>
-        <source>h - Hour (01-21)</source>
+        <source>h - Hour (01-12)</source>
+        <oldsource>h - Hour (01-21)</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>

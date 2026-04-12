@@ -16419,7 +16419,7 @@ Do you want to continue?</source>
         <translation># - Contador numérico</translation>
     </message>
     <message>
-        <source>h - Hour (01-21)</source>
+        <source>h - Hour (01-12)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

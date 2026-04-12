@@ -16435,7 +16435,7 @@ Vrei să continui?</translation>
         <translation># - enumerator numeric</translation>
     </message>
     <message>
-        <source>h - Hour (01-21)</source>
+        <source>h - Hour (01-12)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

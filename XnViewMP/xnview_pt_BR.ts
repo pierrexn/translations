@@ -16426,7 +16426,7 @@ Deseja continuar?</translation>
         <translation># - Enumerador numérico</translation>
     </message>
     <message>
-        <source>h - Hour (01-21)</source>
+        <source>h - Hour (01-12)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
