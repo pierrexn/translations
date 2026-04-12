@@ -15896,12 +15896,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="20"/>
         <source>Update</source>
-        <translation type="unfinished">Обновление</translation>
+        <translation>Обновить</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="21"/>
         <source>Stop</source>
-        <translation type="unfinished">Остановить</translation>
+        <translation>Остановить</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="55"/>
@@ -21466,12 +21466,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="TemplateData.cpp" line="2596"/>
         <source>m - Month as decimal (01-12)</source>
-        <translation>m - Месяц в виде порядкового номера (01-12)</translation>
+        <translation>m - Месяц, номер (01-12)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2597"/>
         <source>d - Day as decimal (01-31)</source>
-        <translation>d - День в виде порядкового номера (01-31)</translation>
+        <translation>d - День, номер (01-31)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2599"/>
@@ -21482,7 +21482,7 @@ Do you want to continue?</oldsource>
         <location filename="TemplateData.cpp" line="2600"/>
         <source>h - Hour (01-12)</source>
         <oldsource>h - Hour (01-21)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>h - Часы (01-12)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2601"/>
@@ -21497,22 +21497,22 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="TemplateData.cpp" line="2604"/>
         <source>B - Month name (eg. february)</source>
-        <translation>B - Название месяца (н-р, февраль)</translation>
+        <translation>B - Месяц (напр. февраль)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2605"/>
         <source>b - Abbreviated month name (eg. feb)</source>
-        <translation>b - Аббревиатура названия месяца (н-р, фев)</translation>
+        <translation>b - Месяц, сокращенное название (напр. фев)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2606"/>
         <source>A - Weekday name (eg. wednesday)</source>
-        <translation>A - День недели (н-р, четверг)</translation>
+        <translation>A - День недели (напр. четверг)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2607"/>
         <source>a - Abbreviated weekday name (eg. wed)</source>
-        <translation>a - Аббревиатура дня недели (н-р, чт)</translation>
+        <translation>a - День недели, сокращенное название (напр. чт)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2835"/>
