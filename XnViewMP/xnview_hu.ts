@@ -2060,7 +2060,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="167"/>
         <source>No face</source>
-        <translation type="unfinished"></translation>
+        <translation>Nincs arc</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="168"/>
@@ -12760,7 +12760,7 @@ miniatűrként</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="112"/>
         <source>Grey</source>
-        <translation type="unfinished">Szürke</translation>
+        <translation>Szürke</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="117"/>
@@ -15762,12 +15762,12 @@ Biztos folytassuk?</translation>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="20"/>
         <source>Update database</source>
-        <translation type="unfinished"></translation>
+        <translation>Adatbázis frissítése</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="28"/>
         <source>Update from</source>
-        <translation type="unfinished"></translation>
+        <translation>Frissítés innen</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="35"/>
@@ -15787,12 +15787,12 @@ Biztos folytassuk?</translation>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="20"/>
         <source>Update</source>
-        <translation type="unfinished">Frissítés</translation>
+        <translation>Frissítés</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="21"/>
         <source>Stop</source>
-        <translation type="unfinished">Stop</translation>
+        <translation>Stop</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="55"/>
@@ -15802,17 +15802,17 @@ Biztos folytassuk?</translation>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="129"/>
         <source>Update cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>Frissítés megszakítva</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="129"/>
         <source>Update completed</source>
-        <translation type="unfinished"></translation>
+        <translation>Frissítés befejezve</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="150"/>
         <source>Stopping...</source>
-        <translation type="unfinished"></translation>
+        <translation>Leállítás...</translation>
     </message>
 </context>
 <context>
@@ -20227,7 +20227,7 @@ Biztosan folytassuk?</translation>
         <location filename="BrowserMenu.h" line="543"/>
         <source>Update catalog from files...</source>
         <oldsource>Update catalog from files</oldsource>
-        <translation type="unfinished">Katalógus frissítése fájlokból</translation>
+        <translation>Katalógus frissítése fájlokból...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="544"/>
@@ -21348,7 +21348,7 @@ Biztosan folytassuk?</translation>
         <location filename="TemplateData.cpp" line="2600"/>
         <source>h - Hour (01-12)</source>
         <oldsource>h - Hour (01-21)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>h - Óra (01-12)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2601"/>
@@ -24712,7 +24712,7 @@ Megőrizzük a miniatűröket?
     <message>
         <location filename="xnview.cpp" line="2612"/>
         <source>Tabs</source>
-        <translation type="unfinished">Lapok</translation>
+        <translation>Lapok</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="2612"/>
