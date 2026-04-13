@@ -2072,7 +2072,7 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="167"/>
         <source>No face</source>
-        <translation type="unfinished"></translation>
+        <translation>sem rosto</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="168"/>
@@ -12707,7 +12707,7 @@ Miniatura</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="112"/>
         <source>Grey</source>
-        <translation type="unfinished">Cinzento</translation>
+        <translation>Cinzento</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="117"/>
@@ -13929,7 +13929,7 @@ Pretende reatribuir?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="124"/>
         <source>Update catalog when file is modified outside (file date/size)</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizar o catálogo quando o ficheiro tenha modificação fora de (data/tamanho)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="197"/>
@@ -13939,17 +13939,17 @@ Pretende reatribuir?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="203"/>
         <source>Update keywords when file is modified outside (file date/size)</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizar palavras-chave quando o ficheiro tenha modificação fora de (data/tamanho)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="219"/>
         <source>Read Hierarchical keywords</source>
-        <translation type="unfinished"></translation>
+        <translation>Ler palavras-chave hierárquicas</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="313"/>
         <source>Write Hierarchical keywords (| as separator)</source>
-        <translation type="unfinished"></translation>
+        <translation>Gravar palavras-chave hierárquicas (| como separador)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="323"/>
@@ -14597,7 +14597,7 @@ Pretende reatribuir?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="740"/>
         <source>Auto-play audio companion files</source>
-        <translation type="unfinished"></translation>
+        <translation>Tocar ficheiros áudio associados automaticamente</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="747"/>
@@ -15829,57 +15829,57 @@ Deseja continuar?</translation>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="20"/>
         <source>Update database</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizar base de dados</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="28"/>
         <source>Update from</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizar de</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="35"/>
         <source>Sidecar/Master files</source>
-        <translation type="unfinished"></translation>
+        <translation>Ficheiros sidecar/master</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="42"/>
         <source>Master files only</source>
-        <translation type="unfinished"></translation>
+        <translation>Apenas ficheiros master</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="64"/>
         <source>Use modified files only</source>
-        <translation type="unfinished"></translation>
+        <translation>Usar apenas ficheiros modificados</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="20"/>
         <source>Update</source>
-        <translation type="unfinished">Actualizar</translation>
+        <translation>Actualizar</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="21"/>
         <source>Stop</source>
-        <translation type="unfinished">Parar</translation>
+        <translation>Parar</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="55"/>
         <source>%1 file(s) to process</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ficheiro(s) por processar</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="129"/>
         <source>Update cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualização cancelada</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="129"/>
         <source>Update completed</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualização completada</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="150"/>
         <source>Stopping...</source>
-        <translation type="unfinished"></translation>
+        <translation>Parando...</translation>
     </message>
 </context>
 <context>
@@ -20290,7 +20290,7 @@ Deseja continuar?</translation>
         <location filename="BrowserMenu.h" line="543"/>
         <source>Update catalog from files...</source>
         <oldsource>Update catalog from files</oldsource>
-        <translation type="unfinished">Actualizar o Catálogo pelos ficheiros</translation>
+        <translation>Actualizar o Catálogo a partir dos ficheiros...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="544"/>
@@ -21438,7 +21438,7 @@ Deseja continuar?</translation>
         <location filename="TemplateData.cpp" line="2600"/>
         <source>h - Hour (01-12)</source>
         <oldsource>h - Hour (01-21)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>h - Hora (01-12)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2601"/>
@@ -24823,12 +24823,12 @@ Quer manter as miniaturas?
     <message>
         <location filename="xnview.cpp" line="2612"/>
         <source>Tabs</source>
-        <translation type="unfinished">Separadores</translation>
+        <translation>Separadores</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="2612"/>
         <source>The tab bar is hidden, but tabs will still open. Set a tab limit in Settings&gt;Interface&gt;Tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>A barra de separadores está oculta, mas os separadores ainda abrem. Defina um número-limite de separadores em Configurações&gt;Interface&gt;Separadores</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="3090"/>
