@@ -2060,7 +2060,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="167"/>
         <source>No face</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen gezicht</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="168"/>
@@ -12778,7 +12778,7 @@ Miniatuur</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="112"/>
         <source>Grey</source>
-        <translation type="unfinished">Grijs</translation>
+        <translation>Grijs</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="117"/>
@@ -13886,7 +13886,7 @@ Opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="124"/>
         <source>Update catalog when file is modified outside (file date/size)</source>
-        <translation type="unfinished"></translation>
+        <translation>Catalogus bijwerken wanneer het bestand extern is gewijzigd (bestandsdatum/grootte)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="197"/>
@@ -13896,17 +13896,17 @@ Opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="203"/>
         <source>Update keywords when file is modified outside (file date/size)</source>
-        <translation type="unfinished"></translation>
+        <translation>Trefwoorden bijwerken wanneer het bestand extern is gewijzigd (bestandsdatum/grootte)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="219"/>
         <source>Read Hierarchical keywords</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiërarchische trefwoorden lezen</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="313"/>
         <source>Write Hierarchical keywords (| as separator)</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiërarchische trefwoorden schrijven (| als scheidingsteken)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="323"/>
@@ -14423,7 +14423,7 @@ Opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="740"/>
         <source>Auto-play audio companion files</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio-compagnonbestanden automatisch afspelen</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1084"/>
@@ -15780,57 +15780,57 @@ Doorgaan?</translation>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="20"/>
         <source>Update database</source>
-        <translation type="unfinished"></translation>
+        <translation>Database bijwerken</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="28"/>
         <source>Update from</source>
-        <translation type="unfinished"></translation>
+        <translation>Bijwerken van</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="35"/>
         <source>Sidecar/Master files</source>
-        <translation type="unfinished"></translation>
+        <translation>Sidecar/Hoofdbestanden</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="42"/>
         <source>Master files only</source>
-        <translation type="unfinished"></translation>
+        <translation>Alleen hoofdbestanden</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="64"/>
         <source>Use modified files only</source>
-        <translation type="unfinished"></translation>
+        <translation>Alleen gewijzigde bestanden gebruiken</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="20"/>
         <source>Update</source>
-        <translation type="unfinished">Update</translation>
+        <translation>Bijwerken</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="21"/>
         <source>Stop</source>
-        <translation type="unfinished">Stoppen</translation>
+        <translation>Stoppen</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="55"/>
         <source>%1 file(s) to process</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 bestand(en) te verwerken</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="129"/>
         <source>Update cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>Bijwerken geannuleerd</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="129"/>
         <source>Update completed</source>
-        <translation type="unfinished"></translation>
+        <translation>Bijwerken voltooid</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="150"/>
         <source>Stopping...</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoppen…</translation>
     </message>
 </context>
 <context>
@@ -20370,7 +20370,7 @@ Doorgaan?</translation>
         <location filename="BrowserMenu.h" line="543"/>
         <source>Update catalog from files...</source>
         <oldsource>Update catalog from files</oldsource>
-        <translation type="unfinished">Catalogus bijwerken aan de hand van bestanden</translation>
+        <translation>Catalogus bijwerken aan de hand van bestanden…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="544"/>
@@ -20944,7 +20944,7 @@ Doorgaan?</translation>
     <message>
         <location filename="BrowserMenu.h" line="545"/>
         <source>Refresh</source>
-        <translation>Bijwerken</translation>
+        <translation>Verversen</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="547"/>
@@ -21332,7 +21332,7 @@ Doorgaan?</translation>
     <message>
         <location filename="xnview.cpp" line="1370"/>
         <source>Tab</source>
-        <translation>Tabbladen</translation>
+        <translation>Tabblad</translation>
     </message>
 </context>
 <context>
@@ -21366,7 +21366,7 @@ Doorgaan?</translation>
         <location filename="TemplateData.cpp" line="2600"/>
         <source>h - Hour (01-12)</source>
         <oldsource>h - Hour (01-21)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>u - Uur (01-12)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2601"/>
@@ -24749,12 +24749,12 @@ Wilt u de miniaturen behouden?
     <message>
         <location filename="xnview.cpp" line="2612"/>
         <source>Tabs</source>
-        <translation type="unfinished">Tabbladen</translation>
+        <translation>Tabbladen</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="2612"/>
         <source>The tab bar is hidden, but tabs will still open. Set a tab limit in Settings&gt;Interface&gt;Tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>De tabbalk is verborgen, maar de tabbladen worden nog steeds geopend. Stel een tablimiet in Instellingen&gt;Interface&gt;Tabs</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="3090"/>
