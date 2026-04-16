@@ -279,83 +279,83 @@
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1424"/>
+        <location filename="ViewWindow.cpp" line="1425"/>
         <source>Frame %1/%2</source>
         <translation>Frame %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1427"/>
+        <location filename="ViewWindow.cpp" line="1428"/>
         <source>Icon %1/%2</source>
         <translation>Pictogram %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1429"/>
+        <location filename="ViewWindow.cpp" line="1430"/>
         <source>Page %1/%2</source>
         <translation>Pagina %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1596"/>
-        <location filename="ViewWindow.cpp" line="1615"/>
+        <location filename="ViewWindow.cpp" line="1597"/>
+        <location filename="ViewWindow.cpp" line="1616"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; Leeg &gt;</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2977"/>
+        <location filename="ViewWindow.cpp" line="2980"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
         <translation>Afbeelding wordt geconverteerd naar 24-bits RGB (8-bits per kanaal)</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2987"/>
+        <location filename="ViewWindow.cpp" line="2990"/>
         <source>The file &lt;%1&gt; is read-only. Please choose another file name.</source>
         <translation>Het bestand &lt;%1&gt; is alleen-lezen. Kies een andere bestandsnaam.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2995"/>
+        <location filename="ViewWindow.cpp" line="2998"/>
         <source>Confirm Save</source>
         <translation>Opslaan bevestigen</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2996"/>
+        <location filename="ViewWindow.cpp" line="2999"/>
         <source>&lt;%1&gt; already exists!</source>
         <translation>&lt;%1&gt; bestaat al!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2996"/>
+        <location filename="ViewWindow.cpp" line="2999"/>
         <source>Do you want to overwrite it?</source>
         <translation>Wilt u het overschrijven?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3020"/>
-        <location filename="ViewWindow.cpp" line="3151"/>
-        <location filename="ViewWindow.cpp" line="3201"/>
+        <location filename="ViewWindow.cpp" line="3023"/>
+        <location filename="ViewWindow.cpp" line="3154"/>
+        <location filename="ViewWindow.cpp" line="3204"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
         <translation>Afbeelding opslaan…</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3022"/>
-        <location filename="ViewWindow.cpp" line="3203"/>
+        <location filename="ViewWindow.cpp" line="3025"/>
+        <location filename="ViewWindow.cpp" line="3206"/>
         <source>Error</source>
         <translation>Fout</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3022"/>
-        <location filename="ViewWindow.cpp" line="3203"/>
+        <location filename="ViewWindow.cpp" line="3025"/>
+        <location filename="ViewWindow.cpp" line="3206"/>
         <source>An error occurred during saving!</source>
         <translation>Er trad een fout op bij het opslaan!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3293"/>
+        <location filename="ViewWindow.cpp" line="3296"/>
         <source>Properties</source>
         <translation>Eigenschappen</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4470"/>
+        <location filename="ViewWindow.cpp" line="4478"/>
         <source>Colors count</source>
         <translation>Aantal kleuren</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2045"/>
+        <location filename="ViewWindow.cpp" line="2046"/>
         <source>Customize toolbar...</source>
         <translation>Werkbalk aanpassen…</translation>
     </message>
@@ -380,41 +380,41 @@
         <translation>Niet meer vragen</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2301"/>
-        <location filename="ViewWindow.cpp" line="2307"/>
-        <location filename="ViewWindow.cpp" line="2311"/>
+        <location filename="ViewWindow.cpp" line="2302"/>
+        <location filename="ViewWindow.cpp" line="2308"/>
+        <location filename="ViewWindow.cpp" line="2312"/>
         <source>Delete items</source>
         <translation>Objecten verwijderen</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2301"/>
+        <location filename="ViewWindow.cpp" line="2302"/>
         <source>Would you like to discard your edits and delete 
 &quot;%1&quot;?</source>
         <translation>Wilt u uw bewerkingen weggooien en verwijderen 
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2307"/>
+        <location filename="ViewWindow.cpp" line="2308"/>
         <source>Are you sure to delete 
 &quot;%1&quot;?</source>
         <translation>Weet u zeker dat u wilt verwijderen
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2311"/>
+        <location filename="ViewWindow.cpp" line="2312"/>
         <source>Are you sure to delete 
 &quot;%1&quot; (%2 items)?</source>
         <translation>Weet u zeker dat u wilt verwijderen
 &quot;%1&quot; (%2 items)?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2977"/>
-        <location filename="ViewWindow.cpp" line="2987"/>
+        <location filename="ViewWindow.cpp" line="2980"/>
+        <location filename="ViewWindow.cpp" line="2990"/>
         <source>Save</source>
         <translation>Opslaan</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4470"/>
+        <location filename="ViewWindow.cpp" line="4478"/>
         <source>Number of unique colors: %1</source>
         <translation>Aantal unieke kleuren: %1</translation>
     </message>
@@ -480,28 +480,28 @@
 <context>
     <name>BaseViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="4975"/>
+        <location filename="ViewWindow.cpp" line="4983"/>
         <source>Error</source>
         <translation>Fout</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4966"/>
-        <location filename="ViewWindow.cpp" line="4975"/>
+        <location filename="ViewWindow.cpp" line="4974"/>
+        <location filename="ViewWindow.cpp" line="4983"/>
         <source>File can&apos;t be loaded!</source>
         <translation>Bestand niet kunnen laden!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4966"/>
+        <location filename="ViewWindow.cpp" line="4974"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <translation>Om PDF/PS/EPS/AI-bestanden te bekijken of te converteren, dient Ghostscript %1 op uw systeem te zijn geïnstalleerd.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4967"/>
+        <location filename="ViewWindow.cpp" line="4975"/>
         <source>Please visit the %1 for more information.</source>
         <translation>Bezoek de %1 voor meer informatie.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4979"/>
+        <location filename="ViewWindow.cpp" line="4987"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; Leeg &gt;</translation>
     </message>
@@ -555,27 +555,27 @@ Wil je de favoriet &quot;%1&quot; verwijderen?</translation>
 <context>
     <name>BrowserWindow</name>
     <message>
-        <location filename="BrowserWindow.cpp" line="1665"/>
+        <location filename="BrowserWindow.cpp" line="1667"/>
         <source>Add Favorite...</source>
         <translation>Toevoegen aan favorieten…</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1756"/>
+        <location filename="BrowserWindow.cpp" line="1758"/>
         <source>Folders</source>
         <translation>Mappen</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1760"/>
+        <location filename="BrowserWindow.cpp" line="1762"/>
         <source>Favorites</source>
         <translation>Favorieten</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1775"/>
+        <location filename="BrowserWindow.cpp" line="1777"/>
         <source>Categories</source>
         <translation>Categorieën</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1813"/>
+        <location filename="BrowserWindow.cpp" line="1815"/>
         <source>Info</source>
         <translation>Info</translation>
     </message>
@@ -596,63 +596,63 @@ Wil je de favoriet &quot;%1&quot; verwijderen?</translation>
         <translation>De database is corrupt, controleer deze voordat u verder gaat!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1657"/>
+        <location filename="BrowserWindow.cpp" line="1659"/>
         <source>Add to Favorites</source>
         <translation>Aan favorieten toevoegen</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1764"/>
+        <location filename="BrowserWindow.cpp" line="1766"/>
         <source>Catalog Filter</source>
         <oldsource>Categories Filter</oldsource>
         <translation>Catalogus Filter</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1780"/>
+        <location filename="BrowserWindow.cpp" line="1782"/>
         <source>Category Sets</source>
         <translation>Categorie-verzamelingen</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2015"/>
+        <location filename="BrowserWindow.cpp" line="2017"/>
         <source>Global</source>
         <translation>Overal</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2015"/>
+        <location filename="BrowserWindow.cpp" line="2017"/>
         <source>Current folder</source>
         <translation>Huidige map</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2015"/>
+        <location filename="BrowserWindow.cpp" line="2017"/>
         <source>Current folder (Recursive)</source>
         <translation>Huidige map (incl. submappen)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2061"/>
+        <location filename="BrowserWindow.cpp" line="2063"/>
         <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi-select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right-click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
         <translation>&lt;b&gt;Catalogusfilter&lt;/b&gt;&lt;br&gt;Linkermuisknop om te filteren&lt;br&gt;&amp;bull; Shift/Ctrl - meervoudige selectie&lt;br&gt;&amp;bull; Alt - items uitsluiten&lt;br&gt;Rechtermuisknop om opties voor knooppunt te openen&lt;br&gt;Slepen &amp; neerzetten op een knooppunt om toe te wijzen</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="2271"/>
+        <location filename="BrowserWindow.cpp" line="2273"/>
         <source>Thumbnails</source>
         <translation>Miniaturen</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3469"/>
+        <location filename="BrowserWindow.cpp" line="3471"/>
         <source>&lt;Search results&gt;</source>
         <translation>&lt;Zoekresultaten&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3566"/>
+        <location filename="BrowserWindow.cpp" line="3568"/>
         <source>This folder doesn&apos;t exist!</source>
         <translation>Deze map bestaat niet!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3781"/>
+        <location filename="BrowserWindow.cpp" line="3783"/>
         <source>Favorite name:</source>
         <translation>Favoriet Naam:</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="4026"/>
+        <location filename="BrowserWindow.cpp" line="4033"/>
         <source>Are you sure to delete these %n item(s)?</source>
         <translation>
             <numerusform>Dit %n object daadwerkelijk verwijderen?</numerusform>
@@ -660,45 +660,45 @@ Wil je de favoriet &quot;%1&quot; verwijderen?</translation>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4112"/>
+        <location filename="BrowserWindow.cpp" line="4119"/>
         <source>The files cannot be renamed, an error occurred.</source>
         <translation>De bestanden zijn niet hernoemd , er trad een fout op.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3566"/>
-        <location filename="BrowserWindow.cpp" line="4112"/>
+        <location filename="BrowserWindow.cpp" line="3568"/>
+        <location filename="BrowserWindow.cpp" line="4119"/>
         <source>Error</source>
         <translation>Fout</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1995"/>
-        <location filename="BrowserWindow.cpp" line="2007"/>
+        <location filename="BrowserWindow.cpp" line="1997"/>
+        <location filename="BrowserWindow.cpp" line="2009"/>
         <source>AND</source>
         <translation>EN</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1995"/>
-        <location filename="BrowserWindow.cpp" line="2001"/>
+        <location filename="BrowserWindow.cpp" line="1997"/>
+        <location filename="BrowserWindow.cpp" line="2003"/>
         <source>OR</source>
         <translation>OF</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1996"/>
+        <location filename="BrowserWindow.cpp" line="1998"/>
         <source>&lt;b&gt;Match&lt;/b&gt;&lt;br&gt;OR - match any selected entry&lt;br&gt;AND - match all selected entries</source>
         <translation>&lt;b&gt;Overeenkomst&lt;/b&gt;&lt;br&gt;OF - overeenkomst met elke geselecteerde invoer&lt;br&gt;EN - overeenkomst met alle geselecteerde invoer</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3475"/>
+        <location filename="BrowserWindow.cpp" line="3477"/>
         <source>&lt;files&gt;</source>
         <translation>&lt;bestanden&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4019"/>
+        <location filename="BrowserWindow.cpp" line="4026"/>
         <source>Delete items &amp; companions</source>
         <translation>Items &amp; bijbehorende bestanden verwijderen</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="4020"/>
+        <location filename="BrowserWindow.cpp" line="4027"/>
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
         <translation>
             <numerusform>%1 object geselecteerd - Wilt u dit %n object verwijderen?</numerusform>
@@ -706,32 +706,32 @@ Wil je de favoriet &quot;%1&quot; verwijderen?</translation>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4491"/>
+        <location filename="BrowserWindow.cpp" line="4499"/>
         <source>Show files in subfolders</source>
         <translation>Bestanden in submappen weergeven</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4494"/>
+        <location filename="BrowserWindow.cpp" line="4502"/>
         <source>Add to favorites...</source>
         <translation>Toevoegen aan favorieten…</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4499"/>
+        <location filename="BrowserWindow.cpp" line="4507"/>
         <source>Open in file manager</source>
         <translation>Openen in bestandsbeheer</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4502"/>
+        <location filename="BrowserWindow.cpp" line="4510"/>
         <source>Properties</source>
         <translation>Eigenschappen</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4617"/>
+        <location filename="BrowserWindow.cpp" line="4625"/>
         <source>Load filelist</source>
         <translation>Bestandenlijst laden</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4025"/>
+        <location filename="BrowserWindow.cpp" line="4032"/>
         <source>Delete items</source>
         <translation>Objecten verwijderen</translation>
     </message>
@@ -741,42 +741,42 @@ Wil je de favoriet &quot;%1&quot; verwijderen?</translation>
         <translation>Werkbalk aanpassen…</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1821"/>
+        <location filename="BrowserWindow.cpp" line="1823"/>
         <source>Metadata</source>
         <translation>Metagegevens</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="1830"/>
+        <location filename="BrowserWindow.cpp" line="1832"/>
         <source>Histogram</source>
         <translation>Histogram</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3471"/>
+        <location filename="BrowserWindow.cpp" line="3473"/>
         <source>&lt;Checked files&gt;</source>
         <translation>&lt;Geselecteerde bestanden&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3473"/>
+        <location filename="BrowserWindow.cpp" line="3475"/>
         <source>&lt;Catalog filter results&gt;</source>
         <translation>&lt;Catalogus filterresultaten&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4493"/>
+        <location filename="BrowserWindow.cpp" line="4501"/>
         <source>Search...</source>
         <translation>Zoeken…</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4497"/>
+        <location filename="BrowserWindow.cpp" line="4505"/>
         <source>Start slideshow</source>
         <translation>Diavoorstelling starten</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4534"/>
+        <location filename="BrowserWindow.cpp" line="4542"/>
         <source>Delete folder</source>
         <translation>Map verwijderen</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4534"/>
+        <location filename="BrowserWindow.cpp" line="4542"/>
         <source>Are you sure to delete this folder?</source>
         <translation>Weet u zeker dat u deze map wilt verwijderen?</translation>
     </message>
@@ -14073,62 +14073,67 @@ Opnieuw toewijzen?</translation>
         <translation>Onder</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="649"/>
+        <location filename="DlgSettingsThumbnail.ui" line="684"/>
         <source>Companion</source>
         <translation>Bijbehorend</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="722"/>
+        <location filename="DlgSettingsThumbnail.ui" line="731"/>
         <source>Check</source>
         <translation>Markeren</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="904"/>
+        <location filename="DlgSettingsThumbnail.ui" line="811"/>
         <source>Frame&apos;s count</source>
         <translation>Aantal frames</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1068"/>
+        <location filename="DlgSettingsThumbnail.ui" line="911"/>
+        <source>Audio</source>
+        <translation type="unfinished">Audio</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="1082"/>
         <source>Color</source>
         <translation>Kleur</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1076"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1090"/>
         <source>Text</source>
         <translation>Tekst</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1181"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1195"/>
         <source>Label colors</source>
         <translation>Labelkleuren</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1187"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1201"/>
         <source>Use color based on file format</source>
         <translation>Gebruik kleuren op basis van het bestandsformaat</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1200"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1214"/>
         <source>Enter an extension:</source>
         <translation>Voer een extensie in:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1210"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1224"/>
         <source>or choose a format:</source>
         <translation>of kies een formaat:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1256"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1270"/>
         <source>New</source>
         <translation>Nieuw</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1266"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1280"/>
         <source>Remove</source>
         <translation>Verwijderen</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1290"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1304"/>
         <source>Default color</source>
         <translation>Standaardkleur</translation>
     </message>
@@ -14169,7 +14174,7 @@ Opnieuw toewijzen?</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="404"/>
-        <location filename="DlgSettingsThumbnail.ui" line="1106"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1120"/>
         <source>Background</source>
         <translation>Achtergrond</translation>
     </message>
@@ -14200,7 +14205,7 @@ Opnieuw toewijzen?</translation>
         <translation>Miniatuur-cel</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="883"/>
+        <location filename="DlgSettingsThumbnail.ui" line="584"/>
         <source>Has category</source>
         <translation>Heeft category</translation>
     </message>
@@ -14241,62 +14246,62 @@ Opnieuw toewijzen?</translation>
         <translation>Overlappende pictogrammen</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="836"/>
+        <location filename="DlgSettingsThumbnail.ui" line="904"/>
         <source>Shortcut</source>
         <translation>Sneltoets</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="876"/>
+        <location filename="DlgSettingsThumbnail.ui" line="831"/>
         <source>Automatic rotation</source>
         <translation>Automatisch draaien</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="856"/>
+        <location filename="DlgSettingsThumbnail.ui" line="677"/>
         <source>Rating</source>
         <translation>Waardering</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="749"/>
+        <location filename="DlgSettingsThumbnail.ui" line="691"/>
         <source>Embedded thumbnail</source>
         <translation>Ingesloten miniatuur</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="702"/>
+        <location filename="DlgSettingsThumbnail.ui" line="670"/>
         <source>Color label</source>
         <translation>Kleurlabel</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="829"/>
+        <location filename="DlgSettingsThumbnail.ui" line="871"/>
         <source>Color profile</source>
         <translation>Kleurprofiel</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="769"/>
+        <location filename="DlgSettingsThumbnail.ui" line="804"/>
         <source>Face tag</source>
         <translation>Gezichtslabel</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="897"/>
+        <location filename="DlgSettingsThumbnail.ui" line="838"/>
         <source>Sidecar</source>
         <translation>Sidecar</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="914"/>
+        <location filename="DlgSettingsThumbnail.ui" line="928"/>
         <source>Labels</source>
         <translation>Labels</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1140"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1154"/>
         <source>Reset color</source>
         <translation>Kleur herstellen</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1040"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1054"/>
         <source>Custom label</source>
         <translation>Aangepast label</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="928"/>
+        <location filename="DlgSettingsThumbnail.ui" line="942"/>
         <source>Browser › View › View as › Thumbnails + Labels</source>
         <oldsource>Browser - Thumbnail</oldsource>
         <translation>Verkenner › Weergave › Weggeven als › Miniaturen + Labels</translation>
@@ -15203,7 +15208,7 @@ Opnieuw toewijzen?</translation>
         <translation>Aanmaken</translation>
     </message>
     <message>
-        <location filename="DlgSplit.cpp" line="166"/>
+        <location filename="DlgSplit.cpp" line="167"/>
         <source>Splitting image(s), please wait...</source>
         <translation>Afbeelding(en) splitsen, even geduld…</translation>
     </message>
@@ -17110,9 +17115,9 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <name>Info</name>
     <message>
         <location filename="InfoPropertiesView.cpp" line="68"/>
-        <location filename="InfoPropertiesView.cpp" line="650"/>
-        <location filename="InfoPropertiesView.cpp" line="668"/>
-        <location filename="InfoPropertiesView.cpp" line="687"/>
+        <location filename="InfoPropertiesView.cpp" line="479"/>
+        <location filename="InfoPropertiesView.cpp" line="497"/>
+        <location filename="InfoPropertiesView.cpp" line="516"/>
         <location filename="SearchField.cpp" line="41"/>
         <location filename="TemplateData.cpp" line="2615"/>
         <source>Format</source>
@@ -17120,7 +17125,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="69"/>
-        <location filename="InfoPropertiesView.cpp" line="653"/>
+        <location filename="InfoPropertiesView.cpp" line="482"/>
         <location filename="ItemModel.cpp" line="1028"/>
         <location filename="SearchField.cpp" line="42"/>
         <location filename="TemplateData.cpp" line="2618"/>
@@ -17130,7 +17135,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="70"/>
-        <location filename="InfoPropertiesView.cpp" line="654"/>
+        <location filename="InfoPropertiesView.cpp" line="483"/>
         <location filename="ItemModel.cpp" line="1030"/>
         <location filename="SearchField.cpp" line="43"/>
         <location filename="TemplateData.cpp" line="2619"/>
@@ -17232,168 +17237,165 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
         <translation>Ingesloten commentaar</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="251"/>
-        <location filename="InfoPropertiesView.cpp" line="341"/>
-        <source>Info</source>
-        <translation>Info</translation>
-    </message>
-    <message>
-        <location filename="InfoPropertiesView.cpp" line="256"/>
-        <source>Date</source>
-        <translation>Datum</translation>
-    </message>
-    <message>
-        <location filename="InfoPropertiesView.cpp" line="258"/>
-        <location filename="InfoPropertiesView.cpp" line="348"/>
-        <source>Lens ID</source>
-        <translation>Lens ID</translation>
-    </message>
-    <message>
-        <location filename="InfoPropertiesView.cpp" line="346"/>
+        <location filename="InfoPropertiesView.cpp" line="180"/>
         <source>Date taken</source>
         <translation>Datum opname</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="350"/>
+        <location filename="InfoPropertiesView.cpp" line="184"/>
         <source>Lens model</source>
         <translation>Lens model</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="352"/>
+        <location filename="InfoPropertiesView.cpp" line="186"/>
         <source>Focal length (mm)</source>
         <translation>Brandpuntsafstand (mm)</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="370"/>
+        <location filename="InfoPropertiesView.cpp" line="199"/>
         <source>Description</source>
         <translation>Beschrijving</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="375"/>
+        <location filename="InfoPropertiesView.cpp" line="204"/>
         <source>Manufacturer</source>
         <translation>Fabrikant</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="651"/>
+        <location filename="InfoPropertiesView.cpp" line="480"/>
         <source>Encoded date</source>
         <translation>Codeerde datum</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="652"/>
-        <location filename="InfoPropertiesView.cpp" line="672"/>
-        <location filename="InfoPropertiesView.cpp" line="691"/>
+        <location filename="InfoPropertiesView.cpp" line="481"/>
+        <location filename="InfoPropertiesView.cpp" line="501"/>
+        <location filename="InfoPropertiesView.cpp" line="520"/>
         <source>Codec</source>
         <translation>Codec</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="655"/>
-        <location filename="InfoPropertiesView.cpp" line="673"/>
-        <location filename="InfoPropertiesView.cpp" line="692"/>
+        <location filename="InfoPropertiesView.cpp" line="484"/>
+        <location filename="InfoPropertiesView.cpp" line="502"/>
+        <location filename="InfoPropertiesView.cpp" line="521"/>
         <source>Duration</source>
         <translation>Duur</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="657"/>
-        <location filename="InfoPropertiesView.cpp" line="675"/>
-        <location filename="InfoPropertiesView.cpp" line="694"/>
+        <location filename="InfoPropertiesView.cpp" line="486"/>
+        <location filename="InfoPropertiesView.cpp" line="504"/>
+        <location filename="InfoPropertiesView.cpp" line="523"/>
         <source>Bit rate</source>
         <translation>Bitrate</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="658"/>
+        <location filename="InfoPropertiesView.cpp" line="487"/>
         <source>Aspect ratio</source>
         <translation>Beeldverhouding</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="659"/>
+        <location filename="InfoPropertiesView.cpp" line="488"/>
         <source>Frame rate mode</source>
         <translation>Framerate</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="660"/>
-        <location filename="InfoPropertiesView.cpp" line="677"/>
-        <location filename="InfoPropertiesView.cpp" line="696"/>
+        <location filename="InfoPropertiesView.cpp" line="489"/>
+        <location filename="InfoPropertiesView.cpp" line="506"/>
+        <location filename="InfoPropertiesView.cpp" line="525"/>
         <source>Frame rate</source>
         <translation>Framerate</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="661"/>
-        <location filename="InfoPropertiesView.cpp" line="678"/>
-        <location filename="InfoPropertiesView.cpp" line="697"/>
+        <location filename="InfoPropertiesView.cpp" line="490"/>
+        <location filename="InfoPropertiesView.cpp" line="507"/>
+        <location filename="InfoPropertiesView.cpp" line="526"/>
         <source>Compression mode</source>
         <translation>Compressie</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="662"/>
+        <location filename="InfoPropertiesView.cpp" line="491"/>
         <source>Bits/sample</source>
         <translation>Bits/sample</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="669"/>
-        <location filename="InfoPropertiesView.cpp" line="688"/>
+        <location filename="InfoPropertiesView.cpp" line="498"/>
+        <location filename="InfoPropertiesView.cpp" line="517"/>
         <source>Format version</source>
         <translation>Formaatversie</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="670"/>
-        <location filename="InfoPropertiesView.cpp" line="689"/>
+        <location filename="InfoPropertiesView.cpp" line="499"/>
+        <location filename="InfoPropertiesView.cpp" line="518"/>
         <source>Format profile</source>
         <translation>Profiel</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="671"/>
-        <location filename="InfoPropertiesView.cpp" line="690"/>
+        <location filename="InfoPropertiesView.cpp" line="500"/>
+        <location filename="InfoPropertiesView.cpp" line="519"/>
         <source>Format settings</source>
         <translation>Formaatinstellingen</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="674"/>
-        <location filename="InfoPropertiesView.cpp" line="693"/>
+        <location filename="InfoPropertiesView.cpp" line="503"/>
+        <location filename="InfoPropertiesView.cpp" line="522"/>
         <source>Bit rate mode</source>
         <translation>Bitrate</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="676"/>
-        <location filename="InfoPropertiesView.cpp" line="695"/>
+        <location filename="InfoPropertiesView.cpp" line="505"/>
+        <location filename="InfoPropertiesView.cpp" line="524"/>
         <source>Sampling rate</source>
         <translation>Samplerate</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="699"/>
+        <location filename="InfoPropertiesView.cpp" line="528"/>
         <source>Album</source>
         <translation>Album</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="700"/>
+        <location filename="InfoPropertiesView.cpp" line="529"/>
         <source>Title</source>
         <translation>Titel</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="701"/>
+        <location filename="InfoPropertiesView.cpp" line="530"/>
         <source>Performer</source>
         <translation>Uitvoerend artiest</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="702"/>
+        <location filename="InfoPropertiesView.cpp" line="531"/>
         <source>Genre</source>
         <translation>Genre</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="703"/>
+        <location filename="InfoPropertiesView.cpp" line="532"/>
         <source>Recorded date</source>
         <translation>Opnamedatum</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="254"/>
-        <location filename="InfoPropertiesView.cpp" line="344"/>
-        <location filename="InfoPropertiesView.cpp" line="380"/>
+        <location filename="InfoPropertiesView.cpp" line="178"/>
+        <location filename="InfoPropertiesView.cpp" line="209"/>
         <source>Model</source>
         <translation>Model</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="385"/>
-        <location filename="InfoPropertiesView.cpp" line="664"/>
-        <location filename="InfoPropertiesView.cpp" line="704"/>
+        <location filename="InfoPropertiesView.cpp" line="171"/>
+        <source>Exposure Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="InfoPropertiesView.cpp" line="173"/>
+        <source>FNumber</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="InfoPropertiesView.cpp" line="175"/>
+        <source>True ISO</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="InfoPropertiesView.cpp" line="214"/>
+        <location filename="InfoPropertiesView.cpp" line="493"/>
+        <location filename="InfoPropertiesView.cpp" line="533"/>
         <source>Copyright</source>
         <translation>Auteursrecht</translation>
     </message>
@@ -17430,8 +17432,8 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
         <translation>Bits</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="665"/>
-        <location filename="InfoPropertiesView.cpp" line="705"/>
+        <location filename="InfoPropertiesView.cpp" line="494"/>
+        <location filename="InfoPropertiesView.cpp" line="534"/>
         <location filename="ItemModel.cpp" line="1020"/>
         <location filename="SearchField.cpp" line="47"/>
         <location filename="TemplateData.cpp" line="2621"/>
@@ -19180,89 +19182,88 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
         <translation>Extra</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="238"/>
-        <location filename="InfoPropertiesView.cpp" line="328"/>
+        <location filename="InfoPropertiesView.cpp" line="168"/>
         <source>Camera</source>
         <translation>Camera</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="363"/>
+        <location filename="InfoPropertiesView.cpp" line="192"/>
         <source>Color Profile</source>
         <translation>Kleurprofiel</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="397"/>
+        <location filename="InfoPropertiesView.cpp" line="226"/>
         <source>Extra info</source>
         <translation>Extra info</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="583"/>
+        <location filename="InfoPropertiesView.cpp" line="412"/>
         <source>File</source>
         <translation>Bestand</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="584"/>
+        <location filename="InfoPropertiesView.cpp" line="413"/>
         <source>Filename</source>
         <translation>Bestandsnaam</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="585"/>
+        <location filename="InfoPropertiesView.cpp" line="414"/>
         <source>Filepath</source>
         <translation>Bestandspad</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="590"/>
+        <location filename="InfoPropertiesView.cpp" line="419"/>
         <source>Description</source>
         <translation>Beschrijving</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="596"/>
+        <location filename="InfoPropertiesView.cpp" line="425"/>
         <source>File size</source>
         <translation>Bestandsgrootte</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="597"/>
+        <location filename="InfoPropertiesView.cpp" line="426"/>
         <source>Creation date/time</source>
         <translation>Datum/tijd aangemaakt</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="598"/>
+        <location filename="InfoPropertiesView.cpp" line="427"/>
         <source>Modified date/time</source>
         <translation>Datum/tijd gewijzigd</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="599"/>
+        <location filename="InfoPropertiesView.cpp" line="428"/>
         <source>Accessed date/time</source>
         <translation>Datum/tijd benaderd</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="601"/>
+        <location filename="InfoPropertiesView.cpp" line="430"/>
         <source>Rating</source>
         <translation>Waardering</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="605"/>
+        <location filename="InfoPropertiesView.cpp" line="434"/>
         <source>Colour Label</source>
         <translation>Kleurlabel</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="615"/>
+        <location filename="InfoPropertiesView.cpp" line="444"/>
         <source>File&apos;s icon</source>
         <translation>Bestandspictogram</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="630"/>
+        <location filename="InfoPropertiesView.cpp" line="459"/>
         <source>Annotation</source>
         <translation>Aantekening</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="649"/>
+        <location filename="InfoPropertiesView.cpp" line="478"/>
         <source>Video</source>
         <translation>Video</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="667"/>
-        <location filename="InfoPropertiesView.cpp" line="686"/>
+        <location filename="InfoPropertiesView.cpp" line="496"/>
+        <location filename="InfoPropertiesView.cpp" line="515"/>
         <source>Audio</source>
         <translation>Audio</translation>
     </message>
@@ -19386,7 +19387,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
         <translation>Type</translation>
     </message>
     <message>
-        <location filename="ItemModel.cpp" line="5100"/>
+        <location filename="ItemModel.cpp" line="5106"/>
         <source>New Folder %1</source>
         <translation>Nieuwe map %1</translation>
     </message>
@@ -20161,104 +20162,104 @@ Doorgaan?</translation>
         <translation>Bestanden in submappen weergeven</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="551"/>
+        <location filename="BrowserMenu.h" line="552"/>
         <source>Open in file manager</source>
         <translation>Openen in bestandsbeheer</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="569"/>
+        <location filename="BrowserMenu.h" line="570"/>
         <source>Info panels</source>
         <translation>Info panelen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="572"/>
+        <location filename="BrowserMenu.h" line="573"/>
         <source>Rotate 90° right</source>
         <translation>90° rechtsom draaien</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="573"/>
+        <location filename="BrowserMenu.h" line="574"/>
         <source>Rotate 90° left</source>
         <translation>90° linksom draaien</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="576"/>
+        <location filename="BrowserMenu.h" line="577"/>
         <source>Rotate 90° right (lossless)</source>
         <translation>90° rechtsom draaien (verliesloos)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="577"/>
+        <location filename="BrowserMenu.h" line="578"/>
         <source>Rotate 90° left (lossless)</source>
         <translation>90° linksom draaien (verliesloos)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="578"/>
+        <location filename="BrowserMenu.h" line="579"/>
         <source>Rotate 180° (lossless)</source>
         <translation>180° draaien (verliesloos)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="581"/>
+        <location filename="BrowserMenu.h" line="582"/>
         <source>Flip horizontally (lossless)</source>
         <translation>Horizontaal spiegelen (verliesloos)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="582"/>
+        <location filename="BrowserMenu.h" line="583"/>
         <source>Flip vertically (lossless)</source>
         <translation>Verticaal spiegelen (verliesloos)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="596"/>
+        <location filename="BrowserMenu.h" line="597"/>
         <source>Open GPS location in</source>
         <translation>GPS-locatie openen met</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="607"/>
+        <location filename="BrowserMenu.h" line="608"/>
         <source>EXIF thumbnail - Rotate 90° left</source>
         <translation>EXIF-miniatuur - 90° linksom draaien</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="608"/>
+        <location filename="BrowserMenu.h" line="609"/>
         <source>EXIF thumbnail - Rotate 90° right</source>
         <translation>EXIF-miniatuur - 90° rechtsom draaien</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="612"/>
+        <location filename="BrowserMenu.h" line="613"/>
         <source>EXIF Thumbnail</source>
         <translation>EXIF-miniatuur</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="634"/>
+        <location filename="BrowserMenu.h" line="635"/>
         <source>Video thumbnails gallery...</source>
         <translation>Videominiaturen-gallerij…</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="657"/>
+        <location filename="BrowserMenu.h" line="658"/>
         <source>Show channel</source>
         <translation>Kanaal weergeven</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="670"/>
+        <location filename="BrowserMenu.h" line="671"/>
         <source>Switch panel</source>
         <oldsource>Switch panel...</oldsource>
         <translation>Paneel wisselen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="671"/>
+        <location filename="BrowserMenu.h" line="672"/>
         <source>Path focus</source>
         <oldsource>Path focus...</oldsource>
         <translation>Pad focus</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="672"/>
+        <location filename="BrowserMenu.h" line="673"/>
         <source>Filter by All</source>
         <translation>Filteren op alles</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="678"/>
+        <location filename="BrowserMenu.h" line="679"/>
         <source>Paste as image</source>
         <translation>Plakken als afbeelding</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="682"/>
+        <location filename="BrowserMenu.h" line="683"/>
         <source>Acquire (TWAIN)</source>
         <translation>Verkrijgen (TWAIN)</translation>
     </message>
@@ -20290,59 +20291,59 @@ Doorgaan?</translation>
         <translation>Zonder kleur</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="574"/>
+        <location filename="BrowserMenu.h" line="575"/>
         <source>Rotate 180°</source>
         <translation>180° draaien</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="626"/>
+        <location filename="BrowserMenu.h" line="627"/>
         <source>Import and sort...</source>
         <translation>Importeren en sorteren…</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="627"/>
+        <location filename="BrowserMenu.h" line="628"/>
         <source>Multi-page file...</source>
         <translation>Meerpagina-bestand…</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="19"/>
         <location filename="DlgSettingsView.cpp" line="270"/>
-        <location filename="BrowserMenu.h" line="649"/>
+        <location filename="BrowserMenu.h" line="650"/>
         <source>No fit</source>
         <translation>Niet passend</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="20"/>
         <location filename="DlgSettingsView.cpp" line="271"/>
-        <location filename="BrowserMenu.h" line="650"/>
+        <location filename="BrowserMenu.h" line="651"/>
         <source>Fit image to window</source>
         <translation>Afbeelding passen in het venster</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="22"/>
         <location filename="DlgSettingsView.cpp" line="273"/>
-        <location filename="BrowserMenu.h" line="651"/>
+        <location filename="BrowserMenu.h" line="652"/>
         <source>Fit image to window, large only</source>
         <translation>Afbeelding passen in het venster, alleen groot</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="23"/>
         <location filename="DlgSettingsView.cpp" line="274"/>
-        <location filename="BrowserMenu.h" line="653"/>
+        <location filename="BrowserMenu.h" line="654"/>
         <source>Fit image to window width</source>
         <translation>Afbeelding passen in vensterbreedte</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="24"/>
         <location filename="DlgSettingsView.cpp" line="275"/>
-        <location filename="BrowserMenu.h" line="654"/>
+        <location filename="BrowserMenu.h" line="655"/>
         <source>Fit image to window height</source>
         <translation>Afbeelding passen in vensterhoogte</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="25"/>
         <location filename="DlgSettingsView.cpp" line="276"/>
-        <location filename="BrowserMenu.h" line="655"/>
+        <location filename="BrowserMenu.h" line="656"/>
         <source>Fit image to window width or height</source>
         <translation>Afbeelding passen in breedte of hoogte</translation>
     </message>
@@ -20378,129 +20379,129 @@ Doorgaan?</translation>
         <translation>Bestanden bijwerken aan de hand van Catalogus</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="579"/>
+        <location filename="BrowserMenu.h" line="580"/>
         <source>Rotate based on EXIF orientation field</source>
         <translation>Draaien op basis van EXIF-oriëntatie</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="580"/>
+        <location filename="BrowserMenu.h" line="581"/>
         <source>Reset EXIF orientation field</source>
         <translation>EXIF-oriëntatie herstellen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="601"/>
+        <location filename="BrowserMenu.h" line="602"/>
         <source>Edit IPTC...</source>
         <translation>IPTC bewerken…</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="602"/>
+        <location filename="BrowserMenu.h" line="603"/>
         <source>Edit XMP...</source>
         <translation>XMP bewerken…</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="617"/>
+        <location filename="BrowserMenu.h" line="618"/>
         <source>File listing...</source>
         <translation>Bestandenlijst…</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="619"/>
+        <location filename="BrowserMenu.h" line="620"/>
         <source>Send by email...</source>
         <translation>Per e-mail versturen…</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="628"/>
+        <location filename="BrowserMenu.h" line="629"/>
         <source>Join images...</source>
         <translation>Afbeeldingen samenvoegen…</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="629"/>
+        <location filename="BrowserMenu.h" line="630"/>
         <source>Contact sheet...</source>
         <translation>Contactafdrukkenblad…</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="630"/>
+        <location filename="BrowserMenu.h" line="631"/>
         <source>Slideshow...</source>
         <translation>Diavoorstelling…</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="631"/>
+        <location filename="BrowserMenu.h" line="632"/>
         <source>Split image(s)...</source>
         <oldsource>Split...</oldsource>
         <translation>Afbeeldingen splitsen…</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="632"/>
+        <location filename="BrowserMenu.h" line="633"/>
         <source>Banner...</source>
         <translation>Banier…</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="633"/>
+        <location filename="BrowserMenu.h" line="634"/>
         <source>New image...</source>
         <translation>Nieuwe afbeelding…</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="648"/>
+        <location filename="BrowserMenu.h" line="649"/>
         <source>Draw as tiled</source>
         <translation>Als tegels tekenen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="665"/>
+        <location filename="BrowserMenu.h" line="666"/>
         <source>Clear &amp;&amp; Import...</source>
         <translation>Wissen &amp;&amp; importeren…</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="666"/>
+        <location filename="BrowserMenu.h" line="667"/>
         <source>Catalog</source>
         <translation>Catalogus</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="669"/>
+        <location filename="BrowserMenu.h" line="670"/>
         <source>Category Search</source>
         <translation>Categorie zoeken</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="674"/>
+        <location filename="BrowserMenu.h" line="675"/>
         <source>Edit face tag...</source>
         <translation>Gezichtslabel bewerken…</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="677"/>
+        <location filename="BrowserMenu.h" line="678"/>
         <source>Capture...</source>
         <translation>Opname…</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="679"/>
+        <location filename="BrowserMenu.h" line="680"/>
         <source>Empty tab</source>
         <oldsource>Empty tab...</oldsource>
         <translation>Lege tab</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="681"/>
+        <location filename="BrowserMenu.h" line="682"/>
         <source>Select TWAIN source...</source>
         <translation>Selecteer TWAIN-bron…</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="823"/>
+        <location filename="BrowserMenu.h" line="824"/>
         <source>&amp;File</source>
         <translation>&amp;Bestand</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="824"/>
+        <location filename="BrowserMenu.h" line="825"/>
         <source>&amp;Edit</source>
         <translation>B&amp;ewerken</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="825"/>
+        <location filename="BrowserMenu.h" line="826"/>
         <source>&amp;View</source>
         <translation>Beel&amp;d</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="826"/>
+        <location filename="BrowserMenu.h" line="827"/>
         <source>Meta&amp;data</source>
         <translation>Meta&amp;gegevens</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="827"/>
+        <location filename="BrowserMenu.h" line="828"/>
         <source>&amp;Tools</source>
         <translation>&amp;Hulpmiddelen</translation>
     </message>
@@ -20525,7 +20526,7 @@ Doorgaan?</translation>
         <translation>Informatie</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="568"/>
+        <location filename="BrowserMenu.h" line="569"/>
         <source>Panels</source>
         <translation>Panelen</translation>
     </message>
@@ -20535,17 +20536,17 @@ Doorgaan?</translation>
         <translation>Afbeelding</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="683"/>
+        <location filename="BrowserMenu.h" line="684"/>
         <source>Acquire into (TWAIN)...</source>
         <translation>Verkrijgen in (TWAIN)…</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="828"/>
+        <location filename="BrowserMenu.h" line="829"/>
         <source>C&amp;reate</source>
         <translation>&amp;Aanmaken</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="829"/>
+        <location filename="BrowserMenu.h" line="830"/>
         <source>&amp;Help</source>
         <translation>&amp;Hulp</translation>
     </message>
@@ -20615,8 +20616,8 @@ Doorgaan?</translation>
     <message>
         <location filename="BrowserMenu.h" line="305"/>
         <location filename="BrowserMenu.h" line="315"/>
-        <location filename="BrowserMenu.h" line="563"/>
-        <location filename="BrowserMenu.h" line="659"/>
+        <location filename="BrowserMenu.h" line="564"/>
+        <location filename="BrowserMenu.h" line="660"/>
         <source>Preview</source>
         <translation>Voorbeeld</translation>
     </message>
@@ -20647,19 +20648,19 @@ Doorgaan?</translation>
         <translation>Openen…</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4474"/>
+        <location filename="BrowserWindow.cpp" line="4482"/>
         <location filename="BrowserMenu.h" line="428"/>
         <source>Cut</source>
         <translation>Knippen</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4476"/>
+        <location filename="BrowserWindow.cpp" line="4484"/>
         <location filename="BrowserMenu.h" line="430"/>
         <source>Copy</source>
         <translation>Kopiëren</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4478"/>
+        <location filename="BrowserWindow.cpp" line="4486"/>
         <location filename="BrowserMenu.h" line="435"/>
         <source>Paste</source>
         <translation>Plakken</translation>
@@ -20696,19 +20697,19 @@ Doorgaan?</translation>
         <translation>Gemarkeerde bestanden selecteren</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4486"/>
+        <location filename="BrowserWindow.cpp" line="4494"/>
         <location filename="BrowserMenu.h" line="445"/>
         <source>Copy to...</source>
         <translation>Kopiëren naar…</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4488"/>
+        <location filename="BrowserWindow.cpp" line="4496"/>
         <location filename="BrowserMenu.h" line="446"/>
         <source>Move to...</source>
         <translation>Verplaatsen naar…</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4481"/>
+        <location filename="BrowserWindow.cpp" line="4489"/>
         <location filename="BrowserMenu.h" line="447"/>
         <source>Delete</source>
         <translation>Verwijderen</translation>
@@ -20810,7 +20811,7 @@ Doorgaan?</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="508"/>
-        <location filename="BrowserMenu.h" line="660"/>
+        <location filename="BrowserMenu.h" line="661"/>
         <source>Layout</source>
         <translation>Indeling</translation>
     </message>
@@ -20952,284 +20953,289 @@ Doorgaan?</translation>
         <translation>Stoppen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="549"/>
+        <location filename="BrowserMenu.h" line="548"/>
+        <source>Play/Stop audio companion</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="BrowserMenu.h" line="550"/>
         <source>Open</source>
         <translation>Open</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="550"/>
+        <location filename="BrowserMenu.h" line="551"/>
         <source>Open containing folder</source>
         <translation>Open map</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="552"/>
+        <location filename="BrowserMenu.h" line="553"/>
         <source>Open all selected</source>
         <oldsource>Open in Finder</oldsource>
         <translation>Selectie openen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="554"/>
+        <location filename="BrowserMenu.h" line="555"/>
         <source>Fullscreen</source>
         <translation>Volledig scherm</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="555"/>
+        <location filename="BrowserMenu.h" line="556"/>
         <source>Show</source>
         <translation>Weergeven</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="556"/>
+        <location filename="BrowserMenu.h" line="557"/>
         <source>Use tabs</source>
         <translation>Tabbladen gebruiken</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="557"/>
+        <location filename="BrowserMenu.h" line="558"/>
         <source>Preview as tab</source>
         <translation>Voorbeeld als tabblad</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="560"/>
+        <location filename="BrowserMenu.h" line="561"/>
         <source>Show source panels</source>
         <translation>Bronpaneel weergeven</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="562"/>
+        <location filename="BrowserMenu.h" line="563"/>
         <source>Vertical tabs</source>
         <translation>Verticale tabs</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="565"/>
+        <location filename="BrowserMenu.h" line="566"/>
         <source>Add to favorites...</source>
         <translation>Aan favorieten toevoegen…</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="567"/>
+        <location filename="BrowserMenu.h" line="568"/>
         <source>Thumbnails view only</source>
         <translation>Alleen als miniaturen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="583"/>
+        <location filename="BrowserMenu.h" line="584"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
         <translation>Verliesloze transformaties (JPEG)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="585"/>
+        <location filename="BrowserMenu.h" line="586"/>
         <source>Load...</source>
         <translation>Laden…</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="586"/>
+        <location filename="BrowserMenu.h" line="587"/>
         <source>Save...</source>
         <translation>Opslaan…</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="587"/>
+        <location filename="BrowserMenu.h" line="588"/>
         <source>Unload all</source>
         <translation>Alles ontladen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="589"/>
+        <location filename="BrowserMenu.h" line="590"/>
         <source>Session</source>
         <translation>Sessie</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="590"/>
+        <location filename="BrowserMenu.h" line="591"/>
         <source>Batch rename...</source>
         <translation>Reeks hernoemen…</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="591"/>
+        <location filename="BrowserMenu.h" line="592"/>
         <source>Compare...</source>
         <translation>Vergelijken…</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="597"/>
+        <location filename="BrowserMenu.h" line="598"/>
         <source>Search...</source>
         <translation>Zoeken…</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="598"/>
+        <location filename="BrowserMenu.h" line="599"/>
         <source>Find similar files...</source>
         <translation>Vergelijkbare bestanden zoeken…</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="599"/>
+        <location filename="BrowserMenu.h" line="600"/>
         <source>Edit comment...</source>
         <oldsource>Set comment...</oldsource>
         <translation>Commentaar bewerken…</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="600"/>
+        <location filename="BrowserMenu.h" line="601"/>
         <source>Change timestamp...</source>
         <translation>Tijdstempel wijzigen…</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="603"/>
+        <location filename="BrowserMenu.h" line="604"/>
         <source>Edit GPS...</source>
         <translation>GPS bewerken…</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="604"/>
+        <location filename="BrowserMenu.h" line="605"/>
         <source>Edit EXIF...</source>
         <translation>EXIF bewerken…</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="605"/>
-        <location filename="BrowserMenu.h" line="664"/>
+        <location filename="BrowserMenu.h" line="606"/>
+        <location filename="BrowserMenu.h" line="665"/>
         <source>Export...</source>
         <translation>Exporteren…</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="606"/>
+        <location filename="BrowserMenu.h" line="607"/>
         <source>Clean...</source>
         <translation>Opschonen…</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="609"/>
+        <location filename="BrowserMenu.h" line="610"/>
         <source>EXIF thumbnail - Rebuild</source>
         <translation>EXIF-miniatuur - opnieuw aanmaken</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="610"/>
+        <location filename="BrowserMenu.h" line="611"/>
         <source>Add/Replace metadata...</source>
         <translation>Metagegevens Toevoegen/Vervangen…</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="611"/>
+        <location filename="BrowserMenu.h" line="612"/>
         <source>Metadata</source>
         <translation>Metagegevens</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="613"/>
+        <location filename="BrowserMenu.h" line="614"/>
         <source>Convert into</source>
         <translation>Omzetten naar</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="614"/>
+        <location filename="BrowserMenu.h" line="615"/>
         <source>Batch convert...</source>
         <translation>Reeks converteren…</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="615"/>
+        <location filename="BrowserMenu.h" line="616"/>
         <source>Send by FTP...</source>
         <translation>Verzenden via FTP…</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="616"/>
+        <location filename="BrowserMenu.h" line="617"/>
         <source>Upload on web...</source>
         <translation>Naar web uploaden…</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="618"/>
+        <location filename="BrowserMenu.h" line="619"/>
         <source>Archive...</source>
         <translation>Archiveren…</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="620"/>
+        <location filename="BrowserMenu.h" line="621"/>
         <source>Set as wallpaper...</source>
         <translation>Als achtergrond instellen…</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="621"/>
+        <location filename="BrowserMenu.h" line="622"/>
         <source>Print...</source>
         <translation>Afdrukken…</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="623"/>
+        <location filename="BrowserMenu.h" line="624"/>
         <source>Properties...</source>
         <translation>Eigenschappen…</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="637"/>
+        <location filename="BrowserMenu.h" line="638"/>
         <source>Real size</source>
         <translation>Ware grootte</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="638"/>
+        <location filename="BrowserMenu.h" line="639"/>
         <source>100%</source>
         <translation>100%</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="639"/>
+        <location filename="BrowserMenu.h" line="640"/>
         <source>Zoom in</source>
         <translation>Inzoomen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="640"/>
+        <location filename="BrowserMenu.h" line="641"/>
         <source>Zoom out</source>
         <translation>Uitzoomen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="641"/>
+        <location filename="BrowserMenu.h" line="642"/>
         <source>Lock zoom</source>
         <translation>Zoom vergrendelen</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="642"/>
+        <location filename="BrowserMenu.h" line="643"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
         <translation>Transparantie-index gebruiken (≤ 8bits)</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="643"/>
+        <location filename="BrowserMenu.h" line="644"/>
         <source>Use alpha channel</source>
         <translation>Alfa-kanaal gebruiken</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="644"/>
+        <location filename="BrowserMenu.h" line="645"/>
         <source>Show alpha</source>
         <translation>Alfa weergeven</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="645"/>
+        <location filename="BrowserMenu.h" line="646"/>
         <source>Show red</source>
         <translation>Rood weergeven</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="646"/>
+        <location filename="BrowserMenu.h" line="647"/>
         <source>Show green</source>
         <translation>Groen weergeven</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="647"/>
+        <location filename="BrowserMenu.h" line="648"/>
         <source>Show blue</source>
         <translation>Blauw weergeven</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="21"/>
         <location filename="DlgSettingsView.cpp" line="272"/>
-        <location filename="BrowserMenu.h" line="652"/>
+        <location filename="BrowserMenu.h" line="653"/>
         <source>Fit image to window, small only</source>
         <translation>Afbeelding passen in venster, alleen klein</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="658"/>
+        <location filename="BrowserMenu.h" line="659"/>
         <source>Zoom</source>
         <translation>Zoom</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="661"/>
+        <location filename="BrowserMenu.h" line="662"/>
         <source>Copy to clipboard</source>
         <translation>Kopiëren naar klembord</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="662"/>
+        <location filename="BrowserMenu.h" line="663"/>
         <source>File operations</source>
         <translation>Bestandsoperaties</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="668"/>
+        <location filename="BrowserMenu.h" line="669"/>
         <source>Quick Filter</source>
         <translation>Snelfilter</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4471"/>
+        <location filename="BrowserWindow.cpp" line="4479"/>
         <source>New Folder</source>
         <translation>Nieuwe map</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4483"/>
+        <location filename="BrowserWindow.cpp" line="4491"/>
         <source>Rename</source>
         <translation>Hernoemen</translation>
     </message>
@@ -21242,95 +21248,95 @@ Doorgaan?</translation>
 <context>
     <name>MenuGlobal</name>
     <message>
-        <location filename="xnview.cpp" line="1338"/>
+        <location filename="xnview.cpp" line="1346"/>
         <source>Quit</source>
         <translation>Afsluiten</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1341"/>
+        <location filename="xnview.cpp" line="1349"/>
         <source>Website...</source>
         <oldsource>Visit XnView&apos;s Website...</oldsource>
         <translation>Website…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1346"/>
+        <location filename="xnview.cpp" line="1354"/>
         <source>Make a donation...</source>
         <translation>Maak een donatie…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1339"/>
+        <location filename="xnview.cpp" line="1347"/>
         <source>About</source>
         <translation>Over</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1340"/>
+        <location filename="xnview.cpp" line="1348"/>
         <source>PlugIns...</source>
         <translation>Plug-ins…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1342"/>
+        <location filename="xnview.cpp" line="1350"/>
         <source>Forum...</source>
         <translation>Forum…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1343"/>
+        <location filename="xnview.cpp" line="1351"/>
         <source>Technical Support...</source>
         <translation>Technische ondersteuning…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1344"/>
+        <location filename="xnview.cpp" line="1352"/>
         <source>Report a Bug...</source>
         <oldsource>Report a Bug......</oldsource>
         <translation>Meld een fout…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1345"/>
+        <location filename="xnview.cpp" line="1353"/>
         <source>Wiki...</source>
         <translation>Wiki…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1347"/>
+        <location filename="xnview.cpp" line="1355"/>
         <source>Check for update...</source>
         <translation>Controleren op nieuwe versie…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1348"/>
+        <location filename="xnview.cpp" line="1356"/>
         <source>Registration...</source>
         <translation>Registratie…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1349"/>
+        <location filename="xnview.cpp" line="1357"/>
         <source>Purchase...</source>
         <translation>Aanschaffen…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1359"/>
-        <location filename="xnview.cpp" line="1361"/>
+        <location filename="xnview.cpp" line="1367"/>
+        <location filename="xnview.cpp" line="1369"/>
         <source>Settings...</source>
         <translation>Instellingen…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1365"/>
+        <location filename="xnview.cpp" line="1373"/>
         <source>Always on top</source>
         <translation>Altijd bovenop</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1367"/>
+        <location filename="xnview.cpp" line="1375"/>
         <source>Titlebar</source>
         <translation>Titelbalk</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1368"/>
+        <location filename="xnview.cpp" line="1376"/>
         <source>Show</source>
         <translation>Weergeven</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1369"/>
+        <location filename="xnview.cpp" line="1377"/>
         <source>Bottom</source>
         <translation>Onder</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1370"/>
+        <location filename="xnview.cpp" line="1378"/>
         <source>Tab</source>
         <translation>Tabblad</translation>
     </message>
@@ -22184,85 +22190,85 @@ Doorgaan?</translation>
         <translation>Alfakanaal verwijderen</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="509"/>
+        <location filename="ViewMenu.h" line="510"/>
         <source>Mirror</source>
         <translation>Spiegelen</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="510"/>
+        <location filename="ViewMenu.h" line="511"/>
         <source>Count colors used</source>
         <translation>Gebruikte kleuren tellen</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="511"/>
+        <location filename="ViewMenu.h" line="512"/>
         <source>Swap color</source>
         <oldsource>Swap</oldsource>
         <translation>Kleuren wisselen</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="512"/>
+        <location filename="ViewMenu.h" line="513"/>
         <source>Extract channel</source>
         <translation>Kanaal extraheren</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="513"/>
+        <location filename="ViewMenu.h" line="514"/>
         <source>Copy to clipboard</source>
         <translation>Kopiëren naar klembord</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="514"/>
+        <location filename="ViewMenu.h" line="515"/>
         <source>Paste outside</source>
         <oldsource>Paste special</oldsource>
         <translation>Voeg buiten toe</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="516"/>
+        <location filename="ViewMenu.h" line="517"/>
         <source>Adobe Photoshop Plugin...</source>
         <translation>Adobe Photoshop plug-in…</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="519"/>
+        <location filename="ViewMenu.h" line="520"/>
         <source>Edit IPTC...</source>
         <translation>IPTC bewerken…</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="520"/>
+        <location filename="ViewMenu.h" line="521"/>
         <source>Edit XMP...</source>
         <translation>XMP bewerken…</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="522"/>
+        <location filename="ViewMenu.h" line="523"/>
         <source>Clean metadata...</source>
         <translation>Metagegevens opschonen…</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="526"/>
+        <location filename="ViewMenu.h" line="527"/>
         <source>Send by email...</source>
         <translation>Per e-mail versturen…</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="539"/>
+        <location filename="ViewMenu.h" line="540"/>
         <source>Paste as image</source>
         <translation>Plakken als afbeelding</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="543"/>
+        <location filename="ViewMenu.h" line="544"/>
         <source>Acquire (TWAIN)</source>
         <translation>Verkrijgen (TWAIN)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="544"/>
+        <location filename="ViewMenu.h" line="545"/>
         <source>Acquire into (TWAIN)...</source>
         <oldsource>Acquire into (TWAIN)......</oldsource>
         <translation>Verkrijgen in (TWAIN)…</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="547"/>
+        <location filename="ViewMenu.h" line="548"/>
         <source>Save All</source>
         <translation>Bewaar Alles</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="521"/>
+        <location filename="ViewMenu.h" line="522"/>
         <source>Edit palette...</source>
         <oldsource>Edit colormap...</oldsource>
         <translation>Palet bewerken…</translation>
@@ -22288,38 +22294,38 @@ Doorgaan?</translation>
         <translation>Verticaal spiegelen</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="531"/>
+        <location filename="ViewMenu.h" line="532"/>
         <source>Rotate based on EXIF orientation field</source>
         <translation>Draaien op basis van EXIF-oriëntatie</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="532"/>
+        <location filename="ViewMenu.h" line="533"/>
         <source>Reset EXIF orientation field</source>
         <translation>EXIF-oriëntatie herstellen</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="536"/>
+        <location filename="ViewMenu.h" line="537"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
         <translation>Verliesloze transformaties (JPEG)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="538"/>
+        <location filename="ViewMenu.h" line="539"/>
         <source>Capture...</source>
         <translation>Opname…</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="540"/>
+        <location filename="ViewMenu.h" line="541"/>
         <source>Empty tab...</source>
         <translation>Lege tab…</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="542"/>
+        <location filename="ViewMenu.h" line="543"/>
         <source>Select TWAIN source...</source>
         <translation>TWAIN-bron selecteren…</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="546"/>
+        <location filename="ViewMenu.h" line="547"/>
         <source>New image...</source>
         <translation>Nieuwe afbeelding…</translation>
     </message>
@@ -22450,117 +22456,122 @@ Doorgaan?</translation>
         <translation>Draaien…</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="504"/>
+        <location filename="ViewMenu.h" line="503"/>
+        <source>Play/Stop audio companion</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ViewMenu.h" line="505"/>
         <source>Resize...</source>
         <oldsource>Resize new...</oldsource>
         <translation>Grootte aanpassen…</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="505"/>
+        <location filename="ViewMenu.h" line="506"/>
         <source>Canvas resize...</source>
         <translation>Doekgrootte aanpassen…</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="506"/>
+        <location filename="ViewMenu.h" line="507"/>
         <source>Map</source>
         <translation>Aanpassen</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="507"/>
+        <location filename="ViewMenu.h" line="508"/>
         <source>Adjust</source>
         <translation>Aanpassen</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="508"/>
+        <location filename="ViewMenu.h" line="509"/>
         <source>Rotate</source>
         <translation>Draaien</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="523"/>
+        <location filename="ViewMenu.h" line="524"/>
         <source>Join images...</source>
         <translation>Afbeeldingen samenvoegen…</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="524"/>
+        <location filename="ViewMenu.h" line="525"/>
         <source>Contact sheet...</source>
         <translation>Contactafdrukkenblad…</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="525"/>
+        <location filename="ViewMenu.h" line="526"/>
         <source>Slideshow...</source>
         <translation>Diavoorstelling…</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="528"/>
+        <location filename="ViewMenu.h" line="529"/>
         <source>Rotate 90° right (lossless)</source>
         <translation>90° rechtsom draaien (verliesloos)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="529"/>
+        <location filename="ViewMenu.h" line="530"/>
         <source>Rotate 90° left (lossless)</source>
         <translation>90° linksom draaien (verliesloos)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="530"/>
+        <location filename="ViewMenu.h" line="531"/>
         <source>Rotate 180° (lossless)</source>
         <translation>180° draaien (verliesloos)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="533"/>
+        <location filename="ViewMenu.h" line="534"/>
         <source>Flip horizontally (lossless)</source>
         <translation>Horizontaal spiegelen (verliesloos)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="534"/>
+        <location filename="ViewMenu.h" line="535"/>
         <source>Flip vertically (lossless)</source>
         <translation>Verticaal spiegelen (verliesloos)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="535"/>
+        <location filename="ViewMenu.h" line="536"/>
         <source>Crop (lossless)</source>
         <translation>Bijsnijden (verliesloos)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="741"/>
+        <location filename="ViewMenu.h" line="743"/>
         <source>&amp;File</source>
         <translation>&amp;Bestand</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="742"/>
+        <location filename="ViewMenu.h" line="744"/>
         <source>&amp;Edit</source>
         <oldsource>Edit</oldsource>
         <translation>B&amp;ewerken</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="743"/>
+        <location filename="ViewMenu.h" line="745"/>
         <source>&amp;View</source>
         <oldsource>View</oldsource>
         <translation>Weerga&amp;ve</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="744"/>
+        <location filename="ViewMenu.h" line="746"/>
         <source>&amp;Image</source>
         <oldsource>Image</oldsource>
         <translation>&amp;Afbeelding</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="745"/>
+        <location filename="ViewMenu.h" line="747"/>
         <source>Meta&amp;data</source>
         <oldsource>Metadata</oldsource>
         <translation>Meta&amp;gegevens</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="746"/>
+        <location filename="ViewMenu.h" line="748"/>
         <source>Effect</source>
         <translation>Effect</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="747"/>
+        <location filename="ViewMenu.h" line="749"/>
         <source>&amp;Tools</source>
         <translation>&amp;Hulpmiddelen</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="748"/>
+        <location filename="ViewMenu.h" line="750"/>
         <source>&amp;Help</source>
         <oldsource>Help</oldsource>
         <translation>&amp;Hulp</translation>
@@ -23067,23 +23078,23 @@ Dit is te wijzigen in Instellingen › Catalogus.</translation>
 <context>
     <name>MyView</name>
     <message>
-        <location filename="MyView.cpp" line="424"/>
+        <location filename="MyView.cpp" line="459"/>
         <source>RGB/A</source>
         <translation>RGB/A</translation>
     </message>
     <message>
-        <location filename="MyView.cpp" line="427"/>
+        <location filename="MyView.cpp" line="462"/>
         <source>RGB</source>
         <translation>RGB</translation>
     </message>
     <message>
-        <location filename="MyView.cpp" line="957"/>
+        <location filename="MyView.cpp" line="992"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <oldsource>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system. </oldsource>
         <translation>Om PDF/PS/EPS/AI-bestanden te bekijken of te converteren, dient Ghostscript %1 op uw systeem te zijn geïnstalleerd.</translation>
     </message>
     <message>
-        <location filename="MyView.cpp" line="958"/>
+        <location filename="MyView.cpp" line="993"/>
         <source>Please visit the XnView %1 for more information.</source>
         <translation>Bezoek de XnView %1 voor meer informatie.</translation>
     </message>
@@ -24128,7 +24139,7 @@ Dit is te wijzigen in Instellingen › Catalogus.</translation>
 <context>
     <name>Rename</name>
     <message>
-        <location filename="ItemModel.cpp" line="4693"/>
+        <location filename="ItemModel.cpp" line="4699"/>
         <source>An error has occurred during renaming!</source>
         <oldsource>An error occured during renaming!</oldsource>
         <translation>Er is een fout opgetreden bij het hernoemen!</translation>
@@ -24137,136 +24148,136 @@ Dit is te wijzigen in Instellingen › Catalogus.</translation>
 <context>
     <name>SearchDlg</name>
     <message>
-        <location filename="SearchField.cpp" line="510"/>
-        <location filename="SearchField.cpp" line="745"/>
+        <location filename="SearchField.cpp" line="511"/>
+        <location filename="SearchField.cpp" line="746"/>
         <source>is</source>
         <translation>is</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="511"/>
+        <location filename="SearchField.cpp" line="512"/>
         <source>is not</source>
         <translation>is niet</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="512"/>
-        <location filename="SearchField.cpp" line="643"/>
+        <location filename="SearchField.cpp" line="513"/>
+        <location filename="SearchField.cpp" line="644"/>
         <source>is any of</source>
         <translation>is een van</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="513"/>
-        <location filename="SearchField.cpp" line="644"/>
-        <location filename="SearchField.cpp" line="743"/>
+        <location filename="SearchField.cpp" line="514"/>
+        <location filename="SearchField.cpp" line="645"/>
+        <location filename="SearchField.cpp" line="744"/>
         <source>contains</source>
         <translation>bevat</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="514"/>
-        <location filename="SearchField.cpp" line="744"/>
+        <location filename="SearchField.cpp" line="515"/>
+        <location filename="SearchField.cpp" line="745"/>
         <source>does not contain</source>
         <oldsource>does not contains</oldsource>
         <translation>bevat niet</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="515"/>
+        <location filename="SearchField.cpp" line="516"/>
         <source>starts with</source>
         <translation>start met</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="889"/>
+        <location filename="SearchField.cpp" line="890"/>
         <source>and</source>
         <translation>en</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="985"/>
+        <location filename="SearchField.cpp" line="986"/>
         <source>is before</source>
         <translation>staat voor</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="986"/>
+        <location filename="SearchField.cpp" line="987"/>
         <source>is after</source>
         <translation>staat achter</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="987"/>
+        <location filename="SearchField.cpp" line="988"/>
         <source>is between</source>
         <translation>staat tussen</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="988"/>
+        <location filename="SearchField.cpp" line="989"/>
         <source>is between (today)</source>
         <translation>is bij (vandaag)</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="989"/>
+        <location filename="SearchField.cpp" line="990"/>
         <source>is within the last</source>
         <translation>is bij de laatste</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1078"/>
-        <location filename="SearchField.cpp" line="1207"/>
-        <location filename="SearchField.cpp" line="1266"/>
-        <location filename="SearchField.cpp" line="1335"/>
+        <location filename="SearchField.cpp" line="1079"/>
+        <location filename="SearchField.cpp" line="1214"/>
+        <location filename="SearchField.cpp" line="1273"/>
+        <location filename="SearchField.cpp" line="1342"/>
         <source>is less than</source>
         <translation>is kleiner dan</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1079"/>
-        <location filename="SearchField.cpp" line="1208"/>
-        <location filename="SearchField.cpp" line="1267"/>
-        <location filename="SearchField.cpp" line="1336"/>
+        <location filename="SearchField.cpp" line="1080"/>
+        <location filename="SearchField.cpp" line="1215"/>
+        <location filename="SearchField.cpp" line="1274"/>
+        <location filename="SearchField.cpp" line="1343"/>
         <source>is less than or equal to</source>
         <translation>is kleiner dan of gelijk aan</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1080"/>
-        <location filename="SearchField.cpp" line="1209"/>
-        <location filename="SearchField.cpp" line="1268"/>
-        <location filename="SearchField.cpp" line="1337"/>
+        <location filename="SearchField.cpp" line="1081"/>
+        <location filename="SearchField.cpp" line="1216"/>
+        <location filename="SearchField.cpp" line="1275"/>
+        <location filename="SearchField.cpp" line="1344"/>
         <source>equal to</source>
         <translation>is gelijk aan</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1081"/>
-        <location filename="SearchField.cpp" line="1210"/>
-        <location filename="SearchField.cpp" line="1269"/>
-        <location filename="SearchField.cpp" line="1338"/>
+        <location filename="SearchField.cpp" line="1082"/>
+        <location filename="SearchField.cpp" line="1217"/>
+        <location filename="SearchField.cpp" line="1276"/>
+        <location filename="SearchField.cpp" line="1345"/>
         <source>is greater than</source>
         <translation>is groter dan</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1082"/>
-        <location filename="SearchField.cpp" line="1211"/>
-        <location filename="SearchField.cpp" line="1270"/>
-        <location filename="SearchField.cpp" line="1339"/>
+        <location filename="SearchField.cpp" line="1083"/>
+        <location filename="SearchField.cpp" line="1218"/>
+        <location filename="SearchField.cpp" line="1277"/>
+        <location filename="SearchField.cpp" line="1346"/>
         <source>is greater than or equal to</source>
         <translation>is groter dan of gelijk aan</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1083"/>
-        <location filename="SearchField.cpp" line="1212"/>
-        <location filename="SearchField.cpp" line="1271"/>
-        <location filename="SearchField.cpp" line="1340"/>
+        <location filename="SearchField.cpp" line="1084"/>
+        <location filename="SearchField.cpp" line="1219"/>
+        <location filename="SearchField.cpp" line="1278"/>
+        <location filename="SearchField.cpp" line="1347"/>
         <source>between</source>
         <translation>tussen</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1137"/>
+        <location filename="SearchField.cpp" line="1144"/>
         <source>bytes</source>
         <translation>bytes</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1138"/>
+        <location filename="SearchField.cpp" line="1145"/>
         <source>KiB</source>
         <translation>kiB</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1139"/>
+        <location filename="SearchField.cpp" line="1146"/>
         <source>MiB</source>
         <translation>MiB</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="1140"/>
+        <location filename="SearchField.cpp" line="1147"/>
         <source>GiB</source>
         <translation>GiB</translation>
     </message>
@@ -24274,12 +24285,12 @@ Dit is te wijzigen in Instellingen › Catalogus.</translation>
 <context>
     <name>SearchFieldRangeDate</name>
     <message>
-        <location filename="SearchField.cpp" line="981"/>
+        <location filename="SearchField.cpp" line="982"/>
         <source>day(s)</source>
         <translation>Dag(en)</translation>
     </message>
     <message>
-        <location filename="SearchField.cpp" line="982"/>
+        <location filename="SearchField.cpp" line="983"/>
         <source>TODAY</source>
         <translation>VANDAAG</translation>
     </message>
@@ -24681,7 +24692,8 @@ Dit is te wijzigen in Instellingen › Catalogus.</translation>
     <name>xnview</name>
     <message>
         <location filename="xnview.cpp" line="403"/>
-        <location filename="xnview.cpp" line="423"/>
+        <location filename="xnview.cpp" line="418"/>
+        <location filename="xnview.cpp" line="431"/>
         <source>Creating backup, please wait...</source>
         <oldsource>Creating backup, please wait... </oldsource>
         <translation>Back-up aanmaken, even geduld…</translation>
@@ -24716,48 +24728,48 @@ Wilt u de miniaturen behouden?
         <translation>Catalogus bijwerken, even geduld…</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="476"/>
+        <location filename="xnview.cpp" line="484"/>
         <source>Catalog problem</source>
         <translation>Catalogusprobleem</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="476"/>
+        <location filename="xnview.cpp" line="484"/>
         <source>There is a problem to open catalog, check your settings or folder used!</source>
         <translation>Er is een probleem bij het openen van de catalogus, controleer uw instellingen of gebruikte map!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="485"/>
+        <location filename="xnview.cpp" line="493"/>
         <source>Catalog update</source>
         <translation>Catalogus bijwerken</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="485"/>
+        <location filename="xnview.cpp" line="493"/>
         <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
         <translation>Je moet de catalogus bijwerken (Instellingen&gt;Catalogus&gt;Metadatas bijwerken) als je een nieuw knooppunt in &apos;Catalogusfilter&apos; wilt gebruiken. </translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="880"/>
+        <location filename="xnview.cpp" line="888"/>
         <source>Application is up to date.</source>
         <oldsource>XnView MP is currently up to date.</oldsource>
         <translation>De toepassing is bijgewerkt.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1614"/>
+        <location filename="xnview.cpp" line="1622"/>
         <source>Do you want to save session?</source>
         <translation>Wil je de sessie opslaan?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="2612"/>
+        <location filename="xnview.cpp" line="2620"/>
         <source>Tabs</source>
         <translation>Tabbladen</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="2612"/>
+        <location filename="xnview.cpp" line="2620"/>
         <source>The tab bar is hidden, but tabs will still open. Set a tab limit in Settings&gt;Interface&gt;Tabs</source>
         <translation>De tabbalk is verborgen, maar de tabbladen worden nog steeds geopend. Stel een tablimiet in Instellingen&gt;Interface&gt;Tabs</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="3090"/>
+        <location filename="xnview.cpp" line="3098"/>
         <source>Catalog is disabled
 Metadata (check, ratings/colour labels and other file details)
 will not be saved to the database.</source>
@@ -24766,7 +24778,7 @@ Metagegevens (check, beoordelingen/kleurlabels en andere bestandsdetails)
 worden niet opgeslagen in de database.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="951"/>
+        <location filename="xnview.cpp" line="959"/>
         <source>Your previous session contains many loaded images, this can cause a slowdown!</source>
         <translation>De vorige sessie omvat veel geladen afbeeldingen, dit kan een vertraging veroorzaken!</translation>
     </message>
@@ -24780,41 +24792,41 @@ Please contact the developer.</source>
 Meld dit a.u.b. bij de ontwikkelaar.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="951"/>
-        <location filename="xnview.cpp" line="1420"/>
-        <location filename="xnview.cpp" line="1436"/>
+        <location filename="xnview.cpp" line="959"/>
+        <location filename="xnview.cpp" line="1428"/>
+        <location filename="xnview.cpp" line="1444"/>
         <source>Session</source>
         <translation>Sessie</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1539"/>
+        <location filename="xnview.cpp" line="1547"/>
         <source>Do you want to quit?</source>
         <translation>Wilt u afsluiten?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1615"/>
+        <location filename="xnview.cpp" line="1623"/>
         <source>Saving many tabs may noticeably slow application reopening.</source>
         <oldsource>Saving many tabs may noticeably slow reopening XnView MP</oldsource>
         <translation>Het opslaan van veel tabbladen kan de heropening van applicaties merkbaar vertragen.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1621"/>
+        <location filename="xnview.cpp" line="1629"/>
         <source>Don&apos;t ask again</source>
         <oldsource>Do not ask again</oldsource>
         <translation>Niet meer vragen</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1136"/>
+        <location filename="xnview.cpp" line="1144"/>
         <source>Error</source>
         <translation>Fout</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1136"/>
+        <location filename="xnview.cpp" line="1144"/>
         <source>File not found!</source>
         <translation>Bestand niet gevonden!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1640"/>
+        <location filename="xnview.cpp" line="1648"/>
         <source>Do you want to save this session?</source>
         <translation>Wilt u deze sessie opslaan?</translation>
     </message>

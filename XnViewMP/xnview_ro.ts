@@ -11055,6 +11055,10 @@ Dorești să-l reatribui?</translation>
         <source>Check</source>
         <translation>Bifează</translation>
     </message>
+    <message>
+        <source>Audio</source>
+        <translation type="unfinished">Audio</translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsView</name>
@@ -13262,14 +13266,6 @@ Dorești să ștergi favoritul „%1”?</translation>
         <translation>DPI</translation>
     </message>
     <message>
-        <source>Date</source>
-        <translation>Data</translation>
-    </message>
-    <message>
-        <source>Info</source>
-        <translation>Iinformaţii</translation>
-    </message>
-    <message>
         <source>None</source>
         <translation>Niciunul</translation>
     </message>
@@ -13364,10 +13360,6 @@ Dorești să ștergi favoritul „%1”?</translation>
     <message>
         <source>Manufacturer</source>
         <translation>Producătorul</translation>
-    </message>
-    <message>
-        <source>Lens ID</source>
-        <translation>ID-ul lentilelor (Lens ID)</translation>
     </message>
     <message>
         <source>Aspect ratio</source>
@@ -13684,6 +13676,18 @@ Dorești să ștergi favoritul „%1”?</translation>
     <message>
         <source>Bits</source>
         <translation>Biți</translation>
+    </message>
+    <message>
+        <source>Exposure Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FNumber</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>True ISO</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16256,6 +16260,10 @@ Vrei să continui?</translation>
         <source>Update catalog from files...</source>
         <translation>Actualizează catalogul din fișierele...</translation>
     </message>
+    <message>
+        <source>Play/Stop audio companion</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MenuGlobal</name>
@@ -17308,6 +17316,10 @@ Vrei să continui?</translation>
     <message>
         <source>Check/Uncheck</source>
         <translation>Bifează/Debifează</translation>
+    </message>
+    <message>
+        <source>Play/Stop audio companion</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

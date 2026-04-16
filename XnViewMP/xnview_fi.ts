@@ -11044,6 +11044,10 @@ Haluatko määrittää uudelleen?</translation>
         <source>Check</source>
         <translation>Valitse</translation>
     </message>
+    <message>
+        <source>Audio</source>
+        <translation type="unfinished">Äänitiedosto</translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsView</name>
@@ -13251,14 +13255,6 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
         <translation>DPI</translation>
     </message>
     <message>
-        <source>Date</source>
-        <translation>Päiväys</translation>
-    </message>
-    <message>
-        <source>Info</source>
-        <translation>Tiedot</translation>
-    </message>
-    <message>
         <source>None</source>
         <translation>Ei mitään</translation>
     </message>
@@ -13353,10 +13349,6 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     <message>
         <source>Manufacturer</source>
         <translation>Valmistaja</translation>
-    </message>
-    <message>
-        <source>Lens ID</source>
-        <translation>Linssi-ID</translation>
     </message>
     <message>
         <source>Aspect ratio</source>
@@ -13673,6 +13665,18 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     <message>
         <source>Bits</source>
         <translation>Bitit</translation>
+    </message>
+    <message>
+        <source>Exposure Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FNumber</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>True ISO</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16245,6 +16249,10 @@ Jatketaanko?</translation>
         <source>Update catalog from files...</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Play/Stop audio companion</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MenuGlobal</name>
@@ -17297,6 +17305,10 @@ Jatketaanko?</translation>
     <message>
         <source>Check/Uncheck</source>
         <translation>Valitse/Poista valinta</translation>
+    </message>
+    <message>
+        <source>Play/Stop audio companion</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

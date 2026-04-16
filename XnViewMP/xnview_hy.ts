@@ -11038,6 +11038,10 @@ Do you want to reassign?</source>
         <source>Check</source>
         <translation>Նշել</translation>
     </message>
+    <message>
+        <source>Audio</source>
+        <translation type="unfinished">Ձայնային ֆայլեր</translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsView</name>
@@ -13245,14 +13249,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>DPI</translation>
     </message>
     <message>
-        <source>Date</source>
-        <translation>Ամսաթիվ</translation>
-    </message>
-    <message>
-        <source>Info</source>
-        <translation>Տեղեկություն</translation>
-    </message>
-    <message>
         <source>None</source>
         <translation>Չկա</translation>
     </message>
@@ -13303,10 +13299,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Manufacturer</source>
         <translation>Արտադրող</translation>
-    </message>
-    <message>
-        <source>Lens ID</source>
-        <translation>Լինզայի ID-ին</translation>
     </message>
     <message>
         <source>Progressive mode</source>
@@ -13666,6 +13658,18 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Bits</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exposure Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FNumber</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>True ISO</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16239,6 +16243,10 @@ Do you want to continue?</source>
         <source>Update catalog from files...</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Play/Stop audio companion</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MenuGlobal</name>
@@ -17291,6 +17299,10 @@ Do you want to continue?</source>
     <message>
         <source>Check/Uncheck</source>
         <translation>Նշել/Ապանշել</translation>
+    </message>
+    <message>
+        <source>Play/Stop audio companion</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

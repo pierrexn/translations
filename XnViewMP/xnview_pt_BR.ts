@@ -11041,6 +11041,10 @@ Deseja reatribuir?</translation>
         <source>Check</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Audio</source>
+        <translation type="unfinished">Áudio</translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsView</name>
@@ -13440,18 +13444,6 @@ Deseja excluir o favorito &quot;%1&quot;?</translation>
         <translation>Altura (cm)</translation>
     </message>
     <message>
-        <source>Info</source>
-        <translation>Info</translation>
-    </message>
-    <message>
-        <source>Date</source>
-        <translation>Data</translation>
-    </message>
-    <message>
-        <source>Lens ID</source>
-        <translation>ID da lente</translation>
-    </message>
-    <message>
         <source>Date taken</source>
         <translation>Data da captura</translation>
     </message>
@@ -13673,6 +13665,18 @@ Deseja excluir o favorito &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Bits</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exposure Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FNumber</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>True ISO</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16247,6 +16251,10 @@ Deseja continuar?</translation>
         <source>Update catalog from files...</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Play/Stop audio companion</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MenuGlobal</name>
@@ -17298,6 +17306,10 @@ Deseja continuar?</translation>
     </message>
     <message>
         <source>Check/Uncheck</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play/Stop audio companion</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
