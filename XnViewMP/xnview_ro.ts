@@ -11057,7 +11057,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Audio</source>
-        <translation type="unfinished">Audio</translation>
+        <translation>Audio</translation>
     </message>
 </context>
 <context>
@@ -13679,15 +13679,15 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Exposure Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Timpul de expunere</translation>
     </message>
     <message>
         <source>FNumber</source>
-        <translation type="unfinished"></translation>
+        <translation>Numărul F (Diafragma obiectivului)</translation>
     </message>
     <message>
         <source>True ISO</source>
-        <translation type="unfinished"></translation>
+        <translation>ISO-ul adevărat</translation>
     </message>
 </context>
 <context>
@@ -16262,7 +16262,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Play/Stop audio companion</source>
-        <translation type="unfinished"></translation>
+        <translation>Redă/Oprește sunetul însoțitor</translation>
     </message>
 </context>
 <context>
@@ -17319,7 +17319,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Play/Stop audio companion</source>
-        <translation type="unfinished"></translation>
+        <translation>Redă/Oprește sunetul însoțitor</translation>
     </message>
 </context>
 <context>
