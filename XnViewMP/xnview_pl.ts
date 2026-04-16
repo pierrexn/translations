@@ -2063,7 +2063,7 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="167"/>
         <source>No face</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak twarzy</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="168"/>
@@ -4910,7 +4910,7 @@ Czy na pewno kontynuować?</translation>
     <message>
         <location filename="DlgConvert.ui" line="649"/>
         <source>Multiple resolution...</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiele rozdzielczości...</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1102"/>
@@ -6060,17 +6060,17 @@ Czy na pewno kontynuować?</translation>
         <location filename="DlgConvertMulti.ui" line="14"/>
         <location filename="DlgConvertMulti.cpp" line="18"/>
         <source>Multiple output</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiele wyjść</translation>
     </message>
     <message>
         <location filename="DlgConvertMulti.cpp" line="45"/>
         <source>Width:</source>
-        <translation type="unfinished">Szerokość:</translation>
+        <translation>Szerokość:</translation>
     </message>
     <message>
         <location filename="DlgConvertMulti.cpp" line="51"/>
         <source>Height:</source>
-        <translation type="unfinished">Wysokość:</translation>
+        <translation>Wysokość:</translation>
     </message>
 </context>
 <context>
@@ -12794,7 +12794,7 @@ miniatury</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="112"/>
         <source>Grey</source>
-        <translation type="unfinished">Szary</translation>
+        <translation>Szary</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="117"/>
@@ -13878,22 +13878,22 @@ Czy zmienić przypisanie?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="124"/>
         <source>Update catalog when file is modified outside (file date/size)</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaktualizuj katalog, gdy plik zostanie zmodyfikowany poza programem (data/rozmiar pliku)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="203"/>
         <source>Update keywords when file is modified outside (file date/size)</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizuj słowa kluczowe, gdy plik jest modyfikowany poza programem (data/rozmiar pliku)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="219"/>
         <source>Read Hierarchical keywords</source>
-        <translation type="unfinished"></translation>
+        <translation>Czytaj hierarchiczne słowa kluczowe</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="313"/>
         <source>Write Hierarchical keywords (| as separator)</source>
-        <translation type="unfinished"></translation>
+        <translation>Hierarchiczne słowa kluczowe (| jako separator)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="353"/>
@@ -14220,7 +14220,7 @@ Czy zmienić przypisanie?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="911"/>
         <source>Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Dźwięk</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1082"/>
@@ -14563,7 +14563,7 @@ Czy zmienić przypisanie?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="740"/>
         <source>Auto-play audio companion files</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatyczne odtwarzanie plików towarzyszących dźwiękowych</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="747"/>
@@ -15802,57 +15802,57 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="20"/>
         <source>Update database</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizuj bazę danych</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="28"/>
         <source>Update from</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizacja od</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="35"/>
         <source>Sidecar/Master files</source>
-        <translation type="unfinished"></translation>
+        <translation>Pliki towarzyszące/główne</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="42"/>
         <source>Master files only</source>
-        <translation type="unfinished"></translation>
+        <translation>Tylko pliki główne</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="64"/>
         <source>Use modified files only</source>
-        <translation type="unfinished"></translation>
+        <translation>Używaj tylko zmodyfikowanych plików</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="20"/>
         <source>Update</source>
-        <translation type="unfinished">Aktualizacja</translation>
+        <translation>Aktualizacja</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="21"/>
         <source>Stop</source>
-        <translation type="unfinished">Zatrzymaj</translation>
+        <translation>Zatrzymaj</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="55"/>
         <source>%1 file(s) to process</source>
-        <translation type="unfinished"></translation>
+        <translation>Pliki do przetworzenia: %1</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="129"/>
         <source>Update cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizacja anulowana</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="129"/>
         <source>Update completed</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizacja zakończona</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="150"/>
         <source>Stopping...</source>
-        <translation type="unfinished"></translation>
+        <translation>Zatrzymanie...</translation>
     </message>
 </context>
 <context>
@@ -17396,17 +17396,17 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="171"/>
         <source>Exposure Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Czas ekspozycji</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="173"/>
         <source>FNumber</source>
-        <translation type="unfinished"></translation>
+        <translation>Liczba F</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="175"/>
         <source>True ISO</source>
-        <translation type="unfinished"></translation>
+        <translation>Prawdziwe ISO</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="214"/>
@@ -20258,7 +20258,7 @@ Czy chcesz kontynuować?</translation>
         <location filename="BrowserMenu.h" line="543"/>
         <source>Update catalog from files...</source>
         <oldsource>Update catalog from files</oldsource>
-        <translation type="unfinished">Aktualizuj katalog z plików</translation>
+        <translation>Aktualizuj katalog z plików...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="544"/>
@@ -20924,7 +20924,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="BrowserMenu.h" line="548"/>
         <source>Play/Stop audio companion</source>
-        <translation type="unfinished"></translation>
+        <translation>Odtwarzaj/wstrzymaj towarzyszący plik dźwiękowy</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="550"/>
@@ -21397,7 +21397,7 @@ Czy chcesz kontynuować?</translation>
         <location filename="TemplateData.cpp" line="2600"/>
         <source>h - Hour (01-12)</source>
         <oldsource>h - Hour (01-21)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>h - Godzina (01-12)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2601"/>
@@ -22341,7 +22341,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="ViewMenu.h" line="503"/>
         <source>Play/Stop audio companion</source>
-        <translation type="unfinished"></translation>
+        <translation>Odtwarzaj/wstrzymaj towarzyszący plik dźwiękowy</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="505"/>
@@ -24775,12 +24775,12 @@ Czy chcesz zachować miniatury?
     <message>
         <location filename="xnview.cpp" line="2620"/>
         <source>Tabs</source>
-        <translation type="unfinished">Karty</translation>
+        <translation>Karty</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="2620"/>
         <source>The tab bar is hidden, but tabs will still open. Set a tab limit in Settings&gt;Interface&gt;Tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasek kart jest ukryty, ale karty będą nadal otwierane. Ustaw limit zakładek w Ustawienia&gt;Interfejs&gt;Karty</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="3098"/>
