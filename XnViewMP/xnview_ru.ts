@@ -196,7 +196,7 @@
     <message>
         <location filename="AboutWidget.ui" line="308"/>
         <source>Formats</source>
-        <translation>Поддерживаемые форматы</translation>
+        <translation>Форматы</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="346"/>
@@ -14176,7 +14176,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="911"/>
         <source>Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Аудио</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1082"/>
@@ -17476,17 +17476,17 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="171"/>
         <source>Exposure Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Выдержка</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="173"/>
         <source>FNumber</source>
-        <translation type="unfinished"></translation>
+        <translation>Диафрагменное число</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="175"/>
         <source>True ISO</source>
-        <translation type="unfinished"></translation>
+        <translation>Реальное ISO</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="214"/>
@@ -21074,7 +21074,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="548"/>
         <source>Play/Stop audio companion</source>
-        <translation type="unfinished"></translation>
+        <translation>Воспроизвести/Остановить аудиокомпаньон</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="550"/>
@@ -22618,7 +22618,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="503"/>
         <source>Play/Stop audio companion</source>
-        <translation type="unfinished"></translation>
+        <translation>Воспроизвести/Остановить аудиокомпаньон</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="505"/>
