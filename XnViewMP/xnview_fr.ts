@@ -14151,7 +14151,7 @@ Voulez-vous le réaffecter ?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="911"/>
         <source>Audio</source>
-        <translation type="unfinished">Audio</translation>
+        <translation>Audio</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1195"/>
@@ -17379,7 +17379,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="171"/>
         <source>Exposure Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Durée d&apos;exposition</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="173"/>
@@ -17389,7 +17389,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="175"/>
         <source>True ISO</source>
-        <translation type="unfinished"></translation>
+        <translation>Véritable ISO</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="180"/>
@@ -20184,7 +20184,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="BrowserMenu.h" line="548"/>
         <source>Play/Stop audio companion</source>
-        <translation type="unfinished"></translation>
+        <translation>Lecture/arrêt du compagnon audio</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="558"/>
@@ -22262,7 +22262,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="ViewMenu.h" line="503"/>
         <source>Play/Stop audio companion</source>
-        <translation type="unfinished"></translation>
+        <translation>Lecture/arrêt du compagnon audio</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="505"/>
