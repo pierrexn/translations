@@ -14167,7 +14167,7 @@ Möchten Sie neu zuweisen?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="911"/>
         <source>Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1195"/>
@@ -17369,17 +17369,17 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="171"/>
         <source>Exposure Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Belichtungszeit</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="173"/>
         <source>FNumber</source>
-        <translation type="unfinished"></translation>
+        <translation>Lichtstärke</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="175"/>
         <source>True ISO</source>
-        <translation type="unfinished"></translation>
+        <translation>Nativer ISO-Wert</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="214"/>
@@ -20961,7 +20961,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="BrowserMenu.h" line="548"/>
         <source>Play/Stop audio companion</source>
-        <translation type="unfinished"></translation>
+        <translation>Audiobegleit-Dateien wiedergeben/stoppen</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="550"/>
@@ -22312,7 +22312,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="ViewMenu.h" line="503"/>
         <source>Play/Stop audio companion</source>
-        <translation type="unfinished"></translation>
+        <translation>Audiobegleit-Dateien wiedergeben/stoppen</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="505"/>
