@@ -695,7 +695,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen?</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="4026"/>
         <source>Delete items &amp; companions</source>
-        <translation>Items &amp; bijbehorende bestanden verwijderen</translation>
+        <translation>Items &amp; metgezellen verwijderen</translation>
     </message>
     <message numerus="yes">
         <location filename="BrowserWindow.cpp" line="4027"/>
@@ -10713,14 +10713,14 @@ Installeer het via Hulpmiddelen › Plug-ins</translation>
     <message>
         <location filename="DlgRename.cpp" line="311"/>
         <source>Companion renaming</source>
-        <translation>Companion Hernoemen</translation>
+        <translation>Metgezel hernoemen</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="311"/>
         <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. 
 
 Do you want to remove them?</source>
-        <translation>Bijbehorende bestanden gedetecteerd in de bestandslijst. Deze worden automatisch hernoemd in overeenstemming met de naam van het hoofdbestand. 
+        <translation>Metgezel gedetecteerd in de bestandslijst. Deze worden automatisch hernoemd in overeenstemming met de naam van het hoofdbestand. 
 
 Wil je ze verwijderen?</translation>
     </message>
@@ -12242,7 +12242,7 @@ Miniatuur</translation>
     <message>
         <location filename="DlgSettingsFilelist.cpp" line="385"/>
         <source>Companion</source>
-        <translation>Bijbehorend</translation>
+        <translation>Metgezel</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.cpp" line="450"/>
@@ -12265,7 +12265,7 @@ Miniatuur</translation>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="196"/>
         <source>Show companion files</source>
-        <translation>Bijbehorende bestanden weergeven</translation>
+        <translation>Metgezelbestanden weergeven</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="110"/>
@@ -12345,7 +12345,7 @@ Miniatuur</translation>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="203"/>
         <source>Link companion files for the following actions</source>
-        <translation>Koppeling van bijbehorende bestanden met de volgende acties</translation>
+        <translation>Metgezelbestanden koppelen met de volgende acties</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="209"/>
@@ -12365,7 +12365,7 @@ Miniatuur</translation>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="187"/>
         <source>Companion files</source>
-        <translation>Bijbehorende bestanden</translation>
+        <translation>Metgezelbestanden</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="254"/>
@@ -14075,7 +14075,7 @@ Opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="684"/>
         <source>Companion</source>
-        <translation>Bijbehorend</translation>
+        <translation>Metgezel</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="731"/>
@@ -14090,7 +14090,7 @@ Opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="911"/>
         <source>Audio</source>
-        <translation type="unfinished">Audio</translation>
+        <translation>Audio</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1082"/>
@@ -14428,7 +14428,7 @@ Opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="740"/>
         <source>Auto-play audio companion files</source>
-        <translation>Audio-compagnonbestanden automatisch afspelen</translation>
+        <translation>Audio-metgezelbestanden automatisch afspelen</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1084"/>
@@ -17380,17 +17380,17 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="171"/>
         <source>Exposure Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluitertijd</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="173"/>
         <source>FNumber</source>
-        <translation type="unfinished"></translation>
+        <translation>F-nummer</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="175"/>
         <source>True ISO</source>
-        <translation type="unfinished"></translation>
+        <translation>Echte ISO</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="214"/>
@@ -18046,7 +18046,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="2127"/>
         <source>Shutter Speed</source>
-        <translation>Sluitertijd</translation>
+        <translation>Sluitersnelheid</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2139"/>
@@ -18076,7 +18076,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="2230"/>
         <source>Shutter speed priority AE</source>
-        <translation>Shutter speed priority AE</translation>
+        <translation>Sluitersnelheid-prioriteit AE</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2232"/>
@@ -18300,7 +18300,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
         <location filename="TemplateData.cpp" line="2691"/>
         <source>Shutter speed (s)</source>
         <oldsource>Shutter speed [s]</oldsource>
-        <translation>Sluitertijd (s)</translation>
+        <translation>Sluitersnelheid (s)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2693"/>
@@ -20955,7 +20955,7 @@ Doorgaan?</translation>
     <message>
         <location filename="BrowserMenu.h" line="548"/>
         <source>Play/Stop audio companion</source>
-        <translation type="unfinished"></translation>
+        <translation>Audiometgezel Afspelen/Stoppen</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="550"/>
@@ -22458,7 +22458,7 @@ Doorgaan?</translation>
     <message>
         <location filename="ViewMenu.h" line="503"/>
         <source>Play/Stop audio companion</source>
-        <translation type="unfinished"></translation>
+        <translation>Audiometgezel Afspelen/Stoppen</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="505"/>
