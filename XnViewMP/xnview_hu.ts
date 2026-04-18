@@ -13878,17 +13878,17 @@ Szeretné újratársítani?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="203"/>
         <source>Update keywords when file is modified outside (file date/size)</source>
-        <translation type="unfinished">A kulcsszavak frissítése a fájl külső forrásos módosulásakor (fájl dátuma/mérete)</translation>
+        <translation>A kulcsszavak frissítése a fájl külső forrásos módosulásakor (fájl dátuma/mérete)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="219"/>
         <source>Read Hierarchical keywords</source>
-        <translation type="unfinished">Hierarchikus kulcsszavak olvasása</translation>
+        <translation>Hierarchikus kulcsszavak olvasása</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="313"/>
         <source>Write Hierarchical keywords (| as separator)</source>
-        <translation type="unfinished"></translation>
+        <translation>Hierarchikus kulcsszavak írása (elválasztáshoz | karakter)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="323"/>
@@ -14072,7 +14072,7 @@ Szeretné újratársítani?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="911"/>
         <source>Audio</source>
-        <translation type="unfinished">Audió</translation>
+        <translation>Audió</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1082"/>
