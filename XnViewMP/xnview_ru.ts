@@ -20102,7 +20102,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="66"/>
         <source>Name - numeric order</source>
-        <translation>Имя - числовая последовательность</translation>
+        <translation>Имя - числовой порядок</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="67"/>
@@ -20112,7 +20112,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="68"/>
         <source>Name - alphabetic order</source>
-        <translation>Имя - упорядочить по алфавиту</translation>
+        <translation>Имя - алфавитный порядок</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="76"/>
