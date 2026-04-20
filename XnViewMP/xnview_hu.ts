@@ -694,7 +694,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="4026"/>
         <source>Delete items &amp; companions</source>
-        <translation>Elemek és társak törlése</translation>
+        <translation>Elemek és kísérők törlése</translation>
     </message>
     <message numerus="yes">
         <location filename="BrowserWindow.cpp" line="4027"/>
@@ -14410,7 +14410,7 @@ Szeretné újratársítani?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="740"/>
         <source>Auto-play audio companion files</source>
-        <translation type="unfinished"></translation>
+        <translation>A kísérő hangfájlok automatikus lejátszása</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1084"/>
@@ -15777,17 +15777,17 @@ Biztos folytassuk?</translation>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="35"/>
         <source>Sidecar/Master files</source>
-        <translation type="unfinished"></translation>
+        <translation>Kísérőfájl/Főfájl</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="42"/>
         <source>Master files only</source>
-        <translation type="unfinished"></translation>
+        <translation>Csak főfájlok</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="64"/>
         <source>Use modified files only</source>
-        <translation type="unfinished"></translation>
+        <translation>Csak a módosított fájlok használata</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="20"/>
@@ -15802,7 +15802,7 @@ Biztos folytassuk?</translation>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="55"/>
         <source>%1 file(s) to process</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 feldolgozandó fájl</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="129"/>
@@ -17361,17 +17361,17 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="171"/>
         <source>Exposure Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Expozíciós idő</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="173"/>
         <source>FNumber</source>
-        <translation type="unfinished"></translation>
+        <translation>F-érték</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="175"/>
         <source>True ISO</source>
-        <translation type="unfinished"></translation>
+        <translation>Valódi ISO</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="214"/>
@@ -20824,7 +20824,7 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="BrowserMenu.h" line="548"/>
         <source>Play/Stop audio companion</source>
-        <translation type="unfinished"></translation>
+        <translation>Kísérő hangfájlok lejátszása/leállítása</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="550"/>
@@ -21921,7 +21921,7 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="ViewMenu.h" line="503"/>
         <source>Play/Stop audio companion</source>
-        <translation type="unfinished"></translation>
+        <translation>Kísérő hangfájlok lejátszása/leállítása</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="527"/>
@@ -24729,7 +24729,7 @@ Megőrizzük a miniatűröket?
     <message>
         <location filename="xnview.cpp" line="2620"/>
         <source>The tab bar is hidden, but tabs will still open. Set a tab limit in Settings&gt;Interface&gt;Tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>A lapsáv rejtve van, de a lapok továbbra is megnyílnak. A lapok száma a Beállítások &gt; Interfész &gt; Lapok menüpontban módosítható</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="3098"/>
