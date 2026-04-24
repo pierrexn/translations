@@ -9057,7 +9057,7 @@ Saranno create delle sottocartelle. </translation>
         <location filename="DlgImport.ui" line="229"/>
         <source>XMP/IPTC Template</source>
         <oldsource>IPTC Template</oldsource>
-        <translation type="unfinished">Modello IPTC</translation>
+        <translation>Modello XMP/IPTC</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="273"/>
