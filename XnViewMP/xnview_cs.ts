@@ -9099,7 +9099,7 @@ Budou vytvořeny odpovídající podsložky. </translation>
         <location filename="DlgImport.ui" line="229"/>
         <source>XMP/IPTC Template</source>
         <oldsource>IPTC Template</oldsource>
-        <translation type="unfinished">Šablona IPTC</translation>
+        <translation>Šablona XMP/IPTC</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="273"/>
