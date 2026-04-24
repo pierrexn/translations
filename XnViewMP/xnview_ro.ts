@@ -907,6 +907,10 @@ Vrei să ștergi favoritul „%1”?</translation>
         <source>Navigator</source>
         <translation>Navigator</translation>
     </message>
+    <message>
+        <source>Clipping</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CompareWindow</name>
@@ -5965,6 +5969,14 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
         <source>Modifying files, please wait...</source>
         <translation>Se modifică fișierele, te rugăm să aștepți...</translation>
     </message>
+    <message>
+        <source>Enter a template name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Template name:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgEmail</name>
@@ -7105,10 +7117,6 @@ Subfolderele (Subdosarele) vor fi create.. </translation>
         <translation>Folderul (Dosarul) de ieșire</translation>
     </message>
     <message>
-        <source>IPTC Template</source>
-        <translation>Șablon IPTC</translation>
-    </message>
-    <message>
         <source>Import can&apos;t be done, source and destination folder is the same!</source>
         <translation>Importul nu se poate face, folderul (dosarul) sursă este același cu folderul (dosarul) destinație!</translation>
     </message>
@@ -7119,6 +7127,14 @@ Subfolderele (Subdosarele) vor fi create.. </translation>
     <message>
         <source>Categories to assign (use ; to separate categories)</source>
         <translation>Categorii de atribuit (folosește ; pentru separarea categoriilor)</translation>
+    </message>
+    <message>
+        <source>XMP/IPTC Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Metadata Template</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13682,12 +13698,16 @@ Dorești să ștergi favoritul „%1”?</translation>
         <translation>Timpul de expunere</translation>
     </message>
     <message>
-        <source>FNumber</source>
-        <translation>Numărul F (Diafragma obiectivului)</translation>
-    </message>
-    <message>
         <source>True ISO</source>
         <translation>ISO-ul adevărat</translation>
+    </message>
+    <message>
+        <source>Bits per channel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>F-Number</source>
+        <translation type="unfinished">Numărul F</translation>
     </message>
 </context>
 <context>
@@ -15837,10 +15857,6 @@ Vrei să continui?</translation>
         <translation>Operațiuni cu fișiere</translation>
     </message>
     <message>
-        <source>Import and sort...</source>
-        <translation>Importă și sortează...</translation>
-    </message>
-    <message>
         <source>Vertical tabs</source>
         <translation>File (Tab-uri) verticale</translation>
     </message>
@@ -16257,12 +16273,28 @@ Vrei să continui?</translation>
         <translation>Sesiune</translation>
     </message>
     <message>
-        <source>Update catalog from files...</source>
-        <translation>Actualizează catalogul din fișierele...</translation>
-    </message>
-    <message>
         <source>Play/Stop audio companion</source>
         <translation>Redă/Oprește sunetul însoțitor</translation>
+    </message>
+    <message>
+        <source>Update catalog from files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update catalog from files (+options)...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import...</source>
+        <translation type="unfinished">Import...</translation>
+    </message>
+    <message>
+        <source>Show clipping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Channel clipping</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17321,6 +17353,18 @@ Vrei să continui?</translation>
         <source>Play/Stop audio companion</source>
         <translation>Redă/Oprește sunetul însoțitor</translation>
     </message>
+    <message>
+        <source>Show clipping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Channel clipping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlight &amp;&amp; Shadow clipping</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Misc</name>
@@ -17590,6 +17634,30 @@ Vrei să continui?</translation>
         <source>Transparent</source>
         <translation>Transparent</translation>
     </message>
+    <message>
+        <source>Show clipping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clipping mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlights</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadows + Highlights</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlights (per channel)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MyLittleToolBarV1</name>
@@ -17696,6 +17764,10 @@ O poți schimba în Setări › Catalog.</translation>
     <message>
         <source>Customize columns...</source>
         <translation>Personalizează coloanele...</translation>
+    </message>
+    <message>
+        <source>Updating catalog, please wait...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

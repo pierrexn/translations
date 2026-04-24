@@ -905,6 +905,10 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
         <source>Navigator</source>
         <translation>Navigaattori</translation>
     </message>
+    <message>
+        <source>Clipping</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CompareWindow</name>
@@ -5949,6 +5953,14 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
         <source>Modifying files, please wait...</source>
         <translation>Muokataan tiedostoja, odota hetki...</translation>
     </message>
+    <message>
+        <source>Enter a template name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Template name:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgEmail</name>
@@ -7031,10 +7043,6 @@ The internal folder structure will be flattened. </source>
 Sisäinen kansiorakenne säilytetään. </translation>
     </message>
     <message>
-        <source>IPTC Template</source>
-        <translation>IPTC mallipohja</translation>
-    </message>
-    <message>
         <source>No files to import!</source>
         <translation>Tuotavia tiedostoja ei ole!</translation>
     </message>
@@ -7103,6 +7111,14 @@ ja luodaan alikansiot. </translation>
     <message>
         <source>Categories to assign (use ; to separate categories)</source>
         <translation>Määritettävät kategoriat (erottele puolipistein ;)</translation>
+    </message>
+    <message>
+        <source>XMP/IPTC Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Metadata Template</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13671,12 +13687,16 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>FNumber</source>
+        <source>True ISO</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>True ISO</source>
+        <source>Bits per channel</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>F-Number</source>
+        <translation type="unfinished">F-numero</translation>
     </message>
 </context>
 <context>
@@ -15830,10 +15850,6 @@ Jatketaanko?</translation>
         <translation>Tiedostotoiminnot</translation>
     </message>
     <message>
-        <source>Import and sort...</source>
-        <translation>Tuo ja lajittele...</translation>
-    </message>
-    <message>
         <source>Vertical tabs</source>
         <translation>Välilehdet pystysuunnassa</translation>
     </message>
@@ -16246,11 +16262,27 @@ Jatketaanko?</translation>
         <translation>Istunto</translation>
     </message>
     <message>
-        <source>Update catalog from files...</source>
+        <source>Play/Stop audio companion</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Play/Stop audio companion</source>
+        <source>Update catalog from files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update catalog from files (+options)...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import...</source>
+        <translation type="unfinished">Tuo...</translation>
+    </message>
+    <message>
+        <source>Show clipping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Channel clipping</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17310,6 +17342,18 @@ Jatketaanko?</translation>
         <source>Play/Stop audio companion</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Show clipping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Channel clipping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlight &amp;&amp; Shadow clipping</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Misc</name>
@@ -17579,6 +17623,30 @@ Jatketaanko?</translation>
         <source>Transparent</source>
         <translation>Läpinäkyvä</translation>
     </message>
+    <message>
+        <source>Show clipping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clipping mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlights</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadows + Highlights</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlights (per channel)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MyLittleToolBarV1</name>
@@ -17682,6 +17750,10 @@ Voit muuttaa sitä asetusten kohdasta &quot;Katalogi&quot;.</translation>
     <message>
         <source>Customize columns...</source>
         <translation>Mukauta sarakkeita...</translation>
+    </message>
+    <message>
+        <source>Updating catalog, please wait...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

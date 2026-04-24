@@ -905,6 +905,10 @@ Deseja excluir o favorito &quot;%1&quot;?</translation>
         <source>Navigator</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Clipping</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CompareWindow</name>
@@ -5949,6 +5953,14 @@ Certifique-se de que os arquivos não sejam somente de leitura!</translation>
         <source>Modifying files, please wait...</source>
         <translation>Modificando arquivos, aguarde...</translation>
     </message>
+    <message>
+        <source>Enter a template name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Template name:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgEmail</name>
@@ -7075,10 +7087,6 @@ A estrutura interna da pasta será nivelada. </translation>
         <translation>Mover arquivos</translation>
     </message>
     <message>
-        <source>IPTC Template</source>
-        <translation>Modelo IPTC</translation>
-    </message>
-    <message>
         <source>Output folder</source>
         <translation>Pasta de saída</translation>
     </message>
@@ -7105,6 +7113,14 @@ A estrutura interna da pasta será nivelada. </translation>
     <message>
         <source>No action</source>
         <translation>Nenhuma ação</translation>
+    </message>
+    <message>
+        <source>XMP/IPTC Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Metadata Template</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13672,12 +13688,16 @@ Deseja excluir o favorito &quot;%1&quot;?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>FNumber</source>
+        <source>True ISO</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>True ISO</source>
+        <source>Bits per channel</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>F-Number</source>
+        <translation type="unfinished">Número F</translation>
     </message>
 </context>
 <context>
@@ -15820,10 +15840,6 @@ Deseja continuar?</translation>
         <translation>Arquivo...</translation>
     </message>
     <message>
-        <source>Import and sort...</source>
-        <translation>Importar e classificar...</translation>
-    </message>
-    <message>
         <source>Multi-page file...</source>
         <translation>Arquivo de múltiplas páginas...</translation>
     </message>
@@ -16248,11 +16264,27 @@ Deseja continuar?</translation>
         <translation type="unfinished">Sessão</translation>
     </message>
     <message>
-        <source>Update catalog from files...</source>
+        <source>Play/Stop audio companion</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Play/Stop audio companion</source>
+        <source>Update catalog from files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update catalog from files (+options)...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import...</source>
+        <translation type="unfinished">Importar...</translation>
+    </message>
+    <message>
+        <source>Show clipping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Channel clipping</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17312,6 +17344,18 @@ Deseja continuar?</translation>
         <source>Play/Stop audio companion</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Show clipping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Channel clipping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlight &amp;&amp; Shadow clipping</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Misc</name>
@@ -17582,6 +17626,30 @@ Deseja continuar?</translation>
         <source>Transparent</source>
         <translation>Transparência</translation>
     </message>
+    <message>
+        <source>Show clipping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clipping mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlights</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadows + Highlights</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlights (per channel)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MyLittleToolBarV1</name>
@@ -17684,6 +17752,10 @@ Você pode alterá-lo em Configurações › Catálogo.</translation>
     </message>
     <message>
         <source>Customize columns...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Updating catalog, please wait...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
