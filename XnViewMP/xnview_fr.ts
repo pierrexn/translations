@@ -9058,7 +9058,7 @@ Les sous-dossiers seront créés.</translation>
         <location filename="DlgImport.ui" line="229"/>
         <source>XMP/IPTC Template</source>
         <oldsource>IPTC Template</oldsource>
-        <translation type="unfinished">Modèle IPTC</translation>
+        <translation>Modèle XMP/IPTC</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="273"/>
