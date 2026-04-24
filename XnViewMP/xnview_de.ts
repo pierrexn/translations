@@ -1081,7 +1081,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="CompareWidget.cpp" line="54"/>
         <source>Clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Übersteuerung</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="572"/>
@@ -7664,12 +7664,12 @@ Do you want to save your changes?</source>
     <message>
         <location filename="DlgEditXMP.cpp" line="399"/>
         <source>Enter a template name</source>
-        <translation type="unfinished"></translation>
+        <translation>Geben Sie einen Vorlagen-Namen ein</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="399"/>
         <source>Template name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorlagen-Name:</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="453"/>
@@ -9048,7 +9048,7 @@ Unterordner werden erstellt. </translation>
         <location filename="DlgImport.ui" line="229"/>
         <source>XMP/IPTC Template</source>
         <oldsource>IPTC Template</oldsource>
-        <translation type="unfinished">IPTC-Vorlage</translation>
+        <translation>XMP/IPTC -Vorlage</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="273"/>
@@ -9115,7 +9115,7 @@ Unterordner werden erstellt. </translation>
     <message>
         <location filename="DlgImport.cpp" line="208"/>
         <source>Open Metadata Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Metadaten-Vorlage öffnen</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="217"/>
@@ -17167,7 +17167,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="78"/>
         <source>Bits per channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Bits pro Kanal</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="80"/>
@@ -17254,7 +17254,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="174"/>
         <source>F-Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Lichtstärke</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="181"/>
@@ -20429,12 +20429,12 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="BrowserMenu.h" line="666"/>
         <source>Show clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Übersteuerung zeigen</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="667"/>
         <source>Channel clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanal-Übersteuerung</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="670"/>
@@ -20976,12 +20976,12 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="BrowserMenu.h" line="544"/>
         <source>Update catalog from files</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalog aus Dateien aktualisieren</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="545"/>
         <source>Update catalog from files (+options)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalog aus Dateien aktualisieren (+ Optionen)...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="547"/>
@@ -21180,7 +21180,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="BrowserMenu.h" line="629"/>
         <source>Import...</source>
-        <translation type="unfinished">Importieren...</translation>
+        <translation>Importieren...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="640"/>
@@ -22190,17 +22190,17 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="ViewMenu.h" line="457"/>
         <source>Show clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Übersteuerung zeigen</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="458"/>
         <source>Channel clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanal-Übersteuerung</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="459"/>
         <source>Highlight &amp;&amp; Shadow clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Licht &amp;&amp; Schatten Übersteuerung</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="469"/>
@@ -22979,32 +22979,32 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="MyHistogram.cpp" line="226"/>
         <source>Show clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Übersteuerung zeigen</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="234"/>
         <source>Clipping mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Übersteuerungs-Modus</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="251"/>
         <source>Shadows</source>
-        <translation type="unfinished"></translation>
+        <translation>Schatten</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="252"/>
         <source>Highlights</source>
-        <translation type="unfinished"></translation>
+        <translation>Lichter</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="253"/>
         <source>Shadows + Highlights</source>
-        <translation type="unfinished"></translation>
+        <translation>Schatten + Lichter</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="254"/>
         <source>Highlights (per channel)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lichter (pro Kanal)</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="260"/>
@@ -23115,7 +23115,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="MyThumbView.cpp" line="761"/>
         <source>Updating catalog, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalog wird aktualisiert, bitte warten...</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="779"/>
