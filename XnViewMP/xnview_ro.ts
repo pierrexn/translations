@@ -909,7 +909,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Trunchiere</translation>
     </message>
 </context>
 <context>
@@ -5754,7 +5754,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>F-Number</source>
-        <translation>Numărul F</translation>
+        <translation>Numărul F (Intensitatea luminii)</translation>
     </message>
     <message>
         <source>Focal length</source>
@@ -5971,11 +5971,11 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Enter a template name</source>
-        <translation type="unfinished"></translation>
+        <translation>Introdu numele șablonului</translation>
     </message>
     <message>
         <source>Template name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Numele șablonului:</translation>
     </message>
 </context>
 <context>
@@ -7130,11 +7130,11 @@ Subfolderele (Subdosarele) vor fi create.. </translation>
     </message>
     <message>
         <source>XMP/IPTC Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Șablon XMP/IPTC</translation>
     </message>
     <message>
         <source>Open Metadata Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Deschide șablonul de metadate</translation>
     </message>
 </context>
 <context>
@@ -7351,7 +7351,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Import...</source>
-        <translation>Import...</translation>
+        <translation>Importă...</translation>
     </message>
     <message>
         <source>Ctrl+Left</source>
@@ -13703,11 +13703,11 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Bits per channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Biți pe canal</translation>
     </message>
     <message>
         <source>F-Number</source>
-        <translation type="unfinished">Numărul F</translation>
+        <translation>Numărul F (Intensitatea luminii)</translation>
     </message>
 </context>
 <context>
@@ -13963,11 +13963,11 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>F-Number</source>
-        <translation>Numărul F</translation>
+        <translation>Numărul F (Intensitatea luminii)</translation>
     </message>
     <message>
         <source>Flash energy</source>
-        <translation>Energie flash</translation>
+        <translation>Energie de la bliț (energie flash)</translation>
     </message>
     <message>
         <source>Focal Plane Y-Resolution</source>
@@ -16278,23 +16278,23 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Update catalog from files</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizează catalogul din fișiere</translation>
     </message>
     <message>
         <source>Update catalog from files (+options)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizează catalogul din fișiere (+opțiuni)...</translation>
     </message>
     <message>
         <source>Import...</source>
-        <translation type="unfinished">Import...</translation>
+        <translation>Importă...</translation>
     </message>
     <message>
         <source>Show clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Afișează trunchierea</translation>
     </message>
     <message>
         <source>Channel clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Trunchierea canalelor</translation>
     </message>
 </context>
 <context>
@@ -17355,15 +17355,15 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Show clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Afișează trunchierea</translation>
     </message>
     <message>
         <source>Channel clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Trunchierea canalelor</translation>
     </message>
     <message>
         <source>Highlight &amp;&amp; Shadow clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Trunchierea zonelor luminoase și a umbrelor</translation>
     </message>
 </context>
 <context>
@@ -17636,27 +17636,27 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Show clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Afișează trunchierea</translation>
     </message>
     <message>
         <source>Clipping mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modul de trunchiere</translation>
     </message>
     <message>
         <source>Shadows</source>
-        <translation type="unfinished"></translation>
+        <translation>Umbre</translation>
     </message>
     <message>
         <source>Highlights</source>
-        <translation type="unfinished"></translation>
+        <translation>Zone luminoase</translation>
     </message>
     <message>
         <source>Shadows + Highlights</source>
-        <translation type="unfinished"></translation>
+        <translation>Umbre + zone luminoase</translation>
     </message>
     <message>
         <source>Highlights (per channel)</source>
-        <translation type="unfinished"></translation>
+        <translation>Zone luminoase (pe canal)</translation>
     </message>
 </context>
 <context>
@@ -17767,7 +17767,7 @@ O poți schimba în Setări › Catalog.</translation>
     </message>
     <message>
         <source>Updating catalog, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Se actualizează catalogul, te rugăm să aștepți...</translation>
     </message>
 </context>
 <context>
