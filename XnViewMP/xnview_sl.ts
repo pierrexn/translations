@@ -9093,7 +9093,7 @@ Ustvarjene bodo podmape. </translation>
         <location filename="DlgImport.ui" line="229"/>
         <source>XMP/IPTC Template</source>
         <oldsource>IPTC Template</oldsource>
-        <translation type="unfinished">IPTC predloga</translation>
+        <translation>XMP/IPTC predloga</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="273"/>
