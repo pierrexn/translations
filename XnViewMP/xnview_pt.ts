@@ -9085,7 +9085,7 @@ Irão ser criadas subpastas. </translation>
         <location filename="DlgImport.ui" line="229"/>
         <source>XMP/IPTC Template</source>
         <oldsource>IPTC Template</oldsource>
-        <translation type="unfinished">Modelo IPTC</translation>
+        <translation>Modelo XMP/IPTC</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="273"/>
