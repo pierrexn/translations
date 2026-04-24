@@ -9093,7 +9093,7 @@ Undermapper vil blive oprettet. </translation>
         <location filename="DlgImport.ui" line="229"/>
         <source>XMP/IPTC Template</source>
         <oldsource>IPTC Template</oldsource>
-        <translation type="unfinished">IPTC skabelon</translation>
+        <translation>XMP/IPTC skabelon</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="273"/>
