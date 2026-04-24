@@ -1096,7 +1096,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="CompareWidget.cpp" line="54"/>
         <source>Clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Отсечение</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="572"/>
@@ -7725,12 +7725,12 @@ Do you want to save your changes?</source>
     <message>
         <location filename="DlgEditXMP.cpp" line="399"/>
         <source>Enter a template name</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите имя шаблона</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="399"/>
         <source>Template name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Название шаблона:</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="453"/>
@@ -9122,7 +9122,7 @@ Subfolders will be created. </source>
         <location filename="DlgImport.ui" line="229"/>
         <source>XMP/IPTC Template</source>
         <oldsource>IPTC Template</oldsource>
-        <translation type="unfinished">IPTC шаблон</translation>
+        <translation>XMP/IPTC шаблон</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="273"/>
@@ -9163,7 +9163,7 @@ Subfolders will be created. </source>
     <message>
         <location filename="DlgImport.ui" line="439"/>
         <source>Extensions (; to separate)</source>
-        <translation>Расширения (; для разделения)</translation>
+        <translation>Расширения (; - разделитель)</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="101"/>
@@ -9189,7 +9189,7 @@ Subfolders will be created. </source>
     <message>
         <location filename="DlgImport.cpp" line="208"/>
         <source>Open Metadata Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть шаблон метаданных</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="217"/>
@@ -14073,7 +14073,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="791"/>
         <source>Read (separated by ,)</source>
-        <translation>Чтение (разделять с помощью ,)</translation>
+        <translation>Чтение (, - разделитель)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="419"/>
@@ -16814,7 +16814,7 @@ Do you want to continue?</source>
     <message>
         <location filename="EditXMPWidget.ui" line="268"/>
         <source>(Use | to separate keywords in hierarchy)</source>
-        <translation>(используйте | для разделения иерархии ключевых слов)</translation>
+        <translation>(| - разделитель иерархии ключевых слов)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="295"/>
@@ -17273,7 +17273,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="78"/>
         <source>Bits per channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Бит на канал</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="80"/>
@@ -17361,7 +17361,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="174"/>
         <source>F-Number</source>
-        <translation type="unfinished">Диафрагменное число</translation>
+        <translation>Диафрагменное число</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="181"/>
@@ -20533,12 +20533,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="666"/>
         <source>Show clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать отсечение</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="667"/>
         <source>Channel clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Отсечение по каналам</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="670"/>
@@ -21089,12 +21089,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="544"/>
         <source>Update catalog from files</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновить Каталог из файлов</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="545"/>
         <source>Update catalog from files (+options)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновить Каталог из файлов (+опции)...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="547"/>
@@ -21299,7 +21299,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="629"/>
         <source>Import...</source>
-        <translation type="unfinished">Импорт...</translation>
+        <translation>Импорт...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="640"/>
@@ -22537,17 +22537,17 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="457"/>
         <source>Show clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать отсечение</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="458"/>
         <source>Channel clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Отсечение по каналам</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="459"/>
         <source>Highlight &amp;&amp; Shadow clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Отсечение в светах и тенях</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="461"/>
@@ -23106,32 +23106,32 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyHistogram.cpp" line="226"/>
         <source>Show clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать отсечение</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="234"/>
         <source>Clipping mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим отсечения</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="251"/>
         <source>Shadows</source>
-        <translation type="unfinished"></translation>
+        <translation>Тени</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="252"/>
         <source>Highlights</source>
-        <translation type="unfinished"></translation>
+        <translation>Света</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="253"/>
         <source>Shadows + Highlights</source>
-        <translation type="unfinished"></translation>
+        <translation>Тени + Света</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="254"/>
         <source>Highlights (per channel)</source>
-        <translation type="unfinished"></translation>
+        <translation>Света (поканально)</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="260"/>
@@ -23242,7 +23242,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="MyThumbView.cpp" line="761"/>
         <source>Updating catalog, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновление Каталога...</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="779"/>
