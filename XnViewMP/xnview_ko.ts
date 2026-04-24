@@ -9018,7 +9018,7 @@ Subfolders will be created. </source>
         <location filename="DlgImport.ui" line="229"/>
         <source>XMP/IPTC Template</source>
         <oldsource>IPTC Template</oldsource>
-        <translation type="unfinished">IPTC 템플릿</translation>
+        <translation>XMP/IPTC 템플릿</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="273"/>
