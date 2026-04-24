@@ -9039,7 +9039,7 @@ Az almappák jönnek létre. </translation>
         <location filename="DlgImport.ui" line="229"/>
         <source>XMP/IPTC Template</source>
         <oldsource>IPTC Template</oldsource>
-        <translation type="unfinished">IPTC sablon</translation>
+        <translation>XMP/IPTC sablon</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="273"/>
