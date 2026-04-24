@@ -9072,7 +9072,7 @@ Budú vytvorené podpriečinky. </translation>
         <location filename="DlgImport.ui" line="229"/>
         <source>XMP/IPTC Template</source>
         <oldsource>IPTC Template</oldsource>
-        <translation type="unfinished">IPTC šablóna</translation>
+        <translation>XMP/IPTC šablóna</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="273"/>
