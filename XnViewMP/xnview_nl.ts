@@ -1084,7 +1084,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen?</translation>
     <message>
         <location filename="CompareWidget.cpp" line="54"/>
         <source>Clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Afknippen</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="572"/>
@@ -7673,12 +7673,12 @@ Wilt u de wijzigingen opslaan?</translation>
     <message>
         <location filename="DlgEditXMP.cpp" line="399"/>
         <source>Enter a template name</source>
-        <translation type="unfinished"></translation>
+        <translation>Sjabloonnaam invoeren</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="399"/>
         <source>Template name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sjabloon naam:</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="453"/>
@@ -9124,7 +9124,7 @@ Submappen worden aangemaakt. </translation>
     <message>
         <location filename="DlgImport.cpp" line="208"/>
         <source>Open Metadata Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Metagegevens-sjabloon openen</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="217"/>
@@ -17178,7 +17178,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="78"/>
         <source>Bits per channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Bits per kanaal</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="80"/>
@@ -17265,7 +17265,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="174"/>
         <source>F-Number</source>
-        <translation type="unfinished">F-Nummer</translation>
+        <translation>F-Nummer</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="181"/>
@@ -20265,12 +20265,12 @@ Doorgaan?</translation>
     <message>
         <location filename="BrowserMenu.h" line="666"/>
         <source>Show clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Knipsels weergeven</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="667"/>
         <source>Channel clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanaal knipsels</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="675"/>
@@ -20970,12 +20970,12 @@ Doorgaan?</translation>
     <message>
         <location filename="BrowserMenu.h" line="544"/>
         <source>Update catalog from files</source>
-        <translation type="unfinished"></translation>
+        <translation>Catalogus bijwerken vanuit bestanden</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="545"/>
         <source>Update catalog from files (+options)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Catalogus bijwerken vanuit bestanden (+opties)…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="547"/>
@@ -21184,7 +21184,7 @@ Doorgaan?</translation>
     <message>
         <location filename="BrowserMenu.h" line="629"/>
         <source>Import...</source>
-        <translation type="unfinished">Importeren…</translation>
+        <translation>Importeren…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="640"/>
@@ -21968,17 +21968,17 @@ Doorgaan?</translation>
     <message>
         <location filename="ViewMenu.h" line="457"/>
         <source>Show clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Knipsels weergeven</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="458"/>
         <source>Channel clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanaal knipsels</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="459"/>
         <source>Highlight &amp;&amp; Shadow clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Oplichting &amp;&amp; Schaduw afknippen</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="500"/>
@@ -22985,32 +22985,32 @@ Doorgaan?</translation>
     <message>
         <location filename="MyHistogram.cpp" line="226"/>
         <source>Show clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Knipsels weergeven</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="234"/>
         <source>Clipping mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Knipselmodus</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="251"/>
         <source>Shadows</source>
-        <translation type="unfinished"></translation>
+        <translation>Schaduwen</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="252"/>
         <source>Highlights</source>
-        <translation type="unfinished"></translation>
+        <translation>Oplichting</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="253"/>
         <source>Shadows + Highlights</source>
-        <translation type="unfinished"></translation>
+        <translation>Schaduw + Oplichting</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="254"/>
         <source>Highlights (per channel)</source>
-        <translation type="unfinished"></translation>
+        <translation>Oplichting (per kanaal)</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="260"/>
@@ -23121,7 +23121,7 @@ Dit is te wijzigen in Instellingen › Catalogus.</translation>
     <message>
         <location filename="MyThumbView.cpp" line="761"/>
         <source>Updating catalog, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Catalogus bijwerken, even geduld…</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="779"/>
