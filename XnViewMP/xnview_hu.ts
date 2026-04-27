@@ -1082,7 +1082,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="CompareWidget.cpp" line="54"/>
         <source>Clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Vágás</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="572"/>
@@ -7655,12 +7655,12 @@ Szeretné menteni a módosításait?</translation>
     <message>
         <location filename="DlgEditXMP.cpp" line="399"/>
         <source>Enter a template name</source>
-        <translation type="unfinished"></translation>
+        <translation>Sablonnév megadása</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="399"/>
         <source>Template name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sablonnév:</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="453"/>
@@ -9106,7 +9106,7 @@ Az almappák jönnek létre. </translation>
     <message>
         <location filename="DlgImport.cpp" line="208"/>
         <source>Open Metadata Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Metaadat sablon megnyitása</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="217"/>
@@ -17159,7 +17159,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="78"/>
         <source>Bits per channel</source>
-        <translation type="unfinished"></translation>
+        <translation>bit / csatorna</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="80"/>
@@ -17246,7 +17246,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="174"/>
         <source>F-Number</source>
-        <translation type="unfinished">F-érték</translation>
+        <translation>F-érték</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="181"/>
@@ -20149,12 +20149,12 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="BrowserMenu.h" line="666"/>
         <source>Show clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Vágás megjelenítése</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="667"/>
         <source>Channel clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Csatornavágás</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="675"/>
@@ -20839,12 +20839,12 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="BrowserMenu.h" line="544"/>
         <source>Update catalog from files</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalógus frissítése fájlokból</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="545"/>
         <source>Update catalog from files (+options)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalógus frissítése fájlokból (+beállítások)...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="547"/>
@@ -21068,7 +21068,7 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="BrowserMenu.h" line="629"/>
         <source>Import...</source>
-        <translation type="unfinished">Importálás...</translation>
+        <translation>Importálás...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="637"/>
@@ -21946,17 +21946,17 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="ViewMenu.h" line="457"/>
         <source>Show clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Vágás megjelenítése</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="458"/>
         <source>Channel clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Csatornavágás</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="459"/>
         <source>Highlight &amp;&amp; Shadow clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Csúcsfények és árnyékok levágása</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="501"/>
@@ -22963,32 +22963,32 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="MyHistogram.cpp" line="226"/>
         <source>Show clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Vágás megjelenítése</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="234"/>
         <source>Clipping mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Vágási mód</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="251"/>
         <source>Shadows</source>
-        <translation type="unfinished"></translation>
+        <translation>Árnyékok</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="252"/>
         <source>Highlights</source>
-        <translation type="unfinished"></translation>
+        <translation>Csúcsfények</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="253"/>
         <source>Shadows + Highlights</source>
-        <translation type="unfinished"></translation>
+        <translation>Árnyékok + csúcsfények</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="254"/>
         <source>Highlights (per channel)</source>
-        <translation type="unfinished"></translation>
+        <translation>Csúcsfények (csatornánként)</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="260"/>
@@ -23099,7 +23099,7 @@ Megváltoztathatja a Beállítások › Katalógus alatt.</translation>
     <message>
         <location filename="MyThumbView.cpp" line="761"/>
         <source>Updating catalog, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalógus frissítése, kérem várjon...</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="779"/>
