@@ -1092,7 +1092,7 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
     <message>
         <location filename="CompareWidget.cpp" line="54"/>
         <source>Clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Recorte (clipping)</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="572"/>
@@ -7697,12 +7697,12 @@ Deseja gravar as alterações?</translation>
     <message>
         <location filename="DlgEditXMP.cpp" line="399"/>
         <source>Enter a template name</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduzir um nome de modelo</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="399"/>
         <source>Template name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome do modelo:</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="453"/>
@@ -9152,7 +9152,7 @@ Irão ser criadas subpastas. </translation>
     <message>
         <location filename="DlgImport.cpp" line="208"/>
         <source>Open Metadata Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir modelo de metadados</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="217"/>
@@ -17227,7 +17227,7 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="78"/>
         <source>Bits per channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Bits por canal</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="80"/>
@@ -17314,7 +17314,7 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="174"/>
         <source>F-Number</source>
-        <translation type="unfinished">Número F</translation>
+        <translation>Número F</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="181"/>
@@ -20223,12 +20223,12 @@ Deseja continuar?</translation>
     <message>
         <location filename="BrowserMenu.h" line="666"/>
         <source>Show clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar recorte</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="667"/>
         <source>Channel clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Recorte por canais</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="675"/>
@@ -20923,12 +20923,12 @@ Deseja continuar?</translation>
     <message>
         <location filename="BrowserMenu.h" line="544"/>
         <source>Update catalog from files</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizar catálogo a partir dos ficheiros</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="545"/>
         <source>Update catalog from files (+options)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizar catálogo a partir dos ficheiros (+opções)...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="547"/>
@@ -21154,7 +21154,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="BrowserMenu.h" line="629"/>
         <source>Import...</source>
-        <translation type="unfinished">Importar...</translation>
+        <translation>Importar...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="637"/>
@@ -22490,17 +22490,17 @@ Deseja continuar?</translation>
     <message>
         <location filename="ViewMenu.h" line="457"/>
         <source>Show clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar recorte</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="458"/>
         <source>Channel clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Recorte por canais</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="459"/>
         <source>Highlight &amp;&amp; Shadow clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Recorte dos brilhos e sombras</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="461"/>
@@ -23059,32 +23059,32 @@ Deseja continuar?</translation>
     <message>
         <location filename="MyHistogram.cpp" line="226"/>
         <source>Show clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar recorte</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="234"/>
         <source>Clipping mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo de recorte (clipping)</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="251"/>
         <source>Shadows</source>
-        <translation type="unfinished"></translation>
+        <translation>Sombras</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="252"/>
         <source>Highlights</source>
-        <translation type="unfinished"></translation>
+        <translation>Brilhos</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="253"/>
         <source>Shadows + Highlights</source>
-        <translation type="unfinished"></translation>
+        <translation>Sombras + brilhos</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="254"/>
         <source>Highlights (per channel)</source>
-        <translation type="unfinished"></translation>
+        <translation>Brilhos (por canal)</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="260"/>
@@ -23197,7 +23197,7 @@ Pode mudá-lo em Configurações &gt; Catálogo.</translation>
     <message>
         <location filename="MyThumbView.cpp" line="761"/>
         <source>Updating catalog, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizando o catálogo, por favor aguarde...</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="779"/>
