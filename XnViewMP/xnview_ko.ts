@@ -21461,7 +21461,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="357"/>
         <source>Fit image to window, large only</source>
-        <translation>큰 이미지만 창에 맞춤</translation>
+        <translation>이미지를 창에 맞춤, 큰 것만</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="359"/>
@@ -21476,7 +21476,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="361"/>
         <source>Fit image to window width or height</source>
-        <translation>이미지를 창 너비 또는 높이에 맞춤</translation>
+        <translation>이미지를 창 너비나 높이에 맞춤</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="178"/>
@@ -21758,7 +21758,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="358"/>
         <source>Fit image to window, small only</source>
-        <translation>작은 이미지만 창에 맞춤</translation>
+        <translation>이미지를 창에 맞춤, 작은 것만</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="240"/>
