@@ -907,7 +907,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Recorte</translation>
     </message>
 </context>
 <context>
@@ -1660,7 +1660,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>No face</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin rostro</translation>
     </message>
 </context>
 <context>
@@ -5955,11 +5955,11 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Enter a template name</source>
-        <translation type="unfinished"></translation>
+        <translation>Introducir nombre de la plantilla</translation>
     </message>
     <message>
         <source>Template name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de la plantilla:</translation>
     </message>
 </context>
 <context>
@@ -7114,7 +7114,7 @@ Se crearán subcarpetas. </translation>
     </message>
     <message>
         <source>XMP/IPTC Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Plantilla XMP/IPTC</translation>
     </message>
     <message>
         <source>Open Metadata Template</source>
