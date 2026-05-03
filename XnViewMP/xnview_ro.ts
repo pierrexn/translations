@@ -12460,7 +12460,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Set as wallpaper</source>
-        <translation>Setează ca imagine de fundal</translation>
+        <translation>Setează (Stabilește) ca imagine de fundal (ca wallpaper)</translation>
     </message>
     <message>
         <source>Position</source>
@@ -15606,7 +15606,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Set as wallpaper...</source>
-        <translation>Setează ca imagine de fundal...</translation>
+        <translation>Setează (Stabilește) ca imagine de fundal (ca wallpaper)...</translation>
     </message>
     <message>
         <source>Compare...</source>
@@ -16807,7 +16807,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Set as wallpaper...</source>
-        <translation>Setează ca imagine de fundal...</translation>
+        <translation>Setează (Stabilește) ca imagine de fundal (ca wallpaper)...</translation>
     </message>
     <message>
         <source>Canvas resize...</source>
