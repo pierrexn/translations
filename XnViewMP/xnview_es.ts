@@ -505,7 +505,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Delete items &amp; companions</source>
-        <translation>Eliminar elementos y acompañantes</translation>
+        <translation>Eliminar elementos y complementarios</translation>
     </message>
     <message>
         <source>Browser</source>
@@ -1204,7 +1204,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Shadow-Highlight</source>
-        <translation>Sombra/Resaltado</translation>
+        <translation>Sombra-Luz</translation>
     </message>
     <message>
         <source>Blue-Red-Green</source>
@@ -7118,7 +7118,7 @@ Se crearán subcarpetas. </translation>
     </message>
     <message>
         <source>Open Metadata Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir plantilla de metadatos</translation>
     </message>
 </context>
 <context>
@@ -10074,7 +10074,7 @@ miniatura</translation>
     </message>
     <message>
         <source>Grey</source>
-        <translation type="unfinished">Gris</translation>
+        <translation>Gris</translation>
     </message>
 </context>
 <context>
@@ -10802,19 +10802,19 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Update catalog when file is modified outside (file date/size)</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizar catálogo cuando el archivo se modifique externamente (fecha/tamaño del archivo)</translation>
     </message>
     <message>
         <source>Update keywords when file is modified outside (file date/size)</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizar palabras clave cuando el archivo se modifique externamente (fecha/tamaño del archivo)</translation>
     </message>
     <message>
         <source>Read Hierarchical keywords</source>
-        <translation type="unfinished"></translation>
+        <translation>Leer palabras clave jerárquicas</translation>
     </message>
     <message>
         <source>Write Hierarchical keywords (| as separator)</source>
-        <translation type="unfinished"></translation>
+        <translation>Escribir palabras clave jerárquicas (separadas por |)</translation>
     </message>
 </context>
 <context>
@@ -11057,7 +11057,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Audio</source>
-        <translation type="unfinished">Audio</translation>
+        <translation>Audio</translation>
     </message>
 </context>
 <context>
@@ -11299,7 +11299,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Show Rating &amp;&amp; Color labels</source>
-        <translation>Mostrar Clasificación &amp;&amp; Etiquetas de color</translation>
+        <translation>Mostrar Clasificación y Etiquetas de color</translation>
     </message>
     <message>
         <source>(From Settings › File list › Custom Filter)</source>
@@ -11351,7 +11351,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Auto-play audio companion files</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproducir automáticamente los archivos de audio complementarios</translation>
     </message>
 </context>
 <context>
@@ -12205,47 +12205,47 @@ Do you want to continue?</source>
     <name>DlgUpdateDatabase</name>
     <message>
         <source>Update database</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizar base de datos</translation>
     </message>
     <message>
         <source>Update from</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizar desde</translation>
     </message>
     <message>
         <source>Sidecar/Master files</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivos sidecar/maestro</translation>
     </message>
     <message>
         <source>Master files only</source>
-        <translation type="unfinished"></translation>
+        <translation>Solo archivos maestro</translation>
     </message>
     <message>
         <source>Use modified files only</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizar solo archivos modificados</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Actualizar</translation>
+        <translation>Actualizar</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished">Parar</translation>
+        <translation>Parar</translation>
     </message>
     <message>
         <source>%1 file(s) to process</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 archivo(s) por procesar</translation>
     </message>
     <message>
         <source>Update cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualización cancelada</translation>
     </message>
     <message>
         <source>Update completed</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualización finalizada</translation>
     </message>
     <message>
         <source>Stopping...</source>
-        <translation type="unfinished"></translation>
+        <translation>Parando...</translation>
     </message>
 </context>
 <context>
@@ -13679,19 +13679,19 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Exposure Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiempo de exposición</translation>
     </message>
     <message>
         <source>True ISO</source>
-        <translation type="unfinished"></translation>
+        <translation>ISO nativo</translation>
     </message>
     <message>
         <source>Bits per channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Bits por canal</translation>
     </message>
     <message>
         <source>F-Number</source>
-        <translation type="unfinished">Número-F</translation>
+        <translation>Número-F</translation>
     </message>
 </context>
 <context>
@@ -16258,27 +16258,27 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Play/Stop audio companion</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproducir/Parar audio complementario</translation>
     </message>
     <message>
         <source>Update catalog from files</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizar catálogo desde los archivos</translation>
     </message>
     <message>
         <source>Update catalog from files (+options)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizar catálogo desde los archivos (+opciones)...</translation>
     </message>
     <message>
         <source>Import...</source>
-        <translation type="unfinished">Importar...</translation>
+        <translation>Importar...</translation>
     </message>
     <message>
         <source>Show clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar recorte</translation>
     </message>
     <message>
         <source>Channel clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Recorte por canal</translation>
     </message>
 </context>
 <context>
@@ -16460,7 +16460,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>h - Hour (01-12)</source>
-        <translation type="unfinished"></translation>
+        <translation>h - Hora (01-12)</translation>
     </message>
 </context>
 <context>
@@ -16743,7 +16743,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Shadow/Highlight...</source>
-        <translation>Sombra/Resaltado...</translation>
+        <translation>Sombra/Luz...</translation>
     </message>
     <message>
         <source>Show histogram</source>
@@ -17335,19 +17335,19 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Play/Stop audio companion</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproducir/Parar audio complementario</translation>
     </message>
     <message>
         <source>Show clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar recorte</translation>
     </message>
     <message>
         <source>Channel clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Recorte por canal</translation>
     </message>
     <message>
         <source>Highlight &amp;&amp; Shadow clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Recorte de luces y sombras</translation>
     </message>
 </context>
 <context>
@@ -17620,27 +17620,27 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Show clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar recorte</translation>
     </message>
     <message>
         <source>Clipping mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo de recorte</translation>
     </message>
     <message>
         <source>Shadows</source>
-        <translation type="unfinished"></translation>
+        <translation>Sombras</translation>
     </message>
     <message>
         <source>Highlights</source>
-        <translation type="unfinished"></translation>
+        <translation>Luces</translation>
     </message>
     <message>
         <source>Shadows + Highlights</source>
-        <translation type="unfinished"></translation>
+        <translation>Sombras + Luces</translation>
     </message>
     <message>
         <source>Highlights (per channel)</source>
-        <translation type="unfinished"></translation>
+        <translation>Luces (por canal)</translation>
     </message>
 </context>
 <context>
@@ -17716,7 +17716,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Updating files, please wait...</source>
-        <translation>Actualizando los archivos, por favor espere...</translation>
+        <translation>Actualizando archivos, por favor espere...</translation>
     </message>
     <message numerus="yes">
         <source>%n object(s) [%2 %3]</source>
@@ -17748,7 +17748,7 @@ Puedo cambiarlo en Configuración › Catálogo.</translation>
     </message>
     <message>
         <source>Updating catalog, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizando catálogo, por favor espere...</translation>
     </message>
 </context>
 <context>
@@ -19089,11 +19089,11 @@ no se guardarán en la base de datos.</translation>
     </message>
     <message>
         <source>Tabs</source>
-        <translation type="unfinished">Pestañas</translation>
+        <translation>Pestañas</translation>
     </message>
     <message>
         <source>The tab bar is hidden, but tabs will still open. Set a tab limit in Settings&gt;Interface&gt;Tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>La barra de pestañas está oculta, pero las pestañas seguirán abriéndose. Establezca un límite de pestañas en Configuración &gt; Interfaz &gt; Pestañas</translation>
     </message>
 </context>
 </TS>
