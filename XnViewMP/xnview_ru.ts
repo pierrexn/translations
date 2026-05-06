@@ -18182,47 +18182,47 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DBFilterModel.cpp" line="2222"/>
         <source>Not Defined</source>
-        <translation>Не определена</translation>
+        <translation>Не определен</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2224"/>
         <source>Manual</source>
-        <translation>Ручная</translation>
+        <translation>Ручной</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2226"/>
         <source>Program AE</source>
-        <translation>АЭ - программная линия</translation>
+        <translation>Программный</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2228"/>
         <source>Aperture-priority AE</source>
-        <translation>АЭ - приоритет диафрагмы</translation>
+        <translation>Приоритет диафрагмы (A/Av)</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2230"/>
         <source>Shutter speed priority AE</source>
-        <translation>АЭ - приоритет выдержки</translation>
+        <translation>Приоритет выдержки (S/Tv)</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2232"/>
         <source>Creative</source>
-        <translation>Креативный</translation>
+        <translation>Творческий</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2234"/>
         <source>Action</source>
-        <translation>Действие</translation>
+        <translation>Спорт</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2236"/>
         <source>Portrait</source>
-        <translation>Портретная</translation>
+        <translation>Портрет</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2238"/>
         <source>Landscape</source>
-        <translation>Альбомная</translation>
+        <translation>Пейзаж</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2115"/>
@@ -18387,7 +18387,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DBFilterModel.cpp" line="2131"/>
         <location filename="TemplateData.cpp" line="2683"/>
         <source>Exposure Program</source>
-        <translation>Программа экспозиции</translation>
+        <translation>Режим съёмки</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2684"/>
