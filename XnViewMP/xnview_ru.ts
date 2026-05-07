@@ -2168,7 +2168,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DBFilterModel.cpp" line="2212"/>
         <source>Square</source>
-        <translation>Квадратная</translation>
+        <translation>Квадрат</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2285"/>
@@ -7463,7 +7463,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditEXIF.ui" line="162"/>
         <source>F-Number</source>
-        <translation>Диафрагменное число</translation>
+        <translation>F-число</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="199"/>
@@ -17361,7 +17361,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="174"/>
         <source>F-Number</source>
-        <translation>Диафрагменное число</translation>
+        <translation>F-число</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="181"/>
@@ -18187,12 +18187,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DBFilterModel.cpp" line="2224"/>
         <source>Manual</source>
-        <translation>Ручной</translation>
+        <translation>Ручной режим</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2226"/>
         <source>Program AE</source>
-        <translation>Программный</translation>
+        <translation>Программный режим (P)</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2228"/>
@@ -18272,7 +18272,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="SearchField.cpp" line="93"/>
         <location filename="TemplateData.cpp" line="2687"/>
         <source>F-Number</source>
-        <translation>Диафрагменное число</translation>
+        <translation>F-число</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="94"/>
@@ -18397,7 +18397,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2685"/>
         <source>Exposure Bias</source>
-        <translation>Компенсация экспозиции</translation>
+        <translation>Экспокоррекция</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2686"/>
@@ -18467,7 +18467,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2701"/>
         <source>Metering mode</source>
-        <translation>Фокусировка</translation>
+        <translation>Экспозамер</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2702"/>
@@ -18527,7 +18527,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2713"/>
         <source>CFA pattern</source>
-        <translation>Модель CFA</translation>
+        <translation>Паттерн CFA</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2714"/>
@@ -18633,27 +18633,27 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2739"/>
         <source>Latitude ref.</source>
-        <translation>Широта ref.</translation>
+        <translation>Широта (полушарие)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2741"/>
         <source>Latitude (value)</source>
-        <translation>Широта (значение)</translation>
+        <translation>Широта (десятичная)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2742"/>
         <source>Longitude ref.</source>
-        <translation>Долгота ref.</translation>
+        <translation>Долгота (полушарие)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2744"/>
         <source>Longitude (value)</source>
-        <translation>Долгота (значение)</translation>
+        <translation>Долгота (десятичная)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2745"/>
         <source>Altitude ref.</source>
-        <translation>Высота ref.</translation>
+        <translation>Высота (отсчет)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2746"/>
@@ -18663,7 +18663,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2747"/>
         <source>Direction ref.</source>
-        <translation>Направление ref.</translation>
+        <translation>Направление (база)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2748"/>
@@ -22187,7 +22187,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="453"/>
         <source>Show people&apos;s region</source>
-        <translation>Показывать области с лицами</translation>
+        <translation>Показывать области лиц</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="501"/>
