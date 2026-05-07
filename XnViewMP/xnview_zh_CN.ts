@@ -454,7 +454,7 @@
     <message>
         <location filename="AutoDateTimeEdit.h" line="89"/>
         <source>Not set</source>
-        <translation type="unfinished"></translation>
+        <translation>未设置</translation>
     </message>
 </context>
 <context>
@@ -2071,7 +2071,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DBFilterModel.cpp" line="167"/>
         <source>No face</source>
-        <translation type="unfinished"></translation>
+        <translation>没有脸</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="168"/>
@@ -4891,7 +4891,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="649"/>
         <source>Multiple resolution...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">多种分辨率……</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1029"/>
@@ -6035,7 +6035,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertMulti.ui" line="14"/>
         <location filename="DlgConvertMulti.cpp" line="18"/>
         <source>Multiple output</source>
-        <translation type="unfinished"></translation>
+        <translation>多重输出</translation>
     </message>
     <message>
         <location filename="DlgConvertMulti.cpp" line="45"/>
@@ -7362,7 +7362,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditEXIF.ui" line="78"/>
         <source>Document name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">文档名称</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="92"/>
@@ -7658,12 +7658,12 @@ Do you want to save your changes?</source>
     <message>
         <location filename="DlgEditXMP.cpp" line="399"/>
         <source>Enter a template name</source>
-        <translation type="unfinished"></translation>
+        <translation>输入模板名称</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="399"/>
         <source>Template name:</source>
-        <translation type="unfinished"></translation>
+        <translation>模板名称：</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="453"/>
@@ -8322,7 +8322,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFileListing.ui" line="36"/>
         <source>Columns presets:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">列预设：</translation>
     </message>
     <message>
         <location filename="DlgFileListing.ui" line="87"/>
@@ -8357,7 +8357,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFileListing.cpp" line="40"/>
         <source>Current columns</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">当前列</translation>
     </message>
     <message>
         <location filename="DlgFileListing.cpp" line="132"/>
@@ -9109,7 +9109,7 @@ Subfolders will be created. </source>
     <message>
         <location filename="DlgImport.cpp" line="208"/>
         <source>Open Metadata Template</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">打开元数据模板</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="217"/>
@@ -11322,7 +11322,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.ui" line="153"/>
         <source>Filesystem</source>
-        <translation type="unfinished"></translation>
+        <translation>文件系统</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="158"/>
@@ -11580,12 +11580,12 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="378"/>
         <source>Clear All</source>
-        <translation type="unfinished"></translation>
+        <translation>全部清除</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="378"/>
         <source>Remove all items from the list?</source>
-        <translation type="unfinished"></translation>
+        <translation>删除列表中的所有项目？</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="397"/>
@@ -11595,7 +11595,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="397"/>
         <source>Reset list to default?</source>
-        <translation type="unfinished"></translation>
+        <translation>将列表重置为默认值？</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="588"/>
@@ -11694,7 +11694,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="585"/>
         <source>Label</source>
-        <translation type="unfinished"></translation>
+        <translation>标签</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="590"/>
@@ -13038,7 +13038,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="118"/>
         <source>Open &apos;Default Apps&apos;...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">打开“默认应用程序”……</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="154"/>
@@ -14570,7 +14570,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="740"/>
         <source>Auto-play audio companion files</source>
-        <translation type="unfinished"></translation>
+        <translation>自动播放音频伴侣文件</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="747"/>
@@ -15310,7 +15310,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgStartupWizard.ui" line="128"/>
         <source>Windows Explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows 资源管理器</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="141"/>
@@ -24400,7 +24400,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="SearchField.cpp" line="983"/>
         <source>TODAY</source>
-        <translation type="unfinished"></translation>
+        <translation>今天</translation>
     </message>
 </context>
 <context>
@@ -24874,7 +24874,7 @@ Do you want to keep the thumbnails?
     <message>
         <location filename="xnview.cpp" line="2620"/>
         <source>The tab bar is hidden, but tabs will still open. Set a tab limit in Settings&gt;Interface&gt;Tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>标签栏会被隐藏，但标签页仍会打开。在“设置”&gt;“界面”&gt;“标签页”中设置标签页限制</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="3098"/>
