@@ -3212,7 +3212,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgCapture.ui" line="264"/>
         <source>Options</source>
-        <translation>Настройки</translation>
+        <translation>Параметры</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="270"/>
@@ -5277,7 +5277,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert.ui" line="1010"/>
         <location filename="DlgConvert-old.ui" line="1489"/>
         <source>Options</source>
-        <translation>Настройки</translation>
+        <translation>Параметры</translation>
     </message>
     <message>
         <location filename="DlgConvert-old.ui" line="1459"/>
@@ -5900,7 +5900,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertIptc.ui" line="118"/>
         <source>Options</source>
-        <translation>Настройки</translation>
+        <translation>Параметры</translation>
     </message>
     <message>
         <location filename="DlgConvertIptc.ui" line="124"/>
@@ -6160,7 +6160,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertOffset.ui" line="106"/>
         <location filename="DlgConvertOffset.ui" line="204"/>
         <source>pixels</source>
-        <translation>пикселей</translation>
+        <translation>px</translation>
     </message>
     <message>
         <location filename="DlgConvertOffset.ui" line="119"/>
@@ -8903,7 +8903,7 @@ Please try to start with admin rights.</source>
         <location filename="DlgGrid.ui" line="114"/>
         <location filename="DlgGrid.ui" line="227"/>
         <source>pixels</source>
-        <translation>пикс.</translation>
+        <translation>px</translation>
     </message>
     <message>
         <location filename="DlgGrid.ui" line="124"/>
@@ -9513,7 +9513,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgIptc.ui" line="271"/>
         <source>Credits</source>
-        <translation>Контакты</translation>
+        <translation>Авторство</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="330"/>
@@ -9564,7 +9564,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgIptc.ui" line="643"/>
         <source>Options</source>
-        <translation>Параметры сохранения</translation>
+        <translation>Параметры</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="716"/>
@@ -9667,7 +9667,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgKeywordProperties.ui" line="14"/>
         <source>Properties</source>
         <oldsource>Keyword properties</oldsource>
-        <translation>Свойства Категории</translation>
+        <translation>Свойства</translation>
     </message>
     <message>
         <location filename="DlgKeywordProperties.ui" line="20"/>
@@ -10318,7 +10318,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPrint.ui" line="882"/>
         <source>Options</source>
-        <translation>Настройки</translation>
+        <translation>Параметры</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="888"/>
@@ -11641,7 +11641,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsFormat.h" line="13"/>
         <source>Formats</source>
-        <translation>Поддерживаемые форматы</translation>
+        <translation>Форматы</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.h" line="15"/>
@@ -12485,12 +12485,12 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFormat.ui" line="36"/>
         <source>Formats</source>
-        <translation>Поддерживаемые форматы</translation>
+        <translation>Форматы</translation>
     </message>
     <message>
         <location filename="DlgSettingsFormat.ui" line="42"/>
         <source>Choose the formats which you use for saving.</source>
-        <translation>Выберите расширения файлов, которые вы будете использовать для сохранения.</translation>
+        <translation>Выберите форматы, которые вы будете использовать для сохранения.</translation>
     </message>
     <message>
         <location filename="DlgSettingsFormat.ui" line="80"/>
@@ -18709,7 +18709,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoIPTCView.cpp" line="125"/>
         <source>Credits</source>
-        <translation>Организаторы</translation>
+        <translation>Авторство</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="129"/>
@@ -18810,13 +18810,13 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="SearchField.cpp" line="61"/>
         <location filename="TemplateData.cpp" line="2771"/>
         <source>Byline title</source>
-        <translation>Авторское заглавие</translation>
+        <translation>Должность автора</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="44"/>
         <location filename="IptcHelper.cpp" line="30"/>
         <source>Credits</source>
-        <translation>Соавторы</translation>
+        <translation>Авторство</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="136"/>
@@ -18988,7 +18988,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="SearchField.cpp" line="123"/>
         <location filename="TemplateData.cpp" line="2791"/>
         <source>Location</source>
-        <translation>Название региона</translation>
+        <translation>Регион</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="148"/>
@@ -19003,12 +19003,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="IptcHelper.cpp" line="42"/>
         <source>Content location code</source>
-        <translation>Код местоположения контента</translation>
+        <translation>Код места съемки</translation>
     </message>
     <message>
         <location filename="IptcHelper.cpp" line="43"/>
         <source>Content location name</source>
-        <translation>Название региона контента</translation>
+        <translation>Название места съемки</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="135"/>
