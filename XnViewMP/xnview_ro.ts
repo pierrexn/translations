@@ -14668,7 +14668,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Fixture ID</source>
-        <translation type="unfinished"></translation>
+        <translation>ID-ul fixării</translation>
     </message>
 </context>
 <context>
@@ -15138,7 +15138,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Save frame as...</source>
-        <translation type="unfinished">Salvează cadrul ca...</translation>
+        <translation>Salvează cadrul ca...</translation>
     </message>
 </context>
 <context>
@@ -17359,7 +17359,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Play/Pause media</source>
-        <translation type="unfinished"></translation>
+        <translation>Redă/Pune pe pauză (Întrerupe) fișierul media</translation>
     </message>
 </context>
 <context>
