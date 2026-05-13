@@ -1651,10 +1651,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Categorías</translation>
     </message>
     <message>
-        <source>Check (%1)</source>
-        <translation>Comprobar (%1)</translation>
-    </message>
-    <message>
         <source>Check</source>
         <translation>Comprobar</translation>
     </message>
@@ -14407,10 +14403,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Créditos</translation>
     </message>
     <message>
-        <source>Job ID</source>
-        <translation>ID del trabajo</translation>
-    </message>
-    <message>
         <source>Location</source>
         <translation>Ubicación</translation>
     </message>
@@ -14657,6 +14649,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Telephone number</source>
         <translation>Número de teléfono</translation>
+    </message>
+    <message>
+        <source>Fixture ID</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15123,6 +15119,10 @@ Do you want to continue?</source>
     <message>
         <source>Extract current frame</source>
         <translation>Extraer fotograma actual</translation>
+    </message>
+    <message>
+        <source>Save frame as...</source>
+        <translation type="unfinished">Guardar fotograma como...</translation>
     </message>
 </context>
 <context>
@@ -17098,10 +17098,6 @@ Do you want to continue?</source>
         <translation>Contar colores utilizados</translation>
     </message>
     <message>
-        <source>Start/stop animation</source>
-        <translation>Iniciar/parar animación</translation>
-    </message>
-    <message>
         <source>Send by FTP...</source>
         <translation>Enviar por FTP...</translation>
     </message>
@@ -17334,10 +17330,6 @@ Do you want to continue?</source>
         <translation>Marcar/Desmarcar</translation>
     </message>
     <message>
-        <source>Play/Stop audio companion</source>
-        <translation>Reproducir/Parar audio complementario</translation>
-    </message>
-    <message>
         <source>Show clipping</source>
         <translation>Mostrar recorte</translation>
     </message>
@@ -17348,6 +17340,10 @@ Do you want to continue?</source>
     <message>
         <source>Highlight &amp;&amp; Shadow clipping</source>
         <translation>Recorte de luces y sombras</translation>
+    </message>
+    <message>
+        <source>Play/Pause media</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

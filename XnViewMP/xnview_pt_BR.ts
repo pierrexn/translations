@@ -1651,10 +1651,6 @@ Deseja excluir o favorito &quot;%1&quot;?</translation>
         <translation type="unfinished">Categorias</translation>
     </message>
     <message>
-        <source>Check (%1)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Check</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14402,10 +14398,6 @@ Deseja excluir o favorito &quot;%1&quot;?</translation>
         <translation>Editar status</translation>
     </message>
     <message>
-        <source>Job ID</source>
-        <translation>ID do Trabalho</translation>
-    </message>
-    <message>
         <source>Program</source>
         <translation>Programa</translation>
     </message>
@@ -14664,6 +14656,10 @@ Deseja excluir o favorito &quot;%1&quot;?</translation>
     <message>
         <source>Custom field 10</source>
         <translation>Campo personalizado 10</translation>
+    </message>
+    <message>
+        <source>Fixture ID</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15130,6 +15126,10 @@ Deseja continuar?</translation>
     <message>
         <source>Extract current frame</source>
         <translation>Extrair o quadro atual</translation>
+    </message>
+    <message>
+        <source>Save frame as...</source>
+        <translation type="unfinished">Salvar quadro como...</translation>
     </message>
 </context>
 <context>
@@ -16857,10 +16857,6 @@ Deseja continuar?</translation>
         <translation>Exibir azul</translation>
     </message>
     <message>
-        <source>Start/stop animation</source>
-        <translation>Iniciar/parar animação</translation>
-    </message>
-    <message>
         <source>Fair</source>
         <translation>Razoável</translation>
     </message>
@@ -17341,10 +17337,6 @@ Deseja continuar?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Play/Stop audio companion</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Show clipping</source>
         <translation type="unfinished"></translation>
     </message>
@@ -17354,6 +17346,10 @@ Deseja continuar?</translation>
     </message>
     <message>
         <source>Highlight &amp;&amp; Shadow clipping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play/Pause media</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

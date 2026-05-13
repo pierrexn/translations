@@ -1653,10 +1653,6 @@ Vrei să ștergi favoritul „%1”?</translation>
         <translation>Categorii</translation>
     </message>
     <message>
-        <source>Check (%1)</source>
-        <translation>Verifică (%1)</translation>
-    </message>
-    <message>
         <source>Check</source>
         <translation>Bifează</translation>
     </message>
@@ -14431,10 +14427,6 @@ Dorești să ștergi favoritul „%1”?</translation>
         <translation>Mulțumire</translation>
     </message>
     <message>
-        <source>Job ID</source>
-        <translation>ID-ul sarcinii</translation>
-    </message>
-    <message>
         <source>Location</source>
         <translation>Locație</translation>
     </message>
@@ -14673,6 +14665,10 @@ Dorești să ștergi favoritul „%1”?</translation>
     <message>
         <source>Telephone number</source>
         <translation>Numărul de telefon</translation>
+    </message>
+    <message>
+        <source>Fixture ID</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15139,6 +15135,10 @@ Vrei să continui?</translation>
     <message>
         <source>Extract current frame</source>
         <translation>Extrage cadrul curent</translation>
+    </message>
+    <message>
+        <source>Save frame as...</source>
+        <translation type="unfinished">Salvează cadrul ca...</translation>
     </message>
 </context>
 <context>
@@ -17122,10 +17122,6 @@ Vrei să continui?</translation>
         <translation>Numără culorile folosite</translation>
     </message>
     <message>
-        <source>Start/stop animation</source>
-        <translation>Pornește/oprește animația</translation>
-    </message>
-    <message>
         <source>RGB→RBG</source>
         <translation>RGB→RBG</translation>
     </message>
@@ -17350,10 +17346,6 @@ Vrei să continui?</translation>
         <translation>Bifează/Debifează</translation>
     </message>
     <message>
-        <source>Play/Stop audio companion</source>
-        <translation>Redă/Oprește sunetul însoțitor</translation>
-    </message>
-    <message>
         <source>Show clipping</source>
         <translation>Afișează trunchierea</translation>
     </message>
@@ -17364,6 +17356,10 @@ Vrei să continui?</translation>
     <message>
         <source>Highlight &amp;&amp; Shadow clipping</source>
         <translation>Trunchierea zonelor luminoase și a umbrelor</translation>
+    </message>
+    <message>
+        <source>Play/Pause media</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -1651,10 +1651,6 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
         <translation>Kategoriat</translation>
     </message>
     <message>
-        <source>Check (%1)</source>
-        <translation>Valitse (%1)</translation>
-    </message>
-    <message>
         <source>Check</source>
         <translation>Valitse</translation>
     </message>
@@ -14420,10 +14416,6 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
         <translation>Ansiot</translation>
     </message>
     <message>
-        <source>Job ID</source>
-        <translation>työ ID</translation>
-    </message>
-    <message>
         <source>Location</source>
         <translation>Sijainti</translation>
     </message>
@@ -14662,6 +14654,10 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     <message>
         <source>Telephone number</source>
         <translation>Puhelinnumero</translation>
+    </message>
+    <message>
+        <source>Fixture ID</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15128,6 +15124,10 @@ Jatketaanko?</translation>
     <message>
         <source>Extract current frame</source>
         <translation>Sovita nykyiseen ikkunaan</translation>
+    </message>
+    <message>
+        <source>Save frame as...</source>
+        <translation type="unfinished">Tallenna kehys nimellä...</translation>
     </message>
 </context>
 <context>
@@ -17131,10 +17131,6 @@ Jatketaanko?</translation>
         <translation>Laske kuvassa käytettävät värit</translation>
     </message>
     <message>
-        <source>Start/stop animation</source>
-        <translation>Käynnistä/Pysäytä animaatio</translation>
-    </message>
-    <message>
         <source>Add watermark...</source>
         <translation>Lisää vesileima...</translation>
     </message>
@@ -17339,10 +17335,6 @@ Jatketaanko?</translation>
         <translation>Valitse/Poista valinta</translation>
     </message>
     <message>
-        <source>Play/Stop audio companion</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Show clipping</source>
         <translation type="unfinished"></translation>
     </message>
@@ -17352,6 +17344,10 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Highlight &amp;&amp; Shadow clipping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play/Pause media</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

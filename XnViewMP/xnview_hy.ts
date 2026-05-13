@@ -1651,10 +1651,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Անվանակարգեր</translation>
     </message>
     <message>
-        <source>Check (%1)</source>
-        <translation>Նշված (%1)</translation>
-    </message>
-    <message>
         <source>Check</source>
         <translation>Նշել</translation>
     </message>
@@ -14386,10 +14382,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Հեղինակ</translation>
     </message>
     <message>
-        <source>Job ID</source>
-        <translation>Աշխատանքի ID</translation>
-    </message>
-    <message>
         <source>Location</source>
         <translation>Տեղադրություն</translation>
     </message>
@@ -14656,6 +14648,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Telephone number</source>
         <translation>Հեռախոսահամար</translation>
+    </message>
+    <message>
+        <source>Fixture ID</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15122,6 +15118,10 @@ Do you want to continue?</source>
     <message>
         <source>Extract current frame</source>
         <translation>Արտաբերել ընթացիկ շրջանակը</translation>
+    </message>
+    <message>
+        <source>Save frame as...</source>
+        <translation type="unfinished">Պահել շրջանակը որպես...</translation>
     </message>
 </context>
 <context>
@@ -16929,10 +16929,6 @@ Do you want to continue?</source>
         <translation>Հաշվել գույները</translation>
     </message>
     <message>
-        <source>Start/stop animation</source>
-        <translation>Սկսել/կանգնեցնել շարժապատկերումը</translation>
-    </message>
-    <message>
         <source>Print...</source>
         <translation>Տպել...</translation>
     </message>
@@ -17333,10 +17329,6 @@ Do you want to continue?</source>
         <translation>Նշել/Ապանշել</translation>
     </message>
     <message>
-        <source>Play/Stop audio companion</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Show clipping</source>
         <translation type="unfinished"></translation>
     </message>
@@ -17346,6 +17338,10 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Highlight &amp;&amp; Shadow clipping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play/Pause media</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
