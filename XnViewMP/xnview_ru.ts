@@ -18911,7 +18911,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="SearchField.cpp" line="67"/>
         <location filename="TemplateData.cpp" line="2781"/>
         <source>Fixture ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Идентификатор события</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="65"/>
@@ -19862,7 +19862,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MediaPlayer.cpp" line="356"/>
         <source>Save frame as...</source>
-        <translation type="unfinished">Сохранить кадр как...</translation>
+        <translation>Сохранить кадр как...</translation>
     </message>
     <message>
         <location filename="MediaPlayer.cpp" line="359"/>
@@ -22504,7 +22504,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="447"/>
         <source>Play/Pause media</source>
-        <translation type="unfinished"></translation>
+        <translation>Воспроизвести/приостановить медиа</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="451"/>
