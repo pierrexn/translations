@@ -19764,7 +19764,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="MediaPlayer.cpp" line="356"/>
         <source>Save frame as...</source>
-        <translation type="unfinished">Sauver l&apos;image...</translation>
+        <translation>Sauver l&apos;image...</translation>
     </message>
     <message>
         <location filename="MediaPlayer.cpp" line="359"/>
@@ -22124,7 +22124,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="ViewMenu.h" line="447"/>
         <source>Play/Pause media</source>
-        <translation type="unfinished"></translation>
+        <translation>Lecture/pause d&apos;un média</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="454"/>
