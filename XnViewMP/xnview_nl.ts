@@ -18811,7 +18811,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
         <location filename="SearchField.cpp" line="67"/>
         <location filename="TemplateData.cpp" line="2781"/>
         <source>Fixture ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Armatuur-ID</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="65"/>
@@ -19758,7 +19758,7 @@ Doorgaan?</translation>
     <message>
         <location filename="MediaPlayer.cpp" line="356"/>
         <source>Save frame as...</source>
-        <translation type="unfinished">Frame opslaan als…</translation>
+        <translation>Frame opslaan als…</translation>
     </message>
     <message>
         <location filename="MediaPlayer.cpp" line="359"/>
@@ -21952,7 +21952,7 @@ Doorgaan?</translation>
     <message>
         <location filename="ViewMenu.h" line="447"/>
         <source>Play/Pause media</source>
-        <translation type="unfinished"></translation>
+        <translation>Media afspelen/pauzeren</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="454"/>
