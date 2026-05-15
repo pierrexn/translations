@@ -18800,7 +18800,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
         <location filename="SearchField.cpp" line="67"/>
         <location filename="TemplateData.cpp" line="2781"/>
         <source>Fixture ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Fixture-ID</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="65"/>
@@ -19749,7 +19749,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="MediaPlayer.cpp" line="356"/>
         <source>Save frame as...</source>
-        <translation type="unfinished">Frame speichern unter...</translation>
+        <translation>Frame speichern unter...</translation>
     </message>
     <message>
         <location filename="MediaPlayer.cpp" line="359"/>
@@ -21878,7 +21878,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="ViewMenu.h" line="447"/>
         <source>Play/Pause media</source>
-        <translation type="unfinished"></translation>
+        <translation>Medien wiedergeben/pausieren</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="500"/>
