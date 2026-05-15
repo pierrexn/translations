@@ -1089,7 +1089,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="CompareWidget.cpp" line="55"/>
         <source>Clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Izrezovanje</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="573"/>
@@ -7702,12 +7702,12 @@ Ali želite shraniti spremembe?</translation>
     <message>
         <location filename="DlgEditXMP.cpp" line="399"/>
         <source>Enter a template name</source>
-        <translation type="unfinished"></translation>
+        <translation>Vnesite ime predloge</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="399"/>
         <source>Template name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ime predloge:</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="453"/>
@@ -9153,7 +9153,7 @@ Ustvarjene bodo podmape. </translation>
     <message>
         <location filename="DlgImport.cpp" line="226"/>
         <source>Open Metadata Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpri predlogo metapodatkov</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="243"/>
@@ -14200,7 +14200,7 @@ Ali želite ponovno dodeliti?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="911"/>
         <source>Audio</source>
-        <translation type="unfinished">Avdio</translation>
+        <translation>Avdio</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1195"/>
@@ -17353,7 +17353,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="78"/>
         <source>Bits per channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitov na kanal</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="80"/>
@@ -17428,17 +17428,17 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="172"/>
         <source>Exposure Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Čas izpostavljenosti</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="174"/>
         <source>F-Number</source>
-        <translation type="unfinished">F-številka</translation>
+        <translation>F-številka</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="176"/>
         <source>True ISO</source>
-        <translation type="unfinished"></translation>
+        <translation>Pravi ISO</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="181"/>
@@ -18765,7 +18765,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <location filename="SearchField.cpp" line="67"/>
         <location filename="TemplateData.cpp" line="2781"/>
         <source>Fixture ID</source>
-        <translation type="unfinished"></translation>
+        <translation>ID vpenjala</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="71"/>
@@ -19794,7 +19794,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MediaPlayer.cpp" line="356"/>
         <source>Save frame as...</source>
-        <translation type="unfinished">Shrani okvir kot...</translation>
+        <translation>Shrani okvir kot...</translation>
     </message>
     <message>
         <location filename="MediaPlayer.cpp" line="359"/>
@@ -20225,12 +20225,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="546"/>
         <source>Update catalog from files</source>
-        <translation type="unfinished"></translation>
+        <translation>Posodobi katalog iz datotek</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="547"/>
         <source>Update catalog from files (+options)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Posodobi katalog iz datotek (+možnosti)...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="550"/>
@@ -20240,7 +20240,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="552"/>
         <source>Play/Stop audio companion</source>
-        <translation type="unfinished"></translation>
+        <translation>Predvajaj/ustavi zvočni spremljevalec</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="556"/>
@@ -20290,7 +20290,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="631"/>
         <source>Import...</source>
-        <translation type="unfinished">Uvoz...</translation>
+        <translation>Uvoz...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="662"/>
@@ -20300,12 +20300,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="668"/>
         <source>Show clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži izrezek</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="669"/>
         <source>Channel clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrezovanje kanalov</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="677"/>
@@ -22164,7 +22164,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="447"/>
         <source>Play/Pause media</source>
-        <translation type="unfinished"></translation>
+        <translation>Predvajanje/začasna ustavitev medijev</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="454"/>
@@ -22185,17 +22185,17 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="457"/>
         <source>Show clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži izrezek</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="458"/>
         <source>Channel clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrezovanje kanalov</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="459"/>
         <source>Highlight &amp;&amp; Shadow clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Izrezovanje svetlih &amp;&amp; senčnih poudarkov</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="469"/>
@@ -23026,32 +23026,32 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyHistogram.cpp" line="227"/>
         <source>Show clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži izrezek</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="236"/>
         <source>Clipping mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Način obrezovanja</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="254"/>
         <source>Shadows</source>
-        <translation type="unfinished"></translation>
+        <translation>Sence</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="255"/>
         <source>Highlights</source>
-        <translation type="unfinished"></translation>
+        <translation>Poudarki</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="256"/>
         <source>Shadows + Highlights</source>
-        <translation type="unfinished"></translation>
+        <translation>Sence + poudarki</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="257"/>
         <source>Highlights (per channel)</source>
-        <translation type="unfinished"></translation>
+        <translation>Poudarki (na kanal)</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="263"/>
@@ -23162,7 +23162,7 @@ Spremenite ga lahko v Nastavitve › Katalog.</translation>
     <message>
         <location filename="MyThumbView.cpp" line="761"/>
         <source>Updating catalog, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Posodabljanje kataloga, prosimo počakajte...</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="779"/>
