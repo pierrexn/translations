@@ -13951,7 +13951,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Altitude ref.</source>
-        <translation>Ref. altitudine.</translation>
+        <translation>Altitudine ref.</translation>
     </message>
     <message>
         <source>XP Title</source>
@@ -16476,7 +16476,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>h - Hour (01-12)</source>
-        <translation>h/o - Oră (01-12)</translation>
+        <translation>h - Oră (01-12)</translation>
     </message>
 </context>
 <context>
