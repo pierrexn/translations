@@ -1262,11 +1262,11 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Normalize</source>
-        <translation>Normalizare</translation>
+        <translation>Normalizează</translation>
     </message>
     <message>
         <source>Set DPI</source>
-        <translation>Setează DPI-ul</translation>
+        <translation>Setează DPI-ul (punctele pe inci)</translation>
     </message>
     <message>
         <source>Sharpen</source>
@@ -7776,7 +7776,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Print</source>
-        <translation>Imprimă/Tipărește/Printează</translation>
+        <translation>Imprimă/Tipărește/Printează/Scoate la imprimantă</translation>
     </message>
     <message>
         <source>Right</source>
@@ -8983,7 +8983,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Set DPI</source>
-        <translation>Setează DPI-ul</translation>
+        <translation>Setează DPI-ul (punctele pe inci)</translation>
     </message>
 </context>
 <context>
@@ -15698,7 +15698,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Print...</source>
-        <translation>Imprimă/Tipărește/Printează...</translation>
+        <translation>Imprimă/Tipărește/Printează/Scoate la imprimantă...</translation>
     </message>
     <message>
         <source>Layout 1</source>
@@ -16879,11 +16879,11 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Print...</source>
-        <translation>Imprimă/Tipărește/Printează...</translation>
+        <translation>Imprimă/Tipărește/Printează/Scoate la imprimantă...</translation>
     </message>
     <message>
         <source>Normalize</source>
-        <translation>Normalizare</translation>
+        <translation>Normalizează</translation>
     </message>
     <message>
         <source>Open GPS location in</source>
