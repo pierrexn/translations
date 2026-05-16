@@ -4884,7 +4884,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="649"/>
         <source>Multiple resolution...</source>
-        <translation type="unfinished">多种分辨率……</translation>
+        <translation>多种分辨率…</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1029"/>
@@ -7673,7 +7673,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgEditXMP.cpp" line="485"/>
         <location filename="DlgEditXMP.cpp" line="510"/>
         <source>Modifying files, please wait...</source>
-        <translation type="unfinished">正在修改文件，请稍候……</translation>
+        <translation>正在修改文件，请稍候…</translation>
     </message>
 </context>
 <context>
@@ -9249,7 +9249,7 @@ Subfolders will be created. </source>
         <location filename="DlgIptc.cpp" line="1720"/>
         <location filename="DlgIptc.cpp" line="1766"/>
         <source>Modifying files, please wait...</source>
-        <translation type="unfinished">正在修改文件，请稍候……</translation>
+        <translation>正在修改文件，请稍候…</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="52"/>
@@ -11928,7 +11928,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgSettingsCache.cpp" line="543"/>
         <source>Updating database, please wait...</source>
-        <translation type="unfinished">正在更新数据库，请稍候……</translation>
+        <translation>正在更新数据库，请稍候…</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="560"/>
@@ -13031,7 +13031,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="118"/>
         <source>Open &apos;Default Apps&apos;...</source>
-        <translation type="unfinished">打开“默认应用程序”……</translation>
+        <translation>打开“默认应用程序”…</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="154"/>
@@ -17906,12 +17906,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoCategoryView.cpp" line="148"/>
         <source>Delete unused categories...</source>
-        <translation type="unfinished">删除未使用的类别……</translation>
+        <translation>删除未使用的类别…</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="151"/>
         <source>Delete all categories...</source>
-        <translation type="unfinished">删除所有类别……</translation>
+        <translation>删除所有类别…</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="621"/>
@@ -21866,7 +21866,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="318"/>
         <source>Save a copy...</source>
-        <translation>保存为副本……</translation>
+        <translation>保存为副本…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="319"/>
@@ -22242,7 +22242,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="501"/>
         <source>Automatic crop...</source>
-        <translation>自动裁切……</translation>
+        <translation>自动裁切…</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="505"/>
