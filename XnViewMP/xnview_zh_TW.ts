@@ -2498,7 +2498,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgBatchResize.ui" line="358"/>
         <source>Mode</source>
-        <translation></translation>
+        <translation>模式</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="372"/>
@@ -4241,7 +4241,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="104"/>
         <source>Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>模式</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="115"/>
