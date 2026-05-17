@@ -867,7 +867,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Best fit</source>
-        <translation>Հարմարեցնել</translation>
+        <translation>Լավագույն հարմարեցում</translation>
     </message>
     <message>
         <source>Copy to</source>
@@ -2796,7 +2796,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Best fit</source>
-        <translation>Լավագույնս հարմարեցնել</translation>
+        <translation>Լավագույն հարմարեցում</translation>
     </message>
     <message>
         <source>Zoom out</source>
@@ -3931,7 +3931,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Best fit</source>
-        <translation>Հարմարեցնել</translation>
+        <translation>Լավագույն հարմարեցում</translation>
     </message>
     <message>
         <source>Source folder</source>
@@ -6563,7 +6563,7 @@ Please try to start with admin rights.</source>
     </message>
     <message>
         <source>Best fit</source>
-        <translation>Հարմարեցնել</translation>
+        <translation>Լավագույն հարմարեցում</translation>
     </message>
     <message>
         <source>Status</source>
@@ -8038,7 +8038,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Best fit</source>
-        <translation>Հարմարեցնել</translation>
+        <translation>Լավագույն հարմարեցում</translation>
     </message>
 </context>
 <context>
@@ -11512,7 +11512,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Best fit</source>
-        <translation>Հարմարեցնել</translation>
+        <translation>Լավագույն հարմարեցում</translation>
     </message>
     <message>
         <source>Modified date</source>
@@ -11741,7 +11741,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Best fit</source>
-        <translation>Հարմարեցնել</translation>
+        <translation>Լավագույն հարմարեցում</translation>
     </message>
     <message>
         <source>Zoom in</source>
@@ -15381,7 +15381,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Fit image to window width</source>
-        <translation>Հավասարեցնել պատկերը պատուհանի չափով</translation>
+        <translation>Պատկերը հարմարեցնել պատուհանի լայնությանը</translation>
     </message>
     <message>
         <source>Rebuild thumbnails</source>
@@ -15421,7 +15421,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>No fit</source>
-        <translation>Առանց հարմարեցնելու</translation>
+        <translation>Չհարմարեցնել</translation>
     </message>
     <message>
         <source>Print size</source>
@@ -15457,7 +15457,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Fit image to window height</source>
-        <translation>Հարմարեցնել պատկերը պատուհանի բարձրությամբ</translation>
+        <translation>Պատկերը հարմարեցնել պատուհանի բարձրությանը</translation>
     </message>
     <message>
         <source>Zoom out</source>
@@ -15589,7 +15589,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Fit image to window, large only</source>
-        <translation>Հարմարեցնել պատկերը էկրանի չափով, եթե այն մեծ է</translation>
+        <translation>Պատկերը հարմարեցնել պատուհանին, միայն մեծերը</translation>
     </message>
     <message>
         <source>Descending</source>
@@ -15717,7 +15717,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Fit image to window</source>
-        <translation>Հարմարեցնել պատկերը պատուհանի չափով</translation>
+        <translation>Պատկերը հարմարեցնել պատուհանին</translation>
     </message>
     <message>
         <source>Selected path(s)</source>
@@ -15769,7 +15769,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Fit image to window width or height</source>
-        <translation>Հարմարեցնել պատկերը պատուհանի չափով լայնությամբ և բարձրությամբ</translation>
+        <translation>Պատկերը հարմարեցնել պատուհանի լայնությանը կամ բարձրությանը</translation>
     </message>
     <message>
         <source>Next file</source>
@@ -15805,7 +15805,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Fit image to window, small only</source>
-        <translation>Հարմարեցնել պատկերը պատուհանում. միայն փոքրերը</translation>
+        <translation>Պատկերը հարմարեցնել պատուհանին, միայն փոքրերը</translation>
     </message>
     <message>
         <source>New Folder</source>
@@ -15909,7 +15909,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Fit window to image</source>
-        <translation>Հարմարեցնել պատուհանը պատկերի չափով</translation>
+        <translation>Պատուհանը հարմարեցնել պատկերի չափին</translation>
     </message>
     <message>
         <source>Select all files</source>
@@ -16061,7 +16061,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Fit image to desktop</source>
-        <translation>Հարմարեցնել պատկերը աշխատասեղանին</translation>
+        <translation>Պատկերը հարմարեցնել աշխատասեղանին</translation>
     </message>
     <message>
         <source>Show files in subfolders</source>
@@ -16622,7 +16622,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Fit image to window width</source>
-        <translation>Հարմարեցնել պատուհանի չափով</translation>
+        <translation>Պատկերը հարմարեցնել պատուհանի լայնությանը</translation>
     </message>
     <message>
         <source>Adjust</source>
@@ -16670,7 +16670,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Fit image to window, small only</source>
-        <translation>Հարմարեցնել պատկերը պատուհանում. միայն փոքրերը</translation>
+        <translation>Պատկերը հարմարեցնել պատուհանին, միայն փոքրերը</translation>
     </message>
     <message>
         <source>Vignetting...</source>
@@ -16678,7 +16678,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Fit image to window height</source>
-        <translation>Հարմարեցնել պատուհանի բարձրությամբ</translation>
+        <translation>Պատկերը հարմարեցնել պատուհանի բարձրությանը</translation>
     </message>
     <message>
         <source>Fixed ratio</source>
@@ -16766,7 +16766,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Fit image to window, large only</source>
-        <translation>Հարմարեցնել պատուհանի չափով, եթե այն մեծ է</translation>
+        <translation>Պատկերը հարմարեցնել պատուհանին, միայն մեծերը</translation>
     </message>
     <message>
         <source>Excellent</source>
@@ -16894,7 +16894,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Fit image to window</source>
-        <translation>Հարմարեցնել պատուհանի չափով</translation>
+        <translation>Պատկերը հարմարեցնել պատուհանին</translation>
     </message>
     <message>
         <source>Properties...</source>
@@ -16910,7 +16910,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Fit image to window width or height</source>
-        <translation>Հարմարեցնել պատուհանի չափով՝ լայնությամբ և բարձրությամբ</translation>
+        <translation>Պատկերը հարմարեցնել պատուհանի լայնությանը կամ բարձրությանը</translation>
     </message>
     <message>
         <source>Next file</source>
@@ -17018,7 +17018,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Fit window to image</source>
-        <translation>Հարմարեցնել պատուհանը պատկերի չափով</translation>
+        <translation>Պատուհանը հարմարեցնել պատկերի չափին</translation>
     </message>
     <message>
         <source>New image...</source>
@@ -17134,7 +17134,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Fit image to desktop</source>
-        <translation>Հարմարեցնել պատկերը աշխատասեղանին</translation>
+        <translation>Պատկերը հարմարեցնել աշխատասեղանին</translation>
     </message>
     <message>
         <source>Remove Background</source>
@@ -17896,7 +17896,7 @@ You can change it in Settings › Catalog.</source>
     </message>
     <message>
         <source>Best fit</source>
-        <translation>Հարմարեցնել</translation>
+        <translation>Լավագույն հարմարեցում</translation>
     </message>
     <message>
         <source>Zoom in</source>
