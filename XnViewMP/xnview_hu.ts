@@ -18792,7 +18792,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <location filename="SearchField.cpp" line="67"/>
         <location filename="TemplateData.cpp" line="2781"/>
         <source>Fixture ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Lámpa-azonosító</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="65"/>
@@ -19740,7 +19740,7 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="MediaPlayer.cpp" line="356"/>
         <source>Save frame as...</source>
-        <translation type="unfinished">Képkocka mentése másként...</translation>
+        <translation>Képkocka mentése másként...</translation>
     </message>
     <message>
         <location filename="MediaPlayer.cpp" line="359"/>
@@ -21930,7 +21930,7 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="ViewMenu.h" line="447"/>
         <source>Play/Pause media</source>
-        <translation type="unfinished"></translation>
+        <translation>Média lejátszása/szüneteltetése</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="454"/>
