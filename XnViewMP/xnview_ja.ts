@@ -3696,7 +3696,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgContactSheet.ui" line="844"/>
         <source>Best fit</source>
-        <translation>最適表示</translation>
+        <translation>ズーム調整</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="872"/>
@@ -6469,7 +6469,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertResize.ui" line="127"/>
         <source>Fit</source>
-        <translation>ズーム調整</translation>
+        <translation>画面に合わせる</translation>
     </message>
     <message>
         <location filename="DlgConvertResize.ui" line="132"/>
@@ -7116,7 +7116,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertWatermark.ui" line="141"/>
         <source>Fit</source>
-        <translation>適合させる</translation>
+        <translation>画面に合わせる</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="165"/>
