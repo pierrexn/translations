@@ -1100,7 +1100,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="CompareWidget.cpp" line="582"/>
         <source>Best fit</source>
-        <translation>Най-добро прилягане</translation>
+        <translation>Най-добро напасване</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="606"/>
@@ -2502,12 +2502,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgBatchResize.ui" line="372"/>
         <source>Fit</source>
-        <translation>Годен</translation>
+        <translation>Напасване</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="377"/>
         <source>Fill</source>
-        <translation>запълвам</translation>
+        <translation>Запълване</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="382"/>
@@ -3630,7 +3630,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgContactSheet.ui" line="844"/>
         <source>Best fit</source>
-        <translation>Най-добро прилягане</translation>
+        <translation>Най-добро напасване</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="872"/>
@@ -4828,7 +4828,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert.ui" line="309"/>
         <location filename="DlgConvert-old.ui" line="871"/>
         <source>Best fit</source>
-        <translation>Най-подходящ</translation>
+        <translation>Най-добро напасване</translation>
     </message>
     <message>
         <location filename="DlgConvert-old.ui" line="933"/>
@@ -5422,7 +5422,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertColors.ui" line="213"/>
         <source>Dithering</source>
-        <translation>Трептене</translation>
+        <translation>Дитеринг</translation>
     </message>
     <message>
         <location filename="DlgConvertColors.ui" line="62"/>
@@ -5979,7 +5979,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertMask.ui" line="129"/>
         <source>Stretch</source>
         <oldsource>Stretch mask</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Разтягане</translation>
     </message>
     <message>
         <location filename="DlgConvertMask.ui" line="136"/>
@@ -6363,12 +6363,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertResize.ui" line="127"/>
         <source>Fit</source>
-        <translation>Годни</translation>
+        <translation>Напасване</translation>
     </message>
     <message>
         <location filename="DlgConvertResize.ui" line="132"/>
         <source>Fill</source>
-        <translation>Запълнете</translation>
+        <translation>Запълване</translation>
     </message>
     <message>
         <location filename="DlgConvertResize.ui" line="137"/>
@@ -6835,7 +6835,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertText.ui" line="580"/>
         <source>Fill</source>
-        <translation>запълвам</translation>
+        <translation>Запълване</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="547"/>
@@ -6929,7 +6929,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertWatermark.ui" line="148"/>
         <source>Stretch</source>
-        <translation type="unfinished"></translation>
+        <translation>Разтягане</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="155"/>
@@ -7006,7 +7006,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertWatermark.ui" line="141"/>
         <source>Fit</source>
-        <translation>подходящ</translation>
+        <translation>Напасване</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="165"/>
@@ -8052,7 +8052,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="545"/>
         <source>Dithering</source>
-        <translation>Трептене</translation>
+        <translation>Дитеринг</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="243"/>
@@ -8397,7 +8397,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFileReplace.ui" line="165"/>
         <source>Best fit</source>
-        <translation>Най-добро прилягане</translation>
+        <translation>Най-добро напасване</translation>
     </message>
     <message>
         <location filename="DlgFileReplace.ui" line="192"/>
@@ -10297,7 +10297,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgProcess.cpp" line="59"/>
         <source>Best fit</source>
-        <translation>Най-добро прилягане</translation>
+        <translation>Най-добро напасване</translation>
     </message>
     <message>
         <location filename="DlgProcess.cpp" line="321"/>
@@ -10456,7 +10456,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgReadJPEG.ui" line="22"/>
         <source>Dithering</source>
-        <translation type="unfinished">Трептене</translation>
+        <translation>Дитеринг</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="30"/>
@@ -14781,7 +14781,7 @@ Do you want to reassign?</source>
         <location filename="DlgSimilarResult.ui" line="126"/>
         <location filename="DlgSimilarResult.ui" line="278"/>
         <source>Best fit</source>
-        <translation>Най-подходящ</translation>
+        <translation>Най-добро напасване</translation>
     </message>
     <message>
         <location filename="DlgSimilarResult.ui" line="153"/>
@@ -15114,7 +15114,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSplit.ui" line="41"/>
         <source>Best fit</source>
-        <translation>Най-добро прилягане</translation>
+        <translation>Най-добро напасване</translation>
     </message>
     <message>
         <location filename="DlgSplit.ui" line="55"/>
@@ -16069,23 +16069,23 @@ Do you want to continue?</source>
         <location filename="DlgWallpaper.ui" line="43"/>
         <source>Tile from center</source>
         <oldsource>Center tiled</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Плочки от центъра</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="48"/>
         <source>Stretch</source>
         <oldsource>Stretched</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Разтягане</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="53"/>
         <source>Fit</source>
-        <translation>Годен</translation>
+        <translation>Напасване</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="58"/>
         <source>Fill</source>
-        <translation>Запълнете</translation>
+        <translation>Запълване</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="83"/>
@@ -20205,47 +20205,47 @@ Do you want to continue?</oldsource>
         <location filename="DlgSettingsView.cpp" line="270"/>
         <location filename="BrowserMenu.h" line="654"/>
         <source>No fit</source>
-        <translation>Не пасва</translation>
+        <translation>Без оразмеряване</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="20"/>
         <location filename="DlgSettingsView.cpp" line="271"/>
         <location filename="BrowserMenu.h" line="655"/>
         <source>Fit image to window</source>
-        <translation>Напасване на изображението към прозореца</translation>
+        <translation>Напасни изображението към прозореца</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="22"/>
         <location filename="DlgSettingsView.cpp" line="273"/>
         <location filename="BrowserMenu.h" line="656"/>
         <source>Fit image to window, large only</source>
-        <translation>Побиране на изображението в прозореца, само голямо</translation>
+        <translation>Напасни изображението към прозореца, само големите</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="23"/>
         <location filename="DlgSettingsView.cpp" line="274"/>
         <location filename="BrowserMenu.h" line="658"/>
         <source>Fit image to window width</source>
-        <translation>Напасване на изображението към ширината на прозореца</translation>
+        <translation>Напасни изображението към ширината на прозореца</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="24"/>
         <location filename="DlgSettingsView.cpp" line="275"/>
         <location filename="BrowserMenu.h" line="659"/>
         <source>Fit image to window height</source>
-        <translation>Напасване на изображението към височината на прозореца</translation>
+        <translation>Напасни изображението към височината на прозореца</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="25"/>
         <location filename="DlgSettingsView.cpp" line="276"/>
         <location filename="BrowserMenu.h" line="660"/>
         <source>Fit image to window width or height</source>
-        <translation>Напасване на изображението към ширината или височината на прозореца</translation>
+        <translation>Напасни изображението към височината или ширината на прозореца</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="26"/>
         <source>Fit image to desktop</source>
-        <translation>Напасване на изображението към работния плот</translation>
+        <translation>Напасни изображението към работния плот</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="238"/>
@@ -21031,7 +21031,7 @@ Do you want to continue?</oldsource>
         <location filename="DlgSettingsView.cpp" line="272"/>
         <location filename="BrowserMenu.h" line="657"/>
         <source>Fit image to window, small only</source>
-        <translation>Напасване на изображението към прозореца, само малък</translation>
+        <translation>Напасни изображението към прозореца, само малките</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="663"/>
@@ -21524,7 +21524,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="355"/>
         <source>No fit</source>
-        <translation>Не пасва</translation>
+        <translation>Без оразмеряване</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="259"/>
@@ -21540,32 +21540,32 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="356"/>
         <source>Fit image to window</source>
-        <translation>Напасване на изображението към прозореца</translation>
+        <translation>Напасни изображението към прозореца</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="357"/>
         <source>Fit image to window, large only</source>
-        <translation>Побиране на изображението в прозореца, само голямо</translation>
+        <translation>Напасни изображението към прозореца, само големите</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="358"/>
         <source>Fit image to window, small only</source>
-        <translation>Напасване на изображението към прозореца, само малък</translation>
+        <translation>Напасни изображението към прозореца, само малките</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="359"/>
         <source>Fit image to window width</source>
-        <translation>Напасване на изображението към ширината на прозореца</translation>
+        <translation>Напасни изображението към ширината на прозореца</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="360"/>
         <source>Fit image to window height</source>
-        <translation>Напасване на изображението към височината на прозореца</translation>
+        <translation>Напасни изображението към височината на прозореца</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="361"/>
         <source>Fit image to window width or height</source>
-        <translation>Напасване на изображението към ширината или височината на прозореца</translation>
+        <translation>Напасни изображението към височината или ширината на прозореца</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="345"/>
@@ -21833,7 +21833,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="363"/>
         <source>Fit image to desktop</source>
-        <translation>Напасване на изображението към работния плот</translation>
+        <translation>Напасни изображението към работния плот</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="365"/>
@@ -23204,7 +23204,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="PaintWidget.ui" line="391"/>
         <source>Best fit</source>
-        <translation>Най-добро прилягане</translation>
+        <translation>Най-добро напасване</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="46"/>
@@ -23488,7 +23488,7 @@ You can change it in Settings › Catalog.</oldsource>
         <location filename="PaintWidget.ui" line="1215"/>
         <source>Stretch</source>
         <oldsource>Stretch image</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Разтягане</translation>
     </message>
     <message>
         <location filename="PaintWidget.cpp" line="436"/>
