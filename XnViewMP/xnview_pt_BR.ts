@@ -4177,7 +4177,7 @@ Deseja continuar?</translation>
     </message>
     <message>
         <source>Dithering</source>
-        <translation>Pontilhamento</translation>
+        <translation>Dithering</translation>
     </message>
     <message>
         <source>24 bits</source>
@@ -6257,7 +6257,7 @@ Certifique-se de que os arquivos não sejam somente de leitura!</translation>
     </message>
     <message>
         <source>Dithering</source>
-        <translation>Pontilhamento</translation>
+        <translation>Dithering</translation>
     </message>
     <message>
         <source>JPEG</source>
@@ -8160,7 +8160,7 @@ Certifique-se de que os arquivos não sejam somente de leitura!</translation>
     <name>DlgReadJPEG</name>
     <message>
         <source>Dithering</source>
-        <translation>Pontilhamento</translation>
+        <translation>Dithering</translation>
     </message>
     <message>
         <source>None</source>
