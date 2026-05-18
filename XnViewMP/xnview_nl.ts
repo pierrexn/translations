@@ -1104,7 +1104,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen?</translation>
     <message>
         <location filename="CompareWidget.cpp" line="582"/>
         <source>Best fit</source>
-        <translation>Passend</translation>
+        <translation>Best passend</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="606"/>
@@ -3638,7 +3638,7 @@ Overschrijven?</translation>
     <message>
         <location filename="DlgContactSheet.ui" line="844"/>
         <source>Best fit</source>
-        <translation>Passend maken</translation>
+        <translation>Best passend</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="872"/>
@@ -5444,7 +5444,7 @@ Doorgaan?</translation>
     <message>
         <location filename="DlgConvertColors.ui" line="213"/>
         <source>Dithering</source>
-        <translation>Rastering</translation>
+        <translation>Dithering</translation>
     </message>
     <message>
         <location filename="DlgConvertColors.ui" line="62"/>
@@ -8079,7 +8079,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
     <message>
         <location filename="DlgExport.ui" line="545"/>
         <source>Dithering</source>
-        <translation>Rastering</translation>
+        <translation>Dithering</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="243"/>
@@ -8424,7 +8424,7 @@ Probeer te beginnen met beheerdersrechten.</translation>
     <message>
         <location filename="DlgFileReplace.ui" line="165"/>
         <source>Best fit</source>
-        <translation>Passend</translation>
+        <translation>Best passend</translation>
     </message>
     <message>
         <location filename="DlgFileReplace.ui" line="192"/>
@@ -10327,7 +10327,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
     <message>
         <location filename="DlgProcess.cpp" line="59"/>
         <source>Best fit</source>
-        <translation>Passend</translation>
+        <translation>Best passend</translation>
     </message>
     <message>
         <location filename="DlgProcess.cpp" line="321"/>
@@ -10486,7 +10486,7 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
     <message>
         <location filename="DlgReadJPEG.ui" line="22"/>
         <source>Dithering</source>
-        <translation>Rastering</translation>
+        <translation>Dithering</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="30"/>
@@ -14821,7 +14821,7 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSimilarResult.ui" line="126"/>
         <location filename="DlgSimilarResult.ui" line="278"/>
         <source>Best fit</source>
-        <translation>Passend</translation>
+        <translation>Best passend</translation>
     </message>
     <message>
         <location filename="DlgSimilarResult.ui" line="153"/>
@@ -15154,7 +15154,7 @@ Opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgSplit.ui" line="41"/>
         <source>Best fit</source>
-        <translation>Passend</translation>
+        <translation>Best passend</translation>
     </message>
     <message>
         <location filename="DlgSplit.ui" line="55"/>
@@ -20346,14 +20346,14 @@ Doorgaan?</translation>
         <location filename="DlgSettingsView.cpp" line="271"/>
         <location filename="BrowserMenu.h" line="655"/>
         <source>Fit image to window</source>
-        <translation>Afbeelding passen in het venster</translation>
+        <translation>Afbeelding passen in venster</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="22"/>
         <location filename="DlgSettingsView.cpp" line="273"/>
         <location filename="BrowserMenu.h" line="656"/>
         <source>Fit image to window, large only</source>
-        <translation>Afbeelding passen in het venster, alleen groot</translation>
+        <translation>Afbeelding passen in venster, alleen groot</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="23"/>
@@ -23272,7 +23272,7 @@ Dit is te wijzigen in Instellingen › Catalogus.</translation>
     <message>
         <location filename="PaintWidget.ui" line="391"/>
         <source>Best fit</source>
-        <translation>Passend maken</translation>
+        <translation>Best passend</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="46"/>
