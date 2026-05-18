@@ -15446,7 +15446,7 @@ Czy zmienić przypisanie?</translation>
     <message>
         <location filename="DlgStrip.ui" line="198"/>
         <source>Fit width or height</source>
-        <translation>Dopasuj obraz do szerokości lub wysokości</translation>
+        <translation>Dopasuj do szerokości lub wysokości</translation>
     </message>
     <message>
         <location filename="DlgStrip.ui" line="210"/>
@@ -20198,7 +20198,7 @@ Czy chcesz kontynuować?</translation>
         <location filename="DlgSettingsView.cpp" line="273"/>
         <location filename="BrowserMenu.h" line="656"/>
         <source>Fit image to window, large only</source>
-        <translation>Dopasuj za duże obrazy do okna</translation>
+        <translation>Dopasuj obraz do okna, tylko duże</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="23"/>
@@ -21267,7 +21267,7 @@ Czy chcesz kontynuować?</translation>
         <location filename="DlgSettingsView.cpp" line="272"/>
         <location filename="BrowserMenu.h" line="657"/>
         <source>Fit image to window, small only</source>
-        <translation>Dopasuj za małe obrazy do wielkości okna</translation>
+        <translation>Dopasuj obraz do okna, tylko małe</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="663"/>
@@ -21551,7 +21551,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="ViewMenu.h" line="357"/>
         <source>Fit image to window, large only</source>
-        <translation>Dopasuj za duże obrazy do okna</translation>
+        <translation>Dopasuj obraz do okna, tylko duże</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="359"/>
@@ -21623,7 +21623,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="ViewMenu.h" line="358"/>
         <source>Fit image to window, small only</source>
-        <translation>Dopasuj za małe obrazy do wielkości okna</translation>
+        <translation>Dopasuj obraz do okna, tylko małe</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="345"/>
