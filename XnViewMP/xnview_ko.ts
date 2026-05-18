@@ -1101,7 +1101,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="CompareWidget.cpp" line="582"/>
         <source>Best fit</source>
-        <translation>최적</translation>
+        <translation>최적 맞춤</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="606"/>
@@ -1208,25 +1208,25 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DlgConvertAutoCrop.h" line="21"/>
         <location filename="DlgConvertCanvas.h" line="39"/>
         <source>Top-Left</source>
-        <translation>상단-왼쪽</translation>
+        <translation>상단 왼쪽</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.h" line="22"/>
         <location filename="DlgConvertCanvas.h" line="40"/>
         <source>Top-Right</source>
-        <translation>상단-오른쪽</translation>
+        <translation>상단 오른쪽</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.h" line="23"/>
         <location filename="DlgConvertCanvas.h" line="41"/>
         <source>Bottom-Left</source>
-        <translation>하단-왼쪽</translation>
+        <translation>하단 왼쪽</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.h" line="24"/>
         <location filename="DlgConvertCanvas.h" line="42"/>
         <source>Bottom-Right</source>
-        <translation>하단-오른쪽</translation>
+        <translation>하단 오른쪽</translation>
     </message>
     <message>
         <location filename="DlgConvertEmpty.h" line="20"/>
@@ -3625,7 +3625,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgContactSheet.ui" line="844"/>
         <source>Best fit</source>
-        <translation>최적</translation>
+        <translation>최적 맞춤</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="872"/>
@@ -4476,7 +4476,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertBorder.ui" line="480"/>
         <source>Center-Right</source>
         <oldsource>Center right</oldsource>
-        <translation>오른쪽</translation>
+        <translation>중앙 오른쪽</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="485"/>
@@ -4674,7 +4674,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertCanvas.ui" line="526"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom center</oldsource>
-        <translation>하단 가운데</translation>
+        <translation>하단 중앙</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="531"/>
@@ -5109,7 +5109,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert.ui" line="309"/>
         <location filename="DlgConvert-old.ui" line="871"/>
         <source>Best fit</source>
-        <translation>최적</translation>
+        <translation>최적 맞춤</translation>
     </message>
     <message>
         <location filename="DlgConvert-old.ui" line="933"/>
@@ -6211,7 +6211,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertQRcode.ui" line="94"/>
         <source>Center-Right</source>
-        <translation>중앙 우측</translation>
+        <translation>중앙 오른쪽</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="99"/>
@@ -6223,7 +6223,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertQRcode.ui" line="104"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation>아래쪽</translation>
+        <translation>하단 중앙</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="109"/>
@@ -8389,7 +8389,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFileReplace.ui" line="165"/>
         <source>Best fit</source>
-        <translation>최적</translation>
+        <translation>최적 맞춤</translation>
     </message>
     <message>
         <location filename="DlgFileReplace.ui" line="192"/>
@@ -10088,22 +10088,22 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPrint.ui" line="559"/>
         <source>Top-Left</source>
-        <translation>상단-왼쪽</translation>
+        <translation>상단 왼쪽</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="564"/>
         <source>Top-Center</source>
-        <translation>상단-가운데</translation>
+        <translation>상단 중앙</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="569"/>
         <source>Top-Right</source>
-        <translation>상단-오른쪽</translation>
+        <translation>상단 오른쪽</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="574"/>
         <source>Center-Left</source>
-        <translation>가운데-왼쪽</translation>
+        <translation>중앙 왼쪽</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="579"/>
@@ -10113,22 +10113,22 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPrint.ui" line="584"/>
         <source>Center-Right</source>
-        <translation>가운데-오른쪽</translation>
+        <translation>중앙 오른쪽</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="589"/>
         <source>Bottom-Left</source>
-        <translation>하단-왼쪽</translation>
+        <translation>하단 왼쪽</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="594"/>
         <source>Bottom-Center</source>
-        <translation>하단-가운데</translation>
+        <translation>하단 중앙</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="599"/>
         <source>Bottom-Right</source>
-        <translation>하단-오른쪽</translation>
+        <translation>하단 오른쪽</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="607"/>
@@ -10284,7 +10284,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgProcess.cpp" line="59"/>
         <source>Best fit</source>
-        <translation>최적</translation>
+        <translation>최적 맞춤</translation>
     </message>
     <message>
         <location filename="DlgProcess.cpp" line="321"/>
@@ -11129,7 +11129,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgResize.ui" line="632"/>
         <source>Center-Right</source>
-        <translation>중앙 우측</translation>
+        <translation>중앙 오른쪽</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="617"/>
@@ -19120,22 +19120,22 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="126"/>
         <source>Top-Right</source>
-        <translation>상단-오른쪽</translation>
+        <translation>상단 오른쪽</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="129"/>
         <source>Bottom-Left</source>
-        <translation>하단-왼쪽</translation>
+        <translation>하단 왼쪽</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="132"/>
         <source>Bottom-Right</source>
-        <translation>하단-오른쪽</translation>
+        <translation>하단 오른쪽</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="136"/>
         <source>Top-Left</source>
-        <translation>상단-왼쪽</translation>
+        <translation>상단 왼쪽</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="153"/>
@@ -22661,25 +22661,25 @@ Do you want to continue?</oldsource>
         <location filename="DlgSettingsView.cpp" line="221"/>
         <location filename="DlgSlideshow.cpp" line="43"/>
         <source>Top-Left</source>
-        <translation>상단-왼쪽</translation>
+        <translation>상단 왼쪽</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="222"/>
         <location filename="DlgSlideshow.cpp" line="44"/>
         <source>Top-Center</source>
-        <translation>상단-가운데</translation>
+        <translation>상단 중앙</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="223"/>
         <location filename="DlgSlideshow.cpp" line="45"/>
         <source>Top-Right</source>
-        <translation>상단-오른쪽</translation>
+        <translation>상단 오른쪽</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="224"/>
         <location filename="DlgSlideshow.cpp" line="46"/>
         <source>Center-Left</source>
-        <translation>가운데-왼쪽</translation>
+        <translation>중앙 왼쪽</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="225"/>
@@ -22691,25 +22691,25 @@ Do you want to continue?</oldsource>
         <location filename="DlgSettingsView.cpp" line="226"/>
         <location filename="DlgSlideshow.cpp" line="48"/>
         <source>Center-Right</source>
-        <translation>가운데-오른쪽</translation>
+        <translation>중앙 오른쪽</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="227"/>
         <location filename="DlgSlideshow.cpp" line="49"/>
         <source>Bottom-Left</source>
-        <translation>하단-왼쪽</translation>
+        <translation>하단 왼쪽</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="228"/>
         <location filename="DlgSlideshow.cpp" line="50"/>
         <source>Bottom-Center</source>
-        <translation>하단-가운데</translation>
+        <translation>하단 중앙</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="229"/>
         <location filename="DlgSlideshow.cpp" line="51"/>
         <source>Bottom-Right</source>
-        <translation>하단-오른쪽</translation>
+        <translation>하단 오른쪽</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="998"/>
@@ -23415,12 +23415,12 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="PaintWidget.ui" line="1251"/>
         <source>Top-Left</source>
-        <translation>상단-왼쪽</translation>
+        <translation>상단 왼쪽</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1256"/>
         <source>Top-Right</source>
-        <translation>상단-오른쪽</translation>
+        <translation>상단 오른쪽</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1261"/>
@@ -23430,12 +23430,12 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="PaintWidget.ui" line="1266"/>
         <source>Bottom-Left</source>
-        <translation>하단-왼쪽</translation>
+        <translation>하단 왼쪽</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1271"/>
         <source>Bottom-Right</source>
-        <translation>하단-오른쪽</translation>
+        <translation>하단 오른쪽</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1530"/>
