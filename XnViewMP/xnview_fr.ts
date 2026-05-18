@@ -14826,7 +14826,7 @@ Voulez-vous le réaffecter ?</translation>
         <location filename="DlgSimilarResult.ui" line="126"/>
         <location filename="DlgSimilarResult.ui" line="278"/>
         <source>Best fit</source>
-        <translation>Ajustement</translation>
+        <translation>Meilleure adaptation</translation>
     </message>
     <message>
         <location filename="DlgSimilarResult.ui" line="153"/>
@@ -15159,7 +15159,7 @@ Voulez-vous le réaffecter ?</translation>
     <message>
         <location filename="DlgSplit.ui" line="41"/>
         <source>Best fit</source>
-        <translation>Meilleur adaptation</translation>
+        <translation>Meilleure adaptation</translation>
     </message>
     <message>
         <location filename="DlgSplit.ui" line="55"/>
