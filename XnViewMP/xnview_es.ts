@@ -2856,7 +2856,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Best fit</source>
-        <translation>Ajustar</translation>
+        <translation>Mejor ajuste</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -4035,7 +4035,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Best fit</source>
-        <translation>Ajustar</translation>
+        <translation>Mejor ajuste</translation>
     </message>
     <message>
         <source>Hot folders...</source>
@@ -6580,7 +6580,7 @@ Por favor, intente iniciar con derechos de Administrador.</translation>
     </message>
     <message>
         <source>Best fit</source>
-        <translation>Ajustar</translation>
+        <translation>Mejor ajuste</translation>
     </message>
     <message>
         <source>&amp;Replace</source>
@@ -8039,7 +8039,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Best fit</source>
-        <translation>Ajustar</translation>
+        <translation>Mejor ajuste</translation>
     </message>
 </context>
 <context>
@@ -11513,7 +11513,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Best fit</source>
-        <translation>Ajustar</translation>
+        <translation>Mejor ajuste</translation>
     </message>
     <message>
         <source>Modified date</source>
@@ -11746,7 +11746,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Best fit</source>
-        <translation>Ajustar</translation>
+        <translation>Mejor ajuste</translation>
     </message>
     <message>
         <source>Size (pixels)</source>
@@ -17989,7 +17989,7 @@ Puedo cambiarlo en Configuración › Catálogo.</translation>
     </message>
     <message>
         <source>Best fit</source>
-        <translation>Ajustar</translation>
+        <translation>Mejor ajuste</translation>
     </message>
     <message>
         <source>Add a watermark</source>
