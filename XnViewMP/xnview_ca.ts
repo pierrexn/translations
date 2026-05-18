@@ -1104,7 +1104,7 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
     <message>
         <location filename="CompareWidget.cpp" line="582"/>
         <source>Best fit</source>
-        <translation>Millor adaptació</translation>
+        <translation>Ajust òptim</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="606"/>
@@ -1211,25 +1211,25 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
         <location filename="DlgConvertAutoCrop.h" line="21"/>
         <location filename="DlgConvertCanvas.h" line="39"/>
         <source>Top-Left</source>
-        <translation>Dalt-esquerra</translation>
+        <translation>Dalt-Esquerra</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.h" line="22"/>
         <location filename="DlgConvertCanvas.h" line="40"/>
         <source>Top-Right</source>
-        <translation>Dalt-dreta</translation>
+        <translation>Dalt-Dreta</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.h" line="23"/>
         <location filename="DlgConvertCanvas.h" line="41"/>
         <source>Bottom-Left</source>
-        <translation>Baix-esquerra</translation>
+        <translation>Baix-Esquerra</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.h" line="24"/>
         <location filename="DlgConvertCanvas.h" line="42"/>
         <source>Bottom-Right</source>
-        <translation>Baix-dreta</translation>
+        <translation>Baix-Dreta</translation>
     </message>
     <message>
         <location filename="DlgConvertEmpty.h" line="20"/>
@@ -2507,7 +2507,7 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
     <message>
         <location filename="DlgBatchResize.ui" line="372"/>
         <source>Fit</source>
-        <translation>Ajusta</translation>
+        <translation>Ajust</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="377"/>
@@ -3635,7 +3635,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgContactSheet.ui" line="844"/>
         <source>Best fit</source>
-        <translation>Millor encaix</translation>
+        <translation>Ajust òptim</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="872"/>
@@ -4459,7 +4459,7 @@ Voleu continuar?</translation>
         <location filename="DlgConvertBorder.ui" line="455"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation>Dalt-esquerra</translation>
+        <translation>Dalt-Esquerra</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="460"/>
@@ -4500,7 +4500,7 @@ Voleu continuar?</translation>
         <location filename="DlgConvertBorder.ui" line="490"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom center</oldsource>
-        <translation>Baix-centre</translation>
+        <translation>Baix-Centre</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="495"/>
@@ -4645,7 +4645,7 @@ Voleu continuar?</translation>
         <location filename="DlgConvertCanvas.ui" line="491"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation>Dalt-esquerra</translation>
+        <translation>Dalt-Esquerra</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="496"/>
@@ -5097,7 +5097,7 @@ Voleu continuar?</translation>
         <location filename="DlgConvert.ui" line="309"/>
         <location filename="DlgConvert-old.ui" line="871"/>
         <source>Best fit</source>
-        <translation>Millor encaix</translation>
+        <translation>Ajust òptim</translation>
     </message>
     <message>
         <location filename="DlgConvert-old.ui" line="933"/>
@@ -5438,7 +5438,7 @@ Voleu continuar?</translation>
     <message>
         <location filename="DlgConvertColors.ui" line="213"/>
         <source>Dithering</source>
-        <translation>Tramat</translation>
+        <translation>Dithering</translation>
     </message>
     <message>
         <location filename="DlgConvertColors.ui" line="62"/>
@@ -6205,7 +6205,7 @@ Voleu continuar?</translation>
         <location filename="DlgConvertQRcode.ui" line="69"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation>Dalt-esquerra</translation>
+        <translation>Dalt-Esquerra</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="79"/>
@@ -6243,7 +6243,7 @@ Voleu continuar?</translation>
         <location filename="DlgConvertQRcode.ui" line="104"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation>Baix-centre</translation>
+        <translation>Baix-Centre</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="109"/>
@@ -6384,7 +6384,7 @@ Voleu continuar?</translation>
     <message>
         <location filename="DlgConvertResize.ui" line="127"/>
         <source>Fit</source>
-        <translation>Ajusta</translation>
+        <translation>Ajust</translation>
     </message>
     <message>
         <location filename="DlgConvertResize.ui" line="132"/>
@@ -6724,7 +6724,7 @@ Voleu continuar?</translation>
         <location filename="DlgConvertText.ui" line="144"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation>Baix-centre</translation>
+        <translation>Baix-Centre</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="149"/>
@@ -7027,7 +7027,7 @@ Voleu continuar?</translation>
     <message>
         <location filename="DlgConvertWatermark.ui" line="141"/>
         <source>Fit</source>
-        <translation>Ajusta</translation>
+        <translation>Ajust</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="165"/>
@@ -7066,7 +7066,7 @@ Voleu continuar?</translation>
         <location filename="DlgConvertWatermark.ui" line="219"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation>Baix-centre</translation>
+        <translation>Baix-Centre</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="224"/>
@@ -8078,7 +8078,7 @@ Sisplau comproveu que els fitxers no siguin de sols lectura!</translation>
     <message>
         <location filename="DlgExport.ui" line="545"/>
         <source>Dithering</source>
-        <translation>Tramat</translation>
+        <translation>Dithering</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="243"/>
@@ -8418,7 +8418,7 @@ Sisplau, proveu de començar amb drets d&apos;administrador.</translation>
     <message>
         <location filename="DlgFileReplace.ui" line="165"/>
         <source>Best fit</source>
-        <translation>Millor adaptació</translation>
+        <translation>Ajust òptim</translation>
     </message>
     <message>
         <location filename="DlgFileReplace.ui" line="192"/>
@@ -10126,7 +10126,7 @@ Sisplau comproveu que els fitxers no siguin de sols lectura!</translation>
     <message>
         <location filename="DlgPrint.ui" line="559"/>
         <source>Top-Left</source>
-        <translation>Dalt-esquerra</translation>
+        <translation>Dalt-Esquerra</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="564"/>
@@ -10136,7 +10136,7 @@ Sisplau comproveu que els fitxers no siguin de sols lectura!</translation>
     <message>
         <location filename="DlgPrint.ui" line="569"/>
         <source>Top-Right</source>
-        <translation>Dalt-dreta</translation>
+        <translation>Dalt-Dreta</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="574"/>
@@ -10156,17 +10156,17 @@ Sisplau comproveu que els fitxers no siguin de sols lectura!</translation>
     <message>
         <location filename="DlgPrint.ui" line="589"/>
         <source>Bottom-Left</source>
-        <translation>Baix-esquerra</translation>
+        <translation>Baix-Esquerra</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="594"/>
         <source>Bottom-Center</source>
-        <translation>Baix-centre</translation>
+        <translation>Baix-Centre</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="599"/>
         <source>Bottom-Right</source>
-        <translation>Baix-dreta</translation>
+        <translation>Baix-Dreta</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="607"/>
@@ -10322,7 +10322,7 @@ Sisplau comproveu que els fitxers no siguin de sols lectura!</translation>
     <message>
         <location filename="DlgProcess.cpp" line="59"/>
         <source>Best fit</source>
-        <translation>Millor encaix</translation>
+        <translation>Ajust òptim</translation>
     </message>
     <message>
         <location filename="DlgProcess.cpp" line="321"/>
@@ -10481,7 +10481,7 @@ Sisplau comproveu que els fitxers no siguin de sols lectura!</translation>
     <message>
         <location filename="DlgReadJPEG.ui" line="22"/>
         <source>Dithering</source>
-        <translation type="unfinished">Tramat</translation>
+        <translation>Dithering</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="30"/>
@@ -11192,7 +11192,7 @@ Voleu suprimir-los?</translation>
         <location filename="DlgResize.ui" line="642"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation>Baix-centre</translation>
+        <translation>Baix-Centre</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="647"/>
@@ -14811,7 +14811,7 @@ Vols reassignar?</translation>
         <location filename="DlgSimilarResult.ui" line="126"/>
         <location filename="DlgSimilarResult.ui" line="278"/>
         <source>Best fit</source>
-        <translation>Millor adaptació</translation>
+        <translation>Ajust òptim</translation>
     </message>
     <message>
         <location filename="DlgSimilarResult.ui" line="153"/>
@@ -15144,7 +15144,7 @@ Vols reassignar?</translation>
     <message>
         <location filename="DlgSplit.ui" line="41"/>
         <source>Best fit</source>
-        <translation>Millor encaix</translation>
+        <translation>Ajust òptim</translation>
     </message>
     <message>
         <location filename="DlgSplit.ui" line="55"/>
@@ -16118,7 +16118,7 @@ Vols continuar?</translation>
     <message>
         <location filename="DlgWallpaper.ui" line="53"/>
         <source>Fit</source>
-        <translation>Ajustat</translation>
+        <translation>Ajust</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="58"/>
@@ -19166,22 +19166,22 @@ Voleu suprimir el favorit &quot;% 1&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="126"/>
         <source>Top-Right</source>
-        <translation>Dalt-dreta</translation>
+        <translation>Dalt-Dreta</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="129"/>
         <source>Bottom-Left</source>
-        <translation>Baix-esquerra</translation>
+        <translation>Baix-Esquerra</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="132"/>
         <source>Bottom-Right</source>
-        <translation>Baix-dreta</translation>
+        <translation>Baix-Dreta</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="136"/>
         <source>Top-Left</source>
-        <translation>Dalt-esquerra</translation>
+        <translation>Dalt-Esquerra</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="153"/>
@@ -20717,42 +20717,42 @@ Vols continuar?</translation>
         <location filename="DlgSettingsView.cpp" line="270"/>
         <location filename="BrowserMenu.h" line="654"/>
         <source>No fit</source>
-        <translation>Sense encaix</translation>
+        <translation>Sense ajustar</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="20"/>
         <location filename="DlgSettingsView.cpp" line="271"/>
         <location filename="BrowserMenu.h" line="655"/>
         <source>Fit image to window</source>
-        <translation>Ajusta imatge a la finestra</translation>
+        <translation>Ajusta a la finestra</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="22"/>
         <location filename="DlgSettingsView.cpp" line="273"/>
         <location filename="BrowserMenu.h" line="656"/>
         <source>Fit image to window, large only</source>
-        <translation>Ajusta imatge a la finestra, sols les grans</translation>
+        <translation>Ajusta a la finestra, sols les grans</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="23"/>
         <location filename="DlgSettingsView.cpp" line="274"/>
         <location filename="BrowserMenu.h" line="658"/>
         <source>Fit image to window width</source>
-        <translation>Ajusta la imatge a l&apos;ample de la finestra</translation>
+        <translation>Ajusta a l&apos;amplada de la finestra</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="24"/>
         <location filename="DlgSettingsView.cpp" line="275"/>
         <location filename="BrowserMenu.h" line="659"/>
         <source>Fit image to window height</source>
-        <translation>Ajusta la imatge a l&apos;alçada de la finestra</translation>
+        <translation>Ajusta a l&apos;alçada de la finestra</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="25"/>
         <location filename="DlgSettingsView.cpp" line="276"/>
         <location filename="BrowserMenu.h" line="660"/>
         <source>Fit image to window width or height</source>
-        <translation>Ajusta la imatge a l&apos;ample o l&apos;alt de la finestra</translation>
+        <translation>Ajusta a l’alçada o a l&apos;amplada de la finestra</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="26"/>
@@ -21278,7 +21278,7 @@ Vols continuar?</translation>
     <message>
         <location filename="DlgSettingsView.cpp" line="27"/>
         <source>Fit window to image</source>
-        <translation>Encaixa la finestra a la imatge</translation>
+        <translation>Ajusta la finestra a la imatge</translation>
     </message>
 </context>
 <context>
@@ -21537,12 +21537,12 @@ Vols continuar?</translation>
     <message>
         <location filename="ViewMenu.h" line="360"/>
         <source>Fit image to window height</source>
-        <translation>Ajusta a l&apos;altura de la finestra</translation>
+        <translation>Ajusta a l&apos;alçada de la finestra</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="361"/>
         <source>Fit image to window width or height</source>
-        <translation>Ajusta a l&apos;ample o alt de la finestra</translation>
+        <translation>Ajusta a l’alçada o a l&apos;amplada de la finestra</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="178"/>
@@ -21705,7 +21705,7 @@ Vols continuar?</translation>
     <message>
         <location filename="ViewMenu.h" line="362"/>
         <source>Fit window to image</source>
-        <translation>Encaixa la finestra a la imatge</translation>
+        <translation>Ajusta la finestra a la imatge</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="365"/>
@@ -21974,7 +21974,7 @@ Vols continuar?</translation>
     <message>
         <location filename="ViewMenu.h" line="363"/>
         <source>Fit image to desktop</source>
-        <translation>Encaixa la imatge a la finestra</translation>
+        <translation>Ajusta la imatge a la finestra</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="415"/>
@@ -22739,7 +22739,7 @@ Vols continuar?</translation>
         <location filename="DlgSettingsView.cpp" line="221"/>
         <location filename="DlgSlideshow.cpp" line="43"/>
         <source>Top-Left</source>
-        <translation>Dalt-esquerra</translation>
+        <translation>Dalt-Esquerra</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="222"/>
@@ -22751,7 +22751,7 @@ Vols continuar?</translation>
         <location filename="DlgSettingsView.cpp" line="223"/>
         <location filename="DlgSlideshow.cpp" line="45"/>
         <source>Top-Right</source>
-        <translation>Dalt-dreta</translation>
+        <translation>Dalt-Dreta</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="224"/>
@@ -22775,19 +22775,19 @@ Vols continuar?</translation>
         <location filename="DlgSettingsView.cpp" line="227"/>
         <location filename="DlgSlideshow.cpp" line="49"/>
         <source>Bottom-Left</source>
-        <translation>Baix-esquerra</translation>
+        <translation>Baix-Esquerra</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="228"/>
         <location filename="DlgSlideshow.cpp" line="50"/>
         <source>Bottom-Center</source>
-        <translation>Baix-centre</translation>
+        <translation>Baix-Centre</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="229"/>
         <location filename="DlgSlideshow.cpp" line="51"/>
         <source>Bottom-Right</source>
-        <translation>Baix-dreta</translation>
+        <translation>Baix-Dreta</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="998"/>
@@ -23274,7 +23274,7 @@ Podeu canviar-la en Opcions › Catàleg</translation>
     <message>
         <location filename="PaintWidget.ui" line="391"/>
         <source>Best fit</source>
-        <translation>Millor encaix</translation>
+        <translation>Ajust òptim</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="46"/>
@@ -23497,12 +23497,12 @@ Podeu canviar-la en Opcions › Catàleg</translation>
     <message>
         <location filename="PaintWidget.ui" line="1251"/>
         <source>Top-Left</source>
-        <translation>Dalt-esquerra</translation>
+        <translation>Dalt-Esquerra</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1256"/>
         <source>Top-Right</source>
-        <translation>Dalt-dreta</translation>
+        <translation>Dalt-Dreta</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1261"/>
@@ -23512,12 +23512,12 @@ Podeu canviar-la en Opcions › Catàleg</translation>
     <message>
         <location filename="PaintWidget.ui" line="1266"/>
         <source>Bottom-Left</source>
-        <translation>Baix-esquerra</translation>
+        <translation>Baix-Esquerra</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1271"/>
         <source>Bottom-Right</source>
-        <translation>Baix-dreta</translation>
+        <translation>Baix-Dreta</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1530"/>
