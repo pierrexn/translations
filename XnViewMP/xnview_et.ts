@@ -5429,7 +5429,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertColors.ui" line="213"/>
         <source>Dithering</source>
-        <translation>Toonimine</translation>
+        <translation>Virvtoonimine</translation>
     </message>
     <message>
         <location filename="DlgConvertColors.ui" line="62"/>
@@ -8065,7 +8065,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="545"/>
         <source>Dithering</source>
-        <translation>Toonimine</translation>
+        <translation>Virvtoonimine</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="243"/>
@@ -10459,7 +10459,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgReadJPEG.ui" line="22"/>
         <source>Dithering</source>
-        <translation type="unfinished">Toonimine</translation>
+        <translation>Virvtoonimine</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="30"/>
