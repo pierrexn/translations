@@ -2509,7 +2509,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="DlgBatchResize.ui" line="377"/>
         <source>Fill</source>
-        <translation>Füllung</translation>
+        <translation>Füllen</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="382"/>
@@ -5435,7 +5435,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="DlgConvertColors.ui" line="213"/>
         <source>Dithering</source>
-        <translation>Rasterung</translation>
+        <translation>Dithering</translation>
     </message>
     <message>
         <location filename="DlgConvertColors.ui" line="62"/>
@@ -6386,7 +6386,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="DlgConvertResize.ui" line="132"/>
         <source>Fill</source>
-        <translation>Füllung</translation>
+        <translation>Füllen</translation>
     </message>
     <message>
         <location filename="DlgConvertResize.ui" line="137"/>
@@ -6853,7 +6853,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="DlgConvertText.ui" line="580"/>
         <source>Fill</source>
-        <translation>Füllung</translation>
+        <translation>Füllen</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="547"/>
@@ -7024,7 +7024,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="DlgConvertWatermark.ui" line="141"/>
         <source>Fit</source>
-        <translation>Anpassen - Vollständig</translation>
+        <translation>Anpassen</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="165"/>
@@ -8075,7 +8075,7 @@ Bitte stellen Sie sicher, dass die Dateien nicht schreibgeschützt sind.</transl
     <message>
         <location filename="DlgExport.ui" line="545"/>
         <source>Dithering</source>
-        <translation>Rasterung</translation>
+        <translation>Dithering</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="243"/>
@@ -16118,12 +16118,12 @@ Wollen Sie fortfahren?</translation>
     <message>
         <location filename="DlgWallpaper.ui" line="53"/>
         <source>Fit</source>
-        <translation>Auf Desktopgröße anpassen - Vollständig</translation>
+        <translation>Anpassen</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="58"/>
         <source>Fill</source>
-        <translation>Auf Desktopgröße anpassen - Zuschneiden</translation>
+        <translation>Füllen</translation>
     </message>
     <message>
         <location filename="DlgWallpaper.ui" line="83"/>
@@ -23427,7 +23427,7 @@ You can change it in Settings › Catalog.</oldsource>
         <location filename="PaintWidget.ui" line="520"/>
         <source>Fill</source>
         <oldsource>Fill:</oldsource>
-        <translation>Füllung</translation>
+        <translation>Füllen</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="549"/>
