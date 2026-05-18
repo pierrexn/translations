@@ -18866,7 +18866,7 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
         <location filename="SearchField.cpp" line="67"/>
         <location filename="TemplateData.cpp" line="2781"/>
         <source>Fixture ID</source>
-        <translation type="unfinished"></translation>
+        <translation>ID do suporte</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="65"/>
@@ -19816,7 +19816,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="MediaPlayer.cpp" line="356"/>
         <source>Save frame as...</source>
-        <translation type="unfinished">Guardar fotograma como...</translation>
+        <translation>Guardar fotograma como...</translation>
     </message>
     <message>
         <location filename="MediaPlayer.cpp" line="359"/>
@@ -22457,7 +22457,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="ViewMenu.h" line="447"/>
         <source>Play/Pause media</source>
-        <translation type="unfinished"></translation>
+        <translation>Leitura/Pausa</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="451"/>
