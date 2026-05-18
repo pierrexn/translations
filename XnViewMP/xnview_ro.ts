@@ -7972,7 +7972,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Single - Crop to page</source>
-        <translation>O singură imagine - Decupează ca să încapă pe pagină</translation>
+        <translation>O singură imagine - Decupeaz-o ca să încapă pe pagină</translation>
     </message>
     <message>
         <source>Y scale</source>
