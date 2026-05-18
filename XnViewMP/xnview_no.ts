@@ -5426,7 +5426,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertColors.ui" line="213"/>
         <source>Dithering</source>
-        <translation>Formattilpassing</translation>
+        <translation>Dithering</translation>
     </message>
     <message>
         <location filename="DlgConvertColors.ui" line="62"/>
@@ -8065,7 +8065,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="545"/>
         <source>Dithering</source>
-        <translation>Tilpassing</translation>
+        <translation>Dithering</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="243"/>
@@ -10466,7 +10466,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgReadJPEG.ui" line="22"/>
         <source>Dithering</source>
-        <translation type="unfinished"></translation>
+        <translation>Dithering</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="30"/>
@@ -20279,7 +20279,7 @@ Er du sikker på at du vil fortsette?</translation>
         <location filename="DlgSettingsView.cpp" line="271"/>
         <location filename="BrowserMenu.h" line="655"/>
         <source>Fit image to window</source>
-        <translation>Tilpass bildet til vinduet</translation>
+        <translation>Tilpass bilde til vindu</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="22"/>
@@ -20312,7 +20312,7 @@ Er du sikker på at du vil fortsette?</translation>
     <message>
         <location filename="DlgSettingsView.cpp" line="26"/>
         <source>Fit image to desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilpass bilde til skrivebordet</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="429"/>
@@ -21148,7 +21148,7 @@ Er du sikker på at du vil fortsette?</translation>
         <location filename="DlgSettingsView.cpp" line="272"/>
         <location filename="BrowserMenu.h" line="657"/>
         <source>Fit image to window, small only</source>
-        <translation>Tilpass bildet til vinduet, kun for små</translation>
+        <translation>Tilpass bilde til vindu, kun små</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="663"/>
@@ -21570,7 +21570,7 @@ Er du sikker på at du vil fortsette?</translation>
     <message>
         <location filename="ViewMenu.h" line="358"/>
         <source>Fit image to window, small only</source>
-        <translation>Tilpass bildet til vinduet, kun små</translation>
+        <translation>Tilpass bilde til vindu, kun små</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="345"/>
@@ -21839,7 +21839,7 @@ Er du sikker på at du vil fortsette?</translation>
     <message>
         <location filename="ViewMenu.h" line="363"/>
         <source>Fit image to desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilpass bilde til skrivebordet</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="365"/>
