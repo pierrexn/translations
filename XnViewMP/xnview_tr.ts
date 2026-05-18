@@ -1102,7 +1102,7 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
     <message>
         <location filename="CompareWidget.cpp" line="582"/>
         <source>Best fit</source>
-        <translation>Görüntüyü Sığdır</translation>
+        <translation>En iyi sığdırma</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="606"/>
@@ -3626,7 +3626,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgContactSheet.ui" line="844"/>
         <source>Best fit</source>
-        <translation>En uygun şekilde sabitle</translation>
+        <translation>En iyi sığdırma</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="872"/>
@@ -4783,7 +4783,7 @@ Devam etmek istiyor musun?</translation>
         <location filename="DlgConvert.ui" line="309"/>
         <location filename="DlgConvert-old.ui" line="871"/>
         <source>Best fit</source>
-        <translation>En İyi Sığdırma</translation>
+        <translation>En iyi sığdırma</translation>
     </message>
     <message>
         <location filename="DlgConvert-old.ui" line="933"/>
@@ -8049,7 +8049,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="545"/>
         <source>Dithering</source>
-        <translation>Titreşim</translation>
+        <translation>Titreme</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="243"/>
@@ -8394,7 +8394,7 @@ Lütfen yönetici yetkileri ile başlatarak tekrar deneyin.</translation>
     <message>
         <location filename="DlgFileReplace.ui" line="165"/>
         <source>Best fit</source>
-        <translation>En İyi Sığdırma</translation>
+        <translation>En iyi sığdırma</translation>
     </message>
     <message>
         <location filename="DlgFileReplace.ui" line="192"/>
@@ -10293,7 +10293,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgProcess.cpp" line="59"/>
         <source>Best fit</source>
-        <translation>En İyi Sığdırma</translation>
+        <translation>En iyi sığdırma</translation>
     </message>
     <message>
         <location filename="DlgProcess.cpp" line="321"/>
@@ -10452,7 +10452,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgReadJPEG.ui" line="22"/>
         <source>Dithering</source>
-        <translation type="unfinished"></translation>
+        <translation>Titreme</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="30"/>
@@ -14462,7 +14462,7 @@ Yeniden atamak ister misin?</translation>
         <location filename="DlgSettingsView.ui" line="528"/>
         <source>Reset X/Y position on file change (No fit)</source>
         <oldsource>Reset X/Y (No fit)</oldsource>
-        <translation type="unfinished">XY sıfırla (Sığdırma Yok)</translation>
+        <translation>XY sıfırla (Sığdırma yok)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="842"/>
@@ -14773,7 +14773,7 @@ Yeniden atamak ister misin?</translation>
         <location filename="DlgSimilarResult.ui" line="126"/>
         <location filename="DlgSimilarResult.ui" line="278"/>
         <source>Best fit</source>
-        <translation>En İyi Sığdırma</translation>
+        <translation>En iyi sığdırma</translation>
     </message>
     <message>
         <location filename="DlgSimilarResult.ui" line="153"/>
@@ -15106,7 +15106,7 @@ Yeniden atamak ister misin?</translation>
     <message>
         <location filename="DlgSplit.ui" line="41"/>
         <source>Best fit</source>
-        <translation>En uygun sabitleme</translation>
+        <translation>En iyi sığdırma</translation>
     </message>
     <message>
         <location filename="DlgSplit.ui" line="55"/>
@@ -20335,7 +20335,7 @@ Devam etmek istiyor musunuz?</translation>
         <location filename="DlgSettingsView.cpp" line="270"/>
         <location filename="BrowserMenu.h" line="654"/>
         <source>No fit</source>
-        <translation>Sığdırma</translation>
+        <translation>Sığdırma yok</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="20"/>
@@ -20356,7 +20356,7 @@ Devam etmek istiyor musunuz?</translation>
         <location filename="DlgSettingsView.cpp" line="274"/>
         <location filename="BrowserMenu.h" line="658"/>
         <source>Fit image to window width</source>
-        <translation>Resmi pencere genişliğine gığdır</translation>
+        <translation>Resmi pencere genişliğine sığdır</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="24"/>
@@ -21142,7 +21142,7 @@ Devam etmek istiyor musunuz?</translation>
         <location filename="DlgSettingsView.cpp" line="272"/>
         <location filename="BrowserMenu.h" line="657"/>
         <source>Fit image to window, small only</source>
-        <translation>Resim pencerden küçükse,pencereye sığdır</translation>
+        <translation>Resim pencereden küçükse, pencereye sığdır</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="663"/>
@@ -21472,17 +21472,17 @@ Devam etmek istiyor musunuz?</translation>
     <message>
         <location filename="ViewMenu.h" line="355"/>
         <source>No fit</source>
-        <translation>Sığdırma Yok</translation>
+        <translation>Sığdırma yok</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="356"/>
         <source>Fit image to window</source>
-        <translation>Resmi Pencereye Sığdır</translation>
+        <translation>Resmi pencereye sığdır</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="357"/>
         <source>Fit image to window, large only</source>
-        <translation>Resim pencereden büyükse pencereye sığdır</translation>
+        <translation>Resim pencereden büyükse, pencereye sığdır</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="359"/>
@@ -21549,7 +21549,7 @@ Devam etmek istiyor musunuz?</translation>
     <message>
         <location filename="ViewMenu.h" line="358"/>
         <source>Fit image to window, small only</source>
-        <translation>Küçük resimleri pencereye sığdır</translation>
+        <translation>Resim pencereden küçükse, pencereye sığdır</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="345"/>
@@ -23219,7 +23219,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="PaintWidget.ui" line="391"/>
         <source>Best fit</source>
-        <translation>En uygun duruma sabitle</translation>
+        <translation>En iyi sığdırma</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="46"/>
