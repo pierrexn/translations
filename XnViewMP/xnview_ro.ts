@@ -4217,7 +4217,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Dithering</source>
-        <translation>Pixelare</translation>
+        <translation>Dithering</translation>
     </message>
     <message>
         <source>Replace alpha for 32bits images</source>
@@ -6305,7 +6305,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Dithering</source>
-        <translation>Pixelare</translation>
+        <translation>Dithering</translation>
     </message>
     <message>
         <source>Optimize Huffman table</source>
@@ -8174,7 +8174,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     <name>DlgReadJPEG</name>
     <message>
         <source>Dithering</source>
-        <translation>Pixelare</translation>
+        <translation>Dithering</translation>
     </message>
     <message>
         <source>None</source>
@@ -15582,7 +15582,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Fit image to window, small only</source>
-        <translation>Potrivește imaginea pe fereastră, numai mică</translation>
+        <translation>Potrivește imaginea la fereastră, numai mică</translation>
     </message>
     <message>
         <source>Fit image to window height</source>
@@ -15758,7 +15758,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Fit image to window, large only</source>
-        <translation>Potrivește imaginea pe fereastră, numai mare</translation>
+        <translation>Potrivește imaginea la fereastră, numai mare</translation>
     </message>
     <message>
         <source>View as Icons</source>
@@ -15926,7 +15926,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Fit image to window</source>
-        <translation>Potrivește imaginea pe fereastră</translation>
+        <translation>Potrivește imaginea la fereastră</translation>
     </message>
     <message>
         <source>Selected path(s)</source>
@@ -16050,7 +16050,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Fit image to desktop</source>
-        <translation>Potrivește imaginea pe desktop</translation>
+        <translation>Potrivește imaginea la desktop</translation>
     </message>
     <message>
         <source>Path</source>
@@ -16771,7 +16771,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Fit image to window, small only</source>
-        <translation>Potrivește imaginea pe fereastră, numai mică</translation>
+        <translation>Potrivește imaginea la fereastră, numai mică</translation>
     </message>
     <message>
         <source>Vignetting...</source>
@@ -16903,7 +16903,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Fit image to window, large only</source>
-        <translation>Potrivește imaginea pe fereastră, numai mare</translation>
+        <translation>Potrivește imaginea la fereastră, numai mare</translation>
     </message>
     <message>
         <source>Excellent</source>
@@ -17163,7 +17163,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Fit image to desktop</source>
-        <translation>Potrivește imaginea pe desktop</translation>
+        <translation>Potrivește imaginea la desktop</translation>
     </message>
     <message>
         <source>Excellent (go to next image)</source>
