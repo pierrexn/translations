@@ -5445,7 +5445,7 @@ Vill du fortsätta?</translation>
     <message>
         <location filename="DlgConvertColors.ui" line="213"/>
         <source>Dithering</source>
-        <translation>Gitter</translation>
+        <translation>Dithering</translation>
     </message>
     <message>
         <location filename="DlgConvertColors.ui" line="62"/>
@@ -8085,7 +8085,7 @@ Tillse att filerna inte är skrivskyddade!</translation>
     <message>
         <location filename="DlgExport.ui" line="545"/>
         <source>Dithering</source>
-        <translation>Gitter</translation>
+        <translation>Dithering</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="243"/>
@@ -10487,7 +10487,7 @@ Tillse att filerna inte är skrivskyddade!</translation>
     <message>
         <location filename="DlgReadJPEG.ui" line="22"/>
         <source>Dithering</source>
-        <translation>Gitter</translation>
+        <translation>Dithering</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="30"/>
@@ -22781,7 +22781,7 @@ Vill du fortsätta?</translation>
         <location filename="DlgSettingsView.cpp" line="227"/>
         <location filename="DlgSlideshow.cpp" line="49"/>
         <source>Bottom-Left</source>
-        <translation>Vänster underkan</translation>
+        <translation>Vänster underkant</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="228"/>
