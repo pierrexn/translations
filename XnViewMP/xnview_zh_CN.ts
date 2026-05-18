@@ -1107,7 +1107,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="CompareWidget.cpp" line="582"/>
         <source>Best fit</source>
-        <translation>自动调整</translation>
+        <translation>最佳适配</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="606"/>
@@ -1617,7 +1617,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgConvertText.h" line="27"/>
         <source>Center</source>
-        <translation>中</translation>
+        <translation>居中</translation>
     </message>
     <message>
         <location filename="DlgConvertText.h" line="28"/>
@@ -4454,7 +4454,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertBorder.ui" line="455"/>
         <source>Top-Left</source>
         <oldsource>Top left</oldsource>
-        <translation type="unfinished">顶部靠左</translation>
+        <translation>左上</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="460"/>
@@ -4466,7 +4466,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertBorder.ui" line="465"/>
         <source>Top-Right</source>
         <oldsource>Top right</oldsource>
-        <translation type="unfinished">顶部靠右</translation>
+        <translation>右上</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="470"/>
@@ -4477,7 +4477,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertBorder.ui" line="475"/>
         <source>Center</source>
-        <translation>中</translation>
+        <translation>居中</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="480"/>
@@ -4489,19 +4489,19 @@ Do you want to continue?</source>
         <location filename="DlgConvertBorder.ui" line="485"/>
         <source>Bottom-Left</source>
         <oldsource>Bottom left</oldsource>
-        <translation type="unfinished">底部靠左</translation>
+        <translation>左下</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="490"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom center</oldsource>
-        <translation type="unfinished">中下</translation>
+        <translation>下中</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="495"/>
         <source>Bottom-Right</source>
         <oldsource>Bottom right</oldsource>
-        <translation type="unfinished">底部靠右</translation>
+        <translation>右下</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="521"/>
@@ -4663,7 +4663,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertCanvas.ui" line="511"/>
         <source>Center</source>
-        <translation>中</translation>
+        <translation>居中</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="516"/>
@@ -4681,7 +4681,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertCanvas.ui" line="526"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom center</oldsource>
-        <translation type="unfinished">中下</translation>
+        <translation>下中</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="531"/>
@@ -5168,7 +5168,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert.ui" line="309"/>
         <location filename="DlgConvert-old.ui" line="871"/>
         <source>Best fit</source>
-        <translation>最佳调整</translation>
+        <translation>最佳适配</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="281"/>
@@ -6207,7 +6207,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertQRcode.ui" line="89"/>
         <source>Center</source>
-        <translation>中</translation>
+        <translation>居中</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="74"/>
@@ -6234,7 +6234,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertQRcode.ui" line="104"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">下</translation>
+        <translation>下中</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="109"/>
@@ -6703,7 +6703,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertText.ui" line="129"/>
         <source>Center</source>
-        <translation>中间</translation>
+        <translation>居中</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="139"/>
@@ -6715,7 +6715,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertText.ui" line="144"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation>中下</translation>
+        <translation>下中</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="149"/>
@@ -7045,7 +7045,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertWatermark.ui" line="204"/>
         <source>Center</source>
-        <translation>中间</translation>
+        <translation>居中</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="214"/>
@@ -7057,7 +7057,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertWatermark.ui" line="219"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation>中下</translation>
+        <translation>下中</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="224"/>
@@ -8409,7 +8409,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFileReplace.ui" line="165"/>
         <source>Best fit</source>
-        <translation>最合适</translation>
+        <translation>最佳适配</translation>
     </message>
     <message>
         <location filename="DlgFileReplace.ui" line="192"/>
@@ -10138,12 +10138,12 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPrint.ui" line="579"/>
         <source>Center</source>
-        <translation>中</translation>
+        <translation>居中</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="584"/>
         <source>Center-Right</source>
-        <translation>中右</translation>
+        <translation>右中</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="589"/>
@@ -10153,7 +10153,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPrint.ui" line="594"/>
         <source>Bottom-Center</source>
-        <translation>中下</translation>
+        <translation>下中</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="599"/>
@@ -10314,7 +10314,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgProcess.cpp" line="59"/>
         <source>Best fit</source>
-        <translation>自动调整</translation>
+        <translation>最佳适配</translation>
     </message>
     <message>
         <location filename="DlgProcess.cpp" line="321"/>
@@ -11158,12 +11158,12 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgResize.ui" line="622"/>
         <source>Center-Left</source>
-        <translation>中-左</translation>
+        <translation>左中</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="632"/>
         <source>Center-Right</source>
-        <translation>中-右</translation>
+        <translation>右中</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="617"/>
@@ -11174,7 +11174,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgResize.ui" line="627"/>
         <source>Center</source>
-        <translation>中间</translation>
+        <translation>居中</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="637"/>
@@ -11186,7 +11186,7 @@ Do you want to remove them?</source>
         <location filename="DlgResize.ui" line="642"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">下</translation>
+        <translation>下中</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="647"/>
@@ -14240,7 +14240,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsThumbnail.ui" line="488"/>
         <location filename="DlgSettingsThumbnail.ui" line="531"/>
         <source>Center</source>
-        <translation>中心</translation>
+        <translation>居中</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="536"/>
@@ -14814,7 +14814,7 @@ Do you want to reassign?</source>
         <location filename="DlgSimilarResult.ui" line="126"/>
         <location filename="DlgSimilarResult.ui" line="278"/>
         <source>Best fit</source>
-        <translation>自动调整</translation>
+        <translation>最佳适配</translation>
     </message>
     <message>
         <location filename="DlgSimilarResult.ui" line="153"/>
@@ -15149,7 +15149,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSplit.ui" line="41"/>
         <source>Best fit</source>
-        <translation>适应窗口</translation>
+        <translation>最佳适配</translation>
     </message>
     <message>
         <location filename="DlgSplit.ui" line="55"/>
@@ -22791,7 +22791,7 @@ Do you want to continue?</oldsource>
         <location filename="DlgSettingsView.cpp" line="225"/>
         <location filename="DlgSlideshow.cpp" line="47"/>
         <source>Center</source>
-        <translation>中心</translation>
+        <translation>居中</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="226"/>
@@ -22809,7 +22809,7 @@ Do you want to continue?</oldsource>
         <location filename="DlgSettingsView.cpp" line="228"/>
         <location filename="DlgSlideshow.cpp" line="50"/>
         <source>Bottom-Center</source>
-        <translation>中下</translation>
+        <translation>下中</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="229"/>
@@ -23299,7 +23299,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="PaintWidget.ui" line="391"/>
         <source>Best fit</source>
-        <translation>自动适应</translation>
+        <translation>最佳适配</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="46"/>
@@ -23537,7 +23537,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="PaintWidget.ui" line="1261"/>
         <source>Center</source>
-        <translation>中间</translation>
+        <translation>居中</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1266"/>
