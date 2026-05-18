@@ -4488,7 +4488,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertBorder.ui" line="490"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom center</oldsource>
-        <translation type="unfinished">中下</translation>
+        <translation>下中</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="495"/>
@@ -4674,7 +4674,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertCanvas.ui" line="526"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom center</oldsource>
-        <translation type="unfinished">中下</translation>
+        <translation>下中</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="531"/>
@@ -5424,7 +5424,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertColors.ui" line="213"/>
         <source>Dithering</source>
-        <translation>混色</translation>
+        <translation>抖動</translation>
     </message>
     <message>
         <location filename="DlgConvertColors.ui" line="62"/>
@@ -6228,7 +6228,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertQRcode.ui" line="104"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation>中下</translation>
+        <translation>下中</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="109"/>
@@ -6709,7 +6709,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertText.ui" line="144"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">下</translation>
+        <translation>下中</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="149"/>
@@ -7051,7 +7051,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertWatermark.ui" line="219"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">下</translation>
+        <translation>下中</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="224"/>
@@ -8063,7 +8063,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="545"/>
         <source>Dithering</source>
-        <translation>混色</translation>
+        <translation>抖動</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="243"/>
@@ -10144,7 +10144,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPrint.ui" line="594"/>
         <source>Bottom-Center</source>
-        <translation>中下</translation>
+        <translation>下中</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="599"/>
@@ -10464,7 +10464,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgReadJPEG.ui" line="22"/>
         <source>Dithering</source>
-        <translation type="unfinished">混色</translation>
+        <translation>抖動</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="30"/>
@@ -11173,7 +11173,7 @@ Do you want to remove them?</source>
         <location filename="DlgResize.ui" line="642"/>
         <source>Bottom-Center</source>
         <oldsource>Bottom</oldsource>
-        <translation type="unfinished">下</translation>
+        <translation>下中</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="647"/>
@@ -22759,7 +22759,7 @@ Do you want to continue?</oldsource>
         <location filename="DlgSettingsView.cpp" line="228"/>
         <location filename="DlgSlideshow.cpp" line="50"/>
         <source>Bottom-Center</source>
-        <translation>中下</translation>
+        <translation>下中</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="229"/>
