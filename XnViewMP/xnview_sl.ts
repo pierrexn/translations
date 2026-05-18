@@ -5480,7 +5480,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertColors.ui" line="213"/>
         <source>Dithering</source>
-        <translation>Stresanje</translation>
+        <translation>Dizanje</translation>
     </message>
     <message>
         <location filename="DlgConvertColors.ui" line="62"/>
@@ -8120,7 +8120,7 @@ Prepričajte se, da datoteke niso samo za branje!</translation>
     <message>
         <location filename="DlgExport.ui" line="545"/>
         <source>Dithering</source>
-        <translation>Stresanje</translation>
+        <translation>Dizanje</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="243"/>
@@ -10523,7 +10523,7 @@ Prepričajte se, da datoteke niso samo za branje!</translation>
     <message>
         <location filename="DlgReadJPEG.ui" line="22"/>
         <source>Dithering</source>
-        <translation>Stresanje</translation>
+        <translation>Dizanje</translation>
     </message>
     <message>
         <location filename="DlgReadJPEG.ui" line="30"/>
