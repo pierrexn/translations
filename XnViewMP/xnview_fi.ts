@@ -4201,7 +4201,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Dithering</source>
-        <translation>Rasterointi</translation>
+        <translation>Ditheröinti</translation>
     </message>
     <message>
         <source>Replace alpha for 32bits images</source>
@@ -6289,7 +6289,7 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     </message>
     <message>
         <source>Dithering</source>
-        <translation>Rasterointi</translation>
+        <translation>Ditheröinti</translation>
     </message>
     <message>
         <source>Optimize Huffman table</source>
@@ -8162,7 +8162,7 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     <name>DlgReadJPEG</name>
     <message>
         <source>Dithering</source>
-        <translation>Rasterointi</translation>
+        <translation>Ditheröinti</translation>
     </message>
     <message>
         <source>None</source>
