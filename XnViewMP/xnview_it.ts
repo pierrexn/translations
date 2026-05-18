@@ -21881,7 +21881,7 @@ Volete continuare?</translation>
     <message>
         <location filename="ViewMenu.h" line="363"/>
         <source>Fit image to desktop</source>
-        <translation>Adatta immagine al desktop</translation>
+        <translation>Adatta l&apos;immagine al desktop</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="365"/>
