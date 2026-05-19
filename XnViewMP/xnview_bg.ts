@@ -21953,32 +21953,32 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="379"/>
         <source>Excellent (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Отлично (преминете към следващото изображение)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="380"/>
         <source>Good (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Добре (преминете към следващото изображение)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="381"/>
         <source>Average (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Средно (преминете към следващото изображение)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="382"/>
         <source>Fair (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Задоволително (преминете към следващото изображение)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="383"/>
         <source>Poor (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Беден (преминете към следващото изображение)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="384"/>
         <source>Unrated (go to next image)</source>
-        <translation type="unfinished"></translation>
+        <translation>Без оценка (преминете към следващото изображение)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="397"/>
