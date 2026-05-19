@@ -106,7 +106,7 @@
     <message>
         <location filename="MyThumbSettings.cpp" line="767"/>
         <source>Unrated</source>
-        <translation>Uklassifisert</translation>
+        <translation>Urangert</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="768"/>
@@ -20085,7 +20085,7 @@ Er du sikker på at du vil fortsette?</translation>
     <message>
         <location filename="CompareWidget.cpp" line="476"/>
         <source>Unrated</source>
-        <translation>Uklassifisert</translation>
+        <translation>Urangert</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="496"/>
