@@ -907,7 +907,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Leikkaus</translation>
     </message>
 </context>
 <context>
@@ -1656,7 +1656,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>No face</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei kasvoja</translation>
     </message>
 </context>
 <context>
@@ -4151,7 +4151,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Multiple resolution...</source>
-        <translation type="unfinished"></translation>
+        <translation>Usea resoluutio...</translation>
     </message>
 </context>
 <context>
@@ -4663,15 +4663,15 @@ Haluatko korvata sen?</translation>
     <name>DlgConvertMulti</name>
     <message>
         <source>Multiple output</source>
-        <translation type="unfinished"></translation>
+        <translation>Usea ulostulo</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished">Leveys:</translation>
+        <translation>Leveys:</translation>
     </message>
     <message>
         <source>Height:</source>
-        <translation type="unfinished">Korkeus:</translation>
+        <translation>Korkeus:</translation>
     </message>
 </context>
 <context>
@@ -5951,11 +5951,11 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
     </message>
     <message>
         <source>Enter a template name</source>
-        <translation type="unfinished"></translation>
+        <translation>Anna mallipohjan nimi</translation>
     </message>
     <message>
         <source>Template name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mallipohjan nimi:</translation>
     </message>
 </context>
 <context>
@@ -7110,11 +7110,11 @@ ja luodaan alikansiot. </translation>
     </message>
     <message>
         <source>XMP/IPTC Template</source>
-        <translation type="unfinished"></translation>
+        <translation>XMP/IPTC -mallipohja</translation>
     </message>
     <message>
         <source>Open Metadata Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Avaa metatietomallipohja</translation>
     </message>
 </context>
 <context>
@@ -10075,7 +10075,7 @@ pienoiskuvina</translation>
     </message>
     <message>
         <source>Grey</source>
-        <translation type="unfinished">Harmaa</translation>
+        <translation>Harmaa</translation>
     </message>
 </context>
 <context>
@@ -10803,19 +10803,19 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Update catalog when file is modified outside (file date/size)</source>
-        <translation type="unfinished"></translation>
+        <translation>Päivitä luetteloa, kun tiedostoa on muokatattu ulkoisesti (tiedoston päiväys/koko)</translation>
     </message>
     <message>
         <source>Update keywords when file is modified outside (file date/size)</source>
-        <translation type="unfinished"></translation>
+        <translation>Päivitä avainsanat, kun tiedostoa on muokatattu ulkoisest (tiedoston päiväys/koko)</translation>
     </message>
     <message>
         <source>Read Hierarchical keywords</source>
-        <translation type="unfinished"></translation>
+        <translation>Lue hierarkkiset avainsanat</translation>
     </message>
     <message>
         <source>Write Hierarchical keywords (| as separator)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kirjoita hierarkkiset avainsanat (erottimena |)</translation>
     </message>
 </context>
 <context>
@@ -11058,7 +11058,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Audio</source>
-        <translation type="unfinished">Äänitiedosto</translation>
+        <translation>Äänitiedosto</translation>
     </message>
 </context>
 <context>
@@ -11352,7 +11352,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Auto-play audio companion files</source>
-        <translation type="unfinished"></translation>
+        <translation>Toista äänitiedostojen liitännäiset automaattisesti</translation>
     </message>
 </context>
 <context>
@@ -12206,47 +12206,47 @@ Haluatko jatkaa?</translation>
     <name>DlgUpdateDatabase</name>
     <message>
         <source>Update database</source>
-        <translation type="unfinished"></translation>
+        <translation>Päivitä tietokanta</translation>
     </message>
     <message>
         <source>Update from</source>
-        <translation type="unfinished"></translation>
+        <translation>Päivitä tästä</translation>
     </message>
     <message>
         <source>Sidecar/Master files</source>
-        <translation type="unfinished"></translation>
+        <translation>Sivuvaunu-/päätiedostot</translation>
     </message>
     <message>
         <source>Master files only</source>
-        <translation type="unfinished"></translation>
+        <translation>Vain päätiedostot</translation>
     </message>
     <message>
         <source>Use modified files only</source>
-        <translation type="unfinished"></translation>
+        <translation>Käytä vain muokattuja tiedostoja</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Päivitä</translation>
+        <translation>Päivitä</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished">Pysäytä</translation>
+        <translation>Pysäytä</translation>
     </message>
     <message>
         <source>%1 file(s) to process</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 tiedosto(a) käsiteltävänä</translation>
     </message>
     <message>
         <source>Update cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>Päivitys peruutettu</translation>
     </message>
     <message>
         <source>Update completed</source>
-        <translation type="unfinished"></translation>
+        <translation>Päivitys valmis</translation>
     </message>
     <message>
         <source>Stopping...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pysäytetään...</translation>
     </message>
 </context>
 <context>
@@ -13680,19 +13680,19 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Exposure Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Valotusaika</translation>
     </message>
     <message>
         <source>True ISO</source>
-        <translation type="unfinished"></translation>
+        <translation>True ISO</translation>
     </message>
     <message>
         <source>Bits per channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Bittiä kanavaa kohti</translation>
     </message>
     <message>
         <source>F-Number</source>
-        <translation type="unfinished">F-numero</translation>
+        <translation>F-numero</translation>
     </message>
 </context>
 <context>
@@ -14657,7 +14657,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Fixture ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Fixture ID</translation>
     </message>
 </context>
 <context>
@@ -15127,7 +15127,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Save frame as...</source>
-        <translation type="unfinished">Tallenna kehys nimellä...</translation>
+        <translation>Tallenna kehys nimellä...</translation>
     </message>
 </context>
 <context>
@@ -16263,27 +16263,27 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Play/Stop audio companion</source>
-        <translation type="unfinished"></translation>
+        <translation>Toista/Pysäytä äänisovellus.</translation>
     </message>
     <message>
         <source>Update catalog from files</source>
-        <translation type="unfinished"></translation>
+        <translation>Päivitä katalogi tiedostoista</translation>
     </message>
     <message>
         <source>Update catalog from files (+options)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Päivitä katalogi tiedostoista (+asetukset)...</translation>
     </message>
     <message>
         <source>Import...</source>
-        <translation type="unfinished">Tuo...</translation>
+        <translation>Tuo...</translation>
     </message>
     <message>
         <source>Show clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytä leikkaus</translation>
     </message>
     <message>
         <source>Channel clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanavan leikkaus</translation>
     </message>
 </context>
 <context>
@@ -16465,7 +16465,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>h - Hour (01-12)</source>
-        <translation type="unfinished"></translation>
+        <translation>t - Tunti (01-12)</translation>
     </message>
 </context>
 <context>
@@ -17336,19 +17336,19 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Show clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytä leikkaus</translation>
     </message>
     <message>
         <source>Channel clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanavan leikkaus</translation>
     </message>
     <message>
         <source>Highlight &amp;&amp; Shadow clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Korostusten ja varjojen leikkaus</translation>
     </message>
     <message>
         <source>Play/Pause media</source>
-        <translation type="unfinished"></translation>
+        <translation>Toista/keskeytä media</translation>
     </message>
 </context>
 <context>
@@ -17621,27 +17621,27 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Show clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytä leikkaus</translation>
     </message>
     <message>
         <source>Clipping mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Leikkaustila</translation>
     </message>
     <message>
         <source>Shadows</source>
-        <translation type="unfinished"></translation>
+        <translation>Varjot</translation>
     </message>
     <message>
         <source>Highlights</source>
-        <translation type="unfinished"></translation>
+        <translation>Korostukset</translation>
     </message>
     <message>
         <source>Shadows + Highlights</source>
-        <translation type="unfinished"></translation>
+        <translation>Varjot + Korostukset</translation>
     </message>
     <message>
         <source>Highlights (per channel)</source>
-        <translation type="unfinished"></translation>
+        <translation>Korostukset (kanavaa kohti)</translation>
     </message>
 </context>
 <context>
@@ -17749,7 +17749,7 @@ Voit muuttaa sitä asetusten kohdasta &quot;Katalogi&quot;.</translation>
     </message>
     <message>
         <source>Updating catalog, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Päivitetään katalogia, odota hetki...</translation>
     </message>
 </context>
 <context>
@@ -19090,11 +19090,11 @@ ei tallenneta tietokantaan.</translation>
     </message>
     <message>
         <source>Tabs</source>
-        <translation type="unfinished">Välilehdet</translation>
+        <translation>Välilehdet</translation>
     </message>
     <message>
         <source>The tab bar is hidden, but tabs will still open. Set a tab limit in Settings&gt;Interface&gt;Tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>Välilehtipalkki on piilotettu, mutta välilehdet avautuvat silti. Aseta välilehtirajoitus kohdassa Asetukset&gt;Ulkoasu&gt;Välilehti</translation>
     </message>
 </context>
 </TS>
