@@ -22089,12 +22089,12 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="ViewMenu.h" line="381"/>
         <source>Average (go to next image)</source>
-        <translation>Moyen (aller à l&apos;image suivante)</translation>
+        <translation>Correct (aller à l&apos;image suivante)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="382"/>
         <source>Fair (go to next image)</source>
-        <translation>Passable (aller à l&apos;image suivante)</translation>
+        <translation>Raisonnable (aller à l&apos;image suivante)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="383"/>
@@ -22104,7 +22104,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="ViewMenu.h" line="384"/>
         <source>Unrated (go to next image)</source>
-        <translation>Non évalué (aller à l&apos;image suivante)</translation>
+        <translation>Pas de note (aller à l&apos;image suivante)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="397"/>
