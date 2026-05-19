@@ -15903,7 +15903,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Unrated</source>
-        <translation>Luokittelematon</translation>
+        <translation>Arvostelemattomat</translation>
     </message>
     <message>
         <source>Metadata</source>
@@ -17048,7 +17048,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Unrated</source>
-        <translation>Luokittelematon</translation>
+        <translation>Arvostelemattomat</translation>
     </message>
     <message>
         <source>Sepia...</source>
@@ -17264,7 +17264,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Average (go to next image)</source>
-        <translation>Keskimääräinen (siirry seuraavaan kuvaan)</translation>
+        <translation>Keskinkertainen (siirry seuraavaan kuvaan)</translation>
     </message>
     <message>
         <source>Fair (go to next image)</source>
@@ -17276,7 +17276,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Unrated (go to next image)</source>
-        <translation>Luokittelematon (siirry seuraavaan kuvaan)</translation>
+        <translation>Arvostelemattomat (siirry seuraavaan kuvaan)</translation>
     </message>
     <message>
         <source>##label## (go to next image)</source>
