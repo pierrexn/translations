@@ -17270,7 +17270,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Unrated (go to next image)</source>
-        <translation>Չգնահատված (անցնել հաջորդ պատկերին)</translation>
+        <translation>Առանց գնահատականի (անցնել հաջորդ պատկերին)</translation>
     </message>
     <message>
         <source>##label## (go to next image)</source>
