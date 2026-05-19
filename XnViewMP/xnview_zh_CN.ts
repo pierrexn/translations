@@ -22406,7 +22406,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="384"/>
         <source>Unrated (go to next image)</source>
-        <translation>不评级 (转到下一图)</translation>
+        <translation>未评级 (转到下一图)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="397"/>
