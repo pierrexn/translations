@@ -106,7 +106,7 @@
     <message>
         <location filename="MyThumbSettings.cpp" line="767"/>
         <source>Unrated</source>
-        <translation>不評等</translation>
+        <translation>未評等</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="768"/>
@@ -116,7 +116,7 @@
     <message>
         <location filename="MyThumbSettings.cpp" line="769"/>
         <source>Fair</source>
-        <translation>普通</translation>
+        <translation>尚可</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="770"/>
@@ -20221,7 +20221,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="CompareWidget.cpp" line="476"/>
         <source>Unrated</source>
-        <translation>不評等</translation>
+        <translation>未評等</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="496"/>
@@ -20510,7 +20510,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="CompareWidget.cpp" line="482"/>
         <source>Fair</source>
-        <translation>普通</translation>
+        <translation>尚可</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="479"/>
@@ -21559,7 +21559,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="375"/>
         <source>Fair</source>
-        <translation>普通</translation>
+        <translation>尚可</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="376"/>
@@ -21569,7 +21569,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="377"/>
         <source>Unrated</source>
-        <translation>不評等</translation>
+        <translation>未評等</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="395"/>
@@ -22324,7 +22324,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="380"/>
         <source>Good (go to next image)</source>
-        <translation>好 (移至下一張圖片)</translation>
+        <translation>良好 (移至下一張圖片)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="381"/>
