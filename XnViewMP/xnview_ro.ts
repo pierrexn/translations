@@ -15910,7 +15910,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Unrated</source>
-        <translation>Neevaluată</translation>
+        <translation>Neevaluat(ă)</translation>
     </message>
     <message>
         <source>Metadata</source>
@@ -17187,7 +17187,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Unrated (go to next image)</source>
-        <translation>Neevaluată (mergi la imaginea următoare)</translation>
+        <translation>Neevaluat(ă) (mergi la imaginea următoare)</translation>
     </message>
     <message>
         <source>##label## (go to next image)</source>
