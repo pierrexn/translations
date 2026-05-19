@@ -106,7 +106,7 @@
     <message>
         <location filename="MyThumbSettings.cpp" line="767"/>
         <source>Unrated</source>
-        <translation>Oylanmamış</translation>
+        <translation>Puanlanmamış</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="768"/>
@@ -21867,7 +21867,7 @@ Devam etmek istiyor musunuz?</translation>
     <message>
         <location filename="ViewMenu.h" line="384"/>
         <source>Unrated (go to next image)</source>
-        <translation>Oylanmamış (sonraki resme geç)</translation>
+        <translation>Puanlanmamış (sonraki resme geç)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="397"/>
