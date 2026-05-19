@@ -106,7 +106,7 @@
     <message>
         <location filename="MyThumbSettings.cpp" line="767"/>
         <source>Unrated</source>
-        <translation>Ikke klassificeret</translation>
+        <translation>Uklassificeret</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="768"/>
@@ -116,7 +116,7 @@
     <message>
         <location filename="MyThumbSettings.cpp" line="769"/>
         <source>Fair</source>
-        <translation>Retfærdigt</translation>
+        <translation>Rimelig</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="770"/>
@@ -20631,7 +20631,7 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="CompareWidget.cpp" line="482"/>
         <source>Fair</source>
-        <translation>Retfærdigt</translation>
+        <translation>Rimelig</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="479"/>
@@ -21684,7 +21684,7 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="ViewMenu.h" line="375"/>
         <source>Fair</source>
-        <translation>Retfærdigt</translation>
+        <translation>Rimelig</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="376"/>
