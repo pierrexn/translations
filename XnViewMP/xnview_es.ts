@@ -14652,7 +14652,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Fixture ID</source>
-        <translation type="unfinished"></translation>
+        <translation>ID de dispositivo</translation>
     </message>
 </context>
 <context>
@@ -15122,7 +15122,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Save frame as...</source>
-        <translation type="unfinished">Guardar fotograma como...</translation>
+        <translation>Guardar fotograma como...</translation>
     </message>
 </context>
 <context>
@@ -17343,7 +17343,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Play/Pause media</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproducir/Pausar multimedia</translation>
     </message>
 </context>
 <context>
