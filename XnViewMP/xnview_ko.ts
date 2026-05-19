@@ -106,7 +106,7 @@
     <message>
         <location filename="MyThumbSettings.cpp" line="767"/>
         <source>Unrated</source>
-        <translation>무등급</translation>
+        <translation>미평가</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="768"/>
@@ -2052,7 +2052,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DBFilterModel.cpp" line="166"/>
         <source>No rating</source>
-        <translation>미평가</translation>
+        <translation>평가 없음</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="167"/>
@@ -20377,7 +20377,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="CompareWidget.cpp" line="476"/>
         <source>Unrated</source>
-        <translation>무등급</translation>
+        <translation>미평가</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="496"/>
@@ -21748,7 +21748,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="377"/>
         <source>Unrated</source>
-        <translation>무등급</translation>
+        <translation>미평가</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="395"/>
