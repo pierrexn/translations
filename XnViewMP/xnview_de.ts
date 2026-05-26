@@ -3313,7 +3313,7 @@ Wollen Sie die Datei überschreiben?</translation>
     <message>
         <location filename="DlgClean.ui" line="65"/>
         <source>EXIF thumbnail</source>
-        <translation>Miniaturbild</translation>
+        <translation>EXIF Miniaturbild</translation>
     </message>
     <message>
         <location filename="DlgClean.ui" line="92"/>
@@ -11663,7 +11663,7 @@ Möchten Sie sie entfernen?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="585"/>
         <source>Label</source>
-        <translation>Markierung</translation>
+        <translation>Kennzeichnung</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="590"/>
@@ -11855,7 +11855,7 @@ Möchten Sie sie entfernen?</translation>
     <message>
         <location filename="DlgSettingsCache.cpp" line="163"/>
         <source>Database [catalog: %1 %2 - metadata: %5 %6 - thumbnails: %3 %4]</source>
-        <translation type="unfinished"></translation>
+        <translation>Datenbank [Katalog: %1 %2 - Metadaten: %5 %6 - Miniaturansichten: %3 %4]</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="323"/>
@@ -12024,12 +12024,12 @@ Wollen Sie alle Einträge, denen eine Kategorie zugewiesen, sind löschen?</tran
     <message>
         <location filename="DlgSettingsCache.ui" line="282"/>
         <source>Maintenance</source>
-        <translation type="unfinished"></translation>
+        <translation>Wartung</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="323"/>
         <source>Filter</source>
-        <translation type="unfinished">Filter</translation>
+        <translation>Filter</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="354"/>
@@ -12088,12 +12088,12 @@ Wollen Sie alle Einträge, denen eine Kategorie zugewiesen, sind löschen?</tran
     <message>
         <location filename="DlgSettingsCache.ui" line="364"/>
         <source>Metadata</source>
-        <translation type="unfinished">Metadaten</translation>
+        <translation>Metadaten</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="369"/>
         <source>Thumbnail</source>
-        <translation type="unfinished">Miniaturbild</translation>
+        <translation>Miniaturbild</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="478"/>
@@ -13950,7 +13950,7 @@ Möchten Sie neu zuweisen?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="673"/>
         <source>Rating labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewertungs-Kennzeichnungen</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="753"/>
@@ -17175,7 +17175,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="82"/>
         <source>Indexed</source>
-        <translation type="unfinished"></translation>
+        <translation>Indexiert</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="84"/>
@@ -20076,7 +20076,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="BrowserMenu.h" line="518"/>
         <source>Set Color label</source>
-        <translation>Farbmarkierung festlegen</translation>
+        <translation>Farbkennzeichnung festlegen</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="519"/>
@@ -22095,7 +22095,7 @@ Möchten Sie fortfahren?</translation>
         <location filename="ViewMenu.h" line="379"/>
         <source>##rating## (go to next image)</source>
         <oldsource>Excellent (go to next image)</oldsource>
-        <translation type="unfinished">Sehr gut (zum nächsten Bild wechseln)</translation>
+        <translation>##Bewertung## (zum nächsten Bild wechseln)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="397"/>
@@ -22110,7 +22110,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="ViewMenu.h" line="409"/>
         <source>Set Color label</source>
-        <translation>Farbmarkierung festlegen</translation>
+        <translation>Farbkennzeichnung festlegen</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="454"/>
@@ -24792,7 +24792,7 @@ Wollen Sie die Miniaturbilder beibehalten?
 Metadata (check, ratings/colour labels and other file details)
 will not be saved to the database.</source>
         <translation>Der Katalog ist deaktiviert.
-Metadaten (Häkchen, Bewertungen/Farbetiketten und andere Dateidetails)
+Metadaten (Häkchen, Bewertungen/Farbkennzeichnungen und andere Dateidetails)
 werden nicht in der Datenbank gespeichert.</translation>
     </message>
     <message>
