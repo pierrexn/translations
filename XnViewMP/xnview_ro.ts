@@ -1593,14 +1593,6 @@ Vrei să ștergi favoritul „%1”?</translation>
         <translation>Evaluare</translation>
     </message>
     <message>
-        <source>No rating</source>
-        <translation>Nicio evaluare</translation>
-    </message>
-    <message>
-        <source>No colour label</source>
-        <translation>Nicio etichetă de culoare</translation>
-    </message>
-    <message>
         <source>Date</source>
         <translation>Data</translation>
     </message>
@@ -8173,18 +8165,6 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
 <context>
     <name>DlgReadJPEG</name>
     <message>
-        <source>Dithering</source>
-        <translation>Difuzare</translation>
-    </message>
-    <message>
-        <source>None</source>
-        <translation>Niciunul</translation>
-    </message>
-    <message>
-        <source>Ordered</source>
-        <translation>Ordonat</translation>
-    </message>
-    <message>
         <source>Integer</source>
         <translation>Întreg</translation>
     </message>
@@ -9356,12 +9336,12 @@ Etichete de culoare, Cuvintele cheie pot fi șterse.
 Dorești să verifici mai întâi intrările afectate?</translation>
     </message>
     <message>
-        <source>Database [catalog: %1 %2 - thumbnails: %3 %4]</source>
-        <translation>Baza de date [catalogul: %1 %2 - miniaturile: %3 %4]</translation>
-    </message>
-    <message>
         <source>Updating database, please wait...</source>
         <translation>Se actualizează baza de date, te rugăm să aștepți...</translation>
+    </message>
+    <message>
+        <source>Database [catalog: %1 %2 - metadata: %5 %6 - thumbnails: %3 %4]</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9377,10 +9357,6 @@ Dorești să verifici mai întâi intrările afectate?</translation>
     <message>
         <source>MiB</source>
         <translation>MiB (MO)</translation>
-    </message>
-    <message>
-        <source>Size</source>
-        <translation>Mărimea</translation>
     </message>
     <message>
         <source>Files</source>
@@ -9481,6 +9457,22 @@ Dorești să verifici mai întâi intrările afectate?</translation>
     <message>
         <source>Update metadata</source>
         <translation>Actualizează metadatele</translation>
+    </message>
+    <message>
+        <source>Maintenance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filter</source>
+        <translation type="unfinished">Filtru</translation>
+    </message>
+    <message>
+        <source>Metadata</source>
+        <translation type="unfinished">Metadate</translation>
+    </message>
+    <message>
+        <source>Thumbnail</source>
+        <translation type="unfinished">Miniatură</translation>
     </message>
 </context>
 <context>
@@ -10827,6 +10819,10 @@ Dorești să-l reatribui?</translation>
     <message>
         <source>Write Hierarchical keywords (| as separator)</source>
         <translation>Scrie cuvintele cheie ierarhice (| ca separator)</translation>
+    </message>
+    <message>
+        <source>Rating labels</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13705,6 +13701,10 @@ Dorești să ștergi favoritul „%1”?</translation>
         <source>F-Number</source>
         <translation>Numărul F (Intensitatea luminii)</translation>
     </message>
+    <message>
+        <source>Indexed</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>InfoCategoryTreeView</name>
@@ -16510,20 +16510,12 @@ Vrei să continui?</translation>
         <translation>Copiere</translation>
     </message>
     <message>
-        <source>Fair</source>
-        <translation>Slabă</translation>
-    </message>
-    <message>
         <source>File</source>
         <translation>Fişier</translation>
     </message>
     <message>
         <source>Free</source>
         <translation>Liber</translation>
-    </message>
-    <message>
-        <source>Good</source>
-        <translation>Bună</translation>
     </message>
     <message>
         <source>Left</source>
@@ -16536,10 +16528,6 @@ Vrei să continui?</translation>
     <message>
         <source>Path</source>
         <translation>Cale</translation>
-    </message>
-    <message>
-        <source>Poor</source>
-        <translation>Foarte slabă</translation>
     </message>
     <message>
         <source>Redo</source>
@@ -16866,10 +16854,6 @@ Vrei să continui?</translation>
         <translation>Salvează tot</translation>
     </message>
     <message>
-        <source>Average</source>
-        <translation>Mediocră</translation>
-    </message>
-    <message>
         <source>Fit window to image</source>
         <translation>Potrivește fereastra la imagine</translation>
     </message>
@@ -16906,10 +16890,6 @@ Vrei să continui?</translation>
         <translation>Potrivește imaginea la fereastră, numai mare</translation>
     </message>
     <message>
-        <source>Excellent</source>
-        <translation>Excelentă</translation>
-    </message>
-    <message>
         <source>Curves...</source>
         <translation>Curbe...</translation>
     </message>
@@ -16932,10 +16912,6 @@ Vrei să continui?</translation>
     <message>
         <source>First file</source>
         <translation>Primul fişier</translation>
-    </message>
-    <message>
-        <source>Uncolored</source>
-        <translation>Necolorată</translation>
     </message>
     <message>
         <source>First page</source>
@@ -17040,10 +17016,6 @@ Vrei să continui?</translation>
     <message>
         <source>Open with</source>
         <translation>Deschide cu</translation>
-    </message>
-    <message>
-        <source>Unrated</source>
-        <translation>Neevaluat(ă)</translation>
     </message>
     <message>
         <source>Sepia...</source>
@@ -17164,30 +17136,6 @@ Vrei să continui?</translation>
     <message>
         <source>Fit image to desktop</source>
         <translation>Potrivește imaginea la desktop</translation>
-    </message>
-    <message>
-        <source>Excellent (go to next image)</source>
-        <translation>Excelentă (mergi la imaginea următoare)</translation>
-    </message>
-    <message>
-        <source>Good (go to next image)</source>
-        <translation>Bună (mergi la imaginea următoare)</translation>
-    </message>
-    <message>
-        <source>Average (go to next image)</source>
-        <translation>Mediocră (mergi la imaginea următoare)</translation>
-    </message>
-    <message>
-        <source>Fair (go to next image)</source>
-        <translation>Slabă (mergi la imaginea următoare)</translation>
-    </message>
-    <message>
-        <source>Poor (go to next image)</source>
-        <translation>Foarte slabă (mergi la imaginea următoare)</translation>
-    </message>
-    <message>
-        <source>Unrated (go to next image)</source>
-        <translation>Neevaluat(ă) (mergi la imaginea următoare)</translation>
     </message>
     <message>
         <source>##label## (go to next image)</source>
@@ -17360,6 +17308,10 @@ Vrei să continui?</translation>
     <message>
         <source>Play/Pause media</source>
         <translation>Redă/Pune pe pauză (Întrerupe) fișierul media</translation>
+    </message>
+    <message>
+        <source>##rating## (go to next image)</source>
+        <translation type="unfinished">##rating## (mergi la imaginea următoare)</translation>
     </message>
 </context>
 <context>

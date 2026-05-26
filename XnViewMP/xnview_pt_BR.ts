@@ -1591,14 +1591,6 @@ Deseja excluir o favorito &quot;%1&quot;?</translation>
         <translation>Pessoas</translation>
     </message>
     <message>
-        <source>No rating</source>
-        <translation>Não avaliado</translation>
-    </message>
-    <message>
-        <source>No colour label</source>
-        <translation>Sem rótulo de cor</translation>
-    </message>
-    <message>
         <source>Taken in last 30 days</source>
         <translation>Capturadas nos últimos 30 dias</translation>
     </message>
@@ -8159,18 +8151,6 @@ Certifique-se de que os arquivos não sejam somente de leitura!</translation>
 <context>
     <name>DlgReadJPEG</name>
     <message>
-        <source>Dithering</source>
-        <translation>Dithering</translation>
-    </message>
-    <message>
-        <source>None</source>
-        <translation>Nenhum</translation>
-    </message>
-    <message>
-        <source>Ordered</source>
-        <translation>Ordenado</translation>
-    </message>
-    <message>
         <source>Integer</source>
         <translation>Inteiro</translation>
     </message>
@@ -9342,12 +9322,12 @@ Rótulos de cores e Palavras-chave podem ser excluídos.
 Deseja verificar primeiro se há entradas afetadas?</translation>
     </message>
     <message>
-        <source>Database [catalog: %1 %2 - thumbnails: %3 %4]</source>
-        <translation>Banco de dados [catálogo: %1 %2 - miniaturas: %3 %4]</translation>
-    </message>
-    <message>
         <source>Updating database, please wait...</source>
         <translation>Atualizando o banco de dados, aguarde...</translation>
+    </message>
+    <message>
+        <source>Database [catalog: %1 %2 - metadata: %5 %6 - thumbnails: %3 %4]</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9359,10 +9339,6 @@ Deseja verificar primeiro se há entradas afetadas?</translation>
     <message>
         <source>Files</source>
         <translation>Arquivos</translation>
-    </message>
-    <message>
-        <source>Size</source>
-        <translation>Tamanho</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -9467,6 +9443,22 @@ Deseja verificar primeiro se há entradas afetadas?</translation>
     <message>
         <source>Update metadata</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maintenance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filter</source>
+        <translation type="unfinished">Filtro</translation>
+    </message>
+    <message>
+        <source>Metadata</source>
+        <translation type="unfinished">Metadados</translation>
+    </message>
+    <message>
+        <source>Thumbnail</source>
+        <translation type="unfinished">Miniatura</translation>
     </message>
 </context>
 <context>
@@ -10812,6 +10804,10 @@ Deseja reatribuir?</translation>
     </message>
     <message>
         <source>Write Hierarchical keywords (| as separator)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rating labels</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13694,6 +13690,10 @@ Deseja excluir o favorito &quot;%1&quot;?</translation>
     <message>
         <source>F-Number</source>
         <translation type="unfinished">Número F</translation>
+    </message>
+    <message>
+        <source>Indexed</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16813,26 +16813,6 @@ Deseja continuar?</translation>
         <translation>&amp;Ajuda</translation>
     </message>
     <message>
-        <source>Excellent</source>
-        <translation>Excelente</translation>
-    </message>
-    <message>
-        <source>Good</source>
-        <translation>Bom</translation>
-    </message>
-    <message>
-        <source>Average</source>
-        <translation>Média</translation>
-    </message>
-    <message>
-        <source>Unrated</source>
-        <translation>Sem avaliação</translation>
-    </message>
-    <message>
-        <source>Uncolored</source>
-        <translation>Sem cor</translation>
-    </message>
-    <message>
         <source>Fit image to window, small only</source>
         <translation>Ajustar imagem à janela (somente imagens pequenas)</translation>
     </message>
@@ -16855,14 +16835,6 @@ Deseja continuar?</translation>
     <message>
         <source>Show blue</source>
         <translation>Exibir azul</translation>
-    </message>
-    <message>
-        <source>Fair</source>
-        <translation>Razoável</translation>
-    </message>
-    <message>
-        <source>Poor</source>
-        <translation>Ruim</translation>
     </message>
     <message>
         <source>Red</source>
@@ -17233,30 +17205,6 @@ Deseja continuar?</translation>
         <translation>Seleção - definir tamanho</translation>
     </message>
     <message>
-        <source>Excellent (go to next image)</source>
-        <translation>Excelente (ir para a próxima imagem)</translation>
-    </message>
-    <message>
-        <source>Good (go to next image)</source>
-        <translation>Bom (ir para a próxima imagem)</translation>
-    </message>
-    <message>
-        <source>Average (go to next image)</source>
-        <translation>Médio (ir para a próxima imagem)</translation>
-    </message>
-    <message>
-        <source>Fair (go to next image)</source>
-        <translation>Regular (ir para a próxima imagem)</translation>
-    </message>
-    <message>
-        <source>Poor (go to next image)</source>
-        <translation>Ruim (ir para a próxima imagem)</translation>
-    </message>
-    <message>
-        <source>Unrated (go to next image)</source>
-        <translation>Sem avaliação (ir para a próxima imagem)</translation>
-    </message>
-    <message>
         <source>##label## (go to next image)</source>
         <translation>##label## (ir para a próxima imagem)</translation>
     </message>
@@ -17351,6 +17299,10 @@ Deseja continuar?</translation>
     <message>
         <source>Play/Pause media</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>##rating## (go to next image)</source>
+        <translation type="unfinished">##rating## (ir para a próxima imagem)</translation>
     </message>
 </context>
 <context>

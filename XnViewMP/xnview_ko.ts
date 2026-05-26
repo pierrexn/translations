@@ -4,132 +4,132 @@
 <context>
     <name>@default</name>
     <message>
-        <location filename="MyThumbSettings.cpp" line="883"/>
+        <location filename="MyThumbSettings.cpp" line="874"/>
         <source>Uncolored</source>
         <translation>무색</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="889"/>
+        <location filename="MyThumbSettings.cpp" line="880"/>
         <source>Important</source>
         <translation>중요</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="889"/>
+        <location filename="MyThumbSettings.cpp" line="880"/>
         <source>Red</source>
         <translation>빨강</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="889"/>
+        <location filename="MyThumbSettings.cpp" line="880"/>
         <source>Select</source>
         <translation>선택</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="890"/>
+        <location filename="MyThumbSettings.cpp" line="881"/>
         <source>Work</source>
         <translation>일</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="890"/>
+        <location filename="MyThumbSettings.cpp" line="881"/>
         <source>Yellow</source>
         <translation>노랑</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="890"/>
+        <location filename="MyThumbSettings.cpp" line="881"/>
         <source>Second</source>
         <translation>두번째</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="891"/>
+        <location filename="MyThumbSettings.cpp" line="882"/>
         <source>Personal</source>
         <translation>개인</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="891"/>
+        <location filename="MyThumbSettings.cpp" line="882"/>
         <source>Green</source>
         <translation>초록</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="891"/>
+        <location filename="MyThumbSettings.cpp" line="882"/>
         <source>Approved</source>
         <translation>승인</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="892"/>
+        <location filename="MyThumbSettings.cpp" line="883"/>
         <source>To do</source>
         <translation>할 일</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="892"/>
+        <location filename="MyThumbSettings.cpp" line="883"/>
         <source>Blue</source>
         <translation>파랑</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="892"/>
+        <location filename="MyThumbSettings.cpp" line="883"/>
         <source>Review</source>
         <translation>리뷰</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="893"/>
+        <location filename="MyThumbSettings.cpp" line="884"/>
         <source>Later</source>
         <translation>보류</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="893"/>
+        <location filename="MyThumbSettings.cpp" line="884"/>
         <source>Purple</source>
         <translation>보라</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="893"/>
+        <location filename="MyThumbSettings.cpp" line="884"/>
         <source>To Do</source>
         <translation>할 일</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="894"/>
+        <location filename="MyThumbSettings.cpp" line="885"/>
         <source>Orange</source>
         <translation>오렌지</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="895"/>
+        <location filename="MyThumbSettings.cpp" line="886"/>
         <source>Grey</source>
         <translation>회색</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="896"/>
+        <location filename="MyThumbSettings.cpp" line="887"/>
         <source>Black</source>
         <translation>검정</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="897"/>
+        <location filename="MyThumbSettings.cpp" line="888"/>
         <source>White</source>
         <translation>흰색</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="767"/>
+        <location filename="MyThumbSettings.cpp" line="758"/>
         <source>Unrated</source>
         <translation>미평가</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="768"/>
+        <location filename="MyThumbSettings.cpp" line="759"/>
         <source>Poor</source>
         <translation>별로임</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="769"/>
+        <location filename="MyThumbSettings.cpp" line="760"/>
         <source>Fair</source>
         <translation>괜찮음</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="770"/>
+        <location filename="MyThumbSettings.cpp" line="761"/>
         <source>Average</source>
         <translation>보통</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="771"/>
+        <location filename="MyThumbSettings.cpp" line="762"/>
         <source>Good</source>
         <translation>좋음</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="772"/>
+        <location filename="MyThumbSettings.cpp" line="763"/>
         <source>Excellent</source>
         <translation>훌륭함</translation>
     </message>
@@ -1320,7 +1320,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="DlgWhiteBalance.h" line="64"/>
-        <location filename="DlgConvertProcess.h" line="4745"/>
+        <location filename="DlgConvertProcess.h" line="4746"/>
         <source>White Balance</source>
         <translation>화이트밸런스</translation>
     </message>
@@ -1442,42 +1442,42 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>채도 (Saturation)</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4761"/>
+        <location filename="DlgConvertProcess.h" line="4762"/>
         <source>Mono Mixer</source>
         <translation>흑백 믹서</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4786"/>
+        <location filename="DlgConvertProcess.h" line="4787"/>
         <source>Fantasy</source>
         <translation>판타지 (Fantasy)</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4806"/>
+        <location filename="DlgConvertProcess.h" line="4807"/>
         <source>Crystallize</source>
         <translation>결정체화 (Crystallize)</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4824"/>
+        <location filename="DlgConvertProcess.h" line="4825"/>
         <source>Temperature</source>
         <translation>온도 (Temperature)</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4841"/>
+        <location filename="DlgConvertProcess.h" line="4842"/>
         <source>Photo Spread</source>
         <translation>사진 분할</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4868"/>
+        <location filename="DlgConvertProcess.h" line="4869"/>
         <source>Frequency</source>
         <translation>주파수</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4873"/>
+        <location filename="DlgConvertProcess.h" line="4874"/>
         <source>Halftone</source>
         <translation>하프톤 (Halftone)</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="5007"/>
+        <location filename="DlgConvertProcess.h" line="5008"/>
         <source>QR Code</source>
         <translation>QR 코드</translation>
     </message>
@@ -1939,7 +1939,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="CategoryManager.cpp" line="133"/>
         <location filename="MyDB.cpp" line="871"/>
         <location filename="MyDB.cpp" line="2293"/>
-        <location filename="MyDB.cpp" line="3545"/>
+        <location filename="MyDB.cpp" line="3586"/>
         <source>Other</source>
         <translation>기타</translation>
     </message>
@@ -2048,16 +2048,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DBFilterModel.cpp" line="165"/>
         <source>Uncategorized</source>
         <translation>미분류</translation>
-    </message>
-    <message>
-        <location filename="DBFilterModel.cpp" line="166"/>
-        <source>No rating</source>
-        <translation>평가 없음</translation>
-    </message>
-    <message>
-        <location filename="DBFilterModel.cpp" line="167"/>
-        <source>No colour label</source>
-        <translation>색상 라벨 없음</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="168"/>
@@ -10441,33 +10431,18 @@ Please make sure that files are not read-only!</oldsource>
 <context>
     <name>DlgReadJPEG</name>
     <message>
-        <location filename="DlgReadJPEG.ui" line="22"/>
-        <source>Dithering</source>
-        <translation>디더링</translation>
-    </message>
-    <message>
-        <location filename="DlgReadJPEG.ui" line="30"/>
-        <source>None</source>
-        <translation>없음</translation>
-    </message>
-    <message>
-        <location filename="DlgReadJPEG.ui" line="35"/>
-        <source>Ordered</source>
-        <translation>정렬됨</translation>
-    </message>
-    <message>
-        <location filename="DlgReadJPEG.ui" line="76"/>
+        <location filename="DlgReadJPEG.ui" line="33"/>
         <source>Integer</source>
         <translation>정수</translation>
     </message>
     <message>
-        <location filename="DlgReadJPEG.ui" line="81"/>
+        <location filename="DlgReadJPEG.ui" line="38"/>
         <source>Fast integer</source>
         <oldsource>Integer fast</oldsource>
         <translation>고속 정수</translation>
     </message>
     <message>
-        <location filename="DlgReadJPEG.ui" line="86"/>
+        <location filename="DlgReadJPEG.ui" line="43"/>
         <source>Floating-point</source>
         <oldsource>Float</oldsource>
         <translation>부동소숫점</translation>
@@ -11809,56 +11784,56 @@ Do you want to remove them?</source>
 <context>
     <name>DlgSettingsCache</name>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="260"/>
+        <location filename="DlgSettingsCache.cpp" line="319"/>
         <source>None</source>
         <translation>없음</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="261"/>
+        <location filename="DlgSettingsCache.cpp" line="320"/>
         <source>Lossless (ZIP)</source>
         <translation>무손실 (ZIP)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="262"/>
+        <location filename="DlgSettingsCache.cpp" line="321"/>
         <source>Lossy - High quality (JPEG)</source>
         <translation>손실 - 고품질 (JPEG)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="263"/>
+        <location filename="DlgSettingsCache.cpp" line="322"/>
         <source>Lossy - Low quality (JPEG)</source>
         <translation>손실 - 저품질 (JPEG)</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="92"/>
-        <location filename="DlgSettingsCache.cpp" line="294"/>
-        <location filename="DlgSettingsCache.cpp" line="711"/>
+        <location filename="DlgSettingsCache.cpp" line="353"/>
+        <location filename="DlgSettingsCache.cpp" line="770"/>
         <source>Excluded</source>
         <translation>제외</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="93"/>
-        <location filename="DlgSettingsCache.cpp" line="294"/>
+        <location filename="DlgSettingsCache.cpp" line="353"/>
         <source>Included</source>
         <translation>포함</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="152"/>
-        <source>Database [catalog: %1 %2 - thumbnails: %3 %4]</source>
-        <translation>데이터베이스 [카탈로그: %1 %2 - 썸네일: %3 %4]</translation>
+        <location filename="DlgSettingsCache.cpp" line="163"/>
+        <source>Database [catalog: %1 %2 - metadata: %5 %6 - thumbnails: %3 %4]</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="264"/>
+        <location filename="DlgSettingsCache.cpp" line="323"/>
         <source>Lossy - High quality (WebP)</source>
         <translation>손실 - 고품질 (WebP)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="273"/>
+        <location filename="DlgSettingsCache.cpp" line="332"/>
         <source>Catalog - Absolute/Relative paths</source>
         <oldsource>Change absolute/relative paths</oldsource>
         <translation>카탈로그 - 절대/상대 경로</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="273"/>
+        <location filename="DlgSettingsCache.cpp" line="332"/>
         <source>Changing &apos;base path&apos; may disconnect files stored in database. 
 Do it only if you want to share same folder between several computers. 
 
@@ -11869,18 +11844,18 @@ Do you want to change the &apos;base path&apos;?</source>
 &apos;베이스 경로&apos;를 변경 하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="360"/>
-        <location filename="DlgSettingsCache.cpp" line="601"/>
+        <location filename="DlgSettingsCache.cpp" line="419"/>
+        <location filename="DlgSettingsCache.cpp" line="660"/>
         <source>Catalog - Remove Entries</source>
         <translation>카탈로그 - 항목 제거</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="511"/>
+        <location filename="DlgSettingsCache.cpp" line="570"/>
         <source>Catalog - Synchronize Folders</source>
         <translation>카탈로그 - 폴더 동기화</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="512"/>
+        <location filename="DlgSettingsCache.cpp" line="571"/>
         <source>All orphaned files will be deleted from Catalog.
 
 Do you want to continue?</source>
@@ -11890,33 +11865,33 @@ Do you want to continue?</source>
 계속 진행하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="543"/>
+        <location filename="DlgSettingsCache.cpp" line="602"/>
         <source>Updating database, please wait...</source>
         <translation>데이터베이스 업데이트, 잠시만 기다려 주세요...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="560"/>
+        <location filename="DlgSettingsCache.cpp" line="619"/>
         <source>Catalog - Relocate the folder</source>
         <oldsource>Relocate the folder</oldsource>
         <translation>카탈로그 - 폴더 재설정</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="560"/>
+        <location filename="DlgSettingsCache.cpp" line="619"/>
         <source>New path:</source>
         <translation>새 경로:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="560"/>
+        <location filename="DlgSettingsCache.cpp" line="619"/>
         <source>Old path:</source>
         <translation>옛 경로:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="578"/>
+        <location filename="DlgSettingsCache.cpp" line="637"/>
         <source>Catalog Maintenance</source>
         <translation>카탈로그 관리</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="579"/>
+        <location filename="DlgSettingsCache.cpp" line="638"/>
         <source>Some database entries with assigned Rating, 
 Color labels, Keywords may be deleted. 
 
@@ -11928,8 +11903,8 @@ Do you want to check for affected entries first?</source>
 영향을 받는 항목을 먼저 확인할까요?</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="361"/>
-        <location filename="DlgSettingsCache.cpp" line="602"/>
+        <location filename="DlgSettingsCache.cpp" line="420"/>
+        <location filename="DlgSettingsCache.cpp" line="661"/>
         <source>Catalog entries with Categories, Rating &amp; Color labels will be removed. 
 
 If information is exported into embedded or sidecar metadata, 
@@ -11966,7 +11941,7 @@ Do you want to remove entries assigned to a category?</oldsource>
         <translation>캐쉬된 썸네일의 최대 크기</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="270"/>
+        <location filename="DlgSettingsCache.ui" line="293"/>
         <source>Base path of files</source>
         <oldsource>Base path of your pictures</oldsource>
         <translation>기본 파일 경로</translation>
@@ -12013,92 +11988,107 @@ Do you want to remove entries assigned to a category?</oldsource>
         <translation>시작시 카탈로그 무결성 검사</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="304"/>
+        <location filename="DlgSettingsCache.ui" line="282"/>
+        <source>Maintenance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsCache.ui" line="323"/>
+        <source>Filter</source>
+        <translation type="unfinished">필터</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsCache.ui" line="354"/>
         <source>Directory</source>
         <oldsource>Cached directory</oldsource>
         <translation>디렉터리</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="309"/>
+        <location filename="DlgSettingsCache.ui" line="359"/>
         <source>Files</source>
         <translation>파일</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="314"/>
-        <source>Size</source>
-        <translation>크기</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsCache.ui" line="329"/>
-        <location filename="DlgSettingsCache.ui" line="519"/>
+        <location filename="DlgSettingsCache.ui" line="384"/>
+        <location filename="DlgSettingsCache.ui" line="568"/>
         <source>Delete</source>
         <translation>삭제</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="336"/>
-        <location filename="DlgSettingsCache.ui" line="526"/>
+        <location filename="DlgSettingsCache.ui" line="391"/>
+        <location filename="DlgSettingsCache.ui" line="575"/>
         <source>Delete all</source>
         <translation>전체 삭제</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="375"/>
+        <location filename="DlgSettingsCache.ui" line="430"/>
         <source>Maintenance...</source>
         <translation>관리...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="382"/>
+        <location filename="DlgSettingsCache.ui" line="437"/>
         <source>Import folder...</source>
         <translation>폴더 불러오기...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="416"/>
+        <location filename="DlgSettingsCache.ui" line="471"/>
         <source>Rebuild thumbnails</source>
         <translation>썸네일 다시 만들기</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="430"/>
+        <location filename="DlgSettingsCache.ui" line="485"/>
         <source>Update metadata</source>
         <oldsource>Update metadata...</oldsource>
         <translation>메타데이터 업데이트</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="493"/>
+        <location filename="DlgSettingsCache.ui" line="542"/>
         <source>Add folder...</source>
         <translation>폴더 추가...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="392"/>
+        <location filename="DlgSettingsCache.ui" line="447"/>
         <source>Relocate...</source>
         <translation>이동...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="423"/>
+        <location filename="DlgSettingsCache.ui" line="364"/>
+        <source>Metadata</source>
+        <translation type="unfinished">메타데이터</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsCache.ui" line="369"/>
+        <source>Thumbnail</source>
+        <translation type="unfinished">썸네일</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsCache.ui" line="478"/>
         <source>Synchronize Folders...</source>
         <oldsource>Check folders...</oldsource>
         <translation>폴더 동기화...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="453"/>
+        <location filename="DlgSettingsCache.ui" line="502"/>
         <source>Excluded/Included</source>
         <translation>제외/포함</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="478"/>
+        <location filename="DlgSettingsCache.ui" line="527"/>
         <source>1</source>
         <translation>1</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="483"/>
+        <location filename="DlgSettingsCache.ui" line="532"/>
         <source>2</source>
         <translation>2</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="548"/>
+        <location filename="DlgSettingsCache.ui" line="597"/>
         <source>Always exclude removable drives</source>
         <translation>항상 이동식 드라이브를 제외하기</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="555"/>
+        <location filename="DlgSettingsCache.ui" line="604"/>
         <source>Always exclude CD/DVD drives</source>
         <translation>항상 CD/DVD 드라이브를 제외하기</translation>
     </message>
@@ -13776,7 +13766,7 @@ Do you want to reassign?</source>
 <context>
     <name>DlgSettingsKeywords</name>
     <message>
-        <location filename="DlgSettingsKeywords.cpp" line="78"/>
+        <location filename="DlgSettingsKeywords.cpp" line="87"/>
         <source>Locale</source>
         <translation>로캘</translation>
     </message>
@@ -13888,12 +13878,18 @@ Do you want to reassign?</source>
         <translation>내장 코멘트</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="841"/>
+        <location filename="DlgSettingsKeywords.ui" line="673"/>
+        <source>Rating labels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsKeywords.ui" line="753"/>
+        <location filename="DlgSettingsKeywords.ui" line="1060"/>
         <source>Label</source>
         <translation>레이블</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="791"/>
+        <location filename="DlgSettingsKeywords.ui" line="1046"/>
         <source>Read (separated by ,)</source>
         <translation>읽기 (, 로 구분)</translation>
     </message>
@@ -13943,7 +13939,7 @@ Do you want to reassign?</source>
         <translation>이미지 설명</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="834"/>
+        <location filename="DlgSettingsKeywords.ui" line="1053"/>
         <source>Write</source>
         <translation>쓰기</translation>
     </message>
@@ -13953,7 +13949,7 @@ Do you want to reassign?</source>
         <translation>IPTC 필드를 쓰는데 UTF-8 사용하기</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="673"/>
+        <location filename="DlgSettingsKeywords.ui" line="829"/>
         <source>Color labels</source>
         <oldsource>Labels</oldsource>
         <translation>색상 라벨</translation>
@@ -15929,17 +15925,17 @@ Do you want to continue?</source>
         <translation>필터 매트릭스</translation>
     </message>
     <message>
-        <location filename="DlgUserFilter.ui" line="483"/>
+        <location filename="DlgUserFilter.ui" line="486"/>
         <source>Bias</source>
         <translation>바이어스</translation>
     </message>
     <message>
-        <location filename="DlgUserFilter.ui" line="476"/>
+        <location filename="DlgUserFilter.ui" line="479"/>
         <source>Divisor</source>
         <translation>나누는 수</translation>
     </message>
     <message>
-        <location filename="DlgUserFilter.ui" line="503"/>
+        <location filename="DlgUserFilter.ui" line="506"/>
         <source>Apply</source>
         <translation>적용</translation>
     </message>
@@ -16810,13 +16806,13 @@ Do you want to continue?</source>
 <context>
     <name>FavoritesView</name>
     <message>
-        <location filename="FavoritesView.cpp" line="211"/>
+        <location filename="FavoritesView.cpp" line="212"/>
         <source>Delete</source>
         <translation>삭제</translation>
     </message>
     <message>
         <location filename="FavoritesView.cpp" line="115"/>
-        <location filename="FavoritesView.cpp" line="212"/>
+        <location filename="FavoritesView.cpp" line="213"/>
         <source>Rename</source>
         <translation>이름 변경</translation>
     </message>
@@ -16848,18 +16844,18 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="FavoritesView.cpp" line="117"/>
-        <location filename="FavoritesView.cpp" line="214"/>
+        <location filename="FavoritesView.cpp" line="215"/>
         <source>New subfolder</source>
         <translation>새 하위폴더</translation>
     </message>
     <message>
         <location filename="FavoritesView.cpp" line="121"/>
-        <location filename="FavoritesView.cpp" line="216"/>
+        <location filename="FavoritesView.cpp" line="217"/>
         <source>Edit pathname...</source>
         <translation>경로명 편집...</translation>
     </message>
     <message>
-        <location filename="FavoritesView.cpp" line="193"/>
+        <location filename="FavoritesView.cpp" line="194"/>
         <source>New Folder</source>
         <translation>새 폴더</translation>
     </message>
@@ -17146,9 +17142,9 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="68"/>
-        <location filename="InfoPropertiesView.cpp" line="480"/>
-        <location filename="InfoPropertiesView.cpp" line="498"/>
-        <location filename="InfoPropertiesView.cpp" line="517"/>
+        <location filename="InfoPropertiesView.cpp" line="482"/>
+        <location filename="InfoPropertiesView.cpp" line="500"/>
+        <location filename="InfoPropertiesView.cpp" line="519"/>
         <location filename="SearchField.cpp" line="41"/>
         <location filename="TemplateData.cpp" line="2615"/>
         <source>Format</source>
@@ -17165,15 +17161,15 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>각주</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="215"/>
-        <location filename="InfoPropertiesView.cpp" line="494"/>
-        <location filename="InfoPropertiesView.cpp" line="534"/>
+        <location filename="InfoPropertiesView.cpp" line="217"/>
+        <location filename="InfoPropertiesView.cpp" line="496"/>
+        <location filename="InfoPropertiesView.cpp" line="536"/>
         <source>Copyright</source>
         <translation>저작권</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="179"/>
-        <location filename="InfoPropertiesView.cpp" line="210"/>
+        <location filename="InfoPropertiesView.cpp" line="181"/>
+        <location filename="InfoPropertiesView.cpp" line="212"/>
         <source>Model</source>
         <translation>기종</translation>
     </message>
@@ -17187,8 +17183,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>수정일</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="141"/>
-        <location filename="InfoPropertiesView.cpp" line="144"/>
+        <location filename="InfoPropertiesView.cpp" line="143"/>
+        <location filename="InfoPropertiesView.cpp" line="146"/>
         <source>Embedded comment</source>
         <translation>내장 코멘트</translation>
     </message>
@@ -17198,7 +17194,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>속성</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="93"/>
+        <location filename="InfoPropertiesView.cpp" line="95"/>
         <location filename="ItemModel.cpp" line="1012"/>
         <source>Print size</source>
         <translation>인쇄 크기</translation>
@@ -17214,8 +17210,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>경로</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="495"/>
-        <location filename="InfoPropertiesView.cpp" line="535"/>
+        <location filename="InfoPropertiesView.cpp" line="497"/>
+        <location filename="InfoPropertiesView.cpp" line="537"/>
         <location filename="ItemModel.cpp" line="1022"/>
         <location filename="SearchField.cpp" line="47"/>
         <location filename="TemplateData.cpp" line="2621"/>
@@ -17229,7 +17225,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="69"/>
-        <location filename="InfoPropertiesView.cpp" line="483"/>
+        <location filename="InfoPropertiesView.cpp" line="485"/>
         <location filename="ItemModel.cpp" line="1030"/>
         <location filename="SearchField.cpp" line="42"/>
         <location filename="TemplateData.cpp" line="2618"/>
@@ -17239,7 +17235,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="70"/>
-        <location filename="InfoPropertiesView.cpp" line="484"/>
+        <location filename="InfoPropertiesView.cpp" line="486"/>
         <location filename="ItemModel.cpp" line="1032"/>
         <location filename="SearchField.cpp" line="43"/>
         <location filename="TemplateData.cpp" line="2619"/>
@@ -17267,6 +17263,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPropertiesView.cpp" line="80"/>
         <location filename="InfoPropertiesView.cpp" line="82"/>
         <location filename="InfoPropertiesView.cpp" line="84"/>
+        <location filename="InfoPropertiesView.cpp" line="86"/>
         <location filename="TemplateData.cpp" line="2616"/>
         <source>Color model</source>
         <translation>색 모델</translation>
@@ -17278,16 +17275,21 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="82"/>
+        <source>Indexed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="InfoPropertiesView.cpp" line="84"/>
         <source>Greyscale</source>
         <translation>회색조</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="86"/>
+        <location filename="InfoPropertiesView.cpp" line="88"/>
         <source>Colors used</source>
         <translation>색상 수</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="88"/>
+        <location filename="InfoPropertiesView.cpp" line="90"/>
         <location filename="ItemModel.cpp" line="1034"/>
         <location filename="TemplateData.cpp" line="2622"/>
         <location filename="TemplateData.cpp" line="2644"/>
@@ -17295,191 +17297,191 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>DPI</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="96"/>
-        <location filename="InfoPropertiesView.cpp" line="101"/>
+        <location filename="InfoPropertiesView.cpp" line="98"/>
+        <location filename="InfoPropertiesView.cpp" line="103"/>
         <location filename="TemplateData.cpp" line="2617"/>
         <source>Compression</source>
         <translation>압축</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="289"/>
-        <location filename="InfoPropertiesView.cpp" line="96"/>
+        <location filename="InfoPropertiesView.cpp" line="98"/>
         <source>None</source>
         <translation>없음</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="106"/>
+        <location filename="InfoPropertiesView.cpp" line="108"/>
         <source>Progressive mode</source>
         <translation>프로그레시브 모드</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="115"/>
+        <location filename="InfoPropertiesView.cpp" line="117"/>
         <source>Subsampling</source>
         <oldsource>Sub-sampling</oldsource>
         <translation>서브 샘플링</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="119"/>
+        <location filename="InfoPropertiesView.cpp" line="121"/>
         <source>Estimated quality</source>
         <translation>예상 품질</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="121"/>
+        <location filename="InfoPropertiesView.cpp" line="123"/>
         <source>Images/frames count</source>
         <translation>이미지/프레임 수</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="138"/>
+        <location filename="InfoPropertiesView.cpp" line="140"/>
         <source>Origin</source>
         <translation>원점</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="172"/>
+        <location filename="InfoPropertiesView.cpp" line="174"/>
         <source>Exposure Time</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="174"/>
+        <location filename="InfoPropertiesView.cpp" line="176"/>
         <source>F-Number</source>
         <translation type="unfinished">F-값</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="176"/>
+        <location filename="InfoPropertiesView.cpp" line="178"/>
         <source>True ISO</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="181"/>
+        <location filename="InfoPropertiesView.cpp" line="183"/>
         <source>Date taken</source>
         <translation>촬영일</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="185"/>
+        <location filename="InfoPropertiesView.cpp" line="187"/>
         <source>Lens model</source>
         <translation>렌즈 모델</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="187"/>
+        <location filename="InfoPropertiesView.cpp" line="189"/>
         <source>Focal length (mm)</source>
         <translation>초점 길이 (mm)</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="200"/>
+        <location filename="InfoPropertiesView.cpp" line="202"/>
         <source>Description</source>
         <translation>설명</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="205"/>
+        <location filename="InfoPropertiesView.cpp" line="207"/>
         <source>Manufacturer</source>
         <translation>제작자</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="481"/>
+        <location filename="InfoPropertiesView.cpp" line="483"/>
         <source>Encoded date</source>
         <translation>인코드 날짜</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="482"/>
-        <location filename="InfoPropertiesView.cpp" line="502"/>
-        <location filename="InfoPropertiesView.cpp" line="521"/>
+        <location filename="InfoPropertiesView.cpp" line="484"/>
+        <location filename="InfoPropertiesView.cpp" line="504"/>
+        <location filename="InfoPropertiesView.cpp" line="523"/>
         <source>Codec</source>
         <translation>코덱</translation>
-    </message>
-    <message>
-        <location filename="InfoPropertiesView.cpp" line="485"/>
-        <location filename="InfoPropertiesView.cpp" line="503"/>
-        <location filename="InfoPropertiesView.cpp" line="522"/>
-        <source>Duration</source>
-        <translation>재생 시간</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="487"/>
         <location filename="InfoPropertiesView.cpp" line="505"/>
         <location filename="InfoPropertiesView.cpp" line="524"/>
+        <source>Duration</source>
+        <translation>재생 시간</translation>
+    </message>
+    <message>
+        <location filename="InfoPropertiesView.cpp" line="489"/>
+        <location filename="InfoPropertiesView.cpp" line="507"/>
+        <location filename="InfoPropertiesView.cpp" line="526"/>
         <source>Bit rate</source>
         <translation>비트레이트</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="488"/>
+        <location filename="InfoPropertiesView.cpp" line="490"/>
         <source>Aspect ratio</source>
         <translation>종횡비</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="489"/>
+        <location filename="InfoPropertiesView.cpp" line="491"/>
         <source>Frame rate mode</source>
         <translation>프레임레이트 모드</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="490"/>
-        <location filename="InfoPropertiesView.cpp" line="507"/>
-        <location filename="InfoPropertiesView.cpp" line="526"/>
+        <location filename="InfoPropertiesView.cpp" line="492"/>
+        <location filename="InfoPropertiesView.cpp" line="509"/>
+        <location filename="InfoPropertiesView.cpp" line="528"/>
         <source>Frame rate</source>
         <translation>프레임레이트</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="491"/>
-        <location filename="InfoPropertiesView.cpp" line="508"/>
-        <location filename="InfoPropertiesView.cpp" line="527"/>
+        <location filename="InfoPropertiesView.cpp" line="493"/>
+        <location filename="InfoPropertiesView.cpp" line="510"/>
+        <location filename="InfoPropertiesView.cpp" line="529"/>
         <source>Compression mode</source>
         <translation>압축 모드</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="492"/>
+        <location filename="InfoPropertiesView.cpp" line="494"/>
         <source>Bits/sample</source>
         <translation>비트/샘플</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="499"/>
-        <location filename="InfoPropertiesView.cpp" line="518"/>
+        <location filename="InfoPropertiesView.cpp" line="501"/>
+        <location filename="InfoPropertiesView.cpp" line="520"/>
         <source>Format version</source>
         <translation>형식 버전</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="500"/>
-        <location filename="InfoPropertiesView.cpp" line="519"/>
+        <location filename="InfoPropertiesView.cpp" line="502"/>
+        <location filename="InfoPropertiesView.cpp" line="521"/>
         <source>Format profile</source>
         <translation>형식 프로파일</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="501"/>
-        <location filename="InfoPropertiesView.cpp" line="520"/>
+        <location filename="InfoPropertiesView.cpp" line="503"/>
+        <location filename="InfoPropertiesView.cpp" line="522"/>
         <source>Format settings</source>
         <translation>형식 설정</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="504"/>
-        <location filename="InfoPropertiesView.cpp" line="523"/>
+        <location filename="InfoPropertiesView.cpp" line="506"/>
+        <location filename="InfoPropertiesView.cpp" line="525"/>
         <source>Bit rate mode</source>
         <translation>비트레이트 모드</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="506"/>
-        <location filename="InfoPropertiesView.cpp" line="525"/>
+        <location filename="InfoPropertiesView.cpp" line="508"/>
+        <location filename="InfoPropertiesView.cpp" line="527"/>
         <source>Sampling rate</source>
         <translation>샘플링 레이트</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="529"/>
+        <location filename="InfoPropertiesView.cpp" line="531"/>
         <source>Album</source>
         <translation>앨범</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="530"/>
+        <location filename="InfoPropertiesView.cpp" line="532"/>
         <source>Title</source>
         <translation>제목</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="531"/>
+        <location filename="InfoPropertiesView.cpp" line="533"/>
         <source>Performer</source>
         <translation>배우</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="532"/>
+        <location filename="InfoPropertiesView.cpp" line="534"/>
         <source>Genre</source>
         <translation>장르</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="533"/>
+        <location filename="InfoPropertiesView.cpp" line="535"/>
         <source>Recorded date</source>
         <translation>기록된 날짜</translation>
     </message>
@@ -19108,123 +19110,123 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>이미지</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="106"/>
+        <location filename="InfoPropertiesView.cpp" line="108"/>
         <source>Yes</source>
         <translation>예</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="106"/>
+        <location filename="InfoPropertiesView.cpp" line="108"/>
         <source>No</source>
         <translation>아니오</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="126"/>
+        <location filename="InfoPropertiesView.cpp" line="128"/>
         <source>Top-Right</source>
         <translation>상단 오른쪽</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="129"/>
+        <location filename="InfoPropertiesView.cpp" line="131"/>
         <source>Bottom-Left</source>
         <translation>하단 왼쪽</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="132"/>
+        <location filename="InfoPropertiesView.cpp" line="134"/>
         <source>Bottom-Right</source>
         <translation>하단 오른쪽</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="136"/>
+        <location filename="InfoPropertiesView.cpp" line="138"/>
         <source>Top-Left</source>
         <translation>상단 왼쪽</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="153"/>
+        <location filename="InfoPropertiesView.cpp" line="155"/>
         <source>Extra</source>
         <translation>기타</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="169"/>
+        <location filename="InfoPropertiesView.cpp" line="171"/>
         <source>Camera</source>
         <translation>카메라</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="193"/>
+        <location filename="InfoPropertiesView.cpp" line="195"/>
         <source>Color Profile</source>
         <translation>색상 프로파일</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="227"/>
+        <location filename="InfoPropertiesView.cpp" line="229"/>
         <source>Extra info</source>
         <translation>추가 정보</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="413"/>
+        <location filename="InfoPropertiesView.cpp" line="415"/>
         <source>File</source>
         <translation>파일</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="414"/>
+        <location filename="InfoPropertiesView.cpp" line="416"/>
         <source>Filename</source>
         <translation>파일명</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="415"/>
+        <location filename="InfoPropertiesView.cpp" line="417"/>
         <source>Filepath</source>
         <translation>파일 경로</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="420"/>
+        <location filename="InfoPropertiesView.cpp" line="422"/>
         <source>Description</source>
         <translation>설명</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="426"/>
+        <location filename="InfoPropertiesView.cpp" line="428"/>
         <source>File size</source>
         <translation>파일 크기</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="427"/>
+        <location filename="InfoPropertiesView.cpp" line="429"/>
         <source>Creation date/time</source>
         <translation>생성 날짜/시간</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="428"/>
+        <location filename="InfoPropertiesView.cpp" line="430"/>
         <source>Modified date/time</source>
         <translation>수정 날짜/시간</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="429"/>
+        <location filename="InfoPropertiesView.cpp" line="431"/>
         <source>Accessed date/time</source>
         <translation>접근 날짜/시간</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="431"/>
+        <location filename="InfoPropertiesView.cpp" line="433"/>
         <source>Rating</source>
         <translation>등급</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="435"/>
+        <location filename="InfoPropertiesView.cpp" line="437"/>
         <source>Colour Label</source>
         <translation>색 레이블</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="445"/>
+        <location filename="InfoPropertiesView.cpp" line="447"/>
         <source>File&apos;s icon</source>
         <translation>아이콘 파일</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="460"/>
+        <location filename="InfoPropertiesView.cpp" line="462"/>
         <source>Annotation</source>
         <translation>각주</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="479"/>
+        <location filename="InfoPropertiesView.cpp" line="481"/>
         <source>Video</source>
         <translation>비디오</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="497"/>
-        <location filename="InfoPropertiesView.cpp" line="516"/>
+        <location filename="InfoPropertiesView.cpp" line="499"/>
+        <location filename="InfoPropertiesView.cpp" line="518"/>
         <source>Audio</source>
         <translation>오디오</translation>
     </message>
@@ -19693,17 +19695,17 @@ Do you want to continue?</oldsource>
 <context>
     <name>MediaPlayer</name>
     <message>
-        <location filename="MediaPlayer.cpp" line="351"/>
+        <location filename="MediaPlayer.cpp" line="357"/>
         <source>Show playbar</source>
         <translation>재생 막대 보이기</translation>
     </message>
     <message>
-        <location filename="MediaPlayer.cpp" line="356"/>
+        <location filename="MediaPlayer.cpp" line="362"/>
         <source>Save frame as...</source>
         <translation type="unfinished">다른 이름으로 프레임 저장...</translation>
     </message>
     <message>
-        <location filename="MediaPlayer.cpp" line="359"/>
+        <location filename="MediaPlayer.cpp" line="365"/>
         <source>Extract current frame</source>
         <translation>현재 프레임 추출하기</translation>
     </message>
@@ -20381,8 +20383,6 @@ Do you want to continue?</oldsource>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="496"/>
-        <location filename="BrowserMenu.h" line="110"/>
-        <location filename="BrowserMenu.h" line="496"/>
         <source>Uncolored</source>
         <translation>무색</translation>
     </message>
@@ -21555,16 +21555,6 @@ Do you want to continue?</oldsource>
         <translation>배경색...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="375"/>
-        <source>Fair</source>
-        <translation>괜찮음</translation>
-    </message>
-    <message>
-        <location filename="ViewMenu.h" line="376"/>
-        <source>Poor</source>
-        <translation>별로임</translation>
-    </message>
-    <message>
         <location filename="ViewMenu.h" line="348"/>
         <source>Select none</source>
         <translation>선택 없음</translation>
@@ -21729,31 +21719,6 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="439"/>
         <source>Show alpha</source>
         <translation>알파 보이기</translation>
-    </message>
-    <message>
-        <location filename="ViewMenu.h" line="372"/>
-        <source>Excellent</source>
-        <translation>우수</translation>
-    </message>
-    <message>
-        <location filename="ViewMenu.h" line="373"/>
-        <source>Good</source>
-        <translation>좋음</translation>
-    </message>
-    <message>
-        <location filename="ViewMenu.h" line="374"/>
-        <source>Average</source>
-        <translation>보통</translation>
-    </message>
-    <message>
-        <location filename="ViewMenu.h" line="377"/>
-        <source>Unrated</source>
-        <translation>미평가</translation>
-    </message>
-    <message>
-        <location filename="ViewMenu.h" line="395"/>
-        <source>Uncolored</source>
-        <translation>무색</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="358"/>
@@ -21992,33 +21957,9 @@ Do you want to continue?</oldsource>
     </message>
     <message>
         <location filename="ViewMenu.h" line="379"/>
-        <source>Excellent (go to next image)</source>
-        <translation>훌륭함 (다음 이미지로 이동)</translation>
-    </message>
-    <message>
-        <location filename="ViewMenu.h" line="380"/>
-        <source>Good (go to next image)</source>
-        <translation>좋음 (다음 이미지로 이동)</translation>
-    </message>
-    <message>
-        <location filename="ViewMenu.h" line="381"/>
-        <source>Average (go to next image)</source>
-        <translation>보통 (다음 이미지로 이동)</translation>
-    </message>
-    <message>
-        <location filename="ViewMenu.h" line="382"/>
-        <source>Fair (go to next image)</source>
-        <translation>괜찮음 (다음 이미지로 이동)</translation>
-    </message>
-    <message>
-        <location filename="ViewMenu.h" line="383"/>
-        <source>Poor (go to next image)</source>
-        <translation>별로임 (다음 이미지로 이동)</translation>
-    </message>
-    <message>
-        <location filename="ViewMenu.h" line="384"/>
-        <source>Unrated (go to next image)</source>
-        <translation>미평가 (다음 이미지로 이동)</translation>
+        <source>##rating## (go to next image)</source>
+        <oldsource>Excellent (go to next image)</oldsource>
+        <translation type="unfinished">훌륭함 (다음 이미지로 이동)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="397"/>
@@ -23083,23 +23024,23 @@ You can change it in Settings › Catalog.</oldsource>
 <context>
     <name>MyView</name>
     <message>
-        <location filename="MyView.cpp" line="495"/>
+        <location filename="MyView.cpp" line="498"/>
         <source>RGB/A</source>
         <translation>RGB/A</translation>
     </message>
     <message>
-        <location filename="MyView.cpp" line="498"/>
+        <location filename="MyView.cpp" line="501"/>
         <source>RGB</source>
         <translation>RGB</translation>
     </message>
     <message>
-        <location filename="MyView.cpp" line="1032"/>
+        <location filename="MyView.cpp" line="1051"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <oldsource>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system. </oldsource>
         <translation>PDF/PS/EPS/AI 파일을 보거나 변환하는데 XnView MP를 사용하려면, Ghostscript %1을 시스템에 설치해야 합니다.</translation>
     </message>
     <message>
-        <location filename="MyView.cpp" line="1033"/>
+        <location filename="MyView.cpp" line="1052"/>
         <source>Please visit the XnView %1 for more information.</source>
         <translation>추가 정보는 XnView %1을 방문해 주세요.</translation>
     </message>

@@ -1591,14 +1591,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Calificación</translation>
     </message>
     <message>
-        <source>No rating</source>
-        <translation>Sin calificación</translation>
-    </message>
-    <message>
-        <source>No colour label</source>
-        <translation>Sin etiqueta de color</translation>
-    </message>
-    <message>
         <source>Date</source>
         <translation>Fecha</translation>
     </message>
@@ -8157,18 +8149,6 @@ Please make sure that files are not read-only!</source>
 <context>
     <name>DlgReadJPEG</name>
     <message>
-        <source>Dithering</source>
-        <translation>Tramado</translation>
-    </message>
-    <message>
-        <source>None</source>
-        <translation>Ninguno</translation>
-    </message>
-    <message>
-        <source>Ordered</source>
-        <translation>Solicitado</translation>
-    </message>
-    <message>
         <source>Integer</source>
         <translation>Entero</translation>
     </message>
@@ -9340,12 +9320,12 @@ etiquetas de color o palabras clave pueden ser eliminadas.
 ¿Desea comprobar primero si hay entradas afectadas?</translation>
     </message>
     <message>
-        <source>Database [catalog: %1 %2 - thumbnails: %3 %4]</source>
-        <translation>Base de datos [catálogo: %1 %2 - miniaturas: %3 %4]</translation>
-    </message>
-    <message>
         <source>Updating database, please wait...</source>
         <translation>Actualizando la base de datos, por favor, espere...</translation>
+    </message>
+    <message>
+        <source>Database [catalog: %1 %2 - metadata: %5 %6 - thumbnails: %3 %4]</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9361,10 +9341,6 @@ etiquetas de color o palabras clave pueden ser eliminadas.
     <message>
         <source>MiB</source>
         <translation>MiB</translation>
-    </message>
-    <message>
-        <source>Size</source>
-        <translation>Tamaño</translation>
     </message>
     <message>
         <source>Files</source>
@@ -9465,6 +9441,22 @@ etiquetas de color o palabras clave pueden ser eliminadas.
     <message>
         <source>Update metadata</source>
         <translation>Actualizar metadatos</translation>
+    </message>
+    <message>
+        <source>Maintenance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filter</source>
+        <translation type="unfinished">Filtro</translation>
+    </message>
+    <message>
+        <source>Metadata</source>
+        <translation type="unfinished">Metadatos</translation>
+    </message>
+    <message>
+        <source>Thumbnail</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10811,6 +10803,10 @@ Do you want to reassign?</source>
     <message>
         <source>Write Hierarchical keywords (| as separator)</source>
         <translation>Escribir palabras clave jerárquicas (separadas por |)</translation>
+    </message>
+    <message>
+        <source>Rating labels</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13689,6 +13685,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <source>F-Number</source>
         <translation>Número-F</translation>
     </message>
+    <message>
+        <source>Indexed</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>InfoCategoryTreeView</name>
@@ -16494,20 +16494,12 @@ Do you want to continue?</source>
         <translation>Copiar</translation>
     </message>
     <message>
-        <source>Fair</source>
-        <translation>Suficiente</translation>
-    </message>
-    <message>
         <source>File</source>
         <translation>Archivo</translation>
     </message>
     <message>
         <source>Free</source>
         <translation>Libre</translation>
-    </message>
-    <message>
-        <source>Good</source>
-        <translation>Bueno</translation>
     </message>
     <message>
         <source>Left</source>
@@ -16520,10 +16512,6 @@ Do you want to continue?</source>
     <message>
         <source>Path</source>
         <translation>Ruta</translation>
-    </message>
-    <message>
-        <source>Poor</source>
-        <translation>Deficiente</translation>
     </message>
     <message>
         <source>Redo</source>
@@ -16850,10 +16838,6 @@ Do you want to continue?</source>
         <translation>Guardar todo</translation>
     </message>
     <message>
-        <source>Average</source>
-        <translation>Medio</translation>
-    </message>
-    <message>
         <source>Fit window to image</source>
         <translation>Ajustar la ventana a la imagen</translation>
     </message>
@@ -16886,10 +16870,6 @@ Do you want to continue?</source>
         <translation>Ajustar imagen a la ventana, solo grandes</translation>
     </message>
     <message>
-        <source>Excellent</source>
-        <translation>Excelente</translation>
-    </message>
-    <message>
         <source>Curves...</source>
         <translation>Curvas...</translation>
     </message>
@@ -16912,10 +16892,6 @@ Do you want to continue?</source>
     <message>
         <source>First file</source>
         <translation>Primer archivo</translation>
-    </message>
-    <message>
-        <source>Uncolored</source>
-        <translation>Sin color</translation>
     </message>
     <message>
         <source>First page</source>
@@ -17020,10 +16996,6 @@ Do you want to continue?</source>
     <message>
         <source>Open with</source>
         <translation>Abrir con</translation>
-    </message>
-    <message>
-        <source>Unrated</source>
-        <translation>Sin calificar</translation>
     </message>
     <message>
         <source>Sepia...</source>
@@ -17250,30 +17222,6 @@ Do you want to continue?</source>
         <translation>Guardar una copia...</translation>
     </message>
     <message>
-        <source>Excellent (go to next image)</source>
-        <translation>Excelente (ir a la siguiente imagen)</translation>
-    </message>
-    <message>
-        <source>Good (go to next image)</source>
-        <translation>Bueno (ir a la siguiente imagen)</translation>
-    </message>
-    <message>
-        <source>Average (go to next image)</source>
-        <translation>Medio (ir a la siguiente imagen)</translation>
-    </message>
-    <message>
-        <source>Fair (go to next image)</source>
-        <translation>Suficiente (ir a la siguiente imagen)</translation>
-    </message>
-    <message>
-        <source>Poor (go to next image)</source>
-        <translation>Deficiente (ir a la siguiente imagen)</translation>
-    </message>
-    <message>
-        <source>Unrated (go to next image)</source>
-        <translation>Sin calificar (ir a la siguiente imagen)</translation>
-    </message>
-    <message>
         <source>##label## (go to next image)</source>
         <translation>##label## (ir a la siguiente imagen)</translation>
     </message>
@@ -17344,6 +17292,10 @@ Do you want to continue?</source>
     <message>
         <source>Play/Pause media</source>
         <translation>Reproducir/Pausar multimedia</translation>
+    </message>
+    <message>
+        <source>##rating## (go to next image)</source>
+        <translation type="unfinished">##rating## (ir a la siguiente imagen)</translation>
     </message>
 </context>
 <context>

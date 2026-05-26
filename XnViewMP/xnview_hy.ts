@@ -1591,14 +1591,6 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Մարդիկ</translation>
     </message>
     <message>
-        <source>No rating</source>
-        <translation>Չկա վարկանիշ</translation>
-    </message>
-    <message>
-        <source>No colour label</source>
-        <translation>Չկա գույնային պիտակ</translation>
-    </message>
-    <message>
         <source>Date</source>
         <translation>Ամսաթիվ</translation>
     </message>
@@ -8156,18 +8148,6 @@ Please make sure that files are not read-only!</source>
 <context>
     <name>DlgReadJPEG</name>
     <message>
-        <source>Dithering</source>
-        <translation>Ողորկում</translation>
-    </message>
-    <message>
-        <source>None</source>
-        <translation>Չկա</translation>
-    </message>
-    <message>
-        <source>Ordered</source>
-        <translation>Կարգավորված</translation>
-    </message>
-    <message>
         <source>Integer</source>
         <translation>Ամբողջ թիվ</translation>
     </message>
@@ -9339,12 +9319,12 @@ Do you want to check for affected entries first?</source>
 Ցանկանո՞ւմ եք նախ ստուգել ազդված գրառումները:</translation>
     </message>
     <message>
-        <source>Database [catalog: %1 %2 - thumbnails: %3 %4]</source>
-        <translation>Տվյալների շտեմարան [գրացուցակ՝ %1 %2 - մանրապատկերներ՝ %3 %4]</translation>
-    </message>
-    <message>
         <source>Updating database, please wait...</source>
         <translation>Տվյալների շտեմարանի թարմացում, խնդրում ենք սպասել...</translation>
+    </message>
+    <message>
+        <source>Database [catalog: %1 %2 - metadata: %5 %6 - thumbnails: %3 %4]</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9360,10 +9340,6 @@ Do you want to check for affected entries first?</source>
     <message>
         <source>MiB</source>
         <translation>Մբ</translation>
-    </message>
-    <message>
-        <source>Size</source>
-        <translation>Չափ</translation>
     </message>
     <message>
         <source>Files</source>
@@ -9464,6 +9440,22 @@ Do you want to check for affected entries first?</source>
     <message>
         <source>Update metadata</source>
         <translation>Թարմացնել մետատվյալները</translation>
+    </message>
+    <message>
+        <source>Maintenance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filter</source>
+        <translation type="unfinished">Զտիչ</translation>
+    </message>
+    <message>
+        <source>Metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thumbnail</source>
+        <translation type="unfinished">Մանրապատկեր</translation>
     </message>
 </context>
 <context>
@@ -10809,6 +10801,10 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Write Hierarchical keywords (| as separator)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rating labels</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13688,6 +13684,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <source>F-Number</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Indexed</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>InfoCategoryTreeView</name>
@@ -16489,10 +16489,6 @@ Do you want to continue?</source>
         <translation>Պատճենել</translation>
     </message>
     <message>
-        <source>Fair</source>
-        <translation>Բավարար</translation>
-    </message>
-    <message>
         <source>File</source>
         <translation>Ֆայլ</translation>
     </message>
@@ -16501,16 +16497,8 @@ Do you want to continue?</source>
         <translation>Ազատ</translation>
     </message>
     <message>
-        <source>Good</source>
-        <translation>Լավ</translation>
-    </message>
-    <message>
         <source>Page</source>
         <translation>Էջը</translation>
-    </message>
-    <message>
-        <source>Poor</source>
-        <translation>Վատ</translation>
     </message>
     <message>
         <source>Redo</source>
@@ -16745,10 +16733,6 @@ Do you want to continue?</source>
         <translation>Հավասարեցում</translation>
     </message>
     <message>
-        <source>Average</source>
-        <translation>Միջին</translation>
-    </message>
-    <message>
         <source>Normalize</source>
         <translation>Կարգավորել</translation>
     </message>
@@ -16767,10 +16751,6 @@ Do you want to continue?</source>
     <message>
         <source>Fit image to window, large only</source>
         <translation>Պատկերը հարմարեցնել պատուհանին, միայն մեծերը</translation>
-    </message>
-    <message>
-        <source>Excellent</source>
-        <translation>Գերազանց</translation>
     </message>
     <message>
         <source>Lock zoom</source>
@@ -16795,10 +16775,6 @@ Do you want to continue?</source>
     <message>
         <source>First file</source>
         <translation>Առաջին ֆայլը</translation>
-    </message>
-    <message>
-        <source>Uncolored</source>
-        <translation>Անգույն</translation>
     </message>
     <message>
         <source>First page</source>
@@ -16871,10 +16847,6 @@ Do you want to continue?</source>
     <message>
         <source>Open with</source>
         <translation>Բացել՝</translation>
-    </message>
-    <message>
-        <source>Unrated</source>
-        <translation>Առանց գնահատականի</translation>
     </message>
     <message>
         <source>Sepia...</source>
@@ -17249,30 +17221,6 @@ Do you want to continue?</source>
         <translation>Պահպանել պատճեն...</translation>
     </message>
     <message>
-        <source>Excellent (go to next image)</source>
-        <translation>Գերազանց (անցնել հաջորդ պատկերին)</translation>
-    </message>
-    <message>
-        <source>Good (go to next image)</source>
-        <translation>Լավ (անցնել հաջորդ պատկերին)</translation>
-    </message>
-    <message>
-        <source>Average (go to next image)</source>
-        <translation>Միջին (անցնել հաջորդ պատկերին)</translation>
-    </message>
-    <message>
-        <source>Fair (go to next image)</source>
-        <translation>Բավարար (անցնել հաջորդ պատկերին)</translation>
-    </message>
-    <message>
-        <source>Poor (go to next image)</source>
-        <translation>Վատ (անցնել հաջորդ պատկերին)</translation>
-    </message>
-    <message>
-        <source>Unrated (go to next image)</source>
-        <translation>Առանց գնահատականի (անցնել հաջորդ պատկերին)</translation>
-    </message>
-    <message>
         <source>##label## (go to next image)</source>
         <translation>##label## (անցնել հաջորդ պատկերին)</translation>
     </message>
@@ -17343,6 +17291,10 @@ Do you want to continue?</source>
     <message>
         <source>Play/Pause media</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>##rating## (go to next image)</source>
+        <translation type="unfinished">##rating## (անցնել հաջորդ պատկերին)</translation>
     </message>
 </context>
 <context>

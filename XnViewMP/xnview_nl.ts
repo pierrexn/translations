@@ -4,132 +4,132 @@
 <context>
     <name>@default</name>
     <message>
-        <location filename="MyThumbSettings.cpp" line="883"/>
+        <location filename="MyThumbSettings.cpp" line="874"/>
         <source>Uncolored</source>
         <translation>Zonder kleur</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="889"/>
+        <location filename="MyThumbSettings.cpp" line="880"/>
         <source>Important</source>
         <translation>Belangrijk</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="889"/>
+        <location filename="MyThumbSettings.cpp" line="880"/>
         <source>Red</source>
         <translation>Rood</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="889"/>
+        <location filename="MyThumbSettings.cpp" line="880"/>
         <source>Select</source>
         <translation>Selecteren</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="890"/>
+        <location filename="MyThumbSettings.cpp" line="881"/>
         <source>Work</source>
         <translation>Werk</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="890"/>
+        <location filename="MyThumbSettings.cpp" line="881"/>
         <source>Yellow</source>
         <translation>Geel</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="890"/>
+        <location filename="MyThumbSettings.cpp" line="881"/>
         <source>Second</source>
         <translation>Volgende</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="891"/>
+        <location filename="MyThumbSettings.cpp" line="882"/>
         <source>Personal</source>
         <translation>Persoonlijk</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="891"/>
+        <location filename="MyThumbSettings.cpp" line="882"/>
         <source>Green</source>
         <translation>Groen</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="891"/>
+        <location filename="MyThumbSettings.cpp" line="882"/>
         <source>Approved</source>
         <translation>Goedgekeurd</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="892"/>
+        <location filename="MyThumbSettings.cpp" line="883"/>
         <source>To do</source>
         <translation>Te doen</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="892"/>
+        <location filename="MyThumbSettings.cpp" line="883"/>
         <source>Blue</source>
         <translation>Blauw</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="892"/>
+        <location filename="MyThumbSettings.cpp" line="883"/>
         <source>Review</source>
         <translation>Beoordeling</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="893"/>
+        <location filename="MyThumbSettings.cpp" line="884"/>
         <source>Later</source>
         <translation>Later</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="893"/>
+        <location filename="MyThumbSettings.cpp" line="884"/>
         <source>Purple</source>
         <translation>Purper</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="893"/>
+        <location filename="MyThumbSettings.cpp" line="884"/>
         <source>To Do</source>
         <translation>Te doen</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="894"/>
+        <location filename="MyThumbSettings.cpp" line="885"/>
         <source>Orange</source>
         <translation>Oranje</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="895"/>
+        <location filename="MyThumbSettings.cpp" line="886"/>
         <source>Grey</source>
         <translation>Grijs</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="896"/>
+        <location filename="MyThumbSettings.cpp" line="887"/>
         <source>Black</source>
         <translation>Zwart</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="897"/>
+        <location filename="MyThumbSettings.cpp" line="888"/>
         <source>White</source>
         <translation>Wit</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="767"/>
+        <location filename="MyThumbSettings.cpp" line="758"/>
         <source>Unrated</source>
         <translation>Zonder waardering</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="768"/>
+        <location filename="MyThumbSettings.cpp" line="759"/>
         <source>Poor</source>
         <translation>Matig</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="769"/>
+        <location filename="MyThumbSettings.cpp" line="760"/>
         <source>Fair</source>
         <translation>Redelijk</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="770"/>
+        <location filename="MyThumbSettings.cpp" line="761"/>
         <source>Average</source>
         <translation>Gemiddeld</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="771"/>
+        <location filename="MyThumbSettings.cpp" line="762"/>
         <source>Good</source>
         <translation>Goed</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="772"/>
+        <location filename="MyThumbSettings.cpp" line="763"/>
         <source>Excellent</source>
         <translation>Uitstekend</translation>
     </message>
@@ -1370,7 +1370,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen?</translation>
     </message>
     <message>
         <location filename="DlgWhiteBalance.h" line="64"/>
-        <location filename="DlgConvertProcess.h" line="4745"/>
+        <location filename="DlgConvertProcess.h" line="4746"/>
         <source>White Balance</source>
         <translation>Witbalans</translation>
     </message>
@@ -1540,42 +1540,42 @@ Wil je de favoriet &quot;%1&quot; verwijderen?</translation>
         <translation>Verzadiging</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4761"/>
+        <location filename="DlgConvertProcess.h" line="4762"/>
         <source>Mono Mixer</source>
         <translation>Mono Mixer</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4786"/>
+        <location filename="DlgConvertProcess.h" line="4787"/>
         <source>Fantasy</source>
         <translation>Fantasie</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4806"/>
+        <location filename="DlgConvertProcess.h" line="4807"/>
         <source>Crystallize</source>
         <translation>Kristaliseren</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4824"/>
+        <location filename="DlgConvertProcess.h" line="4825"/>
         <source>Temperature</source>
         <translation>Temperatuur</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4841"/>
+        <location filename="DlgConvertProcess.h" line="4842"/>
         <source>Photo Spread</source>
         <translation>Fotospreiding</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4868"/>
+        <location filename="DlgConvertProcess.h" line="4869"/>
         <source>Frequency</source>
         <translation>Frequentie</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4873"/>
+        <location filename="DlgConvertProcess.h" line="4874"/>
         <source>Halftone</source>
         <translation>Halftoon</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="5007"/>
+        <location filename="DlgConvertProcess.h" line="5008"/>
         <source>QR Code</source>
         <translation>QR Code</translation>
     </message>
@@ -1942,7 +1942,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen?</translation>
         <location filename="CategoryManager.cpp" line="133"/>
         <location filename="MyDB.cpp" line="871"/>
         <location filename="MyDB.cpp" line="2293"/>
-        <location filename="MyDB.cpp" line="3545"/>
+        <location filename="MyDB.cpp" line="3586"/>
         <source>Other</source>
         <translation>Overig</translation>
     </message>
@@ -2051,16 +2051,6 @@ Wil je de favoriet &quot;%1&quot; verwijderen?</translation>
         <location filename="DBFilterModel.cpp" line="165"/>
         <source>Uncategorized</source>
         <translation>Ongecategoriseerd</translation>
-    </message>
-    <message>
-        <location filename="DBFilterModel.cpp" line="166"/>
-        <source>No rating</source>
-        <translation>Geen waardering</translation>
-    </message>
-    <message>
-        <location filename="DBFilterModel.cpp" line="167"/>
-        <source>No colour label</source>
-        <translation>Geen kleurlabel</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="168"/>
@@ -10484,33 +10474,18 @@ Controleer of er geen bestanden alleen-lezen zijn!</translation>
 <context>
     <name>DlgReadJPEG</name>
     <message>
-        <location filename="DlgReadJPEG.ui" line="22"/>
-        <source>Dithering</source>
-        <translation>Dithering</translation>
-    </message>
-    <message>
-        <location filename="DlgReadJPEG.ui" line="30"/>
-        <source>None</source>
-        <translation>Geen</translation>
-    </message>
-    <message>
-        <location filename="DlgReadJPEG.ui" line="35"/>
-        <source>Ordered</source>
-        <translation>Geordend</translation>
-    </message>
-    <message>
-        <location filename="DlgReadJPEG.ui" line="76"/>
+        <location filename="DlgReadJPEG.ui" line="33"/>
         <source>Integer</source>
         <translation>Integer</translation>
     </message>
     <message>
-        <location filename="DlgReadJPEG.ui" line="81"/>
+        <location filename="DlgReadJPEG.ui" line="38"/>
         <source>Fast integer</source>
         <oldsource>Integer fast</oldsource>
         <translation>Integer snel</translation>
     </message>
     <message>
-        <location filename="DlgReadJPEG.ui" line="86"/>
+        <location filename="DlgReadJPEG.ui" line="43"/>
         <source>Floating-point</source>
         <oldsource>Float</oldsource>
         <translation>Floating-point</translation>
@@ -11854,56 +11829,56 @@ Wil je ze verwijderen?</translation>
 <context>
     <name>DlgSettingsCache</name>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="260"/>
+        <location filename="DlgSettingsCache.cpp" line="319"/>
         <source>None</source>
         <translation>Geen</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="261"/>
+        <location filename="DlgSettingsCache.cpp" line="320"/>
         <source>Lossless (ZIP)</source>
         <translation>Verliesloos (ZIP)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="262"/>
+        <location filename="DlgSettingsCache.cpp" line="321"/>
         <source>Lossy - High quality (JPEG)</source>
         <translation>Met verlies - High quality (JPEG)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="263"/>
+        <location filename="DlgSettingsCache.cpp" line="322"/>
         <source>Lossy - Low quality (JPEG)</source>
         <translation>Met verlies - Low quality (JPEG)</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="92"/>
-        <location filename="DlgSettingsCache.cpp" line="294"/>
-        <location filename="DlgSettingsCache.cpp" line="711"/>
+        <location filename="DlgSettingsCache.cpp" line="353"/>
+        <location filename="DlgSettingsCache.cpp" line="770"/>
         <source>Excluded</source>
         <translation>Exclusief</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="93"/>
-        <location filename="DlgSettingsCache.cpp" line="294"/>
+        <location filename="DlgSettingsCache.cpp" line="353"/>
         <source>Included</source>
         <translation>Inclusief</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="152"/>
-        <source>Database [catalog: %1 %2 - thumbnails: %3 %4]</source>
-        <translation>Database [catalogus: %1 %2 - miniaturen: %3 %4]</translation>
+        <location filename="DlgSettingsCache.cpp" line="163"/>
+        <source>Database [catalog: %1 %2 - metadata: %5 %6 - thumbnails: %3 %4]</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="264"/>
+        <location filename="DlgSettingsCache.cpp" line="323"/>
         <source>Lossy - High quality (WebP)</source>
         <translation>Met verlies - High quality (WebP)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="273"/>
+        <location filename="DlgSettingsCache.cpp" line="332"/>
         <source>Catalog - Absolute/Relative paths</source>
         <oldsource>Change absolute/relative paths</oldsource>
         <translation>Catalogus - Absolute/relatieve paden</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="273"/>
+        <location filename="DlgSettingsCache.cpp" line="332"/>
         <source>Changing &apos;base path&apos; may disconnect files stored in database. 
 Do it only if you want to share same folder between several computers. 
 
@@ -11914,18 +11889,18 @@ Doe dit alleen als u dezelfde map met verschillende computers wilt delen.
 Wilt u het basispad wijzigen?</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="360"/>
-        <location filename="DlgSettingsCache.cpp" line="601"/>
+        <location filename="DlgSettingsCache.cpp" line="419"/>
+        <location filename="DlgSettingsCache.cpp" line="660"/>
         <source>Catalog - Remove Entries</source>
         <translation>Catalogus - Invoer verwijderen</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="511"/>
+        <location filename="DlgSettingsCache.cpp" line="570"/>
         <source>Catalog - Synchronize Folders</source>
         <translation>Catalogus - Mappen synchroniseren</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="512"/>
+        <location filename="DlgSettingsCache.cpp" line="571"/>
         <source>All orphaned files will be deleted from Catalog.
 
 Do you want to continue?</source>
@@ -11935,33 +11910,33 @@ Do you want to continue?</source>
 Wilt u doorgaan?</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="543"/>
+        <location filename="DlgSettingsCache.cpp" line="602"/>
         <source>Updating database, please wait...</source>
         <translation>Database bijwerken, even geduld…</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="560"/>
+        <location filename="DlgSettingsCache.cpp" line="619"/>
         <source>Catalog - Relocate the folder</source>
         <oldsource>Relocate the folder</oldsource>
         <translation>Catalogus - Map verplaatsen</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="560"/>
+        <location filename="DlgSettingsCache.cpp" line="619"/>
         <source>New path:</source>
         <translation>Nieuw pad:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="560"/>
+        <location filename="DlgSettingsCache.cpp" line="619"/>
         <source>Old path:</source>
         <translation>Oud pad:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="578"/>
+        <location filename="DlgSettingsCache.cpp" line="637"/>
         <source>Catalog Maintenance</source>
         <translation>Catalogus-onderhoud</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="579"/>
+        <location filename="DlgSettingsCache.cpp" line="638"/>
         <source>Some database entries with assigned Rating, 
 Color labels, Keywords may be deleted. 
 
@@ -11973,8 +11948,8 @@ Do you want to check for affected entries first?</source>
 Wilt u eerst controleren op getroffen items?</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="361"/>
-        <location filename="DlgSettingsCache.cpp" line="602"/>
+        <location filename="DlgSettingsCache.cpp" line="420"/>
+        <location filename="DlgSettingsCache.cpp" line="661"/>
         <source>Catalog entries with Categories, Rating &amp; Color labels will be removed. 
 
 If information is exported into embedded or sidecar metadata, 
@@ -12012,7 +11987,7 @@ Wilt u items verwijderen die zijn toegewezen aan een categorie?</translation>
         <translation>Maximum miniaturen-buffer</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="270"/>
+        <location filename="DlgSettingsCache.ui" line="293"/>
         <source>Base path of files</source>
         <oldsource>Base path of your pictures</oldsource>
         <translation>Basis-pad van bestanden</translation>
@@ -12059,92 +12034,107 @@ Wilt u items verwijderen die zijn toegewezen aan een categorie?</translation>
         <translation>Controleer bij start de integriteit van de catalogus</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="304"/>
+        <location filename="DlgSettingsCache.ui" line="282"/>
+        <source>Maintenance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsCache.ui" line="323"/>
+        <source>Filter</source>
+        <translation type="unfinished">Filter</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsCache.ui" line="354"/>
         <source>Directory</source>
         <oldsource>Cached directory</oldsource>
         <translation>Map</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="309"/>
+        <location filename="DlgSettingsCache.ui" line="359"/>
         <source>Files</source>
         <translation>Bestanden</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="314"/>
-        <source>Size</source>
-        <translation>Grootte</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsCache.ui" line="329"/>
-        <location filename="DlgSettingsCache.ui" line="519"/>
+        <location filename="DlgSettingsCache.ui" line="384"/>
+        <location filename="DlgSettingsCache.ui" line="568"/>
         <source>Delete</source>
         <translation>Verwijderen</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="336"/>
-        <location filename="DlgSettingsCache.ui" line="526"/>
+        <location filename="DlgSettingsCache.ui" line="391"/>
+        <location filename="DlgSettingsCache.ui" line="575"/>
         <source>Delete all</source>
         <translation>Alles verwijderen</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="375"/>
+        <location filename="DlgSettingsCache.ui" line="430"/>
         <source>Maintenance...</source>
         <translation>Onderhoud…</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="382"/>
+        <location filename="DlgSettingsCache.ui" line="437"/>
         <source>Import folder...</source>
         <translation>Map importeren…</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="416"/>
+        <location filename="DlgSettingsCache.ui" line="471"/>
         <source>Rebuild thumbnails</source>
         <translation>Miniaturen verversen</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="430"/>
+        <location filename="DlgSettingsCache.ui" line="485"/>
         <source>Update metadata</source>
         <oldsource>Update metadata...</oldsource>
         <translation>Metagegevens bijwerken</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="493"/>
+        <location filename="DlgSettingsCache.ui" line="542"/>
         <source>Add folder...</source>
         <translation>Map toevoegen…</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="392"/>
+        <location filename="DlgSettingsCache.ui" line="447"/>
         <source>Relocate...</source>
         <translation>Verplaatsen…</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="423"/>
+        <location filename="DlgSettingsCache.ui" line="364"/>
+        <source>Metadata</source>
+        <translation type="unfinished">Metagegevens</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsCache.ui" line="369"/>
+        <source>Thumbnail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsCache.ui" line="478"/>
         <source>Synchronize Folders...</source>
         <oldsource>Check folders...</oldsource>
         <translation>Mappen synchroniseren…</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="453"/>
+        <location filename="DlgSettingsCache.ui" line="502"/>
         <source>Excluded/Included</source>
         <translation>Uitgesloten/ingesloten</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="478"/>
+        <location filename="DlgSettingsCache.ui" line="527"/>
         <source>1</source>
         <translation>1</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="483"/>
+        <location filename="DlgSettingsCache.ui" line="532"/>
         <source>2</source>
         <translation>2</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="548"/>
+        <location filename="DlgSettingsCache.ui" line="597"/>
         <source>Always exclude removable drives</source>
         <translation>Verwisselbare apparaten altijd negeren</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.ui" line="555"/>
+        <location filename="DlgSettingsCache.ui" line="604"/>
         <source>Always exclude CD/DVD drives</source>
         <translation>CD/DVD apparaten altijd negeren</translation>
     </message>
@@ -13825,7 +13815,7 @@ Opnieuw toewijzen?</translation>
 <context>
     <name>DlgSettingsKeywords</name>
     <message>
-        <location filename="DlgSettingsKeywords.cpp" line="78"/>
+        <location filename="DlgSettingsKeywords.cpp" line="87"/>
         <source>Locale</source>
         <translation>Taalinstelling</translation>
     </message>
@@ -13970,17 +13960,23 @@ Opnieuw toewijzen?</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="673"/>
+        <source>Rating labels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsKeywords.ui" line="829"/>
         <source>Color labels</source>
         <oldsource>Labels</oldsource>
         <translation>Kleurlabels</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="841"/>
+        <location filename="DlgSettingsKeywords.ui" line="753"/>
+        <location filename="DlgSettingsKeywords.ui" line="1060"/>
         <source>Label</source>
         <translation>Label</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="791"/>
+        <location filename="DlgSettingsKeywords.ui" line="1046"/>
         <source>Read (separated by ,)</source>
         <translation>Lezen (gescheiden door ,)</translation>
     </message>
@@ -14000,7 +13996,7 @@ Opnieuw toewijzen?</translation>
         <translation>Afbeelding beschrijving</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="834"/>
+        <location filename="DlgSettingsKeywords.ui" line="1053"/>
         <source>Write</source>
         <translation>Schrijven</translation>
     </message>
@@ -15985,17 +15981,17 @@ Doorgaan?</translation>
         <translation>Filtermatrix</translation>
     </message>
     <message>
-        <location filename="DlgUserFilter.ui" line="483"/>
+        <location filename="DlgUserFilter.ui" line="486"/>
         <source>Bias</source>
         <translation>Vertekening</translation>
     </message>
     <message>
-        <location filename="DlgUserFilter.ui" line="476"/>
+        <location filename="DlgUserFilter.ui" line="479"/>
         <source>Divisor</source>
         <translation>Deelfactor</translation>
     </message>
     <message>
-        <location filename="DlgUserFilter.ui" line="503"/>
+        <location filename="DlgUserFilter.ui" line="506"/>
         <source>Apply</source>
         <translation>Toepassen</translation>
     </message>
@@ -16868,13 +16864,13 @@ Doorgaan?</translation>
 <context>
     <name>FavoritesView</name>
     <message>
-        <location filename="FavoritesView.cpp" line="211"/>
+        <location filename="FavoritesView.cpp" line="212"/>
         <source>Delete</source>
         <translation>Verwijderen</translation>
     </message>
     <message>
         <location filename="FavoritesView.cpp" line="115"/>
-        <location filename="FavoritesView.cpp" line="212"/>
+        <location filename="FavoritesView.cpp" line="213"/>
         <source>Rename</source>
         <translation>Hernoemen</translation>
     </message>
@@ -16906,18 +16902,18 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     </message>
     <message>
         <location filename="FavoritesView.cpp" line="117"/>
-        <location filename="FavoritesView.cpp" line="214"/>
+        <location filename="FavoritesView.cpp" line="215"/>
         <source>New subfolder</source>
         <translation>Nieuwe submap</translation>
     </message>
     <message>
         <location filename="FavoritesView.cpp" line="121"/>
-        <location filename="FavoritesView.cpp" line="216"/>
+        <location filename="FavoritesView.cpp" line="217"/>
         <source>Edit pathname...</source>
         <translation>Padnaam bewerken…</translation>
     </message>
     <message>
-        <location filename="FavoritesView.cpp" line="193"/>
+        <location filename="FavoritesView.cpp" line="194"/>
         <source>New Folder</source>
         <translation>Nieuwe map</translation>
     </message>
@@ -17129,9 +17125,9 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <name>Info</name>
     <message>
         <location filename="InfoPropertiesView.cpp" line="68"/>
-        <location filename="InfoPropertiesView.cpp" line="480"/>
-        <location filename="InfoPropertiesView.cpp" line="498"/>
-        <location filename="InfoPropertiesView.cpp" line="517"/>
+        <location filename="InfoPropertiesView.cpp" line="482"/>
+        <location filename="InfoPropertiesView.cpp" line="500"/>
+        <location filename="InfoPropertiesView.cpp" line="519"/>
         <location filename="SearchField.cpp" line="41"/>
         <location filename="TemplateData.cpp" line="2615"/>
         <source>Format</source>
@@ -17139,7 +17135,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="69"/>
-        <location filename="InfoPropertiesView.cpp" line="483"/>
+        <location filename="InfoPropertiesView.cpp" line="485"/>
         <location filename="ItemModel.cpp" line="1030"/>
         <location filename="SearchField.cpp" line="42"/>
         <location filename="TemplateData.cpp" line="2618"/>
@@ -17149,7 +17145,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="70"/>
-        <location filename="InfoPropertiesView.cpp" line="484"/>
+        <location filename="InfoPropertiesView.cpp" line="486"/>
         <location filename="ItemModel.cpp" line="1032"/>
         <location filename="SearchField.cpp" line="43"/>
         <location filename="TemplateData.cpp" line="2619"/>
@@ -17177,6 +17173,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
         <location filename="InfoPropertiesView.cpp" line="80"/>
         <location filename="InfoPropertiesView.cpp" line="82"/>
         <location filename="InfoPropertiesView.cpp" line="84"/>
+        <location filename="InfoPropertiesView.cpp" line="86"/>
         <location filename="TemplateData.cpp" line="2616"/>
         <source>Color model</source>
         <translation>Kleurmodel</translation>
@@ -17188,16 +17185,21 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="82"/>
+        <source>Indexed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="InfoPropertiesView.cpp" line="84"/>
         <source>Greyscale</source>
         <translation>Grijstinten</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="86"/>
+        <location filename="InfoPropertiesView.cpp" line="88"/>
         <source>Colors used</source>
         <translation>Gebruikte kleuren</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="88"/>
+        <location filename="InfoPropertiesView.cpp" line="90"/>
         <location filename="ItemModel.cpp" line="1034"/>
         <location filename="TemplateData.cpp" line="2622"/>
         <location filename="TemplateData.cpp" line="2644"/>
@@ -17205,216 +17207,216 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
         <translation>DPI</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="93"/>
+        <location filename="InfoPropertiesView.cpp" line="95"/>
         <location filename="ItemModel.cpp" line="1012"/>
         <source>Print size</source>
         <translation>Afdrukgrootte</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="96"/>
-        <location filename="InfoPropertiesView.cpp" line="101"/>
+        <location filename="InfoPropertiesView.cpp" line="98"/>
+        <location filename="InfoPropertiesView.cpp" line="103"/>
         <location filename="TemplateData.cpp" line="2617"/>
         <source>Compression</source>
         <translation>Compressie</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="289"/>
-        <location filename="InfoPropertiesView.cpp" line="96"/>
+        <location filename="InfoPropertiesView.cpp" line="98"/>
         <source>None</source>
         <translation>Geen</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="106"/>
+        <location filename="InfoPropertiesView.cpp" line="108"/>
         <source>Progressive mode</source>
         <translation>Progressieve modus</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="115"/>
+        <location filename="InfoPropertiesView.cpp" line="117"/>
         <source>Subsampling</source>
         <oldsource>Sub-sampling</oldsource>
         <translation>Sub-sampling</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="119"/>
+        <location filename="InfoPropertiesView.cpp" line="121"/>
         <source>Estimated quality</source>
         <translation>Geschatte kwaliteit</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="121"/>
+        <location filename="InfoPropertiesView.cpp" line="123"/>
         <source>Images/frames count</source>
         <translation>Aantal afbeeldingen/frames</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="138"/>
+        <location filename="InfoPropertiesView.cpp" line="140"/>
         <source>Origin</source>
         <translation>Herkomst</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="141"/>
-        <location filename="InfoPropertiesView.cpp" line="144"/>
+        <location filename="InfoPropertiesView.cpp" line="143"/>
+        <location filename="InfoPropertiesView.cpp" line="146"/>
         <source>Embedded comment</source>
         <translation>Ingesloten commentaar</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="174"/>
+        <location filename="InfoPropertiesView.cpp" line="176"/>
         <source>F-Number</source>
         <translation>F-Nummer</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="181"/>
+        <location filename="InfoPropertiesView.cpp" line="183"/>
         <source>Date taken</source>
         <translation>Datum opname</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="185"/>
+        <location filename="InfoPropertiesView.cpp" line="187"/>
         <source>Lens model</source>
         <translation>Lens model</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="187"/>
+        <location filename="InfoPropertiesView.cpp" line="189"/>
         <source>Focal length (mm)</source>
         <translation>Brandpuntsafstand (mm)</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="200"/>
+        <location filename="InfoPropertiesView.cpp" line="202"/>
         <source>Description</source>
         <translation>Beschrijving</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="205"/>
+        <location filename="InfoPropertiesView.cpp" line="207"/>
         <source>Manufacturer</source>
         <translation>Fabrikant</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="481"/>
+        <location filename="InfoPropertiesView.cpp" line="483"/>
         <source>Encoded date</source>
         <translation>Codeerde datum</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="482"/>
-        <location filename="InfoPropertiesView.cpp" line="502"/>
-        <location filename="InfoPropertiesView.cpp" line="521"/>
+        <location filename="InfoPropertiesView.cpp" line="484"/>
+        <location filename="InfoPropertiesView.cpp" line="504"/>
+        <location filename="InfoPropertiesView.cpp" line="523"/>
         <source>Codec</source>
         <translation>Codec</translation>
-    </message>
-    <message>
-        <location filename="InfoPropertiesView.cpp" line="485"/>
-        <location filename="InfoPropertiesView.cpp" line="503"/>
-        <location filename="InfoPropertiesView.cpp" line="522"/>
-        <source>Duration</source>
-        <translation>Duur</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="487"/>
         <location filename="InfoPropertiesView.cpp" line="505"/>
         <location filename="InfoPropertiesView.cpp" line="524"/>
+        <source>Duration</source>
+        <translation>Duur</translation>
+    </message>
+    <message>
+        <location filename="InfoPropertiesView.cpp" line="489"/>
+        <location filename="InfoPropertiesView.cpp" line="507"/>
+        <location filename="InfoPropertiesView.cpp" line="526"/>
         <source>Bit rate</source>
         <translation>Bitrate</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="488"/>
+        <location filename="InfoPropertiesView.cpp" line="490"/>
         <source>Aspect ratio</source>
         <translation>Beeldverhouding</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="489"/>
+        <location filename="InfoPropertiesView.cpp" line="491"/>
         <source>Frame rate mode</source>
         <translation>Framerate</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="490"/>
-        <location filename="InfoPropertiesView.cpp" line="507"/>
-        <location filename="InfoPropertiesView.cpp" line="526"/>
+        <location filename="InfoPropertiesView.cpp" line="492"/>
+        <location filename="InfoPropertiesView.cpp" line="509"/>
+        <location filename="InfoPropertiesView.cpp" line="528"/>
         <source>Frame rate</source>
         <translation>Framerate</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="491"/>
-        <location filename="InfoPropertiesView.cpp" line="508"/>
-        <location filename="InfoPropertiesView.cpp" line="527"/>
+        <location filename="InfoPropertiesView.cpp" line="493"/>
+        <location filename="InfoPropertiesView.cpp" line="510"/>
+        <location filename="InfoPropertiesView.cpp" line="529"/>
         <source>Compression mode</source>
         <translation>Compressie</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="492"/>
+        <location filename="InfoPropertiesView.cpp" line="494"/>
         <source>Bits/sample</source>
         <translation>Bits/sample</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="499"/>
-        <location filename="InfoPropertiesView.cpp" line="518"/>
+        <location filename="InfoPropertiesView.cpp" line="501"/>
+        <location filename="InfoPropertiesView.cpp" line="520"/>
         <source>Format version</source>
         <translation>Formaatversie</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="500"/>
-        <location filename="InfoPropertiesView.cpp" line="519"/>
+        <location filename="InfoPropertiesView.cpp" line="502"/>
+        <location filename="InfoPropertiesView.cpp" line="521"/>
         <source>Format profile</source>
         <translation>Profiel</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="501"/>
-        <location filename="InfoPropertiesView.cpp" line="520"/>
+        <location filename="InfoPropertiesView.cpp" line="503"/>
+        <location filename="InfoPropertiesView.cpp" line="522"/>
         <source>Format settings</source>
         <translation>Formaatinstellingen</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="504"/>
-        <location filename="InfoPropertiesView.cpp" line="523"/>
+        <location filename="InfoPropertiesView.cpp" line="506"/>
+        <location filename="InfoPropertiesView.cpp" line="525"/>
         <source>Bit rate mode</source>
         <translation>Bitrate</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="506"/>
-        <location filename="InfoPropertiesView.cpp" line="525"/>
+        <location filename="InfoPropertiesView.cpp" line="508"/>
+        <location filename="InfoPropertiesView.cpp" line="527"/>
         <source>Sampling rate</source>
         <translation>Samplerate</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="529"/>
+        <location filename="InfoPropertiesView.cpp" line="531"/>
         <source>Album</source>
         <translation>Album</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="530"/>
+        <location filename="InfoPropertiesView.cpp" line="532"/>
         <source>Title</source>
         <translation>Titel</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="531"/>
+        <location filename="InfoPropertiesView.cpp" line="533"/>
         <source>Performer</source>
         <translation>Uitvoerend artiest</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="532"/>
+        <location filename="InfoPropertiesView.cpp" line="534"/>
         <source>Genre</source>
         <translation>Genre</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="533"/>
+        <location filename="InfoPropertiesView.cpp" line="535"/>
         <source>Recorded date</source>
         <translation>Opnamedatum</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="179"/>
-        <location filename="InfoPropertiesView.cpp" line="210"/>
+        <location filename="InfoPropertiesView.cpp" line="181"/>
+        <location filename="InfoPropertiesView.cpp" line="212"/>
         <source>Model</source>
         <translation>Model</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="172"/>
+        <location filename="InfoPropertiesView.cpp" line="174"/>
         <source>Exposure Time</source>
         <translation>Sluitertijd</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="176"/>
+        <location filename="InfoPropertiesView.cpp" line="178"/>
         <source>True ISO</source>
         <translation>Echte ISO</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="215"/>
-        <location filename="InfoPropertiesView.cpp" line="494"/>
-        <location filename="InfoPropertiesView.cpp" line="534"/>
+        <location filename="InfoPropertiesView.cpp" line="217"/>
+        <location filename="InfoPropertiesView.cpp" line="496"/>
+        <location filename="InfoPropertiesView.cpp" line="536"/>
         <source>Copyright</source>
         <translation>Auteursrecht</translation>
     </message>
@@ -17451,8 +17453,8 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
         <translation>Bits</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="495"/>
-        <location filename="InfoPropertiesView.cpp" line="535"/>
+        <location filename="InfoPropertiesView.cpp" line="497"/>
+        <location filename="InfoPropertiesView.cpp" line="537"/>
         <location filename="ItemModel.cpp" line="1022"/>
         <location filename="SearchField.cpp" line="47"/>
         <location filename="TemplateData.cpp" line="2621"/>
@@ -19166,123 +19168,123 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
         <translation>Afbeelding</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="106"/>
+        <location filename="InfoPropertiesView.cpp" line="108"/>
         <source>Yes</source>
         <translation>Ja</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="106"/>
+        <location filename="InfoPropertiesView.cpp" line="108"/>
         <source>No</source>
         <translation>Nee</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="126"/>
+        <location filename="InfoPropertiesView.cpp" line="128"/>
         <source>Top-Right</source>
         <translation>Rechtsboven</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="129"/>
+        <location filename="InfoPropertiesView.cpp" line="131"/>
         <source>Bottom-Left</source>
         <translation>Linksonder</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="132"/>
+        <location filename="InfoPropertiesView.cpp" line="134"/>
         <source>Bottom-Right</source>
         <translation>Rechtsonder</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="136"/>
+        <location filename="InfoPropertiesView.cpp" line="138"/>
         <source>Top-Left</source>
         <translation>Linksboven</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="153"/>
+        <location filename="InfoPropertiesView.cpp" line="155"/>
         <source>Extra</source>
         <translation>Extra</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="169"/>
+        <location filename="InfoPropertiesView.cpp" line="171"/>
         <source>Camera</source>
         <translation>Camera</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="193"/>
+        <location filename="InfoPropertiesView.cpp" line="195"/>
         <source>Color Profile</source>
         <translation>Kleurprofiel</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="227"/>
+        <location filename="InfoPropertiesView.cpp" line="229"/>
         <source>Extra info</source>
         <translation>Extra info</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="413"/>
+        <location filename="InfoPropertiesView.cpp" line="415"/>
         <source>File</source>
         <translation>Bestand</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="414"/>
+        <location filename="InfoPropertiesView.cpp" line="416"/>
         <source>Filename</source>
         <translation>Bestandsnaam</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="415"/>
+        <location filename="InfoPropertiesView.cpp" line="417"/>
         <source>Filepath</source>
         <translation>Bestandspad</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="420"/>
+        <location filename="InfoPropertiesView.cpp" line="422"/>
         <source>Description</source>
         <translation>Beschrijving</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="426"/>
+        <location filename="InfoPropertiesView.cpp" line="428"/>
         <source>File size</source>
         <translation>Bestandsgrootte</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="427"/>
+        <location filename="InfoPropertiesView.cpp" line="429"/>
         <source>Creation date/time</source>
         <translation>Datum/tijd aangemaakt</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="428"/>
+        <location filename="InfoPropertiesView.cpp" line="430"/>
         <source>Modified date/time</source>
         <translation>Datum/tijd gewijzigd</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="429"/>
+        <location filename="InfoPropertiesView.cpp" line="431"/>
         <source>Accessed date/time</source>
         <translation>Datum/tijd benaderd</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="431"/>
+        <location filename="InfoPropertiesView.cpp" line="433"/>
         <source>Rating</source>
         <translation>Waardering</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="435"/>
+        <location filename="InfoPropertiesView.cpp" line="437"/>
         <source>Colour Label</source>
         <translation>Kleurlabel</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="445"/>
+        <location filename="InfoPropertiesView.cpp" line="447"/>
         <source>File&apos;s icon</source>
         <translation>Bestandspictogram</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="460"/>
+        <location filename="InfoPropertiesView.cpp" line="462"/>
         <source>Annotation</source>
         <translation>Aantekening</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="479"/>
+        <location filename="InfoPropertiesView.cpp" line="481"/>
         <source>Video</source>
         <translation>Video</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="497"/>
-        <location filename="InfoPropertiesView.cpp" line="516"/>
+        <location filename="InfoPropertiesView.cpp" line="499"/>
+        <location filename="InfoPropertiesView.cpp" line="518"/>
         <source>Audio</source>
         <translation>Audio</translation>
     </message>
@@ -19751,17 +19753,17 @@ Doorgaan?</translation>
 <context>
     <name>MediaPlayer</name>
     <message>
-        <location filename="MediaPlayer.cpp" line="351"/>
+        <location filename="MediaPlayer.cpp" line="357"/>
         <source>Show playbar</source>
         <translation>Afspeelbalk weergeven</translation>
     </message>
     <message>
-        <location filename="MediaPlayer.cpp" line="356"/>
+        <location filename="MediaPlayer.cpp" line="362"/>
         <source>Save frame as...</source>
         <translation>Frame opslaan als…</translation>
     </message>
     <message>
-        <location filename="MediaPlayer.cpp" line="359"/>
+        <location filename="MediaPlayer.cpp" line="365"/>
         <source>Extract current frame</source>
         <translation>Huidige frame opslaan</translation>
     </message>
@@ -20319,8 +20321,6 @@ Doorgaan?</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="496"/>
-        <location filename="BrowserMenu.h" line="110"/>
-        <location filename="BrowserMenu.h" line="496"/>
         <source>Uncolored</source>
         <translation>Zonder kleur</translation>
     </message>
@@ -21566,41 +21566,6 @@ Doorgaan?</translation>
         <translation>Afbeeldings inhoud</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="372"/>
-        <source>Excellent</source>
-        <translation>Uitstekend</translation>
-    </message>
-    <message>
-        <location filename="ViewMenu.h" line="373"/>
-        <source>Good</source>
-        <translation>Goed</translation>
-    </message>
-    <message>
-        <location filename="ViewMenu.h" line="374"/>
-        <source>Average</source>
-        <translation>Gemiddeld</translation>
-    </message>
-    <message>
-        <location filename="ViewMenu.h" line="375"/>
-        <source>Fair</source>
-        <translation>Redelijk</translation>
-    </message>
-    <message>
-        <location filename="ViewMenu.h" line="376"/>
-        <source>Poor</source>
-        <translation>Matig</translation>
-    </message>
-    <message>
-        <location filename="ViewMenu.h" line="377"/>
-        <source>Unrated</source>
-        <translation>Zonder waardering</translation>
-    </message>
-    <message>
-        <location filename="ViewMenu.h" line="395"/>
-        <source>Uncolored</source>
-        <translation>Zonder kleur</translation>
-    </message>
-    <message>
         <location filename="ViewMenu.h" line="358"/>
         <source>Fit image to window, small only</source>
         <translation>Afbeelding passen in venster, alleen klein</translation>
@@ -21906,33 +21871,9 @@ Doorgaan?</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="379"/>
-        <source>Excellent (go to next image)</source>
-        <translation>Uitstekend (naar volgende afbeelding)</translation>
-    </message>
-    <message>
-        <location filename="ViewMenu.h" line="380"/>
-        <source>Good (go to next image)</source>
-        <translation>Goed (naar volgende afbeelding)</translation>
-    </message>
-    <message>
-        <location filename="ViewMenu.h" line="381"/>
-        <source>Average (go to next image)</source>
-        <translation>Gemiddeld (naar volgende afbeelding)</translation>
-    </message>
-    <message>
-        <location filename="ViewMenu.h" line="382"/>
-        <source>Fair (go to next image)</source>
-        <translation>Redelijk (naar volgende afbeelding)</translation>
-    </message>
-    <message>
-        <location filename="ViewMenu.h" line="383"/>
-        <source>Poor (go to next image)</source>
-        <translation>Matig (naar volgende afbeelding)</translation>
-    </message>
-    <message>
-        <location filename="ViewMenu.h" line="384"/>
-        <source>Unrated (go to next image)</source>
-        <translation>Zonder waardering (naar volgende afbeelding)</translation>
+        <source>##rating## (go to next image)</source>
+        <oldsource>Excellent (go to next image)</oldsource>
+        <translation type="unfinished">Uitstekend (naar volgende afbeelding)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="397"/>
@@ -23163,23 +23104,23 @@ Dit is te wijzigen in Instellingen › Catalogus.</translation>
 <context>
     <name>MyView</name>
     <message>
-        <location filename="MyView.cpp" line="495"/>
+        <location filename="MyView.cpp" line="498"/>
         <source>RGB/A</source>
         <translation>RGB/A</translation>
     </message>
     <message>
-        <location filename="MyView.cpp" line="498"/>
+        <location filename="MyView.cpp" line="501"/>
         <source>RGB</source>
         <translation>RGB</translation>
     </message>
     <message>
-        <location filename="MyView.cpp" line="1032"/>
+        <location filename="MyView.cpp" line="1051"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <oldsource>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system. </oldsource>
         <translation>Om PDF/PS/EPS/AI-bestanden te bekijken of te converteren, dient Ghostscript %1 op uw systeem te zijn geïnstalleerd.</translation>
     </message>
     <message>
-        <location filename="MyView.cpp" line="1033"/>
+        <location filename="MyView.cpp" line="1052"/>
         <source>Please visit the XnView %1 for more information.</source>
         <translation>Bezoek de XnView %1 voor meer informatie.</translation>
     </message>

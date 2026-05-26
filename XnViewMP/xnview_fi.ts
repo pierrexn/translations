@@ -1591,14 +1591,6 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
         <translation>Luokitus</translation>
     </message>
     <message>
-        <source>No rating</source>
-        <translation>Ei luokitusta</translation>
-    </message>
-    <message>
-        <source>No colour label</source>
-        <translation>Ei värimerkintää</translation>
-    </message>
-    <message>
         <source>Date</source>
         <translation>Päiväys</translation>
     </message>
@@ -8161,18 +8153,6 @@ Varmista, että tiedostot eivät ole &apos;vain luku&apos; -tyyppisiä!</transla
 <context>
     <name>DlgReadJPEG</name>
     <message>
-        <source>Dithering</source>
-        <translation>Ditheröinti</translation>
-    </message>
-    <message>
-        <source>None</source>
-        <translation>Ei mitään</translation>
-    </message>
-    <message>
-        <source>Ordered</source>
-        <translation>Järjestetty</translation>
-    </message>
-    <message>
         <source>Integer</source>
         <translation>Integraali</translation>
     </message>
@@ -9345,12 +9325,12 @@ väritunnisteita ja avainsanoja, saatetaan poistaa.
 Haluatko ensin tarkastaa tiedot, joihin tämä vaikuttaa?</translation>
     </message>
     <message>
-        <source>Database [catalog: %1 %2 - thumbnails: %3 %4]</source>
-        <translation>Tietokanta [luettelo: %1 %2 - pienoiskuvat: %3 %4]</translation>
-    </message>
-    <message>
         <source>Updating database, please wait...</source>
         <translation>Tietokantaa päivitetään, odota hetki...</translation>
+    </message>
+    <message>
+        <source>Database [catalog: %1 %2 - metadata: %5 %6 - thumbnails: %3 %4]</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9366,10 +9346,6 @@ Haluatko ensin tarkastaa tiedot, joihin tämä vaikuttaa?</translation>
     <message>
         <source>MiB</source>
         <translation>MiB</translation>
-    </message>
-    <message>
-        <source>Size</source>
-        <translation>Koko</translation>
     </message>
     <message>
         <source>Files</source>
@@ -9470,6 +9446,22 @@ Haluatko ensin tarkastaa tiedot, joihin tämä vaikuttaa?</translation>
     <message>
         <source>Update metadata</source>
         <translation>Päivitä metatiedot</translation>
+    </message>
+    <message>
+        <source>Maintenance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filter</source>
+        <translation type="unfinished">Suodin</translation>
+    </message>
+    <message>
+        <source>Metadata</source>
+        <translation type="unfinished">Metatiedot</translation>
+    </message>
+    <message>
+        <source>Thumbnail</source>
+        <translation type="unfinished">Pienoiskuva</translation>
     </message>
 </context>
 <context>
@@ -10816,6 +10808,10 @@ Haluatko määrittää uudelleen?</translation>
     <message>
         <source>Write Hierarchical keywords (| as separator)</source>
         <translation>Kirjoita hierarkkiset avainsanat (erottimena |)</translation>
+    </message>
+    <message>
+        <source>Rating labels</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13694,6 +13690,10 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
         <source>F-Number</source>
         <translation>F-numero</translation>
     </message>
+    <message>
+        <source>Indexed</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>InfoCategoryTreeView</name>
@@ -16499,20 +16499,12 @@ Jatketaanko?</translation>
         <translation>Kopioi</translation>
     </message>
     <message>
-        <source>Fair</source>
-        <translation>Kohtuullinen</translation>
-    </message>
-    <message>
         <source>File</source>
         <translation>Tiedosto</translation>
     </message>
     <message>
         <source>Free</source>
         <translation>Vapaa</translation>
-    </message>
-    <message>
-        <source>Good</source>
-        <translation>Hyvä</translation>
     </message>
     <message>
         <source>Left</source>
@@ -16525,10 +16517,6 @@ Jatketaanko?</translation>
     <message>
         <source>Path</source>
         <translation>Polku</translation>
-    </message>
-    <message>
-        <source>Poor</source>
-        <translation>Huono</translation>
     </message>
     <message>
         <source>Redo</source>
@@ -16867,10 +16855,6 @@ Jatketaanko?</translation>
         <translation>Tallenna kaikki</translation>
     </message>
     <message>
-        <source>Average</source>
-        <translation>Keskinkertainen</translation>
-    </message>
-    <message>
         <source>Fit window to image</source>
         <translation>Sovita ikkuna kuvakokooon</translation>
     </message>
@@ -16907,10 +16891,6 @@ Jatketaanko?</translation>
         <translation>Sovita kuva ikkunaan (vain suuret kuvat)</translation>
     </message>
     <message>
-        <source>Excellent</source>
-        <translation>Erinomainen</translation>
-    </message>
-    <message>
         <source>Curves...</source>
         <translation>Kaaret...</translation>
     </message>
@@ -16933,10 +16913,6 @@ Jatketaanko?</translation>
     <message>
         <source>First file</source>
         <translation>Ensimmäinen tiedosto</translation>
-    </message>
-    <message>
-        <source>Uncolored</source>
-        <translation>Ei väriä</translation>
     </message>
     <message>
         <source>First page</source>
@@ -17045,10 +17021,6 @@ Jatketaanko?</translation>
     <message>
         <source>Slideshow...</source>
         <translation>Kuvaesitys...</translation>
-    </message>
-    <message>
-        <source>Unrated</source>
-        <translation>Arvostelemattomat</translation>
     </message>
     <message>
         <source>Sepia...</source>
@@ -17255,30 +17227,6 @@ Jatketaanko?</translation>
         <translation>Talenna kopio...</translation>
     </message>
     <message>
-        <source>Excellent (go to next image)</source>
-        <translation>Erinomainen (siirry seuraavaan kuvaan)</translation>
-    </message>
-    <message>
-        <source>Good (go to next image)</source>
-        <translation>Hyvä (siirry seuraavaan kuvaan)</translation>
-    </message>
-    <message>
-        <source>Average (go to next image)</source>
-        <translation>Keskinkertainen (siirry seuraavaan kuvaan)</translation>
-    </message>
-    <message>
-        <source>Fair (go to next image)</source>
-        <translation>Kohtuullinen (siirry seuraavaan kuvaan)</translation>
-    </message>
-    <message>
-        <source>Poor (go to next image)</source>
-        <translation>Huono (siirry seuraavaan kuvaan)</translation>
-    </message>
-    <message>
-        <source>Unrated (go to next image)</source>
-        <translation>Arvostelemattomat (siirry seuraavaan kuvaan)</translation>
-    </message>
-    <message>
         <source>##label## (go to next image)</source>
         <translation>##label## (siirry seuraavaan kuvaan)</translation>
     </message>
@@ -17349,6 +17297,10 @@ Jatketaanko?</translation>
     <message>
         <source>Play/Pause media</source>
         <translation>Toista/keskeytä media</translation>
+    </message>
+    <message>
+        <source>##rating## (go to next image)</source>
+        <translation type="unfinished">##rating## (siirry seuraavaan kuvaan)</translation>
     </message>
 </context>
 <context>
