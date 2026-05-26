@@ -11867,7 +11867,7 @@ Voulez-vous les enlever?</translation>
     <message>
         <location filename="DlgSettingsCache.cpp" line="163"/>
         <source>Database [catalog: %1 %2 - metadata: %5 %6 - thumbnails: %3 %4]</source>
-        <translation type="unfinished"></translation>
+        <translation>Base de données [catalogue: %1 %2 - métadonnées: %5 %6 - vignettes: %3 %4]</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="323"/>
@@ -12044,7 +12044,7 @@ Voulez-vous supprimer les entrées attribuées à une catégorie?</translation>
     <message>
         <location filename="DlgSettingsCache.ui" line="323"/>
         <source>Filter</source>
-        <translation type="unfinished">Filtre</translation>
+        <translation>Filtre</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="354"/>
@@ -12103,12 +12103,12 @@ Voulez-vous supprimer les entrées attribuées à une catégorie?</translation>
     <message>
         <location filename="DlgSettingsCache.ui" line="364"/>
         <source>Metadata</source>
-        <translation type="unfinished">Métadonnées</translation>
+        <translation>Métadonnées</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="369"/>
         <source>Thumbnail</source>
-        <translation type="unfinished">Vignette</translation>
+        <translation>Vignette</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="478"/>
@@ -17338,7 +17338,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="82"/>
         <source>Indexed</source>
-        <translation type="unfinished"></translation>
+        <translation>Indexé</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="84"/>
@@ -22045,7 +22045,7 @@ Voulez-vous continuer ?</translation>
         <location filename="ViewMenu.h" line="379"/>
         <source>##rating## (go to next image)</source>
         <oldsource>Excellent (go to next image)</oldsource>
-        <translation type="unfinished">Excellent (aller à l&apos;image suivante)</translation>
+        <translation>##rating## (aller à l&apos;image suivante)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="397"/>
