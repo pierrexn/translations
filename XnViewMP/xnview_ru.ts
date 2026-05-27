@@ -8174,7 +8174,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="399"/>
         <source>Smoothing factor</source>
-        <translation>Коэффициент сглаживания</translation>
+        <translation>Сглаживание</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="430"/>
@@ -11939,7 +11939,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsCache.cpp" line="163"/>
         <source>Database [catalog: %1 %2 - metadata: %5 %6 - thumbnails: %3 %4]</source>
-        <translation type="unfinished"></translation>
+        <translation>База данных [каталог: %1 %2 - метаданные: %5 %6 - эскизы: %3 %4]</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="323"/>
@@ -12112,12 +12112,12 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettingsCache.ui" line="282"/>
         <source>Maintenance</source>
-        <translation type="unfinished"></translation>
+        <translation>Обслуживание</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="323"/>
         <source>Filter</source>
-        <translation type="unfinished">Фильтр</translation>
+        <translation>Фильтр</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="354"/>
@@ -12176,12 +12176,12 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettingsCache.ui" line="364"/>
         <source>Metadata</source>
-        <translation type="unfinished">Метаданные</translation>
+        <translation>Метаданные</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="369"/>
         <source>Thumbnail</source>
-        <translation type="unfinished">Эскиз</translation>
+        <translation>Эскизы</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="478"/>
@@ -14045,7 +14045,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="673"/>
         <source>Rating labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Рейтинг</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="829"/>
@@ -16418,7 +16418,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteJPEG.ui" line="167"/>
         <source>Smoothing factor</source>
-        <translation>Коэффициент сглаживания</translation>
+        <translation>Сглаживание</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="153"/>
@@ -17281,7 +17281,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="82"/>
         <source>Indexed</source>
-        <translation type="unfinished"></translation>
+        <translation>Индексированное</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="84"/>
@@ -22425,7 +22425,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="379"/>
         <source>##rating## (go to next image)</source>
         <oldsource>Excellent (go to next image)</oldsource>
-        <translation type="unfinished">Отлично (перейти к следующему файлу)</translation>
+        <translation>##rating## (перейти к следующему файлу)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="397"/>
