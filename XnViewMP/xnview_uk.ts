@@ -22280,7 +22280,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="379"/>
         <source>##rating## (go to next image)</source>
         <oldsource>Excellent (go to next image)</oldsource>
-        <translation type="unfinished">Відмінно (перейти до наступного файлу)</translation>
+        <translation>##rating## (перейти до наступного файлу)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="397"/>
