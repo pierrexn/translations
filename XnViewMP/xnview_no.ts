@@ -22200,7 +22200,7 @@ Er du sikker på at du vil fortsette?</translation>
         <location filename="ViewMenu.h" line="379"/>
         <source>##rating## (go to next image)</source>
         <oldsource>Excellent (go to next image)</oldsource>
-        <translation type="unfinished">Ypperlig (Gå videre til neste bilde)</translation>
+        <translation>##rating## (Gå videre til neste bilde)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="397"/>
