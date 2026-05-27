@@ -21959,7 +21959,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="379"/>
         <source>##rating## (go to next image)</source>
         <oldsource>Excellent (go to next image)</oldsource>
-        <translation type="unfinished">훌륭함 (다음 이미지로 이동)</translation>
+        <translation>##rating## (다음 이미지로 이동)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="397"/>
