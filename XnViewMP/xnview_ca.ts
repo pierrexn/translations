@@ -22055,7 +22055,7 @@ Vols continuar?</translation>
         <location filename="ViewMenu.h" line="379"/>
         <source>##rating## (go to next image)</source>
         <oldsource>Excellent (go to next image)</oldsource>
-        <translation type="unfinished">Excel·lent (anar a la imatge següent)</translation>
+        <translation>##rating## (anar a la imatge següent)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="397"/>
