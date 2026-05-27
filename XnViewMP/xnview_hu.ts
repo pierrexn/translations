@@ -21851,7 +21851,7 @@ Biztosan folytassuk?</translation>
         <location filename="ViewMenu.h" line="379"/>
         <source>##rating## (go to next image)</source>
         <oldsource>Excellent (go to next image)</oldsource>
-        <translation>##értékelés## (tovább a következő képre)</translation>
+        <translation>##rating## (tovább a következő képre)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="397"/>
