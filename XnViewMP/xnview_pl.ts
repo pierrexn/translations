@@ -22124,7 +22124,7 @@ Czy chcesz kontynuować?</translation>
         <location filename="ViewMenu.h" line="379"/>
         <source>##rating## (go to next image)</source>
         <oldsource>Excellent (go to next image)</oldsource>
-        <translation type="unfinished">Doskonały (przejdź do następnego obrazu)</translation>
+        <translation>##rating## (przejdź do następnego obrazu)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="397"/>
