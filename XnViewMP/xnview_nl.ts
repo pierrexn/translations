@@ -11864,7 +11864,7 @@ Wil je ze verwijderen?</translation>
     <message>
         <location filename="DlgSettingsCache.cpp" line="163"/>
         <source>Database [catalog: %1 %2 - metadata: %5 %6 - thumbnails: %3 %4]</source>
-        <translation type="unfinished"></translation>
+        <translation>Database [catalogus: %1 %2 - metagegevens: %5 %6 - miniaturen: %3 %4]</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="323"/>
@@ -12036,7 +12036,7 @@ Wilt u items verwijderen die zijn toegewezen aan een categorie?</translation>
     <message>
         <location filename="DlgSettingsCache.ui" line="282"/>
         <source>Maintenance</source>
-        <translation type="unfinished"></translation>
+        <translation>Onderhoud</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="323"/>
@@ -12100,12 +12100,12 @@ Wilt u items verwijderen die zijn toegewezen aan een categorie?</translation>
     <message>
         <location filename="DlgSettingsCache.ui" line="364"/>
         <source>Metadata</source>
-        <translation type="unfinished">Metagegevens</translation>
+        <translation>Metagegevens</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="369"/>
         <source>Thumbnail</source>
-        <translation type="unfinished"></translation>
+        <translation>Miniatuur</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="478"/>
@@ -13961,7 +13961,7 @@ Opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="673"/>
         <source>Rating labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Waarderingslabels</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="829"/>
@@ -17186,7 +17186,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="82"/>
         <source>Indexed</source>
-        <translation type="unfinished"></translation>
+        <translation>Geïndexeerd</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="84"/>
@@ -21873,7 +21873,7 @@ Doorgaan?</translation>
         <location filename="ViewMenu.h" line="379"/>
         <source>##rating## (go to next image)</source>
         <oldsource>Excellent (go to next image)</oldsource>
-        <translation type="unfinished">Uitstekend (naar volgende afbeelding)</translation>
+        <translation type="unfinished">##rating## (naar volgende afbeelding)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="397"/>
