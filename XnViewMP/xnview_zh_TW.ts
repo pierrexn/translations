@@ -22285,7 +22285,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="379"/>
         <source>##rating## (go to next image)</source>
         <oldsource>Excellent (go to next image)</oldsource>
-        <translation type="unfinished">極佳 (移至下一張圖片)</translation>
+        <translation>##rating## (移至下一張圖片)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="397"/>
