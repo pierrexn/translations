@@ -22123,7 +22123,7 @@ Chcete pokračovať?</translation>
         <location filename="ViewMenu.h" line="379"/>
         <source>##rating## (go to next image)</source>
         <oldsource>Excellent (go to next image)</oldsource>
-        <translation type="unfinished">Výborné (presunúť na další obrázok)</translation>
+        <translation>##rating## (presunúť na další obrázok)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="397"/>
