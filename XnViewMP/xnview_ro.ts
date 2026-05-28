@@ -598,7 +598,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Open in file manager</source>
-        <translation>Deschide în managerul (gestionarul) de fișiere</translation>
+        <translation>Deschide în managerul de fișiere (în gestionarul de fișiere)</translation>
     </message>
     <message>
         <source>The database is corrupted. Please check it before you continue!</source>
@@ -9341,7 +9341,7 @@ Dorești să verifici mai întâi intrările afectate?</translation>
     </message>
     <message>
         <source>Database [catalog: %1 %2 - metadata: %5 %6 - thumbnails: %3 %4]</source>
-        <translation type="unfinished"></translation>
+        <translation>Bază de date [catalogul: %1 %2 - metadatele: %5 %6 - miniaturile: %3 %4]</translation>
     </message>
 </context>
 <context>
@@ -9460,19 +9460,19 @@ Dorești să verifici mai întâi intrările afectate?</translation>
     </message>
     <message>
         <source>Maintenance</source>
-        <translation type="unfinished"></translation>
+        <translation>Mentenanță</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">Filtru</translation>
+        <translation>Filtru</translation>
     </message>
     <message>
         <source>Metadata</source>
-        <translation type="unfinished">Metadate</translation>
+        <translation>Metadate</translation>
     </message>
     <message>
         <source>Thumbnail</source>
-        <translation type="unfinished">Miniatură</translation>
+        <translation>Miniatură</translation>
     </message>
 </context>
 <context>
@@ -10822,7 +10822,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Rating labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Etichete de evaluare</translation>
     </message>
 </context>
 <context>
@@ -13703,7 +13703,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Indexed</source>
-        <translation type="unfinished"></translation>
+        <translation>Indexat(ă)</translation>
     </message>
 </context>
 <context>
@@ -16182,11 +16182,11 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>##rating## (go to next image)</source>
-        <translation>##rating## (mergi la imaginea următoare)</translation>
+        <translation>##evaluare (rating)## (mergi la imaginea următoare)</translation>
     </message>
     <message>
         <source>Open in file manager</source>
-        <translation>Deschide în managerul (gestionarul) de fișiere</translation>
+        <translation>Deschide în managerul de fișiere (în gestionarul de fișiere)</translation>
     </message>
     <message>
         <source>Map</source>
@@ -17311,7 +17311,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>##rating## (go to next image)</source>
-        <translation type="unfinished">##rating## (mergi la imaginea următoare)</translation>
+        <translation>##evaluare (rating)## (mergi la imaginea următoare)</translation>
     </message>
 </context>
 <context>
