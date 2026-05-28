@@ -12041,7 +12041,7 @@ Wilt u items verwijderen die zijn toegewezen aan een categorie?</translation>
     <message>
         <location filename="DlgSettingsCache.ui" line="323"/>
         <source>Filter</source>
-        <translation type="unfinished">Filter</translation>
+        <translation>Filter</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="354"/>
@@ -21873,7 +21873,7 @@ Doorgaan?</translation>
         <location filename="ViewMenu.h" line="379"/>
         <source>##rating## (go to next image)</source>
         <oldsource>Excellent (go to next image)</oldsource>
-        <translation type="unfinished">##rating## (naar volgende afbeelding)</translation>
+        <translation>##rating## (naar volgende afbeelding)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="397"/>
