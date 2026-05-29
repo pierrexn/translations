@@ -1086,7 +1086,7 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     <message>
         <location filename="CompareWidget.cpp" line="55"/>
         <source>Clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Przycinanie</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="573"/>
@@ -7672,12 +7672,12 @@ Czy zapisać zmiany?</translation>
     <message>
         <location filename="DlgEditXMP.cpp" line="399"/>
         <source>Enter a template name</source>
-        <translation type="unfinished"></translation>
+        <translation>Podaj nazwę szablonu</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="399"/>
         <source>Template name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa szablonu:</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="453"/>
@@ -9123,7 +9123,7 @@ Zostaną utworzone podfoldery. </translation>
     <message>
         <location filename="DlgImport.cpp" line="226"/>
         <source>Open Metadata Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz szablon metadanych</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="243"/>
@@ -11880,7 +11880,7 @@ Czy chcesz je usunąć?</translation>
     <message>
         <location filename="DlgSettingsCache.cpp" line="163"/>
         <source>Database [catalog: %1 %2 - metadata: %5 %6 - thumbnails: %3 %4]</source>
-        <translation type="unfinished"></translation>
+        <translation>Baza danych [katalog: %1 %2 - metadane: %5 %6 - miniatury: %3 %4]</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="323"/>
@@ -12052,12 +12052,12 @@ Czy na pewno usunąć wpisy przypisane do kategorii?</translation>
     <message>
         <location filename="DlgSettingsCache.ui" line="282"/>
         <source>Maintenance</source>
-        <translation type="unfinished"></translation>
+        <translation>Konserwacja</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="323"/>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtr</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="354"/>
@@ -12116,12 +12116,12 @@ Czy na pewno usunąć wpisy przypisane do kategorii?</translation>
     <message>
         <location filename="DlgSettingsCache.ui" line="364"/>
         <source>Metadata</source>
-        <translation type="unfinished">Metadane</translation>
+        <translation>Metadane</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="369"/>
         <source>Thumbnail</source>
-        <translation type="unfinished"></translation>
+        <translation>Miniatura</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="478"/>
@@ -13938,7 +13938,7 @@ Czy zmienić przypisanie?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="673"/>
         <source>Rating labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Etykiety ocen</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="753"/>
@@ -17183,7 +17183,7 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="78"/>
         <source>Bits per channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitów na kanał</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="80"/>
@@ -17202,7 +17202,7 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="82"/>
         <source>Indexed</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaindeksowane</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="84"/>
@@ -17276,7 +17276,7 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="176"/>
         <source>F-Number</source>
-        <translation type="unfinished">Liczba-F</translation>
+        <translation>Liczba-F</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="183"/>
@@ -18832,7 +18832,7 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
         <location filename="SearchField.cpp" line="67"/>
         <location filename="TemplateData.cpp" line="2781"/>
         <source>Fixture ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Identyfikator urządzenia</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="65"/>
@@ -19781,7 +19781,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="MediaPlayer.cpp" line="362"/>
         <source>Save frame as...</source>
-        <translation type="unfinished">Zapisz klatkę jako...</translation>
+        <translation>Zapisz klatkę jako...</translation>
     </message>
     <message>
         <location filename="MediaPlayer.cpp" line="365"/>
@@ -20131,12 +20131,12 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="BrowserMenu.h" line="668"/>
         <source>Show clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż przycinanie</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="669"/>
         <source>Channel clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Przycinanie kanałów</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="677"/>
@@ -20938,12 +20938,12 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="BrowserMenu.h" line="546"/>
         <source>Update catalog from files</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizuj katalog z plików</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="547"/>
         <source>Update catalog from files (+options)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizuj katalog z plików (+opcje)...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="549"/>
@@ -21158,7 +21158,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="BrowserMenu.h" line="631"/>
         <source>Import...</source>
-        <translation type="unfinished">Importuj...</translation>
+        <translation>Importuj...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="632"/>
@@ -21872,7 +21872,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="ViewMenu.h" line="447"/>
         <source>Play/Pause media</source>
-        <translation type="unfinished"></translation>
+        <translation>Odtwarzaj/Wstrzymaj multimedia</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="500"/>
@@ -22160,17 +22160,17 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="ViewMenu.h" line="457"/>
         <source>Show clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż przycinanie</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="458"/>
         <source>Channel clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Przycinanie kanałów</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="459"/>
         <source>Highlight &amp;&amp; Shadow clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Przycinanie rozświetleń i cieni</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="469"/>
@@ -22944,32 +22944,32 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="MyHistogram.cpp" line="227"/>
         <source>Show clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż przycinanie</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="236"/>
         <source>Clipping mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Tryb przycinania</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="254"/>
         <source>Shadows</source>
-        <translation type="unfinished"></translation>
+        <translation>Cienie</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="255"/>
         <source>Highlights</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozjaśnienia</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="256"/>
         <source>Shadows + Highlights</source>
-        <translation type="unfinished"></translation>
+        <translation>Cienie i rozjaśnienia</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="257"/>
         <source>Highlights (per channel)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozjaśnienia (na kanał)</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="263"/>
@@ -23080,7 +23080,7 @@ Można go zmienić w Ustawienia&gt;Katalog</translation>
     <message>
         <location filename="MyThumbView.cpp" line="761"/>
         <source>Updating catalog, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizacja katalogu, proszę czekać...</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="779"/>
