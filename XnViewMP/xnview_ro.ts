@@ -16182,7 +16182,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>##rating## (go to next image)</source>
-        <translation>##evaluare (rating)## (mergi la imaginea următoare)</translation>
+        <translation>##rating## (mergi la imaginea următoare)</translation>
     </message>
     <message>
         <source>Open in file manager</source>
@@ -17311,7 +17311,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>##rating## (go to next image)</source>
-        <translation>##evaluare (rating)## (mergi la imaginea următoare)</translation>
+        <translation>##rating## (mergi la imaginea următoare)</translation>
     </message>
 </context>
 <context>
