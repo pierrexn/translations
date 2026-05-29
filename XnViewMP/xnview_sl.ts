@@ -11991,7 +11991,7 @@ Ali želite odstraniti vnose, dodeljene kategoriji?</translation>
     <message>
         <location filename="DlgSettingsCache.cpp" line="163"/>
         <source>Database [catalog: %1 %2 - metadata: %5 %6 - thumbnails: %3 %4]</source>
-        <translation type="unfinished"></translation>
+        <translation>Zbirka podatkov [katalog: %1 %2 - metapodatki: %5 %6 - sličice: %3 %4]</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="638"/>
@@ -12074,12 +12074,12 @@ Ali želite najprej preveriti prizadete vnose?</translation>
     <message>
         <location filename="DlgSettingsCache.ui" line="282"/>
         <source>Maintenance</source>
-        <translation type="unfinished"></translation>
+        <translation>Vzdrževanje</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="323"/>
         <source>Filter</source>
-        <translation type="unfinished">Filter</translation>
+        <translation>Filter</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="354"/>
@@ -12138,12 +12138,12 @@ Ali želite najprej preveriti prizadete vnose?</translation>
     <message>
         <location filename="DlgSettingsCache.ui" line="364"/>
         <source>Metadata</source>
-        <translation type="unfinished">Metapodatki</translation>
+        <translation>Metapodatki</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="369"/>
         <source>Thumbnail</source>
-        <translation type="unfinished">Sličica</translation>
+        <translation>Sličica</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="478"/>
@@ -13970,7 +13970,7 @@ Ali želite ponovno dodeliti?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="673"/>
         <source>Rating labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Oznake ocen</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="753"/>
@@ -17368,7 +17368,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="82"/>
         <source>Indexed</source>
-        <translation type="unfinished"></translation>
+        <translation>Indeksirano</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="84"/>
