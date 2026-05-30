@@ -11235,7 +11235,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>1.90  D4/D16 Anamorphic</source>
-        <translation>1.90 D4/D16 Anamorfic</translation>
+        <translation>1.90  D4/D16 Anamorfic</translation>
     </message>
     <message>
         <source>2.00  Anamorphic</source>
