@@ -21492,12 +21492,12 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2594"/>
         <source>Y - Year</source>
-        <translation>å - År</translation>
+        <translation>Y - År</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2595"/>
         <source>y - Year without century (00-99)</source>
-        <translation>å - År uden århundrede (00-99)</translation>
+        <translation>y - År uden århundrede (00-99)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2596"/>
@@ -21512,13 +21512,13 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2599"/>
         <source>H - Hour (01-24)</source>
-        <translation>T - Time (01-24)</translation>
+        <translation>H - Time (01-24)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2600"/>
         <source>h - Hour (01-12)</source>
         <oldsource>h - Hour (01-21)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>h - Time (01-12)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2601"/>
