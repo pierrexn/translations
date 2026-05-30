@@ -21451,7 +21451,7 @@ Volete continuare?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2607"/>
         <source>a - Abbreviated weekday name (eg. wed)</source>
-        <translation>A - Nome giorno della settimana abbreviato (es. Mer)</translation>
+        <translation>a - Nome giorno della settimana abbreviato (es. Mer)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2835"/>
