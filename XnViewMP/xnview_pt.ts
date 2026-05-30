@@ -21494,7 +21494,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2602"/>
         <source>S - Second (00-59)</source>
-        <translation>S- Segundo (00-59)</translation>
+        <translation>S - Segundo (00-59)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2604"/>
