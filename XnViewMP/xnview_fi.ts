@@ -11316,7 +11316,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>1.90  D4/D16 Anamorphic</source>
-        <translation>1.90 D4/D16 Anamorfinen</translation>
+        <translation>1.90  D4/D16 Anamorfinen</translation>
     </message>
     <message>
         <source>2.00  Anamorphic</source>
@@ -16381,15 +16381,15 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>m - Month as decimal (01-12)</source>
-        <translation>k - Kuukausi numerointi (01-12)</translation>
+        <translation>m - Kuukausi numerointi (01-12)</translation>
     </message>
     <message>
         <source>a - Abbreviated weekday name (eg. wed)</source>
-        <translation>Viikonpäivä - lyhennys (esim. Keskiv)</translation>
+        <translation>a - Viikonpäivä - lyhennys (esim. Keskiv)</translation>
     </message>
     <message>
         <source>Y - Year</source>
-        <translation>V - Vuosi</translation>
+        <translation>Y - Vuosi</translation>
     </message>
     <message>
         <source>B - Month name (eg. february)</source>
@@ -16405,7 +16405,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>d - Day as decimal (01-31)</source>
-        <translation>p - Päivä numerointi (01-31)</translation>
+        <translation>d - Päivä numerointi (01-31)</translation>
     </message>
     <message>
         <source>M - Minute (00-59)</source>
@@ -16449,7 +16449,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>y - Year without century (00-99)</source>
-        <translation>v - Vuosi ilman vuosisatoja (00-99)</translation>
+        <translation>y - Vuosi ilman vuosisatoja (00-99)</translation>
     </message>
     <message>
         <source>IPTC - Credits</source>
@@ -16457,7 +16457,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>H - Hour (01-24)</source>
-        <translation>T - Tunti (01-24)</translation>
+        <translation>H - Tunti (01-24)</translation>
     </message>
     <message>
         <source># - Numeric enumerator</source>
@@ -16465,7 +16465,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>h - Hour (01-12)</source>
-        <translation>t - Tunti (01-12)</translation>
+        <translation>h - Tunti (01-12)</translation>
     </message>
 </context>
 <context>
