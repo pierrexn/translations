@@ -21368,7 +21368,7 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2594"/>
         <source>Y - Year</source>
-        <translation>Y- Év</translation>
+        <translation>Y - Év</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2595"/>
