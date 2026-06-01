@@ -1523,7 +1523,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="DlgConvertProcess.h" line="3083"/>
         <source>Normalize Ex</source>
-        <translation>EX normalizálása</translation>
+        <translation>Ex normalizálása</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="3088"/>
