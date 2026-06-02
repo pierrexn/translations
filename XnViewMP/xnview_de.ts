@@ -11933,7 +11933,8 @@ Color labels, Keywords may be deleted.
 
 Do you want to check for affected entries first?</source>
         <oldsource>Warning! This operation may delete some database entries with assigned ratings/colors/keywords. Do you want to check for affected entries first?</oldsource>
-        <translation>ACHTUNG: Diese Verarbeitung löscht möglicherweise Einträge in der Datenbank mit Bewertungen, Farbkennzeichnung und/oder Stichwörtern.
+        <translation>ACHTUNG: Diese Verarbeitung löscht möglicherweise Einträge in der Datenbank mit Bewertungen,  
+Farbkennzeichnung und/oder Stichwörtern.
 
 Wollen Sie zuerst eine Liste der betroffenen Einträge anzeigen?</translation>
     </message>
