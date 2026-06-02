@@ -10580,7 +10580,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgReadPDF.ui" line="79"/>
         <source>Letter</source>
-        <translation>А4</translation>
+        <translation>Letter</translation>
     </message>
     <message>
         <location filename="DlgReadPDF.ui" line="84"/>
