@@ -21,7 +21,7 @@
     <message>
         <location filename="MyThumbSettings.cpp" line="880"/>
         <source>Select</source>
-        <translation>選擇</translation>
+        <translation>選取</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="881"/>
@@ -169,7 +169,7 @@
     <message>
         <location filename="AboutWidget.ui" line="224"/>
         <source>INI filename</source>
-        <translation>INI 檔案</translation>
+        <translation>INI 檔</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="247"/>
@@ -324,7 +324,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="3026"/>
         <source>&lt;%1&gt; already exists!</source>
-        <translation>&lt;%1&gt;已存在！</translation>
+        <translation>&lt;%1&gt; 已存在！</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="3026"/>
@@ -672,7 +672,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="2093"/>
         <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi-select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right-click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
-        <translation>&lt;b&gt;目錄篩選器&lt;/b&gt;&lt;br&gt;單擊左鍵進行篩選&lt;br&gt;&amp;bull; Shift/Ctrl - 多重選擇&lt;br&gt;&amp;bull; Alt/Opt - 排除項目&lt;br&gt;單擊右鍵開啟節點選項&lt;br&gt;拖放到節點上進行分配</translation>
+        <translation>&lt;b&gt;類別目錄篩選器&lt;/b&gt;&lt;br&gt;單擊左鍵進行篩選&lt;br&gt;&amp;bull; Shift/Ctrl - 多重選取&lt;br&gt;&amp;bull; Alt/Opt - 排除項目&lt;br&gt;單擊右鍵開啟項目選項&lt;br&gt;將檔案拖放到項目上進行指派</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3509"/>
@@ -682,7 +682,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="3511"/>
         <source>&lt;Catalog filter results&gt;</source>
-        <translation>&lt;目錄篩選結果&gt;</translation>
+        <translation>&lt;類別目錄篩選結果&gt;</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3513"/>
@@ -820,13 +820,13 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="CategorySetPanel.cpp" line="299"/>
         <source>Assign Set to selection</source>
         <oldsource>Assign Set to selection...</oldsource>
-        <translation>將類別集分配給選取的項目</translation>
+        <translation>將選取的項目指派給子集</translation>
     </message>
     <message>
         <location filename="CategorySetPanel.cpp" line="300"/>
         <source>Unassign Set from selection</source>
         <oldsource>Unassign Set to selection...</oldsource>
-        <translation>選擇的項目取消分配給類別集</translation>
+        <translation>將選取的項目從 子集 中移出</translation>
     </message>
 </context>
 <context>
@@ -839,18 +839,18 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="CategorySets.cpp" line="43"/>
         <source>&lt;Unsaved Layout&gt;</source>
-        <translation>&lt;未儲存的介面佈局&gt;</translation>
+        <translation>&lt;未儲存的佈局&gt;</translation>
     </message>
     <message>
         <location filename="CategorySets.cpp" line="190"/>
         <source>Save layout...</source>
-        <translation>儲存介面佈局...</translation>
+        <translation>儲存佈局...</translation>
     </message>
     <message>
         <location filename="CategorySets.cpp" line="255"/>
         <location filename="CategorySets.cpp" line="287"/>
         <source>Enter a name for this layout</source>
-        <translation>命名介面佈局</translation>
+        <translation>命名此佈局</translation>
     </message>
     <message>
         <location filename="CategorySets.cpp" line="255"/>
@@ -862,12 +862,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="CategorySets.cpp" line="357"/>
         <source>Assigned</source>
-        <translation>設定</translation>
+        <translation>已指派</translation>
     </message>
     <message>
         <location filename="CategorySets.cpp" line="370"/>
         <source>History</source>
-        <translation>歷史清單</translation>
+        <translation>歷史紀錄</translation>
     </message>
     <message>
         <location filename="CategorySets.cpp" line="384"/>
@@ -877,7 +877,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="CategorySets.cpp" line="427"/>
         <source>Enter a name for this set</source>
-        <translation>命名類別集</translation>
+        <translation>命名此子集</translation>
     </message>
     <message>
         <location filename="CategorySets.cpp" line="427"/>
@@ -1405,7 +1405,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgConvertProcess.h" line="4547"/>
         <source>Film Simulation</source>
-        <translation>膠片模擬</translation>
+        <translation>底片模擬</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="4587"/>
@@ -2272,7 +2272,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgAdobeConfigure.cpp" line="32"/>
         <source>Select a folder</source>
-        <translation>選擇資料夾</translation>
+        <translation>請選擇一個資料夾</translation>
     </message>
 </context>
 <context>
@@ -2310,7 +2310,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DlgArchive.cpp" line="103"/>
         <source>Creating archive, please wait...</source>
         <oldsource>Creating archive, please wait... </oldsource>
-        <translation>壓縮檔建立中, 請稍候...</translation>
+        <translation>封存/壓縮檔 建立中, 請稍候...</translation>
     </message>
     <message>
         <location filename="DlgArchive.cpp" line="124"/>
@@ -2386,7 +2386,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgBanner.ui" line="23"/>
         <source>&lt;html&gt;&lt;p&gt;All banner specifications (font, color, size, etc.) carry forward from the previously created banner. An exception is text size, which is calculated to &apos;Best fit&apos; for banner height.&lt;/p&gt;&lt;p&gt;You may select multiple images to apply the same banner to several images at once. Note that the text will be the same size in all images, then.&lt;/p&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; align=&quot;left&quot; style=&quot;border-bottom:1px solid gray;padding-top:15px&quot;&gt;Shortcuts&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Increase/decrease font size by 2 points&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Shift+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Increase/decrease banner size by 1%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+S&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Start banner creation&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;p&gt;所有橫幅圖規格 (字體, 顏⾊, 尺⼨, 等) 都是帶⾃前次建立的橫幅圖. 唯⼀例外是文字⼤⼩配合最適⾼度重新計算.&lt;/p&gt;&lt;p&gt;您可選擇多張圖片立即套⽤同樣的橫幅圖. 但 這時請注意所有圖片的文字⼤⼩都會⼀樣.&lt;/p&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; align=&quot;left&quot; style=&quot;border-bottom:1px solid gray;padding-top:15px&quot;&gt;快捷鍵&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;減字體⼤⼩加/減2points&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Shift+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;橫幅圖尺⼨加/減1%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+S&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;開始建立橫幅圖&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;p&gt;所有橫幅圖規格 (字體, 顏⾊, 尺⼨, 等) 都是帶⾃前次建立的橫幅圖. 唯⼀例外是文字⼤⼩配合最適⾼度重新計算.&lt;/p&gt;&lt;p&gt;您可選取多張圖片立即套⽤同樣的橫幅圖. 但 這時請注意所有圖片的文字⼤⼩都會⼀樣.&lt;/p&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; align=&quot;left&quot; style=&quot;border-bottom:1px solid gray;padding-top:15px&quot;&gt;快捷鍵&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;減字體⼤⼩加/減2points&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Shift+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;橫幅圖尺⼨加/減1%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+S&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;開始建立橫幅圖&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="DlgBanner.ui" line="177"/>
@@ -2440,7 +2440,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgBatchResize.ui" line="43"/>
         <source>Select Photos</source>
-        <translation>選擇照片</translation>
+        <translation>選取照片</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="74"/>
@@ -2885,7 +2885,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DlgBatchResize.cpp" line="460"/>
         <source>Select Photos: %n file(s)</source>
         <translation>
-            <numerusform>選擇照片: %n 檔案</numerusform>
+            <numerusform>選取照片: %n 檔案</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -2998,7 +2998,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgBatchResize.cpp" line="1438"/>
         <source>skipped, file already exists!</source>
-        <translation>將跳過, 因檔案已存在！</translation>
+        <translation>已跳過, 因檔案已存在！</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1440"/>
@@ -3216,30 +3216,30 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgCategorySetsSettings.ui" line="57"/>
         <source>Copy Categories to Set...</source>
-        <translation>複製類別到類別集...</translation>
+        <translation>複製類別到子集...</translation>
     </message>
     <message>
         <location filename="DlgCategorySetsSettings.ui" line="83"/>
         <source>Add Set...</source>
-        <translation>加入類別集...</translation>
+        <translation>加入子集...</translation>
     </message>
     <message>
         <location filename="DlgCategorySetsSettings.ui" line="90"/>
         <source>Rename Set...</source>
-        <translation>重新命名類別集...</translation>
+        <translation>重新命名子集...</translation>
     </message>
     <message>
         <location filename="DlgCategorySetsSettings.ui" line="97"/>
         <location filename="DlgCategorySetsSettings.cpp" line="255"/>
         <source>Delete Set</source>
-        <translation>刪除類別集</translation>
+        <translation>刪除子集</translation>
     </message>
     <message>
         <location filename="DlgCategorySetsSettings.cpp" line="148"/>
         <location filename="DlgCategorySetsSettings.cpp" line="165"/>
         <location filename="DlgCategorySetsSettings.cpp" line="233"/>
         <source>Enter a name for this set</source>
-        <translation>命名類別集</translation>
+        <translation>命名此子集</translation>
     </message>
     <message>
         <location filename="DlgCategorySetsSettings.cpp" line="148"/>
@@ -3258,17 +3258,17 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgCategorySetsSettings.cpp" line="183"/>
         <source>Choose a Set</source>
-        <translation>選擇類別集</translation>
+        <translation>選擇一個子集</translation>
     </message>
     <message>
         <location filename="DlgCategorySetsSettings.cpp" line="183"/>
         <source>Set:</source>
-        <translation>類別集:</translation>
+        <translation>子集:</translation>
     </message>
     <message>
         <location filename="DlgCategorySetsSettings.cpp" line="255"/>
         <source>Do you want to delete current category set?</source>
-        <translation>您確定要刪除目前類別集嗎？</translation>
+        <translation>您確定要刪除目前的類別集嗎？</translation>
     </message>
 </context>
 <context>
@@ -3784,7 +3784,7 @@ Do you want to go on the download page?</source>
     <message>
         <location filename="DlgConvert.cpp" line="2301"/>
         <source>Choose a directory</source>
-        <translation>選擇資料夾</translation>
+        <translation>選擇一個資料夾</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2340"/>
@@ -7261,7 +7261,7 @@ Do you want to continue?</source>
         <location filename="DlgDBClean.ui" line="14"/>
         <source>Catalog maintenance</source>
         <oldsource>Catalog optimization</oldsource>
-        <translation>目錄維護</translation>
+        <translation>類別目錄維護</translation>
     </message>
     <message>
         <location filename="DlgDBClean.ui" line="20"/>
@@ -7278,7 +7278,7 @@ Do you want to continue?</source>
         <location filename="DlgDBClean.ui" line="33"/>
         <source>Remove data for empty directories</source>
         <oldsource>Remove empty directories</oldsource>
-        <translation>移除空目錄</translation>
+        <translation>移除空的資料夾</translation>
     </message>
     <message>
         <location filename="DlgDBClean.ui" line="57"/>
@@ -7300,7 +7300,7 @@ Do you want to continue?</source>
         <location filename="DlgDBClean.ui" line="40"/>
         <source>Remove data for orphaned directories</source>
         <oldsource>Check for orphaned directories</oldsource>
-        <translation>移除孤立目錄</translation>
+        <translation>移除孤立的資料夾</translation>
     </message>
     <message>
         <location filename="DlgDBClean.ui" line="47"/>
@@ -7566,7 +7566,7 @@ Do you want to continue?</source>
         <location filename="DlgEditGps.cpp" line="34"/>
         <source>ExifTool is not installed in AddOn folder!</source>
         <oldsource>ExifTool is not installed in Addon folder!</oldsource>
-        <translation>未安裝 Exif 工具附加元件！</translation>
+        <translation>ExifTool 未安裝在 AddOn 資料夾中！</translation>
     </message>
 </context>
 <context>
@@ -8004,7 +8004,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExportCatalog.ui" line="14"/>
         <source>Catalog export</source>
-        <translation>目錄匯出</translation>
+        <translation>類別目錄匯出</translation>
     </message>
     <message>
         <location filename="DlgExportCatalog.ui" line="22"/>
@@ -8020,12 +8020,12 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExportCatalog.ui" line="48"/>
         <source>Export all files from catalog</source>
-        <translation>匯出目錄中已記錄的檔案列表</translation>
+        <translation>匯出類別目錄中已記錄的檔案列表</translation>
     </message>
     <message>
         <location filename="DlgExportCatalog.h" line="37"/>
         <source>Categories file</source>
-        <translation>目錄檔案</translation>
+        <translation>類別檔案</translation>
     </message>
 </context>
 <context>
@@ -8225,8 +8225,8 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgFileAssociation.ui" line="20"/>
         <source>Select the file-types which you would like to associate with XnViewMP
 (E.g. when double-clicking on a file to open under Windows Explorer)</source>
-        <translation>選擇你想關聯到 XnViewMP 的檔案型別
-(例如: 當您於檔案總管中在檔案上按兩下時)</translation>
+        <translation>選擇你想設定成預設用 XnViewMP 開啟的檔案類型
+(例如: 當您在總管裡雙擊某檔案令其開啟時)</translation>
     </message>
     <message>
         <location filename="DlgFileAssociation.ui" line="41"/>
@@ -8271,12 +8271,12 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFile.ui" line="27"/>
         <source>Show selected folder in folder tree</source>
-        <translation>在樹狀結構中顯示選擇的資料夾</translation>
+        <translation>開啟樹狀結構並在其中顯示被選取的資料夾</translation>
     </message>
     <message>
         <location filename="DlgFile.ui" line="56"/>
         <source>Clear history entries</source>
-        <translation>清空歷史清單</translation>
+        <translation>清空歷史紀錄</translation>
     </message>
     <message>
         <location filename="DlgFile.ui" line="70"/>
@@ -8608,7 +8608,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFtp.cpp" line="619"/>
         <source>Directory changed to %1.</source>
-        <translation>目錄變更為%1.</translation>
+        <translation>資料夾變更為 %1.</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="516"/>
@@ -8904,7 +8904,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgHistoryList.ui" line="13"/>
         <source>History</source>
-        <translation>歷史清單</translation>
+        <translation>歷史紀錄</translation>
     </message>
     <message>
         <location filename="DlgHistoryList.ui" line="19"/>
@@ -8947,7 +8947,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgHotFolder.h" line="83"/>
         <source>Choose a directory</source>
-        <translation>選擇資料夾</translation>
+        <translation>選擇一個資料夾</translation>
     </message>
 </context>
 <context>
@@ -9286,7 +9286,7 @@ Do you want to save your changes?</source>
     <message>
         <location filename="DlgIptc.cpp" line="1116"/>
         <source>Edit history...</source>
-        <translation>編輯歷史清單...</translation>
+        <translation>編輯歷史紀錄...</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="1117"/>
@@ -9378,7 +9378,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgIptc.ui" line="102"/>
         <source>History</source>
-        <translation>歷史清單</translation>
+        <translation>歷史紀錄</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="107"/>
@@ -9469,7 +9469,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgIptc.ui" line="716"/>
         <source>Multiple selection</source>
-        <translation>多重選擇</translation>
+        <translation>多重選取</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="725"/>
@@ -9525,7 +9525,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgIptcHistoryEdit.ui" line="13"/>
         <source>Edit history</source>
-        <translation>編輯歷史清單</translation>
+        <translation>編輯歷史紀錄</translation>
     </message>
 </context>
 <context>
@@ -9602,7 +9602,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgKeywordProperties.cpp" line="43"/>
         <source>This parent is already a child of current category!</source>
-        <translation>此父類別已是目前類別的子類別！</translation>
+        <translation>此父類別已是目前類別中的子類別！</translation>
     </message>
 </context>
 <context>
@@ -9684,12 +9684,12 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgMessage.cpp" line="77"/>
         <source>Catalog</source>
-        <translation>目錄</translation>
+        <translation>類別目錄</translation>
     </message>
     <message>
         <location filename="DlgMessage.cpp" line="79"/>
         <source>Catalog Thumbnails</source>
-        <translation>目錄縮圖</translation>
+        <translation>類別目錄縮圖</translation>
     </message>
 </context>
 <context>
@@ -10695,13 +10695,13 @@ Please install it via Tools › Plugins</source>
 Do you want to remove them?</source>
         <translation>檔案列表中被偵測到有配套檔案, 它們會被自動重新命名以與主檔案名稱保持一致.
 
-您要刪除它們嗎？</translation>
+您要移除它們嗎？</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1109"/>
         <source>Do you want to delete all your name templates?</source>
         <oldsource>Do you want to delete all your template&apos;s name?</oldsource>
-        <translation>您確定要刪除您所有的命名樣板？</translation>
+        <translation>您確定要刪除您的所有命名樣板？</translation>
     </message>
 </context>
 <context>
@@ -11291,7 +11291,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.ui" line="158"/>
         <source>Catalog</source>
-        <translation>目錄</translation>
+        <translation>類別目錄</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="226"/>
@@ -11526,7 +11526,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsCache.h" line="15"/>
         <source>Catalog</source>
-        <translation>目錄</translation>
+        <translation>類別目錄</translation>
     </message>
     <message>
         <location filename="DlgSettings.cpp" line="358"/>
@@ -11549,7 +11549,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="378"/>
         <source>Remove all items from the list?</source>
-        <translation>刪除列表中的所有項目？</translation>
+        <translation>移除列表中的所有項目？</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="397"/>
@@ -11850,7 +11850,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsCache.cpp" line="163"/>
         <source>Database [catalog: %1 %2 - metadata: %5 %6 - thumbnails: %3 %4]</source>
-        <translation>資料庫 [目錄: %1 %2 - 詮釋資料: %5 %6 - 縮圖: %3 %4]</translation>
+        <translation>資料庫 [類別目錄: %1 %2 - 詮釋資料: %5 %6 - 縮圖: %3 %4]</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="323"/>
@@ -11861,7 +11861,7 @@ Do you want to remove them?</source>
         <location filename="DlgSettingsCache.cpp" line="332"/>
         <source>Catalog - Absolute/Relative paths</source>
         <oldsource>Change absolute/relative paths</oldsource>
-        <translation>目錄 - 絕對/相對路徑</translation>
+        <translation>類別目錄 - 絕對/相對路徑</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="332"/>
@@ -11869,7 +11869,7 @@ Do you want to remove them?</source>
 Do it only if you want to share same folder between several computers. 
 
 Do you want to change the &apos;base path&apos;?</source>
-        <translation>修改 &quot;基礎路徑&quot; 可能會與 &quot;已存在資料庫中的檔案&quot; 切斷關聯.
+        <translation>修改 &quot;基礎路徑&quot; 可能會切斷與 &quot;已存在資料庫中的檔案&quot; 之間的關聯.
 只有當您想在多個電腦之間共享同一個資料夾時 才這樣做.
 
 您仍要修改 &quot;基礎路徑&quot; 嗎？</translation>
@@ -11878,12 +11878,12 @@ Do you want to change the &apos;base path&apos;?</source>
         <location filename="DlgSettingsCache.cpp" line="419"/>
         <location filename="DlgSettingsCache.cpp" line="660"/>
         <source>Catalog - Remove Entries</source>
-        <translation>目錄 - 移除項目</translation>
+        <translation>類別目錄 - 移除項目</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="570"/>
         <source>Catalog - Synchronize Folders</source>
-        <translation>目錄 - 同步資料夾</translation>
+        <translation>類別目錄 - 同步資料夾</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="571"/>
@@ -11891,7 +11891,7 @@ Do you want to change the &apos;base path&apos;?</source>
 
 Do you want to continue?</source>
         <oldsource>Warning! This operation will delete all orphaned files from catalog. Do you want to continue?</oldsource>
-        <translation>警告！這個動作將會從目錄中刪除所有孤立檔案.
+        <translation>警告！這個動作將會從類別目錄中刪除所有孤立檔案.
 
 您確定要繼續？</translation>
     </message>
@@ -11904,7 +11904,7 @@ Do you want to continue?</source>
         <location filename="DlgSettingsCache.cpp" line="619"/>
         <source>Catalog - Relocate the folder</source>
         <oldsource>Relocate the folder</oldsource>
-        <translation>目錄 - 重新定位資料夾</translation>
+        <translation>類別目錄 - 重新定位資料夾</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="619"/>
@@ -11919,7 +11919,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgSettingsCache.cpp" line="637"/>
         <source>Catalog Maintenance</source>
-        <translation>目錄維護</translation>
+        <translation>類別目錄維護</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="638"/>
@@ -11928,10 +11928,10 @@ Color labels, Keywords may be deleted.
 
 Do you want to check for affected entries first?</source>
         <oldsource>Warning! This operation may delete some database entries with assigned ratings/colors/keywords. Do you want to check for affected entries first?</oldsource>
-        <translation>警告！此動作可能會刪除資料庫中的某些設有
-評分、顏色標籤、關鍵字等屬性的項目.
+        <translation>警告！此動作可能會刪除某些已指派有
+評分、顏色標籤、關鍵字的資料庫項目.
 
-您要先檢查受影響的項目嗎？</translation>
+您想先檢查受影響的項目嗎？</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="420"/>
@@ -11946,12 +11946,12 @@ Do you want to remove entries assigned to a Category?</source>
 (If information are exported into embedded or sidecar metadata, you&apos;ll be able to re-import them later)
 
 Do you want to remove entries assigned to a category?</oldsource>
-        <translation>注意！此動作會移除目錄中的 類別、評分/顏色標籤 紀錄.
+        <translation>注意！此動作將會移除已指派有類別、評分、顏色標籤的類別目錄項目.
 
-(若相關資訊有匯出到主檔案內嵌、或 Sidecar 配套檔案內嵌的
-詮釋資料中, 您便可以之後再重新匯入它們).
+若相關資訊有匯出到主檔案內嵌、或 Sidecar 配套檔案內嵌
+的詮釋資料中, 您便可以之後再重新匯入它們.
 
-您確定要刪除指定目錄中的內容？</translation>
+您確定要移除已指派在類別目錄中的項目嗎？</translation>
     </message>
 </context>
 <context>
@@ -11981,12 +11981,12 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettingsCache.ui" line="36"/>
         <source>Catalog</source>
-        <translation>目錄</translation>
+        <translation>類別目錄</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="42"/>
         <source>Enable Catalog</source>
-        <translation>啟用目錄</translation>
+        <translation>啟用類別目錄</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="105"/>
@@ -12017,7 +12017,7 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettingsCache.ui" line="258"/>
         <source>Check integrity of catalog at startup</source>
-        <translation>啟動時檢查目錄完整性</translation>
+        <translation>啟動時檢查類別目錄的完整性</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="282"/>
@@ -12197,7 +12197,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.cpp" line="292"/>
         <source>Archives</source>
-        <translation>封存壓縮檔</translation>
+        <translation>封存/壓縮檔</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.cpp" line="293"/>
@@ -12315,12 +12315,12 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="140"/>
         <source>Auto-select first item on entering folder</source>
-        <translation>進入資料夾時自動選擇第一個項目</translation>
+        <translation>進入資料夾時自動選取ㄠ第一個項目</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="147"/>
         <source>Auto-select new files</source>
-        <translation>自動選擇新檔</translation>
+        <translation>自動選取新檔</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="157"/>
@@ -12366,7 +12366,7 @@ Thumbnail</source>
         <location filename="DlgSettingsFilelist.ui" line="260"/>
         <source>Used by Filter › Custom</source>
         <oldsource>Used by Filter&gt;Custom</oldsource>
-        <translation>用於 &quot;篩選器 › 自訂&quot;</translation>
+        <translation>點選 &quot;篩選器 › 自訂&quot; 時，便會執行此自訂的篩選</translation>
     </message>
 </context>
 <context>
@@ -12473,7 +12473,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="177"/>
         <source>Use EXIF DPI (if exists)</source>
-        <translation>使用EXIF DPI (若有的話)</translation>
+        <translation>使用 EXIF DPI (若有的話)</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="184"/>
@@ -12703,7 +12703,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="448"/>
         <source>Remember selected filename</source>
-        <translation>記住選擇的檔名</translation>
+        <translation>記住選取的檔名</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="565"/>
@@ -12939,7 +12939,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="58"/>
         <source>Same as Catalog</source>
-        <translation>和目錄一樣</translation>
+        <translation>和類別目錄一樣</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="156"/>
@@ -12951,7 +12951,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="420"/>
         <source>Select a program</source>
-        <translation>選擇程式</translation>
+        <translation>選擇一個程式</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="497"/>
@@ -13046,7 +13046,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="280"/>
         <source>Database - Catalog</source>
-        <translation>資料庫 - 目錄</translation>
+        <translation>資料庫 - 類別目錄</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="336"/>
@@ -13149,7 +13149,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="1203"/>
         <source>This shortcut is already assigned for </source>
-        <translation>這個快捷鍵已設定給 </translation>
+        <translation>這個快捷鍵已指派給 </translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="1219"/>
@@ -13157,7 +13157,7 @@ Thumbnail</source>
 %2
 
 Do you want to reassign?</source>
-        <translation>%1 已被分配給:
+        <translation>%1 已指派給:
 %2
 
 您要要重新分配嗎？</translation>
@@ -13813,7 +13813,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsKeywords.ui" line="210"/>
         <source>Automatically assign parent Category (Ctrl+click for current only)</source>
         <oldsource>Automatically apply parent category (Ctrl+click for single category)</oldsource>
-        <translation>自動套用父類別 (按Ctrl+滑鼠點擊 則只套用單一類別)</translation>
+        <translation>自動指派父類別 (&quot;按Ctrl+滑鼠點擊&quot; 則只指派給選取的類別)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="197"/>
@@ -13852,7 +13852,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="124"/>
         <source>Update catalog when file is modified outside (file date/size)</source>
-        <translation>當檔案在外部被修改時更新目錄 (檔案日期/大小)</translation>
+        <translation>當檔案在外部有被修改過, 便更新類別目錄 (以 &quot;檔案日期/大小&quot; 作判斷)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="203"/>
@@ -14763,7 +14763,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSimilar.cpp" line="45"/>
         <source>Choose a directory</source>
-        <translation>選擇資料夾</translation>
+        <translation>選擇一個資料夾</translation>
     </message>
     <message>
         <location filename="DlgSimilar.cpp" line="89"/>
@@ -15881,7 +15881,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgUpload.ui" line="31"/>
         <source>Be careful, your image(s) will be uploaded on a public server!</source>
-        <translation>小心, 您的圖片將被上傳到公開伺服器！</translation>
+        <translation>小心, 您的圖片將會上傳到一個公開的伺服器上！</translation>
     </message>
     <message>
         <location filename="DlgUpload.ui" line="40"/>
@@ -16040,7 +16040,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgVideoGallery.ui" line="249"/>
         <source>Starting frame</source>
-        <translation>起始影格</translation>
+        <translation>起始影格(幀)</translation>
     </message>
     <message>
         <location filename="DlgVideoGallery.ui" line="178"/>
@@ -16910,12 +16910,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="GeneralSettings.cpp" line="1095"/>
         <source>Copy of %1%2</source>
-        <translation>%1的副本 %2</translation>
+        <translation>副本 - %1%2</translation>
     </message>
     <message>
         <location filename="GeneralSettings.cpp" line="1097"/>
         <source>Copy (%3) of %1%2</source>
-        <translation>%1的副本 (%3) %2</translation>
+        <translation>副本 (%3) - %1%2</translation>
     </message>
     <message>
         <location filename="GeneralSettings.cpp" line="1103"/>
@@ -16925,7 +16925,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="GeneralSettings.cpp" line="1105"/>
         <source>%1 - Copy (%3)%2</source>
-        <translation>%1 - 副本(%3)%2</translation>
+        <translation>%1 - 副本 (%3)%2</translation>
     </message>
     <message>
         <location filename="GeneralSettings.cpp" line="1110"/>
@@ -16935,7 +16935,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="GeneralSettings.cpp" line="1112"/>
         <source>%1-Copy (%3)%2</source>
-        <translation>%1-(%3)副本%2</translation>
+        <translation>%1-副本(%3)%2</translation>
     </message>
 </context>
 <context>
@@ -16993,12 +16993,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="FileListWidget.cpp" line="55"/>
         <source>Remove filtered</source>
-        <translation>移除被過濾的</translation>
+        <translation>移除被篩選的</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="57"/>
         <source>Remove unfiltered</source>
-        <translation>移除未被過濾的</translation>
+        <translation>移除未被篩選的</translation>
     </message>
     <message>
         <location filename="FileListWidget.ui" line="245"/>
@@ -17034,7 +17034,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="FileListWidget.cpp" line="306"/>
         <location filename="FileListWidget.cpp" line="309"/>
         <source>Choose a directory</source>
-        <translation>選擇資料夾</translation>
+        <translation>選擇一個資料夾</translation>
     </message>
 </context>
 <context>
@@ -17252,7 +17252,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="183"/>
         <source>Date taken</source>
-        <translation>拍照攝期</translation>
+        <translation>拍攝日期</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="187"/>
@@ -17847,7 +17847,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoCategoryView.cpp" line="114"/>
         <source>Hide assigned categories</source>
-        <translation>隱藏已設定類別</translation>
+        <translation>隱藏已指派的類別</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="123"/>
@@ -17857,7 +17857,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoCategoryView.cpp" line="125"/>
         <source>Assign Category</source>
-        <translation>設定類別</translation>
+        <translation>指派類別</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="130"/>
@@ -17912,7 +17912,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoCategoryView.cpp" line="659"/>
         <source>Category tree successfully imported into XnView categories</source>
-        <translation>類別樹已正確匯入 XnView 的類別中</translation>
+        <translation>類別樹已正確匯入 XnView 的類別資料庫中</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="669"/>
@@ -18224,7 +18224,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="SearchField.cpp" line="97"/>
         <location filename="TemplateData.cpp" line="2670"/>
         <source>XP Title</source>
-        <translation>WinXP標題</translation>
+        <translation>Windows 標題</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="98"/>
@@ -18236,18 +18236,18 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="SearchField.cpp" line="99"/>
         <location filename="TemplateData.cpp" line="2672"/>
         <source>XP Author</source>
-        <translation>WinXP作者</translation>
+        <translation>Windows 作者</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2673"/>
         <source>XP Keywords</source>
-        <translation>WinXP關鍵字</translation>
+        <translation>Windows 關鍵字</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="100"/>
         <location filename="TemplateData.cpp" line="2674"/>
         <source>XP Subject</source>
-        <translation>WinXP主題</translation>
+        <translation>Windows 主題</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="89"/>
@@ -18286,7 +18286,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2686"/>
         <source>Exposure Index</source>
-        <translation>曝光索引</translation>
+        <translation>曝光指數</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="92"/>
@@ -18421,7 +18421,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2715"/>
         <source>Device settings desc.</source>
-        <translation>設備設定說明.</translation>
+        <translation>設備設定描述</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2716"/>
@@ -18517,7 +18517,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2739"/>
         <source>Latitude ref.</source>
-        <translation>參考緯度.</translation>
+        <translation>參考緯度</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2741"/>
@@ -18527,7 +18527,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2742"/>
         <source>Longitude ref.</source>
-        <translation>參考經度.</translation>
+        <translation>參考經度</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2744"/>
@@ -18537,7 +18537,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2745"/>
         <source>Altitude ref.</source>
-        <translation>參考海拔.</translation>
+        <translation>參考海拔</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2746"/>
@@ -18547,7 +18547,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2747"/>
         <source>Direction ref.</source>
-        <translation>參考方向.</translation>
+        <translation>參考方向</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2748"/>
@@ -19284,7 +19284,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPanel.cpp" line="22"/>
         <source>Filter</source>
-        <translation>過濾器</translation>
+        <translation>篩選器</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="39"/>
@@ -19327,7 +19327,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="IptcEditBase.cpp" line="125"/>
         <source>Insert from</source>
-        <translation>從...插入</translation>
+        <translation>插入自</translation>
     </message>
     <message>
         <location filename="IptcEditBase.cpp" line="150"/>
@@ -19342,7 +19342,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="IptcEditBase.cpp" line="178"/>
         <source>Edit history...</source>
-        <translation>編輯的歷史清單...</translation>
+        <translation>編輯的歷史紀錄...</translation>
     </message>
     <message>
         <location filename="IptcEditBase.cpp" line="179"/>
@@ -19416,7 +19416,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <source>JPEG lossless operation will modify original file(s), and may remove some unused pixels (width and height must be multiple of 8 pixels)!
 
 Do you want to continue?</source>
-        <translation>JPEG無失真操作將會修改原檔案, 並可能移除一些無用的像素 (寬與高必須是8的倍數)！
+        <translation>JPEG無失真操作將會修改原檔案, 並可能移除一些未使用的像素 (寬與高必須是8像素的倍數)！
 
 您要繼續嗎？</translation>
     </message>
@@ -19439,7 +19439,7 @@ Do you want to continue?</source>
     <message>
         <location filename="ItemProcess.cpp" line="371"/>
         <source>Lossless Operation</source>
-        <translation>無失真動作</translation>
+        <translation>無失真操作</translation>
     </message>
     <message>
         <location filename="ItemProcess.cpp" line="449"/>
@@ -19453,7 +19453,7 @@ Do you want to continue?</source>
         <location filename="ItemProcess.cpp" line="450"/>
         <location filename="ItemProcess.cpp" line="468"/>
         <source>This file contains more than one page/image, so it&apos;s not possible to rotate it.</source>
-        <translation>這個檔案含多頁/多張圖片，無法做旋轉.</translation>
+        <translation>這個檔案含多頁/多張圖片，所以無法被旋轉.</translation>
     </message>
     <message>
         <location filename="ItemProcess.cpp" line="460"/>
@@ -19486,7 +19486,7 @@ Do you want to continue?</oldsource>
         <location filename="GFFHelper.h" line="76"/>
         <location filename="GFFHelper.h" line="90"/>
         <source>Confirm Save - Format</source>
-        <translation>確認儲存 - 格式</translation>
+        <translation>確認 儲存 - 格式</translation>
     </message>
     <message>
         <location filename="GFFHelper.h" line="20"/>
@@ -19729,7 +19729,7 @@ Do you want to continue?</oldsource>
         <location filename="LanguageComboBox.cpp" line="83"/>
         <location filename="LanguageComboBox.cpp" line="87"/>
         <source>your name</source>
-        <translation>Scott Chu @ Taiwan</translation>
+        <translation>Scott Chu @ Taiwan, ctlu999</translation>
     </message>
 </context>
 <context>
@@ -19756,7 +19756,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MediaPlayer.cpp" line="365"/>
         <source>Extract current frame</source>
-        <translation>擷取目前影格</translation>
+        <translation>擷取目前影格(幀)</translation>
     </message>
 </context>
 <context>
@@ -19774,7 +19774,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MediaPlayerAv.cpp" line="351"/>
         <source>Extract current frame</source>
-        <translation>擷取目前影格</translation>
+        <translation>擷取目前影格(幀)</translation>
     </message>
 </context>
 <context>
@@ -19795,7 +19795,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MediaPlayerMDK.cpp" line="247"/>
         <source>Extract current frame</source>
-        <translation>擷取目前影格</translation>
+        <translation>擷取目前影格(幀)</translation>
     </message>
     <message>
         <location filename="MediaPlayerMDK.cpp" line="250"/>
@@ -20049,7 +20049,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="81"/>
         <source>Archives</source>
-        <translation>檔案庫</translation>
+        <translation>封存/壓縮檔</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="82"/>
@@ -20254,7 +20254,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="548"/>
         <source>Update files from catalog</source>
-        <translation>由目錄更新檔案</translation>
+        <translation>由類別目錄更新檔案</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="579"/>
@@ -20362,7 +20362,7 @@ Do you want to continue?</oldsource>
         <location filename="DlgSettingsView.cpp" line="276"/>
         <location filename="BrowserMenu.h" line="660"/>
         <source>Fit image to window width or height</source>
-        <translation>圖片符合最適大小</translation>
+        <translation>圖片符合視窗寬度或高度</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="26"/>
@@ -20382,7 +20382,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="436"/>
         <source>Selected filename(s)</source>
-        <translation>選擇的檔案</translation>
+        <translation>選取的檔案</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="437"/>
@@ -20393,43 +20393,43 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="238"/>
         <source>Restore layout A</source>
         <oldsource>Restore layout 3</oldsource>
-        <translation>還原介面佈局A</translation>
+        <translation>還原介面佈局 A</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="239"/>
         <source>Restore layout B</source>
         <oldsource>Restore layout 4</oldsource>
-        <translation>還原介面佈局B</translation>
+        <translation>還原介面佈局 B</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="240"/>
         <source>Restore layout C</source>
         <oldsource>Restore layout 5</oldsource>
-        <translation>還原介面佈局C</translation>
+        <translation>還原介面佈局 C</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="242"/>
         <source>Restore layout E</source>
         <oldsource>Save layout 1</oldsource>
-        <translation>還原介面佈局E</translation>
+        <translation>還原介面佈局 E</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="244"/>
         <source>Save layout A</source>
         <oldsource>Save layout 3</oldsource>
-        <translation>存成介面佈局A</translation>
+        <translation>存成介面佈局 A</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="245"/>
         <source>Save layout B</source>
         <oldsource>Save layout 4</oldsource>
-        <translation>存成介面佈局B</translation>
+        <translation>存成介面佈局 B</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="246"/>
         <source>Save layout C</source>
         <oldsource>Save layout 5</oldsource>
-        <translation>存成介面佈局C</translation>
+        <translation>存成介面佈局 C</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="536"/>
@@ -20480,12 +20480,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="241"/>
         <source>Restore layout D</source>
-        <translation>還原介面佈局D</translation>
+        <translation>還原介面佈局 D</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="248"/>
         <source>Save layout E</source>
-        <translation>存成介面佈局E</translation>
+        <translation>存成介面佈局 E</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="300"/>
@@ -20542,7 +20542,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="301"/>
         <source>Catalog Filter</source>
         <oldsource>Categories Filter</oldsource>
-        <translation>目錄過濾器</translation>
+        <translation>類別目錄篩選器</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="303"/>
@@ -20606,23 +20606,23 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="443"/>
         <source>Invert selection</source>
-        <translation>反轉選擇</translation>
+        <translation>反向選取</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="444"/>
         <source>Select all images</source>
-        <translation>選擇所有圖片</translation>
+        <translation>選取所有圖片</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="445"/>
         <source>Select all files</source>
-        <translation>選擇所有檔案</translation>
+        <translation>選取所有檔案</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="446"/>
         <source>Select checked files</source>
         <oldsource>Select tagged files</oldsource>
-        <translation>選擇已勾選的檔案</translation>
+        <translation>選取已勾選的檔案</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4536"/>
@@ -20706,7 +20706,7 @@ Do you want to continue?</oldsource>
         <location filename="CompareWidget.cpp" line="472"/>
         <source>Check/Uncheck current</source>
         <oldsource>Tag/Untag current</oldsource>
-        <translation>勾選/無勾選 目前選擇的項目</translation>
+        <translation>勾選/無勾選 目前選取的項目</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="467"/>
@@ -20756,7 +20756,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="514"/>
         <source>Filter by</source>
-        <translation>過濾方式</translation>
+        <translation>篩選方式</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="515"/>
@@ -20782,13 +20782,13 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="526"/>
         <source>View as Thumbnails</source>
         <oldsource>Views as Thumbnails</oldsource>
-        <translation>以縮圖檢視</translation>
+        <translation>以 縮圖 檢視</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="527"/>
         <source>View as Thumbnails+Filename</source>
         <oldsource>Views as Thumbnails+Filename</oldsource>
-        <translation>以示縮圖 + 檔名檢視</translation>
+        <translation>以 縮圖+檔名 檢視</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="528"/>
@@ -20800,25 +20800,25 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="529"/>
         <source>View as Thumbnails+Details</source>
         <oldsource>Views as Thumbnails+Details</oldsource>
-        <translation>以縮圖 + 詳細資料檢視</translation>
+        <translation>以 縮圖+詳細資料 檢視</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="530"/>
         <source>View as Icons</source>
         <oldsource>Views as Icons</oldsource>
-        <translation>以圖示檢視</translation>
+        <translation>以 圖示 檢視</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="531"/>
         <source>View as List</source>
         <oldsource>Views as List</oldsource>
-        <translation>以清單檢視</translation>
+        <translation>以 清單 檢視</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="532"/>
         <source>View as Details</source>
         <oldsource>Views as Details</oldsource>
-        <translation>以詳細資料檢視</translation>
+        <translation>以 詳細資料 檢視</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="534"/>
@@ -20848,12 +20848,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="546"/>
         <source>Update catalog from files</source>
-        <translation>由檔案更新目錄</translation>
+        <translation>由檔案更新類別目錄</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="547"/>
         <source>Update catalog from files (+options)...</source>
-        <translation>由檔案更新目錄 (+選項)...</translation>
+        <translation>由檔案更新類別目錄 (+選項)...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="549"/>
@@ -20884,7 +20884,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="557"/>
         <source>Open all selected</source>
         <oldsource>Open in Finder</oldsource>
-        <translation>開啟所有選擇項目</translation>
+        <translation>開啟所有選取項目</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="559"/>
@@ -20914,7 +20914,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="567"/>
         <source>Vertical tabs</source>
-        <translation>垂直頁籤</translation>
+        <translation>垂直面板頁籤</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="570"/>
@@ -21054,7 +21054,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="623"/>
         <source>Archive...</source>
-        <translation>檔案庫...</translation>
+        <translation>封存/壓縮檔...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="624"/>
@@ -21177,12 +21177,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="673"/>
         <source>Catalog</source>
-        <translation>目錄</translation>
+        <translation>類別目錄</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="675"/>
         <source>Quick Filter</source>
-        <translation>快速過濾</translation>
+        <translation>快速篩選</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="676"/>
@@ -21198,12 +21198,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="679"/>
         <source>Filter by All</source>
-        <translation>全部過濾</translation>
+        <translation>全部篩選</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="681"/>
         <source>Edit face tag...</source>
-        <translation>编辑人臉標籤...</translation>
+        <translation>編輯人臉標籤...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="684"/>
@@ -21350,7 +21350,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="xnview.cpp" line="1371"/>
         <source>Always on top</source>
-        <translation>保持視窗在最上方</translation>
+        <translation>保持視窗在最前面</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1373"/>
@@ -21538,7 +21538,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="361"/>
         <source>Fit image to window width or height</source>
-        <translation>圖片符合最適大小</translation>
+        <translation>圖片符合視窗寬度或高度</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="178"/>
@@ -21818,13 +21818,13 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="352"/>
         <source>Selection - set ratio</source>
         <oldsource>Set selection ratio</oldsource>
-        <translation>選擇 - 設定比例</translation>
+        <translation>選取 - 設定比例</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="353"/>
         <source>Selection - set size</source>
         <oldsource>Set selection size</oldsource>
-        <translation>選擇 - 設定尺寸大小</translation>
+        <translation>選取 - 設定尺寸大小</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="362"/>
@@ -21859,7 +21859,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="370"/>
         <source>Check/Uncheck</source>
-        <translation>勾選 / 無勾選</translation>
+        <translation>勾選/無勾選</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="411"/>
@@ -22295,7 +22295,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="331"/>
         <source>Clear selection</source>
-        <translation>清除選擇</translation>
+        <translation>清除選取</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="379"/>
@@ -22628,7 +22628,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="Helper.h" line="189"/>
         <source>Choose a directory</source>
-        <translation>選擇資料夾</translation>
+        <translation>選擇一個資料夾</translation>
     </message>
     <message>
         <location filename="Helper.h" line="203"/>
@@ -22767,7 +22767,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyAddFolderProcess.h" line="55"/>
         <source>Building catalog entries...</source>
-        <translation>建立目錄項目...</translation>
+        <translation>建立類別目錄的項目...</translation>
     </message>
 </context>
 <context>
@@ -22826,7 +22826,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyDirModel.cpp" line="1031"/>
         <source>Home</source>
-        <translation>主</translation>
+        <translation>主資料夾</translation>
     </message>
     <message>
         <location filename="MyDirModel.cpp" line="1552"/>
@@ -22844,7 +22844,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyFolderComboEdit.cpp" line="191"/>
         <source>Choose a file</source>
-        <translation>選擇檔案</translation>
+        <translation>選取一個檔案</translation>
     </message>
     <message>
         <location filename="MyFolderComboEdit.cpp" line="191"/>
@@ -22969,7 +22969,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyLittleToolBar.h" line="774"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation>滑桿拖曳功能: 變換縮圖大小 [像素] 和每列的縮圖數量</translation>
+        <translation>滑桿拖曳功能: 變換縮圖大小 [像素] 及排列中的縮圖數量</translation>
     </message>
 </context>
 <context>
@@ -22977,7 +22977,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyLittleToolBar.h" line="385"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation>滑桿拖曳功能: 變換縮圖大小 [像素] 和每列的縮圖數量</translation>
+        <translation>滑桿拖曳功能: 變換縮圖大小 [像素] 及排列中的縮圖數量</translation>
     </message>
 </context>
 <context>
@@ -23047,12 +23047,12 @@ You can change it in Settings › Catalog.</source>
         <oldsource>Size of cached thumbnails is smaller than choosen one. 
 You can change it in Settings › Catalog.</oldsource>
         <translation>快取縮圖的尺寸小於所選尺寸.
-您可以在 &quot;設定 &gt; 目錄&quot; 中變更此設定.</translation>
+您可以在 &quot;設定 &gt; 類別目錄&quot; 中變更此設定.</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="761"/>
         <source>Updating catalog, please wait...</source>
-        <translation>正在更新目錄, 請稍候…</translation>
+        <translation>更新類別目錄中, 請稍候…</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="779"/>
@@ -23510,7 +23510,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="PaintWidget.cpp" line="1003"/>
         <source>Choose an image</source>
-        <translation>選擇圖片</translation>
+        <translation>選取一張圖片</translation>
     </message>
     <message>
         <location filename="PaintWidget.cpp" line="1003"/>
@@ -23637,14 +23637,14 @@ You can change it in Settings › Catalog.</oldsource>
         <location filename="qftp.cpp" line="2122"/>
         <source>Listing directory failed:
 %1</source>
-        <translation>列示目錄失敗:
+        <translation>輸出資料夾列表失敗:
 %1</translation>
     </message>
     <message>
         <location filename="qftp.cpp" line="2126"/>
         <source>Changing directory failed:
 %1</source>
-        <translation>更換目錄失敗:
+        <translation>變更資料夾失敗:
 %1</translation>
     </message>
     <message>
@@ -23672,14 +23672,14 @@ You can change it in Settings › Catalog.</oldsource>
         <location filename="qftp.cpp" line="2142"/>
         <source>Creating directory failed:
 %1</source>
-        <translation>建立目錄失敗:
+        <translation>建立資料夾失敗:
 %1</translation>
     </message>
     <message>
         <location filename="qftp.cpp" line="2146"/>
         <source>Removing directory failed:
 %1</source>
-        <translation>移除目錄失敗:
+        <translation>移除資料夾失敗:
 %1</translation>
     </message>
     <message>
@@ -23899,7 +23899,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="qtcopydialog.ui" line="152"/>
         <source>5 MB/s (00:00:15 remaining)</source>
-        <translation>5 MB/s (剩00:00:15)</translation>
+        <translation>5 MB/s (剩 00:00:15)</translation>
     </message>
     <message>
         <location filename="qtcopydialog.ui" line="159"/>
@@ -23934,7 +23934,7 @@ You can change it in Settings › Catalog.</oldsource>
         <location filename="qtcopydialog.cpp" line="295"/>
         <location filename="qtcopydialog.cpp" line="300"/>
         <source>Copy Warning</source>
-        <translation>複製警告</translation>
+        <translation>版權警告</translation>
     </message>
     <message>
         <location filename="qtcopydialog.cpp" line="185"/>
@@ -24402,7 +24402,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="ToolbarSearch.cpp" line="146"/>
         <source>Search in</source>
-        <translation>在..內搜尋</translation>
+        <translation>在...內搜尋</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="153"/>
@@ -24427,7 +24427,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="ToolbarSearch.cpp" line="173"/>
         <source>Categories (catalog)</source>
-        <translation>類別 (目錄)</translation>
+        <translation>類別 (類別目錄)</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="178"/>
@@ -24710,12 +24710,12 @@ You can change it in Settings › Catalog.</oldsource>
         <location filename="xnview.cpp" line="401"/>
         <location filename="xnview.cpp" line="408"/>
         <source>Catalog</source>
-        <translation>目錄</translation>
+        <translation>類別目錄</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="395"/>
         <source>XnViewMP - Catalog has a more recent version number than the expected one</source>
-        <translation>XnViewMP - 目錄有比預期更加新的版本</translation>
+        <translation>XnViewMP - 類別目錄有著比預期更加新的版本</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="401"/>
@@ -24723,36 +24723,36 @@ You can change it in Settings › Catalog.</oldsource>
 
 Do you want to keep the thumbnails?
  (If you choose YES, the upgrade process will be slow)</source>
-        <translation>XnViewMP 將升級目錄. 可能會花費一些時間.
+        <translation>XnViewMP 將升級類別目錄. 可能會花費一些時間.
 
 您要保留縮圖嗎？
- (若您選擇是, 升級程序會執行得較久)</translation>
+ (若您選擇&quot;是&quot;, 則升級過程會執行得較久)</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="405"/>
         <source>Upgrading catalog, please wait...</source>
         <oldsource>Upgrading catalog, please wait... </oldsource>
-        <translation>升級目錄中, 請稍候...</translation>
+        <translation>升級類別目錄中, 請稍候...</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="484"/>
         <source>Catalog problem</source>
-        <translation>目錄問題</translation>
+        <translation>類別目錄出現錯誤</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="484"/>
         <source>There is a problem to open catalog, check your settings or folder used!</source>
-        <translation>開啟目錄時有錯誤, 請檢查您的設定或使用的資料夾！</translation>
+        <translation>開啟類別目錄時有錯誤, 請檢查您的設定或使用的資料夾！</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="493"/>
         <source>Catalog update</source>
-        <translation>更新目錄</translation>
+        <translation>更新類別目錄</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="493"/>
         <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
-        <translation>若您想要在 &quot;目錄篩選器&quot; 中使用新的節點, 則您需要先更新目錄 (設定 &gt; 目錄 &gt; 更新目錄) </translation>
+        <translation>如果您想要使用 &quot;類別目錄篩選器&quot; 中的新項目, 則您需要先更新類別目錄 (設定 &gt; 類別目錄 &gt; 更新詮釋資料) </translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="889"/>
@@ -24780,7 +24780,7 @@ Do you want to keep the thumbnails?
         <source>Catalog is disabled
 Metadata (check, ratings/colour labels and other file details)
 will not be saved to the database.</source>
-        <translation>目錄已被停用
+        <translation>類別目錄已被停用
 詮釋資料 (勾選、評分/顏色標籤、及其它檔案詳細資料)
 將不會儲存到資料庫中.</translation>
     </message>
@@ -24794,7 +24794,7 @@ will not be saved to the database.</source>
         <source>There is a problem to update Catalog:
 (Error: % 1)
 Please contact the developer.</source>
-        <translation>更新目錄時出現異常:
+        <translation>更新類別目錄時出現錯誤:
 (錯誤: % 1)
 請聯繫開發人員.</translation>
     </message>
@@ -24835,7 +24835,7 @@ Please contact the developer.</source>
     <message>
         <location filename="xnview.cpp" line="1646"/>
         <source>Do you want to save this session?</source>
-        <translation>您要儲存這次的 session 嗎？</translation>
+        <translation>您要儲存這次的工作階段嗎？</translation>
     </message>
 </context>
 </TS>
