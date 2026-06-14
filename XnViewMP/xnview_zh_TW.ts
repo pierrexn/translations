@@ -672,7 +672,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="2093"/>
         <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi-select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right-click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
-        <translation>&lt;b&gt;類別目錄篩選器&lt;/b&gt;&lt;br&gt;單擊左鍵進行篩選&lt;br&gt;&amp;bull; Shift/Ctrl - 多重選取&lt;br&gt;&amp;bull; Alt/Opt - 排除項目&lt;br&gt;單擊右鍵開啟項目選項&lt;br&gt;將檔案拖放到項目上進行指派</translation>
+        <translation>ㄠ&lt;b&gt;類別目錄篩選器&lt;/b&gt;&lt;br&gt;左鍵單擊項目開始篩選流程&lt;br&gt;&amp;bull; Shift/Ctrl - 多重選取&lt;br&gt;&amp;bull; Alt/Opt - 排除項目&lt;br&gt;單擊右鍵開啟項目選項&lt;br&gt;將檔案拖放到項目上進行指派</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3509"/>
@@ -11607,7 +11607,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="111"/>
         <source>View scroll the content by thumbnail</source>
-        <translation>縮圖檢視區可用滾動方式查看列表</translation>
+        <translation>用滾動 (取代捲動) 方式查看&apos;縮圖列表&apos;</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="118"/>
@@ -12255,7 +12255,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="196"/>
         <source>Show companion files</source>
-        <translation>在 XnViewMP 中顯示(不隱藏) 配套檔案</translation>
+        <translation>不隱藏配套檔案 (在 XnViewMP 裡)</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="110"/>
@@ -12366,7 +12366,7 @@ Thumbnail</source>
         <location filename="DlgSettingsFilelist.ui" line="260"/>
         <source>Used by Filter › Custom</source>
         <oldsource>Used by Filter&gt;Custom</oldsource>
-        <translation>點選 &quot;篩選器 › 自訂&quot; 時，便會執行此自訂的篩選</translation>
+        <translation>此設定將被用於 &apos;(檢視 &gt;) 篩選器 › 自訂&apos;</translation>
     </message>
 </context>
 <context>
@@ -13857,7 +13857,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="203"/>
         <source>Update keywords when file is modified outside (file date/size)</source>
-        <translation>當檔案在外部被修改時更新關鍵字 (檔案日期/大小)</translation>
+        <translation>當檔案在外部被修改過, 便更新關鍵字 (以 &quot;檔案日期/大小&quot; 做判斷)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="219"/>
