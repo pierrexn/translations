@@ -345,12 +345,12 @@
     <message>
         <location filename="ViewWindow.cpp" line="4122"/>
         <source>Expand canvas</source>
-        <translation type="unfinished"></translation>
+        <translation>Agrandir le canevas</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4122"/>
         <source>Do you want to expand the canvas?</source>
-        <translation type="unfinished"></translation>
+        <translation>Souhaitez-vous agrandir le canevas?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4549"/>
@@ -12049,7 +12049,7 @@ Voulez-vous supprimer les entrées attribuées à une catégorie?</translation>
     <message>
         <location filename="DlgSettingsCache.ui" line="282"/>
         <source>Maintenance</source>
-        <translation type="unfinished"></translation>
+        <translation>Maintenance</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="323"/>
@@ -13966,7 +13966,7 @@ Voulez-vous le réaffecter ?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="673"/>
         <source>Rating labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Étiquettes de classement</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="753"/>
@@ -14197,7 +14197,7 @@ Voulez-vous le réaffecter ?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="916"/>
         <source>Icon spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Espacement des icônes&#xa0;:</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1229"/>
@@ -22107,7 +22107,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="ViewMenu.h" line="422"/>
         <source>Center image</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrer l&apos;image</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="449"/>
