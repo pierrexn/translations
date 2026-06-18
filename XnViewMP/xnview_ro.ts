@@ -328,6 +328,14 @@
         <source>The file &lt;%1&gt; is read-only. Please choose another file name.</source>
         <translation>Fișierul &lt;%1&gt; e în modul doar în citire. Te rugăm să alegi un alt nume pentru fișier.</translation>
     </message>
+    <message>
+        <source>Expand canvas</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to expand the canvas?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ActionPanelItem</name>
@@ -9471,8 +9479,8 @@ Dorești să verifici mai întâi intrările afectate?</translation>
         <translation>Metadate</translation>
     </message>
     <message>
-        <source>Thumbnail</source>
-        <translation>Miniatură</translation>
+        <source>Thumbnails</source>
+        <translation type="unfinished">Miniaturi</translation>
     </message>
 </context>
 <context>
@@ -11066,6 +11074,10 @@ Dorești să-l reatribui?</translation>
     <message>
         <source>Audio</source>
         <translation>Audio</translation>
+    </message>
+    <message>
+        <source>Icon spacing:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13748,6 +13760,10 @@ Dorești să ștergi favoritul „%1”?</translation>
         <source>Merge with...</source>
         <translation>Unește cu...</translation>
     </message>
+    <message>
+        <source>Are you sure to delete these categories?</source>
+        <translation type="unfinished">Ești sigur(ă) că dorești să ștergi aceste categorii?</translation>
+    </message>
 </context>
 <context>
     <name>InfoCategoryView</name>
@@ -15693,10 +15709,6 @@ Vrei să continui?</translation>
         <translation>Trimite prin FTP...</translation>
     </message>
     <message>
-        <source>Name - numeric order</source>
-        <translation>Nume - ordine numerică</translation>
-    </message>
-    <message>
         <source>Print...</source>
         <translation>Imprimă/Tipărește/Printează/Scoate la imprimantă...</translation>
     </message>
@@ -16295,6 +16307,10 @@ Vrei să continui?</translation>
     <message>
         <source>Channel clipping</source>
         <translation>Trunchierea canalelor</translation>
+    </message>
+    <message>
+        <source>Name - natural order</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17312,6 +17328,10 @@ Vrei să continui?</translation>
     <message>
         <source>##rating## (go to next image)</source>
         <translation>##rating## (mergi la imaginea următoare)</translation>
+    </message>
+    <message>
+        <source>Center image</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

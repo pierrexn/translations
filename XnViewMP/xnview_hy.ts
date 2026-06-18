@@ -328,6 +328,14 @@
         <source>The file &lt;%1&gt; is read-only. Please choose another file name.</source>
         <translation>&lt;%1&gt; ֆայլը միայն կարդալու համար է: Ընտրեք այլ անուն:</translation>
     </message>
+    <message>
+        <source>Expand canvas</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to expand the canvas?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ActionPanelItem</name>
@@ -9454,8 +9462,8 @@ Do you want to check for affected entries first?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Thumbnail</source>
-        <translation type="unfinished">Մանրապատկեր</translation>
+        <source>Thumbnails</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11049,6 +11057,10 @@ Do you want to reassign?</source>
     <message>
         <source>Audio</source>
         <translation type="unfinished">Ձայնային ֆայլեր</translation>
+    </message>
+    <message>
+        <source>Icon spacing:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13731,6 +13743,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <source>New Category</source>
         <translation>Նոր անվանակարգ</translation>
     </message>
+    <message>
+        <source>Are you sure to delete these categories?</source>
+        <translation type="unfinished">Համոզվա՞ծ եք, որ ցանկանում եք ջնջել այս անվանակարգերը:</translation>
+    </message>
 </context>
 <context>
     <name>InfoCategoryView</name>
@@ -15924,10 +15940,6 @@ Do you want to continue?</source>
         <translation>Խմբագրել XMP-ն...</translation>
     </message>
     <message>
-        <source>Name - numeric order</source>
-        <translation>Անուն - թվային կարգ</translation>
-    </message>
-    <message>
         <source>Name - normal order</source>
         <translation>Անուն - նորմալ կարգ</translation>
     </message>
@@ -16277,6 +16289,10 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Channel clipping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name - natural order</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17295,6 +17311,10 @@ Do you want to continue?</source>
     <message>
         <source>##rating## (go to next image)</source>
         <translation type="unfinished">##rating## (անցնել հաջորդ պատկերին)</translation>
+    </message>
+    <message>
+        <source>Center image</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

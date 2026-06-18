@@ -328,6 +328,14 @@
         <source>The file &lt;%1&gt; is read-only. Please choose another file name.</source>
         <translation>O arquivo &lt;%1&gt; é somente leitura. Escolha outro nome de arquivo.</translation>
     </message>
+    <message>
+        <source>Expand canvas</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to expand the canvas?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ActionPanelItem</name>
@@ -9457,8 +9465,8 @@ Deseja verificar primeiro se há entradas afetadas?</translation>
         <translation type="unfinished">Metadados</translation>
     </message>
     <message>
-        <source>Thumbnail</source>
-        <translation type="unfinished">Miniatura</translation>
+        <source>Thumbnails</source>
+        <translation type="unfinished">Miniaturas</translation>
     </message>
 </context>
 <context>
@@ -11052,6 +11060,10 @@ Deseja reatribuir?</translation>
     <message>
         <source>Audio</source>
         <translation type="unfinished">Áudio</translation>
+    </message>
+    <message>
+        <source>Icon spacing:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13738,6 +13750,10 @@ Deseja excluir o favorito &quot;%1&quot;?</translation>
         <source>New Category</source>
         <translation>Adicionar categoria</translation>
     </message>
+    <message>
+        <source>Are you sure to delete these categories?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>InfoCategoryView</name>
@@ -15964,10 +15980,6 @@ Deseja continuar?</translation>
         <translation>Editar etiqueta de rosto...</translation>
     </message>
     <message>
-        <source>Name - numeric order</source>
-        <translation>Nome - ordem numérica</translation>
-    </message>
-    <message>
         <source>Name - normal order</source>
         <translation>Nome - ordem normal</translation>
     </message>
@@ -16285,6 +16297,10 @@ Deseja continuar?</translation>
     </message>
     <message>
         <source>Channel clipping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name - natural order</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17303,6 +17319,10 @@ Deseja continuar?</translation>
     <message>
         <source>##rating## (go to next image)</source>
         <translation type="unfinished">##rating## (ir para a próxima imagem)</translation>
+    </message>
+    <message>
+        <source>Center image</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

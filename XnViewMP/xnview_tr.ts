@@ -4,132 +4,132 @@
 <context>
     <name>@default</name>
     <message>
-        <location filename="MyThumbSettings.cpp" line="874"/>
+        <location filename="MyThumbSettings.cpp" line="876"/>
         <source>Uncolored</source>
         <translation>Renksiz</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="880"/>
+        <location filename="MyThumbSettings.cpp" line="882"/>
         <source>Important</source>
         <translation>Önemli</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="880"/>
+        <location filename="MyThumbSettings.cpp" line="882"/>
         <source>Red</source>
         <translation>Kırmızı</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="880"/>
+        <location filename="MyThumbSettings.cpp" line="882"/>
         <source>Select</source>
         <translation>Şeç</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="881"/>
+        <location filename="MyThumbSettings.cpp" line="883"/>
         <source>Work</source>
         <translation>İş</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="881"/>
+        <location filename="MyThumbSettings.cpp" line="883"/>
         <source>Yellow</source>
         <translation>Sarı</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="881"/>
+        <location filename="MyThumbSettings.cpp" line="883"/>
         <source>Second</source>
         <translation>Saniye</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="882"/>
+        <location filename="MyThumbSettings.cpp" line="884"/>
         <source>Personal</source>
         <translation>Kişisel</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="882"/>
+        <location filename="MyThumbSettings.cpp" line="884"/>
         <source>Green</source>
         <translation>Yeşil</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="882"/>
+        <location filename="MyThumbSettings.cpp" line="884"/>
         <source>Approved</source>
         <translation>Onaylı</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="883"/>
+        <location filename="MyThumbSettings.cpp" line="885"/>
         <source>To do</source>
         <translation>Yapılacak</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="883"/>
+        <location filename="MyThumbSettings.cpp" line="885"/>
         <source>Blue</source>
         <translation>Mavi</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="883"/>
+        <location filename="MyThumbSettings.cpp" line="885"/>
         <source>Review</source>
         <translation>Gözden geçirme</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="884"/>
+        <location filename="MyThumbSettings.cpp" line="886"/>
         <source>Later</source>
         <translation>Sonra</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="884"/>
+        <location filename="MyThumbSettings.cpp" line="886"/>
         <source>Purple</source>
         <translation>Mor</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="884"/>
+        <location filename="MyThumbSettings.cpp" line="886"/>
         <source>To Do</source>
         <translation>Yapmak</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="885"/>
+        <location filename="MyThumbSettings.cpp" line="887"/>
         <source>Orange</source>
         <translation>Turuncu</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="886"/>
+        <location filename="MyThumbSettings.cpp" line="888"/>
         <source>Grey</source>
         <translation>Gri</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="887"/>
+        <location filename="MyThumbSettings.cpp" line="889"/>
         <source>Black</source>
         <translation type="unfinished">Siyah</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="888"/>
+        <location filename="MyThumbSettings.cpp" line="890"/>
         <source>White</source>
         <translation type="unfinished">Beyaz</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="758"/>
+        <location filename="MyThumbSettings.cpp" line="759"/>
         <source>Unrated</source>
         <translation>Puanlanmamış</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="759"/>
+        <location filename="MyThumbSettings.cpp" line="760"/>
         <source>Poor</source>
         <translation>Kötü</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="760"/>
+        <location filename="MyThumbSettings.cpp" line="761"/>
         <source>Fair</source>
         <translation>Zayıf</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="761"/>
+        <location filename="MyThumbSettings.cpp" line="762"/>
         <source>Average</source>
         <translation>Ortalama</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="762"/>
+        <location filename="MyThumbSettings.cpp" line="763"/>
         <source>Good</source>
         <translation>İyi</translation>
     </message>
     <message>
-        <location filename="MyThumbSettings.cpp" line="763"/>
+        <location filename="MyThumbSettings.cpp" line="764"/>
         <source>Excellent</source>
         <translation>Harika</translation>
     </message>
@@ -228,27 +228,27 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="220"/>
+        <location filename="AboutWidget.cpp" line="221"/>
         <source>Format</source>
         <translation>Dosta türü</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="220"/>
+        <location filename="AboutWidget.cpp" line="221"/>
         <source>Read</source>
         <translation>Okuma</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="220"/>
+        <location filename="AboutWidget.cpp" line="221"/>
         <source>Write</source>
         <translation>Yazma</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="220"/>
+        <location filename="AboutWidget.cpp" line="221"/>
         <source>Extension</source>
         <translation>Uzantı</translation>
     </message>
     <message>
-        <location filename="AboutWidget.cpp" line="263"/>
+        <location filename="AboutWidget.cpp" line="264"/>
         <source>Formats in reading: %1 | Formats in writing: %2</source>
         <translation>Okunabilen dosya türleri: %1 | Yazılabilen dosya türleri: %2</translation>
     </message>
@@ -264,75 +264,75 @@
 <context>
     <name>AbstractViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="1450"/>
+        <location filename="ViewWindow.cpp" line="1455"/>
         <source>Frame %1/%2</source>
         <translation>Kare %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1453"/>
+        <location filename="ViewWindow.cpp" line="1458"/>
         <source>Icon %1/%2</source>
         <translation>Simge %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1455"/>
+        <location filename="ViewWindow.cpp" line="1460"/>
         <source>Page %1/%2</source>
         <translation>Sayfa %1/%2</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2071"/>
+        <location filename="ViewWindow.cpp" line="2077"/>
         <source>Customize toolbar...</source>
         <translation>Araç Çubuğunu Özelleştir...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2327"/>
         <location filename="ViewWindow.cpp" line="2333"/>
-        <location filename="ViewWindow.cpp" line="2337"/>
+        <location filename="ViewWindow.cpp" line="2339"/>
+        <location filename="ViewWindow.cpp" line="2343"/>
         <source>Delete items</source>
         <translation>Nesneleri Sil</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2327"/>
+        <location filename="ViewWindow.cpp" line="2333"/>
         <source>Would you like to discard your edits and delete 
 &quot;%1&quot;?</source>
         <translation>Düzenlemelerinizi atmak ve silmek ister misiniz 
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2333"/>
+        <location filename="ViewWindow.cpp" line="2339"/>
         <source>Are you sure to delete 
 &quot;%1&quot;?</source>
         <translation>Sildiğinizden emin misiniz 
 &quot;%1&quot;?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="2337"/>
+        <location filename="ViewWindow.cpp" line="2343"/>
         <source>Are you sure to delete 
 &quot;%1&quot; (%2 items)?</source>
         <translation>Sildiğinizden emin misiniz 
 &quot;%1&quot; (%2 öğe)?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3017"/>
+        <location filename="ViewWindow.cpp" line="3050"/>
         <source>The file &lt;%1&gt; is read-only. Please choose another file name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3025"/>
+        <location filename="ViewWindow.cpp" line="3058"/>
         <source>Confirm Save</source>
         <translation>Kaydet&apos;i Onayla</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3026"/>
+        <location filename="ViewWindow.cpp" line="3059"/>
         <source>&lt;%1&gt; already exists!</source>
         <translation>&lt;%1&gt; zaten var!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3026"/>
+        <location filename="ViewWindow.cpp" line="3059"/>
         <source>Do you want to overwrite it?</source>
         <translation>Üzerine yazmak ister misin?</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4500"/>
+        <location filename="ViewWindow.cpp" line="4549"/>
         <source>Number of unique colors: %1</source>
         <translation>Benzersiz renk sayısı: %1</translation>
     </message>
@@ -372,49 +372,59 @@
         <translation type="unfinished">Tekrar sorma</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="1622"/>
-        <location filename="ViewWindow.cpp" line="1641"/>
+        <location filename="ViewWindow.cpp" line="1628"/>
+        <location filename="ViewWindow.cpp" line="1647"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; Boş &gt;</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3007"/>
-        <location filename="ViewWindow.cpp" line="3017"/>
+        <location filename="ViewWindow.cpp" line="3040"/>
+        <location filename="ViewWindow.cpp" line="3050"/>
         <source>Save</source>
         <translation>Kaydet</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3007"/>
+        <location filename="ViewWindow.cpp" line="3040"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
         <translation>Görüntü 24-bit RGB&apos;ye dönüştürülecektir (kanal başına 8 bit)</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3050"/>
-        <location filename="ViewWindow.cpp" line="3181"/>
-        <location filename="ViewWindow.cpp" line="3231"/>
+        <location filename="ViewWindow.cpp" line="3083"/>
+        <location filename="ViewWindow.cpp" line="3214"/>
+        <location filename="ViewWindow.cpp" line="3264"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
         <translation type="unfinished">Resim kaydediliyor...</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3052"/>
-        <location filename="ViewWindow.cpp" line="3233"/>
+        <location filename="ViewWindow.cpp" line="3085"/>
+        <location filename="ViewWindow.cpp" line="3266"/>
         <source>Error</source>
         <translation>Hata</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3052"/>
-        <location filename="ViewWindow.cpp" line="3233"/>
+        <location filename="ViewWindow.cpp" line="3085"/>
+        <location filename="ViewWindow.cpp" line="3266"/>
         <source>An error occurred during saving!</source>
         <translation>Kaydetme sırasında bir hata oluştu!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3323"/>
+        <location filename="ViewWindow.cpp" line="3356"/>
         <source>Properties</source>
         <translation>Özellikler</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4500"/>
+        <location filename="ViewWindow.cpp" line="4122"/>
+        <source>Expand canvas</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ViewWindow.cpp" line="4122"/>
+        <source>Do you want to expand the canvas?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ViewWindow.cpp" line="4549"/>
         <source>Colors count</source>
         <translation>Renk Sayısı</translation>
     </message>
@@ -443,7 +453,7 @@
 <context>
     <name>Audio</name>
     <message>
-        <location filename="DlgSlideshow.cpp" line="579"/>
+        <location filename="DlgSlideshow.cpp" line="575"/>
         <source>Audio Files</source>
         <translation>Ses Dosyaları</translation>
     </message>
@@ -480,28 +490,28 @@
 <context>
     <name>BaseViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="5005"/>
+        <location filename="ViewWindow.cpp" line="5059"/>
         <source>Error</source>
         <translation>Hata</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4996"/>
-        <location filename="ViewWindow.cpp" line="5005"/>
+        <location filename="ViewWindow.cpp" line="5050"/>
+        <location filename="ViewWindow.cpp" line="5059"/>
         <source>File can&apos;t be loaded!</source>
         <translation>Dosya yüklenemedi!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4996"/>
+        <location filename="ViewWindow.cpp" line="5050"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <translation>XnView MP, PDF/PS/EPS/AI dosyalarını görüntülemek ve dönüştürmek  için sisteminizde Ghostscript %1 yüklü olmasını gerektirir.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4997"/>
+        <location filename="ViewWindow.cpp" line="5051"/>
         <source>Please visit the %1 for more information.</source>
         <translation>Daha fazla bilgi için lütfen %1 adresini ziyaret ediniz.</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="5009"/>
+        <location filename="ViewWindow.cpp" line="5063"/>
         <source>&lt; Empty &gt;</source>
         <translation>&lt; Boş &gt;</translation>
     </message>
@@ -647,12 +657,12 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <translation>Bu klasör mevcut değil!</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="3819"/>
+        <location filename="BrowserWindow.cpp" line="3830"/>
         <source>Favorite name:</source>
         <translation>Favori Adı:</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="4075"/>
+        <location filename="BrowserWindow.cpp" line="4086"/>
         <source>Are you sure to delete these %n item(s)?</source>
         <translation>
             <numerusform>%n nesneyi silmek istiyor musunuz?</numerusform>
@@ -660,7 +670,7 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3604"/>
-        <location filename="BrowserWindow.cpp" line="4161"/>
+        <location filename="BrowserWindow.cpp" line="4172"/>
         <source>Error</source>
         <translation>Hata</translation>
     </message>
@@ -682,44 +692,44 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4068"/>
+        <location filename="BrowserWindow.cpp" line="4079"/>
         <source>Delete items &amp; companions</source>
         <translation>Öğeleri &amp; tamamlayıcıları sil</translation>
     </message>
     <message numerus="yes">
-        <location filename="BrowserWindow.cpp" line="4069"/>
+        <location filename="BrowserWindow.cpp" line="4080"/>
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
         <translation>
             <numerusform>Bu %n - %1 seçilmiş öğeleri silmek için emin misiniz?</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4541"/>
+        <location filename="BrowserWindow.cpp" line="4556"/>
         <source>Show files in subfolders</source>
         <translation>Alt klasörlerdeki dosyaları göster</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4544"/>
+        <location filename="BrowserWindow.cpp" line="4559"/>
         <source>Add to favorites...</source>
         <translation>Favorilere ekle...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4549"/>
+        <location filename="BrowserWindow.cpp" line="4564"/>
         <source>Open in file manager</source>
         <translation type="unfinished">Dosya Gezgininde Aç</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4552"/>
+        <location filename="BrowserWindow.cpp" line="4567"/>
         <source>Properties</source>
         <translation>Özellikler</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4667"/>
+        <location filename="BrowserWindow.cpp" line="4682"/>
         <source>Load filelist</source>
         <translation>Dosya Listesi Yükle</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4074"/>
+        <location filename="BrowserWindow.cpp" line="4085"/>
         <source>Delete items</source>
         <translation>Nesne Sil</translation>
     </message>
@@ -754,27 +764,27 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <translation>&lt;dosyalar&gt;</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4161"/>
+        <location filename="BrowserWindow.cpp" line="4172"/>
         <source>The files cannot be renamed, an error occurred.</source>
         <translation>Dosyalar yeniden adlandırılamıyor, bir hata oluştu.</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4543"/>
+        <location filename="BrowserWindow.cpp" line="4558"/>
         <source>Search...</source>
         <translation>Ara...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4547"/>
+        <location filename="BrowserWindow.cpp" line="4562"/>
         <source>Start slideshow</source>
         <translation>Slayt gösterisini başlat</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4584"/>
+        <location filename="BrowserWindow.cpp" line="4599"/>
         <source>Delete folder</source>
         <translation>Klasör Sil</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4584"/>
+        <location filename="BrowserWindow.cpp" line="4599"/>
         <source>Are you sure to delete this folder?</source>
         <translation>Bu klasörü silmek istiyor musunuz?</translation>
     </message>
@@ -1194,26 +1204,26 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
 <context>
     <name>Convert</name>
     <message>
-        <location filename="DlgConvertAutoCrop.h" line="21"/>
-        <location filename="DlgConvertCanvas.h" line="39"/>
+        <location filename="DlgConvertCanvas.h" line="43"/>
+        <location filename="DlgConvertAutoCrop.h" line="27"/>
         <source>Top-Left</source>
         <translation>Üst-Sol</translation>
     </message>
     <message>
-        <location filename="DlgConvertAutoCrop.h" line="22"/>
-        <location filename="DlgConvertCanvas.h" line="40"/>
+        <location filename="DlgConvertCanvas.h" line="44"/>
+        <location filename="DlgConvertAutoCrop.h" line="28"/>
         <source>Top-Right</source>
         <translation>Üst-Sağ</translation>
     </message>
     <message>
-        <location filename="DlgConvertAutoCrop.h" line="23"/>
-        <location filename="DlgConvertCanvas.h" line="41"/>
+        <location filename="DlgConvertCanvas.h" line="45"/>
+        <location filename="DlgConvertAutoCrop.h" line="29"/>
         <source>Bottom-Left</source>
         <translation>Alt-Sol</translation>
     </message>
     <message>
-        <location filename="DlgConvertAutoCrop.h" line="24"/>
-        <location filename="DlgConvertCanvas.h" line="42"/>
+        <location filename="DlgConvertCanvas.h" line="46"/>
+        <location filename="DlgConvertAutoCrop.h" line="30"/>
         <source>Bottom-Right</source>
         <translation>Alt-Sağ</translation>
     </message>
@@ -1230,391 +1240,391 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <translation>Model</translation>
     </message>
     <message>
-        <location filename="DlgConvertEmpty.h" line="20"/>
-        <location filename="DlgConvertProcess.h" line="170"/>
+        <location filename="DlgConvertEmpty.h" line="29"/>
+        <location filename="DlgConvertProcess.h" line="169"/>
         <source>No settings</source>
         <translation>Ayar Yok</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="229"/>
+        <location filename="DlgConvertProcess.h" line="228"/>
         <source>Change color depth</source>
         <translation>Renk Derinliğini Değiştir</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1821"/>
-        <location filename="DlgConvertProcess.h" line="372"/>
+        <location filename="DlgConvertProcess.h" line="371"/>
         <source>Adjust</source>
         <translation>Artır</translation>
     </message>
     <message>
-        <location filename="DlgAutoCrop.h" line="93"/>
-        <location filename="DlgConvertProcess.h" line="516"/>
+        <location filename="DlgAutoCrop.h" line="102"/>
+        <location filename="DlgConvertProcess.h" line="542"/>
         <source>Automatic crop</source>
         <translation>Otomatik kırp</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="576"/>
+        <location filename="DlgConvertProcess.h" line="602"/>
         <source>Zealous crop</source>
         <translation>Gayretli kırpma</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="617"/>
+        <location filename="DlgConvertProcess.h" line="643"/>
         <source>Automatic deskew</source>
         <translation>Otomatik eğrilik düzeltme</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="638"/>
+        <location filename="DlgConvertProcess.h" line="664"/>
         <source>Clean metadata</source>
         <translation>Metaverileri Sil</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="677"/>
+        <location filename="DlgConvertProcess.h" line="703"/>
         <source>Watermark</source>
         <translation>Filigran</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="836"/>
+        <location filename="DlgConvertProcess.h" line="862"/>
         <source>Text</source>
         <translation>Metin</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="1354"/>
+        <location filename="DlgConvertProcess.h" line="1391"/>
         <source>Crop</source>
         <translation>Kırp</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="1422"/>
+        <location filename="DlgConvertProcess.h" line="1459"/>
         <source>Canvas resize</source>
         <translation>Tuval Boyutlandır</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="1658"/>
+        <location filename="DlgConvertProcess.h" line="1695"/>
         <source>Resize</source>
         <translation>Yeniden Boyutlandır</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2106"/>
+        <location filename="DlgConvertProcess.h" line="2143"/>
         <source>Rotate</source>
         <translation>Döndür</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2453"/>
+        <location filename="DlgConvertProcess.h" line="2490"/>
         <source>Set DPI</source>
         <oldsource>Set dpi</oldsource>
         <translation>DPI Ayarla</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2492"/>
+        <location filename="DlgConvertProcess.h" line="2529"/>
         <source>Extract channel</source>
         <translation>Kanal Çıkart</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="397"/>
-        <location filename="DlgLevels.h" line="46"/>
+        <location filename="DlgConvertProcess.h" line="423"/>
+        <location filename="DlgLevels.h" line="47"/>
         <source>Levels</source>
         <translation>Seviyeler</translation>
     </message>
     <message>
-        <location filename="DlgCurves.h" line="39"/>
-        <location filename="DlgConvertProcess.h" line="479"/>
+        <location filename="DlgCurves.h" line="38"/>
+        <location filename="DlgConvertProcess.h" line="505"/>
         <source>Curves</source>
         <translation>Eğriler</translation>
     </message>
     <message>
         <location filename="DlgWhiteBalance.h" line="64"/>
-        <location filename="DlgConvertProcess.h" line="4746"/>
+        <location filename="DlgConvertProcess.h" line="4788"/>
         <source>White Balance</source>
         <translation>Beyaz Dengesi</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2516"/>
+        <location filename="DlgConvertProcess.h" line="2553"/>
         <source>Black/White Points</source>
         <translation>Siyah/Beyaz Noktalar</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2537"/>
+        <location filename="DlgConvertProcess.h" line="2574"/>
         <source>Mirror</source>
         <translation>Ayna</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2561"/>
+        <location filename="DlgConvertProcess.h" line="2598"/>
         <source>Replace color</source>
         <translation>Renk Değiştir</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2593"/>
+        <location filename="DlgConvertProcess.h" line="2630"/>
         <source>Transparent color</source>
         <translation>Saydam renk</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2640"/>
+        <location filename="DlgConvertProcess.h" line="2677"/>
         <source>Aspect Pad</source>
         <translation>Aspect Pad</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2699"/>
+        <location filename="DlgConvertProcess.h" line="2736"/>
         <source>Color balance</source>
         <translation>Renk Dengesi</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2725"/>
+        <location filename="DlgConvertProcess.h" line="2762"/>
         <source>HLS</source>
         <translation>HLS</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2800"/>
+        <location filename="DlgConvertProcess.h" line="2837"/>
         <location filename="DlgShadowHighlight.h" line="65"/>
         <source>Shadow-Highlight</source>
         <translation>Gölge-Vurgu</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2822"/>
+        <location filename="DlgConvertProcess.h" line="2859"/>
         <source>Add noise</source>
         <translation>Parazit (Noise)Ekle</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2898"/>
+        <location filename="DlgConvertProcess.h" line="2935"/>
         <source>Edge detect</source>
         <translation>Kenar Tespiti</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2965"/>
+        <location filename="DlgConvertProcess.h" line="3002"/>
         <source>De-interlace</source>
         <translation>Ters-geçişli</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3297"/>
+        <location filename="DlgConvertProcess.h" line="3339"/>
         <source>Blurred frame</source>
         <translation>Bulanık çerçeve</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3553"/>
+        <location filename="DlgConvertProcess.h" line="3595"/>
         <source>Inner Frame</source>
         <translation>İç Çerçeve</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3907"/>
+        <location filename="DlgConvertProcess.h" line="3949"/>
         <source>JPEG Lossless rotation</source>
         <translation>JPEG Kayıpsız Çevirme</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4318"/>
+        <location filename="DlgConvertProcess.h" line="4360"/>
         <source>Retro</source>
         <translation>Retro</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4547"/>
+        <location filename="DlgConvertProcess.h" line="4589"/>
         <source>Film Simulation</source>
         <translation>Film Simülasyonu</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4587"/>
+        <location filename="DlgConvertProcess.h" line="4629"/>
         <source>Bloom</source>
         <translation>Çiçeklenme</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4611"/>
+        <location filename="DlgConvertProcess.h" line="4653"/>
         <source>Unsharp Mask</source>
         <translation>Keslinliği Azaltma Maskesi</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4643"/>
+        <location filename="DlgConvertProcess.h" line="4685"/>
         <source>Clear transparent pixels</source>
         <translation>Saydam pikselleri temizleme</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4657"/>
+        <location filename="DlgConvertProcess.h" line="4699"/>
         <source>Remove alpha channel</source>
         <translation type="unfinished">Alfa kanalını kaldırma</translation>
     </message>
     <message>
         <location filename="DlgOffset.h" line="104"/>
-        <location filename="DlgConvertProcess.h" line="4671"/>
+        <location filename="DlgConvertProcess.h" line="4713"/>
         <source>Offset</source>
         <translation>Ofset</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4697"/>
+        <location filename="DlgConvertProcess.h" line="4739"/>
         <source>Symmetry</source>
         <translation>Simetri</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4718"/>
+        <location filename="DlgConvertProcess.h" line="4760"/>
         <source>Saturation</source>
         <translation>Doygunluk (Saturation)</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4762"/>
+        <location filename="DlgConvertProcess.h" line="4804"/>
         <source>Mono Mixer</source>
         <translation>Tek Karıştırıcı</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4787"/>
+        <location filename="DlgConvertProcess.h" line="4829"/>
         <source>Fantasy</source>
         <translation>Fantezi</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4807"/>
+        <location filename="DlgConvertProcess.h" line="4849"/>
         <source>Crystallize</source>
         <translation>Kristalize</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4825"/>
+        <location filename="DlgConvertProcess.h" line="4867"/>
         <source>Temperature</source>
         <translation>Sıcaklık</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4842"/>
+        <location filename="DlgConvertProcess.h" line="4884"/>
         <source>Photo Spread</source>
         <translation>Resim Dağıtma</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4869"/>
+        <location filename="DlgConvertProcess.h" line="4911"/>
         <source>Frequency</source>
         <translation>Frekans</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="4874"/>
+        <location filename="DlgConvertProcess.h" line="4916"/>
         <source>Halftone</source>
         <translation>Yarım Ton</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="5008"/>
+        <location filename="DlgConvertProcess.h" line="5050"/>
         <source>QR Code</source>
         <translation>QR Kod</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2987"/>
-        <location filename="Dlg1SliderPanel.h" line="79"/>
+        <location filename="DlgConvertProcess.h" line="3024"/>
+        <location filename="Dlg1SliderPanel.h" line="78"/>
         <source>Posterize</source>
         <translation>Posterleştir</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="2765"/>
+        <location filename="DlgConvertProcess.h" line="2802"/>
         <source>Swap color</source>
         <translation type="unfinished">Takas Et</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3007"/>
+        <location filename="DlgConvertProcess.h" line="3044"/>
         <source>Border 3D</source>
         <translation>3D Kenarlık</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3034"/>
+        <location filename="DlgConvertProcess.h" line="3071"/>
         <source>Waves</source>
         <translation>Dalgalar</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3039"/>
+        <location filename="DlgConvertProcess.h" line="3076"/>
         <source>Length</source>
         <translation>Uzunluk</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3040"/>
+        <location filename="DlgConvertProcess.h" line="3077"/>
         <source>Phase</source>
         <translation>Aşama</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3041"/>
+        <location filename="DlgConvertProcess.h" line="3078"/>
         <source>Amount</source>
         <translation>Miktar</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3083"/>
+        <location filename="DlgConvertProcess.h" line="3120"/>
         <source>Normalize Ex</source>
         <translation>Normalleştir (eski)</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3088"/>
-        <location filename="DlgConvertProcess.h" line="3146"/>
+        <location filename="DlgConvertProcess.h" line="3125"/>
+        <location filename="DlgConvertProcess.h" line="3183"/>
         <source>Black limit %</source>
         <translation>Siyah Limit %</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3089"/>
-        <location filename="DlgConvertProcess.h" line="3147"/>
+        <location filename="DlgConvertProcess.h" line="3126"/>
+        <location filename="DlgConvertProcess.h" line="3184"/>
         <source>White limit %</source>
         <translation>Beyaz Limit %</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3090"/>
+        <location filename="DlgConvertProcess.h" line="3127"/>
         <source>Expansion limit</source>
         <translation>Genişleme Limiti</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3141"/>
+        <location filename="DlgConvertProcess.h" line="3178"/>
         <source>Align histogram</source>
         <translation>Histogram Hizala</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3148"/>
+        <location filename="DlgConvertProcess.h" line="3185"/>
         <source>Align %</source>
         <translation>Hizala %</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3212"/>
+        <location filename="DlgConvertProcess.h" line="3254"/>
         <source>ICC convert</source>
         <translation>ICC Dönüştürme</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3359"/>
+        <location filename="DlgConvertProcess.h" line="3401"/>
         <source>Border</source>
         <translation>Kenarlık</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3599"/>
+        <location filename="DlgConvertProcess.h" line="3641"/>
         <location filename="DlgOldCamera.h" line="82"/>
         <source>Old camera</source>
         <translation>Eski Kamera</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3620"/>
+        <location filename="DlgConvertProcess.h" line="3662"/>
         <location filename="DlgVignetting.h" line="90"/>
         <source>Vignetting</source>
         <translation>Süs Çiz (Vignetting)</translation>
     </message>
     <message>
-        <location filename="DlgConvertProcess.h" line="3799"/>
+        <location filename="DlgConvertProcess.h" line="3841"/>
         <source>Add mask</source>
         <translation>Maske Ekle</translation>
     </message>
     <message>
-        <location filename="DlgConvertSwap.h" line="18"/>
+        <location filename="DlgConvertSwap.h" line="24"/>
         <source>Red-Green-Blue</source>
         <translation>Kırmızı-Yeşil-Mavi</translation>
     </message>
     <message>
-        <location filename="DlgConvertSwap.h" line="19"/>
+        <location filename="DlgConvertSwap.h" line="25"/>
         <source>Blue-Green-Red</source>
         <translation>Mavi-Yeşil-Kırmızı</translation>
     </message>
     <message>
-        <location filename="DlgConvertSwap.h" line="20"/>
+        <location filename="DlgConvertSwap.h" line="26"/>
         <source>Blue-Red-Green</source>
         <translation>Mavi-Kırmızı-Yeşil</translation>
     </message>
     <message>
-        <location filename="DlgConvertSwap.h" line="21"/>
+        <location filename="DlgConvertSwap.h" line="27"/>
         <source>Green-Red-Blue</source>
         <translation>Yeşil-Kırmızı-Mavi</translation>
     </message>
     <message>
-        <location filename="DlgConvertSwap.h" line="22"/>
+        <location filename="DlgConvertSwap.h" line="28"/>
         <source>Green-Blue-Red</source>
         <translation>Yeşil-Mavi-Kırmızı</translation>
     </message>
     <message>
-        <location filename="DlgConvertText.h" line="26"/>
+        <location filename="DlgConvertText.h" line="31"/>
         <source>Left</source>
         <translation>Sol</translation>
     </message>
     <message>
-        <location filename="DlgConvertText.h" line="27"/>
+        <location filename="DlgConvertText.h" line="32"/>
         <source>Center</source>
         <translation>Orta</translation>
     </message>
     <message>
-        <location filename="DlgConvertText.h" line="28"/>
+        <location filename="DlgConvertText.h" line="33"/>
         <source>Right</source>
         <translation>Sağ</translation>
     </message>
@@ -1661,164 +1671,164 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="428"/>
-        <location filename="DlgFilter.cpp" line="42"/>
+        <location filename="DlgFilter.cpp" line="47"/>
         <source>Enhance detail</source>
         <translation>Detayları Belirginleştir</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="429"/>
-        <location filename="DlgFilter.cpp" line="43"/>
+        <location filename="DlgFilter.cpp" line="48"/>
         <source>Enhance focus</source>
         <translation>Odaklanmayı Belirginleştir</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="430"/>
-        <location filename="DlgFilter.cpp" line="44"/>
+        <location filename="DlgFilter.cpp" line="49"/>
         <source>Enhance edges</source>
         <translation>Kenarları Belirginleştir</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="431"/>
-        <location filename="DlgFilter.cpp" line="45"/>
+        <location filename="DlgFilter.cpp" line="50"/>
         <source>Focus restoration</source>
         <translation>Yenilemeye Odaklan</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="433"/>
-        <location filename="DlgFilter.cpp" line="52"/>
+        <location filename="DlgFilter.cpp" line="57"/>
         <source>Emboss</source>
         <translation>Kabartma (Emboss)</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="434"/>
-        <location filename="DlgFilter.cpp" line="53"/>
+        <location filename="DlgFilter.cpp" line="58"/>
         <source>Emboss more</source>
         <translation>Daha Fazla Kabartma (Emboss)</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="435"/>
-        <location filename="DlgFilter.cpp" line="36"/>
+        <location filename="DlgFilter.cpp" line="41"/>
         <source>Average</source>
         <translation>Ortalama</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="436"/>
         <location filename="DlgConvert.cpp" line="1822"/>
-        <location filename="DlgFilter.cpp" line="37"/>
+        <location filename="DlgFilter.cpp" line="42"/>
         <source>Blur</source>
         <translation>Bulanık (Blur)</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="437"/>
-        <location filename="DlgFilter.cpp" line="38"/>
+        <location filename="DlgFilter.cpp" line="43"/>
         <source>Soften</source>
         <translation>Yumuşatma (Soften)</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="438"/>
-        <location filename="DlgFilter.cpp" line="39"/>
+        <location filename="DlgFilter.cpp" line="44"/>
         <source>Gaussian blur</source>
         <translation>Gaussian bulanık</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="439"/>
-        <location filename="DlgFilter.cpp" line="54"/>
+        <location filename="DlgFilter.cpp" line="59"/>
         <source>Maximum</source>
         <translation>Maksimum</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="440"/>
-        <location filename="DlgFilter.cpp" line="55"/>
+        <location filename="DlgFilter.cpp" line="60"/>
         <source>Minimum</source>
         <translation>Minimum</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="441"/>
-        <location filename="DlgFilter.cpp" line="56"/>
+        <location filename="DlgFilter.cpp" line="61"/>
         <source>Median box</source>
         <translation>Medyan Kutusu</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="442"/>
-        <location filename="DlgFilter.cpp" line="57"/>
+        <location filename="DlgFilter.cpp" line="62"/>
         <source>Median cross</source>
         <translation>Medyan enine</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="443"/>
-        <location filename="DlgFilter.cpp" line="51"/>
+        <location filename="DlgFilter.cpp" line="56"/>
         <source>Sharpen</source>
         <translation>Keskinlik</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="445"/>
-        <location filename="DlgFilter.cpp" line="59"/>
+        <location filename="DlgFilter.cpp" line="64"/>
         <source>Reduce noise</source>
         <translation>Parazit (noise) Düşür</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="454"/>
-        <location filename="DlgFilter.cpp" line="68"/>
+        <location filename="DlgFilter.cpp" line="73"/>
         <source>Mosaic</source>
         <translation>Mozaik</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="455"/>
-        <location filename="DlgFilter.cpp" line="69"/>
+        <location filename="DlgFilter.cpp" line="74"/>
         <source>Slice</source>
         <translation>Dilim</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="456"/>
-        <location filename="DlgFilter.cpp" line="70"/>
+        <location filename="DlgFilter.cpp" line="75"/>
         <source>Tile</source>
         <translation>Döşe</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="457"/>
-        <location filename="DlgFilter.cpp" line="71"/>
+        <location filename="DlgFilter.cpp" line="76"/>
         <source>Shear</source>
         <translation>Makaslama</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="458"/>
-        <location filename="DlgFilter.cpp" line="72"/>
+        <location filename="DlgFilter.cpp" line="77"/>
         <source>Oil painting</source>
         <translation>Yağlı Boya</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="459"/>
-        <location filename="DlgFilter.cpp" line="73"/>
+        <location filename="DlgFilter.cpp" line="78"/>
         <source>Oil painting 2</source>
         <translation>Yağlı Boya 2</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="460"/>
-        <location filename="DlgFilter.cpp" line="74"/>
+        <location filename="DlgFilter.cpp" line="79"/>
         <source>Swirl</source>
         <translation>Girdap (Swirl)</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="461"/>
-        <location filename="DlgFilter.cpp" line="75"/>
+        <location filename="DlgFilter.cpp" line="80"/>
         <source>Spread</source>
         <translation>Dağıt (Spread)</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="462"/>
-        <location filename="DlgFilter.cpp" line="76"/>
+        <location filename="DlgFilter.cpp" line="81"/>
         <source>Lens</source>
         <translation>Lens</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="465"/>
-        <location filename="DlgFilter.cpp" line="79"/>
+        <location filename="DlgFilter.cpp" line="84"/>
         <source>Band</source>
         <translation>Bant</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="478"/>
-        <location filename="DlgFilter.cpp" line="92"/>
+        <location filename="DlgFilter.cpp" line="97"/>
         <source>Pointillize</source>
         <translation>Noktalaştır</translation>
     </message>
@@ -1874,13 +1884,13 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="410"/>
-        <location filename="Dlg1SliderPanel.h" line="88"/>
+        <location filename="Dlg1SliderPanel.h" line="87"/>
         <source>Sepia</source>
         <translation>Sepya</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="411"/>
-        <location filename="Dlg1SliderPanel.h" line="70"/>
+        <location filename="Dlg1SliderPanel.h" line="69"/>
         <source>Solarize</source>
         <translation>Solarize</translation>
     </message>
@@ -1891,22 +1901,22 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <translation>%1 dosya - %2% - %3</translation>
     </message>
     <message>
-        <location filename="DlgEnhanceColors.cpp" line="204"/>
+        <location filename="DlgEnhanceColors.cpp" line="200"/>
         <source>Enhance colors</source>
         <translation>Renkleri Belirginleştir</translation>
     </message>
     <message>
-        <location filename="DlgFilm.cpp" line="136"/>
+        <location filename="DlgFilm.cpp" line="138"/>
         <source>Film simulation</source>
         <translation>Film simülasyonu</translation>
     </message>
     <message>
-        <location filename="DlgFilter.cpp" line="40"/>
+        <location filename="DlgFilter.cpp" line="45"/>
         <source>Blur more</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgFilter.cpp" line="317"/>
+        <location filename="DlgFilter.cpp" line="323"/>
         <source>Effect</source>
         <translation type="unfinished">Etki</translation>
     </message>
@@ -1939,9 +1949,9 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
     <name>DB</name>
     <message>
         <location filename="CategoryManager.cpp" line="133"/>
-        <location filename="MyDB.cpp" line="871"/>
-        <location filename="MyDB.cpp" line="2293"/>
-        <location filename="MyDB.cpp" line="3586"/>
+        <location filename="MyDB.cpp" line="873"/>
+        <location filename="MyDB.cpp" line="2309"/>
+        <location filename="MyDB.cpp" line="3602"/>
         <source>Other</source>
         <translation>Diğer</translation>
     </message>
@@ -1951,72 +1961,72 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="872"/>
+        <location filename="MyDB.cpp" line="874"/>
         <source>Photographs</source>
         <translation>Fotoğraflar</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="873"/>
+        <location filename="MyDB.cpp" line="875"/>
         <source>Family</source>
         <translation>Aile</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="874"/>
+        <location filename="MyDB.cpp" line="876"/>
         <source>Friends</source>
         <translation>Arkadaşlar</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="875"/>
+        <location filename="MyDB.cpp" line="877"/>
         <source>Pets</source>
         <translation>Evcil Hayvanlar</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="876"/>
+        <location filename="MyDB.cpp" line="878"/>
         <source>Travel</source>
         <translation>Seyahat</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="877"/>
+        <location filename="MyDB.cpp" line="879"/>
         <source>Landscapes</source>
         <translation>Şehir Manzaraları</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="878"/>
+        <location filename="MyDB.cpp" line="880"/>
         <source>Portraits</source>
         <translation>Portreler</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="879"/>
+        <location filename="MyDB.cpp" line="881"/>
         <source>Flowers</source>
         <translation>Çiçekler</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="880"/>
+        <location filename="MyDB.cpp" line="882"/>
         <source>Animals</source>
         <translation>Hayvanlar</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="881"/>
+        <location filename="MyDB.cpp" line="883"/>
         <source>Pictures</source>
         <translation>Resimler</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="882"/>
+        <location filename="MyDB.cpp" line="884"/>
         <source>Icons</source>
         <translation>Simgeler</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="883"/>
+        <location filename="MyDB.cpp" line="885"/>
         <source>Drawings</source>
         <translation>Çizimler</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="884"/>
+        <location filename="MyDB.cpp" line="886"/>
         <source>Videos</source>
         <translation>Videolar</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="885"/>
+        <location filename="MyDB.cpp" line="887"/>
         <source>Audios</source>
         <translation>Sesler</translation>
     </message>
@@ -2074,7 +2084,7 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="173"/>
         <location filename="DBFilterModel.cpp" line="196"/>
-        <location filename="DBFilterModel.cpp" line="1711"/>
+        <location filename="DBFilterModel.cpp" line="1819"/>
         <source>Date</source>
         <translation type="unfinished">Tarih</translation>
     </message>
@@ -2108,38 +2118,38 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1487"/>
-        <location filename="DBFilterModel.cpp" line="1864"/>
-        <location filename="DBFilterModel.cpp" line="2173"/>
-        <location filename="DBFilterModel.cpp" line="2180"/>
-        <location filename="DBFilterModel.cpp" line="2185"/>
-        <location filename="DBFilterModel.cpp" line="2190"/>
-        <location filename="DBFilterModel.cpp" line="2207"/>
-        <location filename="DBFilterModel.cpp" line="2224"/>
+        <location filename="DBFilterModel.cpp" line="1630"/>
+        <location filename="DBFilterModel.cpp" line="1636"/>
+        <location filename="DBFilterModel.cpp" line="1642"/>
+        <location filename="DBFilterModel.cpp" line="1645"/>
+        <location filename="DBFilterModel.cpp" line="1657"/>
+        <location filename="DBFilterModel.cpp" line="1672"/>
+        <location filename="DBFilterModel.cpp" line="1972"/>
         <source>Unknown</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2212"/>
+        <location filename="DBFilterModel.cpp" line="1663"/>
         <source>Landscape</source>
         <translation type="unfinished">Peyzaj</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2214"/>
+        <location filename="DBFilterModel.cpp" line="1664"/>
         <source>Portrait</source>
         <translation type="unfinished">Portre</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2216"/>
+        <location filename="DBFilterModel.cpp" line="1665"/>
         <source>Square</source>
         <translation type="unfinished">Kare</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2289"/>
+        <location filename="DBFilterModel.cpp" line="1700"/>
         <source>Panoramic</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2315"/>
+        <location filename="DBFilterModel.cpp" line="1717"/>
         <source>No Color Profile</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2216,38 +2226,38 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <translation>İptal</translation>
     </message>
     <message>
-        <location filename="DlgAcquireInto.cpp" line="74"/>
+        <location filename="DlgAcquireInto.cpp" line="73"/>
         <source>Please enter a valid output pathname!</source>
         <translation>Lütfen geçerli bir çıktı yol adı girin!</translation>
     </message>
     <message>
-        <location filename="DlgAcquireInto.cpp" line="78"/>
+        <location filename="DlgAcquireInto.cpp" line="77"/>
         <source>Close</source>
         <translation>Kapat</translation>
     </message>
     <message>
-        <location filename="DlgAcquireInto.cpp" line="81"/>
+        <location filename="DlgAcquireInto.cpp" line="80"/>
         <source>Scan started...</source>
         <translation>Tarama başlatıldı...</translation>
     </message>
     <message>
-        <location filename="DlgAcquireInto.cpp" line="149"/>
+        <location filename="DlgAcquireInto.cpp" line="148"/>
         <source>Scan saved in %1</source>
         <translation>%1 içine kaydedilen tarama</translation>
     </message>
     <message>
-        <location filename="DlgAcquireInto.cpp" line="173"/>
+        <location filename="DlgAcquireInto.cpp" line="172"/>
         <source>An error has occurred when saving %1</source>
         <oldsource>An error occured when saving %1</oldsource>
         <translation type="unfinished">%1 kaydedilirken bir hata oluştu</translation>
     </message>
     <message>
-        <location filename="DlgAcquireInto.cpp" line="179"/>
+        <location filename="DlgAcquireInto.cpp" line="178"/>
         <source>Continue?</source>
         <translation>Devam edilsin mi?</translation>
     </message>
     <message>
-        <location filename="DlgAcquireInto.cpp" line="179"/>
+        <location filename="DlgAcquireInto.cpp" line="178"/>
         <source>Do you want to continue to scan?</source>
         <translation>Taramaya devam etmek istiyor musunuz?</translation>
     </message>
@@ -2270,7 +2280,7 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <translation>Kaldır</translation>
     </message>
     <message>
-        <location filename="DlgAdobeConfigure.cpp" line="32"/>
+        <location filename="DlgAdobeConfigure.cpp" line="28"/>
         <source>Select a folder</source>
         <translation>Klasör Seç</translation>
     </message>
@@ -2307,13 +2317,13 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <translation type="unfinished">Sıkıştırma işleminden sonra Dosya Gezgini açılsın</translation>
     </message>
     <message>
-        <location filename="DlgArchive.cpp" line="103"/>
+        <location filename="DlgArchive.cpp" line="97"/>
         <source>Creating archive, please wait...</source>
         <oldsource>Creating archive, please wait... </oldsource>
         <translation>Arşiv oluşturuluyor, lütfen bekleyin...</translation>
     </message>
     <message>
-        <location filename="DlgArchive.cpp" line="124"/>
+        <location filename="DlgArchive.cpp" line="118"/>
         <source>Archive file</source>
         <translation>Arşiv Dosyası</translation>
     </message>
@@ -2321,7 +2331,7 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
 <context>
     <name>DlgBanner</name>
     <message>
-        <location filename="DlgBanner.cpp" line="121"/>
+        <location filename="DlgBanner.cpp" line="115"/>
         <source>Are you sure to overwrite original files?</source>
         <translation>Orijinal dosyaların üzerine yazdığınızdan emin misiniz?</translation>
     </message>
@@ -3639,72 +3649,72 @@ Do you want to overwrite it?</oldsource>
         <translation>Bir çıktı klasörü seçmeniz gerekiyor.</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.cpp" line="360"/>
+        <location filename="DlgContactSheet.cpp" line="356"/>
         <source>Page number</source>
         <translation>Sayfa numarası</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.cpp" line="362"/>
+        <location filename="DlgContactSheet.cpp" line="358"/>
         <source>Page count</source>
         <translation>Sayfa sayısı</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.cpp" line="364"/>
+        <location filename="DlgContactSheet.cpp" line="360"/>
         <source>Current date</source>
         <translation>Geçerli tarih</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.cpp" line="395"/>
+        <location filename="DlgContactSheet.cpp" line="390"/>
         <source>Letter (8.5x11 inch)</source>
         <translation>Mektup r (8.5x11 inch)</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.cpp" line="397"/>
+        <location filename="DlgContactSheet.cpp" line="392"/>
         <source>Legal (8.5x14 inch)</source>
         <translation>Legal (8.5x14 inch)</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.cpp" line="399"/>
+        <location filename="DlgContactSheet.cpp" line="394"/>
         <source>A4 (21.0x29.7cm)</source>
         <translation>A4 (21.0x29.7cm)</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.cpp" line="401"/>
+        <location filename="DlgContactSheet.cpp" line="396"/>
         <source>A3 (29.7x42.0cm)</source>
         <translation>A3 (29.0x42.0cm)</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.cpp" line="403"/>
+        <location filename="DlgContactSheet.cpp" line="398"/>
         <source>4x6 inch</source>
         <translation>4x6 inch</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.cpp" line="405"/>
+        <location filename="DlgContactSheet.cpp" line="400"/>
         <source>5x7 inch</source>
         <translation>5x7 inch</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.cpp" line="407"/>
+        <location filename="DlgContactSheet.cpp" line="402"/>
         <source>6x8 inch</source>
         <translation>6x8 inch</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.cpp" line="409"/>
+        <location filename="DlgContactSheet.cpp" line="404"/>
         <source>8x10 inch</source>
         <translation>8x10 inch</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.cpp" line="411"/>
+        <location filename="DlgContactSheet.cpp" line="406"/>
         <source>9x12 inch</source>
         <translation>9x12 inch</translation>
     </message>
     <message>
-        <location filename="DlgContactSheet.cpp" line="413"/>
+        <location filename="DlgContactSheet.cpp" line="408"/>
         <source>11x14 inch</source>
         <translation>9x12 inch</translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgContactSheet.cpp" line="462"/>
+        <location filename="DlgContactSheet.cpp" line="456"/>
         <source>File list (%n)</source>
         <translation type="unfinished">
             <numerusform></numerusform>
@@ -5868,12 +5878,12 @@ Devam etmek istiyor musun?</translation>
         <translation>Sadece JPEG, TIFF, PNG Formatlarıyla Çalışır</translation>
     </message>
     <message>
-        <location filename="DlgConvertIptc.h" line="236"/>
+        <location filename="DlgConvertIptc.h" line="243"/>
         <source>Insert</source>
         <translation type="unfinished">Ekle</translation>
     </message>
     <message>
-        <location filename="DlgConvertIptc.h" line="243"/>
+        <location filename="DlgConvertIptc.h" line="250"/>
         <source>Insert from</source>
         <translation>Şuradan ekle</translation>
     </message>
@@ -7147,23 +7157,23 @@ Devam etmek istiyor musun?</translation>
         <translation>Ayarlar...</translation>
     </message>
     <message>
-        <location filename="DlgCreateMulti.cpp" line="125"/>
+        <location filename="DlgCreateMulti.cpp" line="123"/>
         <source>Creating multipage file, please wait...</source>
         <oldsource>Create multipage file, please wait...</oldsource>
         <translation>Çoklu sayfa dosyası oluşturma, lütfen bekleyin...</translation>
     </message>
     <message>
-        <location filename="DlgCreateMulti.cpp" line="128"/>
+        <location filename="DlgCreateMulti.cpp" line="126"/>
         <source>Problem</source>
         <translation>Problem</translation>
     </message>
     <message>
-        <location filename="DlgCreateMulti.cpp" line="128"/>
+        <location filename="DlgCreateMulti.cpp" line="126"/>
         <source>An error occurred in multipage creating process!</source>
         <translation>Çoklu sayfa oluşturma işleminde bir hata oluştu!</translation>
     </message>
     <message>
-        <location filename="DlgCreateMulti.cpp" line="160"/>
+        <location filename="DlgCreateMulti.cpp" line="158"/>
         <source>Loading file(s). Please wait...</source>
         <oldsource>Load file(s), please wait... </oldsource>
         <translation>Dosya(lar) yükleniyor. Lütfen bekleyin...</translation>
@@ -7296,7 +7306,7 @@ Devam etmek istiyor musun?</translation>
         <translation>Sahipsiz dosyalar için verileri kaldır</translation>
     </message>
     <message>
-        <location filename="DlgDBClean.cpp" line="23"/>
+        <location filename="DlgDBClean.cpp" line="18"/>
         <source>Run</source>
         <translation>Calıştır</translation>
     </message>
@@ -7550,7 +7560,7 @@ Devam etmek istiyor musun?</translation>
         <translation>Hepsini Yaz</translation>
     </message>
     <message>
-        <location filename="DlgEditGps.cpp" line="34"/>
+        <location filename="DlgEditGps.cpp" line="30"/>
         <source>ExifTool is not installed in AddOn folder!</source>
         <oldsource>ExifTool is not installed in Addon folder!</oldsource>
         <translation>ExifTool Eklenti (AddOn) klasörüne kurulmamıştır!</translation>
@@ -7595,49 +7605,49 @@ Devam etmek istiyor musun?</translation>
         <translation>Alan değerleri yükleme</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="43"/>
+        <location filename="DlgEditXMP.cpp" line="42"/>
         <source>Write &amp;to all files</source>
         <oldsource>Write to all files</oldsource>
         <translation type="unfinished">Bütün dosyalara yaz</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="44"/>
+        <location filename="DlgEditXMP.cpp" line="43"/>
         <source>&amp;Write</source>
         <oldsource>Write</oldsource>
         <translation type="unfinished">Yaz</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="45"/>
+        <location filename="DlgEditXMP.cpp" line="44"/>
         <source>&amp;Apply</source>
         <oldsource>Apply</oldsource>
         <translation type="unfinished">Uygula</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="143"/>
+        <location filename="DlgEditXMP.cpp" line="142"/>
         <source>Field values are not loaded because &apos;Do not load field values&apos; is checked</source>
         <translation>&apos;Alan değerlerini yükleme&apos; işaretlendiği için alan değerleri yüklenmez</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="258"/>
+        <location filename="DlgEditXMP.cpp" line="257"/>
         <source>IPTC data has changed.
 Do you want to save your changes?</source>
         <translation>IPTC verisi değiştirildi.
 Değişiklikleri kaydetmek istiyor musunuz?</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="399"/>
+        <location filename="DlgEditXMP.cpp" line="398"/>
         <source>Enter a template name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="399"/>
+        <location filename="DlgEditXMP.cpp" line="398"/>
         <source>Template name:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="453"/>
-        <location filename="DlgEditXMP.cpp" line="488"/>
-        <location filename="DlgEditXMP.cpp" line="513"/>
+        <location filename="DlgEditXMP.cpp" line="452"/>
+        <location filename="DlgEditXMP.cpp" line="487"/>
+        <location filename="DlgEditXMP.cpp" line="512"/>
         <source>An error has occurred during processing. 
 Please make sure that files are not read-only!</source>
         <oldsource>An error occured during processing. 
@@ -7645,8 +7655,8 @@ Please make sure that files are not read-only!</oldsource>
         <translation type="unfinished">İşlem sırasında bir hata oluştu. Lütfen dosyaların salt okunur olup olmadığını kontrol edin!</translation>
     </message>
     <message>
-        <location filename="DlgEditXMP.cpp" line="485"/>
-        <location filename="DlgEditXMP.cpp" line="510"/>
+        <location filename="DlgEditXMP.cpp" line="484"/>
+        <location filename="DlgEditXMP.cpp" line="509"/>
         <source>Modifying files, please wait...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7887,100 +7897,100 @@ Please make sure that files are not read-only!</oldsource>
 <context>
     <name>DlgExport</name>
     <message>
-        <location filename="DlgExport.cpp" line="202"/>
+        <location filename="DlgExport.cpp" line="200"/>
         <source>Problem</source>
         <translation>Problem</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="203"/>
+        <location filename="DlgExport.cpp" line="201"/>
         <source>This is not an image file</source>
         <oldsource>This is not a picture file</oldsource>
         <translation type="unfinished">Bu bir resim dosyası değil</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="315"/>
+        <location filename="DlgExport.cpp" line="313"/>
         <source>Black&amp;White</source>
         <translation>Siyah&amp;Beyaz</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="317"/>
+        <location filename="DlgExport.cpp" line="315"/>
         <source>8 colors</source>
         <translation>8 Renk</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="319"/>
+        <location filename="DlgExport.cpp" line="317"/>
         <source>16 colors</source>
         <translation>16 Renk</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="321"/>
+        <location filename="DlgExport.cpp" line="319"/>
         <source>32 colors</source>
         <translation>32 Renk</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="323"/>
+        <location filename="DlgExport.cpp" line="321"/>
         <source>64 colors</source>
         <translation>64 Renk</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="325"/>
+        <location filename="DlgExport.cpp" line="323"/>
         <source>128 colors</source>
         <translation>128 Renk</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="327"/>
+        <location filename="DlgExport.cpp" line="325"/>
         <source>256 colors</source>
         <translation>256 Renk</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="329"/>
+        <location filename="DlgExport.cpp" line="327"/>
         <source>Greyscale</source>
         <translation>Gri Tonlu</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="332"/>
+        <location filename="DlgExport.cpp" line="330"/>
         <source>16m</source>
         <translation>16m</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="350"/>
+        <location filename="DlgExport.cpp" line="348"/>
         <source>None</source>
         <translation>Hiçbiri</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="350"/>
-        <location filename="DlgExport.cpp" line="359"/>
+        <location filename="DlgExport.cpp" line="348"/>
+        <location filename="DlgExport.cpp" line="357"/>
         <source>Pattern</source>
         <translation>Desen</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="350"/>
-        <location filename="DlgExport.cpp" line="359"/>
+        <location filename="DlgExport.cpp" line="348"/>
+        <location filename="DlgExport.cpp" line="357"/>
         <source>Floyd-Steinberg</source>
         <translation>Floyd-Steinberg</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="350"/>
+        <location filename="DlgExport.cpp" line="348"/>
         <source>Halftone 45</source>
         <translation>Yarım ton 45</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="350"/>
+        <location filename="DlgExport.cpp" line="348"/>
         <source>Halftone 90</source>
         <translation>Yarım ton 90</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="359"/>
+        <location filename="DlgExport.cpp" line="357"/>
         <source>Adaptive</source>
         <translation>Adaptif</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="621"/>
+        <location filename="DlgExport.cpp" line="619"/>
         <source>Images</source>
         <translation>Resimler</translation>
     </message>
     <message>
-        <location filename="DlgExport.cpp" line="640"/>
+        <location filename="DlgExport.cpp" line="638"/>
         <source>Save File</source>
         <translation>Dosyayı Kaydet</translation>
     </message>
@@ -8009,7 +8019,7 @@ Please make sure that files are not read-only!</oldsource>
         <translation>Katalogdan tüm dosyaları dışarı aktar</translation>
     </message>
     <message>
-        <location filename="DlgExportCatalog.h" line="37"/>
+        <location filename="DlgExportCatalog.h" line="35"/>
         <source>Categories file</source>
         <translation>Kategori dosyası</translation>
     </message>
@@ -8170,32 +8180,32 @@ Please make sure that files are not read-only!</oldsource>
 <context>
     <name>DlgFile</name>
     <message>
-        <location filename="DlgFile.cpp" line="63"/>
+        <location filename="DlgFile.cpp" line="60"/>
         <source>Folder doesn&apos;t exist</source>
         <translation>Klasör bulunamadı</translation>
     </message>
     <message>
-        <location filename="DlgFile.cpp" line="64"/>
+        <location filename="DlgFile.cpp" line="61"/>
         <source>Do you want to create this folder?</source>
         <translation>Bu klasörü oluşturmak ister misiniz?</translation>
     </message>
     <message>
-        <location filename="DlgFile.cpp" line="97"/>
+        <location filename="DlgFile.cpp" line="93"/>
         <source>Copy to</source>
         <translation>Buraya Kopyala</translation>
     </message>
     <message>
-        <location filename="DlgFile.cpp" line="98"/>
+        <location filename="DlgFile.cpp" line="94"/>
         <source>Copy</source>
         <translation>Kopyala</translation>
     </message>
     <message>
-        <location filename="DlgFile.cpp" line="102"/>
+        <location filename="DlgFile.cpp" line="98"/>
         <source>Move to</source>
         <translation>Buraya Taşı</translation>
     </message>
     <message>
-        <location filename="DlgFile.cpp" line="103"/>
+        <location filename="DlgFile.cpp" line="99"/>
         <source>Move</source>
         <translation>Taşı</translation>
     </message>
@@ -8240,14 +8250,14 @@ Please make sure that files are not read-only!</oldsource>
         <translation>XnViewMP İlişkilendirmeyi Kaldır</translation>
     </message>
     <message>
-        <location filename="DlgFileAssociation.cpp" line="111"/>
+        <location filename="DlgFileAssociation.cpp" line="107"/>
         <source>Problem to change file association. 
 Please try to start with admin rights.</source>
         <translation type="unfinished">Dosya ilişkilendirme işleminde hata oluştu.
 Lütfen yönetici yetkileri ile başlatarak tekrar deneyin.</translation>
     </message>
     <message>
-        <location filename="DlgFileAssociation.cpp" line="138"/>
+        <location filename="DlgFileAssociation.cpp" line="136"/>
         <source>Problem to change file association. Please try to start with admin rights.</source>
         <translation>Dosya ilişkilendirme işleminde hata oluştu. Lütfen yönetici yetkileri ile başlatarak tekrar deneyin.</translation>
     </message>
@@ -8323,27 +8333,27 @@ Lütfen yönetici yetkileri ile başlatarak tekrar deneyin.</translation>
         <translation>Dosyaya ekle</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.cpp" line="40"/>
+        <location filename="DlgFileListing.cpp" line="36"/>
         <source>Current columns</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgFileListing.cpp" line="132"/>
+        <location filename="DlgFileListing.cpp" line="128"/>
         <source>Preview</source>
         <translation>Önizleme</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.cpp" line="134"/>
+        <location filename="DlgFileListing.cpp" line="130"/>
         <source>Copy to Clipboard</source>
         <translation>Panoya Kopyala</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.cpp" line="137"/>
+        <location filename="DlgFileListing.cpp" line="133"/>
         <source>Save as...</source>
         <translation>Farklı Kaydet...</translation>
     </message>
     <message>
-        <location filename="DlgFileListing.cpp" line="183"/>
+        <location filename="DlgFileListing.cpp" line="179"/>
         <source>Export file listing</source>
         <translation>Dosya Listesini Çıkart</translation>
     </message>
@@ -8424,7 +8434,7 @@ Lütfen yönetici yetkileri ile başlatarak tekrar deneyin.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgFileReplace.cpp" line="123"/>
+        <location filename="DlgFileReplace.cpp" line="118"/>
         <source>Skip</source>
         <translation>Atla</translation>
     </message>
@@ -8440,29 +8450,29 @@ Lütfen yönetici yetkileri ile başlatarak tekrar deneyin.</translation>
         <translation>İptal</translation>
     </message>
     <message>
-        <location filename="DlgFileReplace.cpp" line="119"/>
+        <location filename="DlgFileReplace.cpp" line="114"/>
         <source>Folder conflict</source>
         <translation>Klasör çakışma</translation>
     </message>
     <message>
-        <location filename="DlgFileReplace.cpp" line="121"/>
+        <location filename="DlgFileReplace.cpp" line="116"/>
         <source>The destination contains already a folder with same name, what do you want to do?</source>
         <translation>Hedef dizinde aynı isimde bir klasör zaten mevcut, ne yapmak istersiniz?</translation>
     </message>
     <message>
-        <location filename="DlgFileReplace.cpp" line="124"/>
+        <location filename="DlgFileReplace.cpp" line="119"/>
         <source>Overwrite</source>
         <translation>Üzerine Yaz</translation>
     </message>
     <message>
-        <location filename="DlgFileReplace.cpp" line="228"/>
-        <location filename="DlgFileReplace.cpp" line="241"/>
+        <location filename="DlgFileReplace.cpp" line="223"/>
+        <location filename="DlgFileReplace.cpp" line="236"/>
         <source>Delete file</source>
         <translation>Dosya Sil</translation>
     </message>
     <message>
-        <location filename="DlgFileReplace.cpp" line="228"/>
-        <location filename="DlgFileReplace.cpp" line="241"/>
+        <location filename="DlgFileReplace.cpp" line="223"/>
+        <location filename="DlgFileReplace.cpp" line="236"/>
         <source>Are you sure to delete this file?</source>
         <translation>Bu dosyayı silmek istiyor musunuz?</translation>
     </message>
@@ -8496,17 +8506,17 @@ Lütfen yönetici yetkileri ile başlatarak tekrar deneyin.</translation>
 <context>
     <name>DlgFilterPanel</name>
     <message>
-        <location filename="DlgFilter.cpp" line="96"/>
+        <location filename="DlgFilter.cpp" line="101"/>
         <source>Map</source>
         <translation type="unfinished">Harita</translation>
     </message>
     <message>
-        <location filename="DlgFilter.cpp" line="97"/>
+        <location filename="DlgFilter.cpp" line="102"/>
         <source>Filter</source>
         <translation type="unfinished">Filtre</translation>
     </message>
     <message>
-        <location filename="DlgFilter.cpp" line="98"/>
+        <location filename="DlgFilter.cpp" line="103"/>
         <source>Misc</source>
         <translation type="unfinished">Genel</translation>
     </message>
@@ -8537,87 +8547,87 @@ Lütfen yönetici yetkileri ile başlatarak tekrar deneyin.</translation>
 <context>
     <name>DlgFtp</name>
     <message>
-        <location filename="DlgFtp.cpp" line="248"/>
+        <location filename="DlgFtp.cpp" line="243"/>
         <source>Upload</source>
         <translation>Yükle</translation>
     </message>
     <message>
-        <location filename="DlgFtp.cpp" line="244"/>
+        <location filename="DlgFtp.cpp" line="239"/>
         <source>Abort</source>
         <translation>İptal</translation>
     </message>
     <message>
-        <location filename="DlgFtp.cpp" line="246"/>
+        <location filename="DlgFtp.cpp" line="241"/>
         <source>Retry</source>
         <translation type="unfinished">Yeniden Dene</translation>
     </message>
     <message>
-        <location filename="DlgFtp.cpp" line="440"/>
+        <location filename="DlgFtp.cpp" line="433"/>
         <source>Connecting to FTP server %1...</source>
         <translation>%1 FTP Sunucusuna bağlanılıyor...</translation>
     </message>
     <message>
-        <location filename="DlgFtp.cpp" line="505"/>
-        <location filename="DlgFtp.cpp" line="515"/>
-        <location filename="DlgFtp.cpp" line="546"/>
-        <location filename="DlgFtp.cpp" line="570"/>
-        <location filename="DlgFtp.cpp" line="583"/>
-        <location filename="DlgFtp.cpp" line="614"/>
+        <location filename="DlgFtp.cpp" line="498"/>
+        <location filename="DlgFtp.cpp" line="508"/>
+        <location filename="DlgFtp.cpp" line="539"/>
+        <location filename="DlgFtp.cpp" line="561"/>
+        <location filename="DlgFtp.cpp" line="574"/>
+        <location filename="DlgFtp.cpp" line="605"/>
         <source>FTP</source>
         <translation>FTP</translation>
     </message>
     <message>
-        <location filename="DlgFtp.cpp" line="506"/>
+        <location filename="DlgFtp.cpp" line="499"/>
         <source>The file called %1 already exists.</source>
         <translation>%1 dosyası zaten mevcut.</translation>
     </message>
     <message>
-        <location filename="DlgFtp.cpp" line="516"/>
+        <location filename="DlgFtp.cpp" line="509"/>
         <source>The file called %1 doesn&apos;t exist.</source>
         <translation>%1 dosyası mevcut değil.</translation>
     </message>
     <message>
-        <location filename="DlgFtp.cpp" line="547"/>
+        <location filename="DlgFtp.cpp" line="540"/>
         <source>Unable to load the file %1: %2.</source>
         <translation>%1 dosyası yüklenemedi: %2.</translation>
     </message>
     <message>
-        <location filename="DlgFtp.cpp" line="556"/>
+        <location filename="DlgFtp.cpp" line="549"/>
         <source>Uploading...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgFtp.cpp" line="594"/>
+        <location filename="DlgFtp.cpp" line="585"/>
         <source>Upload canceled</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgFtp.cpp" line="600"/>
+        <location filename="DlgFtp.cpp" line="591"/>
         <source>Uploaded</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgFtp.cpp" line="619"/>
+        <location filename="DlgFtp.cpp" line="610"/>
         <source>Directory changed to %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgFtp.cpp" line="570"/>
+        <location filename="DlgFtp.cpp" line="561"/>
         <source>Unable to connect to the FTP server at %1. Please check that the host name is correct.</source>
         <translation>%1 adresindeki FTP sunucusuna bağlanılamadı. Lütfen sunucu adresini kontrol edin.</translation>
     </message>
     <message>
-        <location filename="DlgFtp.cpp" line="575"/>
+        <location filename="DlgFtp.cpp" line="566"/>
         <source>Logged onto %1.</source>
         <translation>%1 Giriş Yapıldı.</translation>
     </message>
     <message>
-        <location filename="DlgFtp.cpp" line="583"/>
+        <location filename="DlgFtp.cpp" line="574"/>
         <source>Unable to connect to the FTP server at %1. Please check if the username and password is correct.</source>
         <translation>%1 daki FTP sunucusuna bağlanılamadı. Lütfen kullanıcı adı ve şifresini kontrol edin.</translation>
     </message>
     <message>
-        <location filename="DlgFtp.cpp" line="614"/>
+        <location filename="DlgFtp.cpp" line="605"/>
         <source>Unable to go to folder %1</source>
         <translation>%1 Klasörüne Ulaşılamadı</translation>
     </message>
@@ -8693,63 +8703,63 @@ Lütfen yönetici yetkileri ile başlatarak tekrar deneyin.</translation>
 <context>
     <name>DlgFtpUpload</name>
     <message>
-        <location filename="DlgFtp.h" line="101"/>
+        <location filename="DlgFtp.h" line="100"/>
         <source>Abort</source>
         <translation>İptal</translation>
     </message>
     <message>
-        <location filename="DlgFtp.h" line="210"/>
+        <location filename="DlgFtp.h" line="206"/>
         <source>Aborted.</source>
         <oldsource>Aborted...</oldsource>
         <translation>İptal edildi.</translation>
     </message>
     <message>
-        <location filename="DlgFtp.h" line="241"/>
+        <location filename="DlgFtp.h" line="237"/>
         <source>Uploading: </source>
         <translation>Yükleniyor: </translation>
     </message>
     <message>
-        <location filename="DlgFtp.h" line="248"/>
-        <location filename="DlgFtp.h" line="258"/>
-        <location filename="DlgFtp.h" line="268"/>
-        <location filename="DlgFtp.h" line="311"/>
-        <location filename="DlgFtp.h" line="323"/>
-        <location filename="DlgFtp.h" line="369"/>
+        <location filename="DlgFtp.h" line="244"/>
+        <location filename="DlgFtp.h" line="254"/>
+        <location filename="DlgFtp.h" line="264"/>
+        <location filename="DlgFtp.h" line="305"/>
+        <location filename="DlgFtp.h" line="317"/>
+        <location filename="DlgFtp.h" line="363"/>
         <source>FTP</source>
         <translation>FTP</translation>
     </message>
     <message>
-        <location filename="DlgFtp.h" line="249"/>
+        <location filename="DlgFtp.h" line="245"/>
         <source>The file called %1 already exists.</source>
         <translation>%1 dosyası zaten mevcut.</translation>
     </message>
     <message>
-        <location filename="DlgFtp.h" line="259"/>
+        <location filename="DlgFtp.h" line="255"/>
         <source>The file called %1 doesn&apos;t exist.</source>
         <translation>%1 dosyası mevcut değil.</translation>
     </message>
     <message>
-        <location filename="DlgFtp.h" line="269"/>
+        <location filename="DlgFtp.h" line="265"/>
         <source>Unable to load the file %1: %2.</source>
         <translation>%1 dosyası yüklenemedi: %2.</translation>
     </message>
     <message>
-        <location filename="DlgFtp.h" line="311"/>
+        <location filename="DlgFtp.h" line="305"/>
         <source>Unable to connect to the FTP server at %1. Please check that the host name is correct.</source>
         <translation>%1 adresindeki FTP sunucusuna bağlanılamadı. Lütfen sunucu adresini kontrol edin.</translation>
     </message>
     <message>
-        <location filename="DlgFtp.h" line="323"/>
+        <location filename="DlgFtp.h" line="317"/>
         <source>Unable to connect to the FTP server at %1. Please check if the username and password is correct.</source>
         <translation>%1 adresindeki FTP sunucusuna bağlanılamadı. Lütfen kullanıcı adı ve şifresini kontrol edin.</translation>
     </message>
     <message>
-        <location filename="DlgFtp.h" line="328"/>
+        <location filename="DlgFtp.h" line="322"/>
         <source>Logged onto %1.</source>
         <translation>%1 Giriş Yapıldı.</translation>
     </message>
     <message>
-        <location filename="DlgFtp.h" line="369"/>
+        <location filename="DlgFtp.h" line="363"/>
         <source>Unable to go to folder %1</source>
         <translation>%1 Klasörüne Ulaşılamadı</translation>
     </message>
@@ -8780,7 +8790,7 @@ Lütfen yönetici yetkileri ile başlatarak tekrar deneyin.</translation>
 <context>
     <name>DlgGrid</name>
     <message>
-        <location filename="DlgGrid.cpp" line="27"/>
+        <location filename="DlgGrid.cpp" line="28"/>
         <source>None</source>
         <translation>Hiçbiri</translation>
     </message>
@@ -8931,7 +8941,7 @@ Lütfen yönetici yetkileri ile başlatarak tekrar deneyin.</translation>
         <translation>Kaldır</translation>
     </message>
     <message>
-        <location filename="DlgHotFolder.h" line="83"/>
+        <location filename="DlgHotFolder.h" line="73"/>
         <source>Choose a directory</source>
         <translation>Bir Dizin Seçin</translation>
     </message>
@@ -9070,55 +9080,55 @@ Alt dizinler oluşturulacak. </translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="205"/>
-        <location filename="DlgImport.cpp" line="243"/>
+        <location filename="DlgImport.cpp" line="240"/>
         <source>Output folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgImport.cpp" line="226"/>
+        <location filename="DlgImport.cpp" line="223"/>
         <source>Open Metadata Template</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgImport.cpp" line="243"/>
+        <location filename="DlgImport.cpp" line="240"/>
         <source>Import can&apos;t be done, source and destination folder is the same!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgImport.cpp" line="264"/>
-        <location filename="DlgImport.cpp" line="280"/>
+        <location filename="DlgImport.cpp" line="261"/>
+        <location filename="DlgImport.cpp" line="277"/>
         <source>Import</source>
         <translation>İçeri aktar</translation>
     </message>
     <message>
-        <location filename="DlgImport.cpp" line="264"/>
+        <location filename="DlgImport.cpp" line="261"/>
         <source>No files to import!</source>
         <translation>İçeri aktarma için herhangi bir dosya bulunamadı!</translation>
     </message>
     <message>
-        <location filename="DlgImport.cpp" line="280"/>
+        <location filename="DlgImport.cpp" line="277"/>
         <source>Files import finished!</source>
         <translation>Dosyaları içeri aktarma bitmiştir!</translation>
     </message>
     <message>
-        <location filename="DlgImport.cpp" line="351"/>
+        <location filename="DlgImport.cpp" line="347"/>
         <source>No action</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgImport.cpp" line="354"/>
+        <location filename="DlgImport.cpp" line="350"/>
         <source>Write to embedded metadata (JPEG/TIFF/PNG)</source>
         <oldsource>Update embedded metadata (JPEG/TIFF/PNG)</oldsource>
         <translation>Gömülmüş meta verileri yaz (JPEG/TIFF/PNG)</translation>
     </message>
     <message>
-        <location filename="DlgImport.cpp" line="357"/>
+        <location filename="DlgImport.cpp" line="353"/>
         <source>Write to embedded metadata (JPEG/TIFF/PNG) and create XMP sidecar (others)</source>
         <oldsource>Update embedded metadata (JPEG/TIFF/PNG) and sidecar (others)</oldsource>
         <translation>Gömülü meta verileri yaz (JPEG/TIFF/PNG) ve XMP sepeti (diğerleri) oluştur</translation>
     </message>
     <message>
-        <location filename="DlgImport.cpp" line="360"/>
+        <location filename="DlgImport.cpp" line="356"/>
         <source>Create XMP sidecar for all files</source>
         <translation>Bütün dosyalar için XMP sepeti oluştur</translation>
     </message>
@@ -9126,12 +9136,12 @@ Alt dizinler oluşturulacak. </translation>
 <context>
     <name>DlgImportThread</name>
     <message>
-        <location filename="DlgImportThread.h" line="94"/>
+        <location filename="DlgImportThread.h" line="93"/>
         <source>Abort</source>
         <translation>İptal</translation>
     </message>
     <message>
-        <location filename="DlgImportThread.h" line="95"/>
+        <location filename="DlgImportThread.h" line="94"/>
         <source>Import and sort files...</source>
         <translation>Al ve Dosyaları Sırala...</translation>
     </message>
@@ -9139,160 +9149,160 @@ Alt dizinler oluşturulacak. </translation>
 <context>
     <name>DlgIptc</name>
     <message>
-        <location filename="DlgIptc.cpp" line="50"/>
+        <location filename="DlgIptc.cpp" line="48"/>
         <source>Write &amp;to all files</source>
         <oldsource>Write to all files</oldsource>
         <translation type="unfinished">Bütün dosyalara yaz</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="51"/>
+        <location filename="DlgIptc.cpp" line="49"/>
         <source>&amp;Write</source>
         <oldsource>Write</oldsource>
         <translation type="unfinished">Yaz</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="178"/>
+        <location filename="DlgIptc.cpp" line="176"/>
         <source>0: None</source>
         <translation>0: Hiçbiri</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="178"/>
+        <location filename="DlgIptc.cpp" line="176"/>
         <source>1: High</source>
         <translation>1: Yüksek</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="179"/>
+        <location filename="DlgIptc.cpp" line="177"/>
         <source>5: Normal</source>
         <translation>5: Normal</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="179"/>
+        <location filename="DlgIptc.cpp" line="177"/>
         <source>8: Low</source>
         <translation>8: Düşük</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="180"/>
+        <location filename="DlgIptc.cpp" line="178"/>
         <source>a: Morning</source>
         <translation>a: Sabah</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="180"/>
+        <location filename="DlgIptc.cpp" line="178"/>
         <source>b: Afternoon</source>
         <translation>b: Öğle</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="180"/>
+        <location filename="DlgIptc.cpp" line="178"/>
         <source>c: Evening</source>
         <translation>c: Akşam</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="219"/>
+        <location filename="DlgIptc.cpp" line="217"/>
         <source>File created date/time</source>
         <translation>Dosya oluşturulma tarihi/zamanı</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="219"/>
+        <location filename="DlgIptc.cpp" line="217"/>
         <source>File modified date/time</source>
         <translation>Dosya değiştirilme tarihi/zamanı</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="220"/>
+        <location filename="DlgIptc.cpp" line="218"/>
         <source>EXIF date/time taken (if exists)</source>
         <translation>Alınan EXIF tarih/zamanı (varsa)</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="220"/>
+        <location filename="DlgIptc.cpp" line="218"/>
         <source>EXIF date/time digitized (if exists)</source>
         <translation>Sayısallaştırılan EXIF tarih/zamanı (varsa)</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="220"/>
+        <location filename="DlgIptc.cpp" line="218"/>
         <source>EXIF date/time modified (if exists)</source>
         <translation>Değiştirilen EXIF tarih/zamanı (varsa)</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="327"/>
+        <location filename="DlgIptc.cpp" line="324"/>
         <source>If you want to edit XMP metadata, please check the new &apos;Edit XMP&apos; dialog. </source>
         <translation>XMP meta verilerini düzenlemek istiyorsanız, lütfen yeni &apos;XMP&apos;yi Düzenle&apos; iletişim kutusunu kontrol edin. </translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="371"/>
+        <location filename="DlgIptc.cpp" line="368"/>
         <source>Field values are not loaded because &apos;Do not load field values&apos; is checked</source>
         <translation>Alan değerleri yüklenemedi çünkü &apos;Alan değerleri yüklenmez&apos; olarak işaretlenmiştir</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="1720"/>
-        <location filename="DlgIptc.cpp" line="1766"/>
+        <location filename="DlgIptc.cpp" line="1717"/>
+        <location filename="DlgIptc.cpp" line="1763"/>
         <source>Modifying files, please wait...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="52"/>
+        <location filename="DlgIptc.cpp" line="50"/>
         <source>&amp;Apply</source>
         <oldsource>Apply</oldsource>
         <translation type="unfinished">Uygula</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="908"/>
+        <location filename="DlgIptc.cpp" line="905"/>
         <source>IPTC data has changed.
 Do you want to save your changes?</source>
         <translation>IPTC verisi değiştirildi.
 Değişiklikleri kaydetmek istiyor musunuz?</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="928"/>
+        <location filename="DlgIptc.cpp" line="925"/>
         <source>IPTC has changed</source>
         <translation>IPTC değişti</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="929"/>
+        <location filename="DlgIptc.cpp" line="926"/>
         <source>Do you want to save your changes?</source>
         <translation>Değişiklikleri kaydetmek istiyor musunuz?</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="1050"/>
+        <location filename="DlgIptc.cpp" line="1047"/>
         <source>Insert</source>
         <translation>Ekle</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="1062"/>
+        <location filename="DlgIptc.cpp" line="1059"/>
         <source>Insert from</source>
         <translation>Şuradan ekle</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="1087"/>
+        <location filename="DlgIptc.cpp" line="1084"/>
         <source>Copy into</source>
         <translation>İçine kopyala</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="1110"/>
+        <location filename="DlgIptc.cpp" line="1107"/>
         <source>Library</source>
         <translation>Kütüphâne</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="1116"/>
+        <location filename="DlgIptc.cpp" line="1113"/>
         <source>Edit history...</source>
         <translation>Geçmişi düzenle...</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="1117"/>
+        <location filename="DlgIptc.cpp" line="1114"/>
         <source>Sort alphabetically</source>
         <translation>Alfabetik olarak sırala</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="1598"/>
+        <location filename="DlgIptc.cpp" line="1595"/>
         <source>Required field</source>
         <translation type="unfinished">Zorunlu alan</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="1598"/>
+        <location filename="DlgIptc.cpp" line="1595"/>
         <source>Some fields are required, please fill them!</source>
         <translation>Bazı alanlar zorunludur, lütfen doldurun!</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="1669"/>
-        <location filename="DlgIptc.cpp" line="1723"/>
-        <location filename="DlgIptc.cpp" line="1769"/>
+        <location filename="DlgIptc.cpp" line="1666"/>
+        <location filename="DlgIptc.cpp" line="1720"/>
+        <location filename="DlgIptc.cpp" line="1766"/>
         <source>An error has occurred during processing. 
 Please make sure that files are not read-only!</source>
         <oldsource>An error occured during processing. 
@@ -9300,7 +9310,7 @@ Please make sure that files are not read-only!</oldsource>
         <translation type="unfinished">İşlem sırasında oluşun bir hata oluştu. Lütfen dosyaların salt okunur olup olmadığını kontrol edin!</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="1690"/>
+        <location filename="DlgIptc.cpp" line="1687"/>
         <source>Are you sure to overwrite IPTC/XMP data for ALL files with the current values of the fields?</source>
         <translation>Alanların geçerli değerler ile TÜM dosyalar için IPTC/XMP verilerini üzerine yazmak istiyor musunuz?</translation>
     </message>
@@ -9529,16 +9539,16 @@ Please make sure that files are not read-only!</oldsource>
         <translation>Verileri birleştir</translation>
     </message>
     <message>
-        <location filename="DlgIptcTemplate.cpp" line="38"/>
-        <location filename="DlgIptcTemplate.cpp" line="40"/>
-        <location filename="DlgIptcTemplate.cpp" line="103"/>
+        <location filename="DlgIptcTemplate.cpp" line="34"/>
+        <location filename="DlgIptcTemplate.cpp" line="36"/>
+        <location filename="DlgIptcTemplate.cpp" line="99"/>
         <source>XMP file</source>
         <translation>XMP doslası</translation>
     </message>
     <message>
-        <location filename="DlgIptcTemplate.cpp" line="45"/>
-        <location filename="DlgIptcTemplate.cpp" line="47"/>
-        <location filename="DlgIptcTemplate.cpp" line="103"/>
+        <location filename="DlgIptcTemplate.cpp" line="41"/>
+        <location filename="DlgIptcTemplate.cpp" line="43"/>
+        <location filename="DlgIptcTemplate.cpp" line="99"/>
         <source>IPTC file</source>
         <translation>IPTC dosyası</translation>
     </message>
@@ -9577,12 +9587,12 @@ Please make sure that files are not read-only!</oldsource>
         <translation>Dışa aktarma yapma</translation>
     </message>
     <message>
-        <location filename="DlgKeywordProperties.cpp" line="43"/>
+        <location filename="DlgKeywordProperties.cpp" line="39"/>
         <source>Parent category</source>
         <translation>Ana Kategori</translation>
     </message>
     <message>
-        <location filename="DlgKeywordProperties.cpp" line="43"/>
+        <location filename="DlgKeywordProperties.cpp" line="39"/>
         <source>This parent is already a child of current category!</source>
         <translation>Bu ana kategori zaten mevcut kategorinin altında yer alıyor!</translation>
     </message>
@@ -9795,22 +9805,22 @@ Please make sure that files are not read-only!</oldsource>
         <translation>Kaydet...</translation>
     </message>
     <message>
-        <location filename="DlgPalette.cpp" line="384"/>
-        <location filename="DlgPalette.cpp" line="395"/>
-        <location filename="DlgPalette.cpp" line="420"/>
+        <location filename="DlgPalette.cpp" line="380"/>
+        <location filename="DlgPalette.cpp" line="391"/>
+        <location filename="DlgPalette.cpp" line="416"/>
         <source>Index: %1</source>
         <translation>İndeks: %1</translation>
     </message>
     <message>
-        <location filename="DlgPalette.cpp" line="385"/>
-        <location filename="DlgPalette.cpp" line="396"/>
-        <location filename="DlgPalette.cpp" line="421"/>
+        <location filename="DlgPalette.cpp" line="381"/>
+        <location filename="DlgPalette.cpp" line="392"/>
+        <location filename="DlgPalette.cpp" line="417"/>
         <source>RGB: %1 %2 %3</source>
         <translation>RGB: %1 %2 %3</translation>
     </message>
     <message>
-        <location filename="DlgPalette.cpp" line="437"/>
-        <location filename="DlgPalette.cpp" line="450"/>
+        <location filename="DlgPalette.cpp" line="433"/>
+        <location filename="DlgPalette.cpp" line="446"/>
         <source>Choose Palette file</source>
         <translation>Palet dosyasını seç</translation>
     </message>
@@ -10238,27 +10248,27 @@ Please make sure that files are not read-only!</oldsource>
         <translation>Sayfa Ayarları...</translation>
     </message>
     <message>
-        <location filename="DlgPrint.cpp" line="1615"/>
+        <location filename="DlgPrint.cpp" line="1607"/>
         <source>Page %1/%2</source>
         <translation>Sayfa %1/%2</translation>
     </message>
     <message>
-        <location filename="DlgPrint.cpp" line="1619"/>
+        <location filename="DlgPrint.cpp" line="1611"/>
         <source>Page size: %1x%2 inches, %3x%4 mm</source>
         <translation>Sayfa Boyutu: %1x%2 inç, %3x%4 mm</translation>
     </message>
     <message>
-        <location filename="DlgPrint.cpp" line="1627"/>
+        <location filename="DlgPrint.cpp" line="1619"/>
         <source>Page number</source>
         <translation>Sayfa Numarası</translation>
     </message>
     <message>
-        <location filename="DlgPrint.cpp" line="1629"/>
+        <location filename="DlgPrint.cpp" line="1621"/>
         <source>Page count</source>
         <translation>Sayfa Sayısı</translation>
     </message>
     <message>
-        <location filename="DlgPrint.cpp" line="1631"/>
+        <location filename="DlgPrint.cpp" line="1623"/>
         <source>Current date</source>
         <translation>Mevcut Tarih</translation>
     </message>
@@ -10286,12 +10296,12 @@ Please make sure that files are not read-only!</oldsource>
         <translation>En iyi sığdırma</translation>
     </message>
     <message>
-        <location filename="DlgProcess.cpp" line="321"/>
+        <location filename="DlgProcess.cpp" line="292"/>
         <source>&lt;Last Used&gt;</source>
         <translation>&lt;Son Kullanılan&gt;</translation>
     </message>
     <message>
-        <location filename="DlgProcess.cpp" line="321"/>
+        <location filename="DlgProcess.cpp" line="292"/>
         <source>&lt;Default&gt;</source>
         <translation>&lt;Varsayılan&gt;</translation>
     </message>
@@ -10572,9 +10582,9 @@ Please make sure that files are not read-only!</oldsource>
         <translation>Piksel Başına Bit Sayısı</translation>
     </message>
     <message>
-        <location filename="DlgReadRaw.h" line="106"/>
-        <location filename="DlgReadRaw.h" line="111"/>
-        <location filename="DlgReadRaw.h" line="128"/>
+        <location filename="DlgReadRaw.h" line="103"/>
+        <location filename="DlgReadRaw.h" line="107"/>
+        <location filename="DlgReadRaw.h" line="120"/>
         <source>Greyscale</source>
         <translation>Gri Tonlu</translation>
     </message>
@@ -10624,17 +10634,17 @@ Please make sure that files are not read-only!</oldsource>
         <translation>Kod:</translation>
     </message>
     <message>
-        <location filename="DlgRegistration.cpp" line="198"/>
+        <location filename="DlgRegistration.cpp" line="196"/>
         <source>Invalid code</source>
         <translation>Hatalı kod</translation>
     </message>
     <message>
-        <location filename="DlgRegistration.cpp" line="198"/>
+        <location filename="DlgRegistration.cpp" line="196"/>
         <source>The name or code is invalid!</source>
         <translation>İsim veya kod hatalıdır!</translation>
     </message>
     <message>
-        <location filename="DlgRegistration.cpp" line="211"/>
+        <location filename="DlgRegistration.cpp" line="209"/>
         <source>Registration successful.
 
 Thank you for purchasing %1.</source>
@@ -10660,24 +10670,24 @@ Please install it via Tools › Plugins</source>
 <context>
     <name>DlgRename</name>
     <message>
-        <location filename="DlgRename.cpp" line="810"/>
+        <location filename="DlgRename.cpp" line="809"/>
         <source>(%1 files)</source>
         <translation>(%1 Dosya)</translation>
     </message>
     <message>
-        <location filename="DlgRename.cpp" line="311"/>
+        <location filename="DlgRename.cpp" line="310"/>
         <source>Companion renaming</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgRename.cpp" line="311"/>
+        <location filename="DlgRename.cpp" line="310"/>
         <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. 
 
 Do you want to remove them?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgRename.cpp" line="1109"/>
+        <location filename="DlgRename.cpp" line="1108"/>
         <source>Do you want to delete all your name templates?</source>
         <oldsource>Do you want to delete all your template&apos;s name?</oldsource>
         <translation>Tüm ad şablonlarınızı silmek istiyor musunuz?</translation>
@@ -10901,23 +10911,23 @@ Do you want to remove them?</source>
 <context>
     <name>DlgResize</name>
     <message>
-        <location filename="DlgResize.cpp" line="423"/>
+        <location filename="DlgResize.cpp" line="415"/>
         <source>Result image size: %1x%2 - %3 Mpixels</source>
         <oldsource>Result image size: %1x%2 - %1 Mpixels</oldsource>
         <translation>Sonuç resmin boyutu: %1x%2 - %3 Mpiksel</translation>
     </message>
     <message>
-        <location filename="DlgResize.cpp" line="1103"/>
+        <location filename="DlgResize.cpp" line="1070"/>
         <source>Canvas resize</source>
         <translation>Tuvaıl yeniden boyutlandır</translation>
     </message>
     <message>
-        <location filename="DlgResize.cpp" line="1117"/>
+        <location filename="DlgResize.cpp" line="1084"/>
         <source>&lt;Last Used&gt;</source>
         <translation>&lt;Son Kullanılan&gt;</translation>
     </message>
     <message>
-        <location filename="DlgResize.cpp" line="1118"/>
+        <location filename="DlgResize.cpp" line="1085"/>
         <source>&lt;Default&gt;</source>
         <translation>&lt;Varsayılan&gt;</translation>
     </message>
@@ -11190,55 +11200,55 @@ Do you want to remove them?</source>
 <context>
     <name>DlgSearch</name>
     <message>
-        <location filename="DlgSearch.cpp" line="81"/>
-        <location filename="DlgSearch.cpp" line="189"/>
+        <location filename="DlgSearch.cpp" line="92"/>
+        <location filename="DlgSearch.cpp" line="200"/>
         <source>Smart Albums</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="81"/>
-        <location filename="DlgSearch.cpp" line="189"/>
+        <location filename="DlgSearch.cpp" line="92"/>
+        <location filename="DlgSearch.cpp" line="200"/>
         <source>Name:</source>
         <translation type="unfinished">İsim:</translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="181"/>
+        <location filename="DlgSearch.cpp" line="192"/>
         <source>Save</source>
         <translation type="unfinished">Kaydet</translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="332"/>
+        <location filename="DlgSearch.cpp" line="351"/>
         <source>Preset</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="333"/>
+        <location filename="DlgSearch.cpp" line="352"/>
         <source>Preset search name:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="336"/>
+        <location filename="DlgSearch.cpp" line="355"/>
         <source>Save pathname</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="399"/>
+        <location filename="DlgSearch.cpp" line="419"/>
         <source>GROUP</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="424"/>
+        <location filename="DlgSearch.cpp" line="444"/>
         <source>Files found (%1):</source>
         <translation>(%1) dosya bulundu:</translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="449"/>
+        <location filename="DlgSearch.cpp" line="469"/>
         <source>Search</source>
         <translation type="unfinished">Arama</translation>
     </message>
     <message>
-        <location filename="DlgSearch.cpp" line="480"/>
-        <location filename="DlgSearch.cpp" line="481"/>
+        <location filename="DlgSearch.cpp" line="500"/>
+        <location filename="DlgSearch.cpp" line="501"/>
         <source>Finished: %1 file(s) found.</source>
         <oldsource>Finished: %1 file(s) found...</oldsource>
         <translation>Biten: Bulunan dosyalar %1.</translation>
@@ -11393,29 +11403,29 @@ Do you want to remove them?</source>
 <context>
     <name>DlgSearchProgress</name>
     <message>
-        <location filename="DlgSearchProgress.cpp" line="24"/>
+        <location filename="DlgSearchProgress.cpp" line="19"/>
         <source>Browse...</source>
         <translation>Gözat...</translation>
     </message>
     <message>
-        <location filename="DlgSearchProgress.cpp" line="45"/>
+        <location filename="DlgSearchProgress.cpp" line="38"/>
         <source>Searching...</source>
         <translation>Aranıyor...</translation>
     </message>
     <message>
-        <location filename="DlgSearchProgress.cpp" line="63"/>
+        <location filename="DlgSearchProgress.cpp" line="56"/>
         <source>Files found (%1):</source>
         <translation>(%1) dosya bulundu:</translation>
     </message>
     <message>
-        <location filename="DlgSearchProgress.cpp" line="91"/>
+        <location filename="DlgSearchProgress.cpp" line="88"/>
         <source>Finished.</source>
         <oldsource>Finished...</oldsource>
         <translation>Bitti.</translation>
     </message>
     <message>
-        <location filename="DlgSearchProgress.cpp" line="93"/>
-        <location filename="DlgSearchProgress.cpp" line="94"/>
+        <location filename="DlgSearchProgress.cpp" line="90"/>
+        <location filename="DlgSearchProgress.cpp" line="91"/>
         <source>Finished: %1 file(s) found.</source>
         <oldsource>Finished: %1 file(s) found...</oldsource>
         <translation>Biten: Bulunan dosyalar %1.</translation>
@@ -11506,12 +11516,12 @@ Do you want to remove them?</source>
         <translation>Katalog</translation>
     </message>
     <message>
-        <location filename="DlgSettings.cpp" line="358"/>
+        <location filename="DlgSettings.cpp" line="359"/>
         <source>The changes will be applied after restarting the application.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettings.cpp" line="361"/>
+        <location filename="DlgSettings.cpp" line="362"/>
         <source>Restart now</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11539,22 +11549,22 @@ Do you want to remove them?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.cpp" line="588"/>
+        <location filename="DlgSettingsBrowser.cpp" line="587"/>
         <source>Expand All</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.cpp" line="593"/>
+        <location filename="DlgSettingsBrowser.cpp" line="592"/>
         <source>Collapse All</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.cpp" line="913"/>
+        <location filename="DlgSettingsBrowser.cpp" line="912"/>
         <source>Save Preset</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsBrowser.cpp" line="913"/>
+        <location filename="DlgSettingsBrowser.cpp" line="912"/>
         <source>Preset name:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11792,35 +11802,35 @@ Do you want to remove them?</source>
 <context>
     <name>DlgSettingsCache</name>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="319"/>
+        <location filename="DlgSettingsCache.cpp" line="321"/>
         <source>None</source>
         <translation>Hiçbiri</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="320"/>
+        <location filename="DlgSettingsCache.cpp" line="322"/>
         <source>Lossless (ZIP)</source>
         <translation>Kayıpsız (ZIP)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="321"/>
+        <location filename="DlgSettingsCache.cpp" line="323"/>
         <source>Lossy - High quality (JPEG)</source>
         <translation>Kayıplı - Yüksek Kalite (JPEG)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="322"/>
+        <location filename="DlgSettingsCache.cpp" line="324"/>
         <source>Lossy - Low quality (JPEG)</source>
         <translation>Kayıplı - Düşük Kalite (JPEG)</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="92"/>
-        <location filename="DlgSettingsCache.cpp" line="353"/>
-        <location filename="DlgSettingsCache.cpp" line="770"/>
+        <location filename="DlgSettingsCache.cpp" line="355"/>
+        <location filename="DlgSettingsCache.cpp" line="772"/>
         <source>Excluded</source>
         <translation>Hariç</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="93"/>
-        <location filename="DlgSettingsCache.cpp" line="353"/>
+        <location filename="DlgSettingsCache.cpp" line="355"/>
         <source>Included</source>
         <translation>Dahil</translation>
     </message>
@@ -11830,18 +11840,18 @@ Do you want to remove them?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="323"/>
+        <location filename="DlgSettingsCache.cpp" line="325"/>
         <source>Lossy - High quality (WebP)</source>
         <translation>Lossy - Yüksek Kalite (WebP)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="332"/>
+        <location filename="DlgSettingsCache.cpp" line="334"/>
         <source>Catalog - Absolute/Relative paths</source>
         <oldsource>Change absolute/relative paths</oldsource>
         <translation type="unfinished">Mutlak/göreceli yolları değiştir</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="332"/>
+        <location filename="DlgSettingsCache.cpp" line="334"/>
         <source>Changing &apos;base path&apos; may disconnect files stored in database. 
 Do it only if you want to share same folder between several computers. 
 
@@ -11849,18 +11859,18 @@ Do you want to change the &apos;base path&apos;?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="419"/>
-        <location filename="DlgSettingsCache.cpp" line="660"/>
+        <location filename="DlgSettingsCache.cpp" line="421"/>
+        <location filename="DlgSettingsCache.cpp" line="662"/>
         <source>Catalog - Remove Entries</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="570"/>
+        <location filename="DlgSettingsCache.cpp" line="572"/>
         <source>Catalog - Synchronize Folders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="571"/>
+        <location filename="DlgSettingsCache.cpp" line="573"/>
         <source>All orphaned files will be deleted from Catalog.
 
 Do you want to continue?</source>
@@ -11868,33 +11878,33 @@ Do you want to continue?</source>
         <translation type="unfinished">Uyarı! Bu işlem, artık dosyaların tamamını katalogdan siler. Devam etmek istiyor musunuz?</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="602"/>
+        <location filename="DlgSettingsCache.cpp" line="604"/>
         <source>Updating database, please wait...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="619"/>
+        <location filename="DlgSettingsCache.cpp" line="621"/>
         <source>Catalog - Relocate the folder</source>
         <oldsource>Relocate the folder</oldsource>
         <translation type="unfinished">Klasörü Yeniden Konumlandır</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="619"/>
+        <location filename="DlgSettingsCache.cpp" line="621"/>
         <source>New path:</source>
         <translation>Yeni Yol:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="619"/>
+        <location filename="DlgSettingsCache.cpp" line="621"/>
         <source>Old path:</source>
         <translation>Eski yolu:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="637"/>
+        <location filename="DlgSettingsCache.cpp" line="639"/>
         <source>Catalog Maintenance</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="638"/>
+        <location filename="DlgSettingsCache.cpp" line="640"/>
         <source>Some database entries with assigned Rating, 
 Color labels, Keywords may be deleted. 
 
@@ -11903,8 +11913,8 @@ Do you want to check for affected entries first?</source>
         <translation type="unfinished">Uyarı! Bu işlem bazı veritabanı girdileri ile atanmış derecelendirmeleri/renkleri/anahtar kelimeleri silebilir. Önce etkilenen girişleri kontrol etmek istiyor musunuz?</translation>
     </message>
     <message>
-        <location filename="DlgSettingsCache.cpp" line="420"/>
-        <location filename="DlgSettingsCache.cpp" line="661"/>
+        <location filename="DlgSettingsCache.cpp" line="422"/>
+        <location filename="DlgSettingsCache.cpp" line="663"/>
         <source>Catalog entries with Categories, Rating &amp; Color labels will be removed. 
 
 If information is exported into embedded or sidecar metadata, 
@@ -12057,7 +12067,8 @@ Bir kategoriye atanan girdileri kaldırmak istiyor musunuz?</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="369"/>
-        <source>Thumbnail</source>
+        <source>Thumbnails</source>
+        <oldsource>Thumbnail</oldsource>
         <translation type="unfinished">Küçük Resim</translation>
     </message>
     <message>
@@ -13057,67 +13068,67 @@ Thumbnail</source>
 <context>
     <name>DlgSettingsInterface</name>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="128"/>
+        <location filename="DlgSettingsInterface.cpp" line="143"/>
         <source>-- COMMAND --</source>
         <translation>-- KOMUT --</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="132"/>
-        <location filename="DlgSettingsInterface.cpp" line="177"/>
-        <location filename="DlgSettingsInterface.cpp" line="331"/>
+        <location filename="DlgSettingsInterface.cpp" line="147"/>
+        <location filename="DlgSettingsInterface.cpp" line="192"/>
+        <location filename="DlgSettingsInterface.cpp" line="346"/>
         <source>-- SEPARATOR --</source>
         <translation>-- AYIRAÇ --</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="137"/>
-        <location filename="DlgSettingsInterface.cpp" line="183"/>
+        <location filename="DlgSettingsInterface.cpp" line="152"/>
+        <location filename="DlgSettingsInterface.cpp" line="198"/>
         <source>-- NEW BAR --</source>
         <translation>-- YENİ ÇUBUK --</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="143"/>
+        <location filename="DlgSettingsInterface.cpp" line="158"/>
         <source>-- NEW IPTC TEMPLATE --</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="149"/>
+        <location filename="DlgSettingsInterface.cpp" line="164"/>
         <source>-- NEW XMP TEMPLATE --</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="498"/>
+        <location filename="DlgSettingsInterface.cpp" line="513"/>
         <source>Browse mode</source>
         <translation>Gözatma Modu</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="499"/>
+        <location filename="DlgSettingsInterface.cpp" line="514"/>
         <source>Viewer mode</source>
         <oldsource>View mode</oldsource>
         <translation>Görüntüleme modu</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="856"/>
-        <location filename="DlgSettingsInterface.cpp" line="876"/>
+        <location filename="DlgSettingsInterface.cpp" line="867"/>
+        <location filename="DlgSettingsInterface.cpp" line="887"/>
         <source>Set Icon...</source>
         <translation>İkon Ayarla...</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1054"/>
+        <location filename="DlgSettingsInterface.cpp" line="1065"/>
         <source>Set label</source>
         <translation>Etiket Ayarla</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1055"/>
+        <location filename="DlgSettingsInterface.cpp" line="1066"/>
         <source>Label:</source>
         <translation>Etiket:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1203"/>
+        <location filename="DlgSettingsInterface.cpp" line="1214"/>
         <source>This shortcut is already assigned for </source>
         <translation>Bu kısayol zaten şu komuta atanmış </translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1219"/>
+        <location filename="DlgSettingsInterface.cpp" line="1230"/>
         <source>%1 is already assigned to:
 %2
 
@@ -13128,22 +13139,22 @@ Do you want to reassign?</source>
 Yeniden atamak ister misin?</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1268"/>
+        <location filename="DlgSettingsInterface.cpp" line="1279"/>
         <source>Load toolbar</source>
         <translation>Araç Çubuğu Yükle</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1286"/>
+        <location filename="DlgSettingsInterface.cpp" line="1297"/>
         <source>Save toolbar</source>
         <translation>Araç Çubuğunu Kaydet</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1342"/>
+        <location filename="DlgSettingsInterface.cpp" line="1353"/>
         <source>Load shortcuts</source>
         <translation>Kısayolları Yükle</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1373"/>
+        <location filename="DlgSettingsInterface.cpp" line="1384"/>
         <source>Save shortcuts</source>
         <translation>Kısayolları Kaydet</translation>
     </message>
@@ -13259,21 +13270,21 @@ Yeniden atamak ister misin?</translation>
         <location filename="DlgSettingsInterface.ui" line="376"/>
         <location filename="DlgSettingsInterface.ui" line="1505"/>
         <location filename="DlgSettingsInterface.ui" line="1586"/>
-        <location filename="DlgSettingsInterface.ui" line="1646"/>
-        <location filename="DlgSettingsInterface.ui" line="1686"/>
-        <location filename="DlgSettingsInterface.ui" line="1726"/>
-        <location filename="DlgSettingsInterface.ui" line="1798"/>
+        <location filename="DlgSettingsInterface.ui" line="1656"/>
+        <location filename="DlgSettingsInterface.ui" line="1706"/>
+        <location filename="DlgSettingsInterface.ui" line="1756"/>
         <location filename="DlgSettingsInterface.ui" line="1838"/>
-        <location filename="DlgSettingsInterface.ui" line="1918"/>
-        <location filename="DlgSettingsInterface.ui" line="1958"/>
-        <location filename="DlgSettingsInterface.ui" line="2027"/>
-        <location filename="DlgSettingsInterface.ui" line="2080"/>
-        <location filename="DlgSettingsInterface.ui" line="2112"/>
-        <location filename="DlgSettingsInterface.ui" line="2144"/>
-        <location filename="DlgSettingsInterface.ui" line="2190"/>
-        <location filename="DlgSettingsInterface.ui" line="2321"/>
-        <location filename="DlgSettingsInterface.ui" line="2370"/>
-        <location filename="DlgSettingsInterface.ui" line="2406"/>
+        <location filename="DlgSettingsInterface.ui" line="1888"/>
+        <location filename="DlgSettingsInterface.ui" line="1978"/>
+        <location filename="DlgSettingsInterface.ui" line="2028"/>
+        <location filename="DlgSettingsInterface.ui" line="2107"/>
+        <location filename="DlgSettingsInterface.ui" line="2180"/>
+        <location filename="DlgSettingsInterface.ui" line="2212"/>
+        <location filename="DlgSettingsInterface.ui" line="2244"/>
+        <location filename="DlgSettingsInterface.ui" line="2290"/>
+        <location filename="DlgSettingsInterface.ui" line="2421"/>
+        <location filename="DlgSettingsInterface.ui" line="2470"/>
+        <location filename="DlgSettingsInterface.ui" line="2506"/>
         <source>Do nothing</source>
         <translation>Hiçbir Şey Yapma</translation>
     </message>
@@ -13328,9 +13339,18 @@ Yeniden atamak ister misin?</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1606"/>
-        <location filename="DlgSettingsInterface.ui" line="1666"/>
-        <location filename="DlgSettingsInterface.ui" line="1706"/>
-        <location filename="DlgSettingsInterface.ui" line="1746"/>
+        <location filename="DlgSettingsInterface.ui" line="1616"/>
+        <location filename="DlgSettingsInterface.ui" line="1676"/>
+        <location filename="DlgSettingsInterface.ui" line="1686"/>
+        <location filename="DlgSettingsInterface.ui" line="1726"/>
+        <location filename="DlgSettingsInterface.ui" line="1736"/>
+        <location filename="DlgSettingsInterface.ui" line="1776"/>
+        <location filename="DlgSettingsInterface.ui" line="1786"/>
+        <location filename="DlgSettingsInterface.ui" line="1868"/>
+        <location filename="DlgSettingsInterface.ui" line="1918"/>
+        <location filename="DlgSettingsInterface.ui" line="2008"/>
+        <location filename="DlgSettingsInterface.ui" line="2058"/>
+        <location filename="DlgSettingsInterface.ui" line="2137"/>
         <source>Previous file</source>
         <translation>Önceki dosya</translation>
     </message>
@@ -13459,10 +13479,10 @@ Yeniden atamak ister misin?</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1411"/>
-        <location filename="DlgSettingsInterface.ui" line="2100"/>
-        <location filename="DlgSettingsInterface.ui" line="2132"/>
-        <location filename="DlgSettingsInterface.ui" line="2164"/>
-        <location filename="DlgSettingsInterface.ui" line="2210"/>
+        <location filename="DlgSettingsInterface.ui" line="2200"/>
+        <location filename="DlgSettingsInterface.ui" line="2232"/>
+        <location filename="DlgSettingsInterface.ui" line="2264"/>
+        <location filename="DlgSettingsInterface.ui" line="2310"/>
         <source>Horizontal scroll</source>
         <oldsource>Scroll left/right</oldsource>
         <translation type="unfinished">Sol/Sağ kaydırma</translation>
@@ -13470,10 +13490,10 @@ Yeniden atamak ister misin?</translation>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1416"/>
         <location filename="DlgSettingsInterface.ui" line="1446"/>
-        <location filename="DlgSettingsInterface.ui" line="2085"/>
-        <location filename="DlgSettingsInterface.ui" line="2117"/>
-        <location filename="DlgSettingsInterface.ui" line="2149"/>
-        <location filename="DlgSettingsInterface.ui" line="2195"/>
+        <location filename="DlgSettingsInterface.ui" line="2185"/>
+        <location filename="DlgSettingsInterface.ui" line="2217"/>
+        <location filename="DlgSettingsInterface.ui" line="2249"/>
+        <location filename="DlgSettingsInterface.ui" line="2295"/>
         <source>Previous/next file</source>
         <translation>Önceki/Sonraki Dosya</translation>
     </message>
@@ -13489,58 +13509,59 @@ Yeniden atamak ister misin?</translation>
         <translation>Yukarı/Aşağı</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1619"/>
-        <location filename="DlgSettingsInterface.ui" line="1871"/>
-        <location filename="DlgSettingsInterface.ui" line="2013"/>
-        <location filename="DlgSettingsInterface.ui" line="2225"/>
+        <location filename="DlgSettingsInterface.ui" line="1629"/>
+        <location filename="DlgSettingsInterface.ui" line="1931"/>
+        <location filename="DlgSettingsInterface.ui" line="2093"/>
+        <location filename="DlgSettingsInterface.ui" line="2325"/>
         <source>No modifier</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1611"/>
-        <location filename="DlgSettingsInterface.ui" line="1671"/>
-        <location filename="DlgSettingsInterface.ui" line="1711"/>
-        <location filename="DlgSettingsInterface.ui" line="1751"/>
-        <location filename="DlgSettingsInterface.ui" line="1823"/>
+        <location filename="DlgSettingsInterface.ui" line="1681"/>
+        <location filename="DlgSettingsInterface.ui" line="1731"/>
+        <location filename="DlgSettingsInterface.ui" line="1781"/>
         <location filename="DlgSettingsInterface.ui" line="1863"/>
-        <location filename="DlgSettingsInterface.ui" line="1943"/>
-        <location filename="DlgSettingsInterface.ui" line="1983"/>
+        <location filename="DlgSettingsInterface.ui" line="1913"/>
+        <location filename="DlgSettingsInterface.ui" line="2003"/>
+        <location filename="DlgSettingsInterface.ui" line="2053"/>
+        <location filename="DlgSettingsInterface.ui" line="2132"/>
         <source>Zoom &amp; pan</source>
         <oldsource>Zoom &amp; move</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1759"/>
-        <location filename="DlgSettingsInterface.ui" line="1881"/>
-        <location filename="DlgSettingsInterface.ui" line="2218"/>
+        <location filename="DlgSettingsInterface.ui" line="1799"/>
+        <location filename="DlgSettingsInterface.ui" line="1941"/>
+        <location filename="DlgSettingsInterface.ui" line="2318"/>
         <source>Ctrl</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1569"/>
-        <location filename="DlgSettingsInterface.ui" line="1901"/>
-        <location filename="DlgSettingsInterface.ui" line="2179"/>
+        <location filename="DlgSettingsInterface.ui" line="1961"/>
+        <location filename="DlgSettingsInterface.ui" line="2279"/>
         <source>Alt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1629"/>
-        <location filename="DlgSettingsInterface.ui" line="1891"/>
-        <location filename="DlgSettingsInterface.ui" line="2172"/>
+        <location filename="DlgSettingsInterface.ui" line="1639"/>
+        <location filename="DlgSettingsInterface.ui" line="1951"/>
+        <location filename="DlgSettingsInterface.ui" line="2272"/>
         <source>Shift</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="2070"/>
+        <location filename="DlgSettingsInterface.ui" line="2170"/>
         <source>Wheel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1441"/>
-        <location filename="DlgSettingsInterface.ui" line="2090"/>
-        <location filename="DlgSettingsInterface.ui" line="2122"/>
-        <location filename="DlgSettingsInterface.ui" line="2154"/>
-        <location filename="DlgSettingsInterface.ui" line="2200"/>
+        <location filename="DlgSettingsInterface.ui" line="2190"/>
+        <location filename="DlgSettingsInterface.ui" line="2222"/>
+        <location filename="DlgSettingsInterface.ui" line="2254"/>
+        <location filename="DlgSettingsInterface.ui" line="2300"/>
         <source>Vertical scroll</source>
         <oldsource>Scroll up/down</oldsource>
         <translation type="unfinished">Yukarı/Aşağı kaydır</translation>
@@ -13557,52 +13578,52 @@ Yeniden atamak ister misin?</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1591"/>
-        <location filename="DlgSettingsInterface.ui" line="1651"/>
-        <location filename="DlgSettingsInterface.ui" line="1691"/>
-        <location filename="DlgSettingsInterface.ui" line="1731"/>
-        <location filename="DlgSettingsInterface.ui" line="1803"/>
+        <location filename="DlgSettingsInterface.ui" line="1661"/>
+        <location filename="DlgSettingsInterface.ui" line="1711"/>
+        <location filename="DlgSettingsInterface.ui" line="1761"/>
         <location filename="DlgSettingsInterface.ui" line="1843"/>
-        <location filename="DlgSettingsInterface.ui" line="1923"/>
-        <location filename="DlgSettingsInterface.ui" line="1963"/>
-        <location filename="DlgSettingsInterface.ui" line="2032"/>
+        <location filename="DlgSettingsInterface.ui" line="1893"/>
+        <location filename="DlgSettingsInterface.ui" line="1983"/>
+        <location filename="DlgSettingsInterface.ui" line="2033"/>
+        <location filename="DlgSettingsInterface.ui" line="2112"/>
         <source>Pan image</source>
         <oldsource>Move image</oldsource>
         <translation type="unfinished">Resmi Taşı</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1596"/>
-        <location filename="DlgSettingsInterface.ui" line="1656"/>
-        <location filename="DlgSettingsInterface.ui" line="1696"/>
-        <location filename="DlgSettingsInterface.ui" line="1736"/>
-        <location filename="DlgSettingsInterface.ui" line="1808"/>
+        <location filename="DlgSettingsInterface.ui" line="1666"/>
+        <location filename="DlgSettingsInterface.ui" line="1716"/>
+        <location filename="DlgSettingsInterface.ui" line="1766"/>
         <location filename="DlgSettingsInterface.ui" line="1848"/>
-        <location filename="DlgSettingsInterface.ui" line="1928"/>
-        <location filename="DlgSettingsInterface.ui" line="1968"/>
-        <location filename="DlgSettingsInterface.ui" line="2037"/>
+        <location filename="DlgSettingsInterface.ui" line="1898"/>
+        <location filename="DlgSettingsInterface.ui" line="1988"/>
+        <location filename="DlgSettingsInterface.ui" line="2038"/>
+        <location filename="DlgSettingsInterface.ui" line="2117"/>
         <source>Make selection</source>
         <translation>Seçim Yap</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1601"/>
-        <location filename="DlgSettingsInterface.ui" line="1661"/>
-        <location filename="DlgSettingsInterface.ui" line="1701"/>
-        <location filename="DlgSettingsInterface.ui" line="1741"/>
-        <location filename="DlgSettingsInterface.ui" line="1813"/>
+        <location filename="DlgSettingsInterface.ui" line="1671"/>
+        <location filename="DlgSettingsInterface.ui" line="1721"/>
+        <location filename="DlgSettingsInterface.ui" line="1771"/>
         <location filename="DlgSettingsInterface.ui" line="1853"/>
-        <location filename="DlgSettingsInterface.ui" line="1933"/>
-        <location filename="DlgSettingsInterface.ui" line="1973"/>
-        <location filename="DlgSettingsInterface.ui" line="2042"/>
+        <location filename="DlgSettingsInterface.ui" line="1903"/>
+        <location filename="DlgSettingsInterface.ui" line="1993"/>
+        <location filename="DlgSettingsInterface.ui" line="2043"/>
+        <location filename="DlgSettingsInterface.ui" line="2122"/>
         <source>Zoom selection</source>
         <oldsource>Zoomed selection</oldsource>
         <translation type="unfinished">Yakınlaştırılmış Seçim</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="2007"/>
+        <location filename="DlgSettingsInterface.ui" line="2087"/>
         <source>Middle button</source>
         <translation>Orta Tuş</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="1785"/>
+        <location filename="DlgSettingsInterface.ui" line="1825"/>
         <source>Right button</source>
         <translation>Sağ Tuş</translation>
     </message>
@@ -13669,10 +13690,20 @@ Yeniden atamak ister misin?</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1495"/>
-        <location filename="DlgSettingsInterface.ui" line="1818"/>
+        <location filename="DlgSettingsInterface.ui" line="1621"/>
+        <location filename="DlgSettingsInterface.ui" line="1691"/>
+        <location filename="DlgSettingsInterface.ui" line="1741"/>
+        <location filename="DlgSettingsInterface.ui" line="1791"/>
         <location filename="DlgSettingsInterface.ui" line="1858"/>
-        <location filename="DlgSettingsInterface.ui" line="1938"/>
-        <location filename="DlgSettingsInterface.ui" line="1978"/>
+        <location filename="DlgSettingsInterface.ui" line="1873"/>
+        <location filename="DlgSettingsInterface.ui" line="1908"/>
+        <location filename="DlgSettingsInterface.ui" line="1923"/>
+        <location filename="DlgSettingsInterface.ui" line="1998"/>
+        <location filename="DlgSettingsInterface.ui" line="2013"/>
+        <location filename="DlgSettingsInterface.ui" line="2048"/>
+        <location filename="DlgSettingsInterface.ui" line="2063"/>
+        <location filename="DlgSettingsInterface.ui" line="2127"/>
+        <location filename="DlgSettingsInterface.ui" line="2142"/>
         <source>Next file</source>
         <translation>İleriki dosya</translation>
     </message>
@@ -13687,62 +13718,62 @@ Yeniden atamak ister misin?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="2095"/>
-        <location filename="DlgSettingsInterface.ui" line="2127"/>
-        <location filename="DlgSettingsInterface.ui" line="2159"/>
-        <location filename="DlgSettingsInterface.ui" line="2205"/>
+        <location filename="DlgSettingsInterface.ui" line="2195"/>
+        <location filename="DlgSettingsInterface.ui" line="2227"/>
+        <location filename="DlgSettingsInterface.ui" line="2259"/>
+        <location filename="DlgSettingsInterface.ui" line="2305"/>
         <source>Zoom in/out</source>
         <translation>Yakınlaştır/Uzaklaştır</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="2293"/>
+        <location filename="DlgSettingsInterface.ui" line="2393"/>
         <source>Double click</source>
         <oldsource>Doublie click</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="2342"/>
+        <location filename="DlgSettingsInterface.ui" line="2442"/>
         <source>Middle click</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="2378"/>
+        <location filename="DlgSettingsInterface.ui" line="2478"/>
         <source>Enter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="2301"/>
-        <location filename="DlgSettingsInterface.ui" line="2350"/>
-        <location filename="DlgSettingsInterface.ui" line="2386"/>
+        <location filename="DlgSettingsInterface.ui" line="2401"/>
+        <location filename="DlgSettingsInterface.ui" line="2450"/>
+        <location filename="DlgSettingsInterface.ui" line="2486"/>
         <source>Browser ↔ Fullscreen | Viewer ↔ Fullscreen</source>
         <oldsource>Browser &lt;&gt; Fullscreen | Viewer &lt;&gt; Fullscreen</oldsource>
         <translation>Gezgin ↔ Tam Ekran | Görüntüleyici ↔ Tam Ekran</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="2279"/>
+        <location filename="DlgSettingsInterface.ui" line="2379"/>
         <source>Switching modes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="2306"/>
-        <location filename="DlgSettingsInterface.ui" line="2355"/>
-        <location filename="DlgSettingsInterface.ui" line="2391"/>
+        <location filename="DlgSettingsInterface.ui" line="2406"/>
+        <location filename="DlgSettingsInterface.ui" line="2455"/>
+        <location filename="DlgSettingsInterface.ui" line="2491"/>
         <source>Browser ↔ Viewer</source>
         <oldsource>Browser &lt;&gt; Viewer</oldsource>
         <translation>Gezgin ↔ Görüntüleyici</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="2311"/>
-        <location filename="DlgSettingsInterface.ui" line="2360"/>
-        <location filename="DlgSettingsInterface.ui" line="2396"/>
+        <location filename="DlgSettingsInterface.ui" line="2411"/>
+        <location filename="DlgSettingsInterface.ui" line="2460"/>
+        <location filename="DlgSettingsInterface.ui" line="2496"/>
         <source>Browser → Fullscreen → Viewer</source>
         <oldsource>Browser &gt; Fullscreen &gt; Viewer</oldsource>
         <translation>Gezgin → Tam Ekran → Görüntüleyici</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.ui" line="2316"/>
-        <location filename="DlgSettingsInterface.ui" line="2365"/>
-        <location filename="DlgSettingsInterface.ui" line="2401"/>
+        <location filename="DlgSettingsInterface.ui" line="2416"/>
+        <location filename="DlgSettingsInterface.ui" line="2465"/>
+        <location filename="DlgSettingsInterface.ui" line="2501"/>
         <source>Browser → Viewer → Fullscreen</source>
         <oldsource>Browser &gt; Viewer &gt; Fullscreen</oldsource>
         <translation>Gezgin → Görüntüleyici → Tam Ekran</translation>
@@ -14026,7 +14057,7 @@ Yeniden atamak ister misin?</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="404"/>
-        <location filename="DlgSettingsThumbnail.ui" line="1120"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1154"/>
         <source>Background</source>
         <translation>Arkaplan</translation>
     </message>
@@ -14132,47 +14163,52 @@ Yeniden atamak ister misin?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="811"/>
+        <location filename="DlgSettingsThumbnail.ui" line="798"/>
         <source>Frame&apos;s count</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="911"/>
+        <location filename="DlgSettingsThumbnail.ui" line="898"/>
         <source>Audio</source>
         <translation type="unfinished">Ses</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1195"/>
+        <location filename="DlgSettingsThumbnail.ui" line="916"/>
+        <source>Icon spacing:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsThumbnail.ui" line="1229"/>
         <source>Label colors</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1201"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1235"/>
         <source>Use color based on file format</source>
         <translation type="unfinished">Dosya biçimine göre renk kullan</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1214"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1248"/>
         <source>Enter an extension:</source>
         <translation type="unfinished">Bir uzantı girin:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1224"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1258"/>
         <source>or choose a format:</source>
         <translation type="unfinished">veya bir biçim seçin:</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1270"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1304"/>
         <source>New</source>
         <translation type="unfinished">Yeni</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1280"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1314"/>
         <source>Remove</source>
         <translation type="unfinished">Kaldır</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1304"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1338"/>
         <source>Default color</source>
         <translation type="unfinished">Varsayılan Renk</translation>
     </message>
@@ -14193,7 +14229,7 @@ Yeniden atamak ister misin?</translation>
         <translation>Simgeleri Kullan</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="904"/>
+        <location filename="DlgSettingsThumbnail.ui" line="891"/>
         <source>Shortcut</source>
         <translation>Kısayol</translation>
     </message>
@@ -14203,17 +14239,17 @@ Yeniden atamak ister misin?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1082"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1116"/>
         <source>Color</source>
         <translation type="unfinished">Renk</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1090"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1124"/>
         <source>Text</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="831"/>
+        <location filename="DlgSettingsThumbnail.ui" line="818"/>
         <source>Automatic rotation</source>
         <translation>Otomatik Döndürme</translation>
     </message>
@@ -14233,37 +14269,37 @@ Yeniden atamak ister misin?</translation>
         <translation>Renk Etiketi</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="871"/>
+        <location filename="DlgSettingsThumbnail.ui" line="858"/>
         <source>Color profile</source>
         <translation>Renk Profili</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="804"/>
+        <location filename="DlgSettingsThumbnail.ui" line="791"/>
         <source>Face tag</source>
         <translation>Yüz etiketi</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="838"/>
+        <location filename="DlgSettingsThumbnail.ui" line="825"/>
         <source>Sidecar</source>
         <translation>Sepet</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="928"/>
+        <location filename="DlgSettingsThumbnail.ui" line="962"/>
         <source>Labels</source>
         <translation>Etiketler</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1154"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1188"/>
         <source>Reset color</source>
         <translation>Rengi Sıfırla</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="1054"/>
+        <location filename="DlgSettingsThumbnail.ui" line="1088"/>
         <source>Custom label</source>
         <translation>Özel Etiket</translation>
     </message>
     <message>
-        <location filename="DlgSettingsThumbnail.ui" line="942"/>
+        <location filename="DlgSettingsThumbnail.ui" line="976"/>
         <source>Browser › View › View as › Thumbnails + Labels</source>
         <oldsource>Browser - Thumbnail</oldsource>
         <translation type="unfinished"></translation>
@@ -14926,12 +14962,12 @@ Yeniden atamak ister misin?</translation>
 <context>
     <name>DlgSlideshow</name>
     <message>
-        <location filename="DlgSlideshow.cpp" line="188"/>
+        <location filename="DlgSlideshow.cpp" line="184"/>
         <source>Import Slideshow</source>
         <translation>Slayt gösterisini içeri aktar</translation>
     </message>
     <message>
-        <location filename="DlgSlideshow.cpp" line="235"/>
+        <location filename="DlgSlideshow.cpp" line="231"/>
         <source>Export Slideshow</source>
         <translation>Slayt gösterisini dışarı aktar</translation>
     </message>
@@ -15165,12 +15201,12 @@ Yeniden atamak ister misin?</translation>
         <translation>Ayarlar...</translation>
     </message>
     <message>
-        <location filename="DlgSplit.cpp" line="25"/>
+        <location filename="DlgSplit.cpp" line="21"/>
         <source>Create</source>
         <translation>Oluştur</translation>
     </message>
     <message>
-        <location filename="DlgSplit.cpp" line="168"/>
+        <location filename="DlgSplit.cpp" line="162"/>
         <source>Splitting image(s), please wait...</source>
         <translation>Resim(ler) bölünüyor, lütfen bekleyiniz...</translation>
     </message>
@@ -15456,17 +15492,17 @@ Yeniden atamak ister misin?</translation>
     </message>
     <message>
         <location filename="DlgTagPhoto.ui" line="134"/>
-        <location filename="DlgTagPhoto.cpp" line="458"/>
+        <location filename="DlgTagPhoto.cpp" line="454"/>
         <source>Remove</source>
         <translation>Kaldır</translation>
     </message>
     <message>
-        <location filename="DlgTagPhoto.cpp" line="477"/>
+        <location filename="DlgTagPhoto.cpp" line="475"/>
         <source>Overwrite face regions</source>
         <translation>Yüz bölgelerinin üzerine yaz</translation>
     </message>
     <message>
-        <location filename="DlgTagPhoto.cpp" line="477"/>
+        <location filename="DlgTagPhoto.cpp" line="475"/>
         <source>This will overwrite XMP face&apos;s regions of the file. 
 
 Do you want to continue?</source>
@@ -15478,49 +15514,49 @@ Devam etmek istiyor musunuz?</translation>
 <context>
     <name>DlgTimestamp</name>
     <message>
-        <location filename="DlgTimestamp.cpp" line="146"/>
+        <location filename="DlgTimestamp.cpp" line="140"/>
         <source>File created date</source>
         <translation>Dosya Oluşturulma Tarihi</translation>
     </message>
     <message>
-        <location filename="DlgTimestamp.cpp" line="146"/>
+        <location filename="DlgTimestamp.cpp" line="140"/>
         <source>File modified date</source>
         <translation>Dosya Değiştirilme Tarihi</translation>
     </message>
     <message>
-        <location filename="DlgTimestamp.cpp" line="147"/>
+        <location filename="DlgTimestamp.cpp" line="141"/>
         <source>EXIF: Date modified</source>
         <translation>EXIF: Değiştirilme Tarihi</translation>
     </message>
     <message>
-        <location filename="DlgTimestamp.cpp" line="147"/>
+        <location filename="DlgTimestamp.cpp" line="141"/>
         <source>EXIF: Date taken</source>
         <translation>EXIF: Çekilen Tarih</translation>
     </message>
     <message>
-        <location filename="DlgTimestamp.cpp" line="147"/>
+        <location filename="DlgTimestamp.cpp" line="141"/>
         <source>EXIF: Date digitized</source>
         <translation>EXIF: Sayısal Tarih</translation>
     </message>
     <message>
-        <location filename="DlgTimestamp.cpp" line="543"/>
-        <location filename="DlgTimestamp.cpp" line="564"/>
+        <location filename="DlgTimestamp.cpp" line="537"/>
+        <location filename="DlgTimestamp.cpp" line="558"/>
         <source>Problem</source>
         <translation>Problem</translation>
     </message>
     <message>
-        <location filename="DlgTimestamp.cpp" line="543"/>
+        <location filename="DlgTimestamp.cpp" line="537"/>
         <source>An error occurred in updating process!</source>
         <translation>Bir hata meydana geldiğinde güncelleme süreci!</translation>
     </message>
     <message>
-        <location filename="DlgTimestamp.cpp" line="558"/>
+        <location filename="DlgTimestamp.cpp" line="552"/>
         <source>Modifying timestamp, please wait...</source>
         <oldsource>Modifying timestamp, please wait... </oldsource>
         <translation>Zaman damgasını değiştirin, lütfen bekleyin...</translation>
     </message>
     <message>
-        <location filename="DlgTimestamp.cpp" line="569"/>
+        <location filename="DlgTimestamp.cpp" line="563"/>
         <source>An error occurred when updating these files:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15646,7 +15682,7 @@ Devam etmek istiyor musunuz?</translation>
         <translation>Hepsini temizle</translation>
     </message>
     <message>
-        <location filename="DlgTransfer.cpp" line="244"/>
+        <location filename="DlgTransfer.cpp" line="259"/>
         <source>Write</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15780,22 +15816,22 @@ Devam etmek istiyor musunuz?</translation>
         <translation type="unfinished">Dur</translation>
     </message>
     <message>
-        <location filename="DlgUpdateDatabase.cpp" line="55"/>
+        <location filename="DlgUpdateDatabase.cpp" line="51"/>
         <source>%1 file(s) to process</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgUpdateDatabase.cpp" line="129"/>
+        <location filename="DlgUpdateDatabase.cpp" line="125"/>
         <source>Update cancelled</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgUpdateDatabase.cpp" line="129"/>
+        <location filename="DlgUpdateDatabase.cpp" line="125"/>
         <source>Update completed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgUpdateDatabase.cpp" line="150"/>
+        <location filename="DlgUpdateDatabase.cpp" line="147"/>
         <source>Stopping...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15803,34 +15839,34 @@ Devam etmek istiyor musunuz?</translation>
 <context>
     <name>DlgUpload</name>
     <message>
-        <location filename="DlgUpload.cpp" line="33"/>
-        <location filename="DlgUpload.cpp" line="85"/>
-        <location filename="DlgUpload.cpp" line="92"/>
-        <location filename="DlgUpload.cpp" line="95"/>
-        <location filename="DlgUpload.cpp" line="107"/>
-        <location filename="DlgUpload.cpp" line="189"/>
-        <location filename="DlgUpload.cpp" line="213"/>
-        <location filename="DlgUpload.cpp" line="224"/>
+        <location filename="DlgUpload.cpp" line="31"/>
+        <location filename="DlgUpload.cpp" line="83"/>
+        <location filename="DlgUpload.cpp" line="90"/>
+        <location filename="DlgUpload.cpp" line="93"/>
+        <location filename="DlgUpload.cpp" line="106"/>
+        <location filename="DlgUpload.cpp" line="185"/>
+        <location filename="DlgUpload.cpp" line="209"/>
+        <location filename="DlgUpload.cpp" line="220"/>
         <source>Upload</source>
         <translation>Yükle</translation>
     </message>
     <message>
-        <location filename="DlgUpload.cpp" line="82"/>
+        <location filename="DlgUpload.cpp" line="80"/>
         <source>Error</source>
         <translation>Hata</translation>
     </message>
     <message>
-        <location filename="DlgUpload.cpp" line="126"/>
+        <location filename="DlgUpload.cpp" line="125"/>
         <source>Cancel</source>
         <translation>İptal</translation>
     </message>
     <message>
-        <location filename="DlgUpload.cpp" line="189"/>
+        <location filename="DlgUpload.cpp" line="185"/>
         <source>Unable to load image file...</source>
         <translation>Resim dosyası yükleme başarısız...</translation>
     </message>
     <message>
-        <location filename="DlgUpload.cpp" line="213"/>
+        <location filename="DlgUpload.cpp" line="209"/>
         <source>Unable to upload image file...</source>
         <translation>Resim dosyası yükleme başarısız...</translation>
     </message>
@@ -15908,7 +15944,7 @@ Devam etmek istiyor musunuz?</translation>
     <name>DlgUserFilter</name>
     <message>
         <location filename="DlgUserFilter.ui" line="14"/>
-        <location filename="DlgUserFilter.cpp" line="467"/>
+        <location filename="DlgUserFilter.cpp" line="460"/>
         <source>User filter</source>
         <translation>Kullanıcı Filtresi</translation>
     </message>
@@ -15948,13 +15984,13 @@ Devam etmek istiyor musunuz?</translation>
         <translation>Uygula</translation>
     </message>
     <message>
-        <location filename="DlgUserFilter.cpp" line="185"/>
-        <location filename="DlgUserFilter.cpp" line="191"/>
+        <location filename="DlgUserFilter.cpp" line="178"/>
+        <location filename="DlgUserFilter.cpp" line="181"/>
         <source>New filter</source>
         <translation>Yeni Filtre</translation>
     </message>
     <message>
-        <location filename="DlgUserFilter.cpp" line="467"/>
+        <location filename="DlgUserFilter.cpp" line="460"/>
         <source>Do you want to save changed filter(s)?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -16032,7 +16068,7 @@ Devam etmek istiyor musunuz?</translation>
         <translation>Bilgi Göster</translation>
     </message>
     <message>
-        <location filename="DlgVideoGallery.cpp" line="72"/>
+        <location filename="DlgVideoGallery.cpp" line="68"/>
         <source>Creating video thumbnails, please wait...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -17075,7 +17111,7 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
 <context>
     <name>Info</name>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="68"/>
+        <location filename="InfoPropertiesView.cpp" line="64"/>
         <location filename="InfoPropertiesView.cpp" line="482"/>
         <location filename="InfoPropertiesView.cpp" line="500"/>
         <location filename="InfoPropertiesView.cpp" line="519"/>
@@ -17085,7 +17121,7 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <translation>Biçim</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="69"/>
+        <location filename="InfoPropertiesView.cpp" line="65"/>
         <location filename="InfoPropertiesView.cpp" line="485"/>
         <location filename="ItemModel.cpp" line="1030"/>
         <location filename="SearchField.cpp" line="42"/>
@@ -17095,7 +17131,7 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <translation>Genişlik</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="70"/>
+        <location filename="InfoPropertiesView.cpp" line="66"/>
         <location filename="InfoPropertiesView.cpp" line="486"/>
         <location filename="ItemModel.cpp" line="1032"/>
         <location filename="SearchField.cpp" line="43"/>
@@ -17105,52 +17141,52 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <translation>Yükseklik</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="74"/>
-        <location filename="InfoPropertiesView.cpp" line="76"/>
+        <location filename="InfoPropertiesView.cpp" line="70"/>
+        <location filename="InfoPropertiesView.cpp" line="72"/>
         <source>Dimension</source>
         <translation>Boyut</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="77"/>
+        <location filename="InfoPropertiesView.cpp" line="73"/>
         <source># of bits</source>
         <translation># bit</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="78"/>
+        <location filename="InfoPropertiesView.cpp" line="74"/>
         <source>Bits per channel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="InfoPropertiesView.cpp" line="76"/>
+        <location filename="InfoPropertiesView.cpp" line="78"/>
         <location filename="InfoPropertiesView.cpp" line="80"/>
         <location filename="InfoPropertiesView.cpp" line="82"/>
-        <location filename="InfoPropertiesView.cpp" line="84"/>
-        <location filename="InfoPropertiesView.cpp" line="86"/>
         <location filename="TemplateData.cpp" line="2616"/>
         <source>Color model</source>
         <translation>Renk Modeli</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="80"/>
+        <location filename="InfoPropertiesView.cpp" line="76"/>
         <source>Black&amp;White</source>
         <translation>Siyah&amp;Beyaz</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="82"/>
+        <location filename="InfoPropertiesView.cpp" line="78"/>
         <source>Indexed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="84"/>
+        <location filename="InfoPropertiesView.cpp" line="80"/>
         <source>Greyscale</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="88"/>
+        <location filename="InfoPropertiesView.cpp" line="84"/>
         <source>Colors used</source>
         <translation>Kullanılan renkler</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="90"/>
+        <location filename="InfoPropertiesView.cpp" line="86"/>
         <location filename="ItemModel.cpp" line="1034"/>
         <location filename="TemplateData.cpp" line="2622"/>
         <location filename="TemplateData.cpp" line="2644"/>
@@ -17158,83 +17194,83 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <translation>DPI</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="95"/>
+        <location filename="InfoPropertiesView.cpp" line="91"/>
         <location filename="ItemModel.cpp" line="1012"/>
         <source>Print size</source>
         <translation>Yazdırma Boyutu</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="98"/>
-        <location filename="InfoPropertiesView.cpp" line="103"/>
+        <location filename="InfoPropertiesView.cpp" line="94"/>
+        <location filename="InfoPropertiesView.cpp" line="99"/>
         <location filename="TemplateData.cpp" line="2617"/>
         <source>Compression</source>
         <translation>Sıkıştırma</translation>
     </message>
     <message>
-        <location filename="DlgImport.cpp" line="289"/>
-        <location filename="InfoPropertiesView.cpp" line="98"/>
+        <location filename="DlgImport.cpp" line="286"/>
+        <location filename="InfoPropertiesView.cpp" line="94"/>
         <source>None</source>
         <translation>Hiçbiri</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="108"/>
+        <location filename="InfoPropertiesView.cpp" line="104"/>
         <source>Progressive mode</source>
         <translation>Baskın Mod</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="117"/>
+        <location filename="InfoPropertiesView.cpp" line="113"/>
         <source>Subsampling</source>
         <oldsource>Sub-sampling</oldsource>
         <translation type="unfinished">Alt-Örnekleme</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="121"/>
+        <location filename="InfoPropertiesView.cpp" line="117"/>
         <source>Estimated quality</source>
         <translation>Tahmini Kalite</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="123"/>
+        <location filename="InfoPropertiesView.cpp" line="119"/>
         <source>Images/frames count</source>
         <translation>Resim/Kare Sayısı</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="140"/>
+        <location filename="InfoPropertiesView.cpp" line="136"/>
         <source>Origin</source>
         <translation>Kaynak</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="143"/>
-        <location filename="InfoPropertiesView.cpp" line="146"/>
+        <location filename="InfoPropertiesView.cpp" line="139"/>
+        <location filename="InfoPropertiesView.cpp" line="142"/>
         <source>Embedded comment</source>
         <translation>Gömülü Yorum</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="176"/>
+        <location filename="InfoPropertiesView.cpp" line="172"/>
         <source>F-Number</source>
         <translation type="unfinished">F-Numarası</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="183"/>
+        <location filename="InfoPropertiesView.cpp" line="179"/>
         <source>Date taken</source>
         <translation>Çekilme Tarihi</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="187"/>
+        <location filename="InfoPropertiesView.cpp" line="183"/>
         <source>Lens model</source>
         <translation>Lens modeli</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="189"/>
+        <location filename="InfoPropertiesView.cpp" line="185"/>
         <source>Focal length (mm)</source>
         <translation>Odak uzaklığı (mm)</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="202"/>
+        <location filename="InfoPropertiesView.cpp" line="198"/>
         <source>Description</source>
         <translation>Açıklama</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="207"/>
+        <location filename="InfoPropertiesView.cpp" line="203"/>
         <source>Manufacturer</source>
         <translation>Üretici</translation>
     </message>
@@ -17349,23 +17385,23 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <translation>Kayıt târihi</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="181"/>
-        <location filename="InfoPropertiesView.cpp" line="212"/>
+        <location filename="InfoPropertiesView.cpp" line="177"/>
+        <location filename="InfoPropertiesView.cpp" line="208"/>
         <source>Model</source>
         <translation>Model</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="174"/>
+        <location filename="InfoPropertiesView.cpp" line="170"/>
         <source>Exposure Time</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="178"/>
+        <location filename="InfoPropertiesView.cpp" line="174"/>
         <source>True ISO</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="217"/>
+        <location filename="InfoPropertiesView.cpp" line="213"/>
         <location filename="InfoPropertiesView.cpp" line="496"/>
         <location filename="InfoPropertiesView.cpp" line="536"/>
         <source>Copyright</source>
@@ -17420,12 +17456,12 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2103"/>
+        <location filename="DBFilterModel.cpp" line="2211"/>
         <source>Aspect Ratio</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2139"/>
+        <location filename="DBFilterModel.cpp" line="2247"/>
         <source>File type</source>
         <translation type="unfinished">Dosya Türü</translation>
     </message>
@@ -17458,7 +17494,7 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <translation>Uzantı adı olmadan dosya adı</translation>
     </message>
     <message>
-        <location filename="DlgImport.cpp" line="290"/>
+        <location filename="DlgImport.cpp" line="287"/>
         <location filename="EditXMPWidget.cpp" line="364"/>
         <location filename="IptcEditBase.cpp" line="73"/>
         <location filename="IptcEditBase.cpp" line="111"/>
@@ -17499,7 +17535,7 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <translation>Oluşturulma Tarihi</translation>
     </message>
     <message>
-        <location filename="DlgImport.cpp" line="292"/>
+        <location filename="DlgImport.cpp" line="289"/>
         <location filename="EditXMPWidget.cpp" line="370"/>
         <location filename="IptcEditBase.cpp" line="79"/>
         <location filename="SearchField.cpp" line="38"/>
@@ -17732,55 +17768,60 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
 <context>
     <name>InfoCategoryTreeView</name>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1415"/>
+        <location filename="InfoCategoryView.cpp" line="1416"/>
         <source>New category</source>
         <translation>Yeni Kategori</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1416"/>
+        <location filename="InfoCategoryView.cpp" line="1417"/>
         <source>New subcategory</source>
         <translation>Yeni Alt Kategori</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1423"/>
+        <location filename="InfoCategoryView.cpp" line="1424"/>
         <source>Rename</source>
         <translation>Yeniden Adlandır</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1426"/>
+        <location filename="InfoCategoryView.cpp" line="1427"/>
         <source>Move to...</source>
         <translation>Taşı...</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1427"/>
+        <location filename="InfoCategoryView.cpp" line="1428"/>
         <source>Merge with...</source>
         <translation>Birleştir...</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1428"/>
+        <location filename="InfoCategoryView.cpp" line="1429"/>
         <source>Delete</source>
         <translation>Sil</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1432"/>
+        <location filename="InfoCategoryView.cpp" line="1431"/>
         <source>Edit...</source>
         <translation>Düzenle...</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1391"/>
-        <location filename="InfoCategoryView.cpp" line="1450"/>
+        <location filename="InfoCategoryView.cpp" line="1392"/>
+        <location filename="InfoCategoryView.cpp" line="1456"/>
         <source>Delete category</source>
         <translation>Kategori Sil</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1391"/>
-        <location filename="InfoCategoryView.cpp" line="1450"/>
+        <location filename="InfoCategoryView.cpp" line="1392"/>
+        <location filename="InfoCategoryView.cpp" line="1456"/>
         <source>Are you sure to delete this category?</source>
         <translation>Bu kategoriyi silmek istiyor musunuz?</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1461"/>
-        <location filename="InfoCategoryView.cpp" line="1472"/>
+        <location filename="InfoCategoryView.cpp" line="1456"/>
+        <source>Are you sure to delete these categories?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="InfoCategoryView.cpp" line="1476"/>
+        <location filename="InfoCategoryView.cpp" line="1487"/>
         <source>New Category</source>
         <translation>Yeni Kategori</translation>
     </message>
@@ -17838,99 +17879,99 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <translation>Otomatik düzeltme...</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="141"/>
+        <location filename="InfoCategoryView.cpp" line="142"/>
         <source>Import Categories...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="143"/>
+        <location filename="InfoCategoryView.cpp" line="144"/>
         <source>Import Categories (XnView Classic db)...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="145"/>
+        <location filename="InfoCategoryView.cpp" line="146"/>
         <source>Export Categories...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="148"/>
+        <location filename="InfoCategoryView.cpp" line="149"/>
         <source>Delete unused categories...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="151"/>
+        <location filename="InfoCategoryView.cpp" line="152"/>
         <source>Delete all categories...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="621"/>
+        <location filename="InfoCategoryView.cpp" line="622"/>
         <source>Can&apos;t import XnView Classic category database</source>
         <translation type="unfinished">Xnview Kategorileri ithal edilemedi</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="657"/>
+        <location filename="InfoCategoryView.cpp" line="658"/>
         <source>Problem during database import!</source>
         <translation type="unfinished">Veritabanı ithal edilirken hata oluştu!</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="659"/>
+        <location filename="InfoCategoryView.cpp" line="660"/>
         <source>Category tree successfully imported into XnView categories</source>
         <translation type="unfinished">Kategori ağacı Xnview kategorileri kataloğuna başarılı bir şekilde içeri aktarıldı</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="669"/>
+        <location filename="InfoCategoryView.cpp" line="670"/>
         <source>Can&apos;t import XnView database</source>
         <translation type="unfinished">XnView veritabanını içe aktaramıyorum</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="704"/>
+        <location filename="InfoCategoryView.cpp" line="705"/>
         <source>Delete all categories</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="704"/>
+        <location filename="InfoCategoryView.cpp" line="705"/>
         <source>Do you want to delete all categories?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="710"/>
+        <location filename="InfoCategoryView.cpp" line="711"/>
         <source>Delete unused categories</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="710"/>
+        <location filename="InfoCategoryView.cpp" line="711"/>
         <source>Do you want to delete unused categories?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="244"/>
-        <location filename="InfoCategoryView.cpp" line="285"/>
-        <location filename="InfoCategoryView.cpp" line="309"/>
+        <location filename="InfoCategoryView.cpp" line="245"/>
+        <location filename="InfoCategoryView.cpp" line="286"/>
+        <location filename="InfoCategoryView.cpp" line="310"/>
         <source>Categories file</source>
         <translation>Kategori Dosyası</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="250"/>
-        <location filename="InfoCategoryView.cpp" line="291"/>
+        <location filename="InfoCategoryView.cpp" line="251"/>
+        <location filename="InfoCategoryView.cpp" line="292"/>
         <source>Import</source>
         <translation>Dışardan Al</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="250"/>
-        <location filename="InfoCategoryView.cpp" line="291"/>
+        <location filename="InfoCategoryView.cpp" line="251"/>
+        <location filename="InfoCategoryView.cpp" line="292"/>
         <source>Are you sure that you want to start importing categories file?</source>
         <translation>Kategori dosyasını dışarıdan almaya başlamak istiyor musunuz?</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="255"/>
-        <location filename="InfoCategoryView.cpp" line="298"/>
+        <location filename="InfoCategoryView.cpp" line="256"/>
+        <location filename="InfoCategoryView.cpp" line="299"/>
         <source>Importing categories file, please wait...</source>
         <oldsource>Importing categories file, please wait... </oldsource>
         <translation>Kategori dosyası alınıyor, lütfen bekleyin...</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="273"/>
-        <location filename="InfoCategoryView.cpp" line="319"/>
+        <location filename="InfoCategoryView.cpp" line="274"/>
+        <location filename="InfoCategoryView.cpp" line="320"/>
         <source>Exporting categories file, please wait...</source>
         <oldsource>Exporting categories file, please wait... </oldsource>
         <translation>Kategori dosyası aktarılıyor, lütfen bekleyin...</translation>
@@ -17962,86 +18003,86 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
 <context>
     <name>InfoExif</name>
     <message>
-        <location filename="DBFilterModel.cpp" line="2107"/>
+        <location filename="DBFilterModel.cpp" line="2215"/>
         <location filename="SearchField.cpp" line="83"/>
         <location filename="TemplateData.cpp" line="2653"/>
         <source>Maker</source>
         <translation>Yapımcı</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2111"/>
+        <location filename="DBFilterModel.cpp" line="2219"/>
         <location filename="SearchField.cpp" line="84"/>
         <location filename="TemplateData.cpp" line="2654"/>
         <source>Model</source>
         <translation>Model</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2115"/>
+        <location filename="DBFilterModel.cpp" line="2223"/>
         <source>Lens</source>
         <translation type="unfinished">Lens</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2123"/>
+        <location filename="DBFilterModel.cpp" line="2231"/>
         <source>ISO</source>
         <translation>ISO</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2131"/>
+        <location filename="DBFilterModel.cpp" line="2239"/>
         <source>Shutter Speed</source>
         <translation type="unfinished">Poz Süresi</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2143"/>
+        <location filename="DBFilterModel.cpp" line="2251"/>
         <source>Colour Space</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2226"/>
+        <location filename="DBFilterModel.cpp" line="1673"/>
         <source>Not Defined</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2228"/>
+        <location filename="DBFilterModel.cpp" line="1674"/>
         <source>Manual</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2230"/>
+        <location filename="DBFilterModel.cpp" line="1675"/>
         <source>Program AE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2232"/>
+        <location filename="DBFilterModel.cpp" line="1676"/>
         <source>Aperture-priority AE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2234"/>
+        <location filename="DBFilterModel.cpp" line="1677"/>
         <source>Shutter speed priority AE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2236"/>
+        <location filename="DBFilterModel.cpp" line="1678"/>
         <source>Creative</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2238"/>
+        <location filename="DBFilterModel.cpp" line="1679"/>
         <source>Action</source>
         <translation type="unfinished">Görev</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2240"/>
+        <location filename="DBFilterModel.cpp" line="1680"/>
         <source>Portrait</source>
         <translation type="unfinished">Portre</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2242"/>
+        <location filename="DBFilterModel.cpp" line="1681"/>
         <source>Landscape</source>
         <translation type="unfinished">Peyzaj</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2119"/>
+        <location filename="DBFilterModel.cpp" line="2227"/>
         <source>Focal Length</source>
         <translation>Odak boyutu</translation>
     </message>
@@ -18084,7 +18125,7 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <translation>Kullanıcı Yorumu</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2127"/>
+        <location filename="DBFilterModel.cpp" line="2235"/>
         <location filename="SearchField.cpp" line="93"/>
         <location filename="TemplateData.cpp" line="2687"/>
         <source>F-Number</source>
@@ -18107,7 +18148,7 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <translation>Değiştirilen Tarih/Zaman</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2099"/>
+        <location filename="DBFilterModel.cpp" line="2207"/>
         <location filename="TemplateData.cpp" line="2658"/>
         <source>Orientation</source>
         <translation>Yönelim</translation>
@@ -18200,7 +18241,7 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <translation>Poz Zamanı (s)</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2135"/>
+        <location filename="DBFilterModel.cpp" line="2243"/>
         <location filename="TemplateData.cpp" line="2683"/>
         <source>Exposure Program</source>
         <translation>Poz Programı</translation>
@@ -18553,17 +18594,17 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <translation>Anahtar Kelimeler ve Kategoriler</translation>
     </message>
     <message>
-        <location filename="InfoIPTCView.cpp" line="125"/>
+        <location filename="InfoIPTCView.cpp" line="124"/>
         <source>Credits</source>
         <translation>Teşekkürler</translation>
     </message>
     <message>
-        <location filename="InfoIPTCView.cpp" line="129"/>
+        <location filename="InfoIPTCView.cpp" line="128"/>
         <source>Status</source>
         <translation>Durum</translation>
     </message>
     <message>
-        <location filename="InfoIPTCView.cpp" line="133"/>
+        <location filename="InfoIPTCView.cpp" line="132"/>
         <source>Origin</source>
         <translation>Kaynak</translation>
     </message>
@@ -18968,7 +19009,7 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
         <translation>Konum</translation>
     </message>
     <message>
-        <location filename="InfoIPTCView.cpp" line="148"/>
+        <location filename="InfoIPTCView.cpp" line="146"/>
         <source>Other</source>
         <translation>Diğer</translation>
     </message>
@@ -19114,57 +19155,57 @@ Favori &quot;%1 &quot;i silmek istiyor musunuz?</translation>
 <context>
     <name>InfoPropertiesView</name>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="64"/>
+        <location filename="InfoPropertiesView.cpp" line="60"/>
         <source>Image</source>
         <translation>Resim</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="108"/>
+        <location filename="InfoPropertiesView.cpp" line="104"/>
         <source>Yes</source>
         <translation>Evet</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="108"/>
+        <location filename="InfoPropertiesView.cpp" line="104"/>
         <source>No</source>
         <translation>Hayır</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="128"/>
+        <location filename="InfoPropertiesView.cpp" line="124"/>
         <source>Top-Right</source>
         <translation>Üst-Sağ</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="131"/>
+        <location filename="InfoPropertiesView.cpp" line="127"/>
         <source>Bottom-Left</source>
         <translation>Alt-Sol</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="134"/>
+        <location filename="InfoPropertiesView.cpp" line="130"/>
         <source>Bottom-Right</source>
         <translation>Alt-Sağ</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="138"/>
+        <location filename="InfoPropertiesView.cpp" line="134"/>
         <source>Top-Left</source>
         <translation>Üst-Sol</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="155"/>
+        <location filename="InfoPropertiesView.cpp" line="151"/>
         <source>Extra</source>
         <translation type="unfinished">Ekstra</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="171"/>
+        <location filename="InfoPropertiesView.cpp" line="167"/>
         <source>Camera</source>
         <translation>Kamera</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="195"/>
+        <location filename="InfoPropertiesView.cpp" line="191"/>
         <source>Color Profile</source>
         <translation>Renk Profili</translation>
     </message>
     <message>
-        <location filename="InfoPropertiesView.cpp" line="229"/>
+        <location filename="InfoPropertiesView.cpp" line="225"/>
         <source>Extra info</source>
         <translation>Ekstra Bilgi</translation>
     </message>
@@ -19697,8 +19738,8 @@ Devam etmek istiyor musunuz?</translation>
 <context>
     <name>MainMenu</name>
     <message>
-        <location filename="MainMenu.cpp" line="564"/>
-        <location filename="MainMenu.cpp" line="585"/>
+        <location filename="MainMenu.cpp" line="574"/>
+        <location filename="MainMenu.cpp" line="595"/>
         <source>ToolBar %1</source>
         <translation>Araç Çubuğu %1</translation>
     </message>
@@ -19773,12 +19814,12 @@ Devam etmek istiyor musunuz?</translation>
 <context>
     <name>MenuBrowser</name>
     <message>
-        <location filename="BrowserWindow.cpp" line="4521"/>
+        <location filename="BrowserWindow.cpp" line="4536"/>
         <source>New Folder</source>
         <translation>Yeni Klasör</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4533"/>
+        <location filename="BrowserWindow.cpp" line="4548"/>
         <source>Rename</source>
         <translation>Yeniden Adlandır</translation>
     </message>
@@ -19984,16 +20025,17 @@ Devam etmek istiyor musunuz?</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="66"/>
-        <source>Name - numeric order</source>
-        <translation>Ad - sayısal sıra</translation>
+        <source>Name - natural order</source>
+        <oldsource>Name - numeric order</oldsource>
+        <translation type="unfinished">Ad - sayısal sıra</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="67"/>
+        <location filename="BrowserMenu.h" line="68"/>
         <source>Name - normal order</source>
         <translation>Ad - normal sıra</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="68"/>
+        <location filename="BrowserMenu.h" line="67"/>
         <source>Name - alphabetic order</source>
         <translation>Ad - alfabetik sıra</translation>
     </message>
@@ -20543,13 +20585,13 @@ Devam etmek istiyor musunuz?</translation>
         <translation>Dosya Listesi Aç...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4524"/>
+        <location filename="BrowserWindow.cpp" line="4539"/>
         <location filename="BrowserMenu.h" line="431"/>
         <source>Cut</source>
         <translation>Kes</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4526"/>
+        <location filename="BrowserWindow.cpp" line="4541"/>
         <location filename="BrowserMenu.h" line="433"/>
         <source>Copy</source>
         <translation>Kopyala</translation>
@@ -20570,7 +20612,7 @@ Devam etmek istiyor musunuz?</translation>
         <translation>Seçili Dosya Ad(lar)ı ve Yol(lar)</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4528"/>
+        <location filename="BrowserWindow.cpp" line="4543"/>
         <location filename="BrowserMenu.h" line="438"/>
         <source>Paste</source>
         <translation>Yapıştır</translation>
@@ -20607,19 +20649,19 @@ Devam etmek istiyor musunuz?</translation>
         <translation type="unfinished">Etiketlenen Dosyaları Seç</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4536"/>
+        <location filename="BrowserWindow.cpp" line="4551"/>
         <location filename="BrowserMenu.h" line="448"/>
         <source>Copy to...</source>
         <translation>Kopyala...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4538"/>
+        <location filename="BrowserWindow.cpp" line="4553"/>
         <location filename="BrowserMenu.h" line="449"/>
         <source>Move to...</source>
         <translation>Taşı...</translation>
     </message>
     <message>
-        <location filename="BrowserWindow.cpp" line="4531"/>
+        <location filename="BrowserWindow.cpp" line="4546"/>
         <location filename="BrowserMenu.h" line="450"/>
         <source>Delete</source>
         <translation>Sil</translation>
@@ -21191,27 +21233,27 @@ Devam etmek istiyor musunuz?</translation>
         <translation>TWAIN kaynağı seç...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="830"/>
+        <location filename="BrowserMenu.h" line="831"/>
         <source>&amp;File</source>
         <translation>&amp;Dosya</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="831"/>
+        <location filename="BrowserMenu.h" line="832"/>
         <source>&amp;Edit</source>
         <translation>Düz&amp;en</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="832"/>
+        <location filename="BrowserMenu.h" line="833"/>
         <source>&amp;View</source>
         <translation>&amp;Görünüm</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="833"/>
+        <location filename="BrowserMenu.h" line="834"/>
         <source>Meta&amp;data</source>
         <translation type="unfinished">Metaveri</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="834"/>
+        <location filename="BrowserMenu.h" line="835"/>
         <source>&amp;Tools</source>
         <translation>&amp;Araçlar</translation>
     </message>
@@ -21221,12 +21263,12 @@ Devam etmek istiyor musunuz?</translation>
         <translation>(TWAIN) içine al...</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="835"/>
+        <location filename="BrowserMenu.h" line="836"/>
         <source>C&amp;reate</source>
         <translation>Oluştu&amp;r</translation>
     </message>
     <message>
-        <location filename="BrowserMenu.h" line="836"/>
+        <location filename="BrowserMenu.h" line="837"/>
         <source>&amp;Help</source>
         <translation>&amp;Yardım</translation>
     </message>
@@ -21239,95 +21281,95 @@ Devam etmek istiyor musunuz?</translation>
 <context>
     <name>MenuGlobal</name>
     <message>
-        <location filename="xnview.cpp" line="1344"/>
+        <location filename="xnview.cpp" line="1351"/>
         <source>Quit</source>
         <translation>Çıkış</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1345"/>
+        <location filename="xnview.cpp" line="1352"/>
         <source>About</source>
         <translation>Hakkında</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1346"/>
+        <location filename="xnview.cpp" line="1353"/>
         <source>PlugIns...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1347"/>
+        <location filename="xnview.cpp" line="1354"/>
         <source>Website...</source>
         <oldsource>Visit XnView&apos;s Website...</oldsource>
         <translation type="unfinished">XnView web sitesine git...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1348"/>
+        <location filename="xnview.cpp" line="1355"/>
         <source>Forum...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1349"/>
+        <location filename="xnview.cpp" line="1356"/>
         <source>Technical Support...</source>
         <translation>Teknik Destek...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1350"/>
+        <location filename="xnview.cpp" line="1357"/>
         <source>Report a Bug...</source>
         <oldsource>Report a Bug......</oldsource>
         <translation>Hata Bildir...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1351"/>
+        <location filename="xnview.cpp" line="1358"/>
         <source>Wiki...</source>
         <translation>Wiki...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1352"/>
+        <location filename="xnview.cpp" line="1359"/>
         <source>Make a donation...</source>
         <translation>Bağış Yap...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1353"/>
+        <location filename="xnview.cpp" line="1360"/>
         <source>Check for update...</source>
         <translation>Günceleme için kontrol et...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1354"/>
+        <location filename="xnview.cpp" line="1361"/>
         <source>Registration...</source>
         <translation>Kayıt...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1355"/>
+        <location filename="xnview.cpp" line="1362"/>
         <source>Purchase...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1365"/>
-        <location filename="xnview.cpp" line="1367"/>
+        <location filename="xnview.cpp" line="1372"/>
+        <location filename="xnview.cpp" line="1374"/>
         <source>Settings...</source>
         <translation>Ayarlar...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1371"/>
+        <location filename="xnview.cpp" line="1378"/>
         <source>Always on top</source>
         <translation>Her Zaman Üstte</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1373"/>
+        <location filename="xnview.cpp" line="1380"/>
         <source>Titlebar</source>
         <translation>Başlık çubuğu</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1374"/>
+        <location filename="xnview.cpp" line="1381"/>
         <source>Show</source>
         <translation>Göster</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1375"/>
+        <location filename="xnview.cpp" line="1382"/>
         <source>Bottom</source>
         <translation>Alt</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1376"/>
+        <location filename="xnview.cpp" line="1383"/>
         <source>Tab</source>
         <translation>Sekme</translation>
     </message>
@@ -21470,1050 +21512,1055 @@ Devam etmek istiyor musunuz?</translation>
 <context>
     <name>MenuView</name>
     <message>
-        <location filename="ViewMenu.h" line="355"/>
+        <location filename="ViewMenu.h" line="356"/>
         <source>No fit</source>
         <translation>Sığdırma yok</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="356"/>
+        <location filename="ViewMenu.h" line="357"/>
         <source>Fit image to window</source>
         <translation>Resmi pencereye sığdır</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="357"/>
+        <location filename="ViewMenu.h" line="358"/>
         <source>Fit image to window, large only</source>
         <translation>Resim pencereden büyükse, pencereye sığdır</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="359"/>
+        <location filename="ViewMenu.h" line="360"/>
         <source>Fit image to window width</source>
         <translation>Resmi pencere genişliğine sığdır</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="360"/>
+        <location filename="ViewMenu.h" line="361"/>
         <source>Fit image to window height</source>
         <translation>Resmi pencere yüksekliğine sığdır</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="361"/>
+        <location filename="ViewMenu.h" line="362"/>
         <source>Fit image to window width or height</source>
         <translation>Resmi pencere genişliği veya yüksekliğine sığdır</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="178"/>
-        <location filename="ViewMenu.h" line="344"/>
+        <location filename="ViewMenu.h" line="345"/>
         <source>Free</source>
         <translation>Serbest</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="332"/>
+        <location filename="ViewMenu.h" line="333"/>
         <source>Image content</source>
         <oldsource>Image</oldsource>
         <translation>Resim içeriği</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="358"/>
+        <location filename="ViewMenu.h" line="359"/>
         <source>Fit image to window, small only</source>
         <translation>Resim pencereden küçükse, pencereye sığdır</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="345"/>
+        <location filename="ViewMenu.h" line="346"/>
         <source>Same as image</source>
         <translation>Resmin Aynısı</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="240"/>
+        <location filename="ViewMenu.h" line="241"/>
         <source>RGB→RBG</source>
         <oldsource>RGB=&gt;RBG</oldsource>
         <translation>RGB→RBG</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="241"/>
+        <location filename="ViewMenu.h" line="242"/>
         <source>RGB→BGR</source>
         <oldsource>RGB=&gt;BGR</oldsource>
         <translation>RGB→BGR</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="242"/>
+        <location filename="ViewMenu.h" line="243"/>
         <source>RGB→BRG</source>
         <oldsource>RGB=&gt;BRG</oldsource>
         <translation>RGB→BRG</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="243"/>
+        <location filename="ViewMenu.h" line="244"/>
         <source>RGB→GRB</source>
         <oldsource>RGB=&gt;GRB</oldsource>
         <translation>RGB→GRB</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="244"/>
+        <location filename="ViewMenu.h" line="245"/>
         <source>RGB→GBR</source>
         <oldsource>RGB=&gt;GBR</oldsource>
         <translation>RGB→GBR</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="249"/>
+        <location filename="ViewMenu.h" line="250"/>
         <source>Red</source>
         <translation>Kırmızı</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="250"/>
+        <location filename="ViewMenu.h" line="251"/>
         <source>Green</source>
         <translation>Yeşil</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="251"/>
+        <location filename="ViewMenu.h" line="252"/>
         <source>Blue</source>
         <translation>Mavi</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="252"/>
+        <location filename="ViewMenu.h" line="253"/>
         <source>Alpha</source>
         <translation>Alfa</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="257"/>
+        <location filename="ViewMenu.h" line="258"/>
         <source>Left</source>
         <oldsource>To the left</oldsource>
         <translation>Sol</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="258"/>
+        <location filename="ViewMenu.h" line="259"/>
         <source>Right</source>
         <oldsource>To the right</oldsource>
         <translation>Sağ</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="260"/>
+        <location filename="ViewMenu.h" line="261"/>
         <source>Bottom</source>
         <oldsource>To the bottom</oldsource>
         <translation>Dip</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="307"/>
+        <location filename="ViewMenu.h" line="308"/>
         <source>Open...</source>
         <translation>Aç...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="308"/>
+        <location filename="ViewMenu.h" line="309"/>
         <source>Open with</source>
         <translation>Birlikte Aç</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="309"/>
+        <location filename="ViewMenu.h" line="310"/>
         <source>Recent files</source>
         <translation>Son açılan dosyalar</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="310"/>
+        <location filename="ViewMenu.h" line="311"/>
         <source>Browse</source>
         <translation>Gözat</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="311"/>
+        <location filename="ViewMenu.h" line="312"/>
         <source>Format settings...</source>
         <translation>Biçim Ayarları...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="314"/>
+        <location filename="ViewMenu.h" line="315"/>
         <source>Open in file manager</source>
         <oldsource>Open in file explorer</oldsource>
         <translation type="unfinished">Dosya Gezgininde Aç</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="315"/>
+        <location filename="ViewMenu.h" line="316"/>
         <source>Reload</source>
         <translation>Yeniden Yükle</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="316"/>
+        <location filename="ViewMenu.h" line="317"/>
         <source>Save</source>
         <translation>Kaydet</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="317"/>
+        <location filename="ViewMenu.h" line="318"/>
         <source>Save as...</source>
         <translation>Farklı Kaydet...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="318"/>
+        <location filename="ViewMenu.h" line="319"/>
         <source>Save a copy...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="319"/>
+        <location filename="ViewMenu.h" line="320"/>
         <source>Save selection...</source>
         <translation>Seçimi Kaydet...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="320"/>
+        <location filename="ViewMenu.h" line="321"/>
         <source>Print...</source>
         <translation>Yazdır...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="321"/>
+        <location filename="ViewMenu.h" line="322"/>
         <source>Print selection...</source>
         <translation>Seçimi yaz...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="322"/>
+        <location filename="ViewMenu.h" line="323"/>
         <source>Print opened images...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="323"/>
+        <location filename="ViewMenu.h" line="324"/>
         <source>Close</source>
         <translation>Kapat</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="325"/>
+        <location filename="ViewMenu.h" line="326"/>
         <source>Undo</source>
         <translation>Geri Al</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="326"/>
+        <location filename="ViewMenu.h" line="327"/>
         <source>Redo</source>
         <translation>İleri Al</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="327"/>
+        <location filename="ViewMenu.h" line="328"/>
         <source>Cut</source>
         <translation>Kes</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="328"/>
+        <location filename="ViewMenu.h" line="329"/>
         <source>Copy</source>
         <translation>Kopyala</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="329"/>
+        <location filename="ViewMenu.h" line="330"/>
         <source>Paste</source>
         <translation>Yapıştır</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="330"/>
+        <location filename="ViewMenu.h" line="331"/>
         <source>Paste in selection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="333"/>
+        <location filename="ViewMenu.h" line="334"/>
         <source>Path</source>
         <translation>Yol</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="334"/>
+        <location filename="ViewMenu.h" line="335"/>
         <source>Filename</source>
         <translation>Dosya Adı</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="335"/>
+        <location filename="ViewMenu.h" line="336"/>
         <source>Filename and path</source>
         <translation>Dosya Adı ve Yol</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="336"/>
+        <location filename="ViewMenu.h" line="337"/>
         <source>Background color...</source>
         <translation>Arkaplan Rengi...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="337"/>
+        <location filename="ViewMenu.h" line="338"/>
         <source>Crop...</source>
         <oldsource>Crop</oldsource>
         <translation>Kırp...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="340"/>
+        <location filename="ViewMenu.h" line="341"/>
         <source>Spotlight...</source>
         <translation>Spot Işıkları...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="341"/>
+        <location filename="ViewMenu.h" line="342"/>
         <source>Red-Eye correction</source>
         <oldsource>Red-Eyes reduction</oldsource>
         <translation>Kırmızı-Göz düzeltme</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="347"/>
+        <location filename="ViewMenu.h" line="348"/>
         <source>Select all</source>
         <translation>Hepsini Seç</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="348"/>
+        <location filename="ViewMenu.h" line="349"/>
         <source>Select none</source>
         <translation>Hiçbirini Seçme</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="349"/>
+        <location filename="ViewMenu.h" line="350"/>
         <source>Selection - swap width &amp;&amp; height</source>
         <translation>Seçim Yükseklik ve Genişliği Yer Değiştir</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="350"/>
+        <location filename="ViewMenu.h" line="351"/>
         <source>Save selection</source>
         <translation>Seçimleri kaydet</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="351"/>
+        <location filename="ViewMenu.h" line="352"/>
         <source>Restore selection</source>
         <translation>Seçimleri geri yükle</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="352"/>
+        <location filename="ViewMenu.h" line="353"/>
         <source>Selection - set ratio</source>
         <oldsource>Set selection ratio</oldsource>
         <translation type="unfinished">Seçim Oranını Ayarla</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="353"/>
+        <location filename="ViewMenu.h" line="354"/>
         <source>Selection - set size</source>
         <oldsource>Set selection size</oldsource>
         <translation type="unfinished">Seçim Boyutunu Ayarla</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="362"/>
+        <location filename="ViewMenu.h" line="363"/>
         <source>Fit window to image</source>
         <translation>Pencereyi görüntüye sığdır</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="363"/>
+        <location filename="ViewMenu.h" line="364"/>
         <source>Fit image to desktop</source>
         <translation>Resmi masaüstüne sığdır</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="365"/>
+        <location filename="ViewMenu.h" line="366"/>
         <source>Copy to...</source>
         <translation>Kopyala...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="366"/>
+        <location filename="ViewMenu.h" line="367"/>
         <source>Move to...</source>
         <translation>Taşı...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="367"/>
+        <location filename="ViewMenu.h" line="368"/>
         <source>Delete...</source>
         <translation>Sil...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="368"/>
+        <location filename="ViewMenu.h" line="369"/>
         <source>Rename...</source>
         <translation>Yeniden Adlandır...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="370"/>
+        <location filename="ViewMenu.h" line="371"/>
         <source>Check/Uncheck</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="379"/>
+        <location filename="ViewMenu.h" line="380"/>
         <source>##rating## (go to next image)</source>
         <oldsource>Excellent (go to next image)</oldsource>
         <translation>##rating## (sonraki resme geç)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="397"/>
+        <location filename="ViewMenu.h" line="398"/>
         <source>##label## (go to next image)</source>
         <translation>##label## (sonraki resme geç)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="408"/>
+        <location filename="ViewMenu.h" line="409"/>
         <source>Set Rating</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="409"/>
+        <location filename="ViewMenu.h" line="410"/>
         <source>Set Color label</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="447"/>
+        <location filename="ViewMenu.h" line="422"/>
+        <source>Center image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="ViewMenu.h" line="449"/>
         <source>Play/Pause media</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="454"/>
+        <location filename="ViewMenu.h" line="456"/>
         <source>Use anti-aliasing</source>
         <oldsource>Use antialiasing</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="455"/>
+        <location filename="ViewMenu.h" line="457"/>
         <source>Use transparency grid</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="456"/>
+        <location filename="ViewMenu.h" line="458"/>
         <source>Show channel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="457"/>
+        <location filename="ViewMenu.h" line="459"/>
         <source>Show clipping</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="458"/>
+        <location filename="ViewMenu.h" line="460"/>
         <source>Channel clipping</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="459"/>
+        <location filename="ViewMenu.h" line="461"/>
         <source>Highlight &amp;&amp; Shadow clipping</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="500"/>
+        <location filename="ViewMenu.h" line="502"/>
         <source>Remove Background</source>
         <translation>Arka Planı Kaldır</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="502"/>
+        <location filename="ViewMenu.h" line="504"/>
         <source>Remove horizontal strip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="503"/>
+        <location filename="ViewMenu.h" line="505"/>
         <source>Remove vertical strip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="505"/>
+        <location filename="ViewMenu.h" line="507"/>
         <source>Rotate 90° right</source>
         <translation>90° sağa döndürün</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="436"/>
+        <location filename="ViewMenu.h" line="438"/>
         <source>Navigate to</source>
         <translation>Şuraya gidin</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="467"/>
+        <location filename="ViewMenu.h" line="469"/>
         <source>Open GPS location in</source>
         <translation>GPS konumunu şurada açın</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="470"/>
+        <location filename="ViewMenu.h" line="472"/>
         <source>Edit comment...</source>
         <translation>Yorumu düzenle...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="259"/>
+        <location filename="ViewMenu.h" line="260"/>
         <source>Top</source>
         <translation>Üst</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="331"/>
+        <location filename="ViewMenu.h" line="332"/>
         <source>Clear selection</source>
         <translation>Seçimi temizle</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="338"/>
+        <location filename="ViewMenu.h" line="339"/>
         <source>Add text...</source>
         <translation>Metin ekle...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="339"/>
+        <location filename="ViewMenu.h" line="340"/>
         <source>Add watermark...</source>
         <oldsource>Watermark...</oldsource>
         <translation type="unfinished">Filigran...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="411"/>
+        <location filename="ViewMenu.h" line="412"/>
         <source>Previous file</source>
         <translation>Önceki Dosya</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="412"/>
+        <location filename="ViewMenu.h" line="413"/>
         <source>Next file</source>
         <translation>Sonraki Dosya</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="413"/>
+        <location filename="ViewMenu.h" line="414"/>
         <source>First file</source>
         <translation>İlk Dosya</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="414"/>
+        <location filename="ViewMenu.h" line="415"/>
         <source>Last file</source>
         <translation>Son Dosya</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="415"/>
+        <location filename="ViewMenu.h" line="416"/>
         <source>Random file</source>
         <translation>Rastgele dosya</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="416"/>
+        <location filename="ViewMenu.h" line="417"/>
         <source>Previous page</source>
         <translation>Önceki Sayfa</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="417"/>
+        <location filename="ViewMenu.h" line="418"/>
         <source>Next page</source>
         <translation>Sonraki Sayfa</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="418"/>
+        <location filename="ViewMenu.h" line="419"/>
         <source>First page</source>
         <translation>İlk Sayfa</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="419"/>
+        <location filename="ViewMenu.h" line="420"/>
         <source>Last page</source>
         <translation>Son Sayfa</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="423"/>
+        <location filename="ViewMenu.h" line="425"/>
         <source>Quick Slideshow</source>
         <translation>Hızlı slayt gösterim</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="425"/>
+        <location filename="ViewMenu.h" line="427"/>
         <source>Fullscreen</source>
         <translation>Tam Ekran</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="426"/>
+        <location filename="ViewMenu.h" line="428"/>
         <source>Real size</source>
         <translation>Gerçek Boyut</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="427"/>
+        <location filename="ViewMenu.h" line="429"/>
         <source>100%</source>
         <translation>100%</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="428"/>
+        <location filename="ViewMenu.h" line="430"/>
         <source>Zoom in</source>
         <translation>Yakınlaştır</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="429"/>
+        <location filename="ViewMenu.h" line="431"/>
         <source>Zoom out</source>
         <translation>Uzaklaştır</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="430"/>
+        <location filename="ViewMenu.h" line="432"/>
         <source>Lock zoom</source>
         <translation>Yakınlaştırmayı Sabitle</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="433"/>
+        <location filename="ViewMenu.h" line="435"/>
         <source>Zoom</source>
         <translation>Yakınlaştırma</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="434"/>
+        <location filename="ViewMenu.h" line="436"/>
         <source>File</source>
         <translation>Dosya</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="435"/>
+        <location filename="ViewMenu.h" line="437"/>
         <source>Page</source>
         <translation>Sayfa</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="437"/>
+        <location filename="ViewMenu.h" line="439"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
         <translation>Transparan İndex Kullan (≤ 8bits)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="438"/>
+        <location filename="ViewMenu.h" line="440"/>
         <source>Use alpha channel</source>
         <translation>Alfa Kanalı Kullan</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="439"/>
+        <location filename="ViewMenu.h" line="441"/>
         <source>Show alpha</source>
         <translation>Alfa Göster</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="440"/>
+        <location filename="ViewMenu.h" line="442"/>
         <source>Show red</source>
         <translation>Kırmızı Göster</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="441"/>
+        <location filename="ViewMenu.h" line="443"/>
         <source>Show green</source>
         <translation>Yeşil Göster</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="442"/>
+        <location filename="ViewMenu.h" line="444"/>
         <source>Show blue</source>
         <translation>Mavi Göster</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="443"/>
+        <location filename="ViewMenu.h" line="445"/>
         <source>Show grid</source>
         <translation>Kılavuz çizgileri göster</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="444"/>
+        <location filename="ViewMenu.h" line="446"/>
         <source>Grid settings...</source>
         <translation>Kılavuz çizgi ayarları...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="445"/>
+        <location filename="ViewMenu.h" line="447"/>
         <source>Show information</source>
         <translation>Bilgileri Göster</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="446"/>
+        <location filename="ViewMenu.h" line="448"/>
         <source>Show histogram</source>
         <translation>Histogramı Göster</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="448"/>
+        <location filename="ViewMenu.h" line="450"/>
         <source>Draw as Snapshot (icons only)</source>
         <oldsource>Icon snapshot on/off</oldsource>
         <translation type="unfinished">Simge Görüntüsü Açık/Kapalı</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="449"/>
+        <location filename="ViewMenu.h" line="451"/>
         <source>Show colour information</source>
         <translation>Renk Bilgisi Göster</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="451"/>
+        <location filename="ViewMenu.h" line="453"/>
         <source>Toolbar</source>
         <translation>Araç Çubuğu</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="452"/>
+        <location filename="ViewMenu.h" line="454"/>
         <source>Status bar</source>
         <translation>Durum Çubuğu</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="420"/>
+        <location filename="ViewMenu.h" line="421"/>
         <source>Pan to coordinates...</source>
         <oldsource>Go to x,y location...</oldsource>
         <translation type="unfinished">x,y konumuna git...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="453"/>
+        <location filename="ViewMenu.h" line="455"/>
         <source>Show people&apos;s region</source>
         <translation>İnsanların bölgesini göster</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="461"/>
+        <location filename="ViewMenu.h" line="463"/>
         <source>Export...</source>
         <translation>Dışa Aktar...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="462"/>
+        <location filename="ViewMenu.h" line="464"/>
         <source>Batch convert...</source>
         <translation>Çoklu Dönüştürme...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="468"/>
+        <location filename="ViewMenu.h" line="470"/>
         <source>Set as wallpaper...</source>
         <translation>Duvar Kağıdı Olarak Ayarla...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="469"/>
+        <location filename="ViewMenu.h" line="471"/>
         <source>Properties...</source>
         <translation>Özellikler...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="471"/>
+        <location filename="ViewMenu.h" line="473"/>
         <source>Draw...</source>
         <translation>Çiz...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="472"/>
+        <location filename="ViewMenu.h" line="474"/>
         <source>Set DPI...</source>
         <translation>DPI ayarla...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="475"/>
+        <location filename="ViewMenu.h" line="477"/>
         <source>Change color depth...</source>
         <translation>Renk Derinliğini Değiştir...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="476"/>
+        <location filename="ViewMenu.h" line="478"/>
         <source>Automatic levels</source>
         <translation>Otomatik Dereceler</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="477"/>
+        <location filename="ViewMenu.h" line="479"/>
         <source>Automatic contrast</source>
         <translation>Otomatik Kontrast</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="478"/>
+        <location filename="ViewMenu.h" line="480"/>
         <source>Negative</source>
         <translation>Negatif</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="479"/>
+        <location filename="ViewMenu.h" line="481"/>
         <source>Logarithmic LUT</source>
         <oldsource>Logarithmic lut</oldsource>
         <translation>Logaritmik LUT</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="480"/>
+        <location filename="ViewMenu.h" line="482"/>
         <source>Normalize</source>
         <translation>Normalleştir</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="481"/>
+        <location filename="ViewMenu.h" line="483"/>
         <source>Equalize</source>
         <translation>Dengele</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="482"/>
+        <location filename="ViewMenu.h" line="484"/>
         <source>Solarize...</source>
         <translation>Solarize...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="483"/>
+        <location filename="ViewMenu.h" line="485"/>
         <source>Posterize...</source>
         <translation>Posterleştir...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="484"/>
+        <location filename="ViewMenu.h" line="486"/>
         <source>Sepia...</source>
         <translation>Sepya...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="485"/>
+        <location filename="ViewMenu.h" line="487"/>
         <source>Old camera...</source>
         <translation>Eski Kamera...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="486"/>
+        <location filename="ViewMenu.h" line="488"/>
         <source>Vignetting...</source>
         <translation>Vinyet...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="487"/>
+        <location filename="ViewMenu.h" line="489"/>
         <source>Enhance colors...</source>
         <translation>Renkleri Artır...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="488"/>
+        <location filename="ViewMenu.h" line="490"/>
         <source>Levels...</source>
         <translation>Seviyeler...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="490"/>
+        <location filename="ViewMenu.h" line="492"/>
         <source>User filter...</source>
         <translation>Filtre Kullan...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="491"/>
+        <location filename="ViewMenu.h" line="493"/>
         <source>Shadow/Highlight...</source>
         <translation>Gölge/Vurgu...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="495"/>
+        <location filename="ViewMenu.h" line="497"/>
         <source>Film simulation...</source>
         <translation>Film similasyonu...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="496"/>
+        <location filename="ViewMenu.h" line="498"/>
         <source>Curves...</source>
         <translation>Eğriler...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="497"/>
+        <location filename="ViewMenu.h" line="499"/>
         <source>Desaturate</source>
         <translation>Doymama</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="498"/>
+        <location filename="ViewMenu.h" line="500"/>
         <source>Offset...</source>
         <translation>Dengeleme...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="499"/>
+        <location filename="ViewMenu.h" line="501"/>
         <source>White Balance...</source>
         <translation>Beyaz Dengesi...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="501"/>
+        <location filename="ViewMenu.h" line="503"/>
         <source>Automatic crop...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="508"/>
+        <location filename="ViewMenu.h" line="510"/>
         <source>Rotate...</source>
         <translation>Döndür...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="511"/>
+        <location filename="ViewMenu.h" line="513"/>
         <source>Automatic Deskew</source>
         <translation>Otomatik Eğrilik Düzeltme</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="512"/>
+        <location filename="ViewMenu.h" line="514"/>
         <source>Remove alpha channel</source>
         <translation>Alfa kanalını kaldırma</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="514"/>
+        <location filename="ViewMenu.h" line="516"/>
         <source>Resize...</source>
         <oldsource>Resize new...</oldsource>
         <translation type="unfinished">Yeniden Boyutlandır...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="515"/>
+        <location filename="ViewMenu.h" line="517"/>
         <source>Canvas resize...</source>
         <translation>Tuval Boyutlandır...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="516"/>
+        <location filename="ViewMenu.h" line="518"/>
         <source>Map</source>
         <translation>Harita</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="517"/>
+        <location filename="ViewMenu.h" line="519"/>
         <source>Adjust</source>
         <translation>Ayarla</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="518"/>
+        <location filename="ViewMenu.h" line="520"/>
         <source>Rotate</source>
         <translation>Döndür</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="519"/>
+        <location filename="ViewMenu.h" line="521"/>
         <source>Mirror</source>
         <translation>Ayna</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="520"/>
+        <location filename="ViewMenu.h" line="522"/>
         <source>Count colors used</source>
         <translation>Kullanılan Renk Miktarı</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="521"/>
+        <location filename="ViewMenu.h" line="523"/>
         <source>Swap color</source>
         <oldsource>Swap</oldsource>
         <translation type="unfinished">Takas Et</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="522"/>
+        <location filename="ViewMenu.h" line="524"/>
         <source>Extract channel</source>
         <translation>Kanalı Çıkart</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="523"/>
+        <location filename="ViewMenu.h" line="525"/>
         <source>Copy to clipboard</source>
         <translation>Panoya Kopyala</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="524"/>
+        <location filename="ViewMenu.h" line="526"/>
         <source>Paste outside</source>
         <oldsource>Paste special</oldsource>
         <translation>Dışına yapıştır</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="526"/>
+        <location filename="ViewMenu.h" line="528"/>
         <source>Adobe Photoshop Plugin...</source>
         <translation>Adobe Photoshop Eklentisi...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="529"/>
+        <location filename="ViewMenu.h" line="531"/>
         <source>Edit IPTC...</source>
         <translation>IPTC&apos;yi Düzenle...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="530"/>
+        <location filename="ViewMenu.h" line="532"/>
         <source>Edit XMP...</source>
         <translation>XMP&apos;yi Düzenle...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="532"/>
+        <location filename="ViewMenu.h" line="534"/>
         <source>Clean metadata...</source>
         <translation>Metaveriyi Sil</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="533"/>
+        <location filename="ViewMenu.h" line="535"/>
         <source>Join images...</source>
         <translation type="unfinished">Resimleri birleştir...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="534"/>
+        <location filename="ViewMenu.h" line="536"/>
         <source>Contact sheet...</source>
         <translation type="unfinished">İletişim formu...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="535"/>
+        <location filename="ViewMenu.h" line="537"/>
         <source>Slideshow...</source>
         <translation type="unfinished">Slayt gösterisi...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="536"/>
+        <location filename="ViewMenu.h" line="538"/>
         <source>Send by email...</source>
         <translation type="unfinished">E-posta ile gönder...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="538"/>
+        <location filename="ViewMenu.h" line="540"/>
         <source>Rotate 90° right (lossless)</source>
         <translation>90° sağa döndür (kayıpsız)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="539"/>
+        <location filename="ViewMenu.h" line="541"/>
         <source>Rotate 90° left (lossless)</source>
         <translation>90° sola döndür (kayıpsız)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="540"/>
+        <location filename="ViewMenu.h" line="542"/>
         <source>Rotate 180° (lossless)</source>
         <translation>180° döndürme (kayıpsız)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="543"/>
+        <location filename="ViewMenu.h" line="545"/>
         <source>Flip horizontally (lossless)</source>
         <translation>Yatay çevirme (kayıpsız)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="544"/>
+        <location filename="ViewMenu.h" line="546"/>
         <source>Flip vertically (lossless)</source>
         <translation>Dikey olarak çevirin (kayıpsız)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="545"/>
+        <location filename="ViewMenu.h" line="547"/>
         <source>Crop (lossless)</source>
         <translation>Kırpma (kayıpsız)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="549"/>
+        <location filename="ViewMenu.h" line="551"/>
         <source>Paste as image</source>
         <translation>Resim olarak yapıştır</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="553"/>
+        <location filename="ViewMenu.h" line="555"/>
         <source>Acquire (TWAIN)</source>
         <translation>Edin (TWAIN)</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="554"/>
+        <location filename="ViewMenu.h" line="556"/>
         <source>Acquire into (TWAIN)...</source>
         <oldsource>Acquire into (TWAIN)......</oldsource>
         <translation>(TWAIN) içine alın...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="531"/>
+        <location filename="ViewMenu.h" line="533"/>
         <source>Edit palette...</source>
         <oldsource>Edit colormap...</oldsource>
         <translation type="unfinished">Renk haritasını düzenle...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="473"/>
+        <location filename="ViewMenu.h" line="475"/>
         <source>Send by FTP...</source>
         <translation type="unfinished">FTP ile Gönder...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="489"/>
+        <location filename="ViewMenu.h" line="491"/>
         <source>Effect...</source>
         <translation>Etki...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="506"/>
+        <location filename="ViewMenu.h" line="508"/>
         <source>Rotate 180°</source>
         <oldsource>Rotate 180�</oldsource>
         <translation>180° Döndür</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="507"/>
+        <location filename="ViewMenu.h" line="509"/>
         <source>Rotate 90° left</source>
         <translation>90° sola döndürün</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="509"/>
+        <location filename="ViewMenu.h" line="511"/>
         <source>Flip horizontally</source>
         <translation>Yatay olarak çevirin</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="510"/>
+        <location filename="ViewMenu.h" line="512"/>
         <source>Flip vertically</source>
         <translation>Dikey olarak çevirin</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="541"/>
+        <location filename="ViewMenu.h" line="543"/>
         <source>Rotate based on EXIF orientation field</source>
         <translation>EXIF Yönlendirme Alanına Göre Döndür</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="542"/>
+        <location filename="ViewMenu.h" line="544"/>
         <source>Reset EXIF orientation field</source>
         <translation>EXIF Yönlendirme Alanını Sıfırla</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="546"/>
+        <location filename="ViewMenu.h" line="548"/>
         <source>Lossless transformations (JPEG)</source>
         <oldsource>JPEG lossless transformations</oldsource>
         <translation type="unfinished">JPEG Kayıpsız Döndürme</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="548"/>
+        <location filename="ViewMenu.h" line="550"/>
         <source>Capture...</source>
         <translation>Yakala...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="550"/>
+        <location filename="ViewMenu.h" line="552"/>
         <source>Empty tab...</source>
         <translation>Boş sekme...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="552"/>
+        <location filename="ViewMenu.h" line="554"/>
         <source>Select TWAIN source...</source>
         <translation>TWAIN kaynağı seç...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="556"/>
+        <location filename="ViewMenu.h" line="558"/>
         <source>New image...</source>
         <translation>Yeni resim...</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="557"/>
+        <location filename="ViewMenu.h" line="559"/>
         <source>Save All</source>
         <translation>Hepsini Kaydet</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="753"/>
+        <location filename="ViewMenu.h" line="755"/>
         <source>&amp;File</source>
         <translation>&amp;Dosya</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="754"/>
+        <location filename="ViewMenu.h" line="756"/>
         <source>&amp;Edit</source>
         <oldsource>Edit</oldsource>
         <translation>Düz&amp;en</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="755"/>
+        <location filename="ViewMenu.h" line="757"/>
         <source>&amp;View</source>
         <oldsource>View</oldsource>
         <translation>&amp;Görünüm</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="756"/>
+        <location filename="ViewMenu.h" line="758"/>
         <source>&amp;Image</source>
         <oldsource>Image</oldsource>
         <translation>Res&amp;im</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="757"/>
+        <location filename="ViewMenu.h" line="759"/>
         <source>Meta&amp;data</source>
         <oldsource>Metadata</oldsource>
         <translation type="unfinished">Metaveri</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="758"/>
+        <location filename="ViewMenu.h" line="760"/>
         <source>Effect</source>
         <translation type="unfinished">Etki</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="759"/>
+        <location filename="ViewMenu.h" line="761"/>
         <source>&amp;Tools</source>
         <translation>&amp;Araçlar</translation>
     </message>
     <message>
-        <location filename="ViewMenu.h" line="760"/>
+        <location filename="ViewMenu.h" line="762"/>
         <source>&amp;Help</source>
         <oldsource>Help</oldsource>
         <translation>&amp;Yardım</translation>
@@ -22547,81 +22594,81 @@ Devam etmek istiyor musunuz?</translation>
 <context>
     <name>Misc</name>
     <message>
-        <location filename="DlgSlideshow.cpp" line="580"/>
+        <location filename="DlgSlideshow.cpp" line="576"/>
         <source>Choose audio file</source>
         <translation>Ses dosyasını seç</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="508"/>
+        <location filename="DlgIptc.cpp" line="505"/>
         <source>Open Text File</source>
         <translation>Metin Dosyası Aç</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="603"/>
+        <location filename="InfoCategoryView.cpp" line="604"/>
         <source>Open XnView database</source>
         <translation>XnView veritabanı aç</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="998"/>
+        <location filename="DlgSettingsInterface.cpp" line="1009"/>
         <source>Choose command</source>
         <translation>Komut Seç</translation>
     </message>
     <message>
-        <location filename="DlgSettingsInterface.cpp" line="1030"/>
+        <location filename="DlgSettingsInterface.cpp" line="1041"/>
         <source>Choose icon</source>
         <translation>Simge Seç</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="221"/>
-        <location filename="DlgSlideshow.cpp" line="43"/>
+        <location filename="DlgSlideshow.cpp" line="39"/>
         <source>Top-Left</source>
         <translation>Üst-Sol</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="222"/>
-        <location filename="DlgSlideshow.cpp" line="44"/>
+        <location filename="DlgSlideshow.cpp" line="40"/>
         <source>Top-Center</source>
         <translation>Üst-Orta</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="223"/>
-        <location filename="DlgSlideshow.cpp" line="45"/>
+        <location filename="DlgSlideshow.cpp" line="41"/>
         <source>Top-Right</source>
         <translation>Üst-Sağ</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="224"/>
-        <location filename="DlgSlideshow.cpp" line="46"/>
+        <location filename="DlgSlideshow.cpp" line="42"/>
         <source>Center-Left</source>
         <translation>Orta-Sol</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="225"/>
-        <location filename="DlgSlideshow.cpp" line="47"/>
+        <location filename="DlgSlideshow.cpp" line="43"/>
         <source>Center</source>
         <translation>Orta</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="226"/>
-        <location filename="DlgSlideshow.cpp" line="48"/>
+        <location filename="DlgSlideshow.cpp" line="44"/>
         <source>Center-Right</source>
         <translation>Orta-Sağ</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="227"/>
-        <location filename="DlgSlideshow.cpp" line="49"/>
+        <location filename="DlgSlideshow.cpp" line="45"/>
         <source>Bottom-Left</source>
         <translation>Alt-Sol</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="228"/>
-        <location filename="DlgSlideshow.cpp" line="50"/>
+        <location filename="DlgSlideshow.cpp" line="46"/>
         <source>Bottom-Center</source>
         <translation>Alt-Orta</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="229"/>
-        <location filename="DlgSlideshow.cpp" line="51"/>
+        <location filename="DlgSlideshow.cpp" line="47"/>
         <source>Bottom-Right</source>
         <translation>Alt-Sağ</translation>
     </message>
@@ -22672,7 +22719,7 @@ Devam etmek istiyor musunuz?</translation>
         <translation>Tüm dosyalar</translation>
     </message>
     <message>
-        <location filename="DlgIptc.cpp" line="1196"/>
+        <location filename="DlgIptc.cpp" line="1193"/>
         <location filename="Helper.h" line="207"/>
         <source>Open Image</source>
         <translation>Resim dosyası aç</translation>
@@ -22750,7 +22797,7 @@ Devam etmek istiyor musunuz?</translation>
 <context>
     <name>MyBitmapView</name>
     <message>
-        <location filename="MyBitmapView.cpp" line="956"/>
+        <location filename="MyBitmapView.cpp" line="1004"/>
         <source>Loading image...</source>
         <oldsource>Loading image... </oldsource>
         <translation>Resim yükleniyor...</translation>
@@ -23083,17 +23130,17 @@ You can change it in Settings › Catalog.</oldsource>
 <context>
     <name>OpenWithMenu</name>
     <message>
-        <location filename="OpenWithMenu.cpp" line="320"/>
+        <location filename="OpenWithMenu.cpp" line="372"/>
         <source>Associated program</source>
         <translation>İlişkilindirilen Program</translation>
     </message>
     <message>
-        <location filename="OpenWithMenu.cpp" line="324"/>
+        <location filename="OpenWithMenu.cpp" line="376"/>
         <source>Associated editor</source>
         <translation>İlişkilindirilen Editör</translation>
     </message>
     <message>
-        <location filename="OpenWithMenu.cpp" line="329"/>
+        <location filename="OpenWithMenu.cpp" line="381"/>
         <source>Configure programs...</source>
         <translation>Programları Yapılandır...</translation>
     </message>
@@ -23101,17 +23148,17 @@ You can change it in Settings › Catalog.</oldsource>
 <context>
     <name>PaintBitmapView</name>
     <message>
-        <location filename="PaintBitmapView.cpp" line="221"/>
+        <location filename="PaintBitmapView.cpp" line="189"/>
         <source>Move to front</source>
         <translation>Öne taşı</translation>
     </message>
     <message>
-        <location filename="PaintBitmapView.cpp" line="222"/>
+        <location filename="PaintBitmapView.cpp" line="190"/>
         <source>Move to back</source>
         <translation>Arkaya taşı</translation>
     </message>
     <message>
-        <location filename="PaintBitmapView.cpp" line="224"/>
+        <location filename="PaintBitmapView.cpp" line="192"/>
         <source>Delete</source>
         <translation>Sil</translation>
     </message>
@@ -23133,7 +23180,7 @@ You can change it in Settings › Catalog.</oldsource>
 <context>
     <name>PaintText</name>
     <message>
-        <location filename="PaintText.cpp" line="70"/>
+        <location filename="PaintText.cpp" line="68"/>
         <location filename="PaintText.cpp" line="194"/>
         <source>Enter your text</source>
         <translation>Metninizi giriniz</translation>
@@ -23447,42 +23494,42 @@ You can change it in Settings › Catalog.</oldsource>
         <translation type="unfinished">Resmi ger</translation>
     </message>
     <message>
-        <location filename="PaintWidget.cpp" line="436"/>
+        <location filename="PaintWidget.cpp" line="425"/>
         <source>Draw [%1]</source>
         <translation>Çiz [%1]</translation>
     </message>
     <message>
-        <location filename="PaintWidget.cpp" line="587"/>
+        <location filename="PaintWidget.cpp" line="576"/>
         <source>X: %1, Y: %2</source>
         <translation>X: %1, Y: %2</translation>
     </message>
     <message>
-        <location filename="PaintWidget.cpp" line="592"/>
+        <location filename="PaintWidget.cpp" line="581"/>
         <source>R: %1, G: %2, B: %3 [#%4]</source>
         <translation>R: %1, G: %2, B: %3 [#%4]</translation>
     </message>
     <message>
-        <location filename="PaintWidget.cpp" line="1003"/>
+        <location filename="PaintWidget.cpp" line="992"/>
         <source>Choose an image</source>
         <translation>Bir resim seçiniz</translation>
     </message>
     <message>
-        <location filename="PaintWidget.cpp" line="1003"/>
+        <location filename="PaintWidget.cpp" line="992"/>
         <source>Images</source>
         <translation>Resimler</translation>
     </message>
     <message>
-        <location filename="PaintWidget.cpp" line="1414"/>
+        <location filename="PaintWidget.cpp" line="1403"/>
         <source>Include color</source>
         <translation>Renk dahil</translation>
     </message>
     <message>
-        <location filename="PaintWidget.cpp" line="1421"/>
+        <location filename="PaintWidget.cpp" line="1410"/>
         <source>Name:</source>
         <translation type="unfinished">İsim:</translation>
     </message>
     <message>
-        <location filename="PaintWidget.cpp" line="1429"/>
+        <location filename="PaintWidget.cpp" line="1418"/>
         <source>Preset name</source>
         <translation>Ön ayar adı</translation>
     </message>
@@ -23490,32 +23537,32 @@ You can change it in Settings › Catalog.</oldsource>
 <context>
     <name>Panel</name>
     <message>
-        <location filename="PreviewInfo.cpp" line="243"/>
+        <location filename="PreviewInfo.cpp" line="250"/>
         <source>Preview</source>
         <translation>Önizleme</translation>
     </message>
     <message>
-        <location filename="PreviewInfo.cpp" line="286"/>
+        <location filename="PreviewInfo.cpp" line="293"/>
         <source>Properties</source>
         <translation>Özellikler</translation>
     </message>
     <message>
-        <location filename="PreviewInfo.cpp" line="320"/>
+        <location filename="PreviewInfo.cpp" line="327"/>
         <source>Histogram</source>
         <translation>Histogram</translation>
     </message>
     <message>
-        <location filename="PreviewInfo.cpp" line="473"/>
+        <location filename="PreviewInfo.cpp" line="480"/>
         <source>Favorites</source>
         <translation type="unfinished">Favoriler</translation>
     </message>
     <message>
-        <location filename="PreviewInfo.cpp" line="530"/>
+        <location filename="PreviewInfo.cpp" line="537"/>
         <source>Map</source>
         <translation type="unfinished">Harita</translation>
     </message>
     <message>
-        <location filename="PreviewInfo.cpp" line="608"/>
+        <location filename="PreviewInfo.cpp" line="615"/>
         <source>Categories</source>
         <translation>Kategoriler</translation>
     </message>
@@ -23531,7 +23578,7 @@ You can change it in Settings › Catalog.</oldsource>
 <context>
     <name>PreviewInfo</name>
     <message>
-        <location filename="PreviewInfo.cpp" line="779"/>
+        <location filename="PreviewInfo.cpp" line="786"/>
         <source>Preview</source>
         <translation>Önizleme</translation>
     </message>
@@ -24599,8 +24646,8 @@ You can change it in Settings › Catalog.</oldsource>
 <context>
     <name>Write</name>
     <message>
-        <location filename="DlgWriteTIFF.h" line="18"/>
         <location filename="DlgWriteTIFF.h" line="21"/>
+        <location filename="DlgWriteTIFF.h" line="26"/>
         <location filename="DlgWritePDF.h" line="18"/>
         <location filename="DlgWritePDF.h" line="21"/>
         <location filename="DlgWritePDF.h" line="24"/>
@@ -24608,8 +24655,8 @@ You can change it in Settings › Catalog.</oldsource>
         <translation>Hiçbiri</translation>
     </message>
     <message>
-        <location filename="DlgWriteTIFF.h" line="18"/>
         <location filename="DlgWriteTIFF.h" line="21"/>
+        <location filename="DlgWriteTIFF.h" line="26"/>
         <location filename="DlgWritePDF.h" line="18"/>
         <location filename="DlgWritePDF.h" line="21"/>
         <location filename="DlgWritePDF.h" line="24"/>
@@ -24706,58 +24753,58 @@ Varolan küçük resimleri saklamak ister misiniz?
         <translation type="unfinished">XnView MP günceldir.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="970"/>
+        <location filename="xnview.cpp" line="975"/>
         <source>Your previous session contains many loaded images, this can cause a slowdown!</source>
         <translation>Önceki oturum birçok yüklenmiş görüntüleri içeriyor, bu yavaşlamaya sebep olabilir!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="970"/>
-        <location filename="xnview.cpp" line="1426"/>
-        <location filename="xnview.cpp" line="1442"/>
+        <location filename="xnview.cpp" line="975"/>
+        <location filename="xnview.cpp" line="1433"/>
+        <location filename="xnview.cpp" line="1449"/>
         <source>Session</source>
         <translation>Oturum</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1545"/>
+        <location filename="xnview.cpp" line="1552"/>
         <source>Do you want to quit?</source>
         <translation>Çıkmak ister misiniz?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1620"/>
+        <location filename="xnview.cpp" line="1627"/>
         <source>Do you want to save session?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1621"/>
+        <location filename="xnview.cpp" line="1628"/>
         <source>Saving many tabs may noticeably slow application reopening.</source>
         <oldsource>Saving many tabs may noticeably slow reopening XnView MP</oldsource>
         <translation type="unfinished">Bir çok sekme kaydetme XnView MP&apos;nin yeniden açılmasını belirgin bir şekilde yavaşlatabilir</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1627"/>
+        <location filename="xnview.cpp" line="1634"/>
         <source>Don&apos;t ask again</source>
         <oldsource>Do not ask again</oldsource>
         <translation type="unfinished">Tekrar sorma</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="2618"/>
+        <location filename="xnview.cpp" line="2642"/>
         <source>Tabs</source>
         <translation type="unfinished">Sekmeler</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="2618"/>
+        <location filename="xnview.cpp" line="2642"/>
         <source>The tab bar is hidden, but tabs will still open. Set a tab limit in Settings&gt;Interface&gt;Tabs</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="3117"/>
+        <location filename="xnview.cpp" line="3142"/>
         <source>Catalog is disabled
 Metadata (check, ratings/colour labels and other file details)
 will not be saved to the database.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1142"/>
+        <location filename="xnview.cpp" line="1148"/>
         <source>Error</source>
         <translation>Hata</translation>
     </message>
@@ -24769,12 +24816,12 @@ Please contact the developer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1142"/>
+        <location filename="xnview.cpp" line="1148"/>
         <source>File not found!</source>
         <translation>Dosya bulunamadı!</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1646"/>
+        <location filename="xnview.cpp" line="1653"/>
         <source>Do you want to save this session?</source>
         <translation>Bu oturumu kaydetmek ister misiniz?</translation>
     </message>

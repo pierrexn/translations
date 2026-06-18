@@ -328,6 +328,14 @@
         <source>The file &lt;%1&gt; is read-only. Please choose another file name.</source>
         <translation>El archivo &lt;%1&gt; es de solo lectura. Elija otro nombre de archivo.</translation>
     </message>
+    <message>
+        <source>Expand canvas</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to expand the canvas?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ActionPanelItem</name>
@@ -9455,8 +9463,8 @@ etiquetas de color o palabras clave pueden ser eliminadas.
         <translation type="unfinished">Metadatos</translation>
     </message>
     <message>
-        <source>Thumbnail</source>
-        <translation type="unfinished"></translation>
+        <source>Thumbnails</source>
+        <translation type="unfinished">Miniaturas</translation>
     </message>
 </context>
 <context>
@@ -11050,6 +11058,10 @@ Do you want to reassign?</source>
     <message>
         <source>Audio</source>
         <translation>Audio</translation>
+    </message>
+    <message>
+        <source>Icon spacing:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13732,6 +13744,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <source>Merge with...</source>
         <translation>Combinar con...</translation>
     </message>
+    <message>
+        <source>Are you sure to delete these categories?</source>
+        <translation type="unfinished">¿Está seguro de que desea eliminar estas categorías?</translation>
+    </message>
 </context>
 <context>
     <name>InfoCategoryView</name>
@@ -15673,10 +15689,6 @@ Do you want to continue?</source>
         <translation>Enviar por FTP...</translation>
     </message>
     <message>
-        <source>Name - numeric order</source>
-        <translation>Nombre - orden numérico</translation>
-    </message>
-    <message>
         <source>Print...</source>
         <translation>Imprimir...</translation>
     </message>
@@ -16279,6 +16291,10 @@ Do you want to continue?</source>
     <message>
         <source>Channel clipping</source>
         <translation>Recorte por canal</translation>
+    </message>
+    <message>
+        <source>Name - natural order</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17296,6 +17312,10 @@ Do you want to continue?</source>
     <message>
         <source>##rating## (go to next image)</source>
         <translation type="unfinished">##rating## (ir a la siguiente imagen)</translation>
+    </message>
+    <message>
+        <source>Center image</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -328,6 +328,14 @@
         <source>The file &lt;%1&gt; is read-only. Please choose another file name.</source>
         <translation>Tiedosto &lt;%1&gt; on &apos;vain luku&apos; -tilassa. Valitse toinen tiedostonimi.</translation>
     </message>
+    <message>
+        <source>Expand canvas</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to expand the canvas?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ActionPanelItem</name>
@@ -9460,8 +9468,8 @@ Haluatko ensin tarkastaa tiedot, joihin tämä vaikuttaa?</translation>
         <translation type="unfinished">Metatiedot</translation>
     </message>
     <message>
-        <source>Thumbnail</source>
-        <translation type="unfinished">Pienoiskuva</translation>
+        <source>Thumbnails</source>
+        <translation type="unfinished">Pienoiskuvat</translation>
     </message>
 </context>
 <context>
@@ -11055,6 +11063,10 @@ Haluatko määrittää uudelleen?</translation>
     <message>
         <source>Audio</source>
         <translation>Äänitiedosto</translation>
+    </message>
+    <message>
+        <source>Icon spacing:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13737,6 +13749,10 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
         <source>Merge with...</source>
         <translation>Yhdistä tähän...</translation>
     </message>
+    <message>
+        <source>Are you sure to delete these categories?</source>
+        <translation type="unfinished">Haluatko varmasti poistaa nämä kategoriat?</translation>
+    </message>
 </context>
 <context>
     <name>InfoCategoryView</name>
@@ -15686,10 +15702,6 @@ Jatketaanko?</translation>
         <translation>Lähetä käyttäen FTP:tä...</translation>
     </message>
     <message>
-        <source>Name - numeric order</source>
-        <translation>Nimi - numeerinen järjestys</translation>
-    </message>
-    <message>
         <source>Print...</source>
         <translation>Tulosta...</translation>
     </message>
@@ -16284,6 +16296,10 @@ Jatketaanko?</translation>
     <message>
         <source>Channel clipping</source>
         <translation>Kanavan leikkaus</translation>
+    </message>
+    <message>
+        <source>Name - natural order</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17301,6 +17317,10 @@ Jatketaanko?</translation>
     <message>
         <source>##rating## (go to next image)</source>
         <translation type="unfinished">##rating## (siirry seuraavaan kuvaan)</translation>
+    </message>
+    <message>
+        <source>Center image</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
