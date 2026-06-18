@@ -1097,7 +1097,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="CompareWidget.cpp" line="55"/>
         <source>Clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>剪裁</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="573"/>
@@ -7460,12 +7460,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditEXIF.ui" line="421"/>
         <source>6 - Rotate 90 CW</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">6 - 顺时针旋转 90 度</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="426"/>
         <source>7 - Mirror horizontal and rotate 90 CW</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">7 - 水平镜像并顺时针旋转 90 度</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="431"/>
@@ -8330,7 +8330,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFileListing.ui" line="116"/>
         <source>Separator</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">分隔符</translation>
     </message>
     <message>
         <location filename="DlgFileListing.ui" line="179"/>
@@ -11305,7 +11305,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.ui" line="158"/>
         <source>Catalog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">缓存数据库</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="226"/>
@@ -11865,7 +11865,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsCache.cpp" line="163"/>
         <source>Database [catalog: %1 %2 - metadata: %5 %6 - thumbnails: %3 %4]</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">数据库 [目录：%1 %2 - 元数据：%5 %6 - 缩略图：%3 %4]</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="325"/>
@@ -12033,12 +12033,12 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettingsCache.ui" line="282"/>
         <source>Maintenance</source>
-        <translation type="unfinished"></translation>
+        <translation>维护</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="323"/>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">筛选</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="354"/>
