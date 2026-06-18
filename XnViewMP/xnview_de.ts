@@ -413,12 +413,12 @@
     <message>
         <location filename="ViewWindow.cpp" line="4122"/>
         <source>Expand canvas</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbeitsfläche erweitern</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4122"/>
         <source>Do you want to expand the canvas?</source>
-        <translation type="unfinished"></translation>
+        <translation>Möchten Sie die Arbeitsfläche erweitern?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4549"/>
@@ -12105,7 +12105,7 @@ Wollen Sie alle Einträge, denen eine Kategorie zugewiesen, sind löschen?</tran
         <location filename="DlgSettingsCache.ui" line="369"/>
         <source>Thumbnails</source>
         <oldsource>Thumbnail</oldsource>
-        <translation type="unfinished">Miniaturbild</translation>
+        <translation>Miniaturbilder</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="478"/>
@@ -14214,7 +14214,7 @@ Möchten Sie neu zuweisen?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="916"/>
         <source>Icon spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbolabstand:</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1229"/>
@@ -17856,7 +17856,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="1456"/>
         <source>Are you sure to delete these categories?</source>
-        <translation type="unfinished">Sind Sie sicher, dass Sie diese Kategorien löschen möchten?</translation>
+        <translation>Sind Sie sicher, dass Sie diese Kategorien löschen möchten?</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="1476"/>
@@ -20046,7 +20046,7 @@ Möchten Sie fortfahren?</translation>
         <location filename="BrowserMenu.h" line="66"/>
         <source>Name - natural order</source>
         <oldsource>Name - numeric order</oldsource>
-        <translation type="unfinished">Name - Numerische Reihenfolge</translation>
+        <translation>Name - Numerische Reihenfolge</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="68"/>
@@ -22158,7 +22158,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="ViewMenu.h" line="422"/>
         <source>Center image</source>
-        <translation type="unfinished"></translation>
+        <translation>Bild zentrieren</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="456"/>
