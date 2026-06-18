@@ -11880,7 +11880,7 @@ Do it only if you want to share same folder between several computers.
 
 Do you want to change the &apos;base path&apos;?</source>
         <translation>修改 &quot;基礎路徑&quot; 可能會切斷與 &quot;已存在資料庫中的檔案紀錄&quot; 之間的關聯.
-只有當您想在多個電腦之間共享同一個資料夾時 才這樣做.
+只有當您想在多台主機之間共享同一個資料夾時 才這樣做.
 
 您仍要修改 &quot;基礎路徑&quot; 嗎？</translation>
     </message>
@@ -13222,7 +13222,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="49"/>
         <source>Select file in Browser when Viewer tab is closed</source>
         <oldsource>Synchronize browser when view is closed</oldsource>
-        <translation>當檢視器頁籤關閉時, 選取瀏覽器中的檔案</translation>
+        <translation>關閉檢視器頁籤時, 在瀏覽器中選取檔案</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="56"/>
@@ -15035,7 +15035,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSlideshow.ui" line="343"/>
         <source>Watch folders for new files</source>
-        <translation>監視資料夾以查找新檔案</translation>
+        <translation>監看資料夾是否有新檔案</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="580"/>
@@ -22852,7 +22852,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyDirModel.cpp" line="52"/>
         <source>Volumes</source>
-        <translation>區塊</translation>
+        <translation>磁碟區</translation>
     </message>
     <message>
         <location filename="MyDirModel.cpp" line="321"/>
@@ -22862,13 +22862,13 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyDirModel.cpp" line="327"/>
         <source>My Computer</source>
-        <translation>我的電腦</translation>
+        <translation>我的主機</translation>
     </message>
     <message>
         <location filename="MyDirModel.cpp" line="1027"/>
         <location filename="MyDirModel.cpp" line="1029"/>
         <source>Computer</source>
-        <translation>電腦</translation>
+        <translation>主機</translation>
     </message>
     <message>
         <location filename="MyDirModel.cpp" line="1031"/>
