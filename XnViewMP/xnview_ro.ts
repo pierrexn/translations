@@ -330,11 +330,11 @@
     </message>
     <message>
         <source>Expand canvas</source>
-        <translation type="unfinished"></translation>
+        <translation>Extinde pânza</translation>
     </message>
     <message>
         <source>Do you want to expand the canvas?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrei să extinzi pâna?</translation>
     </message>
 </context>
 <context>
@@ -9480,7 +9480,7 @@ Dorești să verifici mai întâi intrările afectate?</translation>
     </message>
     <message>
         <source>Thumbnails</source>
-        <translation type="unfinished">Miniaturi</translation>
+        <translation>Miniaturi</translation>
     </message>
 </context>
 <context>
@@ -11077,7 +11077,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Icon spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Spațierea pictogramelor:</translation>
     </message>
 </context>
 <context>
@@ -13762,7 +13762,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Are you sure to delete these categories?</source>
-        <translation type="unfinished">Ești sigur(ă) că dorești să ștergi aceste categorii?</translation>
+        <translation>Ești sigur(ă) că dorești să ștergi aceste categorii?</translation>
     </message>
 </context>
 <context>
@@ -16310,7 +16310,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Name - natural order</source>
-        <translation type="unfinished"></translation>
+        <translation>Numele - ordinea naturală</translation>
     </message>
 </context>
 <context>
@@ -17331,7 +17331,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Center image</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrează imaginea</translation>
     </message>
 </context>
 <context>
