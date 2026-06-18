@@ -420,12 +420,12 @@
     <message>
         <location filename="ViewWindow.cpp" line="4122"/>
         <source>Expand canvas</source>
-        <translation type="unfinished"></translation>
+        <translation>Увеличение размера холста</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4122"/>
         <source>Do you want to expand the canvas?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы хотите увеличить размер холста?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4549"/>
@@ -12138,7 +12138,7 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettingsCache.ui" line="359"/>
         <source>Files</source>
-        <translation>Кол-во файлов</translation>
+        <translation>Файлы</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="384"/>
@@ -12192,7 +12192,7 @@ Do you want to remove entries assigned to a category?</oldsource>
         <location filename="DlgSettingsCache.ui" line="369"/>
         <source>Thumbnails</source>
         <oldsource>Thumbnail</oldsource>
-        <translation type="unfinished">Эскизы</translation>
+        <translation>Эскизы</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="478"/>
@@ -14222,7 +14222,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="916"/>
         <source>Icon spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Интервал:</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1116"/>
@@ -17965,7 +17965,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoCategoryView.cpp" line="1456"/>
         <source>Are you sure to delete these categories?</source>
-        <translation type="unfinished">Вы действительно хотите удалить эти Категории?</translation>
+        <translation>Вы действительно хотите удалить эти Категории?</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="1476"/>
@@ -20170,17 +20170,17 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="66"/>
         <source>Name - natural order</source>
         <oldsource>Name - numeric order</oldsource>
-        <translation type="unfinished">Имя - числовой порядок</translation>
+        <translation>Имя - естественная сортировка</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="68"/>
         <source>Name - normal order</source>
-        <translation>Имя - обычный порядок</translation>
+        <translation>Имя - системная сортировка</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="67"/>
         <source>Name - alphabetic order</source>
-        <translation>Имя - алфавитный порядок</translation>
+        <translation>Имя - алфавитная сортировка</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="76"/>
@@ -22071,7 +22071,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="422"/>
         <source>Center image</source>
-        <translation type="unfinished"></translation>
+        <translation>Отцентрировать изображение</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="425"/>
