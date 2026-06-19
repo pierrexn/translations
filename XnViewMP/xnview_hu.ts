@@ -12098,7 +12098,7 @@ El szeretné távolítani a kategóriához rendelt bejegyzéseket?</translation>
         <location filename="DlgSettingsCache.ui" line="369"/>
         <source>Thumbnails</source>
         <oldsource>Thumbnail</oldsource>
-        <translation type="unfinished">Miniatűr</translation>
+        <translation>Miniatűrök</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="478"/>
@@ -14118,7 +14118,7 @@ Szeretné újratársítani?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="916"/>
         <source>Icon spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikontérköz:</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1116"/>
@@ -17847,7 +17847,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="1456"/>
         <source>Are you sure to delete these categories?</source>
-        <translation type="unfinished">Biztosan törölni szeretné ezeket a kategóriákat?</translation>
+        <translation>Biztosan törölni szeretné ezeket a kategóriákat?</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="1476"/>
@@ -20063,7 +20063,7 @@ Biztosan folytassuk?</translation>
         <location filename="BrowserMenu.h" line="66"/>
         <source>Name - natural order</source>
         <oldsource>Name - numeric order</oldsource>
-        <translation type="unfinished">Név - számsorrend</translation>
+        <translation>Név - számsorrend</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="68"/>
