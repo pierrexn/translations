@@ -10233,7 +10233,7 @@ Prepričajte se, da datoteke niso samo za branje!</translation>
     <message>
         <location filename="DlgPrint.ui" line="667"/>
         <source>Caption</source>
-        <translation>Zaglavje</translation>
+        <translation>Opis</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="673"/>
@@ -21571,7 +21571,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="TemplateData.cpp" line="2860"/>
         <source>IPTC - Caption</source>
-        <translation>IPTC - Zaglavje</translation>
+        <translation>IPTC - Opis</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2861"/>
