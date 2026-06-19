@@ -2779,7 +2779,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgBatchResize.ui" line="1133"/>
         <source>Keep original date/time attributes</source>
-        <translation>保持 拍攝日期/時間 屬性</translation>
+        <translation>保持原 拍攝日期/時間</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1140"/>
@@ -3375,13 +3375,13 @@ Do you want to overwrite it?</oldsource>
         <location filename="DlgComment.ui" line="138"/>
         <source>&amp;Write</source>
         <oldsource>Write</oldsource>
-        <translation>寫入(&amp;W)</translation>
+        <translation>寫入單一檔案(&amp;W)</translation>
     </message>
     <message>
         <location filename="DlgComment.ui" line="145"/>
         <source>Write &amp;all</source>
         <oldsource>Write all</oldsource>
-        <translation>寫入全部(&amp;A)</translation>
+        <translation>寫入全部檔案(&amp;A)</translation>
     </message>
 </context>
 <context>
@@ -4886,7 +4886,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert.ui" line="1111"/>
         <location filename="DlgConvert-old.ui" line="1540"/>
         <source>Keep original date/time attributes</source>
-        <translation>保持 拍攝日期/時間 屬性</translation>
+        <translation>保持原 拍攝日期/時間</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1118"/>
@@ -7565,12 +7565,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditGps.ui" line="235"/>
         <source>Write</source>
-        <translation>寫入</translation>
+        <translation>寫入單一檔案</translation>
     </message>
     <message>
         <location filename="DlgEditGps.ui" line="242"/>
         <source>Write all</source>
-        <translation>全部寫入</translation>
+        <translation>寫入全部檔案</translation>
     </message>
     <message>
         <location filename="DlgEditGps.cpp" line="30"/>
@@ -7621,13 +7621,13 @@ Do you want to continue?</source>
         <location filename="DlgEditXMP.cpp" line="42"/>
         <source>Write &amp;to all files</source>
         <oldsource>Write to all files</oldsource>
-        <translation>全部寫入(&amp;T)</translation>
+        <translation>寫入全部檔案(&amp;T)</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="43"/>
         <source>&amp;Write</source>
         <oldsource>Write</oldsource>
-        <translation>寫入(&amp;W)</translation>
+        <translation>寫入單一檔案(&amp;W)</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="44"/>
@@ -9007,7 +9007,7 @@ Subfolders will be created. </source>
     <message>
         <location filename="DlgImport.ui" line="104"/>
         <source>Transfer files with no EXIF to &apos;Other Files&apos; folder</source>
-        <translation>轉移沒有exif資訊的檔案到 &apos;其它檔案&apos; 資料夾</translation>
+        <translation>轉移沒有 EXIF 資訊的檔案到 &apos;其它檔案&apos; 資料夾</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="111"/>
@@ -9166,13 +9166,13 @@ Subfolders will be created. </source>
         <location filename="DlgIptc.cpp" line="48"/>
         <source>Write &amp;to all files</source>
         <oldsource>Write to all files</oldsource>
-        <translation>全部寫入(&amp;T)</translation>
+        <translation>寫入全部檔案(&amp;T)</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="49"/>
         <source>&amp;Write</source>
         <oldsource>Write</oldsource>
-        <translation>寫入(&amp;W)</translation>
+        <translation>寫入單一檔案(&amp;W)</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="176"/>
@@ -9464,7 +9464,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgIptc.ui" line="550"/>
         <source>Source</source>
-        <translation>來源</translation>
+        <translation>拍攝時</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="607"/>
@@ -9479,7 +9479,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgIptc.ui" line="716"/>
         <source>Multiple selection</source>
-        <translation>多重選取</translation>
+        <translation>複選檔案時</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="725"/>
@@ -9504,7 +9504,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgIptc.ui" line="664"/>
         <source>Mode:</source>
-        <translation>模式:</translation>
+        <translation>寫入模式:</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="672"/>
@@ -12102,7 +12102,7 @@ Do you want to remove entries assigned to a category?</oldsource>
         <location filename="DlgSettingsCache.ui" line="369"/>
         <source>Thumbnails</source>
         <oldsource>Thumbnail</oldsource>
-        <translation type="unfinished">縮圖</translation>
+        <translation>縮圖</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="478"/>
@@ -12930,7 +12930,7 @@ Thumbnail</source>
         <location filename="DlgSettingsIntegration.cpp" line="53"/>
         <location filename="DlgSettingsIntegration.cpp" line="61"/>
         <source>System - Local machine</source>
-        <translation>系統 - 本機</translation>
+        <translation>系統 - 本地端主機</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="40"/>
@@ -13077,7 +13077,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="393"/>
         <source>Local machine</source>
-        <translation>本機</translation>
+        <translation>本地端主機</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="398"/>
@@ -14124,7 +14124,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="916"/>
         <source>Icon spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation>圖示間距:</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1116"/>
@@ -14429,7 +14429,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="528"/>
         <source>Reset X/Y position on file change (No fit)</source>
         <oldsource>Reset X/Y (No fit)</oldsource>
-        <translation>重設 X/Y (不擬合)</translation>
+        <translation>文件更改時重置 X/Y 位置 (不擬合)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="549"/>
@@ -15302,7 +15302,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgStartupWizard.ui" line="97"/>
         <source>Local machine</source>
-        <translation>本機</translation>
+        <translation>本地端主機</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="102"/>
@@ -15690,7 +15690,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgTimestamp.ui" line="548"/>
         <source>Write</source>
-        <translation>寫入</translation>
+        <translation>寫入單一檔案</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="555"/>
@@ -16732,7 +16732,7 @@ Do you want to continue?</source>
     <message>
         <location filename="EditXMPWidget.ui" line="268"/>
         <source>(Use | to separate keywords in hierarchy)</source>
-        <translation>(以 | 作為 &quot;層級結構&quot; 中的分隔符號)</translation>
+        <translation>(以 | 作為 &quot;層級結構&quot; 中關鍵字的分隔符號)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="295"/>
@@ -16742,7 +16742,7 @@ Do you want to continue?</source>
     <message>
         <location filename="EditXMPWidget.ui" line="303"/>
         <source>Origin</source>
-        <translation>原始位置</translation>
+        <translation>拍攝時</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="341"/>
@@ -16752,7 +16752,7 @@ Do you want to continue?</source>
     <message>
         <location filename="EditXMPWidget.ui" line="433"/>
         <source>Urgency</source>
-        <translation>緊急</translation>
+        <translation>緊急性</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="463"/>
@@ -16772,18 +16772,18 @@ Do you want to continue?</source>
     <message>
         <location filename="EditXMPWidget.ui" line="630"/>
         <source>Mode:</source>
-        <translation>模式:</translation>
+        <translation>寫入模式:</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="643"/>
         <source>XMP and IPTC-IIM</source>
         <oldsource>XMP, update or create IPTC-IIM</oldsource>
-        <translation type="unfinished">XMP, 更新或建立IPTC-IIM</translation>
+        <translation>XMP 及 IPTC-IIM</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="672"/>
         <source>Multiple selection</source>
-        <translation>複選</translation>
+        <translation>複選檔案時</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="681"/>
@@ -17854,7 +17854,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoCategoryView.cpp" line="1456"/>
         <source>Are you sure to delete these categories?</source>
-        <translation type="unfinished">您確定要刪除這些類別嗎?</translation>
+        <translation>您確定要刪除這些類別嗎?</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="1476"/>
@@ -19155,7 +19155,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="EditXMPWidget.cpp" line="182"/>
         <location filename="SearchField.cpp" line="133"/>
         <source>Person in image</source>
-        <translation>個人照片</translation>
+        <translation>圖片中的人</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="183"/>
@@ -20061,17 +20061,17 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="66"/>
         <source>Name - natural order</source>
         <oldsource>Name - numeric order</oldsource>
-        <translation type="unfinished">名稱 - 按數字順序</translation>
+        <translation>名稱 - 按數值排序</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="68"/>
         <source>Name - normal order</source>
-        <translation>名稱 - 按正常順序</translation>
+        <translation>名稱 - 按常規排序</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="67"/>
         <source>Name - alphabetic order</source>
-        <translation>名稱 - 按文字順序</translation>
+        <translation>名稱 - 按字元排序</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="76"/>
@@ -22069,7 +22069,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="421"/>
         <source>Pan to coordinates...</source>
         <oldsource>Go to x,y location...</oldsource>
-        <translation type="unfinished">跳到 x,y座標位置...</translation>
+        <translation>跳到 X/Y座標位置...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="455"/>
@@ -23016,7 +23016,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyLittleToolBar.h" line="774"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation>滑桿拖曳功能: 變換縮圖大小 [像素] 及排列中的縮圖數量</translation>
+        <translation>點擊左圖示可更換滑桿功能為: 縮圖的固定大小[像素] 或 縮圖的每列固定數量</translation>
     </message>
 </context>
 <context>
@@ -23024,7 +23024,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyLittleToolBar.h" line="385"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation>滑桿拖曳功能: 變換縮圖大小 [像素] 及排列中的縮圖數量</translation>
+        <translation>點擊左圖示可更換滑桿功能為: 縮圖的固定大小[像素] 或 縮圖的每列固定數量</translation>
     </message>
 </context>
 <context>
@@ -23981,7 +23981,7 @@ You can change it in Settings › Catalog.</oldsource>
         <location filename="qtcopydialog.cpp" line="295"/>
         <location filename="qtcopydialog.cpp" line="300"/>
         <source>Copy Warning</source>
-        <translation>版權警告</translation>
+        <translation>複製警告</translation>
     </message>
     <message>
         <location filename="qtcopydialog.cpp" line="185"/>
@@ -24022,7 +24022,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="qtcopydialog.cpp" line="276"/>
         <source>Force: Cannot remove destination file.</source>
-        <translation>Force: 無法移除目的檔.</translation>
+        <translation>強制: 無法移除目的檔.</translation>
     </message>
     <message>
         <location filename="qtcopydialog.cpp" line="281"/>
