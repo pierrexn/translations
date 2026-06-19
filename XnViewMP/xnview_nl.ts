@@ -352,12 +352,12 @@
     <message>
         <location filename="ViewWindow.cpp" line="4122"/>
         <source>Expand canvas</source>
-        <translation type="unfinished"></translation>
+        <translation>Doek uitbreiden</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4122"/>
         <source>Do you want to expand the canvas?</source>
-        <translation type="unfinished"></translation>
+        <translation>Wilt u het doek uitbreiden?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4549"/>
@@ -2397,7 +2397,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen?</translation>
     <message>
         <location filename="DlgBanner.ui" line="23"/>
         <source>&lt;html&gt;&lt;p&gt;All banner specifications (font, color, size, etc.) carry forward from the previously created banner. An exception is text size, which is calculated to &apos;Best fit&apos; for banner height.&lt;/p&gt;&lt;p&gt;You may select multiple images to apply the same banner to several images at once. Note that the text will be the same size in all images, then.&lt;/p&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; align=&quot;left&quot; style=&quot;border-bottom:1px solid gray;padding-top:15px&quot;&gt;Shortcuts&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Increase/decrease font size by 2 points&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Shift+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Increase/decrease banner size by 1%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+S&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Start banner creation&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;p&gt;Alle eigenschappen van een banier (lettertype, kleur, grootte, enz.) worden overgenomen vanuit de eerder aangemaakte banier. Een uitzondering is de tekstgrootte, die wordt berekend op &apos;Best passend&apos; voor de hoogte van de banier.&lt;/p&gt;&lt;p&gt;Je kunt meerdere afbeeldingen selecteren om dezelfde banier op meerdere afbeeldingen tegelijk toe te passen. Houd er rekening mee dat de tekst in alle afbeeldingen dezelfde grootte heeft.&lt;/p&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; align=&quot;left&quot; style=&quot;border-bottom:1px effen grijs;padding-top:15px&quot;&gt;Snelkoppelingen&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Plus/Min&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Lettergrootte met 2 punten&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt; vergroten/verkleinen&lt;td&gt;Ctrl+Shift+Plus/Min&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Afmetingen van de banier vergroten/verkleinen met 1%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+S&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Begin met het maken van banieren&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;p&gt;Alle eigenschappen van een banier (lettertype, kleur, grootte, enz.) worden overgenomen vanuit de eerder aangemaakte banier. Een uitzondering is de tekstgrootte, die wordt berekend op &apos;Best passend&apos; voor de hoogte van de banier.&lt;/p&gt;&lt;p&gt;U kunt meerdere afbeeldingen selecteren om dezelfde banier op meerdere afbeeldingen tegelijk toe te passen. Houd er rekening mee dat de tekst in alle afbeeldingen dezelfde grootte heeft&lt;/p&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; align=&quot;left&quot; style=&quot;border-bottom:1px solid gray;padding-top:15px&quot;&gt;Sneltoetsen&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Plus/Min&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Lettergrootte met 2 punten vergroten/verkleinen&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Shift+Plus/Min&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Afmetingen van de banier met 1% vergroten/verkleinen&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+S&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Banier aanmaken&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="DlgBanner.ui" line="177"/>
@@ -11535,7 +11535,7 @@ Wil je ze verwijderen?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.h" line="14"/>
         <source>Thumbnail</source>
-        <translation>Miniaturen</translation>
+        <translation>Miniatuur</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.h" line="16"/>
@@ -12116,7 +12116,7 @@ Wilt u items verwijderen die zijn toegewezen aan een categorie?</translation>
         <location filename="DlgSettingsCache.ui" line="369"/>
         <source>Thumbnails</source>
         <oldsource>Thumbnail</oldsource>
-        <translation type="unfinished">Miniatuur</translation>
+        <translation>Miniaturen</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="478"/>
@@ -14136,7 +14136,7 @@ Opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="916"/>
         <source>Icon spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tussenruimte:</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1116"/>
@@ -17866,7 +17866,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="1456"/>
         <source>Are you sure to delete these categories?</source>
-        <translation type="unfinished">Weet je zeker dat je deze categorieën witl verwijderen?</translation>
+        <translation>Weet u zeker dat u deze categorieën wilt verwijderen?</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="1476"/>
@@ -20134,7 +20134,7 @@ Doorgaan?</translation>
         <location filename="BrowserMenu.h" line="66"/>
         <source>Name - natural order</source>
         <oldsource>Name - numeric order</oldsource>
-        <translation type="unfinished">Naam - Numerieke volgorde</translation>
+        <translation>Naam - natuurlijke volgorde</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="68"/>
@@ -20899,7 +20899,7 @@ Doorgaan?</translation>
     <message>
         <location filename="BrowserMenu.h" line="515"/>
         <source>Thumbnails size</source>
-        <translation>Miniaturen</translation>
+        <translation>Miniatuurgrootte</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="520"/>
@@ -21935,7 +21935,7 @@ Doorgaan?</translation>
     <message>
         <location filename="ViewMenu.h" line="422"/>
         <source>Center image</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding centreren</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="449"/>
