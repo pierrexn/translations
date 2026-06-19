@@ -9430,7 +9430,7 @@ Prepričajte se, da datoteke niso samo za branje!</translation>
     <message>
         <location filename="DlgIptc.ui" line="44"/>
         <source>Caption</source>
-        <translation>Zaglavje</translation>
+        <translation>Opis</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="90"/>
@@ -18674,7 +18674,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoIPTCView.cpp" line="113"/>
         <source>Caption</source>
-        <translation>Zaglavje</translation>
+        <translation>Opis</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="117"/>
@@ -18700,7 +18700,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <location filename="SearchField.cpp" line="52"/>
         <location filename="TemplateData.cpp" line="2754"/>
         <source>Caption</source>
-        <translation>Zaglavje</translation>
+        <translation>Opis</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="121"/>
@@ -18879,7 +18879,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <location filename="InfoIPTCView.cpp" line="26"/>
         <location filename="IptcHelper.cpp" line="19"/>
         <source>Local caption</source>
-        <translation>Lokalni napis</translation>
+        <translation>Lokalni opis</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="29"/>
