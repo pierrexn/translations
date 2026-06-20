@@ -394,7 +394,7 @@
         <location filename="ViewWindow.cpp" line="3264"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
-        <translation>儲存圖片...</translation>
+        <translation>儲存影像...</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="3085"/>
@@ -1892,7 +1892,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgConvert.cpp" line="1831"/>
         <source>Video</source>
-        <translation>影像</translation>
+        <translation>影片</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1570"/>
@@ -2396,7 +2396,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgBanner.ui" line="23"/>
         <source>&lt;html&gt;&lt;p&gt;All banner specifications (font, color, size, etc.) carry forward from the previously created banner. An exception is text size, which is calculated to &apos;Best fit&apos; for banner height.&lt;/p&gt;&lt;p&gt;You may select multiple images to apply the same banner to several images at once. Note that the text will be the same size in all images, then.&lt;/p&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; align=&quot;left&quot; style=&quot;border-bottom:1px solid gray;padding-top:15px&quot;&gt;Shortcuts&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Increase/decrease font size by 2 points&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Shift+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Increase/decrease banner size by 1%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+S&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Start banner creation&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;p&gt;所有橫幅圖規格 (字體, 顏⾊, 尺⼨, 等) 都是帶⾃前次建立的橫幅圖. 唯⼀例外是文字⼤⼩配合最適⾼度重新計算.&lt;/p&gt;&lt;p&gt;您可選取多張圖片立即套⽤同樣的橫幅圖. 但 這時請注意所有圖片的文字⼤⼩都會⼀樣.&lt;/p&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; align=&quot;left&quot; style=&quot;border-bottom:1px solid gray;padding-top:15px&quot;&gt;快捷鍵&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;減字體⼤⼩加/減2points&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Shift+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;橫幅圖尺⼨加/減1%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+S&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;開始建立橫幅圖&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;p&gt;所有橫幅圖規格 (字體, 顏⾊, 尺⼨, 等) 都是帶⾃前次建立的橫幅圖. 唯⼀例外是文字⼤⼩配合最適⾼度重新計算.&lt;/p&gt;&lt;p&gt;您可選取多張影像立即套⽤同樣的橫幅圖. 但 這時請注意所有影像的文字⼤⼩都會⼀樣.&lt;/p&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; align=&quot;left&quot; style=&quot;border-bottom:1px solid gray;padding-top:15px&quot;&gt;快捷鍵&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;減字體⼤⼩加/減2points&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Shift+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;橫幅圖尺⼨加/減1%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+S&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;開始建立橫幅圖&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="DlgBanner.ui" line="177"/>
@@ -2542,7 +2542,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgBatchResize.ui" line="430"/>
         <source>Image size</source>
-        <translation>圖片大小</translation>
+        <translation>影像大小</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="508"/>
@@ -2779,7 +2779,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgBatchResize.ui" line="1133"/>
         <source>Keep original date/time attributes</source>
-        <translation>保持原 拍攝日期/時間</translation>
+        <translation>保持原始日期/時間</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1140"/>
@@ -2849,7 +2849,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgBatchResize.ui" line="1357"/>
         <source>Rotate images according to EXIF orientation tag</source>
-        <translation>依據EXIF方向標籤旋轉圖片</translation>
+        <translation>依據EXIF方向標籤旋轉影像</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1371"/>
@@ -2988,7 +2988,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DlgBatchResize.cpp" line="1426"/>
         <source>not an image</source>
         <oldsource>not a picture</oldsource>
-        <translation>不是圖像</translation>
+        <translation>不是影像</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1429"/>
@@ -3291,7 +3291,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgChangeDepth.ui" line="20"/>
         <source>Apply to image</source>
-        <translation>套用到圖片</translation>
+        <translation>套用到影像</translation>
     </message>
 </context>
 <context>
@@ -3851,7 +3851,7 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgConvert.cpp" line="2597"/>
         <source>Uploading image(s) to server...</source>
-        <translation>上傳圖片到伺服器...</translation>
+        <translation>上傳影像到伺服器...</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2660"/>
@@ -3911,7 +3911,7 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgConvert.cpp" line="1665"/>
         <source>Load image...</source>
-        <translation>載入圖片...</translation>
+        <translation>載入影像...</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1671"/>
@@ -3921,7 +3921,7 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgConvert.cpp" line="1678"/>
         <source>Use image from input files</source>
-        <translation>使用輸入檔案的圖片</translation>
+        <translation>使用輸入檔案的影像</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2496"/>
@@ -4002,7 +4002,7 @@ Do you want to overwrite it?</source>
         <location filename="DlgConvert.cpp" line="2713"/>
         <source>not an image</source>
         <oldsource>not a picture</oldsource>
-        <translation>不是圖像</translation>
+        <translation>不是影像</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2716"/>
@@ -4886,7 +4886,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert.ui" line="1111"/>
         <location filename="DlgConvert-old.ui" line="1540"/>
         <source>Keep original date/time attributes</source>
-        <translation>保持原 拍攝日期/時間</translation>
+        <translation>保持原始日期/時間</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1118"/>
@@ -5122,7 +5122,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert-old.ui" line="933"/>
         <source>Load image...</source>
-        <translation>載入圖片...</translation>
+        <translation>載入影像...</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="184"/>
@@ -5376,7 +5376,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="1794"/>
         <source>Rotate images according to EXIF orientation tag</source>
-        <translation>依據EXIF方向標籤旋轉圖片</translation>
+        <translation>依據EXIF方向標籤旋轉影像</translation>
     </message>
     <message>
         <location filename="DlgConvert-old.ui" line="1891"/>
@@ -5438,7 +5438,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertColors.ui" line="85"/>
         <source>Background color to use if image has an alpha channel</source>
-        <translation>圖檔有遮色(alpha chaneel)時使用的背景色</translation>
+        <translation>影像有遮色(alpha chaneel)時使用的背景色</translation>
     </message>
     <message>
         <location filename="DlgConvertColors.ui" line="143"/>
@@ -5454,7 +5454,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertColors.ui" line="35"/>
         <source>Replace alpha for 32bits images</source>
         <oldsource>Replace alpha for 32bits pictures</oldsource>
-        <translation>替換 32bits 圖片的遮色</translation>
+        <translation>替換 32bits 影像的遮色</translation>
     </message>
     <message>
         <location filename="DlgConvertColors.ui" line="111"/>
@@ -6128,7 +6128,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertOffset.ui" line="257"/>
         <source>Wrap image around</source>
-        <translation>回繞圖片</translation>
+        <translation>回繞影像</translation>
     </message>
 </context>
 <context>
@@ -6416,7 +6416,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertResize.ui" line="185"/>
         <source>Image size</source>
-        <translation>圖片大小</translation>
+        <translation>影像大小</translation>
     </message>
     <message>
         <location filename="DlgConvertResize.ui" line="283"/>
@@ -6768,7 +6768,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertText.ui" line="640"/>
         <source>Adjust to image&apos;s width</source>
-        <translation>調整為圖片寬度</translation>
+        <translation>調整為影像寬度</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="50"/>
@@ -6930,7 +6930,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertWatermark.ui" line="19"/>
         <source>Image filename</source>
-        <translation>圖片檔名</translation>
+        <translation>影像檔名</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="39"/>
@@ -6991,7 +6991,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertWatermark.ui" line="95"/>
         <source>Relative to target image</source>
-        <translation>相對目標圖片</translation>
+        <translation>相對目標影像</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="103"/>
@@ -7131,7 +7131,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgCreateMulti.ui" line="182"/>
         <source>Insert all pages from multipage source files</source>
-        <translation>插入多頁原始圖檔中所有頁</translation>
+        <translation>插入多頁原始檔中所有頁</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.ui" line="191"/>
@@ -7349,7 +7349,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditEXIF.ui" line="64"/>
         <source>Image description</source>
-        <translation>圖像描述</translation>
+        <translation>影像描述</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="78"/>
@@ -7710,7 +7710,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgEmail.ui" line="88"/>
         <source>Image(s)</source>
-        <translation>圖片</translation>
+        <translation>影像</translation>
     </message>
     <message>
         <location filename="DlgEmail.ui" line="94"/>
@@ -7919,7 +7919,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgExport.cpp" line="201"/>
         <source>This is not an image file</source>
         <oldsource>This is not a picture file</oldsource>
-        <translation>這不是圖像檔</translation>
+        <translation>這不是影像檔</translation>
     </message>
     <message>
         <location filename="DlgExport.cpp" line="313"/>
@@ -8001,7 +8001,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.cpp" line="619"/>
         <source>Images</source>
-        <translation>圖片</translation>
+        <translation>影像</translation>
     </message>
     <message>
         <location filename="DlgExport.cpp" line="638"/>
@@ -8339,7 +8339,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFileListing.ui" line="186"/>
         <source>Only image files</source>
-        <translation>只有圖片檔</translation>
+        <translation>只有影像檔</translation>
     </message>
     <message>
         <location filename="DlgFileListing.ui" line="193"/>
@@ -9378,7 +9378,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgIptc.ui" line="44"/>
         <source>Caption</source>
-        <translation>圖片說明</translation>
+        <translation>影像說明</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="90"/>
@@ -9707,7 +9707,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgNew.ui" line="14"/>
         <source>Create image</source>
-        <translation>建立圖片</translation>
+        <translation>建立影像</translation>
     </message>
     <message>
         <location filename="DlgNew.ui" line="48"/>
@@ -9953,7 +9953,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgPrint.ui" line="72"/>
         <source>Collection</source>
         <oldsource>Pictures collection</oldsource>
-        <translation>圖像集</translation>
+        <translation>影像集</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="92"/>
@@ -10180,7 +10180,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPrint.ui" line="667"/>
         <source>Caption</source>
-        <translation>圖片說明</translation>
+        <translation>影像說明</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="673"/>
@@ -10237,7 +10237,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPrint.ui" line="894"/>
         <source>Insert all Pages/Images of multi-page source images</source>
-        <translation>插入多頁原始圖檔中所有頁/圖片</translation>
+        <translation>插入多頁原始影像中所有 頁/影像</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="903"/>
@@ -10345,7 +10345,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgProcess.ui" line="78"/>
         <source>Apply to image</source>
         <oldsource>Apply to original</oldsource>
-        <translation>套用到圖片</translation>
+        <translation>套用到影像</translation>
     </message>
     <message>
         <location filename="DlgProcess.ui" line="89"/>
@@ -10936,7 +10936,7 @@ Do you want to remove them?</source>
         <location filename="DlgResize.cpp" line="415"/>
         <source>Result image size: %1x%2 - %3 Mpixels</source>
         <oldsource>Result image size: %1x%2 - %1 Mpixels</oldsource>
-        <translation>完成的圖片大小: %1x%2 - %3 Mpixels (百萬像素)</translation>
+        <translation>完成的影像大小: %1x%2 - %3 Mpixels (百萬像素)</translation>
     </message>
     <message>
         <location filename="DlgResize.cpp" line="1070"/>
@@ -11048,7 +11048,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgResize.ui" line="331"/>
         <source>Image size</source>
-        <translation>圖片大小</translation>
+        <translation>影像大小</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="373"/>
@@ -11216,7 +11216,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgRotate.ui" line="131"/>
         <source>Apply to image</source>
-        <translation>套用到圖片</translation>
+        <translation>套用到影像</translation>
     </message>
 </context>
 <context>
@@ -12188,7 +12188,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.cpp" line="286"/>
         <source>Images</source>
-        <translation>圖片</translation>
+        <translation>影像</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.cpp" line="287"/>
@@ -12361,7 +12361,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="226"/>
         <source>Association list (use ; as separator)</source>
-        <translation>主檔/配套檔 的副檔名 對照表 (以 ; 作為分隔符號)</translation>
+        <translation>主檔/配套檔 之 副檔名關聯表 (以 ; 作為分隔符號)</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="187"/>
@@ -12490,7 +12490,7 @@ Thumbnail</source>
         <location filename="DlgSettingsGeneral.ui" line="184"/>
         <source>Adjust image if X/Y DPI are different</source>
         <oldsource>Adjust zoom if X/Y DPI are different</oldsource>
-        <translation>若 X/Y DPI 不同則調整圖片</translation>
+        <translation>若 X/Y DPI 不同則調整影像</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="370"/>
@@ -12523,7 +12523,7 @@ Thumbnail</source>
         <location filename="DlgSettingsGeneral.ui" line="170"/>
         <source>Auto-rotate images according to EXIF orientation tag</source>
         <oldsource>Rotate images according to EXIF orientation tag</oldsource>
-        <translation>依據EXIF方向標籤自動旋轉圖片</translation>
+        <translation>依據EXIF方向標籤自動旋轉影像</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="193"/>
@@ -12810,7 +12810,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="783"/>
         <source>Keep original date/time</source>
-        <translation>保持 拍攝日期/時間</translation>
+        <translation>保持原始日期/時間</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="789"/>
@@ -13623,7 +13623,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2112"/>
         <source>Pan image</source>
         <oldsource>Move image</oldsource>
-        <translation>移動圖片</translation>
+        <translation>移動影像</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1596"/>
@@ -14011,7 +14011,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="624"/>
         <source>Image description</source>
-        <translation>圖片描述</translation>
+        <translation>影像描述</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="1053"/>
@@ -14047,7 +14047,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsThumbnail.ui" line="94"/>
         <source>Create from original image if embedded thumbnail is smaller than thumbnail size</source>
         <oldsource>Create from original image if embedded thumbnail is smaller than thubnail size</oldsource>
-        <translation>若 內嵌縮圖 比 縮圖尺寸 還小, 則由原始圖片建立縮圖</translation>
+        <translation>若 內嵌縮圖 比 縮圖尺寸 還小, 則由原始影像建立縮圖</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="103"/>
@@ -14401,7 +14401,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="193"/>
         <source>Border line around canvas</source>
         <oldsource>Border line around picture</oldsource>
-        <translation>圖像的邊框線</translation>
+        <translation>影像的邊框線</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="301"/>
@@ -14491,7 +14491,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="855"/>
         <source>Draw multi-resolution icons as Snapshots</source>
         <oldsource>Display multi-resolution icons as snapshots</oldsource>
-        <translation>將多重解析度圖像繪製為快照</translation>
+        <translation>將多重解析度圖示繪製為快照</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="670"/>
@@ -14513,7 +14513,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="493"/>
         <source>Scale on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
         <oldsource>Zoom on HiDPI screen: 1 image pixel equals 1 screen pixel</oldsource>
-        <translation>在 HiDPI 螢幕上縮放: 1圖片像素=1螢幕像素</translation>
+        <translation>在 HiDPI 螢幕上縮放: 1影像像素=1螢幕像素</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="678"/>
@@ -14590,7 +14590,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="740"/>
         <source>Auto-play audio companion files</source>
-        <translation>自動播放音訊的配套檔案</translation>
+        <translation>自動播放聲音的配套檔案</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="747"/>
@@ -14605,12 +14605,12 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="760"/>
         <source>Read one image ahead</source>
-        <translation>預先讀入下一張圖片</translation>
+        <translation>預先讀入下一張影像</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="767"/>
         <source>Keep current image</source>
-        <translation>在快取中保留目前圖片</translation>
+        <translation>在快取中保留目前影像</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="777"/>
@@ -14784,7 +14784,7 @@ Do you want to reassign?</source>
         <location filename="DlgSimilar.ui" line="158"/>
         <source>Similar image content (slow)</source>
         <oldsource>Similar picture content (slow)</oldsource>
-        <translation>相似圖像內容 (慢)</translation>
+        <translation>相似影像內容 (慢)</translation>
     </message>
     <message>
         <location filename="DlgSimilar.ui" line="186"/>
@@ -15085,7 +15085,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSlideshow.ui" line="298"/>
         <source>Stretch small images</source>
-        <translation>延展小圖片</translation>
+        <translation>延展小影像</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="270"/>
@@ -15244,7 +15244,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSplit.cpp" line="162"/>
         <source>Splitting image(s), please wait...</source>
-        <translation>分割圖片中, 請稍候...</translation>
+        <translation>分割影像中, 請稍候...</translation>
     </message>
 </context>
 <context>
@@ -15382,7 +15382,7 @@ Do you want to reassign?</source>
         <location filename="DlgStrip.ui" line="14"/>
         <source>Join images</source>
         <oldsource>Strip of images</oldsource>
-        <translation>結合圖片</translation>
+        <translation>結合影像</translation>
     </message>
     <message>
         <location filename="DlgStrip.ui" line="24"/>
@@ -15640,7 +15640,7 @@ Do you want to continue?</source>
         <location filename="DlgTimestamp.ui" line="262"/>
         <source>Increment at each image by</source>
         <oldsource>Increment at each images by</oldsource>
-        <translation>每張圖像的值遞增</translation>
+        <translation>每張影像的值遞增</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="276"/>
@@ -15899,12 +15899,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgUpload.cpp" line="185"/>
         <source>Unable to load image file...</source>
-        <translation>無法載入圖檔...</translation>
+        <translation>無法載入影像檔...</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="209"/>
         <source>Unable to upload image file...</source>
-        <translation>無法上傳圖檔...</translation>
+        <translation>無法上傳影像檔...</translation>
     </message>
 </context>
 <context>
@@ -15912,12 +15912,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgUpload.ui" line="14"/>
         <source>Upload image</source>
-        <translation>上傳圖片</translation>
+        <translation>上傳影像</translation>
     </message>
     <message>
         <location filename="DlgUpload.ui" line="31"/>
         <source>Be careful, your image(s) will be uploaded on a public server!</source>
-        <translation>小心！您的圖片將會上傳到一個公開的伺服器上！</translation>
+        <translation>小心！您的影像將會上傳到一個公開的伺服器上！</translation>
     </message>
     <message>
         <location filename="DlgUpload.ui" line="40"/>
@@ -15973,7 +15973,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgUpload.ui" line="261"/>
         <source>Image link</source>
-        <translation>圖片連結網址</translation>
+        <translation>影像連結網址</translation>
     </message>
 </context>
 <context>
@@ -16578,13 +16578,13 @@ Do you want to continue?</source>
         <location filename="DlgWriteTIFF.ui" line="19"/>
         <source>Compression for black&amp;white image</source>
         <oldsource>Compression for black&amp;white picture</oldsource>
-        <translation>黑白圖像壓縮</translation>
+        <translation>黑白影像壓縮</translation>
     </message>
     <message>
         <location filename="DlgWriteTIFF.ui" line="32"/>
         <source>Compression for color image</source>
         <oldsource>Compression for color picture</oldsource>
-        <translation>彩色圖像壓縮</translation>
+        <translation>彩色影像壓縮</translation>
     </message>
     <message>
         <location filename="DlgWriteTIFF.ui" line="62"/>
@@ -16617,7 +16617,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteWebP.ui" line="37"/>
         <source>Picture</source>
-        <translation>圖片</translation>
+        <translation>影像</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="42"/>
@@ -17267,7 +17267,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="119"/>
         <source>Images/frames count</source>
-        <translation>圖片/影格(幀) 計數</translation>
+        <translation>影像/影格(幀) 計數</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="136"/>
@@ -18020,7 +18020,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoEXIFView.cpp" line="70"/>
         <source>Image</source>
-        <translation>圖片</translation>
+        <translation>影像</translation>
     </message>
     <message>
         <location filename="InfoEXIFView.cpp" line="72"/>
@@ -18048,7 +18048,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoEXIFView.cpp" line="109"/>
         <source>Image</source>
-        <translation>圖片</translation>
+        <translation>影像</translation>
     </message>
     <message>
         <location filename="InfoEXIFView.cpp" line="113"/>
@@ -18477,22 +18477,22 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2718"/>
         <source>Image-ID</source>
-        <translation>圖片ID</translation>
+        <translation>影像ID</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2719"/>
         <source>Image width</source>
-        <translation>圖片寬度</translation>
+        <translation>影像寬度</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2720"/>
         <source>Image height</source>
-        <translation>圖片高度</translation>
+        <translation>影像高度</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2721"/>
         <source>Image description</source>
-        <translation>圖像描述</translation>
+        <translation>影像描述</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2722"/>
@@ -18624,7 +18624,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoIPTCView.cpp" line="113"/>
         <source>Caption</source>
-        <translation>圖片說明</translation>
+        <translation>影像說明</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="117"/>
@@ -18655,7 +18655,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="SearchField.cpp" line="52"/>
         <location filename="TemplateData.cpp" line="2754"/>
         <source>Caption</source>
-        <translation>圖片說明</translation>
+        <translation>影像說明</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="121"/>
@@ -18666,7 +18666,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2755"/>
         <location filename="TemplateData.cpp" line="2808"/>
         <source>Caption writer</source>
-        <translation>圖片說明撰寫人</translation>
+        <translation>影像說明撰寫人</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="137"/>
@@ -19155,7 +19155,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="EditXMPWidget.cpp" line="182"/>
         <location filename="SearchField.cpp" line="133"/>
         <source>Person in image</source>
-        <translation>圖片中的人</translation>
+        <translation>影像中的人</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="183"/>
@@ -19195,7 +19195,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="60"/>
         <source>Image</source>
-        <translation>圖片</translation>
+        <translation>影像</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="104"/>
@@ -19396,7 +19396,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="ItemModel.cpp" line="994"/>
         <source>No.</source>
-        <translation>編號.</translation>
+        <translation>序號</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="996"/>
@@ -19494,7 +19494,7 @@ Do you want to continue?</source>
         <location filename="ItemProcess.cpp" line="450"/>
         <location filename="ItemProcess.cpp" line="468"/>
         <source>This file contains more than one page/image, so it&apos;s not possible to rotate it.</source>
-        <translation>這個檔案含多頁/多張圖片，所以無法被旋轉.</translation>
+        <translation>這個檔案含多頁/多張影像，所以無法被旋轉.</translation>
     </message>
     <message>
         <location filename="ItemProcess.cpp" line="460"/>
@@ -19509,7 +19509,7 @@ Do you want to continue?</source>
         <oldsource>The picture will be converted in 8 bits per component. 
 
 Do you want to continue?</oldsource>
-        <translation>這張圖片將會轉換成 24 位元 RGB (一個色版 8 位元)
+        <translation>這張影像將會轉換成 24 位元 RGB (一個色版 8 位元)
 
 您要繼續嗎？</translation>
     </message>
@@ -19987,17 +19987,17 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="51"/>
         <source>Image size</source>
-        <translation>圖片大小</translation>
+        <translation>影像大小</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="52"/>
         <source>Image Width</source>
-        <translation>圖片寬度</translation>
+        <translation>影像寬度</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="53"/>
         <source>Image Height</source>
-        <translation>圖片高度</translation>
+        <translation>影像高度</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="54"/>
@@ -20076,7 +20076,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="76"/>
         <source>Images</source>
-        <translation>圖片</translation>
+        <translation>影像</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="78"/>
@@ -20135,12 +20135,12 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="485"/>
         <source>##rating## (go to next image)</source>
         <oldsource>Excellent (go to next image)</oldsource>
-        <translation>##rating## (移至下張圖片)</translation>
+        <translation>##rating## (移至下張影像)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="498"/>
         <source>##label## (go to next image)</source>
-        <translation>##label## (移至下張圖片)</translation>
+        <translation>##label## (移至下張影像)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="516"/>
@@ -20211,7 +20211,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="685"/>
         <source>Paste as image</source>
-        <translation>貼上成圖像</translation>
+        <translation>貼上成影像</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="689"/>
@@ -20271,7 +20271,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="584"/>
         <source>Rotate based on EXIF orientation field</source>
-        <translation>依據EXIF方向欄位旋轉圖片</translation>
+        <translation>依據EXIF方向欄位旋轉影像</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="585"/>
@@ -20291,7 +20291,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="434"/>
         <source>Image</source>
-        <translation>圖片</translation>
+        <translation>影像</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="548"/>
@@ -20336,7 +20336,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="633"/>
         <source>Join images...</source>
-        <translation>合併圖片...</translation>
+        <translation>合併影像...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="634"/>
@@ -20352,7 +20352,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="636"/>
         <source>Split image(s)...</source>
         <oldsource>Split...</oldsource>
-        <translation>分割圖片...</translation>
+        <translation>分割影像...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="637"/>
@@ -20362,7 +20362,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="638"/>
         <source>New image...</source>
-        <translation>新增圖片...</translation>
+        <translation>新增影像...</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="19"/>
@@ -20376,40 +20376,40 @@ Do you want to continue?</oldsource>
         <location filename="DlgSettingsView.cpp" line="271"/>
         <location filename="BrowserMenu.h" line="655"/>
         <source>Fit image to window</source>
-        <translation>圖片符合視窗大小</translation>
+        <translation>影像符合視窗大小</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="22"/>
         <location filename="DlgSettingsView.cpp" line="273"/>
         <location filename="BrowserMenu.h" line="656"/>
         <source>Fit image to window, large only</source>
-        <translation>圖片符合視窗大小, 僅大型圖片</translation>
+        <translation>影像符合視窗大小, 僅大型影像</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="23"/>
         <location filename="DlgSettingsView.cpp" line="274"/>
         <location filename="BrowserMenu.h" line="658"/>
         <source>Fit image to window width</source>
-        <translation>圖片符合視窗寬度</translation>
+        <translation>影像符合視窗寬度</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="24"/>
         <location filename="DlgSettingsView.cpp" line="275"/>
         <location filename="BrowserMenu.h" line="659"/>
         <source>Fit image to window height</source>
-        <translation>圖片符合視窗高度</translation>
+        <translation>影像符合視窗高度</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="25"/>
         <location filename="DlgSettingsView.cpp" line="276"/>
         <location filename="BrowserMenu.h" line="660"/>
         <source>Fit image to window width or height</source>
-        <translation>圖片符合視窗寬度或高度</translation>
+        <translation>影像符合視窗寬度或高度</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="26"/>
         <source>Fit image to desktop</source>
-        <translation>圖片符合桌面大小</translation>
+        <translation>影像符合桌面大小</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="429"/>
@@ -20512,7 +20512,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="77"/>
         <source>Images (+folders)</source>
-        <translation>圖片(+資料夾)</translation>
+        <translation>影像(+資料夾)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="79"/>
@@ -20653,7 +20653,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="444"/>
         <source>Select all images</source>
-        <translation>選取所有圖片</translation>
+        <translation>選取所有影像</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="445"/>
@@ -20910,7 +20910,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="552"/>
         <source>Play/Stop audio companion</source>
-        <translation>播放/停止播放 音訊的配套檔案</translation>
+        <translation>播放/停止播放 聲音的配套檔案</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="554"/>
@@ -21194,7 +21194,7 @@ Do you want to continue?</oldsource>
         <location filename="DlgSettingsView.cpp" line="272"/>
         <location filename="BrowserMenu.h" line="657"/>
         <source>Fit image to window, small only</source>
-        <translation>圖片符合視窗大小, 僅小型圖片</translation>
+        <translation>影像符合視窗大小, 僅小型影像</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="663"/>
@@ -21316,7 +21316,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="DlgSettingsView.cpp" line="27"/>
         <source>Fit window to image</source>
-        <translation>視窗符合圖片大小</translation>
+        <translation>視窗符合影像大小</translation>
     </message>
 </context>
 <context>
@@ -21497,12 +21497,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="TemplateData.cpp" line="2855"/>
         <source>Image</source>
-        <translation>圖片</translation>
+        <translation>影像</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2856"/>
         <source>Saved Image</source>
-        <translation>儲存圖片</translation>
+        <translation>儲存影像</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2857"/>
@@ -21512,7 +21512,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="TemplateData.cpp" line="2858"/>
         <source>EXIF - Image</source>
-        <translation>EXIF - 圖片</translation>
+        <translation>EXIF - 影像</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2859"/>
@@ -21522,7 +21522,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="TemplateData.cpp" line="2860"/>
         <source>IPTC - Caption</source>
-        <translation>EXIF - 圖片說明</translation>
+        <translation>EXIF - 影像說明</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2861"/>
@@ -21560,27 +21560,27 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="357"/>
         <source>Fit image to window</source>
-        <translation>圖片符合視窗大小</translation>
+        <translation>影像符合視窗大小</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="358"/>
         <source>Fit image to window, large only</source>
-        <translation>圖片符合視窗大小, 僅大型圖片</translation>
+        <translation>影像符合視窗大小, 僅大型影像</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="360"/>
         <source>Fit image to window width</source>
-        <translation>圖片符合視窗寬度</translation>
+        <translation>影像符合視窗寬度</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="361"/>
         <source>Fit image to window height</source>
-        <translation>圖片符合視窗高度</translation>
+        <translation>影像符合視窗高度</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="362"/>
         <source>Fit image to window width or height</source>
-        <translation>圖片符合視窗寬度或高度</translation>
+        <translation>影像符合視窗寬度或高度</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="178"/>
@@ -21597,17 +21597,17 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="333"/>
         <source>Image content</source>
         <oldsource>Image</oldsource>
-        <translation>圖片內容</translation>
+        <translation>影像內容</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="359"/>
         <source>Fit image to window, small only</source>
-        <translation>圖片符合視窗大小, 僅小型圖片</translation>
+        <translation>影像符合視窗大小, 僅小型影像</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="346"/>
         <source>Same as image</source>
-        <translation>同圖片</translation>
+        <translation>同影像</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="241"/>
@@ -21871,12 +21871,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="363"/>
         <source>Fit window to image</source>
-        <translation>視窗符合圖片大小</translation>
+        <translation>視窗符合影像大小</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="364"/>
         <source>Fit image to desktop</source>
-        <translation>圖片符合桌面大小</translation>
+        <translation>影像符合桌面大小</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="366"/>
@@ -22089,7 +22089,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="551"/>
         <source>Paste as image</source>
-        <translation>貼上成圖像</translation>
+        <translation>貼上成影像</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="759"/>
@@ -22301,7 +22301,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="543"/>
         <source>Rotate based on EXIF orientation field</source>
-        <translation>依據EXIF方向欄位旋轉圖片</translation>
+        <translation>依據EXIF方向欄位旋轉影像</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="544"/>
@@ -22332,7 +22332,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="558"/>
         <source>New image...</source>
-        <translation>新增圖片...</translation>
+        <translation>新增影像...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="451"/>
@@ -22348,12 +22348,12 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="380"/>
         <source>##rating## (go to next image)</source>
         <oldsource>Excellent (go to next image)</oldsource>
-        <translation>##rating## (移至下張圖片)</translation>
+        <translation>##rating## (移至下張影像)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="398"/>
         <source>##label## (go to next image)</source>
-        <translation>##label## (移至下張圖片)</translation>
+        <translation>##label## (移至下張影像)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="409"/>
@@ -22563,7 +22563,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="535"/>
         <source>Join images...</source>
-        <translation>合併圖片...</translation>
+        <translation>合併影像...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="536"/>
@@ -22596,7 +22596,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="758"/>
         <source>&amp;Image</source>
         <oldsource>Image</oldsource>
-        <translation>圖像(&amp;I)</translation>
+        <translation>影像(&amp;I)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="761"/>
@@ -22692,12 +22692,12 @@ Do you want to continue?</oldsource>
         <location filename="DlgIptc.cpp" line="1193"/>
         <location filename="Helper.h" line="207"/>
         <source>Open Image</source>
-        <translation>開啟圖片</translation>
+        <translation>開啟影像</translation>
     </message>
     <message>
         <location filename="Helper.h" line="217"/>
         <source>Open Image(s)</source>
-        <translation>開啟圖片</translation>
+        <translation>開啟影像</translation>
     </message>
     <message>
         <location filename="Helper.cpp" line="426"/>
@@ -22844,7 +22844,7 @@ Do you want to continue?</oldsource>
         <location filename="MyBitmapView.cpp" line="1004"/>
         <source>Loading image...</source>
         <oldsource>Loading image... </oldsource>
-        <translation>載入圖片...</translation>
+        <translation>載入影像...</translation>
     </message>
 </context>
 <context>
@@ -22896,7 +22896,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyFolderComboEdit.cpp" line="191"/>
         <source>Images</source>
-        <translation>圖片</translation>
+        <translation>影像</translation>
     </message>
 </context>
 <context>
@@ -23016,7 +23016,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyLittleToolBar.h" line="774"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation>點擊左圖示可更換滑桿功能為: 縮圖的固定大小[像素] 或 縮圖的每列固定數量</translation>
+        <translation>點擊左圖示可切換滑桿功能為：&lt;br&gt;「縮圖的固定大小 (像素)」或「每列縮圖的固定數量」</translation>
     </message>
 </context>
 <context>
@@ -23024,7 +23024,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyLittleToolBar.h" line="385"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation>點擊左圖示可更換滑桿功能為: 縮圖的固定大小[像素] 或 縮圖的每列固定數量</translation>
+        <translation>點擊左圖示可切換滑桿功能為：&lt;br&gt;「縮圖的固定大小 (像素)」或「每列縮圖的固定數量」</translation>
     </message>
 </context>
 <context>
@@ -23537,7 +23537,7 @@ You can change it in Settings › Catalog.</oldsource>
         <location filename="PaintWidget.ui" line="1215"/>
         <source>Stretch</source>
         <oldsource>Stretch image</oldsource>
-        <translation>延展圖片</translation>
+        <translation>延展影像</translation>
     </message>
     <message>
         <location filename="PaintWidget.cpp" line="425"/>
@@ -23557,12 +23557,12 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="PaintWidget.cpp" line="992"/>
         <source>Choose an image</source>
-        <translation>選取一張圖片</translation>
+        <translation>選取一張影像</translation>
     </message>
     <message>
         <location filename="PaintWidget.cpp" line="992"/>
         <source>Images</source>
-        <translation>圖片</translation>
+        <translation>影像</translation>
     </message>
     <message>
         <location filename="PaintWidget.cpp" line="1403"/>
@@ -24834,7 +24834,7 @@ will not be saved to the database.</source>
     <message>
         <location filename="xnview.cpp" line="975"/>
         <source>Your previous session contains many loaded images, this can cause a slowdown!</source>
-        <translation>您的前次工作階段有過多載入圖片, 可能拖慢速度！</translation>
+        <translation>您的前次工作階段有過多載入影像, 可能拖慢速度！</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="408"/>
