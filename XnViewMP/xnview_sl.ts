@@ -345,12 +345,12 @@
     <message>
         <location filename="ViewWindow.cpp" line="4122"/>
         <source>Expand canvas</source>
-        <translation type="unfinished"></translation>
+        <translation>Razširi platno</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4122"/>
         <source>Do you want to expand the canvas?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ali želite razširiti platno?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4549"/>
@@ -2693,7 +2693,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="DlgBatchResize.ui" line="927"/>
         <source>Name &amp; extension uppercase</source>
-        <translation>Ime in pripona z VELIKIMI črkami</translation>
+        <translation>Ime in pripona z velikimi črkami</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="932"/>
@@ -2703,7 +2703,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="DlgBatchResize.ui" line="937"/>
         <source>Name uppercase</source>
-        <translation>Ime z VELIKIMI črkami</translation>
+        <translation>Ime z velikimi črkami</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="942"/>
@@ -2713,12 +2713,12 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="DlgBatchResize.ui" line="947"/>
         <source>Extension uppercase</source>
-        <translation>Pripona z VELIKIMI črkami</translation>
+        <translation>Pripona z velikimi črkami</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="952"/>
         <source>First letters uppercase</source>
-        <translation>Prve črke z VELIKO črko</translation>
+        <translation>Prve črke z veliko črko</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="976"/>
@@ -3495,7 +3495,7 @@ Ali jo želite prepisati?</translation>
     <message>
         <location filename="DlgContactSheet.ui" line="207"/>
         <source>Vertical margin</source>
-        <translation>MArge verticale</translation>
+        <translation>Navpični rob</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="231"/>
@@ -4815,7 +4815,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert.ui" line="899"/>
         <location filename="DlgConvert-old.ui" line="1407"/>
         <source>Name &amp; extension uppercase</source>
-        <translation>Ime &amp; pripona z VELIKIMI črkami</translation>
+        <translation>Imein pripona z velikimi črkami</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="904"/>
@@ -4827,7 +4827,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert.ui" line="909"/>
         <location filename="DlgConvert-old.ui" line="1417"/>
         <source>Name uppercase</source>
-        <translation>Ime z VELIKIMI črkami</translation>
+        <translation>Ime z velikimi črkami</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="914"/>
@@ -4839,13 +4839,13 @@ Do you want to continue?</source>
         <location filename="DlgConvert.ui" line="919"/>
         <location filename="DlgConvert-old.ui" line="1427"/>
         <source>Extension uppercase</source>
-        <translation>Pripona z VELIKIMI črkami</translation>
+        <translation>Pripona z velikimi črkami</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="924"/>
         <location filename="DlgConvert-old.ui" line="1432"/>
         <source>First letters uppercase</source>
-        <translation>Prva črka z VELIKO črko</translation>
+        <translation>Prva črka z veliko črko</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="792"/>
@@ -10233,7 +10233,7 @@ Prepričajte se, da datoteke niso samo za branje!</translation>
     <message>
         <location filename="DlgPrint.ui" line="667"/>
         <source>Caption</source>
-        <translation>Opis</translation>
+        <translation>Napis</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="673"/>
@@ -10822,7 +10822,7 @@ Ali jih želite odstraniti?</translation>
     <message>
         <location filename="DlgRename.ui" line="178"/>
         <source>Name &amp; extension uppercase</source>
-        <translation>Ime &amp; pripona z VELIKIMI črkami</translation>
+        <translation>Ime in pripona z velikimi črkami</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="183"/>
@@ -10832,7 +10832,7 @@ Ali jih želite odstraniti?</translation>
     <message>
         <location filename="DlgRename.ui" line="188"/>
         <source>Name uppercase</source>
-        <translation>Ime z VELIKIMI črkami</translation>
+        <translation>Ime z velikimi črkami</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="193"/>
@@ -10842,12 +10842,12 @@ Ali jih želite odstraniti?</translation>
     <message>
         <location filename="DlgRename.ui" line="198"/>
         <source>Extension uppercase</source>
-        <translation>Pripona z VELIKIMI črkami</translation>
+        <translation>Pripona z velikimi črkami</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="203"/>
         <source>First letters uppercase</source>
-        <translation>Prva črka VELIKA</translation>
+        <translation>Velike prve črke</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="117"/>
@@ -10873,7 +10873,7 @@ Ali jih želite odstraniti?</translation>
     <message>
         <location filename="DlgRename.ui" line="274"/>
         <source>Case sensitive</source>
-        <translation>Upoštevaj male/VELIKE črke</translation>
+        <translation>Razlikuje med velikimi in malimi črkami</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="290"/>
@@ -12154,7 +12154,7 @@ Ali želite najprej preveriti prizadete vnose?</translation>
         <location filename="DlgSettingsCache.ui" line="369"/>
         <source>Thumbnails</source>
         <oldsource>Thumbnail</oldsource>
-        <translation type="unfinished">Sličica</translation>
+        <translation>Sličice</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="478"/>
@@ -14232,7 +14232,7 @@ Ali želite ponovno dodeliti?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="916"/>
         <source>Icon spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Razmik med ikonami:</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1229"/>
@@ -17900,7 +17900,7 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="1456"/>
         <source>Are you sure to delete these categories?</source>
-        <translation type="unfinished">Ali ste prepričani, da želite izbrisati te kategorije?</translation>
+        <translation>Ali ste prepričani, da želite izbrisati te kategorije?</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="1476"/>
@@ -20098,7 +20098,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="66"/>
         <source>Name - natural order</source>
         <oldsource>Name - numeric order</oldsource>
-        <translation type="unfinished">Ime - številčni vrstni red</translation>
+        <translation>Ime - naravni red</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="68"/>
@@ -22147,7 +22147,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="422"/>
         <source>Center image</source>
-        <translation type="unfinished"></translation>
+        <translation>Sredinska slika</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="449"/>
