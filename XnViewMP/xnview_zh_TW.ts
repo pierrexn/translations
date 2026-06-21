@@ -455,7 +455,7 @@
     <message>
         <location filename="DlgSlideshow.cpp" line="575"/>
         <source>Audio Files</source>
-        <translation>聲音檔</translation>
+        <translation>音訊檔</translation>
     </message>
 </context>
 <context>
@@ -2018,7 +2018,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="MyDB.cpp" line="885"/>
         <source>Drawings</source>
-        <translation>圖畫</translation>
+        <translation>繪圖</translation>
     </message>
     <message>
         <location filename="MyDB.cpp" line="886"/>
@@ -2028,7 +2028,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="MyDB.cpp" line="887"/>
         <source>Audios</source>
-        <translation>聲音</translation>
+        <translation>音訊</translation>
     </message>
 </context>
 <context>
@@ -2151,7 +2151,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DBFilterModel.cpp" line="1717"/>
         <source>No Color Profile</source>
-        <translation>無色彩配置</translation>
+        <translation>無顏色配置</translation>
     </message>
 </context>
 <context>
@@ -12193,7 +12193,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.cpp" line="287"/>
         <source>Audio</source>
-        <translation>聲音</translation>
+        <translation>音訊</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.cpp" line="288"/>
@@ -14119,7 +14119,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="898"/>
         <source>Audio</source>
-        <translation>聲音</translation>
+        <translation>音訊</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="916"/>
@@ -14449,7 +14449,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="599"/>
         <source>Audio</source>
-        <translation>聲音</translation>
+        <translation>音訊</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="606"/>
@@ -14590,7 +14590,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="740"/>
         <source>Auto-play audio companion files</source>
-        <translation>自動播放聲音的配套檔案</translation>
+        <translation>自動播放音訊的配套檔案</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="747"/>
@@ -15111,7 +15111,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSlideshow.ui" line="307"/>
         <source>Use audio file</source>
-        <translation>使用聲音檔</translation>
+        <translation>使用音訊檔</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="336"/>
@@ -19317,7 +19317,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPropertiesView.cpp" line="499"/>
         <location filename="InfoPropertiesView.cpp" line="518"/>
         <source>Audio</source>
-        <translation>聲音</translation>
+        <translation>音訊</translation>
     </message>
 </context>
 <context>
@@ -20086,7 +20086,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="80"/>
         <source>Sounds</source>
-        <translation>聲音</translation>
+        <translation>音訊</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="81"/>
@@ -20910,7 +20910,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="552"/>
         <source>Play/Stop audio companion</source>
-        <translation>播放/停止播放 聲音的配套檔案</translation>
+        <translation>播放/停止播放 音訊的配套檔案</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="554"/>
@@ -22801,7 +22801,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="DlgSlideshow.cpp" line="576"/>
         <source>Choose audio file</source>
-        <translation>選擇聲音檔</translation>
+        <translation>選擇音訊檔</translation>
     </message>
 </context>
 <context>
