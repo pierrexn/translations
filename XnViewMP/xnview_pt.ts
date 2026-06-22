@@ -354,12 +354,12 @@
     <message>
         <location filename="ViewWindow.cpp" line="4122"/>
         <source>Expand canvas</source>
-        <translation type="unfinished"></translation>
+        <translation>Expandir área de fundo</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4122"/>
         <source>Do you want to expand the canvas?</source>
-        <translation type="unfinished"></translation>
+        <translation>Deseja expandir a área de fundo?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4549"/>
@@ -10750,12 +10750,12 @@ Por favor instale via Ferramentas › Plugins</translation>
     <message>
         <location filename="DlgRename.cpp" line="105"/>
         <source>Rename</source>
-        <translation type="unfinished">Mudar o nome</translation>
+        <translation>Mudar o nome</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="106"/>
         <source>Close</source>
-        <translation type="unfinished">Fechar</translation>
+        <translation>Fechar</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="356"/>
@@ -10770,27 +10770,27 @@ Prefere retirá-los?</translation>
         <location filename="DlgRename.cpp" line="1287"/>
         <location filename="DlgRename.cpp" line="1294"/>
         <source>Save preset</source>
-        <translation type="unfinished">Gravar pré-configuração</translation>
+        <translation>Gravar pré-configuração</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1287"/>
         <source>Preset name:</source>
-        <translation type="unfinished">Nome da pré-configuração:</translation>
+        <translation>Nome da pré-configuração:</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1295"/>
         <source>Preset &apos;%1&apos; already exists. Overwrite?</source>
-        <translation type="unfinished"></translation>
+        <translation>Pré-configuração &apos;%1&apos; já existe. Substituir?</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1318"/>
         <source>Delete preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Apagar pré-configuração</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1319"/>
         <source>Delete preset &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Apagar pré-configuração &apos;%1&apos;?</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1347"/>
@@ -10879,17 +10879,17 @@ Prefere retirá-los?</translation>
     <message>
         <location filename="DlgRename.ui" line="490"/>
         <source>Presets:</source>
-        <translation type="unfinished">Pré-configurações:</translation>
+        <translation>Pré-configurações:</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="507"/>
         <source>Save preset</source>
-        <translation type="unfinished">Gravar pré-configuração</translation>
+        <translation>Gravar pré-configuração</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="521"/>
         <source>Remove preset from list</source>
-        <translation type="unfinished">Remover pré-configuração da lista</translation>
+        <translation>Remover pré-configuração da lista</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="110"/>
@@ -10931,17 +10931,17 @@ Prefere retirá-los?</translation>
     <message>
         <location filename="DlgRename.ui" line="323"/>
         <source>Add files...</source>
-        <translation type="unfinished">Adicionar ficheiros...</translation>
+        <translation>Adicionar ficheiros...</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="337"/>
         <source>Remove</source>
-        <translation type="unfinished">Remover</translation>
+        <translation>Remover</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="351"/>
         <source>Remove all</source>
-        <translation type="unfinished">Remover todos</translation>
+        <translation>Remover todos</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="441"/>
@@ -12215,7 +12215,7 @@ Deseja remover registos atribuídos a uma categoria?</translation>
         <location filename="DlgSettingsCache.ui" line="369"/>
         <source>Thumbnails</source>
         <oldsource>Thumbnail</oldsource>
-        <translation type="unfinished">Miniatura</translation>
+        <translation>Miniaturas</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="478"/>
@@ -14025,7 +14025,7 @@ Pretende reatribuir?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="83"/>
         <source>File</source>
-        <translation type="unfinished">Ficheiro</translation>
+        <translation>Ficheiro</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="159"/>
@@ -14035,7 +14035,7 @@ Pretende reatribuir?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="214"/>
         <source>XMP (dc:description and exif:UserComment)</source>
-        <translation type="unfinished"></translation>
+        <translation>XMP (dc:description e exif:UserComment)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="224"/>
@@ -14246,7 +14246,7 @@ Pretende reatribuir?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="916"/>
         <source>Icon spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Espaço entre ícones:</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1116"/>
@@ -17983,7 +17983,7 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
         <location filename="InfoCategoryView.cpp" line="1412"/>
         <location filename="InfoCategoryView.cpp" line="1483"/>
         <source>Are you sure to delete these categories?</source>
-        <translation type="unfinished">Tem a certeza de apagar estas categorias?</translation>
+        <translation>Tem a certeza de apagar estas categorias?</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="1503"/>
@@ -20197,7 +20197,7 @@ Deseja continuar?</translation>
         <location filename="BrowserMenu.h" line="66"/>
         <source>Name - natural order</source>
         <oldsource>Name - numeric order</oldsource>
-        <translation type="unfinished">Nome - ordenação numérica</translation>
+        <translation>Nome - ordenação numérica</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="68"/>
@@ -22095,7 +22095,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="ViewMenu.h" line="422"/>
         <source>Center image</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrar imagem</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="425"/>
@@ -23230,7 +23230,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="MyTemplateComboEdit.h" line="192"/>
         <source>Do you want to delete all your name templates?</source>
-        <translation type="unfinished">Pretende apagar todos os modelos de nome?</translation>
+        <translation>Pretende apagar todos os seus modelos de nome?</translation>
     </message>
     <message>
         <location filename="MyTemplateComboEdit.h" line="266"/>
