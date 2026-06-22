@@ -10718,12 +10718,12 @@ Veuillez l&apos;installer via Outils &apos; Plugins</translation>
     <message>
         <location filename="DlgRename.cpp" line="105"/>
         <source>Rename</source>
-        <translation type="unfinished">Renommer</translation>
+        <translation>Renommer</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="106"/>
         <source>Close</source>
-        <translation type="unfinished">Fermer</translation>
+        <translation>Fermer</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="356"/>
@@ -10738,27 +10738,27 @@ Voulez-vous les enlever?</translation>
         <location filename="DlgRename.cpp" line="1287"/>
         <location filename="DlgRename.cpp" line="1294"/>
         <source>Save preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrer les préréglages</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1287"/>
         <source>Preset name:</source>
-        <translation type="unfinished">Nom du préréglage:</translation>
+        <translation>Nom du préréglage:</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1295"/>
         <source>Preset &apos;%1&apos; already exists. Overwrite?</source>
-        <translation type="unfinished"></translation>
+        <translation>Le préréglage « %1 » existe déjà. Voulez-vous le remplacer&#x202f;?</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1318"/>
         <source>Delete preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer le préréglage</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1319"/>
         <source>Delete preset &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer le préréglage « %1 »&#x202f;?</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1347"/>
@@ -10847,17 +10847,17 @@ Voulez-vous les enlever?</translation>
     <message>
         <location filename="DlgRename.ui" line="490"/>
         <source>Presets:</source>
-        <translation type="unfinished"></translation>
+        <translation>Réglages&#xa0;:</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="507"/>
         <source>Save preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrer les préréglages</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="521"/>
         <source>Remove preset from list</source>
-        <translation type="unfinished">Enlever ce préréglage de la liste</translation>
+        <translation>Enlever ce préréglage de la liste</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="110"/>
@@ -10898,17 +10898,17 @@ Voulez-vous les enlever?</translation>
     <message>
         <location filename="DlgRename.ui" line="323"/>
         <source>Add files...</source>
-        <translation type="unfinished">Ajouter des fichiers...</translation>
+        <translation>Ajouter des fichiers...</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="337"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Enlever</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="351"/>
         <source>Remove all</source>
-        <translation type="unfinished">Supprimer tout</translation>
+        <translation>Supprimer tout</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="441"/>
@@ -12180,7 +12180,7 @@ Voulez-vous supprimer les entrées attribuées à une catégorie?</translation>
         <location filename="DlgSettingsCache.ui" line="369"/>
         <source>Thumbnails</source>
         <oldsource>Thumbnail</oldsource>
-        <translation type="unfinished">Vignette</translation>
+        <translation>Vignettes</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="478"/>
@@ -13932,12 +13932,12 @@ Voulez-vous le réaffecter ?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="83"/>
         <source>File</source>
-        <translation type="unfinished">Fichier</translation>
+        <translation>Fichier</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="214"/>
         <source>XMP (dc:description and exif:UserComment)</source>
-        <translation type="unfinished"></translation>
+        <translation>XMP (dc:description et exif:UserComment)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="370"/>
@@ -17937,7 +17937,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
         <location filename="InfoCategoryView.cpp" line="1412"/>
         <location filename="InfoCategoryView.cpp" line="1483"/>
         <source>Are you sure to delete these categories?</source>
-        <translation type="unfinished">Êtes-vous sûr de vouloir supprimer ces catégories ?</translation>
+        <translation>Êtes-vous sûr de vouloir supprimer ces catégories&#x202f;?</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="1503"/>
@@ -20135,7 +20135,7 @@ Voulez-vous continuer ?</translation>
         <location filename="BrowserMenu.h" line="66"/>
         <source>Name - natural order</source>
         <oldsource>Name - numeric order</oldsource>
-        <translation type="unfinished">Nom: Ordre numérique</translation>
+        <translation>Nom - ordre naturel</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="68"/>
@@ -23170,7 +23170,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="MyTemplateComboEdit.h" line="192"/>
         <source>Do you want to delete all your name templates?</source>
-        <translation type="unfinished">Voulez-vous effacer tous les modèles de noms?</translation>
+        <translation>Voulez-vous effacer tous les modèles de noms?</translation>
     </message>
     <message>
         <location filename="MyTemplateComboEdit.h" line="266"/>
