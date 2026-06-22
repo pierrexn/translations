@@ -9817,7 +9817,7 @@ Bitte stellen Sie sicher, dass die Dateien nicht schreibgeschützt sind.</transl
     <message>
         <location filename="DlgPalette.ui" line="91"/>
         <source>Clear</source>
-        <translation>Entfernen</translation>
+        <translation>Alle entfernen</translation>
     </message>
     <message>
         <location filename="DlgPalette.ui" line="117"/>
@@ -10708,12 +10708,12 @@ Bitte installieren Sie es über Werkzeuge › PlugIns.</translation>
     <message>
         <location filename="DlgRename.cpp" line="105"/>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Umbenennen</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="106"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Schließen</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="356"/>
@@ -10728,27 +10728,27 @@ Möchten Sie sie entfernen?</translation>
         <location filename="DlgRename.cpp" line="1287"/>
         <location filename="DlgRename.cpp" line="1294"/>
         <source>Save preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Voreinstellung speichern</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1287"/>
         <source>Preset name:</source>
-        <translation type="unfinished">Voreinstellungsname:</translation>
+        <translation>Voreinstellungsname:</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1295"/>
         <source>Preset &apos;%1&apos; already exists. Overwrite?</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Voreinstellung &apos;%1&apos; ist bereits vorhanden. Überschreiben?</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1318"/>
         <source>Delete preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Voreinstellung löschen</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1319"/>
         <source>Delete preset &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Voreinstellung &apos;%1&apos; löschen?</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1347"/>
@@ -10837,17 +10837,17 @@ Möchten Sie sie entfernen?</translation>
     <message>
         <location filename="DlgRename.ui" line="490"/>
         <source>Presets:</source>
-        <translation type="unfinished"></translation>
+        <translation>Voreinstellungen:</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="507"/>
         <source>Save preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Voreinstellung speichern</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="521"/>
         <source>Remove preset from list</source>
-        <translation type="unfinished">Voreinstellung aus Liste entfernen</translation>
+        <translation>Voreinstellung aus Liste entfernen</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="110"/>
@@ -10888,17 +10888,17 @@ Möchten Sie sie entfernen?</translation>
     <message>
         <location filename="DlgRename.ui" line="323"/>
         <source>Add files...</source>
-        <translation type="unfinished">Dateien hinzufügen...</translation>
+        <translation>Dateien hinzufügen...</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="337"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Entfernen</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="351"/>
         <source>Remove all</source>
-        <translation type="unfinished">Alle entfernen</translation>
+        <translation>Alle entfernen</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="441"/>
@@ -13972,7 +13972,7 @@ Möchten Sie neu zuweisen?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="83"/>
         <source>File</source>
-        <translation type="unfinished">Datei</translation>
+        <translation>Datei</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="159"/>
@@ -13982,7 +13982,7 @@ Möchten Sie neu zuweisen?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="214"/>
         <source>XMP (dc:description and exif:UserComment)</source>
-        <translation type="unfinished"></translation>
+        <translation>XMP (dc:description und exif:UserComment)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="224"/>
@@ -23149,7 +23149,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="MyTemplateComboEdit.h" line="192"/>
         <source>Do you want to delete all your name templates?</source>
-        <translation type="unfinished">Wollen Sie alle bisher verwendeten Namensvorlagen löschen?</translation>
+        <translation>Wollen Sie alle bisher verwendeten Namensvorlagen löschen?</translation>
     </message>
     <message>
         <location filename="MyTemplateComboEdit.h" line="266"/>
