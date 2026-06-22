@@ -2087,7 +2087,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="173"/>
         <location filename="DBFilterModel.cpp" line="196"/>
-        <location filename="DBFilterModel.cpp" line="1819"/>
+        <location filename="DBFilterModel.cpp" line="1822"/>
         <source>Date</source>
         <translation>Dátum</translation>
     </message>
@@ -2120,39 +2120,39 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <translation>Skontrolovať</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1487"/>
-        <location filename="DBFilterModel.cpp" line="1630"/>
-        <location filename="DBFilterModel.cpp" line="1636"/>
-        <location filename="DBFilterModel.cpp" line="1642"/>
+        <location filename="DBFilterModel.cpp" line="1490"/>
+        <location filename="DBFilterModel.cpp" line="1633"/>
+        <location filename="DBFilterModel.cpp" line="1639"/>
         <location filename="DBFilterModel.cpp" line="1645"/>
-        <location filename="DBFilterModel.cpp" line="1657"/>
-        <location filename="DBFilterModel.cpp" line="1672"/>
-        <location filename="DBFilterModel.cpp" line="1972"/>
+        <location filename="DBFilterModel.cpp" line="1648"/>
+        <location filename="DBFilterModel.cpp" line="1660"/>
+        <location filename="DBFilterModel.cpp" line="1675"/>
+        <location filename="DBFilterModel.cpp" line="1975"/>
         <source>Unknown</source>
         <translation>Neznáme</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1663"/>
+        <location filename="DBFilterModel.cpp" line="1666"/>
         <source>Landscape</source>
         <translation>Na šírku</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1664"/>
+        <location filename="DBFilterModel.cpp" line="1667"/>
         <source>Portrait</source>
         <translation>Na výšku</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1665"/>
+        <location filename="DBFilterModel.cpp" line="1668"/>
         <source>Square</source>
         <translation>Štvorec</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1700"/>
+        <location filename="DBFilterModel.cpp" line="1703"/>
         <source>Panoramic</source>
         <translation>Panoramatické</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1717"/>
+        <location filename="DBFilterModel.cpp" line="1720"/>
         <source>No Color Profile</source>
         <translation>Žiaden farebný profil</translation>
     </message>
@@ -10721,17 +10721,27 @@ Nainštalujte ho cez Nástroje › Zásuvné moduly</translation>
 <context>
     <name>DlgRename</name>
     <message>
-        <location filename="DlgRename.cpp" line="809"/>
+        <location filename="DlgRename.cpp" line="861"/>
         <source>(%1 files)</source>
         <translation>(%1 súborov)</translation>
     </message>
     <message>
-        <location filename="DlgRename.cpp" line="310"/>
+        <location filename="DlgRename.cpp" line="356"/>
         <source>Companion renaming</source>
         <translation>Premenovanie spoločníka</translation>
     </message>
     <message>
-        <location filename="DlgRename.cpp" line="310"/>
+        <location filename="DlgRename.cpp" line="105"/>
+        <source>Rename</source>
+        <translation type="unfinished">Premenovať</translation>
+    </message>
+    <message>
+        <location filename="DlgRename.cpp" line="106"/>
+        <source>Close</source>
+        <translation type="unfinished">Zatvoriť</translation>
+    </message>
+    <message>
+        <location filename="DlgRename.cpp" line="356"/>
         <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. 
 
 Do you want to remove them?</source>
@@ -10740,7 +10750,33 @@ Do you want to remove them?</source>
 Chcete ich odstrániť?</translation>
     </message>
     <message>
-        <location filename="DlgRename.cpp" line="1108"/>
+        <location filename="DlgRename.cpp" line="1287"/>
+        <location filename="DlgRename.cpp" line="1294"/>
+        <source>Save preset</source>
+        <translation type="unfinished">Uložiť predvoľbu</translation>
+    </message>
+    <message>
+        <location filename="DlgRename.cpp" line="1287"/>
+        <source>Preset name:</source>
+        <translation type="unfinished">Názov predvolby:</translation>
+    </message>
+    <message>
+        <location filename="DlgRename.cpp" line="1295"/>
+        <source>Preset &apos;%1&apos; already exists. Overwrite?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgRename.cpp" line="1318"/>
+        <source>Delete preset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgRename.cpp" line="1319"/>
+        <source>Delete preset &apos;%1&apos;?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgRename.cpp" line="1347"/>
         <source>Do you want to delete all your name templates?</source>
         <translation>Chcete odstrániť všetky názvy šablón?</translation>
     </message>
@@ -10758,11 +10794,6 @@ Chcete ich odstrániť?</translation>
         <translation>Názov šablóny</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="108"/>
-        <source>Clear templates</source>
-        <translation>Vymazať šablóny</translation>
-    </message>
-    <message>
         <location filename="DlgRename.ui" line="54"/>
         <source>Start</source>
         <translation>Začiatok</translation>
@@ -10778,116 +10809,146 @@ Chcete ich odstrániť?</translation>
         <translation>Duplikát...</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="124"/>
+        <location filename="DlgRename.ui" line="117"/>
         <source>Create new name template when opening dialog</source>
         <translation>Po otvorení vytvoriť novú šablónu podľa názvu súboru</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="142"/>
+        <location filename="DlgRename.ui" line="135"/>
         <source>Extension</source>
         <translation>Prípona</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="163"/>
+        <location filename="DlgRename.ui" line="156"/>
         <source>Case</source>
         <translation>Veľkosť písmen</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="173"/>
+        <location filename="DlgRename.ui" line="166"/>
         <source>Name &amp; extension lowercase</source>
         <translation>Názov a prípona malými</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="178"/>
+        <location filename="DlgRename.ui" line="171"/>
         <source>Name &amp; extension uppercase</source>
         <translation>Názov a prípona veľkými</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="183"/>
+        <location filename="DlgRename.ui" line="176"/>
         <source>Name lowercase</source>
         <translation>Názov malými</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="188"/>
+        <location filename="DlgRename.ui" line="181"/>
         <source>Name uppercase</source>
         <translation>Názov veľkými</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="193"/>
+        <location filename="DlgRename.ui" line="186"/>
         <source>Extension lowercase</source>
         <translation>Prípona malými</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="198"/>
+        <location filename="DlgRename.ui" line="191"/>
         <source>Extension uppercase</source>
         <translation>Prípona veľkými</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="203"/>
+        <location filename="DlgRename.ui" line="196"/>
         <source>First letters uppercase</source>
         <translation>Prvé písmená veľkými</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="117"/>
+        <location filename="DlgRename.ui" line="490"/>
+        <source>Presets:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgRename.ui" line="507"/>
+        <source>Save preset</source>
+        <translation type="unfinished">Uložiť predvoľbu</translation>
+    </message>
+    <message>
+        <location filename="DlgRename.ui" line="521"/>
+        <source>Remove preset from list</source>
+        <translation type="unfinished">Odobrať predvoľbu zo zoznamu</translation>
+    </message>
+    <message>
+        <location filename="DlgRename.ui" line="110"/>
         <source>Ignore extension for # enumerator</source>
         <translation>Ignorovať prípony pre enumerátor #</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="312"/>
+        <location filename="DlgRename.ui" line="293"/>
         <source>Clean diacritic characters</source>
         <translation>Vyčistiť diakritiku</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="216"/>
-        <location filename="DlgRename.ui" line="227"/>
+        <location filename="DlgRename.ui" line="209"/>
+        <location filename="DlgRename.ui" line="220"/>
         <source>Replace</source>
         <translation>Nahradiť</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="250"/>
+        <location filename="DlgRename.ui" line="243"/>
         <source>With</source>
         <translation>S</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="274"/>
+        <location filename="DlgRename.ui" line="267"/>
         <source>Case sensitive</source>
         <translation>Rozlišovať malé a veľké</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="290"/>
+        <location filename="DlgRename.ui" line="283"/>
         <source>Use Regular Expression</source>
         <translation>Používať regulárny výraz</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="281"/>
+        <location filename="DlgRename.ui" line="274"/>
         <source>Exclude extension</source>
         <translation>Vylúčiť príponu</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="324"/>
+        <location filename="DlgRename.ui" line="323"/>
+        <source>Add files...</source>
+        <translation type="unfinished">Pridať súbory...</translation>
+    </message>
+    <message>
+        <location filename="DlgRename.ui" line="337"/>
+        <source>Remove</source>
+        <translation type="unfinished">Odobrať</translation>
+    </message>
+    <message>
+        <location filename="DlgRename.ui" line="351"/>
+        <source>Remove all</source>
+        <translation type="unfinished">Odobrať všetky</translation>
+    </message>
+    <message>
+        <location filename="DlgRename.ui" line="441"/>
         <source>Double click on a filename to create a new name template</source>
         <translation>Dvojklikom na súbor sa vytvorí nová šablóna podľa názvu daného súboru</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="340"/>
+        <location filename="DlgRename.ui" line="457"/>
         <source>Old name</source>
         <translation>Starý názov</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="345"/>
+        <location filename="DlgRename.ui" line="462"/>
         <source>New name</source>
         <translation>Nový názov</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="350"/>
+        <location filename="DlgRename.ui" line="467"/>
         <source>Directory</source>
         <translation>Priečinok</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="376"/>
-        <location filename="DlgRename.ui" line="390"/>
-        <location filename="DlgRename.ui" line="404"/>
-        <location filename="DlgRename.ui" line="418"/>
+        <location filename="DlgRename.ui" line="374"/>
+        <location filename="DlgRename.ui" line="391"/>
+        <location filename="DlgRename.ui" line="408"/>
+        <location filename="DlgRename.ui" line="425"/>
         <source>...</source>
         <translation>...</translation>
     </message>
@@ -13870,30 +13931,30 @@ Chcete ho priradiť znova?</translation>
 <context>
     <name>DlgSettingsKeywordsClass</name>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="210"/>
+        <location filename="DlgSettingsKeywords.ui" line="237"/>
         <source>Automatically assign parent Category (Ctrl+click for current only)</source>
         <oldsource>Automatically apply parent category (Ctrl+click for single category)</oldsource>
         <translation>Automaticky použiť nadradenú kategóriu (Ctrl+klik pre jednu kategóriu)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="359"/>
+        <location filename="DlgSettingsKeywords.ui" line="370"/>
         <source>Create or update XMP Sidecar</source>
         <oldsource>Update or create XMP Sidecar</oldsource>
         <translation>Aktualizovať alebo vytvoriť XMP sprievodný súbor</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="396"/>
+        <location filename="DlgSettingsKeywords.ui" line="407"/>
         <source>Naming convention</source>
         <translation>Konvencia pomenovania</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="402"/>
+        <location filename="DlgSettingsKeywords.ui" line="413"/>
         <source>&lt;filename&gt;.xmp</source>
         <oldsource>Filename.xmp</oldsource>
         <translation>&lt;názov&gt;.xmp</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="409"/>
+        <location filename="DlgSettingsKeywords.ui" line="420"/>
         <source>&lt;filename&gt;.&lt;extension&gt;.xmp</source>
         <oldsource>Filename.extension.xmp</oldsource>
         <translation>&lt;názov&gt;.&lt;prípona&gt;.xmp</translation>
@@ -13905,150 +13966,155 @@ Chcete ho priradiť znova?</translation>
         <translation>Metaúdaje</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="124"/>
+        <location filename="DlgSettingsKeywords.ui" line="159"/>
         <source>Update catalog when file is modified outside (file date/size)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="203"/>
+        <location filename="DlgSettingsKeywords.ui" line="230"/>
         <source>Update keywords when file is modified outside (file date/size)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="219"/>
+        <location filename="DlgSettingsKeywords.ui" line="246"/>
         <source>Read Hierarchical keywords</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="313"/>
+        <location filename="DlgSettingsKeywords.ui" line="340"/>
         <source>Write Hierarchical keywords (| as separator)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="323"/>
+        <location filename="DlgSettingsKeywords.ui" line="131"/>
         <source>Comment</source>
         <translation>Komentár</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="329"/>
-        <source>Write comment in XMP (dc:description and exif:UserComment)</source>
-        <translation>Zapísať komentár do XMP (dc:popis a exif:UžívateľskýKomentár)</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsKeywords.ui" line="353"/>
+        <location filename="DlgSettingsKeywords.ui" line="364"/>
         <source>Sidecar</source>
         <translation>Postranný vozík</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="387"/>
+        <location filename="DlgSettingsKeywords.ui" line="398"/>
         <source>Update master file</source>
         <translation>Aktualizácia hlavného súboru</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="452"/>
+        <location filename="DlgSettingsKeywords.ui" line="463"/>
         <source>Video files</source>
         <translation>Video súbory</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="459"/>
+        <location filename="DlgSettingsKeywords.ui" line="470"/>
         <source>Other files</source>
         <translation>Iné súbory</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="483"/>
+        <location filename="DlgSettingsKeywords.ui" line="494"/>
         <source>Encoding</source>
         <translation>Kódovanie</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="497"/>
-        <location filename="DlgSettingsKeywords.ui" line="547"/>
+        <location filename="DlgSettingsKeywords.ui" line="508"/>
+        <location filename="DlgSettingsKeywords.ui" line="558"/>
         <source>Default encoding</source>
         <translation>Predvolené kódovanie</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="539"/>
+        <location filename="DlgSettingsKeywords.ui" line="550"/>
         <source>Embedded comment</source>
         <translation>Zapustený komentár</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="673"/>
+        <location filename="DlgSettingsKeywords.ui" line="684"/>
         <source>Rating labels</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="753"/>
-        <location filename="DlgSettingsKeywords.ui" line="1060"/>
+        <location filename="DlgSettingsKeywords.ui" line="764"/>
+        <location filename="DlgSettingsKeywords.ui" line="1071"/>
         <source>Label</source>
         <translation>Popis</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="1046"/>
+        <location filename="DlgSettingsKeywords.ui" line="1057"/>
         <source>Read (separated by ,)</source>
         <translation>Načítať (oddelené pomocou ,)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="1053"/>
+        <location filename="DlgSettingsKeywords.ui" line="1064"/>
         <source>Write</source>
         <translation>Zapísať</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="529"/>
+        <location filename="DlgSettingsKeywords.ui" line="540"/>
         <source>Use UTF-8 to write IPTC fields</source>
         <oldsource>Use utf8 to write IPTC fields</oldsource>
         <translation>Používať UTF-8 pre zápis IPTC položiek</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="96"/>
+        <location filename="DlgSettingsKeywords.ui" line="166"/>
         <source>Import</source>
         <translation>Importovať</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="117"/>
+        <location filename="DlgSettingsKeywords.ui" line="66"/>
         <source>Export</source>
         <translation>Exportovať</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="55"/>
+        <location filename="DlgSettingsKeywords.ui" line="59"/>
         <source>Rating</source>
         <translation>Hodnotenie</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="62"/>
+        <location filename="DlgSettingsKeywords.ui" line="73"/>
         <source>Color label</source>
         <translation>Farebný štítok</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="138"/>
+        <location filename="DlgSettingsKeywords.ui" line="124"/>
         <source>Categories</source>
         <translation>Kategórie</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="131"/>
+        <location filename="DlgSettingsKeywords.ui" line="45"/>
         <source>Face tag</source>
         <translation>Označenie tváre</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="197"/>
+        <location filename="DlgSettingsKeywords.ui" line="83"/>
+        <source>File</source>
+        <translation type="unfinished">Súbor</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsKeywords.ui" line="214"/>
+        <source>XMP (dc:description and exif:UserComment)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsKeywords.ui" line="224"/>
         <source>Categories and keywords</source>
         <translation>Kategórie a kľúčové slová</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="419"/>
+        <location filename="DlgSettingsKeywords.ui" line="430"/>
         <source>Supported formats</source>
         <translation>Podporované formáty</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="590"/>
+        <location filename="DlgSettingsKeywords.ui" line="601"/>
         <source>Copyright</source>
         <translation>Autorské právo</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="624"/>
+        <location filename="DlgSettingsKeywords.ui" line="635"/>
         <source>Image description</source>
         <translation>Popis obrázka</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="829"/>
+        <location filename="DlgSettingsKeywords.ui" line="840"/>
         <source>Color labels</source>
         <oldsource>Labels</oldsource>
         <translation>Farebné štítky</translation>
@@ -17521,12 +17587,12 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <translation>Pomer strán</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2211"/>
+        <location filename="DBFilterModel.cpp" line="2214"/>
         <source>Aspect Ratio</source>
         <translation>Pomer strán</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2247"/>
+        <location filename="DBFilterModel.cpp" line="2250"/>
         <source>File type</source>
         <translation>Typ súboru</translation>
     </message>
@@ -17833,60 +17899,61 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
 <context>
     <name>InfoCategoryTreeView</name>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1416"/>
+        <location filename="InfoCategoryView.cpp" line="1443"/>
         <source>New category</source>
         <translation>Nová kategória</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1417"/>
+        <location filename="InfoCategoryView.cpp" line="1444"/>
         <source>New subcategory</source>
         <translation>Nová podkategória</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1424"/>
+        <location filename="InfoCategoryView.cpp" line="1451"/>
         <source>Rename</source>
         <translation>Premenovať</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1427"/>
+        <location filename="InfoCategoryView.cpp" line="1454"/>
         <source>Move to...</source>
         <translation>Presunúť do...</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1428"/>
+        <location filename="InfoCategoryView.cpp" line="1455"/>
         <source>Merge with...</source>
         <translation>Zlúčiť s...</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1429"/>
+        <location filename="InfoCategoryView.cpp" line="1456"/>
         <source>Delete</source>
         <translation>Odstrániť</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1431"/>
+        <location filename="InfoCategoryView.cpp" line="1458"/>
         <source>Edit...</source>
         <translation>Upraviť...</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1392"/>
-        <location filename="InfoCategoryView.cpp" line="1456"/>
+        <location filename="InfoCategoryView.cpp" line="1411"/>
+        <location filename="InfoCategoryView.cpp" line="1483"/>
         <source>Delete category</source>
         <translation>Odstrániť kategóriu</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1392"/>
-        <location filename="InfoCategoryView.cpp" line="1456"/>
+        <location filename="InfoCategoryView.cpp" line="1412"/>
+        <location filename="InfoCategoryView.cpp" line="1483"/>
         <source>Are you sure to delete this category?</source>
         <translation>Ste si istý že chcete odstrániť túto kateróriu?</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1456"/>
+        <location filename="InfoCategoryView.cpp" line="1412"/>
+        <location filename="InfoCategoryView.cpp" line="1483"/>
         <source>Are you sure to delete these categories?</source>
         <translation type="unfinished">Naozaj chcete odstrániť tieto kategórie?</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1476"/>
-        <location filename="InfoCategoryView.cpp" line="1487"/>
+        <location filename="InfoCategoryView.cpp" line="1503"/>
+        <location filename="InfoCategoryView.cpp" line="1514"/>
         <source>New Category</source>
         <translation>Nová kategória</translation>
     </message>
@@ -18098,86 +18165,86 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <translation>Poznámky zhotoviteľa</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2215"/>
+        <location filename="DBFilterModel.cpp" line="2218"/>
         <location filename="SearchField.cpp" line="83"/>
         <location filename="TemplateData.cpp" line="2653"/>
         <source>Maker</source>
         <translation>Zhotoviteľ</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2219"/>
+        <location filename="DBFilterModel.cpp" line="2222"/>
         <location filename="SearchField.cpp" line="84"/>
         <location filename="TemplateData.cpp" line="2654"/>
         <source>Model</source>
         <translation>Model</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2223"/>
+        <location filename="DBFilterModel.cpp" line="2226"/>
         <source>Lens</source>
         <translation>Šošovka</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2231"/>
+        <location filename="DBFilterModel.cpp" line="2234"/>
         <source>ISO</source>
         <translation>ISO</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2239"/>
+        <location filename="DBFilterModel.cpp" line="2242"/>
         <source>Shutter Speed</source>
         <translation>Rýchlosť uzávierky</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2251"/>
+        <location filename="DBFilterModel.cpp" line="2254"/>
         <source>Colour Space</source>
         <translation>Farebný priestor</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1673"/>
+        <location filename="DBFilterModel.cpp" line="1676"/>
         <source>Not Defined</source>
         <translation>Nedefinované</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1674"/>
+        <location filename="DBFilterModel.cpp" line="1677"/>
         <source>Manual</source>
         <translation>Návod</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1675"/>
+        <location filename="DBFilterModel.cpp" line="1678"/>
         <source>Program AE</source>
         <translation>Program AE</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1676"/>
+        <location filename="DBFilterModel.cpp" line="1679"/>
         <source>Aperture-priority AE</source>
         <translation>Priorita clony AE</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1677"/>
+        <location filename="DBFilterModel.cpp" line="1680"/>
         <source>Shutter speed priority AE</source>
         <translation>Priorita rýchlosti uzávierky AE</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1678"/>
+        <location filename="DBFilterModel.cpp" line="1681"/>
         <source>Creative</source>
         <translation>Kreatívny</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1679"/>
+        <location filename="DBFilterModel.cpp" line="1682"/>
         <source>Action</source>
         <translation>Operácia</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1680"/>
+        <location filename="DBFilterModel.cpp" line="1683"/>
         <source>Portrait</source>
         <translation>Na výšku</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1681"/>
+        <location filename="DBFilterModel.cpp" line="1684"/>
         <source>Landscape</source>
         <translation>Na šírku</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2227"/>
+        <location filename="DBFilterModel.cpp" line="2230"/>
         <source>Focal Length</source>
         <translation>Ohnisková vzdialenosť</translation>
     </message>
@@ -18220,7 +18287,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <translation>Užívateľský komentár</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2235"/>
+        <location filename="DBFilterModel.cpp" line="2238"/>
         <location filename="SearchField.cpp" line="93"/>
         <location filename="TemplateData.cpp" line="2687"/>
         <source>F-Number</source>
@@ -18243,7 +18310,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <translation>Dátum/čas poslednej zmeny</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2207"/>
+        <location filename="DBFilterModel.cpp" line="2210"/>
         <location filename="TemplateData.cpp" line="2658"/>
         <source>Orientation</source>
         <translation>Orientácia</translation>
@@ -18336,7 +18403,7 @@ Chcete odstrániť obľúbenú položku &quot;% 1&quot;?</translation>
         <translation>Expozičný čas (s)</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2243"/>
+        <location filename="DBFilterModel.cpp" line="2246"/>
         <location filename="TemplateData.cpp" line="2683"/>
         <source>Exposure Program</source>
         <translation>Expozičný program</translation>
@@ -23107,7 +23174,12 @@ Chcete pokračovať?</translation>
 <context>
     <name>MyTemplateComboEdit</name>
     <message>
-        <location filename="MyTemplateComboEdit.h" line="187"/>
+        <location filename="MyTemplateComboEdit.h" line="192"/>
+        <source>Do you want to delete all your name templates?</source>
+        <translation type="unfinished">Chcete odstrániť všetky názvy šablón?</translation>
+    </message>
+    <message>
+        <location filename="MyTemplateComboEdit.h" line="266"/>
         <source>Clear</source>
         <translation>Vymazať</translation>
     </message>

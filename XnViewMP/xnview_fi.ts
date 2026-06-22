@@ -8360,6 +8360,34 @@ Do you want to remove them?</source>
 
 Haluatko poistaa ne?</translation>
     </message>
+    <message>
+        <source>Rename</source>
+        <translation type="unfinished">Nimeä uudelleen</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Sulje</translation>
+    </message>
+    <message>
+        <source>Save preset</source>
+        <translation type="unfinished">Tallenna esiasetus</translation>
+    </message>
+    <message>
+        <source>Preset name:</source>
+        <translation type="unfinished">Esiasetuksen nimi:</translation>
+    </message>
+    <message>
+        <source>Preset &apos;%1&apos; already exists. Overwrite?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete preset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete preset &apos;%1&apos;?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgRenameClass</name>
@@ -8472,8 +8500,28 @@ Haluatko poistaa ne?</translation>
         <translation>Nimi isoilla kirjaimilla</translation>
     </message>
     <message>
-        <source>Clear templates</source>
-        <translation>Tyhjennä mallipohja</translation>
+        <source>Add files...</source>
+        <translation type="unfinished">Lisää tiedostot...</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="unfinished">Poista</translation>
+    </message>
+    <message>
+        <source>Remove all</source>
+        <translation type="unfinished">Poista kaikki</translation>
+    </message>
+    <message>
+        <source>Presets:</source>
+        <translation type="unfinished">Esiasetukset:</translation>
+    </message>
+    <message>
+        <source>Save preset</source>
+        <translation type="unfinished">Tallenna esiasetus</translation>
+    </message>
+    <message>
+        <source>Remove preset from list</source>
+        <translation type="unfinished">Poista esiasetus listalta</translation>
     </message>
 </context>
 <context>
@@ -10738,10 +10786,6 @@ Haluatko määrittää uudelleen?</translation>
         <translation>&lt;tiedostonimi&gt;.xmp</translation>
     </message>
     <message>
-        <source>Write comment in XMP (dc:description and exif:UserComment)</source>
-        <translation>Kirjoita kommentti XMP:hen (dc:selitys ja exif:käyttäjän kommentti)</translation>
-    </message>
-    <message>
         <source>Metadata</source>
         <translation>Metatiedot</translation>
     </message>
@@ -10819,6 +10863,14 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Rating labels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation type="unfinished">Tiedosto</translation>
+    </message>
+    <message>
+        <source>XMP (dc:description and exif:UserComment)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17676,6 +17728,10 @@ Jatketaanko?</translation>
     <message>
         <source>Clear</source>
         <translation>Tyhjennä</translation>
+    </message>
+    <message>
+        <source>Do you want to delete all your name templates?</source>
+        <translation type="unfinished">Haluatko poistaa kaikki nimi-mallipohjasi?</translation>
     </message>
 </context>
 <context>

@@ -8358,6 +8358,34 @@ Do you want to remove them?</source>
 
 Deseja removê-los da lista?</translation>
     </message>
+    <message>
+        <source>Rename</source>
+        <translation type="unfinished">Renomear</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Fechar</translation>
+    </message>
+    <message>
+        <source>Save preset</source>
+        <translation type="unfinished">Salvar predefinição</translation>
+    </message>
+    <message>
+        <source>Preset name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preset &apos;%1&apos; already exists. Overwrite?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete preset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete preset &apos;%1&apos;?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgRenameClass</name>
@@ -8454,10 +8482,6 @@ Deseja removê-los da lista?</translation>
         <translation>...</translation>
     </message>
     <message>
-        <source>Clear templates</source>
-        <translation>Limpar modelos</translation>
-    </message>
-    <message>
         <source>Use Regular Expression</source>
         <translation>Usar Expressão Regular</translation>
     </message>
@@ -8472,6 +8496,30 @@ Deseja removê-los da lista?</translation>
     <message>
         <source>Clean diacritic characters</source>
         <translation>Limpar caracteres diacríticos</translation>
+    </message>
+    <message>
+        <source>Add files...</source>
+        <translation type="unfinished">Adicionar arquivos...</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove all</source>
+        <translation type="unfinished">Excluir tudo</translation>
+    </message>
+    <message>
+        <source>Presets:</source>
+        <translation type="unfinished">Predefinições:</translation>
+    </message>
+    <message>
+        <source>Save preset</source>
+        <translation type="unfinished">Salvar predefinição</translation>
+    </message>
+    <message>
+        <source>Remove preset from list</source>
+        <translation type="unfinished">Excluir predefinição da lista</translation>
     </message>
 </context>
 <context>
@@ -10687,10 +10735,6 @@ Deseja reatribuir?</translation>
         <translation>Use UTF-8 para escrever campos IPTC</translation>
     </message>
     <message>
-        <source>Write comment in XMP (dc:description and exif:UserComment)</source>
-        <translation>Escreva um comentário no XMP (dc:description e exif:UserComment)</translation>
-    </message>
-    <message>
         <source>&lt;filename&gt;.xmp</source>
         <translation>&lt;filename&gt;.xmp</translation>
     </message>
@@ -10816,6 +10860,14 @@ Deseja reatribuir?</translation>
     </message>
     <message>
         <source>Rating labels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation type="unfinished">Arquivo</translation>
+    </message>
+    <message>
+        <source>XMP (dc:description and exif:UserComment)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17679,6 +17731,10 @@ Deseja continuar?</translation>
     <message>
         <source>Clear</source>
         <translation>Limpar</translation>
+    </message>
+    <message>
+        <source>Do you want to delete all your name templates?</source>
+        <translation type="unfinished">Você deseja excluir todos os seus modelos de nomes?</translation>
     </message>
 </context>
 <context>

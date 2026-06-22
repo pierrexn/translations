@@ -2097,7 +2097,7 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="173"/>
         <location filename="DBFilterModel.cpp" line="196"/>
-        <location filename="DBFilterModel.cpp" line="1819"/>
+        <location filename="DBFilterModel.cpp" line="1822"/>
         <source>Date</source>
         <translation>Data</translation>
     </message>
@@ -2130,39 +2130,39 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
         <translation>Marca</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1487"/>
-        <location filename="DBFilterModel.cpp" line="1630"/>
-        <location filename="DBFilterModel.cpp" line="1636"/>
-        <location filename="DBFilterModel.cpp" line="1642"/>
+        <location filename="DBFilterModel.cpp" line="1490"/>
+        <location filename="DBFilterModel.cpp" line="1633"/>
+        <location filename="DBFilterModel.cpp" line="1639"/>
         <location filename="DBFilterModel.cpp" line="1645"/>
-        <location filename="DBFilterModel.cpp" line="1657"/>
-        <location filename="DBFilterModel.cpp" line="1672"/>
-        <location filename="DBFilterModel.cpp" line="1972"/>
+        <location filename="DBFilterModel.cpp" line="1648"/>
+        <location filename="DBFilterModel.cpp" line="1660"/>
+        <location filename="DBFilterModel.cpp" line="1675"/>
+        <location filename="DBFilterModel.cpp" line="1975"/>
         <source>Unknown</source>
         <translation>Desconhecido</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1663"/>
+        <location filename="DBFilterModel.cpp" line="1666"/>
         <source>Landscape</source>
         <translation>Horizontal</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1664"/>
+        <location filename="DBFilterModel.cpp" line="1667"/>
         <source>Portrait</source>
         <translation>Vertical</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1665"/>
+        <location filename="DBFilterModel.cpp" line="1668"/>
         <source>Square</source>
         <translation>Quadrado</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1700"/>
+        <location filename="DBFilterModel.cpp" line="1703"/>
         <source>Panoramic</source>
         <translation>Panorâmico</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1717"/>
+        <location filename="DBFilterModel.cpp" line="1720"/>
         <source>No Color Profile</source>
         <translation>Nenhum perfil de cor</translation>
     </message>
@@ -10738,17 +10738,27 @@ Por favor instale via Ferramentas › Plugins</translation>
 <context>
     <name>DlgRename</name>
     <message>
-        <location filename="DlgRename.cpp" line="809"/>
+        <location filename="DlgRename.cpp" line="861"/>
         <source>(%1 files)</source>
         <translation>(%1 ficheiros)</translation>
     </message>
     <message>
-        <location filename="DlgRename.cpp" line="310"/>
+        <location filename="DlgRename.cpp" line="356"/>
         <source>Companion renaming</source>
         <translation>Mudar o nome dos ficheiros associados</translation>
     </message>
     <message>
-        <location filename="DlgRename.cpp" line="310"/>
+        <location filename="DlgRename.cpp" line="105"/>
+        <source>Rename</source>
+        <translation type="unfinished">Mudar o nome</translation>
+    </message>
+    <message>
+        <location filename="DlgRename.cpp" line="106"/>
+        <source>Close</source>
+        <translation type="unfinished">Fechar</translation>
+    </message>
+    <message>
+        <location filename="DlgRename.cpp" line="356"/>
         <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. 
 
 Do you want to remove them?</source>
@@ -10757,7 +10767,33 @@ Do you want to remove them?</source>
 Prefere retirá-los?</translation>
     </message>
     <message>
-        <location filename="DlgRename.cpp" line="1108"/>
+        <location filename="DlgRename.cpp" line="1287"/>
+        <location filename="DlgRename.cpp" line="1294"/>
+        <source>Save preset</source>
+        <translation type="unfinished">Gravar pré-configuração</translation>
+    </message>
+    <message>
+        <location filename="DlgRename.cpp" line="1287"/>
+        <source>Preset name:</source>
+        <translation type="unfinished">Nome da pré-configuração:</translation>
+    </message>
+    <message>
+        <location filename="DlgRename.cpp" line="1295"/>
+        <source>Preset &apos;%1&apos; already exists. Overwrite?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgRename.cpp" line="1318"/>
+        <source>Delete preset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgRename.cpp" line="1319"/>
+        <source>Delete preset &apos;%1&apos;?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgRename.cpp" line="1347"/>
         <source>Do you want to delete all your name templates?</source>
         <oldsource>Do you want to delete all your template&apos;s name?</oldsource>
         <translation>Pretende apagar todos os modelos de nome?</translation>
@@ -10776,11 +10812,6 @@ Prefere retirá-los?</translation>
         <translation>Modelo de nome</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="108"/>
-        <source>Clear templates</source>
-        <translation>Limpar modelos</translation>
-    </message>
-    <message>
         <location filename="DlgRename.ui" line="54"/>
         <source>Start</source>
         <translation>Início</translation>
@@ -10796,118 +10827,148 @@ Prefere retirá-los?</translation>
         <translation>Duplicar...</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="124"/>
+        <location filename="DlgRename.ui" line="117"/>
         <source>Create new name template when opening dialog</source>
         <translation>Criar um novo modelo de nome quando abrir o diálogo</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="142"/>
+        <location filename="DlgRename.ui" line="135"/>
         <source>Extension</source>
         <translation>Extensão</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="163"/>
+        <location filename="DlgRename.ui" line="156"/>
         <source>Case</source>
         <translation>Formato</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="173"/>
+        <location filename="DlgRename.ui" line="166"/>
         <source>Name &amp; extension lowercase</source>
         <translation>Nome e extensão em minúsculas</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="178"/>
+        <location filename="DlgRename.ui" line="171"/>
         <source>Name &amp; extension uppercase</source>
         <translation>Nome e extensão em maiúsculas</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="183"/>
+        <location filename="DlgRename.ui" line="176"/>
         <source>Name lowercase</source>
         <translation>Nome em minúsculas</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="188"/>
+        <location filename="DlgRename.ui" line="181"/>
         <source>Name uppercase</source>
         <translation>Nome em maiúsculas</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="193"/>
+        <location filename="DlgRename.ui" line="186"/>
         <source>Extension lowercase</source>
         <translation>Extensão em minúsculas</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="198"/>
+        <location filename="DlgRename.ui" line="191"/>
         <source>Extension uppercase</source>
         <translation>Extensão em maiúsculas</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="203"/>
+        <location filename="DlgRename.ui" line="196"/>
         <source>First letters uppercase</source>
         <translation>Maiúscula nas iniciais</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="117"/>
+        <location filename="DlgRename.ui" line="490"/>
+        <source>Presets:</source>
+        <translation type="unfinished">Pré-configurações:</translation>
+    </message>
+    <message>
+        <location filename="DlgRename.ui" line="507"/>
+        <source>Save preset</source>
+        <translation type="unfinished">Gravar pré-configuração</translation>
+    </message>
+    <message>
+        <location filename="DlgRename.ui" line="521"/>
+        <source>Remove preset from list</source>
+        <translation type="unfinished">Remover pré-configuração da lista</translation>
+    </message>
+    <message>
+        <location filename="DlgRename.ui" line="110"/>
         <source>Ignore extension for # enumerator</source>
         <translation>Ignorar a extensão para o enumerador #</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="312"/>
+        <location filename="DlgRename.ui" line="293"/>
         <source>Clean diacritic characters</source>
         <translation>Tirar acentos e outros sinais diacríticos</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="216"/>
-        <location filename="DlgRename.ui" line="227"/>
+        <location filename="DlgRename.ui" line="209"/>
+        <location filename="DlgRename.ui" line="220"/>
         <source>Replace</source>
         <translation>Substituir</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="250"/>
+        <location filename="DlgRename.ui" line="243"/>
         <source>With</source>
         <translation>Por</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="274"/>
+        <location filename="DlgRename.ui" line="267"/>
         <source>Case sensitive</source>
         <translation>Sensível a maiúsculas/minúsculas</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="290"/>
+        <location filename="DlgRename.ui" line="283"/>
         <source>Use Regular Expression</source>
         <translatorcomment>Translated as if the source was Use Text Pattern -- Regular Expression is not used in Portuguese with this meaning</translatorcomment>
         <translation>Usar Padrão de Texto</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="281"/>
+        <location filename="DlgRename.ui" line="274"/>
         <source>Exclude extension</source>
         <translation>Excluir extensão</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="324"/>
+        <location filename="DlgRename.ui" line="323"/>
+        <source>Add files...</source>
+        <translation type="unfinished">Adicionar ficheiros...</translation>
+    </message>
+    <message>
+        <location filename="DlgRename.ui" line="337"/>
+        <source>Remove</source>
+        <translation type="unfinished">Remover</translation>
+    </message>
+    <message>
+        <location filename="DlgRename.ui" line="351"/>
+        <source>Remove all</source>
+        <translation type="unfinished">Remover todos</translation>
+    </message>
+    <message>
+        <location filename="DlgRename.ui" line="441"/>
         <source>Double click on a filename to create a new name template</source>
         <oldsource>Double click on a filename create a new name template</oldsource>
         <translation>Criar um novo modelo de nome com duplo clique num dos ficheiros</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="340"/>
+        <location filename="DlgRename.ui" line="457"/>
         <source>Old name</source>
         <translation>Nome original</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="345"/>
+        <location filename="DlgRename.ui" line="462"/>
         <source>New name</source>
         <translation>Nome resultante</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="350"/>
+        <location filename="DlgRename.ui" line="467"/>
         <source>Directory</source>
         <translation>Pasta</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="376"/>
-        <location filename="DlgRename.ui" line="390"/>
-        <location filename="DlgRename.ui" line="404"/>
-        <location filename="DlgRename.ui" line="418"/>
+        <location filename="DlgRename.ui" line="374"/>
+        <location filename="DlgRename.ui" line="391"/>
+        <location filename="DlgRename.ui" line="408"/>
+        <location filename="DlgRename.ui" line="425"/>
         <source>...</source>
         <translation>...</translation>
     </message>
@@ -13897,30 +13958,30 @@ Pretende reatribuir?</translation>
 <context>
     <name>DlgSettingsKeywordsClass</name>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="210"/>
+        <location filename="DlgSettingsKeywords.ui" line="237"/>
         <source>Automatically assign parent Category (Ctrl+click for current only)</source>
         <oldsource>Automatically apply parent category (Ctrl+click for single category)</oldsource>
         <translation>Aplicar automaticamente categoria superior (Ctrl+click só para a actual)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="359"/>
+        <location filename="DlgSettingsKeywords.ui" line="370"/>
         <source>Create or update XMP Sidecar</source>
         <oldsource>Update or create XMP Sidecar</oldsource>
         <translation>Criar ou actualizar Sidecar XMP</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="396"/>
+        <location filename="DlgSettingsKeywords.ui" line="407"/>
         <source>Naming convention</source>
         <translation>Convenção de nomes</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="402"/>
+        <location filename="DlgSettingsKeywords.ui" line="413"/>
         <source>&lt;filename&gt;.xmp</source>
         <oldsource>Filename.xmp</oldsource>
         <translation>&lt;nome_do_ficheiro&gt;.xmp</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="409"/>
+        <location filename="DlgSettingsKeywords.ui" line="420"/>
         <source>&lt;filename&gt;.&lt;extension&gt;.xmp</source>
         <oldsource>Filename.extension.xmp</oldsource>
         <translation>&lt;nome_do_ficheiro&gt;.&lt;extensão&gt;.xmp</translation>
@@ -13932,150 +13993,155 @@ Pretende reatribuir?</translation>
         <translation>Metadados</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="96"/>
+        <location filename="DlgSettingsKeywords.ui" line="166"/>
         <source>Import</source>
         <translation>Importar</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="117"/>
+        <location filename="DlgSettingsKeywords.ui" line="66"/>
         <source>Export</source>
         <translation>Exportar</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="55"/>
+        <location filename="DlgSettingsKeywords.ui" line="59"/>
         <source>Rating</source>
         <translation>Classificação</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="62"/>
+        <location filename="DlgSettingsKeywords.ui" line="73"/>
         <source>Color label</source>
         <translation>Rótulo de cor</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="138"/>
+        <location filename="DlgSettingsKeywords.ui" line="124"/>
         <source>Categories</source>
         <translation>Categorias</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="131"/>
+        <location filename="DlgSettingsKeywords.ui" line="45"/>
         <source>Face tag</source>
         <translation>Etiqueta do rosto</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="124"/>
+        <location filename="DlgSettingsKeywords.ui" line="83"/>
+        <source>File</source>
+        <translation type="unfinished">Ficheiro</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsKeywords.ui" line="159"/>
         <source>Update catalog when file is modified outside (file date/size)</source>
         <translation>Actualizar o catálogo quando o ficheiro tenha modificação fora de (data/tamanho)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="197"/>
+        <location filename="DlgSettingsKeywords.ui" line="214"/>
+        <source>XMP (dc:description and exif:UserComment)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsKeywords.ui" line="224"/>
         <source>Categories and keywords</source>
         <translation>Categorias e palavras-chave</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="203"/>
+        <location filename="DlgSettingsKeywords.ui" line="230"/>
         <source>Update keywords when file is modified outside (file date/size)</source>
         <translation>Actualizar palavras-chave quando o ficheiro tenha modificação fora de (data/tamanho)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="219"/>
+        <location filename="DlgSettingsKeywords.ui" line="246"/>
         <source>Read Hierarchical keywords</source>
         <translation>Ler palavras-chave hierárquicas</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="313"/>
+        <location filename="DlgSettingsKeywords.ui" line="340"/>
         <source>Write Hierarchical keywords (| as separator)</source>
         <translation>Gravar palavras-chave hierárquicas (| como separador)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="323"/>
+        <location filename="DlgSettingsKeywords.ui" line="131"/>
         <source>Comment</source>
         <translation>Comentário</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="329"/>
-        <source>Write comment in XMP (dc:description and exif:UserComment)</source>
-        <translation>Escrever comentário em XMP (dc: descrição, exif: comentário do utilizador)</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsKeywords.ui" line="353"/>
+        <location filename="DlgSettingsKeywords.ui" line="364"/>
         <source>Sidecar</source>
         <translation>Sidecar</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="387"/>
+        <location filename="DlgSettingsKeywords.ui" line="398"/>
         <source>Update master file</source>
         <translation>Actualizar o ficheiro master</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="452"/>
+        <location filename="DlgSettingsKeywords.ui" line="463"/>
         <source>Video files</source>
         <translation>Ficheiros vídeo</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="459"/>
+        <location filename="DlgSettingsKeywords.ui" line="470"/>
         <source>Other files</source>
         <translation>Outros tipos</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="483"/>
+        <location filename="DlgSettingsKeywords.ui" line="494"/>
         <source>Encoding</source>
         <translation>Codificação</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="497"/>
-        <location filename="DlgSettingsKeywords.ui" line="547"/>
+        <location filename="DlgSettingsKeywords.ui" line="508"/>
+        <location filename="DlgSettingsKeywords.ui" line="558"/>
         <source>Default encoding</source>
         <translation>Codificação pré-definida</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="539"/>
+        <location filename="DlgSettingsKeywords.ui" line="550"/>
         <source>Embedded comment</source>
         <translation>Comentário integrado</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="673"/>
+        <location filename="DlgSettingsKeywords.ui" line="684"/>
         <source>Rating labels</source>
         <translation>Etiquetas de classificação</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="829"/>
+        <location filename="DlgSettingsKeywords.ui" line="840"/>
         <source>Color labels</source>
         <oldsource>Labels</oldsource>
         <translation>Rótulos de cor</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="753"/>
-        <location filename="DlgSettingsKeywords.ui" line="1060"/>
+        <location filename="DlgSettingsKeywords.ui" line="764"/>
+        <location filename="DlgSettingsKeywords.ui" line="1071"/>
         <source>Label</source>
         <translation>Rótulo</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="1046"/>
+        <location filename="DlgSettingsKeywords.ui" line="1057"/>
         <source>Read (separated by ,)</source>
         <translation>Ler (separar por ,)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="419"/>
+        <location filename="DlgSettingsKeywords.ui" line="430"/>
         <source>Supported formats</source>
         <translation>Formatos suportados</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="590"/>
+        <location filename="DlgSettingsKeywords.ui" line="601"/>
         <source>Copyright</source>
         <translation>Copyright</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="624"/>
+        <location filename="DlgSettingsKeywords.ui" line="635"/>
         <source>Image description</source>
         <translation>Descrição da imagem</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="1053"/>
+        <location filename="DlgSettingsKeywords.ui" line="1064"/>
         <source>Write</source>
         <translation>Escrever</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="529"/>
+        <location filename="DlgSettingsKeywords.ui" line="540"/>
         <source>Use UTF-8 to write IPTC fields</source>
         <oldsource>Use utf8 to write IPTC fields</oldsource>
         <translation>Usar UTF-8 para escrever nos campos IPTC</translation>
@@ -17555,12 +17621,12 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
         <translation>Proporção</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2211"/>
+        <location filename="DBFilterModel.cpp" line="2214"/>
         <source>Aspect Ratio</source>
         <translation>Proporções</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2247"/>
+        <location filename="DBFilterModel.cpp" line="2250"/>
         <source>File type</source>
         <translation>Tipo de ficheiro</translation>
     </message>
@@ -17867,60 +17933,61 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
 <context>
     <name>InfoCategoryTreeView</name>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1416"/>
+        <location filename="InfoCategoryView.cpp" line="1443"/>
         <source>New category</source>
         <translation>Nova categoria</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1417"/>
+        <location filename="InfoCategoryView.cpp" line="1444"/>
         <source>New subcategory</source>
         <translation>Nova subcategoria</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1424"/>
+        <location filename="InfoCategoryView.cpp" line="1451"/>
         <source>Rename</source>
         <translation>Mudar o nome</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1427"/>
+        <location filename="InfoCategoryView.cpp" line="1454"/>
         <source>Move to...</source>
         <translation>Mover para...</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1428"/>
+        <location filename="InfoCategoryView.cpp" line="1455"/>
         <source>Merge with...</source>
         <translation>Unir com...</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1429"/>
+        <location filename="InfoCategoryView.cpp" line="1456"/>
         <source>Delete</source>
         <translation>Apagar</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1431"/>
+        <location filename="InfoCategoryView.cpp" line="1458"/>
         <source>Edit...</source>
         <translation>Editar...</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1392"/>
-        <location filename="InfoCategoryView.cpp" line="1456"/>
+        <location filename="InfoCategoryView.cpp" line="1411"/>
+        <location filename="InfoCategoryView.cpp" line="1483"/>
         <source>Delete category</source>
         <translation>Apagar a categoria</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1392"/>
-        <location filename="InfoCategoryView.cpp" line="1456"/>
+        <location filename="InfoCategoryView.cpp" line="1412"/>
+        <location filename="InfoCategoryView.cpp" line="1483"/>
         <source>Are you sure to delete this category?</source>
         <translation>Tem a certeza de apagar esta categoria?</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1456"/>
+        <location filename="InfoCategoryView.cpp" line="1412"/>
+        <location filename="InfoCategoryView.cpp" line="1483"/>
         <source>Are you sure to delete these categories?</source>
         <translation type="unfinished">Tem a certeza de apagar estas categorias?</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1476"/>
-        <location filename="InfoCategoryView.cpp" line="1487"/>
+        <location filename="InfoCategoryView.cpp" line="1503"/>
+        <location filename="InfoCategoryView.cpp" line="1514"/>
         <source>New Category</source>
         <translation>Nova Categoria</translation>
     </message>
@@ -18135,86 +18202,86 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
         <translation>Notas do fabricante</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2215"/>
+        <location filename="DBFilterModel.cpp" line="2218"/>
         <location filename="SearchField.cpp" line="83"/>
         <location filename="TemplateData.cpp" line="2653"/>
         <source>Maker</source>
         <translation>Fabricante</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2219"/>
+        <location filename="DBFilterModel.cpp" line="2222"/>
         <location filename="SearchField.cpp" line="84"/>
         <location filename="TemplateData.cpp" line="2654"/>
         <source>Model</source>
         <translation>Modelo</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2223"/>
+        <location filename="DBFilterModel.cpp" line="2226"/>
         <source>Lens</source>
         <translation>Lente</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2231"/>
+        <location filename="DBFilterModel.cpp" line="2234"/>
         <source>ISO</source>
         <translation>ISO</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2239"/>
+        <location filename="DBFilterModel.cpp" line="2242"/>
         <source>Shutter Speed</source>
         <translation>Velocidade do obturador</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2251"/>
+        <location filename="DBFilterModel.cpp" line="2254"/>
         <source>Colour Space</source>
         <translation>Gama de cores</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1673"/>
+        <location filename="DBFilterModel.cpp" line="1676"/>
         <source>Not Defined</source>
         <translation>Não definido</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1674"/>
+        <location filename="DBFilterModel.cpp" line="1677"/>
         <source>Manual</source>
         <translation>Manual</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1675"/>
+        <location filename="DBFilterModel.cpp" line="1678"/>
         <source>Program AE</source>
         <translation>Programa de auto-exposição</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1676"/>
+        <location filename="DBFilterModel.cpp" line="1679"/>
         <source>Aperture-priority AE</source>
         <translation>Auto-exposição com prioridade para abertura</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1677"/>
+        <location filename="DBFilterModel.cpp" line="1680"/>
         <source>Shutter speed priority AE</source>
         <translation>Auto-exposição com prioridade para velocidade do obturador</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1678"/>
+        <location filename="DBFilterModel.cpp" line="1681"/>
         <source>Creative</source>
         <translation>Creativo</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1679"/>
+        <location filename="DBFilterModel.cpp" line="1682"/>
         <source>Action</source>
         <translation>Operação</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1680"/>
+        <location filename="DBFilterModel.cpp" line="1683"/>
         <source>Portrait</source>
         <translation>Vertical</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1681"/>
+        <location filename="DBFilterModel.cpp" line="1684"/>
         <source>Landscape</source>
         <translation>Horizontal</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2227"/>
+        <location filename="DBFilterModel.cpp" line="2230"/>
         <source>Focal Length</source>
         <translation>Distância focal</translation>
     </message>
@@ -18257,7 +18324,7 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
         <translation>Comentário do utilizador</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2235"/>
+        <location filename="DBFilterModel.cpp" line="2238"/>
         <location filename="SearchField.cpp" line="93"/>
         <location filename="TemplateData.cpp" line="2687"/>
         <source>F-Number</source>
@@ -18280,7 +18347,7 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
         <translation>Data/hora de modificação</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2207"/>
+        <location filename="DBFilterModel.cpp" line="2210"/>
         <location filename="TemplateData.cpp" line="2658"/>
         <source>Orientation</source>
         <translation>Orientação</translation>
@@ -18373,7 +18440,7 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
         <translation>Tempo de exposição (s)</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2243"/>
+        <location filename="DBFilterModel.cpp" line="2246"/>
         <location filename="TemplateData.cpp" line="2683"/>
         <source>Exposure Program</source>
         <translation>Programa de exposição</translation>
@@ -23161,7 +23228,12 @@ Deseja continuar?</translation>
 <context>
     <name>MyTemplateComboEdit</name>
     <message>
-        <location filename="MyTemplateComboEdit.h" line="187"/>
+        <location filename="MyTemplateComboEdit.h" line="192"/>
+        <source>Do you want to delete all your name templates?</source>
+        <translation type="unfinished">Pretende apagar todos os modelos de nome?</translation>
+    </message>
+    <message>
+        <location filename="MyTemplateComboEdit.h" line="266"/>
         <source>Clear</source>
         <translation>Limpar</translation>
     </message>

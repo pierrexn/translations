@@ -8372,6 +8372,34 @@ Do you want to remove them?</source>
 
 Vrei să le redenumești?</translation>
     </message>
+    <message>
+        <source>Rename</source>
+        <translation type="unfinished">Redenumește</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save preset</source>
+        <translation type="unfinished">Salvează presetarea</translation>
+    </message>
+    <message>
+        <source>Preset name:</source>
+        <translation type="unfinished">Numele presetării:</translation>
+    </message>
+    <message>
+        <source>Preset &apos;%1&apos; already exists. Overwrite?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete preset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete preset &apos;%1&apos;?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgRenameClass</name>
@@ -8484,8 +8512,28 @@ Vrei să le redenumești?</translation>
         <translation>Nume majuscule</translation>
     </message>
     <message>
-        <source>Clear templates</source>
-        <translation>Șabloane clare</translation>
+        <source>Add files...</source>
+        <translation type="unfinished">Adaugă fișiere...</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove all</source>
+        <translation type="unfinished">Șterge tot</translation>
+    </message>
+    <message>
+        <source>Presets:</source>
+        <translation type="unfinished">Presetări:</translation>
+    </message>
+    <message>
+        <source>Save preset</source>
+        <translation type="unfinished">Salvează presetarea</translation>
+    </message>
+    <message>
+        <source>Remove preset from list</source>
+        <translation type="unfinished">Elimină presetarea din listă</translation>
     </message>
 </context>
 <context>
@@ -10749,10 +10797,6 @@ Dorești să-l reatribui?</translation>
         <translation>&lt;numele fișierului&gt;.xmp</translation>
     </message>
     <message>
-        <source>Write comment in XMP (dc:description and exif:UserComment)</source>
-        <translation>Scrie comentariul în XMP (dc:descriere și exif:Comentariul utilizatorului)</translation>
-    </message>
-    <message>
         <source>Metadata</source>
         <translation>Metadate</translation>
     </message>
@@ -10831,6 +10875,14 @@ Dorești să-l reatribui?</translation>
     <message>
         <source>Rating labels</source>
         <translation>Etichete de evaluare</translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation type="unfinished">Fişier</translation>
+    </message>
+    <message>
+        <source>XMP (dc:description and exif:UserComment)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17687,6 +17739,10 @@ Vrei să continui?</translation>
     <message>
         <source>Clear</source>
         <translation>Curăță</translation>
+    </message>
+    <message>
+        <source>Do you want to delete all your name templates?</source>
+        <translation type="unfinished">Vrei să ștergi toate șabloanele de nume?</translation>
     </message>
 </context>
 <context>

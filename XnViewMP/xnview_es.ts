@@ -8356,6 +8356,34 @@ Do you want to remove them?</source>
 
 ¿Desea eliminarlos?</translation>
     </message>
+    <message>
+        <source>Rename</source>
+        <translation type="unfinished">Cambiar nombre</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Cerrar</translation>
+    </message>
+    <message>
+        <source>Save preset</source>
+        <translation type="unfinished">Guardar ajuste preestablecido</translation>
+    </message>
+    <message>
+        <source>Preset name:</source>
+        <translation type="unfinished">Nombre preestablecido:</translation>
+    </message>
+    <message>
+        <source>Preset &apos;%1&apos; already exists. Overwrite?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete preset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete preset &apos;%1&apos;?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgRenameClass</name>
@@ -8468,8 +8496,28 @@ Do you want to remove them?</source>
         <translation>Nombre en mayúsculas</translation>
     </message>
     <message>
-        <source>Clear templates</source>
-        <translation>Limpiar plantillas</translation>
+        <source>Add files...</source>
+        <translation type="unfinished">Añadir archivos...</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="unfinished">Eliminar</translation>
+    </message>
+    <message>
+        <source>Remove all</source>
+        <translation type="unfinished">Eliminar todo</translation>
+    </message>
+    <message>
+        <source>Presets:</source>
+        <translation type="unfinished">Ajustes preestablecidos:</translation>
+    </message>
+    <message>
+        <source>Save preset</source>
+        <translation type="unfinished">Guardar ajuste preestablecido</translation>
+    </message>
+    <message>
+        <source>Remove preset from list</source>
+        <translation type="unfinished">Eliminar ajuste preestablecido de la lista</translation>
     </message>
 </context>
 <context>
@@ -10733,10 +10781,6 @@ Do you want to reassign?</source>
         <translation>&lt;nombre de archivo&gt;.xmp</translation>
     </message>
     <message>
-        <source>Write comment in XMP (dc:description and exif:UserComment)</source>
-        <translation>Escribir comentario en XMP (dc:descripción y exif:Comentario de usuario)</translation>
-    </message>
-    <message>
         <source>Metadata</source>
         <translation>Metadatos</translation>
     </message>
@@ -10814,6 +10858,14 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Rating labels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation type="unfinished">Archivo</translation>
+    </message>
+    <message>
+        <source>XMP (dc:description and exif:UserComment)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17671,6 +17723,10 @@ Do you want to continue?</source>
     <message>
         <source>Clear</source>
         <translation>Limpiar</translation>
+    </message>
+    <message>
+        <source>Do you want to delete all your name templates?</source>
+        <translation type="unfinished">¿Desea eliminar todos los nombres de las plantillas?</translation>
     </message>
 </context>
 <context>

@@ -2082,7 +2082,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DBFilterModel.cpp" line="173"/>
         <location filename="DBFilterModel.cpp" line="196"/>
-        <location filename="DBFilterModel.cpp" line="1819"/>
+        <location filename="DBFilterModel.cpp" line="1822"/>
         <source>Date</source>
         <translation>날짜</translation>
     </message>
@@ -2115,39 +2115,39 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>확인</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1487"/>
-        <location filename="DBFilterModel.cpp" line="1630"/>
-        <location filename="DBFilterModel.cpp" line="1636"/>
-        <location filename="DBFilterModel.cpp" line="1642"/>
+        <location filename="DBFilterModel.cpp" line="1490"/>
+        <location filename="DBFilterModel.cpp" line="1633"/>
+        <location filename="DBFilterModel.cpp" line="1639"/>
         <location filename="DBFilterModel.cpp" line="1645"/>
-        <location filename="DBFilterModel.cpp" line="1657"/>
-        <location filename="DBFilterModel.cpp" line="1672"/>
-        <location filename="DBFilterModel.cpp" line="1972"/>
+        <location filename="DBFilterModel.cpp" line="1648"/>
+        <location filename="DBFilterModel.cpp" line="1660"/>
+        <location filename="DBFilterModel.cpp" line="1675"/>
+        <location filename="DBFilterModel.cpp" line="1975"/>
         <source>Unknown</source>
         <translation>알 수 없음</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1663"/>
+        <location filename="DBFilterModel.cpp" line="1666"/>
         <source>Landscape</source>
         <translation>가로</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1664"/>
+        <location filename="DBFilterModel.cpp" line="1667"/>
         <source>Portrait</source>
         <translation>세로</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1665"/>
+        <location filename="DBFilterModel.cpp" line="1668"/>
         <source>Square</source>
         <translation>사각형</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1700"/>
+        <location filename="DBFilterModel.cpp" line="1703"/>
         <source>Panoramic</source>
         <translation>파노라마</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1717"/>
+        <location filename="DBFilterModel.cpp" line="1720"/>
         <source>No Color Profile</source>
         <translation>컬러 프로파일 없음</translation>
     </message>
@@ -10662,17 +10662,27 @@ Please install it via Tools › Plugins</source>
 <context>
     <name>DlgRename</name>
     <message>
-        <location filename="DlgRename.cpp" line="809"/>
+        <location filename="DlgRename.cpp" line="861"/>
         <source>(%1 files)</source>
         <translation>(%1 파일)</translation>
     </message>
     <message>
-        <location filename="DlgRename.cpp" line="310"/>
+        <location filename="DlgRename.cpp" line="356"/>
         <source>Companion renaming</source>
         <translation>컴패니언 이름 변경</translation>
     </message>
     <message>
-        <location filename="DlgRename.cpp" line="310"/>
+        <location filename="DlgRename.cpp" line="105"/>
+        <source>Rename</source>
+        <translation type="unfinished">이름 변경</translation>
+    </message>
+    <message>
+        <location filename="DlgRename.cpp" line="106"/>
+        <source>Close</source>
+        <translation type="unfinished">닫기</translation>
+    </message>
+    <message>
+        <location filename="DlgRename.cpp" line="356"/>
         <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. 
 
 Do you want to remove them?</source>
@@ -10681,7 +10691,33 @@ Do you want to remove them?</source>
 삭제 하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="DlgRename.cpp" line="1108"/>
+        <location filename="DlgRename.cpp" line="1287"/>
+        <location filename="DlgRename.cpp" line="1294"/>
+        <source>Save preset</source>
+        <translation type="unfinished">프리셋 저장</translation>
+    </message>
+    <message>
+        <location filename="DlgRename.cpp" line="1287"/>
+        <source>Preset name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgRename.cpp" line="1295"/>
+        <source>Preset &apos;%1&apos; already exists. Overwrite?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgRename.cpp" line="1318"/>
+        <source>Delete preset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgRename.cpp" line="1319"/>
+        <source>Delete preset &apos;%1&apos;?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgRename.cpp" line="1347"/>
         <source>Do you want to delete all your name templates?</source>
         <oldsource>Do you want to delete all your template&apos;s name?</oldsource>
         <translation>모든 이름 템플릿을 삭제 하시겠습니까?</translation>
@@ -10700,11 +10736,6 @@ Do you want to remove them?</source>
         <translation>이름 템플릿</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="108"/>
-        <source>Clear templates</source>
-        <translation>템플릿 지우기</translation>
-    </message>
-    <message>
         <location filename="DlgRename.ui" line="54"/>
         <source>Start</source>
         <translation>시작</translation>
@@ -10720,116 +10751,146 @@ Do you want to remove them?</source>
         <translation>복제...</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="124"/>
+        <location filename="DlgRename.ui" line="117"/>
         <source>Create new name template when opening dialog</source>
         <translation>대화상자를 열 때 새 이름 템플릿 만들기</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="142"/>
+        <location filename="DlgRename.ui" line="135"/>
         <source>Extension</source>
         <translation>확장자</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="163"/>
+        <location filename="DlgRename.ui" line="156"/>
         <source>Case</source>
         <translation>대소문자</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="173"/>
+        <location filename="DlgRename.ui" line="166"/>
         <source>Name &amp; extension lowercase</source>
         <translation>이름 &amp; 확장자 소문자</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="178"/>
+        <location filename="DlgRename.ui" line="171"/>
         <source>Name &amp; extension uppercase</source>
         <translation>이름 &amp; 확장자 대문자</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="183"/>
+        <location filename="DlgRename.ui" line="176"/>
         <source>Name lowercase</source>
         <translation>이름 소문자</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="188"/>
+        <location filename="DlgRename.ui" line="181"/>
         <source>Name uppercase</source>
         <translation>이름 대문자</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="193"/>
+        <location filename="DlgRename.ui" line="186"/>
         <source>Extension lowercase</source>
         <translation>확장자 소문자</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="198"/>
+        <location filename="DlgRename.ui" line="191"/>
         <source>Extension uppercase</source>
         <translation>확장자 대문자</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="203"/>
+        <location filename="DlgRename.ui" line="196"/>
         <source>First letters uppercase</source>
         <translation>첫 글자를 대문자로</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="117"/>
+        <location filename="DlgRename.ui" line="490"/>
+        <source>Presets:</source>
+        <translation type="unfinished">프리셋:</translation>
+    </message>
+    <message>
+        <location filename="DlgRename.ui" line="507"/>
+        <source>Save preset</source>
+        <translation type="unfinished">프리셋 저장</translation>
+    </message>
+    <message>
+        <location filename="DlgRename.ui" line="521"/>
+        <source>Remove preset from list</source>
+        <translation type="unfinished">프리셋을 리스트에서 삭제</translation>
+    </message>
+    <message>
+        <location filename="DlgRename.ui" line="110"/>
         <source>Ignore extension for # enumerator</source>
         <translation># 열거자에 파일 확장자를 무시하기</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="312"/>
+        <location filename="DlgRename.ui" line="293"/>
         <source>Clean diacritic characters</source>
         <translation>분음 부호 제거</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="216"/>
-        <location filename="DlgRename.ui" line="227"/>
+        <location filename="DlgRename.ui" line="209"/>
+        <location filename="DlgRename.ui" line="220"/>
         <source>Replace</source>
         <translation>바꾸기</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="250"/>
+        <location filename="DlgRename.ui" line="243"/>
         <source>With</source>
         <translation>새 이름</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="274"/>
+        <location filename="DlgRename.ui" line="267"/>
         <source>Case sensitive</source>
         <translation>대소문자 구분</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="290"/>
+        <location filename="DlgRename.ui" line="283"/>
         <source>Use Regular Expression</source>
         <translation>정규식 사용</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="281"/>
+        <location filename="DlgRename.ui" line="274"/>
         <source>Exclude extension</source>
         <translation>확장자 제외</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="324"/>
+        <location filename="DlgRename.ui" line="323"/>
+        <source>Add files...</source>
+        <translation type="unfinished">파일 추가...</translation>
+    </message>
+    <message>
+        <location filename="DlgRename.ui" line="337"/>
+        <source>Remove</source>
+        <translation type="unfinished">제거</translation>
+    </message>
+    <message>
+        <location filename="DlgRename.ui" line="351"/>
+        <source>Remove all</source>
+        <translation type="unfinished">모두 제거</translation>
+    </message>
+    <message>
+        <location filename="DlgRename.ui" line="441"/>
         <source>Double click on a filename to create a new name template</source>
         <translation>새 이름 템플릿을 만들 파일 이름 위에서 두 번 클릭하세요</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="340"/>
+        <location filename="DlgRename.ui" line="457"/>
         <source>Old name</source>
         <translation>이전 이름</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="345"/>
+        <location filename="DlgRename.ui" line="462"/>
         <source>New name</source>
         <translation>새 이름</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="350"/>
+        <location filename="DlgRename.ui" line="467"/>
         <source>Directory</source>
         <translation>폴더</translation>
     </message>
     <message>
-        <location filename="DlgRename.ui" line="376"/>
-        <location filename="DlgRename.ui" line="390"/>
-        <location filename="DlgRename.ui" line="404"/>
-        <location filename="DlgRename.ui" line="418"/>
+        <location filename="DlgRename.ui" line="374"/>
+        <location filename="DlgRename.ui" line="391"/>
+        <location filename="DlgRename.ui" line="408"/>
+        <location filename="DlgRename.ui" line="425"/>
         <source>...</source>
         <translation>...</translation>
     </message>
@@ -13805,34 +13866,44 @@ Do you want to reassign?</source>
 <context>
     <name>DlgSettingsKeywordsClass</name>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="210"/>
+        <location filename="DlgSettingsKeywords.ui" line="237"/>
         <source>Automatically assign parent Category (Ctrl+click for current only)</source>
         <oldsource>Automatically apply parent category (Ctrl+click for single category)</oldsource>
         <translation>자동으로 상위 키워드 적용하기 (단일 키워드는 Ctrl+클릭)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="197"/>
+        <location filename="DlgSettingsKeywords.ui" line="224"/>
         <source>Categories and keywords</source>
         <translation>키워드와 분류</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="359"/>
+        <location filename="DlgSettingsKeywords.ui" line="83"/>
+        <source>File</source>
+        <translation type="unfinished">파일</translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsKeywords.ui" line="214"/>
+        <source>XMP (dc:description and exif:UserComment)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="DlgSettingsKeywords.ui" line="370"/>
         <source>Create or update XMP Sidecar</source>
         <oldsource>Update or create XMP Sidecar</oldsource>
         <translation>XMP 사이드카 업데이트 또는 만들기</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="396"/>
+        <location filename="DlgSettingsKeywords.ui" line="407"/>
         <source>Naming convention</source>
         <translation>이름 규칙</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="402"/>
+        <location filename="DlgSettingsKeywords.ui" line="413"/>
         <source>&lt;filename&gt;.xmp</source>
         <translation>&lt;파일명&gt;.xmp</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="409"/>
+        <location filename="DlgSettingsKeywords.ui" line="420"/>
         <source>&lt;filename&gt;.&lt;extension&gt;.xmp</source>
         <translation>&lt;파일명&gt;.&lt;확장자&gt;.xmp</translation>
     </message>
@@ -13843,144 +13914,139 @@ Do you want to reassign?</source>
         <translation>메타데이터</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="124"/>
+        <location filename="DlgSettingsKeywords.ui" line="159"/>
         <source>Update catalog when file is modified outside (file date/size)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="203"/>
+        <location filename="DlgSettingsKeywords.ui" line="230"/>
         <source>Update keywords when file is modified outside (file date/size)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="219"/>
+        <location filename="DlgSettingsKeywords.ui" line="246"/>
         <source>Read Hierarchical keywords</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="313"/>
+        <location filename="DlgSettingsKeywords.ui" line="340"/>
         <source>Write Hierarchical keywords (| as separator)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="323"/>
+        <location filename="DlgSettingsKeywords.ui" line="131"/>
         <source>Comment</source>
         <translation>코멘트</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="329"/>
-        <source>Write comment in XMP (dc:description and exif:UserComment)</source>
-        <translation>XMP에 코멘트 쓰기 (dc:설명, exif:사용자 코멘트)</translation>
-    </message>
-    <message>
-        <location filename="DlgSettingsKeywords.ui" line="353"/>
+        <location filename="DlgSettingsKeywords.ui" line="364"/>
         <source>Sidecar</source>
         <translation>사이드카</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="387"/>
+        <location filename="DlgSettingsKeywords.ui" line="398"/>
         <source>Update master file</source>
         <translation>마스터파일 업데이트</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="452"/>
+        <location filename="DlgSettingsKeywords.ui" line="463"/>
         <source>Video files</source>
         <translation>동영상 파일</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="459"/>
+        <location filename="DlgSettingsKeywords.ui" line="470"/>
         <source>Other files</source>
         <translation>기타 파일</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="483"/>
+        <location filename="DlgSettingsKeywords.ui" line="494"/>
         <source>Encoding</source>
         <translation>인코딩</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="497"/>
-        <location filename="DlgSettingsKeywords.ui" line="547"/>
+        <location filename="DlgSettingsKeywords.ui" line="508"/>
+        <location filename="DlgSettingsKeywords.ui" line="558"/>
         <source>Default encoding</source>
         <translation>기본 인코딩</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="539"/>
+        <location filename="DlgSettingsKeywords.ui" line="550"/>
         <source>Embedded comment</source>
         <translation>내장 코멘트</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="673"/>
+        <location filename="DlgSettingsKeywords.ui" line="684"/>
         <source>Rating labels</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="753"/>
-        <location filename="DlgSettingsKeywords.ui" line="1060"/>
+        <location filename="DlgSettingsKeywords.ui" line="764"/>
+        <location filename="DlgSettingsKeywords.ui" line="1071"/>
         <source>Label</source>
         <translation>레이블</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="1046"/>
+        <location filename="DlgSettingsKeywords.ui" line="1057"/>
         <source>Read (separated by ,)</source>
         <translation>읽기 (, 로 구분)</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="96"/>
+        <location filename="DlgSettingsKeywords.ui" line="166"/>
         <source>Import</source>
         <translation>가져오기</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="117"/>
+        <location filename="DlgSettingsKeywords.ui" line="66"/>
         <source>Export</source>
         <translation>내보내기</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="55"/>
+        <location filename="DlgSettingsKeywords.ui" line="59"/>
         <source>Rating</source>
         <translation>등급</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="62"/>
+        <location filename="DlgSettingsKeywords.ui" line="73"/>
         <source>Color label</source>
         <translation>색 레이블</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="138"/>
+        <location filename="DlgSettingsKeywords.ui" line="124"/>
         <source>Categories</source>
         <translation>카테고리</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="131"/>
+        <location filename="DlgSettingsKeywords.ui" line="45"/>
         <source>Face tag</source>
         <translation>얼굴 태그</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="419"/>
+        <location filename="DlgSettingsKeywords.ui" line="430"/>
         <source>Supported formats</source>
         <translation>지원되는 형식</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="590"/>
+        <location filename="DlgSettingsKeywords.ui" line="601"/>
         <source>Copyright</source>
         <translation>저작권</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="624"/>
+        <location filename="DlgSettingsKeywords.ui" line="635"/>
         <source>Image description</source>
         <translation>이미지 설명</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="1053"/>
+        <location filename="DlgSettingsKeywords.ui" line="1064"/>
         <source>Write</source>
         <translation>쓰기</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="529"/>
+        <location filename="DlgSettingsKeywords.ui" line="540"/>
         <source>Use UTF-8 to write IPTC fields</source>
         <translation>IPTC 필드를 쓰는데 UTF-8 사용하기</translation>
     </message>
     <message>
-        <location filename="DlgSettingsKeywords.ui" line="829"/>
+        <location filename="DlgSettingsKeywords.ui" line="840"/>
         <source>Color labels</source>
         <oldsource>Labels</oldsource>
         <translation>색상 라벨</translation>
@@ -17715,12 +17781,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>비율</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2211"/>
+        <location filename="DBFilterModel.cpp" line="2214"/>
         <source>Aspect Ratio</source>
         <translation>화면비</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2247"/>
+        <location filename="DBFilterModel.cpp" line="2250"/>
         <source>File type</source>
         <translation>파일 유형</translation>
     </message>
@@ -17759,60 +17825,61 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 <context>
     <name>InfoCategoryTreeView</name>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1416"/>
+        <location filename="InfoCategoryView.cpp" line="1443"/>
         <source>New category</source>
         <translation>새 카테고리</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1417"/>
+        <location filename="InfoCategoryView.cpp" line="1444"/>
         <source>New subcategory</source>
         <translation>새 하위 카테고리</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1424"/>
+        <location filename="InfoCategoryView.cpp" line="1451"/>
         <source>Rename</source>
         <translation>이름 변경</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1427"/>
+        <location filename="InfoCategoryView.cpp" line="1454"/>
         <source>Move to...</source>
         <translation>이동...</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1428"/>
+        <location filename="InfoCategoryView.cpp" line="1455"/>
         <source>Merge with...</source>
         <translation>합치기...</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1429"/>
+        <location filename="InfoCategoryView.cpp" line="1456"/>
         <source>Delete</source>
         <translation>삭제</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1431"/>
+        <location filename="InfoCategoryView.cpp" line="1458"/>
         <source>Edit...</source>
         <translation>편집...</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1392"/>
-        <location filename="InfoCategoryView.cpp" line="1456"/>
+        <location filename="InfoCategoryView.cpp" line="1411"/>
+        <location filename="InfoCategoryView.cpp" line="1483"/>
         <source>Delete category</source>
         <translation>카테고리 삭제</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1392"/>
-        <location filename="InfoCategoryView.cpp" line="1456"/>
+        <location filename="InfoCategoryView.cpp" line="1412"/>
+        <location filename="InfoCategoryView.cpp" line="1483"/>
         <source>Are you sure to delete this category?</source>
         <translation>이 카테고리를 정말 삭제할까요?</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1456"/>
+        <location filename="InfoCategoryView.cpp" line="1412"/>
+        <location filename="InfoCategoryView.cpp" line="1483"/>
         <source>Are you sure to delete these categories?</source>
         <translation type="unfinished">카테고리를 삭제 하시겠습니까?</translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="1476"/>
-        <location filename="InfoCategoryView.cpp" line="1487"/>
+        <location filename="InfoCategoryView.cpp" line="1503"/>
+        <location filename="InfoCategoryView.cpp" line="1514"/>
         <source>New Category</source>
         <translation>새 카테고리</translation>
     </message>
@@ -17994,86 +18061,86 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
 <context>
     <name>InfoExif</name>
     <message>
-        <location filename="DBFilterModel.cpp" line="2215"/>
+        <location filename="DBFilterModel.cpp" line="2218"/>
         <location filename="SearchField.cpp" line="83"/>
         <location filename="TemplateData.cpp" line="2653"/>
         <source>Maker</source>
         <translation>제작사</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2219"/>
+        <location filename="DBFilterModel.cpp" line="2222"/>
         <location filename="SearchField.cpp" line="84"/>
         <location filename="TemplateData.cpp" line="2654"/>
         <source>Model</source>
         <translation>기종</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2223"/>
+        <location filename="DBFilterModel.cpp" line="2226"/>
         <source>Lens</source>
         <translation>렌즈</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2231"/>
+        <location filename="DBFilterModel.cpp" line="2234"/>
         <source>ISO</source>
         <translation>ISO</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2239"/>
+        <location filename="DBFilterModel.cpp" line="2242"/>
         <source>Shutter Speed</source>
         <translation>셔터속도</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2251"/>
+        <location filename="DBFilterModel.cpp" line="2254"/>
         <source>Colour Space</source>
         <translation>색 공간</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1673"/>
+        <location filename="DBFilterModel.cpp" line="1676"/>
         <source>Not Defined</source>
         <translation>지정되지 않음</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1674"/>
+        <location filename="DBFilterModel.cpp" line="1677"/>
         <source>Manual</source>
         <translation>수동</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1675"/>
+        <location filename="DBFilterModel.cpp" line="1678"/>
         <source>Program AE</source>
         <translation>프로그램 AE</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1676"/>
+        <location filename="DBFilterModel.cpp" line="1679"/>
         <source>Aperture-priority AE</source>
         <translation>조리개 우선 AE</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1677"/>
+        <location filename="DBFilterModel.cpp" line="1680"/>
         <source>Shutter speed priority AE</source>
         <translation>셔터 속도 우선 AE</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1678"/>
+        <location filename="DBFilterModel.cpp" line="1681"/>
         <source>Creative</source>
         <translation>크리에이티브</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1679"/>
+        <location filename="DBFilterModel.cpp" line="1682"/>
         <source>Action</source>
         <translation>액션</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1680"/>
+        <location filename="DBFilterModel.cpp" line="1683"/>
         <source>Portrait</source>
         <translation>인물</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="1681"/>
+        <location filename="DBFilterModel.cpp" line="1684"/>
         <source>Landscape</source>
         <translation>풍경</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2227"/>
+        <location filename="DBFilterModel.cpp" line="2230"/>
         <source>Focal Length</source>
         <translation>초점 거리</translation>
     </message>
@@ -18146,7 +18213,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>사용자 코멘트</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2235"/>
+        <location filename="DBFilterModel.cpp" line="2238"/>
         <location filename="SearchField.cpp" line="93"/>
         <location filename="TemplateData.cpp" line="2687"/>
         <source>F-Number</source>
@@ -18169,7 +18236,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>수정 날짜/시간</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2207"/>
+        <location filename="DBFilterModel.cpp" line="2210"/>
         <location filename="TemplateData.cpp" line="2658"/>
         <source>Orientation</source>
         <translation>방향</translation>
@@ -18262,7 +18329,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>노출 시간 (s)</translation>
     </message>
     <message>
-        <location filename="DBFilterModel.cpp" line="2243"/>
+        <location filename="DBFilterModel.cpp" line="2246"/>
         <location filename="TemplateData.cpp" line="2683"/>
         <source>Exposure Program</source>
         <translation>노출 프로그램</translation>
@@ -23008,7 +23075,12 @@ Do you want to continue?</oldsource>
 <context>
     <name>MyTemplateComboEdit</name>
     <message>
-        <location filename="MyTemplateComboEdit.h" line="187"/>
+        <location filename="MyTemplateComboEdit.h" line="192"/>
+        <source>Do you want to delete all your name templates?</source>
+        <translation type="unfinished">모든 이름 템플릿을 삭제 하시겠습니까?</translation>
+    </message>
+    <message>
+        <location filename="MyTemplateComboEdit.h" line="266"/>
         <source>Clear</source>
         <translation>지우기</translation>
     </message>

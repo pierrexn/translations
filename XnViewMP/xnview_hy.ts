@@ -8355,6 +8355,34 @@ Do you want to remove them?</source>
 
 Հեռացնե՞լ դրանք:</translation>
     </message>
+    <message>
+        <source>Rename</source>
+        <translation type="unfinished">Վերանվանել</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Փակել</translation>
+    </message>
+    <message>
+        <source>Save preset</source>
+        <translation type="unfinished">Պահել նախակայումը</translation>
+    </message>
+    <message>
+        <source>Preset name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preset &apos;%1&apos; already exists. Overwrite?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete preset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete preset &apos;%1&apos;?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgRenameClass</name>
@@ -8451,10 +8479,6 @@ Do you want to remove them?</source>
         <translation>Անունը վերին նիշ</translation>
     </message>
     <message>
-        <source>Clear templates</source>
-        <translation>Մաքրել ձևանուշները</translation>
-    </message>
-    <message>
         <source>Use Regular Expression</source>
         <translation></translation>
     </message>
@@ -8469,6 +8493,30 @@ Do you want to remove them?</source>
     <message>
         <source>Clean diacritic characters</source>
         <translation>Մաքրել տարբերիչ գրանշանները</translation>
+    </message>
+    <message>
+        <source>Add files...</source>
+        <translation type="unfinished">Ավելացնել ֆայլ...</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="unfinished">Ջնջել</translation>
+    </message>
+    <message>
+        <source>Remove all</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presets:</source>
+        <translation type="unfinished">Նախակայումներ.</translation>
+    </message>
+    <message>
+        <source>Save preset</source>
+        <translation type="unfinished">Պահել նախակայումը</translation>
+    </message>
+    <message>
+        <source>Remove preset from list</source>
+        <translation type="unfinished">Հեռացնել նախակայումը ցանկից</translation>
     </message>
 </context>
 <context>
@@ -10684,10 +10732,6 @@ Do you want to reassign?</source>
         <translation>Օգտագործեք UTF-8՝ IPTC գրառման համար</translation>
     </message>
     <message>
-        <source>Write comment in XMP (dc:description and exif:UserComment)</source>
-        <translation>Գրել մեկնաբանություն XMP-ում (dc:նկարագրություն և exif:Օգտվողի մեկնաբանություն)</translation>
-    </message>
-    <message>
         <source>&lt;filename&gt;.xmp</source>
         <translation>&lt;filename&gt;.xmp</translation>
     </message>
@@ -10813,6 +10857,14 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Rating labels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation type="unfinished">Ֆայլ</translation>
+    </message>
+    <message>
+        <source>XMP (dc:description and exif:UserComment)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17670,6 +17722,10 @@ Do you want to continue?</source>
     <message>
         <source>Clear</source>
         <translation>Մաքրել</translation>
+    </message>
+    <message>
+        <source>Do you want to delete all your name templates?</source>
+        <translation type="unfinished">Ցանկանո՞ւմ եք ջնջել ձեր անունով բոլոր ձևանմուշները:</translation>
     </message>
 </context>
 <context>
