@@ -416,12 +416,12 @@
     <message>
         <location filename="ViewWindow.cpp" line="4122"/>
         <source>Expand canvas</source>
-        <translation type="unfinished"></translation>
+        <translation>展開繪製區域</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4122"/>
         <source>Do you want to expand the canvas?</source>
-        <translation type="unfinished"></translation>
+        <translation>您想要展開繪製區域嗎？</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4549"/>
@@ -682,7 +682,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="2093"/>
         <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi-select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right-click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
-        <translation>&lt;b&gt;後製資料篩選器&lt;/b&gt;&lt;br&gt;左鍵單擊項目開始篩選流程&lt;br&gt;&amp;bull; Shift/Ctrl - 多重選取&lt;br&gt;&amp;bull; Alt/Opt - 排除項目&lt;br&gt;單擊右鍵開啟功能選單&lt;br&gt;將檔案拖放到項目上進行指派</translation>
+        <translation>&lt;b&gt;後製資料篩選器&lt;/b&gt;&lt;br&gt;左鍵單擊項目開始篩選流程&lt;br&gt;&amp;bull; Shift/Ctrl/Cmd - 多重選取&lt;br&gt;&amp;bull; Alt/Opt - 排除項目&lt;br&gt;單擊右鍵開啟功能選單&lt;br&gt;將檔案拖放到項目上進行指派</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3509"/>
@@ -1652,7 +1652,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DlgConvert.cpp" line="403"/>
         <source>Logarithmic LUT</source>
         <oldsource>Logarithmic lut</oldsource>
-        <translation type="unfinished">對數查表</translation>
+        <translation>對數色彩查找表</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="405"/>
@@ -4255,7 +4255,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="161"/>
         <source>Edges</source>
-        <translation type="unfinished">邊數</translation>
+        <translation type="unfinished">去背</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="174"/>
@@ -4270,7 +4270,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="220"/>
         <source>Zealous</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">積極強力</translation>
     </message>
 </context>
 <context>
@@ -12091,7 +12091,7 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettingsCache.ui" line="447"/>
         <source>Relocate...</source>
-        <translation>搬遷…</translation>
+        <translation>重新定位資料夾…</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="364"/>
@@ -13996,7 +13996,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="131"/>
         <source>Face tag</source>
-        <translation>臉部標記</translation>
+        <translation>人臉標記</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="419"/>
@@ -14312,7 +14312,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="791"/>
         <source>Face tag</source>
-        <translation>人臉標籤</translation>
+        <translation>人臉標記</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="825"/>
@@ -15499,7 +15499,7 @@ Do you want to reassign?</source>
         <location filename="DlgTagPhoto.ui" line="14"/>
         <source>Face Tag</source>
         <oldsource>Tag Face</oldsource>
-        <translation>人臉標籤</translation>
+        <translation>人臉標記</translation>
     </message>
     <message>
         <location filename="DlgTagPhoto.ui" line="85"/>
@@ -15542,7 +15542,7 @@ Do you want to reassign?</source>
         <source>This will overwrite XMP face&apos;s regions of the file. 
 
 Do you want to continue?</source>
-        <translation>這將覆蓋檔案中 XMP 臉部區域的資料.
+        <translation>這將覆蓋檔案中 XMP 人臉區域的資料.
 
 您是否要繼續？</translation>
     </message>
@@ -18548,7 +18548,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2732"/>
         <source>SubSecTime Original</source>
-        <translation>拍攝子秒</translation>
+        <translation>原始子秒</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2733"/>
@@ -21245,7 +21245,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="681"/>
         <source>Edit face tag...</source>
-        <translation>編輯人臉標籤...</translation>
+        <translation>編輯人臉標記...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="684"/>
