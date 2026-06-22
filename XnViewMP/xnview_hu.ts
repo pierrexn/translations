@@ -416,12 +416,12 @@
     <message>
         <location filename="ViewWindow.cpp" line="4122"/>
         <source>Expand canvas</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vászon kibővítése</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4122"/>
         <source>Do you want to expand the canvas?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ki akarja bővíteni a vásznat?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4549"/>
@@ -21913,7 +21913,7 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="ViewMenu.h" line="422"/>
         <source>Center image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kép középre</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="449"/>
