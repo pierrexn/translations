@@ -8374,31 +8374,31 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished">Redenumește</translation>
+        <translation>Redenumește</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Închide</translation>
     </message>
     <message>
         <source>Save preset</source>
-        <translation type="unfinished">Salvează presetarea</translation>
+        <translation>Salvează presetarea</translation>
     </message>
     <message>
         <source>Preset name:</source>
-        <translation type="unfinished">Numele presetării:</translation>
+        <translation>Numele presetării:</translation>
     </message>
     <message>
         <source>Preset &apos;%1&apos; already exists. Overwrite?</source>
-        <translation type="unfinished"></translation>
+        <translation>Presetarea „%1” deja există. O suprascri?</translation>
     </message>
     <message>
         <source>Delete preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge presetarea</translation>
     </message>
     <message>
         <source>Delete preset &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ștergi presetarea „%1”?</translation>
     </message>
 </context>
 <context>
@@ -8513,27 +8513,27 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Add files...</source>
-        <translation type="unfinished">Adaugă fișiere...</translation>
+        <translation>Adaugă fișiere...</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge</translation>
     </message>
     <message>
         <source>Remove all</source>
-        <translation type="unfinished">Șterge tot</translation>
+        <translation>Șterge tot</translation>
     </message>
     <message>
         <source>Presets:</source>
-        <translation type="unfinished">Presetări:</translation>
+        <translation>Presetările:</translation>
     </message>
     <message>
         <source>Save preset</source>
-        <translation type="unfinished">Salvează presetarea</translation>
+        <translation>Salvează presetarea</translation>
     </message>
     <message>
         <source>Remove preset from list</source>
-        <translation type="unfinished">Elimină presetarea din listă</translation>
+        <translation>Elimină presetarea din listă</translation>
     </message>
 </context>
 <context>
@@ -10878,11 +10878,11 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished">Fişier</translation>
+        <translation>Fişier</translation>
     </message>
     <message>
         <source>XMP (dc:description and exif:UserComment)</source>
-        <translation type="unfinished"></translation>
+        <translation>XMP (dc:descriere și exif:ComentariulUtilizatorului)</translation>
     </message>
 </context>
 <context>
@@ -17742,7 +17742,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Do you want to delete all your name templates?</source>
-        <translation type="unfinished">Vrei să ștergi toate șabloanele de nume?</translation>
+        <translation>Vrei să-ți ștergi toate șabloanele de nume?</translation>
     </message>
 </context>
 <context>
