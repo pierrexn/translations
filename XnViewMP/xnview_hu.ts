@@ -416,12 +416,12 @@
     <message>
         <location filename="ViewWindow.cpp" line="4122"/>
         <source>Expand canvas</source>
-        <translation type="unfinished">Vászon kibővítése</translation>
+        <translation>Vászon kibővítése</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4122"/>
         <source>Do you want to expand the canvas?</source>
-        <translation type="unfinished">Ki akarja bővíteni a vásznat?</translation>
+        <translation>Ki akarja bővíteni a vásznat?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4549"/>
@@ -10699,12 +10699,12 @@ Telepítse az Eszközök › Beépülők alól</translation>
     <message>
         <location filename="DlgRename.cpp" line="105"/>
         <source>Rename</source>
-        <translation type="unfinished">Átnevezés</translation>
+        <translation>Átnevezés</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="106"/>
         <source>Close</source>
-        <translation type="unfinished">Bezárás</translation>
+        <translation>Bezárás</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="356"/>
@@ -10719,27 +10719,27 @@ El szeretné őket távolítani?</translation>
         <location filename="DlgRename.cpp" line="1287"/>
         <location filename="DlgRename.cpp" line="1294"/>
         <source>Save preset</source>
-        <translation type="unfinished">Készlet mentése</translation>
+        <translation>Készlet mentése</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1287"/>
         <source>Preset name:</source>
-        <translation type="unfinished">Készlet neve:</translation>
+        <translation>Készlet neve:</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1295"/>
         <source>Preset &apos;%1&apos; already exists. Overwrite?</source>
-        <translation type="unfinished"></translation>
+        <translation>A készlet már létezik: &apos;%1&apos; . Felülírás?</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1318"/>
         <source>Delete preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Készlet törlése</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1319"/>
         <source>Delete preset &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; készlet törlése?</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1347"/>
@@ -10828,17 +10828,17 @@ El szeretné őket távolítani?</translation>
     <message>
         <location filename="DlgRename.ui" line="490"/>
         <source>Presets:</source>
-        <translation type="unfinished">Készletek:</translation>
+        <translation>Készletek:</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="507"/>
         <source>Save preset</source>
-        <translation type="unfinished">Készlet mentése</translation>
+        <translation>Készlet mentése</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="521"/>
         <source>Remove preset from list</source>
-        <translation type="unfinished">Készlet eltávolítása a listáról</translation>
+        <translation>Készlet eltávolítása a listáról</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="110"/>
@@ -10879,17 +10879,17 @@ El szeretné őket távolítani?</translation>
     <message>
         <location filename="DlgRename.ui" line="323"/>
         <source>Add files...</source>
-        <translation type="unfinished">Fájl hozzáadása...</translation>
+        <translation>Fájl hozzáadása...</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="337"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Eltávolítás</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="351"/>
         <source>Remove all</source>
-        <translation type="unfinished">Mind eltávolítása</translation>
+        <translation>Mind eltávolítása</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="441"/>
@@ -13964,7 +13964,7 @@ Szeretné újratársítani?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="83"/>
         <source>File</source>
-        <translation type="unfinished">Fájl</translation>
+        <translation>Fájl</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="159"/>
@@ -13974,7 +13974,7 @@ Szeretné újratársítani?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="214"/>
         <source>XMP (dc:description and exif:UserComment)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">XMP (dc:leírás és exif:FelhasználóiMegjegyzés)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="224"/>
@@ -23132,7 +23132,7 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="MyTemplateComboEdit.h" line="192"/>
         <source>Do you want to delete all your name templates?</source>
-        <translation type="unfinished">Törölni szeretné az összes névsablonját?</translation>
+        <translation>Törölni szeretné az összes névsablonját?</translation>
     </message>
     <message>
         <location filename="MyTemplateComboEdit.h" line="266"/>
