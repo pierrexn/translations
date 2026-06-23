@@ -682,7 +682,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="2093"/>
         <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi-select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right-click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
-        <translation>&lt;b&gt;後製資料篩選器&lt;/b&gt;&lt;br&gt;左鍵單擊項目開始篩選流程&lt;br&gt;&amp;bull; Shift/Ctrl/Cmd - 多重選取&lt;br&gt;&amp;bull; Alt/Opt - 排除項目&lt;br&gt;單擊右鍵開啟功能選單&lt;br&gt;將檔案拖放到項目上進行指派</translation>
+        <translation>&lt;b&gt;後製資料篩選器&lt;/b&gt;&lt;br&gt;左鍵單擊項目開始篩選流程&lt;br&gt;&amp;bull; Ctrl/Cmd - 多重選取&lt;br&gt;&amp;bull; Shift - 整段選取&lt;br&gt;&amp;bull; Alt/Opt - 排除項目&lt;br&gt;單擊右鍵開啟功能選單&lt;br&gt;將檔案拖放到項目上進行指派</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3509"/>
@@ -982,7 +982,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="CategoryView.cpp" line="635"/>
         <source>Empty</source>
-        <translation>清空</translation>
+        <translation>空白</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="637"/>
@@ -1012,7 +1012,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="CategoryView.cpp" line="686"/>
         <source>Empty album</source>
-        <translation>清空相簿</translation>
+        <translation>空白相簿</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="686"/>
@@ -2098,7 +2098,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DBFilterModel.cpp" line="182"/>
         <location filename="DBFilterModel.cpp" line="198"/>
         <source>Albums</source>
-        <translation>專輯</translation>
+        <translation>相簿</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="184"/>
@@ -2465,7 +2465,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgBatchResize.ui" line="284"/>
         <source>Presets</source>
-        <translation>預先設置</translation>
+        <translation>預設集</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="292"/>
@@ -4511,7 +4511,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertCanvas.ui" line="35"/>
         <source>Presets</source>
-        <translation>預先設置</translation>
+        <translation>預設集</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="43"/>
@@ -4964,22 +4964,22 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="1906"/>
         <source>Presets:</source>
-        <translation>預先設置:</translation>
+        <translation>預設集:</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1913"/>
         <source>Load preset</source>
-        <translation>載入預先設置</translation>
+        <translation>載入預設集</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1946"/>
         <source>Save preset</source>
-        <translation>儲存預先設置</translation>
+        <translation>儲存預設集</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1960"/>
         <source>Remove preset from list</source>
-        <translation>從列表中移除預先設置</translation>
+        <translation>從列表中移除預設集</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="2104"/>
@@ -6113,7 +6113,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertOffset.ui" line="213"/>
         <source>Empty Area</source>
-        <translation>清空區域</translation>
+        <translation>空白區域</translation>
     </message>
     <message>
         <location filename="DlgConvertOffset.ui" line="221"/>
@@ -6334,7 +6334,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertResize.ui" line="32"/>
         <source>Presets</source>
-        <translation>預先設置</translation>
+        <translation>預設集</translation>
     </message>
     <message>
         <location filename="DlgConvertResize.ui" line="40"/>
@@ -8314,7 +8314,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFileListing.ui" line="36"/>
         <source>Columns presets:</source>
-        <translation>列預設:</translation>
+        <translation>欄位預設集:</translation>
     </message>
     <message>
         <location filename="DlgFileListing.ui" line="87"/>
@@ -8349,7 +8349,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFileListing.cpp" line="36"/>
         <source>Current columns</source>
-        <translation>目前列</translation>
+        <translation>目前欄</translation>
     </message>
     <message>
         <location filename="DlgFileListing.cpp" line="128"/>
@@ -8901,12 +8901,12 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgHistoryList.h" line="26"/>
         <source>Save preset</source>
-        <translation>儲存預設</translation>
+        <translation>儲存預設集</translation>
     </message>
     <message>
         <location filename="DlgHistoryList.h" line="27"/>
         <source>Preset name:</source>
-        <translation>預設名稱:</translation>
+        <translation>預設集名稱:</translation>
     </message>
 </context>
 <context>
@@ -9628,7 +9628,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgLayout.ui" line="16"/>
         <source>Change layout...</source>
-        <translation>改變介面佈局...</translation>
+        <translation>改變層...</translation>
     </message>
     <message>
         <location filename="DlgLayout.ui" line="28"/>
@@ -9898,7 +9898,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPresetsManage.ui" line="14"/>
         <source>Edit presets</source>
-        <translation>編輯預先設置</translation>
+        <translation>編輯預設集</translation>
     </message>
 </context>
 <context>
@@ -9958,7 +9958,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPrint.ui" line="92"/>
         <source>Presets</source>
-        <translation>預先設置</translation>
+        <translation>預設集</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="121"/>
@@ -10329,17 +10329,17 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgProcess.ui" line="24"/>
         <source>Presets:</source>
-        <translation>預先設置:</translation>
+        <translation>預設集:</translation>
     </message>
     <message>
         <location filename="DlgProcess.ui" line="38"/>
         <source>Save preset</source>
-        <translation>儲存預先設置</translation>
+        <translation>儲存預設集</translation>
     </message>
     <message>
         <location filename="DlgProcess.ui" line="52"/>
         <source>Remove preset</source>
-        <translation>移除預先設置</translation>
+        <translation>移除預設集</translation>
     </message>
     <message>
         <location filename="DlgProcess.ui" line="78"/>
@@ -10701,12 +10701,12 @@ Please install it via Tools › Plugins</source>
     <message>
         <location filename="DlgRename.cpp" line="105"/>
         <source>Rename</source>
-        <translation type="unfinished">重新命名</translation>
+        <translation>重新命名</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="106"/>
         <source>Close</source>
-        <translation type="unfinished">關閉</translation>
+        <translation>關閉</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="356"/>
@@ -10721,27 +10721,27 @@ Do you want to remove them?</source>
         <location filename="DlgRename.cpp" line="1287"/>
         <location filename="DlgRename.cpp" line="1294"/>
         <source>Save preset</source>
-        <translation type="unfinished"></translation>
+        <translation>儲存預設集</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1287"/>
         <source>Preset name:</source>
-        <translation type="unfinished">預設名稱:</translation>
+        <translation>預設集名稱:</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1295"/>
         <source>Preset &apos;%1&apos; already exists. Overwrite?</source>
-        <translation type="unfinished"></translation>
+        <translation>預設集 &apos;%1&apos; 已存在. 將其覆寫嗎？</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1318"/>
         <source>Delete preset</source>
-        <translation type="unfinished"></translation>
+        <translation>刪除預設集</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1319"/>
         <source>Delete preset &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>刪除預設集 &apos;%1&apos;？</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1347"/>
@@ -10830,17 +10830,17 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgRename.ui" line="490"/>
         <source>Presets:</source>
-        <translation type="unfinished">預先設置:</translation>
+        <translation>預設集:</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="507"/>
         <source>Save preset</source>
-        <translation type="unfinished"></translation>
+        <translation>儲存預設集</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="521"/>
         <source>Remove preset from list</source>
-        <translation type="unfinished">從列表中移除預先設置</translation>
+        <translation>從列表中移除預設集</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="110"/>
@@ -10881,17 +10881,17 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgRename.ui" line="323"/>
         <source>Add files...</source>
-        <translation type="unfinished">新增檔案...</translation>
+        <translation>新增檔案...</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="337"/>
         <source>Remove</source>
-        <translation type="unfinished">移除</translation>
+        <translation>移除</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="351"/>
         <source>Remove all</source>
-        <translation type="unfinished">全部移除</translation>
+        <translation>全部移除</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="441"/>
@@ -10958,7 +10958,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgRenameDup.ui" line="75"/>
         <source>Number</source>
-        <translation>數字</translation>
+        <translation>數值</translation>
     </message>
     <message>
         <location filename="DlgRenameDup.ui" line="82"/>
@@ -11025,17 +11025,17 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgResize.ui" line="22"/>
         <source>Presets:</source>
-        <translation>預先設置:</translation>
+        <translation>預設集:</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="39"/>
         <source>Save current settings as new preset</source>
-        <translation>目前設定值存為新預先設置</translation>
+        <translation>將目前設定值儲存為新的預設集</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="53"/>
         <source>Remove preset</source>
-        <translation>移除預先設置</translation>
+        <translation>移除預設集</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="133"/>
@@ -11302,12 +11302,12 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.cpp" line="351"/>
         <source>Preset</source>
-        <translation>預設</translation>
+        <translation>預設集</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="352"/>
         <source>Preset search name:</source>
-        <translation>預設搜尋名稱:</translation>
+        <translation>預設集搜尋名稱:</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="355"/>
@@ -11392,7 +11392,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.ui" line="393"/>
         <source>Presets: </source>
-        <translation>預先設置: </translation>
+        <translation>預設集: </translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="492"/>
@@ -11630,7 +11630,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="397"/>
         <source>Reset list to default?</source>
-        <translation>是否將列表重置回預設值？</translation>
+        <translation>是否將列表重置回預設狀態？</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="587"/>
@@ -11645,12 +11645,12 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="912"/>
         <source>Save Preset</source>
-        <translation>儲存預設</translation>
+        <translation>儲存預設集</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="912"/>
         <source>Preset name:</source>
-        <translation>預設名稱:</translation>
+        <translation>預設集名稱:</translation>
     </message>
 </context>
 <context>
@@ -11921,7 +11921,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsCache.cpp" line="163"/>
         <source>Database [catalog: %1 %2 - metadata: %5 %6 - thumbnails: %3 %4]</source>
-        <translation>資料庫 [類別目錄: %1 %2 - 後製資料: %5 %6 - 縮圖: %3 %4]</translation>
+        <translation>資料庫 [類別目錄: %1 %2 - 詮釋資料: %5 %6 - 縮圖: %3 %4]</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="325"/>
@@ -12189,7 +12189,7 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettingsCache.ui" line="597"/>
         <source>Always exclude removable drives</source>
-        <translation>永遠排除可移除式設備</translation>
+        <translation>永遠排除可移除式儲存設備</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="604"/>
@@ -12299,12 +12299,12 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.cpp" line="385"/>
         <source>Master extension</source>
-        <translation>主</translation>
+        <translation>主檔案</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.cpp" line="385"/>
         <source>Companion</source>
-        <translation>配套</translation>
+        <translation>配套檔案</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.cpp" line="450"/>
@@ -12402,7 +12402,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="163"/>
         <source>Display file size in bytes</source>
-        <translation>ㄑ用位元組 (bytes) 顯示檔案大小</translation>
+        <translation>用位元組 (bytes) 顯示檔案大小</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="203"/>
@@ -12422,7 +12422,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="226"/>
         <source>Association list (use ; as separator)</source>
-        <translation>主檔/配套檔 之 副檔名關聯表 (以 ; 作為分隔符號)</translation>
+        <translation>副檔名關聯表 (以 ; 作為分隔符號)</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="187"/>
@@ -13915,12 +13915,12 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="83"/>
         <source>File</source>
-        <translation type="unfinished">檔案</translation>
+        <translation>檔案</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="214"/>
         <source>XMP (dc:description and exif:UserComment)</source>
-        <translation type="unfinished"></translation>
+        <translation>XMP (dc:描述、exif:使用者評註)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="370"/>
@@ -14170,7 +14170,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="684"/>
         <source>Companion</source>
-        <translation>配套</translation>
+        <translation>配套檔案</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="731"/>
@@ -15448,7 +15448,7 @@ Do you want to reassign?</source>
         <location filename="DlgStrip.ui" line="14"/>
         <source>Join images</source>
         <oldsource>Strip of images</oldsource>
-        <translation>結合影像</translation>
+        <translation>拼接影像</translation>
     </message>
     <message>
         <location filename="DlgStrip.ui" line="24"/>
@@ -16668,7 +16668,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteWebP.ui" line="19"/>
         <source>Save preset</source>
-        <translation>儲存預先設置</translation>
+        <translation>儲存預設集</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="27"/>
@@ -17601,7 +17601,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="SearchField.cpp" line="148"/>
         <source>All fields (Number)</source>
-        <translation>所有欄位 (數字)</translation>
+        <translation>所有欄位 (數值)</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="149"/>
@@ -17611,7 +17611,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="SearchField.cpp" line="150"/>
         <source>Field (Number)</source>
-        <translation>欄位 (數字)</translation>
+        <translation>欄位 (數值)</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1038"/>
@@ -17699,7 +17699,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="IptcEditBase.cpp" line="74"/>
         <location filename="TemplateData.cpp" line="2840"/>
         <source>Filename (last number)</source>
-        <translation>檔名 (最後一個數字)</translation>
+        <translation>檔名 (最後一個數值)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="366"/>
@@ -17860,12 +17860,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2827"/>
         <source>Rating (number)</source>
-        <translation>評分 (數字)</translation>
+        <translation>評分 (數值)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2829"/>
         <source>Color label (number)</source>
-        <translation>顏色標籤 (數字)</translation>
+        <translation>顏色標籤 (數值)</translation>
     </message>
 </context>
 <context>
@@ -20403,7 +20403,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="633"/>
         <source>Join images...</source>
-        <translation>合併影像...</translation>
+        <translation>拼接影像...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="634"/>
@@ -20850,7 +20850,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="511"/>
         <location filename="BrowserMenu.h" line="665"/>
         <source>Layout</source>
-        <translation>介面佈局</translation>
+        <translation>介面</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="512"/>
@@ -21008,7 +21008,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="561"/>
         <source>Use tabs</source>
-        <translation>使用頁籤</translation>
+        <translation>顯示資訊頁籤</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="562"/>
@@ -21323,7 +21323,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="686"/>
         <source>Empty tab</source>
         <oldsource>Empty tab...</oldsource>
-        <translation>清空頁籤</translation>
+        <translation>空白頁面</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="688"/>
@@ -21554,7 +21554,7 @@ Do you want to continue?</oldsource>
         <location filename="TemplateData.cpp" line="2835"/>
         <source># - Numeric enumerator</source>
         <oldsource>#: Numeric enumerator</oldsource>
-        <translation># - 數字列舉元</translation>
+        <translation># - 數值列舉元</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2853"/>
@@ -22389,7 +22389,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="552"/>
         <source>Empty tab...</source>
-        <translation>清空頁籤...</translation>
+        <translation>空白頁籤...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="554"/>
@@ -22630,7 +22630,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="535"/>
         <source>Join images...</source>
-        <translation>合併影像...</translation>
+        <translation>拼接影像...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="536"/>
@@ -23149,7 +23149,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyTemplateComboEdit.h" line="192"/>
         <source>Do you want to delete all your name templates?</source>
-        <translation type="unfinished">您確定要刪除您的所有命名模板？</translation>
+        <translation>您確定要刪除您的所有命名模板？</translation>
     </message>
     <message>
         <location filename="MyTemplateComboEdit.h" line="266"/>
@@ -23523,7 +23523,7 @@ You can change it in Settings › Catalog.</oldsource>
         <location filename="PaintWidget.ui" line="1503"/>
         <location filename="PaintWidget.ui" line="1514"/>
         <source>Presets</source>
-        <translation>預先設置</translation>
+        <translation>預設集</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="778"/>
@@ -23649,7 +23649,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="PaintWidget.cpp" line="1418"/>
         <source>Preset name</source>
-        <translation>預先設置名稱</translation>
+        <translation>預設集名稱</translation>
     </message>
 </context>
 <context>
@@ -24498,12 +24498,12 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="TemplateWidget.ui" line="70"/>
         <source>Save preset</source>
-        <translation>儲存預先設置</translation>
+        <translation>儲存預設集</translation>
     </message>
     <message>
         <location filename="TemplateWidget.ui" line="84"/>
         <source>Remove preset</source>
-        <translation>移除預先設置</translation>
+        <translation>移除預設集</translation>
     </message>
     <message>
         <location filename="TemplateWidget.cpp" line="162"/>
