@@ -13974,7 +13974,7 @@ Szeretné újratársítani?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="214"/>
         <source>XMP (dc:description and exif:UserComment)</source>
-        <translation type="unfinished">XMP (dc:leírás és exif:FelhasználóiMegjegyzés)</translation>
+        <translation>XMP (dc:leírás és exif:FelhasználóiMegjegyzés)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="224"/>
@@ -21980,7 +21980,7 @@ Biztosan folytassuk?</translation>
     <message>
         <location filename="ViewMenu.h" line="422"/>
         <source>Center image</source>
-        <translation type="unfinished">Kép középre</translation>
+        <translation>Kép középre</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="449"/>
