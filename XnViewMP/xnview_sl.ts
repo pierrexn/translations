@@ -10754,12 +10754,12 @@ Namestite ga prek Orodja › Vtičniki</translation>
     <message>
         <location filename="DlgRename.cpp" line="105"/>
         <source>Rename</source>
-        <translation type="unfinished">Preimenuj</translation>
+        <translation>Preimenuj</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="106"/>
         <source>Close</source>
-        <translation type="unfinished">Zapri</translation>
+        <translation>Zapri</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="356"/>
@@ -10774,27 +10774,27 @@ Ali jih želite odstraniti?</translation>
         <location filename="DlgRename.cpp" line="1287"/>
         <location filename="DlgRename.cpp" line="1294"/>
         <source>Save preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Shrani prednastavitev</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1287"/>
         <source>Preset name:</source>
-        <translation type="unfinished">Ime prednastavitve:</translation>
+        <translation>Ime prednastavitve:</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1295"/>
         <source>Preset &apos;%1&apos; already exists. Overwrite?</source>
-        <translation type="unfinished"></translation>
+        <translation>Prednastavitev &apos;%1&apos; že obstaja. Ali jo želite prepisati?</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1318"/>
         <source>Delete preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbriši prednastavitev</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1319"/>
         <source>Delete preset &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>emIzbriši prednastavitev &apos;%1&apos;?</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1347"/>
@@ -10883,17 +10883,17 @@ Ali jih želite odstraniti?</translation>
     <message>
         <location filename="DlgRename.ui" line="490"/>
         <source>Presets:</source>
-        <translation type="unfinished">Prednastavitve:</translation>
+        <translation>Prednastavitve:</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="507"/>
         <source>Save preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Shrani prednastavitev</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="521"/>
         <source>Remove preset from list</source>
-        <translation type="unfinished">Odstrani prednastavitev s seznama</translation>
+        <translation>Odstrani prednastavitev s seznama</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="110"/>
@@ -10934,17 +10934,17 @@ Ali jih želite odstraniti?</translation>
     <message>
         <location filename="DlgRename.ui" line="323"/>
         <source>Add files...</source>
-        <translation type="unfinished">Dodaj datoteke...</translation>
+        <translation>Dodaj datoteke...</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="337"/>
         <source>Remove</source>
-        <translation type="unfinished">Odstrani</translation>
+        <translation>Odstrani</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="351"/>
         <source>Remove all</source>
-        <translation type="unfinished">Odstrani vse</translation>
+        <translation>Odstrani vse</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="441"/>
@@ -13967,12 +13967,12 @@ Ali želite ponovno dodeliti?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="83"/>
         <source>File</source>
-        <translation type="unfinished">Datoteka</translation>
+        <translation>Datoteka</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="214"/>
         <source>XMP (dc:description and exif:UserComment)</source>
-        <translation type="unfinished"></translation>
+        <translation>XMP (dc:opis in exif:komentar uporabnika)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="370"/>
@@ -23200,7 +23200,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyTemplateComboEdit.h" line="192"/>
         <source>Do you want to delete all your name templates?</source>
-        <translation type="unfinished">Ali želite izbrisati imena vseh svojih predlog?</translation>
+        <translation>Ali želite izbrisati imena vseh svojih predlog?</translation>
     </message>
     <message>
         <location filename="MyTemplateComboEdit.h" line="266"/>
