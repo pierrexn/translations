@@ -1070,7 +1070,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Oil painting</source>
-        <translation>Pictura in ulei</translation>
+        <translation>Pictură în ulei</translation>
     </message>
     <message>
         <source>Reduce noise</source>
@@ -1290,7 +1290,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Oil painting 2</source>
-        <translation>Pictura in ulei 2</translation>
+        <translation>Pictură în ulei 2</translation>
     </message>
     <message>
         <source>Crystallize</source>
@@ -1926,7 +1926,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Case</source>
-        <translation>Caz</translation>
+        <translation>Conversie de majuscule/minuscule</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -2650,7 +2650,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Gammasat</source>
-        <translation>Saturație și gamma</translation>
+        <translation>Gamasaturație (Gammasat)</translation>
     </message>
 </context>
 <context>
@@ -3691,7 +3691,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Case</source>
-        <translation>Caz</translation>
+        <translation>Conversie de majuscule/minuscule</translation>
     </message>
     <message>
         <source>Skip</source>
@@ -8409,7 +8409,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Case</source>
-        <translation>Caz</translation>
+        <translation>Conversie de majuscule/minuscule</translation>
     </message>
     <message>
         <source>Step</source>
@@ -8501,7 +8501,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Case sensitive</source>
-        <translation>Caz sensibil</translation>
+        <translation>Sensibil la majuscule/minuscule</translation>
     </message>
     <message>
         <source>Duplicate...</source>
