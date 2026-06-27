@@ -1206,7 +1206,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Pattern</source>
-        <translation>Model</translation>
+        <translation>Modelul</translation>
     </message>
     <message>
         <source>Old camera</source>
@@ -1598,7 +1598,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Evaluare</translation>
+        <translation>Evaluarea (Rating-ul)</translation>
     </message>
     <message>
         <source>Date</source>
@@ -1891,7 +1891,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;p&gt;All banner specifications (font, color, size, etc.) carry forward from the previously created banner. An exception is text size, which is calculated to &apos;Best fit&apos; for banner height.&lt;/p&gt;&lt;p&gt;You may select multiple images to apply the same banner to several images at once. Note that the text will be the same size in all images, then.&lt;/p&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; align=&quot;left&quot; style=&quot;border-bottom:1px solid gray;padding-top:15px&quot;&gt;Shortcuts&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Increase/decrease font size by 2 points&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Shift+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Increase/decrease banner size by 1%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+S&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Start banner creation&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</source>
-        <translation>&lt;td style=&quot;padding-left:15px&quot;&gt;&lt;html&gt;&lt;p&gt;Toate specificațiile pancartei (bannerului) (font (scris), culoare, dimensiune etc.) sunt transferate de la pancarta (bannerul) creat(ă) anterior. O excepție este dimensiunea textului, care este calculată la „Cea mai potrivită” pentru înălțimea pancartei (bannerului).&lt;/p&gt;&lt;p&gt;Poți selecta mai multe imagini pentru a aplica aceeași pancartă (același banner) mai multor imagini simultan. Reține că textul va avea atunci aceeași dimensiune în toate imaginile.&lt;/p&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; align=&quot;left&quot; style=&quot;border-bottom:1px solid gray;padding-top:15px&quot;&gt;Comenzi rapide (Scurtături)&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Crește/scade mărimea fontului (scrisului) cu 2 puncte&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Shift+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Crește/scade mărimea pancartei (bannerului) cu 1%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+S&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Pornește creare pancartei (bannerului)&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;p&gt;Toate specificațiile pancartei (bannerului) (font (scris), culoare, dimensiune etc.) sunt transferate de la pancarta creată (bannerul creat) anterior. O excepție este dimensiunea textului, care este calculată la „Cea mai potrivită” pentru înălțimea pancartei (bannerului).&lt;/p&gt;&lt;p&gt;Poți selecta mai multe imagini pentru a aplica aceeași pancartă (același banner) mai multor imagini simultan. Reține că textul va avea atunci aceeași dimensiune în toate imaginile.&lt;/p&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; align=&quot;left&quot; style=&quot;border-bottom:1px solid gray;padding-top:15px&quot;&gt;Comenzi rapide (Scurtături)&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Crește/scade mărimea fontului (scrisului) cu 2 puncte&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Shift+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Crește/scade mărimea pancartei (bannerului) cu 1%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+S&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Pornește creare pancartei (bannerului)&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -2439,7 +2439,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Client area</source>
-        <translation>Zona client</translation>
+        <translation>Zona de client</translation>
     </message>
     <message>
         <source>Method</source>
@@ -2463,11 +2463,11 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Capture</source>
-        <translation>Captură</translation>
+        <translation>Capturează ecranul (Fă o captură de ecran)</translation>
     </message>
     <message>
         <source>Open in View mode</source>
-        <translation>Deschide în modul Vizualizare</translation>
+        <translation>Deschide în modul de Vizualizare</translation>
     </message>
     <message>
         <source>Rectangle</source>
@@ -2479,7 +2479,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Capture area</source>
-        <translation>Zona de captare</translation>
+        <translation>Zona de capturare a ecranului</translation>
     </message>
     <message>
         <source>Save to folder</source>
@@ -2487,15 +2487,15 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Open in Draw mode</source>
-        <translation>Deschide în modul Desenare</translation>
+        <translation>Deschide în modul de Desenare</translation>
     </message>
     <message>
         <source>Delay</source>
-        <translation>Întârziere</translation>
+        <translation>Întârzierea</translation>
     </message>
     <message>
         <source>second(s)</source>
-        <translation>secundă(e)</translation>
+        <translation>secundă / (de) secunde</translation>
     </message>
     <message>
         <source>Hide XnView MP</source>
@@ -5766,7 +5766,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Date modified</source>
-        <translation>Data când a fost modificată</translation>
+        <translation>Data modificării</translation>
     </message>
     <message>
         <source>Date taken</source>
@@ -5774,7 +5774,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Date digitized</source>
-        <translation>Data la care a fost digitizată</translation>
+        <translation>Data digitalizării</translation>
     </message>
     <message>
         <source>Orientation</source>
@@ -6175,7 +6175,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul numai citire!</transla
     </message>
     <message>
         <source>Pattern</source>
-        <translation>Model</translation>
+        <translation>Modelul</translation>
     </message>
     <message>
         <source>32 colors</source>
@@ -7287,7 +7287,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Created date/time</source>
-        <translation>Data/ora la care a fost creată</translation>
+        <translation>Data/ora creării</translation>
     </message>
     <message>
         <source>IPTC-IIM, update or create XMP</source>
@@ -8215,7 +8215,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Letter</source>
-        <translation>Scrisoare (Letter (US))</translation>
+        <translation>Scrisoare (Letter)</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -9272,11 +9272,11 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Label</source>
-        <translation>Etichetă</translation>
+        <translation>Eticheta</translation>
     </message>
     <message>
         <source>Field</source>
-        <translation>Câmp</translation>
+        <translation>Câmpul</translation>
     </message>
     <message>
         <source>Clear all</source>
@@ -10592,7 +10592,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>File created date</source>
-        <translation>Data la care a fost creat fișierul</translation>
+        <translation>Data creării fișierului</translation>
     </message>
     <message>
         <source>File modified date</source>
@@ -10830,7 +10830,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Evaluare</translation>
+        <translation>Evaluarea (Rating-ul)</translation>
     </message>
     <message>
         <source>Color label</source>
@@ -10965,7 +10965,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Evaluare</translation>
+        <translation>Evaluarea (Rating-ul)</translation>
     </message>
     <message>
         <source>Reset color</source>
@@ -11509,7 +11509,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>Tip</translation>
+        <translation>Tipul</translation>
     </message>
     <message>
         <source>Filename</source>
@@ -11593,7 +11593,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Modified date</source>
-        <translation>Data modificata</translation>
+        <translation>Data modificării</translation>
     </message>
 </context>
 <context>
@@ -12090,7 +12090,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>File created date</source>
-        <translation>Data la care a fost creat fișierul</translation>
+        <translation>Data creării fișierului</translation>
     </message>
     <message>
         <source>EXIF: Date taken</source>
@@ -12169,7 +12169,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>File: Created date</source>
-        <translation>Fișier: Data la care a fost creat fișierul</translation>
+        <translation>Fișier: Data creării</translation>
     </message>
     <message>
         <source>Write to all files</source>
@@ -12551,11 +12551,11 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation>Lăţime</translation>
+        <translation>Lăţimea</translation>
     </message>
     <message>
         <source>Web capture</source>
-        <translation>Captură web</translation>
+        <translation>Fă o captură web</translation>
     </message>
 </context>
 <context>
@@ -12967,7 +12967,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Evaluare (Rating)</translation>
+        <translation>Evaluarea (Rating-ul)</translation>
     </message>
     <message>
         <source>Copyright status</source>
@@ -13011,7 +13011,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Date created</source>
-        <translation>Data la care a fost creat</translation>
+        <translation>Data creării</translation>
     </message>
     <message>
         <source>Urgency</source>
@@ -13285,7 +13285,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Evaluare</translation>
+        <translation>Evaluarea (Rating-ul)</translation>
     </message>
     <message>
         <source>Orientation</source>
@@ -13297,7 +13297,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>EXIF Date taken</source>
-        <translation>EXIF Data luării</translation>
+        <translation>EXIF Data fotografierii</translation>
     </message>
     <message>
         <source>EXIF Date modified</source>
@@ -13313,11 +13313,11 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Date created</source>
-        <translation>Data la care a fost creat</translation>
+        <translation>Data creării</translation>
     </message>
     <message>
         <source>Date modified</source>
-        <translation>Data când a fost modificată</translation>
+        <translation>Data modificării</translation>
     </message>
 </context>
 <context>
@@ -13519,7 +13519,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Evaluare</translation>
+        <translation>Evaluarea (Rating-ul)</translation>
     </message>
     <message>
         <source>Annotation</source>
@@ -13651,11 +13651,11 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Modified date</source>
-        <translation>Data modificata</translation>
+        <translation>Data modificării</translation>
     </message>
     <message>
         <source>Encoded date</source>
-        <translation>Data codificată</translation>
+        <translation>Data codificării</translation>
     </message>
     <message>
         <source>Filename (last number)</source>
@@ -13699,7 +13699,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Field</source>
-        <translation>Câmp</translation>
+        <translation>Câmpul</translation>
     </message>
     <message>
         <source>Field (Number)</source>
@@ -13979,11 +13979,11 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Maker</source>
-        <translation>Creator</translation>
+        <translation>Creatorul</translation>
     </message>
     <message>
         <source>Model</source>
-        <translation>Model</translation>
+        <translation>Modelul</translation>
     </message>
     <message>
         <source>Resolution unit</source>
@@ -14147,7 +14147,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Date digitized</source>
-        <translation>Data la care a fost digitizată</translation>
+        <translation>Data digitalizării</translation>
     </message>
     <message>
         <source>Aperture</source>
@@ -14405,7 +14405,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation>Stare</translation>
+        <translation>Starea</translation>
     </message>
     <message>
         <source>Caption</source>
@@ -14424,7 +14424,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     <name>InfoIptc</name>
     <message>
         <source>City</source>
-        <translation>Oraș</translation>
+        <translation>Orașul</translation>
     </message>
     <message>
         <source>Cycle</source>
@@ -14444,7 +14444,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>State</source>
-        <translation>Stat</translation>
+        <translation>Statul</translation>
     </message>
     <message>
         <source>Title</source>
@@ -14472,11 +14472,11 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>State/Province</source>
-        <translation>Stat/Provincie</translation>
+        <translation>Statul/Provincia</translation>
     </message>
     <message>
         <source>Digitized date</source>
-        <translation>Data la care a fost digitizată</translation>
+        <translation>Data digitalizării</translation>
     </message>
     <message>
         <source>Digitized time</source>
@@ -14488,7 +14488,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Byline</source>
-        <translation>Creator</translation>
+        <translation>Fotograful/Creatorul</translation>
     </message>
     <message>
         <source>Credit</source>
@@ -14496,7 +14496,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Location</source>
-        <translation>Locație</translation>
+        <translation>Locația</translation>
     </message>
     <message>
         <source>Telephon number</source>
@@ -14652,11 +14652,11 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Created date</source>
-        <translation>Data la care a fost creat</translation>
+        <translation>Data creării</translation>
     </message>
     <message>
         <source>Created time</source>
-        <translation>Ora la care a fost creat</translation>
+        <translation>Data creării</translation>
     </message>
     <message>
         <source>Copyright usage terms</source>
@@ -14799,7 +14799,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Evaluare</translation>
+        <translation>Evaluarea (Rating-ul)</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
@@ -14904,7 +14904,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     <name>ItemModel</name>
     <message>
         <source>No.</source>
-        <translation>Nu.</translation>
+        <translation>Numărul (Nr.)</translation>
     </message>
     <message>
         <source>Info</source>
@@ -14920,7 +14920,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>Tip</translation>
+        <translation>Tipul</translation>
     </message>
     <message>
         <source>New Folder %1</source>
@@ -14928,7 +14928,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>EXIF Date Taken</source>
-        <translation>EXIF Data luării</translation>
+        <translation>EXIF Data fotografierii</translation>
     </message>
     <message>
         <source>EXIF Date Modified</source>
@@ -14936,11 +14936,11 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Modified date</source>
-        <translation>Data modificata</translation>
+        <translation>Data modificării</translation>
     </message>
     <message>
         <source>Created date</source>
-        <translation>Data la care a fost creat</translation>
+        <translation>Data creării</translation>
     </message>
 </context>
 <context>
@@ -15322,7 +15322,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>Tip</translation>
+        <translation>Tipul</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -15610,7 +15610,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Evaluare</translation>
+        <translation>Evaluarea (Rating-ul)</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -15910,7 +15910,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>EXIF Date Taken</source>
-        <translation>EXIF Data luării</translation>
+        <translation>EXIF Data fotografierii</translation>
     </message>
     <message>
         <source>Edit IPTC...</source>
@@ -15950,7 +15950,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Capture...</source>
-        <translation>Capturează...</translation>
+        <translation>Capturează ecranul (Fă o captură de ecran)...</translation>
     </message>
     <message>
         <source>Previous file</source>
@@ -16110,11 +16110,11 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Created Date</source>
-        <translation>Data la care a fost creat</translation>
+        <translation>Data creării</translation>
     </message>
     <message>
         <source>Fit image to desktop</source>
-        <translation>Potrivește imaginea la desktop</translation>
+        <translation>Potrivește imaginea pe desktop</translation>
     </message>
     <message>
         <source>Path</source>
@@ -16230,7 +16230,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Modified Date</source>
-        <translation>Data modificată</translation>
+        <translation>Data modificării</translation>
     </message>
     <message>
         <source>Show channel</source>
@@ -17063,7 +17063,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Capture...</source>
-        <translation>Capturează...</translation>
+        <translation>Capturează ecranul (Fă o captură de ecran)...</translation>
     </message>
     <message>
         <source>Negative</source>
@@ -17203,7 +17203,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Fit image to desktop</source>
-        <translation>Potrivește imaginea la desktop</translation>
+        <translation>Potrivește imaginea pe desktop</translation>
     </message>
     <message>
         <source>##label## (go to next image)</source>
