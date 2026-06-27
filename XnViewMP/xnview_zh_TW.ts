@@ -294,7 +294,7 @@
         <location filename="ViewWindow.cpp" line="2333"/>
         <source>Would you like to discard your edits and delete 
 &quot;%1&quot;?</source>
-        <translation>您確定要放棄編輯並刪除
+        <translation>您確定要放棄您的編輯並刪除
 &quot;%1&quot;？</translation>
     </message>
     <message>
@@ -692,7 +692,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="3511"/>
         <source>&lt;Catalog filter results&gt;</source>
-        <translation>&lt;後製資料篩選器：篩選結果&gt;</translation>
+        <translation>&lt;後製資料篩選器: 篩選結果&gt;</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3513"/>
@@ -1077,7 +1077,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="CompareWidget.cpp" line="49"/>
         <source>CRC</source>
-        <translation></translation>
+        <translation>CRC校驗</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="51"/>
@@ -1092,7 +1092,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="CompareWidget.cpp" line="55"/>
         <source>Clipping</source>
-        <translation>裁切</translation>
+        <translation>遮色</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="573"/>
@@ -1369,7 +1369,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgConvertProcess.h" line="2762"/>
         <source>HLS</source>
-        <translation></translation>
+        <translation>HLS 色彩空間</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2837"/>
@@ -1395,17 +1395,17 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgConvertProcess.h" line="3339"/>
         <source>Blurred frame</source>
-        <translation>模糊邊框</translation>
+        <translation>模糊框格</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="3595"/>
         <source>Inner Frame</source>
-        <translation>內框</translation>
+        <translation>內框格</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="3949"/>
         <source>JPEG Lossless rotation</source>
-        <translation>JPEG無失真旋轉</translation>
+        <translation>JPEG 無失真旋轉</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="4360"/>
@@ -1420,7 +1420,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgConvertProcess.h" line="4629"/>
         <source>Bloom</source>
-        <translation>柔焦</translation>
+        <translation>光暈</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="4653"/>
@@ -1430,12 +1430,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgConvertProcess.h" line="4685"/>
         <source>Clear transparent pixels</source>
-        <translation>清除透明度像素</translation>
+        <translation>清除不透明像素</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="4699"/>
         <source>Remove alpha channel</source>
-        <translation>移除遮色(alpha channel)</translation>
+        <translation>移除透明色版</translation>
     </message>
     <message>
         <location filename="DlgOffset.h" line="104"/>
@@ -1497,7 +1497,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DlgConvertProcess.h" line="3024"/>
         <location filename="Dlg1SliderPanel.h" line="78"/>
         <source>Posterize</source>
-        <translation>色調分離</translation>
+        <translation>色調分離/海報化</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2802"/>
@@ -1564,7 +1564,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgConvertProcess.h" line="3254"/>
         <source>ICC convert</source>
-        <translation>ICC配置轉換</translation>
+        <translation>ICC 配置轉換</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="3401"/>
@@ -1575,7 +1575,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DlgConvertProcess.h" line="3641"/>
         <location filename="DlgOldCamera.h" line="82"/>
         <source>Old camera</source>
-        <translation>舊式相機</translation>
+        <translation>舊式底片相機</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="3662"/>
@@ -1662,19 +1662,19 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgConvert.cpp" line="409"/>
         <source>Equalize</source>
-        <translation>補償</translation>
+        <translation>直方圖均衡化</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="410"/>
         <location filename="Dlg1SliderPanel.h" line="87"/>
         <source>Sepia</source>
-        <translation>復古色調</translation>
+        <translation>棕褐色/烏賊色 (復古)</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="411"/>
         <location filename="Dlg1SliderPanel.h" line="69"/>
         <source>Solarize</source>
-        <translation>過度曝光</translation>
+        <translation>中途曝光</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="420"/>
@@ -1703,7 +1703,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DlgConvert.cpp" line="431"/>
         <location filename="DlgFilter.cpp" line="50"/>
         <source>Focus restoration</source>
-        <translation>聚焦重建</translation>
+        <translation>對焦修復</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="433"/>
@@ -1800,7 +1800,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DlgConvert.cpp" line="457"/>
         <location filename="DlgFilter.cpp" line="76"/>
         <source>Shear</source>
-        <translation>推擠</translation>
+        <translation>推移/錯切</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="458"/>
@@ -1862,7 +1862,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgConvert.cpp" line="1825"/>
         <source>Frame</source>
-        <translation>框</translation>
+        <translation>框格</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1826"/>
@@ -2018,7 +2018,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="MyDB.cpp" line="885"/>
         <source>Drawings</source>
-        <translation>繪圖</translation>
+        <translation>描繪</translation>
     </message>
     <message>
         <location filename="MyDB.cpp" line="886"/>
@@ -2475,7 +2475,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgBatchResize.ui" line="297"/>
         <source>Original size</source>
-        <translation>原始大小</translation>
+        <translation>原始尺寸</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="302"/>
@@ -2589,7 +2589,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgBatchResize.ui" line="636"/>
         <source>Use gamma correction</source>
-        <translation>使用伽瑪修正(濃度)</translation>
+        <translation>使用伽瑪修正 (濃度)</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="661"/>
@@ -2982,7 +2982,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgBatchResize.cpp" line="1379"/>
         <source>&lt;br&gt;XnResize is provided as freeware for private or commercial use. &lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
-        <translation>&lt;br&gt;XnResize是以免費軟體(Freeware)方式提供給私人或商業使用。 &lt;br&gt;一般公司必須購買授權才可使用。&lt;br&gt;&lt;br&gt;您被予可使用及不限套數複製這些軟體的權利。&lt;br&gt;&lt;br&gt;這些軟體如原樣提供。&lt;br&gt;不做任何明示或暗示的保證。&lt;br&gt;作者不承擔使用或誤用此軟體所導致資料的遺失損壞、利潤損失或任何種類的損失。&lt;br&gt;&lt;br&gt;歡迎任何建議、回饋和意見。 </translation>
+        <translation>&lt;br&gt;XnResize是以免費軟體(Freeware)方式提供給私人或商業使用。 &lt;br&gt;一般公司必須購買授權才可使用。&lt;br&gt;&lt;br&gt;您被給予可使用及不限套數複製這些軟體的權利。&lt;br&gt;&lt;br&gt;這些軟體如原樣提供。&lt;br&gt;不做任何明示或暗示的保證。&lt;br&gt;作者不承擔使用或誤用此軟體所導致資料的遺失損壞、利潤損失或任何種類的損失。&lt;br&gt;&lt;br&gt;歡迎任何建議、回饋和意見。 </translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1426"/>
@@ -3156,7 +3156,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgCapture.ui" line="166"/>
         <source>Open in Draw mode</source>
-        <translation>以繪圖模式開啟</translation>
+        <translation>以繪製模式開啟</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="175"/>
@@ -3329,7 +3329,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgClean.ui" line="115"/>
         <source>ICC profile</source>
-        <translation>ICC色彩特性檔案</translation>
+        <translation>ICC 色彩特性檔案</translation>
     </message>
     <message>
         <location filename="DlgClean.ui" line="122"/>
@@ -3389,12 +3389,12 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgConbright.ui" line="19"/>
         <source>Conbright</source>
-        <translation>亮麗(Conbright)</translation>
+        <translation>對比與亮度 (線性調整)</translation>
     </message>
     <message>
         <location filename="DlgConbright.ui" line="73"/>
         <source>Gammasat</source>
-        <translation>亮眼(Gammasat)</translation>
+        <translation>伽瑪與飽和度 (非線性調整)</translation>
     </message>
 </context>
 <context>
@@ -3669,12 +3669,12 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgContactSheet.cpp" line="390"/>
         <source>Letter (8.5x11 inch)</source>
-        <translation>Letter (8.5x11 英吋)</translation>
+        <translation>Letter (8.5x11 英吋) 北美標準列印紙</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.cpp" line="392"/>
         <source>Legal (8.5x14 inch)</source>
-        <translation>Legal (8.5x14 英吋)</translation>
+        <translation>Legal (8.5x14 英吋) 美國法律規格紙</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.cpp" line="394"/>
@@ -3735,7 +3735,7 @@ Do you want to overwrite it?</oldsource>
         <location filename="DlgConvert.cpp" line="1187"/>
         <source>&lt;br&gt;XnConvert is provided as freeware for private (non commercial), or educational use, including non-profit organization. &lt;br&gt;Company must purchase licenses to be able to use it.&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </source>
         <oldsource>&lt;br&gt;XnConvert is provided as freeware&lt;br&gt;&lt;br&gt;You are granted the right to use and to make an unlimited number of copies of these software.&lt;br&gt;&lt;br&gt;These software are provided &quot;as-is&quot;.&lt;br&gt;No warranty of any kind is expressed or implied.&lt;br&gt;The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.&lt;br&gt;&lt;br&gt;Any suggestions, feedback and comments are welcome. </oldsource>
-        <translation>&lt;br&gt;XnConvert是以免費軟體(Freeware)方式提供給私人(非商業性質)或教育使用，包括非營利組織。 &lt;br&gt;一般公司必須購買授權才可使用。&lt;br&gt;&lt;br&gt;您被予可使用及不限套數複製這些軟體的權利。&lt;br&gt;&lt;br&gt;這些軟體如原樣提供。&lt;br&gt;不做任何明示或暗示的保證。&lt;br&gt;作者不承擔使用或誤用此軟體所導致資料的遺失損壞、利潤損失或任何種類的損失。&lt;br&gt;&lt;br&gt;歡迎任何建議、回饋和意見。 </translation>
+        <translation>&lt;br&gt;XnConvert是以免費軟體(Freeware)方式提供給私人(非商業性質)或教育使用，包括非營利組織。 &lt;br&gt;一般公司必須購買授權才可使用。&lt;br&gt;&lt;br&gt;您被給予可使用及不限套數複製這些軟體的權利。&lt;br&gt;&lt;br&gt;這些軟體如原樣提供。&lt;br&gt;不做任何明示或暗示的保證。&lt;br&gt;作者不承擔使用或誤用此軟體所導致資料的遺失損壞、利潤損失或任何種類的損失。&lt;br&gt;&lt;br&gt;歡迎任何建議、回饋和意見。 </translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1359"/>
@@ -4385,7 +4385,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertBorder.ui" line="54"/>
         <source>Frame 1</source>
-        <translation>邊框 1</translation>
+        <translation>框格 1</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="68"/>
@@ -4420,12 +4420,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertBorder.ui" line="148"/>
         <source>Frame 2</source>
-        <translation>邊框 2</translation>
+        <translation>框格 2</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="242"/>
         <source>Frame 3</source>
-        <translation>邊框 3</translation>
+        <translation>框格 3</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="336"/>
@@ -4521,7 +4521,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertCanvas.ui" line="48"/>
         <source>Original size</source>
-        <translation>原始大小</translation>
+        <translation>原始尺寸</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="53"/>
@@ -4626,7 +4626,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertCanvas.ui" line="394"/>
         <source>Alpha</source>
-        <translation>遮色(Alpha)</translation>
+        <translation>透明色版</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="480"/>
@@ -5217,12 +5217,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="1604"/>
         <source>Light</source>
-        <translation>淡</translation>
+        <translation>淺色</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1609"/>
         <source>Dark</source>
-        <translation>深</translation>
+        <translation>深色</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1634"/>
@@ -5438,7 +5438,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertColors.ui" line="85"/>
         <source>Background color to use if image has an alpha channel</source>
-        <translation>影像有遮色(alpha chaneel)時使用的背景色</translation>
+        <translation>影像有透明色版時使用的背景色</translation>
     </message>
     <message>
         <location filename="DlgConvertColors.ui" line="143"/>
@@ -5448,18 +5448,18 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertColors.ui" line="166"/>
         <source>Alpha</source>
-        <translation>遮色(Alpha)</translation>
+        <translation>透明色版</translation>
     </message>
     <message>
         <location filename="DlgConvertColors.ui" line="35"/>
         <source>Replace alpha for 32bits images</source>
         <oldsource>Replace alpha for 32bits pictures</oldsource>
-        <translation>替換 32 位元影像的遮色(alpha)</translation>
+        <translation>替換 32 位元影像的透明色版</translation>
     </message>
     <message>
         <location filename="DlgConvertColors.ui" line="111"/>
         <source>Binary</source>
-        <translation>黑白</translation>
+        <translation>二值/黑白</translation>
     </message>
 </context>
 <context>
@@ -5705,7 +5705,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertExtractChan.ui" line="38"/>
         <source>Alpha</source>
-        <translation>遮色(Alpha)</translation>
+        <translation>透明色版</translation>
     </message>
 </context>
 <context>
@@ -5746,7 +5746,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertICC.h" line="24"/>
         <location filename="DlgConvertICC.h" line="32"/>
         <source>Load ICC profile</source>
-        <translation>載入 ICC色彩特性檔案</translation>
+        <translation>載入 ICC 色彩特性檔案</translation>
     </message>
 </context>
 <context>
@@ -5754,12 +5754,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertICC.ui" line="17"/>
         <source>Input profile (sRGB by default)</source>
-        <translation>輸入配置 (預設為sRGB)</translation>
+        <translation>輸入配置 (預設為標準紅綠藍(sRGB) )</translation>
     </message>
     <message>
         <location filename="DlgConvertICC.ui" line="54"/>
         <source>Output profile (sRGB by default)</source>
-        <translation>輸出配置 (預設為sRGB)</translation>
+        <translation>輸出配置 (預設為標準紅綠藍(sRGB) )</translation>
     </message>
     <message>
         <location filename="DlgConvertICC.ui" line="93"/>
@@ -6004,7 +6004,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertMask.ui" line="150"/>
         <source>Use mask as alpha</source>
-        <translation>使用遮罩作為遮色(alpha)</translation>
+        <translation>使用遮罩作為透明色版</translation>
     </message>
 </context>
 <context>
@@ -6054,7 +6054,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertNoise.ui" line="32"/>
         <source>Laplacian</source>
-        <translation>拉普拉斯</translation>
+        <translation>拉普拉斯算子</translation>
     </message>
     <message>
         <location filename="DlgConvertNoise.ui" line="37"/>
@@ -6128,7 +6128,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertOffset.ui" line="257"/>
         <source>Wrap image around</source>
-        <translation>回繞影像</translation>
+        <translation type="unfinished">回繞影像</translation>
     </message>
 </context>
 <context>
@@ -6141,7 +6141,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertOldCamera.ui" line="54"/>
         <source>Sepia</source>
-        <translation>復古色調</translation>
+        <translation>棕褐色/烏賊色 (復古)</translation>
     </message>
     <message>
         <location filename="DlgConvertOldCamera.ui" line="61"/>
@@ -6344,7 +6344,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertResize.ui" line="45"/>
         <source>Original size</source>
-        <translation>原始大小</translation>
+        <translation>原始尺寸</translation>
     </message>
     <message>
         <location filename="DlgConvertResize.ui" line="50"/>
@@ -6458,7 +6458,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertResize.ui" line="391"/>
         <source>Use gamma correction</source>
-        <translation>使用伽瑪修正(濃度)</translation>
+        <translation>使用伽瑪修正</translation>
     </message>
     <message>
         <location filename="DlgConvertResize.ui" line="398"/>
@@ -6798,17 +6798,17 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertText.ui" line="338"/>
         <source>Style</source>
-        <translation>樣式</translation>
+        <translation>風格</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="345"/>
         <source>B</source>
-        <translation>粗體字</translation>
+        <translation>粗體</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="358"/>
         <source>I</source>
-        <translation>斜體字</translation>
+        <translation>斜體</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="368"/>
@@ -6976,7 +6976,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertWatermark.ui" line="339"/>
         <source>Don&apos;t use alpha channel</source>
-        <translation>勿使用遮色(Alpha Channel)</translation>
+        <translation>勿使用透明色版</translation>
     </message>
     <message>
         <location filename="DlgConvertWatermark.ui" line="31"/>
@@ -7760,7 +7760,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgEmail.ui" line="181"/>
         <source>Convert to JPEG (if needed)</source>
-        <translation>轉換成JPEG(視需要性)</translation>
+        <translation>轉換成JPEG (視需要性)</translation>
     </message>
     <message>
         <location filename="DlgEmail.ui" line="207"/>
@@ -7793,7 +7793,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgEmailSettings.ui" line="36"/>
         <source>SMTP server:</source>
-        <translation>SMTP伺服器:</translation>
+        <translation>SMTP 伺服器:</translation>
     </message>
     <message>
         <location filename="DlgEmailSettings.ui" line="46"/>
@@ -7832,7 +7832,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgEmailSettings.ui" line="181"/>
         <source>Use secure connection (SSL)</source>
-        <translation>使用安全性連線(SSL)</translation>
+        <translation>使用安全性連線 (SSL)</translation>
     </message>
     <message>
         <location filename="DlgEmailSettings.ui" line="190"/>
@@ -7905,7 +7905,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgEnhanceColors.ui" line="505"/>
         <source>Tint</source>
-        <translation>染色</translation>
+        <translation>色調/染色</translation>
     </message>
 </context>
 <context>
@@ -8083,7 +8083,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="337"/>
         <source>Progressive</source>
-        <translation>漸進式載入</translation>
+        <translation>漸進式載入(顯示)</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="390"/>
@@ -8578,7 +8578,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFtp.cpp" line="433"/>
         <source>Connecting to FTP server %1...</source>
-        <translation>連接到FTP伺服器 %1...</translation>
+        <translation>連接到 FTP 伺服器 %1...</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="498"/>
@@ -8603,7 +8603,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFtp.cpp" line="574"/>
         <source>Unable to connect to the FTP server at %1. Please check if the username and password is correct.</source>
-        <translation>無法連接到 %1 的FTP伺服器. 請檢查帳號和密碼是否正確.</translation>
+        <translation>無法連接到 %1 的 FTP 伺服器. 請檢查帳號和密碼是否正確.</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="585"/>
@@ -8633,7 +8633,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFtp.cpp" line="561"/>
         <source>Unable to connect to the FTP server at %1. Please check that the host name is correct.</source>
-        <translation>無法連接到 %1 的FTP伺服器. 請檢查主機名稱是否正確.</translation>
+        <translation>無法連接到 %1 的 FTP 伺服器. 請檢查主機名稱是否正確.</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="566"/>
@@ -8651,7 +8651,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFtp.ui" line="14"/>
         <source>Upload to an FTP server</source>
-        <translation>上傳到FTP伺服器</translation>
+        <translation>上傳到 FTP 伺服器</translation>
     </message>
     <message>
         <location filename="DlgFtp.ui" line="35"/>
@@ -8760,12 +8760,12 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFtp.h" line="305"/>
         <source>Unable to connect to the FTP server at %1. Please check that the host name is correct.</source>
-        <translation>無法連接到 %1 的FTP伺服器. 請檢查主機名稱是否正確.</translation>
+        <translation>無法連接到 %1 的 FTP 伺服器. 請檢查主機名稱是否正確.</translation>
     </message>
     <message>
         <location filename="DlgFtp.h" line="317"/>
         <source>Unable to connect to the FTP server at %1. Please check if the username and password is correct.</source>
-        <translation>無法連接到 %1 的FTP伺服器. 請檢查帳號和密碼是否正確.</translation>
+        <translation>無法連接到 %1 的 FTP 伺服器. 請檢查帳號和密碼是否正確.</translation>
     </message>
     <message>
         <location filename="DlgFtp.h" line="322"/>
@@ -8798,7 +8798,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgGoXY.ui" line="133"/>
         <source>Real size</source>
-        <translation>實際大小檢視</translation>
+        <translation>真實尺寸</translation>
     </message>
 </context>
 <context>
@@ -10206,12 +10206,12 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPrint.ui" line="754"/>
         <source>Header/Footer</source>
-        <translation>頁眉/頁腳(標頭/標尾)</translation>
+        <translation>頁眉/頁腳 (標頭/標尾)</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="787"/>
         <source>Header</source>
-        <translation>頁眉(標頭)</translation>
+        <translation>頁眉 (標頭)</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="801"/>
@@ -10421,7 +10421,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgReadCRaw.ui" line="123"/>
         <source>Convert to sRGB</source>
-        <translation>轉換為 sRGB</translation>
+        <translation>轉換為標準紅綠藍(sRGB)</translation>
     </message>
 </context>
 <context>
@@ -10429,7 +10429,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgReadFITS.ui" line="22"/>
         <source>FITS Display</source>
-        <translation>FITS 檢視器</translation>
+        <translation>FITS格式檔案 檢視器</translation>
     </message>
     <message>
         <location filename="DlgReadFITS.ui" line="30"/>
@@ -10498,7 +10498,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgReadPCD.ui" line="22"/>
         <source>PCD size</source>
-        <translation>PCD 尺寸</translation>
+        <translation>PCD 格式檔案之影像尺寸 (解析度)</translation>
     </message>
 </context>
 <context>
@@ -10521,17 +10521,17 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgReadPDF.ui" line="69"/>
         <source>Ledger</source>
-        <translation>Ledger (總分類帳)</translation>
+        <translation>Ledger (美制帳簿紙)</translation>
     </message>
     <message>
         <location filename="DlgReadPDF.ui" line="74"/>
         <source>Legal</source>
-        <translation>Legal (法律規格紙)</translation>
+        <translation>Legal (美國法律規格紙)</translation>
     </message>
     <message>
         <location filename="DlgReadPDF.ui" line="79"/>
         <source>Letter</source>
-        <translation>Letter (信紙)</translation>
+        <translation>Letter (北美標準列印紙)</translation>
     </message>
     <message>
         <location filename="DlgReadPDF.ui" line="84"/>
@@ -10549,7 +10549,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgReadPSD.ui" line="23"/>
         <source>Fix alpha channel</source>
-        <translation>修復遮色(Alpha)</translation>
+        <translation>修復透明色版</translation>
     </message>
 </context>
 <context>
@@ -11129,7 +11129,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgResize.ui" line="416"/>
         <source>Use gamma correction</source>
-        <translation>使用伽瑪修正(濃度)</translation>
+        <translation>使用伽瑪修正</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="425"/>
@@ -12078,7 +12078,7 @@ Do you want to remove entries assigned to a category?</oldsource>
         <location filename="DlgSettingsCache.ui" line="186"/>
         <location filename="DlgSettingsCache.ui" line="236"/>
         <source>MiB</source>
-        <translation>MiB (二進位百萬位元組)</translation>
+        <translation>MiB (二進位 MB)</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="213"/>
@@ -12189,12 +12189,12 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettingsCache.ui" line="597"/>
         <source>Always exclude removable drives</source>
-        <translation>永遠排除可移除式儲存設備</translation>
+        <translation>永遠排除可移除式儲存裝置</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="604"/>
         <source>Always exclude CD/DVD drives</source>
-        <translation>永遠排除 CD/DVD 儲存設備</translation>
+        <translation>永遠排除 CD/DVD 儲存裝置</translation>
     </message>
 </context>
 <context>
@@ -12432,13 +12432,13 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="254"/>
         <source>Custom filter</source>
-        <translation>自訂&apos;檢視方式篩選器&apos;</translation>
+        <translation>自訂(檔案列表篩選)</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="260"/>
         <source>Used by Filter › Custom</source>
         <oldsource>Used by Filter&gt;Custom</oldsource>
-        <translation>此設定將被用於 &apos;(檢視 &gt;) 檢視方式篩選器 › 自訂&apos;</translation>
+        <translation>此設定將被用於 &apos;(檢視 &gt;) 檔案列表篩選 › 自訂&apos;</translation>
     </message>
 </context>
 <context>
@@ -12578,7 +12578,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="156"/>
         <source>Show all graphic formats</source>
-        <translation>顯示所有繪圖格式</translation>
+        <translation>顯示所有影像格式</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="170"/>
@@ -12719,7 +12719,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="102"/>
         <source>Dark</source>
-        <translation>暗色</translation>
+        <translation>深色</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="107"/>
@@ -12897,7 +12897,7 @@ Thumbnail</source>
         <location filename="DlgSettingsGeneral.ui" line="842"/>
         <source>Use ICC profile for monitor (slower)</source>
         <oldsource>Use ICC profile (slower)</oldsource>
-        <translation>對顯示器使用 ICC色彩特性檔案 (較慢)</translation>
+        <translation>對顯示器使用 ICC 色彩特性檔案 (較慢)</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="873"/>
@@ -12946,7 +12946,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="926"/>
         <source>sRGB</source>
-        <translation></translation>
+        <translation>標準紅綠藍(sRGB)</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="980"/>
@@ -13038,7 +13038,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="687"/>
         <source>XnViewMP is a fast multi-format graphics browser, viewer, and converter. It reads more than 400 file formats.</source>
-        <translation>XnViewMP 是一個快速的多格式繪圖瀏覽、觀看、轉換的軟體.可讀取超過400種以上的檔案格式.</translation>
+        <translation>XnViewMP 是一個快速的多格式影像瀏覽、觀看、轉換的軟體.可讀取超過400種以上的檔案格式.</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="688"/>
@@ -13271,7 +13271,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="118"/>
         <source>Purge &apos;Recent files and folders&apos; on exit</source>
-        <translation>離開時清除 &quot;最近使用的檔案和資料夾&quot; 紀錄</translation>
+        <translation>離開時清除&apos;最近使用的檔案和資料夾&apos;紀錄</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="221"/>
@@ -13920,7 +13920,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="214"/>
         <source>XMP (dc:description and exif:UserComment)</source>
-        <translation>XMP (dc:描述、exif:使用者評註)</translation>
+        <translation>XMP (dc:描述 和 exif:使用者評註)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="370"/>
@@ -13954,12 +13954,12 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="159"/>
         <source>Update catalog when file is modified outside (file date/size)</source>
-        <translation>當檔案在外部有被修改過, 便更新類別目錄 (以 &quot;檔案日期/大小&quot; 作判斷)</translation>
+        <translation>當檔案在外部有被修改過, 便更新類別目錄 (以&apos;檔案日期/大小&apos;作判斷)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="230"/>
         <source>Update keywords when file is modified outside (file date/size)</source>
-        <translation>當檔案在外部被修改過, 便更新關鍵字 (以 &quot;檔案日期/大小&quot; 做判斷)</translation>
+        <translation>當檔案在外部被修改過, 便更新關鍵字 (以&apos;檔案日期/大小&apos;做判斷)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="246"/>
@@ -14118,7 +14118,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="103"/>
         <source>Use alpha channel</source>
-        <translation>使用遮色(alpha channel)</translation>
+        <translation>使用透明色版</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="110"/>
@@ -14140,7 +14140,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="133"/>
         <source>Use gamma correction</source>
-        <translation>使用伽瑪修正(濃度)</translation>
+        <translation>使用伽瑪修正</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="173"/>
@@ -14205,7 +14205,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1229"/>
         <source>Label colors</source>
-        <translation>標籤色彩</translation>
+        <translation>標示色彩</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1235"/>
@@ -14461,7 +14461,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="224"/>
         <source>Use gamma correction</source>
-        <translation>使用伽瑪修正(濃度)</translation>
+        <translation>使用伽瑪修正</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="193"/>
@@ -14541,7 +14541,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="641"/>
         <source>(From Settings › File list › Custom Filter)</source>
         <oldsource>(From Settings&gt;File list&gt;Custom Filter)</oldsource>
-        <translation>(來自 &apos;設定 › 檔案列表 › 自訂檢視方式篩選器&apos; )</translation>
+        <translation>(來自 &apos;設定 › 檔案列表 › 自訂(檔案列表篩選)&apos; )</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="842"/>
@@ -14771,7 +14771,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="892"/>
         <source>Support HTML tags</source>
-        <translation>支援HTML標籤</translation>
+        <translation>支援 HTML 標籤</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1095"/>
@@ -14971,7 +14971,7 @@ Do you want to reassign?</source>
         <location filename="DlgSimilarResult.ui" line="443"/>
         <location filename="DlgSimilarResult.ui" line="582"/>
         <source>Dimensions</source>
-        <translation>尺寸/像素大小 (以像素計)</translation>
+        <translation>維度尺寸 (以像素計)</translation>
     </message>
     <message>
         <location filename="DlgSimilarResult.ui" line="464"/>
@@ -15343,12 +15343,12 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgStartupWizard.ui" line="61"/>
         <source>Light</source>
-        <translation>淡</translation>
+        <translation>淺色</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="66"/>
         <source>Dark</source>
-        <translation>深</translation>
+        <translation>深色</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="71"/>
@@ -16157,7 +16157,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgVideoGallery.ui" line="208"/>
         <source>Draw border</source>
-        <translation>畫邊框</translation>
+        <translation>繪製邊框</translation>
     </message>
     <message>
         <location filename="DlgVideoGallery.ui" line="233"/>
@@ -16365,7 +16365,7 @@ Do you want to continue?</source>
         <location filename="DlgWriteJP2K.ui" line="138"/>
         <source>File size (kB)</source>
         <oldsource>File size (kbytes)</oldsource>
-        <translation>檔案大小 (千位元組)</translation>
+        <translation>檔案大小 (kB)</translation>
     </message>
 </context>
 <context>
@@ -16688,7 +16688,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteWebP.ui" line="42"/>
         <source>Drawing</source>
-        <translation>繪圖</translation>
+        <translation>繪製</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="47"/>
@@ -16730,7 +16730,7 @@ Do you want to continue?</source>
         <location filename="DlgWriteWebP.ui" line="173"/>
         <source>File size (kB)</source>
         <oldsource>File size (kbytes)</oldsource>
-        <translation>檔案大小 (千位元組)</translation>
+        <translation>檔案大小 (kB)</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="207"/>
@@ -17246,7 +17246,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPropertiesView.cpp" line="70"/>
         <location filename="InfoPropertiesView.cpp" line="72"/>
         <source>Dimension</source>
-        <translation>尺寸/像素大小 (以像素計)</translation>
+        <translation>維度尺寸 (以像素計)</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="73"/>
@@ -17761,7 +17761,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2848"/>
         <source>Size (kB)</source>
         <oldsource>Size (KB)</oldsource>
-        <translation>大小 (千位元組)</translation>
+        <translation>大小 (kB)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2629"/>
@@ -19632,7 +19632,7 @@ Do you want to continue?</oldsource>
         <location filename="ItemSelection.cpp" line="130"/>
         <source>Please select which group to use</source>
         <oldsource>Please select which group to use?</oldsource>
-        <translation>請選擇要操作的群體</translation>
+        <translation>請選取要使用的括號群組</translation>
     </message>
 </context>
 <context>
@@ -20262,12 +20262,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="668"/>
         <source>Show clipping</source>
-        <translation>顯示裁切部位</translation>
+        <translation>顯示遮色</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="669"/>
         <source>Channel clipping</source>
-        <translation>色版裁切</translation>
+        <translation>遮色色版</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="677"/>
@@ -20865,7 +20865,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="514"/>
         <source>Filter by</source>
-        <translation>檢視方式篩選器</translation>
+        <translation>檔案列表篩選</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="515"/>
@@ -21198,12 +21198,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="642"/>
         <source>Real size</source>
-        <translation>實際大小檢視</translation>
+        <translation>真實尺寸</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="643"/>
         <source>100%</source>
-        <translation>100% 像素大小檢視</translation>
+        <translation>100%</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="644"/>
@@ -21229,12 +21229,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="648"/>
         <source>Use alpha channel</source>
-        <translation>使用遮色(alpha Channel)</translation>
+        <translation>使用透明色版</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="649"/>
         <source>Show alpha</source>
-        <translation>顯示遮色(alpha)</translation>
+        <translation>顯示透明色版</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="650"/>
@@ -21328,7 +21328,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="688"/>
         <source>Select TWAIN source...</source>
-        <translation>選擇 TWAIN 影像擷取來源...</translation>
+        <translation>選擇 TWAIN 影像擷取來源裝置...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="831"/>
@@ -21724,7 +21724,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="253"/>
         <source>Alpha</source>
-        <translation>遮色(Alpha)</translation>
+        <translation>透明色版</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="258"/>
@@ -22033,12 +22033,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="428"/>
         <source>Real size</source>
-        <translation>實際大小檢視</translation>
+        <translation>真實尺寸</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="429"/>
         <source>100%</source>
-        <translation>100% 像素大小檢視</translation>
+        <translation>100%</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="430"/>
@@ -22084,12 +22084,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="440"/>
         <source>Use alpha channel</source>
-        <translation>使用遮色(alpha Channel)</translation>
+        <translation>使用透明色版</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="441"/>
         <source>Show alpha</source>
-        <translation>顯示遮色(alpha)</translation>
+        <translation>顯示透明色版</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="442"/>
@@ -22146,7 +22146,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="503"/>
         <source>Automatic crop...</source>
-        <translation>自動裁剪...</translation>
+        <translation>自動裁切...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="538"/>
@@ -22183,7 +22183,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="473"/>
         <source>Draw...</source>
-        <translation>繪圖...</translation>
+        <translation>繪製...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="474"/>
@@ -22253,7 +22253,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="514"/>
         <source>Remove alpha channel</source>
-        <translation>移除遮色(alpha Channel)</translation>
+        <translation>移除透明色版</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="521"/>
@@ -22394,7 +22394,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="554"/>
         <source>Select TWAIN source...</source>
-        <translation>選擇 TWAIN 影像擷取來源...</translation>
+        <translation>選擇 TWAIN 影像擷取來源裝置...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="558"/>
@@ -22468,17 +22468,17 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="459"/>
         <source>Show clipping</source>
-        <translation>顯示裁切部位</translation>
+        <translation>顯示遮色</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="460"/>
         <source>Channel clipping</source>
-        <translation>色版裁切</translation>
+        <translation>遮色色版</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="461"/>
         <source>Highlight &amp;&amp; Shadow clipping</source>
-        <translation>高光/陰影 裁切</translation>
+        <translation>高光 &amp;&amp; 陰影 遮色</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="463"/>
@@ -22518,7 +22518,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="479"/>
         <source>Automatic contrast</source>
-        <translation>自動對比</translation>
+        <translation>自動對比度</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="480"/>
@@ -22539,27 +22539,27 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="483"/>
         <source>Equalize</source>
-        <translation>補償</translation>
+        <translation>直方圖均衡化</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="484"/>
         <source>Solarize...</source>
-        <translation>過度曝光...</translation>
+        <translation>中途曝光...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="485"/>
         <source>Posterize...</source>
-        <translation>色調分離...</translation>
+        <translation>色調分離/多色調分色...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="486"/>
         <source>Sepia...</source>
-        <translation>復古...</translation>
+        <translation>棕褐色/烏賊色 (復古)...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="487"/>
         <source>Old camera...</source>
-        <translation>舊式相機...</translation>
+        <translation>舊式底片相機...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="488"/>
@@ -22589,12 +22589,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="504"/>
         <source>Remove horizontal strip</source>
-        <translation>移除水平條</translation>
+        <translation>去除水平條紋</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="505"/>
         <source>Remove vertical strip</source>
-        <translation>移除垂直條</translation>
+        <translation>去除垂直條紋</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="510"/>
@@ -22684,7 +22684,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewCropAction.cpp" line="150"/>
         <source>US Letter (1.29)</source>
-        <translation></translation>
+        <translation>US Letter (1.29) 北美標準列印紙</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="151"/>
@@ -22722,17 +22722,17 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="Helper.h" line="120"/>
         <source>GiB</source>
-        <translation>GiB (二進位百萬兆位元組)</translation>
+        <translation>GiB (二進位 GB)</translation>
     </message>
     <message>
         <location filename="Helper.h" line="125"/>
         <source>MiB</source>
-        <translation>MiB (二進位百萬位元組)</translation>
+        <translation>MiB (二進位 MB)</translation>
     </message>
     <message>
         <location filename="Helper.h" line="130"/>
         <source>KiB</source>
-        <translation>KiB (二進位千位元組)</translation>
+        <translation>KiB (二進位 kB)</translation>
     </message>
     <message>
         <location filename="Helper.h" line="135"/>
@@ -23030,12 +23030,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyHistogram.cpp" line="227"/>
         <source>Show clipping</source>
-        <translation>顯示裁切部位</translation>
+        <translation>顯示遮色</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="236"/>
         <source>Clipping mode</source>
-        <translation>裁切模式</translation>
+        <translation>遮色模式</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="254"/>
@@ -23060,12 +23060,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyHistogram.cpp" line="263"/>
         <source>Dark background</source>
-        <translation>偏暗背景</translation>
+        <translation>深色背景</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="270"/>
         <source>Light background</source>
-        <translation>偏亮背景</translation>
+        <translation>淺色背景</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="276"/>
@@ -23083,7 +23083,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyLittleToolBar.h" line="774"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation>點擊左圖示可切換滑桿功能為：&lt;br&gt;「縮圖的固定大小 (像素)」或「每列縮圖的固定數量」</translation>
+        <translation>點擊左圖示切換滑桿的 2 種模式：&lt;br&gt;調整縮圖的固定尺寸(像素) / 調整縮圖的每列固定數量</translation>
     </message>
 </context>
 <context>
@@ -23091,7 +23091,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyLittleToolBar.h" line="385"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation>點擊左圖示可切換滑桿功能為：&lt;br&gt;「縮圖的固定大小 (像素)」或「每列縮圖的固定數量」</translation>
+        <translation>點擊左圖示切換滑桿的 2 種模式：&lt;br&gt;調整縮圖的固定尺寸(像素) / 調整縮圖的每列固定數量</translation>
     </message>
 </context>
 <context>
@@ -23166,7 +23166,7 @@ You can change it in Settings › Catalog.</source>
         <oldsource>Size of cached thumbnails is smaller than choosen one. 
 You can change it in Settings › Catalog.</oldsource>
         <translation>快取縮圖的尺寸小於所選尺寸.
-您可以在 &quot;設定 &gt; 類別目錄&quot; 中變更此設定.</translation>
+您可以在 &apos;設定 &gt; 類別目錄&apos; 中變更此設定.</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="761"/>
@@ -23260,7 +23260,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="OpenWithMenu.cpp" line="381"/>
         <source>Configure programs...</source>
-        <translation>設定程式組態...</translation>
+        <translation>程式設定...</translation>
     </message>
 </context>
 <context>
@@ -23287,12 +23287,12 @@ You can change it in Settings › Catalog.</oldsource>
         <location filename="PaintDialog.cpp" line="64"/>
         <source>Do you want to exit drawing and discard your changes?</source>
         <oldsource>Do you want to close the draw tools?</oldsource>
-        <translation>您確定要離開繪圖並放棄您已做的更改？</translation>
+        <translation>您確定要離開繪製並放棄您已做的更改？</translation>
     </message>
     <message>
         <location filename="PaintDialog.cpp" line="64"/>
         <source>Draw</source>
-        <translation>繪圖</translation>
+        <translation>繪製</translation>
     </message>
 </context>
 <context>
@@ -23320,7 +23320,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="PaintWidget.ui" line="20"/>
         <source>Draw</source>
-        <translation>繪圖</translation>
+        <translation>繪製</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="391"/>
@@ -23363,7 +23363,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="PaintWidget.ui" line="222"/>
         <source>Draw an ellipse</source>
-        <translation>畫橢圓</translation>
+        <translation>繪製橢圓</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="225"/>
@@ -23378,17 +23378,17 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="PaintWidget.ui" line="63"/>
         <source>Select</source>
-        <translation>選擇</translation>
+        <translation>選取</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="159"/>
         <source>Draw a rectangle</source>
-        <translation>畫框</translation>
+        <translation>繪製一個矩形</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="299"/>
         <source>Draw a line</source>
-        <translation>畫線</translation>
+        <translation>繪製一個線條</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="302"/>
@@ -23465,7 +23465,7 @@ You can change it in Settings › Catalog.</oldsource>
         <location filename="PaintWidget.ui" line="503"/>
         <source>Style</source>
         <oldsource>Style:</oldsource>
-        <translation>樣式:</translation>
+        <translation>風格</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="531"/>
@@ -23614,7 +23614,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="PaintWidget.cpp" line="425"/>
         <source>Draw [%1]</source>
-        <translation>畫 [%1]</translation>
+        <translation>繪製 [%1]</translation>
     </message>
     <message>
         <location filename="PaintWidget.cpp" line="576"/>
@@ -23928,7 +23928,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="qtcopydialog.cpp" line="70"/>
         <source>%1 kB</source>
-        <translation>%1 千位元組</translation>
+        <translation>%1 kB</translation>
     </message>
     <message>
         <location filename="qtcopydialog.cpp" line="73"/>
@@ -23943,7 +23943,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="qtcopydialog.cpp" line="343"/>
         <source>100% of %1 (Done)</source>
-        <translation>100% of %1 (已完成)</translation>
+        <translation>100% 的 %1 (已完成)</translation>
     </message>
     <message>
         <location filename="qtcopydialog.cpp" line="482"/>
@@ -23958,7 +23958,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="qtcopydialog.cpp" line="508"/>
         <source>%1 of %2 completed</source>
-        <translation>%1 of %2 已完成</translation>
+        <translation>%1 的 %2 已完成</translation>
     </message>
     <message>
         <location filename="qtcopydialog.cpp" line="515"/>
@@ -23968,7 +23968,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="qtcopydialog.cpp" line="515"/>
         <source>Moving...</source>
-        <translation>移動...</translation>
+        <translation>移動中...</translation>
     </message>
     <message>
         <location filename="qtcopydialog.cpp" line="517"/>
@@ -23978,7 +23978,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="qtcopydialog.cpp" line="518"/>
         <source>%1% of %2 (%3)</source>
-        <translation></translation>
+        <translation>%1% 的 %2 (%3)</translation>
     </message>
     <message>
         <location filename="qtcopydialog.cpp" line="522"/>
@@ -23988,12 +23988,12 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="qtcopydialog.cpp" line="534"/>
         <source>%1/s ( %2 remaining )</source>
-        <translation>%1/s ( 剩%2 )</translation>
+        <translation>%1/s (剩餘 %2 )</translation>
     </message>
     <message>
         <location filename="qtcopydialog.ui" line="22"/>
         <source>24% of 100MB (Copying...)</source>
-        <translation>24% of 100MB (複製中...)</translation>
+        <translation>24% 的 100MB (複製中...)</translation>
     </message>
     <message>
         <location filename="qtcopydialog.ui" line="50"/>
@@ -24008,7 +24008,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="qtcopydialog.ui" line="135"/>
         <source>10 MB of 100 MB completed</source>
-        <translation>10 MB of 100 MB 已完成</translation>
+        <translation>10 MB 的 100 MB 已完成</translation>
     </message>
     <message>
         <location filename="qtcopydialog.ui" line="142"/>
@@ -24395,17 +24395,17 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="SearchField.cpp" line="1145"/>
         <source>KiB</source>
-        <translation>KiB (二進位千位元組)</translation>
+        <translation>KiB (二進位 kB)</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="1146"/>
         <source>MiB</source>
-        <translation>MiB (二進位百萬位元組)</translation>
+        <translation>MiB (二進位 MB)</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="1147"/>
         <source>GiB</source>
-        <translation>GiB (二進位百萬兆位元組)</translation>
+        <translation>GiB (二進位 GB)</translation>
     </message>
 </context>
 <context>
@@ -24441,17 +24441,17 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="SearchGroup.ui" line="92"/>
         <source>Match inside this group</source>
-        <translation>在此組合內部進行匹配</translation>
+        <translation>在此括號群組內進行匹配</translation>
     </message>
     <message>
         <location filename="SearchGroup.ui" line="100"/>
         <source>AND</source>
-        <translation>AND (且)</translation>
+        <translation>且</translation>
     </message>
     <message>
         <location filename="SearchGroup.ui" line="105"/>
         <source>OR</source>
-        <translation>OR (或)</translation>
+        <translation>或</translation>
     </message>
 </context>
 <context>
@@ -24584,7 +24584,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="VideoGalleryProcess.h" line="99"/>
         <source>Dimensions</source>
-        <translation>尺寸/像素大小 (以像素計)</translation>
+        <translation>維度尺寸 (以像素計)</translation>
     </message>
     <message>
         <location filename="VideoGalleryProcess.h" line="100"/>
@@ -24685,7 +24685,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="ViewSpotlightAction.cpp" line="125"/>
         <source>Remove last drawn rectangle</source>
-        <translation>移除上次畫的方框</translation>
+        <translation>移除上次繪製的矩形</translation>
     </message>
     <message>
         <location filename="ViewSpotlightAction.cpp" line="135"/>
@@ -24811,7 +24811,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="WriteSettingsWidget.ui" line="44"/>
         <source>Keep ICC profile</source>
-        <translation>保留 ICC色彩特性檔案</translation>
+        <translation>保留 ICC 色彩特性檔案</translation>
     </message>
 </context>
 <context>
@@ -24845,7 +24845,7 @@ Do you want to keep the thumbnails?
         <translation>XnViewMP 將升級類別目錄. 可能會花費一些時間.
 
 您要保留縮圖嗎？
- (若您選擇&quot;是&quot;, 則升級過程會執行得較久)</translation>
+ (若您選擇&apos;是&apos;, 則升級過程會執行得較久)</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="405"/>
@@ -24871,7 +24871,7 @@ Do you want to keep the thumbnails?
     <message>
         <location filename="xnview.cpp" line="493"/>
         <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
-        <translation>如果您想要使用 &quot;後製資料篩選器&quot; 中的新項目, 則您需要先更新類別目錄 (設定 &gt; 類別目錄 &gt; 更新後製資料) </translation>
+        <translation>如果您想要使用&apos;後製資料篩選器&apos;中的新項目, 則您需要先更新類別目錄 (設定 &gt; 類別目錄 &gt; 更新後製資料) </translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="889"/>
@@ -24906,7 +24906,7 @@ will not be saved to the database.</source>
     <message>
         <location filename="xnview.cpp" line="975"/>
         <source>Your previous session contains many loaded images, this can cause a slowdown!</source>
-        <translation>您的前次工作階段有過多載入影像, 可能拖慢速度！</translation>
+        <translation>您的前次工作階段有開啟著許多影像, 這可能會拖慢速度！</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="408"/>
@@ -24933,7 +24933,7 @@ Please contact the developer.</source>
         <location filename="xnview.cpp" line="1628"/>
         <source>Saving many tabs may noticeably slow application reopening.</source>
         <oldsource>Saving many tabs may noticeably slow reopening XnView MP</oldsource>
-        <translation>儲存太多頁籤可能明顯拖慢重開應用程式.</translation>
+        <translation>儲存太多頁籤可能會明顯拖慢重開應用程式.</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1634"/>
