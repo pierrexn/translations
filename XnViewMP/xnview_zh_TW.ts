@@ -447,7 +447,7 @@
     <message>
         <location filename="CategorySetPanel.cpp" line="388"/>
         <source>Create Set from selection...</source>
-        <translation>由選取建立類別集...</translation>
+        <translation>由選取建立類別合集...</translation>
     </message>
 </context>
 <context>
@@ -614,7 +614,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="1802"/>
         <source>Category Sets</source>
-        <translation>類別集</translation>
+        <translation>類別合集</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2047"/>
@@ -830,13 +830,13 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="CategorySetPanel.cpp" line="299"/>
         <source>Assign Set to selection</source>
         <oldsource>Assign Set to selection...</oldsource>
-        <translation>將子集指派給選取的項目</translation>
+        <translation>將子合輯指派給選取的項目</translation>
     </message>
     <message>
         <location filename="CategorySetPanel.cpp" line="300"/>
         <source>Unassign Set from selection</source>
         <oldsource>Unassign Set to selection...</oldsource>
-        <translation>將選取的項目從子集裡移出</translation>
+        <translation>將選取的項目從子合輯裡移出</translation>
     </message>
 </context>
 <context>
@@ -887,7 +887,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="CategorySets.cpp" line="427"/>
         <source>Enter a name for this set</source>
-        <translation>命名此子集</translation>
+        <translation>命名此子合輯</translation>
     </message>
     <message>
         <location filename="CategorySets.cpp" line="427"/>
@@ -1022,12 +1022,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="CategoryView.cpp" line="697"/>
         <source>Import collection</source>
-        <translation>匯入影像集</translation>
+        <translation>匯入影像合集</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="703"/>
         <source>Export collection</source>
-        <translation>匯出影像集</translation>
+        <translation>匯出影像合集</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="743"/>
@@ -2018,7 +2018,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="MyDB.cpp" line="885"/>
         <source>Drawings</source>
-        <translation>描繪</translation>
+        <translation>線條繪製圖</translation>
     </message>
     <message>
         <location filename="MyDB.cpp" line="886"/>
@@ -2168,7 +2168,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DlgAcquireInto.ui" line="14"/>
         <source>Batch acquire (TWAIN)</source>
         <oldsource>Batch scanning</oldsource>
-        <translation>批次擷取影像 (透過 TWAIN 協定, 直接從掃描器、相機等裝置擷取影像)</translation>
+        <translation>批次擷取影像 (透過 TWAIN 協定)</translation>
     </message>
     <message>
         <location filename="DlgAcquireInto.ui" line="28"/>
@@ -2465,7 +2465,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgBatchResize.ui" line="284"/>
         <source>Presets</source>
-        <translation>預設集</translation>
+        <translation>預設合集</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="292"/>
@@ -3206,7 +3206,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgCategorySetsSettings.ui" line="14"/>
         <source>Category Sets Settings</source>
-        <translation>類別集設定</translation>
+        <translation>類別合集設定</translation>
     </message>
     <message>
         <location filename="DlgCategorySetsSettings.ui" line="22"/>
@@ -3226,30 +3226,30 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgCategorySetsSettings.ui" line="57"/>
         <source>Copy Categories to Set...</source>
-        <translation>複製類別到子集...</translation>
+        <translation>複製類別到子合輯...</translation>
     </message>
     <message>
         <location filename="DlgCategorySetsSettings.ui" line="83"/>
         <source>Add Set...</source>
-        <translation>加入子集...</translation>
+        <translation>加入子合輯...</translation>
     </message>
     <message>
         <location filename="DlgCategorySetsSettings.ui" line="90"/>
         <source>Rename Set...</source>
-        <translation>重新命名子集...</translation>
+        <translation>重新命名子合輯...</translation>
     </message>
     <message>
         <location filename="DlgCategorySetsSettings.ui" line="97"/>
         <location filename="DlgCategorySetsSettings.cpp" line="255"/>
         <source>Delete Set</source>
-        <translation>刪除子集</translation>
+        <translation>刪除子合輯</translation>
     </message>
     <message>
         <location filename="DlgCategorySetsSettings.cpp" line="148"/>
         <location filename="DlgCategorySetsSettings.cpp" line="165"/>
         <location filename="DlgCategorySetsSettings.cpp" line="233"/>
         <source>Enter a name for this set</source>
-        <translation>命名此子集</translation>
+        <translation>命名此子合輯</translation>
     </message>
     <message>
         <location filename="DlgCategorySetsSettings.cpp" line="148"/>
@@ -3268,17 +3268,17 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgCategorySetsSettings.cpp" line="183"/>
         <source>Choose a Set</source>
-        <translation>選擇一個子集</translation>
+        <translation>選擇一個子合輯</translation>
     </message>
     <message>
         <location filename="DlgCategorySetsSettings.cpp" line="183"/>
         <source>Set:</source>
-        <translation>子集:</translation>
+        <translation>子合輯:</translation>
     </message>
     <message>
         <location filename="DlgCategorySetsSettings.cpp" line="255"/>
         <source>Do you want to delete current category set?</source>
-        <translation>您確定要刪除目前的類別集嗎？</translation>
+        <translation>您確定要刪除目前的類別合集嗎？</translation>
     </message>
 </context>
 <context>
@@ -3900,7 +3900,7 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgConvert.cpp" line="622"/>
         <source>Export log</source>
-        <translation>匯出(log)記錄</translation>
+        <translation>匯出 Log 記錄</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1541"/>
@@ -4511,7 +4511,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertCanvas.ui" line="35"/>
         <source>Presets</source>
-        <translation>預設集</translation>
+        <translation>預設合集</translation>
     </message>
     <message>
         <location filename="DlgConvertCanvas.ui" line="43"/>
@@ -4964,22 +4964,22 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="1906"/>
         <source>Presets:</source>
-        <translation>預設集:</translation>
+        <translation>預設合集:</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1913"/>
         <source>Load preset</source>
-        <translation>載入預設集</translation>
+        <translation>載入預設合集</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1946"/>
         <source>Save preset</source>
-        <translation>儲存預設集</translation>
+        <translation>儲存預設合集</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1960"/>
         <source>Remove preset from list</source>
-        <translation>從列表中移除預設集</translation>
+        <translation>從列表中移除預設合集</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="2104"/>
@@ -6128,7 +6128,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertOffset.ui" line="257"/>
         <source>Wrap image around</source>
-        <translation type="unfinished">回繞影像</translation>
+        <translation>回繞影像</translation>
     </message>
 </context>
 <context>
@@ -6334,7 +6334,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertResize.ui" line="32"/>
         <source>Presets</source>
-        <translation>預設集</translation>
+        <translation>預設合集</translation>
     </message>
     <message>
         <location filename="DlgConvertResize.ui" line="40"/>
@@ -8014,7 +8014,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExportCatalog.ui" line="14"/>
         <source>Catalog export</source>
-        <translation>類別目錄匯出</translation>
+        <translation>匯出類別目錄</translation>
     </message>
     <message>
         <location filename="DlgExportCatalog.ui" line="22"/>
@@ -8043,7 +8043,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="14"/>
         <source>Export</source>
-        <translation>匯出</translation>
+        <translation>匯出影像檔</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="57"/>
@@ -8083,7 +8083,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="337"/>
         <source>Progressive</source>
-        <translation>漸進式載入(顯示)</translation>
+        <translation>漸進式 載入/顯示</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="390"/>
@@ -8314,7 +8314,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFileListing.ui" line="36"/>
         <source>Columns presets:</source>
-        <translation>欄位預設集:</translation>
+        <translation>欄位預設合集:</translation>
     </message>
     <message>
         <location filename="DlgFileListing.ui" line="87"/>
@@ -8901,12 +8901,12 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgHistoryList.h" line="26"/>
         <source>Save preset</source>
-        <translation>儲存預設集</translation>
+        <translation>儲存預設合集</translation>
     </message>
     <message>
         <location filename="DlgHistoryList.h" line="27"/>
         <source>Preset name:</source>
-        <translation>預設集名稱:</translation>
+        <translation>預設合集名稱:</translation>
     </message>
 </context>
 <context>
@@ -9898,7 +9898,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPresetsManage.ui" line="14"/>
         <source>Edit presets</source>
-        <translation>編輯預設集</translation>
+        <translation>編輯預設合集</translation>
     </message>
 </context>
 <context>
@@ -9953,12 +9953,12 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgPrint.ui" line="72"/>
         <source>Collection</source>
         <oldsource>Pictures collection</oldsource>
-        <translation>影像集</translation>
+        <translation>影像合集</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="92"/>
         <source>Presets</source>
-        <translation>預設集</translation>
+        <translation>預設合集</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="121"/>
@@ -10329,17 +10329,17 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgProcess.ui" line="24"/>
         <source>Presets:</source>
-        <translation>預設集:</translation>
+        <translation>預設合集:</translation>
     </message>
     <message>
         <location filename="DlgProcess.ui" line="38"/>
         <source>Save preset</source>
-        <translation>儲存預設集</translation>
+        <translation>儲存預設合集</translation>
     </message>
     <message>
         <location filename="DlgProcess.ui" line="52"/>
         <source>Remove preset</source>
-        <translation>移除預設集</translation>
+        <translation>移除預設合集</translation>
     </message>
     <message>
         <location filename="DlgProcess.ui" line="78"/>
@@ -10721,27 +10721,27 @@ Do you want to remove them?</source>
         <location filename="DlgRename.cpp" line="1287"/>
         <location filename="DlgRename.cpp" line="1294"/>
         <source>Save preset</source>
-        <translation>儲存預設集</translation>
+        <translation>儲存預設合集</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1287"/>
         <source>Preset name:</source>
-        <translation>預設集名稱:</translation>
+        <translation>預設合集名稱:</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1295"/>
         <source>Preset &apos;%1&apos; already exists. Overwrite?</source>
-        <translation>預設集 &apos;%1&apos; 已存在. 將其覆寫嗎？</translation>
+        <translation>預設合集 &apos;%1&apos; 已存在. 將其覆寫嗎？</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1318"/>
         <source>Delete preset</source>
-        <translation>刪除預設集</translation>
+        <translation>刪除預設合集</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1319"/>
         <source>Delete preset &apos;%1&apos;?</source>
-        <translation>刪除預設集 &apos;%1&apos;？</translation>
+        <translation>刪除預設合集 &apos;%1&apos;？</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1347"/>
@@ -10830,17 +10830,17 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgRename.ui" line="490"/>
         <source>Presets:</source>
-        <translation>預設集:</translation>
+        <translation>預設合集:</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="507"/>
         <source>Save preset</source>
-        <translation>儲存預設集</translation>
+        <translation>儲存預設合集</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="521"/>
         <source>Remove preset from list</source>
-        <translation>從列表中移除預設集</translation>
+        <translation>從列表中移除預設合集</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="110"/>
@@ -11025,17 +11025,17 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgResize.ui" line="22"/>
         <source>Presets:</source>
-        <translation>預設集:</translation>
+        <translation>預設合集:</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="39"/>
         <source>Save current settings as new preset</source>
-        <translation>將目前設定值儲存為新的預設集</translation>
+        <translation>將目前設定值儲存為新的預設合集</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="53"/>
         <source>Remove preset</source>
-        <translation>移除預設集</translation>
+        <translation>移除預設合集</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="133"/>
@@ -11302,12 +11302,12 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.cpp" line="351"/>
         <source>Preset</source>
-        <translation>預設集</translation>
+        <translation>預設合集</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="352"/>
         <source>Preset search name:</source>
-        <translation>預設集搜尋名稱:</translation>
+        <translation>預設合集搜尋名稱:</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="355"/>
@@ -11392,7 +11392,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.ui" line="393"/>
         <source>Presets: </source>
-        <translation>預設集: </translation>
+        <translation>預設合集: </translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="492"/>
@@ -11645,12 +11645,12 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="912"/>
         <source>Save Preset</source>
-        <translation>儲存預設集</translation>
+        <translation>儲存預設合集</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="912"/>
         <source>Preset name:</source>
-        <translation>預設集名稱:</translation>
+        <translation>預設合集名稱:</translation>
     </message>
 </context>
 <context>
@@ -12078,7 +12078,7 @@ Do you want to remove entries assigned to a category?</oldsource>
         <location filename="DlgSettingsCache.ui" line="186"/>
         <location filename="DlgSettingsCache.ui" line="236"/>
         <source>MiB</source>
-        <translation>MiB (二進位 MB)</translation>
+        <translation>MiB</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="213"/>
@@ -13179,17 +13179,17 @@ Thumbnail</source>
         <location filename="DlgSettingsInterface.cpp" line="152"/>
         <location filename="DlgSettingsInterface.cpp" line="198"/>
         <source>-- NEW BAR --</source>
-        <translation>-- 新的工具列 --</translation>
+        <translation>-- 新增工具列 --</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="158"/>
         <source>-- NEW IPTC TEMPLATE --</source>
-        <translation>-- 新的 IPTC 模板 --</translation>
+        <translation>-- 新增 IPTC 模板 --</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="164"/>
         <source>-- NEW XMP TEMPLATE --</source>
-        <translation>-- 新的 XMP 模板 --</translation>
+        <translation>-- 新增 XMP 模板 --</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="513"/>
@@ -14287,7 +14287,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsThumbnail.ui" line="39"/>
         <location filename="DlgSettingsThumbnail.ui" line="336"/>
         <source>Thumbnail</source>
-        <translation>縮圖</translation>
+        <translation>縮圖展示頁面</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="342"/>
@@ -14302,7 +14302,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="398"/>
         <source>Thumbnail cell</source>
-        <translation>縮圖單元格</translation>
+        <translation>縮圖展示框</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="584"/>
@@ -14312,7 +14312,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="349"/>
         <source>Border size</source>
-        <translation>邊框粗細</translation>
+        <translation>圖框寬度</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="466"/>
@@ -16307,7 +16307,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteGIF.ui" line="23"/>
         <source>GIF 87a</source>
-        <translation></translation>
+        <translation>GIF 87a</translation>
     </message>
 </context>
 <context>
@@ -16604,12 +16604,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWritePNG.ui" line="85"/>
         <source>Avg</source>
-        <translation></translation>
+        <translation>Avg (平均數無失真壓縮濾波器)</translation>
     </message>
     <message>
         <location filename="DlgWritePNG.ui" line="90"/>
         <source>Paeth</source>
-        <translation></translation>
+        <translation>Paeth (無失真預測濾波器)</translation>
     </message>
     <message>
         <location filename="DlgWritePNG.ui" line="95"/>
@@ -16668,7 +16668,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteWebP.ui" line="19"/>
         <source>Save preset</source>
-        <translation>儲存預設集</translation>
+        <translation>儲存預設合集</translation>
     </message>
     <message>
         <location filename="DlgWriteWebP.ui" line="27"/>
@@ -17251,7 +17251,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="73"/>
         <source># of bits</source>
-        <translation># 位元</translation>
+        <translation>色彩深度</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="74"/>
@@ -18574,17 +18574,17 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2724"/>
         <source>Focal Plane X-Resolution</source>
-        <translation>聚焦平面水平解析度</translation>
+        <translation>焦平面水平解析度</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2725"/>
         <source>Focal Plane Y-Resolution</source>
-        <translation>聚焦平面垂直解析度</translation>
+        <translation>焦平面垂直解析度</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2726"/>
         <source>Focal Plane Res. Unit</source>
-        <translation>聚焦平面解析度單位</translation>
+        <translation>焦平面解析度單位</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2727"/>
@@ -18902,7 +18902,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="26"/>
         <location filename="IptcHelper.cpp" line="19"/>
         <source>Local caption</source>
-        <translation type="unfinished">當地的描述</translation>
+        <translation>當地的描述</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="51"/>
@@ -20273,7 +20273,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="677"/>
         <source>Switch panel</source>
         <oldsource>Switch panel...</oldsource>
-        <translation>切換面板</translation>
+        <translation>面板之間切換聚焦</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="685"/>
@@ -20656,7 +20656,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="303"/>
         <source>Category Sets</source>
-        <translation>類別集</translation>
+        <translation>類別合集</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="304"/>
@@ -20850,7 +20850,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="511"/>
         <location filename="BrowserMenu.h" line="665"/>
         <source>Layout</source>
-        <translation>介面</translation>
+        <translation>介面:</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="512"/>
@@ -21097,7 +21097,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="610"/>
         <location filename="BrowserMenu.h" line="671"/>
         <source>Export...</source>
-        <translation>匯出類別目錄...</translation>
+        <translation>匯出:...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="611"/>
@@ -21302,7 +21302,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="678"/>
         <source>Path focus</source>
         <oldsource>Path focus...</oldsource>
-        <translation>焦點移至檔案路徑列</translation>
+        <translation>聚焦至檔案路徑列</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="679"/>
@@ -21358,7 +21358,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="690"/>
         <source>Acquire into (TWAIN)...</source>
-        <translation>擷取影像至... (透過 TWAIN 協定, 直接從掃描器、相機等裝置擷取影像)...</translation>
+        <translation>擷取影像至 (透過 TWAIN 協定)...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="836"/>
@@ -22346,7 +22346,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="556"/>
         <source>Acquire into (TWAIN)...</source>
         <oldsource>Acquire into (TWAIN)......</oldsource>
-        <translation>擷取影像至... (透過 TWAIN 協定, 直接從掃描器、相機等裝置擷取影像)...</translation>
+        <translation>擷取影像至 (透過 TWAIN 協定)...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="559"/>
@@ -22722,17 +22722,17 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="Helper.h" line="120"/>
         <source>GiB</source>
-        <translation>GiB (二進位 GB)</translation>
+        <translation>GiB</translation>
     </message>
     <message>
         <location filename="Helper.h" line="125"/>
         <source>MiB</source>
-        <translation>MiB (二進位 MB)</translation>
+        <translation>MiB</translation>
     </message>
     <message>
         <location filename="Helper.h" line="130"/>
         <source>KiB</source>
-        <translation>KiB (二進位 kB)</translation>
+        <translation>KiB</translation>
     </message>
     <message>
         <location filename="Helper.h" line="135"/>
@@ -23523,7 +23523,7 @@ You can change it in Settings › Catalog.</oldsource>
         <location filename="PaintWidget.ui" line="1503"/>
         <location filename="PaintWidget.ui" line="1514"/>
         <source>Presets</source>
-        <translation>預設集</translation>
+        <translation>預設合集</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="778"/>
@@ -23649,7 +23649,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="PaintWidget.cpp" line="1418"/>
         <source>Preset name</source>
-        <translation>預設集名稱</translation>
+        <translation>預設合集名稱</translation>
     </message>
 </context>
 <context>
@@ -24395,17 +24395,17 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="SearchField.cpp" line="1145"/>
         <source>KiB</source>
-        <translation>KiB (二進位 kB)</translation>
+        <translation>KiB</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="1146"/>
         <source>MiB</source>
-        <translation>MiB (二進位 MB)</translation>
+        <translation>MiB</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="1147"/>
         <source>GiB</source>
-        <translation>GiB (二進位 GB)</translation>
+        <translation>GiB</translation>
     </message>
 </context>
 <context>
@@ -24498,12 +24498,12 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="TemplateWidget.ui" line="70"/>
         <source>Save preset</source>
-        <translation>儲存預設集</translation>
+        <translation>儲存預設合集</translation>
     </message>
     <message>
         <location filename="TemplateWidget.ui" line="84"/>
         <source>Remove preset</source>
-        <translation>移除預設集</translation>
+        <translation>移除預設合集</translation>
     </message>
     <message>
         <location filename="TemplateWidget.cpp" line="162"/>
@@ -24927,7 +24927,7 @@ Please contact the developer.</source>
     <message>
         <location filename="xnview.cpp" line="1552"/>
         <source>Do you want to quit?</source>
-        <translation>您確定要結束 XnViewMP?</translation>
+        <translation>您確定要結束 XnViewMP？</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1628"/>
