@@ -220,7 +220,7 @@
     <message>
         <location filename="AboutWidget.ui" line="397"/>
         <source>Command line</source>
-        <translation>命令列工具</translation>
+        <translation>命令列執行</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="407"/>
@@ -2008,7 +2008,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="MyDB.cpp" line="883"/>
         <source>Pictures</source>
-        <translation>圖片</translation>
+        <translation>畫面圖像</translation>
     </message>
     <message>
         <location filename="MyDB.cpp" line="884"/>
@@ -3895,12 +3895,12 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgConvert.cpp" line="616"/>
         <source>Save log as...</source>
-        <translation>另存(log)記錄為...</translation>
+        <translation>另存日誌為...</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="622"/>
         <source>Export log</source>
-        <translation>匯出 Log 記錄</translation>
+        <translation>匯出日誌</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1541"/>
@@ -6181,7 +6181,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertPosterize.ui" line="19"/>
         <source># of colors</source>
         <oldsource># colors</oldsource>
-        <translation># 種顏色</translation>
+        <translation>顏色數量/色彩深度</translation>
     </message>
 </context>
 <context>
@@ -8030,7 +8030,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExportCatalog.ui" line="48"/>
         <source>Export all files from catalog</source>
-        <translation>匯出類別目錄中的檔案列表</translation>
+        <translation>匯出類別目錄中快取的檔案列表</translation>
     </message>
     <message>
         <location filename="DlgExportCatalog.h" line="35"/>
@@ -8083,7 +8083,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="337"/>
         <source>Progressive</source>
-        <translation>漸進式 載入/顯示</translation>
+        <translation>漸進式載入</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="390"/>
@@ -8344,7 +8344,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFileListing.ui" line="193"/>
         <source>Append to file</source>
-        <translation>附加到檔案</translation>
+        <translation>將新列表文字附加到現有檔案內容結尾</translation>
     </message>
     <message>
         <location filename="DlgFileListing.cpp" line="36"/>
@@ -11663,7 +11663,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="145"/>
         <source>Use tooltips</source>
-        <translation>啟用工具提示</translation>
+        <translation>使用提示工具</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="50"/>
@@ -11804,7 +11804,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="139"/>
         <source>Tooltip</source>
-        <translation>文字提示</translation>
+        <translation>提示工具</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="393"/>
@@ -13166,7 +13166,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="143"/>
         <source>-- COMMAND --</source>
-        <translation>-- 命令列工具 --</translation>
+        <translation>-- 命令列執行 --</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="147"/>
@@ -13453,7 +13453,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="479"/>
         <source>Set command...</source>
-        <translation>設定命令列工具...</translation>
+        <translation>設定命令列執行...</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="164"/>
@@ -13771,7 +13771,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="1221"/>
         <location filename="DlgSettingsInterface.ui" line="1264"/>
         <source>Command name</source>
-        <translation>命令列工具名稱</translation>
+        <translation>命令列執行名稱</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1426"/>
@@ -13811,7 +13811,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1516"/>
         <source>Pressing ESC closes</source>
-        <translation>按下 ESC鍵 關閉</translation>
+        <translation>按 ESC 關閉</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2195"/>
@@ -13835,7 +13835,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2478"/>
         <source>Enter</source>
-        <translation>Enter鍵</translation>
+        <translation>Enter 鍵</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2401"/>
@@ -14312,7 +14312,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="349"/>
         <source>Border size</source>
-        <translation>圖框寬度</translation>
+        <translation>(透明) 圖框寬度</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="466"/>
@@ -15872,7 +15872,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgUpdate.ui" line="75"/>
         <source>Changelog:</source>
-        <translation>版本更新記錄:</translation>
+        <translation>更新日誌:</translation>
     </message>
     <message>
         <location filename="DlgUpdate.ui" line="106"/>
@@ -16034,12 +16034,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgUpload.ui" line="233"/>
         <source>Thumbnail link</source>
-        <translation>縮圖連結網址</translation>
+        <translation>縮圖連結 (網址)</translation>
     </message>
     <message>
         <location filename="DlgUpload.ui" line="261"/>
         <source>Image link</source>
-        <translation>影像連結網址</translation>
+        <translation>影像連結 (網址)</translation>
     </message>
 </context>
 <context>
@@ -16302,7 +16302,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteGIF.ui" line="16"/>
         <source>Interlaced</source>
-        <translation>交錯式/隔行</translation>
+        <translation>交錯式</translation>
     </message>
     <message>
         <location filename="DlgWriteGIF.ui" line="23"/>
@@ -16574,7 +16574,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWritePNG.ui" line="16"/>
         <source>Interlaced</source>
-        <translation>交錯式/隔行</translation>
+        <translation>交錯式</translation>
     </message>
     <message>
         <location filename="DlgWritePNG.ui" line="31"/>
@@ -18902,7 +18902,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="26"/>
         <location filename="IptcHelper.cpp" line="19"/>
         <source>Local caption</source>
-        <translation>當地的描述</translation>
+        <translation>影像說明 (僅存於本台主機)</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="51"/>
@@ -22841,7 +22841,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="1009"/>
         <source>Choose command</source>
-        <translation>選擇命令列工具</translation>
+        <translation>選擇命令列執行</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="1041"/>
