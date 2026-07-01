@@ -1575,7 +1575,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DlgConvertProcess.h" line="3641"/>
         <location filename="DlgOldCamera.h" line="82"/>
         <source>Old camera</source>
-        <translation>舊式底片相機</translation>
+        <translation>舊式相機</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="3662"/>
@@ -2008,7 +2008,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="MyDB.cpp" line="883"/>
         <source>Pictures</source>
-        <translation>畫面圖像</translation>
+        <translation>畫面圖片</translation>
     </message>
     <message>
         <location filename="MyDB.cpp" line="884"/>
@@ -3314,7 +3314,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgClean.ui" line="33"/>
         <source>Comment</source>
-        <translation>評註</translation>
+        <translation>評論</translation>
     </message>
     <message>
         <location filename="DlgClean.ui" line="65"/>
@@ -3343,7 +3343,7 @@ Do you want to overwrite it?</oldsource>
         <location filename="DlgComment.ui" line="14"/>
         <source>Edit comment</source>
         <oldsource>Set comment</oldsource>
-        <translation>編輯評註</translation>
+        <translation>編輯評論</translation>
     </message>
     <message>
         <location filename="DlgComment.ui" line="35"/>
@@ -3363,13 +3363,13 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgComment.ui" line="90"/>
         <source>Embedded comment (not available for all formats)</source>
-        <translation>內嵌評註 (非所有格式都有)</translation>
+        <translation>內嵌評論 (非所有格式都有)</translation>
     </message>
     <message>
         <location filename="DlgComment.ui" line="65"/>
         <source>Use same text for description &amp;&amp; comment</source>
         <oldsource>Use same text for description &amp; comment</oldsource>
-        <translation>描述/評註 使用相同內容</translation>
+        <translation>描述/評論 使用相同內容</translation>
     </message>
     <message>
         <location filename="DlgComment.ui" line="138"/>
@@ -5399,7 +5399,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertCleanMeta.ui" line="17"/>
         <source>Comment</source>
-        <translation>評註</translation>
+        <translation>評論</translation>
     </message>
     <message>
         <location filename="DlgConvertCleanMeta.ui" line="38"/>
@@ -7369,7 +7369,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditEXIF.ui" line="120"/>
         <source>XP Comment</source>
-        <translation>Windows 評註</translation>
+        <translation>Windows 評論</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="134"/>
@@ -7384,7 +7384,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditEXIF.ui" line="148"/>
         <source>User comment</source>
-        <translation>使用者評註</translation>
+        <translation>使用者評論</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="162"/>
@@ -11587,7 +11587,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsView.h" line="16"/>
         <source>View</source>
-        <translation>檢視</translation>
+        <translation>檢視器</translation>
     </message>
     <message>
         <location filename="DlgSettingsFormat.h" line="13"/>
@@ -11744,7 +11744,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="498"/>
         <source>Columns</source>
-        <translation>欄</translation>
+        <translation>欄位</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="510"/>
@@ -12407,7 +12407,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="203"/>
         <source>Link companion files for the following actions</source>
-        <translation>為下列動作連結&apos;並行檔案&apos;</translation>
+        <translation>將下列動作連結套用至&apos;並行檔案&apos;</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="209"/>
@@ -12432,13 +12432,13 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="254"/>
         <source>Custom filter</source>
-        <translation>自訂(檔案列表篩選)</translation>
+        <translation>自訂 篩選列表</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="260"/>
         <source>Used by Filter › Custom</source>
         <oldsource>Used by Filter&gt;Custom</oldsource>
-        <translation>此設定將被用於 &apos;(檢視 &gt;) 檔案列表篩選 › 自訂&apos;</translation>
+        <translation>此設定將被用於 &apos;(檢視 &gt;) 篩選列表 › 自訂&apos;</translation>
     </message>
 </context>
 <context>
@@ -13458,7 +13458,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="164"/>
         <source>TitleBar</source>
-        <translation>隱藏標題列</translation>
+        <translation>顯示標題列</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="499"/>
@@ -13540,7 +13540,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="774"/>
         <location filename="DlgSettingsInterface.ui" line="897"/>
         <source>Embedded comment</source>
-        <translation>內嵌的評註</translation>
+        <translation>內嵌的評論</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="781"/>
@@ -13920,7 +13920,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="214"/>
         <source>XMP (dc:description and exif:UserComment)</source>
-        <translation>XMP (dc:描述 和 exif:使用者評註)</translation>
+        <translation>XMP (dc:描述 和 exif:使用者評論)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="370"/>
@@ -13974,7 +13974,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="131"/>
         <source>Comment</source>
-        <translation>評註</translation>
+        <translation>評論</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="364"/>
@@ -14010,7 +14010,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="550"/>
         <source>Embedded comment</source>
-        <translation>內嵌評註</translation>
+        <translation>內嵌評論</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="684"/>
@@ -14421,7 +14421,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="36"/>
         <source>View</source>
-        <translation>檢視</translation>
+        <translation>檢視器</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="44"/>
@@ -14500,17 +14500,17 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="549"/>
         <source>Filter</source>
-        <translation>篩選</translation>
+        <translation>篩選列表</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="561"/>
         <source>Like Browser</source>
-        <translation>按瀏覽器方式</translation>
+        <translation>套用 (瀏覽器的) &apos;設定 › 檔案列表 › 自訂 篩選列表&apos;</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="568"/>
         <source>Custom</source>
-        <translation>自訂</translation>
+        <translation>自訂 篩選列表</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="599"/>
@@ -14541,7 +14541,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="641"/>
         <source>(From Settings › File list › Custom Filter)</source>
         <oldsource>(From Settings&gt;File list&gt;Custom Filter)</oldsource>
-        <translation>(來自 &apos;設定 › 檔案列表 › 自訂(檔案列表篩選)&apos; )</translation>
+        <translation>(上列項目的細項設定套用自 &apos;設定 › 檔案列表 › 自訂 篩選列表&apos; )</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="842"/>
@@ -14579,7 +14579,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="493"/>
         <source>Scale on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
         <oldsource>Zoom on HiDPI screen: 1 image pixel equals 1 screen pixel</oldsource>
-        <translation>在 HiDPI 螢幕上縮放: &apos;1 影像像素 = 1 螢幕像素&apos;</translation>
+        <translation>在 HiDPI 螢幕上縮放: 1影像像素=1螢幕像素</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="678"/>
@@ -17344,7 +17344,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPropertiesView.cpp" line="139"/>
         <location filename="InfoPropertiesView.cpp" line="142"/>
         <source>Embedded comment</source>
-        <translation>內嵌評註</translation>
+        <translation>內嵌評論</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="172"/>
@@ -17549,7 +17549,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="SearchField.cpp" line="47"/>
         <location filename="TemplateData.cpp" line="2621"/>
         <source>Comment</source>
-        <translation>評註</translation>
+        <translation>評論</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1028"/>
@@ -17639,7 +17639,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="SearchField.cpp" line="46"/>
         <location filename="TemplateData.cpp" line="2850"/>
         <source>Annotation</source>
-        <translation>標註</translation>
+        <translation>註釋</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="80"/>
@@ -18257,7 +18257,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="SearchField.cpp" line="87"/>
         <location filename="TemplateData.cpp" line="2679"/>
         <source>User comment</source>
-        <translation>使用者評註</translation>
+        <translation>使用者評論</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2238"/>
@@ -18338,7 +18338,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="SearchField.cpp" line="98"/>
         <location filename="TemplateData.cpp" line="2671"/>
         <source>XP Comment</source>
-        <translation>Windows 評註</translation>
+        <translation>Windows 評論</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="99"/>
@@ -18902,7 +18902,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="26"/>
         <location filename="IptcHelper.cpp" line="19"/>
         <source>Local caption</source>
-        <translation>影像說明 (僅存於本台主機)</translation>
+        <translation>本機影像說明 (僅儲存在本機資料庫或檔案 descript.ion)</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="51"/>
@@ -19373,7 +19373,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="462"/>
         <source>Annotation</source>
-        <translation>標註</translation>
+        <translation>註釋</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="481"/>
@@ -19600,7 +19600,7 @@ Do you want to continue?</oldsource>
         <location filename="GFFHelper.h" line="20"/>
         <location filename="GFFHelper.h" line="64"/>
         <source>Saving in this format will discard comment and any existing metadata!</source>
-        <translation>用這種格式儲存將會丟棄評註和任何既存的後製資料！</translation>
+        <translation>用這種格式儲存將會丟棄評論和任何既存的後製資料！</translation>
     </message>
     <message>
         <location filename="GFFHelper.h" line="34"/>
@@ -20084,7 +20084,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="57"/>
         <source>Comment</source>
-        <translation>評註</translation>
+        <translation>評論</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="58"/>
@@ -20191,7 +20191,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="466"/>
         <source>Check/Uncheck</source>
-        <translation>反向勾選</translation>
+        <translation>全部勾選/無勾選 (已選取的檔案)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="480"/>
@@ -20809,13 +20809,13 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="465"/>
         <source>Show header</source>
-        <translation>顯示列表標題列</translation>
+        <translation>顯示檔案列表表頭</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="472"/>
         <source>Check/Uncheck current</source>
         <oldsource>Tag/Untag current</oldsource>
-        <translation>反向勾選 (已選取的檔案)</translation>
+        <translation>全部勾選/無勾選 (已選取的檔案)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="467"/>
@@ -21081,7 +21081,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="604"/>
         <source>Edit comment...</source>
         <oldsource>Set comment...</oldsource>
-        <translation>編輯評註...</translation>
+        <translation>編輯評論...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="605"/>
@@ -21464,7 +21464,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="xnview.cpp" line="1380"/>
         <source>Titlebar</source>
-        <translation>隱藏標題列</translation>
+        <translation>標題列</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1381"/>
@@ -21818,7 +21818,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="324"/>
         <source>Close</source>
-        <translation>關閉</translation>
+        <translation>關閉頁籤</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="326"/>
@@ -21968,7 +21968,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="371"/>
         <source>Check/Uncheck</source>
-        <translation>反向勾選</translation>
+        <translation>全部勾選/無勾選 (已選取的檔案)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="412"/>
@@ -22018,7 +22018,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="422"/>
         <source>Center image</source>
-        <translation>圖片置中</translation>
+        <translation>影像置中</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="425"/>
@@ -22178,7 +22178,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="472"/>
         <source>Edit comment...</source>
         <oldsource>Set comment...</oldsource>
-        <translation>編輯評註...</translation>
+        <translation>編輯評論...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="473"/>
@@ -22559,7 +22559,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="487"/>
         <source>Old camera...</source>
-        <translation>舊式底片相機...</translation>
+        <translation>舊式相機...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="488"/>
@@ -22929,13 +22929,13 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyDirModel.cpp" line="327"/>
         <source>My Computer</source>
-        <translation>我的主機</translation>
+        <translation>本機</translation>
     </message>
     <message>
         <location filename="MyDirModel.cpp" line="1027"/>
         <location filename="MyDirModel.cpp" line="1029"/>
         <source>Computer</source>
-        <translation>主機</translation>
+        <translation>本機</translation>
     </message>
     <message>
         <location filename="MyDirModel.cpp" line="1031"/>
@@ -24536,7 +24536,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="ToolbarSearch.cpp" line="163"/>
         <source>Embedded comment</source>
-        <translation>內嵌評註</translation>
+        <translation>內嵌評論</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="168"/>
