@@ -179,7 +179,7 @@
     <message>
         <location filename="AboutWidget.ui" line="261"/>
         <source>Credits</source>
-        <translation>貢獻者</translation>
+        <translation>致謝</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="275"/>
@@ -386,7 +386,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="3040"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
-        <translation>影像將轉換為 24 位元 RGB (每色版 8 位元)</translation>
+        <translation>影像將轉換為 24-bit RGB (8bits 每色版)</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="3083"/>
@@ -1928,7 +1928,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="ConvertThread.cpp" line="1313"/>
         <source>WARNING: Image will be converted to 24-bit RGB (8bits per channel)</source>
         <oldsource>WARNING: The picture will be converted to RGB with 8bits per component</oldsource>
-        <translation>警告: 影像將轉換為 24 位元 RGB (每色版 8 位元)</translation>
+        <translation>警告！影像將轉換為 24-bit RGB ( 8bits 每色版)</translation>
     </message>
 </context>
 <context>
@@ -3334,7 +3334,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgClean.ui" line="122"/>
         <source>All other &apos;APP&apos; markers</source>
-        <translation>全部其它軟體之標記</translation>
+        <translation>全部其它軟體寫入之標籤</translation>
     </message>
 </context>
 <context>
@@ -3358,7 +3358,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgComment.ui" line="107"/>
         <source>Description (stored in descript.ion file)</source>
-        <translation>描述 (儲存在檔案 descript.ion )</translation>
+        <translation>描述 (僅儲存在檔案 descript.ion 裡)</translation>
     </message>
     <message>
         <location filename="DlgComment.ui" line="90"/>
@@ -4107,7 +4107,7 @@ Do you want to overwrite it?</oldsource>
         <source>The &apos;Delete original&apos; option is enabled
 
 Do you want to continue?</source>
-        <translation>「刪除原始檔案」選項已啟用
+        <translation>&apos;刪除原始檔案&apos; 選項已啟用
 
 您要繼續嗎？</translation>
     </message>
@@ -4130,7 +4130,7 @@ Do you want to continue?</source>
         <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
 
 Do you want to continue?</source>
-        <translation>您可以選擇 “如果輸出檔案更大則保留原始檔案” 並執行其它某些動作.
+        <translation>您可以選擇 &apos;如果輸出檔案更大則保留原始檔案&apos; 並執行其它某些動作.
 
 您是否要繼續？</translation>
     </message>
@@ -4143,7 +4143,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert.cpp" line="3065"/>
         <source>The &apos;Use multiple CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</source>
         <oldsource>The &apos;Use CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</oldsource>
-        <translation>&apos;使用多CPU內核&apos;被禁用 此設置不能與&apos;詢問&apos;模式或多頁PDF檔合併使用.</translation>
+        <translation>&apos;使用多CPU內核&apos; 被禁用 此設置不能與 &apos;詢問&apos; 模式或多頁 PDF 檔合併使用.</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="3067"/>
@@ -5191,7 +5191,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert.ui" line="1259"/>
         <location filename="DlgConvert-old.ui" line="1617"/>
         <source>Clear the &apos;Input&apos; file(s)</source>
-        <translation>清除&apos;輸入&apos;的檔案</translation>
+        <translation>清除 &apos;輸入&apos; 的檔案</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1273"/>
@@ -5252,7 +5252,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="1687"/>
         <source>Add &apos;Convert with XnConvert&apos; to context menu</source>
-        <translation>加入&apos;使用XnConvert轉換&apos;至右鍵選單</translation>
+        <translation>加入 &apos;使用XnConvert轉換&apos; 至右鍵選單</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1712"/>
@@ -5454,7 +5454,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertColors.ui" line="35"/>
         <source>Replace alpha for 32bits images</source>
         <oldsource>Replace alpha for 32bits pictures</oldsource>
-        <translation>替換 32 位元影像的透明色版</translation>
+        <translation>替換 32bits 影像的透明色版</translation>
     </message>
     <message>
         <location filename="DlgConvertColors.ui" line="111"/>
@@ -7106,7 +7106,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgCreateMulti.ui" line="26"/>
         <source>View as:</source>
-        <translation>檢視方式:</translation>
+        <translation>列表檢視:</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.ui" line="33"/>
@@ -7638,7 +7638,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditXMP.cpp" line="142"/>
         <source>Field values are not loaded because &apos;Do not load field values&apos; is checked</source>
-        <translation>因&quot;不載入欄位值&quot;已勾選, 故未載入欄位值</translation>
+        <translation>因 &apos;不載入欄位值&apos; 已勾選, 故未載入欄位值</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="257"/>
@@ -8173,7 +8173,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="672"/>
         <source>&amp;Export...</source>
-        <translation>匯出(&amp;E)...</translation>
+        <translation>匯出圖像檔(&amp;E)...</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="682"/>
@@ -9002,7 +9002,7 @@ Subfolders will be created. </source>
     <message>
         <location filename="DlgImport.ui" line="58"/>
         <source>Sort by</source>
-        <translation>排序方式</translation>
+        <translation>列表排序</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="104"/>
@@ -9101,7 +9101,7 @@ Subfolders will be created. </source>
     <message>
         <location filename="DlgImport.cpp" line="223"/>
         <source>Open Metadata Template</source>
-        <translation>開啟&apos;後製資料&apos;模板</translation>
+        <translation>開啟 &apos;後製資料&apos; 模板</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="240"/>
@@ -9242,7 +9242,7 @@ Subfolders will be created. </source>
     <message>
         <location filename="DlgIptc.cpp" line="368"/>
         <source>Field values are not loaded because &apos;Do not load field values&apos; is checked</source>
-        <translation>因&apos;不載入欄位值&apos;已勾選, 故未載入欄位值</translation>
+        <translation>因 &apos;不載入欄位值&apos; 已勾選, 故未載入欄位值</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="1717"/>
@@ -9423,7 +9423,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgIptc.ui" line="271"/>
         <source>Credits</source>
-        <translation>署名/貢獻者</translation>
+        <translation>致謝</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="330"/>
@@ -10237,7 +10237,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPrint.ui" line="894"/>
         <source>Insert all Pages/Images of multi-page source images</source>
-        <translation>插入&apos;多頁來源影像&apos;中所有 頁/影像</translation>
+        <translation>插入 &apos;多頁來源影像&apos; 中所有 頁/影像</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="903"/>
@@ -10597,7 +10597,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgReadRaw.ui" line="77"/>
         <source>Bits per pixel</source>
-        <translation>每像素位元數</translation>
+        <translation>Bits 每像素</translation>
     </message>
     <message>
         <location filename="DlgReadRaw.h" line="103"/>
@@ -10696,7 +10696,7 @@ Please install it via Tools › Plugins</source>
     <message>
         <location filename="DlgRename.cpp" line="356"/>
         <source>Companion renaming</source>
-        <translation>&apos;並行檔案&apos;重新命名中</translation>
+        <translation>&apos;並行檔案&apos; 重新命名中</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="105"/>
@@ -10713,7 +10713,7 @@ Please install it via Tools › Plugins</source>
         <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. 
 
 Do you want to remove them?</source>
-        <translation>檔案列表中被偵測到有&apos;並行檔案&apos;, 它們會被自動重新命名以與&apos;主檔案&apos;名稱保持一致.
+        <translation>檔案列表中被偵測到有 &apos;並行檔案&apos;, 它們會被自動重新命名以與 &apos;主檔案&apos; 名稱保持一致.
 
 您要移除它們嗎？</translation>
     </message>
@@ -11567,7 +11567,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsIntegration.h" line="15"/>
         <source>Integration</source>
-        <translation>整合</translation>
+        <translation>整合其它軟體</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.h" line="17"/>
@@ -11678,17 +11678,17 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="111"/>
         <source>View scroll the content by thumbnail</source>
-        <translation>用滾動 (取代捲動) 方式查看&apos;縮圖列表&apos;</translation>
+        <translation>用滾動 (取代捲動) 方式查看 &apos;縮圖列表&apos;</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="118"/>
         <source>Show &apos;Desktop&apos; in folder tree</source>
-        <translation>在資料夾樹中顯示“桌面”</translation>
+        <translation>在資料夾樹中顯示 &apos;桌面&apos;</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="207"/>
         <source>ToolBar</source>
-        <translation>工具列</translation>
+        <translation>列表工具列</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="215"/>
@@ -11789,7 +11789,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="284"/>
         <source>View as</source>
-        <translation>檢視方式</translation>
+        <translation>列表檢視</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="314"/>
@@ -11940,10 +11940,10 @@ Do you want to remove them?</source>
 Do it only if you want to share same folder between several computers. 
 
 Do you want to change the &apos;base path&apos;?</source>
-        <translation>修改&apos;基礎路徑&apos;可能會切斷與&apos;已存在資料庫中的檔案紀錄&apos;之間的關聯.
-只有當&apos;您想在多台主機之間共享同一個資料夾&apos;時才這樣做.
+        <translation>修改 &apos;基礎路徑&apos; 可能會切斷與 &apos;已存在資料庫中的檔案紀錄&apos; 之間的關聯.
+只有當 &apos;您想在多台主機之間共享同一個資料夾&apos; 時才這樣做.
 
-您仍要修改&apos;基礎路徑&apos;嗎？</translation>
+您仍要修改 &apos;基礎路徑&apos; 嗎？</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="421"/>
@@ -12000,7 +12000,7 @@ Color labels, Keywords may be deleted.
 Do you want to check for affected entries first?</source>
         <oldsource>Warning! This operation may delete some database entries with assigned ratings/colors/keywords. Do you want to check for affected entries first?</oldsource>
         <translation>警告！此動作可能會刪除某些已指派有
-&apos;評分、顏色標籤、關鍵字&apos;的資料庫項目紀錄.
+&apos;評分、顏色標籤、關鍵字&apos; 的資料庫項目紀錄.
 
 您想先檢查受影響的項目嗎？</translation>
     </message>
@@ -12017,10 +12017,10 @@ Do you want to remove entries assigned to a Category?</source>
 (If information are exported into embedded or sidecar metadata, you&apos;ll be able to re-import them later)
 
 Do you want to remove entries assigned to a category?</oldsource>
-        <translation>注意！此動作將會移除已指派有&apos;類別、評分、顏色標籤&apos;的類別目錄項目紀錄.
+        <translation>注意！此動作將會移除已指派有 &apos;類別、評分、顏色標籤&apos; 的類別目錄項目紀錄.
 
-若相關資訊已有匯出到&apos;主檔案內嵌&apos;或&apos;Sidecar並行檔案內嵌&apos;的後製資料中, 
-您便可以之後再重新匯入它們.
+若相關資訊已有匯出到 &apos;主檔案內嵌&apos; 或 &apos;Sidecar並行檔案內嵌&apos; 的後製資料中, 
+您便可以之後再由檔案重新匯入它們.
 
 您確定要移除已指派在類別目錄中的項目嗎？</translation>
     </message>
@@ -12327,7 +12327,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="196"/>
         <source>Show companion files</source>
-        <translation>不隱藏&apos;並行檔案&apos; (在 XnViewMP 裡)</translation>
+        <translation>不隱藏 &apos;並行檔案&apos; (在 XnViewMP 裡)</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="110"/>
@@ -12397,17 +12397,17 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="157"/>
         <source>View as</source>
-        <translation>檢視方式</translation>
+        <translation>列表檢視</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="163"/>
         <source>Display file size in bytes</source>
-        <translation>用位元組顯示檔案大小</translation>
+        <translation>用 B ( = bytes = 位元組) 顯示檔案大小</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="203"/>
         <source>Link companion files for the following actions</source>
-        <translation>將下列動作連結套用至&apos;並行檔案&apos;</translation>
+        <translation>將下列動作連結套用於 &apos;並行檔案&apos;</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="209"/>
@@ -12432,13 +12432,13 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="254"/>
         <source>Custom filter</source>
-        <translation>自訂 篩選列表</translation>
+        <translation>自訂 列表篩選</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="260"/>
         <source>Used by Filter › Custom</source>
         <oldsource>Used by Filter&gt;Custom</oldsource>
-        <translation>此設定將被用於 &apos;(檢視 &gt;) 篩選列表 › 自訂&apos;</translation>
+        <translation>此設定將被用於 &apos;(檢視 &gt;) 列表篩選 › 自訂&apos;</translation>
     </message>
 </context>
 <context>
@@ -12780,7 +12780,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="565"/>
         <source>Save as copy for &apos;Save&apos; action</source>
-        <translation>按&apos;儲存&apos;時, 執行為&apos;另存副本&apos;的動作</translation>
+        <translation>按 &apos;儲存&apos; 時, 執行為 &apos;另存副本&apos; 的動作</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="572"/>
@@ -13061,13 +13061,13 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="39"/>
         <source>Integration</source>
-        <translation>整合</translation>
+        <translation>整合其它軟體</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="51"/>
         <source>Add &apos;Browse with XnViewMP&apos; to context menu</source>
         <oldsource>Add &apos;Browse with XnViewMP&apos; to context menu (requires admin rights)</oldsource>
-        <translation>將&apos;使用 XnViewMP 瀏覽&apos;新增至右鍵選單 (需管理者權限)</translation>
+        <translation>將 &apos;使用 XnViewMP 瀏覽&apos; 新增至右鍵選單 (需管理者權限)</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="58"/>
@@ -13089,7 +13089,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="118"/>
         <source>Open &apos;Default Apps&apos;...</source>
-        <translation>開啟&apos;預設應用程式&apos;…</translation>
+        <translation>開啟 &apos;預設應用程式&apos;…</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="154"/>
@@ -13397,7 +13397,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="423"/>
         <source>ToolBar</source>
-        <translation>工具列</translation>
+        <translation>工具列:</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="170"/>
@@ -13458,7 +13458,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="164"/>
         <source>TitleBar</source>
-        <translation>顯示標題列</translation>
+        <translation>標題列</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="499"/>
@@ -13905,7 +13905,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsKeywords.ui" line="237"/>
         <source>Automatically assign parent Category (Ctrl+click for current only)</source>
         <oldsource>Automatically apply parent category (Ctrl+click for single category)</oldsource>
-        <translation>自動指派父類別 (&apos;按Ctrl+滑鼠點擊&apos;則只指派給選取的類別)</translation>
+        <translation>自動指派父類別 ( &apos;按Ctrl+滑鼠點擊&apos; 則只指派給選取的類別)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="224"/>
@@ -13954,12 +13954,12 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="159"/>
         <source>Update catalog when file is modified outside (file date/size)</source>
-        <translation>當檔案在外部有被修改過, 便更新類別目錄 (以&apos;檔案日期/大小&apos;作判斷)</translation>
+        <translation>當檔案在外部有被修改過, 便更新類別目錄 (以 &apos;檔案日期/大小&apos; 作判斷)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="230"/>
         <source>Update keywords when file is modified outside (file date/size)</source>
-        <translation>當檔案在外部被修改過, 便更新關鍵字 (以&apos;檔案日期/大小&apos;做判斷)</translation>
+        <translation>當檔案在外部有被修改過, 便更新關鍵字 (以 &apos;檔案日期/大小&apos; 做判斷)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="246"/>
@@ -14343,7 +14343,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="576"/>
         <source>Overlay icons</source>
-        <translation>覆標圖示</translation>
+        <translation>胸章式圖標</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="891"/>
@@ -14404,7 +14404,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsThumbnail.ui" line="976"/>
         <source>Browser › View › View as › Thumbnails + Labels</source>
         <oldsource>Browser - Thumbnail</oldsource>
-        <translation>瀏覽器 › 檢視 › 檢視方式 › 縮圖 + 標籤</translation>
+        <translation>瀏覽器 › 檢視 › 列表檢視 › 縮圖 + 標籤</translation>
     </message>
 </context>
 <context>
@@ -14500,17 +14500,17 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="549"/>
         <source>Filter</source>
-        <translation>篩選列表</translation>
+        <translation>列表篩選</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="561"/>
         <source>Like Browser</source>
-        <translation>套用 (瀏覽器的) &apos;設定 › 檔案列表 › 自訂 篩選列表&apos;</translation>
+        <translation>套用 (瀏覽器的) &apos;設定 › 檔案列表 › 自訂 列表篩選&apos;</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="568"/>
         <source>Custom</source>
-        <translation>自訂 篩選列表</translation>
+        <translation>自訂 列表篩選</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="599"/>
@@ -14541,7 +14541,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="641"/>
         <source>(From Settings › File list › Custom Filter)</source>
         <oldsource>(From Settings&gt;File list&gt;Custom Filter)</oldsource>
-        <translation>(上列項目的細項設定套用自 &apos;設定 › 檔案列表 › 自訂 篩選列表&apos; )</translation>
+        <translation>(上列項目的細項設定套用自 &apos;設定 › 檔案列表 › 自訂 列表篩選&apos; )</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="842"/>
@@ -14568,7 +14568,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="91"/>
         <source>Reset &apos;Auto zoom&apos; setting with next/previous file</source>
         <oldsource>Reset &apos;Auto Image size&apos; setting with next/previous file</oldsource>
-        <translation>轉至&apos;上/下個檔案&apos;時, 重新切回&apos;自動縮放&apos;的設定</translation>
+        <translation>轉至 &apos;上/下個檔案&apos; 時, 重新切回 &apos;自動縮放&apos; 的設定</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="264"/>
@@ -14636,7 +14636,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="514"/>
         <source>Show Rating &amp;&amp; Color labels</source>
         <oldsource>Show Rating &amp;&amp; Label color</oldsource>
-        <translation>顯示 評分/顏色標籤</translation>
+        <translation>顯示 評分 和 顏色標籤</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="696"/>
@@ -14860,7 +14860,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSimilar.ui" line="222"/>
         <source>Extensions to ignore (separated by a space)</source>
-        <translation>要忽略的副檔名 (以&apos;空白&apos;作為分隔符號)</translation>
+        <translation>要忽略的副檔名 (以 &apos;空白&apos; 作為分隔符號)</translation>
     </message>
     <message>
         <location filename="DlgSimilar.cpp" line="45"/>
@@ -14993,7 +14993,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSimilarResult.ui" line="708"/>
         <source>Sort by</source>
-        <translation>排序方式</translation>
+        <translation>列表排序</translation>
     </message>
     <message>
         <location filename="DlgSimilarResult.cpp" line="103"/>
@@ -15378,7 +15378,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgStartupWizard.ui" line="134"/>
         <source>Add &apos;Browse with XnViewMP&apos; to context menu</source>
-        <translation>新增&apos;以 XnViewMP 瀏覽&apos;到右鍵選單</translation>
+        <translation>新增 &apos;以 XnViewMP 瀏覽&apos; 到右鍵選單</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="171"/>
@@ -15414,7 +15414,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgStartupWizard.ui" line="164"/>
         <source>Open &apos;Default Apps&apos;</source>
-        <translation>開啟&apos;預設應用程式&apos;</translation>
+        <translation>開啟 &apos;預設應用程式&apos;</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="183"/>
@@ -15900,12 +15900,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="42"/>
         <source>Master files only</source>
-        <translation>只用&apos;主檔案&apos;</translation>
+        <translation>只用 &apos;主檔案&apos;</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="64"/>
         <source>Use modified files only</source>
-        <translation>只用&apos;修改過的檔案&apos;</translation>
+        <translation>只用 &apos;修改過的檔案&apos;</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="20"/>
@@ -16289,7 +16289,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteBMP.ui" line="16"/>
         <source>RLE compression (4,8 bits)</source>
-        <translation>RLE 壓縮 (4,8 位元) (運行長度編碼壓縮)(無失真)</translation>
+        <translation>RLE 壓縮 (4,8 bits) (運行長度編碼壓縮)(無失真)</translation>
     </message>
     <message>
         <location filename="DlgWriteBMP.ui" line="23"/>
@@ -17256,7 +17256,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="74"/>
         <source>Bits per channel</source>
-        <translation>每個色版的位元數</translation>
+        <translation>Bits 每色版</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="76"/>
@@ -17333,7 +17333,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="119"/>
         <source>Images/frames count</source>
-        <translation>影像/影格(幀) 計數</translation>
+        <translation>影像張數/影格(幀)數</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="136"/>
@@ -17454,13 +17454,13 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPropertiesView.cpp" line="506"/>
         <location filename="InfoPropertiesView.cpp" line="525"/>
         <source>Bit rate mode</source>
-        <translation>位元率/比特率 模式</translation>
+        <translation>位元率模式/比特率模式</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="508"/>
         <location filename="InfoPropertiesView.cpp" line="527"/>
         <source>Sampling rate</source>
-        <translation>(空間/時間) 取樣率</translation>
+        <translation>取樣率</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="531"/>
@@ -17501,7 +17501,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="174"/>
         <source>True ISO</source>
-        <translation>原生 ISO值/感光度</translation>
+        <translation>原生ISO值/原生感光度</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="213"/>
@@ -17753,7 +17753,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="IptcEditBase.cpp" line="81"/>
         <location filename="TemplateData.cpp" line="2847"/>
         <source>Size (Bytes)</source>
-        <translation>大小 (位元組)</translation>
+        <translation>大小 (B)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="373"/>
@@ -18120,7 +18120,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoEXIFView.cpp" line="113"/>
         <source>IOP</source>
-        <translation>IOP (相容/互通性)</translation>
+        <translation>IOP (相容性/互通性)</translation>
     </message>
     <message>
         <location filename="InfoEXIFView.cpp" line="117"/>
@@ -18229,7 +18229,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2697"/>
         <source>Subject Distance Range</source>
-        <translation>主體/對焦 距離範圍</translation>
+        <translation>主體距離範圍/對焦距離範圍</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2740"/>
@@ -18306,7 +18306,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2662"/>
         <source>Primary chromaticities</source>
-        <translation>原色 色度/座標</translation>
+        <translation>原色色度/原色座標</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2663"/>
@@ -18321,7 +18321,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2665"/>
         <source>Ref. black/white</source>
-        <translation>黑白 參考值 /對照值</translation>
+        <translation>黑白參考值 /黑白對照值</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2668"/>
@@ -18438,12 +18438,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2696"/>
         <source>Subject Distance (m)</source>
-        <translation>主體/對焦 距離 (m)</translation>
+        <translation>主體距離 (m)/對焦距離 (m)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2698"/>
         <source>Subject location</source>
-        <translation>主體/對焦 位置</translation>
+        <translation>主體位置/對焦位置</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="95"/>
@@ -18701,7 +18701,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoIPTCView.cpp" line="124"/>
         <source>Credits</source>
-        <translation>署名/貢獻者</translation>
+        <translation>致謝</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="128"/>
@@ -18808,7 +18808,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="44"/>
         <location filename="IptcHelper.cpp" line="30"/>
         <source>Credits</source>
-        <translation>署名/貢獻者</translation>
+        <translation>致謝</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="136"/>
@@ -18902,7 +18902,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="26"/>
         <location filename="IptcHelper.cpp" line="19"/>
         <source>Local caption</source>
-        <translation>本機影像說明 (僅儲存在本機資料庫或檔案 descript.ion)</translation>
+        <translation>本地端影像說明 (僅儲存在本台主機資料庫裡)</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="51"/>
@@ -19009,7 +19009,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2772"/>
         <location filename="TemplateData.cpp" line="2811"/>
         <source>Credit</source>
-        <translation>署名/貢獻者</translation>
+        <translation>致謝</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="132"/>
@@ -19576,7 +19576,7 @@ Do you want to continue?</source>
         <oldsource>The picture will be converted in 8 bits per component. 
 
 Do you want to continue?</oldsource>
-        <translation>這張影像將會轉換成 24 位元 RGB (一個色版 8 位元)
+        <translation>這張影像將會轉換成 24-bit RGB (8bits 每色版)
 
 您要繼續嗎？</translation>
     </message>
@@ -20815,7 +20815,7 @@ Do you want to continue?</oldsource>
         <location filename="CompareWidget.cpp" line="472"/>
         <source>Check/Uncheck current</source>
         <oldsource>Tag/Untag current</oldsource>
-        <translation>全部勾選/無勾選 (已選取的檔案)</translation>
+        <translation>勾選/無勾選 (目前的檔案)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="467"/>
@@ -20855,17 +20855,17 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="512"/>
         <source>View as</source>
-        <translation>檢視方式</translation>
+        <translation>列表檢視</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="513"/>
         <source>Sort by</source>
-        <translation>排序方式</translation>
+        <translation>列表排序</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="514"/>
         <source>Filter by</source>
-        <translation>檔案列表篩選</translation>
+        <translation>列表篩選</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="515"/>
@@ -20942,12 +20942,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="540"/>
         <source>Filelist toolbar</source>
-        <translation>檔案列表工具列</translation>
+        <translation>列表工具列</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="543"/>
         <source>Show title of panels</source>
-        <translation>顯示面板標題</translation>
+        <translation>顯示面板標題列</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="545"/>
@@ -21023,7 +21023,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="567"/>
         <source>Vertical tabs</source>
-        <translation>垂直面板頁籤</translation>
+        <translation>垂直來源面板頁籤</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="570"/>
@@ -21224,7 +21224,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="647"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
-        <translation>使用透明索引 (≤ 8位元)</translation>
+        <translation>使用透明索引 (≤ 8bits)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="648"/>
@@ -21307,7 +21307,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="679"/>
         <source>Filter by All</source>
-        <translation>全部篩選</translation>
+        <translation>按全部篩選</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="681"/>
@@ -21464,7 +21464,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="xnview.cpp" line="1380"/>
         <source>Titlebar</source>
-        <translation>標題列</translation>
+        <translation>視窗標題列</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1381"/>
@@ -21604,7 +21604,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="TemplateData.cpp" line="2862"/>
         <source>IPTC - Credits</source>
-        <translation>EXIF - 署名/貢獻者</translation>
+        <translation>EXIF - 致謝</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2863"/>
@@ -21968,7 +21968,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="371"/>
         <source>Check/Uncheck</source>
-        <translation>全部勾選/無勾選 (已選取的檔案)</translation>
+        <translation>勾選/無勾選</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="412"/>
@@ -22079,7 +22079,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="439"/>
         <source>Use transparent index (≤ 8bits)</source>
         <oldsource>Use transparent index (&lt;=8bits)</oldsource>
-        <translation>使用透明索引 (≤ 8位元)</translation>
+        <translation>使用透明索引 (≤ 8bits)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="440"/>
@@ -22141,7 +22141,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="455"/>
         <source>Show people&apos;s region</source>
-        <translation>標記出人臉區域及其名稱</translation>
+        <translation>標示出人臉區域及其名稱</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="503"/>
@@ -22441,7 +22441,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="453"/>
         <source>Toolbar</source>
         <oldsource>Use toolbar</oldsource>
-        <translation>工具列</translation>
+        <translation>檢視器工具列</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="454"/>
@@ -22737,7 +22737,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="Helper.h" line="135"/>
         <source>Bytes</source>
-        <translation>位元組</translation>
+        <translation>B</translation>
     </message>
     <message>
         <location filename="Helper.h" line="189"/>
@@ -22935,7 +22935,7 @@ Do you want to continue?</oldsource>
         <location filename="MyDirModel.cpp" line="1027"/>
         <location filename="MyDirModel.cpp" line="1029"/>
         <source>Computer</source>
-        <translation>本機</translation>
+        <translation>主機</translation>
     </message>
     <message>
         <location filename="MyDirModel.cpp" line="1031"/>
@@ -23083,7 +23083,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyLittleToolBar.h" line="774"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation>點擊左圖示切換滑桿的 2 種模式：&lt;br&gt;調整縮圖的固定尺寸(像素) / 調整縮圖的每列固定數量</translation>
+        <translation>&lt;b&gt;點擊左圖示切換滑桿的 2 種模式:&lt;/b&gt;&lt;br&gt;&amp;bull; 調整縮圖的固定尺寸(像素)&lt;br&gt;&amp;bull; 調整縮圖的每列固定數量</translation>
     </message>
 </context>
 <context>
@@ -23091,7 +23091,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyLittleToolBar.h" line="385"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation>點擊左圖示切換滑桿的 2 種模式：&lt;br&gt;調整縮圖的固定尺寸(像素) / 調整縮圖的每列固定數量</translation>
+        <translation>&lt;b&gt;點擊左圖示切換滑桿的 2 種模式:&lt;/b&gt;&lt;br&gt;&amp;bull; 調整縮圖的固定尺寸(像素)&lt;br&gt;&amp;bull; 調整縮圖的每列固定數量</translation>
     </message>
 </context>
 <context>
@@ -24390,7 +24390,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="SearchField.cpp" line="1144"/>
         <source>bytes</source>
-        <translation>位元組</translation>
+        <translation>B</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="1145"/>
@@ -24845,7 +24845,7 @@ Do you want to keep the thumbnails?
         <translation>XnViewMP 將升級類別目錄. 可能會花費一些時間.
 
 您要保留縮圖嗎？
- (若您選擇&apos;是&apos;, 則升級過程會執行得較久)</translation>
+ (若您選擇 &apos;是&apos;, 則升級過程會執行得較久)</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="405"/>
@@ -24871,7 +24871,7 @@ Do you want to keep the thumbnails?
     <message>
         <location filename="xnview.cpp" line="493"/>
         <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
-        <translation>如果您想要使用&apos;後製資料篩選器&apos;中的新項目, 則您需要先更新類別目錄 (設定 &gt; 類別目錄 &gt; 更新後製資料) </translation>
+        <translation>如果您想要使用 &apos;後製資料篩選器&apos; 中的新項目, 則您需要先更新類別目錄 (設定 &gt; 類別目錄 &gt; 更新後製資料) </translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="889"/>
@@ -24900,7 +24900,7 @@ Do you want to keep the thumbnails?
 Metadata (check, ratings/colour labels and other file details)
 will not be saved to the database.</source>
         <translation>類別目錄已被停用
-後製資料 (勾選、評分/顏色標籤、及其它檔案詳細資料)
+後製資料 (勾選、評分、顏色標籤、其它檔案詳細紀錄)
 將不會儲存到資料庫中.</translation>
     </message>
     <message>
