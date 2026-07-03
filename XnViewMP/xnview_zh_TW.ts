@@ -672,7 +672,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="1847"/>
         <source>Metadata</source>
-        <translation>後製資料</translation>
+        <translation>拍攝資訊</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="1856"/>
@@ -951,13 +951,13 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="CategoryView.cpp" line="567"/>
         <source>New smart album...</source>
-        <translation>新增智慧型相簿...</translation>
+        <translation>新增智慧相簿...</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="569"/>
         <location filename="CategoryView.cpp" line="745"/>
         <source>Create Smart Album from current filter...</source>
-        <translation>由目前篩選方式新增智慧型相簿...</translation>
+        <translation>由目前篩選方式新增智慧相簿...</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="573"/>
@@ -967,12 +967,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="CategoryView.cpp" line="603"/>
         <source>Delete Smart Album</source>
-        <translation>刪除智慧型相簿</translation>
+        <translation>刪除智慧相簿</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="603"/>
         <source>Are you sure to delete this Smart Album?</source>
-        <translation>您確定要刪除此智慧型相簿嗎?</translation>
+        <translation>您確定要刪除此智慧相簿嗎?</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="628"/>
@@ -1032,7 +1032,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="CategoryView.cpp" line="743"/>
         <source>Create Smart Album...</source>
-        <translation>新增智慧型相簿...</translation>
+        <translation>新增智慧相簿...</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="777"/>
@@ -2054,7 +2054,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DBFilterModel.cpp" line="162"/>
         <source>Special Items</source>
-        <translation>特殊項目</translation>
+        <translation>補充選項</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="165"/>
@@ -2104,7 +2104,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DBFilterModel.cpp" line="184"/>
         <location filename="DBFilterModel.cpp" line="199"/>
         <source>Smart Albums</source>
-        <translation>智慧型相簿</translation>
+        <translation>智慧相簿</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="200"/>
@@ -8173,7 +8173,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="672"/>
         <source>&amp;Export...</source>
-        <translation>匯出圖像檔(&amp;E)...</translation>
+        <translation>匯出影像檔(&amp;E)...</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="682"/>
@@ -9699,7 +9699,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgMessage.cpp" line="79"/>
         <source>Catalog Thumbnails</source>
-        <translation>目錄縮圖</translation>
+        <translation>檔案目錄縮圖</translation>
     </message>
 </context>
 <context>
@@ -9707,7 +9707,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgNew.ui" line="14"/>
         <source>Create image</source>
-        <translation>建立影像</translation>
+        <translation>建立新影像</translation>
     </message>
     <message>
         <location filename="DlgNew.ui" line="48"/>
@@ -11286,7 +11286,7 @@ Do you want to remove them?</source>
         <location filename="DlgSearch.cpp" line="92"/>
         <location filename="DlgSearch.cpp" line="200"/>
         <source>Smart Albums</source>
-        <translation>智慧型相簿</translation>
+        <translation>智慧相簿</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="92"/>
@@ -11382,7 +11382,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.ui" line="268"/>
         <source>Save as Smart Album...</source>
-        <translation>另存為智慧型相簿...</translation>
+        <translation>另存成智慧相簿...</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="330"/>
@@ -11668,7 +11668,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="50"/>
         <source>Preview background color</source>
-        <translation>預覽的背景色</translation>
+        <translation>預覽面板的背景色</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="75"/>
@@ -11799,7 +11799,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="42"/>
         <source>Preview</source>
-        <translation>預覽</translation>
+        <translation>預覽面板</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="139"/>
@@ -11820,7 +11820,7 @@ Do you want to remove them?</source>
         <location filename="DlgSettingsBrowser.ui" line="438"/>
         <source>Clear the list of checked files</source>
         <oldsource>Clear the list of tagged files</oldsource>
-        <translation>清除檔案已勾選的列表</translation>
+        <translation>清除所有的勾選 (所有的檔案列表)</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="446"/>
@@ -11921,7 +11921,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsCache.cpp" line="163"/>
         <source>Database [catalog: %1 %2 - metadata: %5 %6 - thumbnails: %3 %4]</source>
-        <translation>資料庫 [目錄: %1 %2 - 後製資料: %5 %6 - 縮圖: %3 %4]</translation>
+        <translation>資料庫 [後製資料: %1 %2 - EXIF: %5 %6 - 縮圖: %3 %4]</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="325"/>
@@ -13011,7 +13011,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="58"/>
         <source>Same as Catalog</source>
-        <translation>和 &apos;資料庫 - 目錄&apos; 一樣</translation>
+        <translation>和 &apos;資料庫 - 後製資料&apos; 一樣</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="156"/>
@@ -13118,7 +13118,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="280"/>
         <source>Database - Catalog</source>
-        <translation>資料庫 - 目錄</translation>
+        <translation>資料庫 - 後製資料</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="336"/>
@@ -13610,7 +13610,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2093"/>
         <location filename="DlgSettingsInterface.ui" line="2325"/>
         <source>No modifier</source>
-        <translation>無修飾器</translation>
+        <translation>無組合鍵</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1611"/>
@@ -13665,7 +13665,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1553"/>
         <source>Mouse</source>
-        <translation>滑鼠</translation>
+        <translation>滑鼠 + 鍵盤組合鍵</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1563"/>
@@ -13848,7 +13848,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2379"/>
         <source>Switching modes</source>
-        <translation>切換選項</translation>
+        <translation>切換模式</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2406"/>
@@ -13984,7 +13984,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="398"/>
         <source>Update master file</source>
-        <translation>更新主檔</translation>
+        <translation>更新主檔案</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="463"/>
@@ -13999,7 +13999,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="494"/>
         <source>Encoding</source>
-        <translation>編碼</translation>
+        <translation>字元編碼</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="508"/>
@@ -14190,7 +14190,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="916"/>
         <source>Icon spacing:</source>
-        <translation>圖示間距:</translation>
+        <translation>圖標間距:</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1116"/>
@@ -14495,7 +14495,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="528"/>
         <source>Reset X/Y position on file change (No fit)</source>
         <oldsource>Reset X/Y (No fit)</oldsource>
-        <translation>檔案更改時重置 X/Y 位置 (不調整)</translation>
+        <translation>檔案更改時重置 X/Y 位置 (不調整縮放)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="549"/>
@@ -20181,7 +20181,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="323"/>
         <source>Map</source>
-        <translation>對映</translation>
+        <translation>地圖</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="463"/>
@@ -20429,7 +20429,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="638"/>
         <source>New image...</source>
-        <translation>新增影像...</translation>
+        <translation>建立新影像...</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="19"/>
@@ -21128,7 +21128,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="305"/>
         <location filename="BrowserMenu.h" line="616"/>
         <source>Metadata</source>
-        <translation>後製資料</translation>
+        <translation>後製資料:</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="617"/>
@@ -22399,7 +22399,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="558"/>
         <source>New image...</source>
-        <translation>新增影像...</translation>
+        <translation>建立新影像...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="451"/>
@@ -22615,7 +22615,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="518"/>
         <source>Map</source>
-        <translation>對映</translation>
+        <translation>漸層對應</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="519"/>
@@ -23677,7 +23677,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="PreviewInfo.cpp" line="537"/>
         <source>Map</source>
-        <translation>對映</translation>
+        <translation>地圖</translation>
     </message>
     <message>
         <location filename="PreviewInfo.cpp" line="615"/>
@@ -24617,7 +24617,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="ViewCropAction.cpp" line="240"/>
         <source>Show selection grid</source>
-        <translation>顯示選取區格線</translation>
+        <translation>顯示選取區網格</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="246"/>
