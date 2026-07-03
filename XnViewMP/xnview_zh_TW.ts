@@ -682,7 +682,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="2093"/>
         <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi-select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right-click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
-        <translation>&lt;b&gt;後製資料篩選器&lt;/b&gt;&lt;br&gt;左鍵單擊項目開始篩選流程：&lt;br&gt;&amp;bull; Shift - 整段選取&lt;br&gt;&amp;bull; Ctrl/Cmd - 多重選取&lt;br&gt;&amp;bull; Alt/Opt - 排除項目&lt;br&gt;單擊右鍵開啟功能選單&lt;br&gt;將檔案拖放到項目上進行指派</translation>
+        <translation>&lt;b&gt;後製資料篩選器&lt;/b&gt;&lt;br&gt;左鍵單擊項目開始篩選流程：&lt;br&gt;&amp;bull; Shift - 整段選取&lt;br&gt;&amp;bull; Ctrl/Cmd - 多重選取&lt;br&gt;&amp;bull; Alt/Opt - 排除項目&lt;br&gt;右鍵單擊開啟功能選單&lt;br&gt;將檔案拖放到項目上進行指派</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3509"/>
@@ -2849,7 +2849,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgBatchResize.ui" line="1357"/>
         <source>Rotate images according to EXIF orientation tag</source>
-        <translation>依據EXIF方向標籤旋轉影像</translation>
+        <translation>依據 EXIF 方向標籤旋轉影像</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1371"/>
@@ -5376,7 +5376,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="1794"/>
         <source>Rotate images according to EXIF orientation tag</source>
-        <translation>依據EXIF方向標籤旋轉影像</translation>
+        <translation>依據 EXIF 方向標籤旋轉影像</translation>
     </message>
     <message>
         <location filename="DlgConvert-old.ui" line="1891"/>
@@ -5409,7 +5409,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertCleanMeta.ui" line="52"/>
         <source>ICC profile</source>
-        <translation>ICC色彩特性檔案</translation>
+        <translation>ICC 色彩特性檔案</translation>
     </message>
 </context>
 <context>
@@ -7271,7 +7271,7 @@ Do you want to continue?</source>
         <location filename="DlgDBClean.ui" line="14"/>
         <source>Catalog maintenance</source>
         <oldsource>Catalog optimization</oldsource>
-        <translation>類別目錄維護</translation>
+        <translation>資料庫維護</translation>
     </message>
     <message>
         <location filename="DlgDBClean.ui" line="20"/>
@@ -7576,7 +7576,7 @@ Do you want to continue?</source>
         <location filename="DlgEditGps.cpp" line="30"/>
         <source>ExifTool is not installed in AddOn folder!</source>
         <oldsource>ExifTool is not installed in Addon folder!</oldsource>
-        <translation>ExifTool 未安裝在附加元件資料夾 &apos;AddOns&apos; 中！</translation>
+        <translation>ExifTool 未安裝在附加元件資料夾 &apos;AddOn&apos; 中！</translation>
     </message>
 </context>
 <context>
@@ -8014,7 +8014,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExportCatalog.ui" line="14"/>
         <source>Catalog export</source>
-        <translation>匯出類別目錄</translation>
+        <translation>資料庫匯出</translation>
     </message>
     <message>
         <location filename="DlgExportCatalog.ui" line="22"/>
@@ -8025,12 +8025,12 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgExportCatalog.ui" line="41"/>
         <source>Export Rating &amp;&amp; Color labels</source>
         <oldsource>Export Rating &amp;&amp; Label</oldsource>
-        <translation>匯出 評分/顏色標籤</translation>
+        <translation>匯出 評分和顏色標籤</translation>
     </message>
     <message>
         <location filename="DlgExportCatalog.ui" line="48"/>
         <source>Export all files from catalog</source>
-        <translation>匯出類別目錄中快取的檔案列表</translation>
+        <translation>匯出資料庫中全部的檔案紀錄</translation>
     </message>
     <message>
         <location filename="DlgExportCatalog.h" line="35"/>
@@ -9694,12 +9694,12 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgMessage.cpp" line="77"/>
         <source>Catalog</source>
-        <translation>類別目錄</translation>
+        <translation>資料庫</translation>
     </message>
     <message>
         <location filename="DlgMessage.cpp" line="79"/>
         <source>Catalog Thumbnails</source>
-        <translation>類別目錄縮圖</translation>
+        <translation>目錄縮圖</translation>
     </message>
 </context>
 <context>
@@ -11362,7 +11362,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.ui" line="158"/>
         <source>Catalog</source>
-        <translation>類別目錄</translation>
+        <translation>資料庫</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="226"/>
@@ -11597,7 +11597,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsCache.h" line="15"/>
         <source>Catalog</source>
-        <translation>類別目錄</translation>
+        <translation>資料庫</translation>
     </message>
     <message>
         <location filename="DlgSettings.cpp" line="359"/>
@@ -11708,12 +11708,12 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="233"/>
         <source>2 bars (top and bottom)</source>
-        <translation>2 列 (頂部 及 底部)</translation>
+        <translation>2 列 (上方 及 下方)</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="238"/>
         <source>2 bars (top)</source>
-        <translation>2 列 (頂部)</translation>
+        <translation>2 列 (上方)</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="270"/>
@@ -11820,7 +11820,7 @@ Do you want to remove them?</source>
         <location filename="DlgSettingsBrowser.ui" line="438"/>
         <source>Clear the list of checked files</source>
         <oldsource>Clear the list of tagged files</oldsource>
-        <translation>清除勾選的檔案列表</translation>
+        <translation>清除檔案已勾選的列表</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="446"/>
@@ -11875,7 +11875,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="91"/>
         <source>Change EXIF orientation ONLY (if possible)</source>
-        <translation>只變更EXIF方向 (可能的話)</translation>
+        <translation>只變更 EXIF 方向 (可能的話)</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="98"/>
@@ -11921,7 +11921,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsCache.cpp" line="163"/>
         <source>Database [catalog: %1 %2 - metadata: %5 %6 - thumbnails: %3 %4]</source>
-        <translation>資料庫 [類別目錄: %1 %2 - 後製資料: %5 %6 - 縮圖: %3 %4]</translation>
+        <translation>資料庫 [目錄: %1 %2 - 後製資料: %5 %6 - 縮圖: %3 %4]</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="325"/>
@@ -11932,7 +11932,7 @@ Do you want to remove them?</source>
         <location filename="DlgSettingsCache.cpp" line="334"/>
         <source>Catalog - Absolute/Relative paths</source>
         <oldsource>Change absolute/relative paths</oldsource>
-        <translation>類別目錄 - 絕對/相對路徑</translation>
+        <translation>資料庫 - 絕對/相對路徑</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="334"/>
@@ -11949,12 +11949,12 @@ Do you want to change the &apos;base path&apos;?</source>
         <location filename="DlgSettingsCache.cpp" line="421"/>
         <location filename="DlgSettingsCache.cpp" line="662"/>
         <source>Catalog - Remove Entries</source>
-        <translation>類別目錄 - 移除項目</translation>
+        <translation>資料庫 - 移除項目</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="572"/>
         <source>Catalog - Synchronize Folders</source>
-        <translation>類別目錄 - 同步資料夾</translation>
+        <translation>資料庫 - 同步資料夾</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="573"/>
@@ -11962,7 +11962,7 @@ Do you want to change the &apos;base path&apos;?</source>
 
 Do you want to continue?</source>
         <oldsource>Warning! This operation will delete all orphaned files from catalog. Do you want to continue?</oldsource>
-        <translation>警告！這個動作將會從類別目錄中刪除所有孤立檔案的紀錄.
+        <translation>警告！這個動作將會從資料庫中刪除所有孤立檔案的紀錄.
 
 您確定要繼續？</translation>
     </message>
@@ -11975,7 +11975,7 @@ Do you want to continue?</source>
         <location filename="DlgSettingsCache.cpp" line="621"/>
         <source>Catalog - Relocate the folder</source>
         <oldsource>Relocate the folder</oldsource>
-        <translation>類別目錄 - 重新定位資料夾</translation>
+        <translation>資料庫 - 重新定位資料夾</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="621"/>
@@ -11990,7 +11990,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgSettingsCache.cpp" line="639"/>
         <source>Catalog Maintenance</source>
-        <translation>類別目錄維護</translation>
+        <translation>資料庫維護</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="640"/>
@@ -12017,12 +12017,12 @@ Do you want to remove entries assigned to a Category?</source>
 (If information are exported into embedded or sidecar metadata, you&apos;ll be able to re-import them later)
 
 Do you want to remove entries assigned to a category?</oldsource>
-        <translation>注意！此動作將會移除已指派有 &apos;類別、評分、顏色標籤&apos; 的類別目錄項目紀錄.
+        <translation>注意！此動作將會移除已指派有 &apos;類別、評分、顏色標籤&apos; 的資料庫項目紀錄.
 
 若相關資訊已有匯出到 &apos;主檔案內嵌&apos; 或 &apos;Sidecar並行檔案內嵌&apos; 的後製資料中, 
 您便可以之後再由檔案重新匯入它們.
 
-您確定要移除已指派在類別目錄中的項目嗎？</translation>
+您確定要移除 &apos;已指派並儲存在資料庫中的&apos; 項目紀錄嗎？</translation>
     </message>
 </context>
 <context>
@@ -12052,12 +12052,12 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettingsCache.ui" line="36"/>
         <source>Catalog</source>
-        <translation>類別目錄</translation>
+        <translation>資料庫</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="42"/>
         <source>Enable Catalog</source>
-        <translation>啟用類別目錄</translation>
+        <translation>啟用資料庫</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="105"/>
@@ -12088,7 +12088,7 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettingsCache.ui" line="258"/>
         <source>Check integrity of catalog at startup</source>
-        <translation>啟動時檢查類別目錄的完整性</translation>
+        <translation>啟動時檢查資料庫的完整性</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="282"/>
@@ -12438,7 +12438,7 @@ Thumbnail</source>
         <location filename="DlgSettingsFilelist.ui" line="260"/>
         <source>Used by Filter › Custom</source>
         <oldsource>Used by Filter&gt;Custom</oldsource>
-        <translation>此設定將被用於 &apos;(檢視 &gt;) 列表篩選 › 自訂&apos;</translation>
+        <translation>此設定將被使用於 &apos;(瀏覽器的選單列 › 檢視 ›) 列表篩選 › 自訂&apos;</translation>
     </message>
 </context>
 <context>
@@ -13011,7 +13011,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="58"/>
         <source>Same as Catalog</source>
-        <translation>和類別目錄一樣</translation>
+        <translation>和 &apos;資料庫 - 目錄&apos; 一樣</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="156"/>
@@ -13118,7 +13118,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="280"/>
         <source>Database - Catalog</source>
-        <translation>資料庫 - 類別目錄</translation>
+        <translation>資料庫 - 目錄</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="336"/>
@@ -13271,7 +13271,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="118"/>
         <source>Purge &apos;Recent files and folders&apos; on exit</source>
-        <translation>離開時清除&apos;最近使用的檔案和資料夾&apos;紀錄</translation>
+        <translation>離開時清除 &apos;最近使用的檔案和資料夾&apos; 紀錄</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="221"/>
@@ -13397,7 +13397,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="423"/>
         <source>ToolBar</source>
-        <translation>工具列:</translation>
+        <translation>瀏覽器工具列 / 檢視器工具列</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="170"/>
@@ -13753,7 +13753,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="948"/>
         <source>Browser - Preview</source>
-        <translation>瀏覽 - 預覽</translation>
+        <translation>瀏覽器 - 預覽面板</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1216"/>
@@ -13954,7 +13954,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="159"/>
         <source>Update catalog when file is modified outside (file date/size)</source>
-        <translation>當檔案在外部有被修改過, 便更新類別目錄 (以 &apos;檔案日期/大小&apos; 作判斷)</translation>
+        <translation>當檔案在外部有被修改過, 便更新資料庫 (以 &apos;檔案日期/大小&apos; 作判斷)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="230"/>
@@ -14027,7 +14027,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsKeywords.ui" line="764"/>
         <location filename="DlgSettingsKeywords.ui" line="1071"/>
         <source>Label</source>
-        <translation>標籤</translation>
+        <translation>標籤名稱</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="1057"/>
@@ -14404,7 +14404,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsThumbnail.ui" line="976"/>
         <source>Browser › View › View as › Thumbnails + Labels</source>
         <oldsource>Browser - Thumbnail</oldsource>
-        <translation>瀏覽器 › 檢視 › 列表檢視 › 縮圖 + 標籤</translation>
+        <translation>此設定將顯示於 &apos;(瀏覽器的選單列 › 檢視 ›) 列表檢視 › 縮圖 + 標籤&apos;</translation>
     </message>
 </context>
 <context>
@@ -20217,17 +20217,17 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="517"/>
         <source>Set Rating</source>
-        <translation>設定評分</translation>
+        <translation>指派評分</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="518"/>
         <source>Set Color label</source>
-        <translation>設定顏色標籤</translation>
+        <translation>指派顏色標籤</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="519"/>
         <source>Set Category</source>
-        <translation>設定類別</translation>
+        <translation>指派類別</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="550"/>
@@ -20247,7 +20247,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="601"/>
         <source>Open GPS location in</source>
-        <translation>開啟GPS地點於</translation>
+        <translation>開啟 GPS 地點於</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="608"/>
@@ -20363,7 +20363,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="548"/>
         <source>Update files from catalog</source>
-        <translation>由類別目錄更新檔案 (列表裡全部或已選取的檔案)</translation>
+        <translation>由資料庫更新檔案 (列表裡全部或已選取的檔案)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="579"/>
@@ -20554,7 +20554,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="541"/>
         <source>Toolbar</source>
-        <translation>工具列</translation>
+        <translation>瀏覽器工具列</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="542"/>
@@ -20613,7 +20613,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="568"/>
         <location filename="BrowserMenu.h" line="664"/>
         <source>Preview</source>
-        <translation>預覽</translation>
+        <translation>預覽面板</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="306"/>
@@ -20957,12 +20957,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="546"/>
         <source>Update catalog from files</source>
-        <translation>由檔案更新類別目錄 (列表裡全部或已選取的檔案)</translation>
+        <translation>由檔案更新資料庫 (列表裡全部或已選取的檔案)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="547"/>
         <source>Update catalog from files (+options)...</source>
-        <translation>由檔案更新類別目錄 (列表裡全部或已選取的檔案)...</translation>
+        <translation>由檔案更新資料庫 (列表裡全部或已選取的檔案)...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="549"/>
@@ -21281,12 +21281,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="672"/>
         <source>Clear &amp;&amp; Import...</source>
-        <translation>清除並匯入類別目錄...</translation>
+        <translation>清除並匯入 (資料庫)...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="673"/>
         <source>Catalog</source>
-        <translation>類別目錄</translation>
+        <translation>資料庫</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="675"/>
@@ -22172,7 +22172,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="469"/>
         <source>Open GPS location in</source>
-        <translation>開啟GPS地點於</translation>
+        <translation>開啟 GPS 地點於</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="472"/>
@@ -22425,12 +22425,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="409"/>
         <source>Set Rating</source>
-        <translation>設定評分</translation>
+        <translation>指派評分</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="410"/>
         <source>Set Color label</source>
-        <translation>設定顏色標籤</translation>
+        <translation>指派顏色標籤</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="449"/>
@@ -22881,7 +22881,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyAddFolderProcess.h" line="55"/>
         <source>Building catalog entries...</source>
-        <translation>建立類別目錄的項目...</translation>
+        <translation>建立資料庫的項目...</translation>
     </message>
 </context>
 <context>
@@ -23083,7 +23083,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyLittleToolBar.h" line="774"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation>&lt;b&gt;點擊左圖示切換滑桿的 2 種模式:&lt;/b&gt;&lt;br&gt;&amp;bull; 調整縮圖的固定尺寸(像素)&lt;br&gt;&amp;bull; 調整縮圖的每列固定數量</translation>
+        <translation>&lt;b&gt;點擊左圖示切換滑桿的 2 種模式:&lt;/b&gt;&lt;br&gt;&amp;bull; 調整縮圖的固定尺寸 (像素)&lt;br&gt;&amp;bull; 調整縮圖的每列固定數量</translation>
     </message>
 </context>
 <context>
@@ -23091,7 +23091,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyLittleToolBar.h" line="385"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation>&lt;b&gt;點擊左圖示切換滑桿的 2 種模式:&lt;/b&gt;&lt;br&gt;&amp;bull; 調整縮圖的固定尺寸(像素)&lt;br&gt;&amp;bull; 調整縮圖的每列固定數量</translation>
+        <translation>&lt;b&gt;點擊左圖示切換滑桿的 2 種模式:&lt;/b&gt;&lt;br&gt;&amp;bull; 調整縮圖的固定尺寸 (像素)&lt;br&gt;&amp;bull; 調整縮圖的每列固定數量</translation>
     </message>
 </context>
 <context>
@@ -23166,12 +23166,12 @@ You can change it in Settings › Catalog.</source>
         <oldsource>Size of cached thumbnails is smaller than choosen one. 
 You can change it in Settings › Catalog.</oldsource>
         <translation>快取縮圖的尺寸小於所選尺寸.
-您可以在 &apos;設定 &gt; 類別目錄&apos; 中變更此設定.</translation>
+您可以在 &apos;設定 &gt; 資料庫&apos; 中變更此設定.</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="761"/>
         <source>Updating catalog, please wait...</source>
-        <translation>更新類別目錄中, 請稍候…</translation>
+        <translation>更新資料庫中, 請稍候…</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="779"/>
@@ -24546,7 +24546,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="ToolbarSearch.cpp" line="173"/>
         <source>Categories (catalog)</source>
-        <translation>類別 (類別目錄)</translation>
+        <translation>類別 (資料庫)</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="178"/>
@@ -24829,12 +24829,12 @@ You can change it in Settings › Catalog.</oldsource>
         <location filename="xnview.cpp" line="401"/>
         <location filename="xnview.cpp" line="408"/>
         <source>Catalog</source>
-        <translation>類別目錄</translation>
+        <translation>資料庫</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="395"/>
         <source>XnViewMP - Catalog has a more recent version number than the expected one</source>
-        <translation>XnViewMP - 類別目錄有著比預期更加新的版本</translation>
+        <translation>XnViewMP - 資料庫有著比預期更加新的版本</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="401"/>
@@ -24842,7 +24842,7 @@ You can change it in Settings › Catalog.</oldsource>
 
 Do you want to keep the thumbnails?
  (If you choose YES, the upgrade process will be slow)</source>
-        <translation>XnViewMP 將升級類別目錄. 可能會花費一些時間.
+        <translation>XnViewMP 將升級資料庫. 可能會花費一些時間.
 
 您要保留縮圖嗎？
  (若您選擇 &apos;是&apos;, 則升級過程會執行得較久)</translation>
@@ -24851,27 +24851,27 @@ Do you want to keep the thumbnails?
         <location filename="xnview.cpp" line="405"/>
         <source>Upgrading catalog, please wait...</source>
         <oldsource>Upgrading catalog, please wait... </oldsource>
-        <translation>升級類別目錄中, 請稍候...</translation>
+        <translation>升級資料庫中, 請稍候...</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="484"/>
         <source>Catalog problem</source>
-        <translation>類別目錄出現錯誤</translation>
+        <translation>資料庫出現錯誤</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="484"/>
         <source>There is a problem to open catalog, check your settings or folder used!</source>
-        <translation>開啟類別目錄時有錯誤, 請檢查您的設定或使用的資料夾！</translation>
+        <translation>開啟資料庫時有錯誤, 請檢查您的設定或使用的資料夾！</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="493"/>
         <source>Catalog update</source>
-        <translation>更新類別目錄</translation>
+        <translation>更新資料庫</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="493"/>
         <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
-        <translation>如果您想要使用 &apos;後製資料篩選器&apos; 中的新項目, 則您需要先更新類別目錄 (設定 &gt; 類別目錄 &gt; 更新後製資料) </translation>
+        <translation>若您想要使用 &apos;後製資料篩選器&apos; 中的新增項目, 則您需要先更新資料庫 (設定 &gt; 資料庫 &gt; 更新後製資料) </translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="889"/>
@@ -24899,7 +24899,7 @@ Do you want to keep the thumbnails?
         <source>Catalog is disabled
 Metadata (check, ratings/colour labels and other file details)
 will not be saved to the database.</source>
-        <translation>類別目錄已被停用
+        <translation>資料庫已被停用
 後製資料 (勾選、評分、顏色標籤、其它檔案詳細紀錄)
 將不會儲存到資料庫中.</translation>
     </message>
@@ -24913,7 +24913,7 @@ will not be saved to the database.</source>
         <source>There is a problem to update Catalog:
 (Error: % 1)
 Please contact the developer.</source>
-        <translation>更新類別目錄時出現錯誤:
+        <translation>更新資料庫時出現錯誤:
 (錯誤: % 1)
 請聯繫開發人員.</translation>
     </message>
