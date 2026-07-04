@@ -424,12 +424,12 @@
     <message>
         <location filename="ViewWindow.cpp" line="4122"/>
         <source>Expand canvas</source>
-        <translation type="unfinished"></translation>
+        <translation>キャンバスを拡張</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4122"/>
         <source>Do you want to expand the canvas?</source>
-        <translation type="unfinished"></translation>
+        <translation>キャンバスを拡張しますか？</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4549"/>
@@ -1105,7 +1105,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="CompareWidget.cpp" line="55"/>
         <source>Clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>クリッピング</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="573"/>
@@ -2130,7 +2130,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DBFilterModel.cpp" line="168"/>
         <source>No face</source>
-        <translation type="unfinished"></translation>
+        <translation>顔なし</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="169"/>
@@ -2462,7 +2462,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgBanner.ui" line="23"/>
         <source>&lt;html&gt;&lt;p&gt;All banner specifications (font, color, size, etc.) carry forward from the previously created banner. An exception is text size, which is calculated to &apos;Best fit&apos; for banner height.&lt;/p&gt;&lt;p&gt;You may select multiple images to apply the same banner to several images at once. Note that the text will be the same size in all images, then.&lt;/p&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; align=&quot;left&quot; style=&quot;border-bottom:1px solid gray;padding-top:15px&quot;&gt;Shortcuts&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Increase/decrease font size by 2 points&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Shift+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Increase/decrease banner size by 1%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+S&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Start banner creation&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;p&gt;すべてのバナー設定（フォント、色、サイズなど）は、前回作成したバナーから引き継がれます。ただし、テキストサイズだけは例外で、バナーの高さに合わせて「最適なサイズ」に自動調整されます。&lt;/p&gt;&lt;p&gt;複数の画像を選択すると、同じバナーをまとめて適用できます。その場合、すべての画像でテキストサイズは同じになります。&lt;/p&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; align=&quot;left&quot; style=&quot;border-bottom:1px solid gray;padding-top:15px&quot;&gt;ショートカット&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;フォントサイズを 2pt ずつ拡大／縮小&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Shift+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;バナーサイズを1%ずつ拡大／縮小&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+S&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;バナー作成を開始&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;p&gt;すべてのバナー設定（フォント、色、サイズなど）は、前回作成したバナーから引き継がれます。例外はテキストサイズで、これはバナーの高さに合わせて「最適フィット」で自動計算されます。&lt;/p&gt;&lt;p&gt;複数の画像を選択すると、同じバナーを一度に複数の画像へ適用できます。ただし、その場合はすべての画像でテキストサイズが同じになります。&lt;/p&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; align=&quot;left&quot; style=&quot;border-bottom:1px solid gray;padding-top:15px&quot;&gt;ショートカット&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+「＋」/「−」&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;フォントサイズを 2 ポイント増減&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Shift+「＋」/「−」&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;バナーサイズを 1% 増減&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+S&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;バナー作成を開始&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="DlgBanner.ui" line="177"/>
@@ -7754,12 +7754,12 @@ Do you want to save your changes?</source>
     <message>
         <location filename="DlgEditXMP.cpp" line="398"/>
         <source>Enter a template name</source>
-        <translation type="unfinished"></translation>
+        <translation>テンプレート名を入力</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="398"/>
         <source>Template name:</source>
-        <translation type="unfinished"></translation>
+        <translation>テンプレート名:</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="452"/>
@@ -9215,7 +9215,7 @@ Subfolders will be created. </source>
     <message>
         <location filename="DlgImport.cpp" line="223"/>
         <source>Open Metadata Template</source>
-        <translation type="unfinished"></translation>
+        <translation>メタデータテンプレートを開く</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="240"/>
@@ -10830,12 +10830,12 @@ Please install it via Tools › Plugins</source>
     <message>
         <location filename="DlgRename.cpp" line="105"/>
         <source>Rename</source>
-        <translation type="unfinished">名前の変更</translation>
+        <translation>名前の変更</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="106"/>
         <source>Close</source>
-        <translation type="unfinished">閉じる</translation>
+        <translation>閉じる</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="356"/>
@@ -10850,27 +10850,27 @@ Do you want to remove them?</source>
         <location filename="DlgRename.cpp" line="1287"/>
         <location filename="DlgRename.cpp" line="1294"/>
         <source>Save preset</source>
-        <translation type="unfinished">プリセットを保存</translation>
+        <translation>プリセットを保存</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1287"/>
         <source>Preset name:</source>
-        <translation type="unfinished">プリセット名:</translation>
+        <translation>プリセット名:</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1295"/>
         <source>Preset &apos;%1&apos; already exists. Overwrite?</source>
-        <translation type="unfinished"></translation>
+        <translation>プリセット「%1」は既に存在します。上書きしますか？</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1318"/>
         <source>Delete preset</source>
-        <translation type="unfinished"></translation>
+        <translation>プリセットを削除</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1319"/>
         <source>Delete preset &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>プリセット「%1」を削除しますか？</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1347"/>
@@ -10959,17 +10959,17 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgRename.ui" line="490"/>
         <source>Presets:</source>
-        <translation type="unfinished">プリセット：</translation>
+        <translation>プリセット：</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="507"/>
         <source>Save preset</source>
-        <translation type="unfinished">プリセットを保存</translation>
+        <translation>プリセットを保存</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="521"/>
         <source>Remove preset from list</source>
-        <translation type="unfinished">リストからプリセットを除去</translation>
+        <translation>リストからプリセットを除去</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="110"/>
@@ -11010,17 +11010,17 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgRename.ui" line="323"/>
         <source>Add files...</source>
-        <translation type="unfinished">ファイルの追加...</translation>
+        <translation>ファイルの追加...</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="337"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>除去</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="351"/>
         <source>Remove all</source>
-        <translation type="unfinished">すべて除去</translation>
+        <translation>すべて除去</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="441"/>
@@ -12049,7 +12049,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsCache.cpp" line="163"/>
         <source>Database [catalog: %1 %2 - metadata: %5 %6 - thumbnails: %3 %4]</source>
-        <translation type="unfinished"></translation>
+        <translation>データベース［カタログ: %1 %2 - メタデータ: %5 %6 - サムネイル: %3 %4］</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="325"/>
@@ -12225,12 +12225,12 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettingsCache.ui" line="282"/>
         <source>Maintenance</source>
-        <translation type="unfinished"></translation>
+        <translation>メンテナンス</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="323"/>
         <source>Filter</source>
-        <translation type="unfinished">フィルター</translation>
+        <translation>フィルター</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="354"/>
@@ -12290,13 +12290,13 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettingsCache.ui" line="364"/>
         <source>Metadata</source>
-        <translation type="unfinished">メタデータ</translation>
+        <translation>メタデータ</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="369"/>
         <source>Thumbnails</source>
         <oldsource>Thumbnail</oldsource>
-        <translation type="unfinished">サムネイル</translation>
+        <translation>サムネイル</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="478"/>
@@ -12850,7 +12850,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="112"/>
         <source>Grey</source>
-        <translation type="unfinished">グレー</translation>
+        <translation>グレー</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="117"/>
@@ -14076,22 +14076,22 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="159"/>
         <source>Update catalog when file is modified outside (file date/size)</source>
-        <translation type="unfinished"></translation>
+        <translation>外部でファイルが変更された場合にカタログを更新（ファイル日付／サイズ）</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="230"/>
         <source>Update keywords when file is modified outside (file date/size)</source>
-        <translation type="unfinished"></translation>
+        <translation>外部でファイルが変更された場合にキーワードを更新（ファイル日付／サイズ）</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="246"/>
         <source>Read Hierarchical keywords</source>
-        <translation type="unfinished"></translation>
+        <translation>階層キーワードを読み込む</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="340"/>
         <source>Write Hierarchical keywords (| as separator)</source>
-        <translation type="unfinished"></translation>
+        <translation>階層キーワードを書き込む（区切り文字：|）</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="131"/>
@@ -14137,7 +14137,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="684"/>
         <source>Rating labels</source>
-        <translation type="unfinished"></translation>
+        <translation>レーティングラベル</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="764"/>
@@ -14194,12 +14194,12 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="83"/>
         <source>File</source>
-        <translation type="unfinished">ファイル</translation>
+        <translation>ファイル</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="214"/>
         <source>XMP (dc:description and exif:UserComment)</source>
-        <translation type="unfinished"></translation>
+        <translation>XMP（dc:description と exif:UserComment）</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="224"/>
@@ -14409,12 +14409,12 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="898"/>
         <source>Audio</source>
-        <translation type="unfinished">音声</translation>
+        <translation>音声</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="916"/>
         <source>Icon spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation>アイコン間隔:</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1229"/>
@@ -14783,7 +14783,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="740"/>
         <source>Auto-play audio companion files</source>
-        <translation type="unfinished"></translation>
+        <translation>付随音声ファイルを自動再生</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="747"/>
@@ -16023,57 +16023,57 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="20"/>
         <source>Update database</source>
-        <translation type="unfinished"></translation>
+        <translation>データベースを更新</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="28"/>
         <source>Update from</source>
-        <translation type="unfinished"></translation>
+        <translation>更新元</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="35"/>
         <source>Sidecar/Master files</source>
-        <translation type="unfinished"></translation>
+        <translation>サイドカー／マスター ファイル</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="42"/>
         <source>Master files only</source>
-        <translation type="unfinished"></translation>
+        <translation>マスターファイルのみ</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="64"/>
         <source>Use modified files only</source>
-        <translation type="unfinished"></translation>
+        <translation>変更されたファイルのみを使用</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="20"/>
         <source>Update</source>
-        <translation type="unfinished">更新</translation>
+        <translation>更新</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="21"/>
         <source>Stop</source>
-        <translation type="unfinished">停止</translation>
+        <translation>停止</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="51"/>
         <source>%1 file(s) to process</source>
-        <translation type="unfinished"></translation>
+        <translation>処理するファイル数:%1</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="125"/>
         <source>Update cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>更新をキャンセルしました</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="125"/>
         <source>Update completed</source>
-        <translation type="unfinished"></translation>
+        <translation>更新が完了しました</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="147"/>
         <source>Stopping...</source>
-        <translation type="unfinished"></translation>
+        <translation>停止しています…</translation>
     </message>
 </context>
 <context>
@@ -17401,7 +17401,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="74"/>
         <source>Bits per channel</source>
-        <translation type="unfinished"></translation>
+        <translation>チャンネルあたりのビット数</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="76"/>
@@ -17421,7 +17421,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="78"/>
         <source>Indexed</source>
-        <translation type="unfinished"></translation>
+        <translation>インデックスカラー</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="80"/>
@@ -17500,7 +17500,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="172"/>
         <source>F-Number</source>
-        <translation type="unfinished"></translation>
+        <translation>F値</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="179"/>
@@ -17647,12 +17647,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="170"/>
         <source>Exposure Time</source>
-        <translation type="unfinished"></translation>
+        <translation>露出時間</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="174"/>
         <source>True ISO</source>
-        <translation type="unfinished"></translation>
+        <translation>実効ISO</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="213"/>
@@ -18088,7 +18088,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoCategoryView.cpp" line="1412"/>
         <location filename="InfoCategoryView.cpp" line="1483"/>
         <source>Are you sure to delete these categories?</source>
-        <translation type="unfinished">これらのカテゴリーを削除してよろしいですか？</translation>
+        <translation>これらのカテゴリーを削除してよろしいですか？</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="1503"/>
@@ -19174,7 +19174,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="SearchField.cpp" line="67"/>
         <location filename="TemplateData.cpp" line="2781"/>
         <source>Fixture ID</source>
-        <translation type="unfinished"></translation>
+        <translation>識別子</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="65"/>
@@ -20137,7 +20137,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MediaPlayer.cpp" line="362"/>
         <source>Save frame as...</source>
-        <translation type="unfinished">フレームを保存...</translation>
+        <translation>フレームを保存...</translation>
     </message>
     <message>
         <location filename="MediaPlayer.cpp" line="365"/>
@@ -20395,7 +20395,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="66"/>
         <source>Name - natural order</source>
         <oldsource>Name - numeric order</oldsource>
-        <translation type="unfinished">名前 - 数字順</translation>
+        <translation>名前（自然順）</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="68"/>
@@ -21350,12 +21350,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="546"/>
         <source>Update catalog from files</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルからカタログを更新</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="547"/>
         <source>Update catalog from files (+options)...</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルからカタログを更新（オプション付き）…</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="549"/>
@@ -21371,7 +21371,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="552"/>
         <source>Play/Stop audio companion</source>
-        <translation type="unfinished"></translation>
+        <translation>音声メモを再生 / 停止</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="554"/>
@@ -21570,7 +21570,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="631"/>
         <source>Import...</source>
-        <translation type="unfinished">インポート...</translation>
+        <translation>インポート...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="639"/>
@@ -21656,12 +21656,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="668"/>
         <source>Show clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>クリッピングを表示</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="669"/>
         <source>Channel clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>チャンネルクリッピング</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="672"/>
@@ -21828,7 +21828,7 @@ Do you want to continue?</oldsource>
         <location filename="TemplateData.cpp" line="2600"/>
         <source>h - Hour (01-12)</source>
         <oldsource>h - Hour (01-21)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>h - 時（01-12）</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2601"/>
@@ -22280,7 +22280,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="449"/>
         <source>Play/Pause media</source>
-        <translation type="unfinished"></translation>
+        <translation>メディアを再生／一時停止</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="502"/>
@@ -22564,7 +22564,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="422"/>
         <source>Center image</source>
-        <translation type="unfinished"></translation>
+        <translation>画像を中央に配置</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="456"/>
@@ -22585,17 +22585,17 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="459"/>
         <source>Show clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>クリッピングを表示</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="460"/>
         <source>Channel clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>チャンネルクリッピング</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="461"/>
         <source>Highlight &amp;&amp; Shadow clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>ハイライト／シャドウのクリッピング</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="471"/>
@@ -23062,17 +23062,17 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="Helper.h" line="120"/>
         <source>GiB</source>
-        <translation>GB</translation>
+        <translation>GiB</translation>
     </message>
     <message>
         <location filename="Helper.h" line="125"/>
         <source>MiB</source>
-        <translation>MB</translation>
+        <translation>MiB</translation>
     </message>
     <message>
         <location filename="Helper.h" line="130"/>
         <source>KiB</source>
-        <translation>KB</translation>
+        <translation>KiB</translation>
     </message>
     <message>
         <location filename="Helper.h" line="135"/>
@@ -23371,32 +23371,32 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyHistogram.cpp" line="227"/>
         <source>Show clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>クリッピングを表示</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="236"/>
         <source>Clipping mode</source>
-        <translation type="unfinished"></translation>
+        <translation>クリッピングモード</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="254"/>
         <source>Shadows</source>
-        <translation type="unfinished"></translation>
+        <translation>シャドウ</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="255"/>
         <source>Highlights</source>
-        <translation type="unfinished"></translation>
+        <translation>ハイライト</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="256"/>
         <source>Shadows + Highlights</source>
-        <translation type="unfinished"></translation>
+        <translation>シャドウ＋ハイライト</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="257"/>
         <source>Highlights (per channel)</source>
-        <translation type="unfinished"></translation>
+        <translation>ハイライト（チャンネル別）</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="263"/>
@@ -23490,7 +23490,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyTemplateComboEdit.h" line="192"/>
         <source>Do you want to delete all your name templates?</source>
-        <translation type="unfinished">すべてのテンプレートを削除してよろしいですか？</translation>
+        <translation>すべての名前テンプレートを削除しますか？</translation>
     </message>
     <message>
         <location filename="MyTemplateComboEdit.h" line="266"/>
@@ -23512,7 +23512,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="MyThumbView.cpp" line="761"/>
         <source>Updating catalog, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>カタログを更新しています。しばらくお待ちください…</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="779"/>
@@ -25231,12 +25231,12 @@ Do you want to keep the thumbnails?
     <message>
         <location filename="xnview.cpp" line="2642"/>
         <source>Tabs</source>
-        <translation type="unfinished">タブ</translation>
+        <translation>タブ</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="2642"/>
         <source>The tab bar is hidden, but tabs will still open. Set a tab limit in Settings&gt;Interface&gt;Tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>タブバーは非表示ですが、タブは開きます。設定 &gt; インターフェイス &gt; タブ でタブ数の上限を設定できます。</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="3142"/>
