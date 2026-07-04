@@ -7226,7 +7226,7 @@ Do you want to save your changes?</source>
     </message>
     <message>
         <source>EXIF date/time taken (if exists)</source>
-        <translation>Fecha/hora de captura [EXIF] (si existe)</translation>
+        <translation>Fecha/hora de la toma [EXIF] (si existe)</translation>
     </message>
     <message>
         <source>Required field</source>
@@ -10660,7 +10660,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>EXIF date taken</source>
-        <translation>Fecha de captura EXIF</translation>
+        <translation>Fecha de la toma EXIF</translation>
     </message>
     <message>
         <source>EXIF date modified</source>
@@ -12078,7 +12078,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>EXIF: Date taken</source>
-        <translation>EXIF: Fecha de captura</translation>
+        <translation>EXIF: Fecha de la toma</translation>
     </message>
     <message>
         <source>Modifying timestamp, please wait...</source>
@@ -12161,7 +12161,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>EXIF: Date taken</source>
-        <translation>EXIF: Fecha de captura</translation>
+        <translation>EXIF: Fecha de la toma</translation>
     </message>
     <message>
         <source>Increment at each image by</source>
@@ -13281,7 +13281,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>EXIF Date taken</source>
-        <translation>Fecha de captura EXIF</translation>
+        <translation>Fecha de la toma EXIF</translation>
     </message>
     <message>
         <source>EXIF Date modified</source>
@@ -13527,7 +13527,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Date taken</source>
-        <translation>Fecha de captura</translation>
+        <translation>Fecha de la toma</translation>
     </message>
     <message>
         <source>Copyright</source>
@@ -14159,7 +14159,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Date taken</source>
-        <translation>Fecha de captura</translation>
+        <translation>Fecha de la toma</translation>
     </message>
     <message>
         <source>File source</source>
@@ -14912,7 +14912,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>EXIF Date Taken</source>
-        <translation>Fecha de captura EXIF</translation>
+        <translation>Fecha de la toma EXIF</translation>
     </message>
     <message>
         <source>EXIF Date Modified</source>
@@ -15890,7 +15890,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>EXIF Date Taken</source>
-        <translation>Fecha de captura EXIF</translation>
+        <translation>Fecha de la toma EXIF</translation>
     </message>
     <message>
         <source>Edit IPTC...</source>
