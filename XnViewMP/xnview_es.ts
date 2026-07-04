@@ -782,7 +782,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>EXIF: Date taken</source>
-        <translation>EXIF: Fecha de captura</translation>
+        <translation>EXIF: Fecha de la toma</translation>
     </message>
     <message>
         <source>EXIF: Date modified</source>
@@ -5754,7 +5754,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Date taken</source>
-        <translation>Fecha de captura</translation>
+        <translation>Fecha de la toma</translation>
     </message>
     <message>
         <source>Date digitized</source>
