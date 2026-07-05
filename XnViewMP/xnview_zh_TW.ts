@@ -5428,12 +5428,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertColors.ui" line="213"/>
         <source>Dithering</source>
-        <translation>抖動</translation>
+        <translation>像素抖動/抖色</translation>
     </message>
     <message>
         <location filename="DlgConvertColors.ui" line="62"/>
         <source>24 bits</source>
-        <translation>24位元</translation>
+        <translation>24 bits</translation>
     </message>
     <message>
         <location filename="DlgConvertColors.ui" line="85"/>
@@ -5443,7 +5443,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertColors.ui" line="143"/>
         <source>32 bits</source>
-        <translation>32位元</translation>
+        <translation>32 bits</translation>
     </message>
     <message>
         <location filename="DlgConvertColors.ui" line="166"/>
@@ -8068,7 +8068,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExport.ui" line="545"/>
         <source>Dithering</source>
-        <translation>抖動</translation>
+        <translation>像素抖動/抖色</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="243"/>
@@ -9756,7 +9756,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgOpenWith.ui" line="14"/>
         <source>Configure programs</source>
         <oldsource>Configure programs...</oldsource>
-        <translation>程式設定</translation>
+        <translation>設定程式組態</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="47"/>
@@ -13458,7 +13458,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="164"/>
         <source>TitleBar</source>
-        <translation>標題列</translation>
+        <translation>視窗標題列</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="499"/>
@@ -17540,7 +17540,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="ItemModel.cpp" line="1040"/>
         <source>Bits</source>
-        <translation>位元 (Bits)</translation>
+        <translation>Bits (位元)</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="497"/>
@@ -22351,7 +22351,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="559"/>
         <source>Save All</source>
-        <translation>儲存所有</translation>
+        <translation>儲存全部</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="533"/>
@@ -23260,7 +23260,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="OpenWithMenu.cpp" line="381"/>
         <source>Configure programs...</source>
-        <translation>程式設定...</translation>
+        <translation>設定程式組態...</translation>
     </message>
 </context>
 <context>
