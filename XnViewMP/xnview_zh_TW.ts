@@ -106,7 +106,7 @@
     <message>
         <location filename="MyThumbSettings.cpp" line="759"/>
         <source>Unrated</source>
-        <translation>無評分</translation>
+        <translation>無評分標籤</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="760"/>
@@ -2037,7 +2037,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DBFilterModel.cpp" line="151"/>
         <location filename="DBFilterModel.cpp" line="193"/>
         <source>Rating</source>
-        <translation>評分</translation>
+        <translation>評分標籤</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="155"/>
@@ -6123,12 +6123,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertOffset.ui" line="250"/>
         <source>Repeat edges pixels</source>
-        <translation>重複邊界像素</translation>
+        <translation>重複延伸邊緣像素</translation>
     </message>
     <message>
         <location filename="DlgConvertOffset.ui" line="257"/>
         <source>Wrap image around</source>
-        <translation>回繞影像</translation>
+        <translation>影像重覆鋪排</translation>
     </message>
 </context>
 <context>
@@ -8025,7 +8025,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgExportCatalog.ui" line="41"/>
         <source>Export Rating &amp;&amp; Color labels</source>
         <oldsource>Export Rating &amp;&amp; Label</oldsource>
-        <translation>匯出 評分和顏色標籤</translation>
+        <translation>匯出 評分標籤和顏色標籤</translation>
     </message>
     <message>
         <location filename="DlgExportCatalog.ui" line="48"/>
@@ -11673,7 +11673,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="75"/>
         <source>Show ratings</source>
-        <translation>顯示評分</translation>
+        <translation>顯示評分標籤</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="111"/>
@@ -11708,12 +11708,12 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="233"/>
         <source>2 bars (top and bottom)</source>
-        <translation>2 列 (上方 及 下方)</translation>
+        <translation>2 列 (頂部 及 底部)</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="238"/>
         <source>2 bars (top)</source>
-        <translation>2 列 (上方)</translation>
+        <translation>2 列 (頂部)</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="270"/>
@@ -11860,7 +11860,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="407"/>
         <source>Rating (filter)</source>
-        <translation>評分 (篩選)</translation>
+        <translation>評分標籤 (篩選)</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="430"/>
@@ -12000,7 +12000,7 @@ Color labels, Keywords may be deleted.
 Do you want to check for affected entries first?</source>
         <oldsource>Warning! This operation may delete some database entries with assigned ratings/colors/keywords. Do you want to check for affected entries first?</oldsource>
         <translation>警告！此動作可能會刪除某些已指派有
-&apos;評分、顏色標籤、關鍵字&apos; 的資料庫項目紀錄.
+&apos;評分標籤、顏色標籤、關鍵字&apos; 的資料庫項目紀錄.
 
 您想先檢查受影響的項目嗎？</translation>
     </message>
@@ -12017,7 +12017,7 @@ Do you want to remove entries assigned to a Category?</source>
 (If information are exported into embedded or sidecar metadata, you&apos;ll be able to re-import them later)
 
 Do you want to remove entries assigned to a category?</oldsource>
-        <translation>注意！此動作將會移除已指派有 &apos;類別、評分、顏色標籤&apos; 的資料庫項目紀錄.
+        <translation>注意！此動作將會移除已指派有 &apos;類別、評分標籤、顏色標籤&apos; 的資料庫項目紀錄.
 
 若相關資訊已有匯出到 &apos;主檔案內嵌&apos; 或 &apos;Sidecar並行檔案內嵌&apos; 的後製資料中, 
 您便可以之後再由檔案重新匯入它們.
@@ -12126,7 +12126,7 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettingsCache.ui" line="430"/>
         <source>Maintenance...</source>
-        <translation>維護...</translation>
+        <translation>資料庫維護...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="437"/>
@@ -12142,7 +12142,7 @@ Do you want to remove entries assigned to a category?</oldsource>
         <location filename="DlgSettingsCache.ui" line="485"/>
         <source>Update metadata</source>
         <oldsource>Update metadata...</oldsource>
-        <translation>更新後製資料</translation>
+        <translation>更新資料庫</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="542"/>
@@ -14047,7 +14047,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="59"/>
         <source>Rating</source>
-        <translation>評分</translation>
+        <translation>評分標籤</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="73"/>
@@ -14358,7 +14358,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="677"/>
         <source>Rating</source>
-        <translation>評分</translation>
+        <translation>評分標籤</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="691"/>
@@ -14636,7 +14636,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="514"/>
         <source>Show Rating &amp;&amp; Color labels</source>
         <oldsource>Show Rating &amp;&amp; Label color</oldsource>
-        <translation>顯示 評分 和 顏色標籤</translation>
+        <translation>顯示 評分標籤和顏色標籤</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="696"/>
@@ -14776,7 +14776,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="1095"/>
         <source>Always show in fullscreen</source>
-        <translation>總是以全螢幕顯示</translation>
+        <translation>全螢幕時總是顯示</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1077"/>
@@ -16758,7 +16758,7 @@ Do you want to continue?</source>
     <message>
         <location filename="EditXMPWidget.ui" line="114"/>
         <source>Rating</source>
-        <translation>評分</translation>
+        <translation>評分標籤</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="144"/>
@@ -17159,7 +17159,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="ThumbInfo.cpp" line="165"/>
         <source>Rating</source>
-        <translation>評分</translation>
+        <translation>評分標籤</translation>
     </message>
     <message>
         <location filename="ThumbInfo.cpp" line="166"/>
@@ -17520,7 +17520,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="SearchField.cpp" line="35"/>
         <location filename="TemplateData.cpp" line="2826"/>
         <source>Rating</source>
-        <translation>評分</translation>
+        <translation>評分標籤</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1018"/>
@@ -17860,7 +17860,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2827"/>
         <source>Rating (number)</source>
-        <translation>評分 (數值)</translation>
+        <translation>評分標籤 (數值)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2829"/>
@@ -19358,7 +19358,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="433"/>
         <source>Rating</source>
-        <translation>評分</translation>
+        <translation>評分標籤</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="437"/>
@@ -20094,7 +20094,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="59"/>
         <source>Rating</source>
-        <translation>評分</translation>
+        <translation>評分標籤</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="60"/>
@@ -20217,7 +20217,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="517"/>
         <source>Set Rating</source>
-        <translation>指派評分</translation>
+        <translation>指派評分標籤</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="518"/>
@@ -20348,7 +20348,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="CompareWidget.cpp" line="476"/>
         <source>Unrated</source>
-        <translation>無評分</translation>
+        <translation>無評分標籤</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="496"/>
@@ -22425,7 +22425,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="409"/>
         <source>Set Rating</source>
-        <translation>指派評分</translation>
+        <translation>指派評分標籤</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="410"/>
@@ -24871,7 +24871,7 @@ Do you want to keep the thumbnails?
     <message>
         <location filename="xnview.cpp" line="493"/>
         <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
-        <translation>若您想要使用 &apos;後製資料篩選器&apos; 中的新增項目, 則您需要先更新資料庫 (設定 &gt; 資料庫 &gt; 更新後製資料) </translation>
+        <translation>若您想要使用 &apos;後製資料篩選器&apos; 中的新增項目, 則您需要先更新資料庫 (設定 &gt; 資料庫 &gt; 更新資料庫). </translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="889"/>
@@ -24900,7 +24900,7 @@ Do you want to keep the thumbnails?
 Metadata (check, ratings/colour labels and other file details)
 will not be saved to the database.</source>
         <translation>資料庫已被停用
-後製資料 (勾選、評分、顏色標籤、其它檔案詳細紀錄)
+後製資料 (勾選、評分標籤、顏色標籤、其它檔案詳細紀錄)
 將不會儲存到資料庫中.</translation>
     </message>
     <message>
