@@ -708,7 +708,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="BrowserWindow.cpp" line="4080"/>
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
         <translation>
-            <numerusform>您確定要刪除這 %n 個項目嗎(已選取%1項)？</numerusform>
+            <numerusform>您確定要刪除這 %n 個項目嗎(已選取 %1 項)？</numerusform>
         </translation>
     </message>
     <message>
@@ -830,13 +830,13 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="CategorySetPanel.cpp" line="299"/>
         <source>Assign Set to selection</source>
         <oldsource>Assign Set to selection...</oldsource>
-        <translation>將子合輯指派給選取的項目</translation>
+        <translation>將子合輯指派給選取的物件</translation>
     </message>
     <message>
         <location filename="CategorySetPanel.cpp" line="300"/>
         <source>Unassign Set from selection</source>
         <oldsource>Unassign Set to selection...</oldsource>
-        <translation>將選取的項目從子合輯裡移出</translation>
+        <translation>將選取的物件從子合輯裡移出</translation>
     </message>
 </context>
 <context>
@@ -3503,17 +3503,17 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgContactSheet.ui" line="358"/>
         <source>Spacing (pixels)</source>
-        <translation>間距 (像素)</translation>
+        <translation>間隔 (像素)</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="365"/>
         <source>Horizontal spacing</source>
-        <translation>水平間距</translation>
+        <translation>水平間隔</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="372"/>
         <source>Vertical spacing</source>
-        <translation>垂直間距</translation>
+        <translation>垂直間隔</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="421"/>
@@ -7136,7 +7136,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgCreateMulti.ui" line="191"/>
         <source>Directory</source>
-        <translation>資料夾</translation>
+        <translation>資料夾路徑</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.ui" line="233"/>
@@ -8256,7 +8256,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgFileAssociation.ui" line="63"/>
         <source>Select all</source>
-        <translation>全選</translation>
+        <translation>選取全部物件</translation>
     </message>
     <message>
         <location filename="DlgFileAssociation.ui" line="87"/>
@@ -8304,7 +8304,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFileListing.ui" line="14"/>
         <source>File listing</source>
-        <translation>檔案列表</translation>
+        <translation>檔案資訊文件</translation>
     </message>
     <message>
         <location filename="DlgFileListing.ui" line="22"/>
@@ -8339,12 +8339,12 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFileListing.ui" line="186"/>
         <source>Only image files</source>
-        <translation>只有影像檔</translation>
+        <translation>只要影像檔案</translation>
     </message>
     <message>
         <location filename="DlgFileListing.ui" line="193"/>
         <source>Append to file</source>
-        <translation>將新列表文字附加到現有檔案內容結尾</translation>
+        <translation>將 &apos;新建的列表文字&apos; 附加到 &apos;現有的檔案內容&apos; 結尾處</translation>
     </message>
     <message>
         <location filename="DlgFileListing.cpp" line="36"/>
@@ -8369,12 +8369,12 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFileListing.cpp" line="179"/>
         <source>Export file listing</source>
-        <translation>匯出檔案列表</translation>
+        <translation>匯出 &apos;檔案資訊文件&apos;</translation>
     </message>
     <message>
         <location filename="ListingLine.h" line="28"/>
         <source>Remove column</source>
-        <translation>移除欄</translation>
+        <translation>移除欄位</translation>
     </message>
 </context>
 <context>
@@ -8618,7 +8618,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFtp.cpp" line="610"/>
         <source>Directory changed to %1.</source>
-        <translation>資料夾變更為 %1.</translation>
+        <translation>資料夾路徑變更為 %1.</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="509"/>
@@ -8686,7 +8686,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFtp.ui" line="220"/>
         <source>Directory</source>
-        <translation>資料夾</translation>
+        <translation>資料夾路徑</translation>
     </message>
     <message>
         <location filename="DlgFtp.ui" line="227"/>
@@ -9782,7 +9782,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgOpenWith.ui" line="100"/>
         <source>Select all</source>
-        <translation>全選</translation>
+        <translation>選取全部物件</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="77"/>
@@ -9988,7 +9988,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPrint.ui" line="284"/>
         <source>Vertical spacing</source>
-        <translation>垂直間距</translation>
+        <translation>垂直間隔</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="305"/>
@@ -9998,7 +9998,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPrint.ui" line="312"/>
         <source>Horizontal spacing</source>
-        <translation>水平間距</translation>
+        <translation>水平間隔</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="319"/>
@@ -10912,7 +10912,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgRename.ui" line="467"/>
         <source>Directory</source>
-        <translation>資料夾</translation>
+        <translation>資料夾路徑</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="374"/>
@@ -11744,7 +11744,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="498"/>
         <source>Columns</source>
-        <translation>欄位</translation>
+        <translation>詳細列表欄位</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="510"/>
@@ -11804,7 +11804,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="139"/>
         <source>Tooltip</source>
-        <translation>提示工具</translation>
+        <translation>列表提示工具</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="393"/>
@@ -11969,7 +11969,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgSettingsCache.cpp" line="604"/>
         <source>Updating database, please wait...</source>
-        <translation>資料庫更新中, 請稍等...</translation>
+        <translation>更新資料庫中, 請稍等...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="621"/>
@@ -12104,7 +12104,7 @@ Do you want to remove entries assigned to a category?</oldsource>
         <location filename="DlgSettingsCache.ui" line="354"/>
         <source>Directory</source>
         <oldsource>Cached directory</oldsource>
-        <translation>資料夾</translation>
+        <translation>資料夾路徑</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="359"/>
@@ -12382,12 +12382,12 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="134"/>
         <source>Selection</source>
-        <translation>選取的項目</translation>
+        <translation>選取的物件</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="140"/>
         <source>Auto-select first item on entering folder</source>
-        <translation>進入資料夾時自動選取第一個項目</translation>
+        <translation>進入資料夾時自動選取第一個物件</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="147"/>
@@ -12456,7 +12456,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFormat.ui" line="80"/>
         <source>Select all</source>
-        <translation>全選</translation>
+        <translation>選取全部物件</translation>
     </message>
     <message>
         <location filename="DlgSettingsFormat.ui" line="87"/>
@@ -12589,7 +12589,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="193"/>
         <source>Unit for print size</source>
-        <translation>印表尺寸單位</translation>
+        <translation>列印尺寸的單位</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="201"/>
@@ -12633,7 +12633,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="488"/>
         <source>Directory</source>
-        <translation>資料夾</translation>
+        <translation>資料夾路徑</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="495"/>
@@ -14096,7 +14096,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="45"/>
         <source>Show 4 thumbnails in folder&apos;s thumbnail (instead of 1)</source>
-        <translation>在資料夾縮圖框中顯示4個縮圖 (而不是1個)</translation>
+        <translation>在資料夾縮圖框中顯示 4 個縮圖 (而不是 1 個)</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="59"/>
@@ -14145,7 +14145,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="173"/>
         <source>For video files, extract frame at</source>
-        <translation>若是影片檔, 擷取影格(幀)於</translation>
+        <translation>若是影片檔, 擷取位於 ... 的影格(幀)</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="187"/>
@@ -14190,7 +14190,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="916"/>
         <source>Icon spacing:</source>
-        <translation>圖標間距:</translation>
+        <translation>圖標間隔:</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1116"/>
@@ -14240,7 +14240,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="52"/>
         <source>Show 4 thumbnails in video&apos;s thumbnail (instead of 1)</source>
-        <translation>在影片縮圖框中顯示4個縮圖 (而不是1個)</translation>
+        <translation>在影片縮圖框中顯示 4 個縮圖 (而不是 1 個)</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="211"/>
@@ -14281,7 +14281,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="451"/>
         <source>Spacing</source>
-        <translation>間隔</translation>
+        <translation>彼此間隔</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="39"/>
@@ -14317,7 +14317,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="466"/>
         <source>Spacing between labels</source>
-        <translation>標籤間距</translation>
+        <translation>標籤間隔</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="518"/>
@@ -14711,7 +14711,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="879"/>
         <source>Info</source>
-        <translation>資訊</translation>
+        <translation>顯示資訊</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1084"/>
@@ -19412,12 +19412,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPanel.cpp" line="88"/>
         <source>Copy item</source>
-        <translation>複製項目</translation>
+        <translation>複製物件</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="89"/>
         <source>Copy all items</source>
-        <translation>複製所有項目</translation>
+        <translation>複製所有物件</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="95"/>
@@ -20705,7 +20705,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="441"/>
         <source>Select all</source>
-        <translation>全選</translation>
+        <translation>選取全部物件</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="442"/>
@@ -20720,18 +20720,18 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="444"/>
         <source>Select all images</source>
-        <translation>選取所有影像</translation>
+        <translation>選取全部影像</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="445"/>
         <source>Select all files</source>
-        <translation>選取所有檔案</translation>
+        <translation>選取全部檔案</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="446"/>
         <source>Select checked files</source>
         <oldsource>Select tagged files</oldsource>
-        <translation>選取已勾選的檔案</translation>
+        <translation>選取勾選的檔案 (螢幕前的檔案列表)</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4551"/>
@@ -20993,7 +20993,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="557"/>
         <source>Open all selected</source>
         <oldsource>Open in Finder</oldsource>
-        <translation>開啟所有選取項目</translation>
+        <translation>開啟所有選取物件</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="559"/>
@@ -21158,7 +21158,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="622"/>
         <source>File listing...</source>
-        <translation>檔案列表...</translation>
+        <translation>檔案資訊文件...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="623"/>
@@ -21901,7 +21901,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="348"/>
         <source>Select all</source>
-        <translation>全選</translation>
+        <translation>選取全部物件</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="349"/>
@@ -22285,7 +22285,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="526"/>
         <source>Paste outside</source>
         <oldsource>Paste special</oldsource>
-        <translation>貼至畫布範圍 (邊界) 之外的編輯區</translation>
+        <translation>貼至畫布範圍之外的編輯區</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="528"/>
@@ -23756,14 +23756,14 @@ You can change it in Settings › Catalog.</oldsource>
         <location filename="qftp.cpp" line="2122"/>
         <source>Listing directory failed:
 %1</source>
-        <translation>輸出資料夾列表失敗:
+        <translation>輸出資料夾路徑列表失敗:
 %1</translation>
     </message>
     <message>
         <location filename="qftp.cpp" line="2126"/>
         <source>Changing directory failed:
 %1</source>
-        <translation>變更資料夾失敗:
+        <translation>變更資料夾路徑失敗:
 %1</translation>
     </message>
     <message>
@@ -23791,14 +23791,14 @@ You can change it in Settings › Catalog.</oldsource>
         <location filename="qftp.cpp" line="2142"/>
         <source>Creating directory failed:
 %1</source>
-        <translation>建立資料夾失敗:
+        <translation>建立資料夾路徑失敗:
 %1</translation>
     </message>
     <message>
         <location filename="qftp.cpp" line="2146"/>
         <source>Removing directory failed:
 %1</source>
-        <translation>移除資料夾失敗:
+        <translation>移除資料夾路徑失敗:
 %1</translation>
     </message>
     <message>
@@ -24079,7 +24079,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="qtcopydialog.cpp" line="261"/>
         <source>Cannot create destination directory.</source>
-        <translation>無法建立目的資料夾.</translation>
+        <translation>無法建立目的資料夾路徑.</translation>
     </message>
     <message>
         <location filename="qtcopydialog.cpp" line="266"/>
