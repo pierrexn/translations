@@ -329,7 +329,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="3059"/>
         <source>Do you want to overwrite it?</source>
-        <translation>您確定要覆蓋？</translation>
+        <translation>您確定要覆寫？</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4549"/>
@@ -2049,7 +2049,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DBFilterModel.cpp" line="159"/>
         <location filename="DBFilterModel.cpp" line="195"/>
         <source>People</source>
-        <translation>人物</translation>
+        <translation>人物 (人臉標記)</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="162"/>
@@ -2064,12 +2064,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DBFilterModel.cpp" line="168"/>
         <source>No face</source>
-        <translation>無人臉</translation>
+        <translation>無人臉標記</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="169"/>
         <source>All</source>
-        <translation>所有的</translation>
+        <translation>全部 (資料庫中已有紀錄的)</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="170"/>
@@ -2114,7 +2114,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DBFilterModel.cpp" line="163"/>
         <source>Check</source>
-        <translation>勾選</translation>
+        <translation>已勾選</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1490"/>
@@ -2333,7 +2333,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgBanner.cpp" line="115"/>
         <source>Are you sure to overwrite original files?</source>
-        <translation>您確定要覆蓋原始檔案？</translation>
+        <translation>您確定要覆寫原始檔案？</translation>
     </message>
 </context>
 <context>
@@ -2437,7 +2437,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DlgBanner.ui" line="238"/>
         <source>Overwrite original file(s) when saving</source>
         <oldsource>Overwrite original file when saving</oldsource>
-        <translation>儲存時覆蓋原始檔</translation>
+        <translation>儲存時覆寫原始檔</translation>
     </message>
     <message>
         <location filename="DlgBanner.ui" line="143"/>
@@ -2939,7 +2939,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgBatchResize.cpp" line="644"/>
         <source>Overwritten:</source>
-        <translation>已覆蓋:</translation>
+        <translation>已覆寫:</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="646"/>
@@ -3003,7 +3003,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgBatchResize.cpp" line="1435"/>
         <source>has read-only attribute, and can&apos;t be overwritten!</source>
-        <translation>具唯獨屬性, 故無法覆蓋！</translation>
+        <translation>具唯獨屬性, 故無法覆寫！</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1438"/>
@@ -3034,7 +3034,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DlgBatchResize.cpp" line="1520"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
-        <translation>覆蓋檔案</translation>
+        <translation>覆寫檔案</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1521"/>
@@ -3047,7 +3047,7 @@ Do you want to overwrite it?</oldsource>
         <translation>目的地已存在檔案: 
 %1
 
-您要覆蓋嗎？</translation>
+您要覆寫嗎？</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1523"/>
@@ -3826,7 +3826,7 @@ Do you want to go on the download page?</source>
     <message>
         <location filename="DlgConvert.cpp" line="2558"/>
         <source>Overwrite</source>
-        <translation>覆蓋</translation>
+        <translation>覆寫</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2559"/>
@@ -3836,7 +3836,7 @@ Do you want to overwrite it?</source>
         <oldsource>Output file exists already, do you want to overwrite it?</oldsource>
         <translation>輸出檔已存在.
 
-您要覆蓋嗎？</translation>
+您要覆寫嗎？</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2568"/>
@@ -3945,7 +3945,7 @@ Do you want to overwrite it?</source>
         <location filename="DlgConvert.cpp" line="2502"/>
         <location filename="DlgConvert.cpp" line="4218"/>
         <source>Overwritten:</source>
-        <translation>已覆蓋:</translation>
+        <translation>已覆寫:</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2504"/>
@@ -4017,7 +4017,7 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgConvert.cpp" line="2722"/>
         <source>has read-only attribute, and can&apos;t be overwritten!</source>
-        <translation>具唯獨屬性, 故無法覆蓋！</translation>
+        <translation>具唯獨屬性, 故無法覆寫！</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2725"/>
@@ -4062,7 +4062,7 @@ Do you want to overwrite it?</source>
         <location filename="DlgConvert.cpp" line="2834"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
-        <translation>覆蓋檔案</translation>
+        <translation>覆寫檔案</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2835"/>
@@ -4075,7 +4075,7 @@ Do you want to overwrite it?</oldsource>
         <translation>目的地已存在檔案: 
 %1
 
-您要覆蓋嗎？</translation>
+您要覆寫嗎？</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2837"/>
@@ -8476,7 +8476,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFileReplace.cpp" line="119"/>
         <source>Overwrite</source>
-        <translation>覆蓋</translation>
+        <translation>覆寫</translation>
     </message>
     <message>
         <location filename="DlgFileReplace.cpp" line="223"/>
@@ -8701,7 +8701,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFtp.ui" line="72"/>
         <source>Overwrite</source>
-        <translation>覆蓋</translation>
+        <translation>覆寫</translation>
     </message>
     <message>
         <location filename="DlgFtp.ui" line="79"/>
@@ -9327,7 +9327,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgIptc.cpp" line="1687"/>
         <source>Are you sure to overwrite IPTC/XMP data for ALL files with the current values of the fields?</source>
-        <translation>您確定用目前的欄位值覆蓋所有檔案的 IPTC/XMP 資料？</translation>
+        <translation>您確定用目前的欄位值覆寫所有檔案的 IPTC/XMP 資料？</translation>
     </message>
 </context>
 <context>
@@ -12052,7 +12052,7 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettingsCache.ui" line="36"/>
         <source>Catalog</source>
-        <translation>資料庫</translation>
+        <translation>後製資料</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="42"/>
@@ -12109,7 +12109,7 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettingsCache.ui" line="359"/>
         <source>Files</source>
-        <translation>檔案</translation>
+        <translation>檔案數目</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="384"/>
@@ -12157,7 +12157,7 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettingsCache.ui" line="364"/>
         <source>Metadata</source>
-        <translation>後製資料</translation>
+        <translation>EXIF</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="369"/>
@@ -15580,12 +15580,12 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgTagPhoto.ui" line="78"/>
         <source>Search face</source>
-        <translation>搜尋人臉</translation>
+        <translation>搜尋人物 (人臉標記)</translation>
     </message>
     <message>
         <location filename="DlgTagPhoto.ui" line="141"/>
         <source>Clear regions</source>
-        <translation>清除人臉區域</translation>
+        <translation>清除人臉標記區域</translation>
     </message>
     <message>
         <location filename="DlgTagPhoto.ui" line="283"/>
@@ -15601,14 +15601,14 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgTagPhoto.cpp" line="475"/>
         <source>Overwrite face regions</source>
-        <translation>覆蓋人臉區域</translation>
+        <translation>覆寫人臉標記區域</translation>
     </message>
     <message>
         <location filename="DlgTagPhoto.cpp" line="475"/>
         <source>This will overwrite XMP face&apos;s regions of the file. 
 
 Do you want to continue?</source>
-        <translation>這將覆蓋檔案中 XMP 人臉區域.
+        <translation>這將覆寫檔案中 XMP 人臉標記區域.
 
 您是否要繼續？</translation>
     </message>
@@ -19222,7 +19222,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="EditXMPWidget.cpp" line="182"/>
         <location filename="SearchField.cpp" line="133"/>
         <source>Person in image</source>
-        <translation>影像中的人物</translation>
+        <translation>影像中的人物 (人臉標記)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="183"/>
@@ -20164,7 +20164,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="82"/>
         <location filename="BrowserMenu.h" line="111"/>
         <source>All</source>
-        <translation>所有</translation>
+        <translation>全部</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="83"/>
@@ -20363,7 +20363,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="548"/>
         <source>Update files from catalog</source>
-        <translation>由資料庫更新檔案 (列表裡全部或已選取的檔案)</translation>
+        <translation>由資料庫更新檔案 (螢幕前列表裡全部或已選取的檔案)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="579"/>
@@ -20838,7 +20838,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="470"/>
         <source>Show checked files</source>
         <oldsource>Show tagged files</oldsource>
-        <translation>顯示勾選的檔案</translation>
+        <translation>顯示勾選的檔案 (所有的檔案列表)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="471"/>
@@ -20957,12 +20957,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="546"/>
         <source>Update catalog from files</source>
-        <translation>由檔案更新資料庫 (列表裡全部或已選取的檔案)</translation>
+        <translation>由檔案更新資料庫 (螢幕前列表裡全部或已選取的檔案)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="547"/>
         <source>Update catalog from files (+options)...</source>
-        <translation>由檔案更新資料庫 (列表裡全部或已選取的檔案)...</translation>
+        <translation>由檔案更新資料庫... (螢幕前列表裡全部或已選取的檔案)...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="549"/>
@@ -22141,7 +22141,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="455"/>
         <source>Show people&apos;s region</source>
-        <translation>標示出人臉區域及其名稱</translation>
+        <translation>標示出人臉標記區域及其名稱</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="503"/>
@@ -24200,12 +24200,12 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="qtoverwritedialog.ui" line="197"/>
         <source>Overwrite</source>
-        <translation>覆蓋</translation>
+        <translation>覆寫</translation>
     </message>
     <message>
         <location filename="qtoverwritedialog.ui" line="204"/>
         <source>Overwrite All</source>
-        <translation>全部覆蓋</translation>
+        <translation>全部覆寫</translation>
     </message>
     <message>
         <location filename="qtoverwritedialog.ui" line="211"/>
