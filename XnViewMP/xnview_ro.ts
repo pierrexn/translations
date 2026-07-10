@@ -8533,7 +8533,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Replace diacritic characters</source>
-        <translation type="unfinished"></translation>
+        <translation>Înlocuiește caracterele diacritice</translation>
     </message>
 </context>
 <context>
@@ -8564,7 +8564,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Replace &apos;#&apos; with</source>
-        <translation>Înlocui &apos;#&apos; cu</translation>
+        <translation>Înlocuiește &apos;#&apos; cu</translation>
     </message>
     <message>
         <source>Character</source>
@@ -10088,7 +10088,7 @@ miniatură</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation>Înlocuire</translation>
+        <translation>Înlocuiește</translation>
     </message>
     <message>
         <source>With</source>
@@ -13771,11 +13771,11 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Frame index</source>
-        <translation type="unfinished"></translation>
+        <translation>Indexul cadrului</translation>
     </message>
     <message>
         <source>Frame count</source>
-        <translation type="unfinished"></translation>
+        <translation>Numărul de cadre</translation>
     </message>
 </context>
 <context>
@@ -13941,17 +13941,19 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Catalog file</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișier de catalog</translation>
     </message>
     <message>
         <source>Catalog - Clear &amp; Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Catalog - Șterge și importă</translation>
     </message>
     <message>
         <source>Importing will replace all existing Catalog data.
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Importarea va înlocui toate datele existente din Catalog.
+
+Vrei să continui?</translation>
     </message>
 </context>
 <context>
@@ -16384,7 +16386,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Name - natural (numeric) order</source>
-        <translation type="unfinished"></translation>
+        <translation>Nume - ordine naturală (numerică)</translation>
     </message>
 </context>
 <context>
