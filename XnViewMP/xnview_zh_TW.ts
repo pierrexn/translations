@@ -629,7 +629,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="2047"/>
         <source>Current folder (Recursive)</source>
-        <translation>目前資料夾 (遞迴)</translation>
+        <translation>目前資料夾 (包含子資料夾)</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2303"/>
@@ -682,7 +682,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="2093"/>
         <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi-select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right-click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
-        <translation>&lt;b&gt;後製資料篩選器&lt;/b&gt;&lt;br&gt;左鍵單擊項目開始篩選流程：&lt;br&gt;&amp;bull; Shift - 整段選取&lt;br&gt;&amp;bull; Ctrl/Cmd - 多重選取&lt;br&gt;&amp;bull; Alt/Opt - 排除項目&lt;br&gt;右鍵單擊開啟功能選單&lt;br&gt;將檔案拖放到項目上進行指派</translation>
+        <translation>&lt;b&gt;[ 後製資料篩選器 ]&lt;/b&gt;&lt;br&gt;左鍵單擊項目開始篩選流程：&lt;br&gt;&amp;bull; Shift - 整段選取&lt;br&gt;&amp;bull; Ctrl/Cmd - 多重選取&lt;br&gt;&amp;bull; Alt/Opt - 排除項目&lt;br&gt;右鍵單擊開啟功能選單&lt;br&gt;將檔案拖放到項目上進行指派</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3509"/>
@@ -771,7 +771,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="2028"/>
         <source>&lt;b&gt;Match&lt;/b&gt;&lt;br&gt;OR - match any selected entry&lt;br&gt;AND - match all selected entries</source>
-        <translation>&lt;b&gt;匹配&lt;/b&gt;&lt;br&gt;或 - 匹配任一選取的項目&lt;br&gt;且 - 匹配所有選取的項目</translation>
+        <translation>&lt;b&gt;[ 匹配 ]&lt;/b&gt;&lt;br&gt;或 - 匹配 &apos;任一個&apos; 已選取的項目&lt;br&gt;且 - 匹配 &apos;每一個&apos; 已選取的項目</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4556"/>
@@ -2069,7 +2069,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DBFilterModel.cpp" line="169"/>
         <source>All</source>
-        <translation>全部 (資料庫中已有紀錄的)</translation>
+        <translation>全部 (資料庫裡紀錄的)</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="170"/>
@@ -3198,7 +3198,7 @@ Do you want to overwrite it?</oldsource>
         <location filename="DlgCapture.ui" line="238"/>
         <source>Copy to clipboard</source>
         <oldsource>Copy in clipboard</oldsource>
-        <translation>複製到剪貼簿</translation>
+        <translation>複製...到剪貼簿</translation>
     </message>
 </context>
 <context>
@@ -7609,7 +7609,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditXMP.ui" line="156"/>
         <source>Clear all fields</source>
-        <translation>清除所有欄位</translation>
+        <translation>清除全部欄位</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="163"/>
@@ -8030,7 +8030,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgExportCatalog.ui" line="48"/>
         <source>Export all files from catalog</source>
-        <translation>匯出資料庫中全部的檔案紀錄</translation>
+        <translation>匯出資料庫裡的全部檔案紀錄</translation>
     </message>
     <message>
         <location filename="DlgExportCatalog.h" line="35"/>
@@ -8099,7 +8099,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgExport.ui" line="346"/>
         <source>DCT method</source>
         <oldsource>DCT Method</oldsource>
-        <translation>DCT 壓縮 (失真)</translation>
+        <translation>DCT 壓縮 (有失真)</translation>
     </message>
     <message>
         <location filename="DlgExport.ui" line="362"/>
@@ -8359,7 +8359,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFileListing.cpp" line="130"/>
         <source>Copy to Clipboard</source>
-        <translation>複製到剪貼簿</translation>
+        <translation>複製...到剪貼簿</translation>
     </message>
     <message>
         <location filename="DlgFileListing.cpp" line="133"/>
@@ -8696,7 +8696,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFtp.ui" line="280"/>
         <source>&lt; Back</source>
-        <translation>&lt; 上一個</translation>
+        <translation>&lt; 往後</translation>
     </message>
     <message>
         <location filename="DlgFtp.ui" line="72"/>
@@ -8932,7 +8932,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgHotFolder.ui" line="27"/>
         <source>Recursive</source>
-        <translation>遞迴</translation>
+        <translation>包含子資料夾</translation>
     </message>
     <message>
         <location filename="DlgHotFolder.ui" line="32"/>
@@ -9373,7 +9373,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgIptc.ui" line="882"/>
         <source>Clear all fields</source>
-        <translation>清除所有欄位</translation>
+        <translation>清除全部欄位</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="44"/>
@@ -9393,7 +9393,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgIptc.ui" line="107"/>
         <source>Categories (database)</source>
-        <translation>類別 (資料庫)</translation>
+        <translation>類別 (資料庫裡的)</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="112"/>
@@ -11347,12 +11347,12 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.ui" line="95"/>
         <source>Close dialog when browse</source>
-        <translation>瀏覽搜尋結果時, 關閉對話框</translation>
+        <translation>瀏覽 &lt;搜尋結果&gt; 時, 關閉搜尋對話框</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="145"/>
         <source>Search in</source>
-        <translation>搜尋對象:</translation>
+        <translation>・搜尋對象</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="153"/>
@@ -11940,7 +11940,7 @@ Do you want to remove them?</source>
 Do it only if you want to share same folder between several computers. 
 
 Do you want to change the &apos;base path&apos;?</source>
-        <translation>修改 &apos;基礎路徑&apos; 可能會切斷與 &apos;已存在資料庫中的檔案紀錄&apos; 之間的關聯.
+        <translation>修改 &apos;基礎路徑&apos; 可能會切斷與 &apos;已存在資料庫裡的檔案紀錄&apos; 之間的關聯.
 只有當 &apos;您想在多台主機之間共享同一個資料夾&apos; 時才這樣做.
 
 您仍要修改 &apos;基礎路徑&apos; 嗎？</translation>
@@ -11962,7 +11962,7 @@ Do you want to change the &apos;base path&apos;?</source>
 
 Do you want to continue?</source>
         <oldsource>Warning! This operation will delete all orphaned files from catalog. Do you want to continue?</oldsource>
-        <translation>警告！這個動作將會從資料庫中刪除所有孤立檔案的紀錄.
+        <translation>警告！這個動作將會從資料庫裡刪除所有孤立檔案的紀錄.
 
 您確定要繼續？</translation>
     </message>
@@ -12022,7 +12022,7 @@ Do you want to remove entries assigned to a category?</oldsource>
 若相關資訊已有匯出到 &apos;主檔案內嵌&apos; 或 &apos;Sidecar並行檔案內嵌&apos; 的後製資料中, 
 您便可以之後再由檔案重新匯入它們.
 
-您確定要移除 &apos;已指派並儲存在資料庫中的&apos; 項目紀錄嗎？</translation>
+您確定要移除 &apos;已指派並儲存在資料庫裡的&apos; 項目紀錄嗎？</translation>
     </message>
 </context>
 <context>
@@ -12795,17 +12795,17 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="759"/>
         <source>Make backup for lossless flip/rotation</source>
-        <translation>備份不失真翻轉/旋轉</translation>
+        <translation>備份無失真翻轉/旋轉</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="766"/>
         <source>Make backup for lossless crop</source>
-        <translation>備份不失真裁切</translation>
+        <translation>備份無失真裁切</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="773"/>
         <source>Make backup for other lossless operations</source>
-        <translation>備份其它不失真操作</translation>
+        <translation>備份其它無失真操作</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="663"/>
@@ -12866,7 +12866,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="753"/>
         <source>Lossless operations</source>
-        <translation>不失真操作</translation>
+        <translation>無失真操作</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="783"/>
@@ -14505,7 +14505,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="561"/>
         <source>Like Browser</source>
-        <translation>套用 (瀏覽器的) &apos;設定 › 檔案列表 › 自訂 列表篩選&apos;</translation>
+        <translation>套用瀏覽器的列表設定 ( &apos;設定 › 檔案列表 › 自訂 列表篩選&apos; )</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="568"/>
@@ -14696,12 +14696,12 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="808"/>
         <source>Forward</source>
-        <translation>往前</translation>
+        <translation>前進</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="813"/>
         <source>Backward</source>
-        <translation>往後</translation>
+        <translation>後退</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="818"/>
@@ -15310,7 +15310,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSplit.cpp" line="162"/>
         <source>Splitting image(s), please wait...</source>
-        <translation>分割影像中, 請稍候...</translation>
+        <translation>影像分割中, 請稍候...</translation>
     </message>
 </context>
 <context>
@@ -15448,7 +15448,7 @@ Do you want to reassign?</source>
         <location filename="DlgStrip.ui" line="14"/>
         <source>Join images</source>
         <oldsource>Strip of images</oldsource>
-        <translation>拼接影像</translation>
+        <translation>影像拼接</translation>
     </message>
     <message>
         <location filename="DlgStrip.ui" line="24"/>
@@ -16399,7 +16399,7 @@ Do you want to continue?</source>
         <location filename="DlgWriteJPEG.ui" line="160"/>
         <source>DCT method</source>
         <oldsource>DCT Method</oldsource>
-        <translation>DCT 壓縮 (失真)</translation>
+        <translation>DCT 壓縮 (有失真)</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="125"/>
@@ -16500,7 +16500,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWriteJpegXR.ui" line="57"/>
         <source>Best (lossless)</source>
-        <translation>最佳 (不失真)</translation>
+        <translation>最佳 (無失真)</translation>
     </message>
     <message>
         <location filename="DlgWriteJpegXR.ui" line="22"/>
@@ -17601,7 +17601,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="SearchField.cpp" line="148"/>
         <source>All fields (Number)</source>
-        <translation>所有欄位 (數值)</translation>
+        <translation>全部欄位 (數值)</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="149"/>
@@ -17646,7 +17646,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="SearchField.cpp" line="101"/>
         <location filename="SearchField.cpp" line="147"/>
         <source>All fields</source>
-        <translation>所有欄位</translation>
+        <translation>全部欄位</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2620"/>
@@ -18010,22 +18010,22 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoCategoryView.cpp" line="622"/>
         <source>Can&apos;t import XnView Classic category database</source>
-        <translation>無法匯入 XnView Classic 類別資料庫</translation>
+        <translation>無法匯入 XnView Classic 的類別資料庫</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="658"/>
         <source>Problem during database import!</source>
-        <translation>資料庫匯入時發生問題！</translation>
+        <translation>匯入至資料庫時發生問題！</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="660"/>
         <source>Category tree successfully imported into XnView categories</source>
-        <translation>類別樹已正確匯入 XnView 的類別資料庫中</translation>
+        <translation>類別樹已正確匯入至 XnView 的資料庫裡</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="670"/>
         <source>Can&apos;t import XnView database</source>
-        <translation>類別樹無法匯入 XnView 資料庫</translation>
+        <translation>類別樹無法匯入至 XnView 的資料庫裡</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="705"/>
@@ -19342,7 +19342,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="429"/>
         <source>Creation date/time</source>
-        <translation>建立日期</translation>
+        <translation>建立日期/時間</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="430"/>
@@ -20278,7 +20278,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="685"/>
         <source>Paste as image</source>
-        <translation>貼上成影像</translation>
+        <translation>將影像貼上</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="689"/>
@@ -20323,17 +20323,17 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="581"/>
         <source>Rotate 90° right (lossless)</source>
-        <translation>右轉90度 (不失真)</translation>
+        <translation>右轉90度 (無失真)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="582"/>
         <source>Rotate 90° left (lossless)</source>
-        <translation>左轉90度 (不失真)</translation>
+        <translation>左轉90度 (無失真)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="583"/>
         <source>Rotate 180° (lossless)</source>
-        <translation>旋轉180度 (不失真)</translation>
+        <translation>旋轉180度 (無失真)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="584"/>
@@ -20373,12 +20373,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="586"/>
         <source>Flip horizontally (lossless)</source>
-        <translation>水平翻轉 (不失真)</translation>
+        <translation>水平翻轉 (無失真)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="587"/>
         <source>Flip vertically (lossless)</source>
-        <translation>垂直翻轉 (不失真)</translation>
+        <translation>垂直翻轉 (無失真)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="603"/>
@@ -20403,7 +20403,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="633"/>
         <source>Join images...</source>
-        <translation>拼接影像...</translation>
+        <translation>影像拼接...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="634"/>
@@ -20419,7 +20419,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="636"/>
         <source>Split image(s)...</source>
         <oldsource>Split...</oldsource>
-        <translation>分割影像...</translation>
+        <translation>影像分割...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="637"/>
@@ -20543,13 +20543,13 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="536"/>
         <source>Back</source>
-        <translation>上一個</translation>
+        <translation>後退</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="537"/>
         <source>Forward</source>
         <oldsource>forward</oldsource>
-        <translation>下一個</translation>
+        <translation>前進</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="541"/>
@@ -20937,7 +20937,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="538"/>
         <source>Up</source>
-        <translation>上一層</translation>
+        <translation>上一層資料夾</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="540"/>
@@ -21271,7 +21271,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="666"/>
         <source>Copy to clipboard</source>
-        <translation>複製到剪貼簿</translation>
+        <translation>複製...到剪貼簿</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="667"/>
@@ -22156,7 +22156,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="551"/>
         <source>Paste as image</source>
-        <translation>貼上成影像</translation>
+        <translation>將影像貼上</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="759"/>
@@ -22279,7 +22279,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="525"/>
         <source>Copy to clipboard</source>
-        <translation>複製到剪貼簿</translation>
+        <translation>複製...到剪貼簿</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="526"/>
@@ -22310,32 +22310,32 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="540"/>
         <source>Rotate 90° right (lossless)</source>
-        <translation>右轉90度 (不失真)</translation>
+        <translation>右轉90度 (無失真)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="541"/>
         <source>Rotate 90° left (lossless)</source>
-        <translation>左轉90度 (不失真)</translation>
+        <translation>左轉90度 (無失真)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="542"/>
         <source>Rotate 180° (lossless)</source>
-        <translation>旋轉180度 (不失真)</translation>
+        <translation>旋轉180度 (無失真)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="545"/>
         <source>Flip horizontally (lossless)</source>
-        <translation>水平翻轉 (不失真)</translation>
+        <translation>水平翻轉 (無失真)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="546"/>
         <source>Flip vertically (lossless)</source>
-        <translation>垂直翻轉 (不失真)</translation>
+        <translation>垂直翻轉 (無失真)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="547"/>
         <source>Crop (lossless)</source>
-        <translation>裁切 (不失真)</translation>
+        <translation>裁切 (無失真)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="555"/>
@@ -22630,7 +22630,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="535"/>
         <source>Join images...</source>
-        <translation>拼接影像...</translation>
+        <translation>影像拼接...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="536"/>
@@ -23083,7 +23083,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyLittleToolBar.h" line="774"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation>&lt;b&gt;點擊左圖示切換滑桿的 2 種模式:&lt;/b&gt;&lt;br&gt;&amp;bull; 調整縮圖的固定尺寸 (像素)&lt;br&gt;&amp;bull; 調整縮圖的每列固定數量</translation>
+        <translation>點擊左圖示切換滑桿的 2 種模式:&lt;br&gt;&amp;bull; 調整縮圖的固定 &apos;像素尺寸&apos;&lt;br&gt;&amp;bull; 調整縮圖的每列固定 &apos;數量&apos;</translation>
     </message>
 </context>
 <context>
@@ -23091,7 +23091,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyLittleToolBar.h" line="385"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation>&lt;b&gt;點擊左圖示切換滑桿的 2 種模式:&lt;/b&gt;&lt;br&gt;&amp;bull; 調整縮圖的固定尺寸 (像素)&lt;br&gt;&amp;bull; 調整縮圖的每列固定數量</translation>
+        <translation>點擊左圖示切換滑桿的 2 種模式:&lt;br&gt;&amp;bull; 調整縮圖的固定 &apos;像素尺寸&apos;&lt;br&gt;&amp;bull; 調整縮圖的每列固定 &apos;數量&apos;</translation>
     </message>
 </context>
 <context>
@@ -24521,7 +24521,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="ToolbarSearch.cpp" line="146"/>
         <source>Search in</source>
-        <translation>在...內搜尋</translation>
+        <translation>[ 搜尋對象 ]</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="153"/>
@@ -24546,12 +24546,12 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="ToolbarSearch.cpp" line="173"/>
         <source>Categories (catalog)</source>
-        <translation>類別 (資料庫)</translation>
+        <translation>類別 (資料庫裡的)</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="178"/>
         <source>Thumbnail&apos;s labels</source>
-        <translation>縮圖的標籤</translation>
+        <translation>縮圖設定的標籤</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="190"/>
@@ -24561,7 +24561,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="ToolbarSearch.cpp" line="194"/>
         <source>Recent Searches</source>
-        <translation>最近使用的搜尋</translation>
+        <translation>[ 最近使用的搜尋 ]</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="206"/>
@@ -24901,7 +24901,7 @@ Metadata (check, ratings/colour labels and other file details)
 will not be saved to the database.</source>
         <translation>資料庫已被停用
 後製資料 (勾選、評分標籤、顏色標籤、其它檔案詳細紀錄)
-將不會儲存到資料庫中.</translation>
+將不會儲存到資料庫裡.</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="975"/>
