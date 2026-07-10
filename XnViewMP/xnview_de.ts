@@ -10858,7 +10858,7 @@ Möchten Sie sie entfernen?</translation>
         <location filename="DlgRename.ui" line="293"/>
         <source>Replace diacritic characters</source>
         <oldsource>Clean diacritic characters</oldsource>
-        <translation type="unfinished">Diakritische Buchstaben (äáàâ...) entfernen</translation>
+        <translation>Diakritische Buchstaben (äáàâ...) entfernen</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="209"/>
@@ -17816,12 +17816,12 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2843"/>
         <source>Frame index</source>
-        <translation type="unfinished"></translation>
+        <translation>Frame-Index</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2844"/>
         <source>Frame count</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzahl der Frames</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="30"/>
@@ -18023,19 +18023,21 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="245"/>
         <source>Catalog file</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalog-Datei</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="251"/>
         <source>Catalog - Clear &amp; Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalog - Leeren und importieren</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="251"/>
         <source>Importing will replace all existing Catalog data.
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Import ersetzt alle vorhandenen Katalogdaten.
+
+Möchten Sie fortfahren?</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="622"/>
@@ -20138,7 +20140,7 @@ Möchten Sie fortfahren?</translation>
         <location filename="BrowserMenu.h" line="66"/>
         <source>Name - natural (numeric) order</source>
         <oldsource>Name - natural order</oldsource>
-        <translation type="unfinished">Name - Numerische Reihenfolge</translation>
+        <translation>Name - Numerische Reihenfolge</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="68"/>
