@@ -13028,7 +13028,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="497"/>
         <source>Paths</source>
-        <translation>路徑</translation>
+        <translation>檔案路徑</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="497"/>
@@ -13094,7 +13094,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="154"/>
         <source>Paths</source>
-        <translation>路徑</translation>
+        <translation>檔案路徑</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="184"/>
@@ -20875,7 +20875,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="520"/>
         <source>Add to album</source>
-        <translation>加入相簿</translation>
+        <translation>指派相簿 (加入相簿)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="523"/>
@@ -21798,7 +21798,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="320"/>
         <source>Save selection...</source>
-        <translation>儲存選取...</translation>
+        <translation>儲存選取區域...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="321"/>
@@ -21916,7 +21916,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="351"/>
         <source>Save selection</source>
-        <translation>儲存選取</translation>
+        <translation>儲存選取區域</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="352"/>
@@ -24632,7 +24632,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="ViewCropAction.cpp" line="274"/>
         <source>Save selection as...</source>
-        <translation>儲存選取區為...</translation>
+        <translation>儲存選取區域為...</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="279"/>
