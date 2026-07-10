@@ -8488,10 +8488,6 @@ Vrei să le redenumești?</translation>
         <translation>Extensie</translation>
     </message>
     <message>
-        <source>Clean diacritic characters</source>
-        <translation>Curăță caracterele diacritice</translation>
-    </message>
-    <message>
         <source>First letters uppercase</source>
         <translation>Primele litere să fie mari</translation>
     </message>
@@ -8534,6 +8530,10 @@ Vrei să le redenumești?</translation>
     <message>
         <source>Remove preset from list</source>
         <translation>Elimină presetarea din listă</translation>
+    </message>
+    <message>
+        <source>Replace diacritic characters</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13769,6 +13769,14 @@ Dorești să ștergi favoritul „%1”?</translation>
         <source>Indexed</source>
         <translation>Indexat(ă)</translation>
     </message>
+    <message>
+        <source>Frame index</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Frame count</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>InfoCategoryTreeView</name>
@@ -13930,6 +13938,20 @@ Dorești să ștergi favoritul „%1”?</translation>
     <message>
         <source>Can&apos;t import XnView database</source>
         <translation>Nu se poate importa baza de date din XnView</translation>
+    </message>
+    <message>
+        <source>Catalog file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Catalog - Clear &amp; Import</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Importing will replace all existing Catalog data.
+
+Do you want to continue?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16361,8 +16383,8 @@ Vrei să continui?</translation>
         <translation>Trunchierea canalelor</translation>
     </message>
     <message>
-        <source>Name - natural order</source>
-        <translation>Numele - ordinea naturală</translation>
+        <source>Name - natural (numeric) order</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -309,27 +309,27 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3050"/>
+        <location filename="ViewWindow.cpp" line="3059"/>
         <source>The file &lt;%1&gt; is read-only. Please choose another file name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3058"/>
+        <location filename="ViewWindow.cpp" line="3067"/>
         <source>Confirm Save</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3059"/>
+        <location filename="ViewWindow.cpp" line="3068"/>
         <source>&lt;%1&gt; already exists!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3059"/>
+        <location filename="ViewWindow.cpp" line="3068"/>
         <source>Do you want to overwrite it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4549"/>
+        <location filename="ViewWindow.cpp" line="4562"/>
         <source>Number of unique colors: %1</source>
         <translation>Ainulaadsete värvide arv: %1</translation>
     </message>
@@ -374,53 +374,53 @@
         <translation>&lt; Tühi &gt;</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3040"/>
-        <location filename="ViewWindow.cpp" line="3050"/>
+        <location filename="ViewWindow.cpp" line="3049"/>
+        <location filename="ViewWindow.cpp" line="3059"/>
         <source>Save</source>
         <translation>Salvesta</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3040"/>
+        <location filename="ViewWindow.cpp" line="3049"/>
         <source>Image will be converted to 24-bit RGB (8bits per channel)</source>
         <translation>Pilt konverteeritakse 24-bitiseks RGB-ks (8 bitti kanali kohta)</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3083"/>
-        <location filename="ViewWindow.cpp" line="3214"/>
-        <location filename="ViewWindow.cpp" line="3264"/>
+        <location filename="ViewWindow.cpp" line="3092"/>
+        <location filename="ViewWindow.cpp" line="3223"/>
+        <location filename="ViewWindow.cpp" line="3273"/>
         <source>Saving image...</source>
         <oldsource>Saving picture...</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3085"/>
-        <location filename="ViewWindow.cpp" line="3266"/>
+        <location filename="ViewWindow.cpp" line="3094"/>
+        <location filename="ViewWindow.cpp" line="3275"/>
         <source>Error</source>
         <translation type="unfinished">Viga</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3085"/>
-        <location filename="ViewWindow.cpp" line="3266"/>
+        <location filename="ViewWindow.cpp" line="3094"/>
+        <location filename="ViewWindow.cpp" line="3275"/>
         <source>An error occurred during saving!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="3356"/>
+        <location filename="ViewWindow.cpp" line="3365"/>
         <source>Properties</source>
         <translation>Omadused</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4122"/>
+        <location filename="ViewWindow.cpp" line="4135"/>
         <source>Expand canvas</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4122"/>
+        <location filename="ViewWindow.cpp" line="4135"/>
         <source>Do you want to expand the canvas?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="4549"/>
+        <location filename="ViewWindow.cpp" line="4562"/>
         <source>Colors count</source>
         <translation>Värvide arv</translation>
     </message>
@@ -486,28 +486,28 @@
 <context>
     <name>BaseViewWindow</name>
     <message>
-        <location filename="ViewWindow.cpp" line="5059"/>
+        <location filename="ViewWindow.cpp" line="5072"/>
         <source>Error</source>
         <translation>Viga</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="5050"/>
-        <location filename="ViewWindow.cpp" line="5059"/>
+        <location filename="ViewWindow.cpp" line="5063"/>
+        <location filename="ViewWindow.cpp" line="5072"/>
         <source>File can&apos;t be loaded!</source>
         <translation>Faili ei saa lugeda!</translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="5050"/>
+        <location filename="ViewWindow.cpp" line="5063"/>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="5051"/>
+        <location filename="ViewWindow.cpp" line="5064"/>
         <source>Please visit the %1 for more information.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="ViewWindow.cpp" line="5063"/>
+        <location filename="ViewWindow.cpp" line="5076"/>
         <source>&lt; Empty &gt;</source>
         <translation type="unfinished">&lt; Tühi &gt;</translation>
     </message>
@@ -1897,7 +1897,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1570"/>
-        <location filename="DlgConvert.cpp" line="2884"/>
+        <location filename="DlgConvert.cpp" line="2904"/>
         <source>%1 file(s) - %2% - %3</source>
         <translation>%1 fail(i) - %2% - %3</translation>
     </message>
@@ -1950,9 +1950,9 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <name>DB</name>
     <message>
         <location filename="CategoryManager.cpp" line="133"/>
-        <location filename="MyDB.cpp" line="873"/>
-        <location filename="MyDB.cpp" line="2309"/>
-        <location filename="MyDB.cpp" line="3602"/>
+        <location filename="MyDB.cpp" line="890"/>
+        <location filename="MyDB.cpp" line="2335"/>
+        <location filename="MyDB.cpp" line="3640"/>
         <source>Other</source>
         <translation>Muud</translation>
     </message>
@@ -1962,72 +1962,72 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="874"/>
+        <location filename="MyDB.cpp" line="891"/>
         <source>Photographs</source>
         <translation>Fotod</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="875"/>
+        <location filename="MyDB.cpp" line="892"/>
         <source>Family</source>
         <translation>Pere</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="876"/>
+        <location filename="MyDB.cpp" line="893"/>
         <source>Friends</source>
         <translation>Sõbrad</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="877"/>
+        <location filename="MyDB.cpp" line="894"/>
         <source>Pets</source>
         <translation>Lemmikloomad</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="878"/>
+        <location filename="MyDB.cpp" line="895"/>
         <source>Travel</source>
         <translation>Reisimine</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="879"/>
+        <location filename="MyDB.cpp" line="896"/>
         <source>Landscapes</source>
         <translation>Maastikud</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="880"/>
+        <location filename="MyDB.cpp" line="897"/>
         <source>Portraits</source>
         <translation>Portreed</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="881"/>
+        <location filename="MyDB.cpp" line="898"/>
         <source>Flowers</source>
         <translation>Lilled</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="882"/>
+        <location filename="MyDB.cpp" line="899"/>
         <source>Animals</source>
         <translation>Loomad</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="883"/>
+        <location filename="MyDB.cpp" line="900"/>
         <source>Pictures</source>
         <translation>Pildid</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="884"/>
+        <location filename="MyDB.cpp" line="901"/>
         <source>Icons</source>
         <translation>Ikoonid</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="885"/>
+        <location filename="MyDB.cpp" line="902"/>
         <source>Drawings</source>
         <translation>Joonistused</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="886"/>
+        <location filename="MyDB.cpp" line="903"/>
         <source>Videos</source>
         <translation>Videod</translation>
     </message>
     <message>
-        <location filename="MyDB.cpp" line="887"/>
+        <location filename="MyDB.cpp" line="904"/>
         <source>Audios</source>
         <translation>Audio</translation>
     </message>
@@ -3803,12 +3803,12 @@ Do you want to go on the download page?</source>
         <translation>Valige ZIP-faili nimi</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2558"/>
+        <location filename="DlgConvert.cpp" line="2578"/>
         <source>Overwrite</source>
         <translation>Kirjuta üle</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2559"/>
+        <location filename="DlgConvert.cpp" line="2579"/>
         <source>Output file already exist. 
 
 Do you want to overwrite it?</source>
@@ -3816,28 +3816,28 @@ Do you want to overwrite it?</source>
         <translation type="unfinished">Väljundfail on juba olemas, kas soovite seda üle kirjutada?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2568"/>
+        <location filename="DlgConvert.cpp" line="2588"/>
         <source>Saving ZIP file...</source>
         <translation>Salvestan ZIP-faili...</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2571"/>
+        <location filename="DlgConvert.cpp" line="2591"/>
         <source>: saved</source>
         <translation>: salvestatud</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2597"/>
+        <location filename="DlgConvert.cpp" line="2617"/>
         <source>Uploading image(s) to server...</source>
         <translation>Laen pilte serverisse...</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2660"/>
-        <location filename="DlgConvert.cpp" line="2662"/>
+        <location filename="DlgConvert.cpp" line="2680"/>
+        <location filename="DlgConvert.cpp" line="2682"/>
         <source>[Finished]</source>
         <translation>[Lõpetatud]</translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2869"/>
+        <location filename="DlgConvert.cpp" line="2889"/>
         <source>%n second(s) remaining</source>
         <translation>
             <numerusform>%n sekund jäänud</numerusform>
@@ -3845,8 +3845,8 @@ Do you want to overwrite it?</source>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="DlgConvert.cpp" line="2872"/>
-        <location filename="DlgConvert.cpp" line="2876"/>
+        <location filename="DlgConvert.cpp" line="2892"/>
+        <location filename="DlgConvert.cpp" line="2896"/>
         <source>%n minute(s) remaining</source>
         <translation>
             <numerusform>%n minut jäänud</numerusform>
@@ -3855,7 +3855,7 @@ Do you want to overwrite it?</source>
     </message>
     <message numerus="yes">
         <location filename="DlgConvert.cpp" line="2528"/>
-        <location filename="DlgConvert.cpp" line="2876"/>
+        <location filename="DlgConvert.cpp" line="2896"/>
         <source>%n hour(s) and </source>
         <translation>
             <numerusform>%n tund ja </numerusform>
@@ -3921,43 +3921,43 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2477"/>
-        <location filename="DlgConvert.cpp" line="4193"/>
+        <location filename="DlgConvert.cpp" line="4213"/>
         <source>Loading error(s):</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2485"/>
-        <location filename="DlgConvert.cpp" line="4201"/>
+        <location filename="DlgConvert.cpp" line="4221"/>
         <source>Saving error(s):</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2496"/>
-        <location filename="DlgConvert.cpp" line="4212"/>
+        <location filename="DlgConvert.cpp" line="4232"/>
         <source>Input files:</source>
         <translation>Sisendfailid:</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2497"/>
-        <location filename="DlgConvert.cpp" line="4213"/>
+        <location filename="DlgConvert.cpp" line="4233"/>
         <source>Extracted pages:</source>
         <translation>Eraldatud lehed: </translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2500"/>
-        <location filename="DlgConvert.cpp" line="4216"/>
+        <location filename="DlgConvert.cpp" line="4236"/>
         <source>New files:</source>
         <translation>Uued failid:</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2502"/>
-        <location filename="DlgConvert.cpp" line="4218"/>
+        <location filename="DlgConvert.cpp" line="4238"/>
         <source>Overwritten:</source>
         <translation>Üle kirjutatud: </translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2504"/>
-        <location filename="DlgConvert.cpp" line="4220"/>
+        <location filename="DlgConvert.cpp" line="4240"/>
         <source>Skipped:</source>
         <translation>Vahele jäetud: </translation>
     </message>
@@ -3999,83 +3999,83 @@ Do you want to overwrite it?</source>
         </translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2674"/>
+        <location filename="DlgConvert.cpp" line="2694"/>
         <source>Finished at: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2705"/>
+        <location filename="DlgConvert.cpp" line="2725"/>
         <source>uploaded</source>
         <translation>üles laetud</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2713"/>
+        <location filename="DlgConvert.cpp" line="2733"/>
         <source>not an image</source>
         <oldsource>not a picture</oldsource>
         <translation type="unfinished">ei ole pilt</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2716"/>
+        <location filename="DlgConvert.cpp" line="2736"/>
         <source>open error</source>
         <translation>viga avamisel</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2719"/>
+        <location filename="DlgConvert.cpp" line="2739"/>
         <source>create error</source>
         <translation>viga loomisel</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2722"/>
+        <location filename="DlgConvert.cpp" line="2742"/>
         <source>has read-only attribute, and can&apos;t be overwritten!</source>
         <translation>on kirjutuskaitstud ja seda ei ole võimalik üle kirjutada!</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2725"/>
+        <location filename="DlgConvert.cpp" line="2745"/>
         <source>skipped, file already exists!</source>
         <translation>jäeti vahele, fail on juba olemas!</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2727"/>
+        <location filename="DlgConvert.cpp" line="2747"/>
         <source>failed</source>
         <translation>ebaõnnestus</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2733"/>
-        <location filename="DlgConvert.cpp" line="4103"/>
+        <location filename="DlgConvert.cpp" line="2753"/>
+        <location filename="DlgConvert.cpp" line="4123"/>
         <source>loading</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2751"/>
-        <location filename="DlgConvert.cpp" line="4118"/>
+        <location filename="DlgConvert.cpp" line="2771"/>
+        <location filename="DlgConvert.cpp" line="4138"/>
         <source>loaded</source>
         <translation>laetud</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2785"/>
-        <location filename="DlgConvert.cpp" line="4144"/>
+        <location filename="DlgConvert.cpp" line="2805"/>
+        <location filename="DlgConvert.cpp" line="4164"/>
         <source>copied</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2789"/>
-        <location filename="DlgConvert.cpp" line="4148"/>
+        <location filename="DlgConvert.cpp" line="2809"/>
+        <location filename="DlgConvert.cpp" line="4168"/>
         <source>saved</source>
         <translation>salvestatud</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2803"/>
+        <location filename="DlgConvert.cpp" line="2823"/>
         <source>%1 of %2 files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2834"/>
+        <location filename="DlgConvert.cpp" line="2854"/>
         <source>Overwrite file</source>
         <oldsource>Overwrite file?</oldsource>
         <translation>Faili ülekirjutamine</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2835"/>
+        <location filename="DlgConvert.cpp" line="2855"/>
         <source>Destination already has a file named: 
 %1
 
@@ -4085,69 +4085,69 @@ Do you want to overwrite it?</oldsource>
         <translation type="unfinished">Fail nimega %1 on juba olemas. Kas soovite seda üle kirjutada?</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2837"/>
+        <location filename="DlgConvert.cpp" line="2857"/>
         <source>Yes to &amp;all</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2838"/>
+        <location filename="DlgConvert.cpp" line="2858"/>
         <source>&amp;Yes</source>
         <translation>&amp;Jah</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2839"/>
+        <location filename="DlgConvert.cpp" line="2859"/>
         <source>&amp;No</source>
         <translation>&amp;Ei</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2840"/>
+        <location filename="DlgConvert.cpp" line="2860"/>
         <source>&amp;Rename</source>
         <translation>&amp;Nimeta ringi</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2841"/>
+        <location filename="DlgConvert.cpp" line="2861"/>
         <source>&amp;Cancel</source>
         <translation>&amp;Tühista</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2898"/>
+        <location filename="DlgConvert.cpp" line="2918"/>
         <source>The &apos;Delete original&apos; option is enabled
 
 Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2908"/>
+        <location filename="DlgConvert.cpp" line="2928"/>
         <source>Output filename will be the same for all converted files. 
 
 Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2931"/>
+        <location filename="DlgConvert.cpp" line="2951"/>
         <source>You have the option &apos;keep original file if result is larger&apos; and some actions. 
 
 Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="3065"/>
+        <location filename="DlgConvert.cpp" line="3085"/>
         <source>The &apos;Use multiple CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</source>
         <oldsource>The &apos;Use CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="3067"/>
+        <location filename="DlgConvert.cpp" line="3087"/>
         <source>Started at: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2908"/>
+        <location filename="DlgConvert.cpp" line="2928"/>
         <source>Output filename</source>
         <translation>Väljundfaili nimi</translation>
     </message>
     <message>
-        <location filename="DlgConvert.cpp" line="2917"/>
+        <location filename="DlgConvert.cpp" line="2937"/>
         <source>Choose output pathname</source>
         <translation>Valige väljundi failitee</translation>
     </message>
@@ -10303,12 +10303,12 @@ Please make sure that files are not read-only!</oldsource>
         <translation type="unfinished">Sobita aknasse</translation>
     </message>
     <message>
-        <location filename="DlgProcess.cpp" line="292"/>
+        <location filename="DlgProcess.cpp" line="296"/>
         <source>&lt;Last Used&gt;</source>
         <translation>&lt;Viimati kasutatud&gt;</translation>
     </message>
     <message>
-        <location filename="DlgProcess.cpp" line="292"/>
+        <location filename="DlgProcess.cpp" line="296"/>
         <source>&lt;Default&gt;</source>
         <translation>&lt;Vaikimisi&gt;</translation>
     </message>
@@ -10675,12 +10675,12 @@ Please install it via Tools › Plugins</source>
 <context>
     <name>DlgRename</name>
     <message>
-        <location filename="DlgRename.cpp" line="861"/>
+        <location filename="DlgRename.cpp" line="884"/>
         <source>(%1 files)</source>
         <translation>(%1 faili)</translation>
     </message>
     <message>
-        <location filename="DlgRename.cpp" line="356"/>
+        <location filename="DlgRename.cpp" line="379"/>
         <source>Companion renaming</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10695,40 +10695,40 @@ Please install it via Tools › Plugins</source>
         <translation type="unfinished">Sulge</translation>
     </message>
     <message>
-        <location filename="DlgRename.cpp" line="356"/>
+        <location filename="DlgRename.cpp" line="379"/>
         <source>Companion files are detected in filelist, they are automatically renamed to follow master filename. 
 
 Do you want to remove them?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgRename.cpp" line="1287"/>
-        <location filename="DlgRename.cpp" line="1294"/>
+        <location filename="DlgRename.cpp" line="1368"/>
+        <location filename="DlgRename.cpp" line="1375"/>
         <source>Save preset</source>
         <translation type="unfinished">Salvesta eeldefineering</translation>
     </message>
     <message>
-        <location filename="DlgRename.cpp" line="1287"/>
+        <location filename="DlgRename.cpp" line="1368"/>
         <source>Preset name:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgRename.cpp" line="1295"/>
+        <location filename="DlgRename.cpp" line="1376"/>
         <source>Preset &apos;%1&apos; already exists. Overwrite?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgRename.cpp" line="1318"/>
+        <location filename="DlgRename.cpp" line="1399"/>
         <source>Delete preset</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgRename.cpp" line="1319"/>
+        <location filename="DlgRename.cpp" line="1400"/>
         <source>Delete preset &apos;%1&apos;?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgRename.cpp" line="1347"/>
+        <location filename="DlgRename.cpp" line="1428"/>
         <source>Do you want to delete all your name templates?</source>
         <oldsource>Do you want to delete all your template&apos;s name?</oldsource>
         <translation type="unfinished"></translation>
@@ -10833,7 +10833,8 @@ Do you want to remove them?</source>
     </message>
     <message>
         <location filename="DlgRename.ui" line="293"/>
-        <source>Clean diacritic characters</source>
+        <source>Replace diacritic characters</source>
+        <oldsource>Clean diacritic characters</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16041,17 +16042,17 @@ Kas soovite jätkata?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgUserFilter.ui" line="486"/>
+        <location filename="DlgUserFilter.ui" line="489"/>
         <source>Bias</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgUserFilter.ui" line="479"/>
+        <location filename="DlgUserFilter.ui" line="482"/>
         <source>Divisor</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="DlgUserFilter.ui" line="506"/>
+        <location filename="DlgUserFilter.ui" line="509"/>
         <source>Apply</source>
         <translation type="unfinished">Rakenda</translation>
     </message>
@@ -17187,7 +17188,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPropertiesView.cpp" line="500"/>
         <location filename="InfoPropertiesView.cpp" line="519"/>
         <location filename="SearchField.cpp" line="41"/>
-        <location filename="TemplateData.cpp" line="2615"/>
+        <location filename="TemplateData.cpp" line="2627"/>
         <source>Format</source>
         <translation>Formaat</translation>
     </message>
@@ -17196,8 +17197,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPropertiesView.cpp" line="485"/>
         <location filename="ItemModel.cpp" line="1030"/>
         <location filename="SearchField.cpp" line="42"/>
-        <location filename="TemplateData.cpp" line="2618"/>
-        <location filename="TemplateData.cpp" line="2641"/>
+        <location filename="TemplateData.cpp" line="2630"/>
+        <location filename="TemplateData.cpp" line="2653"/>
         <source>Width</source>
         <translation>Laius</translation>
     </message>
@@ -17206,8 +17207,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPropertiesView.cpp" line="486"/>
         <location filename="ItemModel.cpp" line="1032"/>
         <location filename="SearchField.cpp" line="43"/>
-        <location filename="TemplateData.cpp" line="2619"/>
-        <location filename="TemplateData.cpp" line="2642"/>
+        <location filename="TemplateData.cpp" line="2631"/>
+        <location filename="TemplateData.cpp" line="2654"/>
         <source>Height</source>
         <translation>Kõrgus</translation>
     </message>
@@ -17232,7 +17233,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPropertiesView.cpp" line="78"/>
         <location filename="InfoPropertiesView.cpp" line="80"/>
         <location filename="InfoPropertiesView.cpp" line="82"/>
-        <location filename="TemplateData.cpp" line="2616"/>
+        <location filename="TemplateData.cpp" line="2628"/>
         <source>Color model</source>
         <translation>Värvimudel</translation>
     </message>
@@ -17259,8 +17260,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="86"/>
         <location filename="ItemModel.cpp" line="1034"/>
-        <location filename="TemplateData.cpp" line="2622"/>
-        <location filename="TemplateData.cpp" line="2644"/>
+        <location filename="TemplateData.cpp" line="2634"/>
+        <location filename="TemplateData.cpp" line="2656"/>
         <source>DPI</source>
         <translation>DPI</translation>
     </message>
@@ -17273,7 +17274,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="94"/>
         <location filename="InfoPropertiesView.cpp" line="99"/>
-        <location filename="TemplateData.cpp" line="2617"/>
+        <location filename="TemplateData.cpp" line="2629"/>
         <source>Compression</source>
         <translation>Pakkimine</translation>
     </message>
@@ -17486,7 +17487,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="ItemModel.cpp" line="1016"/>
         <location filename="SearchField.cpp" line="35"/>
-        <location filename="TemplateData.cpp" line="2826"/>
+        <location filename="TemplateData.cpp" line="2838"/>
         <source>Rating</source>
         <translation>Hinnang</translation>
     </message>
@@ -17515,14 +17516,14 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPropertiesView.cpp" line="537"/>
         <location filename="ItemModel.cpp" line="1022"/>
         <location filename="SearchField.cpp" line="47"/>
-        <location filename="TemplateData.cpp" line="2621"/>
+        <location filename="TemplateData.cpp" line="2633"/>
         <source>Comment</source>
         <translation>Kommentaar</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1028"/>
         <location filename="SearchField.cpp" line="45"/>
-        <location filename="TemplateData.cpp" line="2631"/>
+        <location filename="TemplateData.cpp" line="2643"/>
         <source>Ratio</source>
         <translation>Suhe</translation>
     </message>
@@ -17584,13 +17585,13 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="ItemModel.cpp" line="1038"/>
         <location filename="SearchField.cpp" line="34"/>
-        <location filename="TemplateData.cpp" line="2830"/>
+        <location filename="TemplateData.cpp" line="2842"/>
         <source>Categories</source>
         <translation>Kategooriad</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="36"/>
-        <location filename="TemplateData.cpp" line="2828"/>
+        <location filename="TemplateData.cpp" line="2840"/>
         <source>Color label</source>
         <translation>Värvi silt</translation>
     </message>
@@ -17605,7 +17606,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="IptcEditBase.cpp" line="115"/>
         <location filename="ItemModel.cpp" line="1024"/>
         <location filename="SearchField.cpp" line="46"/>
-        <location filename="TemplateData.cpp" line="2850"/>
+        <location filename="TemplateData.cpp" line="2864"/>
         <source>Annotation</source>
         <translation>Annotatsioon</translation>
     </message>
@@ -17617,32 +17618,32 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Kõik väljad</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2620"/>
-        <location filename="TemplateData.cpp" line="2643"/>
+        <location filename="TemplateData.cpp" line="2632"/>
+        <location filename="TemplateData.cpp" line="2655"/>
         <source>BPP</source>
         <translation>BPP</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2625"/>
-        <location filename="TemplateData.cpp" line="2645"/>
+        <location filename="TemplateData.cpp" line="2637"/>
+        <location filename="TemplateData.cpp" line="2657"/>
         <source>Width (inch)</source>
         <translation>Laius (tolli)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2626"/>
-        <location filename="TemplateData.cpp" line="2646"/>
+        <location filename="TemplateData.cpp" line="2638"/>
+        <location filename="TemplateData.cpp" line="2658"/>
         <source>Height (inch)</source>
         <translation>Kõrgus (tolli)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2627"/>
-        <location filename="TemplateData.cpp" line="2647"/>
+        <location filename="TemplateData.cpp" line="2639"/>
+        <location filename="TemplateData.cpp" line="2659"/>
         <source>Width (cm)</source>
         <translation>Laius (cm)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2628"/>
-        <location filename="TemplateData.cpp" line="2648"/>
+        <location filename="TemplateData.cpp" line="2640"/>
+        <location filename="TemplateData.cpp" line="2660"/>
         <source>Height (cm)</source>
         <translation>Kõrgus (cm)</translation>
     </message>
@@ -17652,7 +17653,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="IptcEditBase.cpp" line="73"/>
         <location filename="IptcEditBase.cpp" line="111"/>
         <location filename="SearchField.cpp" line="29"/>
-        <location filename="TemplateData.cpp" line="2838"/>
+        <location filename="TemplateData.cpp" line="2852"/>
         <source>Filename</source>
         <translation>Faili nimi</translation>
     </message>
@@ -17665,14 +17666,14 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="EditXMPWidget.cpp" line="365"/>
         <location filename="IptcEditBase.cpp" line="74"/>
-        <location filename="TemplateData.cpp" line="2840"/>
+        <location filename="TemplateData.cpp" line="2854"/>
         <source>Filename (last number)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="366"/>
         <location filename="IptcEditBase.cpp" line="75"/>
-        <location filename="TemplateData.cpp" line="2841"/>
+        <location filename="TemplateData.cpp" line="2855"/>
         <source>Folder</source>
         <translation>Kaust</translation>
     </message>
@@ -17680,7 +17681,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="EditXMPWidget.cpp" line="367"/>
         <location filename="IptcEditBase.cpp" line="76"/>
         <location filename="SearchField.cpp" line="32"/>
-        <location filename="TemplateData.cpp" line="2842"/>
+        <location filename="TemplateData.cpp" line="2856"/>
         <source>Folder name</source>
         <translation>Kausta nimi</translation>
     </message>
@@ -17688,7 +17689,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="EditXMPWidget.cpp" line="368"/>
         <location filename="IptcEditBase.cpp" line="77"/>
         <location filename="SearchField.cpp" line="40"/>
-        <location filename="TemplateData.cpp" line="2843"/>
+        <location filename="TemplateData.cpp" line="2857"/>
         <source>Accessed date</source>
         <translation>Vaatamise kuupäev</translation>
     </message>
@@ -17696,7 +17697,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="EditXMPWidget.cpp" line="369"/>
         <location filename="IptcEditBase.cpp" line="78"/>
         <location filename="SearchField.cpp" line="39"/>
-        <location filename="TemplateData.cpp" line="2844"/>
+        <location filename="TemplateData.cpp" line="2858"/>
         <source>Creation date</source>
         <translation>Loomise kuupäev</translation>
     </message>
@@ -17705,133 +17706,143 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="EditXMPWidget.cpp" line="370"/>
         <location filename="IptcEditBase.cpp" line="79"/>
         <location filename="SearchField.cpp" line="38"/>
-        <location filename="TemplateData.cpp" line="2845"/>
+        <location filename="TemplateData.cpp" line="2859"/>
         <source>Modified date</source>
         <translation>Muutmise kuupäev</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="371"/>
         <location filename="IptcEditBase.cpp" line="80"/>
-        <location filename="TemplateData.cpp" line="2846"/>
+        <location filename="TemplateData.cpp" line="2860"/>
         <source>Size (Auto)</source>
         <translation>Suurus (auto)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="372"/>
         <location filename="IptcEditBase.cpp" line="81"/>
-        <location filename="TemplateData.cpp" line="2847"/>
+        <location filename="TemplateData.cpp" line="2861"/>
         <source>Size (Bytes)</source>
         <translation>Suurus (baiti)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="373"/>
         <location filename="IptcEditBase.cpp" line="82"/>
-        <location filename="TemplateData.cpp" line="2848"/>
+        <location filename="TemplateData.cpp" line="2862"/>
         <source>Size (kB)</source>
         <oldsource>Size (KB)</oldsource>
         <translation type="unfinished">Suurus (KB)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2629"/>
+        <location filename="TemplateData.cpp" line="2641"/>
         <source>Width (mm)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2630"/>
+        <location filename="TemplateData.cpp" line="2642"/>
         <source>Height (mm)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2632"/>
+        <location filename="TemplateData.cpp" line="2644"/>
         <source>Ratio Decimal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2633"/>
+        <location filename="TemplateData.cpp" line="2645"/>
         <source>Width/Height Ratio</source>
         <oldsource>Ratio Width/Height</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2634"/>
+        <location filename="TemplateData.cpp" line="2646"/>
         <source>Height/Width Ratio</source>
         <oldsource>Ratio Height/Width</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2635"/>
+        <location filename="TemplateData.cpp" line="2647"/>
         <source>MPixels</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2820"/>
+        <location filename="TemplateData.cpp" line="2832"/>
         <source>Create date</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2821"/>
+        <location filename="TemplateData.cpp" line="2833"/>
         <source>Modify date</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2825"/>
+        <location filename="TemplateData.cpp" line="2837"/>
         <source>Check status</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="TemplateData.cpp" line="2843"/>
+        <source>Frame index</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="TemplateData.cpp" line="2844"/>
+        <source>Frame count</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="SearchField.cpp" line="30"/>
-        <location filename="TemplateData.cpp" line="2839"/>
+        <location filename="TemplateData.cpp" line="2853"/>
         <source>Filename (with extension)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2849"/>
+        <location filename="TemplateData.cpp" line="2863"/>
         <source>Type</source>
         <translation type="unfinished">Tüüp</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2851"/>
+        <location filename="TemplateData.cpp" line="2865"/>
         <source>Output filename</source>
         <oldsource>Output filename without extension</oldsource>
         <translation type="unfinished">Väljundfaili nimi</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2852"/>
+        <location filename="TemplateData.cpp" line="2866"/>
         <source>Output filename (with extension)</source>
         <translation>Väljundfaili nimi (laiendiga)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2822"/>
+        <location filename="TemplateData.cpp" line="2834"/>
         <source>File index</source>
         <translation>Faili indeks</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2623"/>
+        <location filename="TemplateData.cpp" line="2635"/>
         <source>DPI-X</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2624"/>
+        <location filename="TemplateData.cpp" line="2636"/>
         <source>DPI-Y</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2823"/>
+        <location filename="TemplateData.cpp" line="2835"/>
         <source>Zoom</source>
         <translation>Suum</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2824"/>
+        <location filename="TemplateData.cpp" line="2836"/>
         <source>Current date</source>
         <translation>Praegune kuupäev</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2827"/>
+        <location filename="TemplateData.cpp" line="2839"/>
         <source>Rating (number)</source>
         <translation>Hinnang (number)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2829"/>
+        <location filename="TemplateData.cpp" line="2841"/>
         <source>Color label (number)</source>
         <translation>Värvi silt (number)</translation>
     </message>
@@ -17976,6 +17987,23 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="InfoCategoryView.cpp" line="245"/>
+        <source>Catalog file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="InfoCategoryView.cpp" line="251"/>
+        <source>Catalog - Clear &amp; Import</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="InfoCategoryView.cpp" line="251"/>
+        <source>Importing will replace all existing Catalog data.
+
+Do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="InfoCategoryView.cpp" line="622"/>
         <source>Can&apos;t import XnView Classic category database</source>
         <translation type="unfinished"></translation>
@@ -18016,20 +18044,17 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="245"/>
         <location filename="InfoCategoryView.cpp" line="286"/>
         <location filename="InfoCategoryView.cpp" line="310"/>
         <source>Categories file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="251"/>
         <location filename="InfoCategoryView.cpp" line="292"/>
         <source>Import</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="InfoCategoryView.cpp" line="251"/>
         <location filename="InfoCategoryView.cpp" line="292"/>
         <source>Are you sure that you want to start importing categories file?</source>
         <translation type="unfinished"></translation>
@@ -18107,14 +18132,14 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DBFilterModel.cpp" line="2218"/>
         <location filename="SearchField.cpp" line="83"/>
-        <location filename="TemplateData.cpp" line="2653"/>
+        <location filename="TemplateData.cpp" line="2665"/>
         <source>Maker</source>
         <translation>Tootja</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2222"/>
         <location filename="SearchField.cpp" line="84"/>
-        <location filename="TemplateData.cpp" line="2654"/>
+        <location filename="TemplateData.cpp" line="2666"/>
         <source>Model</source>
         <translation>Mudel</translation>
     </message>
@@ -18189,47 +18214,47 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation>Fookussügavus</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2692"/>
+        <location filename="TemplateData.cpp" line="2704"/>
         <source>Aperture</source>
         <translation>Ava</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2697"/>
+        <location filename="TemplateData.cpp" line="2709"/>
         <source>Subject Distance Range</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2740"/>
+        <location filename="TemplateData.cpp" line="2752"/>
         <source>Latitude</source>
         <translation>Laiuskraad</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2743"/>
+        <location filename="TemplateData.cpp" line="2755"/>
         <source>Longitude</source>
         <translation>Pikkuskraad</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="86"/>
-        <location filename="TemplateData.cpp" line="2666"/>
+        <location filename="TemplateData.cpp" line="2678"/>
         <source>Software</source>
         <translation>Tarkvara</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="85"/>
-        <location filename="TemplateData.cpp" line="2655"/>
+        <location filename="TemplateData.cpp" line="2667"/>
         <source>Artist</source>
         <translation>Artist</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="87"/>
-        <location filename="TemplateData.cpp" line="2679"/>
+        <location filename="TemplateData.cpp" line="2691"/>
         <source>User comment</source>
         <translation>Kasutaja kommentaar</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2238"/>
         <location filename="SearchField.cpp" line="93"/>
-        <location filename="TemplateData.cpp" line="2687"/>
+        <location filename="TemplateData.cpp" line="2699"/>
         <source>F-Number</source>
         <translation>F-number</translation>
     </message>
@@ -18239,399 +18264,399 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2656"/>
+        <location filename="TemplateData.cpp" line="2668"/>
         <source>Copyright</source>
         <translation>Autoriõigus</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="88"/>
-        <location filename="TemplateData.cpp" line="2657"/>
+        <location filename="TemplateData.cpp" line="2669"/>
         <source>Date/time modified</source>
         <translation>Muutmise kuupäev/kellaaeg</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2210"/>
-        <location filename="TemplateData.cpp" line="2658"/>
+        <location filename="TemplateData.cpp" line="2670"/>
         <source>Orientation</source>
         <translation>Orientatsioon</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2659"/>
+        <location filename="TemplateData.cpp" line="2671"/>
         <source>X-Resolution</source>
         <translation>X-resolutsioon</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2660"/>
+        <location filename="TemplateData.cpp" line="2672"/>
         <source>Y-Resolution</source>
         <translation>Y-resolutsioon</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2661"/>
+        <location filename="TemplateData.cpp" line="2673"/>
         <source>Resolution unit</source>
         <translation>Resolutsiooni ühik</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2662"/>
+        <location filename="TemplateData.cpp" line="2674"/>
         <source>Primary chromaticities</source>
         <translation>Peamised värvsused</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2663"/>
+        <location filename="TemplateData.cpp" line="2675"/>
         <source>YCbCr-Coefficients</source>
         <translation>YCbCr koefitsiendid</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2664"/>
+        <location filename="TemplateData.cpp" line="2676"/>
         <source>YCbCr-Positioning</source>
         <translation>YCbCr positsioneerimine</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2665"/>
+        <location filename="TemplateData.cpp" line="2677"/>
         <source>Ref. black/white</source>
         <translation>Mustvalge ref</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2668"/>
+        <location filename="TemplateData.cpp" line="2680"/>
         <source>LensID</source>
         <translation>ObjektiiviID</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="97"/>
-        <location filename="TemplateData.cpp" line="2670"/>
+        <location filename="TemplateData.cpp" line="2682"/>
         <source>XP Title</source>
         <translation>XP tiitel</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="98"/>
-        <location filename="TemplateData.cpp" line="2671"/>
+        <location filename="TemplateData.cpp" line="2683"/>
         <source>XP Comment</source>
         <translation>XP kommentaar</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="99"/>
-        <location filename="TemplateData.cpp" line="2672"/>
+        <location filename="TemplateData.cpp" line="2684"/>
         <source>XP Author</source>
         <translation>XP autor</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2673"/>
+        <location filename="TemplateData.cpp" line="2685"/>
         <source>XP Keywords</source>
         <translation>XP võtmesõnad</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="100"/>
-        <location filename="TemplateData.cpp" line="2674"/>
+        <location filename="TemplateData.cpp" line="2686"/>
         <source>XP Subject</source>
         <translation>XP teema</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="89"/>
-        <location filename="TemplateData.cpp" line="2680"/>
+        <location filename="TemplateData.cpp" line="2692"/>
         <source>Date taken</source>
         <translation>Pildistamise kuupäev</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="90"/>
-        <location filename="TemplateData.cpp" line="2681"/>
+        <location filename="TemplateData.cpp" line="2693"/>
         <source>Date digitized</source>
         <translation>Digitaliseerimise kuupäev</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2682"/>
+        <location filename="TemplateData.cpp" line="2694"/>
         <source>Exposure Time (s)</source>
         <oldsource>Exposure Time [s]</oldsource>
         <translation>Säriaeg (s)</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2246"/>
-        <location filename="TemplateData.cpp" line="2683"/>
+        <location filename="TemplateData.cpp" line="2695"/>
         <source>Exposure Program</source>
         <translation>Säritusprogramm</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2684"/>
+        <location filename="TemplateData.cpp" line="2696"/>
         <source>Exposure Mode</source>
         <translation>Säritusrežiim</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2685"/>
+        <location filename="TemplateData.cpp" line="2697"/>
         <source>Exposure Bias</source>
         <translation>Säritusnihe</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2686"/>
+        <location filename="TemplateData.cpp" line="2698"/>
         <source>Exposure Index</source>
         <translation>Säritusindeks</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="92"/>
-        <location filename="TemplateData.cpp" line="2688"/>
+        <location filename="TemplateData.cpp" line="2700"/>
         <source>Focal length (mm)</source>
         <oldsource>Focal length [mm]</oldsource>
         <translation>Fookussügavus (mm)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2689"/>
+        <location filename="TemplateData.cpp" line="2701"/>
         <source>35mm Focal length</source>
         <translation>35mm fookussügavus</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="91"/>
-        <location filename="TemplateData.cpp" line="2690"/>
+        <location filename="TemplateData.cpp" line="2702"/>
         <source>ISO Value</source>
         <translation>ISO väärtus</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2691"/>
+        <location filename="TemplateData.cpp" line="2703"/>
         <source>Shutter speed (s)</source>
         <oldsource>Shutter speed [s]</oldsource>
         <translation>Katiku kiirus (s)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2693"/>
+        <location filename="TemplateData.cpp" line="2705"/>
         <source>Max. aperture</source>
         <translation>Maks ava</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2694"/>
+        <location filename="TemplateData.cpp" line="2706"/>
         <source>Colour space</source>
         <translation>Värviruum</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2695"/>
+        <location filename="TemplateData.cpp" line="2707"/>
         <source>Digital zoom</source>
         <translation>Digisuum</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2696"/>
+        <location filename="TemplateData.cpp" line="2708"/>
         <source>Subject Distance (m)</source>
         <translation>Objekti kaugus (m)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2698"/>
+        <location filename="TemplateData.cpp" line="2710"/>
         <source>Subject location</source>
         <translation>Objekti asukoht</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="95"/>
-        <location filename="TemplateData.cpp" line="2699"/>
+        <location filename="TemplateData.cpp" line="2711"/>
         <source>Flash</source>
         <translation>Välk</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2700"/>
+        <location filename="TemplateData.cpp" line="2712"/>
         <source>Flash energy</source>
         <translation>Välgu jõud</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2701"/>
+        <location filename="TemplateData.cpp" line="2713"/>
         <source>Metering mode</source>
         <translation>Mõõtmise režiim</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2702"/>
+        <location filename="TemplateData.cpp" line="2714"/>
         <source>Gain control</source>
         <translatorcomment>???</translatorcomment>
         <translation>Suurenduse kontroll</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2703"/>
+        <location filename="TemplateData.cpp" line="2715"/>
         <source>Light source</source>
         <translation>Valgusallikas</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2704"/>
+        <location filename="TemplateData.cpp" line="2716"/>
         <source>White balance</source>
         <translation>Värvustasakaal</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2705"/>
+        <location filename="TemplateData.cpp" line="2717"/>
         <source>Contrast</source>
         <translation>Kontrast</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2706"/>
+        <location filename="TemplateData.cpp" line="2718"/>
         <source>Saturation</source>
         <translation>Saturatsioon</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2707"/>
+        <location filename="TemplateData.cpp" line="2719"/>
         <source>Sharpness</source>
         <translation>Teravus</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2708"/>
+        <location filename="TemplateData.cpp" line="2720"/>
         <source>Brightness</source>
         <translation>Eredus</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2709"/>
+        <location filename="TemplateData.cpp" line="2721"/>
         <source>Spectral sensitivity</source>
         <translation>Spektraaltundlikkus</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2710"/>
+        <location filename="TemplateData.cpp" line="2722"/>
         <source>Spatial freq. response</source>
         <translation>Ruumiline sagedusvastus</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2711"/>
+        <location filename="TemplateData.cpp" line="2723"/>
         <source>Sensing method</source>
         <translation>Tundlikkuse meetod</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2712"/>
+        <location filename="TemplateData.cpp" line="2724"/>
         <source>File source</source>
         <translation>Faili allikas</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2713"/>
+        <location filename="TemplateData.cpp" line="2725"/>
         <source>CFA pattern</source>
         <translation>CFA muster</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2714"/>
+        <location filename="TemplateData.cpp" line="2726"/>
         <source>Custom rendered</source>
         <translation>Kohandatult renderdatud</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2715"/>
+        <location filename="TemplateData.cpp" line="2727"/>
         <source>Device settings desc.</source>
         <translation>Seadme seadete kirj.</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2716"/>
+        <location filename="TemplateData.cpp" line="2728"/>
         <source>Scene type</source>
         <translation>Stseeni tüüp</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2717"/>
+        <location filename="TemplateData.cpp" line="2729"/>
         <source>Scene capture type</source>
         <translation>Stseeni hõive tüüp</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2718"/>
+        <location filename="TemplateData.cpp" line="2730"/>
         <source>Image-ID</source>
         <translation>Pildi-ID</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2719"/>
+        <location filename="TemplateData.cpp" line="2731"/>
         <source>Image width</source>
         <translation>Pildi laius</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2720"/>
+        <location filename="TemplateData.cpp" line="2732"/>
         <source>Image height</source>
         <translation>Pildi kõrgus</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2721"/>
+        <location filename="TemplateData.cpp" line="2733"/>
         <source>Image description</source>
         <translation>Pildi kirjeldus</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2722"/>
+        <location filename="TemplateData.cpp" line="2734"/>
         <source>Components configuration</source>
         <translation>Komponentide konfiguratsioon</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2723"/>
+        <location filename="TemplateData.cpp" line="2735"/>
         <source>Photometric interpretation</source>
         <translation>Fotomeetriline interpretatsioon</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2724"/>
+        <location filename="TemplateData.cpp" line="2736"/>
         <source>Focal Plane X-Resolution</source>
         <translation>Fookustasandi X-resolutsioon</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2725"/>
+        <location filename="TemplateData.cpp" line="2737"/>
         <source>Focal Plane Y-Resolution</source>
         <translation>Fookustasandi Y-resolutsioon</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2726"/>
+        <location filename="TemplateData.cpp" line="2738"/>
         <source>Focal Plane Res. Unit</source>
         <translation>Fookustasandi res. ühik</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2727"/>
+        <location filename="TemplateData.cpp" line="2739"/>
         <source>EXIF Version</source>
         <translation>EXIF versioon</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2728"/>
+        <location filename="TemplateData.cpp" line="2740"/>
         <source>White point</source>
         <translation>Valge punkt</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2729"/>
+        <location filename="TemplateData.cpp" line="2741"/>
         <source>Lens Make</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="96"/>
-        <location filename="TemplateData.cpp" line="2730"/>
+        <location filename="TemplateData.cpp" line="2742"/>
         <source>Lens Model</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2731"/>
+        <location filename="TemplateData.cpp" line="2743"/>
         <source>SubSecTime</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2732"/>
+        <location filename="TemplateData.cpp" line="2744"/>
         <source>SubSecTime Original</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2733"/>
+        <location filename="TemplateData.cpp" line="2745"/>
         <source>SubSecTime Digitized</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2739"/>
+        <location filename="TemplateData.cpp" line="2751"/>
         <source>Latitude ref.</source>
         <translation>Laiuskraadi ref.</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2741"/>
+        <location filename="TemplateData.cpp" line="2753"/>
         <source>Latitude (value)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2742"/>
+        <location filename="TemplateData.cpp" line="2754"/>
         <source>Longitude ref.</source>
         <translation>Pikkuskraadi ref.</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2744"/>
+        <location filename="TemplateData.cpp" line="2756"/>
         <source>Longitude (value)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2745"/>
+        <location filename="TemplateData.cpp" line="2757"/>
         <source>Altitude ref.</source>
         <translation>Kõrguse ref.</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2746"/>
+        <location filename="TemplateData.cpp" line="2758"/>
         <source>Altitude</source>
         <translation>Kõrgus</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2747"/>
+        <location filename="TemplateData.cpp" line="2759"/>
         <source>Direction ref.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2748"/>
+        <location filename="TemplateData.cpp" line="2760"/>
         <source>Direction</source>
         <translation type="unfinished">Suund</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2749"/>
+        <location filename="TemplateData.cpp" line="2761"/>
         <source>Location Code</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18688,7 +18713,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="25"/>
         <location filename="IptcHelper.cpp" line="18"/>
         <location filename="SearchField.cpp" line="52"/>
-        <location filename="TemplateData.cpp" line="2754"/>
+        <location filename="TemplateData.cpp" line="2766"/>
         <source>Caption</source>
         <translation>Tiitel</translation>
     </message>
@@ -18698,8 +18723,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="IptcHelper.cpp" line="20"/>
         <location filename="SearchField.cpp" line="53"/>
         <location filename="SearchField.cpp" line="110"/>
-        <location filename="TemplateData.cpp" line="2755"/>
-        <location filename="TemplateData.cpp" line="2808"/>
+        <location filename="TemplateData.cpp" line="2767"/>
+        <location filename="TemplateData.cpp" line="2820"/>
         <source>Caption writer</source>
         <translation>Tiitli kirjutaja</translation>
     </message>
@@ -18709,8 +18734,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="IptcHelper.cpp" line="21"/>
         <location filename="SearchField.cpp" line="54"/>
         <location filename="SearchField.cpp" line="114"/>
-        <location filename="TemplateData.cpp" line="2756"/>
-        <location filename="TemplateData.cpp" line="2812"/>
+        <location filename="TemplateData.cpp" line="2768"/>
+        <location filename="TemplateData.cpp" line="2824"/>
         <source>Headline</source>
         <translation>Pealkiri</translation>
     </message>
@@ -18718,7 +18743,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="29"/>
         <location filename="IptcHelper.cpp" line="22"/>
         <location filename="SearchField.cpp" line="55"/>
-        <location filename="TemplateData.cpp" line="2757"/>
+        <location filename="TemplateData.cpp" line="2769"/>
         <source>Special instructions</source>
         <translation>Erikäsud</translation>
     </message>
@@ -18727,14 +18752,14 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="34"/>
         <location filename="IptcHelper.cpp" line="24"/>
         <location filename="SearchField.cpp" line="56"/>
-        <location filename="TemplateData.cpp" line="2762"/>
+        <location filename="TemplateData.cpp" line="2774"/>
         <source>Keywords</source>
         <translation>Võtmesõnad</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="35"/>
         <location filename="SearchField.cpp" line="57"/>
-        <location filename="TemplateData.cpp" line="2763"/>
+        <location filename="TemplateData.cpp" line="2775"/>
         <source>Category</source>
         <translation>Kategooria</translation>
     </message>
@@ -18742,7 +18767,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="36"/>
         <location filename="IptcHelper.cpp" line="26"/>
         <location filename="SearchField.cpp" line="58"/>
-        <location filename="TemplateData.cpp" line="2764"/>
+        <location filename="TemplateData.cpp" line="2776"/>
         <source>Supplemental categories</source>
         <translation>Täiendavad kategooriad</translation>
     </message>
@@ -18751,8 +18776,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="IptcHelper.cpp" line="32"/>
         <location filename="SearchField.cpp" line="59"/>
         <location filename="SearchField.cpp" line="106"/>
-        <location filename="TemplateData.cpp" line="2769"/>
-        <location filename="TemplateData.cpp" line="2804"/>
+        <location filename="TemplateData.cpp" line="2781"/>
+        <location filename="TemplateData.cpp" line="2816"/>
         <source>Copyright</source>
         <translation>Autoriõigus</translation>
     </message>
@@ -18760,7 +18785,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="42"/>
         <location filename="IptcHelper.cpp" line="28"/>
         <location filename="SearchField.cpp" line="60"/>
-        <location filename="TemplateData.cpp" line="2770"/>
+        <location filename="TemplateData.cpp" line="2782"/>
         <source>Byline</source>
         <translation>Autor</translation>
     </message>
@@ -18768,7 +18793,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="43"/>
         <location filename="IptcHelper.cpp" line="29"/>
         <location filename="SearchField.cpp" line="61"/>
-        <location filename="TemplateData.cpp" line="2771"/>
+        <location filename="TemplateData.cpp" line="2783"/>
         <source>Byline title</source>
         <translation>Autori tiitel</translation>
     </message>
@@ -18784,8 +18809,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="IptcHelper.cpp" line="31"/>
         <location filename="SearchField.cpp" line="63"/>
         <location filename="SearchField.cpp" line="116"/>
-        <location filename="TemplateData.cpp" line="2773"/>
-        <location filename="TemplateData.cpp" line="2814"/>
+        <location filename="TemplateData.cpp" line="2785"/>
+        <location filename="TemplateData.cpp" line="2826"/>
         <source>Source</source>
         <translation>Allikas</translation>
     </message>
@@ -18793,7 +18818,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="50"/>
         <location filename="IptcHelper.cpp" line="35"/>
         <location filename="SearchField.cpp" line="64"/>
-        <location filename="TemplateData.cpp" line="2778"/>
+        <location filename="TemplateData.cpp" line="2790"/>
         <source>Edit status</source>
         <translation>Muutuse staatus</translation>
     </message>
@@ -18801,7 +18826,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="52"/>
         <location filename="IptcHelper.cpp" line="39"/>
         <location filename="SearchField.cpp" line="68"/>
-        <location filename="TemplateData.cpp" line="2782"/>
+        <location filename="TemplateData.cpp" line="2794"/>
         <source>Program</source>
         <translation>Programm</translation>
     </message>
@@ -18815,7 +18840,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="54"/>
         <location filename="IptcHelper.cpp" line="36"/>
         <location filename="SearchField.cpp" line="65"/>
-        <location filename="TemplateData.cpp" line="2779"/>
+        <location filename="TemplateData.cpp" line="2791"/>
         <source>Priority</source>
         <translation>Prioriteet</translation>
     </message>
@@ -18834,15 +18859,15 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="SearchField.cpp" line="72"/>
         <location filename="SearchField.cpp" line="111"/>
         <location filename="SearchField.cpp" line="126"/>
-        <location filename="TemplateData.cpp" line="2790"/>
-        <location filename="TemplateData.cpp" line="2809"/>
+        <location filename="TemplateData.cpp" line="2802"/>
+        <location filename="TemplateData.cpp" line="2821"/>
         <source>City</source>
         <translation>Linn</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="74"/>
         <location filename="SearchField.cpp" line="79"/>
-        <location filename="TemplateData.cpp" line="2797"/>
+        <location filename="TemplateData.cpp" line="2809"/>
         <source>Content location</source>
         <translation>Sisu asukoht</translation>
     </message>
@@ -18866,8 +18891,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="SearchField.cpp" line="75"/>
         <location filename="SearchField.cpp" line="112"/>
         <location filename="SearchField.cpp" line="129"/>
-        <location filename="TemplateData.cpp" line="2793"/>
-        <location filename="TemplateData.cpp" line="2810"/>
+        <location filename="TemplateData.cpp" line="2805"/>
+        <location filename="TemplateData.cpp" line="2822"/>
         <source>Country</source>
         <translation>Riik</translation>
     </message>
@@ -18881,7 +18906,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="51"/>
         <location filename="IptcHelper.cpp" line="38"/>
         <location filename="SearchField.cpp" line="67"/>
-        <location filename="TemplateData.cpp" line="2781"/>
+        <location filename="TemplateData.cpp" line="2793"/>
         <source>Fixture ID</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18890,7 +18915,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="IptcHelper.cpp" line="48"/>
         <location filename="SearchField.cpp" line="76"/>
         <location filename="SearchField.cpp" line="124"/>
-        <location filename="TemplateData.cpp" line="2794"/>
+        <location filename="TemplateData.cpp" line="2806"/>
         <source>Country code</source>
         <translation>Riigi kood</translation>
     </message>
@@ -18898,7 +18923,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="66"/>
         <location filename="IptcHelper.cpp" line="51"/>
         <location filename="SearchField.cpp" line="77"/>
-        <location filename="TemplateData.cpp" line="2795"/>
+        <location filename="TemplateData.cpp" line="2807"/>
         <source>Original transmission reference</source>
         <oldsource>Original tr. ref.</oldsource>
         <translation type="unfinished">Algse ülek. viid.</translation>
@@ -18906,7 +18931,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoIPTCView.cpp" line="67"/>
         <location filename="SearchField.cpp" line="70"/>
-        <location filename="TemplateData.cpp" line="2788"/>
+        <location filename="TemplateData.cpp" line="2800"/>
         <source>Created date</source>
         <translation>Loomise kuupäev</translation>
     </message>
@@ -18918,7 +18943,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoIPTCView.cpp" line="69"/>
         <location filename="SearchField.cpp" line="71"/>
-        <location filename="TemplateData.cpp" line="2789"/>
+        <location filename="TemplateData.cpp" line="2801"/>
         <source>Released date</source>
         <translation>Väljaandmise kuupäev</translation>
     </message>
@@ -18941,7 +18966,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="73"/>
         <location filename="IptcHelper.cpp" line="33"/>
         <location filename="SearchField.cpp" line="78"/>
-        <location filename="TemplateData.cpp" line="2796"/>
+        <location filename="TemplateData.cpp" line="2808"/>
         <source>Contact</source>
         <translation>Kontakt</translation>
     </message>
@@ -18951,7 +18976,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="IptcHelper.cpp" line="45"/>
         <location filename="SearchField.cpp" line="73"/>
         <location filename="SearchField.cpp" line="123"/>
-        <location filename="TemplateData.cpp" line="2791"/>
+        <location filename="TemplateData.cpp" line="2803"/>
         <source>Location</source>
         <translation>Asukoht</translation>
     </message>
@@ -18974,8 +18999,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="EditXMPWidget.cpp" line="135"/>
         <location filename="SearchField.cpp" line="62"/>
         <location filename="SearchField.cpp" line="113"/>
-        <location filename="TemplateData.cpp" line="2772"/>
-        <location filename="TemplateData.cpp" line="2811"/>
+        <location filename="TemplateData.cpp" line="2784"/>
+        <location filename="TemplateData.cpp" line="2823"/>
         <source>Credit</source>
         <translation>Tunnustus</translation>
     </message>
@@ -18986,14 +19011,14 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="SearchField.cpp" line="74"/>
         <location filename="SearchField.cpp" line="117"/>
         <location filename="SearchField.cpp" line="127"/>
-        <location filename="TemplateData.cpp" line="2792"/>
-        <location filename="TemplateData.cpp" line="2815"/>
+        <location filename="TemplateData.cpp" line="2804"/>
+        <location filename="TemplateData.cpp" line="2827"/>
         <source>State</source>
         <translation>Seis</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="66"/>
-        <location filename="TemplateData.cpp" line="2780"/>
+        <location filename="TemplateData.cpp" line="2792"/>
         <source>Cycle</source>
         <translation>Tsükkel</translation>
     </message>
@@ -19065,39 +19090,39 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="EditXMPWidget.cpp" line="138"/>
         <location filename="SearchField.cpp" line="115"/>
-        <location filename="TemplateData.cpp" line="2813"/>
+        <location filename="TemplateData.cpp" line="2825"/>
         <source>Instructions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="104"/>
-        <location filename="TemplateData.cpp" line="2802"/>
+        <location filename="TemplateData.cpp" line="2814"/>
         <source>Creator</source>
         <translation>Looja</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="119"/>
         <location filename="SearchField.cpp" line="105"/>
-        <location filename="TemplateData.cpp" line="2803"/>
+        <location filename="TemplateData.cpp" line="2815"/>
         <source>Description</source>
         <translation>Kirjeldus</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="107"/>
-        <location filename="TemplateData.cpp" line="2805"/>
+        <location filename="TemplateData.cpp" line="2817"/>
         <source>Subject</source>
         <translation>Teema</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="108"/>
-        <location filename="TemplateData.cpp" line="2806"/>
+        <location filename="TemplateData.cpp" line="2818"/>
         <source>Title</source>
         <translation>Tiitel</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="118"/>
         <location filename="SearchField.cpp" line="109"/>
-        <location filename="TemplateData.cpp" line="2807"/>
+        <location filename="TemplateData.cpp" line="2819"/>
         <source>Authors position</source>
         <translation>Autori positsioon</translation>
     </message>
@@ -19106,7 +19131,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoIPTCView.cpp" line="60"/>
         <location filename="IptcHelper.cpp" line="50"/>
         <location filename="SearchField.cpp" line="69"/>
-        <location filename="TemplateData.cpp" line="2787"/>
+        <location filename="TemplateData.cpp" line="2799"/>
         <source>Document title</source>
         <translation type="unfinished"></translation>
     </message>
@@ -19864,22 +19889,22 @@ Kas soovite jätkata?</translation>
 <context>
     <name>MediaPlayerMDK</name>
     <message>
-        <location filename="MediaPlayerMDK.cpp" line="243"/>
+        <location filename="MediaPlayerMDK.cpp" line="248"/>
         <source>Show playbar</source>
         <translation type="unfinished">Näita mängimise riba</translation>
     </message>
     <message>
-        <location filename="MediaPlayerMDK.cpp" line="247"/>
+        <location filename="MediaPlayerMDK.cpp" line="252"/>
         <source>Extract current frame</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="MediaPlayerMDK.cpp" line="250"/>
+        <location filename="MediaPlayerMDK.cpp" line="255"/>
         <source>Save frame as...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="MediaPlayerMDK.cpp" line="253"/>
+        <location filename="MediaPlayerMDK.cpp" line="258"/>
         <source>Open with</source>
         <translation type="unfinished">Ava programmiga</translation>
     </message>
@@ -20088,8 +20113,8 @@ Kas soovite jätkata?</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="66"/>
-        <source>Name - natural order</source>
-        <oldsource>Name - numeric order</oldsource>
+        <source>Name - natural (numeric) order</source>
+        <oldsource>Name - natural order</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -21453,134 +21478,134 @@ Kas soovite jätkata?</translation>
 <context>
     <name>MenuTemplate</name>
     <message>
-        <location filename="TemplateData.cpp" line="2836"/>
+        <location filename="TemplateData.cpp" line="2850"/>
         <source>Date format variables</source>
         <translation>Kuupäeva formaadi muutujad</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2594"/>
+        <location filename="TemplateData.cpp" line="2606"/>
         <source>Y - Year</source>
         <translation>Y - Aasta</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2595"/>
+        <location filename="TemplateData.cpp" line="2607"/>
         <source>y - Year without century (00-99)</source>
         <translation>y - Aasta ilma sajandita (00-99)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2596"/>
+        <location filename="TemplateData.cpp" line="2608"/>
         <source>m - Month as decimal (01-12)</source>
         <translation>m - Kuu numbrina (01-12)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2597"/>
+        <location filename="TemplateData.cpp" line="2609"/>
         <source>d - Day as decimal (01-31)</source>
         <translation>d - Päev numbrina (01-31)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2599"/>
+        <location filename="TemplateData.cpp" line="2611"/>
         <source>H - Hour (01-24)</source>
         <translation>H - Tund (01-24)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2600"/>
+        <location filename="TemplateData.cpp" line="2612"/>
         <source>h - Hour (01-12)</source>
         <oldsource>h - Hour (01-21)</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2601"/>
+        <location filename="TemplateData.cpp" line="2613"/>
         <source>M - Minute (00-59)</source>
         <translation>M - Minut (00-59)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2602"/>
+        <location filename="TemplateData.cpp" line="2614"/>
         <source>S - Second (00-59)</source>
         <translation>S - Sekund (00-59)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2604"/>
+        <location filename="TemplateData.cpp" line="2616"/>
         <source>B - Month name (eg. february)</source>
         <translation>B - Kuu nimetus (nt veebruar/february)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2605"/>
+        <location filename="TemplateData.cpp" line="2617"/>
         <source>b - Abbreviated month name (eg. feb)</source>
         <translation>b - Kuu nimetuse lühend (nt veebr/feb)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2606"/>
+        <location filename="TemplateData.cpp" line="2618"/>
         <source>A - Weekday name (eg. wednesday)</source>
         <translation>A - Nädalapäev (nt kolmapäev/wednesday)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2607"/>
+        <location filename="TemplateData.cpp" line="2619"/>
         <source>a - Abbreviated weekday name (eg. wed)</source>
         <translation>a - Nädalapäeva lühend (nt kolm/wed)</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2835"/>
+        <location filename="TemplateData.cpp" line="2849"/>
         <source># - Numeric enumerator</source>
         <oldsource>#: Numeric enumerator</oldsource>
         <translation># - numbri tähis</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2853"/>
+        <location filename="TemplateData.cpp" line="2867"/>
         <source>Extra</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2855"/>
+        <location filename="TemplateData.cpp" line="2869"/>
         <source>Image</source>
         <translation>Pilt</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2856"/>
+        <location filename="TemplateData.cpp" line="2870"/>
         <source>Saved Image</source>
         <translation>Salvestatud pilt</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2857"/>
+        <location filename="TemplateData.cpp" line="2871"/>
         <source>EXIF - Camera</source>
         <translation>EXIF - Kaamera</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2858"/>
+        <location filename="TemplateData.cpp" line="2872"/>
         <source>EXIF - Image</source>
         <translation>EXIF - Pilt</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2859"/>
+        <location filename="TemplateData.cpp" line="2873"/>
         <source>EXIF - GPS</source>
         <translation>EXIF - GPS</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2860"/>
+        <location filename="TemplateData.cpp" line="2874"/>
         <source>IPTC - Caption</source>
         <translation>IPTC - Tiitel</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2861"/>
+        <location filename="TemplateData.cpp" line="2875"/>
         <source>IPTC - Keywords&amp;&amp;Categories</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2865"/>
+        <location filename="TemplateData.cpp" line="2879"/>
         <source>XMP</source>
         <translation type="unfinished">XMP</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2862"/>
+        <location filename="TemplateData.cpp" line="2876"/>
         <source>IPTC - Credits</source>
         <translation>IPTC - Tunnustus</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2863"/>
+        <location filename="TemplateData.cpp" line="2877"/>
         <source>IPTC - Status</source>
         <translation>IPTC - Staatus</translation>
     </message>
     <message>
-        <location filename="TemplateData.cpp" line="2864"/>
+        <location filename="TemplateData.cpp" line="2878"/>
         <source>IPTC - Origin</source>
         <translation>IPTC - Päritolu</translation>
     </message>
@@ -23217,17 +23242,17 @@ You can change it in Settings › Catalog.</oldsource>
 <context>
     <name>OpenWithMenu</name>
     <message>
-        <location filename="OpenWithMenu.cpp" line="372"/>
+        <location filename="OpenWithMenu.cpp" line="422"/>
         <source>Associated program</source>
         <translation>Seostatud programm</translation>
     </message>
     <message>
-        <location filename="OpenWithMenu.cpp" line="376"/>
+        <location filename="OpenWithMenu.cpp" line="426"/>
         <source>Associated editor</source>
         <translation>Seostatud redaktor</translation>
     </message>
     <message>
-        <location filename="OpenWithMenu.cpp" line="381"/>
+        <location filename="OpenWithMenu.cpp" line="431"/>
         <source>Configure programs...</source>
         <translation>Seadista programmid...</translation>
     </message>

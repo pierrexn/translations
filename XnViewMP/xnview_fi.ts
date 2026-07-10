@@ -8476,10 +8476,6 @@ Haluatko poistaa ne?</translation>
         <translation>Tiedostopääte</translation>
     </message>
     <message>
-        <source>Clean diacritic characters</source>
-        <translation>Poista diakriittiset merkit</translation>
-    </message>
-    <message>
         <source>First letters uppercase</source>
         <translation>Ensimmäinen kirjain isolla</translation>
     </message>
@@ -8522,6 +8518,10 @@ Haluatko poistaa ne?</translation>
     <message>
         <source>Remove preset from list</source>
         <translation type="unfinished">Poista esiasetus listalta</translation>
+    </message>
+    <message>
+        <source>Replace diacritic characters</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13758,6 +13758,14 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
         <source>Indexed</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Frame index</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Frame count</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>InfoCategoryTreeView</name>
@@ -13919,6 +13927,20 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     <message>
         <source>Can&apos;t import XnView database</source>
         <translation>XnView-tietokantaa ei voi tuoda</translation>
+    </message>
+    <message>
+        <source>Catalog file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Catalog - Clear &amp; Import</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Importing will replace all existing Catalog data.
+
+Do you want to continue?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16350,7 +16372,7 @@ Jatketaanko?</translation>
         <translation>Kanavan leikkaus</translation>
     </message>
     <message>
-        <source>Name - natural order</source>
+        <source>Name - natural (numeric) order</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

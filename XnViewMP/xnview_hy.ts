@@ -8491,10 +8491,6 @@ Do you want to remove them?</source>
         <translation>Անտեսել ընդլայնումը # հաշվիչի համար</translation>
     </message>
     <message>
-        <source>Clean diacritic characters</source>
-        <translation>Մաքրել տարբերիչ գրանշանները</translation>
-    </message>
-    <message>
         <source>Add files...</source>
         <translation type="unfinished">Ավելացնել ֆայլ...</translation>
     </message>
@@ -8517,6 +8513,10 @@ Do you want to remove them?</source>
     <message>
         <source>Remove preset from list</source>
         <translation type="unfinished">Հեռացնել նախակայումը ցանկից</translation>
+    </message>
+    <message>
+        <source>Replace diacritic characters</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13752,6 +13752,14 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <source>Indexed</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Frame index</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Frame count</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>InfoCategoryTreeView</name>
@@ -13913,6 +13921,20 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Can&apos;t import XnView database</source>
         <translation>Հնարավոր չէ ներմուծել XnView ՏՇ-ը</translation>
+    </message>
+    <message>
+        <source>Catalog file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Catalog - Clear &amp; Import</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Importing will replace all existing Catalog data.
+
+Do you want to continue?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16344,7 +16366,7 @@ Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Name - natural order</source>
+        <source>Name - natural (numeric) order</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

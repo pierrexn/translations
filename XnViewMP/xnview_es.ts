@@ -8472,10 +8472,6 @@ Do you want to remove them?</source>
         <translation>Extensión</translation>
     </message>
     <message>
-        <source>Clean diacritic characters</source>
-        <translation>Limpiar caracteres diacríticos</translation>
-    </message>
-    <message>
         <source>First letters uppercase</source>
         <translation>Primeras letras en mayúsculas</translation>
     </message>
@@ -8518,6 +8514,10 @@ Do you want to remove them?</source>
     <message>
         <source>Remove preset from list</source>
         <translation type="unfinished">Eliminar ajuste preestablecido de la lista</translation>
+    </message>
+    <message>
+        <source>Replace diacritic characters</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13753,6 +13753,14 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <source>Indexed</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Frame index</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Frame count</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>InfoCategoryTreeView</name>
@@ -13914,6 +13922,20 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Can&apos;t import XnView database</source>
         <translation>No se puede importar la base de datos de categorías de XnView</translation>
+    </message>
+    <message>
+        <source>Catalog file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Catalog - Clear &amp; Import</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Importing will replace all existing Catalog data.
+
+Do you want to continue?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16345,7 +16367,7 @@ Do you want to continue?</source>
         <translation>Recorte por canal</translation>
     </message>
     <message>
-        <source>Name - natural order</source>
+        <source>Name - natural (numeric) order</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

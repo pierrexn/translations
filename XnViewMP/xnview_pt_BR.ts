@@ -8494,10 +8494,6 @@ Deseja removê-los da lista?</translation>
         <translation>Ignorar extensão para o enumerador #</translation>
     </message>
     <message>
-        <source>Clean diacritic characters</source>
-        <translation>Limpar caracteres diacríticos</translation>
-    </message>
-    <message>
         <source>Add files...</source>
         <translation type="unfinished">Adicionar arquivos...</translation>
     </message>
@@ -8520,6 +8516,10 @@ Deseja removê-los da lista?</translation>
     <message>
         <source>Remove preset from list</source>
         <translation type="unfinished">Excluir predefinição da lista</translation>
+    </message>
+    <message>
+        <source>Replace diacritic characters</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13759,6 +13759,14 @@ Deseja excluir o favorito &quot;%1&quot;?</translation>
         <source>Indexed</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Frame index</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Frame count</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>InfoCategoryTreeView</name>
@@ -13921,6 +13929,20 @@ Deseja excluir o favorito &quot;%1&quot;?</translation>
     <message>
         <source>Do you want to delete unused categories?</source>
         <translation>Deseja excluir as categorias não utilizadas?</translation>
+    </message>
+    <message>
+        <source>Catalog file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Catalog - Clear &amp; Import</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Importing will replace all existing Catalog data.
+
+Do you want to continue?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16352,7 +16374,7 @@ Deseja continuar?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Name - natural order</source>
+        <source>Name - natural (numeric) order</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
