@@ -1469,7 +1469,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen?</translation>
     <message>
         <location filename="DlgConvertProcess.h" line="3339"/>
         <source>Blurred frame</source>
-        <translation>Vervaagd frame</translation>
+        <translation>Vervaagd kader</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="3401"/>
@@ -10867,7 +10867,7 @@ Wil je ze verwijderen?</translation>
         <location filename="DlgRename.ui" line="293"/>
         <source>Replace diacritic characters</source>
         <oldsource>Clean diacritic characters</oldsource>
-        <translation type="unfinished">Ruim diakritische tekens op</translation>
+        <translation>Diakritische tekens vervangen</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="209"/>
@@ -13791,7 +13791,7 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsInterface.ui" line="1426"/>
         <location filename="DlgSettingsInterface.ui" line="1456"/>
         <source>Previous/next frame</source>
-        <translation>Vorige/volgende frame</translation>
+        <translation>Vorige/volgende kader</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1487"/>
@@ -17826,12 +17826,12 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2843"/>
         <source>Frame index</source>
-        <translation type="unfinished"></translation>
+        <translation>Frame-index</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2844"/>
         <source>Frame count</source>
-        <translation type="unfinished"></translation>
+        <translation>Aantal frames</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="30"/>
@@ -18033,19 +18033,21 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="245"/>
         <source>Catalog file</source>
-        <translation type="unfinished"></translation>
+        <translation>Catalogusbestand</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="251"/>
         <source>Catalog - Clear &amp; Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Catalogus - Wissen &amp; Importeren</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="251"/>
         <source>Importing will replace all existing Catalog data.
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Importeren vervangt alle bestaande catalogusgegevens.
+
+Wil je doorgaan?</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="622"/>
@@ -20226,7 +20228,7 @@ Doorgaan?</translation>
         <location filename="BrowserMenu.h" line="66"/>
         <source>Name - natural (numeric) order</source>
         <oldsource>Name - natural order</oldsource>
-        <translation type="unfinished">Naam - natuurlijke volgorde</translation>
+        <translation>Naam - natuurlijke (numerieke) volgorde</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="68"/>
