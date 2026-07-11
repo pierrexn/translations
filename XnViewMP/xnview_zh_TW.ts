@@ -10775,7 +10775,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgRename.ui" line="88"/>
         <source>Duplicate...</source>
-        <translation>檔名重複...</translation>
+        <translation>若檔案名稱重複...</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="117"/>
@@ -12812,7 +12812,7 @@ Thumbnail</source>
         <location filename="DlgSettingsGeneral.ui" line="663"/>
         <source>Duplicate files naming</source>
         <oldsource>Duplicate files</oldsource>
-        <translation>重複的檔案名稱</translation>
+        <translation>若檔案名稱重複</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="559"/>
