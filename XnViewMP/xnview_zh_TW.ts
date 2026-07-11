@@ -6128,7 +6128,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertOffset.ui" line="257"/>
         <source>Wrap image around</source>
-        <translation>影像重覆鋪排</translation>
+        <translation>影像重複鋪排</translation>
     </message>
 </context>
 <context>
@@ -10765,17 +10765,17 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgRename.ui" line="54"/>
         <source>Start</source>
-        <translation>開始</translation>
+        <translation>起始值</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="72"/>
         <source>Step</source>
-        <translation>逐量</translation>
+        <translation>遞增值</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="88"/>
         <source>Duplicate...</source>
-        <translation>複製...</translation>
+        <translation>檔名重複...</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="117"/>
@@ -10851,7 +10851,7 @@ Do you want to remove them?</source>
         <location filename="DlgRename.ui" line="293"/>
         <source>Replace diacritic characters</source>
         <oldsource>Clean diacritic characters</oldsource>
-        <translation type="unfinished">清除變音符號 (附加符號)</translation>
+        <translation>清除變音符號 (附加符號)</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="209"/>
@@ -14585,7 +14585,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="678"/>
         <source>Selection</source>
-        <translation>選取方式</translation>
+        <translation>框選區域</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="686"/>
@@ -14595,12 +14595,12 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="691"/>
         <source>Rule of thirds</source>
-        <translation>三分構圖法</translation>
+        <translation>三分構圖法/井字構圖/九宮格</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="500"/>
         <source>Show highlight selection</source>
-        <translation>以醒目方式顯示選取區域</translation>
+        <translation>以醒目方式顯示框選區域</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="322"/>
@@ -14642,7 +14642,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="696"/>
         <source>Golden ratio (Phi)</source>
-        <translation>黃金比例 (Phi)</translation>
+        <translation>黃金比例構圖法 (Phi)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="719"/>
@@ -17814,12 +17814,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2843"/>
         <source>Frame index</source>
-        <translation type="unfinished"></translation>
+        <translation>影格(幀)索引</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2844"/>
         <source>Frame count</source>
-        <translation type="unfinished"></translation>
+        <translation>總影格(幀)數</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="30"/>
@@ -18021,19 +18021,21 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoCategoryView.cpp" line="245"/>
         <source>Catalog file</source>
-        <translation type="unfinished"></translation>
+        <translation>資料庫檔案</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="251"/>
         <source>Catalog - Clear &amp; Import</source>
-        <translation type="unfinished"></translation>
+        <translation>資料庫 - 清除 &amp; 匯入</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="251"/>
         <source>Importing will replace all existing Catalog data.
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>匯入的資料將會替換掉全部已存於資料庫裡的後製資料紀錄.
+
+您想繼續嗎？</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="622"/>
@@ -20153,7 +20155,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="66"/>
         <source>Name - natural (numeric) order</source>
         <oldsource>Name - natural order</oldsource>
-        <translation type="unfinished">名稱 - 按數值排序</translation>
+        <translation>名稱 - 按數值排序</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="68"/>
@@ -20303,7 +20305,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="685"/>
         <source>Paste as image</source>
-        <translation>將影像貼上</translation>
+        <translation>將影像內容貼上</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="689"/>
@@ -20383,7 +20385,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="434"/>
         <source>Image</source>
-        <translation>影像</translation>
+        <translation>影像內容</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="548"/>
@@ -21823,7 +21825,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="320"/>
         <source>Save selection...</source>
-        <translation>儲存選取區域...</translation>
+        <translation>儲存框選區域...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="321"/>
@@ -21833,7 +21835,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="322"/>
         <source>Print selection...</source>
-        <translation>列印已選取檔案...</translation>
+        <translation>列印框選區域...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="323"/>
@@ -21873,7 +21875,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="331"/>
         <source>Paste in selection</source>
-        <translation>貼至選取範圍內</translation>
+        <translation>貼至框選區域內</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="334"/>
@@ -21926,39 +21928,39 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="348"/>
         <source>Select all</source>
-        <translation>選取全部物件</translation>
+        <translation>框選全部區域</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="349"/>
         <source>Select none</source>
-        <translation>取消選取</translation>
+        <translation>取消框選區域</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="350"/>
         <source>Selection - swap width &amp;&amp; height</source>
-        <translation>選取 - 寬高對調</translation>
+        <translation>框選區域 - 寬高對調</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="351"/>
         <source>Save selection</source>
-        <translation>儲存選取區域</translation>
+        <translation>儲存框選區域</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="352"/>
         <source>Restore selection</source>
-        <translation>還原選取</translation>
+        <translation>還原框選區域</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="353"/>
         <source>Selection - set ratio</source>
         <oldsource>Set selection ratio</oldsource>
-        <translation>選取 - 設定比例</translation>
+        <translation>框選區域 - 設定比例</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="354"/>
         <source>Selection - set size</source>
         <oldsource>Set selection size</oldsource>
-        <translation>選取 - 設定尺寸大小</translation>
+        <translation>框選區域 - 設定尺寸大小</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="363"/>
@@ -22181,7 +22183,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="551"/>
         <source>Paste as image</source>
-        <translation>將影像貼上</translation>
+        <translation>將影像內容貼上</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="759"/>
@@ -22434,7 +22436,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="332"/>
         <source>Clear selection</source>
-        <translation>清除選取</translation>
+        <translation>清除框選區域內容</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="380"/>
@@ -24546,7 +24548,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="ToolbarSearch.cpp" line="146"/>
         <source>Search in</source>
-        <translation>[ 搜尋對象 ]</translation>
+        <translation>[ 篩選對象 ]</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="153"/>
@@ -24581,17 +24583,17 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="ToolbarSearch.cpp" line="190"/>
         <source>No Recent Searches</source>
-        <translation>沒有最近使用的搜尋</translation>
+        <translation>沒有最近使用的篩選</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="194"/>
         <source>Recent Searches</source>
-        <translation>[ 最近使用的搜尋 ]</translation>
+        <translation>[ 最近使用的篩選 ]</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="206"/>
         <source>Clear Recent Searches</source>
-        <translation>清除最近使用的搜尋</translation>
+        <translation>清除最近使用的篩選</translation>
     </message>
 </context>
 <context>
@@ -24627,27 +24629,27 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="ViewCropAction.cpp" line="213"/>
         <source>Selection horizontal position</source>
-        <translation>選取區水平位置</translation>
+        <translation>框選區域水平位置</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="216"/>
         <source>Selection vertical position</source>
-        <translation>選取區垂直位置</translation>
+        <translation>框選區域垂直位置</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="228"/>
         <source>Swap selection width and height</source>
-        <translation>對調選取區的寬高</translation>
+        <translation>對調框選區域的寬高</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="240"/>
         <source>Show selection grid</source>
-        <translation>顯示選取區網格</translation>
+        <translation>顯示框選區域網格</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="246"/>
         <source>Center selection</source>
-        <translation>置中選取區</translation>
+        <translation>置中框選區域</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="250"/>
@@ -24657,7 +24659,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="ViewCropAction.cpp" line="274"/>
         <source>Save selection as...</source>
-        <translation>儲存選取區域為...</translation>
+        <translation>儲存框選區域為...</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="279"/>
