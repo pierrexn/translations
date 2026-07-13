@@ -10900,7 +10900,7 @@ Prefere retirá-los?</translation>
         <location filename="DlgRename.ui" line="293"/>
         <source>Replace diacritic characters</source>
         <oldsource>Clean diacritic characters</oldsource>
-        <translation type="unfinished">Tirar acentos e outros sinais diacríticos</translation>
+        <translation>Retirar acentos e outros sinais diacríticos</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="209"/>
@@ -17876,12 +17876,12 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2843"/>
         <source>Frame index</source>
-        <translation type="unfinished"></translation>
+        <translation>Índice de fotogramas</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2844"/>
         <source>Frame count</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de fotogramas</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="30"/>
@@ -18084,19 +18084,21 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="245"/>
         <source>Catalog file</source>
-        <translation type="unfinished"></translation>
+        <translation>Ficheiro de catálogo</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="251"/>
         <source>Catalog - Clear &amp; Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Catálogo - Limpar &amp; Importar</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="251"/>
         <source>Importing will replace all existing Catalog data.
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Importação irá substituir todos os dados do Catálogo.
+
+Deseja continuar?</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="622"/>
@@ -20222,7 +20224,7 @@ Deseja continuar?</translation>
         <location filename="BrowserMenu.h" line="66"/>
         <source>Name - natural (numeric) order</source>
         <oldsource>Name - natural order</oldsource>
-        <translation type="unfinished">Nome - ordenação numérica</translation>
+        <translation>Nome - ordenação natural (numérica)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="68"/>
