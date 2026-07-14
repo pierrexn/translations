@@ -11780,7 +11780,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="277"/>
         <source>List</source>
-        <translation>列表</translation>
+        <translation>檔名</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="400"/>
@@ -13201,7 +13201,7 @@ Thumbnail</source>
         <location filename="DlgSettingsInterface.cpp" line="514"/>
         <source>Viewer mode</source>
         <oldsource>View mode</oldsource>
-        <translation>檢視模式</translation>
+        <translation>檢視器模式</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="867"/>
@@ -17091,7 +17091,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="FileListWidget.cpp" line="40"/>
         <source>List</source>
-        <translation>列表</translation>
+        <translation>檔名</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="55"/>
@@ -20035,7 +20035,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="36"/>
         <source>List</source>
-        <translation>列表</translation>
+        <translation>檔名</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="37"/>
