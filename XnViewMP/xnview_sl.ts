@@ -10904,7 +10904,7 @@ Ali jih želite odstraniti?</translation>
         <location filename="DlgRename.ui" line="293"/>
         <source>Replace diacritic characters</source>
         <oldsource>Clean diacritic characters</oldsource>
-        <translation type="unfinished">Očiisti diakritične znake</translation>
+        <translation>Zamenjaj diakritične znake</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="209"/>
@@ -17770,12 +17770,12 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2843"/>
         <source>Frame index</source>
-        <translation type="unfinished"></translation>
+        <translation>Indeks okvirja</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2844"/>
         <source>Frame count</source>
-        <translation type="unfinished"></translation>
+        <translation>Število sličic</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="30"/>
@@ -18067,19 +18067,21 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="245"/>
         <source>Catalog file</source>
-        <translation type="unfinished"></translation>
+        <translation>Kataloška datoteka</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="251"/>
         <source>Catalog - Clear &amp; Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalog - Počisti in uvozi</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="251"/>
         <source>Importing will replace all existing Catalog data.
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Z uvozom bodo zamenjani vsi obstoječi podatki kataloga. 
+
+Želite nadaljevati?</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="622"/>
@@ -20190,7 +20192,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="66"/>
         <source>Name - natural (numeric) order</source>
         <oldsource>Name - natural order</oldsource>
-        <translation type="unfinished">Ime - naravni red</translation>
+        <translation>Ime - naravni (številčni) vrstni red</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="68"/>
