@@ -10849,7 +10849,7 @@ El szeretné őket távolítani?</translation>
         <location filename="DlgRename.ui" line="293"/>
         <source>Replace diacritic characters</source>
         <oldsource>Clean diacritic characters</oldsource>
-        <translation type="unfinished">Mellékjel karakterek törlése</translation>
+        <translation>Mellékjel karakterek cseréje</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="209"/>
@@ -18014,12 +18014,12 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="245"/>
         <source>Catalog file</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalógusfájl</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="251"/>
         <source>Catalog - Clear &amp; Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalógus – Törlés és importálás</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="251"/>
