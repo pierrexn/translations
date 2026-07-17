@@ -21318,7 +21318,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="675"/>
         <source>Quick Filter</source>
-        <translation>快速篩選</translation>
+        <translation>列表快速篩選</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="676"/>
@@ -21334,7 +21334,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="679"/>
         <source>Filter by All</source>
-        <translation>按全部篩選</translation>
+        <translation>列表篩選 - 全部檔案類型</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="681"/>
@@ -24488,7 +24488,7 @@ You can change it in Settings › Catalog.</oldsource>
         <location filename="SearchLineEdit.cpp" line="111"/>
         <source>Quick filter</source>
         <oldsource>Quick search</oldsource>
-        <translation>快速篩選</translation>
+        <translation>列表快速篩選</translation>
     </message>
 </context>
 <context>
