@@ -21649,7 +21649,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="356"/>
         <source>No fit</source>
-        <translation>不調整</translation>
+        <translation>不調整縮放</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="357"/>
