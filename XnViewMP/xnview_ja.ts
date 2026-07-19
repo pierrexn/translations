@@ -10980,7 +10980,7 @@ Do you want to remove them?</source>
         <location filename="DlgRename.ui" line="293"/>
         <source>Replace diacritic characters</source>
         <oldsource>Clean diacritic characters</oldsource>
-        <translation type="unfinished">付加記号を消去</translation>
+        <translation>ダイアクリティック文字を置換する</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="209"/>
@@ -17979,12 +17979,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2843"/>
         <source>Frame index</source>
-        <translation type="unfinished"></translation>
+        <translation>フレームインデックス</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2844"/>
         <source>Frame count</source>
-        <translation type="unfinished"></translation>
+        <translation>フレーム数</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="30"/>
@@ -18188,19 +18188,21 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoCategoryView.cpp" line="245"/>
         <source>Catalog file</source>
-        <translation type="unfinished"></translation>
+        <translation>カタログファイル</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="251"/>
         <source>Catalog - Clear &amp; Import</source>
-        <translation type="unfinished"></translation>
+        <translation>カタログ – クリア&amp;インポート</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="251"/>
         <source>Importing will replace all existing Catalog data.
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>インポートすると、既存のカタログデータはすべて置き換えられます。
+
+続行しますか？</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="622"/>
@@ -20420,7 +20422,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="66"/>
         <source>Name - natural (numeric) order</source>
         <oldsource>Name - natural order</oldsource>
-        <translation type="unfinished">名前（自然順）</translation>
+        <translation>名前 – ナチュラル（数値）順</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="68"/>
