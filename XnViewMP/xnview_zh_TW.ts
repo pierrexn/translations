@@ -13383,7 +13383,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2470"/>
         <location filename="DlgSettingsInterface.ui" line="2506"/>
         <source>Do nothing</source>
-        <translation>什麼都不做</translation>
+        <translation>無動作</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="381"/>
@@ -13592,13 +13592,13 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2249"/>
         <location filename="DlgSettingsInterface.ui" line="2295"/>
         <source>Previous/next file</source>
-        <translation>上個/下個 檔</translation>
+        <translation>上個檔/下個檔</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1421"/>
         <location filename="DlgSettingsInterface.ui" line="1451"/>
         <source>Automatic</source>
-        <translation>自動</translation>
+        <translation>自動模式</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1477"/>
@@ -13625,7 +13625,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2132"/>
         <source>Zoom &amp; pan</source>
         <oldsource>Zoom &amp; move</oldsource>
-        <translation>縮放 &amp; 移動</translation>
+        <translation>影像不縮小 + 平移</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1799"/>
@@ -13661,7 +13661,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2300"/>
         <source>Vertical scroll</source>
         <oldsource>Scroll up/down</oldsource>
-        <translation>往上/往下 捲動</translation>
+        <translation>垂直捲動</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1553"/>
@@ -13685,7 +13685,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2112"/>
         <source>Pan image</source>
         <oldsource>Move image</oldsource>
-        <translation>移動影像</translation>
+        <translation>影像平移</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1596"/>
@@ -13698,7 +13698,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2038"/>
         <location filename="DlgSettingsInterface.ui" line="2117"/>
         <source>Make selection</source>
-        <translation>選取</translation>
+        <translation>框選區域</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1601"/>
@@ -13712,7 +13712,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2122"/>
         <source>Zoom selection</source>
         <oldsource>Zoomed selection</oldsource>
-        <translation>縮放選取</translation>
+        <translation>框選區域後, 放大至符合視窗大小</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2087"/>
@@ -13836,7 +13836,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2478"/>
         <source>Enter</source>
-        <translation>Enter 鍵</translation>
+        <translation>輸入鍵 (Enter)</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2401"/>
@@ -20155,7 +20155,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="66"/>
         <source>Name - natural (numeric) order</source>
         <oldsource>Name - natural order</oldsource>
-        <translation>名稱 - 按數值排序</translation>
+        <translation>名稱 - 按數值排序 (自然排序)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="68"/>
