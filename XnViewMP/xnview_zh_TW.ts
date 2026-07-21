@@ -760,18 +760,18 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="BrowserWindow.cpp" line="2027"/>
         <location filename="BrowserWindow.cpp" line="2039"/>
         <source>AND</source>
-        <translation>且</translation>
+        <translation>每一個</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2027"/>
         <location filename="BrowserWindow.cpp" line="2033"/>
         <source>OR</source>
-        <translation>或</translation>
+        <translation>任一個</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2028"/>
         <source>&lt;b&gt;Match&lt;/b&gt;&lt;br&gt;OR - match any selected entry&lt;br&gt;AND - match all selected entries</source>
-        <translation>&lt;b&gt;[ 匹配 ]&lt;/b&gt;&lt;br&gt;或 - 匹配 &apos;任一個&apos; 已選取的項目&lt;br&gt;且 - 匹配 &apos;每一個&apos; 已選取的項目</translation>
+        <translation>&lt;b&gt;[ 匹配 ]&lt;/b&gt;&lt;br&gt;任一個 - 匹配任一個已選取項目的&lt;br&gt;每一個 - 匹配每一個已選取項目的</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4556"/>
@@ -957,7 +957,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="CategoryView.cpp" line="569"/>
         <location filename="CategoryView.cpp" line="745"/>
         <source>Create Smart Album from current filter...</source>
-        <translation>由目前篩選方式新增智慧相簿...</translation>
+        <translation>將目前的篩選方式儲存成新的智慧相簿...</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="573"/>
@@ -11031,7 +11031,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgResize.ui" line="39"/>
         <source>Save current settings as new preset</source>
-        <translation>將目前設定值儲存為新的預設合集</translation>
+        <translation>將目前的設定值儲存為新的預設合集</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="53"/>
@@ -11373,12 +11373,12 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.ui" line="233"/>
         <source>All</source>
-        <translation>全部</translation>
+        <translation>每一個</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="240"/>
         <source>Any</source>
-        <translation>任一</translation>
+        <translation>任一個</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="268"/>
@@ -15656,7 +15656,7 @@ Do you want to continue?</source>
         <location filename="DlgTimestamp.cpp" line="552"/>
         <source>Modifying timestamp, please wait...</source>
         <oldsource>Modifying timestamp, please wait... </oldsource>
-        <translation>修改時間戳記, 請稍候...</translation>
+        <translation>替換時間戳記, 請稍候...</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.cpp" line="563"/>
@@ -15669,7 +15669,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgTimestamp.ui" line="14"/>
         <source>Change timestamp</source>
-        <translation>變更時間戳記</translation>
+        <translation>替換時間戳記</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="22"/>
@@ -21113,7 +21113,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="605"/>
         <source>Change timestamp...</source>
-        <translation>變更時間戳記...</translation>
+        <translation>替換時間戳記...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="609"/>
@@ -21370,7 +21370,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="833"/>
         <source>&amp;View</source>
-        <translation>檢視(&amp;V)</translation>
+        <translation>顯示(&amp;V)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="834"/>
@@ -22684,7 +22684,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="757"/>
         <source>&amp;View</source>
         <oldsource>View</oldsource>
-        <translation>檢視(&amp;V)</translation>
+        <translation>顯示(&amp;V)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="758"/>
@@ -24315,7 +24315,7 @@ You can change it in Settings › Catalog.</oldsource>
         <location filename="SearchField.cpp" line="513"/>
         <location filename="SearchField.cpp" line="644"/>
         <source>is any of</source>
-        <translation>是任一</translation>
+        <translation>是 (任一個)</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="514"/>
@@ -24468,17 +24468,17 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="SearchGroup.ui" line="92"/>
         <source>Match inside this group</source>
-        <translation>在此括號群組內進行匹配</translation>
+        <translation>此括號群組內的匹配邏輯:</translation>
     </message>
     <message>
         <location filename="SearchGroup.ui" line="100"/>
         <source>AND</source>
-        <translation>且</translation>
+        <translation>每一個</translation>
     </message>
     <message>
         <location filename="SearchGroup.ui" line="105"/>
         <source>OR</source>
-        <translation>或</translation>
+        <translation>任一個</translation>
     </message>
 </context>
 <context>
