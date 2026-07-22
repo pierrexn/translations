@@ -353,7 +353,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="4135"/>
         <source>Expand canvas</source>
-        <translation type="unfinished"></translation>
+        <translation>展开画布</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4135"/>
@@ -680,7 +680,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="2093"/>
         <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi-select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right-click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;b&gt;目录筛选器&lt;/b&gt;&lt;br&gt;左键单击进行筛选&lt;br&gt;• Shift/Ctrl - 多选&lt;br&gt;• Alt - 排除项目&lt;br&gt;右键单击打开节点选项&lt;br&gt;拖放至节点上进行分配</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2303"/>
@@ -7470,7 +7470,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditEXIF.ui" line="431"/>
         <source>8 - Rotate 270 CW</source>
-        <translation type="unfinished"></translation>
+        <translation>8 - 顺时针旋转 270 度</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="463"/>
@@ -10734,17 +10734,17 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgRename.cpp" line="1376"/>
         <source>Preset &apos;%1&apos; already exists. Overwrite?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">预设“%1”已存在。是否覆盖？</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1399"/>
         <source>Delete preset</source>
-        <translation type="unfinished"></translation>
+        <translation>删除预设</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1400"/>
         <source>Delete preset &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>是否删除预设“%1”？</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1428"/>
@@ -10833,7 +10833,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgRename.ui" line="490"/>
         <source>Presets:</source>
-        <translation type="unfinished"></translation>
+        <translation>预设：</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="507"/>
@@ -10896,7 +10896,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgRename.ui" line="351"/>
         <source>Remove all</source>
-        <translation type="unfinished"></translation>
+        <translation>全部删除</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="441"/>
