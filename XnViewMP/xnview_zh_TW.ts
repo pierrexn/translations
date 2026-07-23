@@ -9756,7 +9756,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgOpenWith.ui" line="14"/>
         <source>Configure programs</source>
         <oldsource>Configure programs...</oldsource>
-        <translation>設定程式組態</translation>
+        <translation>設定應用程式</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="47"/>
@@ -12916,7 +12916,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="1102"/>
         <source>Auto correct</source>
-        <translation>自動校正</translation>
+        <translation>自動替換文字</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="1130"/>
@@ -17991,7 +17991,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoCategoryView.cpp" line="139"/>
         <source>Auto Correct...</source>
-        <translation>自動修正...</translation>
+        <translation>自動替換文字...</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="142"/>
@@ -23287,7 +23287,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="OpenWithMenu.cpp" line="431"/>
         <source>Configure programs...</source>
-        <translation>設定程式組態...</translation>
+        <translation>設定應用程式...</translation>
     </message>
 </context>
 <context>
@@ -24548,7 +24548,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="ToolbarSearch.cpp" line="146"/>
         <source>Search in</source>
-        <translation>[ 篩選對象 ]</translation>
+        <translation>[ 搜尋對象 ]</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="153"/>
@@ -24583,17 +24583,17 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="ToolbarSearch.cpp" line="190"/>
         <source>No Recent Searches</source>
-        <translation>沒有最近使用的篩選</translation>
+        <translation>沒有最近的搜尋</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="194"/>
         <source>Recent Searches</source>
-        <translation>[ 最近使用的篩選 ]</translation>
+        <translation>[ 最近的搜尋 ]</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="206"/>
         <source>Clear Recent Searches</source>
-        <translation>清除最近使用的篩選</translation>
+        <translation>清除最近的搜尋</translation>
     </message>
 </context>
 <context>
