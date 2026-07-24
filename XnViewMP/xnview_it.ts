@@ -793,7 +793,7 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="672"/>
         <source>Browser</source>
-        <translation>Catalogatore</translation>
+        <translation>Browser</translation>
     </message>
 </context>
 <context>
@@ -3607,7 +3607,7 @@ Si desidera sovrascriverlo?</translation>
     <message>
         <location filename="DlgContactSheet.ui" line="717"/>
         <source>Open Browser</source>
-        <translation>Apri Catalogatore</translation>
+        <translation>Apri il browser</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="722"/>
@@ -5237,7 +5237,7 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgConvert.ui" line="1252"/>
         <source>Open in Browser</source>
-        <translation>Apri nel Catalogatore</translation>
+        <translation>Apri nel browser</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1273"/>
@@ -7167,7 +7167,7 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgCreateMulti.ui" line="246"/>
         <source>Open Browser</source>
-        <translation>Apri Catalogatore</translation>
+        <translation>Apri il browser</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.ui" line="251"/>
@@ -11568,7 +11568,7 @@ Si desidera rimuoverli?</translation>
     <message>
         <location filename="DlgSettingsBrowser.h" line="15"/>
         <source>Browser</source>
-        <translation>Catalogatore</translation>
+        <translation>Browser</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.h" line="16"/>
@@ -11674,7 +11674,7 @@ Si desidera rimuoverli?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="36"/>
         <source>Browser</source>
-        <translation>Catalogatore</translation>
+        <translation>Browser</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="145"/>
@@ -12566,7 +12566,7 @@ miniatura</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="402"/>
         <source>Browser</source>
-        <translation>Catalogatore</translation>
+        <translation>Browser</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="279"/>
@@ -12786,7 +12786,7 @@ miniatura</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="407"/>
         <source>Browser - Fullscreen</source>
-        <translation>Catalogatore - Schermo intero</translation>
+        <translation>Browser - Schermo intero</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="433"/>
@@ -12796,7 +12796,7 @@ miniatura</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="439"/>
         <source>Open browser</source>
-        <translation>Apri Catalogatore</translation>
+        <translation>Apri il browser</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="448"/>
@@ -13053,7 +13053,7 @@ miniatura</translation>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="687"/>
         <source>XnViewMP is a fast multi-format graphics browser, viewer, and converter. It reads more than 400 file formats.</source>
-        <translation>XnView MP è un veloce convertitore, visualizzatore e catalogatore multiformato. Legge più di 400 formati di file.</translation>
+        <translation>XnViewMP è un veloce browser, visualizzatore e convertitore di file grafici multiformato. Supporta oltre 400 formati di file.</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="688"/>
@@ -13298,7 +13298,7 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsInterface.ui" line="49"/>
         <source>Select file in Browser when Viewer tab is closed</source>
         <oldsource>Synchronize browser when view is closed</oldsource>
-        <translation>Sincronizza il Catalogatore quando la Visualizzazione è chiusa</translation>
+        <translation>Seleziona il file nel Browser quando la scheda &quot;Viewer&quot; è chiusa</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="56"/>
@@ -13422,7 +13422,7 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsInterface.ui" line="1522"/>
         <source>Browser</source>
         <oldsource>Browse mode</oldsource>
-        <translation>Modalità Catalogatore</translation>
+        <translation>Browser</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="645"/>
@@ -13763,12 +13763,12 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsInterface.ui" line="943"/>
         <source>Browser - Filelist</source>
         <oldsource>Browser - Thumbnail</oldsource>
-        <translation>Catalogatore - Lista di file</translation>
+        <translation>Browser - Elenco file</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="948"/>
         <source>Browser - Preview</source>
-        <translation>Catalogatore - Anteprima</translation>
+        <translation>Browser - Anteprima</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1216"/>
@@ -13858,7 +13858,7 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsInterface.ui" line="2486"/>
         <source>Browser ↔ Fullscreen | Viewer ↔ Fullscreen</source>
         <oldsource>Browser &lt;&gt; Fullscreen | Viewer &lt;&gt; Fullscreen</oldsource>
-        <translation>Catalogatore ↔ Schermo intero | Visualizzatore ↔ Schermo intero</translation>
+        <translation>Browser ↔ Schermo intero | Visualizzatore ↔ Schermo intero</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2379"/>
@@ -13871,7 +13871,7 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsInterface.ui" line="2491"/>
         <source>Browser ↔ Viewer</source>
         <oldsource>Browser &lt;&gt; Viewer</oldsource>
-        <translation>Catalogatore ↔ Visualizzatore</translation>
+        <translation>Browser ↔ Visualizzatore</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2411"/>
@@ -13879,7 +13879,7 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsInterface.ui" line="2496"/>
         <source>Browser → Fullscreen → Viewer</source>
         <oldsource>Browser &gt; Fullscreen &gt; Viewer</oldsource>
-        <translation>Catalogatore → Schermo intero → Visualizzatore</translation>
+        <translation>Browser → Schermo intero → Visualizzatore</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2416"/>
@@ -13887,7 +13887,7 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsInterface.ui" line="2501"/>
         <source>Browser → Viewer → Fullscreen</source>
         <oldsource>Browser &gt; Viewer &gt; Fullscreen</oldsource>
-        <translation>Catalogatore → Visualizzatore → Schermo intero</translation>
+        <translation>Browser → Visualizzatore → Schermo intero</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="285"/>
@@ -14419,7 +14419,7 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsThumbnail.ui" line="976"/>
         <source>Browser › View › View as › Thumbnails + Labels</source>
         <oldsource>Browser - Thumbnail</oldsource>
-        <translation>Catalogatore &gt; Visualizza &gt; Visualizza come &gt; Miniature + Etichette</translation>
+        <translation>Browser › Visualizza › Visualizza come › Miniature + Etichette</translation>
     </message>
 </context>
 <context>
@@ -14537,7 +14537,7 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="561"/>
         <source>Like Browser</source>
-        <translation>Come il Catalogatore</translation>
+        <translation>Come il browser</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="568"/>
