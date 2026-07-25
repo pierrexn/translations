@@ -14052,7 +14052,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="684"/>
         <source>Rating labels</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">分级标签</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="840"/>
@@ -14196,7 +14196,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="916"/>
         <source>Icon spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation>图标间距：</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1116"/>
@@ -15412,7 +15412,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgStartupWizard.ui" line="151"/>
         <source>File Association</source>
-        <translation type="unfinished"></translation>
+        <translation>文件关联</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="157"/>
@@ -15893,7 +15893,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="20"/>
         <source>Update database</source>
-        <translation type="unfinished"></translation>
+        <translation>更新数据库</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="28"/>
