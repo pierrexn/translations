@@ -336,6 +336,10 @@
         <source>Do you want to expand the canvas?</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Click to hide</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ActionPanelItem</name>
@@ -4152,6 +4156,10 @@ Do you want to overwrite it?</source>
     <message>
         <source>Multiple resolution...</source>
         <translation>Varias resoluciones...</translation>
+    </message>
+    <message>
+        <source>Drop your files here</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11134,24 +11142,12 @@ Do you want to reassign?</source>
         <translation>Información</translation>
     </message>
     <message>
-        <source>View</source>
-        <translation>Visor</translation>
-    </message>
-    <message>
         <source>Quick slideshow</source>
         <translation>Presentación rápida</translation>
     </message>
     <message>
         <source>Cache</source>
         <translation>Caché</translation>
-    </message>
-    <message>
-        <source>Misc.</source>
-        <translation>Otros.</translation>
-    </message>
-    <message>
-        <source>Loop video playing</source>
-        <translation>Reproducción de vídeo en bucle</translation>
     </message>
     <message>
         <source>Always show in fullscreen</source>
@@ -11168,10 +11164,6 @@ Do you want to reassign?</source>
     <message>
         <source>Disable GIF/JIF/APNG/ANI animation</source>
         <translation>Deshabilitar animaciones GIF/JIF/APNG/ANI</translation>
-    </message>
-    <message>
-        <source>Show highlight selection</source>
-        <translation>Mostrar selección resaltada</translation>
     </message>
     <message>
         <source>Relative step</source>
@@ -11226,10 +11218,6 @@ Do you want to reassign?</source>
         <translation>Dirección</translation>
     </message>
     <message>
-        <source>Auto play (video)</source>
-        <translation>Reproducción automática (vídeo)</translation>
-    </message>
-    <message>
         <source>Two-pass rendering at loading</source>
         <translation>Renderización de dos pasos al cargar</translation>
     </message>
@@ -11256,10 +11244,6 @@ Do you want to reassign?</source>
     <message>
         <source>Forward</source>
         <translation>Adelante</translation>
-    </message>
-    <message>
-        <source>Pixel ratio</source>
-        <translation>Proporción de pixel</translation>
     </message>
     <message>
         <source>Loop on the file list</source>
@@ -11346,10 +11330,6 @@ Do you want to reassign?</source>
         <translation>Zoom automático</translation>
     </message>
     <message>
-        <source>Reset &apos;Auto zoom&apos; setting with next/previous file</source>
-        <translation>Restablecer ajuste &quot;Zoom automático&quot; con archivo siguiente/anterior</translation>
-    </message>
-    <message>
         <source>Golden ratio (Phi)</source>
         <translation>Proporción áurea (Phi)</translation>
     </message>
@@ -11398,16 +11378,72 @@ Do you want to reassign?</source>
         <translation>Escala en pantalla HiDPI: 1 píxel de imagen equivale a 1 píxel de pantalla</translation>
     </message>
     <message>
-        <source>Reset X/Y position on file change (No fit)</source>
-        <translation>Restablecer posición X/Y al cambiar de archivo (Sin ajuste)</translation>
-    </message>
-    <message>
         <source>Anti-aliasing</source>
         <translation>Antialiasing</translation>
     </message>
     <message>
         <source>Auto-play audio companion files</source>
         <translation>Reproducir automáticamente los archivos de audio complementarios</translation>
+    </message>
+    <message>
+        <source>Viewer</source>
+        <translation type="unfinished">Visor</translation>
+    </message>
+    <message>
+        <source>Clipping warning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadows</source>
+        <translation type="unfinished">Sombras</translation>
+    </message>
+    <message>
+        <source>Highlights</source>
+        <translation type="unfinished">Luces</translation>
+    </message>
+    <message>
+        <source>Remember state</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Defaults</source>
+        <translation type="unfinished">Predeterminados</translation>
+    </message>
+    <message>
+        <source>Highlight the selection area</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom</source>
+        <translation type="unfinished">Zoom</translation>
+    </message>
+    <message>
+        <source>Navigation resets zoom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Navigation resets X/Y position (&apos;No fit&apos; only)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Render</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pixel aspect ratio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Video/Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto play</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loop playing</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17372,14 +17408,6 @@ Do you want to continue?</source>
         <translation>Mostrar recorte</translation>
     </message>
     <message>
-        <source>Channel clipping</source>
-        <translation>Recorte por canal</translation>
-    </message>
-    <message>
-        <source>Highlight &amp;&amp; Shadow clipping</source>
-        <translation>Recorte de luces y sombras</translation>
-    </message>
-    <message>
         <source>Play/Pause media</source>
         <translation>Reproducir/Pausar multimedia</translation>
     </message>
@@ -17390,6 +17418,30 @@ Do you want to continue?</source>
     <message>
         <source>Center image</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadows</source>
+        <translation type="unfinished">Sombras</translation>
+    </message>
+    <message>
+        <source>Highlights</source>
+        <translation type="unfinished">Luces</translation>
+    </message>
+    <message>
+        <source>Highlights (per channel)</source>
+        <translation type="unfinished">Luces (por canal)</translation>
+    </message>
+    <message>
+        <source>Shadows + Highlights</source>
+        <translation type="unfinished">Sombras + Luces</translation>
+    </message>
+    <message>
+        <source>Clipping warning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Grid</source>
+        <translation type="unfinished">Rejilla</translation>
     </message>
 </context>
 <context>

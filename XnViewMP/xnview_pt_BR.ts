@@ -336,6 +336,10 @@
         <source>Do you want to expand the canvas?</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Click to hide</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ActionPanelItem</name>
@@ -4151,6 +4155,10 @@ Deseja continuar?</translation>
     </message>
     <message>
         <source>Multiple resolution...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Drop your files here</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11128,10 +11136,6 @@ Deseja reatribuir?</translation>
 <context>
     <name>DlgSettingsViewClass</name>
     <message>
-        <source>View</source>
-        <translation>Visualizar</translation>
-    </message>
-    <message>
         <source>Background color</source>
         <translation>Cor de fundo</translation>
     </message>
@@ -11150,14 +11154,6 @@ Deseja reatribuir?</translation>
     <message>
         <source>Use gamma correction</source>
         <translation>Usar correção gamma</translation>
-    </message>
-    <message>
-        <source>Pixel ratio</source>
-        <translation>Proporção de pixel</translation>
-    </message>
-    <message>
-        <source>Misc.</source>
-        <translation>Div.</translation>
     </message>
     <message>
         <source>Loop on the file list</source>
@@ -11228,16 +11224,8 @@ Deseja reatribuir?</translation>
         <translation>Desativar animação GIF/JIF/APNG/ANI</translation>
     </message>
     <message>
-        <source>Auto play (video)</source>
-        <translation>Reprodução automática (vídeo)</translation>
-    </message>
-    <message>
         <source>Show scrollbars</source>
         <translation>Mostrar barras de rolagem</translation>
-    </message>
-    <message>
-        <source>Show highlight selection</source>
-        <translation>Mostrar seleção de destaque</translation>
     </message>
     <message>
         <source>Selection</source>
@@ -11250,10 +11238,6 @@ Deseja reatribuir?</translation>
     <message>
         <source>Rule of thirds</source>
         <translation>Regra de terços</translation>
-    </message>
-    <message>
-        <source>Loop video playing</source>
-        <translation>Repetir reprodução de vídeo</translation>
     </message>
     <message>
         <source>Two-pass rendering at loading</source>
@@ -11348,10 +11332,6 @@ Deseja reatribuir?</translation>
         <translation>Zoom automático</translation>
     </message>
     <message>
-        <source>Reset &apos;Auto zoom&apos; setting with next/previous file</source>
-        <translation>Redefinir a configuração de &apos;Zoom automático&apos; com o arquivo anterior/próximo</translation>
-    </message>
-    <message>
         <source>Use transparency grid (checkerboard pattern)</source>
         <translation>Usar grade de transparência (padrão quadriculado)</translation>
     </message>
@@ -11388,10 +11368,6 @@ Deseja reatribuir?</translation>
         <translation>Exibir Avaliação e Rótulos de cor</translation>
     </message>
     <message>
-        <source>Reset X/Y position on file change (No fit)</source>
-        <translation>Redefinir a posição X/Y na mudança de arquivo (Sem ajuste)</translation>
-    </message>
-    <message>
         <source>(From Settings › File list › Custom Filter)</source>
         <translation>(De Configurações › Lista de arquivos › Filtro Personalizado)</translation>
     </message>
@@ -11409,6 +11385,66 @@ Deseja reatribuir?</translation>
     </message>
     <message>
         <source>Auto-play audio companion files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Viewer</source>
+        <translation type="unfinished">Visualizador</translation>
+    </message>
+    <message>
+        <source>Clipping warning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlights</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remember state</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Defaults</source>
+        <translation type="unfinished">Padrões</translation>
+    </message>
+    <message>
+        <source>Highlight the selection area</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom</source>
+        <translation type="unfinished">Zoom</translation>
+    </message>
+    <message>
+        <source>Navigation resets zoom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Navigation resets X/Y position (&apos;No fit&apos; only)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Render</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pixel aspect ratio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Video/Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto play</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loop playing</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17379,14 +17415,6 @@ Deseja continuar?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Channel clipping</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Highlight &amp;&amp; Shadow clipping</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Play/Pause media</source>
         <translation type="unfinished"></translation>
     </message>
@@ -17397,6 +17425,30 @@ Deseja continuar?</translation>
     <message>
         <source>Center image</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlights</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlights (per channel)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadows + Highlights</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clipping warning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Grid</source>
+        <translation type="unfinished">Grade</translation>
     </message>
 </context>
 <context>

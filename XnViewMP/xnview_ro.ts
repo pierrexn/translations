@@ -336,6 +336,10 @@
         <source>Do you want to expand the canvas?</source>
         <translation>Vrei să extinzi pâna?</translation>
     </message>
+    <message>
+        <source>Click to hide</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ActionPanelItem</name>
@@ -4168,6 +4172,10 @@ Vrei să continui?</translation>
     <message>
         <source>Multiple resolution...</source>
         <translation>Rezoluție multiplă...</translation>
+    </message>
+    <message>
+        <source>Drop your files here</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11150,24 +11158,12 @@ Dorești să-l reatribui?</translation>
         <translation>Informaţii</translation>
     </message>
     <message>
-        <source>View</source>
-        <translation>Vizualizare</translation>
-    </message>
-    <message>
         <source>Quick slideshow</source>
         <translation>Prezentare rapidă</translation>
     </message>
     <message>
         <source>Cache</source>
         <translation>Cache</translation>
-    </message>
-    <message>
-        <source>Misc.</source>
-        <translation>Diverse</translation>
-    </message>
-    <message>
-        <source>Loop video playing</source>
-        <translation>Redare video în buclă</translation>
     </message>
     <message>
         <source>Always show in fullscreen</source>
@@ -11184,10 +11180,6 @@ Dorești să-l reatribui?</translation>
     <message>
         <source>Disable GIF/JIF/APNG/ANI animation</source>
         <translation>Dezactivează animația GIF/JIF/APNG/ANI</translation>
-    </message>
-    <message>
-        <source>Show highlight selection</source>
-        <translation>Afișează selecția de evidențiere</translation>
     </message>
     <message>
         <source>Relative step</source>
@@ -11242,10 +11234,6 @@ Dorești să-l reatribui?</translation>
         <translation>Direcţie</translation>
     </message>
     <message>
-        <source>Auto play (video)</source>
-        <translation>Redare automată (video)</translation>
-    </message>
-    <message>
         <source>Two-pass rendering at loading</source>
         <translation>Redare în două treceri la încărcare</translation>
     </message>
@@ -11274,20 +11262,12 @@ Dorești să-l reatribui?</translation>
         <translation>Redirecţionare</translation>
     </message>
     <message>
-        <source>Pixel ratio</source>
-        <translation>Raportul pixelilor</translation>
-    </message>
-    <message>
         <source>Loop on the file list</source>
         <translation>Buclă pe lista de fișiere</translation>
     </message>
     <message>
         <source>Auto zoom</source>
         <translation>Scalare automată</translation>
-    </message>
-    <message>
-        <source>Reset &apos;Auto zoom&apos; setting with next/previous file</source>
-        <translation>Resetează setarea „Scalare automată” odată cu fișierul următor/anterior</translation>
     </message>
     <message>
         <source>Border line around canvas</source>
@@ -11414,16 +11394,72 @@ Dorești să-l reatribui?</translation>
         <translation>Scalează pe ecranul HiDPI: 1 pixel de imagine este egal cu 1 pixel de ecran</translation>
     </message>
     <message>
-        <source>Reset X/Y position on file change (No fit)</source>
-        <translation>Resetează poziția X/Y la modificarea fișierului (fără potrivire)</translation>
-    </message>
-    <message>
         <source>Anti-aliasing</source>
         <translation>Antialiasare</translation>
     </message>
     <message>
         <source>Auto-play audio companion files</source>
         <translation>Redă automat fișierele audio însoțitoare</translation>
+    </message>
+    <message>
+        <source>Viewer</source>
+        <translation type="unfinished">Vizualizatorul</translation>
+    </message>
+    <message>
+        <source>Clipping warning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadows</source>
+        <translation type="unfinished">Umbre</translation>
+    </message>
+    <message>
+        <source>Highlights</source>
+        <translation type="unfinished">Zone luminoase</translation>
+    </message>
+    <message>
+        <source>Remember state</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Defaults</source>
+        <translation type="unfinished">Valori implicite</translation>
+    </message>
+    <message>
+        <source>Highlight the selection area</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom</source>
+        <translation type="unfinished">Mărește/Micșorează (Scalează)</translation>
+    </message>
+    <message>
+        <source>Navigation resets zoom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Navigation resets X/Y position (&apos;No fit&apos; only)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Render</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pixel aspect ratio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Video/Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto play</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loop playing</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17390,14 +17426,6 @@ Vrei să continui?</translation>
         <translation>Afișează trunchierea</translation>
     </message>
     <message>
-        <source>Channel clipping</source>
-        <translation>Trunchierea canalelor</translation>
-    </message>
-    <message>
-        <source>Highlight &amp;&amp; Shadow clipping</source>
-        <translation>Trunchierea zonelor luminoase și a umbrelor</translation>
-    </message>
-    <message>
         <source>Play/Pause media</source>
         <translation>Redă/Pune pe pauză (Întrerupe) fișierul media</translation>
     </message>
@@ -17408,6 +17436,30 @@ Vrei să continui?</translation>
     <message>
         <source>Center image</source>
         <translation>Centrează imaginea</translation>
+    </message>
+    <message>
+        <source>Shadows</source>
+        <translation type="unfinished">Umbre</translation>
+    </message>
+    <message>
+        <source>Highlights</source>
+        <translation type="unfinished">Zone luminoase</translation>
+    </message>
+    <message>
+        <source>Highlights (per channel)</source>
+        <translation type="unfinished">Zone luminoase (pe canal)</translation>
+    </message>
+    <message>
+        <source>Shadows + Highlights</source>
+        <translation type="unfinished">Umbre + zone luminoase</translation>
+    </message>
+    <message>
+        <source>Clipping warning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Grid</source>
+        <translation type="unfinished">Grilă</translation>
     </message>
 </context>
 <context>

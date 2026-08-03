@@ -336,6 +336,10 @@
         <source>Do you want to expand the canvas?</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Click to hide</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ActionPanelItem</name>
@@ -4151,6 +4155,10 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Multiple resolution...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Drop your files here</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11133,20 +11141,12 @@ Do you want to reassign?</source>
         <translation>Տեղեկություն</translation>
     </message>
     <message>
-        <source>View</source>
-        <translation>Դիտում</translation>
-    </message>
-    <message>
         <source>Quick slideshow</source>
         <translation>Արագ դիտում</translation>
     </message>
     <message>
         <source>Cache</source>
         <translation>Շտեմ</translation>
-    </message>
-    <message>
-        <source>Misc.</source>
-        <translation>Այլ</translation>
     </message>
     <message>
         <source>Use gamma correction</source>
@@ -11201,10 +11201,6 @@ Do you want to reassign?</source>
         <translation>Ուղղություն</translation>
     </message>
     <message>
-        <source>Auto play (video)</source>
-        <translation>Ինքնանվագարկում (տեսանյութ)</translation>
-    </message>
-    <message>
         <source>Keep current image</source>
         <translation>Պահպանել ընթացիկ պատկերը</translation>
     </message>
@@ -11221,20 +11217,12 @@ Do you want to reassign?</source>
         <translation>Հաջորդը</translation>
     </message>
     <message>
-        <source>Pixel ratio</source>
-        <translation>Հարաբերակցությունը</translation>
-    </message>
-    <message>
         <source>Loop on the file list</source>
         <translation>Կրկնել ցանկը</translation>
     </message>
     <message>
         <source>Show scrollbars</source>
         <translation>Ցուցադրել Ոլորագոտիները</translation>
-    </message>
-    <message>
-        <source>Show highlight selection</source>
-        <translation>Ցուցադրել ընդգծված ընտրումը</translation>
     </message>
     <message>
         <source>Selection</source>
@@ -11247,10 +11235,6 @@ Do you want to reassign?</source>
     <message>
         <source>Rule of thirds</source>
         <translation>Երրորդի կանոնը</translation>
-    </message>
-    <message>
-        <source>Loop video playing</source>
-        <translation>Տեսանյութի նվագարկման օղակում</translation>
     </message>
     <message>
         <source>Two-pass rendering at loading</source>
@@ -11345,10 +11329,6 @@ Do you want to reassign?</source>
         <translation>Ինքնադիտափոխում</translation>
     </message>
     <message>
-        <source>Reset &apos;Auto zoom&apos; setting with next/previous file</source>
-        <translation>Վերակայել «Ինքնաչափափոխում» կարգավորումը հաջորդ/նախորդ ֆայլով</translation>
-    </message>
-    <message>
         <source>Golden ratio (Phi)</source>
         <translation>Golden ratio (Phi)</translation>
     </message>
@@ -11397,15 +11377,71 @@ Do you want to reassign?</source>
         <translation>Սանդղել HiDPI էկրանին. 1 պատկերի փիքսելը հավասար է 1 էկրանի փիքսելի</translation>
     </message>
     <message>
-        <source>Reset X/Y position on file change (No fit)</source>
-        <translation>Վերակայել X/Y դիրքը ֆայլը փոխելիս (չհարմարեցնել)</translation>
-    </message>
-    <message>
         <source>Anti-aliasing</source>
         <translation>Հակահարթում</translation>
     </message>
     <message>
         <source>Auto-play audio companion files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Viewer</source>
+        <translation type="unfinished">Դիտակ</translation>
+    </message>
+    <message>
+        <source>Clipping warning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlights</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remember state</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Defaults</source>
+        <translation type="unfinished">Սկզբնադիրներ</translation>
+    </message>
+    <message>
+        <source>Highlight the selection area</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Navigation resets zoom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Navigation resets X/Y position (&apos;No fit&apos; only)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Render</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pixel aspect ratio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Video/Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto play</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loop playing</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17371,14 +17407,6 @@ Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Channel clipping</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Highlight &amp;&amp; Shadow clipping</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Play/Pause media</source>
         <translation type="unfinished"></translation>
     </message>
@@ -17389,6 +17417,30 @@ Do you want to continue?</source>
     <message>
         <source>Center image</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlights</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlights (per channel)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadows + Highlights</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clipping warning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Grid</source>
+        <translation type="unfinished">Ցանց</translation>
     </message>
 </context>
 <context>

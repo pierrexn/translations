@@ -336,6 +336,10 @@
         <source>Do you want to expand the canvas?</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Click to hide</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ActionPanelItem</name>
@@ -4152,6 +4156,10 @@ Haluatko korvata sen?</translation>
     <message>
         <source>Multiple resolution...</source>
         <translation>Usea resoluutio...</translation>
+    </message>
+    <message>
+        <source>Drop your files here</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11139,24 +11147,12 @@ Haluatko määrittää uudelleen?</translation>
         <translation>Tiedot</translation>
     </message>
     <message>
-        <source>View</source>
-        <translation>Näkymä</translation>
-    </message>
-    <message>
         <source>Quick slideshow</source>
         <translation>Pika-kuvaesitys</translation>
     </message>
     <message>
         <source>Cache</source>
         <translation>Välimuisti</translation>
-    </message>
-    <message>
-        <source>Misc.</source>
-        <translation>Sekalaiset</translation>
-    </message>
-    <message>
-        <source>Loop video playing</source>
-        <translation>Jatkuva videon toisto</translation>
     </message>
     <message>
         <source>Zoom In</source>
@@ -11177,10 +11173,6 @@ Haluatko määrittää uudelleen?</translation>
     <message>
         <source>Disable GIF/JIF/APNG/ANI animation</source>
         <translation>Älä käytä GIF/JIF/APNG/ANI-animaatioita</translation>
-    </message>
-    <message>
-        <source>Show highlight selection</source>
-        <translation>Näytä korostusvalinta</translation>
     </message>
     <message>
         <source>Relative step</source>
@@ -11239,10 +11231,6 @@ Haluatko määrittää uudelleen?</translation>
         <translation>Suunta</translation>
     </message>
     <message>
-        <source>Auto play (video)</source>
-        <translation>Automaattitoisto (video)</translation>
-    </message>
-    <message>
         <source>Two-pass rendering at loading</source>
         <translation>Kaksi-ajo renderointi ladattaessa</translation>
     </message>
@@ -11269,10 +11257,6 @@ Haluatko määrittää uudelleen?</translation>
     <message>
         <source>Forward</source>
         <translation>Eteenpäin</translation>
-    </message>
-    <message>
-        <source>Pixel ratio</source>
-        <translation>Pikselisuhde</translation>
     </message>
     <message>
         <source>Loop on the file list</source>
@@ -11351,10 +11335,6 @@ Haluatko määrittää uudelleen?</translation>
         <translation>Automaattinen zoomaus</translation>
     </message>
     <message>
-        <source>Reset &apos;Auto zoom&apos; setting with next/previous file</source>
-        <translation>Nollaa &quot;Automaattinen zoomaus&quot; -asetus toiminnolle seuraava/edellinen tiedosto</translation>
-    </message>
-    <message>
         <source>Golden ratio (Phi)</source>
         <translation>Kultainen suhde (Phi)</translation>
     </message>
@@ -11403,16 +11383,72 @@ Haluatko määrittää uudelleen?</translation>
         <translation>Skaalaus korkean DPI:n näytöillä: kuvan pikseli vastaa näytön pikseliä</translation>
     </message>
     <message>
-        <source>Reset X/Y position on file change (No fit)</source>
-        <translation>Palauta X/Y-sijainti tiedoston vaihtuessa (ei sovitusta)</translation>
-    </message>
-    <message>
         <source>Anti-aliasing</source>
         <translation>Pehmennys</translation>
     </message>
     <message>
         <source>Auto-play audio companion files</source>
         <translation>Toista äänitiedostojen liitännäiset automaattisesti</translation>
+    </message>
+    <message>
+        <source>Viewer</source>
+        <translation type="unfinished">Katselin</translation>
+    </message>
+    <message>
+        <source>Clipping warning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadows</source>
+        <translation type="unfinished">Varjot</translation>
+    </message>
+    <message>
+        <source>Highlights</source>
+        <translation type="unfinished">Korostukset</translation>
+    </message>
+    <message>
+        <source>Remember state</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Defaults</source>
+        <translation type="unfinished">Oletukset</translation>
+    </message>
+    <message>
+        <source>Highlight the selection area</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom</source>
+        <translation type="unfinished">Zoomaus</translation>
+    </message>
+    <message>
+        <source>Navigation resets zoom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Navigation resets X/Y position (&apos;No fit&apos; only)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Render</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pixel aspect ratio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Video/Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto play</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loop playing</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17377,14 +17413,6 @@ Jatketaanko?</translation>
         <translation>Näytä leikkaus</translation>
     </message>
     <message>
-        <source>Channel clipping</source>
-        <translation>Kanavan leikkaus</translation>
-    </message>
-    <message>
-        <source>Highlight &amp;&amp; Shadow clipping</source>
-        <translation>Korostusten ja varjojen leikkaus</translation>
-    </message>
-    <message>
         <source>Play/Pause media</source>
         <translation>Toista/keskeytä media</translation>
     </message>
@@ -17395,6 +17423,30 @@ Jatketaanko?</translation>
     <message>
         <source>Center image</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadows</source>
+        <translation type="unfinished">Varjot</translation>
+    </message>
+    <message>
+        <source>Highlights</source>
+        <translation type="unfinished">Korostukset</translation>
+    </message>
+    <message>
+        <source>Highlights (per channel)</source>
+        <translation type="unfinished">Korostukset (kanavaa kohti)</translation>
+    </message>
+    <message>
+        <source>Shadows + Highlights</source>
+        <translation type="unfinished">Varjot + Korostukset</translation>
+    </message>
+    <message>
+        <source>Clipping warning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Grid</source>
+        <translation type="unfinished">Ruudukko</translation>
     </message>
 </context>
 <context>
