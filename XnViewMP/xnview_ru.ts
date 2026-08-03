@@ -369,7 +369,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="875"/>
         <source>Click to hide</source>
-        <translation type="unfinished"></translation>
+        <translation>Скрыть</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2450"/>
@@ -5335,7 +5335,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="75"/>
         <source>Drop your files here</source>
-        <translation type="unfinished"></translation>
+        <translation>Перетащите файлы сюда</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="716"/>
@@ -14533,7 +14533,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="36"/>
         <source>Viewer</source>
         <oldsource>View</oldsource>
-        <translation type="unfinished">Просмотр</translation>
+        <translation>Просмотр</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="282"/>
@@ -14761,72 +14761,72 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="176"/>
         <source>Clipping warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Предупреждение об отсечении экспозиции</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="185"/>
         <source>Shadows</source>
-        <translation type="unfinished">Тени</translation>
+        <translation>Тени</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="192"/>
         <source>Highlights</source>
-        <translation type="unfinished">Света</translation>
+        <translation>Света</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="212"/>
         <source>Remember state</source>
-        <translation type="unfinished"></translation>
+        <translation>Запомнить состояние</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="229"/>
         <source>Defaults</source>
-        <translation type="unfinished">По умолчанию</translation>
+        <translation>По умолчанию</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="239"/>
         <source>Highlight the selection area</source>
-        <translation type="unfinished"></translation>
+        <translation>Подсвечивать область выделения</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="274"/>
         <source>Zoom</source>
-        <translation type="unfinished">Масштаб</translation>
+        <translation>Масштаб</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="329"/>
         <source>Navigation resets zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Навигация сбрасывает масштаб</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="356"/>
         <source>Navigation resets X/Y position (&apos;No fit&apos; only)</source>
-        <translation type="unfinished"></translation>
+        <translation>Навигация сбрасывает координаты X/Y (только для режима «Без подгонки»)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="497"/>
         <source>Render</source>
-        <translation type="unfinished"></translation>
+        <translation>Рендеринг</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="505"/>
         <source>Pixel aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Соотношение сторон пикселя</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="745"/>
         <source>Video/Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Видео/Аудио</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="751"/>
         <source>Auto play</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматическое воспроизведение</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="758"/>
         <source>Loop playing</source>
-        <translation type="unfinished"></translation>
+        <translation>Циклическое воспроизведение</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="927"/>
@@ -22310,7 +22310,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="457"/>
         <source>Grid</source>
-        <translation type="unfinished">Сетка</translation>
+        <translation>Сетка</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="458"/>
@@ -22897,32 +22897,32 @@ Do you want to continue?</oldsource>
         <location filename="ViewWindow.cpp" line="871"/>
         <location filename="ViewMenu.h" line="472"/>
         <source>Shadows</source>
-        <translation type="unfinished">Тени</translation>
+        <translation>Тени</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="841"/>
         <location filename="ViewWindow.cpp" line="874"/>
         <location filename="ViewMenu.h" line="473"/>
         <source>Highlights</source>
-        <translation type="unfinished">Света</translation>
+        <translation>Света</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="843"/>
         <location filename="ViewMenu.h" line="475"/>
         <source>Highlights (per channel)</source>
-        <translation type="unfinished">Света (поканально)</translation>
+        <translation>Света (поканально)</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="845"/>
         <location filename="ViewMenu.h" line="474"/>
         <source>Shadows + Highlights</source>
-        <translation type="unfinished">Тени + Света</translation>
+        <translation>Тени + Света</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="869"/>
         <location filename="ViewMenu.h" line="476"/>
         <source>Clipping warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Предупреждение об отсечении экспозиции</translation>
     </message>
 </context>
 <context>
