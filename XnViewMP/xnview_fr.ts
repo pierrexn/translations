@@ -395,7 +395,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="875"/>
         <source>Click to hide</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez pour masquer</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="3166"/>
@@ -5293,7 +5293,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="DlgConvert.ui" line="75"/>
         <source>Drop your files here</source>
-        <translation type="unfinished"></translation>
+        <translation>Déposez vos fichiers ici</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="716"/>
@@ -14703,7 +14703,7 @@ Voulez-vous le réaffecter ?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="212"/>
         <source>Remember state</source>
-        <translation type="unfinished"></translation>
+        <translation>Mémoriser l&apos;état</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="229"/>
@@ -14713,7 +14713,7 @@ Voulez-vous le réaffecter ?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="239"/>
         <source>Highlight the selection area</source>
-        <translation type="unfinished"></translation>
+        <translation>Mettre en surbrillance la zone sélectionnée</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="274"/>
@@ -14723,37 +14723,37 @@ Voulez-vous le réaffecter ?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="329"/>
         <source>Navigation resets zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>La navigation réinitialise le zoom</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="356"/>
         <source>Navigation resets X/Y position (&apos;No fit&apos; only)</source>
-        <translation type="unfinished"></translation>
+        <translation>La navigation réinitialise la position X/Y (uniquement en mode « Pas d&apos;ajustement »)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="497"/>
         <source>Render</source>
-        <translation type="unfinished"></translation>
+        <translation>Rendu</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="505"/>
         <source>Pixel aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Rapport d&apos;aspect des pixels</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="745"/>
         <source>Video/Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Vidéo/Audio</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="751"/>
         <source>Auto play</source>
-        <translation type="unfinished"></translation>
+        <translation>Lecture automatique</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="758"/>
         <source>Loop playing</source>
-        <translation type="unfinished"></translation>
+        <translation>Lecture en boucle</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="927"/>
