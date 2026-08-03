@@ -1598,7 +1598,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Evaluarea (Rating-ul)</translation>
+        <translation>Evaluarea (Nota/Rating-ul)</translation>
     </message>
     <message>
         <source>Date</source>
@@ -8043,7 +8043,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>&lt;Last Used&gt;</source>
-        <translation>&lt;Ultimul folosit&gt;</translation>
+        <translation>&lt;Ultima presetare folosită&gt;</translation>
     </message>
     <message>
         <source>Zoom out</source>
@@ -8579,7 +8579,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Insert Date/Time&gt;&gt;</source>
-        <translation>Introdu Data/Ora&gt;&gt;</translation>
+        <translation>Introdu data/ora&gt;&gt;</translation>
     </message>
     <message>
         <source>New name:</source>
@@ -8594,7 +8594,7 @@ Vrei să le redenumești?</translation>
     <name>DlgResize</name>
     <message>
         <source>&lt;Last Used&gt;</source>
-        <translation>&lt;Ultimul folosit&gt;</translation>
+        <translation>&lt;Ultima folosită&gt;</translation>
     </message>
     <message>
         <source>&lt;Default&gt;</source>
@@ -9200,7 +9200,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Show ratings</source>
-        <translation>Afișează evaluările</translation>
+        <translation>Afișează evaluările (notele/rating-urile)</translation>
     </message>
     <message>
         <source>Favorites</source>
@@ -9256,7 +9256,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Rating (filter)</source>
-        <translation>Evaluare (filtru)</translation>
+        <translation>Evaluare/Rating/Notă (filtru)</translation>
     </message>
     <message>
         <source>Show &apos;Desktop&apos; in folder tree</source>
@@ -9354,7 +9354,7 @@ If information is exported into embedded or sidecar metadata,
 you&apos;ll be able to re-import later.
 
 Do you want to remove entries assigned to a Category?</source>
-        <translation>Intrările din catalog cu etichetele Categorii, Evaluare și Culoare vor fi eliminate. 
+        <translation>Intrările din catalog cu etichetele Categorii, Evaluare (Notă/Rating) și Culoare vor fi eliminate. 
 
 Dacă informațiile sunt exportate în metadate încorporate din fișierul însoțitor (din sidecar) sau cu dosar (folder) suplimentar, 
 le vei putea reimporta mai târziu. 
@@ -9386,7 +9386,7 @@ Vrei să continui?</translation>
 Color labels, Keywords may be deleted. 
 
 Do you want to check for affected entries first?</source>
-        <translation>Unele intrări din baza de date cu Evaluare atribuită (Rating atribuit),
+        <translation>Unele intrări din baza de date cu Evaluare atribuită (Rating atribuit / Notă atribuită),
 Etichete de culoare, Cuvintele cheie pot fi șterse.
 
 Dorești să verifici mai întâi intrările afectate?</translation>
@@ -10830,7 +10830,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Evaluarea (Rating-ul)</translation>
+        <translation>Evaluarea (Nota/Rating-ul)</translation>
     </message>
     <message>
         <source>Color label</source>
@@ -10874,7 +10874,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Rating labels</source>
-        <translation>Etichete de evaluare</translation>
+        <translation>Etichete de evaluare/note/rating-uri</translation>
     </message>
     <message>
         <source>File</source>
@@ -10965,7 +10965,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Evaluarea (Rating-ul)</translation>
+        <translation>Evaluarea (Nota/Rating-ul)</translation>
     </message>
     <message>
         <source>Reset color</source>
@@ -11315,7 +11315,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Show Rating &amp;&amp; Color labels</source>
-        <translation>Afișează etichetele de evaluare (de rating) și de culoare</translation>
+        <translation>Afișează etichetele de evaluare (de note / de rating) și de culoare</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -12848,7 +12848,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Compression level</source>
-        <translation>Nivel de compresie</translation>
+        <translation>Nivelul de compresie (Nivelul de comprimare)</translation>
     </message>
     <message>
         <source>Interlaced</source>
@@ -12967,7 +12967,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Evaluarea (Rating-ul)</translation>
+        <translation>Evaluarea (Nota/Rating-ul)</translation>
     </message>
     <message>
         <source>Copyright status</source>
@@ -13285,7 +13285,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Evaluarea (Rating-ul)</translation>
+        <translation>Evaluarea (Nota/Rating-ul)</translation>
     </message>
     <message>
         <source>Orientation</source>
@@ -13519,7 +13519,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Evaluarea (Rating-ul)</translation>
+        <translation>Evaluarea (Nota/Rating-ul)</translation>
     </message>
     <message>
         <source>Annotation</source>
@@ -13639,7 +13639,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Rating (number)</source>
-        <translation>Evaluare (număr)</translation>
+        <translation>Evaluarea (Nota/Rating-ul) (număr)</translation>
     </message>
     <message>
         <source>Height (cm)</source>
@@ -14823,7 +14823,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Evaluarea (Rating-ul)</translation>
+        <translation>Evaluarea (Nota/Rating-ul)</translation>
     </message>
     <message>
         <source>Bottom-Left</source>
@@ -15634,7 +15634,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Rating</source>
-        <translation>Evaluarea (Rating-ul)</translation>
+        <translation>Evaluarea (Nota/Rating-ul)</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -16158,7 +16158,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Set Rating</source>
-        <translation>Setează evaluarea (rating-ul)</translation>
+        <translation>Setează evaluarea (nota/rating-ul)</translation>
     </message>
     <message>
         <source>Set Color label</source>
@@ -17235,7 +17235,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Set Rating</source>
-        <translation>Setează evaluarea (rating-ul)</translation>
+        <translation>Setează evaluarea (nota/rating-ul)</translation>
     </message>
     <message>
         <source>Set Color label</source>
@@ -18592,7 +18592,7 @@ O poți schimba în Setări › Catalog.</translation>
     <name>RatingFilterButton</name>
     <message>
         <source>At least</source>
-        <translation>Măcar</translation>
+        <translation>Cel puțin</translation>
     </message>
     <message>
         <source>At most</source>
@@ -19151,7 +19151,7 @@ Te rugăm să contactezi dezvoltatorul.</translation>
 Metadata (check, ratings/colour labels and other file details)
 will not be saved to the database.</source>
         <translation>Catalogul este dezactivat
-Metadatele (verificare, evaluări/etichete de culoare și alte detalii despre fișier)
+Metadatele (verificare, evaluări (note/rating-uri)/etichete de culoare și alte detalii despre fișier)
 nu vor fi salvate în baza de date.</translation>
     </message>
     <message>
