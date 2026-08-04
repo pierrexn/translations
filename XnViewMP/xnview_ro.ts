@@ -338,7 +338,7 @@
     </message>
     <message>
         <source>Click to hide</source>
-        <translation type="unfinished"></translation>
+        <translation>Dă clic pentru a ascunde</translation>
     </message>
 </context>
 <context>
@@ -4175,7 +4175,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Drop your files here</source>
-        <translation type="unfinished"></translation>
+        <translation>Plasează-ți fișierele aici</translation>
     </message>
 </context>
 <context>
@@ -11403,74 +11403,74 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Viewer</source>
-        <translation type="unfinished">Vizualizatorul</translation>
+        <translation>Vizualizatorul</translation>
     </message>
     <message>
         <source>Clipping warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Avertisment privind decuparea</translation>
     </message>
     <message>
         <source>Shadows</source>
-        <translation type="unfinished">Umbre</translation>
+        <translation>Umbre</translation>
     </message>
     <message>
         <source>Highlights</source>
-        <translation type="unfinished">Zone luminoase</translation>
+        <translation>Zone luminoase (Lumini)</translation>
     </message>
     <message>
         <source>Remember state</source>
-        <translation type="unfinished"></translation>
+        <translation>Ține minte starea</translation>
     </message>
     <message>
         <source>Defaults</source>
-        <translation type="unfinished">Valori implicite</translation>
+        <translation>Valori implicite</translation>
     </message>
     <message>
         <source>Highlight the selection area</source>
-        <translation type="unfinished"></translation>
+        <translation>Evidențiază zona de selecție</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished">Mărește/Micșorează (Scalează)</translation>
+        <translation>Mărește/Micșorează (Scalează)</translation>
     </message>
     <message>
         <source>Navigation resets zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigarea resetează scalarea</translation>
     </message>
     <message>
         <source>Navigation resets X/Y position (&apos;No fit&apos; only)</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigația resetează poziția X/Y (numai „Fără potrivire”)</translation>
     </message>
     <message>
         <source>Render</source>
-        <translation type="unfinished"></translation>
+        <translation>Randează</translation>
     </message>
     <message>
         <source>Pixel aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Raportul de aspect al pixelilor</translation>
     </message>
     <message>
         <source>Video/Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Video/Audio</translation>
     </message>
     <message>
         <source>Auto play</source>
-        <translation type="unfinished"></translation>
+        <translation>Redare automată</translation>
     </message>
     <message>
         <source>Loop playing</source>
-        <translation type="unfinished"></translation>
+        <translation>Redare în buclă</translation>
     </message>
 </context>
 <context>
     <name>DlgSimilar</name>
     <message>
         <source>No files found!</source>
-        <translation>Niciun fișier găsit!</translation>
+        <translation>Niciun fișier nu a fost găsit!</translation>
     </message>
     <message>
         <source>Similarity</source>
-        <translation>Similitudine</translation>
+        <translation>Similaritate</translation>
     </message>
     <message>
         <source>Same Extension</source>
@@ -11553,7 +11553,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Similarity</source>
-        <translation>Similitudine</translation>
+        <translation>Similaritate</translation>
     </message>
     <message>
         <source>CRC32</source>
@@ -17439,27 +17439,27 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Shadows</source>
-        <translation type="unfinished">Umbre</translation>
+        <translation>Umbre</translation>
     </message>
     <message>
         <source>Highlights</source>
-        <translation type="unfinished">Zone luminoase</translation>
+        <translation>Zone luminoase (Lumini)</translation>
     </message>
     <message>
         <source>Highlights (per channel)</source>
-        <translation type="unfinished">Zone luminoase (pe canal)</translation>
+        <translation>Zone luminoase (lumini) (pe canal)</translation>
     </message>
     <message>
         <source>Shadows + Highlights</source>
-        <translation type="unfinished">Umbre + zone luminoase</translation>
+        <translation>Umbre + zone luminoase (lumini)</translation>
     </message>
     <message>
         <source>Clipping warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Avertisment privind decuparea</translation>
     </message>
     <message>
         <source>Grid</source>
-        <translation type="unfinished">Grilă</translation>
+        <translation>Grilă</translation>
     </message>
 </context>
 <context>
@@ -17744,15 +17744,15 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Highlights</source>
-        <translation>Zone luminoase</translation>
+        <translation>Zone luminoase (Lumini)</translation>
     </message>
     <message>
         <source>Shadows + Highlights</source>
-        <translation>Umbre + zone luminoase</translation>
+        <translation>Umbre + zone luminoase (lumini)</translation>
     </message>
     <message>
         <source>Highlights (per channel)</source>
-        <translation>Zone luminoase (pe canal)</translation>
+        <translation>Zone luminoase (lumini) (pe canal)</translation>
     </message>
 </context>
 <context>
