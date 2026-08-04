@@ -281,7 +281,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="875"/>
         <source>Click to hide</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik om te verbergen</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="1566"/>
@@ -5205,7 +5205,7 @@ Doorgaan?</translation>
     <message>
         <location filename="DlgConvert.ui" line="75"/>
         <source>Drop your files here</source>
-        <translation type="unfinished"></translation>
+        <translation>Sleep je bestanden hierheen</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="124"/>
@@ -14445,7 +14445,7 @@ Opnieuw toewijzen?</translation>
         <location filename="DlgSettingsView.ui" line="36"/>
         <source>Viewer</source>
         <oldsource>View</oldsource>
-        <translation type="unfinished">Beeld</translation>
+        <translation>Weergave</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="282"/>
@@ -14547,72 +14547,72 @@ Opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="176"/>
         <source>Clipping warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Waarschuwing voor oversturing</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="185"/>
         <source>Shadows</source>
-        <translation type="unfinished">Schaduwen</translation>
+        <translation>Schaduwen</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="192"/>
         <source>Highlights</source>
-        <translation type="unfinished">Oplichting</translation>
+        <translation>Oplichting</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="212"/>
         <source>Remember state</source>
-        <translation type="unfinished"></translation>
+        <translation>Toestand onthouden</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="229"/>
         <source>Defaults</source>
-        <translation type="unfinished">Standaardwaarden</translation>
+        <translation>Standaardwaarden</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="239"/>
         <source>Highlight the selection area</source>
-        <translation type="unfinished"></translation>
+        <translation>Geselecteerde gebied oplichten</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="274"/>
         <source>Zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="329"/>
         <source>Navigation resets zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigatie reset zoom</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="356"/>
         <source>Navigation resets X/Y position (&apos;No fit&apos; only)</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigatie reset X/Y-positie (&apos;No fit&apos; alleen)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="497"/>
         <source>Render</source>
-        <translation type="unfinished"></translation>
+        <translation>Weergeven</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="505"/>
         <source>Pixel aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Pixelverhouding</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="745"/>
         <source>Video/Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Video/Audio</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="751"/>
         <source>Auto play</source>
-        <translation type="unfinished"></translation>
+        <translation>Autom. afspelen</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="758"/>
         <source>Loop playing</source>
-        <translation type="unfinished"></translation>
+        <translation>Herhaald afspelen</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="765"/>
@@ -22078,7 +22078,7 @@ Doorgaan?</translation>
     <message>
         <location filename="ViewMenu.h" line="457"/>
         <source>Grid</source>
-        <translation type="unfinished">Raster</translation>
+        <translation>Raster</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="460"/>
@@ -22777,32 +22777,32 @@ Doorgaan?</translation>
         <location filename="ViewWindow.cpp" line="871"/>
         <location filename="ViewMenu.h" line="472"/>
         <source>Shadows</source>
-        <translation type="unfinished">Schaduwen</translation>
+        <translation>Schaduwen</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="841"/>
         <location filename="ViewWindow.cpp" line="874"/>
         <location filename="ViewMenu.h" line="473"/>
         <source>Highlights</source>
-        <translation type="unfinished">Oplichting</translation>
+        <translation>Oplichting</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="843"/>
         <location filename="ViewMenu.h" line="475"/>
         <source>Highlights (per channel)</source>
-        <translation type="unfinished">Oplichting (per kanaal)</translation>
+        <translation>Oplichting (per kanaal)</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="845"/>
         <location filename="ViewMenu.h" line="474"/>
         <source>Shadows + Highlights</source>
-        <translation type="unfinished">Schaduw + Oplichting</translation>
+        <translation>Schaduw + Oplichting</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="869"/>
         <location filename="ViewMenu.h" line="476"/>
         <source>Clipping warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Waarschuwing voor oversturing</translation>
     </message>
 </context>
 <context>
