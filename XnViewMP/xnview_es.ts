@@ -242,7 +242,7 @@
     </message>
     <message>
         <source>Frame %1/%2</source>
-        <translation>Marco %1/%2</translation>
+        <translation>Fotograma %1/%2</translation>
     </message>
     <message>
         <source>An error occurred during saving!</source>
@@ -330,15 +330,15 @@
     </message>
     <message>
         <source>Expand canvas</source>
-        <translation type="unfinished"></translation>
+        <translation>Ampliar el lienzo</translation>
     </message>
     <message>
         <source>Do you want to expand the canvas?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Desea ampliar el lienzo?</translation>
     </message>
     <message>
         <source>Click to hide</source>
-        <translation type="unfinished"></translation>
+        <translation>Clic pra ocultar</translation>
     </message>
 </context>
 <context>
@@ -525,7 +525,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Are you sure to delete this folder?</source>
-        <translation>¿Está seguro de eliminar esta carpeta?</translation>
+        <translation>¿Está seguro de que desea eliminar esta carpeta?</translation>
     </message>
     <message>
         <source>Current folder</source>
@@ -730,7 +730,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Are you sure to delete this album?</source>
-        <translation>¿Está seguro de eliminar este álbum?</translation>
+        <translation>¿Está seguro de que desea eliminar este álbum?</translation>
     </message>
     <message>
         <source>Delete album</source>
@@ -782,7 +782,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Are you sure to delete this category?</source>
-        <translation>¿Está seguro de eliminar esta categoría?</translation>
+        <translation>¿Está seguro de que desea eliminar esta categoría?</translation>
     </message>
     <message>
         <source>EXIF: Date taken</source>
@@ -1412,7 +1412,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Blurred frame</source>
-        <translation>Marco desenfocado</translation>
+        <translation>Fotograma borroso</translation>
     </message>
     <message>
         <source>Median box</source>
@@ -1460,7 +1460,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Frame</source>
-        <translation>Cuadro</translation>
+        <translation>Marco</translation>
     </message>
     <message>
         <source>Metadata</source>
@@ -2216,7 +2216,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Presets</source>
-        <translation>Ajustes preestablecidos</translation>
+        <translation>Ajustes predefinidos</translation>
     </message>
     <message>
         <source>Remaining:</source>
@@ -3322,7 +3322,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Color of pixel at</source>
-        <translation>Color de pixel en</translation>
+        <translation>Color de píxel en</translation>
     </message>
     <message>
         <source>Mode</source>
@@ -3560,7 +3560,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Color of pixel at</source>
-        <translation>Color de pixel en</translation>
+        <translation>Color de píxel en</translation>
     </message>
     <message>
         <source>Height</source>
@@ -3592,7 +3592,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Presets</source>
-        <translation>Ajustes preestablecidos</translation>
+        <translation>Ajustes predefinidos</translation>
     </message>
     <message>
         <source>Follow orientation</source>
@@ -3915,11 +3915,11 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Save preset</source>
-        <translation>Guardar ajuste preestablecido</translation>
+        <translation>Guardar ajuste predefinido</translation>
     </message>
     <message>
         <source>Load preset</source>
-        <translation>Cargar ajuste preestablecido</translation>
+        <translation>Cargar ajuste predefinido</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -3963,7 +3963,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Presets:</source>
-        <translation>Ajustes preestablecidos:</translation>
+        <translation>Ajustes predefinidos:</translation>
     </message>
     <message>
         <source>Convert all pages from multipage file</source>
@@ -4159,7 +4159,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Drop your files here</source>
-        <translation type="unfinished"></translation>
+        <translation>Soltar archivos aquí</translation>
     </message>
 </context>
 <context>
@@ -5004,7 +5004,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Presets</source>
-        <translation>Ajustes preestablecidos</translation>
+        <translation>Ajustes predefinidos</translation>
     </message>
     <message>
         <source>Follow orientation</source>
@@ -5109,7 +5109,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Auto crop</source>
-        <translation>Auto recortar</translation>
+        <translation>Recorte automático</translation>
     </message>
     <message>
         <source>EXIF Orientation</source>
@@ -6544,7 +6544,7 @@ Por favor, intente iniciar con derechos de Administrador.</translation>
     </message>
     <message>
         <source>Are you sure to delete this file?</source>
-        <translation>¿Está seguro de eliminar este archivo?</translation>
+        <translation>¿Está seguro de que desea eliminar este archivo?</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -6933,11 +6933,11 @@ Por favor, intente iniciar con derechos de Administrador.</translation>
     <name>DlgHistoryList</name>
     <message>
         <source>Save preset</source>
-        <translation>Guardar ajuste preestablecido</translation>
+        <translation>Guardar ajuste predefinido</translation>
     </message>
     <message>
         <source>Preset name:</source>
-        <translation>Nombre preestablecido:</translation>
+        <translation>Nombre de ajuste predefinido:</translation>
     </message>
 </context>
 <context>
@@ -7713,7 +7713,7 @@ Please make sure that files are not read-only!</source>
     <name>DlgPresetsManageClass</name>
     <message>
         <source>Edit presets</source>
-        <translation>Editar ajustes preestablecidos</translation>
+        <translation>Editar ajustes predefinidos</translation>
     </message>
 </context>
 <context>
@@ -7912,7 +7912,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Presets</source>
-        <translation>Ajustes preestablecidos</translation>
+        <translation>Ajustes predefinidos</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -8066,7 +8066,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Save preset</source>
-        <translation>Guardar ajuste preestablecido</translation>
+        <translation>Guardar ajuste predefinido</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -8074,11 +8074,11 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Presets:</source>
-        <translation>Ajustes preestablecidos:</translation>
+        <translation>Ajustes predefinidos:</translation>
     </message>
     <message>
         <source>Remove preset</source>
-        <translation>Eliminar ajuste preestablecido</translation>
+        <translation>Eliminar ajuste predefinido</translation>
     </message>
 </context>
 <context>
@@ -8350,7 +8350,7 @@ Instalar a través de Herramientas &gt; Complementos</translation>
     </message>
     <message>
         <source>Do you want to delete all your name templates?</source>
-        <translation>¿Desea eliminar todos los nombres de las plantillas?</translation>
+        <translation>¿Desea eliminar todas sus plantillas de nombre?</translation>
     </message>
     <message>
         <source>Companion renaming</source>
@@ -8366,31 +8366,31 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished">Cambiar nombre</translation>
+        <translation>Cambiar nombre</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Cerrar</translation>
+        <translation>Cerrar</translation>
     </message>
     <message>
         <source>Save preset</source>
-        <translation type="unfinished">Guardar ajuste preestablecido</translation>
+        <translation>Guardar ajuste predefinido</translation>
     </message>
     <message>
         <source>Preset name:</source>
-        <translation type="unfinished">Nombre preestablecido:</translation>
+        <translation>Nombre de ajuste predefinido:</translation>
     </message>
     <message>
         <source>Preset &apos;%1&apos; already exists. Overwrite?</source>
-        <translation type="unfinished"></translation>
+        <translation>El ajuste predefinido &apos;%1&apos; ya existe. ¿Sobrescribir?</translation>
     </message>
     <message>
         <source>Delete preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar ajuste predefinido</translation>
     </message>
     <message>
         <source>Delete preset &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Eliminar ajuste predefinido &apos;%1&apos;?</translation>
     </message>
 </context>
 <context>
@@ -8501,31 +8501,31 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Add files...</source>
-        <translation type="unfinished">Añadir archivos...</translation>
+        <translation>Añadir archivos...</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Eliminar</translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <source>Remove all</source>
-        <translation type="unfinished">Eliminar todo</translation>
+        <translation>Eliminar todo</translation>
     </message>
     <message>
         <source>Presets:</source>
-        <translation type="unfinished">Ajustes preestablecidos:</translation>
+        <translation>Ajustes predefinidos:</translation>
     </message>
     <message>
         <source>Save preset</source>
-        <translation type="unfinished">Guardar ajuste preestablecido</translation>
+        <translation>Guardar ajuste predefinido</translation>
     </message>
     <message>
         <source>Remove preset from list</source>
-        <translation type="unfinished">Eliminar ajuste preestablecido de la lista</translation>
+        <translation>Eliminar ajuste predefinido de la lista</translation>
     </message>
     <message>
         <source>Replace diacritic characters</source>
-        <translation type="unfinished"></translation>
+        <translation>Reemplazar caracteres diacríticos</translation>
     </message>
 </context>
 <context>
@@ -8713,7 +8713,7 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Presets:</source>
-        <translation>Ajustes preestablecidos:</translation>
+        <translation>Ajustes predefinidos:</translation>
     </message>
     <message>
         <source>Sharpen</source>
@@ -8741,7 +8741,7 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Remove preset</source>
-        <translation>Eliminar ajuste preestablecido</translation>
+        <translation>Eliminar ajuste predefinido</translation>
     </message>
     <message>
         <source>Top-Left</source>
@@ -8804,7 +8804,7 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Auto crop</source>
-        <translation>Recortar automáticamente</translation>
+        <translation>Recorte automático</translation>
     </message>
 </context>
 <context>
@@ -8906,7 +8906,7 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Presets: </source>
-        <translation>Ajustes preestablecidos: </translation>
+        <translation>Ajustes predefinidos: </translation>
     </message>
     <message>
         <source>&amp;Filename</source>
@@ -9097,7 +9097,7 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Preset name:</source>
-        <translation>Nombre preestablecido:</translation>
+        <translation>Nombre de ajuste predefinido:</translation>
     </message>
 </context>
 <context>
@@ -9389,7 +9389,7 @@ etiquetas de color o palabras clave pueden ser eliminadas.
     </message>
     <message>
         <source>Database [catalog: %1 %2 - metadata: %5 %6 - thumbnails: %3 %4]</source>
-        <translation type="unfinished"></translation>
+        <translation>Base de datos [catálogo: %1 %2 - metadatos: %5 %6 - miniaturas: %3 %4]</translation>
     </message>
 </context>
 <context>
@@ -9508,19 +9508,19 @@ etiquetas de color o palabras clave pueden ser eliminadas.
     </message>
     <message>
         <source>Maintenance</source>
-        <translation type="unfinished"></translation>
+        <translation>Mantenimiento</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">Filtro</translation>
+        <translation>Filtro</translation>
     </message>
     <message>
         <source>Metadata</source>
-        <translation type="unfinished">Metadatos</translation>
+        <translation>Metadatos</translation>
     </message>
     <message>
         <source>Thumbnails</source>
-        <translation type="unfinished">Miniaturas</translation>
+        <translation>Miniaturas</translation>
     </message>
 </context>
 <context>
@@ -10866,15 +10866,15 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Rating labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Etiquetas de calificación</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished">Archivo</translation>
+        <translation>Archivo</translation>
     </message>
     <message>
         <source>XMP (dc:description and exif:UserComment)</source>
-        <translation type="unfinished"></translation>
+        <translation>XMP (dc:descripción y exif:Comentario del usuario)</translation>
     </message>
 </context>
 <context>
@@ -11105,7 +11105,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Frame&apos;s count</source>
-        <translation>Cantidad de fotogramas</translation>
+        <translation>Número de fotogramas</translation>
     </message>
     <message>
         <source>Use transparency grid</source>
@@ -11121,7 +11121,7 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Icon spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Espaciado de iconos:</translation>
     </message>
 </context>
 <context>
@@ -11387,63 +11387,63 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>Viewer</source>
-        <translation type="unfinished">Visor</translation>
+        <translation>Visor</translation>
     </message>
     <message>
         <source>Clipping warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Advertencia de recorte</translation>
     </message>
     <message>
         <source>Shadows</source>
-        <translation type="unfinished">Sombras</translation>
+        <translation>Sombras</translation>
     </message>
     <message>
         <source>Highlights</source>
-        <translation type="unfinished">Luces</translation>
+        <translation>Luces</translation>
     </message>
     <message>
         <source>Remember state</source>
-        <translation type="unfinished"></translation>
+        <translation>Recordar estado</translation>
     </message>
     <message>
         <source>Defaults</source>
-        <translation type="unfinished">Predeterminados</translation>
+        <translation>Predeterminados</translation>
     </message>
     <message>
         <source>Highlight the selection area</source>
-        <translation type="unfinished"></translation>
+        <translation>Resaltar el área seleccionada</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished">Zoom</translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <source>Navigation resets zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>La navegación restablece el zoom</translation>
     </message>
     <message>
         <source>Navigation resets X/Y position (&apos;No fit&apos; only)</source>
-        <translation type="unfinished"></translation>
+        <translation>La navegación restablece la posición X/Y (solo &apos;Sin ajuste&apos;)</translation>
     </message>
     <message>
         <source>Render</source>
-        <translation type="unfinished"></translation>
+        <translation>Renderizar</translation>
     </message>
     <message>
         <source>Pixel aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Relación de aspecto del píxel</translation>
     </message>
     <message>
         <source>Video/Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Vídeo/Audio</translation>
     </message>
     <message>
         <source>Auto play</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproducción automática</translation>
     </message>
     <message>
         <source>Loop playing</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproducción en bucle</translation>
     </message>
 </context>
 <context>
@@ -12521,7 +12521,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Starting frame</source>
-        <translation>Cuadro de inicio</translation>
+        <translation>Fotograma inicial</translation>
     </message>
 </context>
 <context>
@@ -13411,7 +13411,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Images/frames count</source>
-        <translation>Recuento de imágenes/fotogramas</translation>
+        <translation>Número de imágenes/fotogramas</translation>
     </message>
     <message>
         <source>Creation date</source>
@@ -13787,15 +13787,15 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Indexed</source>
-        <translation type="unfinished"></translation>
+        <translation>Indexado</translation>
     </message>
     <message>
         <source>Frame index</source>
-        <translation type="unfinished"></translation>
+        <translation>Índice de fotogramas</translation>
     </message>
     <message>
         <source>Frame count</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de fotogramas</translation>
     </message>
 </context>
 <context>
@@ -13834,7 +13834,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Are you sure to delete this category?</source>
-        <translation>¿Está seguro de eliminar esta categoría?</translation>
+        <translation>¿Está seguro de que desea eliminar esta categoría?</translation>
     </message>
     <message>
         <source>Merge with...</source>
@@ -13842,7 +13842,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Are you sure to delete these categories?</source>
-        <translation type="unfinished">¿Está seguro de que desea eliminar estas categorías?</translation>
+        <translation>¿Está seguro de que desea eliminar estas categorías?</translation>
     </message>
 </context>
 <context>
@@ -13937,7 +13937,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Import Categories (XnView Classic db)...</source>
-        <translation>Importar categorías (BD XnVidew Classic)...</translation>
+        <translation>Importar categorías (base de datos de XnView Classic)...</translation>
     </message>
     <message>
         <source>Export Categories...</source>
@@ -13949,29 +13949,31 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Problem during database import!</source>
-        <translation>¡Problemas durante la importación de la base de datos!</translation>
+        <translation>¡Problema al importar la base de datos!</translation>
     </message>
     <message>
         <source>Category tree successfully imported into XnView categories</source>
-        <translation>Árbol de categorías importado correctamente en categorías XnView</translation>
+        <translation>Árbol de categorías importado correctamente a las categorías de XnView</translation>
     </message>
     <message>
         <source>Can&apos;t import XnView database</source>
-        <translation>No se puede importar la base de datos de categorías de XnView</translation>
+        <translation>No se puede importar la base de datos de XnView</translation>
     </message>
     <message>
         <source>Catalog file</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de catálogo</translation>
     </message>
     <message>
         <source>Catalog - Clear &amp; Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Catálogo - Limpiar e importar</translation>
     </message>
     <message>
         <source>Importing will replace all existing Catalog data.
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>La importación sustituirá todos los datos existentes del catálogo.
+
+¿Desea continuar?</translation>
     </message>
 </context>
 <context>
@@ -14061,7 +14063,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Altitude ref.</source>
-        <translation>Altitud de referencia.</translation>
+        <translation>Altitud de referencia</translation>
     </message>
     <message>
         <source>XP Title</source>
@@ -14141,11 +14143,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Subject location</source>
-        <translation>Ubicación del objeto</translation>
+        <translation>Ubicación del sujeto</translation>
     </message>
     <message>
         <source>Device settings desc.</source>
-        <translation>Descripción de configuración del dispositivo.</translation>
+        <translation>Descripción de configuración del dispositivo</translation>
     </message>
     <message>
         <source>LensID</source>
@@ -14185,7 +14187,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Direction ref.</source>
-        <translation>Dirección de referencia.</translation>
+        <translation>Dirección de referencia</translation>
     </message>
     <message>
         <source>Date digitized</source>
@@ -14253,7 +14255,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Latitude ref.</source>
-        <translation>Latitud de referencia.</translation>
+        <translation>Latitud de referencia</translation>
     </message>
     <message>
         <source>XP Comment</source>
@@ -14269,7 +14271,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Sensing method</source>
-        <translation>Tipo de sensor</translation>
+        <translation>Método de detección</translation>
     </message>
     <message>
         <source>Scene capture type</source>
@@ -14285,7 +14287,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Subject Distance (m)</source>
-        <translation>Distancia al objeto (m)</translation>
+        <translation>Distancia al sujeto (m)</translation>
     </message>
     <message>
         <source>Thumbnail</source>
@@ -14293,7 +14295,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Longitude ref.</source>
-        <translation>Longitud de referencia.</translation>
+        <translation>Longitud de referencia</translation>
     </message>
     <message>
         <source>Saturation</source>
@@ -14421,7 +14423,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Subject Distance Range</source>
-        <translation>Rango de distancia del objeto</translation>
+        <translation>Rango de distancia del sujeto</translation>
     </message>
 </context>
 <context>
@@ -16404,7 +16406,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Name - natural (numeric) order</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre - orden natural (numérico)</translation>
     </message>
 </context>
 <context>
@@ -17413,35 +17415,35 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>##rating## (go to next image)</source>
-        <translation type="unfinished">##rating## (ir a la siguiente imagen)</translation>
+        <translation>##calificación## (ir a la siguiente imagen)</translation>
     </message>
     <message>
         <source>Center image</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen central</translation>
     </message>
     <message>
         <source>Shadows</source>
-        <translation type="unfinished">Sombras</translation>
+        <translation>Sombras</translation>
     </message>
     <message>
         <source>Highlights</source>
-        <translation type="unfinished">Luces</translation>
+        <translation>Luces</translation>
     </message>
     <message>
         <source>Highlights (per channel)</source>
-        <translation type="unfinished">Luces (por canal)</translation>
+        <translation>Luces (por canal)</translation>
     </message>
     <message>
         <source>Shadows + Highlights</source>
-        <translation type="unfinished">Sombras + Luces</translation>
+        <translation>Sombras + Luces</translation>
     </message>
     <message>
         <source>Clipping warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Advertencia de recorte</translation>
     </message>
     <message>
         <source>Grid</source>
-        <translation type="unfinished">Rejilla</translation>
+        <translation>Rejilla</translation>
     </message>
 </context>
 <context>
@@ -17456,15 +17458,15 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>GiB</source>
-        <translation>GB</translation>
+        <translation>GiB</translation>
     </message>
     <message>
         <source>KiB</source>
-        <translation>KB</translation>
+        <translation>KiB</translation>
     </message>
     <message>
         <source>MiB</source>
-        <translation>MB</translation>
+        <translation>MiB</translation>
     </message>
     <message>
         <source>Bytes</source>
@@ -17663,7 +17665,7 @@ Do you want to continue?</source>
     <name>MyFolderView</name>
     <message>
         <source>Are you sure to delete this folder?</source>
-        <translation>¿Está seguro de eliminar esta carpeta?</translation>
+        <translation>¿Está seguro de que desea eliminar esta carpeta?</translation>
     </message>
     <message>
         <source>Delete folder</source>
@@ -17800,7 +17802,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Do you want to delete all your name templates?</source>
-        <translation type="unfinished">¿Desea eliminar todos los nombres de las plantillas?</translation>
+        <translation>¿Desea eliminar todas sus plantillas de nombre?</translation>
     </message>
 </context>
 <context>
@@ -18159,7 +18161,7 @@ Puedo cambiarlo en Configuración › Catálogo.</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation>Ajustes preestablecidos</translation>
+        <translation>Ajustes predefinidos</translation>
     </message>
     <message>
         <source>Add...</source>
@@ -18179,7 +18181,7 @@ Puedo cambiarlo en Configuración › Catálogo.</translation>
     </message>
     <message>
         <source>Preset name</source>
-        <translation>Nombre de ajustes preestablecidos</translation>
+        <translation>Nombre de ajustes predefinidos</translation>
     </message>
     <message>
         <source>Stretch</source>
@@ -18675,15 +18677,15 @@ Puedo cambiarlo en Configuración › Catálogo.</translation>
     </message>
     <message>
         <source>GiB</source>
-        <translation>GB</translation>
+        <translation>GiB</translation>
     </message>
     <message>
         <source>KiB</source>
-        <translation>KB</translation>
+        <translation>KiB</translation>
     </message>
     <message>
         <source>MiB</source>
-        <translation>MB</translation>
+        <translation>MiB</translation>
     </message>
     <message>
         <source>and</source>
@@ -18840,7 +18842,7 @@ Puedo cambiarlo en Configuración › Catálogo.</translation>
     </message>
     <message>
         <source>Remove preset</source>
-        <translation>Eliminar ajuste preestablecido</translation>
+        <translation>Eliminar ajuste predefinido</translation>
     </message>
 </context>
 <context>
