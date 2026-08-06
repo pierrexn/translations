@@ -396,7 +396,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="875"/>
         <source>Click to hide</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknite za skrivanje</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="3166"/>
@@ -5307,7 +5307,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="75"/>
         <source>Drop your files here</source>
-        <translation type="unfinished"></translation>
+        <translation>Spustite datoteke sem</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="716"/>
@@ -14485,7 +14485,7 @@ Ali želite ponovno dodeliti?</translation>
         <location filename="DlgSettingsView.ui" line="36"/>
         <source>Viewer</source>
         <oldsource>View</oldsource>
-        <translation type="unfinished">Pogled</translation>
+        <translation>Gledalec</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="44"/>
@@ -14738,72 +14738,72 @@ Ali želite ponovno dodeliti?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="176"/>
         <source>Clipping warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Opozorilo o obrezovanju</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="185"/>
         <source>Shadows</source>
-        <translation type="unfinished">Sence</translation>
+        <translation>Sence</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="192"/>
         <source>Highlights</source>
-        <translation type="unfinished">Poudarki</translation>
+        <translation>Poudarki</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="212"/>
         <source>Remember state</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapomni si stanje</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="229"/>
         <source>Defaults</source>
-        <translation type="unfinished">Privzeto</translation>
+        <translation>Privzete nastavitve</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="239"/>
         <source>Highlight the selection area</source>
-        <translation type="unfinished"></translation>
+        <translation>Označite območje izbire</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="274"/>
         <source>Zoom</source>
-        <translation type="unfinished">Povečava</translation>
+        <translation>Povečava</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="329"/>
         <source>Navigation resets zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigacija ponastavi povečavo</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="356"/>
         <source>Navigation resets X/Y position (&apos;No fit&apos; only)</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigacija ponastavi položaj X/Y (samo pri &apos;brez prileganja&apos;)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="497"/>
         <source>Render</source>
-        <translation type="unfinished"></translation>
+        <translation>Upodobi</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="505"/>
         <source>Pixel aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Razmerje stranic slikovnih pik</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="745"/>
         <source>Video/Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Video/Audio</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="751"/>
         <source>Auto play</source>
-        <translation type="unfinished"></translation>
+        <translation>Samodejno predvajanje</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="758"/>
         <source>Loop playing</source>
-        <translation type="unfinished"></translation>
+        <translation>Predvajanje zanke</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="986"/>
@@ -22174,7 +22174,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="457"/>
         <source>Grid</source>
-        <translation type="unfinished">Mreža</translation>
+        <translation>Mreža</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="461"/>
@@ -22823,32 +22823,32 @@ Do you want to continue?</oldsource>
         <location filename="ViewWindow.cpp" line="871"/>
         <location filename="ViewMenu.h" line="472"/>
         <source>Shadows</source>
-        <translation type="unfinished">Sence</translation>
+        <translation>Sence</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="841"/>
         <location filename="ViewWindow.cpp" line="874"/>
         <location filename="ViewMenu.h" line="473"/>
         <source>Highlights</source>
-        <translation type="unfinished">Poudarki</translation>
+        <translation>Poudarki</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="843"/>
         <location filename="ViewMenu.h" line="475"/>
         <source>Highlights (per channel)</source>
-        <translation type="unfinished">Poudarki (na kanal)</translation>
+        <translation>Poudarki (na kanal)</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="845"/>
         <location filename="ViewMenu.h" line="474"/>
         <source>Shadows + Highlights</source>
-        <translation type="unfinished">Sence + poudarki</translation>
+        <translation>Sence + poudarki</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="869"/>
         <location filename="ViewMenu.h" line="476"/>
         <source>Clipping warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Opozorilo o obrezovanju</translation>
     </message>
 </context>
 <context>
