@@ -4119,7 +4119,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Beep at the end of process</source>
-        <translation>Bip la sfârșitul procesului</translation>
+        <translation>Semnal sonor (Bip) la finalizarea procesului</translation>
     </message>
     <message>
         <source>Apply actions</source>
@@ -4364,7 +4364,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Cyan</source>
-        <translation>Cyan</translation>
+        <translation>Cyan (Cian)</translation>
     </message>
     <message>
         <source>Green</source>
@@ -7110,7 +7110,7 @@ Subfolderele (Subdosarele) vor fi create.. </translation>
     </message>
     <message>
         <source># enumerator per</source>
-        <translation># enumerator per</translation>
+        <translation># contor/numărător per</translation>
     </message>
     <message>
         <source>Input folder</source>
@@ -14379,11 +14379,11 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>SubSecTime</source>
-        <translation>SubSecTime</translation>
+        <translation>SubSecTime (fracțiuni de secundă)</translation>
     </message>
     <message>
         <source>SubSecTime Original</source>
-        <translation>SubSecTime Original</translation>
+        <translation>SubSecTime original (fracțiuni de secundă originale)</translation>
     </message>
     <message>
         <source>SubSecTime Digitized</source>
@@ -18349,7 +18349,7 @@ O poți schimba în Setări › Catalog.</translation>
     </message>
     <message>
         <source>Cyan</source>
-        <translation>Cyan</translation>
+        <translation>Cyan (Cian)</translation>
     </message>
     <message>
         <source>Gray</source>
