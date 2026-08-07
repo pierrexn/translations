@@ -15366,7 +15366,7 @@ Möchten Sie neu zuweisen?</translation>
     <message>
         <location filename="DlgStartupWizard.ui" line="14"/>
         <source>Startup Wizard</source>
-        <translation>XnView MP - Erster Prorgrammstart - Einstellungen</translation>
+        <translation>Erster Programmstart - Einstellungen</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="20"/>
