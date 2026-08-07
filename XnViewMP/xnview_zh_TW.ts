@@ -374,7 +374,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="875"/>
         <source>Click to hide</source>
-        <translation type="unfinished"></translation>
+        <translation>點擊後隱藏</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="1743"/>
@@ -1072,7 +1072,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="CompareWidget.cpp" line="45"/>
         <source>Grid</source>
-        <translation>格線</translation>
+        <translation>網格</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="47"/>
@@ -5331,7 +5331,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="75"/>
         <source>Drop your files here</source>
-        <translation type="unfinished"></translation>
+        <translation>將檔案拖放至此</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="307"/>
@@ -5774,7 +5774,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertICC.ui" line="93"/>
         <source>Rendering intent</source>
-        <translation>色彩對應方式</translation>
+        <translation>渲染意圖/色彩演算比對方式</translation>
     </message>
     <message>
         <location filename="DlgConvertICC.ui" line="101"/>
@@ -8857,7 +8857,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgGrid.ui" line="20"/>
         <source>Defined grids</source>
-        <translation>定義格線</translation>
+        <translation>定義網格</translation>
     </message>
     <message>
         <location filename="DlgGrid.ui" line="34"/>
@@ -11283,7 +11283,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgRotate.ui" line="124"/>
         <source>Show grid</source>
-        <translation>顯示格線</translation>
+        <translation>顯示網格</translation>
     </message>
     <message>
         <location filename="DlgRotate.ui" line="131"/>
@@ -12972,7 +12972,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="1049"/>
         <source>Rendering intent:</source>
-        <translation>色彩對應方式:</translation>
+        <translation>渲染意圖/色彩演算比對方式:</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="1078"/>
@@ -14433,7 +14433,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="36"/>
         <source>Viewer</source>
         <oldsource>View</oldsource>
-        <translation type="unfinished">檢視器</translation>
+        <translation>檢視器</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="282"/>
@@ -14671,72 +14671,72 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="176"/>
         <source>Clipping warning</source>
-        <translation type="unfinished"></translation>
+        <translation>遮色警告</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="185"/>
         <source>Shadows</source>
-        <translation type="unfinished">陰影</translation>
+        <translation>陰影</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="192"/>
         <source>Highlights</source>
-        <translation type="unfinished">高光</translation>
+        <translation>高光</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="212"/>
         <source>Remember state</source>
-        <translation type="unfinished"></translation>
+        <translation>記住狀態</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="229"/>
         <source>Defaults</source>
-        <translation type="unfinished">預設</translation>
+        <translation>預設</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="239"/>
         <source>Highlight the selection area</source>
-        <translation type="unfinished"></translation>
+        <translation>以醒目方式顯示框選區域</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="274"/>
         <source>Zoom</source>
-        <translation type="unfinished">縮放</translation>
+        <translation>縮放</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="329"/>
         <source>Navigation resets zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>導航時重置縮放</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="356"/>
         <source>Navigation resets X/Y position (&apos;No fit&apos; only)</source>
-        <translation type="unfinished"></translation>
+        <translation>導航時重置 X/Y 位置 (僅 &apos;不調整縮放&apos; 時)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="497"/>
         <source>Render</source>
-        <translation type="unfinished"></translation>
+        <translation>渲染</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="505"/>
         <source>Pixel aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>像素長寬比</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="745"/>
         <source>Video/Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>影片/音訊</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="751"/>
         <source>Auto play</source>
-        <translation type="unfinished"></translation>
+        <translation>自動播放</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="758"/>
         <source>Loop playing</source>
-        <translation type="unfinished"></translation>
+        <translation>循環播放</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="927"/>
@@ -18595,7 +18595,7 @@ Do you want to continue?</source>
     <message>
         <location filename="TemplateData.cpp" line="2726"/>
         <source>Custom rendered</source>
-        <translation>自訂影像處理</translation>
+        <translation>自訂渲染</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2727"/>
@@ -22180,17 +22180,17 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="455"/>
         <source>Show grid</source>
-        <translation>顯示格線</translation>
+        <translation>顯示網格</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="456"/>
         <source>Grid settings...</source>
-        <translation>格線設定...</translation>
+        <translation>網格設定...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="457"/>
         <source>Grid</source>
-        <translation type="unfinished">格線</translation>
+        <translation>網格</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="458"/>
@@ -22772,32 +22772,32 @@ Do you want to continue?</oldsource>
         <location filename="ViewWindow.cpp" line="871"/>
         <location filename="ViewMenu.h" line="472"/>
         <source>Shadows</source>
-        <translation type="unfinished">陰影</translation>
+        <translation>陰影</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="841"/>
         <location filename="ViewWindow.cpp" line="874"/>
         <location filename="ViewMenu.h" line="473"/>
         <source>Highlights</source>
-        <translation type="unfinished">高光</translation>
+        <translation>高光</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="843"/>
         <location filename="ViewMenu.h" line="475"/>
         <source>Highlights (per channel)</source>
-        <translation type="unfinished">高光 (每個色版)</translation>
+        <translation>高光 (每個色版)</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="845"/>
         <location filename="ViewMenu.h" line="474"/>
         <source>Shadows + Highlights</source>
-        <translation type="unfinished">陰影 + 高光</translation>
+        <translation>陰影 + 高光</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="869"/>
         <location filename="ViewMenu.h" line="476"/>
         <source>Clipping warning</source>
-        <translation type="unfinished"></translation>
+        <translation>遮色警告</translation>
     </message>
 </context>
 <context>
