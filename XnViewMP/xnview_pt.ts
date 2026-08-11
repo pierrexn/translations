@@ -282,7 +282,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="875"/>
         <source>Click to hide</source>
-        <translation type="unfinished"></translation>
+        <translation>Clicar para ocultar</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="1566"/>
@@ -5305,7 +5305,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="DlgConvert.ui" line="75"/>
         <source>Drop your files here</source>
-        <translation type="unfinished"></translation>
+        <translation>Largue aqui os ficheiros</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="681"/>
@@ -14489,7 +14489,7 @@ Pretende reatribuir?</translation>
         <location filename="DlgSettingsView.ui" line="36"/>
         <source>Viewer</source>
         <oldsource>View</oldsource>
-        <translation type="unfinished">Ver</translation>
+        <translation>Visualizador</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="282"/>
@@ -14728,72 +14728,72 @@ Pretende reatribuir?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="176"/>
         <source>Clipping warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Aviso de distorção (clipping)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="185"/>
         <source>Shadows</source>
-        <translation type="unfinished">Sombras</translation>
+        <translation>Sombras</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="192"/>
         <source>Highlights</source>
-        <translation type="unfinished">Brilhos</translation>
+        <translation>Brilhos</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="212"/>
         <source>Remember state</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar estado</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="229"/>
         <source>Defaults</source>
-        <translation type="unfinished">Pré-definição</translation>
+        <translation>Pré-definições</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="239"/>
         <source>Highlight the selection area</source>
-        <translation type="unfinished"></translation>
+        <translation>Avivar a área seleccionada</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="274"/>
         <source>Zoom</source>
-        <translation type="unfinished">Zoom</translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="329"/>
         <source>Navigation resets zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Navegação repõe zoom</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="356"/>
         <source>Navigation resets X/Y position (&apos;No fit&apos; only)</source>
-        <translation type="unfinished"></translation>
+        <translation>Navegação repõe posição X/Y (só em &apos;no fit&apos;)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="497"/>
         <source>Render</source>
-        <translation type="unfinished"></translation>
+        <translation>Renderizar</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="505"/>
         <source>Pixel aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Proporções de cada pixel</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="745"/>
         <source>Video/Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Vídeo/Áudio</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="751"/>
         <source>Auto play</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproduzir automaticamente</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="758"/>
         <source>Loop playing</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproduzir repetidamente (loop)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="927"/>
@@ -22266,7 +22266,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="ViewMenu.h" line="457"/>
         <source>Grid</source>
-        <translation type="unfinished">Grelha</translation>
+        <translation>Grelha</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="458"/>
@@ -22849,32 +22849,32 @@ Deseja continuar?</translation>
         <location filename="ViewWindow.cpp" line="871"/>
         <location filename="ViewMenu.h" line="472"/>
         <source>Shadows</source>
-        <translation type="unfinished">Sombras</translation>
+        <translation>Sombras</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="841"/>
         <location filename="ViewWindow.cpp" line="874"/>
         <location filename="ViewMenu.h" line="473"/>
         <source>Highlights</source>
-        <translation type="unfinished">Brilhos</translation>
+        <translation>Brilhos</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="843"/>
         <location filename="ViewMenu.h" line="475"/>
         <source>Highlights (per channel)</source>
-        <translation type="unfinished">Brilhos (por canal)</translation>
+        <translation>Brilhos (por canal)</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="845"/>
         <location filename="ViewMenu.h" line="474"/>
         <source>Shadows + Highlights</source>
-        <translation type="unfinished">Sombras + brilhos</translation>
+        <translation>Sombras + brilhos</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="869"/>
         <location filename="ViewMenu.h" line="476"/>
         <source>Clipping warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Aviso de distorção (clipping)</translation>
     </message>
 </context>
 <context>
