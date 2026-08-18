@@ -14004,7 +14004,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.cpp" line="87"/>
         <source>Locale</source>
-        <translation>Локальная</translation>
+        <translation>Системная</translation>
     </message>
 </context>
 <context>
