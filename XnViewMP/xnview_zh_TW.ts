@@ -13351,7 +13351,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="230"/>
         <source>Maximum of view tabs:</source>
-        <translation>容許的檢視頁籤數:</translation>
+        <translation>容許的檢視器頁籤數:</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="277"/>
