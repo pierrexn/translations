@@ -5379,7 +5379,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="1616"/>
         <source>Black</source>
-        <translation type="unfinished"></translation>
+        <translation>Черная</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1641"/>
@@ -20696,7 +20696,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="668"/>
         <source>Show clipping</source>
-        <translation>Показать отсечение</translation>
+        <translation>Показывать отсечение</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="669"/>
@@ -22285,7 +22285,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="455"/>
         <source>Show grid</source>
-        <translation>Показать сетку</translation>
+        <translation>Показывать сетку</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="456"/>
@@ -22653,7 +22653,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="471"/>
         <source>Show clipping</source>
-        <translation>Показать отсечение</translation>
+        <translation>Показывать отсечение</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="478"/>
@@ -23239,7 +23239,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyHistogram.cpp" line="228"/>
         <source>Show clipping</source>
-        <translation>Показать отсечение</translation>
+        <translation>Показывать отсечение</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="237"/>
