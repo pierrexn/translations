@@ -2964,10 +2964,6 @@ Deseja sobrescrevê-lo?</translation>
         </translation>
     </message>
     <message>
-        <source>Choose a directory</source>
-        <translation>Escolher um diretório</translation>
-    </message>
-    <message>
         <source>has read-only attribute, and can&apos;t be overwritten!</source>
         <translation>tem atributo somente leitura e não pode ser sobrescrito!</translation>
     </message>
@@ -4034,14 +4030,6 @@ Deseja continuar?</translation>
         <translation>Pré-visualizar cor de fundo</translation>
     </message>
     <message>
-        <source>Follow us on Facebook...</source>
-        <translation>Siga-nos no Facebook...</translation>
-    </message>
-    <message>
-        <source>Follow us on Twitter...</source>
-        <translation>Siga-nos no Twitter...</translation>
-    </message>
-    <message>
         <source>Keep parent folder</source>
         <translation>Manter pasta pai</translation>
     </message>
@@ -4158,8 +4146,8 @@ Deseja continuar?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Drop your files here</source>
-        <translation type="unfinished"></translation>
+        <source>Black</source>
+        <translation type="unfinished">Preto</translation>
     </message>
 </context>
 <context>

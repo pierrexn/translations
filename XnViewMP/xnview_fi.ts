@@ -3081,10 +3081,6 @@ Haluatko korvata sen?</translation>
         <translation>&amp;Peruuta</translation>
     </message>
     <message>
-        <source>Choose a directory</source>
-        <translation>Valitse kansio</translation>
-    </message>
-    <message>
         <source>Yes to &amp;all</source>
         <translation>Kyllä &amp;kaikkiin</translation>
     </message>
@@ -3918,10 +3914,6 @@ Haluatko korvata sen?</translation>
         <translation>Poista kaikki</translation>
     </message>
     <message>
-        <source>Follow us on Facebook...</source>
-        <translation>Seuraa meitä Facebookissa...</translation>
-    </message>
-    <message>
         <source>Open file explorer</source>
         <translation>Avaa tiedosto resurssienhallinassa</translation>
     </message>
@@ -4114,10 +4106,6 @@ Haluatko korvata sen?</translation>
         <translation>Seuraava tiedosto</translation>
     </message>
     <message>
-        <source>Follow us on Twitter...</source>
-        <translation>Seuraa meitä Twitterissä...</translation>
-    </message>
-    <message>
         <source>Beep at the end of process</source>
         <translation>Äänimerkki prosessin loputtua</translation>
     </message>
@@ -4158,8 +4146,8 @@ Haluatko korvata sen?</translation>
         <translation>Usea resoluutio...</translation>
     </message>
     <message>
-        <source>Drop your files here</source>
-        <translation type="unfinished"></translation>
+        <source>Black</source>
+        <translation type="unfinished">Musta</translation>
     </message>
 </context>
 <context>

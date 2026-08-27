@@ -3021,10 +3021,6 @@ Do you want to overwrite it?</source>
         <translation>&amp;Չեղարկել</translation>
     </message>
     <message>
-        <source>Choose a directory</source>
-        <translation>Ընտրեք պանակը</translation>
-    </message>
-    <message>
         <source>Export script</source>
         <translation>Արտահանել սկրիպտը</translation>
     </message>
@@ -4038,14 +4034,6 @@ Do you want to overwrite it?</source>
         <translation>Մաքրել ֆայլի անունը մեկնարկի ժամանակ</translation>
     </message>
     <message>
-        <source>Follow us on Facebook...</source>
-        <translation>Հետևեք մեզ Facebook-ում...</translation>
-    </message>
-    <message>
-        <source>Follow us on Twitter...</source>
-        <translation>Հետևեք մեզ Twitter-ում...</translation>
-    </message>
-    <message>
         <source>Close</source>
         <translation>Փակել</translation>
     </message>
@@ -4158,8 +4146,8 @@ Do you want to overwrite it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Drop your files here</source>
-        <translation type="unfinished"></translation>
+        <source>Black</source>
+        <translation type="unfinished">Սև</translation>
     </message>
 </context>
 <context>

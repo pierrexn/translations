@@ -3081,10 +3081,6 @@ Do you want to overwrite it?</source>
         <translation>&amp;Cancelar</translation>
     </message>
     <message>
-        <source>Choose a directory</source>
-        <translation>Seleccionar un directorio</translation>
-    </message>
-    <message>
         <source>Yes to &amp;all</source>
         <translation>Sí a &amp;todos</translation>
     </message>
@@ -3906,10 +3902,6 @@ Do you want to overwrite it?</source>
         <translation>Eliminar todo</translation>
     </message>
     <message>
-        <source>Follow us on Facebook...</source>
-        <translation>Síganos en Facebook...</translation>
-    </message>
-    <message>
         <source>Open file explorer</source>
         <translation>Abrir explorador de archivos</translation>
     </message>
@@ -4098,10 +4090,6 @@ Do you want to overwrite it?</source>
         <translation>Archivo siguiente</translation>
     </message>
     <message>
-        <source>Follow us on Twitter...</source>
-        <translation>Síganos en Twitter...</translation>
-    </message>
-    <message>
         <source>Beep at the end of process</source>
         <translation>Pitido al finalizar el proceso</translation>
     </message>
@@ -4158,8 +4146,8 @@ Do you want to overwrite it?</source>
         <translation>Varias resoluciones...</translation>
     </message>
     <message>
-        <source>Drop your files here</source>
-        <translation>Soltar archivos aquí</translation>
+        <source>Black</source>
+        <translation type="unfinished">Negro</translation>
     </message>
 </context>
 <context>

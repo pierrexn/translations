@@ -3095,10 +3095,6 @@ Dorești să-l suprascrii?</translation>
         <translation>&amp;Revocare</translation>
     </message>
     <message>
-        <source>Choose a directory</source>
-        <translation>Alege un director</translation>
-    </message>
-    <message>
         <source>Yes to &amp;all</source>
         <translation>Da la &amp;toate</translation>
     </message>
@@ -3922,10 +3918,6 @@ Vrei să continui?</translation>
         <translation>Șterge tot</translation>
     </message>
     <message>
-        <source>Follow us on Facebook...</source>
-        <translation>Urmarește-ne pe Facebook...</translation>
-    </message>
-    <message>
         <source>Open file explorer</source>
         <translation>Deschide exploratorul de fișiere</translation>
     </message>
@@ -4114,10 +4106,6 @@ Vrei să continui?</translation>
         <translation>Următorul fișier</translation>
     </message>
     <message>
-        <source>Follow us on Twitter...</source>
-        <translation>Urmărește-ne pe Twitter...</translation>
-    </message>
-    <message>
         <source>Beep at the end of process</source>
         <translation>Semnal sonor (Bip) la finalizarea procesului</translation>
     </message>
@@ -4174,8 +4162,8 @@ Vrei să continui?</translation>
         <translation>Rezoluție multiplă...</translation>
     </message>
     <message>
-        <source>Drop your files here</source>
-        <translation>Plasează-ți fișierele aici</translation>
+        <source>Black</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
