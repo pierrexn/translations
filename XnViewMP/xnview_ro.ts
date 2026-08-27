@@ -4163,7 +4163,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation type="unfinished"></translation>
+        <translation>Negru</translation>
     </message>
 </context>
 <context>
@@ -19072,7 +19072,7 @@ O poți schimba în Setări › Catalog.</translation>
     </message>
     <message>
         <source>PackBits</source>
-        <translation>PackBits</translation>
+        <translation>Compresie fără pierderi (PackBits)</translation>
     </message>
 </context>
 <context>
