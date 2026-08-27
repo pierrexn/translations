@@ -4940,7 +4940,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="DlgConvert.ui" line="1616"/>
         <source>Black</source>
-        <translation type="unfinished">Schwarz</translation>
+        <translation>Schwarz</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1641"/>
