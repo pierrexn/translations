@@ -5298,7 +5298,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="DlgConvert.ui" line="1616"/>
         <source>Black</source>
-        <translation type="unfinished">Noir</translation>
+        <translation>Noir</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1641"/>
@@ -14435,7 +14435,7 @@ Voulez-vous le réaffecter ?</translation>
         <location filename="DlgSettingsView.ui" line="36"/>
         <source>Viewer</source>
         <oldsource>View</oldsource>
-        <translation type="unfinished">Affichage</translation>
+        <translation>Affichage</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="44"/>
@@ -14673,17 +14673,17 @@ Voulez-vous le réaffecter ?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="190"/>
         <source>Clipping warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Indicateur d&apos;écrêtage</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="215"/>
         <source>Shadows</source>
-        <translation type="unfinished">Ombres</translation>
+        <translation>Ombres</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="208"/>
         <source>Highlights</source>
-        <translation type="unfinished">Hautes lumières</translation>
+        <translation>Hautes lumières</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="238"/>
@@ -14693,7 +14693,7 @@ Voulez-vous le réaffecter ?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="258"/>
         <source>Defaults</source>
-        <translation type="unfinished">Défauts</translation>
+        <translation>Défauts</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="176"/>
@@ -14703,7 +14703,7 @@ Voulez-vous le réaffecter ?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="291"/>
         <source>Zoom</source>
-        <translation type="unfinished">Zoom</translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="346"/>
@@ -22124,7 +22124,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="ViewMenu.h" line="457"/>
         <source>Grid</source>
-        <translation type="unfinished">Grille</translation>
+        <translation>Grille</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="461"/>
@@ -22778,32 +22778,32 @@ Voulez-vous continuer ?</translation>
         <location filename="MyView.cpp" line="108"/>
         <location filename="ViewMenu.h" line="472"/>
         <source>Shadows</source>
-        <translation type="unfinished">Ombres</translation>
+        <translation>Ombres</translation>
     </message>
     <message>
         <location filename="MyView.cpp" line="93"/>
         <location filename="MyView.cpp" line="111"/>
         <location filename="ViewMenu.h" line="473"/>
         <source>Highlights</source>
-        <translation type="unfinished">Hautes lumières</translation>
+        <translation>Hautes lumières</translation>
     </message>
     <message>
         <location filename="MyView.cpp" line="95"/>
         <location filename="ViewMenu.h" line="475"/>
         <source>Highlights (per channel)</source>
-        <translation type="unfinished">Hautes lumières (par canal)</translation>
+        <translation>Hautes lumières (par canal)</translation>
     </message>
     <message>
         <location filename="MyView.cpp" line="97"/>
         <location filename="ViewMenu.h" line="474"/>
         <source>Shadows + Highlights</source>
-        <translation type="unfinished">Ombres et lumières</translation>
+        <translation>Ombres et lumières</translation>
     </message>
     <message>
         <location filename="MyView.cpp" line="106"/>
         <location filename="ViewMenu.h" line="476"/>
         <source>Clipping warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Indicateur d&apos;écrêtage</translation>
     </message>
 </context>
 <context>
