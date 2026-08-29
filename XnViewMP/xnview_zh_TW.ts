@@ -5217,7 +5217,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="1616"/>
         <source>Black</source>
-        <translation type="unfinished"></translation>
+        <translation>黑色</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1641"/>
