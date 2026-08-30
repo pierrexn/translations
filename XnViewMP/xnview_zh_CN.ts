@@ -282,7 +282,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="859"/>
         <source>Click to hide</source>
-        <translation type="unfinished"></translation>
+        <translation>点击隐藏</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="1550"/>
@@ -363,7 +363,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="4236"/>
         <source>Do you want to expand the canvas?</source>
-        <translation type="unfinished"></translation>
+        <translation>你想放大画布吗？</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4663"/>
@@ -14706,12 +14706,12 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="514"/>
         <source>Render</source>
-        <translation type="unfinished"></translation>
+        <translation>渲染</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="522"/>
         <source>Pixel aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>像素宽高比</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="762"/>
@@ -14726,7 +14726,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="775"/>
         <source>Loop playing</source>
-        <translation type="unfinished"></translation>
+        <translation>循环播放</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="944"/>
@@ -15436,7 +15436,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgStartupWizard.ui" line="141"/>
         <source>Add shell extension to context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>将 Shell 扩展添加到右键菜单中</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="151"/>
@@ -15942,7 +15942,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="64"/>
         <source>Use modified files only</source>
-        <translation type="unfinished"></translation>
+        <translation>仅使用已修改的文件</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="20"/>
@@ -15962,12 +15962,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="125"/>
         <source>Update cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>更新已取消</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="125"/>
         <source>Update completed</source>
-        <translation type="unfinished"></translation>
+        <translation>更新已完成</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="147"/>
@@ -24456,7 +24456,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="SearchField.cpp" line="990"/>
         <source>is within the last</source>
-        <translation type="unfinished"></translation>
+        <translation>是在最近的</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="1079"/>
