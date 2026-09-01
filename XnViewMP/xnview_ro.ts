@@ -9248,7 +9248,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>New folder</source>
-        <translation>Dosar (Folder) nou</translation>
+        <translation>Dosar nou (Folder nou)</translation>
     </message>
     <message>
         <source>Rating (filter)</source>
@@ -13157,7 +13157,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>New Folder</source>
-        <translation>Dosar (Folder) nou</translation>
+        <translation>Dosar nou (Folder nou)</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -13173,7 +13173,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>New subfolder</source>
-        <translation>Subdosar (Subfolder) nou</translation>
+        <translation>Subdosar nou (Subfolder nou)</translation>
     </message>
     <message>
         <source>This favorite points to a folder which doesn&apos;t exist. 
@@ -14972,7 +14972,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>New Folder %1</source>
-        <translation>Dosar (Folder) nou %1</translation>
+        <translation>Dosar nou (Folder nou) %1</translation>
     </message>
     <message>
         <source>EXIF Date Taken</source>
@@ -15610,7 +15610,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>New Folder</source>
-        <translation>Dosar (Folder) nou</translation>
+        <translation>Dosar nou (Folder nou)</translation>
     </message>
     <message>
         <source>Folder</source>
@@ -15738,7 +15738,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>New folder</source>
-        <translation>Dosar (Folder) nou</translation>
+        <translation>Dosar nou (Folder nou)</translation>
     </message>
     <message>
         <source>Show hidden files</source>
@@ -17621,7 +17621,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>New Folder %1</source>
-        <translation>Dosar (Folder) nou %1</translation>
+        <translation>Dosar nou (Folder nou) %1</translation>
     </message>
     <message>
         <source>Desktop</source>
