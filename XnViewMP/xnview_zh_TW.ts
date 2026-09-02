@@ -687,7 +687,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="2110"/>
         <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi-select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right-click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
-        <translation>&lt;b&gt;[ 後製資料篩選器 ]&lt;/b&gt;&lt;br&gt;左鍵單擊項目開始篩選流程：&lt;br&gt;&amp;bull; Shift - 整段選取&lt;br&gt;&amp;bull; Ctrl/Cmd - 多重選取&lt;br&gt;&amp;bull; Alt/Opt - 排除項目&lt;br&gt;右鍵單擊開啟功能選單&lt;br&gt;將檔案拖放到項目上進行指派</translation>
+        <translation>&lt;b&gt;[ 後製資料篩選器 ]&lt;/b&gt;&lt;br&gt;左鍵單擊項目開始篩選流程:&lt;br&gt;&amp;bull; Shift - 整段選取&lt;br&gt;&amp;bull; Ctrl/Cmd - 複選&lt;br&gt;&amp;bull; Alt/Opt - 排除項目&lt;br&gt;右鍵單擊開啟功能選單&lt;br&gt;將檔案拖放到項目上進行指派</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3526"/>
@@ -776,7 +776,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="2045"/>
         <source>&lt;b&gt;Match&lt;/b&gt;&lt;br&gt;OR - match any selected entry&lt;br&gt;AND - match all selected entries</source>
-        <translation>&lt;b&gt;[ 匹配 ]&lt;/b&gt;&lt;br&gt;任一個 - 匹配任一個已選取項目的&lt;br&gt;每一個 - 匹配每一個已選取項目的</translation>
+        <translation>&lt;b&gt;[ 匹配 ]&lt;/b&gt;&lt;br&gt;任一個 - 匹配任一個複選的項目&lt;br&gt;每一個 - 匹配每一個複選的項目</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4573"/>
@@ -2074,7 +2074,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DBFilterModel.cpp" line="170"/>
         <source>All</source>
-        <translation>全部 (資料庫裡紀錄的)</translation>
+        <translation>全部 (資料庫裡有紀錄的)</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="171"/>
@@ -9388,7 +9388,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgIptc.ui" line="107"/>
         <source>Categories (database)</source>
-        <translation>類別 (資料庫裡的)</translation>
+        <translation>類別 (資料庫裡紀錄的)</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="112"/>
@@ -9474,7 +9474,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgIptc.ui" line="716"/>
         <source>Multiple selection</source>
-        <translation>多重選取</translation>
+        <translation>複選</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="725"/>
@@ -9751,7 +9751,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgOpenWith.ui" line="14"/>
         <source>Configure programs</source>
         <oldsource>Configure programs...</oldsource>
-        <translation>設定應用程式</translation>
+        <translation>設定關聯程式</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="47"/>
@@ -12447,7 +12447,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFormat.ui" line="42"/>
         <source>Choose the formats which you use for saving.</source>
-        <translation>選擇您用於儲存的格式.</translation>
+        <translation>選擇您用於儲存的格式</translation>
     </message>
     <message>
         <location filename="DlgSettingsFormat.ui" line="80"/>
@@ -12522,7 +12522,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.cpp" line="458"/>
         <source>Do you want to delete the selected Auto Correct entry?</source>
-        <translation>您確定要刪除選取的自動校正項目嗎？</translation>
+        <translation>您確定要刪除選取的 &apos;自動替換文字&apos; 項目嗎？</translation>
     </message>
 </context>
 <context>
@@ -12776,12 +12776,12 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="565"/>
         <source>Save as copy for &apos;Save&apos; action</source>
-        <translation>按 &apos;儲存&apos; 時, 執行為 &apos;另存副本&apos; 的動作</translation>
+        <translation>按 &apos;儲存&apos; 時, 執行成 &apos;另存副本&apos;</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="572"/>
         <source>For &apos;Save as&apos;, use original pathname</source>
-        <translation>另存新檔時使用原始路徑</translation>
+        <translation>另存新檔時, 使用原始路徑</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="726"/>
@@ -13567,7 +13567,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1394"/>
         <source>Left/Right</source>
-        <translation>左/右</translation>
+        <translation>左鍵/右鍵</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1411"/>
@@ -13598,7 +13598,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1477"/>
         <source>Up/Down</source>
-        <translation>上/下</translation>
+        <translation>上鍵/下鍵</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1629"/>
@@ -13807,7 +13807,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1516"/>
         <source>Pressing ESC closes</source>
-        <translation>按 ESC 關閉</translation>
+        <translation>按 ESC 鍵關閉</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2195"/>
@@ -16879,7 +16879,7 @@ Do you want to continue?</source>
     <message>
         <location filename="EditXMPWidget.ui" line="672"/>
         <source>Multiple selection</source>
-        <translation>多重選取</translation>
+        <translation>複選</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="681"/>
@@ -20506,7 +20506,7 @@ Do you want to continue?</oldsource>
         <location filename="DlgSettingsView.cpp" line="311"/>
         <location filename="BrowserMenu.h" line="656"/>
         <source>Fit image to window, large only</source>
-        <translation>影像符合視窗大小, 僅大型影像</translation>
+        <translation>影像符合視窗大小 (僅大型影像)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="23"/>
@@ -21110,7 +21110,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="592"/>
         <source>Unload all</source>
-        <translation>卸載清除工作階段</translation>
+        <translation>清除工作階段</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="594"/>
@@ -21158,7 +21158,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="611"/>
         <source>Clean...</source>
-        <translation>清除...</translation>
+        <translation>清除後製資料...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="612"/>
@@ -21317,7 +21317,7 @@ Do you want to continue?</oldsource>
         <location filename="DlgSettingsView.cpp" line="310"/>
         <location filename="BrowserMenu.h" line="657"/>
         <source>Fit image to window, small only</source>
-        <translation>影像符合視窗大小, 僅小型影像</translation>
+        <translation>影像符合視窗大小 (僅小型影像)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="663"/>
@@ -21337,7 +21337,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="672"/>
         <source>Clear &amp;&amp; Import...</source>
-        <translation>清除並匯入 (資料庫)...</translation>
+        <translation>清除並匯入資料庫...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="673"/>
@@ -21688,7 +21688,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="368"/>
         <source>Fit image to window, large only</source>
-        <translation>影像符合視窗大小, 僅大型影像</translation>
+        <translation>影像符合視窗大小 (僅大型影像)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="370"/>
@@ -21725,7 +21725,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="369"/>
         <source>Fit image to window, small only</source>
-        <translation>影像符合視窗大小, 僅小型影像</translation>
+        <translation>影像符合視窗大小 (僅小型影像)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="356"/>
@@ -23166,7 +23166,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyLittleToolBar.h" line="774"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation>點擊左圖示切換滑桿的 2 種模式:&lt;br&gt;&amp;bull; 調整縮圖的固定 &apos;像素尺寸&apos;&lt;br&gt;&amp;bull; 調整縮圖的每列固定 &apos;數量&apos;</translation>
+        <translation>點擊左圖示可切換滑桿的 2 種模式:&lt;br&gt;&amp;bull; 調整縮圖的固定 &apos;像素尺寸&apos;&lt;br&gt;&amp;bull; 調整縮圖的固定 &apos;每列數量&apos;</translation>
     </message>
 </context>
 <context>
@@ -23174,7 +23174,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyLittleToolBar.h" line="385"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation>點擊左圖示切換滑桿的 2 種模式:&lt;br&gt;&amp;bull; 調整縮圖的固定 &apos;像素尺寸&apos;&lt;br&gt;&amp;bull; 調整縮圖的每列固定 &apos;數量&apos;</translation>
+        <translation>點擊左圖示可切換滑桿的 2 種模式:&lt;br&gt;&amp;bull; 調整縮圖的固定 &apos;像素尺寸&apos;&lt;br&gt;&amp;bull; 調整縮圖的固定 &apos;每列數量&apos;</translation>
     </message>
 </context>
 <context>
@@ -23343,7 +23343,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="OpenWithMenu.cpp" line="431"/>
         <source>Configure programs...</source>
-        <translation>設定應用程式...</translation>
+        <translation>設定關聯程式...</translation>
     </message>
 </context>
 <context>
@@ -24631,7 +24631,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="ToolbarSearch.cpp" line="173"/>
         <source>Categories (catalog)</source>
-        <translation>類別 (資料庫裡的)</translation>
+        <translation>類別 (資料庫裡紀錄的)</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="178"/>
