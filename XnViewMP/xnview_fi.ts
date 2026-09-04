@@ -330,15 +330,15 @@
     </message>
     <message>
         <source>Expand canvas</source>
-        <translation type="unfinished"></translation>
+        <translation>Laajenna pohja</translation>
     </message>
     <message>
         <source>Do you want to expand the canvas?</source>
-        <translation type="unfinished"></translation>
+        <translation>Haluatko laajentaa pohjan?</translation>
     </message>
     <message>
         <source>Click to hide</source>
-        <translation type="unfinished"></translation>
+        <translation>Piilota klikkaamalla</translation>
     </message>
 </context>
 <context>
@@ -4147,7 +4147,7 @@ Haluatko korvata sen?</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation type="unfinished">Musta</translation>
+        <translation>Musta</translation>
     </message>
 </context>
 <context>
@@ -8358,31 +8358,31 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished">Nimeä uudelleen</translation>
+        <translation>Nimeä uudelleen</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Sulje</translation>
+        <translation>Sulje</translation>
     </message>
     <message>
         <source>Save preset</source>
-        <translation type="unfinished">Tallenna esiasetus</translation>
+        <translation>Tallenna esiasetus</translation>
     </message>
     <message>
         <source>Preset name:</source>
-        <translation type="unfinished">Esiasetuksen nimi:</translation>
+        <translation>Esiasetuksen nimi:</translation>
     </message>
     <message>
         <source>Preset &apos;%1&apos; already exists. Overwrite?</source>
-        <translation type="unfinished"></translation>
+        <translation>Esiasetus &apos;%1&apos; on jo olemassa. Korvataanko?</translation>
     </message>
     <message>
         <source>Delete preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Poista esiasetus</translation>
     </message>
     <message>
         <source>Delete preset &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Poistetaanko esiasetus &apos;%1&apos;?</translation>
     </message>
 </context>
 <context>
@@ -8493,31 +8493,31 @@ Haluatko poistaa ne?</translation>
     </message>
     <message>
         <source>Add files...</source>
-        <translation type="unfinished">Lisää tiedostot...</translation>
+        <translation>Lisää tiedostot...</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Poista</translation>
+        <translation>Poista</translation>
     </message>
     <message>
         <source>Remove all</source>
-        <translation type="unfinished">Poista kaikki</translation>
+        <translation>Poista kaikki</translation>
     </message>
     <message>
         <source>Presets:</source>
-        <translation type="unfinished">Esiasetukset:</translation>
+        <translation>Esiasetukset:</translation>
     </message>
     <message>
         <source>Save preset</source>
-        <translation type="unfinished">Tallenna esiasetus</translation>
+        <translation>Tallenna esiasetus</translation>
     </message>
     <message>
         <source>Remove preset from list</source>
-        <translation type="unfinished">Poista esiasetus listalta</translation>
+        <translation>Poista esiasetus listalta</translation>
     </message>
     <message>
         <source>Replace diacritic characters</source>
-        <translation type="unfinished"></translation>
+        <translation>Korvaa diakriittiset merkit</translation>
     </message>
 </context>
 <context>
@@ -9382,7 +9382,7 @@ Haluatko ensin tarkastaa tiedot, joihin tämä vaikuttaa?</translation>
     </message>
     <message>
         <source>Database [catalog: %1 %2 - metadata: %5 %6 - thumbnails: %3 %4]</source>
-        <translation type="unfinished"></translation>
+        <translation>Tietokanta [katalogi: %1 %2 - metatiedot: %5 %6 - pikkukuvat: %3 %4]</translation>
     </message>
 </context>
 <context>
@@ -9501,19 +9501,19 @@ Haluatko ensin tarkastaa tiedot, joihin tämä vaikuttaa?</translation>
     </message>
     <message>
         <source>Maintenance</source>
-        <translation type="unfinished"></translation>
+        <translation>Huolto</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">Suodin</translation>
+        <translation>Suodin</translation>
     </message>
     <message>
         <source>Metadata</source>
-        <translation type="unfinished">Metatiedot</translation>
+        <translation>Metatiedot</translation>
     </message>
     <message>
         <source>Thumbnails</source>
-        <translation type="unfinished">Pienoiskuvat</translation>
+        <translation>Pienoiskuvat</translation>
     </message>
 </context>
 <context>
@@ -10859,15 +10859,15 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Rating labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Luokitustunniste</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished">Tiedosto</translation>
+        <translation>Tiedosto</translation>
     </message>
     <message>
         <source>XMP (dc:description and exif:UserComment)</source>
-        <translation type="unfinished"></translation>
+        <translation>XMP (dc:description ja exif:UserComment)</translation>
     </message>
 </context>
 <context>
@@ -11114,7 +11114,7 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Icon spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kuvakkeiden välit</translation>
     </message>
 </context>
 <context>
@@ -11380,63 +11380,63 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>Viewer</source>
-        <translation type="unfinished">Katselin</translation>
+        <translation>Katselin</translation>
     </message>
     <message>
         <source>Clipping warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Leikkausvaroitus</translation>
     </message>
     <message>
         <source>Shadows</source>
-        <translation type="unfinished">Varjot</translation>
+        <translation>Varjot</translation>
     </message>
     <message>
         <source>Highlights</source>
-        <translation type="unfinished">Korostukset</translation>
+        <translation>Korostukset</translation>
     </message>
     <message>
         <source>Remember state</source>
-        <translation type="unfinished"></translation>
+        <translation>Muista tila</translation>
     </message>
     <message>
         <source>Defaults</source>
-        <translation type="unfinished">Oletukset</translation>
+        <translation>Oletukset</translation>
     </message>
     <message>
         <source>Highlight the selection area</source>
-        <translation type="unfinished"></translation>
+        <translation>Korosta valinta-alue</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished">Zoomaus</translation>
+        <translation>Zoomaus</translation>
     </message>
     <message>
         <source>Navigation resets zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigointi nollaa zoomauksen</translation>
     </message>
     <message>
         <source>Navigation resets X/Y position (&apos;No fit&apos; only)</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigointi nollaa X/Y-sijainnin (vain &apos;Ei sovi-tapauksessa&apos;)</translation>
     </message>
     <message>
         <source>Render</source>
-        <translation type="unfinished"></translation>
+        <translation>Renderöinti</translation>
     </message>
     <message>
         <source>Pixel aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Pikseli-kuvasuhde</translation>
     </message>
     <message>
         <source>Video/Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Video/Ääni</translation>
     </message>
     <message>
         <source>Auto play</source>
-        <translation type="unfinished"></translation>
+        <translation>Automaattitoisto</translation>
     </message>
     <message>
         <source>Loop playing</source>
-        <translation type="unfinished"></translation>
+        <translation>Jatkuvatoisto</translation>
     </message>
 </context>
 <context>
@@ -13780,15 +13780,15 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Indexed</source>
-        <translation type="unfinished"></translation>
+        <translation>Indeksoitu</translation>
     </message>
     <message>
         <source>Frame index</source>
-        <translation type="unfinished"></translation>
+        <translation>Kehyksen indeksi</translation>
     </message>
     <message>
         <source>Frame count</source>
-        <translation type="unfinished"></translation>
+        <translation>Kehysten määrä</translation>
     </message>
 </context>
 <context>
@@ -13835,7 +13835,7 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Are you sure to delete these categories?</source>
-        <translation type="unfinished">Haluatko varmasti poistaa nämä kategoriat?</translation>
+        <translation>Haluatko varmasti poistaa nämä kategoriat?</translation>
     </message>
 </context>
 <context>
@@ -13954,17 +13954,19 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Catalog file</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalogitiedosto</translation>
     </message>
     <message>
         <source>Catalog - Clear &amp; Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalogi - Tyhjennä &amp; Tuo</translation>
     </message>
     <message>
         <source>Importing will replace all existing Catalog data.
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuonti korvaa kaikki olemassa olevat katalogitiedot.
+
+Haluatko jatkaa?</translation>
     </message>
 </context>
 <context>
@@ -16397,7 +16399,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Name - natural (numeric) order</source>
-        <translation type="unfinished"></translation>
+        <translation>Nimi - luonnollinen (numeerinen) järjestys</translation>
     </message>
 </context>
 <context>
@@ -17406,35 +17408,35 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>##rating## (go to next image)</source>
-        <translation type="unfinished">##rating## (siirry seuraavaan kuvaan)</translation>
+        <translation>##rating## (siirry seuraavaan kuvaan)</translation>
     </message>
     <message>
         <source>Center image</source>
-        <translation type="unfinished"></translation>
+        <translation>Keskitä kuva</translation>
     </message>
     <message>
         <source>Shadows</source>
-        <translation type="unfinished">Varjot</translation>
+        <translation>Varjot</translation>
     </message>
     <message>
         <source>Highlights</source>
-        <translation type="unfinished">Korostukset</translation>
+        <translation>Korostukset</translation>
     </message>
     <message>
         <source>Highlights (per channel)</source>
-        <translation type="unfinished">Korostukset (kanavaa kohti)</translation>
+        <translation>Korostukset (kanavaa kohti)</translation>
     </message>
     <message>
         <source>Shadows + Highlights</source>
-        <translation type="unfinished">Varjot + Korostukset</translation>
+        <translation>Varjot + Korostukset</translation>
     </message>
     <message>
         <source>Clipping warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Leikkausvaroitus</translation>
     </message>
     <message>
         <source>Grid</source>
-        <translation type="unfinished">Ruudukko</translation>
+        <translation>Ruudukko</translation>
     </message>
 </context>
 <context>
@@ -17793,7 +17795,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Do you want to delete all your name templates?</source>
-        <translation type="unfinished">Haluatko poistaa kaikki nimi-mallipohjasi?</translation>
+        <translation>Haluatko poistaa kaikki nimi-mallipohjasi?</translation>
     </message>
 </context>
 <context>
