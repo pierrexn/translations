@@ -220,7 +220,7 @@
     <message>
         <location filename="AboutWidget.ui" line="397"/>
         <source>Command line</source>
-        <translation>命令列執行</translation>
+        <translation>命令列指令</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="407"/>
@@ -614,7 +614,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="BrowserWindow.cpp" line="1791"/>
         <source>Catalog Filter</source>
         <oldsource>Categories Filter</oldsource>
-        <translation>後製資料篩選器</translation>
+        <translation>資料庫篩選器</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="1807"/>
@@ -687,7 +687,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="2110"/>
         <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi-select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right-click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
-        <translation>&lt;b&gt;[ 後製資料篩選器 ]&lt;/b&gt;&lt;br&gt;左鍵單擊項目開始篩選流程:&lt;br&gt;&amp;bull; Shift - 整段選取&lt;br&gt;&amp;bull; Ctrl/Cmd - 複選&lt;br&gt;&amp;bull; Alt/Opt - 排除項目&lt;br&gt;右鍵單擊開啟功能選單&lt;br&gt;將檔案拖放到項目上進行指派</translation>
+        <translation>&lt;b&gt;[ 資料庫篩選器 ]&lt;/b&gt;&lt;br&gt;左鍵單擊項目開始篩選流程:&lt;br&gt;&amp;bull; Shift - 整段選取&lt;br&gt;&amp;bull; Ctrl/Cmd - 複選&lt;br&gt;&amp;bull; Alt/Opt - 排除項目&lt;br&gt;右鍵單擊開啟功能選單&lt;br&gt;將檔案拖放到項目上進行指派</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3526"/>
@@ -697,7 +697,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="3528"/>
         <source>&lt;Catalog filter results&gt;</source>
-        <translation>&lt;後製資料篩選器: 篩選結果&gt;</translation>
+        <translation>&lt;資料庫篩選器: 篩選結果&gt;</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3530"/>
@@ -11684,7 +11684,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="207"/>
         <source>ToolBar</source>
-        <translation>列表工具列</translation>
+        <translation>工具列 (列表)</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="215"/>
@@ -11694,12 +11694,12 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="223"/>
         <source>1 bar v1</source>
-        <translation>1 列 v1</translation>
+        <translation>1 列 (版本 1 )</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="228"/>
         <source>1 bar v2</source>
-        <translation>1 列 v2</translation>
+        <translation>1 列 (版本 2 )</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="233"/>
@@ -11740,7 +11740,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="498"/>
         <source>Columns</source>
-        <translation>詳細列表欄位</translation>
+        <translation>欄位 (詳細列表)</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="510"/>
@@ -11800,7 +11800,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="139"/>
         <source>Tooltip</source>
-        <translation>列表提示工具</translation>
+        <translation>提示工具 (列表)</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="393"/>
@@ -12048,7 +12048,7 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettingsCache.ui" line="36"/>
         <source>Catalog</source>
-        <translation>後製資料</translation>
+        <translation>資料庫</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="42"/>
@@ -12122,7 +12122,7 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettingsCache.ui" line="430"/>
         <source>Maintenance...</source>
-        <translation>資料庫維護...</translation>
+        <translation>維護資料庫...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="437"/>
@@ -12434,7 +12434,7 @@ Thumbnail</source>
         <location filename="DlgSettingsFilelist.ui" line="260"/>
         <source>Used by Filter › Custom</source>
         <oldsource>Used by Filter&gt;Custom</oldsource>
-        <translation>此設定將被使用於 &apos;(瀏覽器的選單列 › 檢視 ›) 列表篩選 › 自訂&apos;</translation>
+        <translation>此設定將被使用於 &apos;瀏覽器 › (選單列 › 顯示 ›) 列表篩選 › 自訂&apos;</translation>
     </message>
 </context>
 <context>
@@ -13162,7 +13162,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="143"/>
         <source>-- COMMAND --</source>
-        <translation>-- 命令列執行 --</translation>
+        <translation>-- 命令列指令 --</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="147"/>
@@ -13393,7 +13393,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="423"/>
         <source>ToolBar</source>
-        <translation>瀏覽器工具列 / 檢視器工具列</translation>
+        <translation>工具列 (瀏覽器/檢視器)</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="170"/>
@@ -13449,7 +13449,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="479"/>
         <source>Set command...</source>
-        <translation>設定命令列執行...</translation>
+        <translation>設定命令列指令...</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="164"/>
@@ -13767,7 +13767,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="1221"/>
         <location filename="DlgSettingsInterface.ui" line="1264"/>
         <source>Command name</source>
-        <translation>命令列執行名稱</translation>
+        <translation>命令列指令名稱</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1426"/>
@@ -13821,7 +13821,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2393"/>
         <source>Double click</source>
         <oldsource>Doublie click</oldsource>
-        <translation>雙擊左鍵</translation>
+        <translation>雙擊滑鼠左鍵</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2442"/>
@@ -13831,7 +13831,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2478"/>
         <source>Enter</source>
-        <translation>輸入鍵 (Enter)</translation>
+        <translation>鍵盤輸入鍵 (Enter)</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2401"/>
@@ -14023,7 +14023,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsKeywords.ui" line="764"/>
         <location filename="DlgSettingsKeywords.ui" line="1071"/>
         <source>Label</source>
-        <translation>標籤名稱</translation>
+        <translation>顯示名稱</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="1057"/>
@@ -14201,7 +14201,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1229"/>
         <source>Label colors</source>
-        <translation>標示色彩</translation>
+        <translation>標籤底色</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1235"/>
@@ -14231,7 +14231,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1338"/>
         <source>Default color</source>
-        <translation>預設顏色</translation>
+        <translation>預設底色</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="52"/>
@@ -14277,7 +14277,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="451"/>
         <source>Spacing</source>
-        <translation>彼此間隔</translation>
+        <translation>展示框間隔</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="39"/>
@@ -14400,7 +14400,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsThumbnail.ui" line="976"/>
         <source>Browser › View › View as › Thumbnails + Labels</source>
         <oldsource>Browser - Thumbnail</oldsource>
-        <translation>此設定將顯示於 &apos;(瀏覽器的選單列 › 檢視 ›) 列表檢視 › 縮圖 + 標籤&apos;</translation>
+        <translation>此設定將顯示於 &apos;瀏覽器 › (選單列 › 顯示 ›) 列表檢視 › 縮圖 + 標籤&apos;</translation>
     </message>
 </context>
 <context>
@@ -14486,7 +14486,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="818"/>
         <source>Like Browser</source>
-        <translation>套用瀏覽器的列表設定 ( &apos;設定 › 檔案列表 › 自訂 列表篩選&apos; )</translation>
+        <translation>套用自瀏覽器之列表設定 ( &apos;設定 › 檔案列表 › 自訂 列表篩選&apos; )</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="825"/>
@@ -14522,7 +14522,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="898"/>
         <source>(From Settings › File list › Custom Filter)</source>
         <oldsource>(From Settings&gt;File list&gt;Custom Filter)</oldsource>
-        <translation>(上列項目的細項設定套用自 &apos;設定 › 檔案列表 › 自訂 列表篩選&apos; )</translation>
+        <translation>上列項目之細項設定: 套用自瀏覽器之列表設定 ( &apos;設定 › 檔案列表 › 自訂 列表篩選&apos; )</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="739"/>
@@ -14651,7 +14651,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="975"/>
         <source>Direction</source>
-        <translation>方位</translation>
+        <translation>方向</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="190"/>
@@ -20334,7 +20334,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="685"/>
         <source>Paste as image</source>
-        <translation>將影像內容貼上</translation>
+        <translation>貼上影像內容</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="689"/>
@@ -20414,7 +20414,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="434"/>
         <source>Image</source>
-        <translation>影像內容</translation>
+        <translation>複製影像內容</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="548"/>
@@ -20707,7 +20707,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="301"/>
         <source>Catalog Filter</source>
         <oldsource>Categories Filter</oldsource>
-        <translation>後製資料篩選器</translation>
+        <translation>資料庫篩選器</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="303"/>
@@ -20931,7 +20931,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="520"/>
         <source>Add to album</source>
-        <translation>指派相簿 (加入相簿)</translation>
+        <translation>指派相簿/加入相簿</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="523"/>
@@ -20988,7 +20988,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="534"/>
         <source>Show hidden files</source>
-        <translation>顯示隱藏檔案</translation>
+        <translation>顯示隱藏檔</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="538"/>
@@ -22217,7 +22217,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="566"/>
         <source>Paste as image</source>
-        <translation>將影像內容貼上</translation>
+        <translation>貼上影像內容</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="773"/>
@@ -22412,7 +22412,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="574"/>
         <source>Save All</source>
-        <translation>儲存全部</translation>
+        <translation>儲存全部頁籤</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="548"/>
@@ -22924,7 +22924,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="1009"/>
         <source>Choose command</source>
-        <translation>選擇命令列執行</translation>
+        <translation>選擇命令列指令</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="1041"/>
@@ -24956,7 +24956,7 @@ Do you want to keep the thumbnails?
     <message>
         <location filename="xnview.cpp" line="493"/>
         <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
-        <translation>若您想要使用 &apos;後製資料篩選器&apos; 中的新增項目, 則您需要先更新資料庫 (設定 &gt; 資料庫 &gt; 更新資料庫). </translation>
+        <translation>若您想要使用 &apos;資料庫篩選器&apos; 中的新增項目, 則您需要先更新資料庫 (設定 &gt; 資料庫 &gt; 更新資料庫). </translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="889"/>
