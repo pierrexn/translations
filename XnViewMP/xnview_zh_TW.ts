@@ -677,7 +677,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="1852"/>
         <source>Metadata</source>
-        <translation>拍攝資訊</translation>
+        <translation>後製資料</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="1861"/>
@@ -1321,7 +1321,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgConvertProcess.h" line="2529"/>
         <source>Extract channel</source>
-        <translation>抽取色版</translation>
+        <translation>提取色版</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="423"/>
@@ -1852,7 +1852,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgConvert.cpp" line="1817"/>
         <source>Add</source>
-        <translation>添加</translation>
+        <translation>加入</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1820"/>
@@ -2054,7 +2054,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DBFilterModel.cpp" line="160"/>
         <location filename="DBFilterModel.cpp" line="196"/>
         <source>People</source>
-        <translation>人物 (人臉標記)</translation>
+        <translation>人臉標記/人物</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="163"/>
@@ -11740,7 +11740,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="498"/>
         <source>Columns</source>
-        <translation>欄位 (詳細列表)</translation>
+        <translation>欄位 (詳細資料列表)</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="510"/>
@@ -12393,12 +12393,12 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="157"/>
         <source>View as</source>
-        <translation>列表檢視</translation>
+        <translation>詳細資料列表</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="163"/>
         <source>Display file size in bytes</source>
-        <translation>用 B ( = bytes = 位元組) 顯示檔案大小</translation>
+        <translation>檔案大小顯示以位元組 (bytes) 為單位</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="203"/>
@@ -13063,13 +13063,13 @@ Thumbnail</source>
         <location filename="DlgSettingsIntegration.ui" line="51"/>
         <source>Add &apos;Browse with XnViewMP&apos; to context menu</source>
         <oldsource>Add &apos;Browse with XnViewMP&apos; to context menu (requires admin rights)</oldsource>
-        <translation>將 &apos;使用 XnViewMP 瀏覽&apos; 新增至右鍵選單 (需管理者權限)</translation>
+        <translation>加入 &apos;使用 XnViewMP 瀏覽&apos; 至右鍵選單 (需管理者權限)</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="58"/>
         <source>Add shell extension to context menu</source>
         <oldsource>Enable shell extension to context menu</oldsource>
-        <translation>將 shell 擴充功能加入到右鍵選單</translation>
+        <translation>加入 &apos;shell 擴充功能&apos; 到右鍵選單</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="70"/>
@@ -14308,7 +14308,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="349"/>
         <source>Border size</source>
-        <translation>(透明) 圖框寬度</translation>
+        <translation>(透明的)圖框寬度</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="466"/>
@@ -15408,7 +15408,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgStartupWizard.ui" line="134"/>
         <source>Add &apos;Browse with XnViewMP&apos; to context menu</source>
-        <translation>新增 &apos;以 XnViewMP 瀏覽&apos; 到右鍵選單</translation>
+        <translation>加入 &apos;以 XnViewMP 瀏覽&apos; 到右鍵選單</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="171"/>
@@ -15429,7 +15429,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgStartupWizard.ui" line="141"/>
         <source>Add shell extension to context menu</source>
-        <translation>將 shell 擴充功能加入到右鍵選單</translation>
+        <translation>加入 &apos;shell 擴充功能&apos; 到右鍵選單</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="151"/>
@@ -17115,7 +17115,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="FileListWidget.cpp" line="490"/>
         <source>Do you want to add only the folder and not the filelist?</source>
-        <translation>您只想添加資料夾, 不想添加檔案列表嗎？</translation>
+        <translation>您只想加入資料夾, 不想加入檔案列表嗎？</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="146"/>
@@ -20394,12 +20394,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="584"/>
         <source>Rotate based on EXIF orientation field</source>
-        <translation>依據EXIF方向欄位旋轉影像</translation>
+        <translation>依據 EXIF 方向欄位旋轉影像</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="585"/>
         <source>Reset EXIF orientation field</source>
-        <translation>重置EXIF方向欄位</translation>
+        <translation>重置 EXIF 方向欄位</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="480"/>
@@ -20492,7 +20492,7 @@ Do you want to continue?</oldsource>
         <location filename="DlgSettingsView.cpp" line="308"/>
         <location filename="BrowserMenu.h" line="654"/>
         <source>No fit</source>
-        <translation>不調整</translation>
+        <translation>不調整縮放</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="20"/>
@@ -20615,7 +20615,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="542"/>
         <source>Status bar</source>
-        <translation>狀態列</translation>
+        <translation>瀏覽器狀態列</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="299"/>
@@ -20865,7 +20865,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="465"/>
         <source>Show header</source>
-        <translation>顯示檔案列表表頭</translation>
+        <translation>顯示詳細資料列表表頭</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="476"/>
@@ -20882,7 +20882,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="468"/>
         <source>Uncheck all</source>
         <oldsource>Untag all</oldsource>
-        <translation>取消全部的勾選 (螢幕前的檔案列表)</translation>
+        <translation>取消全部勾選 (螢幕前的檔案列表)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="469"/>
@@ -20906,7 +20906,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="511"/>
         <location filename="BrowserMenu.h" line="665"/>
         <source>Layout</source>
-        <translation>介面:</translation>
+        <translation>介面</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="512"/>
@@ -21069,7 +21069,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="562"/>
         <source>Preview as tab</source>
-        <translation>預覽併入資訊面板頁籤</translation>
+        <translation>預覽面板併入成資訊面板頁籤</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="565"/>
@@ -21153,7 +21153,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="610"/>
         <location filename="BrowserMenu.h" line="671"/>
         <source>Export...</source>
-        <translation>匯出:...</translation>
+        <translation>匯出...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="611"/>
@@ -21184,7 +21184,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="305"/>
         <location filename="BrowserMenu.h" line="616"/>
         <source>Metadata</source>
-        <translation>後製資料:</translation>
+        <translation>後製資料</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="617"/>
@@ -21204,7 +21204,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="620"/>
         <source>Send by FTP...</source>
-        <translation>用FTP傳送...</translation>
+        <translation>用 FTP 傳送...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="621"/>
@@ -21414,7 +21414,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="690"/>
         <source>Acquire into (TWAIN)...</source>
-        <translation>擷取影像至 (透過 TWAIN 協定)...</translation>
+        <translation>擷取影像至... (透過 TWAIN 協定)...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="836"/>
@@ -21447,7 +21447,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="xnview.cpp" line="1351"/>
         <source>Quit</source>
-        <translation>結束</translation>
+        <translation>結束 XnViewMP</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1354"/>
@@ -21709,7 +21709,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewCropAction.cpp" line="178"/>
         <location filename="ViewMenu.h" line="355"/>
         <source>Free</source>
-        <translation>隨意</translation>
+        <translation>隨意 (框選區域比例)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="263"/>
@@ -21720,7 +21720,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="343"/>
         <source>Image content</source>
         <oldsource>Image</oldsource>
-        <translation>影像內容</translation>
+        <translation>複製影像內容</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="369"/>
@@ -21730,7 +21730,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="356"/>
         <source>Same as image</source>
-        <translation>同影像</translation>
+        <translation>同影像 (框選區域比例)</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="244"/>
@@ -21909,17 +21909,17 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="344"/>
         <source>Path</source>
-        <translation>路徑</translation>
+        <translation>複製路徑</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="345"/>
         <source>Filename</source>
-        <translation>檔名</translation>
+        <translation>複製檔名</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="346"/>
         <source>Filename and path</source>
-        <translation>檔名和路徑</translation>
+        <translation>複製檔名和路徑</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="347"/>
@@ -21941,7 +21941,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="350"/>
         <source>Add watermark...</source>
         <oldsource>Watermark...</oldsource>
-        <translation>加上浮水印...</translation>
+        <translation>加入浮水印...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="351"/>
@@ -22249,7 +22249,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="489"/>
         <source>Set DPI...</source>
-        <translation>設定DPI...</translation>
+        <translation>設定 DPI...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="507"/>
@@ -22335,7 +22335,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="539"/>
         <source>Extract channel</source>
-        <translation>抽取色版</translation>
+        <translation>提取色版</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="540"/>
@@ -22407,7 +22407,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="571"/>
         <source>Acquire into (TWAIN)...</source>
         <oldsource>Acquire into (TWAIN)......</oldsource>
-        <translation>擷取影像至 (透過 TWAIN 協定)...</translation>
+        <translation>擷取影像至... (透過 TWAIN 協定)...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="574"/>
@@ -22508,7 +22508,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="465"/>
         <source>Status bar</source>
         <oldsource>Use statusbar</oldsource>
-        <translation>狀態列</translation>
+        <translation>檢視器狀態列</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="467"/>
@@ -22554,7 +22554,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="490"/>
         <source>Send by FTP...</source>
-        <translation>用FTP傳送...</translation>
+        <translation>用 FTP 傳送...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="492"/>
@@ -22585,7 +22585,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="497"/>
         <source>Normalize</source>
-        <translation>標準化</translation>
+        <translation>色彩標準化</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="498"/>
@@ -23018,7 +23018,7 @@ Do you want to continue?</oldsource>
         <location filename="MyDirModel.cpp" line="1027"/>
         <location filename="MyDirModel.cpp" line="1029"/>
         <source>Computer</source>
-        <translation>主機</translation>
+        <translation>本機</translation>
     </message>
     <message>
         <location filename="MyDirModel.cpp" line="1031"/>
@@ -23441,7 +23441,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="PaintWidget.ui" line="86"/>
         <source>Add a watermark</source>
-        <translation>加上浮水印</translation>
+        <translation>加入浮水印</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="222"/>
@@ -23466,12 +23466,12 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="PaintWidget.ui" line="159"/>
         <source>Draw a rectangle</source>
-        <translation>繪製一個矩形</translation>
+        <translation>繪製矩形</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="299"/>
         <source>Draw a line</source>
-        <translation>繪製一個線條</translation>
+        <translation>繪製線條</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="302"/>
@@ -23532,7 +23532,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="PaintWidget.ui" line="242"/>
         <source>Eyedropper</source>
-        <translation>剪影</translation>
+        <translation>取色器</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="43"/>
