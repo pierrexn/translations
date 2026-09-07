@@ -97,7 +97,7 @@
     <message>
         <location filename="MyThumbSettings.cpp" line="888"/>
         <source>Grey</source>
-        <translation>グレー</translation>
+        <translation>灰色</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="889"/>
@@ -382,7 +382,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="859"/>
         <source>Click to hide</source>
-        <translation type="unfinished"></translation>
+        <translation>クリックして非表示にする</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="1727"/>
@@ -1115,12 +1115,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="CompareWidget.cpp" line="577"/>
         <source>Zoom out</source>
-        <translation>ズームアウト</translation>
+        <translation>縮小</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="580"/>
         <source>Zoom in</source>
-        <translation>ズームイン</translation>
+        <translation>拡大</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="583"/>
@@ -1320,13 +1320,13 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DlgConvertProcess.h" line="1459"/>
         <source>Canvas resize</source>
         <translatorcomment>TXT_NviewMenu_Canvas_Size</translatorcomment>
-        <translation>キャンバスリサイズ</translation>
+        <translation>キャンバスのサイズ変更</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="1695"/>
         <source>Resize</source>
         <translatorcomment>TXT_NviewMenu_Resize</translatorcomment>
-        <translation>リサイズ</translation>
+        <translation>サイズ変更</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2143"/>
@@ -1703,7 +1703,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgConvert.cpp" line="387"/>
         <source>Normalize</source>
-        <translation>ノーマライズ</translation>
+        <translation>正規化</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="391"/>
@@ -1989,7 +1989,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgFilter.cpp" line="323"/>
         <source>Effect</source>
-        <translation>エフェクト</translation>
+        <translation>効果</translation>
     </message>
 </context>
 <context>
@@ -2108,7 +2108,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DBFilterModel.cpp" line="152"/>
         <location filename="DBFilterModel.cpp" line="194"/>
         <source>Rating</source>
-        <translation>レーティング</translation>
+        <translation>評価</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="156"/>
@@ -2531,7 +2531,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgBatchResize.ui" line="257"/>
         <source>Resize</source>
-        <translation>リサイズ</translation>
+        <translation>サイズ変更</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="284"/>
@@ -3696,7 +3696,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgContactSheet.ui" line="830"/>
         <source>Zoom in</source>
-        <translation>ズームイン</translation>
+        <translation>拡大</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="844"/>
@@ -3706,7 +3706,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgContactSheet.ui" line="872"/>
         <source>Zoom out</source>
-        <translation>ズームアウト</translation>
+        <translation>縮小</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.cpp" line="189"/>
@@ -4809,12 +4809,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="269"/>
         <source>Zoom in</source>
-        <translation>ズームイン</translation>
+        <translation>拡大</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="283"/>
         <source>Zoom out</source>
-        <translation>ズームアウト</translation>
+        <translation>縮小</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="415"/>
@@ -5359,7 +5359,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="1616"/>
         <source>Black</source>
-        <translation type="unfinished"></translation>
+        <translation>ブラック</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1641"/>
@@ -8125,7 +8125,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgExportCatalog.ui" line="41"/>
         <source>Export Rating &amp;&amp; Color labels</source>
         <oldsource>Export Rating &amp;&amp; Label</oldsource>
-        <translation>レーティング＆カラーラベルのエクスポート</translation>
+        <translation>評価＆カラーラベルのエクスポート</translation>
     </message>
     <message>
         <location filename="DlgExportCatalog.ui" line="48"/>
@@ -8499,12 +8499,12 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFileReplace.ui" line="123"/>
         <source>Zoom out</source>
-        <translation>ズームアウト</translation>
+        <translation>縮小</translation>
     </message>
     <message>
         <location filename="DlgFileReplace.ui" line="137"/>
         <source>Zoom in</source>
-        <translation>ズームイン</translation>
+        <translation>拡大</translation>
     </message>
     <message>
         <location filename="DlgFileReplace.ui" line="151"/>
@@ -8616,7 +8616,7 @@ Please try to start with admin rights.</source>
         <location filename="DlgFilter.ui" line="29"/>
         <source>Effect list</source>
         <translatorcomment>0.60</translatorcomment>
-        <translation>エフェクトリスト</translation>
+        <translation>効果のリスト</translation>
     </message>
     <message>
         <location filename="DlgFilter.ui" line="68"/>
@@ -8814,7 +8814,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFtp.ui" line="79"/>
         <source>Resize</source>
-        <translation>リサイズ</translation>
+        <translation>サイズ変更</translation>
     </message>
     <message>
         <location filename="DlgFtp.ui" line="131"/>
@@ -10416,13 +10416,13 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgProcess.cpp" line="53"/>
         <source>Zoom out</source>
         <translatorcomment>0.60</translatorcomment>
-        <translation>ズームアウト</translation>
+        <translation>縮小</translation>
     </message>
     <message>
         <location filename="DlgProcess.cpp" line="55"/>
         <source>Zoom in</source>
         <translatorcomment>0.60</translatorcomment>
-        <translation>ズームイン</translation>
+        <translation>拡大</translation>
     </message>
     <message>
         <location filename="DlgProcess.cpp" line="57"/>
@@ -11127,7 +11127,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgResize.cpp" line="1070"/>
         <source>Canvas resize</source>
-        <translation>キャンバスリサイズ</translation>
+        <translation>キャンバスのサイズ変更</translation>
     </message>
     <message>
         <location filename="DlgResize.cpp" line="1084"/>
@@ -11145,7 +11145,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgResize.ui" line="14"/>
         <source>Resize</source>
-        <translation>リサイズ</translation>
+        <translation>サイズ変更</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="22"/>
@@ -11797,7 +11797,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="75"/>
         <source>Show ratings</source>
-        <translation>レーティングを表示</translation>
+        <translation>評価を表示</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="111"/>
@@ -11984,7 +11984,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="407"/>
         <source>Rating (filter)</source>
-        <translation>レーティング（フィルター）</translation>
+        <translation>評価（フィルター）</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="430"/>
@@ -12123,7 +12123,7 @@ Color labels, Keywords may be deleted.
 
 Do you want to check for affected entries first?</source>
         <oldsource>Warning! This operation may delete some database entries with assigned ratings/colors/keywords. Do you want to check for affected entries first?</oldsource>
-        <translation>レーティング、カラーラベル、キーワードが割り当てられている
+        <translation>評価、カラーラベル、キーワードが割り当てられている
 データベースエントリが削除される場合があります。
 
 最初に、影響を受けたエントリーをチェックしますか？</translation>
@@ -12141,7 +12141,7 @@ Do you want to remove entries assigned to a Category?</source>
 (If information are exported into embedded or sidecar metadata, you&apos;ll be able to re-import them later)
 
 Do you want to remove entries assigned to a category?</oldsource>
-        <translation>カテゴリー、レーティング、カラーラベル付きのカタログ項目は削除されます。
+        <translation>カテゴリー、評価、カラーラベル付きのカタログ項目は削除されます。
 
 情報が埋め込みメタデータまたはサイドカーメタデータに
 書き出されている場合は、後で再インポートできます。
@@ -12811,7 +12811,7 @@ Thumbnail</source>
         <location filename="DlgSettingsGeneral.ui" line="397"/>
         <source>Viewer - Fullscreen</source>
         <oldsource>Fullscreen - Viewer</oldsource>
-        <translation>ビューアー - フルスクリーン</translation>
+        <translation>ビューアー - 全画面表示</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="303"/>
@@ -12846,7 +12846,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="112"/>
         <source>Grey</source>
-        <translation>グレー</translation>
+        <translation>灰色</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="117"/>
@@ -12892,7 +12892,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="407"/>
         <source>Browser - Fullscreen</source>
-        <translation>ブラウザー - フルスクリーン</translation>
+        <translation>ブラウザー - 全画面表示</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="433"/>
@@ -13846,7 +13846,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2259"/>
         <location filename="DlgSettingsInterface.ui" line="2305"/>
         <source>Zoom in/out</source>
-        <translation>ズーム イン/アウト</translation>
+        <translation>拡大/縮小</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2393"/>
@@ -13870,7 +13870,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2486"/>
         <source>Browser ↔ Fullscreen | Viewer ↔ Fullscreen</source>
         <oldsource>Browser &lt;&gt; Fullscreen | Viewer &lt;&gt; Fullscreen</oldsource>
-        <translation>ブラウザー ↔ フルスクリーン | ビューアー ↔ フルスクリーン</translation>
+        <translation>ブラウザー ↔ 全画面表示 | ビューアー ↔ 全画面表示</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2379"/>
@@ -13891,7 +13891,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2496"/>
         <source>Browser → Fullscreen → Viewer</source>
         <oldsource>Browser &gt; Fullscreen &gt; Viewer</oldsource>
-        <translation>ブラウザー → フルスクリーン → ビューアー</translation>
+        <translation>ブラウザー → 全画面表示 → ビューアー</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="2416"/>
@@ -13899,7 +13899,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2501"/>
         <source>Browser → Viewer → Fullscreen</source>
         <oldsource>Browser &gt; Viewer &gt; Fullscreen</oldsource>
-        <translation>ブラウザー → ビューアー → フルスクリーン</translation>
+        <translation>ブラウザー → ビューアー → 全画面表示</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="221"/>
@@ -13995,7 +13995,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="1118"/>
         <location filename="DlgSettingsInterface.ui" line="1345"/>
         <source>Defaults</source>
-        <translation>デフォルト</translation>
+        <translation>既定</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1141"/>
@@ -14133,7 +14133,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="684"/>
         <source>Rating labels</source>
-        <translation>レーティングラベル</translation>
+        <translation>評価ラベル</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="764"/>
@@ -14170,7 +14170,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="59"/>
         <source>Rating</source>
-        <translation>レーティング</translation>
+        <translation>評価</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="73"/>
@@ -14491,7 +14491,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="677"/>
         <source>Rating</source>
-        <translation>レーティング</translation>
+        <translation>評価</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="691"/>
@@ -14555,7 +14555,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="36"/>
         <source>Viewer</source>
         <oldsource>View</oldsource>
-        <translation type="unfinished">表示</translation>
+        <translation>ビューアー</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="44"/>
@@ -14717,18 +14717,18 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="388"/>
         <source>Zoom Out</source>
-        <translation>ズームアウト</translation>
+        <translation>縮小</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="398"/>
         <source>Zoom In</source>
-        <translation>ズームイン</translation>
+        <translation>拡大</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="183"/>
         <source>Show Rating &amp;&amp; Color labels</source>
         <oldsource>Show Rating &amp;&amp; Label color</oldsource>
-        <translation>レーティングとカラーラベルを表示</translation>
+        <translation>評価とカラーラベルを表示</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="153"/>
@@ -14783,72 +14783,72 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="190"/>
         <source>Clipping warning</source>
-        <translation type="unfinished"></translation>
+        <translation>クリッピング警告</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="215"/>
         <source>Shadows</source>
-        <translation type="unfinished">シャドウ</translation>
+        <translation>黒潰れ</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="208"/>
         <source>Highlights</source>
-        <translation type="unfinished">ハイライト</translation>
+        <translation>白飛び</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="238"/>
         <source>Remember state</source>
-        <translation type="unfinished"></translation>
+        <translation>状態を記憶する</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="258"/>
         <source>Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>既定</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="176"/>
         <source>Highlight the selection area</source>
-        <translation type="unfinished"></translation>
+        <translation>選択範囲を強調表示する</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="291"/>
         <source>Zoom</source>
-        <translation type="unfinished">ズーム</translation>
+        <translation>ズーム</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="346"/>
         <source>Navigation resets zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>画像移動時にズームをリセットする</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="373"/>
         <source>Navigation resets X/Y position (&apos;No fit&apos; only)</source>
-        <translation type="unfinished"></translation>
+        <translation>画像移動時に表示位置（X/Y）をリセットする（画面に合わせないのみ）</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="514"/>
         <source>Render</source>
-        <translation type="unfinished"></translation>
+        <translation>レンダー</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="522"/>
         <source>Pixel aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>ピクセルのアスペクト比</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="762"/>
         <source>Video/Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>動画/音声</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="768"/>
         <source>Auto play</source>
-        <translation type="unfinished"></translation>
+        <translation>自動再生</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="775"/>
         <source>Loop playing</source>
-        <translation type="unfinished"></translation>
+        <translation>ループ再生</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="944"/>
@@ -14878,7 +14878,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="1227"/>
         <source>Fullscreen</source>
-        <translation>フルスクリーン</translation>
+        <translation>全画面表示</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1264"/>
@@ -14933,7 +14933,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="1219"/>
         <source>Always show in fullscreen</source>
-        <translation>フルスクリーン時に常に表示</translation>
+        <translation>全画面表示時に常に表示</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1201"/>
@@ -15056,13 +15056,13 @@ Do you want to reassign?</source>
         <location filename="DlgSimilarResult.ui" line="84"/>
         <location filename="DlgSimilarResult.ui" line="236"/>
         <source>Zoom out</source>
-        <translation>ズームアウト</translation>
+        <translation>縮小</translation>
     </message>
     <message>
         <location filename="DlgSimilarResult.ui" line="98"/>
         <location filename="DlgSimilarResult.ui" line="250"/>
         <source>Zoom in</source>
-        <translation>ズームイン</translation>
+        <translation>拡大</translation>
     </message>
     <message>
         <location filename="DlgSimilarResult.ui" line="112"/>
@@ -15289,7 +15289,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSlideshow.ui" line="93"/>
         <source>Fullscreen</source>
-        <translation>フルスクリーン</translation>
+        <translation>全画面表示</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="53"/>
@@ -15350,7 +15350,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSlideshow.ui" line="336"/>
         <source>Auto hide cursor (fullscreen)</source>
-        <translation>自動的にカーソルを隠す（フルスクリーン）</translation>
+        <translation>自動的にカーソルを隠す（全画面表示）</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="376"/>
@@ -15413,12 +15413,12 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSplit.ui" line="55"/>
         <source>Zoom in</source>
-        <translation>ズームイン</translation>
+        <translation>拡大</translation>
     </message>
     <message>
         <location filename="DlgSplit.ui" line="69"/>
         <source>Zoom out</source>
-        <translation>ズームアウト</translation>
+        <translation>縮小</translation>
     </message>
     <message>
         <location filename="DlgSplit.ui" line="124"/>
@@ -16161,7 +16161,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgUpload.ui" line="67"/>
         <source>Resize</source>
-        <translation>リサイズ</translation>
+        <translation>サイズ変更</translation>
     </message>
     <message>
         <location filename="DlgUpload.ui" line="79"/>
@@ -16926,7 +16926,7 @@ Do you want to continue?</source>
     <message>
         <location filename="EditXMPWidget.ui" line="114"/>
         <source>Rating</source>
-        <translation>レーティング</translation>
+        <translation>評価</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="144"/>
@@ -17331,7 +17331,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="ThumbInfo.cpp" line="165"/>
         <source>Rating</source>
-        <translation>レーティング</translation>
+        <translation>評価</translation>
     </message>
     <message>
         <location filename="ThumbInfo.cpp" line="166"/>
@@ -17703,7 +17703,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="TemplateData.cpp" line="2838"/>
         <source>Rating</source>
         <translatorcomment>TXT_String_Rating</translatorcomment>
-        <translation>レーティング</translation>
+        <translation>評価</translation>
     </message>
     <message>
         <location filename="ItemModel.cpp" line="1021"/>
@@ -18067,7 +18067,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2839"/>
         <source>Rating (number)</source>
-        <translation>レーティング（数字）</translation>
+        <translation>評価（数字）</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2841"/>
@@ -19691,7 +19691,7 @@ Do you want to continue?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="433"/>
         <source>Rating</source>
-        <translation>レーティング</translation>
+        <translation>評価</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="437"/>
@@ -20422,7 +20422,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="59"/>
         <source>Rating</source>
-        <translation>レーティング</translation>
+        <translation>評価</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="60"/>
@@ -20519,7 +20519,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="517"/>
         <source>Set Rating</source>
-        <translation>レーティングを設定</translation>
+        <translation>評価を設定</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="518"/>
@@ -21442,7 +21442,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="559"/>
         <source>Fullscreen</source>
-        <translation>フルスクリーン</translation>
+        <translation>全画面表示</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="560"/>
@@ -21647,13 +21647,13 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="644"/>
         <source>Zoom in</source>
         <translatorcomment>TXT_NviewMenu_Zoom_Plus</translatorcomment>
-        <translation>ズームイン</translation>
+        <translation>拡大</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="645"/>
         <source>Zoom out</source>
         <translatorcomment>TXT_NviewMenu_Zoom_Minus</translatorcomment>
-        <translation>ズームアウト</translation>
+        <translation>縮小</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="646"/>
@@ -22336,7 +22336,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="457"/>
         <source>Grid</source>
-        <translation type="unfinished">グリッド</translation>
+        <translation>グリッド</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="460"/>
@@ -22411,7 +22411,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="437"/>
         <source>Fullscreen</source>
         <translatorcomment>TXT_BrowseMenuFile_View_Fullscreen</translatorcomment>
-        <translation>フルスクリーン</translation>
+        <translation>全画面表示</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="438"/>
@@ -22426,12 +22426,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="440"/>
         <source>Zoom in</source>
-        <translation>ズームイン</translation>
+        <translation>拡大</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="441"/>
         <source>Zoom out</source>
-        <translation>ズームアウト</translation>
+        <translation>縮小</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="442"/>
@@ -22569,7 +22569,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="774"/>
         <source>Effect</source>
-        <translation>エフェクト</translation>
+        <translation>効果</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="485"/>
@@ -22615,7 +22615,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="419"/>
         <source>Set Rating</source>
-        <translation>レーティングを設定</translation>
+        <translation>評価を設定</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="420"/>
@@ -22703,7 +22703,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="497"/>
         <source>Normalize</source>
-        <translation>ノーマライズ</translation>
+        <translation>正規化</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="498"/>
@@ -22814,12 +22814,12 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="531"/>
         <source>Resize...</source>
         <oldsource>Resize new...</oldsource>
-        <translation>リサイズ...</translation>
+        <translation>サイズ変更...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="532"/>
         <source>Canvas resize...</source>
-        <translation>キャンバスリサイズ...</translation>
+        <translation>キャンバスのサイズ変更...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="533"/>
@@ -22973,7 +22973,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="506"/>
         <source>Effect...</source>
-        <translation>エフェクト...</translation>
+        <translation>効果...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="523"/>
@@ -23097,32 +23097,32 @@ Do you want to continue?</oldsource>
         <location filename="MyView.cpp" line="108"/>
         <location filename="ViewMenu.h" line="472"/>
         <source>Shadows</source>
-        <translation type="unfinished">シャドウ</translation>
+        <translation>黒潰れ</translation>
     </message>
     <message>
         <location filename="MyView.cpp" line="93"/>
         <location filename="MyView.cpp" line="111"/>
         <location filename="ViewMenu.h" line="473"/>
         <source>Highlights</source>
-        <translation type="unfinished">ハイライト</translation>
+        <translation>白飛び</translation>
     </message>
     <message>
         <location filename="MyView.cpp" line="95"/>
         <location filename="ViewMenu.h" line="475"/>
         <source>Highlights (per channel)</source>
-        <translation type="unfinished">ハイライト（チャンネル別）</translation>
+        <translation>白飛び（チャンネル別）</translation>
     </message>
     <message>
         <location filename="MyView.cpp" line="97"/>
         <location filename="ViewMenu.h" line="474"/>
         <source>Shadows + Highlights</source>
-        <translation type="unfinished">シャドウ＋ハイライト</translation>
+        <translation>黒潰れ＋白飛び</translation>
     </message>
     <message>
         <location filename="MyView.cpp" line="106"/>
         <location filename="ViewMenu.h" line="476"/>
         <source>Clipping warning</source>
-        <translation type="unfinished"></translation>
+        <translation>クリッピング警告</translation>
     </message>
 </context>
 <context>
@@ -23767,7 +23767,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="PaintWidget.ui" line="126"/>
         <source>Zoom in</source>
-        <translation>ズームイン</translation>
+        <translation>拡大</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="338"/>
@@ -23797,7 +23797,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="PaintWidget.ui" line="279"/>
         <source>Zoom out</source>
-        <translation>ズームアウト</translation>
+        <translation>縮小</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="63"/>
@@ -23847,7 +23847,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="PaintWidget.ui" line="950"/>
         <source>Effect</source>
-        <translation>エフェクト</translation>
+        <translation>効果</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="712"/>
@@ -25329,7 +25329,7 @@ Do you want to keep the thumbnails?
 Metadata (check, ratings/colour labels and other file details)
 will not be saved to the database.</source>
         <translation>カタログは無効です。
-メタデータ（チェック、レーティング／カラーラベル、その他のファイル情報）は
+メタデータ（チェック、評価／カラーラベル、その他のファイル情報）は
 データベースに保存されません。</translation>
     </message>
     <message>
