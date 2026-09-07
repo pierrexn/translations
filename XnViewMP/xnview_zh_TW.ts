@@ -677,7 +677,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="1852"/>
         <source>Metadata</source>
-        <translation>後製資料</translation>
+        <translation>拍攝資訊</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="1861"/>
@@ -2178,7 +2178,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgAcquireInto.ui" line="28"/>
         <source>Folder</source>
-        <translation>資料夾</translation>
+        <translation>目的資料夾</translation>
     </message>
     <message>
         <location filename="DlgAcquireInto.ui" line="53"/>
@@ -2198,7 +2198,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgAcquireInto.ui" line="81"/>
         <source>Decrease</source>
-        <translation>減少</translation>
+        <translation>遞減</translation>
     </message>
     <message>
         <location filename="DlgAcquireInto.ui" line="105"/>
@@ -2401,7 +2401,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgBanner.ui" line="23"/>
         <source>&lt;html&gt;&lt;p&gt;All banner specifications (font, color, size, etc.) carry forward from the previously created banner. An exception is text size, which is calculated to &apos;Best fit&apos; for banner height.&lt;/p&gt;&lt;p&gt;You may select multiple images to apply the same banner to several images at once. Note that the text will be the same size in all images, then.&lt;/p&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; align=&quot;left&quot; style=&quot;border-bottom:1px solid gray;padding-top:15px&quot;&gt;Shortcuts&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Increase/decrease font size by 2 points&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Shift+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Increase/decrease banner size by 1%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+S&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Start banner creation&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;p&gt;所有橫幅圖規格 (字體, 顏⾊, 尺⼨, 等) 都是帶⾃前次建立的橫幅圖. 唯⼀例外是文字⼤⼩將適配⾼度而重新計算.&lt;/p&gt;&lt;p&gt;您可選取多張影像立即套⽤同樣的橫幅圖. 但 這時請注意所有影像的文字⼤⼩都會⼀樣.&lt;/p&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; align=&quot;left&quot; style=&quot;border-bottom:1px solid gray;padding-top:15px&quot;&gt;快捷鍵&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;減字體⼤⼩加/減2points&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Shift+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;橫幅圖尺⼨加/減1%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+S&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;開始建立橫幅圖&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;p&gt;所有橫幅圖規格 (字體, 顏⾊, 尺⼨, 等) 都是帶⾃前次建立的橫幅圖. 唯⼀例外是文字⼤⼩將適配⾼度而重新計算.&lt;/p&gt;&lt;p&gt;您可選取多張影像立即套⽤同樣的橫幅圖. 但 這時請注意所有影像的文字⼤⼩都會⼀樣.&lt;/p&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; align=&quot;left&quot; style=&quot;border-bottom:1px solid gray;padding-top:15px&quot;&gt;快捷鍵&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl/Cmd+「 + 鍵」/「 - 鍵」&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;字體⼤⼩ 加/減 2 點&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl/Cmd+Shift+「 + 鍵」/「 - 鍵」&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;橫幅圖尺⼨ 加/減 1%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl/Cmd+「 S 鍵」&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;開始建立橫幅圖&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="DlgBanner.ui" line="177"/>
@@ -7584,12 +7584,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditXMP.ui" line="86"/>
         <source>Ctrl+Left</source>
-        <translation>Ctrl+左鍵</translation>
+        <translation>Ctrl/Cmd+左鍵</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="106"/>
         <source>Ctrl+Right</source>
-        <translation>Ctrl+右鍵</translation>
+        <translation>Ctrl/Cmd+右鍵</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="120"/>
@@ -9348,12 +9348,12 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgIptc.ui" line="821"/>
         <source>Ctrl+Left</source>
-        <translation>Ctrl+左鍵</translation>
+        <translation>Ctrl/Cmd+左鍵</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="841"/>
         <source>Ctrl+Right</source>
-        <translation>Ctrl+右鍵</translation>
+        <translation>Ctrl/Cmd+右鍵</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="865"/>
@@ -13114,12 +13114,12 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="280"/>
         <source>Database - Catalog</source>
-        <translation>資料庫 - 後製資料</translation>
+        <translation>資料庫 - 後製資料 ( XnView.db )</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="336"/>
         <source>Database - Thumbnails</source>
-        <translation>資料庫 - 縮圖</translation>
+        <translation>資料庫 - 縮圖 ( Thumb.db )</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="377"/>
@@ -13661,7 +13661,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1553"/>
         <source>Mouse</source>
-        <translation>滑鼠 + 鍵盤組合鍵</translation>
+        <translation>滑鼠 + 鍵盤</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1563"/>
@@ -13901,7 +13901,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsKeywords.ui" line="237"/>
         <source>Automatically assign parent Category (Ctrl+click for current only)</source>
         <oldsource>Automatically apply parent category (Ctrl+click for single category)</oldsource>
-        <translation>自動指派父類別 ( &apos;按Ctrl+滑鼠點擊&apos; 則只指派給選取的類別)</translation>
+        <translation>自動指派父類別 ( &apos;按Ctrl/Cmd+滑鼠點擊&apos; 則只指派給選取的類別)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="224"/>
@@ -20298,7 +20298,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="574"/>
         <source>Info panels</source>
-        <translation>資訊面板</translation>
+        <translation>瀏覽器資訊面板</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="601"/>
@@ -20669,7 +20669,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="568"/>
         <location filename="BrowserMenu.h" line="664"/>
         <source>Preview</source>
-        <translation>預覽面板</translation>
+        <translation>瀏覽器預覽面板</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="306"/>
@@ -20733,7 +20733,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="573"/>
         <source>Panels</source>
-        <translation>面板</translation>
+        <translation>瀏覽器面板</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="428"/>
@@ -20906,7 +20906,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="511"/>
         <location filename="BrowserMenu.h" line="665"/>
         <source>Layout</source>
-        <translation>介面</translation>
+        <translation>瀏覽器介面</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="512"/>
@@ -20926,7 +20926,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="515"/>
         <source>Thumbnails size</source>
-        <translation>縮圖大小</translation>
+        <translation>列表縮圖大小</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="520"/>
@@ -21244,7 +21244,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="631"/>
         <source>Import...</source>
-        <translation>匯入影像檔...</translation>
+        <translation>匯入檔案...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="639"/>
@@ -21535,7 +21535,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="xnview.cpp" line="1383"/>
         <source>Tab</source>
-        <translation>頁籤</translation>
+        <translation>視窗頁籤</translation>
     </message>
 </context>
 <context>
