@@ -1034,7 +1034,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="CategoryView.cpp" line="686"/>
         <source>Are you sure to clear this album?</source>
-        <translation>このアルバムをクリアしてよろしいですか？</translation>
+        <translation>このアルバムを空にしてもよろしいですか？</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="697"/>
@@ -1069,7 +1069,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="ExLineEdit.cpp" line="161"/>
         <source>Clear</source>
         <translatorcomment>消去？</translatorcomment>
-        <translation>クリア</translation>
+        <translation>消去</translation>
     </message>
 </context>
 <context>
@@ -1299,7 +1299,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgConvertProcess.h" line="664"/>
         <source>Clean metadata</source>
-        <translation>メタデータをクリア</translation>
+        <translation>メタデータを消去</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="703"/>
@@ -1466,7 +1466,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgConvertProcess.h" line="4685"/>
         <source>Clear transparent pixels</source>
-        <translation>透明なピクセルをクリア</translation>
+        <translation>透明なピクセルを消去</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="4699"/>
@@ -3370,7 +3370,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgClean.ui" line="14"/>
         <source>Clean metadata</source>
-        <translation>メタデータをクリア</translation>
+        <translation>メタデータを消去</translation>
     </message>
     <message>
         <location filename="DlgClean.ui" line="20"/>
@@ -4799,7 +4799,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert.ui" line="148"/>
         <location filename="DlgConvert-old.ui" line="195"/>
         <source>Clear all</source>
-        <translation>すべてクリア</translation>
+        <translation>すべて消去</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="242"/>
@@ -5404,7 +5404,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="1787"/>
         <source>Clear filename field at startup</source>
-        <translation>スタートアップ時にファイル名のフィールドをクリアする</translation>
+        <translation>スタートアップ時にファイル名のフィールドを消去</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1794"/>
@@ -7708,7 +7708,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditXMP.ui" line="156"/>
         <source>Clear all fields</source>
-        <translation>すべてのフィールドをクリア</translation>
+        <translation>すべてのフィールドを消去</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="163"/>
@@ -8391,7 +8391,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFile.ui" line="56"/>
         <source>Clear history entries</source>
-        <translation>履歴をクリア</translation>
+        <translation>履歴を消去</translation>
     </message>
     <message>
         <location filename="DlgFile.ui" line="70"/>
@@ -9928,7 +9928,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPalette.ui" line="91"/>
         <source>Clear</source>
-        <translation>クリア</translation>
+        <translation>消去</translation>
     </message>
     <message>
         <location filename="DlgPalette.ui" line="117"/>
@@ -11524,7 +11524,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.ui" line="206"/>
         <source>Clear all</source>
-        <translation>すべてクリア</translation>
+        <translation>すべて消去</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="226"/>
@@ -11739,7 +11739,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="378"/>
         <source>Clear All</source>
-        <translation>すべてクリア</translation>
+        <translation>すべて消去</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="378"/>
@@ -11863,7 +11863,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="553"/>
         <source>Clear all</source>
-        <translation>すべてクリア</translation>
+        <translation>すべて消去</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="498"/>
@@ -11944,7 +11944,7 @@ Do you want to remove them?</source>
         <location filename="DlgSettingsBrowser.ui" line="438"/>
         <source>Clear the list of checked files</source>
         <oldsource>Clear the list of tagged files</oldsource>
-        <translation>チェックしたファイルのリストをクリア</translation>
+        <translation>チェックしたファイルのリストを消去</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="446"/>
@@ -12594,7 +12594,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFormat.ui" line="94"/>
         <source>Clear all</source>
-        <translation>すべてクリア</translation>
+        <translation>すべて消去</translation>
     </message>
     <message>
         <location filename="DlgSettingsFormat.ui" line="116"/>
@@ -15753,7 +15753,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgTagPhoto.ui" line="141"/>
         <source>Clear regions</source>
-        <translation>領域をクリア</translation>
+        <translation>領域を消去</translation>
     </message>
     <message>
         <location filename="DlgTagPhoto.ui" line="283"/>
@@ -15949,7 +15949,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgTransfer.ui" line="36"/>
         <source>Clear all</source>
-        <translation>すべてクリア</translation>
+        <translation>すべて消去</translation>
     </message>
     <message>
         <location filename="DlgTransfer.cpp" line="259"/>
@@ -18222,7 +18222,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoCategoryView.cpp" line="251"/>
         <source>Catalog - Clear &amp; Import</source>
-        <translation>カタログ – クリア&amp;インポート</translation>
+        <translation>カタログ – 消去&amp;インポート</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="251"/>
@@ -21275,7 +21275,7 @@ Do you want to continue?</oldsource>
         <source>Clear all checks</source>
         <oldsource>Clear all tags</oldsource>
         <translatorcomment>TXT_NviewMenu_Clear_All_Tags</translatorcomment>
-        <translation>すべてのチェックをクリア</translation>
+        <translation>すべてのチェックを解除</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="470"/>
@@ -21722,7 +21722,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="672"/>
         <source>Clear &amp;&amp; Import...</source>
-        <translation>クリア＆インポート...</translation>
+        <translation>消去＆インポート...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="673"/>
@@ -22594,7 +22594,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="342"/>
         <source>Clear selection</source>
-        <translation>選択をクリア</translation>
+        <translation>選択を解除</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="381"/>
@@ -23578,7 +23578,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyTemplateComboEdit.h" line="254"/>
         <source>Clear</source>
-        <translation>クリア</translation>
+        <translation>消去</translation>
     </message>
 </context>
 <context>
@@ -24863,7 +24863,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="SearchGroup.ui" line="72"/>
         <source>Clear all</source>
-        <translation>すべてクリア</translation>
+        <translation>すべて消去</translation>
     </message>
     <message>
         <location filename="SearchGroup.ui" line="92"/>
@@ -24993,7 +24993,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="ToolbarSearch.cpp" line="206"/>
         <source>Clear Recent Searches</source>
-        <translation>「最近の検索」をクリア</translation>
+        <translation>「最近の検索」を消去</translation>
     </message>
 </context>
 <context>
