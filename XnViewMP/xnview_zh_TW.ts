@@ -11348,7 +11348,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.ui" line="145"/>
         <source>Search in</source>
-        <translation>・搜尋對象</translation>
+        <translation>⏺︎ 搜尋對象</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="153"/>
@@ -11950,7 +11950,7 @@ Do you want to change the &apos;base path&apos;?</source>
     <message>
         <location filename="DlgSettingsCache.cpp" line="572"/>
         <source>Catalog - Synchronize Folders</source>
-        <translation>資料庫 - 同步資料夾</translation>
+        <translation>資料庫 - 資料夾同步</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="573"/>
@@ -11965,13 +11965,13 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgSettingsCache.cpp" line="604"/>
         <source>Updating database, please wait...</source>
-        <translation>更新資料庫中, 請稍等...</translation>
+        <translation>資料庫更新中, 請稍等...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="621"/>
         <source>Catalog - Relocate the folder</source>
         <oldsource>Relocate the folder</oldsource>
-        <translation>資料庫 - 重新定位資料夾</translation>
+        <translation>資料庫 - 資料夾重新定位</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="621"/>
@@ -12122,12 +12122,12 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettingsCache.ui" line="430"/>
         <source>Maintenance...</source>
-        <translation>維護資料庫...</translation>
+        <translation>資料庫維護...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="437"/>
         <source>Import folder...</source>
-        <translation>匯入資料夾...</translation>
+        <translation>資料夾匯入...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="471"/>
@@ -12138,7 +12138,7 @@ Do you want to remove entries assigned to a category?</oldsource>
         <location filename="DlgSettingsCache.ui" line="485"/>
         <source>Update metadata</source>
         <oldsource>Update metadata...</oldsource>
-        <translation>更新資料庫</translation>
+        <translation>資料庫更新</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="542"/>
@@ -12148,7 +12148,7 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettingsCache.ui" line="447"/>
         <source>Relocate...</source>
-        <translation>重新定位資料夾…</translation>
+        <translation>資料夾重新定位…</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="364"/>
@@ -12165,7 +12165,7 @@ Do you want to remove entries assigned to a category?</oldsource>
         <location filename="DlgSettingsCache.ui" line="478"/>
         <source>Synchronize Folders...</source>
         <oldsource>Check folders...</oldsource>
-        <translation>同步資料夾...</translation>
+        <translation>資料夾同步...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="502"/>
@@ -15915,7 +15915,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="20"/>
         <source>Update database</source>
-        <translation>更新資料庫</translation>
+        <translation>資料庫更新</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="28"/>
@@ -21709,7 +21709,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewCropAction.cpp" line="178"/>
         <location filename="ViewMenu.h" line="355"/>
         <source>Free</source>
-        <translation>隨意 (框選區域比例)</translation>
+        <translation>框選區域比例 - 隨意</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="263"/>
@@ -21730,7 +21730,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="356"/>
         <source>Same as image</source>
-        <translation>同影像 (框選區域比例)</translation>
+        <translation>框選區域比例 - 同影像</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="244"/>
@@ -23254,7 +23254,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="MyThumbView.cpp" line="761"/>
         <source>Updating catalog, please wait...</source>
-        <translation>更新資料庫中, 請稍候…</translation>
+        <translation>資料庫更新中, 請稍候…</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="779"/>
@@ -24951,12 +24951,12 @@ Do you want to keep the thumbnails?
     <message>
         <location filename="xnview.cpp" line="493"/>
         <source>Catalog update</source>
-        <translation>更新資料庫</translation>
+        <translation>資料庫更新</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="493"/>
         <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
-        <translation>若您想要使用 &apos;資料庫篩選器&apos; 中的新增項目, 則您需要先更新資料庫 (設定 &gt; 資料庫 &gt; 更新資料庫). </translation>
+        <translation>若您想要使用 &apos;資料庫篩選器&apos; 中的新增項目, 則您需要先更新資料庫 (設定 &gt; 資料庫 &gt; 資料庫更新). </translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="889"/>
@@ -24998,7 +24998,7 @@ will not be saved to the database.</source>
         <source>There is a problem to update Catalog:
 (Error: % 1)
 Please contact the developer.</source>
-        <translation>更新資料庫時出現錯誤:
+        <translation>資料庫更新時出現錯誤:
 (錯誤: % 1)
 請聯繫開發人員.</translation>
     </message>
