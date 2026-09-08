@@ -7,7 +7,7 @@
         <location filename="MyThumbSettings.cpp" line="876"/>
         <source>Uncolored</source>
         <translatorcomment>TXT_BrowseMenu_Uncolored</translatorcomment>
-        <translation>カラーラベルなし</translation>
+        <translation>無着色</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="882"/>
@@ -45,7 +45,7 @@
         <location filename="MyThumbSettings.cpp" line="884"/>
         <source>Personal</source>
         <translatorcomment>TXT_String_Label_3</translatorcomment>
-        <translation>私用</translation>
+        <translation>個人用</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="884"/>
@@ -112,7 +112,7 @@
     <message>
         <location filename="MyThumbSettings.cpp" line="759"/>
         <source>Unrated</source>
-        <translation>レートなし</translation>
+        <translation>評価なし</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="760"/>
@@ -128,7 +128,7 @@
         <location filename="MyThumbSettings.cpp" line="762"/>
         <source>Average</source>
         <translatorcomment>TXT_String_Rating_Label_3</translatorcomment>
-        <translation>ふつう</translation>
+        <translation>平均</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="763"/>
@@ -290,14 +290,14 @@
     <message>
         <location filename="ViewWindow.cpp" line="2178"/>
         <source>Customize toolbar...</source>
-        <translation>ツールバーのカスタマイズ...</translation>
+        <translation>ツールバーをカスタマイズ...</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2434"/>
         <location filename="ViewWindow.cpp" line="2440"/>
         <location filename="ViewWindow.cpp" line="2444"/>
         <source>Delete items</source>
-        <translation>アイテムを削除</translation>
+        <translation>項目を削除</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="2434"/>
@@ -388,7 +388,7 @@
         <location filename="ViewWindow.cpp" line="1727"/>
         <location filename="ViewWindow.cpp" line="1746"/>
         <source>&lt; Empty &gt;</source>
-        <translation>&lt; Empty &gt;</translation>
+        <translation>&lt; 空 &gt;</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="3150"/>
@@ -526,7 +526,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="5178"/>
         <source>&lt; Empty &gt;</source>
-        <translation>&lt; Empty &gt;</translation>
+        <translation>&lt; 空 &gt;</translation>
     </message>
 </context>
 <context>
@@ -580,7 +580,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="719"/>
         <source>Customize toolbar...</source>
-        <translation>ツールバーのカスタマイズ...</translation>
+        <translation>ツールバーをカスタマイズ...</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="1692"/>
@@ -665,7 +665,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="3524"/>
         <source>&lt;Search results&gt;</source>
-        <translation>&lt;Search results&gt;</translation>
+        <translation>&lt;検索結果&gt;</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3621"/>
@@ -770,7 +770,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="4102"/>
         <source>Delete items</source>
-        <translation>アイテムを削除</translation>
+        <translation>項目を削除</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2044"/>
@@ -865,7 +865,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="CategorySets.cpp" line="43"/>
         <source>&lt;Unsaved Layout&gt;</source>
-        <translation></translation>
+        <translation>&lt;保存されていないレイアウト&gt;</translation>
     </message>
     <message>
         <location filename="CategorySets.cpp" line="190"/>
@@ -1034,7 +1034,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="CategoryView.cpp" line="686"/>
         <source>Are you sure to clear this album?</source>
-        <translation>このアルバムを空にしてもよろしいですか？</translation>
+        <translation>このアルバムを空にしてよろしいですか？</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="697"/>
@@ -1358,7 +1358,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DlgCurves.h" line="38"/>
         <location filename="DlgConvertProcess.h" line="505"/>
         <source>Curves</source>
-        <translation>トーンカーブ</translation>
+        <translation>曲線</translation>
     </message>
     <message>
         <location filename="DlgWhiteBalance.h" line="64"/>
@@ -1420,7 +1420,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgConvertProcess.h" line="2935"/>
         <source>Edge detect</source>
-        <translation>エッジ抽出</translation>
+        <translation>輪郭検出</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="3002"/>
@@ -1482,7 +1482,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgConvertProcess.h" line="4739"/>
         <source>Symmetry</source>
-        <translation>シンメトリー</translation>
+        <translation>対称性</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="4760"/>
@@ -1493,7 +1493,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DlgConvertProcess.h" line="4804"/>
         <source>Mono Mixer</source>
         <translatorcomment>モノミキサー</translatorcomment>
-        <translation></translation>
+        <translation>モノミキサー</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="4829"/>
@@ -1503,7 +1503,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgConvertProcess.h" line="4849"/>
         <source>Crystallize</source>
-        <translation>クリスタライズ</translation>
+        <translation>結晶化</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="4867"/>
@@ -1574,7 +1574,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DlgConvertProcess.h" line="3120"/>
         <source>Normalize Ex</source>
         <translatorcomment>TXT_NviewMenu_Normalize2</translatorcomment>
-        <translation>ノーマライズEx</translation>
+        <translation>正規化 Ex</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="3125"/>
@@ -1597,7 +1597,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DlgConvertProcess.h" line="3178"/>
         <source>Align histogram</source>
         <translatorcomment>TXT_BrowseMenu_Histogram</translatorcomment>
-        <translation>ヒストグラム</translation>
+        <translation>ヒストグラムを調整</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="3185"/>
@@ -1708,7 +1708,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgConvert.cpp" line="391"/>
         <source>Equalize</source>
-        <translation>イコライズ</translation>
+        <translation>均等化</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="392"/>
@@ -1748,7 +1748,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DlgFilter.cpp" line="49"/>
         <source>Enhance edges</source>
         <translatorcomment>TXT_String_Enhance_Edges</translatorcomment>
-        <translation>エッジの強調</translation>
+        <translation>エッジ強調</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="413"/>
@@ -1953,7 +1953,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgConvert.cpp" line="1826"/>
         <source>Stylize</source>
-        <translation>スタイライズ</translation>
+        <translation>スタイル調整</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1827"/>
@@ -2064,7 +2064,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="MyDB.cpp" line="898"/>
         <source>Portraits</source>
-        <translation>ポートレイト</translation>
+        <translation>肖像画</translation>
     </message>
     <message>
         <location filename="MyDB.cpp" line="899"/>
@@ -2125,7 +2125,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DBFilterModel.cpp" line="163"/>
         <source>Special Items</source>
-        <translation>特別なアイテム</translation>
+        <translation>特別な項目</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="166"/>
@@ -2207,7 +2207,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DBFilterModel.cpp" line="1668"/>
         <source>Portrait</source>
-        <translation>ポートレイト</translation>
+        <translation>肖像画</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1669"/>
@@ -2799,7 +2799,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DlgBatchResize.cpp" line="143"/>
         <source>Same as original</source>
         <oldsource>As original</oldsource>
-        <translation>元画像と同じ</translation>
+        <translation>元画像と同様</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1027"/>
@@ -3181,7 +3181,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgCapture.ui" line="55"/>
         <source>Active window</source>
-        <translation>アクティブなウィンドウ</translation>
+        <translation>作業中のウィンドウ</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="64"/>
@@ -3201,7 +3201,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgCapture.ui" line="104"/>
         <source>Delay</source>
-        <translation>ディレイ</translation>
+        <translation>遅延</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="116"/>
@@ -4285,7 +4285,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertAspectPad.ui" line="90"/>
         <source>Portrait</source>
-        <translation>ポートレイト</translation>
+        <translation>肖像画</translation>
     </message>
 </context>
 <context>
@@ -4333,7 +4333,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="161"/>
         <source>Edges</source>
-        <translation>エッジ</translation>
+        <translation>端</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="174"/>
@@ -5635,12 +5635,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertCrystallize.ui" line="160"/>
         <source>Edges</source>
-        <translation>エッジ</translation>
+        <translation>端</translation>
     </message>
     <message>
         <location filename="DlgConvertCrystallize.ui" line="248"/>
         <source>Fade edges</source>
-        <translation>エッジをぼかす</translation>
+        <translation>端をぼかす</translation>
     </message>
 </context>
 <context>
@@ -6675,7 +6675,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertRotate.ui" line="208"/>
         <source>Only portrait</source>
-        <translation>ポートレイトのみ</translation>
+        <translation>肖像画のみ</translation>
     </message>
     <message>
         <location filename="DlgConvertRotate.ui" line="213"/>
@@ -11022,7 +11022,7 @@ Do you want to remove them?</source>
         <location filename="DlgRename.ui" line="441"/>
         <source>Double click on a filename to create a new name template</source>
         <oldsource>Double click on a filename create a new name template</oldsource>
-        <translation>ファイル名をダブルクリックすると新しい名前のテンプレートを作成します</translation>
+        <translation>ファイル名をダブルクリックして、新しい命名テンプレートを作成</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="457"/>
@@ -12515,7 +12515,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="140"/>
         <source>Auto-select first item on entering folder</source>
-        <translation>フォルダに入ったときに最初のアイテムを自動選択</translation>
+        <translation>フォルダに入ったときに最初の項目を自動選択</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="147"/>
@@ -18438,7 +18438,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DBFilterModel.cpp" line="1684"/>
         <source>Portrait</source>
-        <translation>ポートレイト</translation>
+        <translation>肖像画</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1685"/>
@@ -19745,13 +19745,13 @@ Do you want to continue?</source>
     <message>
         <location filename="InfoPanel.cpp" line="88"/>
         <source>Copy item</source>
-        <translation>アイテムをコピー</translation>
+        <translation>項目をコピー</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="89"/>
         <source>Copy all items</source>
         <translatorcomment>0.60</translatorcomment>
-        <translation>すべてのアイテムをコピー</translation>
+        <translation>すべての項目をコピー</translation>
     </message>
     <message>
         <location filename="InfoPanel.cpp" line="95"/>
@@ -20583,12 +20583,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="CompareWidget.cpp" line="480"/>
         <source>Unrated</source>
-        <translation>レートなし</translation>
+        <translation>評価なし</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="500"/>
         <source>Uncolored</source>
-        <translation>カラーラベルなし</translation>
+        <translation>無着色</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="557"/>
@@ -23464,22 +23464,22 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyHistogram.cpp" line="255"/>
         <source>Shadows</source>
-        <translation>シャドウ</translation>
+        <translation>黒潰れ</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="256"/>
         <source>Highlights</source>
-        <translation>ハイライト</translation>
+        <translation>白飛び</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="257"/>
         <source>Shadows + Highlights</source>
-        <translation>シャドウ＋ハイライト</translation>
+        <translation>黒潰れ＋白飛び</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="258"/>
         <source>Highlights (per channel)</source>
-        <translation>ハイライト（チャンネル別）</translation>
+        <translation>白飛び（チャンネル別）</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="264"/>
