@@ -281,7 +281,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="859"/>
         <source>Click to hide</source>
-        <translation type="unfinished"></translation>
+        <translation>Clicca per nascondere</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="1550"/>
@@ -468,7 +468,7 @@
     <message>
         <location filename="AutoDateTimeEdit.h" line="89"/>
         <source>Not set</source>
-        <translation type="unfinished"></translation>
+        <translation>Non impostato</translation>
     </message>
 </context>
 <context>
@@ -2071,7 +2071,7 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="169"/>
         <source>No face</source>
-        <translation type="unfinished"></translation>
+        <translation>Senza volto</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="170"/>
@@ -5201,7 +5201,7 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgConvert.ui" line="651"/>
         <source>Multiple resolution...</source>
-        <translation type="unfinished"></translation>
+        <translation>Risoluzione multipla...</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="950"/>
@@ -7661,12 +7661,12 @@ Volete salvare le vostre modifiche?</translation>
     <message>
         <location filename="DlgEditXMP.cpp" line="398"/>
         <source>Enter a template name</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserisci un nome per il modello</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="398"/>
         <source>Template name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome del modello:</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="452"/>
@@ -8325,7 +8325,7 @@ Si prega di riavviare con i privilegi di Amministratore.</translation>
     <message>
         <location filename="DlgFileListing.ui" line="36"/>
         <source>Columns presets:</source>
-        <translation type="unfinished"></translation>
+        <translation>Preimpostazioni delle colonne:</translation>
     </message>
     <message>
         <location filename="DlgFileListing.ui" line="87"/>
@@ -8340,7 +8340,7 @@ Si prega di riavviare con i privilegi di Amministratore.</translation>
     <message>
         <location filename="DlgFileListing.ui" line="116"/>
         <source>Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Separatore</translation>
     </message>
     <message>
         <location filename="DlgFileListing.ui" line="179"/>
@@ -8360,7 +8360,7 @@ Si prega di riavviare con i privilegi di Amministratore.</translation>
     <message>
         <location filename="DlgFileListing.cpp" line="36"/>
         <source>Current columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Colonne attuali</translation>
     </message>
     <message>
         <location filename="DlgFileListing.cpp" line="128"/>
@@ -8917,7 +8917,7 @@ Si prega di riavviare con i privilegi di Amministratore.</translation>
     <message>
         <location filename="DlgHistoryList.h" line="27"/>
         <source>Preset name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome della preimpostazione:</translation>
     </message>
 </context>
 <context>
@@ -9112,7 +9112,7 @@ Saranno create delle sottocartelle. </translation>
     <message>
         <location filename="DlgImport.cpp" line="223"/>
         <source>Open Metadata Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Apri un modello di metadati</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="240"/>
@@ -10737,22 +10737,22 @@ Si desidera rimuoverli?</translation>
     <message>
         <location filename="DlgRename.cpp" line="1368"/>
         <source>Preset name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome preimpostazione:</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1376"/>
         <source>Preset &apos;%1&apos; already exists. Overwrite?</source>
-        <translation type="unfinished"></translation>
+        <translation>La preimpostazione &apos;%1&apos; esiste già. Sovrascriverla?</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1399"/>
         <source>Delete preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimina la preimpostazione</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1400"/>
         <source>Delete preset &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminare la preimpostazione &apos;%1&apos;?</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1428"/>
@@ -11319,7 +11319,7 @@ Si desidera rimuoverli?</translation>
     <message>
         <location filename="DlgSearch.cpp" line="352"/>
         <source>Preset search name:</source>
-        <translation>Nome della preimpostazione:</translation>
+        <translation>Nome di ricerca della preimpostazione:</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="355"/>
@@ -11396,7 +11396,7 @@ Si desidera rimuoverli?</translation>
     <message>
         <location filename="DlgSearch.ui" line="153"/>
         <source>Filesystem</source>
-        <translation type="unfinished"></translation>
+        <translation>File system</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="158"/>
@@ -11626,17 +11626,17 @@ Si desidera rimuoverli?</translation>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="378"/>
         <source>Clear All</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancella tutto</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="378"/>
         <source>Remove all items from the list?</source>
-        <translation type="unfinished"></translation>
+        <translation>Rimuovere tutti gli elementi dall&apos;elenco?</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="397"/>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Default</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="397"/>
@@ -11646,22 +11646,22 @@ Si desidera rimuoverli?</translation>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="587"/>
         <source>Expand All</source>
-        <translation type="unfinished"></translation>
+        <translation>Espandi tutto</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="592"/>
         <source>Collapse All</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprimi tutto</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="912"/>
         <source>Save Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Salva preimpostazione</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="912"/>
         <source>Preset name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome preimpostazione:</translation>
     </message>
 </context>
 <context>
@@ -11750,7 +11750,7 @@ Si desidera rimuoverli?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="553"/>
         <source>Clear all</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancella tutto</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="498"/>
@@ -11932,7 +11932,7 @@ Si desidera rimuoverli?</translation>
     <message>
         <location filename="DlgSettingsCache.cpp" line="163"/>
         <source>Database [catalog: %1 %2 - metadata: %5 %6 - thumbnails: %3 %4]</source>
-        <translation type="unfinished"></translation>
+        <translation>Database [catalogo: %1 %2 - metadati: %5 %6 - miniature: %3 %4]</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="325"/>
@@ -12104,7 +12104,7 @@ Volete rimuovere le voci assegnate ad una Categoria?</translation>
     <message>
         <location filename="DlgSettingsCache.ui" line="282"/>
         <source>Maintenance</source>
-        <translation type="unfinished"></translation>
+        <translation>Manutenzione</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="323"/>
@@ -13984,12 +13984,12 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="159"/>
         <source>Update catalog when file is modified outside (file date/size)</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiorna il catalogo quando il file viene modificato esternamente (data/dimensione del file)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="214"/>
         <source>XMP (dc:description and exif:UserComment)</source>
-        <translation type="unfinished"></translation>
+        <translation>XMP (dc:description e exif:UserComment)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="224"/>
@@ -13999,17 +13999,17 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="230"/>
         <source>Update keywords when file is modified outside (file date/size)</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiorna le parole chiave quando il file viene modificato esternamente (data/dimensione del file)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="246"/>
         <source>Read Hierarchical keywords</source>
-        <translation type="unfinished"></translation>
+        <translation>Leggi le parole chiave gerarchiche</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="340"/>
         <source>Write Hierarchical keywords (| as separator)</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrivi le parole chiave gerarchiche (| come separatore)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="131"/>
@@ -14055,13 +14055,13 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="684"/>
         <source>Rating labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Etichette di valutazione</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="840"/>
         <source>Color labels</source>
         <oldsource>Labels</oldsource>
-        <translation>Etichette</translation>
+        <translation>Etichette di colore</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="764"/>
@@ -14660,22 +14660,22 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="190"/>
         <source>Clipping warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Avviso di clipping</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="215"/>
         <source>Shadows</source>
-        <translation type="unfinished"></translation>
+        <translation>Ombre</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="208"/>
         <source>Highlights</source>
-        <translation type="unfinished"></translation>
+        <translation>Alte luci</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="238"/>
         <source>Remember state</source>
-        <translation type="unfinished"></translation>
+        <translation>Ricorda lo stato</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="258"/>
@@ -14685,7 +14685,7 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="176"/>
         <source>Highlight the selection area</source>
-        <translation type="unfinished"></translation>
+        <translation>Evidenzia l&apos;area selezionata</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="291"/>
@@ -14695,37 +14695,37 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="346"/>
         <source>Navigation resets zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>La navigazione reimposta lo zoom</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="373"/>
         <source>Navigation resets X/Y position (&apos;No fit&apos; only)</source>
-        <translation type="unfinished"></translation>
+        <translation>La navigazione reimposta la posizione X/Y (solo &apos;Nessun adattamento&apos;)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="514"/>
         <source>Render</source>
-        <translation type="unfinished"></translation>
+        <translation>Render</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="522"/>
         <source>Pixel aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Rapporto d&apos;aspetto dei pixel</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="762"/>
         <source>Video/Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Video/Audio</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="768"/>
         <source>Auto play</source>
-        <translation type="unfinished"></translation>
+        <translation>Riproduzione automatica</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="775"/>
         <source>Loop playing</source>
-        <translation type="unfinished"></translation>
+        <translation>Riproduzione in loop</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="944"/>
@@ -15929,27 +15929,27 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="20"/>
         <source>Update database</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiornamento del database</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="28"/>
         <source>Update from</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiornamento da</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="35"/>
         <source>Sidecar/Master files</source>
-        <translation type="unfinished"></translation>
+        <translation>File sidecar/master</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="42"/>
         <source>Master files only</source>
-        <translation type="unfinished"></translation>
+        <translation>Solo file master</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="64"/>
         <source>Use modified files only</source>
-        <translation type="unfinished"></translation>
+        <translation>Usa solo i file modificati</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="20"/>
@@ -15964,17 +15964,17 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="51"/>
         <source>%1 file(s) to process</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 file da elaborare</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="125"/>
         <source>Update cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiornamento annullato</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="125"/>
         <source>Update completed</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiornamento completato</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="147"/>
@@ -17851,17 +17851,17 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2837"/>
         <source>Check status</source>
-        <translation type="unfinished"></translation>
+        <translation>Controlla lo stato</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2843"/>
         <source>Frame index</source>
-        <translation type="unfinished"></translation>
+        <translation>Indice fotogrammi</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2844"/>
         <source>Frame count</source>
-        <translation type="unfinished"></translation>
+        <translation>Conteggio fotogrammi</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="30"/>
@@ -22767,32 +22767,32 @@ Volete continuare?</translation>
         <location filename="MyView.cpp" line="108"/>
         <location filename="ViewMenu.h" line="472"/>
         <source>Shadows</source>
-        <translation type="unfinished"></translation>
+        <translation>Ombre</translation>
     </message>
     <message>
         <location filename="MyView.cpp" line="93"/>
         <location filename="MyView.cpp" line="111"/>
         <location filename="ViewMenu.h" line="473"/>
         <source>Highlights</source>
-        <translation type="unfinished"></translation>
+        <translation>Alte luci</translation>
     </message>
     <message>
         <location filename="MyView.cpp" line="95"/>
         <location filename="ViewMenu.h" line="475"/>
         <source>Highlights (per channel)</source>
-        <translation type="unfinished"></translation>
+        <translation>Alte luci (per canale)</translation>
     </message>
     <message>
         <location filename="MyView.cpp" line="97"/>
         <location filename="ViewMenu.h" line="474"/>
         <source>Shadows + Highlights</source>
-        <translation type="unfinished"></translation>
+        <translation>Ombre + Alte luci</translation>
     </message>
     <message>
         <location filename="MyView.cpp" line="106"/>
         <location filename="ViewMenu.h" line="476"/>
         <source>Clipping warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Avviso di clipping</translation>
     </message>
 </context>
 <context>
@@ -23133,22 +23133,22 @@ Volete continuare?</translation>
     <message>
         <location filename="MyHistogram.cpp" line="255"/>
         <source>Shadows</source>
-        <translation type="unfinished"></translation>
+        <translation>Ombre</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="256"/>
         <source>Highlights</source>
-        <translation type="unfinished"></translation>
+        <translation>Alte luci</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="257"/>
         <source>Shadows + Highlights</source>
-        <translation type="unfinished"></translation>
+        <translation>Ombre + Alte luci</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="258"/>
         <source>Highlights (per channel)</source>
-        <translation type="unfinished"></translation>
+        <translation>Alte luci (per canale)</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="264"/>
@@ -23264,7 +23264,7 @@ Potete cambiarla in Impostazioni &gt; Catalogo.</translation>
     <message>
         <location filename="MyThumbView.cpp" line="761"/>
         <source>Updating catalog, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiornamento del catalogo in corso, attendere...</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="779"/>
