@@ -332,7 +332,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="3169"/>
         <source>&lt;%1&gt; already exists!</source>
-        <translation>&lt;%1&gt; はすでに存在します</translation>
+        <translation>&lt;%1&gt; はすでに存在します！</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="3169"/>
@@ -419,7 +419,7 @@
         <location filename="ViewWindow.cpp" line="3195"/>
         <location filename="ViewWindow.cpp" line="3376"/>
         <source>An error occurred during saving!</source>
-        <translation>保存中にエラーが発生しました</translation>
+        <translation>保存中にエラーが発生しました！</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="3466"/>
@@ -511,7 +511,7 @@
         <location filename="ViewWindow.cpp" line="5165"/>
         <location filename="ViewWindow.cpp" line="5174"/>
         <source>File can&apos;t be loaded!</source>
-        <translation>ファイルが読み込めません</translation>
+        <translation>ファイルが読み込めません！</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="5165"/>
@@ -549,7 +549,7 @@
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation>このお気に入りは存在しないフォルダを指しています。
+        <translation>このお気に入りは存在しないフォルダーを指しています。
 
 &quot;%1&quot;のお気に入りを削除しますか？</translation>
     </message>
@@ -624,7 +624,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="BrowserWindow.cpp" line="919"/>
         <source>The database is corrupted. Please check it before you continue!</source>
         <oldsource>The database is corrupted, please check it before to continue!</oldsource>
-        <translation>データベースが壊れています。続ける前にチェックしてください。</translation>
+        <translation>データベースが壊れています。続ける前に確認してください！</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="1684"/>
@@ -670,7 +670,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="3621"/>
         <source>This folder doesn&apos;t exist!</source>
-        <translation>このフォルダーは存在しません</translation>
+        <translation>このフォルダーは存在しません！</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3847"/>
@@ -1004,12 +1004,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="CategoryView.cpp" line="637"/>
         <source>Export (Bridge format)...</source>
-        <translation>エクスポート（形式を橋渡し）...</translation>
+        <translation>エクスポート（Bridge形式）...</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="640"/>
         <source>Import (Bridge format)...</source>
-        <translation>インポート（形式を橋渡し）...</translation>
+        <translation>インポート（Bridge形式）...</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="665"/>
@@ -1426,7 +1426,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DlgConvertProcess.h" line="3002"/>
         <source>De-interlace</source>
         <translatorcomment>TXT_String_Deinterlace</translatorcomment>
-        <translation>インターレース除去</translation>
+        <translation>インターレース解除</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="3339"/>
@@ -1471,7 +1471,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgConvertProcess.h" line="4699"/>
         <source>Remove alpha channel</source>
-        <translation>アルファチャンネルを除去</translation>
+        <translation>アルファチャンネルを削除</translation>
     </message>
     <message>
         <location filename="DlgOffset.h" line="104"/>
@@ -1540,7 +1540,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgConvertProcess.h" line="2802"/>
         <source>Swap color</source>
-        <translation>色の交換</translation>
+        <translation>色交換</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="3044"/>
@@ -1597,12 +1597,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DlgConvertProcess.h" line="3178"/>
         <source>Align histogram</source>
         <translatorcomment>TXT_BrowseMenu_Histogram</translatorcomment>
-        <translation>ヒストグラムを調整</translation>
+        <translation>ヒストグラムの調整</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="3185"/>
         <source>Align %</source>
-        <translation>調節 %</translation>
+        <translation>整列 %</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="3254"/>
@@ -1686,7 +1686,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DlgConvert.cpp" line="381"/>
         <source>Negative</source>
         <translatorcomment>TXT_String_Negative</translatorcomment>
-        <translation>ネガポジ反転</translation>
+        <translation>ネガ（反転）</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="382"/>
@@ -1741,7 +1741,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DlgFilter.cpp" line="48"/>
         <source>Enhance focus</source>
         <translatorcomment>TXT_String_Enhance_Focus</translatorcomment>
-        <translation>ピント強調</translation>
+        <translation>フォーカス強調</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="412"/>
@@ -1755,7 +1755,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DlgFilter.cpp" line="50"/>
         <source>Focus restoration</source>
         <translatorcomment>TXT_String_Focus_Restoration</translatorcomment>
-        <translation>ピント強調(強)</translation>
+        <translation>フォーカス復元</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="415"/>
@@ -1776,7 +1776,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DlgFilter.cpp" line="41"/>
         <source>Average</source>
         <translatorcomment>TXT_String_Average</translatorcomment>
-        <translation>平均ぼかし</translation>
+        <translation>平均</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="418"/>
@@ -1791,7 +1791,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DlgFilter.cpp" line="43"/>
         <source>Soften</source>
         <translatorcomment>TXT_String_Soften</translatorcomment>
-        <translation>ソフトぼかし</translation>
+        <translation>ソフト化</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="420"/>
@@ -1840,7 +1840,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DlgFilter.cpp" line="64"/>
         <source>Reduce noise</source>
         <translatorcomment>TXT_String_Reduce_Noise</translatorcomment>
-        <translation>ノイズ除去</translation>
+        <translation>ノイズ低減</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="436"/>
@@ -1901,7 +1901,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DlgFilter.cpp" line="81"/>
         <source>Lens</source>
         <translatorcomment>TXT_String_Lens</translatorcomment>
-        <translation>球面レンズ</translation>
+        <translation>レンズ</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="447"/>
@@ -1928,7 +1928,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgConvert.cpp" line="1821"/>
         <source>Enhance</source>
-        <translation>強化</translation>
+        <translation>補正</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1822"/>
@@ -1958,7 +1958,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgConvert.cpp" line="1827"/>
         <source>Transform</source>
-        <translation>トランスフォーム</translation>
+        <translation>変換</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1828"/>
@@ -1974,7 +1974,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgEnhanceColors.cpp" line="212"/>
         <source>Enhance colors</source>
-        <translation>色を強調</translation>
+        <translation>色調整</translation>
     </message>
     <message>
         <location filename="DlgFilm.cpp" line="138"/>
@@ -2230,7 +2230,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgAbout.ui" line="14"/>
         <source>About</source>
-        <translation>About</translation>
+        <translation>XnViewMPについて</translation>
     </message>
 </context>
 <context>
@@ -2279,7 +2279,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgAcquireInto.ui" line="141"/>
         <source>Save as multipage (TIFF/PDF)</source>
-        <translation>マルチページとして保存 （TIFF/PDF)</translation>
+        <translation>複数ページとして保存 （TIFF/PDF)</translation>
     </message>
     <message>
         <location filename="DlgAcquireInto.ui" line="166"/>
@@ -2299,7 +2299,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgAcquireInto.cpp" line="73"/>
         <source>Please enter a valid output pathname!</source>
-        <translation>適切な出力パス名を入力してください</translation>
+        <translation>適切な出力パス名を入力してください！</translation>
     </message>
     <message>
         <location filename="DlgAcquireInto.cpp" line="77"/>
@@ -2348,7 +2348,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgAdobeConfigure.ui" line="58"/>
         <source>Remove</source>
-        <translation>除去</translation>
+        <translation>削除</translation>
     </message>
     <message>
         <location filename="DlgAdobeConfigure.cpp" line="28"/>
@@ -2366,7 +2366,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgAdobePlugin.ui" line="61"/>
         <source>About...</source>
-        <translation>About...</translation>
+        <translation>について...</translation>
     </message>
     <message>
         <location filename="DlgAdobePlugin.ui" line="81"/>
@@ -2432,7 +2432,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgBanner.ui" line="169"/>
         <source>Alignment</source>
-        <translation>文字揃え</translation>
+        <translation>配置</translation>
     </message>
     <message>
         <location filename="DlgBanner.ui" line="151"/>
@@ -2799,7 +2799,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DlgBatchResize.cpp" line="143"/>
         <source>Same as original</source>
         <oldsource>As original</oldsource>
-        <translation>元画像と同様</translation>
+        <translation>元のものと同様に</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1027"/>
@@ -2930,7 +2930,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgBatchResize.ui" line="199"/>
         <source>About</source>
-        <translation>About</translation>
+        <translation>について</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1364"/>
@@ -2990,7 +2990,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DlgBatchResize.cpp" line="590"/>
         <source>The &apos;Use multiple CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</source>
         <oldsource>The &apos;Use CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</oldsource>
-        <translation>「複数CPUコアを使用」設定は無効化されました。この設定は「確認」モードやマルチページPDFと併用できません。</translation>
+        <translation>「複数CPUコアを使用」設定は無効化されました。この設定は「確認」モードや複数ページのPDFと併用できません。</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="638"/>
@@ -3074,12 +3074,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgBatchResize.cpp" line="1435"/>
         <source>has read-only attribute, and can&apos;t be overwritten!</source>
-        <translation>読み込み専用のため上書きできません</translation>
+        <translation>読み込み専用のため、上書きできません！</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1438"/>
         <source>skipped, file already exists!</source>
-        <translation>スキップしました.。ファイルがすでに存在します</translation>
+        <translation>スキップしました.。ファイルがすでに存在します！</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.cpp" line="1440"/>
@@ -3292,7 +3292,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgCategorySetsSettings.ui" line="50"/>
         <source>Remove</source>
-        <translation>除去</translation>
+        <translation>削除</translation>
     </message>
     <message>
         <location filename="DlgCategorySetsSettings.ui" line="57"/>
@@ -3307,7 +3307,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgCategorySetsSettings.ui" line="90"/>
         <source>Rename Set...</source>
-        <translation>セットの名称変更...</translation>
+        <translation>セットの名前を変更...</translation>
     </message>
     <message>
         <location filename="DlgCategorySetsSettings.ui" line="97"/>
@@ -3357,7 +3357,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgChangeDepth.ui" line="14"/>
         <source>Change color depth</source>
-        <translation>色深度の変更</translation>
+        <translation>色の深度を変更</translation>
     </message>
     <message>
         <location filename="DlgChangeDepth.ui" line="20"/>
@@ -3381,7 +3381,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgClean.ui" line="27"/>
         <source>Remove</source>
-        <translation>除去</translation>
+        <translation>削除</translation>
     </message>
     <message>
         <location filename="DlgClean.ui" line="33"/>
@@ -3415,7 +3415,7 @@ Do you want to overwrite it?</oldsource>
         <location filename="DlgComment.ui" line="14"/>
         <source>Edit comment</source>
         <oldsource>Set comment</oldsource>
-        <translation>コメントを編集</translation>
+        <translation>コメント編集</translation>
     </message>
     <message>
         <location filename="DlgComment.ui" line="35"/>
@@ -3430,7 +3430,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgComment.ui" line="107"/>
         <source>Description (stored in descript.ion file)</source>
-        <translation>説明（説明ファイルに保存される）</translation>
+        <translation>説明（descript.ionファイルに保存）</translation>
     </message>
     <message>
         <location filename="DlgComment.ui" line="90"/>
@@ -3801,7 +3801,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgConvert.cpp" line="754"/>
         <source>_result</source>
-        <translation>_result</translation>
+        <translation>_結果</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1172"/>
@@ -3820,7 +3820,7 @@ Do you want to overwrite it?</oldsource>
         <location filename="DlgConvert.cpp" line="1356"/>
         <source>Please restart application.</source>
         <oldsource>Please restart XnConvert</oldsource>
-        <translation>アプリを再起動してください</translation>
+        <translation>アプリを再起動してください。</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1378"/>
@@ -3945,12 +3945,12 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgConvert.cpp" line="174"/>
         <source>Same as original</source>
-        <translation>元画像と同じ</translation>
+        <translation>元のものと同様に</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="563"/>
         <source>Convert with XnConvert</source>
-        <translation>XnConvertで変換する</translation>
+        <translation>XnConvertで変換</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="598"/>
@@ -4019,7 +4019,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.cpp" line="1668"/>
         <source>Remove file from filelist</source>
-        <translation>ファイルリストからファイルを除去</translation>
+        <translation>ファイルリストからファイルを削除</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1713"/>
@@ -4108,13 +4108,13 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.cpp" line="2709"/>
         <source>has read-only attribute, and can&apos;t be overwritten!</source>
-        <translation>読み込み専用のため上書きできません</translation>
+        <translation>読み込み専用のため、上書きできません！</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2712"/>
         <source>skipped, file already exists!</source>
         <translatorcomment>skipped, file already exists!</translatorcomment>
-        <translation>スキップしました.。ファイルがすでに存在します</translation>
+        <translation>スキップしました。ファイルがすでに存在します！</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2714"/>
@@ -4216,7 +4216,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert.cpp" line="3052"/>
         <source>The &apos;Use multiple CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</source>
         <oldsource>The &apos;Use CPU Cores&apos; setting was disabled. This setting can&apos;t be combined with &apos;Ask&apos; mode or multipage PDF files.</oldsource>
-        <translation>「複数CPUコアを使用」設定は無効化されました。この設定は「確認」モードやマルチページPDF と併用できません。</translation>
+        <translation>「複数CPUコアを使用」設定は無効化されました。この設定は「確認」モードや複数ページのPDF と併用できません。</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="3054"/>
@@ -4303,7 +4303,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="73"/>
         <source>Tolerance</source>
-        <translation>公差</translation>
+        <translation>許容範囲</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="135"/>
@@ -4776,12 +4776,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert-old.ui" line="124"/>
         <source>Remove</source>
-        <translation>除去</translation>
+        <translation>削除</translation>
     </message>
     <message>
         <location filename="DlgConvert-old.ui" line="138"/>
         <source>Remove all</source>
-        <translation>すべて除去</translation>
+        <translation>すべて削除</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="86"/>
@@ -4898,12 +4898,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert-old.ui" line="65"/>
         <source>Remove filtered</source>
-        <translation>フィルターされたものを除去</translation>
+        <translation>フィルターされたものを削除</translation>
     </message>
     <message>
         <location filename="DlgConvert-old.ui" line="72"/>
         <source>Remove unfiltered</source>
-        <translation>フィルターされてないものを除去</translation>
+        <translation>フィルターされてないものを削除</translation>
     </message>
     <message>
         <location filename="DlgConvert-old.ui" line="162"/>
@@ -5036,19 +5036,19 @@ Do you want to continue?</source>
         <location filename="DlgConvert.ui" line="1212"/>
         <location filename="DlgConvert-old.ui" line="1575"/>
         <source>Multipage</source>
-        <translation>マルチページ</translation>
+        <translation>複数ページ</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1218"/>
         <location filename="DlgConvert-old.ui" line="1581"/>
         <source>Convert multipage file to multipage file (when possible)</source>
-        <translation>マルチページファイルをマルチページファイルへ変換（可能であれば）</translation>
+        <translation>複数ページファイルを複数ページファイルへ変換（可能であれば）</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1225"/>
         <location filename="DlgConvert-old.ui" line="1588"/>
         <source>Convert all pages from multipage file</source>
-        <translation>マルチページファイルからすべてのページを変換</translation>
+        <translation>複数ページファイルからすべてのページを変換</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1241"/>
@@ -5075,7 +5075,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert.ui" line="1853"/>
         <location filename="DlgConvert-old.ui" line="1763"/>
         <source>About</source>
-        <translation>About</translation>
+        <translation>について</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1562"/>
@@ -5434,7 +5434,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="1967"/>
         <source>Remove preset from list</source>
-        <translation>リストからプリセットを除去</translation>
+        <translation>リストからプリセットを削除</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="2055"/>
@@ -5657,7 +5657,7 @@ Do you want to continue?</source>
         <location filename="DlgConvertDeinterlace.ui" line="17"/>
         <source>Eliminate</source>
         <translatorcomment>TXT_DeInterlace_Eliminate</translatorcomment>
-        <translation>除去</translation>
+        <translation>消去</translation>
     </message>
     <message>
         <location filename="DlgConvertDeinterlace.ui" line="23"/>
@@ -5968,7 +5968,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertIptc.ui" line="37"/>
         <source>Country code</source>
-        <translation>国コード</translation>
+        <translation>国別コード</translation>
     </message>
     <message>
         <location filename="DlgConvertIptc.ui" line="193"/>
@@ -6390,7 +6390,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertRemoveColor.ui" line="87"/>
         <source>Tolerance</source>
-        <translation>公差</translation>
+        <translation>許容範囲</translation>
     </message>
 </context>
 <context>
@@ -6416,7 +6416,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertReplaceColor.ui" line="78"/>
         <source>Tolerance</source>
-        <translation>公差</translation>
+        <translation>許容範囲</translation>
     </message>
 </context>
 <context>
@@ -6851,7 +6851,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertText.ui" line="405"/>
         <source>Alignment</source>
-        <translation>文字揃え</translation>
+        <translation>配置</translation>
     </message>
     <message>
         <location filename="DlgConvertText.ui" line="471"/>
@@ -7220,12 +7220,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgCreateMulti.ui" line="123"/>
         <source>Remove</source>
-        <translation>除去</translation>
+        <translation>削除</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.ui" line="182"/>
         <source>Insert all pages from multipage source files</source>
-        <translation>元のマルチページファイルからすべてのページを挿入</translation>
+        <translation>元の複数ページファイルからすべてのページを挿入</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.ui" line="191"/>
@@ -7267,7 +7267,7 @@ Do you want to continue?</source>
         <location filename="DlgCreateMulti.cpp" line="123"/>
         <source>Creating multipage file, please wait...</source>
         <oldsource>Create multipage file, please wait...</oldsource>
-        <translation>マルチページファイルを作成中。お待ちください...</translation>
+        <translation>複数ページファイルを作成しています。お待ちください...</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.cpp" line="126"/>
@@ -7277,7 +7277,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgCreateMulti.cpp" line="126"/>
         <source>An error occurred in multipage creating process!</source>
-        <translation>マルチページファイル作成処理でエラーが発生しました</translation>
+        <translation>複数ページファイル作成処理でエラーが発生しました！</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.cpp" line="158"/>
@@ -7307,7 +7307,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgCropSize.ui" line="51"/>
         <source>Remove</source>
-        <translation>取り除く</translation>
+        <translation>削除</translation>
     </message>
     <message>
         <location filename="DlgCropSize.ui" line="58"/>
@@ -7320,7 +7320,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgCurves.ui" line="14"/>
         <source>Curves</source>
-        <translation>トーンカーブ</translation>
+        <translation>曲線</translation>
     </message>
     <message>
         <location filename="DlgCurves.ui" line="22"/>
@@ -7336,7 +7336,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgCurves.ui" line="93"/>
         <source>Right click to remove control point</source>
-        <translation>右クリックでコントロールポイントを除去</translation>
+        <translation>右クリックでコントロールポイントを削除</translation>
     </message>
     <message>
         <location filename="DlgCurves.ui" line="102"/>
@@ -7384,7 +7384,7 @@ Do you want to continue?</source>
         <source>Remove data for empty directories</source>
         <oldsource>Remove empty directories</oldsource>
         <translatorcomment>0.60</translatorcomment>
-        <translation>空のディレクトリのデータを除去</translation>
+        <translation>空のディレクトリのデータを削除</translation>
     </message>
     <message>
         <location filename="DlgDBClean.ui" line="57"/>
@@ -7396,26 +7396,26 @@ Do you want to continue?</source>
         <source>Purge all thumbnails</source>
         <oldsource>Clean thumbnails</oldsource>
         <translatorcomment>0.60</translatorcomment>
-        <translation>すべてのサムネイルを除去</translation>
+        <translation>すべてのサムネイルを削除</translation>
     </message>
     <message>
         <location filename="DlgDBClean.ui" line="70"/>
         <source>Purge file data</source>
-        <translation>ファイルデータを除去</translation>
+        <translation>ファイルデータを削除</translation>
     </message>
     <message>
         <location filename="DlgDBClean.ui" line="40"/>
         <source>Remove data for orphaned directories</source>
         <oldsource>Check for orphaned directories</oldsource>
         <translatorcomment>0,60</translatorcomment>
-        <translation>不明なディレクトリのデータ除去</translation>
+        <translation>不明なディレクトリのデータを削除</translation>
     </message>
     <message>
         <location filename="DlgDBClean.ui" line="47"/>
         <source>Remove data for orphaned files</source>
         <oldsource>Check for orphaned files</oldsource>
         <translatorcomment>0.60</translatorcomment>
-        <translation>不明なファイルのデータ除去</translation>
+        <translation>不明なファイルのデータを削除</translation>
     </message>
     <message>
         <location filename="DlgDBClean.cpp" line="18"/>
@@ -7483,7 +7483,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditEXIF.ui" line="148"/>
         <source>User comment</source>
-        <translation>ユーザーコメント</translation>
+        <translation>ユーザーのコメント</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="162"/>
@@ -7586,7 +7586,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditFav.ui" line="14"/>
         <source>Edit favorites</source>
-        <translation>お気に入りの編集</translation>
+        <translation>お気に入りを編集</translation>
     </message>
     <message>
         <location filename="DlgEditFav.ui" line="66"/>
@@ -7614,7 +7614,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditGps.ui" line="14"/>
         <source>Edit GPS Data</source>
-        <translation>GPSデータ編集</translation>
+        <translation>GPSデータを編集</translation>
     </message>
     <message>
         <location filename="DlgEditGps.ui" line="79"/>
@@ -7675,7 +7675,7 @@ Do you want to continue?</source>
         <location filename="DlgEditGps.cpp" line="30"/>
         <source>ExifTool is not installed in AddOn folder!</source>
         <oldsource>ExifTool is not installed in Addon folder!</oldsource>
-        <translation>ExifToolがAddOnフォルダーにインストールされていません</translation>
+        <translation>ExifToolがAddOnフォルダーにインストールされていません！</translation>
     </message>
 </context>
 <context>
@@ -7765,7 +7765,7 @@ Please make sure that files are not read-only!</source>
         <oldsource>An error occured during processing. 
 Please make sure that files are not read-only!</oldsource>
         <translation>処理中にエラーが発生しました。
-ファイルが読み込み専用でないことを確認してください</translation>
+ファイルが読み込み専用でないことを確認してください！</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="484"/>
@@ -8701,7 +8701,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFtp.cpp" line="499"/>
         <source>The file called %1 already exists.</source>
-        <translation>ファイル&quot;%1&quot;はすでに存在します</translation>
+        <translation>ファイル&quot;%1&quot;はすでに存在します。</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="549"/>
@@ -8731,7 +8731,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFtp.cpp" line="509"/>
         <source>The file called %1 doesn&apos;t exist.</source>
-        <translation>ファイル&quot;%1&quot;は存在しません</translation>
+        <translation>ファイル&quot;%1&quot;は存在しません。</translation>
     </message>
     <message>
         <location filename="DlgFtp.cpp" line="540"/>
@@ -8769,7 +8769,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFtp.ui" line="49"/>
         <source>Remove entry</source>
-        <translation>エントリを除去</translation>
+        <translation>項目を削除</translation>
     </message>
     <message>
         <location filename="DlgFtp.ui" line="86"/>
@@ -8833,7 +8833,7 @@ Please try to start with admin rights.</source>
         <location filename="DlgFtp.h" line="206"/>
         <source>Aborted.</source>
         <oldsource>Aborted...</oldsource>
-        <translation>中断しました</translation>
+        <translation>中断しました。</translation>
     </message>
     <message>
         <location filename="DlgFtp.h" line="237"/>
@@ -8853,12 +8853,12 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFtp.h" line="245"/>
         <source>The file called %1 already exists.</source>
-        <translation>ファイル&quot;%1&quot;はすでに存在します</translation>
+        <translation>ファイル&quot;%1&quot;はすでに存在します。</translation>
     </message>
     <message>
         <location filename="DlgFtp.h" line="255"/>
         <source>The file called %1 doesn&apos;t exist.</source>
-        <translation>ファイル&quot;%1&quot;は存在しません</translation>
+        <translation>ファイル&quot;%1&quot;は存在しません。</translation>
     </message>
     <message>
         <location filename="DlgFtp.h" line="265"/>
@@ -9060,7 +9060,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgHotFolder.ui" line="66"/>
         <source>Remove</source>
-        <translation>除去</translation>
+        <translation>削除</translation>
     </message>
     <message>
         <location filename="DlgHotFolder.h" line="73"/>
@@ -9116,7 +9116,7 @@ Subfolders will be created. </source>
     <message>
         <location filename="DlgImport.ui" line="104"/>
         <source>Transfer files with no EXIF to &apos;Other Files&apos; folder</source>
-        <translation>EXIFのないファイルを&apos;Other Files&apos;フォルダーに移動</translation>
+        <translation>EXIFのないファイルを&apos;その他のファイル&apos;フォルダーに移動</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="111"/>
@@ -9153,7 +9153,7 @@ Subfolders will be created. </source>
     <message>
         <location filename="DlgImport.ui" line="341"/>
         <source>Rename like photos</source>
-        <translation>写真のように名称変更</translation>
+        <translation>写真のように名前を変更</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="351"/>
@@ -9189,7 +9189,7 @@ Subfolders will be created. </source>
     <message>
         <location filename="DlgImport.ui" line="101"/>
         <source>The &apos;Other Files&apos; folder if doesn&apos;t exist will be created as a subfolder of destination.</source>
-        <translation>&apos;Other Files&apos;フォルダが存在しない場合、宛先のサブフォルダとして作成されます</translation>
+        <translation>&apos;その他のファイル&apos;フォルダーが存在しない場合、宛先のサブフォルダとして作成されます。</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="191"/>
@@ -9199,7 +9199,7 @@ Subfolders will be created. </source>
     <message>
         <location filename="DlgImport.ui" line="198"/>
         <source>Input folder</source>
-        <translation>入力フォルダ</translation>
+        <translation>入力フォルダー</translation>
     </message>
     <message>
         <location filename="DlgImport.ui" line="205"/>
@@ -9215,7 +9215,7 @@ Subfolders will be created. </source>
     <message>
         <location filename="DlgImport.cpp" line="240"/>
         <source>Import can&apos;t be done, source and destination folder is the same!</source>
-        <translation>インポートができませんでした。元のフォルダーと宛先のフォルダーが同じです</translation>
+        <translation>インポートができませんでした。元のフォルダーと宛先のフォルダーが同じです！</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="261"/>
@@ -9226,12 +9226,12 @@ Subfolders will be created. </source>
     <message>
         <location filename="DlgImport.cpp" line="261"/>
         <source>No files to import!</source>
-        <translation>インポートするファイルがありません</translation>
+        <translation>インポートするファイルがありません！</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="277"/>
         <source>Files import finished!</source>
-        <translation>ファイルのインポートが終わりました</translation>
+        <translation>ファイルのインポートが終わりました！</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="347"/>
@@ -9429,7 +9429,7 @@ Do you want to save your changes?</source>
     <message>
         <location filename="DlgIptc.cpp" line="1595"/>
         <source>Some fields are required, please fill them!</source>
-        <translation>必須項目があります。入力してください</translation>
+        <translation>必須項目があります。入力してください！</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="1666"/>
@@ -9440,7 +9440,7 @@ Please make sure that files are not read-only!</source>
         <oldsource>An error occured during processing. 
 Please make sure that files are not read-only!</oldsource>
         <translation>処理中にエラーが発生しました。
-ファイルが読み込み専用でないことを確認してください</translation>
+ファイルが読み込み専用でないことを確認してください！</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="1687"/>
@@ -9587,7 +9587,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgIptc.ui" line="607"/>
         <source>Country code</source>
-        <translation>国コード</translation>
+        <translation>国別コード</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="643"/>
@@ -9730,7 +9730,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgKeywordProperties.cpp" line="39"/>
         <source>This parent is already a child of current category!</source>
-        <translation>このカテゴリーはすでに現在のカテゴリーの子カテゴリーになってます</translation>
+        <translation>このカテゴリーはすでに現在のカテゴリーの子カテゴリーになってます！</translation>
     </message>
 </context>
 <context>
@@ -9905,7 +9905,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgOpenWith.ui" line="77"/>
         <source>Remove</source>
-        <translation>除去</translation>
+        <translation>削除</translation>
     </message>
 </context>
 <context>
@@ -9913,7 +9913,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPalette.ui" line="14"/>
         <source>Edit Palette</source>
-        <translation>パレットを編集</translation>
+        <translation>パレットの編集</translation>
     </message>
     <message>
         <location filename="DlgPalette.ui" line="76"/>
@@ -10016,7 +10016,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPresetsManage.ui" line="14"/>
         <source>Edit presets</source>
-        <translation>プリセットの編集</translation>
+        <translation>プリセットを編集</translation>
     </message>
 </context>
 <context>
@@ -10111,7 +10111,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPrint.ui" line="305"/>
         <source>Rows</source>
-        <translation>横列</translation>
+        <translation>行</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="312"/>
@@ -10397,12 +10397,12 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPrint.cpp" line="1619"/>
         <source>Page number</source>
-        <translation>ページ数</translation>
+        <translation>ページ番号</translation>
     </message>
     <message>
         <location filename="DlgPrint.cpp" line="1621"/>
         <source>Page count</source>
-        <translation>ページ総数</translation>
+        <translation>ページ数</translation>
     </message>
     <message>
         <location filename="DlgPrint.cpp" line="1623"/>
@@ -10462,7 +10462,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgProcess.ui" line="52"/>
         <source>Remove preset</source>
-        <translation>プリセットを除去</translation>
+        <translation>プリセットを削除</translation>
     </message>
     <message>
         <location filename="DlgProcess.ui" line="78"/>
@@ -10736,7 +10736,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgReadSettings.ui" line="14"/>
         <source>Load format settings</source>
-        <translation>形式の設定を読み込む</translation>
+        <translation>形式の設定を読み込み</translation>
     </message>
 </context>
 <context>
@@ -10783,7 +10783,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgRegistration.cpp" line="196"/>
         <source>The name or code is invalid!</source>
-        <translation>名前またはコードが不適切です</translation>
+        <translation>名前またはコードが不適切です！</translation>
     </message>
     <message>
         <location filename="DlgRegistration.cpp" line="209"/>
@@ -10800,7 +10800,7 @@ Thank you for purchasing %1.</source>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
         <source>Background remover</source>
-        <translation>背景除去</translation>
+        <translation>背景削除</translation>
     </message>
     <message>
         <location filename="DlgRemoveBg.cpp" line="113"/>
@@ -10820,7 +10820,7 @@ Please install it via Tools › Plugins</source>
     <message>
         <location filename="DlgRename.cpp" line="379"/>
         <source>Companion renaming</source>
-        <translation>付随ファイルの名前の変更</translation>
+        <translation>付随ファイルの名前を変更</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="105"/>
@@ -10879,7 +10879,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgRename.ui" line="14"/>
         <source>Batch rename</source>
-        <translation>一括名前変換</translation>
+        <translation>名前変更の一括処理</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="27"/>
@@ -10964,7 +10964,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgRename.ui" line="521"/>
         <source>Remove preset from list</source>
-        <translation>リストからプリセットを除去</translation>
+        <translation>リストからプリセットを削除</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="110"/>
@@ -10986,7 +10986,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgRename.ui" line="243"/>
         <source>With</source>
-        <translation>→</translation>
+        <translation>修正後の文字列</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="267"/>
@@ -11011,12 +11011,12 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgRename.ui" line="337"/>
         <source>Remove</source>
-        <translation>除去</translation>
+        <translation>削除</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="351"/>
         <source>Remove all</source>
-        <translation>すべて除去</translation>
+        <translation>すべて削除</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="441"/>
@@ -11155,7 +11155,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgResize.ui" line="53"/>
         <source>Remove preset</source>
-        <translation>プリセットを除去</translation>
+        <translation>プリセットを削除</translation>
     </message>
     <message>
         <location filename="DlgResize.ui" line="133"/>
@@ -11629,7 +11629,7 @@ Do you want to remove them?</source>
         <location filename="DlgSearchProgress.cpp" line="88"/>
         <source>Finished.</source>
         <oldsource>Finished...</oldsource>
-        <translation>完了しました</translation>
+        <translation>完了しました。</translation>
     </message>
     <message>
         <location filename="DlgSearchProgress.cpp" line="90"/>
@@ -11787,7 +11787,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="145"/>
         <source>Use tooltips</source>
-        <translation>ツールチップを使用する</translation>
+        <translation>ツールヒントを使用</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="50"/>
@@ -11807,7 +11807,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="118"/>
         <source>Show &apos;Desktop&apos; in folder tree</source>
-        <translation>フォルダツリーに「デスクトップ」を表示する</translation>
+        <translation>フォルダーツリーに「デスクトップ」を表示</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="207"/>
@@ -11928,7 +11928,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="139"/>
         <source>Tooltip</source>
-        <translation>ツールチップ</translation>
+        <translation>ツールヒント</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="393"/>
@@ -11964,7 +11964,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="461"/>
         <source>Never</source>
-        <translation>消去しない</translation>
+        <translation>しない</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="351"/>
@@ -12004,7 +12004,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="98"/>
         <source>Use lossless rotation (if possible)</source>
-        <translation>ロスレス回転を使用する（可能であれば）</translation>
+        <translation>ロスレス回転を使用（可能であれば）</translation>
     </message>
 </context>
 <context>
@@ -12073,7 +12073,7 @@ Do you want to change the &apos;base path&apos;?</source>
         <location filename="DlgSettingsCache.cpp" line="421"/>
         <location filename="DlgSettingsCache.cpp" line="662"/>
         <source>Catalog - Remove Entries</source>
-        <translation>カタログ - エントリーの除去</translation>
+        <translation>カタログ - 項目を削除</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="572"/>
@@ -12124,9 +12124,9 @@ Color labels, Keywords may be deleted.
 Do you want to check for affected entries first?</source>
         <oldsource>Warning! This operation may delete some database entries with assigned ratings/colors/keywords. Do you want to check for affected entries first?</oldsource>
         <translation>評価、カラーラベル、キーワードが割り当てられている
-データベースエントリが削除される場合があります。
+データベース項目が削除される場合があります。
 
-最初に、影響を受けたエントリーをチェックしますか？</translation>
+最初に、影響を受ける項目をチェックしますか？</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="422"/>
@@ -12265,7 +12265,7 @@ Do you want to remove entries assigned to a category?</oldsource>
         <location filename="DlgSettingsCache.ui" line="471"/>
         <source>Rebuild thumbnails</source>
         <translatorcomment>0.60</translatorcomment>
-        <translation>サムネイルを再構築</translation>
+        <translation>サムネイルを再作成</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="485"/>
@@ -12455,7 +12455,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="196"/>
         <source>Show companion files</source>
-        <translation>付随ファイルを表示する</translation>
+        <translation>付随ファイルを表示</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="110"/>
@@ -12465,7 +12465,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="49"/>
         <source>Recognize only by extension</source>
-        <translation>拡張子でのみ識別する</translation>
+        <translation>拡張子でのみ識別</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="117"/>
@@ -12480,7 +12480,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="58"/>
         <source>Scan file headers</source>
-        <translation>フェイルのヘッダをスキャン</translation>
+        <translation>ファイルのヘッダーをスキャン</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="66"/>
@@ -12515,7 +12515,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="140"/>
         <source>Auto-select first item on entering folder</source>
-        <translation>フォルダに入ったときに最初の項目を自動選択</translation>
+        <translation>フォルダーを開いたときに最初の項目を自動選択</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="147"/>
@@ -12600,7 +12600,7 @@ Thumbnail</source>
         <location filename="DlgSettingsFormat.ui" line="116"/>
         <source>Show most used formats at beginning</source>
         <oldsource>Show most used format at beginning</oldsource>
-        <translation>最もよく使われるフォーマットを最初に表示</translation>
+        <translation>よく使う形式を最初に表示</translation>
     </message>
     <message>
         <location filename="DlgSettingsFormat.ui" line="123"/>
@@ -12658,7 +12658,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.cpp" line="458"/>
         <source>Do you want to delete the selected Auto Correct entry?</source>
-        <translation>選択した自動修正を削除しますか？</translation>
+        <translation>選択した自動修正項目を削除しますか？</translation>
     </message>
 </context>
 <context>
@@ -12695,7 +12695,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="156"/>
         <source>Show all graphic formats</source>
-        <translation>すべての画像形式を表示</translation>
+        <translation>すべてのグラフィック形式を表示</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="193"/>
@@ -12846,7 +12846,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="112"/>
         <source>Grey</source>
-        <translation>灰色</translation>
+        <translation>グレー</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="117"/>
@@ -12922,7 +12922,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="579"/>
         <source>For &apos;Save as&apos;, use original format</source>
-        <translation>&apos;名前を付けて保存&apos;で元の形式を使用</translation>
+        <translation>&apos;名前を付けて保存&apos;時に元の形式を使用</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="632"/>
@@ -12942,7 +12942,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="726"/>
         <source>Use dialog to rename file/folder</source>
-        <translation>ファイル/フォルダーの名称変更にダイアログを使用する</translation>
+        <translation>ファイル/フォルダーの名前の変更にダイアログを使用</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="753"/>
@@ -13017,27 +13017,27 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="674"/>
         <source>&lt;Filename&gt; - Copy (#)</source>
-        <translation>&lt;Filename&gt; - コピー (#)</translation>
+        <translation>&lt;ファイル名&gt; - コピー (#)</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="694"/>
         <source>Copy (#) of &lt;Filename&gt;</source>
-        <translation>コピー (#) of &lt;Filename&gt;</translation>
+        <translation>コピー (#) of &lt;ファイル名&gt;</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="679"/>
         <source>&lt;Filename&gt;-Copy (#)</source>
-        <translation>&lt;Filename&gt;-コピー (#)</translation>
+        <translation>&lt;ファイル名&gt;-コピー (#)</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="684"/>
         <source>&lt;Filename&gt;-(#)</source>
-        <translation>&lt;Filename&gt;-(#)</translation>
+        <translation>&lt;ファイル名&gt;-(#)</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="689"/>
         <source>&lt;Filename&gt;-#</source>
-        <translation>&lt;Filename&gt;-#</translation>
+        <translation>&lt;ファイル名&gt;-#</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="783"/>
@@ -13093,7 +13093,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="1049"/>
         <source>Rendering intent:</source>
-        <translation>レンダリングインテント:</translation>
+        <translation>レンダリングの目的:</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="1078"/>
@@ -13123,7 +13123,7 @@ Thumbnail</source>
         <location filename="DlgSettingsIntegration.cpp" line="53"/>
         <location filename="DlgSettingsIntegration.cpp" line="61"/>
         <source>System - Local machine</source>
-        <translation>システム - ローカルマシン</translation>
+        <translation>システム - ローカルコンピューター</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="40"/>
@@ -13165,17 +13165,17 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="497"/>
         <source>Please be careful to folder rights by using XnView folder</source>
-        <translation>XnViewフォルダーの使用によるフォルダーの権利に注意してください</translation>
+        <translation>XnViewフォルダーを使用する際は、フォルダーの権限にご注意ください</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="687"/>
         <source>XnViewMP is a fast multi-format graphics browser, viewer, and converter. It reads more than 400 file formats.</source>
-        <translation>XnViewMPは、高速で多機能な画像ブラウザー／ビューアー／コンバーターです。400以上のファイル形式に対応しています。</translation>
+        <translation>XnViewMPは高速で多形式に対応した画像ブラウザー／ビューアー／コンバーターです。400種類以上のファイル形式に対応しています。</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="688"/>
         <source>XnViewMP for Windows</source>
-        <translation>XnViewMP for Windows</translation>
+        <translation>XnViewMP Windows版</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.cpp" line="735"/>
@@ -13271,7 +13271,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="393"/>
         <source>Local machine</source>
-        <translation>ローカルマシン</translation>
+        <translation>ローカルコンピューター</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="398"/>
@@ -13923,7 +13923,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="87"/>
         <source>Maximum entries:</source>
         <oldsource>Maximum entries</oldsource>
-        <translation>最大エントリー数：</translation>
+        <translation>最大項目数：</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="230"/>
@@ -13995,7 +13995,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="1118"/>
         <location filename="DlgSettingsInterface.ui" line="1345"/>
         <source>Defaults</source>
-        <translation>既定</translation>
+        <translation>デフォルト</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1141"/>
@@ -14029,7 +14029,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.cpp" line="87"/>
         <source>Locale</source>
-        <translation>地域・言語</translation>
+        <translation>ロケール</translation>
     </message>
 </context>
 <context>
@@ -14185,7 +14185,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="45"/>
         <source>Face tag</source>
-        <translation>フェイスタグ</translation>
+        <translation>顔タグ</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="83"/>
@@ -14195,7 +14195,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="214"/>
         <source>XMP (dc:description and exif:UserComment)</source>
-        <translation>XMP（dc:description と exif:UserComment）</translation>
+        <translation>XMP（dc:説明とexif:ユーザーのコメント）</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="224"/>
@@ -14205,7 +14205,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="430"/>
         <source>Supported formats</source>
-        <translation>サポートされている形式</translation>
+        <translation>対応形式</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="601"/>
@@ -14215,7 +14215,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="635"/>
         <source>Image description</source>
-        <translation>説明</translation>
+        <translation>画像の説明</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="840"/>
@@ -14235,7 +14235,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsThumbnail.ui" line="59"/>
         <source>Create high quality thumbnail (bilinear filter)</source>
         <oldsource>Create high quality thumbnail</oldsource>
-        <translation>高画質サムネイル作成（バイリニアフィルター）</translation>
+        <translation>高画質サムネイルを作成（バイリニアフィルター）</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="66"/>
@@ -14246,7 +14246,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsThumbnail.ui" line="94"/>
         <source>Create from original image if embedded thumbnail is smaller than thumbnail size</source>
         <oldsource>Create from original image if embedded thumbnail is smaller than thubnail size</oldsource>
-        <translation>埋め込みサムネイルがサムネイルサイズより小さければ、オリジナル画像を作成する</translation>
+        <translation>埋め込まれたサムネイルがサムネイルサイズより小さい場合は元の画像から作成</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="103"/>
@@ -14268,12 +14268,12 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="133"/>
         <source>Use gamma correction</source>
-        <translation>ガンマ補正を使用する</translation>
+        <translation>ガンマ補正を使用</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="173"/>
         <source>For video files, extract frame at</source>
-        <translation>動画ファイルで抽出するフレーム</translation>
+        <translation>動画ファイルから指定した位置のフレームを抽出</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="187"/>
@@ -14340,7 +14340,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="110"/>
         <source>Use transparency grid</source>
-        <translation>透明グリッドの使用</translation>
+        <translation>透明グリッドを使用</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="211"/>
@@ -14370,7 +14370,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="475"/>
         <source>Image alignment</source>
-        <translation>画像の位置合わせ</translation>
+        <translation>画像の配置</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="483"/>
@@ -14385,7 +14385,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="518"/>
         <source>Label alignment</source>
-        <translation>ラベルの位置揃え</translation>
+        <translation>ラベルの配置</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="526"/>
@@ -14440,7 +14440,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1314"/>
         <source>Remove</source>
-        <translation>除去</translation>
+        <translation>削除</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1338"/>
@@ -14511,7 +14511,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="791"/>
         <source>Face tag</source>
-        <translation>フェイスタグ</translation>
+        <translation>顔タグ</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="825"/>
@@ -14798,7 +14798,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="238"/>
         <source>Remember state</source>
-        <translation>状態を記憶する</translation>
+        <translation>状態を記憶</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="258"/>
@@ -14808,7 +14808,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="176"/>
         <source>Highlight the selection area</source>
-        <translation>選択範囲を強調表示する</translation>
+        <translation>選択範囲を強調表示</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="291"/>
@@ -14818,12 +14818,12 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="346"/>
         <source>Navigation resets zoom</source>
-        <translation>画像移動時にズームをリセットする</translation>
+        <translation>画像移動時にズームをリセット</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="373"/>
         <source>Navigation resets X/Y position (&apos;No fit&apos; only)</source>
-        <translation>画像移動時に表示位置（X/Y）をリセットする（画面に合わせないのみ）</translation>
+        <translation>画像移動時に表示位置（X/Y）をリセット（画面に合わせないのみ）</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="514"/>
@@ -14948,7 +14948,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="739"/>
         <source>Multipage files</source>
-        <translation>マルチページファイル</translation>
+        <translation>複数ページファイル</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="745"/>
@@ -14986,7 +14986,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSimilar.ui" line="90"/>
         <source>Remove</source>
-        <translation>除去</translation>
+        <translation>削除</translation>
     </message>
     <message>
         <location filename="DlgSimilar.ui" line="105"/>
@@ -15042,7 +15042,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSimilar.cpp" line="89"/>
         <source>No files found!</source>
-        <translation>ファイルが見つかりません</translation>
+        <translation>ファイルが見つかりません！</translation>
     </message>
 </context>
 <context>
@@ -15173,7 +15173,7 @@ Do you want to reassign?</source>
         <location filename="DlgSimilarResult.cpp" line="276"/>
         <source>Use as reference</source>
         <translatorcomment>要検討</translatorcomment>
-        <translation>リファレンスとして使用</translation>
+        <translation>参照として使用</translation>
     </message>
     <message>
         <location filename="DlgSimilarResult.cpp" line="281"/>
@@ -15269,7 +15269,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSlideshow.ui" line="343"/>
         <source>Watch folders for new files</source>
-        <translation>新しいファイルがないかフォルダを監視する</translation>
+        <translation>新しいファイルがないかフォルダーを監視する</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="580"/>
@@ -15403,7 +15403,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSplit.ui" line="14"/>
         <source>Split</source>
-        <translation>スプリット</translation>
+        <translation>分割</translation>
     </message>
     <message>
         <location filename="DlgSplit.ui" line="41"/>
@@ -15428,7 +15428,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSplit.ui" line="130"/>
         <source>Count</source>
-        <translation>数</translation>
+        <translation>分割数</translation>
     </message>
     <message>
         <location filename="DlgSplit.ui" line="140"/>
@@ -15438,7 +15438,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSplit.ui" line="169"/>
         <source>Rows</source>
-        <translation>横列</translation>
+        <translation>行</translation>
     </message>
     <message>
         <location filename="DlgSplit.ui" line="192"/>
@@ -15478,7 +15478,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSplit.cpp" line="162"/>
         <source>Splitting image(s), please wait...</source>
-        <translation>画像をスプリット中。お待ちください...</translation>
+        <translation>画像を分割中。お待ちください...</translation>
     </message>
 </context>
 <context>
@@ -15511,7 +15511,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgStartupWizard.ui" line="61"/>
         <source>Light</source>
-        <translation>弱</translation>
+        <translation>ライト</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="66"/>
@@ -15536,7 +15536,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgStartupWizard.ui" line="97"/>
         <source>Local machine</source>
-        <translation>ローカルマシン</translation>
+        <translation>ローカルコンピューター</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="102"/>
@@ -15641,7 +15641,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgStrip.ui" line="75"/>
         <source>Alignment</source>
-        <translation>文字揃え</translation>
+        <translation>配置</translation>
     </message>
     <message>
         <location filename="DlgStrip.ui" line="83"/>
@@ -15733,7 +15733,7 @@ Do you want to reassign?</source>
         <location filename="DlgTagPhoto.ui" line="14"/>
         <source>Face Tag</source>
         <oldsource>Tag Face</oldsource>
-        <translation>人物にタグを付ける</translation>
+        <translation>顔タグ</translation>
     </message>
     <message>
         <location filename="DlgTagPhoto.ui" line="85"/>
@@ -15764,7 +15764,7 @@ Do you want to reassign?</source>
         <location filename="DlgTagPhoto.ui" line="134"/>
         <location filename="DlgTagPhoto.cpp" line="454"/>
         <source>Remove</source>
-        <translation>除去</translation>
+        <translation>削除</translation>
     </message>
     <message>
         <location filename="DlgTagPhoto.cpp" line="475"/>
@@ -15817,7 +15817,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgTimestamp.cpp" line="537"/>
         <source>An error occurred in updating process!</source>
-        <translation>アップデート処理でエラーが発生しました</translation>
+        <translation>アップデート処理でエラーが発生しました！</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.cpp" line="552"/>
@@ -16151,7 +16151,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgUpload.ui" line="31"/>
         <source>Be careful, your image(s) will be uploaded on a public server!</source>
-        <translation>注意してください。公共のサーバーにあなたの画像がアップロードされます。</translation>
+        <translation>注意してください。公共のサーバーにあなたの画像がアップロードされます！</translation>
     </message>
     <message>
         <location filename="DlgUpload.ui" line="40"/>
@@ -16290,7 +16290,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgVideoGallery.ui" line="69"/>
         <source>Rows</source>
-        <translation>横列</translation>
+        <translation>行</translation>
     </message>
     <message>
         <location filename="DlgVideoGallery.ui" line="108"/>
@@ -16340,7 +16340,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgVideoGallery.cpp" line="68"/>
         <source>Creating video thumbnails, please wait...</source>
-        <translation>動画サムネイルを作成しています。お待ちください...</translation>
+        <translation>動画のサムネイルを作成中。お待ちください...</translation>
     </message>
 </context>
 <context>
@@ -16617,7 +16617,7 @@ Do you want to continue?</source>
         <location filename="DlgWriteJPEG.ui" line="236"/>
         <source>Rebuild embedded EXIF thumbnail</source>
         <oldsource>Rebuild embedded thumbnail</oldsource>
-        <translation>埋め込みEXIFサムネイル再構築</translation>
+        <translation>埋め込みEXIFサムネイルを再作成</translation>
     </message>
     <message>
         <location filename="DlgWriteJPEG.ui" line="243"/>
@@ -17072,7 +17072,7 @@ Do you want to continue?</source>
     <message>
         <location filename="EditXMPWidget.cpp" line="324"/>
         <source>Some fields are required, please fill them!</source>
-        <translation>必須項目があります。入力してください</translation>
+        <translation>必須項目があります。入力してください！</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="466"/>
@@ -17142,7 +17142,7 @@ Do you want to continue?</source>
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation>このお気に入りは存在しないフォルダを指しています。
+        <translation>このお気に入りは存在しないフォルダーを指しています。
 
 &quot;%1&quot;のお気に入りを削除しますか？</translation>
     </message>
@@ -17155,7 +17155,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="FavoritesView.cpp" line="114"/>
         <source>Remove</source>
-        <translation>除去</translation>
+        <translation>削除</translation>
     </message>
     <message>
         <location filename="FavoritesView.cpp" line="117"/>
@@ -17267,12 +17267,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="FileListWidget.cpp" line="161"/>
         <source>Remove filtered</source>
-        <translation>フィルターされたものを除去</translation>
+        <translation>フィルターされたものを削除</translation>
     </message>
     <message>
         <location filename="FileListWidget.cpp" line="163"/>
         <source>Remove unfiltered</source>
-        <translation>フィルターされてないものを除去</translation>
+        <translation>フィルターされてないものを削除</translation>
     </message>
     <message>
         <location filename="FileListWidget.ui" line="245"/>
@@ -17292,12 +17292,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="FileListWidget.ui" line="71"/>
         <source>Remove</source>
-        <translation>除去</translation>
+        <translation>削除</translation>
     </message>
     <message>
         <location filename="FileListWidget.ui" line="85"/>
         <source>Remove all</source>
-        <translation>すべて除去</translation>
+        <translation>すべて削除</translation>
     </message>
     <message>
         <location filename="FileListWidget.ui" line="105"/>
@@ -17617,19 +17617,19 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPropertiesView.cpp" line="501"/>
         <location filename="InfoPropertiesView.cpp" line="520"/>
         <source>Format version</source>
-        <translation>フォーマットバージョン</translation>
+        <translation>形式バージョン</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="502"/>
         <location filename="InfoPropertiesView.cpp" line="521"/>
         <source>Format profile</source>
-        <translation>フォーマットプロファイル</translation>
+        <translation>形式プロファイル</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="503"/>
         <location filename="InfoPropertiesView.cpp" line="522"/>
         <source>Format settings</source>
-        <translation>フォーマット設定</translation>
+        <translation>形式設定</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="506"/>
@@ -18241,7 +18241,7 @@ Do you want to continue?</source>
     <message>
         <location filename="InfoCategoryView.cpp" line="658"/>
         <source>Problem during database import!</source>
-        <translation>データベースのインポート中に問題が発生しました</translation>
+        <translation>データベースのインポート中に問題が発生しました！</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="660"/>
@@ -18493,7 +18493,7 @@ Do you want to continue?</source>
         <location filename="TemplateData.cpp" line="2691"/>
         <source>User comment</source>
         <translatorcomment>TXT_TemplateMenu_EXIF_User_comment</translatorcomment>
-        <translation>ユーザーコメント</translation>
+        <translation>ユーザーのコメント</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2229"/>
@@ -18676,7 +18676,7 @@ Do you want to continue?</source>
         <source>Shutter speed (s)</source>
         <oldsource>Shutter speed [s]</oldsource>
         <translatorcomment>TXT_TemplateMenu_EXIF_Shutter_speed</translatorcomment>
-        <translation>シャッタースピード（秒）</translation>
+        <translation>シャッター速度（秒）</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2705"/>
@@ -18844,7 +18844,7 @@ Do you want to continue?</source>
         <location filename="TemplateData.cpp" line="2733"/>
         <source>Image description</source>
         <translatorcomment>TXT_String_Exif_Image_Description</translatorcomment>
-        <translation>画像説明</translation>
+        <translation>画像の説明</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2734"/>
@@ -18979,7 +18979,7 @@ Do you want to continue?</source>
     <message>
         <location filename="InfoFavoritesView.cpp" line="45"/>
         <source>Remove from Favorites panel</source>
-        <translation>お気に入りパネルから削除する</translation>
+        <translation>お気に入りパネルから削除</translation>
     </message>
 </context>
 <context>
@@ -19006,7 +19006,7 @@ Do you want to continue?</source>
         <location filename="InfoIPTCView.cpp" line="128"/>
         <source>Status</source>
         <translatorcomment>TXT_TemplateMenu_IPTC_Status</translatorcomment>
-        <translation>編集ステータス</translation>
+        <translation>状態</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="132"/>
@@ -19104,7 +19104,7 @@ Do you want to continue?</source>
         <location filename="TemplateData.cpp" line="2782"/>
         <source>Byline</source>
         <translatorcomment>TXT_String_Iptc_Byline</translatorcomment>
-        <translation>クレジット</translation>
+        <translation>署名</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="43"/>
@@ -19113,7 +19113,7 @@ Do you want to continue?</source>
         <location filename="TemplateData.cpp" line="2783"/>
         <source>Byline title</source>
         <translatorcomment>TXT_String_Iptc_BylineTitle</translatorcomment>
-        <translation>クレジット肩書き</translation>
+        <translation>署名タイトル</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="44"/>
@@ -19140,7 +19140,7 @@ Do you want to continue?</source>
         <location filename="TemplateData.cpp" line="2790"/>
         <source>Edit status</source>
         <translatorcomment>TXT_Iptc_Edit_Status</translatorcomment>
-        <translation>編集状況</translation>
+        <translation>状態変更</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="52"/>
@@ -19240,7 +19240,7 @@ Do you want to continue?</source>
         <location filename="TemplateData.cpp" line="2806"/>
         <source>Country code</source>
         <translatorcomment>TXT_Iptc_Country_Code</translatorcomment>
-        <translation>国番号</translation>
+        <translation>国別コード</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="66"/>
@@ -19250,7 +19250,7 @@ Do you want to continue?</source>
         <source>Original transmission reference</source>
         <oldsource>Original tr. ref.</oldsource>
         <translatorcomment>TXT_Iptc_Original_Transmission</translatorcomment>
-        <translation>オリジナル送信参照</translation>
+        <translation>元の送信参照</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="67"/>
@@ -19360,7 +19360,7 @@ Do you want to continue?</source>
         <location filename="TemplateData.cpp" line="2792"/>
         <source>Cycle</source>
         <translatorcomment>TXT_Iptc_Object_Cycle</translatorcomment>
-        <translation>オブジェクトの循環</translation>
+        <translation>循環</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="104"/>
@@ -19504,7 +19504,7 @@ Do you want to continue?</source>
     <message>
         <location filename="EditXMPWidget.cpp" line="134"/>
         <source>Country Code</source>
-        <translation>国コード</translation>
+        <translation>国別コード</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="139"/>
@@ -19858,7 +19858,7 @@ Do you want to continue?</source>
         <source>JPEG lossless operation will modify original file(s), and may remove some unused pixels (width and height must be multiple of 8 pixels)!
 
 Do you want to continue?</source>
-        <translation>JPEGロスレス操作は元のファイルを更新します。使われていないピクセル(幅と高さは８ピクセルの倍数でなければならない）を除去するかもしれません。
+        <translation>JPEGロスレス操作は元のファイルを更新します。使われていないピクセル(幅と高さは８ピクセルの倍数でなければならない）を削除するかもしれません！
 
 続けてよろしいですか？</translation>
     </message>
@@ -19934,19 +19934,19 @@ Do you want to continue?</oldsource>
         <location filename="GFFHelper.h" line="20"/>
         <location filename="GFFHelper.h" line="64"/>
         <source>Saving in this format will discard comment and any existing metadata!</source>
-        <translation>この形式で保存すると、コメントや既存のメタデータは破棄されます</translation>
+        <translation>この形式で保存すると、コメントや既存のメタデータは破棄されます！</translation>
     </message>
     <message>
         <location filename="GFFHelper.h" line="34"/>
         <location filename="GFFHelper.h" line="77"/>
         <source>Saving in this format will discard any existing metadata!</source>
-        <translation>この形式で保存すると、既存のメタデータはすべて破棄されます</translation>
+        <translation>この形式で保存すると、既存のメタデータはすべて破棄されます！</translation>
     </message>
     <message>
         <location filename="GFFHelper.h" line="48"/>
         <location filename="GFFHelper.h" line="91"/>
         <source>Saving in this format will discard some metadata!</source>
-        <translation>この形式で保存すると、一部のメタデータは破棄されます</translation>
+        <translation>この形式で保存すると、一部のメタデータは破棄されます！</translation>
     </message>
 </context>
 <context>
@@ -20072,7 +20072,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="LanguageComboBox.cpp" line="37"/>
         <source>Korean</source>
-        <translation>朝鮮語</translation>
+        <translation>韓国語</translation>
     </message>
     <message>
         <location filename="LanguageComboBox.cpp" line="38"/>
@@ -20188,7 +20188,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MediaPlayer.cpp" line="357"/>
         <source>Show playbar</source>
-        <translation>プレイバーを表示する</translation>
+        <translation>再生バーを表示</translation>
     </message>
     <message>
         <location filename="MediaPlayer.cpp" line="362"/>
@@ -20198,7 +20198,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MediaPlayer.cpp" line="365"/>
         <source>Extract current frame</source>
-        <translation>現在のフレームを抽出する</translation>
+        <translation>現在のフレームを抽出</translation>
     </message>
 </context>
 <context>
@@ -20211,12 +20211,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MediaPlayerAv.cpp" line="347"/>
         <source>Show playbar</source>
-        <translation>プレイバーを表示する</translation>
+        <translation>再生バーを表示</translation>
     </message>
     <message>
         <location filename="MediaPlayerAv.cpp" line="351"/>
         <source>Extract current frame</source>
-        <translation>現在のフレームを抽出する</translation>
+        <translation>現在のフレームを抽出</translation>
     </message>
 </context>
 <context>
@@ -20224,7 +20224,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MediaPlayerBase.cpp" line="90"/>
         <source>Adjust volume</source>
-        <translation>ボリューム調節</translation>
+        <translation>音量を調整</translation>
     </message>
 </context>
 <context>
@@ -20232,12 +20232,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MediaPlayerMDK.cpp" line="248"/>
         <source>Show playbar</source>
-        <translation>プレイバーを表示する</translation>
+        <translation>再生バーを表示</translation>
     </message>
     <message>
         <location filename="MediaPlayerMDK.cpp" line="252"/>
         <source>Extract current frame</source>
-        <translation>現在のフレームを抽出する</translation>
+        <translation>現在のフレームを抽出</translation>
     </message>
     <message>
         <location filename="MediaPlayerMDK.cpp" line="255"/>
@@ -20315,7 +20315,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="25"/>
         <source>Free</source>
-        <translation>フリー</translation>
+        <translation>自由に</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="31"/>
@@ -20578,7 +20578,7 @@ Do you want to continue?</oldsource>
         <location filename="CompareWidget.cpp" line="489"/>
         <source>Average</source>
         <translatorcomment>TXT_String_Rating_Label_3</translatorcomment>
-        <translation>ふつう</translation>
+        <translation>普通</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="480"/>
@@ -20791,12 +20791,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="632"/>
         <source>Multi-page file...</source>
-        <translation>マルチページファイル...</translation>
+        <translation>複数ページのファイル...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="633"/>
         <source>Join images...</source>
-        <translation>画像の接合...</translation>
+        <translation>画像結合...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="634"/>
@@ -20812,7 +20812,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="636"/>
         <source>Split image(s)...</source>
         <oldsource>Split...</oldsource>
-        <translation>画像のスプリット...</translation>
+        <translation>画像分割...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="637"/>
@@ -20827,7 +20827,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="653"/>
         <source>Draw as tiled</source>
-        <translation>タイル描画</translation>
+        <translation>タイル状に描画</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="21"/>
@@ -20860,7 +20860,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="681"/>
         <source>Edit face tag...</source>
-        <translation>顔タグの編集...</translation>
+        <translation>顔タグを編集...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="684"/>
@@ -20927,7 +20927,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="3"/>
         <source>Light</source>
-        <translation>弱</translation>
+        <translation>ライト</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="5"/>
@@ -21401,7 +21401,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="545"/>
         <source>Rebuild thumbnails</source>
-        <translation>サムネイルを再構築</translation>
+        <translation>サムネイルを再作成</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="546"/>
@@ -21499,7 +21499,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="595"/>
         <source>Batch rename...</source>
         <translatorcomment>TXT_String_Batch_Rename</translatorcomment>
-        <translation>一括名前変換...</translation>
+        <translation>名前変更の一括処理...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="596"/>
@@ -21550,7 +21550,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="611"/>
         <source>Clean...</source>
-        <translation>クリーンアップ...</translation>
+        <translation>削除...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="612"/>
@@ -21565,7 +21565,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="614"/>
         <source>EXIF thumbnail - Rebuild</source>
-        <translation>EXIFサムネイル - 再構築</translation>
+        <translation>EXIFサムネイル - 再作成</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="615"/>
@@ -21768,7 +21768,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="xnview.cpp" line="1359"/>
         <source>Make a donation...</source>
-        <translation>寄付をする...</translation>
+        <translation>寄付する...</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1352"/>
@@ -21853,7 +21853,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="TemplateData.cpp" line="2850"/>
         <source>Date format variables</source>
-        <translation>日付書式の変数</translation>
+        <translation>日付の形式の変数</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2606"/>
@@ -22024,12 +22024,12 @@ Do you want to continue?</oldsource>
         <location filename="ViewCropAction.cpp" line="178"/>
         <location filename="ViewMenu.h" line="355"/>
         <source>Free</source>
-        <translation>自由</translation>
+        <translation>自由に</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="263"/>
         <source>Top</source>
-        <translation>上</translation>
+        <translation>上へ</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="343"/>
@@ -22046,7 +22046,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="356"/>
         <source>Same as image</source>
         <translatorcomment>TXT_NviewMenu_Same_As_Image</translatorcomment>
-        <translation>画像と同様</translation>
+        <translation>画像と同様に</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="244"/>
@@ -22198,13 +22198,13 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="338"/>
         <source>Cut</source>
         <translatorcomment>TXT_NviewMenu_Cut</translatorcomment>
-        <translation>選択範囲切り取り</translation>
+        <translation>切り取り</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="339"/>
         <source>Copy</source>
         <translatorcomment>TXT_NviewMenu_Copy</translatorcomment>
-        <translation>選択範囲コピー</translation>
+        <translation>コピー</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="340"/>
@@ -22229,7 +22229,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="347"/>
         <source>Background color...</source>
-        <translation>背景の色...</translation>
+        <translation>背景色...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="348"/>
@@ -22257,7 +22257,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="352"/>
         <source>Red-Eye correction</source>
         <oldsource>Red-Eyes reduction</oldsource>
-        <translation>赤目軽減</translation>
+        <translation>赤目補正</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="358"/>
@@ -22273,7 +22273,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="360"/>
         <source>Selection - swap width &amp;&amp; height</source>
         <translatorcomment>TXT_NviewMenu_Swap_Width_Height</translatorcomment>
-        <translation>選択範囲 - 縦横サイズを交替</translation>
+        <translation>選択範囲 - 幅と高さを入れ替える</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="361"/>
@@ -22290,7 +22290,7 @@ Do you want to continue?</oldsource>
         <source>Selection - set ratio</source>
         <oldsource>Set selection ratio</oldsource>
         <translatorcomment>TXT_NviewMenu_Set_Selection_Ratio</translatorcomment>
-        <translation>選択範囲 - 設定比率</translation>
+        <translation>選択範囲 - 比率設定</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="364"/>
@@ -22331,7 +22331,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="379"/>
         <source>Rename...</source>
         <translatorcomment>TXT_NviewMenu_Rename</translatorcomment>
-        <translation>ファイル名変更...</translation>
+        <translation>名前の変更...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="457"/>
@@ -22346,7 +22346,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="517"/>
         <source>Remove Background</source>
-        <translation>背景を除去</translation>
+        <translation>背景を削除</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="522"/>
@@ -22548,7 +22548,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="466"/>
         <source>Show people&apos;s region</source>
-        <translation>人物の地域を表示</translation>
+        <translation>人物の領域を表示</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="478"/>
@@ -22636,7 +22636,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="468"/>
         <source>Use transparency grid</source>
-        <translation>透明グリッドの使用</translation>
+        <translation>透明グリッドを使用</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="469"/>
@@ -22657,7 +22657,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="487"/>
         <source>Edit comment...</source>
         <oldsource>Set comment...</oldsource>
-        <translation>コメントを編集...</translation>
+        <translation>コメント編集...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="488"/>
@@ -22677,7 +22677,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="492"/>
         <source>Change color depth...</source>
-        <translation>色深度の変更...</translation>
+        <translation>色の深度を変更...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="493"/>
@@ -22692,7 +22692,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="495"/>
         <source>Negative</source>
-        <translation>ネガポジ反転</translation>
+        <translation>ネガ（反転）</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="496"/>
@@ -22708,7 +22708,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="498"/>
         <source>Equalize</source>
-        <translation>イコライズ</translation>
+        <translation>均等化</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="499"/>
@@ -22728,17 +22728,17 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="502"/>
         <source>Old camera...</source>
-        <translation>古い写真...</translation>
+        <translation>古いカメラ...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="503"/>
         <source>Vignetting...</source>
-        <translation>口径食...</translation>
+        <translation>周辺減光...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="504"/>
         <source>Enhance colors...</source>
-        <translation>色を強調...</translation>
+        <translation>色調整...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="505"/>
@@ -22763,7 +22763,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="513"/>
         <source>Curves...</source>
-        <translation>トーンカーブ...</translation>
+        <translation>曲線...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="514"/>
@@ -22808,7 +22808,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="529"/>
         <source>Remove alpha channel</source>
-        <translation>アルファチャンネルを除去</translation>
+        <translation>アルファチャンネルを削除</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="531"/>
@@ -22829,7 +22829,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="534"/>
         <source>Adjust</source>
-        <translation>調節</translation>
+        <translation>調整</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="535"/>
@@ -22839,18 +22839,18 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="536"/>
         <source>Mirror</source>
-        <translation>鏡像</translation>
+        <translation>鏡映</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="537"/>
         <source>Count colors used</source>
-        <translation>使用色数</translation>
+        <translation>使用されている色数をカウント</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="538"/>
         <source>Swap color</source>
         <oldsource>Swap</oldsource>
-        <translation>色の交換</translation>
+        <translation>色交換</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="539"/>
@@ -22866,7 +22866,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="541"/>
         <source>Paste outside</source>
         <oldsource>Paste special</oldsource>
-        <translation>形式を選択して貼り付け</translation>
+        <translation>外側に貼り付け</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="543"/>
@@ -22886,12 +22886,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="549"/>
         <source>Clean metadata...</source>
-        <translation>メタデータをクリーン...</translation>
+        <translation>メタデータを消去...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="550"/>
         <source>Join images...</source>
-        <translation>画像の接合...</translation>
+        <translation>画像を結合...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="551"/>
@@ -23286,7 +23286,7 @@ Do you want to continue?</oldsource>
         <location filename="BitmapViewProcess.h" line="41"/>
         <source>An error occurred during processing!</source>
         <oldsource>An error occurs during process!</oldsource>
-        <translation>処理中にエラーが発生しました</translation>
+        <translation>処理中にエラーが発生しました！</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.cpp" line="576"/>
@@ -23304,7 +23304,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyAddFolderProcess.h" line="55"/>
         <source>Building catalog entries...</source>
-        <translation>カタログエントリーを構築...</translation>
+        <translation>カタログ項目を作成中...</translation>
     </message>
 </context>
 <context>
@@ -23313,7 +23313,7 @@ Do you want to continue?</oldsource>
         <location filename="MyAddFolderProcess.h" line="174"/>
         <source>Build thumbnails...</source>
         <translatorcomment>0.60</translatorcomment>
-        <translation>サムネイルを構築…</translation>
+        <translation>サムネイルを作成…</translation>
     </message>
 </context>
 <context>
@@ -23595,7 +23595,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="MyThumbView.cpp" line="761"/>
         <source>Updating catalog, please wait...</source>
-        <translation>カタログを更新しています。しばらくお待ちください…</translation>
+        <translation>カタログの更新中。お待ちください…</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="779"/>
@@ -23657,7 +23657,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="MyView.cpp" line="1154"/>
         <source>Please visit the XnView %1 for more information.</source>
-        <translation>より詳細な情報は XnView %1 をご覧ください</translation>
+        <translation>より詳細な情報は XnView %1 をご覧ください。</translation>
     </message>
 </context>
 <context>
@@ -24692,7 +24692,7 @@ You can change it in Settings › Catalog.</oldsource>
         <location filename="ItemModel.cpp" line="4715"/>
         <source>An error has occurred during renaming!</source>
         <oldsource>An error occured during renaming!</oldsource>
-        <translation>名前の変更時にエラーが発生しました</translation>
+        <translation>名前の変更時にエラーが発生しました！</translation>
     </message>
 </context>
 <context>
@@ -24703,13 +24703,13 @@ You can change it in Settings › Catalog.</oldsource>
         <location filename="SearchField.cpp" line="1384"/>
         <source>is</source>
         <translatorcomment>サーチダイアログは保留にしておきます。実プログラムの動作を確認後、着手します。</translatorcomment>
-        <translation></translation>
+        <translation>である場合</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="512"/>
         <location filename="SearchField.cpp" line="1385"/>
         <source>is not</source>
-        <translation></translation>
+        <translation>ではない場合</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="513"/>
@@ -24744,12 +24744,12 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="SearchField.cpp" line="986"/>
         <source>is before</source>
-        <translation></translation>
+        <translation>～の前</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="987"/>
         <source>is after</source>
-        <translation></translation>
+        <translation>～の後</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="988"/>
@@ -24930,7 +24930,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="TemplateWidget.ui" line="84"/>
         <source>Remove preset</source>
-        <translation>プリセットを除去</translation>
+        <translation>プリセットを削除</translation>
     </message>
     <message>
         <location filename="TemplateWidget.cpp" line="162"/>
@@ -25274,7 +25274,7 @@ Do you want to keep the thumbnails?
         <translation>XnViewMPがカタログをアップグレードします。しばらく時間がかかります。
 
 サムネイルを保持しますか？
-（はいを選択すると、アップグレードプロセスが遅くなります）</translation>
+（「はい」を選択すると、アップグレードの処理が遅くなります）</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="405"/>
@@ -25290,7 +25290,7 @@ Do you want to keep the thumbnails?
     <message>
         <location filename="xnview.cpp" line="484"/>
         <source>There is a problem to open catalog, check your settings or folder used!</source>
-        <translation>カタログを開く時に問題が発生しました。設定や使用しているフォルダをチェックしてください</translation>
+        <translation>カタログを開く時に問題が発生しました。設定や使用しているフォルダをチェックしてください！</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="493"/>
@@ -25306,7 +25306,7 @@ Do you want to keep the thumbnails?
         <location filename="xnview.cpp" line="889"/>
         <source>Application is up to date.</source>
         <oldsource>XnView MP is currently up to date.</oldsource>
-        <translation>アプリは最新です</translation>
+        <translation>アプリは最新版です。</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1627"/>
@@ -25335,7 +25335,7 @@ will not be saved to the database.</source>
     <message>
         <location filename="xnview.cpp" line="975"/>
         <source>Your previous session contains many loaded images, this can cause a slowdown!</source>
-        <translation>以前のセッションには多くの画像が含まれています。速度低下の原因になる可能性があります。</translation>
+        <translation>以前のセッションには多くの画像が含まれています。速度低下の原因になる可能性があります！</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="408"/>
@@ -25378,7 +25378,7 @@ Please contact the developer.</source>
     <message>
         <location filename="xnview.cpp" line="1148"/>
         <source>File not found!</source>
-        <translation>ファイルが見つかりません</translation>
+        <translation>ファイルが見つかりません！</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1653"/>
