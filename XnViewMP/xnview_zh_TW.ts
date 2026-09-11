@@ -21525,12 +21525,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="xnview.cpp" line="1381"/>
         <source>Show</source>
-        <translation>顯示頁籤</translation>
+        <translation>顯示視窗頁籤</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1382"/>
         <source>Bottom</source>
-        <translation>頁籤顯示於下方</translation>
+        <translation>視窗頁籤顯示於下方</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1383"/>
@@ -21798,7 +21798,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="264"/>
         <source>Bottom</source>
         <oldsource>To the bottom</oldsource>
-        <translation>頁籤顯示於下方</translation>
+        <translation>視窗頁籤顯示於下方</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="318"/>
@@ -23224,7 +23224,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyTabBar.cpp" line="230"/>
         <source>Iconify tabs</source>
-        <translation>頁籤顯示圖示</translation>
+        <translation>視窗頁籤顯示圖示</translation>
     </message>
 </context>
 <context>
