@@ -13802,7 +13802,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1500"/>
         <source>Quick Slideshow</source>
-        <translation>快速幻燈片播放</translation>
+        <translation>幻燈片快速播放</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1516"/>
@@ -14641,7 +14641,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="927"/>
         <source>Quick slideshow</source>
-        <translation>快速幻燈片播放</translation>
+        <translation>幻燈片快速播放</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="982"/>
@@ -22079,7 +22079,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="435"/>
         <source>Quick Slideshow</source>
-        <translation>快速幻燈片播放</translation>
+        <translation>幻燈片快速播放</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="437"/>
