@@ -3100,12 +3100,12 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgCapture.ui" line="14"/>
         <source>Capture</source>
-        <translation>擷取螢幕</translation>
+        <translation>螢幕截圖</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="22"/>
         <source>Capture area</source>
-        <translation>擷取範圍</translation>
+        <translation>螢幕截圖範圍</translation>
     </message>
     <message>
         <location filename="DlgCapture.ui" line="30"/>
@@ -12127,7 +12127,7 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettingsCache.ui" line="437"/>
         <source>Import folder...</source>
-        <translation>資料夾匯入...</translation>
+        <translation>匯入資料夾...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="471"/>
@@ -16262,7 +16262,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgWebCapture.ui" line="14"/>
         <source>Web capture</source>
-        <translation>網上擷取</translation>
+        <translation>網頁截圖</translation>
     </message>
     <message>
         <location filename="DlgWebCapture.ui" line="20"/>
@@ -18595,7 +18595,7 @@ Do you want to continue?</source>
     <message>
         <location filename="TemplateData.cpp" line="2729"/>
         <source>Scene capture type</source>
-        <translation>拍攝場景類型</translation>
+        <translation>場景拍攝模式</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2730"/>
@@ -21373,7 +21373,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="684"/>
         <source>Capture...</source>
-        <translation>擷取螢幕...</translation>
+        <translation>螢幕截圖...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="686"/>
@@ -22445,7 +22445,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="565"/>
         <source>Capture...</source>
-        <translation>擷取螢幕...</translation>
+        <translation>螢幕截圖...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="567"/>
