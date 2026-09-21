@@ -3373,7 +3373,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgClean.ui" line="122"/>
         <source>All other &apos;APP&apos; markers</source>
-        <translation>Все прочие APP-маркеры</translation>
+        <translation>Все остальные маркеры APP</translation>
     </message>
 </context>
 <context>
