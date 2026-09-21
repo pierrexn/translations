@@ -2013,7 +2013,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="MyDB.cpp" line="901"/>
         <source>Pictures</source>
-        <translation>畫面圖片</translation>
+        <translation>畫面圖</translation>
     </message>
     <message>
         <location filename="MyDB.cpp" line="902"/>
@@ -12105,7 +12105,7 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettingsCache.ui" line="359"/>
         <source>Files</source>
-        <translation>檔案數目</translation>
+        <translation>檔案數</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="384"/>
@@ -12428,7 +12428,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="254"/>
         <source>Custom filter</source>
-        <translation>自訂 列表篩選</translation>
+        <translation>自訂_列表篩選</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="260"/>
@@ -14486,12 +14486,12 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="818"/>
         <source>Like Browser</source>
-        <translation>套用自瀏覽器之列表設定 ( &apos;設定 › 檔案列表 › 自訂 列表篩選&apos; )</translation>
+        <translation>套用自瀏覽器之列表設定 ( &apos;設定 › 檔案列表 › 自訂_列表篩選&apos; )</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="825"/>
         <source>Custom</source>
-        <translation>自訂 列表篩選</translation>
+        <translation>自訂_列表篩選</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="856"/>
@@ -14522,7 +14522,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="898"/>
         <source>(From Settings › File list › Custom Filter)</source>
         <oldsource>(From Settings&gt;File list&gt;Custom Filter)</oldsource>
-        <translation>上列項目之細項設定: 套用自瀏覽器之列表設定 ( &apos;設定 › 檔案列表 › 自訂 列表篩選&apos; )</translation>
+        <translation>上列項目之細項設定: 套用自瀏覽器之列表設定 ( &apos;設定 › 檔案列表 › 自訂_列表篩選&apos; )</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="739"/>
@@ -14786,7 +14786,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="1364"/>
         <source>(appear when the mouse is moved to the top or right of the screen)</source>
-        <translation>(滑鼠移到螢幕上方或右方時顯示面板)</translation>
+        <translation>(當滑鼠移到螢幕上方或右方時, 顯示面板)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1181"/>
@@ -23166,7 +23166,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyLittleToolBar.h" line="774"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation>點擊左圖示可切換滑桿的 2 種模式:&lt;br&gt;&amp;bull; 調整縮圖的固定 &apos;像素尺寸&apos;&lt;br&gt;&amp;bull; 調整縮圖的固定 &apos;每列數量&apos;</translation>
+        <translation>點擊左圖示, 可切換滑桿的 2 種模式:&lt;br&gt;&amp;bull; 調整縮圖的固定 &apos;像素尺寸&apos;&lt;br&gt;&amp;bull; 調整縮圖的固定 &apos;每列數量&apos;</translation>
     </message>
 </context>
 <context>
@@ -23174,7 +23174,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyLittleToolBar.h" line="385"/>
         <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation>點擊左圖示可切換滑桿的 2 種模式:&lt;br&gt;&amp;bull; 調整縮圖的固定 &apos;像素尺寸&apos;&lt;br&gt;&amp;bull; 調整縮圖的固定 &apos;每列數量&apos;</translation>
+        <translation>點擊左圖示, 可切換滑桿的 2 種模式:&lt;br&gt;&amp;bull; 調整縮圖的固定 &apos;像素尺寸&apos;&lt;br&gt;&amp;bull; 調整縮圖的固定 &apos;每列數量&apos;</translation>
     </message>
 </context>
 <context>
