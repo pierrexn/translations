@@ -352,7 +352,7 @@
     <name>AssignedSetPanel</name>
     <message>
         <source>Create Set from selection...</source>
-        <translation>Crează un set din selecția...</translation>
+        <translation>Creează un set din selecția...</translation>
     </message>
     <message>
         <source>Edit...</source>
@@ -645,7 +645,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     <name>CategoryCompleterModel</name>
     <message>
         <source> [Create New]</source>
-        <translation> [Crează nou]</translation>
+        <translation> [Creează nou]</translation>
     </message>
 </context>
 <context>
@@ -808,7 +808,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Create Smart Album from current filter...</source>
-        <translation>Crează un album nou inteligent din filtrul actual...</translation>
+        <translation>Creează un album nou inteligent din filtrul actual...</translation>
     </message>
     <message>
         <source>Edit...</source>
@@ -824,7 +824,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Create Smart Album...</source>
-        <translation>Crează un album inteligent...</translation>
+        <translation>Creează un album inteligent...</translation>
     </message>
     <message>
         <source>Are you sure to delete these categories?</source>
@@ -1278,7 +1278,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Set DPI</source>
-        <translation>Setează DPI-ul (punctele pe inci)</translation>
+        <translation>Setează DPI-ul/PPI-ul (punctele pe inci)</translation>
     </message>
     <message>
         <source>Sharpen</source>
@@ -2026,7 +2026,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>create error</source>
-        <translation>crează o eroare</translation>
+        <translation>creează o eroare</translation>
     </message>
     <message>
         <source>Skipped:</source>
@@ -2669,7 +2669,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>DPI</source>
-        <translation>DPI</translation>
+        <translation>DPI/PPI (Puncte pe inci)</translation>
     </message>
     <message>
         <source>Font</source>
@@ -2757,7 +2757,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Create Contact Sheet</source>
-        <translation>Crează o foaie de contact</translation>
+        <translation>Creează o foaie de contact</translation>
     </message>
     <message>
         <source>Folder</source>
@@ -2841,7 +2841,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>&amp;Create</source>
-        <translation>&amp;Crează</translation>
+        <translation>&amp;Creează</translation>
     </message>
     <message>
         <source>4x6 inch</source>
@@ -2964,7 +2964,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>create error</source>
-        <translation>crează o eroare</translation>
+        <translation>creează o eroare</translation>
     </message>
     <message>
         <source>Skipped:</source>
@@ -4526,7 +4526,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>IPTC-IIM, update or create XMP</source>
-        <translation>IPTC-IIM, actualizează sau crează XMP-ul</translation>
+        <translation>IPTC-IIM, actualizează sau creează XMP-ul</translation>
     </message>
     <message>
         <source>XMP only</source>
@@ -4554,7 +4554,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>XMP, update or create IPTC-IIM</source>
-        <translation>XMP, actualizează sau crează IPTC-IIM-ul</translation>
+        <translation>XMP, actualizează sau creează IPTC-IIM-ul</translation>
     </message>
     <message>
         <source>Keep and add new value
@@ -5558,7 +5558,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Create multi-page file</source>
-        <translation>Crează un fișier cu mai multe pagini</translation>
+        <translation>Creează un fișier cu mai multe pagini</translation>
     </message>
     <message>
         <source>Creating multipage file, please wait...</source>
@@ -5825,7 +5825,7 @@ Vrei să continui?</translation>
     <name>DlgEditFavClass</name>
     <message>
         <source>Create subfolder</source>
-        <translation>Crează un subdosar (un subfolder)</translation>
+        <translation>Creează un subdosar (un subfolder)</translation>
     </message>
     <message>
         <source>Rename...</source>
@@ -7010,7 +7010,7 @@ Te rugăm să încerci să pornești programul cu drepturi de administrator.</tr
     </message>
     <message>
         <source>Write to embedded metadata (JPEG/TIFF/PNG) and create XMP sidecar (others)</source>
-        <translation>Scrie în metadatele încorporate (JPEG/TIFF/PNG) și crează fișierul însoțitor (sidecar-ul) XMP (altele)</translation>
+        <translation>Scrie în metadatele încorporate (JPEG/TIFF/PNG) și creează fișierul însoțitor (sidecar-ul) XMP (altele)</translation>
     </message>
     <message>
         <source>Include subfolders</source>
@@ -7070,7 +7070,7 @@ Subfolderele (Subdosarele) vor fi create.. </translation>
     </message>
     <message>
         <source>Create XMP sidecar for all files</source>
-        <translation>Crează un fișier însoțitor (un sidecar) XMP pentru toate fișierele</translation>
+        <translation>Creează un fișier însoțitor (un sidecar) XMP pentru toate fișierele</translation>
     </message>
     <message>
         <source>Transfer files with no EXIF to &apos;Other Files&apos; folder</source>
@@ -7287,7 +7287,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>IPTC-IIM, update or create XMP</source>
-        <translation>IPTC-IIM, actualizează sau crează XMP-ul</translation>
+        <translation>IPTC-IIM, actualizează sau creează XMP-ul</translation>
     </message>
     <message>
         <source>Keep and add new value (Keywords and supplemental categories)</source>
@@ -7399,7 +7399,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>XMP, update or create IPTC-IIM</source>
-        <translation>XMP, actualizează sau crează IPTC-IIM-ul</translation>
+        <translation>XMP, actualizează sau creează IPTC-IIM-ul</translation>
     </message>
     <message>
         <source>YYYYMMDD</source>
@@ -7567,7 +7567,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     <name>DlgNew</name>
     <message>
         <source>DPI</source>
-        <translation>DPI</translation>
+        <translation>DPI/PPI (Puncte pe inci)</translation>
     </message>
     <message>
         <source>RGB</source>
@@ -7583,7 +7583,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Create image</source>
-        <translation>Crează o imagine</translation>
+        <translation>Creează o imagine</translation>
     </message>
     <message>
         <source>256 Colors</source>
@@ -7816,7 +7816,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Single - DPI</source>
-        <translation>O singură imagine - DPI</translation>
+        <translation>O singură imagine - DPI/PPI (Puncte pe inci)</translation>
     </message>
     <message>
         <source>Visiting card - 91x55mm (3.58x2.17&quot;)</source>
@@ -8324,7 +8324,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
         <source>Registration successful.
 
 Thank you for purchasing %1.</source>
-        <translation>Înregistrare realizată.
+        <translation>Înregistrare realizată cu succes.
 
 Îți mulțumim că ai achiziționat %1.</translation>
     </message>
@@ -8457,7 +8457,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Create new name template when opening dialog</source>
-        <translation>Crează un nou șablon de nume când deschizi caseta de dialog</translation>
+        <translation>Creează un nou șablon de nume când deschizi caseta de dialog</translation>
     </message>
     <message>
         <source>Directory</source>
@@ -9007,7 +9007,7 @@ Vrei să le redenumești?</translation>
     <name>DlgSetDpi</name>
     <message>
         <source>Change EXIF DPI if exists</source>
-        <translation>Schimbă EXIF DPI-ul dacă există</translation>
+        <translation>Schimbă DPI-ul/PPI-ul pentru EXIF dacă există</translation>
     </message>
     <message>
         <source>Print size:</source>
@@ -9015,7 +9015,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Set DPI</source>
-        <translation>Setează DPI-ul (punctele pe inci)</translation>
+        <translation>Setează DPI-ul/PPI-ul (punctele pe inci)</translation>
     </message>
 </context>
 <context>
@@ -9992,7 +9992,7 @@ miniatură</translation>
     </message>
     <message>
         <source>Use EXIF DPI (if exists)</source>
-        <translation>Folosește EXIF DPI (dacă există)</translation>
+        <translation>Folosește DPI-ul/PPI-ul pentru EXIF (dacă există)</translation>
     </message>
     <message>
         <source>Check for program updates</source>
@@ -10020,7 +10020,7 @@ miniatură</translation>
     </message>
     <message>
         <source>Adjust image if X/Y DPI are different</source>
-        <translation>Ajustează imaginea dacă X/Y DPI sunt diferite</translation>
+        <translation>Ajustează imaginea dacă X/Y pentru DPI/PPI sunt diferite</translation>
     </message>
     <message>
         <source>Startup</source>
@@ -10802,7 +10802,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Create or update XMP Sidecar</source>
-        <translation>Actualizează sau crează un fișier însoțitor (un sidecar) XMP</translation>
+        <translation>Actualizează sau creează un fișier însoțitor (un sidecar) XMP</translation>
     </message>
     <message>
         <source>Naming convention</source>
@@ -11033,7 +11033,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Create from original image if embedded thumbnail is smaller than thumbnail size</source>
-        <translation>Crează din imaginea originală dacă miniatura încorporată este mai mică decât dimensiunea miniaturii</translation>
+        <translation>Creează din imaginea originală dacă miniatura încorporată este mai mică decât dimensiunea miniaturii</translation>
     </message>
     <message>
         <source>Shortcut</source>
@@ -11041,7 +11041,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Create thumbnails for whole folder</source>
-        <translation>Crează miniaturi pentru întregul folder (dosar)</translation>
+        <translation>Creează miniaturi pentru întregul folder (pentru întregul dosar)</translation>
     </message>
     <message>
         <source>Image alignment</source>
@@ -11097,7 +11097,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Create high quality thumbnail (bilinear filter)</source>
-        <translation>Crează o miniatură de înaltă calitate (filtru biliniar)</translation>
+        <translation>Creează o miniatură de înaltă calitate (filtru biliniar)</translation>
     </message>
     <message>
         <source>Use sharpen</source>
@@ -12181,7 +12181,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Create EXIF metadata if needed</source>
-        <translation>Crează metadate EXIF dacă este necesar</translation>
+        <translation>Creează metadate EXIF dacă este necesar</translation>
     </message>
     <message>
         <source>seconds</source>
@@ -12513,7 +12513,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Create Video Gallery</source>
-        <translation>Crează o galerie video</translation>
+        <translation>Creează o galerie video</translation>
     </message>
     <message>
         <source>Columns</source>
@@ -13359,7 +13359,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>DPI</source>
-        <translation>DPI</translation>
+        <translation>DPI/PPI (Puncte pe inci)</translation>
     </message>
     <message>
         <source>None</source>
@@ -15686,7 +15686,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>C&amp;reate</source>
-        <translation>C&amp;rează</translation>
+        <translation>C&amp;reează</translation>
     </message>
     <message>
         <source>Update files from catalog</source>
@@ -16815,7 +16815,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Set DPI...</source>
-        <translation>Setează DPI-ul...</translation>
+        <translation>Setează DPI-ul/PPI-ul (Setează punctele pe inci)...</translation>
     </message>
     <message>
         <source>Bottom</source>
@@ -17581,14 +17581,14 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Building catalog entries...</source>
-        <translation>Se crează intrările de catalog...</translation>
+        <translation>Se creează intrările de catalog...</translation>
     </message>
 </context>
 <context>
     <name>MyAddFolderProcess2</name>
     <message>
         <source>Build thumbnails...</source>
-        <translation>Crează miniaturile...</translation>
+        <translation>Creează miniaturile...</translation>
     </message>
 </context>
 <context>
