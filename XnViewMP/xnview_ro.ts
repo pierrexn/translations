@@ -1527,7 +1527,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Audios</source>
-        <translation>Fișiere de sunet (audio)</translation>
+        <translation>Fișiere de sunet (Fișiere audio)</translation>
     </message>
     <message>
         <source>Family</source>
