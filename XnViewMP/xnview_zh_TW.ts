@@ -677,7 +677,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="1852"/>
         <source>Metadata</source>
-        <translation>拍攝資訊</translation>
+        <translation>拍攝參數</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="1861"/>
@@ -2013,7 +2013,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="MyDB.cpp" line="901"/>
         <source>Pictures</source>
-        <translation>畫面圖</translation>
+        <translation>視覺圖</translation>
     </message>
     <message>
         <location filename="MyDB.cpp" line="902"/>
@@ -2074,7 +2074,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DBFilterModel.cpp" line="170"/>
         <source>All</source>
-        <translation>全部 (資料庫裡有紀錄的)</translation>
+        <translation>全部 (資料庫裡有記錄到的)</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="171"/>
@@ -3203,7 +3203,7 @@ Do you want to overwrite it?</oldsource>
         <location filename="DlgCapture.ui" line="238"/>
         <source>Copy to clipboard</source>
         <oldsource>Copy in clipboard</oldsource>
-        <translation>複製...到剪貼簿</translation>
+        <translation>複製到剪貼簿</translation>
     </message>
 </context>
 <context>
@@ -4445,7 +4445,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertBorder.ui" line="444"/>
         <source>Direction</source>
-        <translation>方位</translation>
+        <translation>方向</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="455"/>
@@ -7520,7 +7520,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditGps.ui" line="125"/>
         <source>Altitude (m)</source>
-        <translation>海拔 (m)</translation>
+        <translation>海拔高度 (m)</translation>
     </message>
     <message>
         <location filename="DlgEditGps.ui" line="30"/>
@@ -8334,7 +8334,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFileListing.ui" line="186"/>
         <source>Only image files</source>
-        <translation>只要影像檔案</translation>
+        <translation>僅限影像檔案</translation>
     </message>
     <message>
         <location filename="DlgFileListing.ui" line="193"/>
@@ -8354,7 +8354,7 @@ Please try to start with admin rights.</source>
     <message>
         <location filename="DlgFileListing.cpp" line="130"/>
         <source>Copy to Clipboard</source>
-        <translation>複製...到剪貼簿</translation>
+        <translation>複製到剪貼簿</translation>
     </message>
     <message>
         <location filename="DlgFileListing.cpp" line="133"/>
@@ -9388,7 +9388,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgIptc.ui" line="107"/>
         <source>Categories (database)</source>
-        <translation>類別 (資料庫裡紀錄的)</translation>
+        <translation>類別 (資料庫裡有記錄到的)</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="112"/>
@@ -11313,7 +11313,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.cpp" line="419"/>
         <source>GROUP</source>
-        <translation>括號群組化 (GROUP)</translation>
+        <translation>括號群組化/GROUP</translation>
     </message>
     <message>
         <location filename="DlgSearch.cpp" line="444"/>
@@ -11348,7 +11348,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.ui" line="145"/>
         <source>Search in</source>
-        <translation>⏺︎ 搜尋對象</translation>
+        <translation>・搜尋對象:</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="153"/>
@@ -12398,7 +12398,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="163"/>
         <source>Display file size in bytes</source>
-        <translation>檔案大小顯示以位元組 (bytes) 為單位</translation>
+        <translation>以位元組 (bytes) 為單位, 顯示檔案大小</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="203"/>
@@ -12428,7 +12428,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="254"/>
         <source>Custom filter</source>
-        <translation>自訂_列表篩選</translation>
+        <translation>列表篩選-自訂</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="260"/>
@@ -12649,7 +12649,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="349"/>
         <source>Send anonymous logs</source>
-        <translation>傳送匿名記錄</translation>
+        <translation>傳送匿名紀錄</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="579"/>
@@ -12817,7 +12817,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="588"/>
         <source>Save changes to file</source>
-        <translation>將修改存到檔案</translation>
+        <translation>將修改儲存至檔案</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="632"/>
@@ -14486,12 +14486,12 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="818"/>
         <source>Like Browser</source>
-        <translation>套用自瀏覽器之列表設定 ( &apos;設定 › 檔案列表 › 自訂_列表篩選&apos; )</translation>
+        <translation>和瀏覽器的一樣</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="825"/>
         <source>Custom</source>
-        <translation>自訂_列表篩選</translation>
+        <translation>列表篩選-自訂</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="856"/>
@@ -14522,7 +14522,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="898"/>
         <source>(From Settings › File list › Custom Filter)</source>
         <oldsource>(From Settings&gt;File list&gt;Custom Filter)</oldsource>
-        <translation>上列項目之細項設定: 套用自瀏覽器之列表設定 ( &apos;設定 › 檔案列表 › 自訂_列表篩選&apos; )</translation>
+        <translation>上列項目之細項設定: 套用自瀏覽器之列表設定 ( &apos;設定 › 檔案列表 › 列表篩選-自訂&apos; )</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="739"/>
@@ -18681,7 +18681,7 @@ Do you want to continue?</source>
     <message>
         <location filename="TemplateData.cpp" line="2751"/>
         <source>Latitude ref.</source>
-        <translation>參考緯度</translation>
+        <translation>緯度基準 (北緯 N 或 南緯 S)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2753"/>
@@ -18691,7 +18691,7 @@ Do you want to continue?</source>
     <message>
         <location filename="TemplateData.cpp" line="2754"/>
         <source>Longitude ref.</source>
-        <translation>參考經度</translation>
+        <translation>經度基準 (東經 E 或 西經 W)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2756"/>
@@ -18701,22 +18701,22 @@ Do you want to continue?</source>
     <message>
         <location filename="TemplateData.cpp" line="2757"/>
         <source>Altitude ref.</source>
-        <translation>參考海拔</translation>
+        <translation>海拔高度基準</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2758"/>
         <source>Altitude</source>
-        <translation>海拔</translation>
+        <translation>海拔高度</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2759"/>
         <source>Direction ref.</source>
-        <translation>方位參照</translation>
+        <translation>方向基準</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2760"/>
         <source>Direction</source>
-        <translation>方位</translation>
+        <translation>方向</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2761"/>
@@ -24631,7 +24631,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="ToolbarSearch.cpp" line="173"/>
         <source>Categories (catalog)</source>
-        <translation>類別 (資料庫裡紀錄的)</translation>
+        <translation>類別 (資料庫裡有記錄到的)</translation>
     </message>
     <message>
         <location filename="ToolbarSearch.cpp" line="178"/>
