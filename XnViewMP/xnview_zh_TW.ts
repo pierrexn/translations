@@ -592,12 +592,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="723"/>
         <source>Detach preview panel</source>
-        <translation>分離預覽面板</translation>
+        <translation>預覽面板不併入成資訊面板頁籤</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="725"/>
         <source>Attach preview panel</source>
-        <translation>接合預覽面板</translation>
+        <translation>預覽面板併入成資訊面板頁籤</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="919"/>
@@ -2054,7 +2054,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DBFilterModel.cpp" line="160"/>
         <location filename="DBFilterModel.cpp" line="196"/>
         <source>People</source>
-        <translation>人臉標記/人物</translation>
+        <translation>人臉標記</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="163"/>
@@ -9122,7 +9122,7 @@ Subfolders will be created. </source>
     <message>
         <location filename="DlgImport.cpp" line="347"/>
         <source>No action</source>
-        <translation>無動作</translation>
+        <translation>(無動作)</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="350"/>
@@ -11740,7 +11740,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="498"/>
         <source>Columns</source>
-        <translation>欄位 (詳細資料列表)</translation>
+        <translation>欄位 (列表 - 詳細資料)</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="510"/>
@@ -12872,7 +12872,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="789"/>
         <source>File saving</source>
-        <translation>檔案儲存中</translation>
+        <translation>檔案儲存</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="796"/>
@@ -13378,7 +13378,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="2470"/>
         <location filename="DlgSettingsInterface.ui" line="2506"/>
         <source>Do nothing</source>
-        <translation>無動作</translation>
+        <translation>(無動作)</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="381"/>
@@ -14109,7 +14109,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsThumbnail.ui" line="94"/>
         <source>Create from original image if embedded thumbnail is smaller than thumbnail size</source>
         <oldsource>Create from original image if embedded thumbnail is smaller than thubnail size</oldsource>
-        <translation>若 內嵌縮圖 比 縮圖尺寸 還小, 則由原始影像建立縮圖</translation>
+        <translation>若 &apos;內嵌縮圖&apos; 比 &apos;縮圖尺寸&apos; 還小, 則由原始影像建立縮圖</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="103"/>
@@ -15610,7 +15610,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgTagPhoto.ui" line="78"/>
         <source>Search face</source>
-        <translation>搜尋人物 (人臉標記)</translation>
+        <translation>搜尋人臉標記</translation>
     </message>
     <message>
         <location filename="DlgTagPhoto.ui" line="141"/>
@@ -19278,7 +19278,7 @@ Do you want to continue?</source>
         <location filename="EditXMPWidget.cpp" line="182"/>
         <location filename="SearchField.cpp" line="133"/>
         <source>Person in image</source>
-        <translation>影像中的人物 (人臉標記)</translation>
+        <translation>影像中的人臉標記</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="183"/>
