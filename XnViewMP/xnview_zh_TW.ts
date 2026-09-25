@@ -534,16 +534,16 @@
     <message>
         <location filename="Bookmarks.cpp" line="160"/>
         <source>Favorite doesn&apos;t exist</source>
-        <translation>此最愛項目不存在</translation>
+        <translation>此資料夾最愛項目不存在</translation>
     </message>
     <message>
         <location filename="Bookmarks.cpp" line="160"/>
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation>此最愛項目指向一個不存在的資料夾.
+        <translation>此資料夾最愛項目指向一個不存在的資料夾.
 
-您是否要刪除此最愛項目 &quot;%1&quot;？</translation>
+您是否要刪除此資料夾最愛項目 &quot;%1&quot;？</translation>
     </message>
 </context>
 <context>
@@ -551,7 +551,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="Bookmarks.cpp" line="893"/>
         <source>No favorites</source>
-        <translation>沒有最愛項目</translation>
+        <translation>沒有資料夾最愛項目</translation>
     </message>
 </context>
 <context>
@@ -577,7 +577,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="1787"/>
         <source>Favorites</source>
-        <translation>最愛</translation>
+        <translation>資料夾最愛</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="1802"/>
@@ -608,7 +608,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="1684"/>
         <source>Add to Favorites</source>
-        <translation>加入最愛</translation>
+        <translation>加入資料夾最愛</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="1791"/>
@@ -654,7 +654,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="3847"/>
         <source>Favorite name:</source>
-        <translation>最愛項目名稱:</translation>
+        <translation>資料夾最愛項目名稱:</translation>
     </message>
     <message numerus="yes">
         <location filename="BrowserWindow.cpp" line="4103"/>
@@ -724,7 +724,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="4576"/>
         <source>Add to favorites...</source>
-        <translation>加入最愛...</translation>
+        <translation>加入資料夾最愛...</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4579"/>
@@ -759,7 +759,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="1692"/>
         <source>Add Favorite...</source>
-        <translation>加入最愛...</translation>
+        <translation>加入資料夾最愛...</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2044"/>
@@ -3543,7 +3543,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgContactSheet.ui" line="510"/>
         <source>Show information</source>
-        <translation>顯示資訊</translation>
+        <translation>顯示文字資訊</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="533"/>
@@ -3598,7 +3598,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgContactSheet.ui" line="712"/>
         <source>Do Nothing</source>
-        <translation>什麼都不做</translation>
+        <translation>(無動作)</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="717"/>
@@ -7141,7 +7141,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgCreateMulti.ui" line="241"/>
         <source>Do Nothing</source>
-        <translation>什麼都不做</translation>
+        <translation>(無動作)</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.ui" line="246"/>
@@ -7482,7 +7482,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditFav.ui" line="14"/>
         <source>Edit favorites</source>
-        <translation>編輯最愛項目</translation>
+        <translation>編輯資料夾最愛項目</translation>
     </message>
     <message>
         <location filename="DlgEditFav.ui" line="66"/>
@@ -10180,7 +10180,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPrint.ui" line="673"/>
         <source>Show information</source>
-        <translation>顯示資訊</translation>
+        <translation>顯示文字資訊</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="687"/>
@@ -11780,7 +11780,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="400"/>
         <source>Favorites</source>
-        <translation>最愛</translation>
+        <translation>資料夾最愛</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="284"/>
@@ -13162,7 +13162,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="143"/>
         <source>-- COMMAND --</source>
-        <translation>-- 命令列指令 --</translation>
+        <translation>-- 執行檔 --</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="147"/>
@@ -13449,7 +13449,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="479"/>
         <source>Set command...</source>
-        <translation>設定命令列指令...</translation>
+        <translation>設定執行檔...</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="164"/>
@@ -13767,7 +13767,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="1221"/>
         <location filename="DlgSettingsInterface.ui" line="1264"/>
         <source>Command name</source>
-        <translation>命令列指令名稱</translation>
+        <translation>執行檔名稱</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1426"/>
@@ -14141,7 +14141,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="173"/>
         <source>For video files, extract frame at</source>
-        <translation>若是影片檔, 擷取位於 ... 的影格(幀)</translation>
+        <translation>若是影片檔, 擷取位於...的影格(幀)</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="187"/>
@@ -14339,7 +14339,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="576"/>
         <source>Overlay icons</source>
-        <translation>胸章式圖標</translation>
+        <translation>胸章型圖標</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="891"/>
@@ -14538,7 +14538,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="752"/>
         <source>Draw multi-resolution icons as Snapshots</source>
         <oldsource>Display multi-resolution icons as snapshots</oldsource>
-        <translation>將多重解析度圖示繪製為快照</translation>
+        <translation>將多種解析度的圖示, 繪製融合顯示成一張或一組靜態的預覽圖</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="643"/>
@@ -14741,7 +14741,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="1003"/>
         <source>Info</source>
-        <translation>顯示資訊</translation>
+        <translation>顯示文字資訊</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1208"/>
@@ -14761,7 +14761,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="1271"/>
         <source>Show info</source>
-        <translation>顯示資訊</translation>
+        <translation>顯示文字資訊</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1285"/>
@@ -15217,7 +15217,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSlideshow.ui" line="376"/>
         <source>Show information</source>
-        <translation>顯示資訊</translation>
+        <translation>顯示文字資訊</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="480"/>
@@ -15545,7 +15545,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgStrip.ui" line="198"/>
         <source>Fit width or height</source>
-        <translation>符合寬度或高度</translation>
+        <translation>符合寬度或高度 ( = 放大/縮小 至最早與邊切齊時)</translation>
     </message>
     <message>
         <location filename="DlgStrip.ui" line="210"/>
@@ -16197,7 +16197,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgVideoGallery.ui" line="240"/>
         <source>Show information</source>
-        <translation>顯示資訊</translation>
+        <translation>顯示文字資訊</translation>
     </message>
     <message>
         <location filename="DlgVideoGallery.cpp" line="68"/>
@@ -16997,16 +16997,16 @@ Do you want to continue?</source>
         <location filename="FavoritesView.cpp" line="73"/>
         <source>Favorite doesn&apos;t exist</source>
         <oldsource>Favorite doens&apos;t exist</oldsource>
-        <translation>最愛項目不存在</translation>
+        <translation>資料夾最愛項目不存在</translation>
     </message>
     <message>
         <location filename="FavoritesView.cpp" line="73"/>
         <source>This favorite points to a folder which doesn&apos;t exist. 
 
 Do you want to delete the favorite &quot;%1&quot;?</source>
-        <translation>此最愛項目指向一個不存在的資料夾.
+        <translation>此資料夾最愛項目指向一個不存在的資料夾.
 
-您是否要刪除最愛項目 &quot;%1&quot;?</translation>
+您是否要刪除資料夾最愛項目 &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="FavoritesView.cpp" line="106"/>
@@ -18739,7 +18739,7 @@ Do you want to continue?</source>
     <message>
         <location filename="InfoFavoritesView.cpp" line="45"/>
         <source>Remove from Favorites panel</source>
-        <translation>從最愛面板中移除</translation>
+        <translation>從資訊最愛面板中移除</translation>
     </message>
 </context>
 <context>
@@ -19478,7 +19478,7 @@ Do you want to continue?</source>
     <message>
         <location filename="InfoPanel.cpp" line="95"/>
         <source>Add to Favorites panel</source>
-        <translation>新增到最愛面板</translation>
+        <translation>新增到資訊最愛面板</translation>
     </message>
 </context>
 <context>
@@ -20527,7 +20527,7 @@ Do you want to continue?</oldsource>
         <location filename="DlgSettingsView.cpp" line="314"/>
         <location filename="BrowserMenu.h" line="660"/>
         <source>Fit image to window width or height</source>
-        <translation>影像符合視窗寬度或高度</translation>
+        <translation>影像符合視窗寬度或高度 ( = 放大/縮小 至最早與邊切齊時)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="26"/>
@@ -20656,7 +20656,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="300"/>
         <location filename="BrowserMenu.h" line="324"/>
         <source>Favorites</source>
-        <translation>最愛</translation>
+        <translation>資料夾最愛</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="302"/>
@@ -21084,7 +21084,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="570"/>
         <source>Add to favorites...</source>
-        <translation>加入最愛...</translation>
+        <translation>加入資料夾最愛...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="572"/>
@@ -21703,7 +21703,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="372"/>
         <source>Fit image to window width or height</source>
-        <translation>影像符合視窗寬度或高度</translation>
+        <translation>影像符合視窗寬度或高度 ( = 放大/縮小 至最早與邊切齊時)</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="178"/>
@@ -22180,7 +22180,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="458"/>
         <source>Show information</source>
-        <translation>顯示資訊</translation>
+        <translation>顯示文字資訊</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="459"/>
@@ -22191,7 +22191,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="461"/>
         <source>Draw as Snapshot (icons only)</source>
         <oldsource>Icon snapshot on/off</oldsource>
-        <translation>圖示快照 開/關 (僅限圖示)</translation>
+        <translation>以預覽圖的形式, 來顯示 &apos;多種解析度的圖示&apos;</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="431"/>
@@ -22924,7 +22924,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="1009"/>
         <source>Choose command</source>
-        <translation>選擇命令列指令</translation>
+        <translation>選擇執行檔</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="1041"/>
@@ -23755,7 +23755,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="PreviewInfo.cpp" line="480"/>
         <source>Favorites</source>
-        <translation>最愛</translation>
+        <translation>資訊最愛</translation>
     </message>
     <message>
         <location filename="PreviewInfo.cpp" line="537"/>
