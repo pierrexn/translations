@@ -5247,7 +5247,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="1694"/>
         <source>Add &apos;Convert with XnConvert&apos; to context menu</source>
-        <translation>加入 &apos;使用XnConvert轉換&apos; 至右鍵選單</translation>
+        <translation>加入 &apos;使用 XnConvert 轉換&apos; 到右鍵選單</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1719"/>
@@ -5759,7 +5759,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertICC.ui" line="93"/>
         <source>Rendering intent</source>
-        <translation>渲染意圖/色彩演算比對方式</translation>
+        <translation>渲染意圖/色域轉換意圖</translation>
     </message>
     <message>
         <location filename="DlgConvertICC.ui" line="101"/>
@@ -11563,7 +11563,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsIntegration.h" line="15"/>
         <source>Integration</source>
-        <translation>整合其它軟體</translation>
+        <translation>整合 (軟體/系統/主機)</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.h" line="17"/>
@@ -11720,7 +11720,7 @@ Do you want to remove them?</source>
         <location filename="DlgSettingsBrowser.ui" line="365"/>
         <location filename="DlgSettingsBrowser.ui" line="562"/>
         <source>Filter</source>
-        <translation>篩選</translation>
+        <translation>列表篩選</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="585"/>
@@ -11750,7 +11750,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="291"/>
         <source>Sort</source>
-        <translation>排序</translation>
+        <translation>列表排序</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="358"/>
@@ -12043,7 +12043,7 @@ Do you want to remove entries assigned to a category?</oldsource>
         <location filename="DlgSettingsCache.ui" line="293"/>
         <source>Base path of files</source>
         <oldsource>Base path of your pictures</oldsource>
-        <translation>檔案基礎路徑</translation>
+        <translation>資料夾基礎路徑</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="36"/>
@@ -12094,7 +12094,7 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettingsCache.ui" line="323"/>
         <source>Filter</source>
-        <translation>篩選</translation>
+        <translation>路徑篩選</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="354"/>
@@ -12403,7 +12403,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="203"/>
         <source>Link companion files for the following actions</source>
-        <translation>將下列動作連結套用於 &apos;並行檔案&apos;</translation>
+        <translation>將下列 &apos;主檔案&apos; 的動作, 連結套用於 &apos;並行檔案&apos;</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="209"/>
@@ -12957,7 +12957,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="1049"/>
         <source>Rendering intent:</source>
-        <translation>渲染意圖/色彩演算比對方式:</translation>
+        <translation>渲染意圖/色域轉換意圖:</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="1078"/>
@@ -13057,13 +13057,13 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="39"/>
         <source>Integration</source>
-        <translation>整合其它軟體</translation>
+        <translation>整合</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="51"/>
         <source>Add &apos;Browse with XnViewMP&apos; to context menu</source>
         <oldsource>Add &apos;Browse with XnViewMP&apos; to context menu (requires admin rights)</oldsource>
-        <translation>加入 &apos;使用 XnViewMP 瀏覽&apos; 至右鍵選單 (需管理者權限)</translation>
+        <translation>加入 &apos;使用 XnViewMP 瀏覽&apos; 到右鍵選單 (需管理者權限)</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="58"/>
@@ -13331,7 +13331,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="208"/>
         <source>Tabs</source>
-        <translation>頁籤</translation>
+        <translation>視窗頁籤</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="230"/>
@@ -13901,7 +13901,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsKeywords.ui" line="237"/>
         <source>Automatically assign parent Category (Ctrl+click for current only)</source>
         <oldsource>Automatically apply parent category (Ctrl+click for single category)</oldsource>
-        <translation>自動指派父類別 ( &apos;按Ctrl/Cmd+滑鼠點擊&apos; 則只指派給選取的類別)</translation>
+        <translation>自動指派父類別 ( &apos;Ctrl/Cmd + 滑鼠點擊&apos; 則只指派給選取的類別)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="224"/>
@@ -13922,7 +13922,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsKeywords.ui" line="370"/>
         <source>Create or update XMP Sidecar</source>
         <oldsource>Update or create XMP Sidecar</oldsource>
-        <translation>建立或更新 XMP Sidecar 並行檔案</translation>
+        <translation>建立或更新 &apos;XMP Sidecar 並行檔案&apos;</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="407"/>
@@ -13980,7 +13980,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="398"/>
         <source>Update master file</source>
-        <translation>更新主檔案</translation>
+        <translation>更新 &apos;主檔案&apos;</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="463"/>
@@ -14277,7 +14277,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="451"/>
         <source>Spacing</source>
-        <translation>展示框間隔</translation>
+        <translation>展示框隔間隔</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="39"/>
@@ -14298,7 +14298,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="398"/>
         <source>Thumbnail cell</source>
-        <translation>縮圖展示框</translation>
+        <translation>縮圖展示框隔</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="584"/>
@@ -15176,7 +15176,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSlideshow.ui" line="291"/>
         <source>Loop</source>
-        <translation>迴圈</translation>
+        <translation>循環</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="298"/>
@@ -22191,7 +22191,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="461"/>
         <source>Draw as Snapshot (icons only)</source>
         <oldsource>Icon snapshot on/off</oldsource>
-        <translation>以預覽圖的形式, 來顯示 &apos;多種解析度的圖示&apos;</translation>
+        <translation>以預覽圖形式, 來顯示 &apos;多種解析度的圖示&apos;</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="431"/>
