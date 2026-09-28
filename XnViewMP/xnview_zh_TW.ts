@@ -5759,7 +5759,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertICC.ui" line="93"/>
         <source>Rendering intent</source>
-        <translation>渲染意圖/色域轉換意圖</translation>
+        <translation>色域轉換意圖</translation>
     </message>
     <message>
         <location filename="DlgConvertICC.ui" line="101"/>
@@ -9134,12 +9134,12 @@ Subfolders will be created. </source>
         <location filename="DlgImport.cpp" line="353"/>
         <source>Write to embedded metadata (JPEG/TIFF/PNG) and create XMP sidecar (others)</source>
         <oldsource>Update embedded metadata (JPEG/TIFF/PNG) and sidecar (others)</oldsource>
-        <translation>寫入內嵌的後製資料 (JPEG/TIFF/PNG)、並建立 XMP Sidecar 並行檔案 (其它)</translation>
+        <translation>寫入內嵌的後製資料 (JPEG/TIFF/PNG)、並建立 XMP 並行檔案 (其它)</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="356"/>
         <source>Create XMP sidecar for all files</source>
-        <translation>為所有檔案建立 XMP Sidecar 並行檔案</translation>
+        <translation>為所有檔案建立 XMP 並行檔案</translation>
     </message>
 </context>
 <context>
@@ -10391,7 +10391,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgReadCRaw.ui" line="89"/>
         <source>Full/Half size rendering</source>
-        <translation>全尺寸/半尺寸渲染圖</translation>
+        <translation>全尺寸/半尺寸 顯像圖</translation>
     </message>
     <message>
         <location filename="DlgReadCRaw.ui" line="95"/>
@@ -10924,7 +10924,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgRenameDup.ui" line="13"/>
         <source>Duplicate name</source>
-        <translation>複製名稱</translation>
+        <translation>重複名稱檔案</translation>
     </message>
     <message>
         <location filename="DlgRenameDup.ui" line="21"/>
@@ -11563,7 +11563,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsIntegration.h" line="15"/>
         <source>Integration</source>
-        <translation>整合 (軟體/系統/主機)</translation>
+        <translation>整合 (軟體/系統/遠端)</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.h" line="17"/>
@@ -12015,7 +12015,7 @@ Do you want to remove entries assigned to a Category?</source>
 Do you want to remove entries assigned to a category?</oldsource>
         <translation>注意！此動作將會移除已指派有 &apos;類別、評分標籤、顏色標籤&apos; 的資料庫項目紀錄.
 
-若相關資訊已有匯出到 &apos;主檔案內嵌&apos; 或 &apos;Sidecar並行檔案內嵌&apos; 的後製資料中, 
+若相關資訊已有匯出到 &apos;主檔案內嵌&apos; 或 &apos;XMP 並行檔案內嵌&apos; 的後製資料中, 
 您便可以之後再由檔案重新匯入它們.
 
 您確定要移除 &apos;已指派並儲存在資料庫裡的&apos; 項目紀錄嗎？</translation>
@@ -12403,7 +12403,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="203"/>
         <source>Link companion files for the following actions</source>
-        <translation>將下列 &apos;主檔案&apos; 的動作, 連結套用於 &apos;並行檔案&apos;</translation>
+        <translation>將下列 &apos;主檔案&apos; 的動作, 連結套用至 &apos;並行檔案&apos;</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="209"/>
@@ -12434,7 +12434,7 @@ Thumbnail</source>
         <location filename="DlgSettingsFilelist.ui" line="260"/>
         <source>Used by Filter › Custom</source>
         <oldsource>Used by Filter&gt;Custom</oldsource>
-        <translation>此設定將被使用於 &apos;瀏覽器 › (選單列 › 顯示 ›) 列表篩選 › 自訂&apos;</translation>
+        <translation>在 &apos;瀏覽器 › (選單列 › 顯示 ›) 列表篩選 › 自訂&apos; 被選取時, 將執行此設定</translation>
     </message>
 </context>
 <context>
@@ -12957,7 +12957,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="1049"/>
         <source>Rendering intent:</source>
-        <translation>渲染意圖/色域轉換意圖:</translation>
+        <translation>色域轉換意圖:</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="1078"/>
@@ -13162,7 +13162,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="143"/>
         <source>-- COMMAND --</source>
-        <translation>-- 執行檔 --</translation>
+        <translation>-- 命令列指令 --</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="147"/>
@@ -13331,7 +13331,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="208"/>
         <source>Tabs</source>
-        <translation>視窗頁籤</translation>
+        <translation>頁籤 (視窗)</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="230"/>
@@ -13449,12 +13449,12 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="479"/>
         <source>Set command...</source>
-        <translation>設定執行檔...</translation>
+        <translation>設定命令列指令...</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="164"/>
         <source>TitleBar</source>
-        <translation>視窗標題列</translation>
+        <translation>標題列 (視窗)</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="499"/>
@@ -13767,7 +13767,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsInterface.ui" line="1221"/>
         <location filename="DlgSettingsInterface.ui" line="1264"/>
         <source>Command name</source>
-        <translation>執行檔名稱</translation>
+        <translation>命令列指令名稱</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1426"/>
@@ -13802,7 +13802,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1500"/>
         <source>Quick Slideshow</source>
-        <translation>幻燈片快速播放</translation>
+        <translation>快速幻燈片播放</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1516"/>
@@ -13922,7 +13922,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsKeywords.ui" line="370"/>
         <source>Create or update XMP Sidecar</source>
         <oldsource>Update or create XMP Sidecar</oldsource>
-        <translation>建立或更新 &apos;XMP Sidecar 並行檔案&apos;</translation>
+        <translation>建立或更新 &apos;XMP 並行檔案&apos;</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="407"/>
@@ -13975,7 +13975,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="364"/>
         <source>Sidecar</source>
-        <translation>Sidecar 並行檔案</translation>
+        <translation>XMP 並行檔案</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="398"/>
@@ -14277,7 +14277,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="451"/>
         <source>Spacing</source>
-        <translation>展示框隔間隔</translation>
+        <translation>框格間隔</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="39"/>
@@ -14298,7 +14298,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="398"/>
         <source>Thumbnail cell</source>
-        <translation>縮圖展示框隔</translation>
+        <translation>縮圖展示框格</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="584"/>
@@ -14379,7 +14379,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="825"/>
         <source>Sidecar</source>
-        <translation>Sidecar 並行檔案</translation>
+        <translation>XMP 並行檔案</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="962"/>
@@ -14621,7 +14621,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="709"/>
         <source>Two-pass rendering at loading</source>
-        <translation>載入時做二階段渲染</translation>
+        <translation>載入時做二階段顯像</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="716"/>
@@ -14641,7 +14641,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="927"/>
         <source>Quick slideshow</source>
-        <translation>幻燈片快速播放</translation>
+        <translation>快速幻燈片播放</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="982"/>
@@ -14701,7 +14701,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="514"/>
         <source>Render</source>
-        <translation>渲染</translation>
+        <translation>顯像</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="522"/>
@@ -15413,7 +15413,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgStartupWizard.ui" line="171"/>
         <source>Run the File association(s) tool...</source>
-        <translation>執行檔案關聯工具...</translation>
+        <translation>執行 檔案關聯工具...</translation>
     </message>
     <message>
         <location filename="DlgStartupWizard.ui" line="79"/>
@@ -15545,7 +15545,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgStrip.ui" line="198"/>
         <source>Fit width or height</source>
-        <translation>符合寬度或高度 ( = 放大/縮小 至最早與邊切齊時)</translation>
+        <translation>符合寬度或高度/放大或縮小至最早與邊切齊時</translation>
     </message>
     <message>
         <location filename="DlgStrip.ui" line="210"/>
@@ -15925,7 +15925,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="35"/>
         <source>Sidecar/Master files</source>
-        <translation>Sidecar並行檔案/主檔案</translation>
+        <translation>XMP並行檔案/主檔案</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="42"/>
@@ -18580,7 +18580,7 @@ Do you want to continue?</source>
     <message>
         <location filename="TemplateData.cpp" line="2726"/>
         <source>Custom rendered</source>
-        <translation>自訂渲染</translation>
+        <translation>自訂顯像</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2727"/>
@@ -19928,7 +19928,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MediaPlayerAv.cpp" line="42"/>
         <source>Can not create video renderer</source>
-        <translation>無法建立影片渲染器</translation>
+        <translation>無法建立影片顯像器</translation>
     </message>
     <message>
         <location filename="MediaPlayerAv.cpp" line="347"/>
@@ -20527,7 +20527,7 @@ Do you want to continue?</oldsource>
         <location filename="DlgSettingsView.cpp" line="314"/>
         <location filename="BrowserMenu.h" line="660"/>
         <source>Fit image to window width or height</source>
-        <translation>影像符合視窗寬度或高度 ( = 放大/縮小 至最早與邊切齊時)</translation>
+        <translation>影像符合視窗寬度或高度/放大或縮小至最早與邊切齊時</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.cpp" line="26"/>
@@ -21703,7 +21703,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="372"/>
         <source>Fit image to window width or height</source>
-        <translation>影像符合視窗寬度或高度 ( = 放大/縮小 至最早與邊切齊時)</translation>
+        <translation>影像符合視窗寬度或高度/放大或縮小至最早與邊切齊時</translation>
     </message>
     <message>
         <location filename="ViewCropAction.cpp" line="178"/>
@@ -22079,7 +22079,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="435"/>
         <source>Quick Slideshow</source>
-        <translation>幻燈片快速播放</translation>
+        <translation>快速幻燈片播放</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="437"/>
@@ -22924,7 +22924,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="1009"/>
         <source>Choose command</source>
-        <translation>選擇執行檔</translation>
+        <translation>選擇命令列指令</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.cpp" line="1041"/>
