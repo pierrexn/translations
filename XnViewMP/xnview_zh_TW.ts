@@ -7266,7 +7266,7 @@ Do you want to continue?</source>
         <location filename="DlgDBClean.ui" line="14"/>
         <source>Catalog maintenance</source>
         <oldsource>Catalog optimization</oldsource>
-        <translation>資料庫維護</translation>
+        <translation>維護資料庫</translation>
     </message>
     <message>
         <location filename="DlgDBClean.ui" line="20"/>
@@ -11950,7 +11950,7 @@ Do you want to change the &apos;base path&apos;?</source>
     <message>
         <location filename="DlgSettingsCache.cpp" line="572"/>
         <source>Catalog - Synchronize Folders</source>
-        <translation>資料庫 - 資料夾同步</translation>
+        <translation>資料庫 - 同步資料夾列表</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="573"/>
@@ -11958,20 +11958,20 @@ Do you want to change the &apos;base path&apos;?</source>
 
 Do you want to continue?</source>
         <oldsource>Warning! This operation will delete all orphaned files from catalog. Do you want to continue?</oldsource>
-        <translation>警告！這個動作將會從資料庫裡刪除所有孤立檔案的紀錄.
+        <translation>警告！這個動作將會刪除 &apos;資料庫&apos; 中所有的孤立檔案紀錄.
 
 您確定要繼續？</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="604"/>
         <source>Updating database, please wait...</source>
-        <translation>資料庫更新中, 請稍等...</translation>
+        <translation>更新資料庫中, 請稍等...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="621"/>
         <source>Catalog - Relocate the folder</source>
         <oldsource>Relocate the folder</oldsource>
-        <translation>資料庫 - 資料夾重新定位</translation>
+        <translation>資料庫 - 重新定位資料夾</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="621"/>
@@ -11986,7 +11986,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgSettingsCache.cpp" line="639"/>
         <source>Catalog Maintenance</source>
-        <translation>資料庫維護</translation>
+        <translation>維護資料庫</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="640"/>
@@ -11995,8 +11995,8 @@ Color labels, Keywords may be deleted.
 
 Do you want to check for affected entries first?</source>
         <oldsource>Warning! This operation may delete some database entries with assigned ratings/colors/keywords. Do you want to check for affected entries first?</oldsource>
-        <translation>警告！此動作可能會刪除某些已指派有
-&apos;評分標籤、顏色標籤、關鍵字&apos; 的資料庫項目紀錄.
+        <translation>警告！此動作可能會刪除 &apos;資料庫&apos; 中某些已指派有
+&apos;評分標籤、顏色標籤、關鍵字&apos; 的項目紀錄.
 
 您想先檢查受影響的項目嗎？</translation>
     </message>
@@ -12013,7 +12013,7 @@ Do you want to remove entries assigned to a Category?</source>
 (If information are exported into embedded or sidecar metadata, you&apos;ll be able to re-import them later)
 
 Do you want to remove entries assigned to a category?</oldsource>
-        <translation>注意！此動作將會移除已指派有 &apos;類別、評分標籤、顏色標籤&apos; 的資料庫項目紀錄.
+        <translation>注意！此動作將會移除 &apos;資料庫&apos; 中已指派有 &apos;類別、評分標籤、顏色標籤&apos; 的紀錄.
 
 若相關資訊已有匯出到 &apos;主檔案內嵌&apos; 或 &apos;XMP 並行檔案內嵌&apos; 的後製資料中, 
 您便可以之後再由檔案重新匯入它們.
@@ -12122,7 +12122,7 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettingsCache.ui" line="430"/>
         <source>Maintenance...</source>
-        <translation>資料庫維護...</translation>
+        <translation>維護資料庫...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="437"/>
@@ -12138,7 +12138,7 @@ Do you want to remove entries assigned to a category?</oldsource>
         <location filename="DlgSettingsCache.ui" line="485"/>
         <source>Update metadata</source>
         <oldsource>Update metadata...</oldsource>
-        <translation>資料庫更新</translation>
+        <translation>由資料夾列表更新資料庫</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="542"/>
@@ -12148,7 +12148,7 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettingsCache.ui" line="447"/>
         <source>Relocate...</source>
-        <translation>資料夾重新定位…</translation>
+        <translation>重新定位資料夾…</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="364"/>
@@ -12165,7 +12165,7 @@ Do you want to remove entries assigned to a category?</oldsource>
         <location filename="DlgSettingsCache.ui" line="478"/>
         <source>Synchronize Folders...</source>
         <oldsource>Check folders...</oldsource>
-        <translation>資料夾同步...</translation>
+        <translation>同步資料夾列表與資料庫...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="502"/>
@@ -13960,12 +13960,12 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="246"/>
         <source>Read Hierarchical keywords</source>
-        <translation>讀取層級關鍵字</translation>
+        <translation>讀入 &apos;層級關鍵字&apos;</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="340"/>
         <source>Write Hierarchical keywords (| as separator)</source>
-        <translation>寫入層級關鍵字 (以 | 作為分隔符號)</translation>
+        <translation>寫出 &apos;層級關鍵字&apos; (以 | 作為分隔符號)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="131"/>
@@ -15915,7 +15915,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="20"/>
         <source>Update database</source>
-        <translation>資料庫更新</translation>
+        <translation>更新資料庫</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="28"/>
@@ -23254,7 +23254,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="MyThumbView.cpp" line="761"/>
         <source>Updating catalog, please wait...</source>
-        <translation>資料庫更新中, 請稍候…</translation>
+        <translation>更新資料庫中, 請稍候…</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="779"/>
@@ -24951,12 +24951,12 @@ Do you want to keep the thumbnails?
     <message>
         <location filename="xnview.cpp" line="493"/>
         <source>Catalog update</source>
-        <translation>資料庫更新</translation>
+        <translation>更新資料庫</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="493"/>
         <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
-        <translation>若您想要使用 &apos;資料庫篩選器&apos; 中的新增項目, 則您需要先更新資料庫 (設定 &gt; 資料庫 &gt; 資料庫更新). </translation>
+        <translation>若您想要使用 &apos;資料庫篩選器&apos; 中的新增項目, 則您需要先更新資料庫 (設定 &gt; 資料庫 &gt; 由資料夾列表更新資料庫). </translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="889"/>
@@ -24998,7 +24998,7 @@ will not be saved to the database.</source>
         <source>There is a problem to update Catalog:
 (Error: % 1)
 Please contact the developer.</source>
-        <translation>資料庫更新時出現錯誤:
+        <translation>更新資料庫時出現錯誤:
 (錯誤: % 1)
 請聯繫開發人員.</translation>
     </message>
