@@ -9311,11 +9311,11 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Lossy - Low quality (JPEG)</source>
-        <translation>Cu pierdere - Calitate scăzută (JPEG)</translation>
+        <translation>Cu pierderi - Calitate scăzută (JPEG)</translation>
     </message>
     <message>
         <source>Lossy - High quality (WebP)</source>
-        <translation>Lossy - Calitate înaltă (WebP)</translation>
+        <translation>Cu pierderi - Calitate înaltă (WebP)</translation>
     </message>
     <message>
         <source>Lossy - High quality (JPEG)</source>
