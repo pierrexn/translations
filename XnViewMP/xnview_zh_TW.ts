@@ -20184,12 +20184,12 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="66"/>
         <source>Name - natural (numeric) order</source>
         <oldsource>Name - natural order</oldsource>
-        <translation>名稱 - 按數值排序 (自然排序)</translation>
+        <translation>名稱 - 按數值排序/自然排序</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="68"/>
         <source>Name - normal order</source>
-        <translation>名稱 - 按正常排序</translation>
+        <translation>名稱 - 按平常排序</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="67"/>
