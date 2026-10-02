@@ -11563,7 +11563,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsIntegration.h" line="15"/>
         <source>Integration</source>
-        <translation>整合 (軟體/系統/遠端)</translation>
+        <translation>整合 (軟體/系統/共享)</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.h" line="17"/>
@@ -11740,7 +11740,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="498"/>
         <source>Columns</source>
-        <translation>欄位 (列表 - 詳細資料)</translation>
+        <translation>欄位 (列表-詳細資料)</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="510"/>
@@ -13057,7 +13057,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="39"/>
         <source>Integration</source>
-        <translation>整合</translation>
+        <translation>整合 (軟體/系統/共享)</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="51"/>
@@ -14522,7 +14522,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="898"/>
         <source>(From Settings › File list › Custom Filter)</source>
         <oldsource>(From Settings&gt;File list&gt;Custom Filter)</oldsource>
-        <translation>上列項目之細項設定: 套用自瀏覽器之列表設定 ( &apos;設定 › 檔案列表 › 列表篩選-自訂&apos; )</translation>
+        <translation>上列項目之細項設定: 套用自瀏覽器之列表篩選-自訂 ( &apos;設定 › 檔案列表 › 列表篩選-自訂&apos; )</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="739"/>
