@@ -11958,7 +11958,7 @@ Do you want to change the &apos;base path&apos;?</source>
 
 Do you want to continue?</source>
         <oldsource>Warning! This operation will delete all orphaned files from catalog. Do you want to continue?</oldsource>
-        <translation>警告！這個動作將會刪除 &apos;資料庫&apos; 中所有的孤立檔案紀錄.
+        <translation>警告！這個動作將會刪除資料庫中所有孤立檔案的紀錄.
 
 您確定要繼續？</translation>
     </message>
@@ -12138,7 +12138,7 @@ Do you want to remove entries assigned to a category?</oldsource>
         <location filename="DlgSettingsCache.ui" line="485"/>
         <source>Update metadata</source>
         <oldsource>Update metadata...</oldsource>
-        <translation>由資料夾列表更新資料庫</translation>
+        <translation>由 &apos;資料夾路徑列表&apos; 更新 &apos;資料庫&apos;</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="542"/>
@@ -12165,7 +12165,7 @@ Do you want to remove entries assigned to a category?</oldsource>
         <location filename="DlgSettingsCache.ui" line="478"/>
         <source>Synchronize Folders...</source>
         <oldsource>Check folders...</oldsource>
-        <translation>同步資料夾列表與資料庫...</translation>
+        <translation>同步 &apos;資料夾路徑列表&apos; 及 &apos;資料庫&apos;...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="502"/>
@@ -12398,7 +12398,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="163"/>
         <source>Display file size in bytes</source>
-        <translation>以位元組 (bytes) 為單位, 顯示檔案大小</translation>
+        <translation>以位元組 ( = bytes = B ) 為單位, 顯示檔案大小</translation>
     </message>
     <message>
         <location filename="DlgSettingsFilelist.ui" line="203"/>
@@ -13802,7 +13802,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1500"/>
         <source>Quick Slideshow</source>
-        <translation>快速幻燈片播放</translation>
+        <translation>快速幻燈片</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="1516"/>
@@ -14522,7 +14522,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="898"/>
         <source>(From Settings › File list › Custom Filter)</source>
         <oldsource>(From Settings&gt;File list&gt;Custom Filter)</oldsource>
-        <translation>上列項目之細項設定: 套用自瀏覽器之列表篩選-自訂 ( &apos;設定 › 檔案列表 › 列表篩選-自訂&apos; )</translation>
+        <translation>上列項目之細項設定: 套用自瀏覽器的自訂設定 ( &apos;設定 › 檔案列表 › 列表篩選-自訂&apos; )</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="739"/>
@@ -14641,7 +14641,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="927"/>
         <source>Quick slideshow</source>
-        <translation>快速幻燈片播放</translation>
+        <translation>快速幻燈片</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="982"/>
@@ -14741,7 +14741,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="1003"/>
         <source>Info</source>
-        <translation>顯示文字資訊</translation>
+        <translation>文字資訊</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="1208"/>
@@ -22079,7 +22079,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="435"/>
         <source>Quick Slideshow</source>
-        <translation>快速幻燈片播放</translation>
+        <translation>快速幻燈片</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="437"/>
