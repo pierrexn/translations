@@ -1056,7 +1056,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="ExLineEdit.cpp" line="161"/>
         <source>Clear</source>
-        <translation>清除</translation>
+        <translation>清空</translation>
     </message>
 </context>
 <context>
@@ -1280,7 +1280,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgConvertProcess.h" line="664"/>
         <source>Clean metadata</source>
-        <translation>清除後製資料</translation>
+        <translation>清掃後製資料</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="703"/>
@@ -1435,7 +1435,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgConvertProcess.h" line="4685"/>
         <source>Clear transparent pixels</source>
-        <translation>清除不透明像素</translation>
+        <translation>清空不透明像素</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="4699"/>
@@ -3304,7 +3304,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgClean.ui" line="14"/>
         <source>Clean metadata</source>
-        <translation>清除後製資料</translation>
+        <translation>清掃後製資料</translation>
     </message>
     <message>
         <location filename="DlgClean.ui" line="20"/>
@@ -4741,7 +4741,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert.ui" line="148"/>
         <location filename="DlgConvert-old.ui" line="195"/>
         <source>Clear all</source>
-        <translation>全部清除</translation>
+        <translation>全部清空</translation>
     </message>
     <message>
         <location filename="DlgConvert-old.ui" line="669"/>
@@ -5181,7 +5181,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert.ui" line="1261"/>
         <location filename="DlgConvert-old.ui" line="1617"/>
         <source>Clear the &apos;Input&apos; file(s)</source>
-        <translation>清除 &apos;輸入&apos; 的檔案</translation>
+        <translation>清空 &apos;輸入&apos; 的檔案</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1275"/>
@@ -5257,7 +5257,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="1787"/>
         <source>Clear filename field at startup</source>
-        <translation>啟動時清除檔名欄位</translation>
+        <translation>啟動時清空檔名欄位</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1817"/>
@@ -7277,7 +7277,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgDBClean.ui" line="27"/>
         <source>Clean up</source>
-        <translation>清理</translation>
+        <translation>清掃</translation>
     </message>
     <message>
         <location filename="DlgDBClean.ui" line="33"/>
@@ -7288,18 +7288,18 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgDBClean.ui" line="57"/>
         <source>Purge</source>
-        <translation>清除</translation>
+        <translation>清空</translation>
     </message>
     <message>
         <location filename="DlgDBClean.ui" line="63"/>
         <source>Purge all thumbnails</source>
         <oldsource>Clean thumbnails</oldsource>
-        <translation>清除無用縮圖</translation>
+        <translation>清空無用縮圖</translation>
     </message>
     <message>
         <location filename="DlgDBClean.ui" line="70"/>
         <source>Purge file data</source>
-        <translation>清除無用檔案之紀錄</translation>
+        <translation>清空無用檔案之紀錄</translation>
     </message>
     <message>
         <location filename="DlgDBClean.ui" line="40"/>
@@ -7604,7 +7604,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditXMP.ui" line="156"/>
         <source>Clear all fields</source>
-        <translation>清除全部欄位</translation>
+        <translation>清空全部欄位</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.ui" line="163"/>
@@ -9368,7 +9368,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgIptc.ui" line="882"/>
         <source>Clear all fields</source>
-        <translation>清除全部欄位</translation>
+        <translation>清空全部欄位</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="44"/>
@@ -9805,7 +9805,7 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPalette.ui" line="91"/>
         <source>Clear</source>
-        <translation>清除</translation>
+        <translation>清空</translation>
     </message>
     <message>
         <location filename="DlgPalette.ui" line="117"/>
@@ -11477,7 +11477,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.ui" line="206"/>
         <source>Clear all</source>
-        <translation>全部清除</translation>
+        <translation>全部清空</translation>
     </message>
 </context>
 <context>
@@ -11611,7 +11611,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="378"/>
         <source>Clear All</source>
-        <translation>全部清除</translation>
+        <translation>全部清空</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="378"/>
@@ -11735,7 +11735,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="553"/>
         <source>Clear all</source>
-        <translation>全部清除</translation>
+        <translation>全部清空</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="498"/>
@@ -11816,7 +11816,7 @@ Do you want to remove them?</source>
         <location filename="DlgSettingsBrowser.ui" line="438"/>
         <source>Clear the list of checked files</source>
         <oldsource>Clear the list of tagged files</oldsource>
-        <translation>清除所有的勾選 (所有的檔案列表)</translation>
+        <translation>清空所有的勾選 (所有的檔案列表)</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="446"/>
@@ -12462,7 +12462,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsFormat.ui" line="94"/>
         <source>Clear all</source>
-        <translation>全部清除</translation>
+        <translation>全部清空</translation>
     </message>
     <message>
         <location filename="DlgSettingsFormat.ui" line="116"/>
@@ -13267,7 +13267,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="118"/>
         <source>Purge &apos;Recent files and folders&apos; on exit</source>
-        <translation>離開時清除 &apos;最近使用的檔案和資料夾&apos; 紀錄</translation>
+        <translation>離開時清空 &apos;最近使用的檔案和資料夾&apos; 紀錄</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="221"/>
@@ -13326,7 +13326,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsInterface.ui" line="125"/>
         <source>Purge now</source>
-        <translation>立即清除</translation>
+        <translation>立即清空</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="208"/>
@@ -15615,7 +15615,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgTagPhoto.ui" line="141"/>
         <source>Clear regions</source>
-        <translation>清除人臉標記區域</translation>
+        <translation>清空人臉標記區域</translation>
     </message>
     <message>
         <location filename="DlgTagPhoto.ui" line="283"/>
@@ -15811,7 +15811,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgTransfer.ui" line="36"/>
         <source>Clear all</source>
-        <translation>全部清除</translation>
+        <translation>全部清空</translation>
     </message>
     <message>
         <location filename="DlgTransfer.cpp" line="259"/>
@@ -18055,7 +18055,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoCategoryView.cpp" line="251"/>
         <source>Catalog - Clear &amp; Import</source>
-        <translation>資料庫 - 清除 &amp; 匯入</translation>
+        <translation>資料庫 - 清空 &amp; 匯入</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="251"/>
@@ -20882,13 +20882,13 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="468"/>
         <source>Uncheck all</source>
         <oldsource>Untag all</oldsource>
-        <translation>取消全部勾選 (螢幕前的檔案列表)</translation>
+        <translation>全部無勾選 (螢幕前的檔案列表)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="469"/>
         <source>Clear all checks</source>
         <oldsource>Clear all tags</oldsource>
-        <translation>清除所有的勾選 (所有的檔案列表)</translation>
+        <translation>清空所有的勾選 (所有的檔案列表)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="470"/>
@@ -21158,7 +21158,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="611"/>
         <source>Clean...</source>
-        <translation>清除後製資料...</translation>
+        <translation>清掃後製資料...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="612"/>
@@ -21337,7 +21337,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="672"/>
         <source>Clear &amp;&amp; Import...</source>
-        <translation>清除並匯入資料庫...</translation>
+        <translation>清空並匯入資料庫...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="673"/>
@@ -22366,7 +22366,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="549"/>
         <source>Clean metadata...</source>
-        <translation>清除後製資料...</translation>
+        <translation>清掃後製資料...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="555"/>
@@ -22470,7 +22470,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="342"/>
         <source>Clear selection</source>
-        <translation>清除框選區域內容</translation>
+        <translation>清空框選區域內容</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="390"/>
@@ -23237,7 +23237,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyTemplateComboEdit.h" line="254"/>
         <source>Clear</source>
-        <translation>清除</translation>
+        <translation>清空</translation>
     </message>
 </context>
 <context>
@@ -24342,7 +24342,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="RecentFilesMenu.cpp" line="99"/>
         <source>Clear</source>
-        <translation>清除</translation>
+        <translation>清空</translation>
     </message>
 </context>
 <context>
@@ -24521,7 +24521,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="SearchGroup.ui" line="72"/>
         <source>Clear all</source>
-        <translation>全部清除</translation>
+        <translation>全部清空</translation>
     </message>
     <message>
         <location filename="SearchGroup.ui" line="92"/>
@@ -24651,7 +24651,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="ToolbarSearch.cpp" line="206"/>
         <source>Clear Recent Searches</source>
-        <translation>清除最近的搜尋</translation>
+        <translation>清空最近的搜尋</translation>
     </message>
 </context>
 <context>
