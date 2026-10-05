@@ -4147,7 +4147,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>Black</source>
-        <translation type="unfinished">Negro</translation>
+        <translation>Negro</translation>
     </message>
 </context>
 <context>
@@ -4240,7 +4240,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>from edge</source>
-        <translation>Desde el borde</translation>
+        <translation>desde el borde</translation>
     </message>
     <message>
         <source>(pixels)</source>
@@ -4248,7 +4248,7 @@ Do you want to overwrite it?</source>
     </message>
     <message>
         <source>from position</source>
-        <translation>Desde la posición</translation>
+        <translation>desde la posición</translation>
     </message>
 </context>
 <context>
