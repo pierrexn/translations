@@ -835,13 +835,13 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="CategorySetPanel.cpp" line="299"/>
         <source>Assign Set to selection</source>
         <oldsource>Assign Set to selection...</oldsource>
-        <translation>將子合輯指派給選取的物件</translation>
+        <translation>將子合集指派給選取的物件</translation>
     </message>
     <message>
         <location filename="CategorySetPanel.cpp" line="300"/>
         <source>Unassign Set from selection</source>
         <oldsource>Unassign Set to selection...</oldsource>
-        <translation>將選取的物件從子合輯裡移出</translation>
+        <translation>將選取的物件從子合集裡移出</translation>
     </message>
 </context>
 <context>
@@ -892,7 +892,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="CategorySets.cpp" line="427"/>
         <source>Enter a name for this set</source>
-        <translation>命名此子合輯</translation>
+        <translation>命名此子合集</translation>
     </message>
     <message>
         <location filename="CategorySets.cpp" line="427"/>
@@ -1380,7 +1380,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DlgConvertProcess.h" line="2837"/>
         <location filename="DlgShadowHighlight.h" line="65"/>
         <source>Shadow-Highlight</source>
-        <translation>陰影-高光</translation>
+        <translation>暗部-高光</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="2859"/>
@@ -1569,7 +1569,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgConvertProcess.h" line="3254"/>
         <source>ICC convert</source>
-        <translation>ICC 配置轉換</translation>
+        <translation>轉換 ICC 描述檔</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="3401"/>
@@ -1657,7 +1657,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DlgConvert.cpp" line="385"/>
         <source>Logarithmic LUT</source>
         <oldsource>Logarithmic lut</oldsource>
-        <translation>對數色彩查找表</translation>
+        <translation>Log LUT/色域對數查找表</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="387"/>
@@ -2156,7 +2156,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DBFilterModel.cpp" line="1711"/>
         <source>No Color Profile</source>
-        <translation>無顏色配置</translation>
+        <translation>無色彩描述檔</translation>
     </message>
 </context>
 <context>
@@ -2794,7 +2794,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgBatchResize.ui" line="1147"/>
         <source>Preserve color profile</source>
-        <translation>保存顏色配置</translation>
+        <translation>保存色彩描述檔</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="130"/>
@@ -3231,30 +3231,30 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgCategorySetsSettings.ui" line="57"/>
         <source>Copy Categories to Set...</source>
-        <translation>複製類別到子合輯...</translation>
+        <translation>複製類別到子合集...</translation>
     </message>
     <message>
         <location filename="DlgCategorySetsSettings.ui" line="83"/>
         <source>Add Set...</source>
-        <translation>加入子合輯...</translation>
+        <translation>加入子合集...</translation>
     </message>
     <message>
         <location filename="DlgCategorySetsSettings.ui" line="90"/>
         <source>Rename Set...</source>
-        <translation>重新命名子合輯...</translation>
+        <translation>重新命名子合集...</translation>
     </message>
     <message>
         <location filename="DlgCategorySetsSettings.ui" line="97"/>
         <location filename="DlgCategorySetsSettings.cpp" line="255"/>
         <source>Delete Set</source>
-        <translation>刪除子合輯</translation>
+        <translation>刪除子合集</translation>
     </message>
     <message>
         <location filename="DlgCategorySetsSettings.cpp" line="148"/>
         <location filename="DlgCategorySetsSettings.cpp" line="165"/>
         <location filename="DlgCategorySetsSettings.cpp" line="233"/>
         <source>Enter a name for this set</source>
-        <translation>命名此子合輯</translation>
+        <translation>命名此子合集</translation>
     </message>
     <message>
         <location filename="DlgCategorySetsSettings.cpp" line="148"/>
@@ -3273,12 +3273,12 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgCategorySetsSettings.cpp" line="183"/>
         <source>Choose a Set</source>
-        <translation>選擇一個子合輯</translation>
+        <translation>選擇一個子合集</translation>
     </message>
     <message>
         <location filename="DlgCategorySetsSettings.cpp" line="183"/>
         <source>Set:</source>
-        <translation>子合輯:</translation>
+        <translation>子合集:</translation>
     </message>
     <message>
         <location filename="DlgCategorySetsSettings.cpp" line="255"/>
@@ -4430,7 +4430,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertBorder.ui" line="336"/>
         <source>Drop shadow</source>
-        <translation>陰影/投影</translation>
+        <translation>投影</translation>
     </message>
     <message>
         <location filename="DlgConvertBorder.ui" line="350"/>
@@ -4903,7 +4903,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert.ui" line="1134"/>
         <location filename="DlgConvert-old.ui" line="1554"/>
         <source>Preserve color profile</source>
-        <translation>保存顏色配置</translation>
+        <translation>保存色彩描述檔</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1141"/>
@@ -5749,12 +5749,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertICC.ui" line="17"/>
         <source>Input profile (sRGB by default)</source>
-        <translation>輸入配置 (預設為標準紅綠藍(sRGB) )</translation>
+        <translation>輸入描述檔 (預設為標準紅綠藍(sRGB) )</translation>
     </message>
     <message>
         <location filename="DlgConvertICC.ui" line="54"/>
         <source>Output profile (sRGB by default)</source>
-        <translation>輸出配置 (預設為標準紅綠藍(sRGB) )</translation>
+        <translation>輸出描述檔 (預設為標準紅綠藍(sRGB) )</translation>
     </message>
     <message>
         <location filename="DlgConvertICC.ui" line="93"/>
@@ -5784,7 +5784,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertICC.ui" line="139"/>
         <source>Ignore embedded profile</source>
-        <translation>忽略內嵌配置</translation>
+        <translation>忽略內嵌描述檔</translation>
     </message>
     <message>
         <location filename="DlgConvertICC.ui" line="146"/>
@@ -12492,7 +12492,7 @@ Thumbnail</source>
         <location filename="DlgSettingsGeneral.cpp" line="284"/>
         <location filename="DlgSettingsGeneral.cpp" line="285"/>
         <source>Load profile</source>
-        <translation>載入配置</translation>
+        <translation>載入描述檔</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.cpp" line="292"/>
@@ -12937,7 +12937,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="913"/>
         <source>RGB Profile used when embedded profile doesn&apos;t exist</source>
-        <translation>若無內嵌配置時, 則套用 RGB 配置</translation>
+        <translation>若無內嵌描述檔時, 則套用 RGB 描述檔</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="926"/>
@@ -12947,12 +12947,12 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="980"/>
         <source>CMYK Profile used when embedded profile doesn&apos;t exist</source>
-        <translation>若無內嵌配置時, 則套用 CMYK 配置</translation>
+        <translation>若無內嵌描述檔時, 則套用 CMYK 描述檔</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="993"/>
         <source>System profile</source>
-        <translation>系統配置</translation>
+        <translation>系統組態檔</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="1049"/>
@@ -13124,7 +13124,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="377"/>
         <source>Configuration</source>
-        <translation>配置</translation>
+        <translation>組態</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="388"/>
@@ -14369,7 +14369,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="858"/>
         <source>Color profile</source>
-        <translation>顏色配置</translation>
+        <translation>色彩描述檔</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="791"/>
@@ -14661,7 +14661,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="215"/>
         <source>Shadows</source>
-        <translation>陰影</translation>
+        <translation>暗部</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="208"/>
@@ -17472,7 +17472,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPropertiesView.cpp" line="502"/>
         <location filename="InfoPropertiesView.cpp" line="521"/>
         <source>Format profile</source>
-        <translation>格式配置</translation>
+        <translation>格式組態檔</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="503"/>
@@ -18620,7 +18620,7 @@ Do you want to continue?</source>
     <message>
         <location filename="TemplateData.cpp" line="2734"/>
         <source>Components configuration</source>
-        <translation>影像色彩元件配置</translation>
+        <translation>元件組態</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2735"/>
@@ -19363,7 +19363,7 @@ Do you want to continue?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="191"/>
         <source>Color Profile</source>
-        <translation>顏色配置</translation>
+        <translation>色彩描述檔</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="225"/>
@@ -22580,7 +22580,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="496"/>
         <source>Logarithmic LUT</source>
         <oldsource>Logarithmic lut</oldsource>
-        <translation>對數查找表</translation>
+        <translation>Log LUT/色域對數查找表</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="497"/>
@@ -22635,7 +22635,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="508"/>
         <source>Shadow/Highlight...</source>
-        <translation>陰影/高光...</translation>
+        <translation>暗部/高光...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="519"/>
@@ -22757,7 +22757,7 @@ Do you want to continue?</oldsource>
         <location filename="MyView.cpp" line="108"/>
         <location filename="ViewMenu.h" line="472"/>
         <source>Shadows</source>
-        <translation>陰影</translation>
+        <translation>暗部</translation>
     </message>
     <message>
         <location filename="MyView.cpp" line="93"/>
@@ -22776,7 +22776,7 @@ Do you want to continue?</oldsource>
         <location filename="MyView.cpp" line="97"/>
         <location filename="ViewMenu.h" line="474"/>
         <source>Shadows + Highlights</source>
-        <translation>陰影 + 高光</translation>
+        <translation>暗部 + 高光</translation>
     </message>
     <message>
         <location filename="MyView.cpp" line="106"/>
@@ -23123,7 +23123,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyHistogram.cpp" line="255"/>
         <source>Shadows</source>
-        <translation>陰影</translation>
+        <translation>暗部</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="256"/>
@@ -23133,7 +23133,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyHistogram.cpp" line="257"/>
         <source>Shadows + Highlights</source>
-        <translation>陰影 + 高光</translation>
+        <translation>暗部 + 高光</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="258"/>
@@ -24329,7 +24329,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="ReadSettingsWidget.cpp" line="38"/>
         <source>Camera RAW</source>
-        <translation>相機RAW原始格式</translation>
+        <translation>Camera RAW</translation>
     </message>
 </context>
 <context>
