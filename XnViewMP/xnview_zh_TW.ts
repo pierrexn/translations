@@ -1657,7 +1657,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DlgConvert.cpp" line="385"/>
         <source>Logarithmic LUT</source>
         <oldsource>Logarithmic lut</oldsource>
-        <translation>Log LUT/色域對數查找表</translation>
+        <translation>Log LUT/對數查找表</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="387"/>
@@ -14538,7 +14538,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="752"/>
         <source>Draw multi-resolution icons as Snapshots</source>
         <oldsource>Display multi-resolution icons as snapshots</oldsource>
-        <translation>將多種解析度的圖示, 繪製融合顯示成一張或一組靜態的預覽圖</translation>
+        <translation>將 &apos;多種解析度的圖示&apos; 顯示成 &apos;預覽圖&apos; 型態</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="643"/>
@@ -22191,7 +22191,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="461"/>
         <source>Draw as Snapshot (icons only)</source>
         <oldsource>Icon snapshot on/off</oldsource>
-        <translation>以預覽圖形式, 來顯示 &apos;多種解析度的圖示&apos;</translation>
+        <translation>將 &apos;多種解析度的圖示&apos; 顯示成 &apos;預覽圖&apos; 型態</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="431"/>
@@ -22580,7 +22580,7 @@ Do you want to continue?</oldsource>
         <location filename="ViewMenu.h" line="496"/>
         <source>Logarithmic LUT</source>
         <oldsource>Logarithmic lut</oldsource>
-        <translation>Log LUT/色域對數查找表</translation>
+        <translation>Log LUT/對數查找表</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="497"/>
