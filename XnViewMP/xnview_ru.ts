@@ -579,7 +579,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BoxUploader.cpp" line="40"/>
         <source>The file is too large to be uploaded (50 MB maximum).</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл слишком большой для загрузки (максимум 50 МБ).</translation>
     </message>
 </context>
 <context>
@@ -686,12 +686,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="4105"/>
         <source>Delete item</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить элемент</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4106"/>
         <source>Are you sure to delete &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы действительно хотите удалить &apos;%1&apos;?</translation>
     </message>
     <message numerus="yes">
         <location filename="BrowserWindow.cpp" line="4113"/>
@@ -7318,7 +7318,7 @@ Do you want to continue?</source>
         <location filename="DlgCulling.cpp" line="146"/>
         <location filename="DlgCulling.cpp" line="153"/>
         <source>Search</source>
-        <translation type="unfinished">Поиск</translation>
+        <translation>Поиск</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="147"/>
@@ -7330,18 +7330,18 @@ Do you want to continue?</source>
         <location filename="DlgCulling.cpp" line="148"/>
         <location filename="DlgCulling.cpp" line="313"/>
         <source>Action</source>
-        <translation type="unfinished"></translation>
+        <translation>Действие</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="149"/>
         <location filename="DlgCulling.cpp" line="313"/>
         <source>Status</source>
-        <translation type="unfinished">Состояние</translation>
+        <translation>Состояние</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="154"/>
         <source>List the files matching the conditions in the input tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Вывести список файлов, соответствующих условиям на вкладке «Ввод»</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="156"/>
@@ -7356,12 +7356,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgCulling.cpp" line="158"/>
         <source>Close</source>
-        <translation type="unfinished">Закрыть</translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="201"/>
         <source>Presets:</source>
-        <translation type="unfinished">Предустановки:</translation>
+        <translation>Предустановки:</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="205"/>
@@ -7376,47 +7376,47 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgCulling.cpp" line="215"/>
         <source>Add &gt;&gt;</source>
-        <translation type="unfinished">Добавить &gt;</translation>
+        <translation>Добавить &gt;</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="216"/>
         <source>Clear all</source>
-        <translation type="unfinished">Очистить все</translation>
+        <translation>Очистить все</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="220"/>
         <source>Match:</source>
-        <translation type="unfinished"></translation>
+        <translation>Совпадение:</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="221"/>
         <source>All</source>
-        <translation type="unfinished">Все</translation>
+        <translation>Все</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="222"/>
         <source>Any</source>
-        <translation type="unfinished">Любое</translation>
+        <translation>Любое</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="234"/>
         <source>Search in</source>
-        <translation type="unfinished">Искать в</translation>
+        <translation>Искать в</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="236"/>
         <source>Selected files</source>
-        <translation type="unfinished"></translation>
+        <translation>Выделенные файлы</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="237"/>
         <source>All files of the folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Все файлы в папке</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="238"/>
         <source>Recursive</source>
-        <translation type="unfinished">Искать в подпапках</translation>
+        <translation>Искать в подпапках</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="239"/>
@@ -7432,48 +7432,48 @@ Do you want to continue?</source>
         <location filename="DlgCulling.cpp" line="284"/>
         <location filename="DlgCulling.cpp" line="844"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="285"/>
         <source>Move to</source>
-        <translation type="unfinished">Переместить в</translation>
+        <translation>Переместить в</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="286"/>
         <source>Copy to</source>
-        <translation type="unfinished">Копировать в</translation>
+        <translation>Копировать в</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="287"/>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Переименовать</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="295"/>
         <source>Filename template, the extension is kept</source>
-        <translation type="unfinished"></translation>
+        <translation>Шаблон имени файла, расширение сохраняется</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="313"/>
         <source>File</source>
-        <translation type="unfinished">Файл</translation>
+        <translation>Файл</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="344"/>
         <source>Selected files (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Выделенные файлы (%1)</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="345"/>
         <location filename="DlgCulling.cpp" line="366"/>
         <source>All files of the folder (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Все файлы из папки (%1)</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="472"/>
         <source>Preset</source>
-        <translation type="unfinished">Предустановка</translation>
+        <translation>Предустановка</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="472"/>
@@ -7483,103 +7483,104 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgCulling.cpp" line="591"/>
         <source>No condition defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Условие не задано.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="605"/>
         <source>Checking files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверка файлов...</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="605"/>
         <source>Cancel</source>
-        <translation type="unfinished">Отмена</translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="674"/>
         <source>A destination folder is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не указана папка назначения.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="679"/>
         <source>The folder &apos;%1&apos; does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Папка &apos;%1&apos; не существует.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="684"/>
         <source>A filename template is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не задан шаблон имени файла.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="705"/>
         <source>The input list is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Список входных данных пуст.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="728"/>
         <source>The name &apos;%1&apos; would be used by several files or already exists. Add a counter (#) to the template.</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя &apos;%1&apos; будет использоваться для нескольких файлов или уже существует. 
+Добавьте счётчик (#) в шаблон имени.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="780"/>
         <source>No file matches the conditions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нет файлов, соответствующих условиям.</translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="820"/>
         <source>Delete %n file(s)?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Удалить %n файл?</numerusform>
+            <numerusform>Удалить %n файла?</numerusform>
+            <numerusform>Удалить %n файлов?</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="823"/>
         <source>Move %n file(s) to &apos;%1&apos;?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Переместить %n файл в папку &apos;%1&apos;?</numerusform>
+            <numerusform>Переместить %n файла в папку &apos;%1&apos;?</numerusform>
+            <numerusform>Переместить %n файлов в папку &apos;%1&apos;?</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="826"/>
         <source>Copy %n file(s) to &apos;%1&apos;?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Скопировать %n файл в папку &apos;%1&apos;?</numerusform>
+            <numerusform>Скопировать %n файла в папку &apos;%1&apos;?</numerusform>
+            <numerusform>Скопировать %n файлов в папку &apos;%1&apos;?</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="829"/>
         <source>Rename %n file(s)?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Переименовать %n файл?</numerusform>
+            <numerusform>Переименовать %n файла?</numerusform>
+            <numerusform>Переименовать %n файлов?</numerusform>
         </translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="844"/>
         <source>Move to recycle bin</source>
-        <translation type="unfinished"></translation>
+        <translation>Переместить в корзину</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="846"/>
         <source>Move to &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Переместить в &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="848"/>
         <source>Copy to &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Копировать в &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="851"/>
         <source>Rename to &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Переименовать в &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="852"/>
@@ -7589,7 +7590,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgCulling.cpp" line="880"/>
         <source>To process</source>
-        <translation type="unfinished"></translation>
+        <translation>Для обработки</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="881"/>
@@ -7599,17 +7600,17 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgCulling.cpp" line="882"/>
         <source>Processed</source>
-        <translation type="unfinished"></translation>
+        <translation>Обработано</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="883"/>
         <source>Error</source>
-        <translation type="unfinished">Ошибка</translation>
+        <translation>Ошибка</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="884"/>
         <source>Not processed</source>
-        <translation type="unfinished"></translation>
+        <translation>Не обработано</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="885"/>
@@ -7628,19 +7629,19 @@ Do you want to continue?</source>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="1007"/>
         <source>%n file(s) processed</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n файл обработан</numerusform>
+            <numerusform>%n файла обработано</numerusform>
+            <numerusform>%n файлов обработано</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="1007"/>
         <source>, %n error(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>, %n ошиба</numerusform>
+            <numerusform>, %n ошибки</numerusform>
+            <numerusform>, %n ошибок</numerusform>
         </translation>
     </message>
 </context>
@@ -14614,7 +14615,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="951"/>
         <source>Show fast-rating overlay on thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать всплывающую панель быстрой оценки на эскизах</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1126"/>
@@ -16415,17 +16416,17 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgUpload.cpp" line="71"/>
         <source>Not signed in</source>
-        <translation type="unfinished"></translation>
+        <translation>Вход не выполнен</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="73"/>
         <source>Waiting for the authorization in the web browser...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ожидание авторизации в веб-браузере...</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="76"/>
         <source>Signed in</source>
-        <translation type="unfinished"></translation>
+        <translation>Вход выполнен</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="78"/>
@@ -16436,12 +16437,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgUpload.cpp" line="78"/>
         <source>Sign out</source>
-        <translation type="unfinished"></translation>
+        <translation>Выйти</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="78"/>
         <source>Sign in...</source>
-        <translation type="unfinished"></translation>
+        <translation>Войти...</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="196"/>
@@ -16490,17 +16491,17 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgUpload.ui" line="122"/>
         <source>Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Учётная запись</translation>
     </message>
     <message>
         <location filename="DlgUpload.ui" line="128"/>
         <source>Not signed in</source>
-        <translation type="unfinished"></translation>
+        <translation>Вход не выполнен</translation>
     </message>
     <message>
         <location filename="DlgUpload.ui" line="138"/>
         <source>Sign in...</source>
-        <translation type="unfinished"></translation>
+        <translation>Войти...</translation>
     </message>
     <message>
         <location filename="DlgUpload.ui" line="165"/>
@@ -17228,12 +17229,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DropboxUploader.cpp" line="66"/>
         <source>The file is too large to be uploaded (150 MB maximum).</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл слишком большой для загрузки (максимум 150 МБ).</translation>
     </message>
     <message>
         <location filename="DropboxUploader.cpp" line="116"/>
         <source>Unable to create a shared link.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось создать общедоступную ссылку.</translation>
     </message>
 </context>
 <context>
@@ -17695,7 +17696,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="FlickrUploader.cpp" line="43"/>
         <source>The authorization request failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось выполнить запрос авторизации.</translation>
     </message>
 </context>
 <context>
@@ -17703,7 +17704,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="GoogleDriveUploader.cpp" line="109"/>
         <source>Unable to create the upload session.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось создать сеанс загрузки.</translation>
     </message>
 </context>
 <context>
@@ -23802,12 +23803,12 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="WebUploader.cpp" line="439"/>
         <source>The authorization request failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось выполнить запрос авторизации.</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="554"/>
         <source>This service is not configured in this build (missing client identifier).</source>
-        <translation type="unfinished"></translation>
+        <translation>Сервис не настроен в данной сборке (отсутствует идентификатор клиента).</translation>
     </message>
 </context>
 <context>
@@ -24277,27 +24278,27 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="PiwigoUploader.cpp" line="28"/>
         <source>Piwigo</source>
-        <translation type="unfinished"></translation>
+        <translation>Piwigo</translation>
     </message>
     <message>
         <location filename="PiwigoUploader.cpp" line="28"/>
         <source>Album</source>
-        <translation type="unfinished">Альбом</translation>
+        <translation>Альбом</translation>
     </message>
     <message>
         <location filename="PiwigoUploader.cpp" line="90"/>
         <source>The Piwigo server returned an error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Сервер Piwigo вернул ошибку.</translation>
     </message>
     <message>
         <location filename="PiwigoUploader.cpp" line="101"/>
         <source>The Piwigo gallery is not configured.</source>
-        <translation type="unfinished"></translation>
+        <translation>Галерея Piwigo не настроена.</translation>
     </message>
     <message>
         <location filename="PiwigoUploader.cpp" line="120"/>
         <source>Piwigo login failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка входа в Piwigo: %1</translation>
     </message>
 </context>
 <context>
@@ -25350,7 +25351,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="ViewWatermarkAction.cpp" line="255"/>
         <source>Angle</source>
-        <translation type="unfinished">Угол</translation>
+        <translation>Угол</translation>
     </message>
     <message>
         <location filename="ViewWatermarkAction.cpp" line="264"/>
@@ -25381,12 +25382,12 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="WebDavUploader.cpp" line="33"/>
         <source>WebDAV</source>
-        <translation type="unfinished"></translation>
+        <translation>WebDAV</translation>
     </message>
     <message>
         <location filename="WebDavUploader.cpp" line="78"/>
         <source>The WebDAV folder is not configured.</source>
-        <translation type="unfinished"></translation>
+        <translation>Папка WebDAV не настроена.</translation>
     </message>
 </context>
 <context>
@@ -25402,37 +25403,37 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="WebUploader.cpp" line="163"/>
         <source>Unable to open %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось открыть %1</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="200"/>
         <source>Authorization received, you can close this window and return to XnView.</source>
-        <translation type="unfinished"></translation>
+        <translation>Авторизация выполнена. Можно закрыть это окно и вернуться в XnView.</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="204"/>
         <source>Unable to listen on local port %1 for the authorization callback.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось открыть локальный порт %1 для получения ответа авторизации.</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="226"/>
         <source>HTTP error %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка HTTP %1: %2</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="321"/>
         <source>URL</source>
-        <translation type="unfinished">Адрес</translation>
+        <translation>Адрес</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="322"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>Пользователь</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="323"/>
         <source>Password</source>
-        <translation type="unfinished">Пароль</translation>
+        <translation>Пароль</translation>
     </message>
 </context>
 <context>
