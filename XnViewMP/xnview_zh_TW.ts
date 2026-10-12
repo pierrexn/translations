@@ -12127,7 +12127,7 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettingsCache.ui" line="437"/>
         <source>Import folder...</source>
-        <translation>匯入資料夾...</translation>
+        <translation>匯入資料夾路徑 (記錄)...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="471"/>
