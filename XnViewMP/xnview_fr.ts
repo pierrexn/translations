@@ -574,7 +574,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="BoxUploader.cpp" line="40"/>
         <source>The file is too large to be uploaded (50 MB maximum).</source>
-        <translation type="unfinished"></translation>
+        <translation>Le fichier est trop volumineux pour être téléchargé (50 Mo maximum).</translation>
     </message>
 </context>
 <context>
@@ -694,12 +694,12 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="4105"/>
         <source>Delete item</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer l&apos;élément</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4106"/>
         <source>Are you sure to delete &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Êtes-vous sûr de vouloir supprimer « %1 »&#x202f;?</translation>
     </message>
     <message numerus="yes">
         <location filename="BrowserWindow.cpp" line="4113"/>
@@ -7268,50 +7268,50 @@ Voulez-vous continuer ?</translation>
         <location filename="DlgCulling.cpp" line="146"/>
         <location filename="DlgCulling.cpp" line="153"/>
         <source>Search</source>
-        <translation type="unfinished">Recherche</translation>
+        <translation>Recherche</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="147"/>
         <location filename="DlgCulling.cpp" line="412"/>
         <source>Input</source>
-        <translation type="unfinished"></translation>
+        <translation>Source</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="148"/>
         <location filename="DlgCulling.cpp" line="313"/>
         <source>Action</source>
-        <translation type="unfinished">Action</translation>
+        <translation>Action</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="149"/>
         <location filename="DlgCulling.cpp" line="313"/>
         <source>Status</source>
-        <translation type="unfinished">Statut</translation>
+        <translation>Statut</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="154"/>
         <source>List the files matching the conditions in the input tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher la liste des fichiers correspondant aux critères définis dans l&apos;onglet « Source»</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="156"/>
         <source>Process</source>
-        <translation type="unfinished"></translation>
+        <translation>Traitement</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="157"/>
         <source>Run the action on the files of the input tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Lancez l&apos;action sur les fichiers de l&apos;onglet « Source»</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="158"/>
         <source>Close</source>
-        <translation type="unfinished">Fermer</translation>
+        <translation>Fermer</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="201"/>
         <source>Presets:</source>
-        <translation type="unfinished"></translation>
+        <translation>Réglages&#xa0;:</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="205"/>
@@ -7326,104 +7326,104 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="DlgCulling.cpp" line="215"/>
         <source>Add &gt;&gt;</source>
-        <translation type="unfinished">Ajouter &gt;&gt;</translation>
+        <translation>Ajouter &gt;&gt;</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="216"/>
         <source>Clear all</source>
-        <translation type="unfinished">Effacer tout</translation>
+        <translation>Effacer tout</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="220"/>
         <source>Match:</source>
-        <translation type="unfinished"></translation>
+        <translation>Correspond:</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="221"/>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Tout</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="222"/>
         <source>Any</source>
-        <translation type="unfinished">N&apos;importe lequel</translation>
+        <translation>N&apos;importe lequel</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="234"/>
         <source>Search in</source>
-        <translation type="unfinished">Rechercher dans</translation>
+        <translation>Rechercher dans</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="236"/>
         <source>Selected files</source>
-        <translation type="unfinished"></translation>
+        <translation>Fichiers sélectionnés</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="237"/>
         <source>All files of the folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Tous les fichiers du dossier</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="238"/>
         <source>Recursive</source>
-        <translation type="unfinished">Récursif</translation>
+        <translation>Récursif</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="239"/>
         <source>Include the files of the subfolders</source>
-        <translation type="unfinished"></translation>
+        <translation>Inclure les fichiers des sous-dossiers</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="281"/>
         <source>Action on the files of the input list</source>
-        <translation type="unfinished"></translation>
+        <translation>Opérations sur les fichiers de la liste d&apos;entrée</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="284"/>
         <location filename="DlgCulling.cpp" line="844"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="285"/>
         <source>Move to</source>
-        <translation type="unfinished">Déplacer vers</translation>
+        <translation>Déplacer vers</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="286"/>
         <source>Copy to</source>
-        <translation type="unfinished">Copier vers</translation>
+        <translation>Copier vers</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="287"/>
         <source>Rename</source>
-        <translation type="unfinished">Renommer</translation>
+        <translation>Renommer</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="295"/>
         <source>Filename template, the extension is kept</source>
-        <translation type="unfinished"></translation>
+        <translation>Modèle de nom de fichier&#xa0;: l&apos;extension est conservée</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="313"/>
         <source>File</source>
-        <translation type="unfinished">Fichier</translation>
+        <translation>Fichier</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="344"/>
         <source>Selected files (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fichiers sélectionnés (%1)</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="345"/>
         <location filename="DlgCulling.cpp" line="366"/>
         <source>All files of the folder (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tous les fichiers du dossier (%1)</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="472"/>
         <source>Preset</source>
-        <translation type="unfinished">Préréglage</translation>
+        <translation>Préréglage</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="472"/>
@@ -7433,70 +7433,70 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="DlgCulling.cpp" line="591"/>
         <source>No condition defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune condition n&apos;a été définie.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="605"/>
         <source>Checking files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Vérification des fichiers...</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="605"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="674"/>
         <source>A destination folder is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il manque un dossier de destination.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="679"/>
         <source>The folder &apos;%1&apos; does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le dossier « %1 » n&apos;existe pas.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="684"/>
         <source>A filename template is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il manque un modèle de nom de fichier.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="705"/>
         <source>The input list is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>La liste d&apos;entrée est vide.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="728"/>
         <source>The name &apos;%1&apos; would be used by several files or already exists. Add a counter (#) to the template.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le nom « %1 » est déjà utilisé par plusieurs fichiers ou existe déjà. Ajoutez un numéro d&apos;ordre (#) au modèle.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="780"/>
         <source>No file matches the conditions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucun fichier ne correspond aux critères.</translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="820"/>
         <source>Delete %n file(s)?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Supprimer %n fichier?</numerusform>
+            <numerusform>Supprimer %n fichiers?</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="823"/>
         <source>Move %n file(s) to &apos;%1&apos;?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Déplacer %n fichier vers « %1 »?</numerusform>
+            <numerusform>Déplacer %n fichiers vers « %1 »?</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="826"/>
         <source>Copy %n file(s) to &apos;%1&apos;?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Copier %n fichier vers « %1 »?</numerusform>
+            <numerusform>Copier %n fichiers vers « %1 »?</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -14577,12 +14577,12 @@ Voulez-vous le réaffecter ?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="948"/>
         <source>When the mouse is over a thumbnail, the colour labels are shown on its top and the rating stars on its bottom: a single click sets them. Replaces the rating/label popup menus.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lorsque le curseur de la souris survole une vignette, les libellés de couleur s&apos;affichent en haut et les étoiles de notation en bas&#xa0;: un simple clic permet de les définir. Remplace les menus contextuels de notation et de libellés.</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="951"/>
         <source>Show fast-rating overlay on thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher une fenêtre contextuelle permettant d&apos;évaluer rapidement les vignettes</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1239"/>
@@ -16322,17 +16322,17 @@ Voulez-vous continuer?</translation>
     <message>
         <location filename="DlgUpload.cpp" line="71"/>
         <source>Not signed in</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous n&apos;êtes pas connecté</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="73"/>
         <source>Waiting for the authorization in the web browser...</source>
-        <translation type="unfinished"></translation>
+        <translation>En attente de l&apos;autorisation dans le navigateur Web...</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="76"/>
         <source>Signed in</source>
-        <translation type="unfinished"></translation>
+        <translation>Connecté</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="78"/>
@@ -16343,12 +16343,12 @@ Voulez-vous continuer?</translation>
     <message>
         <location filename="DlgUpload.cpp" line="78"/>
         <source>Sign out</source>
-        <translation type="unfinished"></translation>
+        <translation>Se déconnecter</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="78"/>
         <source>Sign in...</source>
-        <translation type="unfinished"></translation>
+        <translation>Se connecter...</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="196"/>
@@ -16397,17 +16397,17 @@ Voulez-vous continuer?</translation>
     <message>
         <location filename="DlgUpload.ui" line="122"/>
         <source>Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Compte</translation>
     </message>
     <message>
         <location filename="DlgUpload.ui" line="128"/>
         <source>Not signed in</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous n&apos;êtes pas connecté</translation>
     </message>
     <message>
         <location filename="DlgUpload.ui" line="138"/>
         <source>Sign in...</source>
-        <translation type="unfinished"></translation>
+        <translation>Se connecter...</translation>
     </message>
     <message>
         <location filename="DlgUpload.ui" line="165"/>
@@ -17131,12 +17131,12 @@ Voulez-vous continuer?</translation>
     <message>
         <location filename="DropboxUploader.cpp" line="66"/>
         <source>The file is too large to be uploaded (150 MB maximum).</source>
-        <translation type="unfinished"></translation>
+        <translation>Le fichier est trop volumineux pour être téléchargé (150 Mo maximum).</translation>
     </message>
     <message>
         <location filename="DropboxUploader.cpp" line="116"/>
         <source>Unable to create a shared link.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible de créer un lien partagé.</translation>
     </message>
 </context>
 <context>
@@ -17598,7 +17598,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="FlickrUploader.cpp" line="43"/>
         <source>The authorization request failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>La demande d&apos;autorisation a échoué.</translation>
     </message>
 </context>
 <context>
@@ -17606,7 +17606,7 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
     <message>
         <location filename="GoogleDriveUploader.cpp" line="109"/>
         <source>Unable to create the upload session.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible de créer la session de téléchargement.</translation>
     </message>
 </context>
 <context>
@@ -23688,12 +23688,12 @@ Vous pouvez changer celle-ci dans Paramètres › Catalogue</translation>
     <message>
         <location filename="WebUploader.cpp" line="439"/>
         <source>The authorization request failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>La demande d&apos;autorisation a échoué.</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="554"/>
         <source>This service is not configured in this build (missing client identifier).</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce service n&apos;est pas configuré dans cette version (identifiant client manquant).</translation>
     </message>
 </context>
 <context>
@@ -24037,7 +24037,7 @@ Vous pouvez changer celle-ci dans Paramètres › Catalogue</translation>
     <message>
         <location filename="PaintWidget.ui" line="1481"/>
         <source>Hardness</source>
-        <translation type="unfinished"></translation>
+        <translation>Dureté</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1560"/>
@@ -24167,22 +24167,22 @@ Vous pouvez changer celle-ci dans Paramètres › Catalogue</translation>
     <message>
         <location filename="PiwigoUploader.cpp" line="28"/>
         <source>Album</source>
-        <translation type="unfinished">Album</translation>
+        <translation>Album</translation>
     </message>
     <message>
         <location filename="PiwigoUploader.cpp" line="90"/>
         <source>The Piwigo server returned an error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le serveur Piwigo a renvoyé une erreur.</translation>
     </message>
     <message>
         <location filename="PiwigoUploader.cpp" line="101"/>
         <source>The Piwigo gallery is not configured.</source>
-        <translation type="unfinished"></translation>
+        <translation>La galerie Piwigo n&apos;est pas configurée.</translation>
     </message>
     <message>
         <location filename="PiwigoUploader.cpp" line="120"/>
         <source>Piwigo login failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Échec de la connexion à Piwigo&#xa0;: %1</translation>
     </message>
 </context>
 <context>
@@ -25287,22 +25287,22 @@ Vous pouvez changer celle-ci dans Paramètres › Catalogue</translation>
     <message>
         <location filename="WebUploader.cpp" line="163"/>
         <source>Unable to open %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible d&apos;ouvrir %1</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="200"/>
         <source>Authorization received, you can close this window and return to XnView.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;autorisation a été reçue. Vous pouvez fermer cette fenêtre et revenir à XnView.</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="204"/>
         <source>Unable to listen on local port %1 for the authorization callback.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible d&apos;écouter sur le port local %1 pour le rappel d&apos;autorisation.</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="226"/>
         <source>HTTP error %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur HTTP %1&#xa0;: %2</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="321"/>
@@ -25312,12 +25312,12 @@ Vous pouvez changer celle-ci dans Paramètres › Catalogue</translation>
     <message>
         <location filename="WebUploader.cpp" line="322"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom d&apos;utilisateur</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="323"/>
         <source>Password</source>
-        <translation type="unfinished">Mot de passe</translation>
+        <translation>Mot de passe</translation>
     </message>
 </context>
 <context>
