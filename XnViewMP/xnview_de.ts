@@ -571,7 +571,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="BoxUploader.cpp" line="40"/>
         <source>The file is too large to be uploaded (50 MB maximum).</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Datei ist zu groß für den Upload (maximal 50 MB).</translation>
     </message>
 </context>
 <context>
@@ -676,12 +676,12 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="4105"/>
         <source>Delete item</source>
-        <translation type="unfinished"></translation>
+        <translation>Element löschen</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4106"/>
         <source>Are you sure to delete &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sind Sie sicher, dass Sie &apos;%1&apos; löschen möchten?</translation>
     </message>
     <message numerus="yes">
         <location filename="BrowserWindow.cpp" line="4113"/>
@@ -1171,7 +1171,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="CompareWidget.cpp" line="79"/>
         <source>Tabs</source>
-        <translation>Registerkarten</translation>
+        <translation>Tabs</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="597"/>
@@ -4833,7 +4833,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="DlgConvert-old.ui" line="789"/>
         <source>You can switch between tabs with &apos;space&apos; key</source>
-        <translation>Mit der Leertaste können Sie zwischen Registerkarten wechseln</translation>
+        <translation>Mit der Leertaste können Sie zwischen Tabs wechseln</translation>
     </message>
     <message>
         <location filename="DlgConvert-old.ui" line="796"/>
@@ -7252,328 +7252,328 @@ Möchten Sie fortfahren?</translation>
         <location filename="DlgCulling.cpp" line="805"/>
         <location filename="DlgCulling.cpp" line="832"/>
         <source>Culling</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorauswahl</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="146"/>
         <location filename="DlgCulling.cpp" line="153"/>
         <source>Search</source>
-        <translation type="unfinished">Suchen</translation>
+        <translation>Suchen</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="147"/>
         <location filename="DlgCulling.cpp" line="412"/>
         <source>Input</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingabe</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="148"/>
         <location filename="DlgCulling.cpp" line="313"/>
         <source>Action</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktion</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="149"/>
         <location filename="DlgCulling.cpp" line="313"/>
         <source>Status</source>
-        <translation type="unfinished">Status</translation>
+        <translation>Status</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="154"/>
         <source>List the files matching the conditions in the input tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Dateien auflisten, die den Bedingungen auf dem Tab &apos;Eingabe&apos; entsprechen</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="156"/>
         <source>Process</source>
-        <translation type="unfinished"></translation>
+        <translation>Verarbeitung</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="157"/>
         <source>Run the action on the files of the input tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Führen Sie die Aktion für die Dateien im Eingabe-Tab aus</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="158"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Schließen</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="201"/>
         <source>Presets:</source>
-        <translation type="unfinished"></translation>
+        <translation>Voreinstellungen:</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="205"/>
         <source>Save current culling</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuelle Vorauswahl speichern</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="207"/>
         <source>Delete current culling</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuelle Vorauswahl löschen</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="215"/>
         <source>Add &gt;&gt;</source>
-        <translation type="unfinished">Hinzufügen &gt;&gt;</translation>
+        <translation>Hinzufügen &gt;&gt;</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="216"/>
         <source>Clear all</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles löschen</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="220"/>
         <source>Match:</source>
-        <translation type="unfinished"></translation>
+        <translation>Übereinstimmung:</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="221"/>
         <source>All</source>
-        <translation type="unfinished">Alle</translation>
+        <translation>Alle</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="222"/>
         <source>Any</source>
-        <translation type="unfinished">Mindestens eine</translation>
+        <translation>Beliebig</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="234"/>
         <source>Search in</source>
-        <translation type="unfinished">Suchen in</translation>
+        <translation>Suchen in</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="236"/>
         <source>Selected files</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgewählte Dateien</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="237"/>
         <source>All files of the folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Dateien des Ordners</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="238"/>
         <source>Recursive</source>
-        <translation type="unfinished">rekursiv</translation>
+        <translation>rekursiv</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="239"/>
         <source>Include the files of the subfolders</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Dateien der Unterordner einbeziehen</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="281"/>
         <source>Action on the files of the input list</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktion für die Dateien der Eingabeliste</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="284"/>
         <location filename="DlgCulling.cpp" line="844"/>
         <source>Delete</source>
-        <translation type="unfinished">Löschen</translation>
+        <translation>Löschen</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="285"/>
         <source>Move to</source>
-        <translation type="unfinished">Verschieben nach</translation>
+        <translation>Verschieben nach</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="286"/>
         <source>Copy to</source>
-        <translation type="unfinished">Kopieren nach</translation>
+        <translation>Kopieren nach</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="287"/>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Umbenennen</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="295"/>
         <source>Filename template, the extension is kept</source>
-        <translation type="unfinished"></translation>
+        <translation>Dateinamen-Vorlage; die Dateiendung bleibt erhalten</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="313"/>
         <source>File</source>
-        <translation type="unfinished">Datei</translation>
+        <translation>Datei</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="344"/>
         <source>Selected files (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausgewählte Dateien (%1)</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="345"/>
         <location filename="DlgCulling.cpp" line="366"/>
         <source>All files of the folder (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Dateien des Ordners (%1)</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="472"/>
         <source>Preset</source>
-        <translation type="unfinished">Preset</translation>
+        <translation>Preset</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="472"/>
         <source>Preset culling name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Name des Vorauswahl-Presets:</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="591"/>
         <source>No condition defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Keine Bedingung definiert.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="605"/>
         <source>Checking files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Dateien werden überprüft...</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="605"/>
         <source>Cancel</source>
-        <translation type="unfinished">Abbrechen</translation>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="674"/>
         <source>A destination folder is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein Zielordner fehlt.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="679"/>
         <source>The folder &apos;%1&apos; does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Ordner &apos;%1&apos; ist nicht vorhanden.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="684"/>
         <source>A filename template is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eine Dateinamen-Vorlage fehlt.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="705"/>
         <source>The input list is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Eingabeliste ist leer.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="728"/>
         <source>The name &apos;%1&apos; would be used by several files or already exists. Add a counter (#) to the template.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Name &apos;%1&apos; würde von mehreren Dateien verwendet werden oder existiert bereits. Fügen Sie der Vorlage einen Zähler (#) hinzu.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="780"/>
         <source>No file matches the conditions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Keine Datei entspricht den Bedingungen.</translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="820"/>
         <source>Delete %n file(s)?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n Datei löschen?</numerusform>
+            <numerusform>%n Dateien löschen?</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="823"/>
         <source>Move %n file(s) to &apos;%1&apos;?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n Datei nach &apos;%1&apos; verschieben?</numerusform>
+            <numerusform>%n Dateien nach &apos;%1&apos; verschieben?</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="826"/>
         <source>Copy %n file(s) to &apos;%1&apos;?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n Datei nach &apos;%1&apos; kopieren?</numerusform>
+            <numerusform>%n Dateien nach &apos;%1&apos; kopieren?</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="829"/>
         <source>Rename %n file(s)?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n Datei umbenennen?</numerusform>
+            <numerusform>%n Dateien umbenennen?</numerusform>
         </translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="844"/>
         <source>Move to recycle bin</source>
-        <translation type="unfinished"></translation>
+        <translation>In den Papierkorb verschieben</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="846"/>
         <source>Move to &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Nach &apos;%1&apos; verschieben</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="848"/>
         <source>Copy to &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Nach &apos;%1&apos; kopieren</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="851"/>
         <source>Rename to &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>In &apos;%1&apos; umbenennen</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="852"/>
         <source>Name kept</source>
-        <translation type="unfinished"></translation>
+        <translation>Name beibehalten</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="880"/>
         <source>To process</source>
-        <translation type="unfinished"></translation>
+        <translation>Zu Verarbeiten</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="881"/>
         <source>In progress</source>
-        <translation type="unfinished"></translation>
+        <translation>In Verarbeitung</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="882"/>
         <source>Processed</source>
-        <translation type="unfinished"></translation>
+        <translation>Verarbeitet</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="883"/>
         <source>Error</source>
-        <translation type="unfinished">Fehler</translation>
+        <translation>Fehler</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="884"/>
         <source>Not processed</source>
-        <translation type="unfinished"></translation>
+        <translation>Nicht verarbeitet</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="885"/>
         <source>Simulated</source>
-        <translation type="unfinished"></translation>
+        <translation>Simuliert</translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="903"/>
         <source>Simulation: %n file(s), no file has been modified</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Simulation: %n Datei, keine Datei wurde geändert</numerusform>
+            <numerusform>Simulation: %n Dateien, keine Datei wurde geändert</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="1007"/>
         <source>%n file(s) processed</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n Datei verarbeitet</numerusform>
+            <numerusform>%n Dateien verarbeitet</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="1007"/>
         <source>, %n error(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>, %n Fehler</numerusform>
+            <numerusform>, %n Fehler</numerusform>
         </translation>
     </message>
 </context>
@@ -9690,7 +9690,7 @@ Bitte stellen Sie sicher, dass die Dateien nicht schreibgeschützt sind.</transl
         <location filename="DlgIptc.ui" line="749"/>
         <source>Remember opened tab</source>
         <oldsource>Open last opened tab</oldsource>
-        <translation>Zuletzt geöffnete Registerkarte öffnen</translation>
+        <translation>Geöffneten Tab merken</translation>
     </message>
     <message>
         <location filename="DlgIptc.ui" line="889"/>
@@ -13598,7 +13598,7 @@ Möchten Sie neu zuweisen?</translation>
     <message>
         <location filename="DlgSettingsInterface.ui" line="368"/>
         <source>Double-click on tab: </source>
-        <translation>Doppelklick auf Registerkarte: </translation>
+        <translation>Doppelklick auf Tab: </translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="376"/>
@@ -13625,7 +13625,7 @@ Möchten Sie neu zuweisen?</translation>
     <message>
         <location filename="DlgSettingsInterface.ui" line="381"/>
         <source>Close tab</source>
-        <translation>Schließen</translation>
+        <translation>Tab schließen</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="386"/>
@@ -13812,7 +13812,7 @@ Möchten Sie neu zuweisen?</translation>
         <location filename="DlgSettingsInterface.ui" line="214"/>
         <source>Hide Tab header when only one is opened</source>
         <oldsource>Hide Tab when only one is opened</oldsource>
-        <translation>Registerkarten ausblenden falls nur ein Bild geöffnet ist</translation>
+        <translation>Tabs ausblenden falls nur ein Bild geöffnet ist</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="182"/>
@@ -14084,7 +14084,7 @@ Möchten Sie neu zuweisen?</translation>
         <location filename="DlgSettingsInterface.ui" line="221"/>
         <source>Closing last tab exits application</source>
         <oldsource>Closing last tab exits XnView</oldsource>
-        <translation>XnView beim Schließen der letzten Registerkarte beenden</translation>
+        <translation>XnView beim Schließen des letzten Tabs beenden</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="49"/>
@@ -14107,12 +14107,12 @@ Möchten Sie neu zuweisen?</translation>
     <message>
         <location filename="DlgSettingsInterface.ui" line="230"/>
         <source>Maximum of view tabs:</source>
-        <translation>Maximale Anzahl Registerkarten:</translation>
+        <translation>Maximale Anzahl an Ansichts-Tabs:</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="262"/>
         <source>Tab</source>
-        <translation>Registerkarte (Lasche)</translation>
+        <translation>Tab</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="268"/>
@@ -14152,7 +14152,7 @@ Möchten Sie neu zuweisen?</translation>
     <message>
         <location filename="DlgSettingsInterface.ui" line="208"/>
         <source>Tabs</source>
-        <translation>Registerkarten</translation>
+        <translation>Tabs</translation>
     </message>
     <message>
         <location filename="DlgSettingsInterface.ui" line="489"/>
@@ -14594,12 +14594,12 @@ Möchten Sie neu zuweisen?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="948"/>
         <source>When the mouse is over a thumbnail, the colour labels are shown on its top and the rating stars on its bottom: a single click sets them. Replaces the rating/label popup menus.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wenn sich der Mauszeiger über einem Miniaturbild befindet, werden oben die Farbmarkierungen und unten die Bewertungssterne angezeigt; ein einfacher Klick weist diese zu. Dies ersetzt die Popup-Menüs für Bewertungen und Markierungen.</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="951"/>
         <source>Show fast-rating overlay on thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Schnellbewertungs-Overlay auf Vorschaubildern anzeigen</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1239"/>
@@ -16308,17 +16308,17 @@ Wollen Sie fortfahren?</translation>
     <message>
         <location filename="DlgUpload.cpp" line="71"/>
         <source>Not signed in</source>
-        <translation type="unfinished"></translation>
+        <translation>Nicht angemeldet</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="73"/>
         <source>Waiting for the authorization in the web browser...</source>
-        <translation type="unfinished"></translation>
+        <translation>Warten auf die Autorisierung im Webbrowser...</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="76"/>
         <source>Signed in</source>
-        <translation type="unfinished"></translation>
+        <translation>Angemeldet</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="78"/>
@@ -16329,12 +16329,12 @@ Wollen Sie fortfahren?</translation>
     <message>
         <location filename="DlgUpload.cpp" line="78"/>
         <source>Sign out</source>
-        <translation type="unfinished"></translation>
+        <translation>Abmelden</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="78"/>
         <source>Sign in...</source>
-        <translation type="unfinished"></translation>
+        <translation>Anmelden...</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="196"/>
@@ -16383,17 +16383,17 @@ Wollen Sie fortfahren?</translation>
     <message>
         <location filename="DlgUpload.ui" line="122"/>
         <source>Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Konto</translation>
     </message>
     <message>
         <location filename="DlgUpload.ui" line="128"/>
         <source>Not signed in</source>
-        <translation type="unfinished"></translation>
+        <translation>Nicht angemeldet</translation>
     </message>
     <message>
         <location filename="DlgUpload.ui" line="138"/>
         <source>Sign in...</source>
-        <translation type="unfinished"></translation>
+        <translation>Anmelden...</translation>
     </message>
     <message>
         <location filename="DlgUpload.ui" line="165"/>
@@ -17117,12 +17117,12 @@ Wollen Sie fortfahren?</translation>
     <message>
         <location filename="DropboxUploader.cpp" line="66"/>
         <source>The file is too large to be uploaded (150 MB maximum).</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Datei ist zu groß für den Upload (maximal 150 MB).</translation>
     </message>
     <message>
         <location filename="DropboxUploader.cpp" line="116"/>
         <source>Unable to create a shared link.</source>
-        <translation type="unfinished"></translation>
+        <translation>Freigabelink konnte nicht erstellt werden.</translation>
     </message>
 </context>
 <context>
@@ -17246,7 +17246,7 @@ Wollen Sie fortfahren?</translation>
     <message>
         <location filename="EditXMPWidget.ui" line="705"/>
         <source>Remember opened tab</source>
-        <translation>Zuletzt geöffnete Registerkarte merken</translation>
+        <translation>Geöffneten Tab merken</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="75"/>
@@ -17584,7 +17584,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="FlickrUploader.cpp" line="43"/>
         <source>The authorization request failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Autorisierungsanfrage ist fehlgeschlagen.</translation>
     </message>
 </context>
 <context>
@@ -17592,7 +17592,7 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
     <message>
         <location filename="GoogleDriveUploader.cpp" line="109"/>
         <source>Unable to create the upload session.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Upload-Sitzung konnte nicht erstellt werden.</translation>
     </message>
 </context>
 <context>
@@ -20799,7 +20799,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="BrowserMenu.h" line="561"/>
         <source>Preview as tab</source>
-        <translation>Vorschau als Registerkarte</translation>
+        <translation>Vorschau als Tab</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="569"/>
@@ -20992,7 +20992,7 @@ Möchten Sie fortfahren?</translation>
         <location filename="BrowserMenu.h" line="686"/>
         <source>Empty tab</source>
         <oldsource>Empty tab...</oldsource>
-        <translation>Leere Registerkarte</translation>
+        <translation>Leeren Tab</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="688"/>
@@ -21538,7 +21538,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="BrowserMenu.h" line="560"/>
         <source>Use tabs</source>
-        <translation>Registerkarten verwenden</translation>
+        <translation>Tabs verwenden</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="564"/>
@@ -21548,7 +21548,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="BrowserMenu.h" line="566"/>
         <source>Vertical tabs</source>
-        <translation>Vertikale Registerkarten</translation>
+        <translation>Vertikale Tabs</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="587"/>
@@ -21887,7 +21887,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="xnview.cpp" line="1399"/>
         <source>Tab</source>
-        <translation>Registerkarten</translation>
+        <translation>Tab</translation>
     </message>
 </context>
 <context>
@@ -23033,7 +23033,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="ViewMenu.h" line="567"/>
         <source>Empty tab...</source>
-        <translation>Leere Registerkarte...</translation>
+        <translation>Leeren Tab...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="569"/>
@@ -23497,7 +23497,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="MyHistogram.cpp" line="289"/>
         <source>Close</source>
-        <translation>Registerkarte schließen</translation>
+        <translation>Schließen</translation>
     </message>
 </context>
 <context>
@@ -23558,12 +23558,12 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="MyTabBar.cpp" line="228"/>
         <source>Tab settings...</source>
-        <translation>Registerkarteneinstellungen...</translation>
+        <translation>Tab-Einstellungen...</translation>
     </message>
     <message>
         <location filename="MyTabBar.cpp" line="230"/>
         <source>Iconify tabs</source>
-        <translation>Registerkarte als Symbol</translation>
+        <translation>Tabs als Symbole</translation>
     </message>
 </context>
 <context>
@@ -23666,12 +23666,12 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="WebUploader.cpp" line="439"/>
         <source>The authorization request failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Autorisierungsanfrage ist fehlgeschlagen.</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="554"/>
         <source>This service is not configured in this build (missing client identifier).</source>
-        <translation type="unfinished"></translation>
+        <translation>Dieser Dienst ist in diesem Build nicht konfiguriert (Client-Kennung fehlt).</translation>
     </message>
 </context>
 <context>
@@ -24010,7 +24010,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="PaintWidget.ui" line="1481"/>
         <source>Hardness</source>
-        <translation type="unfinished"></translation>
+        <translation>Härte</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1560"/>
@@ -24140,27 +24140,27 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="PiwigoUploader.cpp" line="28"/>
         <source>Piwigo</source>
-        <translation type="unfinished"></translation>
+        <translation>Piwigo</translation>
     </message>
     <message>
         <location filename="PiwigoUploader.cpp" line="28"/>
         <source>Album</source>
-        <translation type="unfinished">Album</translation>
+        <translation>Album</translation>
     </message>
     <message>
         <location filename="PiwigoUploader.cpp" line="90"/>
         <source>The Piwigo server returned an error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Piwigo-Server hat einen Fehler zurückgegeben.</translation>
     </message>
     <message>
         <location filename="PiwigoUploader.cpp" line="101"/>
         <source>The Piwigo gallery is not configured.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Piwigo-Galerie ist nicht konfiguriert.</translation>
     </message>
     <message>
         <location filename="PiwigoUploader.cpp" line="120"/>
         <source>Piwigo login failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Piwigo-Anmeldung fehlgeschlagen: %1</translation>
     </message>
 </context>
 <context>
@@ -25214,7 +25214,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="ViewWatermarkAction.cpp" line="255"/>
         <source>Angle</source>
-        <translation type="unfinished">Winkel</translation>
+        <translation>Winkel</translation>
     </message>
     <message>
         <location filename="ViewWatermarkAction.cpp" line="264"/>
@@ -25245,12 +25245,12 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="WebDavUploader.cpp" line="33"/>
         <source>WebDAV</source>
-        <translation type="unfinished"></translation>
+        <translation>WebDAV</translation>
     </message>
     <message>
         <location filename="WebDavUploader.cpp" line="78"/>
         <source>The WebDAV folder is not configured.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der WebDAV-Ordner ist nicht konfiguriert.</translation>
     </message>
 </context>
 <context>
@@ -25266,37 +25266,37 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="WebUploader.cpp" line="163"/>
         <source>Unable to open %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 kann nicht geöffnet werden</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="200"/>
         <source>Authorization received, you can close this window and return to XnView.</source>
-        <translation type="unfinished"></translation>
+        <translation>Autorisierung erhalten; Sie können dieses Fenster schließen und zu XnView zurückkehren.</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="204"/>
         <source>Unable to listen on local port %1 for the authorization callback.</source>
-        <translation type="unfinished"></translation>
+        <translation>Es konnte kein Autorisierungs-Callback über den lokalen Port %1 empfangen werden.</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="226"/>
         <source>HTTP error %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>HTTP-Fehler %1: %2</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="321"/>
         <source>URL</source>
-        <translation type="unfinished">Webseite (http://...)</translation>
+        <translation>URL</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="322"/>
         <source>Username</source>
-        <translation type="unfinished">Benutzername</translation>
+        <translation>Benutzername</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="323"/>
         <source>Password</source>
-        <translation type="unfinished">Kennwort</translation>
+        <translation>Kennwort</translation>
     </message>
 </context>
 <context>
