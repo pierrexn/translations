@@ -455,6 +455,13 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
 </context>
 <context>
+    <name>BoxUploader</name>
+    <message>
+        <source>The file is too large to be uploaded (50 MB maximum).</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>BrowserWindow</name>
     <message>
         <source>Info</source>
@@ -639,6 +646,14 @@ Vrei să ștergi favoritul „%1”?</translation>
     <message>
         <source>&lt;Checked files&gt;</source>
         <translation>&lt;Fișierele bifate&gt;</translation>
+    </message>
+    <message>
+        <source>Delete item</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure to delete &apos;%1&apos;?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5617,6 +5632,277 @@ Vrei să continui?</translation>
     </message>
 </context>
 <context>
+    <name>DlgCulling</name>
+    <message>
+        <source>Culling</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation type="unfinished">Căutare</translation>
+    </message>
+    <message>
+        <source>Input</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Action</source>
+        <translation type="unfinished">Acțiune</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>List the files matching the conditions in the input tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Process</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Run the action on the files of the input tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presets:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save current culling</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete current culling</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add &gt;&gt;</source>
+        <translation type="unfinished">Adaugă &gt;&gt;</translation>
+    </message>
+    <message>
+        <source>Clear all</source>
+        <translation type="unfinished">Curăţă tot</translation>
+    </message>
+    <message>
+        <source>Match:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Any</source>
+        <translation type="unfinished">Orice</translation>
+    </message>
+    <message>
+        <source>Search in</source>
+        <translation type="unfinished">Caută în</translation>
+    </message>
+    <message>
+        <source>Selected files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All files of the folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recursive</source>
+        <translation type="unfinished">Recursiv</translation>
+    </message>
+    <message>
+        <source>Include the files of the subfolders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Action on the files of the input list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move to</source>
+        <translation type="unfinished">Mută în</translation>
+    </message>
+    <message>
+        <source>Copy to</source>
+        <translation type="unfinished">Copiază în</translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation type="unfinished">Redenumește</translation>
+    </message>
+    <message>
+        <source>Filename template, the extension is kept</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation type="unfinished">Fişier</translation>
+    </message>
+    <message>
+        <source>Selected files (%1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All files of the folder (%1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preset</source>
+        <translation type="unfinished">Presetare</translation>
+    </message>
+    <message>
+        <source>Preset culling name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No condition defined.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checking files...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Revocare</translation>
+    </message>
+    <message>
+        <source>A destination folder is missing.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The folder &apos;%1&apos; does not exist.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A filename template is missing.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The input list is empty.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The name &apos;%1&apos; would be used by several files or already exists. Add a counter (#) to the template.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No file matches the conditions.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>Delete %n file(s)?</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>Move %n file(s) to &apos;%1&apos;?</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>Copy %n file(s) to &apos;%1&apos;?</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>Rename %n file(s)?</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Move to recycle bin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move to &apos;%1&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy to &apos;%1&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rename to &apos;%1&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name kept</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To process</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In progress</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Processed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Eroare</translation>
+    </message>
+    <message>
+        <source>Not processed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Simulated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>Simulation: %n file(s), no file has been modified</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>%n file(s) processed</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>, %n error(s)</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+</context>
+<context>
     <name>DlgCurves</name>
     <message>
         <source>RGB</source>
@@ -6653,25 +6939,6 @@ Te rugăm să încerci să pornești programul cu drepturi de administrator.</tr
     </message>
 </context>
 <context>
-    <name>DlgFlickrSettings</name>
-    <message>
-        <source>User</source>
-        <translation>Utilizator</translation>
-    </message>
-    <message>
-        <source>Flickr settings</source>
-        <translation>Setări Flickr</translation>
-    </message>
-    <message>
-        <source>Remove script from list</source>
-        <translation>Elimină scriptul din listă</translation>
-    </message>
-    <message>
-        <source>New user...</source>
-        <translation>Utilizator nou...</translation>
-    </message>
-</context>
-<context>
     <name>DlgFtp</name>
     <message>
         <source>FTP</source>
@@ -7670,21 +7937,6 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     <message>
         <source>Clear</source>
         <translation>Golește</translation>
-    </message>
-</context>
-<context>
-    <name>DlgPicasaSettings</name>
-    <message>
-        <source>User password:</source>
-        <translation>Parolă de utilizator:</translation>
-    </message>
-    <message>
-        <source>Picasa settings</source>
-        <translation>Setări Picasa</translation>
-    </message>
-    <message>
-        <source>User email:</source>
-        <translation>E-mail-ul utilizatorului:</translation>
     </message>
 </context>
 <context>
@@ -11127,6 +11379,14 @@ Dorești să-l reatribui?</translation>
         <source>Icon spacing:</source>
         <translation>Spațierea pictogramelor:</translation>
     </message>
+    <message>
+        <source>When the mouse is over a thumbnail, the colour labels are shown on its top and the rating stars on its bottom: a single click sets them. Replaces the rating/label popup menus.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show fast-rating overlay on thumbnails</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsView</name>
@@ -12347,10 +12607,6 @@ Vrei să continui?</translation>
 <context>
     <name>DlgUpload</name>
     <message>
-        <source>Error</source>
-        <translation>Eroare</translation>
-    </message>
-    <message>
         <source>Cancel</source>
         <translation>Revocare</translation>
     </message>
@@ -12366,13 +12622,29 @@ Vrei să continui?</translation>
         <source>Unable to load image file...</source>
         <translation>Nu se poate încărca fișierul de imagine...</translation>
     </message>
+    <message>
+        <source>Not signed in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Waiting for the authorization in the web browser...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Signed in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgUploadClass</name>
-    <message>
-        <source>User</source>
-        <translation>Utilizator</translation>
-    </message>
     <message>
         <source>Thumbnail link</source>
         <translation>Legătura (link-ul) miniaturii</translation>
@@ -12380,10 +12652,6 @@ Vrei să continui?</translation>
     <message>
         <source>Width</source>
         <translation>Lăţime</translation>
-    </message>
-    <message>
-        <source>Authentication</source>
-        <translation>Autentificare</translation>
     </message>
     <message>
         <source>Upload image</source>
@@ -12402,24 +12670,24 @@ Vrei să continui?</translation>
         <translation>Fii atent, imaginea (imaginile) tale vor fi încărcate pe un server public!</translation>
     </message>
     <message>
-        <source>Password</source>
-        <translation>Parola</translation>
-    </message>
-    <message>
-        <source>Username</source>
-        <translation>Numele de utilizator</translation>
-    </message>
-    <message>
         <source>Service</source>
         <translation>Serviciu</translation>
     </message>
     <message>
-        <source>New user...</source>
-        <translation>Utilizator nou...</translation>
-    </message>
-    <message>
         <source>Image link</source>
         <translation>Legătura (link-ul) imaginii</translation>
+    </message>
+    <message>
+        <source>Account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not signed in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12984,6 +13252,17 @@ Vrei să continui?</translation>
     </message>
 </context>
 <context>
+    <name>DropboxUploader</name>
+    <message>
+        <source>The file is too large to be uploaded (150 MB maximum).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to create a shared link.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>EditXMPWidget</name>
     <message>
         <source>Description</source>
@@ -13345,10 +13624,17 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
 </context>
 <context>
-    <name>ImgurAPI3</name>
+    <name>FlickrUploader</name>
     <message>
-        <source>Could not open file</source>
-        <translation>Fișierul nu poate fi deschis</translation>
+        <source>The authorization request failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>GoogleDriveUploader</name>
+    <message>
+        <source>Unable to create the upload session.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17666,17 +17952,6 @@ Vrei să continui?</translation>
     </message>
 </context>
 <context>
-    <name>MyFolderView</name>
-    <message>
-        <source>Are you sure to delete this folder?</source>
-        <translation>Ești sigur(ă) că ștergi acest folder (dosar)?</translation>
-    </message>
-    <message>
-        <source>Delete folder</source>
-        <translation>Șterge folderul (dosarul)</translation>
-    </message>
-</context>
-<context>
     <name>MyHistogram</name>
     <message>
         <source>RGB</source>
@@ -17875,6 +18150,17 @@ O poți schimba în Setări › Catalog.</translation>
     <message>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <translation>Pentru vizualizarea și convertirea fișierelor PDF/PS/EPS/AI, XnView MP necesită instalarea Ghostscript %1 pe sistemul dumneavoastră.</translation>
+    </message>
+</context>
+<context>
+    <name>OAuth2Uploader</name>
+    <message>
+        <source>The authorization request failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This service is not configured in this build (missing client identifier).</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18194,6 +18480,10 @@ O poți schimba în Setări › Catalog.</translation>
         <source>Preset name</source>
         <translation>Numele presetării</translation>
     </message>
+    <message>
+        <source>Hardness</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Panel</name>
@@ -18227,6 +18517,29 @@ O poți schimba în Setări › Catalog.</translation>
     <message>
         <source>Choose a pathname</source>
         <translation>Alege un nume pentru cale</translation>
+    </message>
+</context>
+<context>
+    <name>PiwigoUploader</name>
+    <message>
+        <source>Piwigo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Album</source>
+        <translation type="unfinished">Albumul</translation>
+    </message>
+    <message>
+        <source>The Piwigo server returned an error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Piwigo gallery is not configured.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Piwigo login failed: %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -19045,6 +19358,10 @@ O poți schimba în Setări › Catalog.</translation>
         <source>Opacity</source>
         <translation>Opacitate</translation>
     </message>
+    <message>
+        <source>Angle</source>
+        <translation type="unfinished">Unghi</translation>
+    </message>
 </context>
 <context>
     <name>WebCapture</name>
@@ -19058,10 +19375,52 @@ O poți schimba în Setări › Catalog.</translation>
     </message>
 </context>
 <context>
+    <name>WebDavUploader</name>
+    <message>
+        <source>WebDAV</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The WebDAV folder is not configured.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>WebError</name>
     <message>
         <source>No error</source>
         <translation>Nicio eroare</translation>
+    </message>
+</context>
+<context>
+    <name>WebUploader</name>
+    <message>
+        <source>Unable to open %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authorization received, you can close this window and return to XnView.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to listen on local port %1 for the authorization callback.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HTTP error %1: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>URL</source>
+        <translation type="unfinished">URL</translation>
+    </message>
+    <message>
+        <source>Username</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password</source>
+        <translation type="unfinished">Parola</translation>
     </message>
 </context>
 <context>

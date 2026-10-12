@@ -455,6 +455,13 @@ Deseja excluir o favorito &quot;%1&quot;?</translation>
     </message>
 </context>
 <context>
+    <name>BoxUploader</name>
+    <message>
+        <source>The file is too large to be uploaded (50 MB maximum).</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>BrowserWindow</name>
     <message>
         <source>Folders</source>
@@ -636,6 +643,14 @@ Deseja excluir o favorito &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>&lt;Checked files&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete item</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure to delete &apos;%1&apos;?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5601,6 +5616,270 @@ Deseja continuar?</translation>
     </message>
 </context>
 <context>
+    <name>DlgCulling</name>
+    <message>
+        <source>Culling</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation type="unfinished">Pesquisar</translation>
+    </message>
+    <message>
+        <source>Input</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Action</source>
+        <translation type="unfinished">Ação</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="unfinished">Status</translation>
+    </message>
+    <message>
+        <source>List the files matching the conditions in the input tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Process</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Run the action on the files of the input tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Fechar</translation>
+    </message>
+    <message>
+        <source>Presets:</source>
+        <translation type="unfinished">Predefinições:</translation>
+    </message>
+    <message>
+        <source>Save current culling</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete current culling</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add &gt;&gt;</source>
+        <translation type="unfinished">Adicionar &gt;&gt;</translation>
+    </message>
+    <message>
+        <source>Clear all</source>
+        <translation type="unfinished">Limpar tudo</translation>
+    </message>
+    <message>
+        <source>Match:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation type="unfinished">Tudo</translation>
+    </message>
+    <message>
+        <source>Any</source>
+        <translation type="unfinished">Qualquer</translation>
+    </message>
+    <message>
+        <source>Search in</source>
+        <translation type="unfinished">Pesquisar em</translation>
+    </message>
+    <message>
+        <source>Selected files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All files of the folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recursive</source>
+        <translation type="unfinished">Recursivo</translation>
+    </message>
+    <message>
+        <source>Include the files of the subfolders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Action on the files of the input list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation type="unfinished">Excluir</translation>
+    </message>
+    <message>
+        <source>Move to</source>
+        <translation type="unfinished">Mover para</translation>
+    </message>
+    <message>
+        <source>Copy to</source>
+        <translation type="unfinished">Copiar para</translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation type="unfinished">Renomear</translation>
+    </message>
+    <message>
+        <source>Filename template, the extension is kept</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation type="unfinished">Arquivo</translation>
+    </message>
+    <message>
+        <source>Selected files (%1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All files of the folder (%1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preset</source>
+        <translation type="unfinished">Predefinição</translation>
+    </message>
+    <message>
+        <source>Preset culling name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No condition defined.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checking files...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Cancelar</translation>
+    </message>
+    <message>
+        <source>A destination folder is missing.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The folder &apos;%1&apos; does not exist.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A filename template is missing.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The input list is empty.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The name &apos;%1&apos; would be used by several files or already exists. Add a counter (#) to the template.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No file matches the conditions.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>Delete %n file(s)?</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>Move %n file(s) to &apos;%1&apos;?</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>Copy %n file(s) to &apos;%1&apos;?</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>Rename %n file(s)?</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Move to recycle bin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move to &apos;%1&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy to &apos;%1&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rename to &apos;%1&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name kept</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To process</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In progress</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Processed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Erro</translation>
+    </message>
+    <message>
+        <source>Not processed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Simulated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>Simulation: %n file(s), no file has been modified</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>%n file(s) processed</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>, %n error(s)</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+</context>
+<context>
     <name>DlgCurves</name>
     <message>
         <source>Curves</source>
@@ -6638,25 +6917,6 @@ Tente iniciar com direitos de administrador.</translation>
     </message>
 </context>
 <context>
-    <name>DlgFlickrSettings</name>
-    <message>
-        <source>Flickr settings</source>
-        <translation>Configurações do Flickr</translation>
-    </message>
-    <message>
-        <source>User</source>
-        <translation>Usuário</translation>
-    </message>
-    <message>
-        <source>Remove script from list</source>
-        <translation>Remover script da lista</translation>
-    </message>
-    <message>
-        <source>New user...</source>
-        <translation>Novo usuário...</translation>
-    </message>
-</context>
-<context>
     <name>DlgFtp</name>
     <message>
         <source>Upload</source>
@@ -7656,21 +7916,6 @@ Certifique-se de que os arquivos não sejam somente de leitura!</translation>
     <message>
         <source>Clear</source>
         <translation>Limpar</translation>
-    </message>
-</context>
-<context>
-    <name>DlgPicasaSettings</name>
-    <message>
-        <source>Picasa settings</source>
-        <translation>Configurações do Picasa</translation>
-    </message>
-    <message>
-        <source>User email:</source>
-        <translation>E-mail:</translation>
-    </message>
-    <message>
-        <source>User password:</source>
-        <translation>Senha:</translation>
     </message>
 </context>
 <context>
@@ -11113,6 +11358,14 @@ Deseja reatribuir?</translation>
         <source>Icon spacing:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>When the mouse is over a thumbnail, the colour labels are shown on its top and the rating stars on its bottom: a single click sets them. Replaces the rating/label popup menus.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show fast-rating overlay on thumbnails</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsView</name>
@@ -12337,10 +12590,6 @@ Deseja continuar?</translation>
         <translation>Transferir</translation>
     </message>
     <message>
-        <source>Error</source>
-        <translation>Erro</translation>
-    </message>
-    <message>
         <source>Cancel</source>
         <translation>Cancelar</translation>
     </message>
@@ -12351,6 +12600,26 @@ Deseja continuar?</translation>
     <message>
         <source>Unable to upload image file...</source>
         <translation>Não foi possível carregar o arquivo de imagem...</translation>
+    </message>
+    <message>
+        <source>Not signed in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Waiting for the authorization in the web browser...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Signed in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12376,22 +12645,6 @@ Deseja continuar?</translation>
         <translation>Altura</translation>
     </message>
     <message>
-        <source>Username</source>
-        <translation>Nome de usuário</translation>
-    </message>
-    <message>
-        <source>Password</source>
-        <translation>Senha</translation>
-    </message>
-    <message>
-        <source>User</source>
-        <translation>Usuário</translation>
-    </message>
-    <message>
-        <source>New user...</source>
-        <translation>Novo usuário...</translation>
-    </message>
-    <message>
         <source>Thumbnail link</source>
         <translation>Link da miniatura</translation>
     </message>
@@ -12400,12 +12653,20 @@ Deseja continuar?</translation>
         <translation>Link da imagem</translation>
     </message>
     <message>
-        <source>Authentication</source>
-        <translation>Autenticação</translation>
-    </message>
-    <message>
         <source>Be careful, your image(s) will be uploaded on a public server!</source>
         <translation>Cuidado, sua(s) imagem(s) será(ão) enviada(s) em um servidor público!</translation>
+    </message>
+    <message>
+        <source>Account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not signed in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12970,6 +13231,17 @@ Deseja continuar?</translation>
     </message>
 </context>
 <context>
+    <name>DropboxUploader</name>
+    <message>
+        <source>The file is too large to be uploaded (150 MB maximum).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to create a shared link.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>EditXMPWidget</name>
     <message>
         <source>Description</source>
@@ -13335,10 +13607,17 @@ Deseja excluir o favorito &quot;%1&quot;?</translation>
     </message>
 </context>
 <context>
-    <name>ImgurAPI3</name>
+    <name>FlickrUploader</name>
     <message>
-        <source>Could not open file</source>
-        <translation>Não foi possível abrir o arquivo</translation>
+        <source>The authorization request failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>GoogleDriveUploader</name>
+    <message>
+        <source>Unable to create the upload session.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17656,17 +17935,6 @@ Deseja continuar?</translation>
     </message>
 </context>
 <context>
-    <name>MyFolderView</name>
-    <message>
-        <source>Delete folder</source>
-        <translation>Excluir pasta</translation>
-    </message>
-    <message>
-        <source>Are you sure to delete this folder?</source>
-        <translation>Você tem certeza de que deseja excluir esta pasta?</translation>
-    </message>
-</context>
-<context>
     <name>MyHistogram</name>
     <message>
         <source>Red</source>
@@ -17862,6 +18130,17 @@ Você pode alterá-lo em Configurações › Catálogo.</translation>
     <message>
         <source>For viewing and converting PDF/PS/EPS/AI files, XnView MP requires Ghostscript %1 to be installed on your system.</source>
         <translation>Para visualizar e converter arquivos PDF/PS/EPS/AI, o XnView MP requer que o Ghostscript %1 esteja instalado em seu sistema.</translation>
+    </message>
+</context>
+<context>
+    <name>OAuth2Uploader</name>
+    <message>
+        <source>The authorization request failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This service is not configured in this build (missing client identifier).</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18181,6 +18460,10 @@ Você pode alterá-lo em Configurações › Catálogo.</translation>
         <source>Stretch</source>
         <translation>Esticar</translation>
     </message>
+    <message>
+        <source>Hardness</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Panel</name>
@@ -18214,6 +18497,29 @@ Você pode alterá-lo em Configurações › Catálogo.</translation>
     <message>
         <source>Choose a pathname</source>
         <translation>Escolha um caminho</translation>
+    </message>
+</context>
+<context>
+    <name>PiwigoUploader</name>
+    <message>
+        <source>Piwigo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Album</source>
+        <translation type="unfinished">Álbum</translation>
+    </message>
+    <message>
+        <source>The Piwigo server returned an error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Piwigo gallery is not configured.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Piwigo login failed: %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -19032,6 +19338,10 @@ Você pode alterá-lo em Configurações › Catálogo.</translation>
         <source>Cancel</source>
         <translation>Cancelar</translation>
     </message>
+    <message>
+        <source>Angle</source>
+        <translation type="unfinished">Ângulo</translation>
+    </message>
 </context>
 <context>
     <name>WebCapture</name>
@@ -19045,10 +19355,52 @@ Você pode alterá-lo em Configurações › Catálogo.</translation>
     </message>
 </context>
 <context>
+    <name>WebDavUploader</name>
+    <message>
+        <source>WebDAV</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The WebDAV folder is not configured.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>WebError</name>
     <message>
         <source>No error</source>
         <translation>Nenhum erro</translation>
+    </message>
+</context>
+<context>
+    <name>WebUploader</name>
+    <message>
+        <source>Unable to open %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authorization received, you can close this window and return to XnView.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to listen on local port %1 for the authorization callback.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HTTP error %1: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>URL</source>
+        <translation type="unfinished">URL</translation>
+    </message>
+    <message>
+        <source>Username</source>
+        <translation type="unfinished">Nome de usuário</translation>
+    </message>
+    <message>
+        <source>Password</source>
+        <translation type="unfinished">Senha</translation>
     </message>
 </context>
 <context>
