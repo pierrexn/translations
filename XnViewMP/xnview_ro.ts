@@ -458,7 +458,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     <name>BoxUploader</name>
     <message>
         <source>The file is too large to be uploaded (50 MB maximum).</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișierul este prea mare pentru a fi încărcat (maxim 50 de MB/MO).</translation>
     </message>
 </context>
 <context>
@@ -613,7 +613,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Start slideshow</source>
-        <translation>Începe prezentarea</translation>
+        <translation>Începe prezentarea imaginilor</translation>
     </message>
     <message>
         <source>Open in file manager</source>
@@ -649,11 +649,11 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Delete item</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge elementul</translation>
     </message>
     <message>
         <source>Are you sure to delete &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ești sigur(ă) că vrei să ștergi „%1”?</translation>
     </message>
 </context>
 <context>
@@ -696,7 +696,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     <name>CategorySets</name>
     <message>
         <source>Name:</source>
-        <translation>Nume:</translation>
+        <translation>Numele:</translation>
     </message>
     <message>
         <source>Enter a name for this set</source>
@@ -2057,7 +2057,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Total Duration:</source>
-        <translation>Durata totala:</translation>
+        <translation>Durata totală:</translation>
     </message>
     <message>
         <source>Use gamma correction</source>
@@ -2072,7 +2072,7 @@ Vrei să ștergi favoritul „%1”?</translation>
         <translation>
             <numerusform>%n oră și </numerusform>
             <numerusform>%n ore și </numerusform>
-            <numerusform>%n ore și </numerusform>
+            <numerusform>%n de ore și </numerusform>
         </translation>
     </message>
     <message>
@@ -2529,7 +2529,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation>Nume:</translation>
+        <translation>Numele:</translation>
     </message>
     <message>
         <source>Category search:</source>
@@ -2987,14 +2987,14 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Total Duration:</source>
-        <translation>Durata totala:</translation>
+        <translation>Durata totală:</translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s) and </source>
         <translation>
-            <numerusform>%n hour(s) and </numerusform>
-            <numerusform>%n oră(e) și </numerusform>
-            <numerusform>%n oră(e) și </numerusform>
+            <numerusform>%n oră și </numerusform>
+            <numerusform>%n ore și </numerusform>
+            <numerusform>%n de ore și </numerusform>
         </translation>
     </message>
     <message>
@@ -3079,7 +3079,7 @@ Dorești să-l suprascrii?</translation>
     </message>
     <message>
         <source>Actions</source>
-        <translation>Acțiune</translation>
+        <translation>Acțiuni</translation>
     </message>
     <message>
         <source>Save script</source>
@@ -3950,7 +3950,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Actions</source>
-        <translation>Acțiune</translation>
+        <translation>Acțiuni</translation>
     </message>
     <message>
         <source>Load script</source>
@@ -5635,51 +5635,51 @@ Vrei să continui?</translation>
     <name>DlgCulling</name>
     <message>
         <source>Culling</source>
-        <translation type="unfinished"></translation>
+        <translation>Trierea imaginilor</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Căutare</translation>
+        <translation>Căutare</translation>
     </message>
     <message>
         <source>Input</source>
-        <translation type="unfinished"></translation>
+        <translation>Intrare</translation>
     </message>
     <message>
         <source>Action</source>
-        <translation type="unfinished">Acțiune</translation>
+        <translation>Acțiune</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Stare</translation>
     </message>
     <message>
         <source>List the files matching the conditions in the input tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Listează fișierele care îndeplinesc condițiile din fila de intrare</translation>
     </message>
     <message>
         <source>Process</source>
-        <translation type="unfinished"></translation>
+        <translation>Proces</translation>
     </message>
     <message>
         <source>Run the action on the files of the input tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Rulează acțiunea asupra fișierelor din fila de intrare</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Închide</translation>
     </message>
     <message>
         <source>Presets:</source>
-        <translation type="unfinished"></translation>
+        <translation>Presetări:</translation>
     </message>
     <message>
         <source>Save current culling</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvează trierea curentă</translation>
     </message>
     <message>
         <source>Delete current culling</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge trierea curentă</translation>
     </message>
     <message>
         <source>Add &gt;&gt;</source>
@@ -5687,218 +5687,218 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Clear all</source>
-        <translation type="unfinished">Curăţă tot</translation>
+        <translation>Curăţă tot</translation>
     </message>
     <message>
         <source>Match:</source>
-        <translation type="unfinished"></translation>
+        <translation>Potrivirea:</translation>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Toate</translation>
     </message>
     <message>
         <source>Any</source>
-        <translation type="unfinished">Orice</translation>
+        <translation>Orice</translation>
     </message>
     <message>
         <source>Search in</source>
-        <translation type="unfinished">Caută în</translation>
+        <translation>Caută în</translation>
     </message>
     <message>
         <source>Selected files</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișierele selectate</translation>
     </message>
     <message>
         <source>All files of the folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Toate fișierele folderului (Toate fișierele dosarului)</translation>
     </message>
     <message>
         <source>Recursive</source>
-        <translation type="unfinished">Recursiv</translation>
+        <translation>Recursiv</translation>
     </message>
     <message>
         <source>Include the files of the subfolders</source>
-        <translation type="unfinished"></translation>
+        <translation>Include fișierele din subfoldere (din subdosare)</translation>
     </message>
     <message>
         <source>Action on the files of the input list</source>
-        <translation type="unfinished"></translation>
+        <translation>Acțiune asupra fișierelor din lista de intrare</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Șterge</translation>
     </message>
     <message>
         <source>Move to</source>
-        <translation type="unfinished">Mută în</translation>
+        <translation>Mută în</translation>
     </message>
     <message>
         <source>Copy to</source>
-        <translation type="unfinished">Copiază în</translation>
+        <translation>Copiază în</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished">Redenumește</translation>
+        <translation>Redenumește</translation>
     </message>
     <message>
         <source>Filename template, the extension is kept</source>
-        <translation type="unfinished"></translation>
+        <translation>Șablon pentru numele fișierului; extensia este păstrată</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished">Fişier</translation>
+        <translation>Fişier</translation>
     </message>
     <message>
         <source>Selected files (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișierele selectate (%1)</translation>
     </message>
     <message>
         <source>All files of the folder (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Toate fișierele din folderul (din dosarul) (%1)</translation>
     </message>
     <message>
         <source>Preset</source>
-        <translation type="unfinished">Presetare</translation>
+        <translation>Presetare</translation>
     </message>
     <message>
         <source>Preset culling name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Numele presetării pentru trierea imaginilor:</translation>
     </message>
     <message>
         <source>No condition defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-a definit nicio condiție.</translation>
     </message>
     <message>
         <source>Checking files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Se verifică fișierele...</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Revocare</translation>
+        <translation>Revocare</translation>
     </message>
     <message>
         <source>A destination folder is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lipsește un folder (un dosar) de destinație.</translation>
     </message>
     <message>
         <source>The folder &apos;%1&apos; does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosarul (Folderul) „%1” nu există.</translation>
     </message>
     <message>
         <source>A filename template is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lipsește un șablon pentru numele fișierului.</translation>
     </message>
     <message>
         <source>The input list is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista de intrare este goală.</translation>
     </message>
     <message>
         <source>The name &apos;%1&apos; would be used by several files or already exists. Add a counter (#) to the template.</source>
-        <translation type="unfinished"></translation>
+        <translation>Numele „%1” ar fi folosit de mai multe fișiere sau există deja. Adaugă un contor (#) la șablon.</translation>
     </message>
     <message>
         <source>No file matches the conditions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Niciun fișier nu îndeplinește condițiile.</translation>
     </message>
     <message numerus="yes">
         <source>Delete %n file(s)?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Ștergi %n fișier?</numerusform>
+            <numerusform>Ștergi %n fișiere?</numerusform>
+            <numerusform>Ștergi %n de fișiere?</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Move %n file(s) to &apos;%1&apos;?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Muți %n fișier în „%1”?</numerusform>
+            <numerusform>Muți %n fișiere în „%1”?</numerusform>
+            <numerusform>Muți %n de fișiere în „%1”?</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Copy %n file(s) to &apos;%1&apos;?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Copiezi %n fișier în „%1”?</numerusform>
+            <numerusform>Copiezi %n fișiere în „%1”?</numerusform>
+            <numerusform>Copiezi %n de fișiere în „%1”?</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Rename %n file(s)?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Redenumești %n fișier în „%1”?</numerusform>
+            <numerusform>Redenumești %n fișiere în „%1”?</numerusform>
+            <numerusform>Redenumești %n de fișiere în „%1”?</numerusform>
         </translation>
     </message>
     <message>
         <source>Move to recycle bin</source>
-        <translation type="unfinished"></translation>
+        <translation>Mută în Coșul de gunoi (Mută în Coșul de reciclare)</translation>
     </message>
     <message>
         <source>Move to &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Mută în „%1”</translation>
     </message>
     <message>
         <source>Copy to &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiază în „%1”</translation>
     </message>
     <message>
         <source>Rename to &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Redenumește în „%1”</translation>
     </message>
     <message>
         <source>Name kept</source>
-        <translation type="unfinished"></translation>
+        <translation>Numele a fost păstrat</translation>
     </message>
     <message>
         <source>To process</source>
-        <translation type="unfinished"></translation>
+        <translation>De procesat</translation>
     </message>
     <message>
         <source>In progress</source>
-        <translation type="unfinished"></translation>
+        <translation>În curs</translation>
     </message>
     <message>
         <source>Processed</source>
-        <translation type="unfinished"></translation>
+        <translation>Procesat</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Eroare</translation>
+        <translation>Eroare</translation>
     </message>
     <message>
         <source>Not processed</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu a fost procesat</translation>
     </message>
     <message>
         <source>Simulated</source>
-        <translation type="unfinished"></translation>
+        <translation>Simulat</translation>
     </message>
     <message numerus="yes">
         <source>Simulation: %n file(s), no file has been modified</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Simulare: %n fișier, niciun fișier nu a fost modificat</numerusform>
+            <numerusform>Simulare: %n fișiere, niciun fișier nu a fost modificat</numerusform>
+            <numerusform>Simulare: %n de fișiere, niciun fișier nu a fost modificat</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n file(s) processed</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n fișier a fost procesat</numerusform>
+            <numerusform>%n fișiere au fost procesate</numerusform>
+            <numerusform>%n de fișiere au fost procesate</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>, %n error(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>, %n eroare</numerusform>
+            <numerusform>, %n erori</numerusform>
+            <numerusform>, %n de erori</numerusform>
         </translation>
     </message>
 </context>
@@ -7704,7 +7704,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     <name>DlgIptcTemplate</name>
     <message>
         <source>Name:</source>
-        <translation>Nume:</translation>
+        <translation>Numele:</translation>
     </message>
     <message>
         <source>XMP file</source>
@@ -8677,7 +8677,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Ignore extension for # enumerator</source>
-        <translation>Ignoră extensia pentru # enumerator</translation>
+        <translation>Ignoră extensia pentru enumeratorul #</translation>
     </message>
     <message>
         <source>Name &amp; extension lowercase</source>
@@ -10616,7 +10616,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Quick Slideshow</source>
-        <translation>Prezentare rapidă</translation>
+        <translation>Prezentare rapidă a imaginilor</translation>
     </message>
     <message>
         <source>Mouse</source>
@@ -11381,11 +11381,11 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>When the mouse is over a thumbnail, the colour labels are shown on its top and the rating stars on its bottom: a single click sets them. Replaces the rating/label popup menus.</source>
-        <translation type="unfinished"></translation>
+        <translation>Atunci când cursorul se află deasupra unei miniaturi, etichetele de culoare sunt afișate în partea de sus, iar stelele de evaluare în partea de jos; un singur clic le configurează. Înlocuiește meniurile pop-up pentru evaluare și etichetare.</translation>
     </message>
     <message>
         <source>Show fast-rating overlay on thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Afișează suprapunerea pentru evaluare rapidă pe miniaturi</translation>
     </message>
 </context>
 <context>
@@ -11407,7 +11407,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Quick slideshow</source>
-        <translation>Prezentare rapidă</translation>
+        <translation>Prezentare rapidă de imagini</translation>
     </message>
     <message>
         <source>Cache</source>
@@ -11987,11 +11987,11 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Export Slideshow</source>
-        <translation>Exportă prezentarea de diapozitive (de slide-uri)</translation>
+        <translation>Exportă prezentarea de imagini</translation>
     </message>
     <message>
         <source>Import Slideshow</source>
-        <translation>Importă prezentarea de diapozitive (de slide-uri)</translation>
+        <translation>Importă prezentarea de imagini</translation>
     </message>
     <message>
         <source>Save...</source>
@@ -12011,7 +12011,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Fixed size</source>
-        <translation>Mărime fixă</translation>
+        <translation>Dimensiune fixă</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -12027,7 +12027,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Slideshow</source>
-        <translation>Prezentare de diapozitive (de slide-uri)</translation>
+        <translation>Prezentare de imagini</translation>
     </message>
     <message>
         <source>Auto hide cursor (fullscreen)</source>
@@ -12624,23 +12624,23 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Not signed in</source>
-        <translation type="unfinished"></translation>
+        <translation>Neautentificat(ă)</translation>
     </message>
     <message>
         <source>Waiting for the authorization in the web browser...</source>
-        <translation type="unfinished"></translation>
+        <translation>Se așteaptă autorizarea în browserul web...</translation>
     </message>
     <message>
         <source>Signed in</source>
-        <translation type="unfinished"></translation>
+        <translation>Autentificat(ă)</translation>
     </message>
     <message>
         <source>Sign out</source>
-        <translation type="unfinished"></translation>
+        <translation>Deconectează-te</translation>
     </message>
     <message>
         <source>Sign in...</source>
-        <translation type="unfinished"></translation>
+        <translation>Autentifică-te...</translation>
     </message>
 </context>
 <context>
@@ -12679,15 +12679,15 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Cont</translation>
     </message>
     <message>
         <source>Not signed in</source>
-        <translation type="unfinished"></translation>
+        <translation>Neautentificat(ă)</translation>
     </message>
     <message>
         <source>Sign in...</source>
-        <translation type="unfinished"></translation>
+        <translation>Autentifică-te...</translation>
     </message>
 </context>
 <context>
@@ -13255,11 +13255,11 @@ Vrei să continui?</translation>
     <name>DropboxUploader</name>
     <message>
         <source>The file is too large to be uploaded (150 MB maximum).</source>
-        <translation type="unfinished"></translation>
+        <translation>Fișierul este prea mare pentru a fi încărcat (maxim 150 de MB/MO).</translation>
     </message>
     <message>
         <source>Unable to create a shared link.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-a putut crea un link partajat (o legătură partajată).</translation>
     </message>
 </context>
 <context>
@@ -13627,14 +13627,14 @@ Dorești să ștergi favoritul „%1”?</translation>
     <name>FlickrUploader</name>
     <message>
         <source>The authorization request failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Solicitarea de autorizare a eșuat.</translation>
     </message>
 </context>
 <context>
     <name>GoogleDriveUploader</name>
     <message>
         <source>Unable to create the upload session.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-a putut crea sesiunea de încărcare.</translation>
     </message>
 </context>
 <context>
@@ -16304,7 +16304,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Slideshow...</source>
-        <translation>Prezentare de diapozitive (de slide-uri)...</translation>
+        <translation>Prezentare de imagini...</translation>
     </message>
     <message>
         <source>Unrated</source>
@@ -16878,7 +16878,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>h - Hour (01-12)</source>
-        <translation>h - Oră (01-12)</translation>
+        <translation>h (o) - Oră (01-12)</translation>
     </message>
 </context>
 <context>
@@ -16973,7 +16973,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Quick Slideshow</source>
-        <translation>Prezentare rapidă</translation>
+        <translation>Prezentare rapidă de imagini</translation>
     </message>
     <message>
         <source>Paste outside</source>
@@ -17613,7 +17613,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Slideshow...</source>
-        <translation>Prezentare de diapozitive (de slide-uri)...</translation>
+        <translation>Prezentare de imagini...</translation>
     </message>
     <message>
         <source>Send by email...</source>
@@ -18156,11 +18156,11 @@ O poți schimba în Setări › Catalog.</translation>
     <name>OAuth2Uploader</name>
     <message>
         <source>The authorization request failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Solicitarea de autorizare a eșuat.</translation>
     </message>
     <message>
         <source>This service is not configured in this build (missing client identifier).</source>
-        <translation type="unfinished"></translation>
+        <translation>Acest serviciu nu este configurat în această versiune (lipsește identificatorul clientului).</translation>
     </message>
 </context>
 <context>
@@ -18474,7 +18474,7 @@ O poți schimba în Setări › Catalog.</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation>Nume:</translation>
+        <translation>Numele:</translation>
     </message>
     <message>
         <source>Preset name</source>
@@ -18482,7 +18482,7 @@ O poți schimba în Setări › Catalog.</translation>
     </message>
     <message>
         <source>Hardness</source>
-        <translation type="unfinished"></translation>
+        <translation>Duritate</translation>
     </message>
 </context>
 <context>
@@ -18523,23 +18523,23 @@ O poți schimba în Setări › Catalog.</translation>
     <name>PiwigoUploader</name>
     <message>
         <source>Piwigo</source>
-        <translation type="unfinished"></translation>
+        <translation>Piwigo</translation>
     </message>
     <message>
         <source>Album</source>
-        <translation type="unfinished">Albumul</translation>
+        <translation>Albumul</translation>
     </message>
     <message>
         <source>The Piwigo server returned an error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Serverul Piwigo a returnat o eroare.</translation>
     </message>
     <message>
         <source>The Piwigo gallery is not configured.</source>
-        <translation type="unfinished"></translation>
+        <translation>Galeria Piwigo nu este configurată.</translation>
     </message>
     <message>
         <source>Piwigo login failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Conectarea la Piwigo a eșuat: %1</translation>
     </message>
 </context>
 <context>
@@ -19129,7 +19129,7 @@ O poți schimba în Setări › Catalog.</translation>
     <name>Slideshow</name>
     <message>
         <source>Slideshow</source>
-        <translation>Prezentare de diapozitive (de slide-uri)</translation>
+        <translation>Prezentare de imagini</translation>
     </message>
 </context>
 <context>
@@ -19360,7 +19360,7 @@ O poți schimba în Setări › Catalog.</translation>
     </message>
     <message>
         <source>Angle</source>
-        <translation type="unfinished">Unghi</translation>
+        <translation>Unghi</translation>
     </message>
 </context>
 <context>
@@ -19378,11 +19378,11 @@ O poți schimba în Setări › Catalog.</translation>
     <name>WebDavUploader</name>
     <message>
         <source>WebDAV</source>
-        <translation type="unfinished"></translation>
+        <translation>WebDAV</translation>
     </message>
     <message>
         <source>The WebDAV folder is not configured.</source>
-        <translation type="unfinished"></translation>
+        <translation>Folderul (Dosarul) WebDAV nu e configurat.</translation>
     </message>
 </context>
 <context>
@@ -19396,31 +19396,31 @@ O poți schimba în Setări › Catalog.</translation>
     <name>WebUploader</name>
     <message>
         <source>Unable to open %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-a putut deschide %1</translation>
     </message>
     <message>
         <source>Authorization received, you can close this window and return to XnView.</source>
-        <translation type="unfinished"></translation>
+        <translation>Autorizarea a fost primită; poți închide această fereastră și să revii la XnView.</translation>
     </message>
     <message>
         <source>Unable to listen on local port %1 for the authorization callback.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu s-a putut asculta pe portul local %1 pentru apelul invers de autorizare.</translation>
     </message>
     <message>
         <source>HTTP error %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Eroare HTTP %1: %2</translation>
     </message>
     <message>
         <source>URL</source>
-        <translation type="unfinished">URL</translation>
+        <translation>URL</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>Nume de utilizator</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Parola</translation>
+        <translation>Parola</translation>
     </message>
 </context>
 <context>
