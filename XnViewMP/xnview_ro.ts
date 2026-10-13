@@ -5683,7 +5683,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Add &gt;&gt;</source>
-        <translation type="unfinished">Adaugă &gt;&gt;</translation>
+        <translation>Adaugă &gt;&gt;</translation>
     </message>
     <message>
         <source>Clear all</source>
