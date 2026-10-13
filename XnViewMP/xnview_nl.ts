@@ -7564,25 +7564,25 @@ Doorgaan?</translation>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="903"/>
         <source>Simulation: %n file(s), no file has been modified</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Simulatie: %n bestand, geen bestand gewijzigd</numerusform>
+            <numerusform>Simulatie: %n bestanden, geen bestand gewijzigd</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="1007"/>
         <source>%n file(s) processed</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n bestand verwerkt</numerusform>
+            <numerusform>%n bestanden verwerkt</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="1007"/>
         <source>, %n error(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>, %n fout</numerusform>
+            <numerusform>, %n fouten</numerusform>
         </translation>
     </message>
 </context>
@@ -9628,7 +9628,7 @@ Wilt u de wijzigingen opslaan?</translation>
     <message>
         <location filename="DlgIptc.cpp" line="1085"/>
         <source>Copy into</source>
-        <translation>Kopiëren naar</translation>
+        <translation>Kopiëren in</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="1108"/>
@@ -14516,12 +14516,12 @@ Opnieuw toewijzen?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="948"/>
         <source>When the mouse is over a thumbnail, the colour labels are shown on its top and the rating stars on its bottom: a single click sets them. Replaces the rating/label popup menus.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wanneer de muis boven een miniatuur staat, worden de kleurlabels bovenaan weergegeven en de beoordelingssterren onderaan: een enkele klik stelt ze in. Dit vervangt de pop-upmenu&apos;s voor beoordelingen/labels.</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="951"/>
         <source>Show fast-rating overlay on thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Overlay boven miniaturen voor snelle beoordeling</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1126"/>
@@ -16317,17 +16317,17 @@ Doorgaan?</translation>
     <message>
         <location filename="DlgUpload.cpp" line="71"/>
         <source>Not signed in</source>
-        <translation type="unfinished"></translation>
+        <translation>Niet aangemeld</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="73"/>
         <source>Waiting for the authorization in the web browser...</source>
-        <translation type="unfinished"></translation>
+        <translation>Wachten op de autorisatie in de webbrowser…</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="76"/>
         <source>Signed in</source>
-        <translation type="unfinished"></translation>
+        <translation>Aangemeld</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="78"/>
@@ -16338,12 +16338,12 @@ Doorgaan?</translation>
     <message>
         <location filename="DlgUpload.cpp" line="78"/>
         <source>Sign out</source>
-        <translation type="unfinished"></translation>
+        <translation>Afmelden</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="78"/>
         <source>Sign in...</source>
-        <translation type="unfinished"></translation>
+        <translation>Aanmelden…</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="196"/>
@@ -16392,17 +16392,17 @@ Doorgaan?</translation>
     <message>
         <location filename="DlgUpload.ui" line="122"/>
         <source>Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Account</translation>
     </message>
     <message>
         <location filename="DlgUpload.ui" line="128"/>
         <source>Not signed in</source>
-        <translation type="unfinished"></translation>
+        <translation>Niet aangemeld</translation>
     </message>
     <message>
         <location filename="DlgUpload.ui" line="138"/>
         <source>Sign in...</source>
-        <translation type="unfinished"></translation>
+        <translation>Aanmelden…</translation>
     </message>
     <message>
         <location filename="DlgUpload.ui" line="165"/>
@@ -17127,12 +17127,12 @@ Doorgaan?</translation>
     <message>
         <location filename="DropboxUploader.cpp" line="66"/>
         <source>The file is too large to be uploaded (150 MB maximum).</source>
-        <translation type="unfinished"></translation>
+        <translation>Het bestand is te groot om te worden geüpload (maximaal 150 MB).</translation>
     </message>
     <message>
         <location filename="DropboxUploader.cpp" line="116"/>
         <source>Unable to create a shared link.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan geen gedeelde link aanmaken.</translation>
     </message>
 </context>
 <context>
@@ -17306,7 +17306,7 @@ Doorgaan?</translation>
     <message>
         <location filename="EditXMPWidget.cpp" line="499"/>
         <source>Copy into</source>
-        <translation>Kopiëren naar</translation>
+        <translation>Kopiëren in</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="523"/>
@@ -17594,7 +17594,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <message>
         <location filename="FlickrUploader.cpp" line="43"/>
         <source>The authorization request failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het autorisatieverzoek is mislukt.</translation>
     </message>
 </context>
 <context>
@@ -17602,7 +17602,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen&quot;?</translation>
     <message>
         <location filename="GoogleDriveUploader.cpp" line="109"/>
         <source>Unable to create the upload session.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan de uploadsessie niet aanmaken.</translation>
     </message>
 </context>
 <context>
@@ -19440,7 +19440,7 @@ Wil je doorgaan?</translation>
         <location filename="TemplateData.cpp" line="2804"/>
         <location filename="TemplateData.cpp" line="2827"/>
         <source>State</source>
-        <translation>Status</translation>
+        <translation>Toestand</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="104"/>
@@ -19858,7 +19858,7 @@ Wil je doorgaan?</translation>
     <message>
         <location filename="IptcEditBase.cpp" line="150"/>
         <source>Copy into</source>
-        <translation>Kopiëren naar</translation>
+        <translation>Kopiëren in</translation>
     </message>
     <message>
         <location filename="IptcEditBase.cpp" line="173"/>
@@ -23671,12 +23671,12 @@ Dit is te wijzigen in Instellingen › Catalogus.</translation>
     <message>
         <location filename="WebUploader.cpp" line="439"/>
         <source>The authorization request failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het autorisatieverzoek is mislukt.</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="554"/>
         <source>This service is not configured in this build (missing client identifier).</source>
-        <translation type="unfinished"></translation>
+        <translation>Deze dienst is niet geconfigureerd in deze build (client identifier ontbreekt).</translation>
     </message>
 </context>
 <context>
@@ -24015,7 +24015,7 @@ Dit is te wijzigen in Instellingen › Catalogus.</translation>
     <message>
         <location filename="PaintWidget.ui" line="1481"/>
         <source>Hardness</source>
-        <translation type="unfinished"></translation>
+        <translation>Hardheid</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1560"/>
@@ -24145,27 +24145,27 @@ Dit is te wijzigen in Instellingen › Catalogus.</translation>
     <message>
         <location filename="PiwigoUploader.cpp" line="28"/>
         <source>Piwigo</source>
-        <translation type="unfinished"></translation>
+        <translation>Piwigo</translation>
     </message>
     <message>
         <location filename="PiwigoUploader.cpp" line="28"/>
         <source>Album</source>
-        <translation type="unfinished">Album</translation>
+        <translation>Album</translation>
     </message>
     <message>
         <location filename="PiwigoUploader.cpp" line="90"/>
         <source>The Piwigo server returned an error.</source>
-        <translation type="unfinished"></translation>
+        <translation>De Piwigo-server heeft een fout gemeld.</translation>
     </message>
     <message>
         <location filename="PiwigoUploader.cpp" line="101"/>
         <source>The Piwigo gallery is not configured.</source>
-        <translation type="unfinished"></translation>
+        <translation>De Piwigo-galerie is niet geconfigureerd.</translation>
     </message>
     <message>
         <location filename="PiwigoUploader.cpp" line="120"/>
         <source>Piwigo login failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Piwigo-login is mislukt: %1</translation>
     </message>
 </context>
 <context>
@@ -25230,7 +25230,7 @@ Dit is te wijzigen in Instellingen › Catalogus.</translation>
     <message>
         <location filename="ViewWatermarkAction.cpp" line="255"/>
         <source>Angle</source>
-        <translation type="unfinished">Hoek</translation>
+        <translation>Hoek</translation>
     </message>
     <message>
         <location filename="ViewWatermarkAction.cpp" line="264"/>
@@ -25261,12 +25261,12 @@ Dit is te wijzigen in Instellingen › Catalogus.</translation>
     <message>
         <location filename="WebDavUploader.cpp" line="33"/>
         <source>WebDAV</source>
-        <translation type="unfinished"></translation>
+        <translation>WebDAV</translation>
     </message>
     <message>
         <location filename="WebDavUploader.cpp" line="78"/>
         <source>The WebDAV folder is not configured.</source>
-        <translation type="unfinished"></translation>
+        <translation>De WebDAV-map is niet geconfigureerd.</translation>
     </message>
 </context>
 <context>
@@ -25282,37 +25282,37 @@ Dit is te wijzigen in Instellingen › Catalogus.</translation>
     <message>
         <location filename="WebUploader.cpp" line="163"/>
         <source>Unable to open %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan %1 niet openen</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="200"/>
         <source>Authorization received, you can close this window and return to XnView.</source>
-        <translation type="unfinished"></translation>
+        <translation>Autorisatie ontvangen. U kunt dit venster sluiten en terugkeren naar XnView.</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="204"/>
         <source>Unable to listen on local port %1 for the authorization callback.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan lokale poort %1 niet beluisteren voor de autorisatie-terugroepactie.</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="226"/>
         <source>HTTP error %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>HTTP-fout %1: %2</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="321"/>
         <source>URL</source>
-        <translation type="unfinished">URL</translation>
+        <translation>URL</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="322"/>
         <source>Username</source>
-        <translation type="unfinished">Gebruikersnaam</translation>
+        <translation>Gebruikersnaam</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="323"/>
         <source>Password</source>
-        <translation type="unfinished">Wachtwoord</translation>
+        <translation>Wachtwoord</translation>
     </message>
 </context>
 <context>
