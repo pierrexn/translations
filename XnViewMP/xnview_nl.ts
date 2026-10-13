@@ -574,7 +574,7 @@ Wil je de favoriet &quot;%1&quot; verwijderen?</translation>
     <message>
         <location filename="BoxUploader.cpp" line="40"/>
         <source>The file is too large to be uploaded (50 MB maximum).</source>
-        <translation type="unfinished"></translation>
+        <translation>Het bestand is te groot om te worden geüpload (maximaal 50 MB).</translation>
     </message>
 </context>
 <context>
@@ -679,12 +679,12 @@ Wil je de favoriet &quot;%1&quot; verwijderen?</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="4105"/>
         <source>Delete item</source>
-        <translation type="unfinished"></translation>
+        <translation>Item verwijderen</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4106"/>
         <source>Are you sure to delete &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Weet u zeker dat u &apos;%1&apos; wilt verwijderen?</translation>
     </message>
     <message numerus="yes">
         <location filename="BrowserWindow.cpp" line="4113"/>
@@ -7261,305 +7261,305 @@ Doorgaan?</translation>
         <location filename="DlgCulling.cpp" line="805"/>
         <location filename="DlgCulling.cpp" line="832"/>
         <source>Culling</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruimen</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="146"/>
         <location filename="DlgCulling.cpp" line="153"/>
         <source>Search</source>
-        <translation type="unfinished">Zoeken</translation>
+        <translation>Zoeken</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="147"/>
         <location filename="DlgCulling.cpp" line="412"/>
         <source>Input</source>
-        <translation type="unfinished"></translation>
+        <translation>Invoer</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="148"/>
         <location filename="DlgCulling.cpp" line="313"/>
         <source>Action</source>
-        <translation type="unfinished">Actie</translation>
+        <translation>Actie</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="149"/>
         <location filename="DlgCulling.cpp" line="313"/>
         <source>Status</source>
-        <translation type="unfinished">Status</translation>
+        <translation>Status</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="154"/>
         <source>List the files matching the conditions in the input tab</source>
-        <translation type="unfinished"></translation>
+        <translation>De bestanden die overeenkomen met de voorwaarden op het tabblad Invoer vermelden</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="156"/>
         <source>Process</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwerken</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="157"/>
         <source>Run the action on the files of the input tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Voer de actie uit op de bestanden van het invoertabblad</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="158"/>
         <source>Close</source>
-        <translation type="unfinished">Sluiten</translation>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="201"/>
         <source>Presets:</source>
-        <translation type="unfinished">Voorinstellingen:</translation>
+        <translation>Voorinstellingen:</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="205"/>
         <source>Save current culling</source>
-        <translation type="unfinished"></translation>
+        <translation>Huidige ruiming opslaan</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="207"/>
         <source>Delete current culling</source>
-        <translation type="unfinished"></translation>
+        <translation>Huidige ruiming verwijderen</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="215"/>
         <source>Add &gt;&gt;</source>
-        <translation type="unfinished">Toevoegen &gt;&gt;</translation>
+        <translation>Toevoegen &gt;&gt;</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="216"/>
         <source>Clear all</source>
-        <translation type="unfinished">Alles wissen</translation>
+        <translation>Alles wissen</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="220"/>
         <source>Match:</source>
-        <translation type="unfinished"></translation>
+        <translation>Overeenkomst:</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="221"/>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="222"/>
         <source>Any</source>
-        <translation type="unfinished">Elke</translation>
+        <translation>Elke</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="234"/>
         <source>Search in</source>
-        <translation type="unfinished">Zoeken in</translation>
+        <translation>Zoeken in</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="236"/>
         <source>Selected files</source>
-        <translation type="unfinished"></translation>
+        <translation>Geselecteerde bestanden</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="237"/>
         <source>All files of the folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle bestanden van de map</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="238"/>
         <source>Recursive</source>
-        <translation type="unfinished">Inclusief submappen</translation>
+        <translation>Inclusief submappen</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="239"/>
         <source>Include the files of the subfolders</source>
-        <translation type="unfinished"></translation>
+        <translation>Inclusief de bestanden van de onderliggende mappen</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="281"/>
         <source>Action on the files of the input list</source>
-        <translation type="unfinished"></translation>
+        <translation>Actie op de bestanden van de invoerlijst</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="284"/>
         <location filename="DlgCulling.cpp" line="844"/>
         <source>Delete</source>
-        <translation type="unfinished">Verwijderen</translation>
+        <translation>Verwijderen</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="285"/>
         <source>Move to</source>
-        <translation type="unfinished">Verplaatsen naar</translation>
+        <translation>Verplaatsen naar</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="286"/>
         <source>Copy to</source>
-        <translation type="unfinished">Kopiëren naar</translation>
+        <translation>Kopiëren naar</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="287"/>
         <source>Rename</source>
-        <translation type="unfinished">Hernoemen</translation>
+        <translation>Hernoemen</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="295"/>
         <source>Filename template, the extension is kept</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestandsnaamsjabloon, de extensie wordt behouden</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="313"/>
         <source>File</source>
-        <translation type="unfinished">Bestand</translation>
+        <translation>Bestand</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="344"/>
         <source>Selected files (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Geselecteerde bestanden (%1)</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="345"/>
         <location filename="DlgCulling.cpp" line="366"/>
         <source>All files of the folder (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle bestanden van de map (%1)</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="472"/>
         <source>Preset</source>
-        <translation type="unfinished">Voorinstelling</translation>
+        <translation>Voorinstelling</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="472"/>
         <source>Preset culling name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vooringestelde ruimingsnaam:</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="591"/>
         <source>No condition defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen voorwaarde gedefinieerd.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="605"/>
         <source>Checking files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Bestanden controleren…</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="605"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annuleren</translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="674"/>
         <source>A destination folder is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Er ontbreekt een doelmap.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="679"/>
         <source>The folder &apos;%1&apos; does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>De map &apos;%1&apos; bestaat niet.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="684"/>
         <source>A filename template is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Een bestandsnaamsjabloon ontbreekt.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="705"/>
         <source>The input list is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>De invoerlijst is leeg.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="728"/>
         <source>The name &apos;%1&apos; would be used by several files or already exists. Add a counter (#) to the template.</source>
-        <translation type="unfinished"></translation>
+        <translation>De naam &apos;%1&apos; zou door verschillende bestanden worden gebruikt of bestaat al. Voeg een teller (#) toe aan de sjabloon.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="780"/>
         <source>No file matches the conditions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen enkel bestand voldoet aan de voorwaarden.</translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="820"/>
         <source>Delete %n file(s)?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n bestand verwijderen?</numerusform>
+            <numerusform>%n bestanden verwijderen?</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="823"/>
         <source>Move %n file(s) to &apos;%1&apos;?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n bestand naar &apos;%1&apos; verplaatsen?</numerusform>
+            <numerusform>%n bestanden naar &apos;%1&apos; verplaatsen?</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="826"/>
         <source>Copy %n file(s) to &apos;%1&apos;?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n bestand naar &apos;%1&apos; kopiëren?</numerusform>
+            <numerusform>%n bestanden naar &apos;%1&apos; kopiëren?</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="829"/>
         <source>Rename %n file(s)?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n bestand hernoemen?</numerusform>
+            <numerusform>%n bestanden hernoemen?</numerusform>
         </translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="844"/>
         <source>Move to recycle bin</source>
-        <translation type="unfinished"></translation>
+        <translation>Naar prullenbak verplaatsten</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="846"/>
         <source>Move to &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Naar &apos;%1&apos; verplaatsen</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="848"/>
         <source>Copy to &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Naar &apos;%1&apos; kopiëren</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="851"/>
         <source>Rename to &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Hernoemen tot &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="852"/>
         <source>Name kept</source>
-        <translation type="unfinished"></translation>
+        <translation>Naam behouden</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="880"/>
         <source>To process</source>
-        <translation type="unfinished"></translation>
+        <translation>Te verwerken</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="881"/>
         <source>In progress</source>
-        <translation type="unfinished"></translation>
+        <translation>In uitvoering</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="882"/>
         <source>Processed</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwerkt</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="883"/>
         <source>Error</source>
-        <translation type="unfinished">Fout</translation>
+        <translation>Fout</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="884"/>
         <source>Not processed</source>
-        <translation type="unfinished"></translation>
+        <translation>Niet verwerkt</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="885"/>
         <source>Simulated</source>
-        <translation type="unfinished"></translation>
+        <translation>Gesimuleerd</translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="903"/>
