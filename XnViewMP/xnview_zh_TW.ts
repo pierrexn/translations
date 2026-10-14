@@ -733,7 +733,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="BrowserWindow.cpp" line="4097"/>
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
         <translation>
-            <numerusform>您確定要刪除這 %n 個項目嗎(已選取 %1 項)？</numerusform>
+            <numerusform>您確定要刪除這 %n 個項目嗎 (已選取 %1 項)？</numerusform>
         </translation>
     </message>
     <message>
@@ -7245,7 +7245,7 @@ Do you want to continue?</source>
         <location filename="DlgCulling.cpp" line="805"/>
         <location filename="DlgCulling.cpp" line="832"/>
         <source>Culling</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">剔除條件</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="146"/>
@@ -7279,7 +7279,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgCulling.cpp" line="156"/>
         <source>Process</source>
-        <translation type="unfinished"></translation>
+        <translation>處理</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="157"/>
@@ -7299,12 +7299,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgCulling.cpp" line="205"/>
         <source>Save current culling</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">儲存目前的 &apos;剔除條件&apos;</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="207"/>
         <source>Delete current culling</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">刪除目前的 &apos;剔除條件&apos;</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="215"/>
@@ -7411,7 +7411,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgCulling.cpp" line="472"/>
         <source>Preset culling name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&apos;剔除條件&apos; 的預設合集名稱:</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="591"/>
@@ -7514,17 +7514,17 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgCulling.cpp" line="880"/>
         <source>To process</source>
-        <translation type="unfinished"></translation>
+        <translation>進行處理</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="881"/>
         <source>In progress</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">載入中</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="882"/>
         <source>Processed</source>
-        <translation type="unfinished"></translation>
+        <translation>已處理</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="883"/>
@@ -7534,25 +7534,25 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgCulling.cpp" line="884"/>
         <source>Not processed</source>
-        <translation type="unfinished"></translation>
+        <translation>未處理</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="885"/>
         <source>Simulated</source>
-        <translation type="unfinished"></translation>
+        <translation>模擬的</translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="903"/>
         <source>Simulation: %n file(s), no file has been modified</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>模擬: %n 檔案, 無檔案被修改</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="1007"/>
         <source>%n file(s) processed</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n 檔案已處理</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -12433,7 +12433,7 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettingsCache.ui" line="437"/>
         <source>Import folder...</source>
-        <translation>匯入資料夾路徑 (記錄)...</translation>
+        <translation>匯入 &apos;資料夾路徑&apos; (記錄)...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="471"/>
@@ -14497,12 +14497,12 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="948"/>
         <source>When the mouse is over a thumbnail, the colour labels are shown on its top and the rating stars on its bottom: a single click sets them. Replaces the rating/label popup menus.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">當滑鼠移到縮圖上時, 縮圖上方顯示顏色標籤, 縮圖下方顯示評分標籤: 點擊即可設定. (以此方式取代原有的 評分/顏色標籤 彈出式選單)</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="951"/>
         <source>Show fast-rating overlay on thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在縮圖上顯示 &apos;快速評分&apos; 功能</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1126"/>
@@ -16298,17 +16298,17 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgUpload.cpp" line="71"/>
         <source>Not signed in</source>
-        <translation type="unfinished"></translation>
+        <translation>未登入</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="73"/>
         <source>Waiting for the authorization in the web browser...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在等待網頁瀏覽器中的授權…</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="76"/>
         <source>Signed in</source>
-        <translation type="unfinished"></translation>
+        <translation>已登入</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="78"/>
@@ -16319,12 +16319,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgUpload.cpp" line="78"/>
         <source>Sign out</source>
-        <translation type="unfinished"></translation>
+        <translation>登出</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="78"/>
         <source>Sign in...</source>
-        <translation type="unfinished"></translation>
+        <translation>登入...</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="196"/>
@@ -16373,17 +16373,17 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgUpload.ui" line="122"/>
         <source>Account</source>
-        <translation type="unfinished"></translation>
+        <translation>帳號</translation>
     </message>
     <message>
         <location filename="DlgUpload.ui" line="128"/>
         <source>Not signed in</source>
-        <translation type="unfinished"></translation>
+        <translation>未登入</translation>
     </message>
     <message>
         <location filename="DlgUpload.ui" line="138"/>
         <source>Sign in...</source>
-        <translation type="unfinished"></translation>
+        <translation>登入...</translation>
     </message>
     <message>
         <location filename="DlgUpload.ui" line="165"/>
@@ -16471,12 +16471,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgVideoGallery.ui" line="59"/>
         <source>Columns</source>
-        <translation>欄</translation>
+        <translation>欄數</translation>
     </message>
     <message>
         <location filename="DlgVideoGallery.ui" line="69"/>
         <source>Rows</source>
-        <translation>列</translation>
+        <translation>列數</translation>
     </message>
     <message>
         <location filename="DlgVideoGallery.ui" line="108"/>
@@ -17107,12 +17107,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DropboxUploader.cpp" line="66"/>
         <source>The file is too large to be uploaded (150 MB maximum).</source>
-        <translation type="unfinished"></translation>
+        <translation>檔案過大無法上傳 (最大 150 MB).</translation>
     </message>
     <message>
         <location filename="DropboxUploader.cpp" line="116"/>
         <source>Unable to create a shared link.</source>
-        <translation type="unfinished"></translation>
+        <translation>無法建立共享連結.</translation>
     </message>
 </context>
 <context>
@@ -17574,7 +17574,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="FlickrUploader.cpp" line="43"/>
         <source>The authorization request failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>授權請求失敗.</translation>
     </message>
 </context>
 <context>
@@ -17582,7 +17582,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="GoogleDriveUploader.cpp" line="109"/>
         <source>Unable to create the upload session.</source>
-        <translation type="unfinished"></translation>
+        <translation>無法建立上傳工作階段.</translation>
     </message>
 </context>
 <context>
@@ -23657,12 +23657,12 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="WebUploader.cpp" line="439"/>
         <source>The authorization request failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>授權請求失敗.</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="554"/>
         <source>This service is not configured in this build (missing client identifier).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">此程式版本未配置本服務 (缺少用戶端識別碼).</translation>
     </message>
 </context>
 <context>
@@ -24001,7 +24001,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="PaintWidget.ui" line="1481"/>
         <source>Hardness</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">筆刷硬度</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1560"/>
@@ -24141,17 +24141,17 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="PiwigoUploader.cpp" line="90"/>
         <source>The Piwigo server returned an error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Piwigo 伺服器回傳錯誤.</translation>
     </message>
     <message>
         <location filename="PiwigoUploader.cpp" line="101"/>
         <source>The Piwigo gallery is not configured.</source>
-        <translation type="unfinished"></translation>
+        <translation>Piwigo 相簿尚未配置.</translation>
     </message>
     <message>
         <location filename="PiwigoUploader.cpp" line="120"/>
         <source>Piwigo login failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Piwigo 登入失敗: %1</translation>
     </message>
 </context>
 <context>
@@ -25204,7 +25204,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="ViewWatermarkAction.cpp" line="255"/>
         <source>Angle</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">角度</translation>
     </message>
     <message>
         <location filename="ViewWatermarkAction.cpp" line="264"/>
@@ -25240,7 +25240,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="WebDavUploader.cpp" line="78"/>
         <source>The WebDAV folder is not configured.</source>
-        <translation type="unfinished"></translation>
+        <translation>未配置 WebDAV 資料夾.</translation>
     </message>
 </context>
 <context>
@@ -25261,12 +25261,12 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="WebUploader.cpp" line="200"/>
         <source>Authorization received, you can close this window and return to XnView.</source>
-        <translation type="unfinished"></translation>
+        <translation>已獲得授權, 您可以關閉此視窗並返回 XnView.</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="204"/>
         <source>Unable to listen on local port %1 for the authorization callback.</source>
-        <translation type="unfinished"></translation>
+        <translation>無法監聽本機連接埠 %1 以進行授權回呼.</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="226"/>
