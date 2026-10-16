@@ -12234,7 +12234,7 @@ Do you want to remove them?</source>
         <location filename="DlgSettingsCache.cpp" line="334"/>
         <source>Catalog - Absolute/Relative paths</source>
         <oldsource>Change absolute/relative paths</oldsource>
-        <translation>資料庫 - 絕對/相對路徑</translation>
+        <translation>資料庫 - 絕對/相對 路徑</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="334"/>
