@@ -7641,12 +7641,12 @@ Do you want to continue?</source>
         <location filename="DlgDBClean.ui" line="63"/>
         <source>Purge all thumbnails</source>
         <oldsource>Clean thumbnails</oldsource>
-        <translation>清空無用縮圖</translation>
+        <translation>清空全部縮圖</translation>
     </message>
     <message>
         <location filename="DlgDBClean.ui" line="70"/>
         <source>Purge file data</source>
-        <translation>清空無用檔案之紀錄</translation>
+        <translation>清空檔案紀錄</translation>
     </message>
     <message>
         <location filename="DlgDBClean.ui" line="40"/>
@@ -12277,7 +12277,7 @@ Do you want to continue?</source>
         <location filename="DlgSettingsCache.cpp" line="621"/>
         <source>Catalog - Relocate the folder</source>
         <oldsource>Relocate the folder</oldsource>
-        <translation>資料庫 - 重新定位資料夾</translation>
+        <translation>資料庫 - 重新定位資料夾路徑</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="621"/>
@@ -12454,7 +12454,7 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettingsCache.ui" line="447"/>
         <source>Relocate...</source>
-        <translation>重新定位資料夾…</translation>
+        <translation>重新定位 &apos;資料夾路徑&apos;…</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="364"/>
