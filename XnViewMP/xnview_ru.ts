@@ -7312,7 +7312,7 @@ Do you want to continue?</source>
         <location filename="DlgCulling.cpp" line="805"/>
         <location filename="DlgCulling.cpp" line="832"/>
         <source>Culling</source>
-        <translation type="unfinished"></translation>
+        <translation>Отбор</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="146"/>
@@ -7346,12 +7346,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgCulling.cpp" line="156"/>
         <source>Process</source>
-        <translation type="unfinished"></translation>
+        <translation>Обработка</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="157"/>
         <source>Run the action on the files of the input tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Применить действие к файлам на вкладке &quot;Входные данные&quot;</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="158"/>
@@ -7366,12 +7366,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgCulling.cpp" line="205"/>
         <source>Save current culling</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить текущий отбор</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="207"/>
         <source>Delete current culling</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить текущий отбор</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="215"/>
@@ -7421,12 +7421,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgCulling.cpp" line="239"/>
         <source>Include the files of the subfolders</source>
-        <translation type="unfinished"></translation>
+        <translation>Включать файлы из вложенных папок</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="281"/>
         <source>Action on the files of the input list</source>
-        <translation type="unfinished"></translation>
+        <translation>Действие над файлами входного списка</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="284"/>
@@ -7478,7 +7478,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgCulling.cpp" line="472"/>
         <source>Preset culling name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Название пресета отбора:</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="591"/>
@@ -7595,7 +7595,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgCulling.cpp" line="881"/>
         <source>In progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Обрабатывается</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="882"/>
