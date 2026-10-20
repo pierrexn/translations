@@ -2292,7 +2292,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgAdobeConfigure.ui" line="14"/>
         <source>Configure Adobe Plugin</source>
-        <translation>設定Adobe插件組態</translation>
+        <translation>設定 Adobe 插件</translation>
     </message>
     <message>
         <location filename="DlgAdobeConfigure.ui" line="48"/>
@@ -2325,7 +2325,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgAdobePlugin.ui" line="81"/>
         <source>Configure...</source>
-        <translation>設定組態...</translation>
+        <translation>設定...</translation>
     </message>
 </context>
 <context>
@@ -13258,7 +13258,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="993"/>
         <source>System profile</source>
-        <translation>系統組態檔</translation>
+        <translation>系統設定檔</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="1049"/>
@@ -13430,7 +13430,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="377"/>
         <source>Configuration</source>
-        <translation>組態</translation>
+        <translation>[ 設定 ]</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="388"/>
@@ -17817,7 +17817,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoPropertiesView.cpp" line="502"/>
         <location filename="InfoPropertiesView.cpp" line="521"/>
         <source>Format profile</source>
-        <translation>格式組態檔</translation>
+        <translation>格式設定檔</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="503"/>
@@ -18965,7 +18965,7 @@ Do you want to continue?</source>
     <message>
         <location filename="TemplateData.cpp" line="2734"/>
         <source>Components configuration</source>
-        <translation>元件組態</translation>
+        <translation>元件設定</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2735"/>
