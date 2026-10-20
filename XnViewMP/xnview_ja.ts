@@ -582,7 +582,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BoxUploader.cpp" line="40"/>
         <source>The file is too large to be uploaded (50 MB maximum).</source>
-        <translation type="unfinished"></translation>
+        <translation>アップロードするにはファイルが大きすぎます（最大50MB）。</translation>
     </message>
 </context>
 <context>
@@ -690,12 +690,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="4105"/>
         <source>Delete item</source>
-        <translation type="unfinished"></translation>
+        <translation>アイテムを削除</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4106"/>
         <source>Are you sure to delete &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>「%1」を削除しますか？</translation>
     </message>
     <message numerus="yes">
         <location filename="BrowserWindow.cpp" line="4113"/>
@@ -2009,7 +2009,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgFilter.cpp" line="323"/>
         <source>Effect</source>
-        <translation>効果</translation>
+        <translation>エフェクト</translation>
     </message>
 </context>
 <context>
@@ -2885,7 +2885,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgBatchResize.ui" line="130"/>
         <source>Status</source>
-        <translation>状態</translation>
+        <translation>ステータス</translation>
     </message>
     <message>
         <location filename="DlgBatchResize.ui" line="1193"/>
@@ -5311,7 +5311,7 @@ Do you want to continue?</source>
         <location filename="DlgConvert.ui" line="1316"/>
         <location filename="DlgConvert-old.ui" line="1658"/>
         <source>Status</source>
-        <translation>状態</translation>
+        <translation>ステータス</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1372"/>
@@ -7344,321 +7344,321 @@ Do you want to continue?</source>
         <location filename="DlgCulling.cpp" line="805"/>
         <location filename="DlgCulling.cpp" line="832"/>
         <source>Culling</source>
-        <translation type="unfinished"></translation>
+        <translation>選別</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="146"/>
         <location filename="DlgCulling.cpp" line="153"/>
         <source>Search</source>
-        <translation type="unfinished">検索</translation>
+        <translation>検索</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="147"/>
         <location filename="DlgCulling.cpp" line="412"/>
         <source>Input</source>
-        <translation type="unfinished"></translation>
+        <translation>入力</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="148"/>
         <location filename="DlgCulling.cpp" line="313"/>
         <source>Action</source>
-        <translation type="unfinished"></translation>
+        <translation>処理</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="149"/>
         <location filename="DlgCulling.cpp" line="313"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>ステータス</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="154"/>
         <source>List the files matching the conditions in the input tab</source>
-        <translation type="unfinished"></translation>
+        <translation>入力タブの条件に一致するファイルを一覧表示</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="156"/>
         <source>Process</source>
-        <translation type="unfinished"></translation>
+        <translation>処理</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="157"/>
         <source>Run the action on the files of the input tab</source>
-        <translation type="unfinished"></translation>
+        <translation>入力タブのファイルにアクションを実行</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="158"/>
         <source>Close</source>
-        <translation type="unfinished">閉じる</translation>
+        <translation>閉じる</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="201"/>
         <source>Presets:</source>
-        <translation type="unfinished">プリセット：</translation>
+        <translation>プリセット：</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="205"/>
         <source>Save current culling</source>
-        <translation type="unfinished"></translation>
+        <translation>現在の選別を保存</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="207"/>
         <source>Delete current culling</source>
-        <translation type="unfinished"></translation>
+        <translation>現在の選別を削除</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="215"/>
         <source>Add &gt;&gt;</source>
-        <translation type="unfinished">追加 &gt;&gt;</translation>
+        <translation>追加 &gt;&gt;</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="216"/>
         <source>Clear all</source>
-        <translation type="unfinished">すべて消去</translation>
+        <translation>すべて消去</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="220"/>
         <source>Match:</source>
-        <translation type="unfinished"></translation>
+        <translation>一致条件：</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="221"/>
         <source>All</source>
-        <translation type="unfinished">すべて</translation>
+        <translation>すべて</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="222"/>
         <source>Any</source>
-        <translation type="unfinished">いずれか</translation>
+        <translation>いずれか</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="234"/>
         <source>Search in</source>
-        <translation type="unfinished"></translation>
+        <translation>検索対象</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="236"/>
         <source>Selected files</source>
-        <translation type="unfinished"></translation>
+        <translation>選択したファイル</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="237"/>
         <source>All files of the folder</source>
-        <translation type="unfinished"></translation>
+        <translation>フォルダー内のすべてのファイル</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="238"/>
         <source>Recursive</source>
-        <translation type="unfinished">再帰的</translation>
+        <translation>再帰的</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="239"/>
         <source>Include the files of the subfolders</source>
-        <translation type="unfinished"></translation>
+        <translation>サブフォルダー内のファイルを含める</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="281"/>
         <source>Action on the files of the input list</source>
-        <translation type="unfinished"></translation>
+        <translation>入力リストのファイルにアクションを実行</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="284"/>
         <location filename="DlgCulling.cpp" line="844"/>
         <source>Delete</source>
-        <translation type="unfinished">削除</translation>
+        <translation>削除</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="285"/>
         <source>Move to</source>
-        <translation type="unfinished">フォルダーに移動</translation>
+        <translation>フォルダーに移動</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="286"/>
         <source>Copy to</source>
-        <translation type="unfinished">フォルダーにコピー</translation>
+        <translation>フォルダーにコピー</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="287"/>
         <source>Rename</source>
-        <translation type="unfinished">名前の変更</translation>
+        <translation>名前の変更</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="295"/>
         <source>Filename template, the extension is kept</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイル名テンプレート（拡張子は保持）</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="313"/>
         <source>File</source>
-        <translation type="unfinished">ファイル</translation>
+        <translation>ファイル</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="344"/>
         <source>Selected files (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>選択したファイル（%1）</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="345"/>
         <location filename="DlgCulling.cpp" line="366"/>
         <source>All files of the folder (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>フォルダー内のすべてのファイル（%1）</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="472"/>
         <source>Preset</source>
-        <translation type="unfinished">プリセット</translation>
+        <translation>プリセット</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="472"/>
         <source>Preset culling name:</source>
-        <translation type="unfinished"></translation>
+        <translation>選別プリセット名:</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="591"/>
         <source>No condition defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>条件が定義されていません。</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="605"/>
         <source>Checking files...</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルを確認中...</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="605"/>
         <source>Cancel</source>
-        <translation type="unfinished">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="674"/>
         <source>A destination folder is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>移動先フォルダーが指定されていません。</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="679"/>
         <source>The folder &apos;%1&apos; does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>フォルダー「%1」が存在しません。</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="684"/>
         <source>A filename template is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイル名テンプレートが指定されていません。</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="705"/>
         <source>The input list is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>入力リストが空です。</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="728"/>
         <source>The name &apos;%1&apos; would be used by several files or already exists. Add a counter (#) to the template.</source>
-        <translation type="unfinished"></translation>
+        <translation>名前「%1」は複数のファイルで使用されるか、すでに存在します。テンプレートにカウンター（#）を追加してください。</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="780"/>
         <source>No file matches the conditions.</source>
-        <translation type="unfinished"></translation>
+        <translation>条件に一致するファイルがありません。</translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="820"/>
         <source>Delete %n file(s)?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n個のファイルを削除しますか？</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="823"/>
         <source>Move %n file(s) to &apos;%1&apos;?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n個のファイルを「%1」に移動しますか？</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="826"/>
         <source>Copy %n file(s) to &apos;%1&apos;?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n個のファイルを「%1」にコピーしますか？</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="829"/>
         <source>Rename %n file(s)?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>n個のファイルの名前を変更しますか？</numerusform>
         </translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="844"/>
         <source>Move to recycle bin</source>
-        <translation type="unfinished"></translation>
+        <translation>ごみ箱に移動</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="846"/>
         <source>Move to &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>「%1」に移動</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="848"/>
         <source>Copy to &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>「%1」にコピー</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="851"/>
         <source>Rename to &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>「%1」に名前を変更</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="852"/>
         <source>Name kept</source>
-        <translation type="unfinished"></translation>
+        <translation>名前を保持</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="880"/>
         <source>To process</source>
-        <translation type="unfinished"></translation>
+        <translation>処理対象</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="881"/>
         <source>In progress</source>
-        <translation type="unfinished"></translation>
+        <translation>処理中</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="882"/>
         <source>Processed</source>
-        <translation type="unfinished"></translation>
+        <translation>処理済み</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="883"/>
         <source>Error</source>
-        <translation type="unfinished">エラー</translation>
+        <translation>エラー</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="884"/>
         <source>Not processed</source>
-        <translation type="unfinished"></translation>
+        <translation>未処理</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="885"/>
         <source>Simulated</source>
-        <translation type="unfinished"></translation>
+        <translation>シミュレーション</translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="903"/>
         <source>Simulation: %n file(s), no file has been modified</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>シミュレーション: %n個のファイル（変更なし）</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="1007"/>
         <source>%n file(s) processed</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n個のファイルを処理しました</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="1007"/>
         <source>, %n error(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>（%n件のエラー）</numerusform>
         </translation>
     </message>
 </context>
@@ -8963,7 +8963,7 @@ Please try to start with admin rights.</source>
         <location filename="DlgFilter.ui" line="29"/>
         <source>Effect list</source>
         <translatorcomment>0.60</translatorcomment>
-        <translation>効果のリスト</translation>
+        <translation>エフェクトリスト</translation>
     </message>
     <message>
         <location filename="DlgFilter.ui" line="68"/>
@@ -14721,12 +14721,12 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="948"/>
         <source>When the mouse is over a thumbnail, the colour labels are shown on its top and the rating stars on its bottom: a single click sets them. Replaces the rating/label popup menus.</source>
-        <translation type="unfinished"></translation>
+        <translation>マウスをサムネイルの上に置くと、上部にカラーラベル、下部にレーティングの星が表示されます。クリックで設定できます。レーティング／ラベルのポップアップメニューを置き換えます。</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="951"/>
         <source>Show fast-rating overlay on thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>サムネイルに高速レーティングを表示</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1239"/>
@@ -15656,7 +15656,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSlideshow.ui" line="203"/>
         <source>Use transition effects</source>
-        <translation>遷移効果を使用</translation>
+        <translation>遷移エフェクトを使用</translation>
     </message>
     <message>
         <location filename="DlgSlideshow.ui" line="307"/>
@@ -16278,12 +16278,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgTransitionEffects.ui" line="14"/>
         <source>Transition effects</source>
-        <translation>遷移効果</translation>
+        <translation>遷移エフェクト</translation>
     </message>
     <message>
         <location filename="DlgTransitionEffects.ui" line="24"/>
         <source>Transition Effects List:</source>
-        <translation>遷移効果リスト:</translation>
+        <translation>遷移エフェクトリスト:</translation>
     </message>
     <message>
         <location filename="DlgTransitionEffects.ui" line="49"/>
@@ -16436,17 +16436,17 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgUpload.cpp" line="71"/>
         <source>Not signed in</source>
-        <translation type="unfinished"></translation>
+        <translation>未サインイン</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="73"/>
         <source>Waiting for the authorization in the web browser...</source>
-        <translation type="unfinished"></translation>
+        <translation>Webブラウザーでの認証を待機中...</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="76"/>
         <source>Signed in</source>
-        <translation type="unfinished"></translation>
+        <translation>サインイン済み</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="78"/>
@@ -16457,12 +16457,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgUpload.cpp" line="78"/>
         <source>Sign out</source>
-        <translation type="unfinished"></translation>
+        <translation>サインアウト</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="78"/>
         <source>Sign in...</source>
-        <translation type="unfinished"></translation>
+        <translation>サインイン...</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="196"/>
@@ -16511,17 +16511,17 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgUpload.ui" line="122"/>
         <source>Account</source>
-        <translation type="unfinished"></translation>
+        <translation>アカウント</translation>
     </message>
     <message>
         <location filename="DlgUpload.ui" line="128"/>
         <source>Not signed in</source>
-        <translation type="unfinished"></translation>
+        <translation>未サインイン</translation>
     </message>
     <message>
         <location filename="DlgUpload.ui" line="138"/>
         <source>Sign in...</source>
-        <translation type="unfinished"></translation>
+        <translation>サインイン...</translation>
     </message>
     <message>
         <location filename="DlgUpload.ui" line="165"/>
@@ -17245,12 +17245,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DropboxUploader.cpp" line="66"/>
         <source>The file is too large to be uploaded (150 MB maximum).</source>
-        <translation type="unfinished"></translation>
+        <translation>アップロードするにはファイルが大きすぎます（最大150MB）。</translation>
     </message>
     <message>
         <location filename="DropboxUploader.cpp" line="116"/>
         <source>Unable to create a shared link.</source>
-        <translation type="unfinished"></translation>
+        <translation>共有リンクを作成できません。</translation>
     </message>
 </context>
 <context>
@@ -17716,7 +17716,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="FlickrUploader.cpp" line="43"/>
         <source>The authorization request failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>認証要求に失敗しました。</translation>
     </message>
 </context>
 <context>
@@ -17724,7 +17724,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="GoogleDriveUploader.cpp" line="109"/>
         <source>Unable to create the upload session.</source>
-        <translation type="unfinished"></translation>
+        <translation>アップロードセッションを作成できません。</translation>
     </message>
 </context>
 <context>
@@ -18348,7 +18348,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2837"/>
         <source>Check status</source>
-        <translation>状態を確認</translation>
+        <translation>ステータスを確認</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2843"/>
@@ -19351,7 +19351,7 @@ Do you want to continue?</source>
         <location filename="InfoIPTCView.cpp" line="128"/>
         <source>Status</source>
         <translatorcomment>TXT_TemplateMenu_IPTC_Status</translatorcomment>
-        <translation>状態</translation>
+        <translation>ステータス</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="132"/>
@@ -19485,7 +19485,7 @@ Do you want to continue?</source>
         <location filename="TemplateData.cpp" line="2790"/>
         <source>Edit status</source>
         <translatorcomment>TXT_Iptc_Edit_Status</translatorcomment>
-        <translation>状態変更</translation>
+        <translation>編集ステータス</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="52"/>
@@ -22914,7 +22914,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="774"/>
         <source>Effect</source>
-        <translation>効果</translation>
+        <translation>エフェクト</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="485"/>
@@ -23318,7 +23318,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="506"/>
         <source>Effect...</source>
-        <translation>効果...</translation>
+        <translation>エフェクト...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="523"/>
@@ -23997,12 +23997,12 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="WebUploader.cpp" line="439"/>
         <source>The authorization request failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>認証要求に失敗しました。</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="554"/>
         <source>This service is not configured in this build (missing client identifier).</source>
-        <translation type="unfinished"></translation>
+        <translation>このビルドではサービスが構成されていません（クライアント識別子がありません）。</translation>
     </message>
 </context>
 <context>
@@ -24192,7 +24192,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="PaintWidget.ui" line="950"/>
         <source>Effect</source>
-        <translation>効果</translation>
+        <translation>エフェクト</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="712"/>
@@ -24342,7 +24342,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="PaintWidget.ui" line="1481"/>
         <source>Hardness</source>
-        <translation type="unfinished"></translation>
+        <translation>硬さ</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1560"/>
@@ -24472,27 +24472,27 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="PiwigoUploader.cpp" line="28"/>
         <source>Piwigo</source>
-        <translation type="unfinished"></translation>
+        <translation>Piwigo</translation>
     </message>
     <message>
         <location filename="PiwigoUploader.cpp" line="28"/>
         <source>Album</source>
-        <translation type="unfinished">アルバム</translation>
+        <translation>アルバム</translation>
     </message>
     <message>
         <location filename="PiwigoUploader.cpp" line="90"/>
         <source>The Piwigo server returned an error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Piwigoサーバーがエラーを返しました。</translation>
     </message>
     <message>
         <location filename="PiwigoUploader.cpp" line="101"/>
         <source>The Piwigo gallery is not configured.</source>
-        <translation type="unfinished"></translation>
+        <translation>Piwigoギャラリーが構成されていません。</translation>
     </message>
     <message>
         <location filename="PiwigoUploader.cpp" line="120"/>
         <source>Piwigo login failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Piwigoへのログインに失敗しました：%1</translation>
     </message>
 </context>
 <context>
@@ -25547,7 +25547,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="ViewWatermarkAction.cpp" line="255"/>
         <source>Angle</source>
-        <translation type="unfinished">角度</translation>
+        <translation>角度</translation>
     </message>
     <message>
         <location filename="ViewWatermarkAction.cpp" line="264"/>
@@ -25578,12 +25578,12 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="WebDavUploader.cpp" line="33"/>
         <source>WebDAV</source>
-        <translation type="unfinished"></translation>
+        <translation>WebDAV</translation>
     </message>
     <message>
         <location filename="WebDavUploader.cpp" line="78"/>
         <source>The WebDAV folder is not configured.</source>
-        <translation type="unfinished"></translation>
+        <translation>WebDAVフォルダーが構成されていません。</translation>
     </message>
 </context>
 <context>
@@ -25599,37 +25599,37 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="WebUploader.cpp" line="163"/>
         <source>Unable to open %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1を開けません</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="200"/>
         <source>Authorization received, you can close this window and return to XnView.</source>
-        <translation type="unfinished"></translation>
+        <translation>認証が完了しました。このウィンドウを閉じてXnViewに戻ってください。</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="204"/>
         <source>Unable to listen on local port %1 for the authorization callback.</source>
-        <translation type="unfinished"></translation>
+        <translation>認証コールバック用にローカルポート%1を待ち受けできません。</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="226"/>
         <source>HTTP error %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>HTTPエラー %1：%2</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="321"/>
         <source>URL</source>
-        <translation type="unfinished">URL</translation>
+        <translation>URL</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="322"/>
         <source>Username</source>
-        <translation type="unfinished">ユーザー名</translation>
+        <translation>ユーザー名</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="323"/>
         <source>Password</source>
-        <translation type="unfinished">パスワード</translation>
+        <translation>パスワード</translation>
     </message>
 </context>
 <context>
