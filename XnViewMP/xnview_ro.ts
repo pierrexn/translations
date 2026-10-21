@@ -3854,7 +3854,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Add folder...</source>
-        <translation>Adaugă dosarul (folderul)...</translation>
+        <translation>Adaugă dosarul (Adaugă folderul)...</translation>
     </message>
     <message>
         <source>Registration...</source>
@@ -7226,7 +7226,7 @@ Te rugăm să încerci să pornești programul cu drepturi de administrator.</tr
     <name>DlgHotFolder</name>
     <message>
         <source>Add folder...</source>
-        <translation>Adaugă dosarul (folderul)...</translation>
+        <translation>Adaugă dosarul (Adaugă folderul)...</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -9708,7 +9708,7 @@ Dorești să verifici mai întâi intrările afectate?</translation>
     </message>
     <message>
         <source>Add folder...</source>
-        <translation>Adaugă dosarul (folderul)...</translation>
+        <translation>Adaugă dosarul (Adaugă folderul)...</translation>
     </message>
     <message>
         <source>Enable thumbnail caching</source>
@@ -11730,7 +11730,7 @@ Dorești să-l reatribui?</translation>
     </message>
     <message>
         <source>Add folder...</source>
-        <translation>Adaugă dosarul (folderul)...</translation>
+        <translation>Adaugă dosarul (Adaugă folderul)...</translation>
     </message>
     <message>
         <source>Method</source>
@@ -13521,7 +13521,7 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Add folder...</source>
-        <translation>Adaugă dosarul (folderul)...</translation>
+        <translation>Adaugă dosarul (Adaugă folderul)...</translation>
     </message>
     <message>
         <source>Remove</source>
