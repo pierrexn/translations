@@ -11654,7 +11654,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSearch.ui" line="145"/>
         <source>Search in</source>
-        <translation>・搜尋對象:</translation>
+        <translation>[ v ] 搜尋對象:</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="153"/>
