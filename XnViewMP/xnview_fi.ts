@@ -17999,6 +17999,14 @@ Jatketaanko?</translation>
         <source>Highlights (per channel)</source>
         <translation>Korostukset (kanavaa kohti)</translation>
     </message>
+    <message>
+        <source>RGB (adaptive scale)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical scale capped at 4x the average level, highest peaks are clipped</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MyLittleToolBarV1</name>
@@ -18500,10 +18508,6 @@ Voit muuttaa sitä asetusten kohdasta &quot;Katalogi&quot;.</translation>
 </context>
 <context>
     <name>PiwigoUploader</name>
-    <message>
-        <source>Piwigo</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Album</source>
         <translation type="unfinished">Albumi</translation>
@@ -19355,10 +19359,6 @@ Voit muuttaa sitä asetusten kohdasta &quot;Katalogi&quot;.</translation>
 </context>
 <context>
     <name>WebDavUploader</name>
-    <message>
-        <source>WebDAV</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>The WebDAV folder is not configured.</source>
         <translation type="unfinished"></translation>

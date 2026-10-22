@@ -1975,8 +1975,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="CategoryManager.cpp" line="133"/>
         <location filename="MyDB.cpp" line="891"/>
-        <location filename="MyDB.cpp" line="2280"/>
-        <location filename="MyDB.cpp" line="3585"/>
+        <location filename="MyDB.cpp" line="2285"/>
+        <location filename="MyDB.cpp" line="3590"/>
         <source>Other</source>
         <translation>其它</translation>
     </message>
@@ -5404,7 +5404,7 @@ Do you want to continue?</source>
         <translation>轉換</translation>
     </message>
     <message>
-        <location filename="Helper.cpp" line="533"/>
+        <location filename="Helper.cpp" line="531"/>
         <source>&amp;Options</source>
         <translation>選項(&amp;O)</translation>
     </message>
@@ -19119,7 +19119,7 @@ Do you want to continue?</source>
     <name>InfoIptc</name>
     <message>
         <location filename="InfoIPTCView.cpp" line="25"/>
-        <location filename="IptcHelper.cpp" line="18"/>
+        <location filename="IptcHelper.cpp" line="16"/>
         <location filename="SearchField.cpp" line="52"/>
         <location filename="TemplateData.cpp" line="2766"/>
         <source>Caption</source>
@@ -19128,7 +19128,7 @@ Do you want to continue?</source>
     <message>
         <location filename="EditXMPWidget.cpp" line="121"/>
         <location filename="InfoIPTCView.cpp" line="27"/>
-        <location filename="IptcHelper.cpp" line="20"/>
+        <location filename="IptcHelper.cpp" line="18"/>
         <location filename="SearchField.cpp" line="53"/>
         <location filename="SearchField.cpp" line="110"/>
         <location filename="TemplateData.cpp" line="2767"/>
@@ -19139,7 +19139,7 @@ Do you want to continue?</source>
     <message>
         <location filename="EditXMPWidget.cpp" line="137"/>
         <location filename="InfoIPTCView.cpp" line="28"/>
-        <location filename="IptcHelper.cpp" line="21"/>
+        <location filename="IptcHelper.cpp" line="19"/>
         <location filename="SearchField.cpp" line="54"/>
         <location filename="SearchField.cpp" line="114"/>
         <location filename="TemplateData.cpp" line="2768"/>
@@ -19149,7 +19149,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="29"/>
-        <location filename="IptcHelper.cpp" line="22"/>
+        <location filename="IptcHelper.cpp" line="20"/>
         <location filename="SearchField.cpp" line="55"/>
         <location filename="TemplateData.cpp" line="2769"/>
         <source>Special instructions</source>
@@ -19158,7 +19158,7 @@ Do you want to continue?</source>
     <message>
         <location filename="EditXMPWidget.cpp" line="127"/>
         <location filename="InfoIPTCView.cpp" line="34"/>
-        <location filename="IptcHelper.cpp" line="24"/>
+        <location filename="IptcHelper.cpp" line="22"/>
         <location filename="SearchField.cpp" line="56"/>
         <location filename="TemplateData.cpp" line="2774"/>
         <source>Keywords</source>
@@ -19173,7 +19173,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="36"/>
-        <location filename="IptcHelper.cpp" line="26"/>
+        <location filename="IptcHelper.cpp" line="24"/>
         <location filename="SearchField.cpp" line="58"/>
         <location filename="TemplateData.cpp" line="2776"/>
         <source>Supplemental categories</source>
@@ -19181,7 +19181,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="41"/>
-        <location filename="IptcHelper.cpp" line="32"/>
+        <location filename="IptcHelper.cpp" line="30"/>
         <location filename="SearchField.cpp" line="59"/>
         <location filename="SearchField.cpp" line="106"/>
         <location filename="TemplateData.cpp" line="2781"/>
@@ -19191,7 +19191,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="42"/>
-        <location filename="IptcHelper.cpp" line="28"/>
+        <location filename="IptcHelper.cpp" line="26"/>
         <location filename="SearchField.cpp" line="60"/>
         <location filename="TemplateData.cpp" line="2782"/>
         <source>Byline</source>
@@ -19199,7 +19199,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="43"/>
-        <location filename="IptcHelper.cpp" line="29"/>
+        <location filename="IptcHelper.cpp" line="27"/>
         <location filename="SearchField.cpp" line="61"/>
         <location filename="TemplateData.cpp" line="2783"/>
         <source>Byline title</source>
@@ -19207,14 +19207,14 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="44"/>
-        <location filename="IptcHelper.cpp" line="30"/>
+        <location filename="IptcHelper.cpp" line="28"/>
         <source>Credits</source>
         <translation>致謝</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.cpp" line="136"/>
         <location filename="InfoIPTCView.cpp" line="45"/>
-        <location filename="IptcHelper.cpp" line="31"/>
+        <location filename="IptcHelper.cpp" line="29"/>
         <location filename="SearchField.cpp" line="63"/>
         <location filename="SearchField.cpp" line="116"/>
         <location filename="TemplateData.cpp" line="2785"/>
@@ -19224,7 +19224,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="50"/>
-        <location filename="IptcHelper.cpp" line="35"/>
+        <location filename="IptcHelper.cpp" line="33"/>
         <location filename="SearchField.cpp" line="64"/>
         <location filename="TemplateData.cpp" line="2790"/>
         <source>Edit status</source>
@@ -19232,7 +19232,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="52"/>
-        <location filename="IptcHelper.cpp" line="39"/>
+        <location filename="IptcHelper.cpp" line="37"/>
         <location filename="SearchField.cpp" line="68"/>
         <location filename="TemplateData.cpp" line="2794"/>
         <source>Program</source>
@@ -19240,13 +19240,13 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="53"/>
-        <location filename="IptcHelper.cpp" line="40"/>
+        <location filename="IptcHelper.cpp" line="38"/>
         <source>Program version</source>
         <translation>程式版本</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="54"/>
-        <location filename="IptcHelper.cpp" line="36"/>
+        <location filename="IptcHelper.cpp" line="34"/>
         <location filename="SearchField.cpp" line="65"/>
         <location filename="TemplateData.cpp" line="2791"/>
         <source>Priority</source>
@@ -19254,7 +19254,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="55"/>
-        <location filename="IptcHelper.cpp" line="37"/>
+        <location filename="IptcHelper.cpp" line="35"/>
         <source>Object cycle</source>
         <translation>物件週期</translation>
     </message>
@@ -19263,7 +19263,7 @@ Do you want to continue?</source>
         <location filename="EditXMPWidget.cpp" line="172"/>
         <location filename="EditXMPWidget.cpp" line="189"/>
         <location filename="InfoIPTCView.cpp" line="61"/>
-        <location filename="IptcHelper.cpp" line="44"/>
+        <location filename="IptcHelper.cpp" line="42"/>
         <location filename="SearchField.cpp" line="72"/>
         <location filename="SearchField.cpp" line="111"/>
         <location filename="SearchField.cpp" line="126"/>
@@ -19281,7 +19281,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="63"/>
-        <location filename="IptcHelper.cpp" line="46"/>
+        <location filename="IptcHelper.cpp" line="44"/>
         <source>State/Province</source>
         <translation>州/省</translation>
     </message>
@@ -19290,7 +19290,7 @@ Do you want to continue?</source>
         <location filename="EditXMPWidget.cpp" line="175"/>
         <location filename="EditXMPWidget.cpp" line="190"/>
         <location filename="InfoIPTCView.cpp" line="64"/>
-        <location filename="IptcHelper.cpp" line="47"/>
+        <location filename="IptcHelper.cpp" line="45"/>
         <location filename="SearchField.cpp" line="75"/>
         <location filename="SearchField.cpp" line="112"/>
         <location filename="SearchField.cpp" line="129"/>
@@ -19301,13 +19301,13 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="26"/>
-        <location filename="IptcHelper.cpp" line="19"/>
+        <location filename="IptcHelper.cpp" line="17"/>
         <source>Local caption</source>
         <translation>本地端影像說明 (僅儲存在本台主機資料庫裡)</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="51"/>
-        <location filename="IptcHelper.cpp" line="38"/>
+        <location filename="IptcHelper.cpp" line="36"/>
         <location filename="SearchField.cpp" line="67"/>
         <location filename="TemplateData.cpp" line="2793"/>
         <source>Fixture ID</source>
@@ -19315,7 +19315,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="65"/>
-        <location filename="IptcHelper.cpp" line="48"/>
+        <location filename="IptcHelper.cpp" line="46"/>
         <location filename="SearchField.cpp" line="76"/>
         <location filename="SearchField.cpp" line="124"/>
         <location filename="TemplateData.cpp" line="2806"/>
@@ -19324,7 +19324,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="66"/>
-        <location filename="IptcHelper.cpp" line="51"/>
+        <location filename="IptcHelper.cpp" line="49"/>
         <location filename="SearchField.cpp" line="77"/>
         <location filename="TemplateData.cpp" line="2807"/>
         <source>Original transmission reference</source>
@@ -19367,7 +19367,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="73"/>
-        <location filename="IptcHelper.cpp" line="33"/>
+        <location filename="IptcHelper.cpp" line="31"/>
         <location filename="SearchField.cpp" line="78"/>
         <location filename="TemplateData.cpp" line="2808"/>
         <source>Contact</source>
@@ -19376,7 +19376,7 @@ Do you want to continue?</source>
     <message>
         <location filename="EditXMPWidget.cpp" line="187"/>
         <location filename="InfoIPTCView.cpp" line="62"/>
-        <location filename="IptcHelper.cpp" line="45"/>
+        <location filename="IptcHelper.cpp" line="43"/>
         <location filename="SearchField.cpp" line="73"/>
         <location filename="SearchField.cpp" line="123"/>
         <location filename="TemplateData.cpp" line="2803"/>
@@ -19389,17 +19389,17 @@ Do you want to continue?</source>
         <translation>其它</translation>
     </message>
     <message>
-        <location filename="IptcHelper.cpp" line="25"/>
+        <location filename="IptcHelper.cpp" line="23"/>
         <source>Categories</source>
         <translation>類別</translation>
     </message>
     <message>
-        <location filename="IptcHelper.cpp" line="42"/>
+        <location filename="IptcHelper.cpp" line="40"/>
         <source>Content location code</source>
         <translation>拍攝地點代碼</translation>
     </message>
     <message>
-        <location filename="IptcHelper.cpp" line="43"/>
+        <location filename="IptcHelper.cpp" line="41"/>
         <source>Content location name</source>
         <translation>拍攝地名</translation>
     </message>
@@ -19537,7 +19537,7 @@ Do you want to continue?</source>
     <message>
         <location filename="EditXMPWidget.cpp" line="116"/>
         <location filename="InfoIPTCView.cpp" line="60"/>
-        <location filename="IptcHelper.cpp" line="50"/>
+        <location filename="IptcHelper.cpp" line="48"/>
         <location filename="SearchField.cpp" line="69"/>
         <location filename="TemplateData.cpp" line="2799"/>
         <source>Document title</source>
@@ -21790,95 +21790,95 @@ Do you want to continue?</oldsource>
 <context>
     <name>MenuGlobal</name>
     <message>
-        <location filename="xnview.cpp" line="1367"/>
+        <location filename="xnview.cpp" line="1361"/>
         <source>Quit</source>
         <translation>結束 XnViewMP</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1370"/>
+        <location filename="xnview.cpp" line="1364"/>
         <source>Website...</source>
         <oldsource>Visit XnView&apos;s Website...</oldsource>
         <translation>網站...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1375"/>
+        <location filename="xnview.cpp" line="1369"/>
         <source>Make a donation...</source>
         <translation>捐款...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1368"/>
+        <location filename="xnview.cpp" line="1362"/>
         <source>About</source>
         <translation>關於</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1369"/>
+        <location filename="xnview.cpp" line="1363"/>
         <source>PlugIns...</source>
         <translation>插件...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1371"/>
+        <location filename="xnview.cpp" line="1365"/>
         <source>Forum...</source>
         <translation>論壇...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1372"/>
+        <location filename="xnview.cpp" line="1366"/>
         <source>Technical Support...</source>
         <translation>技術支援...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1373"/>
+        <location filename="xnview.cpp" line="1367"/>
         <source>Report a Bug...</source>
         <oldsource>Report a Bug......</oldsource>
         <translation>回報臭蟲...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1374"/>
+        <location filename="xnview.cpp" line="1368"/>
         <source>Wiki...</source>
         <translation>維基...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1376"/>
+        <location filename="xnview.cpp" line="1370"/>
         <source>Check for update...</source>
         <translation>檢查更新...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1377"/>
+        <location filename="xnview.cpp" line="1371"/>
         <source>Registration...</source>
         <translation>註冊...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1378"/>
+        <location filename="xnview.cpp" line="1372"/>
         <source>Purchase...</source>
         <translation>購買...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1388"/>
-        <location filename="xnview.cpp" line="1390"/>
+        <location filename="xnview.cpp" line="1382"/>
+        <location filename="xnview.cpp" line="1384"/>
         <source>Settings...</source>
         <translation>設定...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1394"/>
+        <location filename="xnview.cpp" line="1388"/>
         <source>Always on top</source>
         <translation>最上層顯示/置頂</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1396"/>
+        <location filename="xnview.cpp" line="1390"/>
         <source>Titlebar</source>
         <translation>視窗標題列</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1397"/>
+        <location filename="xnview.cpp" line="1391"/>
         <source>Show</source>
         <translation>顯示視窗頁籤</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1398"/>
+        <location filename="xnview.cpp" line="1392"/>
         <source>Bottom</source>
         <translation>視窗頁籤顯示於下方</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1399"/>
+        <location filename="xnview.cpp" line="1393"/>
         <source>Tab</source>
         <translation>視窗頁籤</translation>
     </message>
@@ -23133,48 +23133,48 @@ Do you want to continue?</oldsource>
 <context>
     <name>Misc</name>
     <message>
-        <location filename="Helper.h" line="100"/>
+        <location filename="Helper.h" line="101"/>
         <source>inches</source>
         <translation>英吋</translation>
     </message>
     <message>
-        <location filename="Helper.h" line="105"/>
+        <location filename="Helper.h" line="106"/>
         <source>mm</source>
         <translation>mm</translation>
     </message>
     <message>
-        <location filename="Helper.h" line="111"/>
+        <location filename="Helper.h" line="112"/>
         <source>cm</source>
         <translation>cm</translation>
     </message>
     <message>
-        <location filename="Helper.h" line="120"/>
+        <location filename="Helper.h" line="121"/>
         <source>GiB</source>
         <translation>GiB</translation>
     </message>
     <message>
-        <location filename="Helper.h" line="125"/>
+        <location filename="Helper.h" line="126"/>
         <source>MiB</source>
         <translation>MiB</translation>
     </message>
     <message>
-        <location filename="Helper.h" line="130"/>
+        <location filename="Helper.h" line="131"/>
         <source>KiB</source>
         <translation>KiB</translation>
     </message>
     <message>
-        <location filename="Helper.h" line="135"/>
+        <location filename="Helper.h" line="136"/>
         <source>Bytes</source>
         <translation>B</translation>
     </message>
     <message>
-        <location filename="Helper.h" line="196"/>
+        <location filename="Helper.h" line="197"/>
         <source>Choose a directory</source>
         <translation>選擇一個資料夾</translation>
     </message>
     <message>
-        <location filename="Helper.h" line="210"/>
-        <location filename="Helper.h" line="220"/>
+        <location filename="Helper.h" line="211"/>
+        <location filename="Helper.h" line="221"/>
         <source>All Files</source>
         <translation>所有檔案</translation>
     </message>
@@ -23185,30 +23185,30 @@ Do you want to continue?</oldsource>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="1194"/>
-        <location filename="Helper.h" line="214"/>
+        <location filename="Helper.h" line="215"/>
         <source>Open Image</source>
         <translation>開啟影像</translation>
     </message>
     <message>
-        <location filename="Helper.h" line="224"/>
+        <location filename="Helper.h" line="225"/>
         <source>Open Image(s)</source>
         <translation>開啟影像</translation>
     </message>
     <message>
-        <location filename="Helper.cpp" line="429"/>
-        <location filename="Helper.cpp" line="430"/>
+        <location filename="Helper.cpp" line="427"/>
+        <location filename="Helper.cpp" line="428"/>
         <source>Save File</source>
         <translation>儲存檔案</translation>
     </message>
     <message>
-        <location filename="Helper.cpp" line="565"/>
-        <location filename="Helper.cpp" line="646"/>
+        <location filename="Helper.cpp" line="563"/>
+        <location filename="Helper.cpp" line="644"/>
         <source>Save a copy</source>
         <translation>儲存成副本</translation>
     </message>
     <message>
-        <location filename="Helper.cpp" line="565"/>
-        <location filename="Helper.cpp" line="646"/>
+        <location filename="Helper.cpp" line="563"/>
+        <location filename="Helper.cpp" line="644"/>
         <source>Save as</source>
         <translation>另存為</translation>
     </message>
@@ -23413,82 +23413,92 @@ Do you want to continue?</oldsource>
 <context>
     <name>MyHistogram</name>
     <message>
-        <location filename="MyHistogram.cpp" line="199"/>
+        <location filename="MyHistogram.cpp" line="212"/>
         <source>Red</source>
         <translation>紅</translation>
     </message>
     <message>
-        <location filename="MyHistogram.cpp" line="207"/>
+        <location filename="MyHistogram.cpp" line="220"/>
         <source>Green</source>
         <translation>綠</translation>
     </message>
     <message>
-        <location filename="MyHistogram.cpp" line="215"/>
+        <location filename="MyHistogram.cpp" line="228"/>
         <source>Blue</source>
         <translation>藍</translation>
     </message>
     <message>
-        <location filename="MyHistogram.cpp" line="175"/>
+        <location filename="MyHistogram.cpp" line="188"/>
         <source>Luminance</source>
         <translation>輝度 (亮度)</translation>
     </message>
     <message>
-        <location filename="MyHistogram.cpp" line="183"/>
+        <location filename="MyHistogram.cpp" line="178"/>
+        <source>RGB (adaptive scale)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="MyHistogram.cpp" line="179"/>
+        <source>Vertical scale capped at 4x the average level, highest peaks are clipped</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="MyHistogram.cpp" line="196"/>
         <source>RGB</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="MyHistogram.cpp" line="191"/>
+        <location filename="MyHistogram.cpp" line="204"/>
         <source>RGB+Luminance</source>
         <translation>RGB+輝度 (亮度)</translation>
     </message>
     <message>
-        <location filename="MyHistogram.cpp" line="228"/>
+        <location filename="MyHistogram.cpp" line="241"/>
         <source>Show clipping</source>
         <translation>顯示遮色</translation>
     </message>
     <message>
-        <location filename="MyHistogram.cpp" line="237"/>
+        <location filename="MyHistogram.cpp" line="250"/>
         <source>Clipping mode</source>
         <translation>遮色模式</translation>
     </message>
     <message>
-        <location filename="MyHistogram.cpp" line="255"/>
+        <location filename="MyHistogram.cpp" line="268"/>
         <source>Shadows</source>
         <translation>暗部</translation>
     </message>
     <message>
-        <location filename="MyHistogram.cpp" line="256"/>
+        <location filename="MyHistogram.cpp" line="269"/>
         <source>Highlights</source>
         <translation>高光</translation>
     </message>
     <message>
-        <location filename="MyHistogram.cpp" line="257"/>
+        <location filename="MyHistogram.cpp" line="270"/>
         <source>Shadows + Highlights</source>
         <translation>暗部 + 高光</translation>
     </message>
     <message>
-        <location filename="MyHistogram.cpp" line="258"/>
+        <location filename="MyHistogram.cpp" line="271"/>
         <source>Highlights (per channel)</source>
         <translation>高光 (每個色版)</translation>
     </message>
     <message>
-        <location filename="MyHistogram.cpp" line="264"/>
+        <location filename="MyHistogram.cpp" line="277"/>
         <source>Dark background</source>
         <translation>深色背景</translation>
     </message>
     <message>
-        <location filename="MyHistogram.cpp" line="271"/>
+        <location filename="MyHistogram.cpp" line="284"/>
         <source>Light background</source>
         <translation>淺色背景</translation>
     </message>
     <message>
-        <location filename="MyHistogram.cpp" line="277"/>
+        <location filename="MyHistogram.cpp" line="290"/>
         <source>Transparent</source>
         <translation>透明</translation>
     </message>
     <message>
-        <location filename="MyHistogram.cpp" line="289"/>
+        <location filename="MyHistogram.cpp" line="302"/>
         <source>Close</source>
         <translation>關閉</translation>
     </message>
@@ -24128,11 +24138,6 @@ You can change it in Settings › Catalog.</oldsource>
 </context>
 <context>
     <name>PiwigoUploader</name>
-    <message>
-        <location filename="PiwigoUploader.cpp" line="28"/>
-        <source>Piwigo</source>
-        <translation>Piwigo</translation>
-    </message>
     <message>
         <location filename="PiwigoUploader.cpp" line="28"/>
         <source>Album</source>
@@ -25233,11 +25238,6 @@ You can change it in Settings › Catalog.</oldsource>
 <context>
     <name>WebDavUploader</name>
     <message>
-        <location filename="WebDavUploader.cpp" line="33"/>
-        <source>WebDAV</source>
-        <translation>WebDAV</translation>
-    </message>
-    <message>
         <location filename="WebDavUploader.cpp" line="78"/>
         <source>The WebDAV folder is not configured.</source>
         <translation>未配置 WebDAV 資料夾.</translation>
@@ -25336,27 +25336,27 @@ You can change it in Settings › Catalog.</oldsource>
 <context>
     <name>xnview</name>
     <message>
-        <location filename="xnview.cpp" line="413"/>
-        <location filename="xnview.cpp" line="428"/>
-        <location filename="xnview.cpp" line="441"/>
+        <location filename="xnview.cpp" line="410"/>
+        <location filename="xnview.cpp" line="425"/>
+        <location filename="xnview.cpp" line="438"/>
         <source>Creating backup, please wait...</source>
         <oldsource>Creating backup, please wait... </oldsource>
         <translation>建立備份中, 請稍候...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="405"/>
-        <location filename="xnview.cpp" line="411"/>
-        <location filename="xnview.cpp" line="418"/>
+        <location filename="xnview.cpp" line="402"/>
+        <location filename="xnview.cpp" line="408"/>
+        <location filename="xnview.cpp" line="415"/>
         <source>Catalog</source>
         <translation>資料庫</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="405"/>
+        <location filename="xnview.cpp" line="402"/>
         <source>XnViewMP - Catalog has a more recent version number than the expected one</source>
         <translation>XnViewMP - 資料庫有著比預期更加新的版本</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="411"/>
+        <location filename="xnview.cpp" line="408"/>
         <source>XnViewMP will upgrade the catalog. It may take a while. 
 
 Do you want to keep the thumbnails?
@@ -25367,54 +25367,54 @@ Do you want to keep the thumbnails?
  (若您選擇 &apos;是&apos;, 則升級過程會執行得較久)</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="415"/>
+        <location filename="xnview.cpp" line="412"/>
         <source>Upgrading catalog, please wait...</source>
         <oldsource>Upgrading catalog, please wait... </oldsource>
         <translation>升級資料庫中, 請稍候...</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="494"/>
+        <location filename="xnview.cpp" line="491"/>
         <source>Catalog problem</source>
         <translation>資料庫出現錯誤</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="494"/>
+        <location filename="xnview.cpp" line="491"/>
         <source>There is a problem to open catalog, check your settings or folder used!</source>
         <translation>開啟資料庫時有錯誤, 請檢查您的設定或使用的資料夾！</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="503"/>
+        <location filename="xnview.cpp" line="500"/>
         <source>Catalog update</source>
         <translation>更新資料庫</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="503"/>
+        <location filename="xnview.cpp" line="500"/>
         <source>You need to update the catalog (Settings&gt;Catalog&gt;Update metadatas) if you want to use new node in &apos;Catalog Filter&apos;. </source>
         <translation>若您想要使用 &apos;資料庫篩選器&apos; 中的新增項目, 則您需要先更新資料庫 (設定 &gt; 資料庫 &gt; 由資料夾列表更新資料庫). </translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="899"/>
+        <location filename="xnview.cpp" line="896"/>
         <source>Application is up to date.</source>
         <oldsource>XnView MP is currently up to date.</oldsource>
         <translation>應用程式已是最新版.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1646"/>
+        <location filename="xnview.cpp" line="1640"/>
         <source>Do you want to save session?</source>
         <translation>您是否要儲存工作階段?</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="2640"/>
+        <location filename="xnview.cpp" line="2635"/>
         <source>Tabs</source>
         <translation>頁籤</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="2640"/>
+        <location filename="xnview.cpp" line="2635"/>
         <source>The tab bar is hidden, but tabs will still open. Set a tab limit in Settings&gt;Interface&gt;Tabs</source>
         <translation>頁籤已隱藏, 但頁籤的頁面仍會開啟. 您可以在 &quot;設定 &gt; 介面 &gt; 頁籤&quot; 中設定頁籤數量限制</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="3151"/>
+        <location filename="xnview.cpp" line="3146"/>
         <source>Catalog is disabled
 Metadata (check, ratings/colour labels and other file details)
 will not be saved to the database.</source>
@@ -25423,12 +25423,12 @@ will not be saved to the database.</source>
 將不會儲存到資料庫裡.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="985"/>
+        <location filename="xnview.cpp" line="982"/>
         <source>Your previous session contains many loaded images, this can cause a slowdown!</source>
         <translation>您的前次工作階段有開啟著許多影像, 這可能會拖慢速度！</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="418"/>
+        <location filename="xnview.cpp" line="415"/>
         <source>There is a problem to update Catalog:
 (Error: % 1)
 Please contact the developer.</source>
@@ -25437,41 +25437,41 @@ Please contact the developer.</source>
 請聯繫開發人員.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="985"/>
-        <location filename="xnview.cpp" line="1449"/>
-        <location filename="xnview.cpp" line="1465"/>
+        <location filename="xnview.cpp" line="982"/>
+        <location filename="xnview.cpp" line="1443"/>
+        <location filename="xnview.cpp" line="1459"/>
         <source>Session</source>
         <translation>工作階段</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1568"/>
+        <location filename="xnview.cpp" line="1562"/>
         <source>Do you want to quit?</source>
         <translation>您確定要結束 XnViewMP？</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1647"/>
+        <location filename="xnview.cpp" line="1641"/>
         <source>Saving many tabs may noticeably slow application reopening.</source>
         <oldsource>Saving many tabs may noticeably slow reopening XnView MP</oldsource>
         <translation>儲存太多頁籤可能會明顯拖慢重開應用程式.</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1653"/>
+        <location filename="xnview.cpp" line="1647"/>
         <source>Don&apos;t ask again</source>
         <oldsource>Do not ask again</oldsource>
         <translation>不再詢問</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1158"/>
+        <location filename="xnview.cpp" line="1155"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1158"/>
+        <location filename="xnview.cpp" line="1155"/>
         <source>File not found!</source>
         <translation>沒找到檔案！</translation>
     </message>
     <message>
-        <location filename="xnview.cpp" line="1672"/>
+        <location filename="xnview.cpp" line="1666"/>
         <source>Do you want to save this session?</source>
         <translation>您要儲存這次的工作階段嗎？</translation>
     </message>

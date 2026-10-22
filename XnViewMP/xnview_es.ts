@@ -17994,6 +17994,14 @@ Do you want to continue?</source>
         <source>Highlights (per channel)</source>
         <translation>Luces (por canal)</translation>
     </message>
+    <message>
+        <source>RGB (adaptive scale)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical scale capped at 4x the average level, highest peaks are clipped</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MyLittleToolBarV1</name>
@@ -18495,10 +18503,6 @@ Puedo cambiarlo en Configuración › Catálogo.</translation>
 </context>
 <context>
     <name>PiwigoUploader</name>
-    <message>
-        <source>Piwigo</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Album</source>
         <translation type="unfinished">Álbum</translation>
@@ -19350,10 +19354,6 @@ Puedo cambiarlo en Configuración › Catálogo.</translation>
 </context>
 <context>
     <name>WebDavUploader</name>
-    <message>
-        <source>WebDAV</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>The WebDAV folder is not configured.</source>
         <translation type="unfinished"></translation>
