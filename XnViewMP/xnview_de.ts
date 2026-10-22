@@ -23442,12 +23442,12 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="MyHistogram.cpp" line="178"/>
         <source>RGB (adaptive scale)</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB (adaptive Skalierung)</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="179"/>
         <source>Vertical scale capped at 4x the average level, highest peaks are clipped</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertikale Skala auf das Vierfache des Durchschnittsniveaus begrenzt; die höchsten Spitzen werden abgeschnitten.</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="196"/>
