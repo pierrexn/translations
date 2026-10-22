@@ -756,8 +756,8 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
         <location filename="BrowserWindow.cpp" line="4097"/>
         <source>Are you sure to delete these %n item(s) - %1 item(s) selected?</source>
         <translation>
+            <numerusform>Voulez-vous effacer ce fichier?</numerusform>
             <numerusform>Voulez-vous effacer ces %n fichier(s) - %1 fichier(s) sélectionné(s)?</numerusform>
-            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -7502,15 +7502,15 @@ Voulez-vous continuer ?</translation>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="829"/>
         <source>Rename %n file(s)?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Renommer %n fichier&#x202f;?</numerusform>
+            <numerusform>Renommer %n fichiers&#x202f;?</numerusform>
         </translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="844"/>
         <source>Move to recycle bin</source>
-        <translation type="unfinished"></translation>
+        <translation>Déplacer vers la corbeille</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="846"/>
@@ -25240,7 +25240,7 @@ Vous pouvez changer celle-ci dans Paramètres › Catalogue</translation>
     <message>
         <location filename="ViewWatermarkAction.cpp" line="255"/>
         <source>Angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Angle</translation>
     </message>
     <message>
         <location filename="ViewWatermarkAction.cpp" line="264"/>
