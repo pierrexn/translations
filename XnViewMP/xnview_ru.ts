@@ -23576,12 +23576,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyHistogram.cpp" line="178"/>
         <source>RGB (adaptive scale)</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB (адаптивная шкала)</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="179"/>
         <source>Vertical scale capped at 4x the average level, highest peaks are clipped</source>
-        <translation type="unfinished"></translation>
+        <translation>Вертикальный масштаб ограничен четырёхкратным средним уровнем, самые высокие пики обрезаются</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="196"/>
@@ -24158,7 +24158,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="PaintWidget.ui" line="1481"/>
         <source>Hardness</source>
-        <translation type="unfinished"></translation>
+        <translation>Твёрдость</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1560"/>
