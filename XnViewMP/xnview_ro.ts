@@ -18019,11 +18019,11 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>RGB (adaptive scale)</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB (scară adaptivă)</translation>
     </message>
     <message>
         <source>Vertical scale capped at 4x the average level, highest peaks are clipped</source>
-        <translation type="unfinished"></translation>
+        <translation>Scara verticală este limitată la de 4 ori nivelul mediu; vârfurile cele mai înalte sunt tăiate</translation>
     </message>
 </context>
 <context>
