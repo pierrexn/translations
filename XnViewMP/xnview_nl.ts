@@ -23447,12 +23447,12 @@ Doorgaan?</translation>
     <message>
         <location filename="MyHistogram.cpp" line="178"/>
         <source>RGB (adaptive scale)</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB (adaptieve schaal)</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="179"/>
         <source>Vertical scale capped at 4x the average level, highest peaks are clipped</source>
-        <translation type="unfinished"></translation>
+        <translation>Verticale schaal beperkt tot 4x het gemiddelde niveau, hoogste pieken worden geknipt</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="196"/>
