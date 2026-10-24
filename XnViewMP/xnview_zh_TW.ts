@@ -23435,12 +23435,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyHistogram.cpp" line="178"/>
         <source>RGB (adaptive scale)</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB (自適應縮放)</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="179"/>
         <source>Vertical scale capped at 4x the average level, highest peaks are clipped</source>
-        <translation type="unfinished"></translation>
+        <translation>垂直軸的刻度上限設為平均值的 4 倍, 超出部分的峰值會被 裁切/削波</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="196"/>
