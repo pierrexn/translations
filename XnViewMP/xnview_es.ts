@@ -17682,7 +17682,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>##rating## (go to next image)</source>
-        <translation>##calificación## (ir a la siguiente imagen)</translation>
+        <translation>##rating## (ir a la siguiente imagen)</translation>
     </message>
     <message>
         <source>Center image</source>
