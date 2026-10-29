@@ -575,7 +575,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BoxUploader.cpp" line="40"/>
         <source>The file is too large to be uploaded (50 MB maximum).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">该文件过大，无法上传（最大限制为 50 MB）。</translation>
     </message>
 </context>
 <context>
@@ -733,12 +733,12 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="4105"/>
         <source>Delete item</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">删除项目</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4106"/>
         <source>Are you sure to delete &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">您确定要删除“%1”吗？</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4631"/>
@@ -7246,7 +7246,7 @@ Do you want to continue?</source>
         <location filename="DlgCulling.cpp" line="805"/>
         <location filename="DlgCulling.cpp" line="832"/>
         <source>Culling</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">淘汰</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="146"/>
@@ -7258,7 +7258,7 @@ Do you want to continue?</source>
         <location filename="DlgCulling.cpp" line="147"/>
         <location filename="DlgCulling.cpp" line="412"/>
         <source>Input</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">输入</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="148"/>
@@ -7280,7 +7280,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgCulling.cpp" line="156"/>
         <source>Process</source>
-        <translation type="unfinished"></translation>
+        <translation>处理</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="157"/>
@@ -7295,7 +7295,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgCulling.cpp" line="201"/>
         <source>Presets:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">预设:</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="205"/>
@@ -7320,7 +7320,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgCulling.cpp" line="220"/>
         <source>Match:</source>
-        <translation type="unfinished"></translation>
+        <translation>匹配：</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="221"/>
