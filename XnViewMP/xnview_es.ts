@@ -352,7 +352,7 @@
     <name>AddressComboBox</name>
     <message>
         <source>Clear history</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpiar historial</translation>
     </message>
 </context>
 <context>
@@ -465,7 +465,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <name>BoxUploader</name>
     <message>
         <source>The file is too large to be uploaded (50 MB maximum).</source>
-        <translation type="unfinished"></translation>
+        <translation>El archivo es demasiado grande para subirlo (máximo 50 MB).</translation>
     </message>
 </context>
 <context>
