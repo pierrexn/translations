@@ -448,7 +448,7 @@
         <location filename="AddressBar.cpp" line="118"/>
         <location filename="AddressBar.cpp" line="730"/>
         <source>Clear history</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer l&apos;historique</translation>
     </message>
 </context>
 <context>
@@ -592,22 +592,22 @@ Voulez-vous effacer le favori &quot;%1&quot;?</translation>
         <location filename="AddressBar.cpp" line="638"/>
         <location filename="AddressBar.cpp" line="672"/>
         <source>No subfolders</source>
-        <translation type="unfinished"></translation>
+        <translation>Pas de sous-dossiers</translation>
     </message>
     <message>
         <location filename="AddressBar.cpp" line="722"/>
         <source>Copy path</source>
-        <translation type="unfinished"></translation>
+        <translation>Copier le chemin d&apos;accès</translation>
     </message>
     <message>
         <location filename="AddressBar.cpp" line="725"/>
         <source>Paste path</source>
-        <translation type="unfinished"></translation>
+        <translation>Coller le chemin d&apos;accès</translation>
     </message>
     <message>
         <location filename="AddressBar.cpp" line="727"/>
         <source>Edit path</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier le chemin d&apos;accès</translation>
     </message>
 </context>
 <context>
@@ -12285,7 +12285,7 @@ Voulez-vous les enlever?</translation>
     <message>
         <location filename="DlgSettingsCache.cpp" line="272"/>
         <source>Folder not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Dossier introuvable</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="356"/>
@@ -22646,7 +22646,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="ViewMenu.h" line="470"/>
         <source>Gamma</source>
-        <translation type="unfinished"></translation>
+        <translation>Gamma</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="472"/>
@@ -23511,32 +23511,32 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="MyHistogram.cpp" line="275"/>
         <source>Adaptive scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Échelle adaptative</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="275"/>
         <source>Vertical scale capped at 4x the mean of the non-empty levels, higher peaks are clipped</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;échelle verticale est plafonnée à 4 fois la moyenne des niveaux non vides&#x202f;; les pics plus élevés sont écrêtés.</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="276"/>
         <source>Logarithmic scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Échelle logarithmique</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="276"/>
         <source>Small counts stay visible next to high peaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Les petites valeurs restent visibles à côté des pics élevés</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="278"/>
         <source>Ignore 0 and 255 for scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne tenez pas compte des valeurs 0 et 255 pour la mise à l&apos;échelle</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="282"/>
         <source>Adaptive scale: clipped shadows and highlights don&apos;t flatten the rest of the histogram</source>
-        <translation type="unfinished"></translation>
+        <translation>Échelle adaptative&#xa0;: les ombres et les hautes lumières saturées n&apos;aplatissent pas le reste de l&apos;histogramme</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="289"/>
@@ -23594,7 +23594,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="MyLittleToolBar.h" line="722"/>
         <source>Toggle slider: thumbnail size / thumbnails per row</source>
-        <translation type="unfinished"></translation>
+        <translation>Basculer le curseur&#xa0;: taille des vignettes / nombre de vignettes par ligne</translation>
     </message>
 </context>
 <context>
@@ -23602,7 +23602,7 @@ Voulez-vous continuer ?</translation>
     <message>
         <location filename="MyLittleToolBar.h" line="353"/>
         <source>Toggle slider: thumbnail size / thumbnails per row</source>
-        <translation type="unfinished"></translation>
+        <translation>Basculer le curseur&#xa0;: taille des vignettes / nombre de vignettes par ligne</translation>
     </message>
 </context>
 <context>
@@ -24262,7 +24262,7 @@ Vous pouvez changer celle-ci dans Paramètres › Catalogue</translation>
     <message>
         <location filename="PromoBanner.h" line="56"/>
         <source>XnView Gallery, our photo gallery for Android, is available on Google Play.</source>
-        <translation type="unfinished"></translation>
+        <translation>XnView Gallery, notre galerie photo pour Android, est disponible sur Google Play.</translation>
     </message>
     <message>
         <location filename="PromoBanner.h" line="58"/>
@@ -24277,12 +24277,12 @@ Vous pouvez changer celle-ci dans Paramètres › Catalogue</translation>
     <message>
         <location filename="PromoBanner.h" line="67"/>
         <source>Close</source>
-        <translation type="unfinished">Fermer</translation>
+        <translation>Fermer</translation>
     </message>
     <message>
         <location filename="PromoBanner.h" line="125"/>
         <source>Scan this code with your phone to open Google Play.</source>
-        <translation type="unfinished"></translation>
+        <translation>Scannez ce code avec votre téléphone pour ouvrir Google Play.</translation>
     </message>
 </context>
 <context>
@@ -25358,7 +25358,7 @@ Vous pouvez changer celle-ci dans Paramètres › Catalogue</translation>
     <message>
         <location filename="WebDavUploader.cpp" line="78"/>
         <source>The WebDAV folder is not configured.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le dossier WebDAV n&apos;est pas configuré.</translation>
     </message>
 </context>
 <context>
