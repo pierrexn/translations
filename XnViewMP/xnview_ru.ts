@@ -453,7 +453,7 @@
         <location filename="AddressBar.cpp" line="118"/>
         <location filename="AddressBar.cpp" line="730"/>
         <source>Clear history</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистить историю</translation>
     </message>
 </context>
 <context>
@@ -597,22 +597,22 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="AddressBar.cpp" line="638"/>
         <location filename="AddressBar.cpp" line="672"/>
         <source>No subfolders</source>
-        <translation type="unfinished"></translation>
+        <translation>Без подпапок</translation>
     </message>
     <message>
         <location filename="AddressBar.cpp" line="722"/>
         <source>Copy path</source>
-        <translation type="unfinished"></translation>
+        <translation>Скопировать путь</translation>
     </message>
     <message>
         <location filename="AddressBar.cpp" line="725"/>
         <source>Paste path</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить путь</translation>
     </message>
     <message>
         <location filename="AddressBar.cpp" line="727"/>
         <source>Edit path</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить путь</translation>
     </message>
 </context>
 <context>
@@ -7357,7 +7357,7 @@ Do you want to continue?</source>
         <location filename="DlgCulling.cpp" line="147"/>
         <location filename="DlgCulling.cpp" line="412"/>
         <source>Input</source>
-        <translation type="unfinished"></translation>
+        <translation>Входные данные</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="148"/>
@@ -7618,7 +7618,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgCulling.cpp" line="852"/>
         <source>Name kept</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя сохранено</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="880"/>
@@ -7648,15 +7648,15 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgCulling.cpp" line="885"/>
         <source>Simulated</source>
-        <translation type="unfinished"></translation>
+        <translation>Сымитировано</translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="903"/>
         <source>Simulation: %n file(s), no file has been modified</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Имитация: %n файл, ни один файл не был изменен</numerusform>
+            <numerusform>Имитация: %n файла, ни один файл не был изменен</numerusform>
+            <numerusform>Имитация: %n файлов, ни один файл не был изменен</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -12365,7 +12365,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsCache.cpp" line="272"/>
         <source>Folder not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Папка не найдена</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="356"/>
@@ -14648,7 +14648,8 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="948"/>
         <source>When the mouse is over a thumbnail, the colour labels are shown on its top and the rating stars on its bottom: a single click sets them. Replaces the rating/label popup menus.</source>
-        <translation type="unfinished"></translation>
+        <translation>При наведении курсора на эскиз в верхней части отображаются цветовые метки, а в нижней — звёздочки рейтинга, которые можно изменить щелчком мыши.
+Заменяет всплывающие меню рейтинга и меток.</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="951"/>
@@ -23046,7 +23047,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="470"/>
         <source>Gamma</source>
-        <translation type="unfinished">Гамма</translation>
+        <translation>Гамма</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="472"/>
@@ -23624,32 +23625,32 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyHistogram.cpp" line="275"/>
         <source>Adaptive scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Адаптивная шкала</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="275"/>
         <source>Vertical scale capped at 4x the mean of the non-empty levels, higher peaks are clipped</source>
-        <translation type="unfinished"></translation>
+        <translation>Вертикальная шкала ограничена значением, в 4 раза превышающим среднее значение непустых уровней; более высокие пики обрезаются.</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="276"/>
         <source>Logarithmic scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Логарифмическая шкала</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="276"/>
         <source>Small counts stay visible next to high peaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Небольшие значения остаются видимыми рядом с высокими пиками</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="278"/>
         <source>Ignore 0 and 255 for scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Не учитывать значения 0 и 255 при масштабировании.</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="282"/>
         <source>Adaptive scale: clipped shadows and highlights don&apos;t flatten the rest of the histogram</source>
-        <translation type="unfinished"></translation>
+        <translation>Адаптивная шкала: обрезанные тени и светлые участки не сжимают остальную часть гистограммы</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="289"/>
@@ -23707,7 +23708,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyLittleToolBar.h" line="722"/>
         <source>Toggle slider: thumbnail size / thumbnails per row</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключение режима ползунка: размер миниатюр / количество миниатюр в строке</translation>
     </message>
 </context>
 <context>
@@ -23715,7 +23716,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyLittleToolBar.h" line="353"/>
         <source>Toggle slider: thumbnail size / thumbnails per row</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключение режима ползунка: размер миниатюр / количество миниатюр в строке</translation>
     </message>
 </context>
 <context>
@@ -24378,27 +24379,27 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="PromoBanner.h" line="56"/>
         <source>XnView Gallery, our photo gallery for Android, is available on Google Play.</source>
-        <translation type="unfinished"></translation>
+        <translation>XnView Gallery — наша фотогалерея для Android, доступна в Google Play.</translation>
     </message>
     <message>
         <location filename="PromoBanner.h" line="58"/>
         <source>Google Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Google Play</translation>
     </message>
     <message>
         <location filename="PromoBanner.h" line="61"/>
         <source>QR code</source>
-        <translation type="unfinished"></translation>
+        <translation>QR-код</translation>
     </message>
     <message>
         <location filename="PromoBanner.h" line="67"/>
         <source>Close</source>
-        <translation type="unfinished">Закрыть</translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <location filename="PromoBanner.h" line="125"/>
         <source>Scan this code with your phone to open Google Play.</source>
-        <translation type="unfinished"></translation>
+        <translation>Отсканируйте этот код с помощью телефона, чтобы открыть Google Play.</translation>
     </message>
 </context>
 <context>
