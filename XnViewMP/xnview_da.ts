@@ -375,7 +375,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="873"/>
         <source>Click to hide</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik for at skjule</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="1743"/>
@@ -422,12 +422,12 @@
     <message>
         <location filename="ViewWindow.cpp" line="4277"/>
         <source>Expand canvas</source>
-        <translation type="unfinished"></translation>
+        <translation>Udvid arbejdsområdet</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4277"/>
         <source>Do you want to expand the canvas?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vil du udvide arbejdsområdet?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4704"/>
@@ -449,7 +449,7 @@
         <location filename="AddressBar.cpp" line="118"/>
         <location filename="AddressBar.cpp" line="730"/>
         <source>Clear history</source>
-        <translation type="unfinished"></translation>
+        <translation>Ryd historikken</translation>
     </message>
 </context>
 <context>
@@ -478,7 +478,7 @@
     <message>
         <location filename="AutoDateTimeEdit.h" line="89"/>
         <source>Not set</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikke angivet</translation>
     </message>
 </context>
 <context>
@@ -584,7 +584,7 @@ Vil du slette favoritten &quot;% 1&quot;?</translation>
     <message>
         <location filename="BoxUploader.cpp" line="40"/>
         <source>The file is too large to be uploaded (50 MB maximum).</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen er for stor til at blive uploadet (max 50 MB).</translation>
     </message>
 </context>
 <context>
@@ -593,22 +593,22 @@ Vil du slette favoritten &quot;% 1&quot;?</translation>
         <location filename="AddressBar.cpp" line="638"/>
         <location filename="AddressBar.cpp" line="672"/>
         <source>No subfolders</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen undermapper</translation>
     </message>
     <message>
         <location filename="AddressBar.cpp" line="722"/>
         <source>Copy path</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiér sti</translation>
     </message>
     <message>
         <location filename="AddressBar.cpp" line="725"/>
         <source>Paste path</source>
-        <translation type="unfinished"></translation>
+        <translation>Indsæt sti</translation>
     </message>
     <message>
         <location filename="AddressBar.cpp" line="727"/>
         <source>Edit path</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigér sti</translation>
     </message>
 </context>
 <context>
@@ -707,12 +707,12 @@ Vil du slette favoritten &quot;% 1&quot;?</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="4134"/>
         <source>Delete item</source>
-        <translation type="unfinished"></translation>
+        <translation>Slet element</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4135"/>
         <source>Are you sure to delete &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Er du sikker på du vil slette &apos;%1&apos;?</translation>
     </message>
     <message numerus="yes">
         <location filename="BrowserWindow.cpp" line="4142"/>
@@ -2136,7 +2136,7 @@ Vil du slette favoritten &quot;% 1&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="167"/>
         <source>No face</source>
-        <translation type="unfinished"></translation>
+        <translation>Intet ansigt</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="168"/>
@@ -5100,7 +5100,7 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="DlgConvert.ui" line="651"/>
         <source>Multiple resolution...</source>
-        <translation type="unfinished"></translation>
+        <translation>Flere opløsninger..</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1020"/>
@@ -5152,7 +5152,7 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="DlgConvert.ui" line="1616"/>
         <source>Black</source>
-        <translation type="unfinished">Sort</translation>
+        <translation>Sort</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1641"/>
@@ -6123,12 +6123,12 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="DlgConvertMulti.cpp" line="45"/>
         <source>Width:</source>
-        <translation type="unfinished">Bredde:</translation>
+        <translation>Bredde:</translation>
     </message>
     <message>
         <location filename="DlgConvertMulti.cpp" line="51"/>
         <source>Height:</source>
-        <translation type="unfinished">Højde:</translation>
+        <translation>Højde:</translation>
     </message>
 </context>
 <context>
@@ -6669,7 +6669,7 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="DlgConvertRotate.ui" line="195"/>
         <source>Use anti-aliasing</source>
-        <translation type="unfinished">Brug anti-aliasing</translation>
+        <translation>Brug anti-aliasing</translation>
     </message>
     <message>
         <location filename="DlgConvertRotate.ui" line="203"/>
@@ -7332,50 +7332,50 @@ Vil du fortsætte?</translation>
         <location filename="DlgCulling.cpp" line="146"/>
         <location filename="DlgCulling.cpp" line="153"/>
         <source>Search</source>
-        <translation type="unfinished">Søg</translation>
+        <translation>Søg</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="147"/>
         <location filename="DlgCulling.cpp" line="412"/>
         <source>Input</source>
-        <translation type="unfinished"></translation>
+        <translation>Input</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="148"/>
         <location filename="DlgCulling.cpp" line="313"/>
         <source>Action</source>
-        <translation type="unfinished">Handling</translation>
+        <translation>Handling</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="149"/>
         <location filename="DlgCulling.cpp" line="313"/>
         <source>Status</source>
-        <translation type="unfinished">Status</translation>
+        <translation>Status</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="154"/>
         <source>List the files matching the conditions in the input tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Angiv de filer, der matcher betingelserne i inputfanen</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="156"/>
         <source>Process</source>
-        <translation type="unfinished"></translation>
+        <translation>Bearbejd</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="157"/>
         <source>Run the action on the files of the input tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Kør handlingen på filerne i inputfanen</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="158"/>
         <source>Close</source>
-        <translation type="unfinished">Luk</translation>
+        <translation>Luk</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="201"/>
         <source>Presets:</source>
-        <translation type="unfinished">Forudindstillinger:</translation>
+        <translation>Forudindstillinger:</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="205"/>
@@ -7390,104 +7390,104 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="DlgCulling.cpp" line="215"/>
         <source>Add &gt;&gt;</source>
-        <translation type="unfinished">Tilføj&gt;&gt;</translation>
+        <translation>Tilføj&gt;&gt;</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="216"/>
         <source>Clear all</source>
-        <translation type="unfinished">Ryd alt</translation>
+        <translation>Ryd alt</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="220"/>
         <source>Match:</source>
-        <translation type="unfinished"></translation>
+        <translation>Match:</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="221"/>
         <source>All</source>
-        <translation type="unfinished">Alle</translation>
+        <translation>Alle</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="222"/>
         <source>Any</source>
-        <translation type="unfinished">Enhver</translation>
+        <translation>Enhver</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="234"/>
         <source>Search in</source>
-        <translation type="unfinished">Søg i</translation>
+        <translation>Søg i</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="236"/>
         <source>Selected files</source>
-        <translation type="unfinished"></translation>
+        <translation>Valgte filer</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="237"/>
         <source>All files of the folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle filer i mappen</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="238"/>
         <source>Recursive</source>
-        <translation type="unfinished">Tilbagevendende</translation>
+        <translation>Tilbagevendende</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="239"/>
         <source>Include the files of the subfolders</source>
-        <translation type="unfinished"></translation>
+        <translation>Inkludér filerne i undermapperne</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="281"/>
         <source>Action on the files of the input list</source>
-        <translation type="unfinished"></translation>
+        <translation>Handling på filerne på inputlisten</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="284"/>
         <location filename="DlgCulling.cpp" line="844"/>
         <source>Delete</source>
-        <translation type="unfinished">Slet</translation>
+        <translation>Slet</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="285"/>
         <source>Move to</source>
-        <translation type="unfinished">Flyt til</translation>
+        <translation>Flyt til</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="286"/>
         <source>Copy to</source>
-        <translation type="unfinished">Kopiér til</translation>
+        <translation>Kopiér til</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="287"/>
         <source>Rename</source>
-        <translation type="unfinished">Omdøb</translation>
+        <translation>Omdøb</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="295"/>
         <source>Filename template, the extension is kept</source>
-        <translation type="unfinished"></translation>
+        <translation>Filnavn skabelon, filendelsen bevares</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="313"/>
         <source>File</source>
-        <translation type="unfinished">Fil</translation>
+        <translation>Fil</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="344"/>
         <source>Selected files (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Valgte filer (%1)</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="345"/>
         <location filename="DlgCulling.cpp" line="366"/>
         <source>All files of the folder (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle filer i mappen (%1)</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="472"/>
         <source>Preset</source>
-        <translation type="unfinished">Forudindstillet</translation>
+        <translation>Forudindstilling</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="472"/>
@@ -7497,141 +7497,141 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="DlgCulling.cpp" line="591"/>
         <source>No condition defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen betingelse defineret.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="605"/>
         <source>Checking files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tjekker filer.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="605"/>
         <source>Cancel</source>
-        <translation type="unfinished">Afbryd</translation>
+        <translation>Annullér</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="674"/>
         <source>A destination folder is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der mangler en destinationsmappe.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="679"/>
         <source>The folder &apos;%1&apos; does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mappen &apos;%1&apos; findes ikke.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="684"/>
         <source>A filename template is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der mangler en filnavnskabelon.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="705"/>
         <source>The input list is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inputlisten er tom.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="728"/>
         <source>The name &apos;%1&apos; would be used by several files or already exists. Add a counter (#) to the template.</source>
-        <translation type="unfinished"></translation>
+        <translation>Navnet &apos;% 1&apos; ville blive brugt af flere filer eller findes allerede. Tilføj en tæller (#) til skabelonen.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="780"/>
         <source>No file matches the conditions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen filer opfylder betingelserne.</translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="820"/>
         <source>Delete %n file(s)?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Slet %n fil?</numerusform>
+            <numerusform>Slet %n-filer?</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="823"/>
         <source>Move %n file(s) to &apos;%1&apos;?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Flyt %n fil til &apos;%1&apos;?</numerusform>
+            <numerusform>Flyt %n filer til &apos;%1&apos;?</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="826"/>
         <source>Copy %n file(s) to &apos;%1&apos;?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Kopiér %n fil til &apos;% 1&apos;?</numerusform>
+            <numerusform>Kopiér %n filer til &apos;% 1&apos;?</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="829"/>
         <source>Rename %n file(s)?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Omdøb %n fil?</numerusform>
+            <numerusform>Omdøb %n filer?</numerusform>
         </translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="844"/>
         <source>Move to recycle bin</source>
-        <translation type="unfinished"></translation>
+        <translation>Flyt til papirkurven</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="846"/>
         <source>Move to &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Flyt til &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="848"/>
         <source>Copy to &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiér til &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="851"/>
         <source>Rename to &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Omdøb til &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="852"/>
         <source>Name kept</source>
-        <translation type="unfinished"></translation>
+        <translation>Navn bevaret</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="880"/>
         <source>To process</source>
-        <translation type="unfinished"></translation>
+        <translation>Til behandling</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="881"/>
         <source>In progress</source>
-        <translation type="unfinished"></translation>
+        <translation>I gang</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="882"/>
         <source>Processed</source>
-        <translation type="unfinished"></translation>
+        <translation>Behandlet</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="883"/>
         <source>Error</source>
-        <translation type="unfinished">Fejl</translation>
+        <translation>Fejl</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="884"/>
         <source>Not processed</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikke behandlet</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="885"/>
         <source>Simulated</source>
-        <translation type="unfinished"></translation>
+        <translation>Simuleret</translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="903"/>
         <source>Simulation: %n file(s), no file has been modified</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Simulering: %n fil, ingen fil er blevet ændret</numerusform>
+            <numerusform>Simulering: %n filer, ingen filer er blevet ændret</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -7904,7 +7904,7 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="DlgEditEXIF.ui" line="463"/>
         <source>XP Subject</source>
-        <translation type="unfinished">XP Emne</translation>
+        <translation>XP Emne</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="525"/>
@@ -8080,12 +8080,12 @@ Vil du gemme ændringerne?</translation>
     <message>
         <location filename="DlgEditXMP.cpp" line="398"/>
         <source>Enter a template name</source>
-        <translation type="unfinished"></translation>
+        <translation>Indtast et skabelonnavn</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="398"/>
         <source>Template name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skabelonnavn:</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="452"/>
@@ -8782,7 +8782,7 @@ Prøv at starte med administratorrettigheder.</translation>
     <message>
         <location filename="DlgFileListing.cpp" line="36"/>
         <source>Current columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuelle kolonner</translation>
     </message>
     <message>
         <location filename="DlgFileListing.cpp" line="128"/>
@@ -9312,12 +9312,12 @@ Prøv at starte med administratorrettigheder.</translation>
     <message>
         <location filename="DlgHistoryList.h" line="26"/>
         <source>Save preset</source>
-        <translation type="unfinished">Gem forudindstilling</translation>
+        <translation>Gem forudindstilling</translation>
     </message>
     <message>
         <location filename="DlgHistoryList.h" line="27"/>
         <source>Preset name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Navn på forudindstilling:</translation>
     </message>
 </context>
 <context>
@@ -11098,12 +11098,12 @@ Installer det via Tools › Plugins</translation>
     <message>
         <location filename="DlgRename.cpp" line="105"/>
         <source>Rename</source>
-        <translation type="unfinished">Omdøb</translation>
+        <translation>Omdøb</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="106"/>
         <source>Close</source>
-        <translation type="unfinished">Luk</translation>
+        <translation>Luk</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="379"/>
@@ -11118,27 +11118,27 @@ Vil du fjerne dem?</translation>
         <location filename="DlgRename.cpp" line="1368"/>
         <location filename="DlgRename.cpp" line="1375"/>
         <source>Save preset</source>
-        <translation type="unfinished">Gem forudindstilling</translation>
+        <translation>Gem forudindstilling</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1368"/>
         <source>Preset name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Navn på forudindstilling:</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1376"/>
         <source>Preset &apos;%1&apos; already exists. Overwrite?</source>
-        <translation type="unfinished"></translation>
+        <translation>Forudindstilling &apos;%1&apos; findes allerede. Overskriv?</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1399"/>
         <source>Delete preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Slet forudindstilling</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1400"/>
         <source>Delete preset &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Slet forudindstilling &apos;%1&apos;?</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1428"/>
@@ -11227,17 +11227,17 @@ Vil du fjerne dem?</translation>
     <message>
         <location filename="DlgRename.ui" line="490"/>
         <source>Presets:</source>
-        <translation type="unfinished">Forudindstillinger:</translation>
+        <translation>Forudindstillinger:</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="507"/>
         <source>Save preset</source>
-        <translation type="unfinished">Gem forudindstilling</translation>
+        <translation>Gem forudindstilling</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="521"/>
         <source>Remove preset from list</source>
-        <translation type="unfinished">Fjern forudindstillinger fra listen</translation>
+        <translation>Fjern forudindstilling fra listen</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="110"/>
@@ -11248,7 +11248,7 @@ Vil du fjerne dem?</translation>
         <location filename="DlgRename.ui" line="293"/>
         <source>Replace diacritic characters</source>
         <oldsource>Clean diacritic characters</oldsource>
-        <translation type="unfinished">Ryd diakritiske tegn</translation>
+        <translation>Erstat diakritiske tegn</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="209"/>
@@ -11280,17 +11280,17 @@ Vil du fjerne dem?</translation>
     <message>
         <location filename="DlgRename.ui" line="323"/>
         <source>Add files...</source>
-        <translation type="unfinished">Tilføj filer...</translation>
+        <translation>Tilføj filer...</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="337"/>
         <source>Remove</source>
-        <translation type="unfinished">Fjern</translation>
+        <translation>Fjern</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="351"/>
         <source>Remove all</source>
-        <translation type="unfinished">Fjern alle</translation>
+        <translation>Fjern alle</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="441"/>
@@ -11754,17 +11754,17 @@ Vil du fjerne dem?</translation>
     <message>
         <location filename="DlgSearch.ui" line="145"/>
         <source>Search in</source>
-        <translation type="unfinished">Søg i</translation>
+        <translation>Søg i</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="153"/>
         <source>Filesystem</source>
-        <translation type="unfinished"></translation>
+        <translation>Filsystem</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="158"/>
         <source>Catalog</source>
-        <translation type="unfinished">Katalog</translation>
+        <translation>Katalog</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="226"/>
@@ -12017,42 +12017,42 @@ Vil du fjerne dem?</translation>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="378"/>
         <source>Clear All</source>
-        <translation type="unfinished"></translation>
+        <translation>Ryd alle</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="378"/>
         <source>Remove all items from the list?</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjern alle elementer fra listen?</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="397"/>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Default</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="397"/>
         <source>Reset list to default?</source>
-        <translation type="unfinished"></translation>
+        <translation>Nulstil liste til standard?</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="587"/>
         <source>Expand All</source>
-        <translation type="unfinished"></translation>
+        <translation>Udvid alle</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="592"/>
         <source>Collapse All</source>
-        <translation type="unfinished"></translation>
+        <translation>Sammenfold alle</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="912"/>
         <source>Save Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Gem forudindstilling</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="912"/>
         <source>Preset name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Navn på forudindstilling:</translation>
     </message>
 </context>
 <context>
@@ -12131,27 +12131,27 @@ Vil du fjerne dem?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="585"/>
         <source>Label</source>
-        <translation type="unfinished"></translation>
+        <translation>Etiket</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="590"/>
         <source>Field</source>
-        <translation type="unfinished">Felt</translation>
+        <translation>Felt</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="553"/>
         <source>Clear all</source>
-        <translation type="unfinished">Ryd alt</translation>
+        <translation>Ryd alt/alle</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="498"/>
         <source>Columns</source>
-        <translation type="unfinished">Kolonner</translation>
+        <translation>Kolonner</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="510"/>
         <source>&lt;Default&gt;</source>
-        <translation type="unfinished">&lt;Standard&gt;</translation>
+        <translation>&lt;Standard&gt;</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="291"/>
