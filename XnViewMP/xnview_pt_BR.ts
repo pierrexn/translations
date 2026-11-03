@@ -349,6 +349,13 @@
     </message>
 </context>
 <context>
+    <name>AddressComboBox</name>
+    <message>
+        <source>Clear history</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>AssignedSetPanel</name>
     <message>
         <source>Edit...</source>
@@ -458,6 +465,25 @@ Deseja excluir o favorito &quot;%1&quot;?</translation>
     <name>BoxUploader</name>
     <message>
         <source>The file is too large to be uploaded (50 MB maximum).</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>BreadcrumbBar</name>
+    <message>
+        <source>No subfolders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit path</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9626,6 +9652,10 @@ Deseja verificar primeiro se há entradas afetadas?</translation>
         <source>Database [catalog: %1 %2 - metadata: %5 %6 - thumbnails: %3 %4]</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Folder not found</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsCacheClass</name>
@@ -11915,10 +11945,6 @@ Deseja reatribuir?</translation>
     <message>
         <source>seconds</source>
         <translation>segundos</translation>
-    </message>
-    <message>
-        <source>Use keyboard press or mouse click</source>
-        <translation>Use o toque do teclado ou clique do mouse</translation>
     </message>
     <message>
         <source>Size</source>
@@ -17717,6 +17743,10 @@ Deseja continuar?</translation>
         <source>Grid</source>
         <translation type="unfinished">Grade</translation>
     </message>
+    <message>
+        <source>Gamma</source>
+        <translation type="unfinished">Gama</translation>
+    </message>
 </context>
 <context>
     <name>Misc</name>
@@ -18001,26 +18031,42 @@ Deseja continuar?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>RGB (adaptive scale)</source>
+        <source>Adaptive scale</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Vertical scale capped at 4x the average level, highest peaks are clipped</source>
+        <source>Vertical scale capped at 4x the mean of the non-empty levels, higher peaks are clipped</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Logarithmic scale</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Small counts stay visible next to high peaks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ignore 0 and 255 for scaling</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Adaptive scale: clipped shadows and highlights don&apos;t flatten the rest of the histogram</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>MyLittleToolBarV1</name>
     <message>
-        <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation>Alternar função deslizante: tamanho de miniatura [pixels] ou miniaturas por coluna</translation>
+        <source>Toggle slider: thumbnail size / thumbnails per row</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>MyLittleToolBarV2_2</name>
     <message>
-        <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation>Alternar função deslizante: tamanho de miniatura [pixels] ou miniaturas por coluna</translation>
+        <source>Toggle slider: thumbnail size / thumbnails per row</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18531,6 +18577,29 @@ Você pode alterá-lo em Configurações › Catálogo.</translation>
     <message>
         <source>Preview</source>
         <translation>Pré-Visualização</translation>
+    </message>
+</context>
+<context>
+    <name>PromoBanner</name>
+    <message>
+        <source>XnView Gallery, our photo gallery for Android, is available on Google Play.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Google Play</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>QR code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Fechar</translation>
+    </message>
+    <message>
+        <source>Scan this code with your phone to open Google Play.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

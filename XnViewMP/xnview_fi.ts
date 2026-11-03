@@ -349,6 +349,13 @@
     </message>
 </context>
 <context>
+    <name>AddressComboBox</name>
+    <message>
+        <source>Clear history</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>AssignedSetPanel</name>
     <message>
         <source>Create Set from selection...</source>
@@ -458,6 +465,25 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     <name>BoxUploader</name>
     <message>
         <source>The file is too large to be uploaded (50 MB maximum).</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>BreadcrumbBar</name>
+    <message>
+        <source>No subfolders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit path</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9629,6 +9655,10 @@ Haluatko ensin tarkastaa tiedot, joihin tämä vaikuttaa?</translation>
         <source>Database [catalog: %1 %2 - metadata: %5 %6 - thumbnails: %3 %4]</source>
         <translation>Tietokanta [katalogi: %1 %2 - metatiedot: %5 %6 - pikkukuvat: %3 %4]</translation>
     </message>
+    <message>
+        <source>Folder not found</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DlgSettingsCacheClass</name>
@@ -11970,10 +12000,6 @@ Haluatko määrittää uudelleen?</translation>
     <message>
         <source>Background color</source>
         <translation>Taustaväri</translation>
-    </message>
-    <message>
-        <source>Use keyboard press or mouse click</source>
-        <translation>Käytä näppäimistöä tai hiirtä</translation>
     </message>
     <message>
         <source>Export Slideshow</source>
@@ -17717,6 +17743,10 @@ Jatketaanko?</translation>
         <source>Grid</source>
         <translation>Ruudukko</translation>
     </message>
+    <message>
+        <source>Gamma</source>
+        <translation type="unfinished">Gamma</translation>
+    </message>
 </context>
 <context>
     <name>Misc</name>
@@ -18000,26 +18030,42 @@ Jatketaanko?</translation>
         <translation>Korostukset (kanavaa kohti)</translation>
     </message>
     <message>
-        <source>RGB (adaptive scale)</source>
+        <source>Adaptive scale</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Vertical scale capped at 4x the average level, highest peaks are clipped</source>
+        <source>Vertical scale capped at 4x the mean of the non-empty levels, higher peaks are clipped</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Logarithmic scale</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Small counts stay visible next to high peaks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ignore 0 and 255 for scaling</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Adaptive scale: clipped shadows and highlights don&apos;t flatten the rest of the histogram</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>MyLittleToolBarV1</name>
     <message>
-        <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation>Vaihda liukusäätimen toiminto: Pienoiskuvien koko [pikselit] tai määrä saraketta kohden</translation>
+        <source>Toggle slider: thumbnail size / thumbnails per row</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>MyLittleToolBarV2_2</name>
     <message>
-        <source>Toggle slider function: thumbnail size [pixels] or thumbnails per column</source>
-        <translation>Vaihda liukusäätimen toiminto: pienoiskuvien koko [pikselit] tai määrä saraketta kohden</translation>
+        <source>Toggle slider: thumbnail size / thumbnails per row</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18530,6 +18576,29 @@ Voit muuttaa sitä asetusten kohdasta &quot;Katalogi&quot;.</translation>
     <message>
         <source>Preview</source>
         <translation>Esikatselu</translation>
+    </message>
+</context>
+<context>
+    <name>PromoBanner</name>
+    <message>
+        <source>XnView Gallery, our photo gallery for Android, is available on Google Play.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Google Play</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>QR code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Sulje</translation>
+    </message>
+    <message>
+        <source>Scan this code with your phone to open Google Play.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
