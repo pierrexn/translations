@@ -374,7 +374,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="873"/>
         <source>Click to hide</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknij, aby ukryć</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="1743"/>
@@ -421,12 +421,12 @@
     <message>
         <location filename="ViewWindow.cpp" line="4277"/>
         <source>Expand canvas</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozszerz obszar roboczy</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4277"/>
         <source>Do you want to expand the canvas?</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy chcesz powiększyć obszar roboczy?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4704"/>
@@ -448,7 +448,7 @@
         <location filename="AddressBar.cpp" line="118"/>
         <location filename="AddressBar.cpp" line="730"/>
         <source>Clear history</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyczyść historię</translation>
     </message>
 </context>
 <context>
@@ -583,7 +583,7 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     <message>
         <location filename="BoxUploader.cpp" line="40"/>
         <source>The file is too large to be uploaded (50 MB maximum).</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik jest zbyt duży, aby go przesłać (maksymalnie 50 MB).</translation>
     </message>
 </context>
 <context>
@@ -592,22 +592,22 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
         <location filename="AddressBar.cpp" line="638"/>
         <location filename="AddressBar.cpp" line="672"/>
         <source>No subfolders</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak podfolderów</translation>
     </message>
     <message>
         <location filename="AddressBar.cpp" line="722"/>
         <source>Copy path</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiuj ścieżkę</translation>
     </message>
     <message>
         <location filename="AddressBar.cpp" line="725"/>
         <source>Paste path</source>
-        <translation type="unfinished"></translation>
+        <translation>Wklej ścieżkę</translation>
     </message>
     <message>
         <location filename="AddressBar.cpp" line="727"/>
         <source>Edit path</source>
-        <translation type="unfinished"></translation>
+        <translation>Edytuj ścieżkę</translation>
     </message>
 </context>
 <context>
@@ -707,12 +707,12 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="4134"/>
         <source>Delete item</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń element</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4135"/>
         <source>Are you sure to delete &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy na pewno usunąć &apos;%1&apos;?</translation>
     </message>
     <message numerus="yes">
         <location filename="BrowserWindow.cpp" line="4142"/>
@@ -4981,7 +4981,7 @@ Czy na pewno kontynuować?</translation>
     <message>
         <location filename="DlgConvert.ui" line="1616"/>
         <source>Black</source>
-        <translation type="unfinished">Czarny</translation>
+        <translation>Czarny</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1641"/>
@@ -7316,7 +7316,7 @@ Czy na pewno kontynuować?</translation>
         <location filename="DlgCulling.cpp" line="146"/>
         <location filename="DlgCulling.cpp" line="153"/>
         <source>Search</source>
-        <translation type="unfinished">Wyszukiwanie</translation>
+        <translation>Wyszukiwanie</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="147"/>
@@ -7328,13 +7328,13 @@ Czy na pewno kontynuować?</translation>
         <location filename="DlgCulling.cpp" line="148"/>
         <location filename="DlgCulling.cpp" line="313"/>
         <source>Action</source>
-        <translation type="unfinished"></translation>
+        <translation>Akcja</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="149"/>
         <location filename="DlgCulling.cpp" line="313"/>
         <source>Status</source>
-        <translation type="unfinished">Stan</translation>
+        <translation>Stan</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="154"/>
@@ -7344,7 +7344,7 @@ Czy na pewno kontynuować?</translation>
     <message>
         <location filename="DlgCulling.cpp" line="156"/>
         <source>Process</source>
-        <translation type="unfinished"></translation>
+        <translation>Proces</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="157"/>
@@ -7354,12 +7354,12 @@ Czy na pewno kontynuować?</translation>
     <message>
         <location filename="DlgCulling.cpp" line="158"/>
         <source>Close</source>
-        <translation type="unfinished">Zamknij</translation>
+        <translation>Zamknij</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="201"/>
         <source>Presets:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustawienia:</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="205"/>
@@ -7466,12 +7466,12 @@ Czy na pewno kontynuować?</translation>
         <location filename="DlgCulling.cpp" line="345"/>
         <location filename="DlgCulling.cpp" line="366"/>
         <source>All files of the folder (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie pliki z folderu (%1)</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="472"/>
         <source>Preset</source>
-        <translation type="unfinished">Ustawienie</translation>
+        <translation>Ustawienie</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="472"/>
@@ -7481,32 +7481,32 @@ Czy na pewno kontynuować?</translation>
     <message>
         <location filename="DlgCulling.cpp" line="591"/>
         <source>No condition defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie zdefiniowano żadnego warunku.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="605"/>
         <source>Checking files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprawdzanie plików...</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="605"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="674"/>
         <source>A destination folder is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak folderu docelowego.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="679"/>
         <source>The folder &apos;%1&apos; does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Folder &quot;%1&quot; nie istnieje.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="684"/>
         <source>A filename template is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak szablonu nazwy pliku.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="705"/>
@@ -7516,129 +7516,129 @@ Czy na pewno kontynuować?</translation>
     <message>
         <location filename="DlgCulling.cpp" line="728"/>
         <source>The name &apos;%1&apos; would be used by several files or already exists. Add a counter (#) to the template.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa &quot;%1&quot; byłaby używana przez kilka plików lub już istnieje. Dodaj licznik (znak #) do szablonu.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="780"/>
         <source>No file matches the conditions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Żaden plik nie spełnia tych warunków.</translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="820"/>
         <source>Delete %n file(s)?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Czy usunąć plik %n?</numerusform>
+            <numerusform>Czy usunąć %n pliki?</numerusform>
+            <numerusform>Czy usunąć %n plików?</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="823"/>
         <source>Move %n file(s) to &apos;%1&apos;?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Przenieść plik %n do folderu &quot;%1&quot;?</numerusform>
+            <numerusform>Przenieść %n pliki do folderu &quot;%1&quot;?</numerusform>
+            <numerusform>Przenieść %n plików do folderu &quot;%1&quot;?</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="826"/>
         <source>Copy %n file(s) to &apos;%1&apos;?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Skopiować plik %n do folderu &quot;%1&quot;?</numerusform>
+            <numerusform>Skopiować %n pliki do &quot;%1&quot;?</numerusform>
+            <numerusform>Skopiować %n plików do &quot;%1&quot;?</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="829"/>
         <source>Rename %n file(s)?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Czy chcesz zmienić nazwę pliku %n?</numerusform>
+            <numerusform>Czy chcesz zmienić nazwy %n plików?</numerusform>
+            <numerusform>Czy chcesz zmienić nazwy %n plików?</numerusform>
         </translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="844"/>
         <source>Move to recycle bin</source>
-        <translation type="unfinished"></translation>
+        <translation>Przenieś do kosza</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="846"/>
         <source>Move to &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Przejdź do &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="848"/>
         <source>Copy to &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiuj do &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="851"/>
         <source>Rename to &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmień nazwę na &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="852"/>
         <source>Name kept</source>
-        <translation type="unfinished"></translation>
+        <translation>Zachowano nazwę</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="880"/>
         <source>To process</source>
-        <translation type="unfinished"></translation>
+        <translation>Do przetworzenia</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="881"/>
         <source>In progress</source>
-        <translation type="unfinished"></translation>
+        <translation>W toku</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="882"/>
         <source>Processed</source>
-        <translation type="unfinished"></translation>
+        <translation>Przetworzone</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="883"/>
         <source>Error</source>
-        <translation type="unfinished">Błąd</translation>
+        <translation>Błąd</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="884"/>
         <source>Not processed</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieprzetworzone</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="885"/>
         <source>Simulated</source>
-        <translation type="unfinished"></translation>
+        <translation>Symulowane</translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="903"/>
         <source>Simulation: %n file(s), no file has been modified</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Symulacja: %n plik, żaden plik nie został zmodyfikowany</numerusform>
+            <numerusform>Symulacja: %n pliki, żaden plik nie został zmodyfikowany</numerusform>
+            <numerusform>Symulacja: %n plików, żaden plik nie został zmodyfikowany</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="1007"/>
         <source>%n file(s) processed</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n przetworzony plik</numerusform>
+            <numerusform>%n przetworzone pliki</numerusform>
+            <numerusform>%n przetworzonych plików</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="1007"/>
         <source>, %n error(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>, %n błąd</numerusform>
+            <numerusform>, %n błędy</numerusform>
+            <numerusform>, %n błędów</numerusform>
         </translation>
     </message>
 </context>
@@ -11081,12 +11081,12 @@ Zainstaluj ją poprzez Narzędzia &gt; Wtyczki</translation>
     <message>
         <location filename="DlgRename.cpp" line="105"/>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmień nazwę</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="106"/>
         <source>Close</source>
-        <translation type="unfinished">Zamknij</translation>
+        <translation>Zamknij</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="379"/>
@@ -11101,27 +11101,27 @@ Czy chcesz je usunąć?</translation>
         <location filename="DlgRename.cpp" line="1368"/>
         <location filename="DlgRename.cpp" line="1375"/>
         <source>Save preset</source>
-        <translation type="unfinished">Zapisz ustawienie</translation>
+        <translation>Zapisz ustawienie</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1368"/>
         <source>Preset name:</source>
-        <translation type="unfinished">Nazwa ustawienia:</translation>
+        <translation>Nazwa ustawienia:</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1376"/>
         <source>Preset &apos;%1&apos; already exists. Overwrite?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustawienie &quot;%1&quot; już istnieje. Czy chcesz je zastąpić?</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1399"/>
         <source>Delete preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń ustawienie</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1400"/>
         <source>Delete preset &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Usunąć ustawienie &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1428"/>
@@ -11210,17 +11210,17 @@ Czy chcesz je usunąć?</translation>
     <message>
         <location filename="DlgRename.ui" line="490"/>
         <source>Presets:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustawienia:</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="507"/>
         <source>Save preset</source>
-        <translation type="unfinished">Zapisz ustawienie</translation>
+        <translation>Zapisz ustawienie</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="521"/>
         <source>Remove preset from list</source>
-        <translation type="unfinished">Usuń ustawienia z listy</translation>
+        <translation>Usuń ustawienie z listy</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="110"/>
@@ -11231,7 +11231,7 @@ Czy chcesz je usunąć?</translation>
         <location filename="DlgRename.ui" line="293"/>
         <source>Replace diacritic characters</source>
         <oldsource>Clean diacritic characters</oldsource>
-        <translation type="unfinished">Wyczyść znaki diakrytyczne</translation>
+        <translation>Wyczyść znaki diakrytyczne</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="209"/>
@@ -11262,17 +11262,17 @@ Czy chcesz je usunąć?</translation>
     <message>
         <location filename="DlgRename.ui" line="323"/>
         <source>Add files...</source>
-        <translation type="unfinished">Dodaj pliki...</translation>
+        <translation>Dodaj pliki...</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="337"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="351"/>
         <source>Remove all</source>
-        <translation type="unfinished">Usuń wszystkie</translation>
+        <translation>Usuń wszystkie</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="441"/>
@@ -12305,7 +12305,7 @@ Czy chcesz je usunąć?</translation>
     <message>
         <location filename="DlgSettingsCache.cpp" line="272"/>
         <source>Folder not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie znaleziono folderu</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="356"/>
@@ -12547,7 +12547,7 @@ Czy na pewno usunąć wpisy przypisane do kategorii?</translation>
         <location filename="DlgSettingsCache.ui" line="369"/>
         <source>Thumbnails</source>
         <oldsource>Thumbnail</oldsource>
-        <translation type="unfinished">Miniatura</translation>
+        <translation>Miniatury</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="478"/>
@@ -14323,7 +14323,7 @@ Czy zmienić przypisanie?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="83"/>
         <source>File</source>
-        <translation type="unfinished">Plik</translation>
+        <translation>Plik</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="159"/>
@@ -14333,7 +14333,7 @@ Czy zmienić przypisanie?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="214"/>
         <source>XMP (dc:description and exif:UserComment)</source>
-        <translation type="unfinished"></translation>
+        <translation>XMP (dc: opis oraz exif: komentarz użytkownika)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="230"/>
