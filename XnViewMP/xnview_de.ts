@@ -445,7 +445,7 @@
         <location filename="AddressBar.cpp" line="118"/>
         <location filename="AddressBar.cpp" line="730"/>
         <source>Clear history</source>
-        <translation type="unfinished"></translation>
+        <translation>Verlauf löschen</translation>
     </message>
 </context>
 <context>
@@ -589,22 +589,22 @@ Möchten Sie den Favoriten &quot;%1&quot; löschen?</translation>
         <location filename="AddressBar.cpp" line="638"/>
         <location filename="AddressBar.cpp" line="672"/>
         <source>No subfolders</source>
-        <translation type="unfinished"></translation>
+        <translation>Keine Unterordner</translation>
     </message>
     <message>
         <location filename="AddressBar.cpp" line="722"/>
         <source>Copy path</source>
-        <translation type="unfinished"></translation>
+        <translation>Pfad kopieren</translation>
     </message>
     <message>
         <location filename="AddressBar.cpp" line="725"/>
         <source>Paste path</source>
-        <translation type="unfinished"></translation>
+        <translation>Pfad einfügen</translation>
     </message>
     <message>
         <location filename="AddressBar.cpp" line="727"/>
         <source>Edit path</source>
-        <translation type="unfinished"></translation>
+        <translation>Pfad bearbeiten</translation>
     </message>
 </context>
 <context>
@@ -8675,7 +8675,7 @@ Bitte versuchen Sie, mit Administratorrechten zu starten.</translation>
     <message>
         <location filename="DlgFile.ui" line="56"/>
         <source>Clear history entries</source>
-        <translation>Verlauf löschen</translation>
+        <translation>Verlaufseinträge löschen</translation>
     </message>
     <message>
         <location filename="DlgFile.ui" line="70"/>
@@ -12273,7 +12273,7 @@ Möchten Sie sie entfernen?</translation>
     <message>
         <location filename="DlgSettingsCache.cpp" line="272"/>
         <source>Folder not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordner nicht gefunden</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="356"/>
@@ -22692,7 +22692,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="ViewMenu.h" line="470"/>
         <source>Gamma</source>
-        <translation type="unfinished">Gamma</translation>
+        <translation>Gamma</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="472"/>
@@ -23490,32 +23490,32 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="MyHistogram.cpp" line="275"/>
         <source>Adaptive scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Adaptive Skalierung</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="275"/>
         <source>Vertical scale capped at 4x the mean of the non-empty levels, higher peaks are clipped</source>
-        <translation type="unfinished"></translation>
+        <translation>Die vertikale Skalierung ist auf das Vierfache des Mittelwerts der nicht leeren Ebenen begrenzt; höhere Spitzen werden abgeschnitten.</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="276"/>
         <source>Logarithmic scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Logarithmische Skalierung</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="276"/>
         <source>Small counts stay visible next to high peaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleine Werte bleiben neben hohen Spitzen sichtbar</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="278"/>
         <source>Ignore 0 and 255 for scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>0 und 255 bei der Skalierung ignorieren</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="282"/>
         <source>Adaptive scale: clipped shadows and highlights don&apos;t flatten the rest of the histogram</source>
-        <translation type="unfinished"></translation>
+        <translation>Adaptive Skalierung: Clippende Schatten und Lichter lassen den übrigen Histogrammbereich nicht flach wirken</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="289"/>
@@ -23573,7 +23573,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="MyLittleToolBar.h" line="722"/>
         <source>Toggle slider: thumbnail size / thumbnails per row</source>
-        <translation type="unfinished"></translation>
+        <translation>Schieberegler: Vorschaubildgröße / Vorschaubilder pro Reihe</translation>
     </message>
 </context>
 <context>
@@ -23581,7 +23581,7 @@ Möchten Sie fortfahren?</translation>
     <message>
         <location filename="MyLittleToolBar.h" line="353"/>
         <source>Toggle slider: thumbnail size / thumbnails per row</source>
-        <translation type="unfinished"></translation>
+        <translation>Schieberegler: Vorschaubildgröße / Vorschaubilder pro Reihe</translation>
     </message>
 </context>
 <context>
@@ -24240,27 +24240,27 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="PromoBanner.h" line="56"/>
         <source>XnView Gallery, our photo gallery for Android, is available on Google Play.</source>
-        <translation type="unfinished"></translation>
+        <translation>XnView Gallery, unsere Gallery für Android, ist bei Google Play erhältlich.</translation>
     </message>
     <message>
         <location filename="PromoBanner.h" line="58"/>
         <source>Google Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Google Play</translation>
     </message>
     <message>
         <location filename="PromoBanner.h" line="61"/>
         <source>QR code</source>
-        <translation type="unfinished"></translation>
+        <translation>QR-Code</translation>
     </message>
     <message>
         <location filename="PromoBanner.h" line="67"/>
         <source>Close</source>
-        <translation type="unfinished">Schließen</translation>
+        <translation>Schließen</translation>
     </message>
     <message>
         <location filename="PromoBanner.h" line="125"/>
         <source>Scan this code with your phone to open Google Play.</source>
-        <translation type="unfinished"></translation>
+        <translation>Scannen Sie diesen Code mit Ihrem Smartphone, um Google Play zu öffnen.</translation>
     </message>
 </context>
 <context>
