@@ -1158,7 +1158,7 @@ Vil du slette favoritten &quot;% 1&quot;?</translation>
     <message>
         <location filename="CompareWidget.cpp" line="55"/>
         <source>Clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Klipning</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="577"/>
@@ -2231,7 +2231,7 @@ Vil du slette favoritten &quot;% 1&quot;?</translation>
     <message>
         <location filename="DlgAbout.ui" line="14"/>
         <source>About</source>
-        <translation>OM</translation>
+        <translation>Om</translation>
     </message>
 </context>
 <context>
@@ -2368,7 +2368,7 @@ Vil du slette favoritten &quot;% 1&quot;?</translation>
     <message>
         <location filename="DlgAdobePlugin.ui" line="61"/>
         <source>About...</source>
-        <translation>OM...</translation>
+        <translation>Om...</translation>
     </message>
     <message>
         <location filename="DlgAdobePlugin.ui" line="81"/>
@@ -4371,7 +4371,7 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="DlgConvertAutoDeskew.ui" line="47"/>
         <source>Use anti-aliasing</source>
-        <translation type="unfinished">Brug anti-aliasing</translation>
+        <translation>Brug anti-aliasing</translation>
     </message>
 </context>
 <context>
@@ -6118,7 +6118,7 @@ Vil du fortsætte?</translation>
         <location filename="DlgConvertMulti.ui" line="14"/>
         <location filename="DlgConvertMulti.cpp" line="18"/>
         <source>Multiple output</source>
-        <translation type="unfinished"></translation>
+        <translation>Multiple udgange</translation>
     </message>
     <message>
         <location filename="DlgConvertMulti.cpp" line="45"/>
@@ -7326,7 +7326,7 @@ Vil du fortsætte?</translation>
         <location filename="DlgCulling.cpp" line="805"/>
         <location filename="DlgCulling.cpp" line="832"/>
         <source>Culling</source>
-        <translation type="unfinished"></translation>
+        <translation>Fraklip</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="146"/>
@@ -7380,12 +7380,12 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="DlgCulling.cpp" line="205"/>
         <source>Save current culling</source>
-        <translation type="unfinished"></translation>
+        <translation>Gem det aktuelle fraklip</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="207"/>
         <source>Delete current culling</source>
-        <translation type="unfinished"></translation>
+        <translation>Slet aktuelt fraklip</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="215"/>
@@ -7492,7 +7492,7 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="DlgCulling.cpp" line="472"/>
         <source>Preset culling name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Forudindstillet fraklipnavn:</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="591"/>
@@ -7637,17 +7637,17 @@ Vil du fortsætte?</translation>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="1007"/>
         <source>%n file(s) processed</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n fil behandlet</numerusform>
+            <numerusform>5N filer behandlet</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="1007"/>
         <source>, %n error(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>, %n fejl</numerusform>
+            <numerusform>, %n fejl</numerusform>
         </translation>
     </message>
 </context>
@@ -8747,7 +8747,7 @@ Prøv at starte med administratorrettigheder.</translation>
     <message>
         <location filename="DlgFileListing.ui" line="36"/>
         <source>Columns presets:</source>
-        <translation type="unfinished"></translation>
+        <translation>Forudindstillinger for kolonner:</translation>
     </message>
     <message>
         <location filename="DlgFileListing.ui" line="87"/>
@@ -8762,7 +8762,7 @@ Prøv at starte med administratorrettigheder.</translation>
     <message>
         <location filename="DlgFileListing.ui" line="116"/>
         <source>Separator</source>
-        <translation type="unfinished"></translation>
+        <translation>Separator</translation>
     </message>
     <message>
         <location filename="DlgFileListing.ui" line="179"/>
@@ -9512,7 +9512,7 @@ Undermapper vil blive oprettet. </translation>
     <message>
         <location filename="DlgImport.cpp" line="223"/>
         <source>Open Metadata Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Åbn metadataskabelon</translation>
     </message>
     <message>
         <location filename="DlgImport.cpp" line="240"/>
@@ -12325,12 +12325,12 @@ Vil du fjerne dem?</translation>
     <message>
         <location filename="DlgSettingsCache.cpp" line="167"/>
         <source>Database [catalog: %1 %2 - metadata: %5 %6 - thumbnails: %3 %4]</source>
-        <translation type="unfinished"></translation>
+        <translation>Database [katalog:%1%2 - metadata:%5%6 - thumbnails:%3%4]</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="272"/>
         <source>Folder not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Mappe findes ikke</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="356"/>
@@ -12481,7 +12481,7 @@ Vil du fjerne indtastninger, der er tilknyttet en kategori?</translation>
         <location filename="DlgSettingsCache.ui" line="186"/>
         <location filename="DlgSettingsCache.ui" line="236"/>
         <source>MiB</source>
-        <translation>MB</translation>
+        <translation>MiB</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="213"/>
@@ -12496,7 +12496,7 @@ Vil du fjerne indtastninger, der er tilknyttet en kategori?</translation>
     <message>
         <location filename="DlgSettingsCache.ui" line="282"/>
         <source>Maintenance</source>
-        <translation type="unfinished"></translation>
+        <translation>Vedligeholdelse</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="293"/>
@@ -12507,7 +12507,7 @@ Vil du fjerne indtastninger, der er tilknyttet en kategori?</translation>
     <message>
         <location filename="DlgSettingsCache.ui" line="323"/>
         <source>Filter</source>
-        <translation type="unfinished">Filter</translation>
+        <translation>Filter</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="354"/>
@@ -12566,13 +12566,13 @@ Vil du fjerne indtastninger, der er tilknyttet en kategori?</translation>
     <message>
         <location filename="DlgSettingsCache.ui" line="364"/>
         <source>Metadata</source>
-        <translation type="unfinished">Metadata</translation>
+        <translation>Metadata</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="369"/>
         <source>Thumbnails</source>
         <oldsource>Thumbnail</oldsource>
-        <translation type="unfinished">Miniature</translation>
+        <translation>Miniaturer</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="478"/>
@@ -13154,7 +13154,7 @@ miniature</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="112"/>
         <source>Grey</source>
-        <translation type="unfinished">Grå</translation>
+        <translation>Grå</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="117"/>
@@ -14353,22 +14353,22 @@ Vil du tilknytte igen?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="159"/>
         <source>Update catalog when file is modified outside (file date/size)</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdatér katalog når filen ændres eksternt (fildato/størrelse)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="230"/>
         <source>Update keywords when file is modified outside (file date/size)</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdatér nøgleord når filen ændres eksternt (fildato/størrelse)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="246"/>
         <source>Read Hierarchical keywords</source>
-        <translation type="unfinished"></translation>
+        <translation>Læs hierarkiske nøgleord</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="340"/>
         <source>Write Hierarchical keywords (| as separator)</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv hierarkiske nøgleord (| som separator)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="131"/>
@@ -14414,7 +14414,7 @@ Vil du tilknytte igen?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="684"/>
         <source>Rating labels</source>
-        <translation type="unfinished"></translation>
+        <translation>Bedømmelsesetiketter</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="764"/>
@@ -14471,12 +14471,12 @@ Vil du tilknytte igen?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="83"/>
         <source>File</source>
-        <translation type="unfinished">Fil</translation>
+        <translation>Fil</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="214"/>
         <source>XMP (dc:description and exif:UserComment)</source>
-        <translation type="unfinished"></translation>
+        <translation>XMP (dc:Beskrivelse og exif:Brugerkommentar)</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="224"/>
@@ -14687,22 +14687,22 @@ Vil du tilknytte igen?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="898"/>
         <source>Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="916"/>
         <source>Icon spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikonafstand:</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="948"/>
         <source>When the mouse is over a thumbnail, the colour labels are shown on its top and the rating stars on its bottom: a single click sets them. Replaces the rating/label popup menus.</source>
-        <translation type="unfinished"></translation>
+        <translation>Når musemarkøren er over et miniaturebillede, vises farvemarkørerne øverst og vurderingsstjernerne nederst; et simpelt klik tildeler dem. Dette erstatter pop op-menuerne for anmeldelser og markører.</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="951"/>
         <source>Show fast-rating overlay on thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis hurtigt vurderingsoverlay på miniaturebilleder</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1239"/>
@@ -14850,7 +14850,7 @@ Vil du tilknytte igen?</translation>
         <location filename="DlgSettingsView.ui" line="36"/>
         <source>Viewer</source>
         <oldsource>View</oldsource>
-        <translation type="unfinished">Se</translation>
+        <translation>Visning</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="44"/>
@@ -15049,7 +15049,7 @@ Vil du tilknytte igen?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="782"/>
         <source>Auto-play audio companion files</source>
-        <translation type="unfinished"></translation>
+        <translation>Afspil automatisk ledsagende lydfiler</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="709"/>
@@ -15089,72 +15089,72 @@ Vil du tilknytte igen?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="190"/>
         <source>Clipping warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Klipningsadvarsel</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="215"/>
         <source>Shadows</source>
-        <translation type="unfinished"></translation>
+        <translation>Skygger</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="208"/>
         <source>Highlights</source>
-        <translation type="unfinished"></translation>
+        <translation>Højdepunkter</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="238"/>
         <source>Remember state</source>
-        <translation type="unfinished"></translation>
+        <translation>Gem tilstand</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="258"/>
         <source>Defaults</source>
-        <translation type="unfinished">Standarder</translation>
+        <translation>Standarder</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="176"/>
         <source>Highlight the selection area</source>
-        <translation type="unfinished"></translation>
+        <translation>Markér udvælgelsesområdet</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="291"/>
         <source>Zoom</source>
-        <translation type="unfinished">Zoom</translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="346"/>
         <source>Navigation resets zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigation nulstiller zoom</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="373"/>
         <source>Navigation resets X/Y position (&apos;No fit&apos; only)</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigation nulstiller X/Y-position (kun &apos;Ingen tilpasning&apos;)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="514"/>
         <source>Render</source>
-        <translation type="unfinished"></translation>
+        <translation>Render</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="522"/>
         <source>Pixel aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Pixel-formatforhold</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="762"/>
         <source>Video/Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Video/Audio</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="768"/>
         <source>Auto play</source>
-        <translation type="unfinished"></translation>
+        <translation>Afspil automatisk</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="775"/>
         <source>Loop playing</source>
-        <translation type="unfinished"></translation>
+        <translation>Sløjfe-afspilning</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="944"/>
@@ -16348,57 +16348,57 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="20"/>
         <source>Update database</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdatér database</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="28"/>
         <source>Update from</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdatér fra</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="35"/>
         <source>Sidecar/Master files</source>
-        <translation type="unfinished"></translation>
+        <translation>Sidevogns-/masterfiler</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="42"/>
         <source>Master files only</source>
-        <translation type="unfinished"></translation>
+        <translation>Kun master-filer</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.ui" line="64"/>
         <source>Use modified files only</source>
-        <translation type="unfinished"></translation>
+        <translation>Brug kun modificerede filer</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="20"/>
         <source>Update</source>
-        <translation type="unfinished">Opdatér</translation>
+        <translation>Opdatér</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="21"/>
         <source>Stop</source>
-        <translation type="unfinished">Stop</translation>
+        <translation>Stop</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="51"/>
         <source>%1 file(s) to process</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 fil(er) til behandling</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="125"/>
         <source>Update cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdatering annulleret</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="125"/>
         <source>Update completed</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdatering afsluttet</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="147"/>
         <source>Stopping...</source>
-        <translation type="unfinished"></translation>
+        <translation>Standser...</translation>
     </message>
 </context>
 <context>
@@ -16415,17 +16415,17 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="DlgUpload.cpp" line="71"/>
         <source>Not signed in</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikke logget på</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="73"/>
         <source>Waiting for the authorization in the web browser...</source>
-        <translation type="unfinished"></translation>
+        <translation>Venter på autorisation i webbrowseren...</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="76"/>
         <source>Signed in</source>
-        <translation type="unfinished"></translation>
+        <translation>Logget på</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="78"/>
@@ -16436,12 +16436,12 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="DlgUpload.cpp" line="78"/>
         <source>Sign out</source>
-        <translation type="unfinished"></translation>
+        <translation>Log af</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="78"/>
         <source>Sign in...</source>
-        <translation type="unfinished"></translation>
+        <translation>Log på...</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="196"/>
@@ -16490,17 +16490,17 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="DlgUpload.ui" line="122"/>
         <source>Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Konto</translation>
     </message>
     <message>
         <location filename="DlgUpload.ui" line="128"/>
         <source>Not signed in</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikke logget på</translation>
     </message>
     <message>
         <location filename="DlgUpload.ui" line="138"/>
         <source>Sign in...</source>
-        <translation type="unfinished"></translation>
+        <translation>Log på...</translation>
     </message>
     <message>
         <location filename="DlgUpload.ui" line="165"/>
@@ -17227,12 +17227,12 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="DropboxUploader.cpp" line="66"/>
         <source>The file is too large to be uploaded (150 MB maximum).</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen er for stor til at blive uploadet (maks. 150 MB).</translation>
     </message>
     <message>
         <location filename="DropboxUploader.cpp" line="116"/>
         <source>Unable to create a shared link.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan ikke oprette et delt link.</translation>
     </message>
 </context>
 <context>
@@ -17695,7 +17695,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     <message>
         <location filename="FlickrUploader.cpp" line="43"/>
         <source>The authorization request failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Autorisationsanmodningen mislykkedes.</translation>
     </message>
 </context>
 <context>
@@ -17703,7 +17703,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     <message>
         <location filename="GoogleDriveUploader.cpp" line="109"/>
         <source>Unable to create the upload session.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan ikke oprette uploadsessionen.</translation>
     </message>
 </context>
 <context>
@@ -17752,7 +17752,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="74"/>
         <source>Bits per channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Bits pr. kanal</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="76"/>
@@ -17771,7 +17771,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="78"/>
         <source>Indexed</source>
-        <translation type="unfinished"></translation>
+        <translation>Indekseret</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="80"/>
@@ -17846,7 +17846,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="172"/>
         <source>F-Number</source>
-        <translation type="unfinished">F-nummer</translation>
+        <translation>F-nummer</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="179"/>
@@ -17992,12 +17992,12 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="170"/>
         <source>Exposure Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksponeringstid</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="174"/>
         <source>True ISO</source>
-        <translation type="unfinished"></translation>
+        <translation>True ISO</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="213"/>
@@ -18037,7 +18037,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     <message>
         <location filename="ItemModel.cpp" line="1061"/>
         <source>Bits</source>
-        <translation type="unfinished"></translation>
+        <translation>Bits</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="497"/>
@@ -18306,17 +18306,17 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2837"/>
         <source>Check status</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrollér tilstand</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2843"/>
         <source>Frame index</source>
-        <translation type="unfinished"></translation>
+        <translation>Frame-indeks</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2844"/>
         <source>Frame count</source>
-        <translation type="unfinished"></translation>
+        <translation>Frame optælling</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="30"/>
@@ -18430,7 +18430,7 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
         <location filename="InfoCategoryView.cpp" line="1412"/>
         <location filename="InfoCategoryView.cpp" line="1483"/>
         <source>Are you sure to delete these categories?</source>
-        <translation type="unfinished">Er du sikker på du vil slette disse kategorier?</translation>
+        <translation>Er du sikker på du vil slette disse kategorier?</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="1503"/>
@@ -18519,19 +18519,21 @@ Vil du slette favoritten &apos;% 1&apos;?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="245"/>
         <source>Catalog file</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalogfil</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="251"/>
         <source>Catalog - Clear &amp; Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalog - Ryd og Importér</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="251"/>
         <source>Importing will replace all existing Catalog data.
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Import vil erstatte alle eksisterende katalogdata.
+
+Vil du fortsætte?</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="622"/>
@@ -18753,7 +18755,7 @@ Do you want to continue?</source>
     <message>
         <location filename="TemplateData.cpp" line="2709"/>
         <source>Subject Distance Range</source>
-        <translation type="unfinished"></translation>
+        <translation>Emneafstandsområde</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2752"/>
@@ -18914,7 +18916,7 @@ Do you want to continue?</source>
         <location filename="TemplateData.cpp" line="2697"/>
         <source>Exposure Bias</source>
         <translatorcomment>Berkley Integrated Audio Software (integreret lyd program)</translatorcomment>
-        <translation>Eksponerings BIAS</translation>
+        <translation>Eksponerings Bias</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2698"/>
@@ -19435,7 +19437,7 @@ Do you want to continue?</source>
         <location filename="SearchField.cpp" line="67"/>
         <location filename="TemplateData.cpp" line="2793"/>
         <source>Fixture ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Fixture ID</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="65"/>
@@ -19453,7 +19455,7 @@ Do you want to continue?</source>
         <location filename="TemplateData.cpp" line="2807"/>
         <source>Original transmission reference</source>
         <oldsource>Original tr. ref.</oldsource>
-        <translation type="unfinished">Oprindelig tr. reference.</translation>
+        <translation>Oprindelig transmissionsreference</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="67"/>
@@ -20036,7 +20038,7 @@ Do you want to continue?</source>
     <message>
         <location filename="ItemModel.cpp" line="5156"/>
         <source>New Folder %1</source>
-        <translation>NY mappe %1</translation>
+        <translation>Ny mappe %1</translation>
     </message>
 </context>
 <context>
@@ -20389,7 +20391,7 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="MediaPlayer.cpp" line="367"/>
         <source>Save frame as...</source>
-        <translation type="unfinished">Gem ramme som ...</translation>
+        <translation>Gem ramme som ...</translation>
     </message>
     <message>
         <location filename="MediaPlayer.cpp" line="370"/>
@@ -20655,7 +20657,7 @@ Vil du fortsætte?</translation>
         <location filename="BrowserMenu.h" line="66"/>
         <source>Name - natural (numeric) order</source>
         <oldsource>Name - natural order</oldsource>
-        <translation type="unfinished">Navn - numerisk rækkefølge</translation>
+        <translation>Navn - naturlig (numerisk) rækkefølge</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="68"/>
@@ -20784,12 +20786,12 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="BrowserMenu.h" line="668"/>
         <source>Show clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis klipning</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="669"/>
         <source>Channel clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanal-klipning</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="677"/>
@@ -21501,12 +21503,12 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="BrowserMenu.h" line="545"/>
         <source>Update catalog from files</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdatér katalog fra filer</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="546"/>
         <source>Update catalog from files (+options)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdatér katalog fra filer (+options)...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="548"/>
@@ -21521,7 +21523,7 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="BrowserMenu.h" line="551"/>
         <source>Play/Stop audio companion</source>
-        <translation type="unfinished"></translation>
+        <translation>Afspil/Stop lydledsager</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="553"/>
@@ -21587,22 +21589,22 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="BrowserMenu.h" line="589"/>
         <source>Load...</source>
-        <translation type="unfinished">Indlæs...</translation>
+        <translation>Indlæs...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="590"/>
         <source>Save...</source>
-        <translation type="unfinished">Gem...</translation>
+        <translation>Gem...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="591"/>
         <source>Unload all</source>
-        <translation type="unfinished"></translation>
+        <translation>Aflæs alle</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="593"/>
         <source>Session</source>
-        <translation type="unfinished">Session</translation>
+        <translation>Session</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="594"/>
@@ -21736,7 +21738,7 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="BrowserMenu.h" line="631"/>
         <source>Import...</source>
-        <translation type="unfinished">Importer...</translation>
+        <translation>Importér...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="639"/>
@@ -22501,12 +22503,12 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="ViewMenu.h" line="457"/>
         <source>Grid</source>
-        <translation type="unfinished">Gitter</translation>
+        <translation>Gitter</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="460"/>
         <source>Play/Pause media</source>
-        <translation type="unfinished"></translation>
+        <translation>Play/Pause medie</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="518"/>
@@ -22781,7 +22783,7 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="ViewMenu.h" line="432"/>
         <source>Center image</source>
-        <translation type="unfinished"></translation>
+        <translation>Centrér billede</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="467"/>
@@ -22802,12 +22804,12 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="ViewMenu.h" line="470"/>
         <source>Gamma</source>
-        <translation type="unfinished">Gamma</translation>
+        <translation>Gamma</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="472"/>
         <source>Show clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis klipning</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="487"/>
@@ -23261,32 +23263,32 @@ Vil du fortsætte?</translation>
         <location filename="MyView.cpp" line="108"/>
         <location filename="ViewMenu.h" line="473"/>
         <source>Shadows</source>
-        <translation type="unfinished"></translation>
+        <translation>Skygger</translation>
     </message>
     <message>
         <location filename="MyView.cpp" line="93"/>
         <location filename="MyView.cpp" line="111"/>
         <location filename="ViewMenu.h" line="474"/>
         <source>Highlights</source>
-        <translation type="unfinished"></translation>
+        <translation>Højdepunkter</translation>
     </message>
     <message>
         <location filename="MyView.cpp" line="95"/>
         <location filename="ViewMenu.h" line="476"/>
         <source>Highlights (per channel)</source>
-        <translation type="unfinished"></translation>
+        <translation>Højdepunkter (pr. kanal)</translation>
     </message>
     <message>
         <location filename="MyView.cpp" line="97"/>
         <location filename="ViewMenu.h" line="475"/>
         <source>Shadows + Highlights</source>
-        <translation type="unfinished"></translation>
+        <translation>Skygger + Højdepunkter</translation>
     </message>
     <message>
         <location filename="MyView.cpp" line="106"/>
         <location filename="ViewMenu.h" line="477"/>
         <source>Clipping warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Klipningsadvarsel</translation>
     </message>
 </context>
 <context>
@@ -23604,62 +23606,62 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="MyHistogram.cpp" line="275"/>
         <source>Adaptive scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Adaptiv skala</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="275"/>
         <source>Vertical scale capped at 4x the mean of the non-empty levels, higher peaks are clipped</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertikal skala begrænset til 4 gange gennemsnittet af de ikke-tomme niveauer, højere toppe klippes ud</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="276"/>
         <source>Logarithmic scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Logaritmisk skala</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="276"/>
         <source>Small counts stay visible next to high peaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Små tællinger forbliver synlige ved siden af høje toppe</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="278"/>
         <source>Ignore 0 and 255 for scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorér 0 og 255 for skalering</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="282"/>
         <source>Adaptive scale: clipped shadows and highlights don&apos;t flatten the rest of the histogram</source>
-        <translation type="unfinished"></translation>
+        <translation>Adaptiv skala: afklippede skygger og højlys gør ikke resten af histogrammet fladere</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="289"/>
         <source>Show clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis klipning</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="298"/>
         <source>Clipping mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Klipningstilstand</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="316"/>
         <source>Shadows</source>
-        <translation type="unfinished"></translation>
+        <translation>Skygger</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="317"/>
         <source>Highlights</source>
-        <translation type="unfinished"></translation>
+        <translation>Højdepunkter</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="318"/>
         <source>Shadows + Highlights</source>
-        <translation type="unfinished"></translation>
+        <translation>Skygger + Højdepunkter</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="319"/>
         <source>Highlights (per channel)</source>
-        <translation type="unfinished"></translation>
+        <translation>Højdepunkter (pr. kanal)</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="325"/>
@@ -23687,7 +23689,7 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="MyLittleToolBar.h" line="722"/>
         <source>Toggle slider: thumbnail size / thumbnails per row</source>
-        <translation type="unfinished"></translation>
+        <translation>Skift skyder: miniaturestørrelse / miniaturebilleder pr. række</translation>
     </message>
 </context>
 <context>
@@ -23695,7 +23697,7 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="MyLittleToolBar.h" line="353"/>
         <source>Toggle slider: thumbnail size / thumbnails per row</source>
-        <translation type="unfinished"></translation>
+        <translation>Skift skyder: miniaturestørrelse / miniaturebilleder pr. række</translation>
     </message>
 </context>
 <context>
@@ -23754,7 +23756,7 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="MyTemplateComboEdit.h" line="180"/>
         <source>Do you want to delete all your name templates?</source>
-        <translation type="unfinished">Vil du slette navne på alle dine skabeloner?</translation>
+        <translation>Vil du slette alle dine navneskabeloner?</translation>
     </message>
     <message>
         <location filename="MyTemplateComboEdit.h" line="254"/>
@@ -23776,7 +23778,7 @@ Du kan ændre det i Indstillinger &gt; Katalog.</translation>
     <message>
         <location filename="MyThumbView.cpp" line="780"/>
         <source>Updating catalog, please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdaterer katalog, vent...</translation>
     </message>
     <message>
         <location filename="MyThumbView.cpp" line="798"/>
@@ -23818,7 +23820,7 @@ Du kan ændre det i Indstillinger &gt; Katalog.</translation>
     <message>
         <location filename="MyThumbView.cpp" line="1743"/>
         <source>Customize columns...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilpas kolonner....</translation>
     </message>
 </context>
 <context>
@@ -23850,12 +23852,12 @@ Du kan ændre det i Indstillinger &gt; Katalog.</translation>
     <message>
         <location filename="WebUploader.cpp" line="439"/>
         <source>The authorization request failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Autorisationsanmodningen mislykkedes.</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="554"/>
         <source>This service is not configured in this build (missing client identifier).</source>
-        <translation type="unfinished"></translation>
+        <translation>Denne tjeneste er ikke konfigureret i dette build (mangler klient-id).</translation>
     </message>
 </context>
 <context>
@@ -24194,7 +24196,7 @@ Du kan ændre det i Indstillinger &gt; Katalog.</translation>
     <message>
         <location filename="PaintWidget.ui" line="1481"/>
         <source>Hardness</source>
-        <translation type="unfinished"></translation>
+        <translation>Hårdhed</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1560"/>
@@ -24324,22 +24326,22 @@ Du kan ændre det i Indstillinger &gt; Katalog.</translation>
     <message>
         <location filename="PiwigoUploader.cpp" line="28"/>
         <source>Album</source>
-        <translation type="unfinished">Album</translation>
+        <translation>Album</translation>
     </message>
     <message>
         <location filename="PiwigoUploader.cpp" line="90"/>
         <source>The Piwigo server returned an error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Piwigo-serveren returnerede en fejl.</translation>
     </message>
     <message>
         <location filename="PiwigoUploader.cpp" line="101"/>
         <source>The Piwigo gallery is not configured.</source>
-        <translation type="unfinished"></translation>
+        <translation>Piwigo-galleriet er ikke konfigureret.</translation>
     </message>
     <message>
         <location filename="PiwigoUploader.cpp" line="120"/>
         <source>Piwigo login failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Piwigo-login mislykkedes: %1</translation>
     </message>
 </context>
 <context>
@@ -24355,27 +24357,27 @@ Du kan ændre det i Indstillinger &gt; Katalog.</translation>
     <message>
         <location filename="PromoBanner.h" line="56"/>
         <source>XnView Gallery, our photo gallery for Android, is available on Google Play.</source>
-        <translation type="unfinished"></translation>
+        <translation>XnView Gallery, vores fotogalleri til Android, er tilgængeligt på Google Play.</translation>
     </message>
     <message>
         <location filename="PromoBanner.h" line="58"/>
         <source>Google Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Google Play</translation>
     </message>
     <message>
         <location filename="PromoBanner.h" line="61"/>
         <source>QR code</source>
-        <translation type="unfinished"></translation>
+        <translation>QR kode</translation>
     </message>
     <message>
         <location filename="PromoBanner.h" line="67"/>
         <source>Close</source>
-        <translation type="unfinished">Luk</translation>
+        <translation>Luk</translation>
     </message>
     <message>
         <location filename="PromoBanner.h" line="125"/>
         <source>Scan this code with your phone to open Google Play.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skan denne kode med din telefon for at åbne Google Play.</translation>
     </message>
 </context>
 <context>
@@ -25423,7 +25425,7 @@ Du kan ændre det i Indstillinger &gt; Katalog.</translation>
     <message>
         <location filename="ViewWatermarkAction.cpp" line="255"/>
         <source>Angle</source>
-        <translation type="unfinished">Vinkel</translation>
+        <translation>Vinkel</translation>
     </message>
     <message>
         <location filename="ViewWatermarkAction.cpp" line="264"/>
@@ -25454,7 +25456,7 @@ Du kan ændre det i Indstillinger &gt; Katalog.</translation>
     <message>
         <location filename="WebDavUploader.cpp" line="78"/>
         <source>The WebDAV folder is not configured.</source>
-        <translation type="unfinished"></translation>
+        <translation>WebDAV-mappen er ikke konfigureret.</translation>
     </message>
 </context>
 <context>
@@ -25470,37 +25472,37 @@ Du kan ændre det i Indstillinger &gt; Katalog.</translation>
     <message>
         <location filename="WebUploader.cpp" line="163"/>
         <source>Unable to open %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan ikke åbne%1</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="200"/>
         <source>Authorization received, you can close this window and return to XnView.</source>
-        <translation type="unfinished"></translation>
+        <translation>Autorisation modtaget , du kan lukke dette vindue og vende tilbage til XnView.</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="204"/>
         <source>Unable to listen on local port %1 for the authorization callback.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan ikke lytte på den lokale port %1 efter autorisationskaldet.</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="226"/>
         <source>HTTP error %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>HTTP- fejl%1:%2</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="321"/>
         <source>URL</source>
-        <translation type="unfinished">URL</translation>
+        <translation>URL</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="322"/>
         <source>Username</source>
-        <translation type="unfinished">Brugernavn</translation>
+        <translation>Brugernavn</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="323"/>
         <source>Password</source>
-        <translation type="unfinished">Adgangskode</translation>
+        <translation>Adgangskode</translation>
     </message>
 </context>
 <context>
@@ -25620,19 +25622,21 @@ Vil du beholde miniaturerne?
     <message>
         <location filename="xnview.cpp" line="2649"/>
         <source>Tabs</source>
-        <translation type="unfinished">Faner</translation>
+        <translation>Faner</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="2649"/>
         <source>The tab bar is hidden, but tabs will still open. Set a tab limit in Settings&gt;Interface&gt;Tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>Fanebladslinjen er skjult, men faner vil stadig åbne. Indstil en tabulatorgrænse i Indstillinger&gt;Grænseflade&gt;Faner</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="3164"/>
         <source>Catalog is disabled
 Metadata (check, ratings/colour labels and other file details)
 will not be saved to the database.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kataloget er deaktiveret
+Metadata (tjek, vurderinger/farvemærker og andre filoplysninger)
+vil ikke blive gemt i databasen.</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="983"/>
