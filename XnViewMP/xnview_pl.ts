@@ -7322,7 +7322,7 @@ Czy na pewno kontynuować?</translation>
         <location filename="DlgCulling.cpp" line="147"/>
         <location filename="DlgCulling.cpp" line="412"/>
         <source>Input</source>
-        <translation type="unfinished"></translation>
+        <translation>Wejście</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="148"/>
@@ -7339,7 +7339,7 @@ Czy na pewno kontynuować?</translation>
     <message>
         <location filename="DlgCulling.cpp" line="154"/>
         <source>List the files matching the conditions in the input tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista plików spełniających warunki określone w karcie wejściowej</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="156"/>
@@ -7349,7 +7349,7 @@ Czy na pewno kontynuować?</translation>
     <message>
         <location filename="DlgCulling.cpp" line="157"/>
         <source>Run the action on the files of the input tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Uruchom akcję na plikach z karty wejściowej</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="158"/>
@@ -7374,93 +7374,93 @@ Czy na pewno kontynuować?</translation>
     <message>
         <location filename="DlgCulling.cpp" line="215"/>
         <source>Add &gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj &gt;&gt;</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="216"/>
         <source>Clear all</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyczyść wszystkie</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="220"/>
         <source>Match:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dopasowanie:</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="221"/>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystko</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="222"/>
         <source>Any</source>
-        <translation type="unfinished">Cokolwiek</translation>
+        <translation>Cokolwiek</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="234"/>
         <source>Search in</source>
-        <translation type="unfinished">Szukaj w</translation>
+        <translation>Szukaj w</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="236"/>
         <source>Selected files</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaznaczone pliki</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="237"/>
         <source>All files of the folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie pliki w folderze</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="238"/>
         <source>Recursive</source>
-        <translation type="unfinished">Z podfolderami</translation>
+        <translation>Z podfolderami</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="239"/>
         <source>Include the files of the subfolders</source>
-        <translation type="unfinished"></translation>
+        <translation>Uwzględniaj pliki z podfolderów</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="281"/>
         <source>Action on the files of the input list</source>
-        <translation type="unfinished"></translation>
+        <translation>Operacje na plikach z listy wejściowej</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="284"/>
         <location filename="DlgCulling.cpp" line="844"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="285"/>
         <source>Move to</source>
-        <translation type="unfinished">Przenieś do</translation>
+        <translation>Przenieś do</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="286"/>
         <source>Copy to</source>
-        <translation type="unfinished">Kopiuj do</translation>
+        <translation>Kopiuj do</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="287"/>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmień nazwę</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="295"/>
         <source>Filename template, the extension is kept</source>
-        <translation type="unfinished"></translation>
+        <translation>Szablon nazwy pliku, rozszerzenie pozostaje bez zmian</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="313"/>
         <source>File</source>
-        <translation type="unfinished">Plik</translation>
+        <translation>Plik</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="344"/>
         <source>Selected files (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaznaczone pliki (%1)</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="345"/>
@@ -7511,7 +7511,7 @@ Czy na pewno kontynuować?</translation>
     <message>
         <location filename="DlgCulling.cpp" line="705"/>
         <source>The input list is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista wejściowa jest pusta.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="728"/>
@@ -14686,17 +14686,17 @@ Czy zmienić przypisanie?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="916"/>
         <source>Icon spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstępy między ikonami:</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="948"/>
         <source>When the mouse is over a thumbnail, the colour labels are shown on its top and the rating stars on its bottom: a single click sets them. Replaces the rating/label popup menus.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gdy kursor myszy jest nad miniaturką, u góry wyświetlane są kolorowe etykiety, a u dołu gwiazdki oceny: wystarczy jedno kliknięcie, aby je ustawić. Zastępuje to menu podręczne z ocenami i etykietami.</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="951"/>
         <source>Show fast-rating overlay on thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokazuj nakładkę do szybkiej oceny na miniaturach</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1126"/>
@@ -14815,7 +14815,7 @@ Czy zmienić przypisanie?</translation>
         <location filename="DlgSettingsView.ui" line="36"/>
         <source>Viewer</source>
         <oldsource>View</oldsource>
-        <translation type="unfinished">Widok</translation>
+        <translation>Wyświetlarka</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="44"/>
@@ -15043,72 +15043,72 @@ Czy zmienić przypisanie?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="190"/>
         <source>Clipping warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostrzeżenie o przycięciu</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="215"/>
         <source>Shadows</source>
-        <translation type="unfinished">Cienie</translation>
+        <translation>Cienie</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="208"/>
         <source>Highlights</source>
-        <translation type="unfinished">Rozjaśnienia</translation>
+        <translation>Rozjaśnienia</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="238"/>
         <source>Remember state</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapamiętaj stan</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="258"/>
         <source>Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>Domyślne</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="176"/>
         <source>Highlight the selection area</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozjaśnij zaznaczony obszar</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="291"/>
         <source>Zoom</source>
-        <translation type="unfinished">Powiększenie</translation>
+        <translation>Powiększenie</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="346"/>
         <source>Navigation resets zoom</source>
-        <translation type="unfinished"></translation>
+        <translation>Nawigacja resetuje powiększenie</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="373"/>
         <source>Navigation resets X/Y position (&apos;No fit&apos; only)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nawigacja resetuje pozycję X/Y (tylko w trybie bez dopasowania)</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="514"/>
         <source>Render</source>
-        <translation type="unfinished"></translation>
+        <translation>Renderowanie</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="522"/>
         <source>Pixel aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>Proporcje pikseli</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="762"/>
         <source>Video/Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Wideo/Audio</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="768"/>
         <source>Auto play</source>
-        <translation type="unfinished"></translation>
+        <translation>Autoodtwarzanie</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="775"/>
         <source>Loop playing</source>
-        <translation type="unfinished"></translation>
+        <translation>Odtwarzanie w pętli</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="944"/>
@@ -16374,17 +16374,17 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="DlgUpload.cpp" line="71"/>
         <source>Not signed in</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie jesteś zalogowany</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="73"/>
         <source>Waiting for the authorization in the web browser...</source>
-        <translation type="unfinished"></translation>
+        <translation>Oczekiwanie na autoryzację w przeglądarce internetowej...</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="76"/>
         <source>Signed in</source>
-        <translation type="unfinished"></translation>
+        <translation>Zalogowany</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="78"/>
@@ -16395,12 +16395,12 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="DlgUpload.cpp" line="78"/>
         <source>Sign out</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyloguj się</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="78"/>
         <source>Sign in...</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaloguj się...</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="196"/>
@@ -16449,17 +16449,17 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="DlgUpload.ui" line="122"/>
         <source>Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Konto</translation>
     </message>
     <message>
         <location filename="DlgUpload.ui" line="128"/>
         <source>Not signed in</source>
-        <translation type="unfinished"></translation>
+        <translation>Niezalogowany</translation>
     </message>
     <message>
         <location filename="DlgUpload.ui" line="138"/>
         <source>Sign in...</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaloguj się...</translation>
     </message>
     <message>
         <location filename="DlgUpload.ui" line="165"/>
@@ -17183,12 +17183,12 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="DropboxUploader.cpp" line="66"/>
         <source>The file is too large to be uploaded (150 MB maximum).</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik jest zbyt duży, aby go przesłać (maksymalnie 150 MB).</translation>
     </message>
     <message>
         <location filename="DropboxUploader.cpp" line="116"/>
         <source>Unable to create a shared link.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można utworzyć odnośnika do udostępnienia.</translation>
     </message>
 </context>
 <context>
@@ -17650,7 +17650,7 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     <message>
         <location filename="FlickrUploader.cpp" line="43"/>
         <source>The authorization request failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wystąpił błąd podczas autoryzacji.</translation>
     </message>
 </context>
 <context>
@@ -17658,7 +17658,7 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     <message>
         <location filename="GoogleDriveUploader.cpp" line="109"/>
         <source>Unable to create the upload session.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie udało się utworzyć sesji wysyłania.</translation>
     </message>
 </context>
 <context>
@@ -18263,12 +18263,12 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     <message>
         <location filename="TemplateData.cpp" line="2843"/>
         <source>Frame index</source>
-        <translation type="unfinished"></translation>
+        <translation>Indeks klatki</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2844"/>
         <source>Frame count</source>
-        <translation type="unfinished"></translation>
+        <translation>Liczba klatek</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="30"/>
@@ -18381,7 +18381,7 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
         <location filename="InfoCategoryView.cpp" line="1412"/>
         <location filename="InfoCategoryView.cpp" line="1483"/>
         <source>Are you sure to delete these categories?</source>
-        <translation type="unfinished">Czy na pewno usunąć te kategorie?</translation>
+        <translation>Czy na pewno usunąć te kategorie?</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="1503"/>
@@ -18470,19 +18470,21 @@ Czy chcesz usunąć ją z ulubionych &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="245"/>
         <source>Catalog file</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik katalogu</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="251"/>
         <source>Catalog - Clear &amp; Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalog - Czyszczenie i import</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="251"/>
         <source>Importing will replace all existing Catalog data.
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Import spowoduje zastąpienie wszystkich dotychczasowych danych katalogu.
+
+Czy chcesz kontynuować?</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="622"/>
@@ -20588,7 +20590,7 @@ Czy chcesz kontynuować?</translation>
         <location filename="BrowserMenu.h" line="66"/>
         <source>Name - natural (numeric) order</source>
         <oldsource>Name - natural order</oldsource>
-        <translation type="unfinished">Nazwa - kolejność numeryczna</translation>
+        <translation>Nazwa - naturalnie (np. 2 przed 10)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="68"/>
@@ -22427,7 +22429,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="ViewMenu.h" line="457"/>
         <source>Grid</source>
-        <translation type="unfinished">Siatka</translation>
+        <translation>Siatka</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="460"/>
@@ -22704,7 +22706,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="ViewMenu.h" line="432"/>
         <source>Center image</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyśrodkuj obraz</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="467"/>
@@ -22725,7 +22727,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="ViewMenu.h" line="470"/>
         <source>Gamma</source>
-        <translation type="unfinished">Gamma</translation>
+        <translation>Gamma</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="472"/>
@@ -23180,32 +23182,32 @@ Czy chcesz kontynuować?</translation>
         <location filename="MyView.cpp" line="108"/>
         <location filename="ViewMenu.h" line="473"/>
         <source>Shadows</source>
-        <translation type="unfinished">Cienie</translation>
+        <translation>Cienie</translation>
     </message>
     <message>
         <location filename="MyView.cpp" line="93"/>
         <location filename="MyView.cpp" line="111"/>
         <location filename="ViewMenu.h" line="474"/>
         <source>Highlights</source>
-        <translation type="unfinished">Rozjaśnienia</translation>
+        <translation>Rozjaśnienia</translation>
     </message>
     <message>
         <location filename="MyView.cpp" line="95"/>
         <location filename="ViewMenu.h" line="476"/>
         <source>Highlights (per channel)</source>
-        <translation type="unfinished">Rozjaśnienia (na kanał)</translation>
+        <translation>Rozjaśnienia (na kanał)</translation>
     </message>
     <message>
         <location filename="MyView.cpp" line="97"/>
         <location filename="ViewMenu.h" line="475"/>
         <source>Shadows + Highlights</source>
-        <translation type="unfinished">Cienie i rozjaśnienia</translation>
+        <translation>Cienie i rozjaśnienia</translation>
     </message>
     <message>
         <location filename="MyView.cpp" line="106"/>
         <location filename="ViewMenu.h" line="477"/>
         <source>Clipping warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostrzeżenie o przycięciu</translation>
     </message>
 </context>
 <context>
@@ -23523,32 +23525,32 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="MyHistogram.cpp" line="275"/>
         <source>Adaptive scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Skala adaptacyjna</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="275"/>
         <source>Vertical scale capped at 4x the mean of the non-empty levels, higher peaks are clipped</source>
-        <translation type="unfinished"></translation>
+        <translation>Skala pionowa jest ograniczona do czterokrotności średniej wartości niepustych poziomów; wartości wyższe są obcinane</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="276"/>
         <source>Logarithmic scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Skala logarytmiczna</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="276"/>
         <source>Small counts stay visible next to high peaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Niewielkie wartości pozostają widoczne obok wysokich</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="278"/>
         <source>Ignore 0 and 255 for scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomiń 0 oraz 255 przy skalowaniu</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="282"/>
         <source>Adaptive scale: clipped shadows and highlights don&apos;t flatten the rest of the histogram</source>
-        <translation type="unfinished"></translation>
+        <translation>Skala adaptacyjna: przycięte cienie i rozjaśnienia nie powodują spłaszczenia pozostałej części histogramu</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="289"/>
@@ -23606,7 +23608,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="MyLittleToolBar.h" line="722"/>
         <source>Toggle slider: thumbnail size / thumbnails per row</source>
-        <translation type="unfinished"></translation>
+        <translation>Suwak: rozmiar miniatur / liczba miniatur w rzędzie</translation>
     </message>
 </context>
 <context>
@@ -23614,7 +23616,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="MyLittleToolBar.h" line="353"/>
         <source>Toggle slider: thumbnail size / thumbnails per row</source>
-        <translation type="unfinished"></translation>
+        <translation>Suwak: rozmiar miniatur / liczba miniatur w rzędzie</translation>
     </message>
 </context>
 <context>
@@ -23673,7 +23675,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="MyTemplateComboEdit.h" line="180"/>
         <source>Do you want to delete all your name templates?</source>
-        <translation type="unfinished">Czy na pewno usunąć wszystkie szablony nazw?</translation>
+        <translation>Czy na pewno usunąć wszystkie szablony nazw?</translation>
     </message>
     <message>
         <location filename="MyTemplateComboEdit.h" line="254"/>
@@ -23771,12 +23773,12 @@ Można go zmienić w Ustawienia&gt;Katalog</translation>
     <message>
         <location filename="WebUploader.cpp" line="439"/>
         <source>The authorization request failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wystąpił błąd podczas autoryzacji.</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="554"/>
         <source>This service is not configured in this build (missing client identifier).</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta usługa nie jest skonfigurowana w tej kompilacji (brak identyfikatora klienta).</translation>
     </message>
 </context>
 <context>
@@ -24120,7 +24122,7 @@ Można go zmienić w Ustawienia&gt;Katalog</translation>
     <message>
         <location filename="PaintWidget.ui" line="1481"/>
         <source>Hardness</source>
-        <translation type="unfinished"></translation>
+        <translation>Twardość</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1560"/>
@@ -24245,22 +24247,22 @@ Można go zmienić w Ustawienia&gt;Katalog</translation>
     <message>
         <location filename="PiwigoUploader.cpp" line="28"/>
         <source>Album</source>
-        <translation type="unfinished">Album</translation>
+        <translation>Album</translation>
     </message>
     <message>
         <location filename="PiwigoUploader.cpp" line="90"/>
         <source>The Piwigo server returned an error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Serwer Piwigo zwrócił błąd.</translation>
     </message>
     <message>
         <location filename="PiwigoUploader.cpp" line="101"/>
         <source>The Piwigo gallery is not configured.</source>
-        <translation type="unfinished"></translation>
+        <translation>Galeria Piwigo nie została skonfigurowana.</translation>
     </message>
     <message>
         <location filename="PiwigoUploader.cpp" line="120"/>
         <source>Piwigo login failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie udało się zalogować do serwisu Piwigo: %1</translation>
     </message>
 </context>
 <context>
@@ -24276,27 +24278,27 @@ Można go zmienić w Ustawienia&gt;Katalog</translation>
     <message>
         <location filename="PromoBanner.h" line="56"/>
         <source>XnView Gallery, our photo gallery for Android, is available on Google Play.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplikacja XnView Gallery, nasza galeria zdjęć na Androida, jest dostępna w sklepie Google Play.</translation>
     </message>
     <message>
         <location filename="PromoBanner.h" line="58"/>
         <source>Google Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Google Play</translation>
     </message>
     <message>
         <location filename="PromoBanner.h" line="61"/>
         <source>QR code</source>
-        <translation type="unfinished"></translation>
+        <translation>Kod QR</translation>
     </message>
     <message>
         <location filename="PromoBanner.h" line="67"/>
         <source>Close</source>
-        <translation type="unfinished">Zamknij</translation>
+        <translation>Zamknij</translation>
     </message>
     <message>
         <location filename="PromoBanner.h" line="125"/>
         <source>Scan this code with your phone to open Google Play.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeskanuj ten kod telefonem, aby otworzyć Google Play.</translation>
     </message>
 </context>
 <context>
@@ -25341,7 +25343,7 @@ Można go zmienić w Ustawienia&gt;Katalog</translation>
     <message>
         <location filename="ViewWatermarkAction.cpp" line="255"/>
         <source>Angle</source>
-        <translation type="unfinished">Kąt</translation>
+        <translation>Kąt</translation>
     </message>
     <message>
         <location filename="ViewWatermarkAction.cpp" line="264"/>
@@ -25372,7 +25374,7 @@ Można go zmienić w Ustawienia&gt;Katalog</translation>
     <message>
         <location filename="WebDavUploader.cpp" line="78"/>
         <source>The WebDAV folder is not configured.</source>
-        <translation type="unfinished"></translation>
+        <translation>Folder WebDAV nie został skonfigurowany.</translation>
     </message>
 </context>
 <context>
@@ -25388,37 +25390,37 @@ Można go zmienić w Ustawienia&gt;Katalog</translation>
     <message>
         <location filename="WebUploader.cpp" line="163"/>
         <source>Unable to open %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można otworzyć %1</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="200"/>
         <source>Authorization received, you can close this window and return to XnView.</source>
-        <translation type="unfinished"></translation>
+        <translation>Otrzymano autoryzację. Możesz zamknąć to okno i powrócić do programu XnView.</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="204"/>
         <source>Unable to listen on local port %1 for the authorization callback.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można nasłuchiwać na lokalnym porcie %1 w oczekiwaniu na wywołanie zwrotne związane z autoryzacją.</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="226"/>
         <source>HTTP error %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd HTTP %1: %2</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="321"/>
         <source>URL</source>
-        <translation type="unfinished">Adres URL</translation>
+        <translation>Adres URL</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="322"/>
         <source>Username</source>
-        <translation type="unfinished">Nazwa użytkownika</translation>
+        <translation>Nazwa użytkownika</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="323"/>
         <source>Password</source>
-        <translation type="unfinished">Hasło</translation>
+        <translation>Hasło</translation>
     </message>
 </context>
 <context>
