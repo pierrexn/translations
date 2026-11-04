@@ -450,7 +450,7 @@
         <location filename="AddressBar.cpp" line="118"/>
         <location filename="AddressBar.cpp" line="730"/>
         <source>Clear history</source>
-        <translation type="unfinished"></translation>
+        <translation>Apagar histórico</translation>
     </message>
 </context>
 <context>
@@ -595,22 +595,22 @@ Deseja apagar o favorito &quot;%1&quot;?</translation>
         <location filename="AddressBar.cpp" line="638"/>
         <location filename="AddressBar.cpp" line="672"/>
         <source>No subfolders</source>
-        <translation type="unfinished"></translation>
+        <translation>Sem subpastas</translation>
     </message>
     <message>
         <location filename="AddressBar.cpp" line="722"/>
         <source>Copy path</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar caminho</translation>
     </message>
     <message>
         <location filename="AddressBar.cpp" line="725"/>
         <source>Paste path</source>
-        <translation type="unfinished"></translation>
+        <translation>Colar caminho</translation>
     </message>
     <message>
         <location filename="AddressBar.cpp" line="727"/>
         <source>Edit path</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar caminho</translation>
     </message>
 </context>
 <context>
@@ -12320,7 +12320,7 @@ Prefere retirá-los?</translation>
     <message>
         <location filename="DlgSettingsCache.cpp" line="272"/>
         <source>Folder not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasta não encontrada</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="356"/>
@@ -22990,7 +22990,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="ViewMenu.h" line="470"/>
         <source>Gamma</source>
-        <translation type="unfinished">Gama</translation>
+        <translation>Gama</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="472"/>
@@ -23568,32 +23568,32 @@ Deseja continuar?</translation>
     <message>
         <location filename="MyHistogram.cpp" line="275"/>
         <source>Adaptive scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Escala adaptativa</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="275"/>
         <source>Vertical scale capped at 4x the mean of the non-empty levels, higher peaks are clipped</source>
-        <translation type="unfinished"></translation>
+        <translation>Escala vertical limitada a 4x a média dos níveis preenchidos, picos mais altos cortados</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="276"/>
         <source>Logarithmic scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Escala logarítmica</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="276"/>
         <source>Small counts stay visible next to high peaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Contagens pequenas permanecem visíveis junto aos picos altos</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="278"/>
         <source>Ignore 0 and 255 for scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorar 0 e 255 para redimensionamento</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="282"/>
         <source>Adaptive scale: clipped shadows and highlights don&apos;t flatten the rest of the histogram</source>
-        <translation type="unfinished"></translation>
+        <translation>Escala adaptativa: as sombras e brilhos cortados não abatem o histograma</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="289"/>
@@ -23651,7 +23651,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="MyLittleToolBar.h" line="722"/>
         <source>Toggle slider: thumbnail size / thumbnails per row</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternar o controlo deslizante (slider) entre tamanho das miniaturas e número de miniaturas por linha</translation>
     </message>
 </context>
 <context>
@@ -23659,7 +23659,7 @@ Deseja continuar?</translation>
     <message>
         <location filename="MyLittleToolBar.h" line="353"/>
         <source>Toggle slider: thumbnail size / thumbnails per row</source>
-        <translation type="unfinished"></translation>
+        <translation>Alternar o controlo deslizante (slider) entre tamanho das miniaturas e número de miniaturas por linha</translation>
     </message>
 </context>
 <context>
@@ -24322,27 +24322,27 @@ Pode mudá-lo em Configurações &gt; Catálogo.</translation>
     <message>
         <location filename="PromoBanner.h" line="56"/>
         <source>XnView Gallery, our photo gallery for Android, is available on Google Play.</source>
-        <translation type="unfinished"></translation>
+        <translation>XnView Gallery, a nossa galeria de fotos para Android, está disponível no Google Play.</translation>
     </message>
     <message>
         <location filename="PromoBanner.h" line="58"/>
         <source>Google Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Google Play</translation>
     </message>
     <message>
         <location filename="PromoBanner.h" line="61"/>
         <source>QR code</source>
-        <translation type="unfinished"></translation>
+        <translation>Código QR</translation>
     </message>
     <message>
         <location filename="PromoBanner.h" line="67"/>
         <source>Close</source>
-        <translation type="unfinished">Fechar</translation>
+        <translation>Fechar</translation>
     </message>
     <message>
         <location filename="PromoBanner.h" line="125"/>
         <source>Scan this code with your phone to open Google Play.</source>
-        <translation type="unfinished"></translation>
+        <translation>Scanear este código com o telefone para abrir o Google Play.</translation>
     </message>
 </context>
 <context>
