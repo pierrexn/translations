@@ -279,13 +279,13 @@
     <message>
         <source>Are you sure to delete 
 &quot;%1&quot;?</source>
-        <translation>¿Está seguro de eliminar .
+        <translation>¿Está seguro de que desea eliminar 
 &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Are you sure to delete 
 &quot;%1&quot; (%2 items)?</source>
-        <translation>¿Está seguro de eliminar
+        <translation>¿Está seguro de que desea eliminar 
 &quot;%1&quot; (%2 elementos)?</translation>
     </message>
     <message>
@@ -472,19 +472,19 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <name>BreadcrumbBar</name>
     <message>
         <source>No subfolders</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay subcarpetas</translation>
     </message>
     <message>
         <source>Copy path</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar ruta</translation>
     </message>
     <message>
         <source>Paste path</source>
-        <translation type="unfinished"></translation>
+        <translation>Pegar ruta</translation>
     </message>
     <message>
         <source>Edit path</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar ruta</translation>
     </message>
 </context>
 <context>
@@ -544,8 +544,8 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message numerus="yes">
         <source>Are you sure to delete these %n item(s)?</source>
         <translation>
-            <numerusform>¿Está seguro de eliminar este %n elemento?</numerusform>
-            <numerusform>¿Está seguro de eliminar estos %n elementos?</numerusform>
+            <numerusform>¿Está seguro de que desea eliminar este %n elemento?</numerusform>
+            <numerusform>¿Está seguro de que desea eliminar estos %n elementos?</numerusform>
         </translation>
     </message>
     <message>
@@ -673,11 +673,11 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
     <message>
         <source>Delete item</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar elemento</translation>
     </message>
     <message>
         <source>Are you sure to delete &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Está seguro de que desea eliminar &apos;%1&apos;?</translation>
     </message>
 </context>
 <context>
@@ -5645,263 +5645,263 @@ Do you want to overwrite it?</source>
     <name>DlgCulling</name>
     <message>
         <source>Culling</source>
-        <translation type="unfinished"></translation>
+        <translation>Selección</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Buscar</translation>
+        <translation>Buscar</translation>
     </message>
     <message>
         <source>Input</source>
-        <translation type="unfinished"></translation>
+        <translation>Introducir</translation>
     </message>
     <message>
         <source>Action</source>
-        <translation type="unfinished">Acción</translation>
+        <translation>Acción</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">Estado</translation>
+        <translation>Estado</translation>
     </message>
     <message>
         <source>List the files matching the conditions in the input tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Listar los archivos que cumplen las condiciones de la pestaña de entrada</translation>
     </message>
     <message>
         <source>Process</source>
-        <translation type="unfinished"></translation>
+        <translation>Proceso</translation>
     </message>
     <message>
         <source>Run the action on the files of the input tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Ejecutar la acción sobre los archivos de la pestaña de entrada</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Cerrar</translation>
+        <translation>Cerrar</translation>
     </message>
     <message>
         <source>Presets:</source>
-        <translation type="unfinished">Ajustes predefinidos:</translation>
+        <translation>Ajustes predefinidos:</translation>
     </message>
     <message>
         <source>Save current culling</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar selección actual</translation>
     </message>
     <message>
         <source>Delete current culling</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar selección actual</translation>
     </message>
     <message>
         <source>Add &gt;&gt;</source>
-        <translation type="unfinished">Añadir &gt;&gt;</translation>
+        <translation>Añadir &gt;&gt;</translation>
     </message>
     <message>
         <source>Clear all</source>
-        <translation type="unfinished">Limpiar todo</translation>
+        <translation>Limpiar todo</translation>
     </message>
     <message>
         <source>Match:</source>
-        <translation type="unfinished"></translation>
+        <translation>Coincidir:</translation>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Todo</translation>
     </message>
     <message>
         <source>Any</source>
-        <translation type="unfinished">Cualquiera</translation>
+        <translation>Cualquiera</translation>
     </message>
     <message>
         <source>Search in</source>
-        <translation type="unfinished">Buscar en</translation>
+        <translation>Buscar en</translation>
     </message>
     <message>
         <source>Selected files</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivos seleccionados</translation>
     </message>
     <message>
         <source>All files of the folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos los archivos de la carpeta</translation>
     </message>
     <message>
         <source>Recursive</source>
-        <translation type="unfinished">Recursivo</translation>
+        <translation>Recursivo</translation>
     </message>
     <message>
         <source>Include the files of the subfolders</source>
-        <translation type="unfinished"></translation>
+        <translation>Incluir los archivos de las subcarpetas</translation>
     </message>
     <message>
         <source>Action on the files of the input list</source>
-        <translation type="unfinished"></translation>
+        <translation>Acción sobre los archivos de la lista de entrada</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Eliminar</translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <source>Move to</source>
-        <translation type="unfinished">Mover a</translation>
+        <translation>Mover a</translation>
     </message>
     <message>
         <source>Copy to</source>
-        <translation type="unfinished">Copiar a</translation>
+        <translation>Copiar a</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished">Cambiar nombre</translation>
+        <translation>Cambiar nombre</translation>
     </message>
     <message>
         <source>Filename template, the extension is kept</source>
-        <translation type="unfinished"></translation>
+        <translation>Plantilla de nombre de archivo, la extensión se mantiene</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished">Archivo</translation>
+        <translation>Archivo</translation>
     </message>
     <message>
         <source>Selected files (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivos seleccionados (%1)</translation>
     </message>
     <message>
         <source>All files of the folder (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos los archivos de la carpeta (%1)</translation>
     </message>
     <message>
         <source>Preset</source>
-        <translation type="unfinished">Preestablecido</translation>
+        <translation>Preestablecido</translation>
     </message>
     <message>
         <source>Preset culling name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de selección preestablecido:</translation>
     </message>
     <message>
         <source>No condition defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin condición definida.</translation>
     </message>
     <message>
         <source>Checking files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprobando archivos...</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>A destination folder is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se ha encontrado la carpeta de destino.</translation>
     </message>
     <message>
         <source>The folder &apos;%1&apos; does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>La carpeta &apos;%1&apos; no existe.</translation>
     </message>
     <message>
         <source>A filename template is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se ha encontrado una plantilla de nombre de archivo.</translation>
     </message>
     <message>
         <source>The input list is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>La lista de entrada está vacía.</translation>
     </message>
     <message>
         <source>The name &apos;%1&apos; would be used by several files or already exists. Add a counter (#) to the template.</source>
-        <translation type="unfinished"></translation>
+        <translation>El nombre &apos;%1&apos; ya lo utilizan varios archivos o ya existe. Añada un contador (#) a la plantilla.</translation>
     </message>
     <message>
         <source>No file matches the conditions.</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay ningún archivo que cumpla las condiciones.</translation>
     </message>
     <message numerus="yes">
         <source>Delete %n file(s)?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>¿Eliminar %n archivo?</numerusform>
+            <numerusform>¿Eliminar %n archivos?</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Move %n file(s) to &apos;%1&apos;?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>¿Mover %n archivo a &apos;%1&apos;?</numerusform>
+            <numerusform>¿Mover %n archivos a &apos;%1&apos;?</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Copy %n file(s) to &apos;%1&apos;?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>¿Copiar %n archivo a &apos;%1&apos;?</numerusform>
+            <numerusform>¿Copiar %n archivos a &apos;%1&apos;?</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Rename %n file(s)?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>¿Cambiar nombre de %n archivo?</numerusform>
+            <numerusform>¿Cambiar nombre de %n archivos?</numerusform>
         </translation>
     </message>
     <message>
         <source>Move to recycle bin</source>
-        <translation type="unfinished"></translation>
+        <translation>Mover a la papelera de reciclaje</translation>
     </message>
     <message>
         <source>Move to &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Mover a &apos;%1&apos;</translation>
     </message>
     <message>
         <source>Copy to &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar a &apos;%1&apos;</translation>
     </message>
     <message>
         <source>Rename to &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar nombre a &apos;%1&apos;</translation>
     </message>
     <message>
         <source>Name kept</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre mantenido</translation>
     </message>
     <message>
         <source>To process</source>
-        <translation type="unfinished"></translation>
+        <translation>Para procesar</translation>
     </message>
     <message>
         <source>In progress</source>
-        <translation type="unfinished"></translation>
+        <translation>En curso</translation>
     </message>
     <message>
         <source>Processed</source>
-        <translation type="unfinished"></translation>
+        <translation>Procesado</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <source>Not processed</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin procesar</translation>
     </message>
     <message>
         <source>Simulated</source>
-        <translation type="unfinished"></translation>
+        <translation>Simulado</translation>
     </message>
     <message numerus="yes">
         <source>Simulation: %n file(s), no file has been modified</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Simulación: %n archivo, no se ha modificado ningún archivo</numerusform>
+            <numerusform>Simulación: %n archivos, no se ha modificado ningún archivo</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n file(s) processed</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n archivo procesado</numerusform>
+            <numerusform>%n archivos procesados</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>, %n error(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>, %n error</numerusform>
+            <numerusform>, %n errores</numerusform>
         </translation>
     </message>
 </context>
@@ -6953,7 +6953,7 @@ Por favor, intente iniciar con derechos de Administrador.</translation>
     </message>
     <message>
         <source>Unable to load the file %1: %2.</source>
-        <translation>Imposible cargar el archivo %1: %2.</translation>
+        <translation>No se puede cargar el archivo %1: %2.</translation>
     </message>
     <message>
         <source>The file called %1 doesn&apos;t exist.</source>
@@ -6961,7 +6961,7 @@ Por favor, intente iniciar con derechos de Administrador.</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation>Enviar</translation>
+        <translation>Subir</translation>
     </message>
     <message>
         <source>Connecting to FTP server %1...</source>
@@ -6985,7 +6985,7 @@ Por favor, intente iniciar con derechos de Administrador.</translation>
     </message>
     <message>
         <source>Unable to go to folder %1</source>
-        <translation>Imposible ir a la carpeta %1</translation>
+        <translation>No se puede ir a la carpeta %1</translation>
     </message>
     <message>
         <source>Retry</source>
@@ -7075,7 +7075,7 @@ Por favor, intente iniciar con derechos de Administrador.</translation>
     </message>
     <message>
         <source>Unable to load the file %1: %2.</source>
-        <translation>Imposible cargar el archivo %1: %2.</translation>
+        <translation>No se puede cargar el archivo %1: %2.</translation>
     </message>
     <message>
         <source>The file called %1 doesn&apos;t exist.</source>
@@ -7099,15 +7099,15 @@ Por favor, intente iniciar con derechos de Administrador.</translation>
     </message>
     <message>
         <source>Unable to connect to the FTP server at %1. Please check that the host name is correct.</source>
-        <translation>Imposible conectar al servidor FTP en %1. Por favor verifique que el nombre del servidor es correcto.</translation>
+        <translation>No se puede conectar al servidor FTP en %1. Por favor verifique que el nombre del servidor es correcto.</translation>
     </message>
     <message>
         <source>Unable to connect to the FTP server at %1. Please check if the username and password is correct.</source>
-        <translation>Imposible conectar al servidor FTP en %1. Por favor verifique que el nombre de usuario o contraseña es correcto.</translation>
+        <translation>No se puede conectar al servidor FTP en %1. Por favor verifique que el nombre de usuario o contraseña es correcto.</translation>
     </message>
     <message>
         <source>Unable to go to folder %1</source>
-        <translation>Imposible ir a la carpeta %1</translation>
+        <translation>No se puede ir a la carpeta %1</translation>
     </message>
 </context>
 <context>
@@ -9153,7 +9153,7 @@ Do you want to remove them?</source>
     </message>
     <message>
         <source>Match</source>
-        <translation>Incluir</translation>
+        <translation>Coincidir</translation>
     </message>
     <message>
         <source>All</source>
@@ -9652,7 +9652,7 @@ etiquetas de color o palabras clave pueden ser eliminadas.
     </message>
     <message>
         <source>Folder not found</source>
-        <translation type="unfinished"></translation>
+        <translation>No se ha encontrado la carpeta</translation>
     </message>
 </context>
 <context>
@@ -11388,11 +11388,11 @@ Do you want to reassign?</source>
     </message>
     <message>
         <source>When the mouse is over a thumbnail, the colour labels are shown on its top and the rating stars on its bottom: a single click sets them. Replaces the rating/label popup menus.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuando se superpone el ratón en una miniatura, las etiquetas de color se muestran en la parte superior y las estrellas de valoración en la parte inferior: basta un solo clic para seleccionarlas. Sustituye a los menús emergentes de valoración y etiquetas.</translation>
     </message>
     <message>
         <source>Show fast-rating overlay on thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar ventana emergente de valoración rápida en las miniaturas</translation>
     </message>
 </context>
 <context>
@@ -12615,11 +12615,11 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Upload</source>
-        <translation>Enviar</translation>
+        <translation>Subir</translation>
     </message>
     <message>
         <source>Unable to upload image file...</source>
-        <translation>No se puede enviar el archivo de imagen ...</translation>
+        <translation>No se puede subir el archivo de imagen ...</translation>
     </message>
     <message>
         <source>Unable to load image file...</source>
@@ -12627,23 +12627,23 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Not signed in</source>
-        <translation type="unfinished"></translation>
+        <translation>Sesión no iniciada</translation>
     </message>
     <message>
         <source>Waiting for the authorization in the web browser...</source>
-        <translation type="unfinished"></translation>
+        <translation>Esperando la autorización en el navegador web...</translation>
     </message>
     <message>
         <source>Signed in</source>
-        <translation type="unfinished"></translation>
+        <translation>Sesión iniciada</translation>
     </message>
     <message>
         <source>Sign out</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar sesión</translation>
     </message>
     <message>
         <source>Sign in...</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar sesión...</translation>
     </message>
 </context>
 <context>
@@ -12682,15 +12682,15 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuenta</translation>
     </message>
     <message>
         <source>Not signed in</source>
-        <translation type="unfinished"></translation>
+        <translation>Sesión no iniciada</translation>
     </message>
     <message>
         <source>Sign in...</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar sesión...</translation>
     </message>
 </context>
 <context>
@@ -13258,11 +13258,11 @@ Do you want to continue?</source>
     <name>DropboxUploader</name>
     <message>
         <source>The file is too large to be uploaded (150 MB maximum).</source>
-        <translation type="unfinished"></translation>
+        <translation>El archivo es demasiado grande para subirlo (máximo 150 MB).</translation>
     </message>
     <message>
         <source>Unable to create a shared link.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede crear un enlace compartido.</translation>
     </message>
 </context>
 <context>
@@ -13630,14 +13630,14 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <name>FlickrUploader</name>
     <message>
         <source>The authorization request failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>La solicitud de autorización ha fallado.</translation>
     </message>
 </context>
 <context>
     <name>GoogleDriveUploader</name>
     <message>
         <source>Unable to create the upload session.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se ha podido crear la sesión de subida.</translation>
     </message>
 </context>
 <context>
@@ -14356,7 +14356,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Altitude ref.</source>
-        <translation>Altitud de referencia</translation>
+        <translation>Altitud de referencia.</translation>
     </message>
     <message>
         <source>XP Title</source>
@@ -14548,7 +14548,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Latitude ref.</source>
-        <translation>Latitud de referencia</translation>
+        <translation>Latitud de referencia.</translation>
     </message>
     <message>
         <source>XP Comment</source>
@@ -14588,7 +14588,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Longitude ref.</source>
-        <translation>Longitud de referencia</translation>
+        <translation>Longitud de referencia.</translation>
     </message>
     <message>
         <source>Saturation</source>
@@ -17740,7 +17740,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Gamma</source>
-        <translation type="unfinished">Gamma</translation>
+        <translation>Gamma</translation>
     </message>
 </context>
 <context>
@@ -18026,41 +18026,41 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Adaptive scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Escala adaptativa</translation>
     </message>
     <message>
         <source>Vertical scale capped at 4x the mean of the non-empty levels, higher peaks are clipped</source>
-        <translation type="unfinished"></translation>
+        <translation>La escala vertical está limitada a 4 veces la media de los niveles no vacíos, los picos más altos se recortan</translation>
     </message>
     <message>
         <source>Logarithmic scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Escala logarítmica</translation>
     </message>
     <message>
         <source>Small counts stay visible next to high peaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Las cifras pequeñas siguen siendo visibles junto a los picos altos</translation>
     </message>
     <message>
         <source>Ignore 0 and 255 for scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignora los valores 0 y 255 para el escalado</translation>
     </message>
     <message>
         <source>Adaptive scale: clipped shadows and highlights don&apos;t flatten the rest of the histogram</source>
-        <translation type="unfinished"></translation>
+        <translation>Escala adaptativa: las sombras y las luces recortadas no aplanan el resto del histograma</translation>
     </message>
 </context>
 <context>
     <name>MyLittleToolBarV1</name>
     <message>
         <source>Toggle slider: thumbnail size / thumbnails per row</source>
-        <translation type="unfinished"></translation>
+        <translation>Conmutador deslizante: tamaño de miniatura / miniaturas por fila</translation>
     </message>
 </context>
 <context>
     <name>MyLittleToolBarV2_2</name>
     <message>
         <source>Toggle slider: thumbnail size / thumbnails per row</source>
-        <translation type="unfinished"></translation>
+        <translation>Conmutador deslizante: tamaño de miniatura / miniaturas por fila</translation>
     </message>
 </context>
 <context>
@@ -18184,11 +18184,11 @@ Puedo cambiarlo en Configuración › Catálogo.</translation>
     <name>OAuth2Uploader</name>
     <message>
         <source>The authorization request failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>La solicitud de autorización ha fallado.</translation>
     </message>
     <message>
         <source>This service is not configured in this build (missing client identifier).</source>
-        <translation type="unfinished"></translation>
+        <translation>Este servicio no está configurado en esta compilación (falta el identificador de cliente).</translation>
     </message>
 </context>
 <context>
@@ -18510,7 +18510,7 @@ Puedo cambiarlo en Configuración › Catálogo.</translation>
     </message>
     <message>
         <source>Hardness</source>
-        <translation type="unfinished"></translation>
+        <translation>Dureza</translation>
     </message>
 </context>
 <context>
@@ -18551,19 +18551,19 @@ Puedo cambiarlo en Configuración › Catálogo.</translation>
     <name>PiwigoUploader</name>
     <message>
         <source>Album</source>
-        <translation type="unfinished">Álbum</translation>
+        <translation>Álbum</translation>
     </message>
     <message>
         <source>The Piwigo server returned an error.</source>
-        <translation type="unfinished"></translation>
+        <translation>El servidor de Piwigo ha devuelto un error.</translation>
     </message>
     <message>
         <source>The Piwigo gallery is not configured.</source>
-        <translation type="unfinished"></translation>
+        <translation>La galería de Piwigo no está configurada.</translation>
     </message>
     <message>
         <source>Piwigo login failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al iniciar sesión en Piwigo: %1</translation>
     </message>
 </context>
 <context>
@@ -18577,23 +18577,23 @@ Puedo cambiarlo en Configuración › Catálogo.</translation>
     <name>PromoBanner</name>
     <message>
         <source>XnView Gallery, our photo gallery for Android, is available on Google Play.</source>
-        <translation type="unfinished"></translation>
+        <translation>XnView Gallery, nuestra galería de fotos para Android, está disponible en Google Play.</translation>
     </message>
     <message>
         <source>Google Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Google Play</translation>
     </message>
     <message>
         <source>QR code</source>
-        <translation type="unfinished"></translation>
+        <translation>Código QR</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Cerrar</translation>
+        <translation>Cerrar</translation>
     </message>
     <message>
         <source>Scan this code with your phone to open Google Play.</source>
-        <translation type="unfinished"></translation>
+        <translation>Escanee este código con su móvil para abrir Google Play.</translation>
     </message>
 </context>
 <context>
@@ -18621,7 +18621,7 @@ Puedo cambiarlo en Configuración › Catálogo.</translation>
     <message>
         <source>Login failed:
 %1</source>
-        <translation>Error de inicio de sesión:
+        <translation>Error al iniciar sesión:
 %1</translation>
     </message>
     <message>
@@ -19407,7 +19407,7 @@ Puedo cambiarlo en Configuración › Catálogo.</translation>
     </message>
     <message>
         <source>Angle</source>
-        <translation type="unfinished">Ángulo</translation>
+        <translation>Ángulo</translation>
     </message>
 </context>
 <context>
@@ -19425,7 +19425,7 @@ Puedo cambiarlo en Configuración › Catálogo.</translation>
     <name>WebDavUploader</name>
     <message>
         <source>The WebDAV folder is not configured.</source>
-        <translation type="unfinished"></translation>
+        <translation>La carpeta WebDAV no está configurada.</translation>
     </message>
 </context>
 <context>
@@ -19439,31 +19439,31 @@ Puedo cambiarlo en Configuración › Catálogo.</translation>
     <name>WebUploader</name>
     <message>
         <source>Unable to open %1</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede abrir %1</translation>
     </message>
     <message>
         <source>Authorization received, you can close this window and return to XnView.</source>
-        <translation type="unfinished"></translation>
+        <translation>Autorización recibida, puede cerrar esta ventana y volver a XnView.</translation>
     </message>
     <message>
         <source>Unable to listen on local port %1 for the authorization callback.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede escuchar en el puerto local %1 para la llamada de retorno de autorización.</translation>
     </message>
     <message>
         <source>HTTP error %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>HTTP error %1: %2</translation>
     </message>
     <message>
         <source>URL</source>
-        <translation type="unfinished">URL</translation>
+        <translation>URL</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Usuario</translation>
+        <translation>Usuario</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Contraseña</translation>
+        <translation>Contraseña</translation>
     </message>
 </context>
 <context>
