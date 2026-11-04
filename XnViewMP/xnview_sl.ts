@@ -449,7 +449,7 @@
         <location filename="AddressBar.cpp" line="118"/>
         <location filename="AddressBar.cpp" line="730"/>
         <source>Clear history</source>
-        <translation type="unfinished"></translation>
+        <translation>Počisti zgodovino</translation>
     </message>
 </context>
 <context>
@@ -593,22 +593,22 @@ Ali želite izbrisati priljubljeno &quot;%1&quot;?</translation>
         <location filename="AddressBar.cpp" line="638"/>
         <location filename="AddressBar.cpp" line="672"/>
         <source>No subfolders</source>
-        <translation type="unfinished"></translation>
+        <translation>Brez podmap</translation>
     </message>
     <message>
         <location filename="AddressBar.cpp" line="722"/>
         <source>Copy path</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiraj pot</translation>
     </message>
     <message>
         <location filename="AddressBar.cpp" line="725"/>
         <source>Paste path</source>
-        <translation type="unfinished"></translation>
+        <translation>Prilepi pot</translation>
     </message>
     <message>
         <location filename="AddressBar.cpp" line="727"/>
         <source>Edit path</source>
-        <translation type="unfinished"></translation>
+        <translation>Uredi pot</translation>
     </message>
 </context>
 <context>
@@ -12329,7 +12329,7 @@ Ali jih želite odstraniti?</translation>
     <message>
         <location filename="DlgSettingsCache.cpp" line="272"/>
         <source>Folder not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Mape ni bilo mogoče najti</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="356"/>
@@ -22700,7 +22700,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="470"/>
         <source>Gamma</source>
-        <translation type="unfinished">Gama</translation>
+        <translation>Gama</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="472"/>
@@ -23555,32 +23555,32 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyHistogram.cpp" line="275"/>
         <source>Adaptive scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Prilagodljivo merilo</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="275"/>
         <source>Vertical scale capped at 4x the mean of the non-empty levels, higher peaks are clipped</source>
-        <translation type="unfinished"></translation>
+        <translation>Navpična lestvica je omejena na 4-kratnik povprečja nepraznih ravni, višji vrhovi so odrezani</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="276"/>
         <source>Logarithmic scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Logaritemska lestvica</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="276"/>
         <source>Small counts stay visible next to high peaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Majhna števila ostanejo vidna ob visokih vrhovih</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="278"/>
         <source>Ignore 0 and 255 for scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Za skaliranje prezri 0 in 255</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="282"/>
         <source>Adaptive scale: clipped shadows and highlights don&apos;t flatten the rest of the histogram</source>
-        <translation type="unfinished"></translation>
+        <translation>Prilagodljivo merilo: obrezane sence in svetli deli ne sploščijo preostalega histograma</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="289"/>
@@ -23638,7 +23638,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyLittleToolBar.h" line="722"/>
         <source>Toggle slider: thumbnail size / thumbnails per row</source>
-        <translation type="unfinished"></translation>
+        <translation>Preklopi drsnik: velikost sličic / število sličic na vrstico</translation>
     </message>
 </context>
 <context>
@@ -23646,7 +23646,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyLittleToolBar.h" line="353"/>
         <source>Toggle slider: thumbnail size / thumbnails per row</source>
-        <translation type="unfinished"></translation>
+        <translation>Preklopi drsnik: velikost sličic / število sličic na vrstico</translation>
     </message>
 </context>
 <context>
@@ -24312,27 +24312,27 @@ Spremenite ga lahko v Nastavitve › Katalog.</translation>
     <message>
         <location filename="PromoBanner.h" line="56"/>
         <source>XnView Gallery, our photo gallery for Android, is available on Google Play.</source>
-        <translation type="unfinished"></translation>
+        <translation>Galerija XnView, naša fotogalerija za Android, je na voljo v trgovini Google Play.</translation>
     </message>
     <message>
         <location filename="PromoBanner.h" line="58"/>
         <source>Google Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Google Play</translation>
     </message>
     <message>
         <location filename="PromoBanner.h" line="61"/>
         <source>QR code</source>
-        <translation type="unfinished"></translation>
+        <translation>QR koda</translation>
     </message>
     <message>
         <location filename="PromoBanner.h" line="67"/>
         <source>Close</source>
-        <translation type="unfinished">Zapri</translation>
+        <translation>Zapri</translation>
     </message>
     <message>
         <location filename="PromoBanner.h" line="125"/>
         <source>Scan this code with your phone to open Google Play.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skenirajte to kodo s telefonom, da odprete Google Play.</translation>
     </message>
 </context>
 <context>
