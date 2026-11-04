@@ -456,7 +456,7 @@
         <location filename="AddressBar.cpp" line="118"/>
         <location filename="AddressBar.cpp" line="730"/>
         <source>Clear history</source>
-        <translation type="unfinished"></translation>
+        <translation>履歴をクリア</translation>
     </message>
 </context>
 <context>
@@ -600,22 +600,22 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="AddressBar.cpp" line="638"/>
         <location filename="AddressBar.cpp" line="672"/>
         <source>No subfolders</source>
-        <translation type="unfinished"></translation>
+        <translation>サブフォルダーなし</translation>
     </message>
     <message>
         <location filename="AddressBar.cpp" line="722"/>
         <source>Copy path</source>
-        <translation type="unfinished"></translation>
+        <translation>パスをコピー</translation>
     </message>
     <message>
         <location filename="AddressBar.cpp" line="725"/>
         <source>Paste path</source>
-        <translation type="unfinished"></translation>
+        <translation>パスを貼り付け</translation>
     </message>
     <message>
         <location filename="AddressBar.cpp" line="727"/>
         <source>Edit path</source>
-        <translation type="unfinished"></translation>
+        <translation>パスを編集</translation>
     </message>
 </context>
 <context>
@@ -12389,7 +12389,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsCache.cpp" line="272"/>
         <source>Folder not found</source>
-        <translation type="unfinished"></translation>
+        <translation>フォルダーが見つかりません</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="356"/>
@@ -23024,7 +23024,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="470"/>
         <source>Gamma</source>
-        <translation type="unfinished">ガンマ値</translation>
+        <translation>ガンマ値</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="472"/>
@@ -23736,13 +23736,13 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyDirModel.cpp" line="335"/>
         <source>My Computer</source>
-        <translation>マイコンピュータ</translation>
+        <translation>マイコンピューター</translation>
     </message>
     <message>
         <location filename="MyDirModel.cpp" line="1037"/>
         <location filename="MyDirModel.cpp" line="1039"/>
         <source>Computer</source>
-        <translation>コンピュータ</translation>
+        <translation>コンピューター</translation>
     </message>
     <message>
         <location filename="MyDirModel.cpp" line="1041"/>
@@ -23824,32 +23824,32 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyHistogram.cpp" line="275"/>
         <source>Adaptive scale</source>
-        <translation type="unfinished"></translation>
+        <translation>適応スケール</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="275"/>
         <source>Vertical scale capped at 4x the mean of the non-empty levels, higher peaks are clipped</source>
-        <translation type="unfinished"></translation>
+        <translation>縦方向のスケールは、空でないレベルの平均値の4倍を上限とし、それを超えるピークは切り詰められます</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="276"/>
         <source>Logarithmic scale</source>
-        <translation type="unfinished"></translation>
+        <translation>対数スケール</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="276"/>
         <source>Small counts stay visible next to high peaks</source>
-        <translation type="unfinished"></translation>
+        <translation>高いピークに埋もれず、小さなカウントも表示されます</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="278"/>
         <source>Ignore 0 and 255 for scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>0と255をスケール計算から除外</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="282"/>
         <source>Adaptive scale: clipped shadows and highlights don&apos;t flatten the rest of the histogram</source>
-        <translation type="unfinished"></translation>
+        <translation>適応スケール: シャドウやハイライトのクリップ部分があっても、ヒストグラムの他の部分がつぶれません</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="289"/>
@@ -23907,7 +23907,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyLittleToolBar.h" line="722"/>
         <source>Toggle slider: thumbnail size / thumbnails per row</source>
-        <translation type="unfinished"></translation>
+        <translation>スライダー切替: サムネイルサイズ / 1行あたりのサムネイル数</translation>
     </message>
 </context>
 <context>
@@ -23915,7 +23915,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyLittleToolBar.h" line="353"/>
         <source>Toggle slider: thumbnail size / thumbnails per row</source>
-        <translation type="unfinished"></translation>
+        <translation>スライダー切替: サムネイルサイズ / 1行あたりのサムネイル数</translation>
     </message>
 </context>
 <context>
@@ -24572,27 +24572,27 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="PromoBanner.h" line="56"/>
         <source>XnView Gallery, our photo gallery for Android, is available on Google Play.</source>
-        <translation type="unfinished"></translation>
+        <translation>Android向けフォトギャラリーアプリ「XnView Gallery」はGoogle Playで入手できます。</translation>
     </message>
     <message>
         <location filename="PromoBanner.h" line="58"/>
         <source>Google Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Google Play</translation>
     </message>
     <message>
         <location filename="PromoBanner.h" line="61"/>
         <source>QR code</source>
-        <translation type="unfinished"></translation>
+        <translation>QRコード</translation>
     </message>
     <message>
         <location filename="PromoBanner.h" line="67"/>
         <source>Close</source>
-        <translation type="unfinished">閉じる</translation>
+        <translation>閉じる</translation>
     </message>
     <message>
         <location filename="PromoBanner.h" line="125"/>
         <source>Scan this code with your phone to open Google Play.</source>
-        <translation type="unfinished"></translation>
+        <translation>このQRコードをスマートフォンでスキャンしてGoogle Playを開きます。</translation>
     </message>
 </context>
 <context>
