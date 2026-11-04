@@ -190,7 +190,7 @@
     <message>
         <location filename="AboutWidget.ui" line="294"/>
         <source>Language</source>
-        <translation type="unfinished">Språk</translation>
+        <translation>Språk</translation>
     </message>
     <message>
         <location filename="AboutWidget.ui" line="308"/>
@@ -374,7 +374,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="873"/>
         <source>Click to hide</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicka för att dölja</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="1743"/>
@@ -421,12 +421,12 @@
     <message>
         <location filename="ViewWindow.cpp" line="4277"/>
         <source>Expand canvas</source>
-        <translation type="unfinished"></translation>
+        <translation>Utöka arbetsytan</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4277"/>
         <source>Do you want to expand the canvas?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vill du utöka arbetsytan</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4704"/>
@@ -448,7 +448,7 @@
         <location filename="AddressBar.cpp" line="118"/>
         <location filename="AddressBar.cpp" line="730"/>
         <source>Clear history</source>
-        <translation type="unfinished"></translation>
+        <translation>Rensa historik</translation>
     </message>
 </context>
 <context>
@@ -477,7 +477,7 @@
     <message>
         <location filename="AutoDateTimeEdit.h" line="89"/>
         <source>Not set</source>
-        <translation type="unfinished"></translation>
+        <translation>Ej angivet</translation>
     </message>
 </context>
 <context>
@@ -583,7 +583,7 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
     <message>
         <location filename="BoxUploader.cpp" line="40"/>
         <source>The file is too large to be uploaded (50 MB maximum).</source>
-        <translation type="unfinished"></translation>
+        <translation>Filen är för stor för att laddas upp (max 50 MB).</translation>
     </message>
 </context>
 <context>
@@ -592,22 +592,22 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
         <location filename="AddressBar.cpp" line="638"/>
         <location filename="AddressBar.cpp" line="672"/>
         <source>No subfolders</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga undermappar</translation>
     </message>
     <message>
         <location filename="AddressBar.cpp" line="722"/>
         <source>Copy path</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiera sökväg</translation>
     </message>
     <message>
         <location filename="AddressBar.cpp" line="725"/>
         <source>Paste path</source>
-        <translation type="unfinished"></translation>
+        <translation>Klistra in sökväg</translation>
     </message>
     <message>
         <location filename="AddressBar.cpp" line="727"/>
         <source>Edit path</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera sökväg</translation>
     </message>
 </context>
 <context>
@@ -656,7 +656,7 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
         <location filename="BrowserWindow.cpp" line="927"/>
         <source>The database is corrupted. Please check it before you continue!</source>
         <oldsource>The database is corrupted, please check it before to continue!</oldsource>
-        <translation type="unfinished">Databasen är skadad. Kontrollera den innan du fortsätter!</translation>
+        <translation>Databasen är skadad. Kontrollera den innan du fortsätter!</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="1695"/>
@@ -692,7 +692,7 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="2337"/>
         <source>Thumbnails</source>
-        <translation type="unfinished">Miniatyrer</translation>
+        <translation>Miniatyrer</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3541"/>
@@ -712,12 +712,12 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="4134"/>
         <source>Delete item</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort objektet</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4135"/>
         <source>Are you sure to delete &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vill du verkligen ta bort &quot;%1&quot;?</translation>
     </message>
     <message numerus="yes">
         <location filename="BrowserWindow.cpp" line="4142"/>
@@ -751,12 +751,12 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="2127"/>
         <source>&lt;b&gt;Catalog filter&lt;/b&gt;&lt;br&gt;Left-click to filter&lt;br&gt;&amp;bull; Shift/Ctrl - multi-select&lt;br&gt;&amp;bull; Alt - exclude items&lt;br&gt;Right-click to open node options&lt;br&gt;Drag &amp; drop onto a node to assign</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Katalogfilter&lt;/b&gt;&lt;br&gt;Vänsterklicka för att filtrera&lt;br&gt;&amp;bull; Shift/Ctrl - markera flera&lt;br&gt;&amp;bull; Alt - uteslut objekt&lt;br&gt;Högerklicka för att öppna nodalternativ&lt;br&gt;Dra och släpp på en nod för att tilldela</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3543"/>
         <source>&lt;Checked files&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Kontrollerade filer&gt;</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3545"/>
@@ -799,7 +799,7 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="4666"/>
         <source>Open in file manager</source>
-        <translation type="unfinished">Öppna i filhanterare</translation>
+        <translation>Öppna i filhanterare</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4669"/>
@@ -820,18 +820,18 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
         <location filename="BrowserWindow.cpp" line="2061"/>
         <location filename="BrowserWindow.cpp" line="2073"/>
         <source>AND</source>
-        <translation type="unfinished"></translation>
+        <translation>AND</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2061"/>
         <location filename="BrowserWindow.cpp" line="2067"/>
         <source>OR</source>
-        <translation type="unfinished"></translation>
+        <translation>OR</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2062"/>
         <source>&lt;b&gt;Match&lt;/b&gt;&lt;br&gt;OR - match any selected entry&lt;br&gt;AND - match all selected entries</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Matcha&lt;/b&gt;&lt;br&gt;OR - matcha vilken vald post som helst&lt;br&gt;AND - matcha alla valda poster</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4658"/>
@@ -996,48 +996,48 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
     <message>
         <location filename="CategoryView.cpp" line="528"/>
         <source>EXIF: Date taken</source>
-        <translation type="unfinished"></translation>
+        <translation>EXIF: Tagen</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="530"/>
         <source>EXIF: Date modified</source>
-        <translation type="unfinished">EXIF: Ändrad</translation>
+        <translation>EXIF: Ändrad</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="532"/>
         <source>File: Date modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Fil: Ändrad</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="573"/>
         <source>New smart album...</source>
-        <translation type="unfinished"></translation>
+        <translation>Nytt smart album...</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="575"/>
         <location filename="CategoryView.cpp" line="751"/>
         <source>Create Smart Album from current filter...</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa smart album från aktuellt filter...</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="579"/>
         <source>Edit...</source>
-        <translation type="unfinished">Redigera...</translation>
+        <translation>Redigera...</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="609"/>
         <source>Delete Smart Album</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort smart album</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="609"/>
         <source>Are you sure to delete this Smart Album?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vill du verkligen ta bort det detta smarta album?</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="634"/>
         <source>New album</source>
-        <translation type="unfinished"></translation>
+        <translation>Nytt album</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="641"/>
@@ -1092,12 +1092,12 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
     <message>
         <location filename="CategoryView.cpp" line="749"/>
         <source>Create Smart Album...</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa smart album...</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="783"/>
         <source>Are you sure to delete these categories?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vill du verkligen ta bort dessa kategorier?</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="796"/>
@@ -1147,12 +1147,12 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
     <message>
         <location filename="CompareWidget.cpp" line="53"/>
         <source>Navigator</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigator</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="55"/>
         <source>Clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Klippning</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="577"/>
@@ -2125,7 +2125,7 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="167"/>
         <source>No face</source>
-        <translation type="unfinished"></translation>
+        <translation>Inget ansikte</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="168"/>
@@ -2135,47 +2135,47 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="169"/>
         <source>Taken in last 30 days</source>
-        <translation type="unfinished"></translation>
+        <translation>Taget de senaste 30 dagarna</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="170"/>
         <source>Modified in last 30 days</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändrat de senaste 30 dagarna</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="172"/>
         <location filename="DBFilterModel.cpp" line="195"/>
         <location filename="DBFilterModel.cpp" line="1873"/>
         <source>Date</source>
-        <translation type="unfinished">Datum</translation>
+        <translation>Datum</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="176"/>
         <location filename="DBFilterModel.cpp" line="196"/>
         <source>Properties</source>
-        <translation type="unfinished">Egenskaper</translation>
+        <translation>Egenskaper</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="181"/>
         <location filename="DBFilterModel.cpp" line="197"/>
         <source>Albums</source>
-        <translation type="unfinished"></translation>
+        <translation>Album</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="183"/>
         <location filename="DBFilterModel.cpp" line="198"/>
         <source>Smart Albums</source>
-        <translation type="unfinished"></translation>
+        <translation>Smarta album</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="199"/>
         <source>Categories</source>
-        <translation type="unfinished">Kategorier</translation>
+        <translation>Kategorier</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="164"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrollera</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1551"/>
@@ -2187,32 +2187,32 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
         <location filename="DBFilterModel.cpp" line="1736"/>
         <location filename="DBFilterModel.cpp" line="2026"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Okänt</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1727"/>
         <source>Landscape</source>
-        <translation type="unfinished">Liggande</translation>
+        <translation>Liggande</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1728"/>
         <source>Portrait</source>
-        <translation type="unfinished">Stående</translation>
+        <translation>Stående</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1729"/>
         <source>Square</source>
-        <translation type="unfinished">Kvadrat</translation>
+        <translation>Kvadrat</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1763"/>
         <source>Panoramic</source>
-        <translation type="unfinished"></translation>
+        <translation>Panorama</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1771"/>
         <source>No Color Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen färgprofil</translation>
     </message>
 </context>
 <context>
@@ -2375,7 +2375,7 @@ Vill du ta bort favoriten &quot;%1&quot;?</translation>
         <location filename="DlgArchive.ui" line="41"/>
         <source>Open file manager after compressing</source>
         <oldsource>Open File Explorer after compressing</oldsource>
-        <translation type="unfinished">Öppna filhanteraren efter komprimering</translation>
+        <translation>Öppna filhanteraren efter komprimering</translation>
     </message>
     <message>
         <location filename="DlgArchive.cpp" line="97"/>
@@ -3672,7 +3672,7 @@ Vill du skriva över den?</translation>
         <location filename="DlgContactSheet.ui" line="722"/>
         <source>Open File Manager</source>
         <oldsource>Open File Explorer</oldsource>
-        <translation type="unfinished">Öppna filhanterare</translation>
+        <translation>Öppna filhanterare</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="766"/>
@@ -3787,9 +3787,9 @@ Vill du skriva över den?</translation>
     <message numerus="yes">
         <location filename="DlgContactSheet.cpp" line="456"/>
         <source>File list (%n)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Fillista (%n)</numerusform>
+            <numerusform>Fillistor (%n)</numerusform>
         </translation>
     </message>
 </context>
@@ -4315,22 +4315,22 @@ Vill du fortsätta?</translation>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="104"/>
         <source>Mode</source>
-        <translation type="unfinished">Läge</translation>
+        <translation>Läge</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="115"/>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Horisontellt</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="161"/>
         <source>Edges</source>
-        <translation type="unfinished">Kanter</translation>
+        <translation>Kanter</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="174"/>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertikalt</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="194"/>
@@ -4340,7 +4340,7 @@ Vill du fortsätta?</translation>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="220"/>
         <source>Zealous</source>
-        <translation type="unfinished"></translation>
+        <translation>Nitiskt</translation>
     </message>
 </context>
 <context>
@@ -4353,7 +4353,7 @@ Vill du fortsätta?</translation>
     <message>
         <location filename="DlgConvertAutoDeskew.ui" line="47"/>
         <source>Use anti-aliasing</source>
-        <translation type="unfinished">Använd kantutjämning</translation>
+        <translation>Använd kantutjämning</translation>
     </message>
 </context>
 <context>
@@ -4432,7 +4432,7 @@ Vill du fortsätta?</translation>
     <message>
         <location filename="DlgConvertBlurredFrame.ui" line="96"/>
         <source>Margin</source>
-        <translation type="unfinished">Mariginal</translation>
+        <translation>Mariginal</translation>
     </message>
     <message>
         <location filename="DlgConvertBlurredFrame.ui" line="141"/>
@@ -5311,7 +5311,7 @@ Vill du fortsätta?</translation>
     <message>
         <location filename="DlgConvert.ui" line="651"/>
         <source>Multiple resolution...</source>
-        <translation type="unfinished"></translation>
+        <translation>Flerupplösning...</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1104"/>
@@ -5321,7 +5321,7 @@ Vill du fortsätta?</translation>
     <message>
         <location filename="DlgConvert.ui" line="1247"/>
         <source>Open File Manager</source>
-        <translation type="unfinished">Öppna filhanterare</translation>
+        <translation>Öppna filhanterare</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1540"/>
@@ -5351,7 +5351,7 @@ Vill du fortsätta?</translation>
     <message>
         <location filename="DlgConvert.ui" line="1616"/>
         <source>Black</source>
-        <translation type="unfinished">Svart</translation>
+        <translation>Svart</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1641"/>
@@ -5456,7 +5456,7 @@ Vill du fortsätta?</translation>
     <message>
         <location filename="Helper.cpp" line="531"/>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation>A&amp;lternativ</translation>
     </message>
 </context>
 <context>
@@ -6091,17 +6091,17 @@ Vill du fortsätta?</translation>
         <location filename="DlgConvertMulti.ui" line="14"/>
         <location filename="DlgConvertMulti.cpp" line="18"/>
         <source>Multiple output</source>
-        <translation type="unfinished"></translation>
+        <translation>Multiutdata</translation>
     </message>
     <message>
         <location filename="DlgConvertMulti.cpp" line="45"/>
         <source>Width:</source>
-        <translation type="unfinished">Bredd:</translation>
+        <translation>Bredd:</translation>
     </message>
     <message>
         <location filename="DlgConvertMulti.cpp" line="51"/>
         <source>Height:</source>
-        <translation type="unfinished">Höjd:</translation>
+        <translation>Höjd:</translation>
     </message>
 </context>
 <context>
@@ -6638,7 +6638,7 @@ Vill du fortsätta?</translation>
     <message>
         <location filename="DlgConvertRotate.ui" line="195"/>
         <source>Use anti-aliasing</source>
-        <translation type="unfinished">Använd kantutjämning</translation>
+        <translation>Använd kantutjämning</translation>
     </message>
     <message>
         <location filename="DlgConvertRotate.ui" line="203"/>
@@ -7222,7 +7222,7 @@ Vill du fortsätta?</translation>
         <location filename="DlgCreateMulti.ui" line="251"/>
         <source>Open File Manager</source>
         <oldsource>Open File Explorer</oldsource>
-        <translation type="unfinished">Öppna filhanterare</translation>
+        <translation>Öppna filhanterare</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.ui" line="209"/>
@@ -7295,142 +7295,142 @@ Vill du fortsätta?</translation>
         <location filename="DlgCulling.cpp" line="805"/>
         <location filename="DlgCulling.cpp" line="832"/>
         <source>Culling</source>
-        <translation type="unfinished"></translation>
+        <translation>Bortklippning</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="146"/>
         <location filename="DlgCulling.cpp" line="153"/>
         <source>Search</source>
-        <translation type="unfinished">Sök</translation>
+        <translation>Sök</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="147"/>
         <location filename="DlgCulling.cpp" line="412"/>
         <source>Input</source>
-        <translation type="unfinished"></translation>
+        <translation>Indata</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="148"/>
         <location filename="DlgCulling.cpp" line="313"/>
         <source>Action</source>
-        <translation type="unfinished">Åtgärd</translation>
+        <translation>Åtgärd</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="149"/>
         <location filename="DlgCulling.cpp" line="313"/>
         <source>Status</source>
-        <translation type="unfinished">Status</translation>
+        <translation>Status</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="154"/>
         <source>List the files matching the conditions in the input tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista filerna som matchar villkoren i fliken för indata</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="156"/>
         <source>Process</source>
-        <translation type="unfinished"></translation>
+        <translation>Processa</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="157"/>
         <source>Run the action on the files of the input tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör åtgärden på filerna i fliken för indata</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="158"/>
         <source>Close</source>
-        <translation type="unfinished">Stäng</translation>
+        <translation>Stäng</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="201"/>
         <source>Presets:</source>
-        <translation type="unfinished">Förinställningar:</translation>
+        <translation>Förinställningar:</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="205"/>
         <source>Save current culling</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara nuvarande bortklippning</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="207"/>
         <source>Delete current culling</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort aktuell bortklippning</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="215"/>
         <source>Add &gt;&gt;</source>
-        <translation type="unfinished">Lägg till&gt;&gt;</translation>
+        <translation>Lägg till&gt;&gt;</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="216"/>
         <source>Clear all</source>
-        <translation type="unfinished"></translation>
+        <translation>Rensa allt</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="220"/>
         <source>Match:</source>
-        <translation type="unfinished"></translation>
+        <translation>Matcha:</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="221"/>
         <source>All</source>
-        <translation type="unfinished">Alla</translation>
+        <translation>Alla</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="222"/>
         <source>Any</source>
-        <translation type="unfinished">Valfri</translation>
+        <translation>Valfritt</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="234"/>
         <source>Search in</source>
-        <translation type="unfinished">Sök i</translation>
+        <translation>Sök i</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="236"/>
         <source>Selected files</source>
-        <translation type="unfinished"></translation>
+        <translation>Markerade filer</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="237"/>
         <source>All files of the folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Alla filer i mappen</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="238"/>
         <source>Recursive</source>
-        <translation type="unfinished">Rekursiv</translation>
+        <translation>Rekursivt</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="239"/>
         <source>Include the files of the subfolders</source>
-        <translation type="unfinished"></translation>
+        <translation>Inkludera filer i undermappar</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="281"/>
         <source>Action on the files of the input list</source>
-        <translation type="unfinished"></translation>
+        <translation>Åtgärd på filerna i indatalistan</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="284"/>
         <location filename="DlgCulling.cpp" line="844"/>
         <source>Delete</source>
-        <translation type="unfinished">Ta bort</translation>
+        <translation>Ta bort</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="285"/>
         <source>Move to</source>
-        <translation type="unfinished">Flytta till</translation>
+        <translation>Flytta till</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="286"/>
         <source>Copy to</source>
-        <translation type="unfinished">Kopiera till</translation>
+        <translation>Kopiera till</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="287"/>
         <source>Rename</source>
-        <translation type="unfinished">Byt namn</translation>
+        <translation>Byt namn</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="295"/>
