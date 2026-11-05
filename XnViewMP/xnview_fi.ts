@@ -352,7 +352,7 @@
     <name>AddressComboBox</name>
     <message>
         <source>Clear history</source>
-        <translation type="unfinished"></translation>
+        <translation>Poista historia</translation>
     </message>
 </context>
 <context>
@@ -465,26 +465,26 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     <name>BoxUploader</name>
     <message>
         <source>The file is too large to be uploaded (50 MB maximum).</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiedosto on liian suuri ladattavaksi (enintään 50 Mt).</translation>
     </message>
 </context>
 <context>
     <name>BreadcrumbBar</name>
     <message>
         <source>No subfolders</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei alikansioita</translation>
     </message>
     <message>
         <source>Copy path</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopioi polku</translation>
     </message>
     <message>
         <source>Paste path</source>
-        <translation type="unfinished"></translation>
+        <translation>Liitä polku</translation>
     </message>
     <message>
         <source>Edit path</source>
-        <translation type="unfinished"></translation>
+        <translation>Muokkaa polkua</translation>
     </message>
 </context>
 <context>
@@ -673,11 +673,11 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
     <message>
         <source>Delete item</source>
-        <translation type="unfinished"></translation>
+        <translation>Poista kohde</translation>
     </message>
     <message>
         <source>Are you sure to delete &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Oletko varma, että haluat poistaa kohteen ”%1”?</translation>
     </message>
 </context>
 <context>
@@ -5645,263 +5645,263 @@ Haluatko korvata sen?</translation>
     <name>DlgCulling</name>
     <message>
         <source>Culling</source>
-        <translation type="unfinished"></translation>
+        <translation>Karsinta</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Etsi</translation>
+        <translation>Etsi</translation>
     </message>
     <message>
         <source>Input</source>
-        <translation type="unfinished"></translation>
+        <translation>Syöte</translation>
     </message>
     <message>
         <source>Action</source>
-        <translation type="unfinished">Toiminto</translation>
+        <translation>Toiminto</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">Tila</translation>
+        <translation>Tila</translation>
     </message>
     <message>
         <source>List the files matching the conditions in the input tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Listaa syötevälilehden ehdot täyttävät tiedostot</translation>
     </message>
     <message>
         <source>Process</source>
-        <translation type="unfinished"></translation>
+        <translation>Prosessi</translation>
     </message>
     <message>
         <source>Run the action on the files of the input tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Suorita toiminto syötevälilehden tiedostoille</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Sulje</translation>
+        <translation>Sulje</translation>
     </message>
     <message>
         <source>Presets:</source>
-        <translation type="unfinished">Esiasetukset:</translation>
+        <translation>Esiasetukset:</translation>
     </message>
     <message>
         <source>Save current culling</source>
-        <translation type="unfinished"></translation>
+        <translation>Tallenna nykyinen karsinta</translation>
     </message>
     <message>
         <source>Delete current culling</source>
-        <translation type="unfinished"></translation>
+        <translation>Poista nykyinen karsinta</translation>
     </message>
     <message>
         <source>Add &gt;&gt;</source>
-        <translation type="unfinished">Lisää &gt;&gt;</translation>
+        <translation>Lisää &gt;&gt;</translation>
     </message>
     <message>
         <source>Clear all</source>
-        <translation type="unfinished">Tyhjennä kaikki</translation>
+        <translation>Tyhjennä kaikki</translation>
     </message>
     <message>
         <source>Match:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sopivat:</translation>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished">Kaikki</translation>
+        <translation>Kaikki</translation>
     </message>
     <message>
         <source>Any</source>
-        <translation type="unfinished">Mikä tahansa</translation>
+        <translation>Mikä tahansa</translation>
     </message>
     <message>
         <source>Search in</source>
-        <translation type="unfinished">Etsi</translation>
+        <translation>Etsi</translation>
     </message>
     <message>
         <source>Selected files</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitut tiedostot</translation>
     </message>
     <message>
         <source>All files of the folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Kansion kaikki tiedostot</translation>
     </message>
     <message>
         <source>Recursive</source>
-        <translation type="unfinished">Rekursiivinen</translation>
+        <translation>Rekursiivinen</translation>
     </message>
     <message>
         <source>Include the files of the subfolders</source>
-        <translation type="unfinished"></translation>
+        <translation>Sisällytä alikansioiden tiedostot</translation>
     </message>
     <message>
         <source>Action on the files of the input list</source>
-        <translation type="unfinished"></translation>
+        <translation>Toimenpiteet syöteluettelon tiedostoille</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Poista</translation>
+        <translation>Poista</translation>
     </message>
     <message>
         <source>Move to</source>
-        <translation type="unfinished">Siirrä kansioon</translation>
+        <translation>Siirrä kansioon</translation>
     </message>
     <message>
         <source>Copy to</source>
-        <translation type="unfinished">Kopioi kansioon</translation>
+        <translation>Kopioi kansioon</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished">Nimeä uudelleen</translation>
+        <translation>Nimeä uudelleen</translation>
     </message>
     <message>
         <source>Filename template, the extension is kept</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiedostonimimalli, tiedostopääte säilytetään</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished">Tiedosto</translation>
+        <translation>Tiedosto</translation>
     </message>
     <message>
         <source>Selected files (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitut tiedostot (%1)</translation>
     </message>
     <message>
         <source>All files of the folder (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kansion (%1) kaikki tiedostot</translation>
     </message>
     <message>
         <source>Preset</source>
-        <translation type="unfinished">Esiasetus</translation>
+        <translation>Esiasetus</translation>
     </message>
     <message>
         <source>Preset culling name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Karsinnan esiasetuksen nimi:</translation>
     </message>
     <message>
         <source>No condition defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ehtoa ei ole määritelty.</translation>
     </message>
     <message>
         <source>Checking files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tarkistetaan tiedostoja...</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Peruuta</translation>
+        <translation>Peruuta</translation>
     </message>
     <message>
         <source>A destination folder is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kohdekansio puuttuu.</translation>
     </message>
     <message>
         <source>The folder &apos;%1&apos; does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kansiota &apos;%1&apos; ei ole olemassa.</translation>
     </message>
     <message>
         <source>A filename template is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiedostonimimalli puuttuu.</translation>
     </message>
     <message>
         <source>The input list is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Syöteluettelo on tyhjä.</translation>
     </message>
     <message>
         <source>The name &apos;%1&apos; would be used by several files or already exists. Add a counter (#) to the template.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nimeä &apos;%1&apos; käyttäisi useampi tiedosto, tai se on jo olemassa. Lisää malliin laskuri (#).</translation>
     </message>
     <message>
         <source>No file matches the conditions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mikään tiedosto ei vastaa ehtoja.</translation>
     </message>
     <message numerus="yes">
         <source>Delete %n file(s)?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Poistetaanko %n tiedosto?</numerusform>
+            <numerusform>Poistetaanko %n tiedostot?</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Move %n file(s) to &apos;%1&apos;?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Siirretäänkö %n tiedosto kohteeseen ”%1”?</numerusform>
+            <numerusform>Siirretäänkö %n tiedostot kohteeseen ”%1”?</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Copy %n file(s) to &apos;%1&apos;?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Kopioidaanko %n tiedosto kohteeseen ”%1”?</numerusform>
+            <numerusform>Kopioidaanko %n tiedostot kohteeseen ”%1”?</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Rename %n file(s)?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Tiedosto %n nimetään udelleen?</numerusform>
+            <numerusform>Tiedostot %n nimetään udelleen?</numerusform>
         </translation>
     </message>
     <message>
         <source>Move to recycle bin</source>
-        <translation type="unfinished"></translation>
+        <translation>Siirrä roskakoriin</translation>
     </message>
     <message>
         <source>Move to &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Siirrä kohteeseen ”%1”</translation>
     </message>
     <message>
         <source>Copy to &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopioi kohteeseen ”%1”</translation>
     </message>
     <message>
         <source>Rename to &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Nimeä uudelleen muotoon ”%1”</translation>
     </message>
     <message>
         <source>Name kept</source>
-        <translation type="unfinished"></translation>
+        <translation>Nimi säilytetty</translation>
     </message>
     <message>
         <source>To process</source>
-        <translation type="unfinished"></translation>
+        <translation>Käsitellyyn</translation>
     </message>
     <message>
         <source>In progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Käsitellään</translation>
     </message>
     <message>
         <source>Processed</source>
-        <translation type="unfinished"></translation>
+        <translation>Käsitelty</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Virhe</translation>
+        <translation>Virhe</translation>
     </message>
     <message>
         <source>Not processed</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei käsitelty</translation>
     </message>
     <message>
         <source>Simulated</source>
-        <translation type="unfinished"></translation>
+        <translation>Simulointi</translation>
     </message>
     <message numerus="yes">
         <source>Simulation: %n file(s), no file has been modified</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Simulointi: %n tiedosto, yhtäkään tiedostoa ei ole muokattu</numerusform>
+            <numerusform>Simulointi: %n tiedostot, yhtäkään tiedostoa ei ole muokattu</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n file(s) processed</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n tiedosto käsitelty</numerusform>
+            <numerusform>%n tiedostot käsitelty</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>, %n error(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>, %n virhe</numerusform>
+            <numerusform>, %n virheet</numerusform>
         </translation>
     </message>
 </context>
@@ -9657,7 +9657,7 @@ Haluatko ensin tarkastaa tiedot, joihin tämä vaikuttaa?</translation>
     </message>
     <message>
         <source>Folder not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Kansiota ei löytynyt</translation>
     </message>
 </context>
 <context>
@@ -11393,11 +11393,11 @@ Haluatko määrittää uudelleen?</translation>
     </message>
     <message>
         <source>When the mouse is over a thumbnail, the colour labels are shown on its top and the rating stars on its bottom: a single click sets them. Replaces the rating/label popup menus.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kun hiiri viedään pikkukuvan päälle, väritunnisteet näkyvät sen yläreunassa ja tähtiluokitus alareunassa; ne asetetaan yhdellä napsautuksella. Korvaa luokitus/tunnistevalikot.</translation>
     </message>
     <message>
         <source>Show fast-rating overlay on thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytä pikkukuvien päällä pikaluokitusnäkymä</translation>
     </message>
 </context>
 <context>
@@ -12632,23 +12632,23 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Not signed in</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei kirjautunut sisään</translation>
     </message>
     <message>
         <source>Waiting for the authorization in the web browser...</source>
-        <translation type="unfinished"></translation>
+        <translation>Odotetaan valtuutusta verkkoselaimessa...</translation>
     </message>
     <message>
         <source>Signed in</source>
-        <translation type="unfinished"></translation>
+        <translation>Kirjautunut sisään</translation>
     </message>
     <message>
         <source>Sign out</source>
-        <translation type="unfinished"></translation>
+        <translation>Kirjaudu ulos</translation>
     </message>
     <message>
         <source>Sign in...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kirjaudu sisään...</translation>
     </message>
 </context>
 <context>
@@ -12687,15 +12687,15 @@ Haluatko jatkaa?</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Tili</translation>
     </message>
     <message>
         <source>Not signed in</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei kirjautunut sisään</translation>
     </message>
     <message>
         <source>Sign in...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kirjaudu sisään...</translation>
     </message>
 </context>
 <context>
@@ -13263,11 +13263,11 @@ Haluatko jatkaa?</translation>
     <name>DropboxUploader</name>
     <message>
         <source>The file is too large to be uploaded (150 MB maximum).</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiedosto on liian suuri ladattavaksi (enintään 150 Mt).</translation>
     </message>
     <message>
         <source>Unable to create a shared link.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jaetun linkin luominen ei onnistunut.</translation>
     </message>
 </context>
 <context>
@@ -13635,14 +13635,14 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     <name>FlickrUploader</name>
     <message>
         <source>The authorization request failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Valtuutuspyyntö epäonnistui.</translation>
     </message>
 </context>
 <context>
     <name>GoogleDriveUploader</name>
     <message>
         <source>Unable to create the upload session.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lähetysistunnon luominen epäonnistui.</translation>
     </message>
 </context>
 <context>
@@ -17745,7 +17745,7 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Gamma</source>
-        <translation type="unfinished">Gamma</translation>
+        <translation>Gamma</translation>
     </message>
 </context>
 <context>
@@ -18031,41 +18031,41 @@ Jatketaanko?</translation>
     </message>
     <message>
         <source>Adaptive scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Mukautuva skaalaus</translation>
     </message>
     <message>
         <source>Vertical scale capped at 4x the mean of the non-empty levels, higher peaks are clipped</source>
-        <translation type="unfinished"></translation>
+        <translation>Pystyskaalausasteikko on rajattu nelinkertaiseksi ei-tyhjien tasojen keskiarvoon; tätä korkeammat huiput leikkautuvat pois</translation>
     </message>
     <message>
         <source>Logarithmic scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Logaritminen skaalaus</translation>
     </message>
     <message>
         <source>Small counts stay visible next to high peaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Pienet määrät pysyvät näkyvissä korkeiden huippujen rinnalla</translation>
     </message>
     <message>
         <source>Ignore 0 and 255 for scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Jätä 0 ja 255 huomiotta skaalauksessa</translation>
     </message>
     <message>
         <source>Adaptive scale: clipped shadows and highlights don&apos;t flatten the rest of the histogram</source>
-        <translation type="unfinished"></translation>
+        <translation>Mukautuva skaalaus: leikkautuneet varjot ja kirkkaat sävyt eivät litistä histogrammin muuta osaa</translation>
     </message>
 </context>
 <context>
     <name>MyLittleToolBarV1</name>
     <message>
         <source>Toggle slider: thumbnail size / thumbnails per row</source>
-        <translation type="unfinished"></translation>
+        <translation>Valintaliukusäädin: pikkukuvien koko / pikkukuvia rivillä</translation>
     </message>
 </context>
 <context>
     <name>MyLittleToolBarV2_2</name>
     <message>
         <source>Toggle slider: thumbnail size / thumbnails per row</source>
-        <translation type="unfinished"></translation>
+        <translation>Valintaliukusäädin: pikkukuvien koko / pikkukuvia rivillä</translation>
     </message>
 </context>
 <context>
@@ -18189,11 +18189,11 @@ Voit muuttaa sitä asetusten kohdasta &quot;Katalogi&quot;.</translation>
     <name>OAuth2Uploader</name>
     <message>
         <source>The authorization request failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Valtuutuspyyntö epäonnistui.</translation>
     </message>
     <message>
         <source>This service is not configured in this build (missing client identifier).</source>
-        <translation type="unfinished"></translation>
+        <translation>Tätä palvelua ei ole määritetty tässä versiossa (asiakastunniste puuttuu).</translation>
     </message>
 </context>
 <context>
@@ -18515,7 +18515,7 @@ Voit muuttaa sitä asetusten kohdasta &quot;Katalogi&quot;.</translation>
     </message>
     <message>
         <source>Hardness</source>
-        <translation type="unfinished"></translation>
+        <translation>Kovuus</translation>
     </message>
 </context>
 <context>
@@ -18556,19 +18556,19 @@ Voit muuttaa sitä asetusten kohdasta &quot;Katalogi&quot;.</translation>
     <name>PiwigoUploader</name>
     <message>
         <source>Album</source>
-        <translation type="unfinished">Albumi</translation>
+        <translation>Albumi</translation>
     </message>
     <message>
         <source>The Piwigo server returned an error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Piwigo-palvelin palautti virheen.</translation>
     </message>
     <message>
         <source>The Piwigo gallery is not configured.</source>
-        <translation type="unfinished"></translation>
+        <translation>Piwigo-galleriaa ei ole määritetty.</translation>
     </message>
     <message>
         <source>Piwigo login failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Piwigon kirjautuminen epäonnistui: %1</translation>
     </message>
 </context>
 <context>
@@ -18582,23 +18582,23 @@ Voit muuttaa sitä asetusten kohdasta &quot;Katalogi&quot;.</translation>
     <name>PromoBanner</name>
     <message>
         <source>XnView Gallery, our photo gallery for Android, is available on Google Play.</source>
-        <translation type="unfinished"></translation>
+        <translation>XnView Gallery, Androidille tarkoitettu kuvagalleriamme, on saatavilla Google Playssa.</translation>
     </message>
     <message>
         <source>Google Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Google Play</translation>
     </message>
     <message>
         <source>QR code</source>
-        <translation type="unfinished"></translation>
+        <translation>QR-koodi</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Sulje</translation>
+        <translation>Sulje</translation>
     </message>
     <message>
         <source>Scan this code with your phone to open Google Play.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skannaa tämä koodi puhelimellasi avataksesi Google Playn.</translation>
     </message>
 </context>
 <context>
@@ -19412,7 +19412,7 @@ Voit muuttaa sitä asetusten kohdasta &quot;Katalogi&quot;.</translation>
     </message>
     <message>
         <source>Angle</source>
-        <translation type="unfinished">Kulma</translation>
+        <translation>Kulma</translation>
     </message>
 </context>
 <context>
@@ -19430,7 +19430,7 @@ Voit muuttaa sitä asetusten kohdasta &quot;Katalogi&quot;.</translation>
     <name>WebDavUploader</name>
     <message>
         <source>The WebDAV folder is not configured.</source>
-        <translation type="unfinished"></translation>
+        <translation>WebDAV-kansiota ei ole määritetty.</translation>
     </message>
 </context>
 <context>
@@ -19444,31 +19444,31 @@ Voit muuttaa sitä asetusten kohdasta &quot;Katalogi&quot;.</translation>
     <name>WebUploader</name>
     <message>
         <source>Unable to open %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ei voitu avata</translation>
     </message>
     <message>
         <source>Authorization received, you can close this window and return to XnView.</source>
-        <translation type="unfinished"></translation>
+        <translation>Valtuutus vastaanotettu; voit sulkea tämän ikkunan ja palata XnView:iin.</translation>
     </message>
     <message>
         <source>Unable to listen on local port %1 for the authorization callback.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei voida kuunnella paikallisessa portissa %1 valtuutuksen takaisinkutsua varten.</translation>
     </message>
     <message>
         <source>HTTP error %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>HTTP-virhe %1: %2</translation>
     </message>
     <message>
         <source>URL</source>
-        <translation type="unfinished">URL-osoite</translation>
+        <translation>URL-osoite</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Käyttäjänimi</translation>
+        <translation>Käyttäjänimi</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Salasana</translation>
+        <translation>Salasana</translation>
     </message>
 </context>
 <context>
