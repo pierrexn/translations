@@ -17859,7 +17859,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="174"/>
         <source>True ISO</source>
-        <translation type="unfinished"></translation>
+        <translation>트루 ISO</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="179"/>
@@ -18081,17 +18081,17 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="TemplateData.cpp" line="2837"/>
         <source>Check status</source>
-        <translation type="unfinished"></translation>
+        <translation>상태 확인</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2843"/>
         <source>Frame index</source>
-        <translation type="unfinished"></translation>
+        <translation>프레임 번호</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2844"/>
         <source>Frame count</source>
-        <translation type="unfinished"></translation>
+        <translation>프레임 번호</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="30"/>
@@ -18294,7 +18294,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="InfoCategoryView.cpp" line="1412"/>
         <location filename="InfoCategoryView.cpp" line="1483"/>
         <source>Are you sure to delete these categories?</source>
-        <translation type="unfinished">카테고리를 삭제 하시겠습니까?</translation>
+        <translation>다음 카테고리를 삭제 하시겠습니까?</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="1503"/>
@@ -18383,19 +18383,21 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="InfoCategoryView.cpp" line="245"/>
         <source>Catalog file</source>
-        <translation type="unfinished"></translation>
+        <translation>카탈로그 파일</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="251"/>
         <source>Catalog - Clear &amp; Import</source>
-        <translation type="unfinished"></translation>
+        <translation>카탈로그 - 제거 &amp; 임포트</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="251"/>
         <source>Importing will replace all existing Catalog data.
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>임포트시 기존 카탈로그는 덮어 씌워집니다.
+
+계속 하시겠습니까?</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="622"/>
@@ -18585,7 +18587,7 @@ Do you want to continue?</source>
     <message>
         <location filename="TemplateData.cpp" line="2709"/>
         <source>Subject Distance Range</source>
-        <translation type="unfinished"></translation>
+        <translation>대상 거리 범위</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2752"/>
@@ -20243,7 +20245,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MediaPlayer.cpp" line="367"/>
         <source>Save frame as...</source>
-        <translation type="unfinished">다른 이름으로 프레임 저장...</translation>
+        <translation>다른 이름으로 프레임 저장...</translation>
     </message>
     <message>
         <location filename="MediaPlayer.cpp" line="370"/>
@@ -20654,12 +20656,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="545"/>
         <source>Update catalog from files</source>
-        <translation type="unfinished"></translation>
+        <translation>파일로 부터 카탈로그 업데이트</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="546"/>
         <source>Update catalog from files (+options)...</source>
-        <translation type="unfinished"></translation>
+        <translation>파일로 부터 카탈로그 업데이트 (+옵션)...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="561"/>
@@ -20784,7 +20786,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="631"/>
         <source>Import...</source>
-        <translation type="unfinished">가져오기...</translation>
+        <translation>가져오기...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="632"/>
@@ -21385,7 +21387,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="551"/>
         <source>Play/Stop audio companion</source>
-        <translation type="unfinished"></translation>
+        <translation>오디오 컴패니언 재생/정지</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="553"/>
@@ -21426,22 +21428,22 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="589"/>
         <source>Load...</source>
-        <translation type="unfinished">불러오기...</translation>
+        <translation>불러오기...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="590"/>
         <source>Save...</source>
-        <translation type="unfinished">저장...</translation>
+        <translation>저장...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="591"/>
         <source>Unload all</source>
-        <translation type="unfinished"></translation>
+        <translation>모두 닫기</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="593"/>
         <source>Session</source>
-        <translation type="unfinished">세션</translation>
+        <translation>세션</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="603"/>
@@ -21527,12 +21529,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="668"/>
         <source>Show clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>클리핑 표시</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="669"/>
         <source>Channel clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>채널 클리핑</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="677"/>
@@ -21580,7 +21582,7 @@ Do you want to continue?</oldsource>
         <location filename="BrowserMenu.h" line="66"/>
         <source>Name - natural (numeric) order</source>
         <oldsource>Name - natural order</oldsource>
-        <translation type="unfinished">이름 - 숫자순</translation>
+        <translation>이름 - 숫자순</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="68"/>
@@ -21889,7 +21891,7 @@ Do you want to continue?</oldsource>
         <location filename="TemplateData.cpp" line="2612"/>
         <source>h - Hour (01-12)</source>
         <oldsource>h - Hour (01-21)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>h - 시 (01-12)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2613"/>
@@ -22417,7 +22419,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="457"/>
         <source>Grid</source>
-        <translation type="unfinished">격자</translation>
+        <translation>격자</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="461"/>
@@ -22526,12 +22528,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="432"/>
         <source>Center image</source>
-        <translation type="unfinished"></translation>
+        <translation>이미지를 중앙으로</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="460"/>
         <source>Play/Pause media</source>
-        <translation type="unfinished"></translation>
+        <translation>미디어 재생/일시 정지</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="467"/>
@@ -22552,12 +22554,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="470"/>
         <source>Gamma</source>
-        <translation type="unfinished">감마</translation>
+        <translation>감마</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="472"/>
         <source>Show clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>클리핑 표시</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="487"/>
@@ -23067,32 +23069,32 @@ Do you want to continue?</oldsource>
         <location filename="MyView.cpp" line="108"/>
         <location filename="ViewMenu.h" line="473"/>
         <source>Shadows</source>
-        <translation type="unfinished"></translation>
+        <translation>섀도우</translation>
     </message>
     <message>
         <location filename="MyView.cpp" line="93"/>
         <location filename="MyView.cpp" line="111"/>
         <location filename="ViewMenu.h" line="474"/>
         <source>Highlights</source>
-        <translation type="unfinished"></translation>
+        <translation>하이라이트</translation>
     </message>
     <message>
         <location filename="MyView.cpp" line="95"/>
         <location filename="ViewMenu.h" line="476"/>
         <source>Highlights (per channel)</source>
-        <translation type="unfinished"></translation>
+        <translation>하이라이트 (채널별)</translation>
     </message>
     <message>
         <location filename="MyView.cpp" line="97"/>
         <location filename="ViewMenu.h" line="475"/>
         <source>Shadows + Highlights</source>
-        <translation type="unfinished"></translation>
+        <translation>섀도우 + 하이라이트</translation>
     </message>
     <message>
         <location filename="MyView.cpp" line="106"/>
         <location filename="ViewMenu.h" line="477"/>
         <source>Clipping warning</source>
-        <translation type="unfinished"></translation>
+        <translation>클리핑 경고</translation>
     </message>
 </context>
 <context>
@@ -23410,7 +23412,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyHistogram.cpp" line="275"/>
         <source>Adaptive scale</source>
-        <translation type="unfinished"></translation>
+        <translation>적응형 확대</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="275"/>
@@ -23420,7 +23422,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyHistogram.cpp" line="276"/>
         <source>Logarithmic scale</source>
-        <translation type="unfinished"></translation>
+        <translation>로그 스케일</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="276"/>
