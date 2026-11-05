@@ -357,12 +357,12 @@
     <message>
         <location filename="ViewWindow.cpp" line="4277"/>
         <source>Expand canvas</source>
-        <translation type="unfinished"></translation>
+        <translation>Espandi quadro</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4277"/>
         <source>Do you want to expand the canvas?</source>
-        <translation type="unfinished"></translation>
+        <translation>Volete espandere il quadro?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4704"/>
@@ -448,7 +448,7 @@
         <location filename="AddressBar.cpp" line="118"/>
         <location filename="AddressBar.cpp" line="730"/>
         <source>Clear history</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancella cronologia</translation>
     </message>
 </context>
 <context>
@@ -583,7 +583,7 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
     <message>
         <location filename="BoxUploader.cpp" line="40"/>
         <source>The file is too large to be uploaded (50 MB maximum).</source>
-        <translation type="unfinished"></translation>
+        <translation>Il file è troppo grande per essere inviato (massimo 50 MB).</translation>
     </message>
 </context>
 <context>
@@ -592,22 +592,22 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
         <location filename="AddressBar.cpp" line="638"/>
         <location filename="AddressBar.cpp" line="672"/>
         <source>No subfolders</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessuna sottocartella</translation>
     </message>
     <message>
         <location filename="AddressBar.cpp" line="722"/>
         <source>Copy path</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia percorso</translation>
     </message>
     <message>
         <location filename="AddressBar.cpp" line="725"/>
         <source>Paste path</source>
-        <translation type="unfinished"></translation>
+        <translation>Incolla percorso</translation>
     </message>
     <message>
         <location filename="AddressBar.cpp" line="727"/>
         <source>Edit path</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifica percorso</translation>
     </message>
 </context>
 <context>
@@ -712,12 +712,12 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="4134"/>
         <source>Delete item</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimina elemento</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4135"/>
         <source>Are you sure to delete &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Volete davvero eliminare &quot;%1&quot;?</translation>
     </message>
     <message numerus="yes">
         <location filename="BrowserWindow.cpp" line="4142"/>
@@ -1152,7 +1152,7 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
     <message>
         <location filename="CompareWidget.cpp" line="55"/>
         <source>Clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Clipping</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="577"/>
@@ -2456,7 +2456,7 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
     <message>
         <location filename="DlgBanner.ui" line="23"/>
         <source>&lt;html&gt;&lt;p&gt;All banner specifications (font, color, size, etc.) carry forward from the previously created banner. An exception is text size, which is calculated to &apos;Best fit&apos; for banner height.&lt;/p&gt;&lt;p&gt;You may select multiple images to apply the same banner to several images at once. Note that the text will be the same size in all images, then.&lt;/p&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; align=&quot;left&quot; style=&quot;border-bottom:1px solid gray;padding-top:15px&quot;&gt;Shortcuts&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Increase/decrease font size by 2 points&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+Shift+Plus/Minus&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Increase/decrease banner size by 1%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Ctrl+S&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Start banner creation&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;p&gt;Tutte le specifiche del banner (carattere, colore, dimensione, ecc.) vengono importate dal banner creato in precedenza. Fa eccezione la dimensione del testo, che viene calcolata con il &apos;miglior adattamento&apos; all&apos;altezza del banner.&lt;/p&gt;&lt;p&gt;È possibile selezionare più immagini per applicare lo stesso banner a più immagini contemporaneamente. Si noti che il testo avrà la stessa dimensione in tutte le immagini.&lt;/p&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; align=&quot;left&quot; style=&quot;border-bottom:1px solid gray;padding-top:15px&quot;&gt; Scorciatoie&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt; Ctrl+Più/Meno&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Aumenta/diminuisce la dimensione del carattere di 2 punti&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt; Ctrl+Maiusc+Più/Meno&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Aumenta/diminuisce la dimensione del banner dell&apos;1%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt; Ctrl+S&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Avvia la creazione del banner&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;p&gt;Tutte le specifiche del banner (carattere, colore, dimensione, ecc.) vengono importate dal banner creato in precedenza. Fa eccezione la dimensione del testo, che viene calcolata con il &apos;miglior adattamento&apos; all&apos;altezza del banner.&lt;/p&gt;&lt;p&gt;È possibile selezionare più immagini per applicare lo stesso banner a più immagini contemporaneamente. Si noti che il testo avrà la stessa dimensione in tutte le immagini.&lt;/p&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;th colspan=&quot;2&quot; align=&quot;left&quot; style=&quot;border-bottom:1px solid gray;padding-top:15px&quot;&gt; Scorciatoie&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt; Ctrl+Più/Meno&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Aumenta/diminuisce la dimensione del carattere di 2 punti&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt; Ctrl+Maiusc+Più/Meno&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Aumenta/diminuisce la dimensione dello striscione dell&apos;1%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt; Ctrl+S&lt;/td&gt;&lt;td style=&quot;padding-left:15px&quot;&gt;Avvia la creazione dello striscione&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="DlgBanner.ui" line="177"/>
@@ -4352,7 +4352,7 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgConvertAutoDeskew.ui" line="47"/>
         <source>Use anti-aliasing</source>
-        <translation type="unfinished">Usa anti-aliansing</translation>
+        <translation>Usa anti-aliansing</translation>
     </message>
 </context>
 <context>
@@ -5296,7 +5296,7 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgConvert.ui" line="1616"/>
         <source>Black</source>
-        <translation type="unfinished">Nero</translation>
+        <translation>Nero</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1787"/>
@@ -6090,17 +6090,17 @@ Volete continuare?</translation>
         <location filename="DlgConvertMulti.ui" line="14"/>
         <location filename="DlgConvertMulti.cpp" line="18"/>
         <source>Multiple output</source>
-        <translation type="unfinished"></translation>
+        <translation>Elaborazioni multiple</translation>
     </message>
     <message>
         <location filename="DlgConvertMulti.cpp" line="45"/>
         <source>Width:</source>
-        <translation type="unfinished">Larghezza:</translation>
+        <translation>Larghezza:</translation>
     </message>
     <message>
         <location filename="DlgConvertMulti.cpp" line="51"/>
         <source>Height:</source>
-        <translation type="unfinished">Altezza:</translation>
+        <translation>Altezza:</translation>
     </message>
 </context>
 <context>
@@ -6637,7 +6637,7 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgConvertRotate.ui" line="195"/>
         <source>Use anti-aliasing</source>
-        <translation type="unfinished">Usa anti-aliansing</translation>
+        <translation>Usa anti-aliansing</translation>
     </message>
     <message>
         <location filename="DlgConvertRotate.ui" line="203"/>
@@ -7294,328 +7294,328 @@ Volete continuare?</translation>
         <location filename="DlgCulling.cpp" line="805"/>
         <location filename="DlgCulling.cpp" line="832"/>
         <source>Culling</source>
-        <translation type="unfinished"></translation>
+        <translation>Cernita</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="146"/>
         <location filename="DlgCulling.cpp" line="153"/>
         <source>Search</source>
-        <translation type="unfinished">Cerca</translation>
+        <translation>Cerca</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="147"/>
         <location filename="DlgCulling.cpp" line="412"/>
         <source>Input</source>
-        <translation type="unfinished"></translation>
+        <translation>Origine</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="148"/>
         <location filename="DlgCulling.cpp" line="313"/>
         <source>Action</source>
-        <translation type="unfinished">Azione</translation>
+        <translation>Azione</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="149"/>
         <location filename="DlgCulling.cpp" line="313"/>
         <source>Status</source>
-        <translation type="unfinished">Stato</translation>
+        <translation>Stato</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="154"/>
         <source>List the files matching the conditions in the input tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Elenca i file che soddisfano le condizioni specificate nella scheda &quot;Origine&quot;</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="156"/>
         <source>Process</source>
-        <translation type="unfinished"></translation>
+        <translation>Elaborazione</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="157"/>
         <source>Run the action on the files of the input tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Esegui l&apos;azione sui file della scheda &quot;Origine&quot;</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="158"/>
         <source>Close</source>
-        <translation type="unfinished">Chiudi</translation>
+        <translation>Chiudi</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="201"/>
         <source>Presets:</source>
-        <translation type="unfinished">Preimpostazioni:</translation>
+        <translation>Preimpostazioni:</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="205"/>
         <source>Save current culling</source>
-        <translation type="unfinished"></translation>
+        <translation>Salva cernita corrente</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="207"/>
         <source>Delete current culling</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimina cernita corrente</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="215"/>
         <source>Add &gt;&gt;</source>
-        <translation type="unfinished">Aggiungi &gt;&gt;</translation>
+        <translation>Aggiungi &gt;&gt;</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="216"/>
         <source>Clear all</source>
-        <translation type="unfinished"></translation>
+        <translation>Rimuovi tutti</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="220"/>
         <source>Match:</source>
-        <translation type="unfinished"></translation>
+        <translation>Corrispondenza:</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="221"/>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutti</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="222"/>
         <source>Any</source>
-        <translation type="unfinished">Alcune</translation>
+        <translation>Qualsiasi</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="234"/>
         <source>Search in</source>
-        <translation type="unfinished">Cerca in</translation>
+        <translation>Cerca in</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="236"/>
         <source>Selected files</source>
-        <translation type="unfinished"></translation>
+        <translation>File selezionati</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="237"/>
         <source>All files of the folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutti i file della cartella</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="238"/>
         <source>Recursive</source>
-        <translation type="unfinished">Ricorsivo</translation>
+        <translation>Ricorsivo</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="239"/>
         <source>Include the files of the subfolders</source>
-        <translation type="unfinished"></translation>
+        <translation>Includi i file delle sottocartelle</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="281"/>
         <source>Action on the files of the input list</source>
-        <translation type="unfinished"></translation>
+        <translation>Operazioni sui file dell&apos;elenco di origine</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="284"/>
         <location filename="DlgCulling.cpp" line="844"/>
         <source>Delete</source>
-        <translation type="unfinished">Elimina</translation>
+        <translation>Elimina</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="285"/>
         <source>Move to</source>
-        <translation type="unfinished">Sposta in</translation>
+        <translation>Sposta in</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="286"/>
         <source>Copy to</source>
-        <translation type="unfinished">Copia in</translation>
+        <translation>Copia in</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="287"/>
         <source>Rename</source>
-        <translation type="unfinished">Rinomina</translation>
+        <translation>Rinomina</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="295"/>
         <source>Filename template, the extension is kept</source>
-        <translation type="unfinished"></translation>
+        <translation>Modello di nome file: l&apos;estensione viene mantenuta</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="313"/>
         <source>File</source>
-        <translation type="unfinished">File</translation>
+        <translation>File</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="344"/>
         <source>Selected files (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>File selezionati (%1)</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="345"/>
         <location filename="DlgCulling.cpp" line="366"/>
         <source>All files of the folder (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutti i file della cartella (%1)</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="472"/>
         <source>Preset</source>
-        <translation type="unfinished">Preimpostazione</translation>
+        <translation>Preimpostazione</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="472"/>
         <source>Preset culling name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome predefinito della cernita:</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="591"/>
         <source>No condition defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessuna condizione definita.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="605"/>
         <source>Checking files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Verifica dei file in corso...</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="605"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annulla</translation>
+        <translation>Annulla</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="674"/>
         <source>A destination folder is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Manca una cartella di destinazione.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="679"/>
         <source>The folder &apos;%1&apos; does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>La cartella &quot;%1&quot; non esiste.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="684"/>
         <source>A filename template is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Manca un modello di nome file.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="705"/>
         <source>The input list is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;elenco di origine è vuoto.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="728"/>
         <source>The name &apos;%1&apos; would be used by several files or already exists. Add a counter (#) to the template.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il nome &quot;%1&quot; è già utilizzato da altri file o esiste già. Aggiungi un numero progressivo (#) al modello.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="780"/>
         <source>No file matches the conditions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessun file soddisfa i criteri.</translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="820"/>
         <source>Delete %n file(s)?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Eliminare %n file?</numerusform>
+            <numerusform>Eliminare %n file?</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="823"/>
         <source>Move %n file(s) to &apos;%1&apos;?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Spostare %n file in &apos;%1&apos;?</numerusform>
+            <numerusform>Spostare %n file in &apos;%1&apos;?</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="826"/>
         <source>Copy %n file(s) to &apos;%1&apos;?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Copiare %n file in &apos;%1&apos;?</numerusform>
+            <numerusform>Copiare %n file in &apos;%1&apos;?</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="829"/>
         <source>Rename %n file(s)?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Rinominare %n file?</numerusform>
+            <numerusform>Rinominare %n file?</numerusform>
         </translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="844"/>
         <source>Move to recycle bin</source>
-        <translation type="unfinished"></translation>
+        <translation>Sposta nel cestino</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="846"/>
         <source>Move to &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Vai a &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="848"/>
         <source>Copy to &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia in &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="851"/>
         <source>Rename to &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Rinomina in &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="852"/>
         <source>Name kept</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome mantenuto</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="880"/>
         <source>To process</source>
-        <translation type="unfinished"></translation>
+        <translation>Da elaborare</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="881"/>
         <source>In progress</source>
-        <translation type="unfinished"></translation>
+        <translation>In corso</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="882"/>
         <source>Processed</source>
-        <translation type="unfinished"></translation>
+        <translation>Elaborato</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="883"/>
         <source>Error</source>
-        <translation type="unfinished">Errore</translation>
+        <translation>Errore</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="884"/>
         <source>Not processed</source>
-        <translation type="unfinished"></translation>
+        <translation>Non elaborato</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="885"/>
         <source>Simulated</source>
-        <translation type="unfinished"></translation>
+        <translation>Simulato</translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="903"/>
         <source>Simulation: %n file(s), no file has been modified</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Simulazione: %n file, nessun file è stato modificato</numerusform>
+            <numerusform>Simulazione: %n file, nessun file è stato modificato</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="1007"/>
         <source>%n file(s) processed</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n file elaborato</numerusform>
+            <numerusform>%n file elaborati</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="1007"/>
         <source>, %n error(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>, %n errore</numerusform>
+            <numerusform>, %n errori</numerusform>
         </translation>
     </message>
 </context>
@@ -7872,7 +7872,7 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgEditEXIF.ui" line="463"/>
         <source>XP Subject</source>
-        <translation type="unfinished">XP: Soggetto</translation>
+        <translation>XP: Soggetto</translation>
     </message>
     <message>
         <location filename="DlgEditEXIF.ui" line="525"/>
@@ -8684,7 +8684,7 @@ Si prega di riavviare con i privilegi di Amministratore.</translation>
     <message>
         <location filename="DlgFile.ui" line="56"/>
         <source>Clear history entries</source>
-        <translation>Cancella cronologia</translation>
+        <translation>Cancella le voci della cronologia</translation>
     </message>
     <message>
         <location filename="DlgFile.ui" line="70"/>
@@ -9276,7 +9276,7 @@ Si prega di riavviare con i privilegi di Amministratore.</translation>
     <message>
         <location filename="DlgHistoryList.h" line="26"/>
         <source>Save preset</source>
-        <translation type="unfinished">Salva preimpostazione</translation>
+        <translation>Salva preimpostazione</translation>
     </message>
     <message>
         <location filename="DlgHistoryList.h" line="27"/>
@@ -11058,12 +11058,12 @@ Installarlo tramite Strumenti &gt; Plugin</translation>
     <message>
         <location filename="DlgRename.cpp" line="105"/>
         <source>Rename</source>
-        <translation type="unfinished">Rinomina</translation>
+        <translation>Rinomina</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="106"/>
         <source>Close</source>
-        <translation type="unfinished">Chiudi</translation>
+        <translation>Chiudi</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="379"/>
@@ -11078,7 +11078,7 @@ Si desidera rimuoverli?</translation>
         <location filename="DlgRename.cpp" line="1368"/>
         <location filename="DlgRename.cpp" line="1375"/>
         <source>Save preset</source>
-        <translation type="unfinished">Salva preimpostazione</translation>
+        <translation>Salva preimpostazione</translation>
     </message>
     <message>
         <location filename="DlgRename.cpp" line="1368"/>
@@ -11187,17 +11187,17 @@ Si desidera rimuoverli?</translation>
     <message>
         <location filename="DlgRename.ui" line="490"/>
         <source>Presets:</source>
-        <translation type="unfinished">Preimpostazioni:</translation>
+        <translation>Preimpostazioni:</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="507"/>
         <source>Save preset</source>
-        <translation type="unfinished">Salva preimpostazione</translation>
+        <translation>Salva preimpostazione</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="521"/>
         <source>Remove preset from list</source>
-        <translation type="unfinished">Rimuovi preimpostazione dalla lista</translation>
+        <translation>Rimuovi preimpostazione dalla lista</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="110"/>
@@ -11208,7 +11208,7 @@ Si desidera rimuoverli?</translation>
         <location filename="DlgRename.ui" line="293"/>
         <source>Replace diacritic characters</source>
         <oldsource>Clean diacritic characters</oldsource>
-        <translation type="unfinished">Elimina caratteri diacritici</translation>
+        <translation>Elimina caratteri diacritici</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="209"/>
@@ -11239,17 +11239,17 @@ Si desidera rimuoverli?</translation>
     <message>
         <location filename="DlgRename.ui" line="323"/>
         <source>Add files...</source>
-        <translation type="unfinished">Aggiungi file...</translation>
+        <translation>Aggiungi file...</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="337"/>
         <source>Remove</source>
-        <translation type="unfinished">Rimuovi</translation>
+        <translation>Rimuovi</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="351"/>
         <source>Remove all</source>
-        <translation type="unfinished">Rimuovi tutti</translation>
+        <translation>Rimuovi tutti</translation>
     </message>
     <message>
         <location filename="DlgRename.ui" line="441"/>
@@ -11737,7 +11737,7 @@ Si desidera rimuoverli?</translation>
     <message>
         <location filename="DlgSearch.ui" line="145"/>
         <source>Search in</source>
-        <translation type="unfinished">Cerca in</translation>
+        <translation>Cerca in</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="153"/>
@@ -11747,7 +11747,7 @@ Si desidera rimuoverli?</translation>
     <message>
         <location filename="DlgSearch.ui" line="158"/>
         <source>Catalog</source>
-        <translation type="unfinished">Catalogo</translation>
+        <translation>Catalogo</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="196"/>
@@ -11987,7 +11987,7 @@ Si desidera rimuoverli?</translation>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="397"/>
         <source>Reset list to default?</source>
-        <translation type="unfinished"></translation>
+        <translation>Reimpostare l&apos;elenco alle impostazioni predefinite?</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="587"/>
@@ -12086,12 +12086,12 @@ Si desidera rimuoverli?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="585"/>
         <source>Label</source>
-        <translation type="unfinished">Etichetta</translation>
+        <translation>Etichetta</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="590"/>
         <source>Field</source>
-        <translation type="unfinished">Campo</translation>
+        <translation>Campo</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="553"/>
@@ -12101,12 +12101,12 @@ Si desidera rimuoverli?</translation>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="498"/>
         <source>Columns</source>
-        <translation type="unfinished">Colonne</translation>
+        <translation>Colonne</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="510"/>
         <source>&lt;Default&gt;</source>
-        <translation type="unfinished">&lt;Predefinita&gt;</translation>
+        <translation>&lt;Predefinita&gt;</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.ui" line="291"/>
@@ -12283,7 +12283,7 @@ Si desidera rimuoverli?</translation>
     <message>
         <location filename="DlgSettingsCache.cpp" line="272"/>
         <source>Folder not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Cartella non trovata</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="356"/>
@@ -12460,7 +12460,7 @@ Volete rimuovere le voci assegnate ad una Categoria?</translation>
     <message>
         <location filename="DlgSettingsCache.ui" line="323"/>
         <source>Filter</source>
-        <translation type="unfinished">Filtro</translation>
+        <translation>Filtro</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="354"/>
@@ -12519,13 +12519,13 @@ Volete rimuovere le voci assegnate ad una Categoria?</translation>
     <message>
         <location filename="DlgSettingsCache.ui" line="364"/>
         <source>Metadata</source>
-        <translation type="unfinished">Metadati</translation>
+        <translation>Metadati</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="369"/>
         <source>Thumbnails</source>
         <oldsource>Thumbnail</oldsource>
-        <translation type="unfinished">Miniatura</translation>
+        <translation>Miniature</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="478"/>
@@ -13081,7 +13081,7 @@ miniatura</translation>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="112"/>
         <source>Grey</source>
-        <translation type="unfinished">Grigio</translation>
+        <translation>Grigio</translation>
     </message>
     <message>
         <location filename="DlgSettingsGeneral.ui" line="117"/>
@@ -14330,7 +14330,7 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="83"/>
         <source>File</source>
-        <translation type="unfinished">File</translation>
+        <translation>File</translation>
     </message>
     <message>
         <location filename="DlgSettingsKeywords.ui" line="159"/>
@@ -14546,22 +14546,22 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="898"/>
         <source>Audio</source>
-        <translation type="unfinished">Audio</translation>
+        <translation>Audio</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="916"/>
         <source>Icon spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Spaziatura delle icone:</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="948"/>
         <source>When the mouse is over a thumbnail, the colour labels are shown on its top and the rating stars on its bottom: a single click sets them. Replaces the rating/label popup menus.</source>
-        <translation type="unfinished"></translation>
+        <translation>Quando si passa il mouse su una miniatura, le etichette colorate vengono visualizzate nella parte superiore e le stelle di valutazione in quella inferiore: basta un singolo clic per impostarle. Sostituisce i menu a comparsa di valutazione/etichetta.</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="951"/>
         <source>Show fast-rating overlay on thumbnails</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra il riquadro di valutazione rapida sulle miniature</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1126"/>
@@ -14793,7 +14793,7 @@ Desiderate riassegnarlo?</translation>
         <location filename="DlgSettingsView.ui" line="36"/>
         <source>Viewer</source>
         <oldsource>View</oldsource>
-        <translation type="unfinished">Visualizzazione</translation>
+        <translation>Visualizzazione</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="299"/>
@@ -14981,7 +14981,7 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="782"/>
         <source>Auto-play audio companion files</source>
-        <translation type="unfinished"></translation>
+        <translation>Riproduzione automatica dei file audio di accompagnamento</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="709"/>
@@ -15041,7 +15041,7 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="258"/>
         <source>Defaults</source>
-        <translation type="unfinished">Predefiniti</translation>
+        <translation>Predefiniti</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="176"/>
@@ -15051,7 +15051,7 @@ Desiderate riassegnarlo?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="291"/>
         <source>Zoom</source>
-        <translation type="unfinished">Zoom</translation>
+        <translation>Zoom</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="346"/>
@@ -16310,12 +16310,12 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="20"/>
         <source>Update</source>
-        <translation type="unfinished">Aggiornamento</translation>
+        <translation>Aggiornamento</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="21"/>
         <source>Stop</source>
-        <translation type="unfinished">Stop</translation>
+        <translation>Stop</translation>
     </message>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="51"/>
@@ -16335,7 +16335,7 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgUpdateDatabase.cpp" line="147"/>
         <source>Stopping...</source>
-        <translation type="unfinished"></translation>
+        <translation>Interruzione...</translation>
     </message>
 </context>
 <context>
@@ -16352,17 +16352,17 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgUpload.cpp" line="71"/>
         <source>Not signed in</source>
-        <translation type="unfinished"></translation>
+        <translation>Accesso non effettuato</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="73"/>
         <source>Waiting for the authorization in the web browser...</source>
-        <translation type="unfinished"></translation>
+        <translation>In attesa dell&apos;autorizzazione nel browser web...</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="76"/>
         <source>Signed in</source>
-        <translation type="unfinished"></translation>
+        <translation>Accesso effettuato</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="78"/>
@@ -16373,12 +16373,12 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgUpload.cpp" line="78"/>
         <source>Sign out</source>
-        <translation type="unfinished"></translation>
+        <translation>Disconetti</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="78"/>
         <source>Sign in...</source>
-        <translation type="unfinished"></translation>
+        <translation>Accedi...</translation>
     </message>
     <message>
         <location filename="DlgUpload.cpp" line="196"/>
@@ -16427,17 +16427,17 @@ Volete continuare?</translation>
     <message>
         <location filename="DlgUpload.ui" line="122"/>
         <source>Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Account</translation>
     </message>
     <message>
         <location filename="DlgUpload.ui" line="128"/>
         <source>Not signed in</source>
-        <translation type="unfinished"></translation>
+        <translation>Accesso non effettuato</translation>
     </message>
     <message>
         <location filename="DlgUpload.ui" line="138"/>
         <source>Sign in...</source>
-        <translation type="unfinished"></translation>
+        <translation>Accedi...</translation>
     </message>
     <message>
         <location filename="DlgUpload.ui" line="165"/>
@@ -17161,12 +17161,12 @@ Volete continuare?</translation>
     <message>
         <location filename="DropboxUploader.cpp" line="66"/>
         <source>The file is too large to be uploaded (150 MB maximum).</source>
-        <translation type="unfinished"></translation>
+        <translation>Il file è troppo grande per essere inviato (massimo 150 MB).</translation>
     </message>
     <message>
         <location filename="DropboxUploader.cpp" line="116"/>
         <source>Unable to create a shared link.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile creare un link condiviso.</translation>
     </message>
 </context>
 <context>
@@ -17628,7 +17628,7 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
     <message>
         <location filename="FlickrUploader.cpp" line="43"/>
         <source>The authorization request failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>La richiesta di autorizzazione non è andata a buon fine.</translation>
     </message>
 </context>
 <context>
@@ -17636,7 +17636,7 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
     <message>
         <location filename="GoogleDriveUploader.cpp" line="109"/>
         <source>Unable to create the upload session.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile creare la sessione di invio.</translation>
     </message>
 </context>
 <context>
@@ -17685,7 +17685,7 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="74"/>
         <source>Bits per channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Bit per canale</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="76"/>
@@ -17704,7 +17704,7 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="78"/>
         <source>Indexed</source>
-        <translation type="unfinished"></translation>
+        <translation>Indicizzato</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="80"/>
@@ -17778,7 +17778,7 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="172"/>
         <source>F-Number</source>
-        <translation type="unfinished">Numero-F</translation>
+        <translation>Numero-F</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="179"/>
@@ -17924,12 +17924,12 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoPropertiesView.cpp" line="170"/>
         <source>Exposure Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Tempo di esposizione</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="174"/>
         <source>True ISO</source>
-        <translation type="unfinished"></translation>
+        <translation>ISO effettivo</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="213"/>
@@ -17968,7 +17968,7 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
     <message>
         <location filename="ItemModel.cpp" line="1061"/>
         <source>Bits</source>
-        <translation type="unfinished"></translation>
+        <translation>Bit</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="497"/>
@@ -18359,7 +18359,7 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
         <location filename="InfoCategoryView.cpp" line="1412"/>
         <location filename="InfoCategoryView.cpp" line="1483"/>
         <source>Are you sure to delete these categories?</source>
-        <translation type="unfinished">Volete davvero eliminare queste categorie?</translation>
+        <translation>Volete davvero eliminare queste categorie?</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="1503"/>
@@ -18448,19 +18448,21 @@ Si desidera eliminare il preferito &quot;%1&quot;?</translation>
     <message>
         <location filename="InfoCategoryView.cpp" line="245"/>
         <source>Catalog file</source>
-        <translation type="unfinished"></translation>
+        <translation>File del catalogo</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="251"/>
         <source>Catalog - Clear &amp; Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Catalogo - Cancella e importa</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="251"/>
         <source>Importing will replace all existing Catalog data.
 
 Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;importazione sostituirà tutti i dati esistenti del Catalogo.
+
+Volete continuare?</translation>
     </message>
     <message>
         <location filename="InfoCategoryView.cpp" line="622"/>
@@ -18680,7 +18682,7 @@ Do you want to continue?</source>
     <message>
         <location filename="TemplateData.cpp" line="2709"/>
         <source>Subject Distance Range</source>
-        <translation type="unfinished"></translation>
+        <translation>Intervallo Distanza Oggetto</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2752"/>
@@ -19361,7 +19363,7 @@ Do you want to continue?</source>
         <location filename="SearchField.cpp" line="67"/>
         <location filename="TemplateData.cpp" line="2793"/>
         <source>Fixture ID</source>
-        <translation type="unfinished"></translation>
+        <translation>ID impianto</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="65"/>
@@ -19379,7 +19381,7 @@ Do you want to continue?</source>
         <location filename="TemplateData.cpp" line="2807"/>
         <source>Original transmission reference</source>
         <oldsource>Original tr. ref.</oldsource>
-        <translation type="unfinished">Rif. tr. originale</translation>
+        <translation>Riferimento trasmissione originale</translation>
     </message>
     <message>
         <location filename="InfoIPTCView.cpp" line="67"/>
@@ -20310,7 +20312,7 @@ Volete continuare?</translation>
     <message>
         <location filename="MediaPlayer.cpp" line="367"/>
         <source>Save frame as...</source>
-        <translation type="unfinished">Salva fotogramma come...</translation>
+        <translation>Salva fotogramma come...</translation>
     </message>
     <message>
         <location filename="MediaPlayer.cpp" line="370"/>
@@ -20574,7 +20576,7 @@ Volete continuare?</translation>
         <location filename="BrowserMenu.h" line="66"/>
         <source>Name - natural (numeric) order</source>
         <oldsource>Name - natural order</oldsource>
-        <translation type="unfinished">Nome - ordine numerico</translation>
+        <translation>Nome - ordine naturale (numerico)</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="68"/>
@@ -20968,12 +20970,12 @@ Volete continuare?</translation>
     <message>
         <location filename="BrowserMenu.h" line="668"/>
         <source>Show clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra clipping</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="669"/>
         <source>Channel clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Clipping canale</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="672"/>
@@ -21525,12 +21527,12 @@ Volete continuare?</translation>
     <message>
         <location filename="BrowserMenu.h" line="545"/>
         <source>Update catalog from files</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiorna il catalogo dai file</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="546"/>
         <source>Update catalog from files (+options)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiorna il catalogo dai file (+opzioni)...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="548"/>
@@ -21545,7 +21547,7 @@ Volete continuare?</translation>
     <message>
         <location filename="BrowserMenu.h" line="551"/>
         <source>Play/Stop audio companion</source>
-        <translation type="unfinished"></translation>
+        <translation>Riproduci/Interrompi audio di accompagnamento</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="553"/>
@@ -21602,22 +21604,22 @@ Volete continuare?</translation>
     <message>
         <location filename="BrowserMenu.h" line="589"/>
         <source>Load...</source>
-        <translation type="unfinished">Carica...</translation>
+        <translation>Carica...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="590"/>
         <source>Save...</source>
-        <translation type="unfinished">Salva...</translation>
+        <translation>Salva...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="591"/>
         <source>Unload all</source>
-        <translation type="unfinished"></translation>
+        <translation>Scarica tutto</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="593"/>
         <source>Session</source>
-        <translation type="unfinished">Sessione</translation>
+        <translation>Sessione</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="594"/>
@@ -21741,7 +21743,7 @@ Volete continuare?</translation>
     <message>
         <location filename="BrowserMenu.h" line="631"/>
         <source>Import...</source>
-        <translation type="unfinished">Importa...</translation>
+        <translation>Importa...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="642"/>
@@ -21969,7 +21971,7 @@ Volete continuare?</translation>
         <location filename="TemplateData.cpp" line="2612"/>
         <source>h - Hour (01-12)</source>
         <oldsource>h - Hour (01-21)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>h - Ora (01-12)</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2613"/>
@@ -22469,7 +22471,7 @@ Volete continuare?</translation>
     <message>
         <location filename="ViewMenu.h" line="432"/>
         <source>Center image</source>
-        <translation type="unfinished"></translation>
+        <translation>Immagine al centro</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="435"/>
@@ -22570,7 +22572,7 @@ Volete continuare?</translation>
     <message>
         <location filename="ViewMenu.h" line="457"/>
         <source>Grid</source>
-        <translation type="unfinished">Griglia</translation>
+        <translation>Griglia</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="458"/>
@@ -22891,7 +22893,7 @@ Volete continuare?</translation>
     <message>
         <location filename="ViewMenu.h" line="460"/>
         <source>Play/Pause media</source>
-        <translation type="unfinished"></translation>
+        <translation>Riproduci/Metti in pausa i contenuti multimediali</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="464"/>
@@ -22924,12 +22926,12 @@ Volete continuare?</translation>
     <message>
         <location filename="ViewMenu.h" line="470"/>
         <source>Gamma</source>
-        <translation type="unfinished">Gamma</translation>
+        <translation>Gamma</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="472"/>
         <source>Show clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra clipping</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="479"/>
@@ -23500,42 +23502,42 @@ Volete continuare?</translation>
     <message>
         <location filename="MyHistogram.cpp" line="275"/>
         <source>Adaptive scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Scala adattiva</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="275"/>
         <source>Vertical scale capped at 4x the mean of the non-empty levels, higher peaks are clipped</source>
-        <translation type="unfinished"></translation>
+        <translation>La scala verticale è limitata a un massimo di 4 volte la media dei livelli non vuoti; i picchi più alti vengono troncati</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="276"/>
         <source>Logarithmic scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Scala logaritmica</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="276"/>
         <source>Small counts stay visible next to high peaks</source>
-        <translation type="unfinished"></translation>
+        <translation>I valori bassi rimangono visibili accanto ai picchi elevati</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="278"/>
         <source>Ignore 0 and 255 for scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignora i valori 0 e 255 per il ridimensionamento</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="282"/>
         <source>Adaptive scale: clipped shadows and highlights don&apos;t flatten the rest of the histogram</source>
-        <translation type="unfinished"></translation>
+        <translation>Scala adattiva: le ombre e le luci tagliate non appiattiscono il resto dell&apos;istogramma</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="289"/>
         <source>Show clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra clipping</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="298"/>
         <source>Clipping mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modalità clipping</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="316"/>
@@ -23583,7 +23585,7 @@ Volete continuare?</translation>
     <message>
         <location filename="MyLittleToolBar.h" line="722"/>
         <source>Toggle slider: thumbnail size / thumbnails per row</source>
-        <translation type="unfinished"></translation>
+        <translation>Attiva/disattiva: dimensione delle miniature / numero di miniature per riga</translation>
     </message>
 </context>
 <context>
@@ -23591,7 +23593,7 @@ Volete continuare?</translation>
     <message>
         <location filename="MyLittleToolBar.h" line="353"/>
         <source>Toggle slider: thumbnail size / thumbnails per row</source>
-        <translation type="unfinished"></translation>
+        <translation>Attiva/disattiva: dimensione delle miniature / numero di miniature per riga</translation>
     </message>
 </context>
 <context>
@@ -23650,7 +23652,7 @@ Volete continuare?</translation>
     <message>
         <location filename="MyTemplateComboEdit.h" line="180"/>
         <source>Do you want to delete all your name templates?</source>
-        <translation type="unfinished">Volete rimuovere tutti i vostri modelli di nome?</translation>
+        <translation>Volete rimuovere tutti i vostri modelli di nome?</translation>
     </message>
     <message>
         <location filename="MyTemplateComboEdit.h" line="254"/>
@@ -23713,7 +23715,7 @@ Potete cambiarla in Impostazioni &gt; Catalogo.</translation>
     <message>
         <location filename="MyThumbView.cpp" line="1743"/>
         <source>Customize columns...</source>
-        <translation type="unfinished"></translation>
+        <translation>Personalizza le colonne...</translation>
     </message>
 </context>
 <context>
@@ -23745,12 +23747,12 @@ Potete cambiarla in Impostazioni &gt; Catalogo.</translation>
     <message>
         <location filename="WebUploader.cpp" line="439"/>
         <source>The authorization request failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>La richiesta di autorizzazione non è andata a buon fine.</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="554"/>
         <source>This service is not configured in this build (missing client identifier).</source>
-        <translation type="unfinished"></translation>
+        <translation>Questo servizio non è configurato in questa versione (manca l&apos;identificatore del client).</translation>
     </message>
 </context>
 <context>
@@ -24089,7 +24091,7 @@ Potete cambiarla in Impostazioni &gt; Catalogo.</translation>
     <message>
         <location filename="PaintWidget.ui" line="1481"/>
         <source>Hardness</source>
-        <translation type="unfinished"></translation>
+        <translation>Durezza</translation>
     </message>
     <message>
         <location filename="PaintWidget.ui" line="1560"/>
@@ -24219,22 +24221,22 @@ Potete cambiarla in Impostazioni &gt; Catalogo.</translation>
     <message>
         <location filename="PiwigoUploader.cpp" line="28"/>
         <source>Album</source>
-        <translation type="unfinished">Album</translation>
+        <translation>Album</translation>
     </message>
     <message>
         <location filename="PiwigoUploader.cpp" line="90"/>
         <source>The Piwigo server returned an error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il server Piwigo ha restituito un errore.</translation>
     </message>
     <message>
         <location filename="PiwigoUploader.cpp" line="101"/>
         <source>The Piwigo gallery is not configured.</source>
-        <translation type="unfinished"></translation>
+        <translation>La galleria Piwigo non è configurata.</translation>
     </message>
     <message>
         <location filename="PiwigoUploader.cpp" line="120"/>
         <source>Piwigo login failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore di accesso a Piwigo: %1</translation>
     </message>
 </context>
 <context>
@@ -24250,27 +24252,27 @@ Potete cambiarla in Impostazioni &gt; Catalogo.</translation>
     <message>
         <location filename="PromoBanner.h" line="56"/>
         <source>XnView Gallery, our photo gallery for Android, is available on Google Play.</source>
-        <translation type="unfinished"></translation>
+        <translation>XnView Gallery, la nostra galleria fotografica per Android, è disponibile su Google Play.</translation>
     </message>
     <message>
         <location filename="PromoBanner.h" line="58"/>
         <source>Google Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Google Play</translation>
     </message>
     <message>
         <location filename="PromoBanner.h" line="61"/>
         <source>QR code</source>
-        <translation type="unfinished"></translation>
+        <translation>Codice QR</translation>
     </message>
     <message>
         <location filename="PromoBanner.h" line="67"/>
         <source>Close</source>
-        <translation type="unfinished">Chiudi</translation>
+        <translation>Chiudi</translation>
     </message>
     <message>
         <location filename="PromoBanner.h" line="125"/>
         <source>Scan this code with your phone to open Google Play.</source>
-        <translation type="unfinished"></translation>
+        <translation>Scansiona questo codice con il tuo telefono per aprire Google Play.</translation>
     </message>
 </context>
 <context>
@@ -25315,7 +25317,7 @@ Potete cambiarla in Impostazioni &gt; Catalogo.</translation>
     <message>
         <location filename="ViewWatermarkAction.cpp" line="255"/>
         <source>Angle</source>
-        <translation type="unfinished">Angolo</translation>
+        <translation>Angolo</translation>
     </message>
     <message>
         <location filename="ViewWatermarkAction.cpp" line="264"/>
@@ -25346,7 +25348,7 @@ Potete cambiarla in Impostazioni &gt; Catalogo.</translation>
     <message>
         <location filename="WebDavUploader.cpp" line="78"/>
         <source>The WebDAV folder is not configured.</source>
-        <translation type="unfinished"></translation>
+        <translation>La cartella WebDAV non è configurata.</translation>
     </message>
 </context>
 <context>
@@ -25362,37 +25364,37 @@ Potete cambiarla in Impostazioni &gt; Catalogo.</translation>
     <message>
         <location filename="WebUploader.cpp" line="163"/>
         <source>Unable to open %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile aprire %1</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="200"/>
         <source>Authorization received, you can close this window and return to XnView.</source>
-        <translation type="unfinished"></translation>
+        <translation>Autorizzazione ricevuta: puoi chiudere questa finestra e tornare a XnView.</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="204"/>
         <source>Unable to listen on local port %1 for the authorization callback.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile ascoltare sulla porta locale %1 per il callback di autorizzazione.</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="226"/>
         <source>HTTP error %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore HTTP %1: %2</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="321"/>
         <source>URL</source>
-        <translation type="unfinished">URL</translation>
+        <translation>URL</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="322"/>
         <source>Username</source>
-        <translation type="unfinished">Nome utente</translation>
+        <translation>Nome utente</translation>
     </message>
     <message>
         <location filename="WebUploader.cpp" line="323"/>
         <source>Password</source>
-        <translation type="unfinished">Password</translation>
+        <translation>Password</translation>
     </message>
 </context>
 <context>
@@ -25512,19 +25514,21 @@ Volete preservare le miniature?
     <message>
         <location filename="xnview.cpp" line="2649"/>
         <source>Tabs</source>
-        <translation type="unfinished">Schede</translation>
+        <translation>Schede</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="2649"/>
         <source>The tab bar is hidden, but tabs will still open. Set a tab limit in Settings&gt;Interface&gt;Tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>La barra delle schede è nascosta, ma le schede si aprono comunque. Imposta un limite per le schede in Impostazioni &gt; Interfaccia &gt; Schede</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="3164"/>
         <source>Catalog is disabled
 Metadata (check, ratings/colour labels and other file details)
 will not be saved to the database.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il catalogo è disattivato
+I metadati (contrassegni, valutazioni/etichette colorate e altri dettagli del file)
+non verranno salvati nel database.</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="983"/>
