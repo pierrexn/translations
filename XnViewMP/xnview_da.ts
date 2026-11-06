@@ -6,7 +6,7 @@
     <message>
         <location filename="MyThumbSettings.cpp" line="880"/>
         <source>Uncolored</source>
-        <translation>Sort/hvide</translation>
+        <translation>Ufarvede</translation>
     </message>
     <message>
         <location filename="MyThumbSettings.cpp" line="886"/>
@@ -15099,7 +15099,7 @@ Vil du tilknytte igen?</translation>
     <message>
         <location filename="DlgSettingsView.ui" line="208"/>
         <source>Highlights</source>
-        <translation>Højdepunkter</translation>
+        <translation>Highlights</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="238"/>
@@ -23270,19 +23270,19 @@ Vil du fortsætte?</translation>
         <location filename="MyView.cpp" line="111"/>
         <location filename="ViewMenu.h" line="474"/>
         <source>Highlights</source>
-        <translation>Højdepunkter</translation>
+        <translation>Highlights</translation>
     </message>
     <message>
         <location filename="MyView.cpp" line="95"/>
         <location filename="ViewMenu.h" line="476"/>
         <source>Highlights (per channel)</source>
-        <translation>Højdepunkter (pr. kanal)</translation>
+        <translation>Highligts (pr. kanal)</translation>
     </message>
     <message>
         <location filename="MyView.cpp" line="97"/>
         <location filename="ViewMenu.h" line="475"/>
         <source>Shadows + Highlights</source>
-        <translation>Skygger + Højdepunkter</translation>
+        <translation>Shadows + Highlights</translation>
     </message>
     <message>
         <location filename="MyView.cpp" line="106"/>
@@ -23651,17 +23651,17 @@ Vil du fortsætte?</translation>
     <message>
         <location filename="MyHistogram.cpp" line="317"/>
         <source>Highlights</source>
-        <translation>Højdepunkter</translation>
+        <translation>Highlights</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="318"/>
         <source>Shadows + Highlights</source>
-        <translation>Skygger + Højdepunkter</translation>
+        <translation>Shadows + Highlights</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="319"/>
         <source>Highlights (per channel)</source>
-        <translation>Højdepunkter (pr. kanal)</translation>
+        <translation>Highlights (pr. kanal)</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="325"/>
