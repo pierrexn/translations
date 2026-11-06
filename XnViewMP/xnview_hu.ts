@@ -448,7 +448,7 @@
         <location filename="AddressBar.cpp" line="118"/>
         <location filename="AddressBar.cpp" line="730"/>
         <source>Clear history</source>
-        <translation type="unfinished"></translation>
+        <translation>Előzmények törlése</translation>
     </message>
 </context>
 <context>
@@ -583,7 +583,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="BoxUploader.cpp" line="40"/>
         <source>The file is too large to be uploaded (50 MB maximum).</source>
-        <translation type="unfinished"></translation>
+        <translation>A fájl túl nagy a feltöltéshez (maximum 50 MB).</translation>
     </message>
 </context>
 <context>
