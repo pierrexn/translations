@@ -352,7 +352,7 @@
     <name>AddressComboBox</name>
     <message>
         <source>Clear history</source>
-        <translation type="unfinished"></translation>
+        <translation>Golește istoricul</translation>
     </message>
 </context>
 <context>
