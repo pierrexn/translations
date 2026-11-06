@@ -472,19 +472,19 @@ Vrei să ștergi favoritul „%1”?</translation>
     <name>BreadcrumbBar</name>
     <message>
         <source>No subfolders</source>
-        <translation type="unfinished"></translation>
+        <translation>Niciun subfolder (Niciun subdosar)</translation>
     </message>
     <message>
         <source>Copy path</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiază calea</translation>
     </message>
     <message>
         <source>Paste path</source>
-        <translation type="unfinished"></translation>
+        <translation>Lipește calea</translation>
     </message>
     <message>
         <source>Edit path</source>
-        <translation type="unfinished"></translation>
+        <translation>Editează calea</translation>
     </message>
 </context>
 <context>
@@ -9675,7 +9675,7 @@ Dorești să verifici mai întâi intrările afectate?</translation>
     </message>
     <message>
         <source>Folder not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Folderul (Dosarul) nu a fost găsit</translation>
     </message>
 </context>
 <context>
@@ -17763,7 +17763,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Gamma</source>
-        <translation type="unfinished">Gama (Gamma)</translation>
+        <translation>Gama (Gamma)</translation>
     </message>
 </context>
 <context>
@@ -18049,41 +18049,41 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Adaptive scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Scală adaptivă</translation>
     </message>
     <message>
         <source>Vertical scale capped at 4x the mean of the non-empty levels, higher peaks are clipped</source>
-        <translation type="unfinished"></translation>
+        <translation>Scara verticală este limitată la de 4 ori media nivelurilor care nu sunt goale; vârfurile mai înalte sunt tăiate</translation>
     </message>
     <message>
         <source>Logarithmic scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Scară logaritmică</translation>
     </message>
     <message>
         <source>Small counts stay visible next to high peaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Valorile mici rămân vizibile lângă vârfurile înalte</translation>
     </message>
     <message>
         <source>Ignore 0 and 255 for scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignoră 0 și 255 pentru scalare</translation>
     </message>
     <message>
         <source>Adaptive scale: clipped shadows and highlights don&apos;t flatten the rest of the histogram</source>
-        <translation type="unfinished"></translation>
+        <translation>Scalare adaptivă: umbrele și zonele luminoase tăiate nu aplatizează restul histogramei</translation>
     </message>
 </context>
 <context>
     <name>MyLittleToolBarV1</name>
     <message>
         <source>Toggle slider: thumbnail size / thumbnails per row</source>
-        <translation type="unfinished"></translation>
+        <translation>Comută glisorul: dimensiunea miniaturilor / miniaturi pe rând</translation>
     </message>
 </context>
 <context>
     <name>MyLittleToolBarV2_2</name>
     <message>
         <source>Toggle slider: thumbnail size / thumbnails per row</source>
-        <translation type="unfinished"></translation>
+        <translation>Comută glisorul: dimensiunea miniaturilor / miniaturi pe rând</translation>
     </message>
 </context>
 <context>
@@ -18603,23 +18603,23 @@ O poți schimba în Setări › Catalog.</translation>
     <name>PromoBanner</name>
     <message>
         <source>XnView Gallery, our photo gallery for Android, is available on Google Play.</source>
-        <translation type="unfinished"></translation>
+        <translation>Galeria XnView (XnView Gallery), galeria noastră foto pentru Android, este disponibilă pe Google Play.</translation>
     </message>
     <message>
         <source>Google Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Google Play</translation>
     </message>
     <message>
         <source>QR code</source>
-        <translation type="unfinished"></translation>
+        <translation>Cod QR</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Închidere</translation>
     </message>
     <message>
         <source>Scan this code with your phone to open Google Play.</source>
-        <translation type="unfinished"></translation>
+        <translation>Scanează acest cod cu telefonul pentru a deschide Google Play.</translation>
     </message>
 </context>
 <context>
