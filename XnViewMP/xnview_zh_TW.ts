@@ -448,7 +448,7 @@
         <location filename="AddressBar.cpp" line="118"/>
         <location filename="AddressBar.cpp" line="730"/>
         <source>Clear history</source>
-        <translation type="unfinished"></translation>
+        <translation>清空歷史紀錄</translation>
     </message>
 </context>
 <context>
@@ -592,22 +592,22 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="AddressBar.cpp" line="638"/>
         <location filename="AddressBar.cpp" line="672"/>
         <source>No subfolders</source>
-        <translation type="unfinished"></translation>
+        <translation>無子資料夾</translation>
     </message>
     <message>
         <location filename="AddressBar.cpp" line="722"/>
         <source>Copy path</source>
-        <translation type="unfinished"></translation>
+        <translation>複製路徑</translation>
     </message>
     <message>
         <location filename="AddressBar.cpp" line="725"/>
         <source>Paste path</source>
-        <translation type="unfinished"></translation>
+        <translation>貼上路徑</translation>
     </message>
     <message>
         <location filename="AddressBar.cpp" line="727"/>
         <source>Edit path</source>
-        <translation type="unfinished"></translation>
+        <translation>編輯路徑</translation>
     </message>
 </context>
 <context>
@@ -1150,7 +1150,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="CompareWidget.cpp" line="55"/>
         <source>Clipping</source>
-        <translation>遮色</translation>
+        <translation>裁平削波</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="577"/>
@@ -5605,7 +5605,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertCrystallize.ui" line="123"/>
         <source>Scale</source>
-        <translation>比例</translation>
+        <translation type="unfinished">縮放比例</translation>
     </message>
     <message>
         <location filename="DlgConvertCrystallize.ui" line="160"/>
@@ -6302,7 +6302,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvertQRcode.ui" line="185"/>
         <source>Scale</source>
-        <translation>比例</translation>
+        <translation type="unfinished">縮放比例</translation>
     </message>
     <message>
         <location filename="DlgConvertQRcode.ui" line="216"/>
@@ -10312,12 +10312,12 @@ Please make sure that files are not read-only!</oldsource>
     <message>
         <location filename="DlgPrint.ui" line="227"/>
         <source>Y scale</source>
-        <translation>垂直比例</translation>
+        <translation type="unfinished">垂直縮放比例</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="244"/>
         <source>X scale</source>
-        <translation>水平比例</translation>
+        <translation type="unfinished">水平縮放比例</translation>
     </message>
     <message>
         <location filename="DlgPrint.ui" line="284"/>
@@ -12261,7 +12261,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsCache.cpp" line="272"/>
         <source>Folder not found</source>
-        <translation type="unfinished"></translation>
+        <translation>找不到資料夾</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.cpp" line="356"/>
@@ -14903,7 +14903,7 @@ Do you want to reassign?</source>
         <location filename="DlgSettingsView.ui" line="479"/>
         <source>Scale on HiDPI screen: 1 image pixel equals 1 screen pixel</source>
         <oldsource>Zoom on HiDPI screen: 1 image pixel equals 1 screen pixel</oldsource>
-        <translation>在 HiDPI 螢幕上縮放: 1影像像素=1螢幕像素</translation>
+        <translation>在 HiDPI 螢幕上的縮放比例: 1影像像素=1螢幕像素</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="135"/>
@@ -15010,7 +15010,7 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsView.ui" line="190"/>
         <source>Clipping warning</source>
-        <translation>遮色警告</translation>
+        <translation>裁平削波警告</translation>
     </message>
     <message>
         <location filename="DlgSettingsView.ui" line="215"/>
@@ -20696,12 +20696,12 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="668"/>
         <source>Show clipping</source>
-        <translation>顯示遮色</translation>
+        <translation>顯示裁平削波</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="669"/>
         <source>Channel clipping</source>
-        <translation>遮色色版</translation>
+        <translation>裁平削波色版</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="677"/>
@@ -22912,7 +22912,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="472"/>
         <source>Show clipping</source>
-        <translation>顯示遮色</translation>
+        <translation>顯示裁平削波</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="479"/>
@@ -23165,7 +23165,7 @@ Do you want to continue?</oldsource>
         <location filename="MyView.cpp" line="106"/>
         <location filename="ViewMenu.h" line="477"/>
         <source>Clipping warning</source>
-        <translation>遮色警告</translation>
+        <translation>裁平削波警告</translation>
     </message>
 </context>
 <context>
@@ -23483,42 +23483,42 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyHistogram.cpp" line="275"/>
         <source>Adaptive scale</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">自適應縮放比例</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="275"/>
         <source>Vertical scale capped at 4x the mean of the non-empty levels, higher peaks are clipped</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">垂直軸縮放比例的上限設為非空層級平均值的 4 倍, 超出此上限的峰值將被截斷</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="276"/>
         <source>Logarithmic scale</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">對數縮放比例</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="276"/>
         <source>Small counts stay visible next to high peaks</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在高峰旁, 較小的數值依然保持可見</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="278"/>
         <source>Ignore 0 and 255 for scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>縮放時忽略 0 和 255</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="282"/>
         <source>Adaptive scale: clipped shadows and highlights don&apos;t flatten the rest of the histogram</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">自適應縮放比例: 被裁平削波的暗部和高光不會導致直方圖中其餘部分變得扁平</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="289"/>
         <source>Show clipping</source>
-        <translation>顯示遮色</translation>
+        <translation>顯示裁平削波</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="298"/>
         <source>Clipping mode</source>
-        <translation>遮色模式</translation>
+        <translation>裁平削波模式</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="316"/>
@@ -23566,7 +23566,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyLittleToolBar.h" line="722"/>
         <source>Toggle slider: thumbnail size / thumbnails per row</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;點擊左圖示, 可切換滑桿的 2 種模式:&lt;/b&gt;&lt;br&gt;&amp;bull; 調整縮圖固定 &apos;像素尺寸&apos;&lt;br&gt;&amp;bull; ﻿﻿調整縮圖固定 &apos;每列數量&apos;</translation>
     </message>
 </context>
 <context>
@@ -23574,7 +23574,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyLittleToolBar.h" line="353"/>
         <source>Toggle slider: thumbnail size / thumbnails per row</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;點擊左圖示, 可切換滑桿的 2 種模式:&lt;/b&gt;&lt;br&gt;&amp;bull; 調整縮圖固定 &apos;像素尺寸&apos;&lt;br&gt;&amp;bull; ﻿﻿調整縮圖固定 &apos;每列數量&apos;</translation>
     </message>
 </context>
 <context>
@@ -24231,27 +24231,27 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="PromoBanner.h" line="56"/>
         <source>XnView Gallery, our photo gallery for Android, is available on Google Play.</source>
-        <translation type="unfinished"></translation>
+        <translation>XnView Gallery (XnView 圖庫: 我們為 Android 平台打造的照片圖庫應用程式) 現已在 Google Play 商店上架.</translation>
     </message>
     <message>
         <location filename="PromoBanner.h" line="58"/>
         <source>Google Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Google Play 商店</translation>
     </message>
     <message>
         <location filename="PromoBanner.h" line="61"/>
         <source>QR code</source>
-        <translation type="unfinished"></translation>
+        <translation>二維條碼 (QR Code)</translation>
     </message>
     <message>
         <location filename="PromoBanner.h" line="67"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>關閉</translation>
     </message>
     <message>
         <location filename="PromoBanner.h" line="125"/>
         <source>Scan this code with your phone to open Google Play.</source>
-        <translation type="unfinished"></translation>
+        <translation>用您的手機掃描此二維條碼 (QR Code) 來開啟 Google Play 商店.</translation>
     </message>
 </context>
 <context>
