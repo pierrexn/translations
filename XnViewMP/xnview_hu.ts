@@ -592,22 +592,22 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
         <location filename="AddressBar.cpp" line="638"/>
         <location filename="AddressBar.cpp" line="672"/>
         <source>No subfolders</source>
-        <translation type="unfinished"></translation>
+        <translation>Nincs almappa</translation>
     </message>
     <message>
         <location filename="AddressBar.cpp" line="722"/>
         <source>Copy path</source>
-        <translation type="unfinished"></translation>
+        <translation>Elérési út másolása</translation>
     </message>
     <message>
         <location filename="AddressBar.cpp" line="725"/>
         <source>Paste path</source>
-        <translation type="unfinished"></translation>
+        <translation>Elérési út beillesztése</translation>
     </message>
     <message>
         <location filename="AddressBar.cpp" line="727"/>
         <source>Edit path</source>
-        <translation type="unfinished"></translation>
+        <translation>Elérési út szerkesztése</translation>
     </message>
 </context>
 <context>
@@ -712,12 +712,12 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="4134"/>
         <source>Delete item</source>
-        <translation type="unfinished"></translation>
+        <translation>Elem törlése</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4135"/>
         <source>Are you sure to delete &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Biztosan törölni szeretné &quot;%1&quot;?</translation>
     </message>
     <message numerus="yes">
         <location filename="BrowserWindow.cpp" line="4142"/>
@@ -5061,7 +5061,7 @@ Biztos folytassuk?</translation>
     <message>
         <location filename="DlgConvert.ui" line="1616"/>
         <source>Black</source>
-        <translation type="unfinished">Fekete</translation>
+        <translation>Fekete</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1808"/>
@@ -7276,13 +7276,13 @@ Biztos folytassuk?</translation>
         <location filename="DlgCulling.cpp" line="805"/>
         <location filename="DlgCulling.cpp" line="832"/>
         <source>Culling</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kiválogatás</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="146"/>
         <location filename="DlgCulling.cpp" line="153"/>
         <source>Search</source>
-        <translation type="unfinished">Keresés</translation>
+        <translation>Keresés</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="147"/>
@@ -7294,13 +7294,13 @@ Biztos folytassuk?</translation>
         <location filename="DlgCulling.cpp" line="148"/>
         <location filename="DlgCulling.cpp" line="313"/>
         <source>Action</source>
-        <translation type="unfinished">Művelet</translation>
+        <translation>Művelet</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="149"/>
         <location filename="DlgCulling.cpp" line="313"/>
         <source>Status</source>
-        <translation type="unfinished">Státusz</translation>
+        <translation>Státusz</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="154"/>
@@ -7310,7 +7310,7 @@ Biztos folytassuk?</translation>
     <message>
         <location filename="DlgCulling.cpp" line="156"/>
         <source>Process</source>
-        <translation type="unfinished"></translation>
+        <translation>Feldolgozás</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="157"/>
@@ -7320,47 +7320,47 @@ Biztos folytassuk?</translation>
     <message>
         <location filename="DlgCulling.cpp" line="158"/>
         <source>Close</source>
-        <translation type="unfinished">Bezárás</translation>
+        <translation>Bezárás</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="201"/>
         <source>Presets:</source>
-        <translation type="unfinished">Készletek:</translation>
+        <translation>Készletek:</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="205"/>
         <source>Save current culling</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aktuális kiválogatás mentése</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="207"/>
         <source>Delete current culling</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aktuális kiválogatás törlése</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="215"/>
         <source>Add &gt;&gt;</source>
-        <translation type="unfinished">Hozzáad &gt;&gt;</translation>
+        <translation>Hozzáad &gt;&gt;</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="216"/>
         <source>Clear all</source>
-        <translation type="unfinished">Mind töröl</translation>
+        <translation>Mind töröl</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="220"/>
         <source>Match:</source>
-        <translation type="unfinished"></translation>
+        <translation>Egyezés:</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="221"/>
         <source>All</source>
-        <translation type="unfinished">Mind</translation>
+        <translation>Mind</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="222"/>
         <source>Any</source>
-        <translation type="unfinished">Valamely</translation>
+        <translation>Bármelyik</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="234"/>
@@ -11709,7 +11709,7 @@ El szeretné őket távolítani?</translation>
     <message>
         <location filename="DlgSearch.ui" line="240"/>
         <source>Any</source>
-        <translation>Valamely</translation>
+        <translation>Bármelyik</translation>
     </message>
     <message>
         <location filename="DlgSearch.ui" line="268"/>
