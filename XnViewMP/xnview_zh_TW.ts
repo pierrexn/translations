@@ -1333,7 +1333,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgConvertProcess.h" line="668"/>
         <source>Clean metadata</source>
-        <translation>清掃後製資料</translation>
+        <translation>清理後製資料</translation>
     </message>
     <message>
         <location filename="DlgConvertProcess.h" line="707"/>
@@ -3357,7 +3357,7 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgClean.ui" line="14"/>
         <source>Clean metadata</source>
-        <translation>清掃後製資料</translation>
+        <translation>清理後製資料</translation>
     </message>
     <message>
         <location filename="DlgClean.ui" line="20"/>
@@ -7657,7 +7657,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgDBClean.ui" line="27"/>
         <source>Clean up</source>
-        <translation>清掃</translation>
+        <translation>清理</translation>
     </message>
     <message>
         <location filename="DlgDBClean.ui" line="33"/>
@@ -21536,7 +21536,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="BrowserMenu.h" line="611"/>
         <source>Clean...</source>
-        <translation>清掃後製資料...</translation>
+        <translation>清理後製資料...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="612"/>
@@ -22744,7 +22744,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="ViewMenu.h" line="550"/>
         <source>Clean metadata...</source>
-        <translation>清掃後製資料...</translation>
+        <translation>清理後製資料...</translation>
     </message>
     <message>
         <location filename="ViewMenu.h" line="556"/>
