@@ -6676,7 +6676,7 @@ Czy na pewno kontynuować?</translation>
     <message>
         <location filename="DlgConvertShadow.ui" line="20"/>
         <source>Shadow</source>
-        <translation>Cienie</translation>
+        <translation>Cień</translation>
     </message>
     <message>
         <location filename="DlgConvertShadow.ui" line="59"/>
@@ -7310,7 +7310,7 @@ Czy na pewno kontynuować?</translation>
         <location filename="DlgCulling.cpp" line="805"/>
         <location filename="DlgCulling.cpp" line="832"/>
         <source>Culling</source>
-        <translation type="unfinished"></translation>
+        <translation>Selekcja zdjęć</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="146"/>
@@ -7364,12 +7364,12 @@ Czy na pewno kontynuować?</translation>
     <message>
         <location filename="DlgCulling.cpp" line="205"/>
         <source>Save current culling</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisz obecną selekcję</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="207"/>
         <source>Delete current culling</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń obecną selekcję</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="215"/>
@@ -7476,7 +7476,7 @@ Czy na pewno kontynuować?</translation>
     <message>
         <location filename="DlgCulling.cpp" line="472"/>
         <source>Preset culling name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa ustawienia selekcji:</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="591"/>
@@ -20632,7 +20632,7 @@ Czy chcesz kontynuować?</translation>
         <location filename="BrowserMenu.h" line="83"/>
         <source>Checked file(s)</source>
         <oldsource>Tagged file(s)</oldsource>
-        <translation>Zaznaczone pliki</translation>
+        <translation>Oznaczone pliki</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="462"/>
@@ -21270,13 +21270,13 @@ Czy chcesz kontynuować?</translation>
         <location filename="BrowserWindow.cpp" line="4653"/>
         <location filename="BrowserMenu.h" line="447"/>
         <source>Copy to...</source>
-        <translation>Kopiuj do</translation>
+        <translation>Kopiuj do...</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4655"/>
         <location filename="BrowserMenu.h" line="448"/>
         <source>Move to...</source>
-        <translation>Przenieś do</translation>
+        <translation>Przenieś do...</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4648"/>
@@ -21287,7 +21287,7 @@ Czy chcesz kontynuować?</translation>
     <message>
         <location filename="BrowserMenu.h" line="450"/>
         <source>Rename...</source>
-        <translation>Zmień nazwę</translation>
+        <translation>Zmień nazwę...</translation>
     </message>
     <message>
         <location filename="BrowserMenu.h" line="451"/>
