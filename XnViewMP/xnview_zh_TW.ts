@@ -3433,7 +3433,7 @@ Do you want to overwrite it?</oldsource>
         <location filename="DlgComment.ui" line="138"/>
         <source>&amp;Write</source>
         <oldsource>Write</oldsource>
-        <translation>寫入單一檔案(&amp;W)</translation>
+        <translation>寫入目前的單一檔案(&amp;W)</translation>
     </message>
     <message>
         <location filename="DlgComment.ui" line="145"/>
@@ -7940,7 +7940,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditGps.ui" line="235"/>
         <source>Write</source>
-        <translation>寫入單一檔案</translation>
+        <translation>寫入目前的單一檔案</translation>
     </message>
     <message>
         <location filename="DlgEditGps.ui" line="242"/>
@@ -8002,7 +8002,7 @@ Do you want to continue?</source>
         <location filename="DlgEditXMP.cpp" line="43"/>
         <source>&amp;Write</source>
         <oldsource>Write</oldsource>
-        <translation>寫入單一檔案(&amp;W)</translation>
+        <translation>寫入目前的單一檔案(&amp;W)</translation>
     </message>
     <message>
         <location filename="DlgEditXMP.cpp" line="44"/>
@@ -9524,7 +9524,7 @@ Subfolders will be created. </source>
         <location filename="DlgIptc.cpp" line="49"/>
         <source>&amp;Write</source>
         <oldsource>Write</oldsource>
-        <translation>寫入單一檔案(&amp;W)</translation>
+        <translation>寫入目前的單一檔案(&amp;W)</translation>
     </message>
     <message>
         <location filename="DlgIptc.cpp" line="176"/>
@@ -16135,7 +16135,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgTimestamp.ui" line="548"/>
         <source>Write</source>
-        <translation>寫入單一檔案</translation>
+        <translation>寫入目前的單一檔案</translation>
     </message>
     <message>
         <location filename="DlgTimestamp.ui" line="555"/>
@@ -17198,7 +17198,7 @@ Do you want to continue?</source>
     <message>
         <location filename="EditXMPWidget.ui" line="268"/>
         <source>(Use | to separate keywords in hierarchy)</source>
-        <translation>(以 | 作為 &quot;層級結構&quot; 中的關鍵字分隔符號)</translation>
+        <translation>(以 | 作為 &apos;層級結構&apos; 中的關鍵字分隔符號)</translation>
     </message>
     <message>
         <location filename="EditXMPWidget.ui" line="295"/>
@@ -25498,7 +25498,7 @@ Do you want to keep the thumbnails?
     <message>
         <location filename="xnview.cpp" line="2649"/>
         <source>The tab bar is hidden, but tabs will still open. Set a tab limit in Settings&gt;Interface&gt;Tabs</source>
-        <translation>頁籤已隱藏, 但頁籤的頁面仍會開啟. 您可以在 &quot;設定 &gt; 介面 &gt; 頁籤&quot; 中設定頁籤數量限制</translation>
+        <translation>頁籤已隱藏, 但頁籤的頁面仍會開啟. 您可以在 &apos;設定 &gt; 介面 &gt; 頁籤&apos; 中設定頁籤數量限制</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="3164"/>
