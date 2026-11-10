@@ -12466,7 +12466,7 @@ Do you want to remove entries assigned to a category?</oldsource>
     <message>
         <location filename="DlgSettingsCache.ui" line="430"/>
         <source>Maintenance...</source>
-        <translation>維護資料庫...</translation>
+        <translation>維護 &apos;資料庫&apos;...</translation>
     </message>
     <message>
         <location filename="DlgSettingsCache.ui" line="437"/>
@@ -14535,12 +14535,12 @@ Do you want to reassign?</source>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="948"/>
         <source>When the mouse is over a thumbnail, the colour labels are shown on its top and the rating stars on its bottom: a single click sets them. Replaces the rating/label popup menus.</source>
-        <translation type="unfinished">當滑鼠移到縮圖上時, 縮圖上方顯示顏色標籤, 縮圖下方顯示評分標籤: 點擊即可設定. (以此方式取代原有的 評分/顏色標籤 彈出式選單)</translation>
+        <translation>當滑鼠移到縮圖上時, 在縮圖上方顯示顏色標籤, 縮圖下方顯示評分標籤: 點擊即可設定. (以此方式取代原有的 評分/顏色標籤 彈出式選單)</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="951"/>
         <source>Show fast-rating overlay on thumbnails</source>
-        <translation type="unfinished">在縮圖上顯示 &apos;快速評分&apos; 功能</translation>
+        <translation>在縮圖上顯示 &apos;快速評分&apos; 功能</translation>
     </message>
     <message>
         <location filename="DlgSettingsThumbnail.ui" line="1126"/>
