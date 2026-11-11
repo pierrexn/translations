@@ -2325,7 +2325,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgAdobeConfigure.ui" line="14"/>
         <source>Configure Adobe Plugin</source>
-        <translation>設定 Adobe 插件</translation>
+        <translation>配置 Adobe 插件</translation>
     </message>
     <message>
         <location filename="DlgAdobeConfigure.ui" line="48"/>
@@ -2358,7 +2358,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DlgAdobePlugin.ui" line="81"/>
         <source>Configure...</source>
-        <translation>設定...</translation>
+        <translation>配置...</translation>
     </message>
 </context>
 <context>
@@ -10108,7 +10108,7 @@ Please make sure that files are not read-only!</oldsource>
         <location filename="DlgOpenWith.ui" line="14"/>
         <source>Configure programs</source>
         <oldsource>Configure programs...</oldsource>
-        <translation>設定關聯程式</translation>
+        <translation>配置關聯程式</translation>
     </message>
     <message>
         <location filename="DlgOpenWith.ui" line="47"/>
@@ -13468,7 +13468,7 @@ Thumbnail</source>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="377"/>
         <source>Configuration</source>
-        <translation>[ 設定 ]</translation>
+        <translation>[ 配置 ]</translation>
     </message>
     <message>
         <location filename="DlgSettingsIntegration.ui" line="388"/>
@@ -18998,7 +18998,7 @@ Do you want to continue?</source>
     <message>
         <location filename="TemplateData.cpp" line="2734"/>
         <source>Components configuration</source>
-        <translation>元件設定</translation>
+        <translation>元件配置</translation>
     </message>
     <message>
         <location filename="TemplateData.cpp" line="2735"/>
@@ -23757,7 +23757,7 @@ You can change it in Settings › Catalog.</oldsource>
     <message>
         <location filename="OpenWithMenu.cpp" line="431"/>
         <source>Configure programs...</source>
-        <translation>設定關聯程式...</translation>
+        <translation>配置關聯程式...</translation>
     </message>
 </context>
 <context>
