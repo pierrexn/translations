@@ -8203,7 +8203,7 @@ Please make sure that files are not read-only!</source>
     </message>
     <message>
         <source>Caption</source>
-        <translation>Título</translation>
+        <translation>Leyenda</translation>
     </message>
     <message>
         <source>Page size: %1x%2 inches, %3x%4 mm</source>
@@ -14746,7 +14746,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Caption</source>
-        <translation>Título</translation>
+        <translation>Leyenda</translation>
     </message>
     <message>
         <source>Keywords &amp; Categories</source>
@@ -14881,7 +14881,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Caption</source>
-        <translation>Título</translation>
+        <translation>Leyenda</translation>
     </message>
     <message>
         <source>Person in image</source>
@@ -14917,7 +14917,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Headline</source>
-        <translation>Encabezado</translation>
+        <translation>Título</translation>
     </message>
     <message>
         <source>Custom field</source>
@@ -14973,7 +14973,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Caption writer</source>
-        <translation>Autor del título</translation>
+        <translation>Autor del leyenda</translation>
     </message>
     <message>
         <source>Copyright info URL</source>
@@ -15013,7 +15013,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>Local caption</source>
-        <translation>Pie de foto</translation>
+        <translation>Pie de foto local</translation>
     </message>
     <message>
         <source>Modify Date</source>
@@ -16853,7 +16853,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <source>IPTC - Caption</source>
-        <translation>IPTC - Título</translation>
+        <translation>IPTC - Leyenda</translation>
     </message>
     <message>
         <source>b - Abbreviated month name (eg. feb)</source>
