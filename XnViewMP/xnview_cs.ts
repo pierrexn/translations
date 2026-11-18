@@ -283,7 +283,7 @@
     <message>
         <location filename="ViewWindow.cpp" line="873"/>
         <source>Click to hide</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknutím skrýt</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="1566"/>
@@ -359,12 +359,12 @@
     <message>
         <location filename="ViewWindow.cpp" line="4277"/>
         <source>Expand canvas</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozšířit plátno</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4277"/>
         <source>Do you want to expand the canvas?</source>
-        <translation type="unfinished"></translation>
+        <translation>Chcete rozšířit plátno?</translation>
     </message>
     <message>
         <location filename="ViewWindow.cpp" line="4704"/>
@@ -450,7 +450,7 @@
         <location filename="AddressBar.cpp" line="118"/>
         <location filename="AddressBar.cpp" line="730"/>
         <source>Clear history</source>
-        <translation type="unfinished"></translation>
+        <translation>Vymazat historii</translation>
     </message>
 </context>
 <context>
@@ -585,7 +585,7 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
     <message>
         <location filename="BoxUploader.cpp" line="40"/>
         <source>The file is too large to be uploaded (50 MB maximum).</source>
-        <translation type="unfinished"></translation>
+        <translation>Soubor pro nahrání je příliš velký (maximum je 50 MB).</translation>
     </message>
 </context>
 <context>
@@ -594,22 +594,22 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
         <location filename="AddressBar.cpp" line="638"/>
         <location filename="AddressBar.cpp" line="672"/>
         <source>No subfolders</source>
-        <translation type="unfinished"></translation>
+        <translation>Žádné podsložky</translation>
     </message>
     <message>
         <location filename="AddressBar.cpp" line="722"/>
         <source>Copy path</source>
-        <translation type="unfinished"></translation>
+        <translation>Zkopírovat cestu</translation>
     </message>
     <message>
         <location filename="AddressBar.cpp" line="725"/>
         <source>Paste path</source>
-        <translation type="unfinished"></translation>
+        <translation>Vložit cestu</translation>
     </message>
     <message>
         <location filename="AddressBar.cpp" line="727"/>
         <source>Edit path</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravit cestu</translation>
     </message>
 </context>
 <context>
@@ -745,7 +745,7 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="3543"/>
         <source>&lt;Checked files&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Označené soubory&gt;</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="3545"/>
@@ -774,12 +774,12 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="4134"/>
         <source>Delete item</source>
-        <translation type="unfinished"></translation>
+        <translation>Smazat položku</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4135"/>
         <source>Are you sure to delete &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Skutečně chcete smazat &apos;%1&apos;?</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4660"/>
@@ -799,7 +799,7 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="4666"/>
         <source>Open in file manager</source>
-        <translation type="unfinished">Otevřít v průzkumníku</translation>
+        <translation>Otevřít v průzkumníku</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4669"/>
@@ -820,18 +820,18 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
         <location filename="BrowserWindow.cpp" line="2061"/>
         <location filename="BrowserWindow.cpp" line="2073"/>
         <source>AND</source>
-        <translation type="unfinished"></translation>
+        <translation>A</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2061"/>
         <location filename="BrowserWindow.cpp" line="2067"/>
         <source>OR</source>
-        <translation type="unfinished"></translation>
+        <translation>NEBO</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2062"/>
         <source>&lt;b&gt;Match&lt;/b&gt;&lt;br&gt;OR - match any selected entry&lt;br&gt;AND - match all selected entries</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Shoda&lt;/b&gt;&lt;br&gt;NEBO - shoduje se alespoň jeden z vybraných záznamů&lt;br&gt;A - shodují se všechny vybrané záznamy</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="4230"/>
@@ -1002,48 +1002,48 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
     <message>
         <location filename="CategoryView.cpp" line="528"/>
         <source>EXIF: Date taken</source>
-        <translation type="unfinished">EXIF: Datum pořízení</translation>
+        <translation>EXIF: Datum pořízení</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="530"/>
         <source>EXIF: Date modified</source>
-        <translation type="unfinished">EXIF: Datum poslední změny</translation>
+        <translation>EXIF: Datum poslední změny</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="532"/>
         <source>File: Date modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Soubor: Datum poslední změny</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="573"/>
         <source>New smart album...</source>
-        <translation type="unfinished"></translation>
+        <translation>Nové chytré album...</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="575"/>
         <location filename="CategoryView.cpp" line="751"/>
         <source>Create Smart Album from current filter...</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvořit Chytré album z aktuálního filtru...</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="579"/>
         <source>Edit...</source>
-        <translation type="unfinished">Změnit...</translation>
+        <translation>Změnit...</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="609"/>
         <source>Delete Smart Album</source>
-        <translation type="unfinished"></translation>
+        <translation>Smazat Chytré album</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="609"/>
         <source>Are you sure to delete this Smart Album?</source>
-        <translation type="unfinished"></translation>
+        <translation>Skutečně chcete smazat toto Chytré album?</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="634"/>
         <source>New album</source>
-        <translation type="unfinished"></translation>
+        <translation>Nové album</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="641"/>
@@ -1099,12 +1099,12 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
     <message>
         <location filename="CategoryView.cpp" line="749"/>
         <source>Create Smart Album...</source>
-        <translation type="unfinished"></translation>
+        <translation>Vytvořit Chytré album...</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="783"/>
         <source>Are you sure to delete these categories?</source>
-        <translation type="unfinished"></translation>
+        <translation>Skutečně chcete smazat tyto kategorie?</translation>
     </message>
     <message>
         <location filename="CategoryView.cpp" line="796"/>
@@ -1154,12 +1154,12 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
     <message>
         <location filename="CompareWidget.cpp" line="53"/>
         <source>Navigator</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigátor</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="55"/>
         <source>Clipping</source>
-        <translation type="unfinished"></translation>
+        <translation>Ořez</translation>
     </message>
     <message>
         <location filename="CompareWidget.cpp" line="577"/>
@@ -2135,7 +2135,7 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="167"/>
         <source>No face</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez obličeje</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="168"/>
@@ -2145,47 +2145,47 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="169"/>
         <source>Taken in last 30 days</source>
-        <translation type="unfinished"></translation>
+        <translation>Pořízeno v posledních 30 dnech</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="170"/>
         <source>Modified in last 30 days</source>
-        <translation type="unfinished"></translation>
+        <translation>Upraveno v posledních 30 dnech</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="172"/>
         <location filename="DBFilterModel.cpp" line="195"/>
         <location filename="DBFilterModel.cpp" line="1873"/>
         <source>Date</source>
-        <translation type="unfinished">Datum</translation>
+        <translation>Datum</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="176"/>
         <location filename="DBFilterModel.cpp" line="196"/>
         <source>Properties</source>
-        <translation type="unfinished">Vlastnosti</translation>
+        <translation>Vlastnosti</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="181"/>
         <location filename="DBFilterModel.cpp" line="197"/>
         <source>Albums</source>
-        <translation type="unfinished"></translation>
+        <translation>Alba</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="183"/>
         <location filename="DBFilterModel.cpp" line="198"/>
         <source>Smart Albums</source>
-        <translation type="unfinished"></translation>
+        <translation>Chytrá alba</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="199"/>
         <source>Categories</source>
-        <translation type="unfinished">Kategorie</translation>
+        <translation>Kategorie</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="164"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Zkontrolovat</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1551"/>
@@ -2197,32 +2197,32 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
         <location filename="DBFilterModel.cpp" line="1736"/>
         <location filename="DBFilterModel.cpp" line="2026"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Neznámé</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1727"/>
         <source>Landscape</source>
-        <translation type="unfinished">Krajina</translation>
+        <translation>Krajina</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1728"/>
         <source>Portrait</source>
-        <translation type="unfinished">Portrét</translation>
+        <translation>Portrét</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1729"/>
         <source>Square</source>
-        <translation type="unfinished"></translation>
+        <translation>Čtverec</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1763"/>
         <source>Panoramic</source>
-        <translation type="unfinished"></translation>
+        <translation>Panoramatický</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="1771"/>
         <source>No Color Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Žádný barevný profil</translation>
     </message>
 </context>
 <context>
@@ -2386,7 +2386,7 @@ Chcete smazat oblíbenou položku &quot;%1&quot;?</translation>
         <location filename="DlgArchive.ui" line="41"/>
         <source>Open file manager after compressing</source>
         <oldsource>Open File Explorer after compressing</oldsource>
-        <translation type="unfinished">Po zabalení otevřít průzkumník souborů</translation>
+        <translation>Po zabalení otevřít průzkumník souborů</translation>
     </message>
     <message>
         <location filename="DlgArchive.cpp" line="97"/>
@@ -3690,7 +3690,7 @@ Chcete jej přepsat?</translation>
         <location filename="DlgContactSheet.ui" line="722"/>
         <source>Open File Manager</source>
         <oldsource>Open File Explorer</oldsource>
-        <translation type="unfinished">Otevřít průzkumník souborů</translation>
+        <translation>Otevřít průzkumník souborů</translation>
     </message>
     <message>
         <location filename="DlgContactSheet.ui" line="766"/>
@@ -3806,10 +3806,10 @@ Chcete jej přepsat?</translation>
     <message numerus="yes">
         <location filename="DlgContactSheet.cpp" line="456"/>
         <source>File list (%n)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Seznam souborů (%n)</numerusform>
+            <numerusform>Seznamy souborů (%n)</numerusform>
+            <numerusform>Seznamy souborů (%n)</numerusform>
         </translation>
     </message>
 </context>
@@ -4343,22 +4343,22 @@ Chcete pokračovat?</translation>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="104"/>
         <source>Mode</source>
-        <translation type="unfinished">Režim</translation>
+        <translation>Režim</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="115"/>
         <source>Horizontal</source>
-        <translation type="unfinished">Vodorovně</translation>
+        <translation>Vodorovně</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="161"/>
         <source>Edges</source>
-        <translation type="unfinished">Hrany</translation>
+        <translation>Hrany</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="174"/>
         <source>Vertical</source>
-        <translation type="unfinished">Svisle</translation>
+        <translation>Svisle</translation>
     </message>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="194"/>
@@ -4368,7 +4368,7 @@ Chcete pokračovat?</translation>
     <message>
         <location filename="DlgConvertAutoCrop.ui" line="220"/>
         <source>Zealous</source>
-        <translation type="unfinished"></translation>
+        <translation>Fanatický</translation>
     </message>
 </context>
 <context>
@@ -4381,7 +4381,7 @@ Chcete pokračovat?</translation>
     <message>
         <location filename="DlgConvertAutoDeskew.ui" line="47"/>
         <source>Use anti-aliasing</source>
-        <translation type="unfinished">Použít antialiasing</translation>
+        <translation>Použít antialiasing</translation>
     </message>
 </context>
 <context>
@@ -4460,7 +4460,7 @@ Chcete pokračovat?</translation>
     <message>
         <location filename="DlgConvertBlurredFrame.ui" line="96"/>
         <source>Margin</source>
-        <translation type="unfinished">Okraj</translation>
+        <translation>Okraj</translation>
     </message>
     <message>
         <location filename="DlgConvertBlurredFrame.ui" line="141"/>
@@ -4944,7 +4944,7 @@ Chcete pokračovat?</translation>
     <message>
         <location filename="DlgConvert.ui" line="651"/>
         <source>Multiple resolution...</source>
-        <translation type="unfinished"></translation>
+        <translation>Více rozlišení...</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1031"/>
@@ -5276,7 +5276,7 @@ Chcete pokračovat?</translation>
     <message>
         <location filename="DlgConvert.ui" line="1247"/>
         <source>Open File Manager</source>
-        <translation type="unfinished">Otevřít průzkumník souborů</translation>
+        <translation>Otevřít průzkumník souborů</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1254"/>
@@ -5426,7 +5426,7 @@ Chcete pokračovat?</translation>
     <message>
         <location filename="DlgConvert.ui" line="1616"/>
         <source>Black</source>
-        <translation type="unfinished"></translation>
+        <translation>Černé</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1641"/>
@@ -5486,7 +5486,7 @@ Chcete pokračovat?</translation>
     <message>
         <location filename="Helper.cpp" line="531"/>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Možnosti</translation>
     </message>
 </context>
 <context>
@@ -6122,17 +6122,17 @@ Chcete pokračovat?</translation>
         <location filename="DlgConvertMulti.ui" line="14"/>
         <location filename="DlgConvertMulti.cpp" line="18"/>
         <source>Multiple output</source>
-        <translation type="unfinished"></translation>
+        <translation>Více výstupů</translation>
     </message>
     <message>
         <location filename="DlgConvertMulti.cpp" line="45"/>
         <source>Width:</source>
-        <translation type="unfinished">Šířka:</translation>
+        <translation>Šířka:</translation>
     </message>
     <message>
         <location filename="DlgConvertMulti.cpp" line="51"/>
         <source>Height:</source>
-        <translation type="unfinished">Výška:</translation>
+        <translation>Výška:</translation>
     </message>
 </context>
 <context>
@@ -6671,7 +6671,7 @@ Chcete pokračovat?</translation>
     <message>
         <location filename="DlgConvertRotate.ui" line="195"/>
         <source>Use anti-aliasing</source>
-        <translation type="unfinished">Použít antialiasing</translation>
+        <translation>Použít antialiasing</translation>
     </message>
     <message>
         <location filename="DlgConvertRotate.ui" line="203"/>
@@ -7258,7 +7258,7 @@ Chcete pokračovat?</translation>
         <location filename="DlgCreateMulti.ui" line="251"/>
         <source>Open File Manager</source>
         <oldsource>Open File Explorer</oldsource>
-        <translation type="unfinished">Otevřít průzkumník souborů</translation>
+        <translation>Otevřít průzkumník souborů</translation>
     </message>
     <message>
         <location filename="DlgCreateMulti.ui" line="209"/>
@@ -7333,218 +7333,218 @@ Chcete pokračovat?</translation>
         <location filename="DlgCulling.cpp" line="805"/>
         <location filename="DlgCulling.cpp" line="832"/>
         <source>Culling</source>
-        <translation type="unfinished"></translation>
+        <translation>Předvýběr</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="146"/>
         <location filename="DlgCulling.cpp" line="153"/>
         <source>Search</source>
-        <translation type="unfinished">Hledat</translation>
+        <translation>Hledat</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="147"/>
         <location filename="DlgCulling.cpp" line="412"/>
         <source>Input</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstup</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="148"/>
         <location filename="DlgCulling.cpp" line="313"/>
         <source>Action</source>
-        <translation type="unfinished">Akce</translation>
+        <translation>Akce</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="149"/>
         <location filename="DlgCulling.cpp" line="313"/>
         <source>Status</source>
-        <translation type="unfinished">Stav</translation>
+        <translation>Stav</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="154"/>
         <source>List the files matching the conditions in the input tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit seznam souborů splňujících podmínky na záložce „Vstup“</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="156"/>
         <source>Process</source>
-        <translation type="unfinished"></translation>
+        <translation>Zpracovat</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="157"/>
         <source>Run the action on the files of the input tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Spustit akci nad soubory na záložce „Vstup“</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="158"/>
         <source>Close</source>
-        <translation type="unfinished">Zavřít</translation>
+        <translation>Zavřít</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="201"/>
         <source>Presets:</source>
-        <translation type="unfinished">Předvolby:</translation>
+        <translation>Předvolby:</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="205"/>
         <source>Save current culling</source>
-        <translation type="unfinished"></translation>
+        <translation>Uložit aktuální předvýběr</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="207"/>
         <source>Delete current culling</source>
-        <translation type="unfinished"></translation>
+        <translation>Smazat aktuální předvýběr</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="215"/>
         <source>Add &gt;&gt;</source>
-        <translation type="unfinished">Přidat &gt;&gt;</translation>
+        <translation>Přidat &gt;&gt;</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="216"/>
         <source>Clear all</source>
-        <translation type="unfinished">Smazat vše</translation>
+        <translation>Smazat vše</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="220"/>
         <source>Match:</source>
-        <translation type="unfinished"></translation>
+        <translation>Shoda:</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="221"/>
         <source>All</source>
-        <translation type="unfinished">Vše</translation>
+        <translation>Vše</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="222"/>
         <source>Any</source>
-        <translation type="unfinished">Libovolná</translation>
+        <translation>Libovolný</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="234"/>
         <source>Search in</source>
-        <translation type="unfinished">Vyhledávat v</translation>
+        <translation>Hledat v</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="236"/>
         <source>Selected files</source>
-        <translation type="unfinished"></translation>
+        <translation>Vybrané soubory</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="237"/>
         <source>All files of the folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Všechny soubory ve složce</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="238"/>
         <source>Recursive</source>
-        <translation type="unfinished">Rekurzivně</translation>
+        <translation>Rekurzivně</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="239"/>
         <source>Include the files of the subfolders</source>
-        <translation type="unfinished"></translation>
+        <translation>Zahrnout soubory v podsložkách</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="281"/>
         <source>Action on the files of the input list</source>
-        <translation type="unfinished"></translation>
+        <translation>Akce se soubory ze vstupního seznamu</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="284"/>
         <location filename="DlgCulling.cpp" line="844"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Smazat</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="285"/>
         <source>Move to</source>
-        <translation type="unfinished">Přesunout do</translation>
+        <translation>Přesunout do</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="286"/>
         <source>Copy to</source>
-        <translation type="unfinished">Zkopírovat do</translation>
+        <translation>Zkopírovat do</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="287"/>
         <source>Rename</source>
-        <translation type="unfinished">Přejmenovat</translation>
+        <translation>Přejmenovat</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="295"/>
         <source>Filename template, the extension is kept</source>
-        <translation type="unfinished"></translation>
+        <translation>Šablona názvu souboru, zachovat příponu</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="313"/>
         <source>File</source>
-        <translation type="unfinished">Soubor</translation>
+        <translation>Soubor</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="344"/>
         <source>Selected files (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Vybrané soubory (%1)</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="345"/>
         <location filename="DlgCulling.cpp" line="366"/>
         <source>All files of the folder (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Všechny soubory ve složce (%1)</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="472"/>
         <source>Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Předvolba</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="472"/>
         <source>Preset culling name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Název uloženého předvýběru:</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="591"/>
         <source>No condition defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Není definována žádná podmínka.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="605"/>
         <source>Checking files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrola souborů...</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="605"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Storno</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="674"/>
         <source>A destination folder is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cílová složka chybí.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="679"/>
         <source>The folder &apos;%1&apos; does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Složka „%1“ neexistuje.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="684"/>
         <source>A filename template is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chybí šablona názvu souboru.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="705"/>
         <source>The input list is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstupní seznam je prázdný.</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="728"/>
         <source>The name &apos;%1&apos; would be used by several files or already exists. Add a counter (#) to the template.</source>
-        <translation type="unfinished"></translation>
+        <translation>Název „%1“ již existuje nebo by byl použit pro více souborů. Přidejte do šablony čítač (#).</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="780"/>
         <source>No file matches the conditions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Žádný soubor nesplňuje zadané podmínky.</translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="820"/>
