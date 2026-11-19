@@ -7549,119 +7549,119 @@ Chcete pokračovat?</translation>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="820"/>
         <source>Delete %n file(s)?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Chcete smazat %n soubor?</numerusform>
+            <numerusform>Chcete smazat %n soubory?</numerusform>
+            <numerusform>Chcete smazat %n souborů?</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="823"/>
         <source>Move %n file(s) to &apos;%1&apos;?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Přesunout %n soubor do složky „%1“?</numerusform>
+            <numerusform>Přesunout %n soubory do složky „%1“?</numerusform>
+            <numerusform>Přesunout %n souborů do složky „%1“?</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="826"/>
         <source>Copy %n file(s) to &apos;%1&apos;?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Zkopírovat %n soubor do složky „%1“?</numerusform>
+            <numerusform>Zkopírovat %n soubory do složky „%1“?</numerusform>
+            <numerusform>Zkopírovat %n souborů do složky „%1“?</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="829"/>
         <source>Rename %n file(s)?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Přejmenovat %n soubor?</numerusform>
+            <numerusform>Přejmenovat %n soubory?</numerusform>
+            <numerusform>Přejmenovat %n souborů?</numerusform>
         </translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="844"/>
         <source>Move to recycle bin</source>
-        <translation type="unfinished"></translation>
+        <translation>Přesunout do koše</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="846"/>
         <source>Move to &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Přesunout do „%1“</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="848"/>
         <source>Copy to &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Zkopírovat do „%1“</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="851"/>
         <source>Rename to &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Přejmenovat na „%1“</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="852"/>
         <source>Name kept</source>
-        <translation type="unfinished"></translation>
+        <translation>Jméno zachováno</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="880"/>
         <source>To process</source>
-        <translation type="unfinished"></translation>
+        <translation>Ke zpracování</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="881"/>
         <source>In progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Probíhá</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="882"/>
         <source>Processed</source>
-        <translation type="unfinished"></translation>
+        <translation>Zpracováno</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="883"/>
         <source>Error</source>
-        <translation type="unfinished">Chyba</translation>
+        <translation>Chyba</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="884"/>
         <source>Not processed</source>
-        <translation type="unfinished"></translation>
+        <translation>Nezpracováno</translation>
     </message>
     <message>
         <location filename="DlgCulling.cpp" line="885"/>
         <source>Simulated</source>
-        <translation type="unfinished"></translation>
+        <translation>Simulované</translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="903"/>
         <source>Simulation: %n file(s), no file has been modified</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Simulace: %n soubor, žádný soubor nebyl změněn</numerusform>
+            <numerusform>Simulace: %n soubory, žádný soubor nebyl změněn</numerusform>
+            <numerusform>Simulace: %n souborů, žádný soubor nebyl změněn</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="1007"/>
         <source>%n file(s) processed</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n soubor zpracován</numerusform>
+            <numerusform>%n soubory zpracovány</numerusform>
+            <numerusform>%n soubor zpracováno</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="DlgCulling.cpp" line="1007"/>
         <source>, %n error(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>, %n chyba</numerusform>
+            <numerusform>, %n chyby</numerusform>
+            <numerusform>, %n chyb</numerusform>
         </translation>
     </message>
 </context>
