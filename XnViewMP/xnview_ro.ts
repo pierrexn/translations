@@ -1015,7 +1015,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Crop</source>
-        <translation>Decupează</translation>
+        <translation>Decupează (Trunchiază)</translation>
     </message>
     <message>
         <source>Left</source>
@@ -1139,7 +1139,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Automatic crop</source>
-        <translation>Decuparea automată</translation>
+        <translation>Decupare automată (Trunchiere automată)</translation>
     </message>
     <message>
         <source>Green-Red-Blue</source>
@@ -1343,7 +1343,7 @@ Vrei să ștergi favoritul „%1”?</translation>
     </message>
     <message>
         <source>Zealous crop</source>
-        <translation>Decupare zeloasă</translation>
+        <translation>Decupare zeloasă (Trunchiere zeloasă)</translation>
     </message>
     <message>
         <source>Add mask</source>
@@ -5154,7 +5154,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Auto crop</source>
-        <translation>Decupare automată</translation>
+        <translation>Decupare automată (Trunchiere automată)</translation>
     </message>
     <message>
         <source>EXIF Orientation</source>
@@ -8246,7 +8246,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Single - Crop to page</source>
-        <translation>O singură imagine - Decupeaz-o ca să încapă pe pagină</translation>
+        <translation>O singură imagine - Decupeaz-o (Trunchiaz-o) ca să încapă pe pagină</translation>
     </message>
     <message>
         <source>Y scale</source>
@@ -8294,7 +8294,7 @@ Te rugăm să te asiguri că fișierele nu sunt în modul doar citire!</translat
     </message>
     <message>
         <source>Crop to size</source>
-        <translation>Decupează la dimensiune</translation>
+        <translation>Decupează la dimensiune (Trunchiază la dimensiune)</translation>
     </message>
     <message>
         <source>Collection</source>
@@ -9086,7 +9086,7 @@ Vrei să le redenumești?</translation>
     </message>
     <message>
         <source>Auto crop</source>
-        <translation>Decupare automată</translation>
+        <translation>Decupare automată (Trunchiere automată)</translation>
     </message>
 </context>
 <context>
@@ -10254,7 +10254,7 @@ miniatură</translation>
     </message>
     <message>
         <source>Make backup for lossless crop</source>
-        <translation>Fă backup (copie de rezervă) pentru decuparea fără pierderi</translation>
+        <translation>Fă backup (copie de rezervă) pentru decuparea (trunchierea) fără pierderi</translation>
     </message>
     <message>
         <source>Viewer - Fullscreen</source>
@@ -15331,7 +15331,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Lossless Crop</source>
-        <translation>Decupare fără pierderi</translation>
+        <translation>Decupare fără pierderi (Trunchiere fără pierderi)</translation>
     </message>
     <message>
         <source>An error has occurred, the lossless rotation can&apos;t be executed.</source>
@@ -17383,7 +17383,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Crop...</source>
-        <translation>Decupare...</translation>
+        <translation>Decupare (Trunchiere)...</translation>
     </message>
     <message>
         <source>Clean metadata...</source>
@@ -17603,7 +17603,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Automatic crop...</source>
-        <translation>Decupare automată...</translation>
+        <translation>Decupare automată (Trunchiere automată)...</translation>
     </message>
     <message>
         <source>Rotate 90° right</source>
@@ -17667,7 +17667,7 @@ Vrei să continui?</translation>
     </message>
     <message>
         <source>Crop (lossless)</source>
-        <translation>Decupare (fără pierderi)</translation>
+        <translation>Decupare/Trunchiere (fără pierderi)</translation>
     </message>
     <message>
         <source>Lossless transformations (JPEG)</source>
@@ -19312,7 +19312,7 @@ O poți schimba în Setări › Catalog.</translation>
     <name>ViewCropAction</name>
     <message>
         <source>Crop</source>
-        <translation>Decupare</translation>
+        <translation>Decupează (Trunchiază)</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -19320,7 +19320,7 @@ O poți schimba în Setări › Catalog.</translation>
     </message>
     <message>
         <source>Crop, Save &amp;&amp; Next</source>
-        <translation>Decupează, salvează și următoarea</translation>
+        <translation>Decupează (Trunchiază), salvează și următoarea</translation>
     </message>
     <message>
         <source>Save selection as...</source>
