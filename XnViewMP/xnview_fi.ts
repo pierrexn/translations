@@ -354,6 +354,10 @@
         <source>Clear history</source>
         <translation>Poista historia</translation>
     </message>
+    <message>
+        <source>Remove &quot;%1&quot; from the history?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AssignedSetPanel</name>
@@ -679,6 +683,10 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
         <source>Are you sure to delete &apos;%1&apos;?</source>
         <translation>Oletko varma, että haluat poistaa kohteen ”%1”?</translation>
     </message>
+    <message>
+        <source>Collapse all trees</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CategoryCompleterModel</name>
@@ -757,6 +765,10 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     <message>
         <source>Layout</source>
         <translation>Asettelu</translation>
+    </message>
+    <message>
+        <source>Show parent category</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1702,6 +1714,14 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     <message>
         <source>No face</source>
         <translation>Ei kasvoja</translation>
+    </message>
+    <message>
+        <source>Location</source>
+        <translation type="unfinished">Sijainti</translation>
+    </message>
+    <message>
+        <source>Other</source>
+        <translation type="unfinished">Muut</translation>
     </message>
 </context>
 <context>
@@ -2966,10 +2986,6 @@ Haluatko korvata sen?</translation>
         <translation>Lataa kuva...</translation>
     </message>
     <message>
-        <source>Saving ZIP file...</source>
-        <translation>Tallenna ZIP-tiedosto...</translation>
-    </message>
-    <message>
         <source>open error</source>
         <translation>avausvirhe</translation>
     </message>
@@ -3052,10 +3068,6 @@ Haluatko korvata sen?</translation>
         <translation>Muunna XnConvertilla</translation>
     </message>
     <message>
-        <source>Finished at: </source>
-        <translation>Valmis: </translation>
-    </message>
-    <message>
         <source>_result</source>
         <translation>_tulos</translation>
     </message>
@@ -3071,17 +3083,6 @@ Haluatko korvata sen?</translation>
         <source>New files:</source>
         <translation>Uudet tiedostot:</translation>
     </message>
-    <message numerus="yes">
-        <source>%n minute(s)</source>
-        <translation>
-            <numerusform>%n minuutti</numerusform>
-            <numerusform>%n minuuttia</numerusform>
-        </translation>
-    </message>
-    <message>
-        <source>%1 of %2 files</source>
-        <translation>%1 :a %2 tiedostosta</translation>
-    </message>
     <message>
         <source>loaded</source>
         <translation>ladattu</translation>
@@ -3093,14 +3094,6 @@ Haluatko korvata sen?</translation>
     <message>
         <source>Actions</source>
         <translation>Toiminnot</translation>
-    </message>
-    <message>
-        <source>Save script</source>
-        <translation>Tallenna skripti</translation>
-    </message>
-    <message>
-        <source>Load script</source>
-        <translation>Latausskripti</translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) remaining</source>
@@ -3156,13 +3149,6 @@ Haluatko korvata sen?</translation>
         <source>Overwrite</source>
         <translation>Korvaa</translation>
     </message>
-    <message numerus="yes">
-        <source>%n second(s)</source>
-        <translation>
-            <numerusform>%n sekunti</numerusform>
-            <numerusform>%n sekuntia</numerusform>
-        </translation>
-    </message>
     <message>
         <source>Total input file size:</source>
         <translation>Syötetiedoston kokonaiskoko:</translation>
@@ -3178,10 +3164,6 @@ Haluatko korvata sen?</translation>
     <message>
         <source>Overwritten:</source>
         <translation>Korvatut:</translation>
-    </message>
-    <message>
-        <source>Started at: </source>
-        <translation>Aloitettu: </translation>
     </message>
     <message>
         <source>skipped, file already exists!</source>
@@ -3280,6 +3262,243 @@ Haluatko korvata sen?</translation>
     <message>
         <source>Remove file from filelist</source>
         <translation>Poista tiedosto tiedostolistalta</translation>
+    </message>
+    <message>
+        <source>Loading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page %1</source>
+        <translation type="unfinished">Sivu %1</translation>
+    </message>
+    <message>
+        <source>Errors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Original</source>
+        <translation type="unfinished">Alkuperäinen</translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation type="unfinished">Tiedosto</translation>
+    </message>
+    <message>
+        <source>Output</source>
+        <translation type="unfinished">Ulostulo</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished">Koko</translation>
+    </message>
+    <message>
+        <source>Ratio</source>
+        <translation type="unfinished">Suhde</translation>
+    </message>
+    <message>
+        <source>Details</source>
+        <translation type="unfinished">Lisätiedot</translation>
+    </message>
+    <message>
+        <source>Summary</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>%n error(s)</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>%n file(s)</source>
+        <translation type="unfinished">
+            <numerusform>%n tiedosto</numerusform>
+            <numerusform>%n tiedostoa</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Waiting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Errors:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Processing...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Saving...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stopped</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deleted: %1, kept: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kept</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide presets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show presets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unreadable preset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>no action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>%n action(s)</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Source folder</source>
+        <translation type="unfinished">Lähdekansio</translation>
+    </message>
+    <message>
+        <source>ZIP: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Email: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FTP: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presets</source>
+        <translation type="unfinished">Esiasetukset</translation>
+    </message>
+    <message>
+        <source>&amp;Convert</source>
+        <translation type="unfinished">&amp;Muunna</translation>
+    </message>
+    <message numerus="yes">
+        <source>%n preset(s)</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>current settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Load preset</source>
+        <translation type="unfinished">Lataa esiasetus</translation>
+    </message>
+    <message>
+        <source>Unable to read the preset:
+%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The preset &quot;%1&quot; has been modified.
+
+Load &quot;%2&quot; and discard the changes?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Load the preset &quot;%1&quot;?
+
+The current settings will be replaced.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Load preset...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export for NConvert...</source>
+        <translation type="unfinished">Vie NConvertille...</translation>
+    </message>
+    <message>
+        <source>Sort by name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Load</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove from list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This file is not a valid preset:
+%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save preset</source>
+        <translation type="unfinished">Tallenna esiasetus</translation>
+    </message>
+    <message>
+        <source>Unable to write the file:
+%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 / %2 files</source>
+        <translation type="unfinished">%1 / %2 tiedostoa</translation>
+    </message>
+    <message>
+        <source>Started %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 elapsed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 remaining (end %2)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1: may replace the original files, also read by the other presets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 and %2: same folder, filename and format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The preset &apos;%1&apos; can&apos;t be read, or its output is not a folder.
+
+ZIP, email and FTP outputs are not possible with several presets.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3735,10 +3954,6 @@ Haluatko korvata sen?</translation>
         <translation>Asetukset...</translation>
     </message>
     <message>
-        <source>Remove preset from list</source>
-        <translation>Poista esiasetus listalta</translation>
-    </message>
-    <message>
         <source>Load image...</source>
         <translation>Lataa kuva...</translation>
     </message>
@@ -3793,14 +4008,6 @@ Haluatko korvata sen?</translation>
     <message>
         <source>Load format settings...</source>
         <translation>Lataa formaattiasetukset...</translation>
-    </message>
-    <message>
-        <source>Processing list:</source>
-        <translation>Käsittelyluettelo:</translation>
-    </message>
-    <message>
-        <source>Exit after conversion</source>
-        <translation>Sulje muunnoksen jälkeen</translation>
     </message>
     <message>
         <source>When output files already exist</source>
@@ -3927,10 +4134,6 @@ Haluatko korvata sen?</translation>
         <translation>Nimi pienillä kirjaimilla</translation>
     </message>
     <message>
-        <source>Preserve extension</source>
-        <translation>Säilytä tiedostopääte</translation>
-    </message>
-    <message>
         <source>Start index</source>
         <translation>Aloitusindeksi</translation>
     </message>
@@ -3961,10 +4164,6 @@ Haluatko korvata sen?</translation>
     <message>
         <source>Save preset</source>
         <translation>Tallenna esiasetus</translation>
-    </message>
-    <message>
-        <source>Load preset</source>
-        <translation>Lataa esiasetus</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -4005,10 +4204,6 @@ Haluatko korvata sen?</translation>
     <message>
         <source>Replace</source>
         <translation>Korvaa</translation>
-    </message>
-    <message>
-        <source>Presets:</source>
-        <translation>Esiasetukset:</translation>
     </message>
     <message>
         <source>Convert all pages from multipage file</source>
@@ -4111,10 +4306,6 @@ Haluatko korvata sen?</translation>
         <translation>Tyhjennä tiedostonimikenttä käynnistettäessä</translation>
     </message>
     <message>
-        <source>If an output file already exists</source>
-        <translation>Jos ulostulotiedosto on jo olemassa</translation>
-    </message>
-    <message>
         <source>Export for NConvert...</source>
         <translation>Vie NConvertille...</translation>
     </message>
@@ -4183,12 +4374,88 @@ Haluatko korvata sen?</translation>
         <translation>&amp;Asetukset</translation>
     </message>
     <message>
-        <source>Multiple resolution...</source>
-        <translation>Usea resoluutio...</translation>
-    </message>
-    <message>
         <source>Black</source>
         <translation>Musta</translation>
+    </message>
+    <message>
+        <source>&lt;</source>
+        <translation type="unfinished">&lt;</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation type="unfinished">Tallenna</translation>
+    </message>
+    <message>
+        <source>Save preset as...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save as...</source>
+        <translation type="unfinished">Tallenna nimellä...</translation>
+    </message>
+    <message>
+        <source>Move up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If file exists</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recipient</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Output filename</source>
+        <translation type="unfinished">Ulostulo-tiedosto</translation>
+    </message>
+    <message>
+        <source>Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Example</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preserve</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Metadata</source>
+        <translation type="unfinished">Metatiedot</translation>
+    </message>
+    <message>
+        <source>Color profile</source>
+        <translation type="unfinished">Väriprofiili</translation>
+    </message>
+    <message>
+        <source>Original date/time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Original extension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keep multipage (when possible)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert all pages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Advanced</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exit</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4694,21 +4961,6 @@ Haluatko korvata sen?</translation>
     <message>
         <source>Vertical</source>
         <translation>Pystysuunnassa</translation>
-    </message>
-</context>
-<context>
-    <name>DlgConvertMulti</name>
-    <message>
-        <source>Multiple output</source>
-        <translation>Usea ulostulo</translation>
-    </message>
-    <message>
-        <source>Width:</source>
-        <translation>Leveys:</translation>
-    </message>
-    <message>
-        <source>Height:</source>
-        <translation>Korkeus:</translation>
     </message>
 </context>
 <context>
@@ -6186,6 +6438,14 @@ Haluatko korvata sen?</translation>
     <message>
         <source>Altitude (m)</source>
         <translation>Korkeus (m)</translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation type="unfinished">Esikatselu</translation>
+    </message>
+    <message>
+        <source>Map</source>
+        <translation type="unfinished">Kartta</translation>
     </message>
 </context>
 <context>
@@ -13639,6 +13899,37 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     </message>
 </context>
 <context>
+    <name>GeoPlaces</name>
+    <message>
+        <source>Africa</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Antarctica</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Asia</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Europe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>North America</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Oceania</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>South America</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>GoogleDriveUploader</name>
     <message>
         <source>Unable to create the upload session.</source>
@@ -14094,6 +14385,10 @@ Haluatko poistaa suosikin &quot;% 1&quot;?</translation>
     <message>
         <source>Frame count</source>
         <translation>Kehysten määrä</translation>
+    </message>
+    <message>
+        <source>Geolocation</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15182,6 +15477,26 @@ Haluatko jatkaa?</translation>
     <message>
         <source>File&apos;s icon</source>
         <translation>Tiedoston kuvake</translation>
+    </message>
+    <message>
+        <source>Location</source>
+        <translation type="unfinished">Sijainti</translation>
+    </message>
+    <message>
+        <source>Continent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Country</source>
+        <translation type="unfinished">Maa</translation>
+    </message>
+    <message>
+        <source>State</source>
+        <translation type="unfinished">Kaupunki</translation>
+    </message>
+    <message>
+        <source>City</source>
+        <translation type="unfinished">Kaupunki</translation>
     </message>
 </context>
 <context>
@@ -16781,6 +17096,10 @@ Jatketaanko?</translation>
         <source>PlugIns...</source>
         <translation>Lisäosat...</translation>
     </message>
+    <message>
+        <source>Compare open images</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MenuTemplate</name>
@@ -18034,16 +18353,8 @@ Jatketaanko?</translation>
         <translation>Mukautuva skaalaus</translation>
     </message>
     <message>
-        <source>Vertical scale capped at 4x the mean of the non-empty levels, higher peaks are clipped</source>
-        <translation>Pystyskaalausasteikko on rajattu nelinkertaiseksi ei-tyhjien tasojen keskiarvoon; tätä korkeammat huiput leikkautuvat pois</translation>
-    </message>
-    <message>
         <source>Logarithmic scale</source>
         <translation>Logaritminen skaalaus</translation>
-    </message>
-    <message>
-        <source>Small counts stay visible next to high peaks</source>
-        <translation>Pienet määrät pysyvät näkyvissä korkeiden huippujen rinnalla</translation>
     </message>
     <message>
         <source>Ignore 0 and 255 for scaling</source>
@@ -18052,6 +18363,22 @@ Jatketaanko?</translation>
     <message>
         <source>Adaptive scale: clipped shadows and highlights don&apos;t flatten the rest of the histogram</source>
         <translation>Mukautuva skaalaus: leikkautuneet varjot ja kirkkaat sävyt eivät litistä histogrammin muuta osaa</translation>
+    </message>
+    <message>
+        <source>A linear scale that allows extremely high peaks to clip; Photoshop-style; Best for most images</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Non-linear adaptive scale</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Compresses high peaks to keep them on the scale (uses asinh stretching); Low values will appear higher; Best for astrophotography and HDR images</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Useful for very high dynamic range images that have detail in extremely low and high value </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18107,6 +18434,10 @@ Jatketaanko?</translation>
     <message>
         <source>Tab settings...</source>
         <translation>Välilehti asetukset...</translation>
+    </message>
+    <message>
+        <source>Compare open images</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -19608,6 +19939,14 @@ ei tallenneta tietokantaan.</translation>
     <message>
         <source>The tab bar is hidden, but tabs will still open. Set a tab limit in Settings&gt;Interface&gt;Tabs</source>
         <translation>Välilehtipalkki on piilotettu, mutta välilehdet avautuvat silti. Aseta välilehtirajoitus kohdassa Asetukset&gt;Ulkoasu&gt;Välilehti</translation>
+    </message>
+    <message>
+        <source>Compare</source>
+        <translation type="unfinished">Vertailu</translation>
+    </message>
+    <message>
+        <source>At least 2 images must be opened in tabs.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

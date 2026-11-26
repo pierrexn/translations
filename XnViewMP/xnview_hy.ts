@@ -354,6 +354,10 @@
         <source>Clear history</source>
         <translation>Մաքրել պատմությունը</translation>
     </message>
+    <message>
+        <source>Remove &quot;%1&quot; from the history?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AssignedSetPanel</name>
@@ -679,6 +683,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <source>Are you sure to delete &apos;%1&apos;?</source>
         <translation>Ցանկանո՞ւմ եք ջնջել &apos;%1&apos;-ը:</translation>
     </message>
+    <message>
+        <source>Collapse all trees</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CategoryCompleterModel</name>
@@ -757,6 +765,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Layout</source>
         <translation>Դասավորություն</translation>
+    </message>
+    <message>
+        <source>Show parent category</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1702,6 +1714,14 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>No face</source>
         <translation>Չկա դեմք</translation>
+    </message>
+    <message>
+        <source>Location</source>
+        <translation type="unfinished">Տեղադրություն</translation>
+    </message>
+    <message>
+        <source>Other</source>
+        <translation type="unfinished">Այլ</translation>
     </message>
 </context>
 <context>
@@ -2966,10 +2986,6 @@ Do you want to overwrite it?</source>
         <translation>Բեռնել պատկեր...</translation>
     </message>
     <message>
-        <source>Saving ZIP file...</source>
-        <translation>Պահպանվում է ZIP արխիվը...</translation>
-    </message>
-    <message>
         <source>open error</source>
         <translation>բացելու սխալ</translation>
     </message>
@@ -3015,13 +3031,6 @@ Do you want to overwrite it?</source>
         <source>failed</source>
         <translation>ձախողում</translation>
     </message>
-    <message numerus="yes">
-        <source>%n minute(s)</source>
-        <translation>
-            <numerusform>%n րոպե</numerusform>
-            <numerusform></numerusform>
-        </translation>
-    </message>
     <message>
         <source>loaded</source>
         <translation>բեռնում</translation>
@@ -3033,14 +3042,6 @@ Do you want to overwrite it?</source>
     <message>
         <source>Actions</source>
         <translation>Գործողություն</translation>
-    </message>
-    <message>
-        <source>Save script</source>
-        <translation>Պահել սկրիպտը</translation>
-    </message>
-    <message>
-        <source>Load script</source>
-        <translation>Բեռնել սկրիպտ</translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) remaining</source>
@@ -3087,13 +3088,6 @@ Do you want to overwrite it?</source>
     <message>
         <source>Overwrite</source>
         <translation>Վրագրել</translation>
-    </message>
-    <message numerus="yes">
-        <source>%n second(s)</source>
-        <translation>
-            <numerusform>%n վայրկյան</numerusform>
-            <numerusform></numerusform>
-        </translation>
     </message>
     <message>
         <source>Uploading image(s) to server...</source>
@@ -3160,14 +3154,6 @@ Do you want to overwrite it?</source>
         <translation>Արտահանել մատյանը</translation>
     </message>
     <message>
-        <source>Finished at: </source>
-        <translation>Ավարտված՝ </translation>
-    </message>
-    <message>
-        <source>Started at: </source>
-        <translation>Մեկնարկած՝ </translation>
-    </message>
-    <message>
         <source>Same as original</source>
         <translation>Նույնը, ինչ սկզբնականը</translation>
     </message>
@@ -3190,10 +3176,6 @@ Do you want to overwrite it?</source>
     <message>
         <source>File size ratio:</source>
         <translation>Ֆայլի չափի հարաբերակցություն.</translation>
-    </message>
-    <message>
-        <source>%1 of %2 files</source>
-        <translation>%1-ը %2 ֆայլից</translation>
     </message>
     <message>
         <source>Cancel batch processing</source>
@@ -3280,6 +3262,243 @@ Do you want to overwrite it?</source>
     <message>
         <source>Remove file from filelist</source>
         <translation>Հեռացնել ֆայլը ֆայլերի ցանկից</translation>
+    </message>
+    <message>
+        <source>Loading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page %1</source>
+        <translation type="unfinished">Էջը՝ %1</translation>
+    </message>
+    <message>
+        <source>Errors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Original</source>
+        <translation type="unfinished">Իրական</translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation type="unfinished">Ֆայլ</translation>
+    </message>
+    <message>
+        <source>Output</source>
+        <translation type="unfinished">Արտածում</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished">Չափ</translation>
+    </message>
+    <message>
+        <source>Ratio</source>
+        <translation type="unfinished">Գնահատական</translation>
+    </message>
+    <message>
+        <source>Details</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Summary</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>%n error(s)</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>%n file(s)</source>
+        <translation type="unfinished">
+            <numerusform>%1 ֆայլ(եր)</numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Waiting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Errors:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Processing...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Saving...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stopped</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deleted: %1, kept: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kept</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide presets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show presets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unreadable preset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>no action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>%n action(s)</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Source folder</source>
+        <translation type="unfinished">Աղբյուր պանակ</translation>
+    </message>
+    <message>
+        <source>ZIP: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Email: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FTP: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presets</source>
+        <translation type="unfinished">Նախակայումներ</translation>
+    </message>
+    <message>
+        <source>&amp;Convert</source>
+        <translation type="unfinished">&amp;Փոխարկել</translation>
+    </message>
+    <message numerus="yes">
+        <source>%n preset(s)</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>current settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Load preset</source>
+        <translation type="unfinished">Բեռնել նախակայում</translation>
+    </message>
+    <message>
+        <source>Unable to read the preset:
+%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The preset &quot;%1&quot; has been modified.
+
+Load &quot;%2&quot; and discard the changes?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Load the preset &quot;%1&quot;?
+
+The current settings will be replaced.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Load preset...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export for NConvert...</source>
+        <translation type="unfinished">Արտահանել NConvert-ի համար...</translation>
+    </message>
+    <message>
+        <source>Sort by name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Load</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove from list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This file is not a valid preset:
+%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save preset</source>
+        <translation type="unfinished">Պահել նախակայումը</translation>
+    </message>
+    <message>
+        <source>Unable to write the file:
+%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 / %2 files</source>
+        <translation type="unfinished">%1 / %2 ֆայլեր</translation>
+    </message>
+    <message>
+        <source>Started %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 elapsed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 remaining (end %2)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1: may replace the original files, also read by the other presets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 and %2: same folder, filename and format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The preset &apos;%1&apos; can&apos;t be read, or its output is not a folder.
+
+ZIP, email and FTP outputs are not possible with several presets.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4083,10 +4302,6 @@ Do you want to overwrite it?</source>
         <translation>Մեկնարկային դասիչ</translation>
     </message>
     <message>
-        <source>Preserve extension</source>
-        <translation>Նախապահել ընդլայնումը</translation>
-    </message>
-    <message>
         <source>Note: You need to start with admin rights to be able to change this setting</source>
         <translation>Նշում. Դուք պետք է մեկնարկեք վարիչի իրավունքներով՝ տվյալ կարգավորումը փոխելու համար</translation>
     </message>
@@ -4107,28 +4322,8 @@ Do you want to overwrite it?</source>
         <translation>Օգտ. բազմակի CPU-ի միջուկները</translation>
     </message>
     <message>
-        <source>Exit after conversion</source>
-        <translation>Փակել փոխարկելուց հետո</translation>
-    </message>
-    <message>
-        <source>If an output file already exists</source>
-        <translation>Եթե արտածվող ֆայլն արդեն առկա է</translation>
-    </message>
-    <message>
-        <source>Presets:</source>
-        <translation>Նախակայումներ.</translation>
-    </message>
-    <message>
-        <source>Load preset</source>
-        <translation>Բեռնել նախակայում</translation>
-    </message>
-    <message>
         <source>Save preset</source>
         <translation>Պահել նախակայումը</translation>
-    </message>
-    <message>
-        <source>Remove preset from list</source>
-        <translation>Հեռացնել նախակայումը ցանկից</translation>
     </message>
     <message>
         <source>Use color based on file format</source>
@@ -4137,10 +4332,6 @@ Do you want to overwrite it?</source>
     <message>
         <source>Beep at the end of process</source>
         <translation>Ձայնարձակել ընթացքի վերջում</translation>
-    </message>
-    <message>
-        <source>Processing list:</source>
-        <translation>Մշակման ցանկ.</translation>
     </message>
     <message>
         <source>Theme</source>
@@ -4183,12 +4374,88 @@ Do you want to overwrite it?</source>
         <translation>&amp;Ընտրանքներ</translation>
     </message>
     <message>
-        <source>Multiple resolution...</source>
-        <translation>Բազմակի տարլուծում...</translation>
-    </message>
-    <message>
         <source>Black</source>
         <translation>Սև</translation>
+    </message>
+    <message>
+        <source>&lt;</source>
+        <translation type="unfinished">&lt;</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation type="unfinished">Պահել</translation>
+    </message>
+    <message>
+        <source>Save preset as...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save as...</source>
+        <translation type="unfinished">Պահել որպես...</translation>
+    </message>
+    <message>
+        <source>Move up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If file exists</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recipient</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Output filename</source>
+        <translation type="unfinished">Արտածվող ֆայլի անուն</translation>
+    </message>
+    <message>
+        <source>Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Example</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preserve</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color profile</source>
+        <translation type="unfinished">Գույնային սխեմա</translation>
+    </message>
+    <message>
+        <source>Original date/time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Original extension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keep multipage (when possible)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert all pages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Advanced</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exit</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4694,21 +4961,6 @@ Do you want to overwrite it?</source>
     <message>
         <source>Vertical</source>
         <translation>Ուղղահայաց</translation>
-    </message>
-</context>
-<context>
-    <name>DlgConvertMulti</name>
-    <message>
-        <source>Multiple output</source>
-        <translation>Բազմակի արտածում</translation>
-    </message>
-    <message>
-        <source>Width:</source>
-        <translation>Լայնքը.</translation>
-    </message>
-    <message>
-        <source>Height:</source>
-        <translation>Բարձր-ը.</translation>
     </message>
 </context>
 <context>
@@ -6186,6 +6438,14 @@ Do you want to overwrite it?</source>
     <message>
         <source>Paste</source>
         <translation>Փակցնել</translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Map</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13633,6 +13893,37 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     </message>
 </context>
 <context>
+    <name>GeoPlaces</name>
+    <message>
+        <source>Africa</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Antarctica</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Asia</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Europe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>North America</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Oceania</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>South America</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>GoogleDriveUploader</name>
     <message>
         <source>Unable to create the upload session.</source>
@@ -14088,6 +14379,10 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <source>Frame count</source>
         <translation>Շրջանակի քանակ</translation>
+    </message>
+    <message>
+        <source>Geolocation</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15176,6 +15471,26 @@ Do you want to continue?</source>
     <message>
         <source>Extra</source>
         <translation>Լրացուցիչ</translation>
+    </message>
+    <message>
+        <source>Location</source>
+        <translation type="unfinished">Տեղադրություն</translation>
+    </message>
+    <message>
+        <source>Continent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Country</source>
+        <translation type="unfinished">Երկիր</translation>
+    </message>
+    <message>
+        <source>State</source>
+        <translation type="unfinished">Վիճակը</translation>
+    </message>
+    <message>
+        <source>City</source>
+        <translation type="unfinished">Քաղաք</translation>
     </message>
 </context>
 <context>
@@ -16775,6 +17090,10 @@ Do you want to continue?</source>
         <source>PlugIns...</source>
         <translation>Բաղադրիչներ</translation>
     </message>
+    <message>
+        <source>Compare open images</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MenuTemplate</name>
@@ -18028,16 +18347,8 @@ Do you want to continue?</source>
         <translation>Հարմարվողական մասշտաբ</translation>
     </message>
     <message>
-        <source>Vertical scale capped at 4x the mean of the non-empty levels, higher peaks are clipped</source>
-        <translation>Ուղղահայաց մասշտաբը սահմանափակված է ոչ դատարկ մակարդակների միջին արժեքի 4-ապատիկով, ավելի բարձր գագաթները կտրվում են։</translation>
-    </message>
-    <message>
         <source>Logarithmic scale</source>
         <translation>Լոգարիթմական սանդղակ</translation>
-    </message>
-    <message>
-        <source>Small counts stay visible next to high peaks</source>
-        <translation type="unfinished">Փոքր թվերը մնում են տեսանելի բարձր գագաթների կողքին։</translation>
     </message>
     <message>
         <source>Ignore 0 and 255 for scaling</source>
@@ -18046,6 +18357,22 @@ Do you want to continue?</source>
     <message>
         <source>Adaptive scale: clipped shadows and highlights don&apos;t flatten the rest of the histogram</source>
         <translation type="unfinished">Ադապտիվ սանդղակ՝ կտրված ստվերներն ու լուսավոր հատվածները չեն հարթեցնում հիստոգրամի մնացած մասը։</translation>
+    </message>
+    <message>
+        <source>A linear scale that allows extremely high peaks to clip; Photoshop-style; Best for most images</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Non-linear adaptive scale</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Compresses high peaks to keep them on the scale (uses asinh stretching); Low values will appear higher; Best for astrophotography and HDR images</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Useful for very high dynamic range images that have detail in extremely low and high value </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18101,6 +18428,10 @@ Do you want to continue?</source>
     <message>
         <source>Duplicate tab</source>
         <translation>Կրկնօրինակել էջը</translation>
+    </message>
+    <message>
+        <source>Compare open images</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -19601,6 +19932,14 @@ will not be saved to the database.</source>
     <message>
         <source>The tab bar is hidden, but tabs will still open. Set a tab limit in Settings&gt;Interface&gt;Tabs</source>
         <translation>Ներդիրի գոտին թաքնված է, սակայն ներդիրներն, այնուամենայնիվ, կբացվեն։ Սահմանեք ներդիրների սահմանաչափ «Կարգավորումներ» &gt; «Միջերես» &gt; «Ներդիրներ» բաժնում։</translation>
+    </message>
+    <message>
+        <source>Compare</source>
+        <translation type="unfinished">Համեմատել</translation>
+    </message>
+    <message>
+        <source>At least 2 images must be opened in tabs.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

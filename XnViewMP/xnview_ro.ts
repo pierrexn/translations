@@ -354,6 +354,10 @@
         <source>Clear history</source>
         <translation>Golește istoricul</translation>
     </message>
+    <message>
+        <source>Remove &quot;%1&quot; from the history?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AssignedSetPanel</name>
@@ -681,6 +685,10 @@ Vrei să ștergi favoritul „%1”?</translation>
         <source>Are you sure to delete &apos;%1&apos;?</source>
         <translation>Ești sigur(ă) că vrei să ștergi „%1”?</translation>
     </message>
+    <message>
+        <source>Collapse all trees</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>CategoryCompleterModel</name>
@@ -759,6 +767,10 @@ Vrei să ștergi favoritul „%1”?</translation>
     <message>
         <source>Layout</source>
         <translation>Aspect</translation>
+    </message>
+    <message>
+        <source>Show parent category</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1704,6 +1716,14 @@ Vrei să ștergi favoritul „%1”?</translation>
     <message>
         <source>No face</source>
         <translation>Nicio față</translation>
+    </message>
+    <message>
+        <source>Location</source>
+        <translation type="unfinished">Locația</translation>
+    </message>
+    <message>
+        <source>Other</source>
+        <translation type="unfinished">Altele</translation>
     </message>
 </context>
 <context>
@@ -2976,10 +2996,6 @@ Dorești să-l suprascrii?</translation>
         <translation>Încarcă imaginea...</translation>
     </message>
     <message>
-        <source>Saving ZIP file...</source>
-        <translation>Se salvează fișierul ZIP...</translation>
-    </message>
-    <message>
         <source>open error</source>
         <translation>eroare deschisă</translation>
     </message>
@@ -3064,10 +3080,6 @@ Dorești să-l suprascrii?</translation>
         <translation>Convertește-o cu XnConvert</translation>
     </message>
     <message>
-        <source>Finished at: </source>
-        <translation>Terminat la: </translation>
-    </message>
-    <message>
         <source>_result</source>
         <translation>_rezultat</translation>
     </message>
@@ -3083,18 +3095,6 @@ Dorești să-l suprascrii?</translation>
         <source>New files:</source>
         <translation>Fișiere noi:</translation>
     </message>
-    <message numerus="yes">
-        <source>%n minute(s)</source>
-        <translation>
-            <numerusform>%n minut</numerusform>
-            <numerusform>%n minute</numerusform>
-            <numerusform>%n de minute</numerusform>
-        </translation>
-    </message>
-    <message>
-        <source>%1 of %2 files</source>
-        <translation>%1 / %2 fișiere</translation>
-    </message>
     <message>
         <source>loaded</source>
         <translation>încărcat</translation>
@@ -3106,14 +3106,6 @@ Dorești să-l suprascrii?</translation>
     <message>
         <source>Actions</source>
         <translation>Acțiuni</translation>
-    </message>
-    <message>
-        <source>Save script</source>
-        <translation>Salvează scriptul</translation>
-    </message>
-    <message>
-        <source>Load script</source>
-        <translation>Încarcă scriptul</translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) remaining</source>
@@ -3171,14 +3163,6 @@ Dorești să-l suprascrii?</translation>
         <source>Overwrite</source>
         <translation>Suprascrie</translation>
     </message>
-    <message numerus="yes">
-        <source>%n second(s)</source>
-        <translation>
-            <numerusform>%n secundă</numerusform>
-            <numerusform>%n secunde</numerusform>
-            <numerusform>%n de secunde</numerusform>
-        </translation>
-    </message>
     <message>
         <source>Total input file size:</source>
         <translation>Dimensiunea totală a fișierului de intrare:</translation>
@@ -3194,10 +3178,6 @@ Dorești să-l suprascrii?</translation>
     <message>
         <source>Overwritten:</source>
         <translation>Suprascris:</translation>
-    </message>
-    <message>
-        <source>Started at: </source>
-        <translation>A început la: </translation>
     </message>
     <message>
         <source>skipped, file already exists!</source>
@@ -3296,6 +3276,247 @@ Do you want to continue?</source>
         <translation>Ai opțiunea „păstrează fișierul original dacă rezultatul este mai mare” și câteva acțiuni. 
 
 Vrei să continui?</translation>
+    </message>
+    <message>
+        <source>Loading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page %1</source>
+        <translation type="unfinished">Pagina %1</translation>
+    </message>
+    <message>
+        <source>Errors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Original</source>
+        <translation type="unfinished">Original</translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation type="unfinished">Fişier</translation>
+    </message>
+    <message>
+        <source>Output</source>
+        <translation type="unfinished">Ieșire</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ratio</source>
+        <translation type="unfinished">Raportul</translation>
+    </message>
+    <message>
+        <source>Details</source>
+        <translation type="unfinished">Detalii</translation>
+    </message>
+    <message>
+        <source>Summary</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>%n error(s)</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>%n file(s)</source>
+        <translation type="unfinished">
+            <numerusform>%n fișier</numerusform>
+            <numerusform>%n fișiere</numerusform>
+            <numerusform>%n de fișiere</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Waiting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Errors:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Processing...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Saving...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stopped</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deleted: %1, kept: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kept</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide presets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show presets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unreadable preset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>no action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>%n action(s)</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Source folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ZIP: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Email: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FTP: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presets</source>
+        <translation type="unfinished">Presetări</translation>
+    </message>
+    <message>
+        <source>&amp;Convert</source>
+        <translation type="unfinished">&amp;Convertește</translation>
+    </message>
+    <message numerus="yes">
+        <source>%n preset(s)</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>current settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Load preset</source>
+        <translation type="unfinished">Încarcă presetarea</translation>
+    </message>
+    <message>
+        <source>Unable to read the preset:
+%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The preset &quot;%1&quot; has been modified.
+
+Load &quot;%2&quot; and discard the changes?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Load the preset &quot;%1&quot;?
+
+The current settings will be replaced.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Load preset...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export for NConvert...</source>
+        <translation type="unfinished">Exportă pentru NConvert...</translation>
+    </message>
+    <message>
+        <source>Sort by name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Load</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove from list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This file is not a valid preset:
+%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save preset</source>
+        <translation type="unfinished">Salvează presetarea</translation>
+    </message>
+    <message>
+        <source>Unable to write the file:
+%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 / %2 files</source>
+        <translation type="unfinished">%1 / %2 (de) fișiere</translation>
+    </message>
+    <message>
+        <source>Started %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 elapsed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 remaining (end %2)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1: may replace the original files, also read by the other presets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 and %2: same folder, filename and format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The preset &apos;%1&apos; can&apos;t be read, or its output is not a folder.
+
+ZIP, email and FTP outputs are not possible with several presets.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3747,10 +3968,6 @@ Vrei să continui?</translation>
         <translation>Setări...</translation>
     </message>
     <message>
-        <source>Remove preset from list</source>
-        <translation>Elimină presetarea din listă</translation>
-    </message>
-    <message>
         <source>Load image...</source>
         <translation>Încarcă imaginea...</translation>
     </message>
@@ -3797,14 +4014,6 @@ Vrei să continui?</translation>
     <message>
         <source>Load format settings...</source>
         <translation>Încarcă setările formatului...</translation>
-    </message>
-    <message>
-        <source>Processing list:</source>
-        <translation>Lista de procesare:</translation>
-    </message>
-    <message>
-        <source>Exit after conversion</source>
-        <translation>Închide programul după conversie</translation>
     </message>
     <message>
         <source>When output files already exist</source>
@@ -3931,10 +4140,6 @@ Vrei să continui?</translation>
         <translation>Nume litere mici</translation>
     </message>
     <message>
-        <source>Preserve extension</source>
-        <translation>Păstrează extensia</translation>
-    </message>
-    <message>
         <source>Start index</source>
         <translation>Pornește indexul</translation>
     </message>
@@ -3965,10 +4170,6 @@ Vrei să continui?</translation>
     <message>
         <source>Save preset</source>
         <translation>Salvează presetarea</translation>
-    </message>
-    <message>
-        <source>Load preset</source>
-        <translation>Încarcă presetarea</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -4009,10 +4210,6 @@ Vrei să continui?</translation>
     <message>
         <source>Replace</source>
         <translation>Înlocuiește</translation>
-    </message>
-    <message>
-        <source>Presets:</source>
-        <translation>Presetări:</translation>
     </message>
     <message>
         <source>Convert all pages from multipage file</source>
@@ -4111,10 +4308,6 @@ Vrei să continui?</translation>
         <translation>Șterge câmpul pentru numele fișierului la pornire</translation>
     </message>
     <message>
-        <source>If an output file already exists</source>
-        <translation>Dacă un fișier de ieșire există deja</translation>
-    </message>
-    <message>
         <source>Export for NConvert...</source>
         <translation>Exportă pentru NConvert...</translation>
     </message>
@@ -4199,12 +4392,88 @@ Vrei să continui?</translation>
         <translation>&amp;Opțiuni</translation>
     </message>
     <message>
-        <source>Multiple resolution...</source>
-        <translation>Rezoluție multiplă...</translation>
-    </message>
-    <message>
         <source>Black</source>
         <translation>Negru</translation>
+    </message>
+    <message>
+        <source>&lt;</source>
+        <translation type="unfinished">&lt;</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation type="unfinished">Salvează</translation>
+    </message>
+    <message>
+        <source>Save preset as...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save as...</source>
+        <translation type="unfinished">Salvează ca...</translation>
+    </message>
+    <message>
+        <source>Move up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If file exists</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recipient</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Output filename</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Example</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preserve</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Metadata</source>
+        <translation type="unfinished">Metadate</translation>
+    </message>
+    <message>
+        <source>Color profile</source>
+        <translation type="unfinished">Profil de culoare</translation>
+    </message>
+    <message>
+        <source>Original date/time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Original extension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keep multipage (when possible)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert all pages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Advanced</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exit</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4710,21 +4979,6 @@ Vrei să continui?</translation>
     <message>
         <source>Vertical</source>
         <translation>Vertical</translation>
-    </message>
-</context>
-<context>
-    <name>DlgConvertMulti</name>
-    <message>
-        <source>Multiple output</source>
-        <translation>Ieșire multiplă</translation>
-    </message>
-    <message>
-        <source>Width:</source>
-        <translation>Lăţimea:</translation>
-    </message>
-    <message>
-        <source>Height:</source>
-        <translation>Înălţimea:</translation>
     </message>
 </context>
 <context>
@@ -6209,6 +6463,14 @@ Vrei să continui?</translation>
     <message>
         <source>Altitude (m)</source>
         <translation>Altitudine (m)</translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation type="unfinished">Previzualizare</translation>
+    </message>
+    <message>
+        <source>Map</source>
+        <translation type="unfinished">Hartă</translation>
     </message>
 </context>
 <context>
@@ -13657,6 +13919,37 @@ Dorești să ștergi favoritul „%1”?</translation>
     </message>
 </context>
 <context>
+    <name>GeoPlaces</name>
+    <message>
+        <source>Africa</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Antarctica</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Asia</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Europe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>North America</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Oceania</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>South America</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>GoogleDriveUploader</name>
     <message>
         <source>Unable to create the upload session.</source>
@@ -14112,6 +14405,10 @@ Dorești să ștergi favoritul „%1”?</translation>
     <message>
         <source>Frame count</source>
         <translation>Numărul de cadre</translation>
+    </message>
+    <message>
+        <source>Geolocation</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15200,6 +15497,26 @@ Vrei să continui?</translation>
     <message>
         <source>File&apos;s icon</source>
         <translation>Pictograma fișierului</translation>
+    </message>
+    <message>
+        <source>Location</source>
+        <translation type="unfinished">Locația</translation>
+    </message>
+    <message>
+        <source>Continent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Country</source>
+        <translation type="unfinished">Țară</translation>
+    </message>
+    <message>
+        <source>State</source>
+        <translation type="unfinished">Statul</translation>
+    </message>
+    <message>
+        <source>City</source>
+        <translation type="unfinished">Orașul</translation>
     </message>
 </context>
 <context>
@@ -16799,6 +17116,10 @@ Vrei să continui?</translation>
         <source>Purchase...</source>
         <translation>Cumpără-l...</translation>
     </message>
+    <message>
+        <source>Compare open images</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MenuTemplate</name>
@@ -18052,16 +18373,8 @@ Vrei să continui?</translation>
         <translation>Scală adaptivă</translation>
     </message>
     <message>
-        <source>Vertical scale capped at 4x the mean of the non-empty levels, higher peaks are clipped</source>
-        <translation>Scara verticală este limitată la de 4 ori media nivelurilor care nu sunt goale; vârfurile mai înalte sunt tăiate</translation>
-    </message>
-    <message>
         <source>Logarithmic scale</source>
         <translation>Scară logaritmică</translation>
-    </message>
-    <message>
-        <source>Small counts stay visible next to high peaks</source>
-        <translation>Valorile mici rămân vizibile lângă vârfurile înalte</translation>
     </message>
     <message>
         <source>Ignore 0 and 255 for scaling</source>
@@ -18070,6 +18383,22 @@ Vrei să continui?</translation>
     <message>
         <source>Adaptive scale: clipped shadows and highlights don&apos;t flatten the rest of the histogram</source>
         <translation>Scalare adaptivă: umbrele și zonele luminoase tăiate nu aplatizează restul histogramei</translation>
+    </message>
+    <message>
+        <source>A linear scale that allows extremely high peaks to clip; Photoshop-style; Best for most images</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Non-linear adaptive scale</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Compresses high peaks to keep them on the scale (uses asinh stretching); Low values will appear higher; Best for astrophotography and HDR images</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Useful for very high dynamic range images that have detail in extremely low and high value </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18125,6 +18454,10 @@ Vrei să continui?</translation>
     <message>
         <source>Tab settings...</source>
         <translation>Setări pentru file...</translation>
+    </message>
+    <message>
+        <source>Compare open images</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -19629,6 +19962,14 @@ nu vor fi salvate în baza de date.</translation>
     <message>
         <source>The tab bar is hidden, but tabs will still open. Set a tab limit in Settings&gt;Interface&gt;Tabs</source>
         <translation>Bara de file (de tab-uri) este ascunsă, dar filele (tab-urile) se vor deschide în continuare. Setează o limită de file (de tab-uri) în Setări&gt;Interfață&gt;File (Tab-uri)</translation>
+    </message>
+    <message>
+        <source>Compare</source>
+        <translation type="unfinished">Comparaţie</translation>
+    </message>
+    <message>
+        <source>At least 2 images must be opened in tabs.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>
