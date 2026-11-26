@@ -458,7 +458,7 @@
     <message>
         <location filename="AddressBar.cpp" line="1198"/>
         <source>Remove &quot;%1&quot; from the history?</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить «%1» из истории?</translation>
     </message>
 </context>
 <context>
@@ -703,7 +703,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="2116"/>
         <source>Collapse all trees</source>
-        <translation type="unfinished"></translation>
+        <translation>Свернуть все деревья</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2341"/>
@@ -933,7 +933,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="CategorySets.cpp" line="107"/>
         <source>Show parent category</source>
-        <translation type="unfinished"></translation>
+        <translation>Показывать родительскую категорию</translation>
     </message>
     <message>
         <location filename="CategorySets.cpp" line="206"/>
@@ -2190,7 +2190,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
         <location filename="DBFilterModel.cpp" line="178"/>
         <location filename="DBFilterModel.cpp" line="198"/>
         <source>Location</source>
-        <translation type="unfinished">Регион</translation>
+        <translation>Местоположение</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="182"/>
@@ -2230,7 +2230,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="DBFilterModel.cpp" line="1867"/>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Другое</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2012"/>
@@ -4011,12 +4011,12 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgConvert.cpp" line="494"/>
         <source>Hide presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Скрыть предустановки</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="502"/>
         <source>Show presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать предустановки</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="973"/>
@@ -4026,68 +4026,68 @@ Do you want to overwrite it?</source>
     <message>
         <location filename="DlgConvert.cpp" line="1090"/>
         <source>Unreadable preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Нечитаемые предустановки</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1100"/>
         <source>no action</source>
-        <translation type="unfinished"></translation>
+        <translation>нет действий</translation>
     </message>
     <message numerus="yes">
         <location filename="DlgConvert.cpp" line="1100"/>
         <source>%n action(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n действие</numerusform>
+            <numerusform>%n действия</numerusform>
+            <numerusform>%n действий</numerusform>
         </translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1111"/>
         <source>Source folder</source>
-        <translation type="unfinished">Исходная папка</translation>
+        <translation>Исходная папка</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1119"/>
         <source>ZIP: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ZIP: %1</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1121"/>
         <source>Email: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Email: %1</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1123"/>
         <source>FTP: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>FTP: %1</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1135"/>
         <location filename="DlgConvert.cpp" line="3574"/>
         <location filename="DlgConvert.cpp" line="3607"/>
         <source>Presets</source>
-        <translation type="unfinished">Предустановки</translation>
+        <translation>Предустановки</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1144"/>
         <source>&amp;Convert</source>
-        <translation type="unfinished">&amp;Преобразовать</translation>
+        <translation>&amp;Преобразовать</translation>
     </message>
     <message numerus="yes">
         <location filename="DlgConvert.cpp" line="1147"/>
         <source>%n preset(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n предустановка</numerusform>
+            <numerusform>%n предустановки</numerusform>
+            <numerusform>%n предустановок</numerusform>
         </translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1149"/>
         <location filename="DlgConvert.cpp" line="3582"/>
         <source>current settings</source>
-        <translation type="unfinished"></translation>
+        <translation>текущие настройки</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1311"/>
@@ -4095,42 +4095,47 @@ Do you want to overwrite it?</source>
         <location filename="DlgConvert.cpp" line="2835"/>
         <location filename="DlgConvert.cpp" line="2854"/>
         <source>Load preset</source>
-        <translation type="unfinished">Загрузить предустановку</translation>
+        <translation>Загрузить предустановку</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1311"/>
         <source>Unable to read the preset:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось прочитать предустановку:
+%1</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1358"/>
         <source>The preset &quot;%1&quot; has been modified.
 
 Load &quot;%2&quot; and discard the changes?</source>
-        <translation type="unfinished"></translation>
+        <translation>Пресет «%1» был изменен.
+
+Загрузить «%2» и отменить изменения?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1359"/>
         <source>Load the preset &quot;%1&quot;?
 
 The current settings will be replaced.</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузить пресет «%1»?
+
+Текущие настройки будут перезаписаны.</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1464"/>
         <source>Load preset...</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузить пресет...</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1466"/>
         <source>Export for NConvert...</source>
-        <translation type="unfinished">Экспортировать для NConvert...</translation>
+        <translation>Экспортировать для NConvert...</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="1468"/>
         <source>Sort by name</source>
-        <translation type="unfinished"></translation>
+        <translation>Сортировать по имени</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2364"/>
@@ -4156,93 +4161,95 @@ The current settings will be replaced.</source>
     <message>
         <location filename="DlgConvert.cpp" line="2796"/>
         <source>Load</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузить</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2798"/>
         <source>Remove from list</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить из списка</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2835"/>
         <source>This file is not a valid preset:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Этот файл не является допустимой предустановкой:
+%1</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2874"/>
         <location filename="DlgConvert.cpp" line="2908"/>
         <source>Save preset</source>
-        <translation type="unfinished">Сохранить предустановку</translation>
+        <translation>Сохранить предустановку</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2874"/>
         <source>Unable to write the file:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось записать файл:
+%1</translation>
     </message>
     <message>
         <location filename="ConvertLogModel.cpp" line="124"/>
         <source>Loading</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка</translation>
     </message>
     <message>
         <location filename="ConvertLogModel.cpp" line="125"/>
         <location filename="ConvertLogModel.cpp" line="424"/>
         <location filename="ConvertLogModel.cpp" line="435"/>
         <source>Page %1</source>
-        <translation type="unfinished">Страница %1</translation>
+        <translation>Страница %1</translation>
     </message>
     <message>
         <location filename="ConvertLogModel.cpp" line="146"/>
         <location filename="ConvertLogModel.cpp" line="390"/>
         <source>Errors</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибки</translation>
     </message>
     <message>
         <location filename="ConvertLogModel.cpp" line="177"/>
         <location filename="ConvertLogModel.cpp" line="553"/>
         <source>Original</source>
-        <translation type="unfinished">Исходный</translation>
+        <translation>Исходный</translation>
     </message>
     <message>
         <location filename="ConvertLogModel.cpp" line="357"/>
         <source>File</source>
-        <translation type="unfinished">Файл</translation>
+        <translation>Файл</translation>
     </message>
     <message>
         <location filename="ConvertLogModel.cpp" line="357"/>
         <source>Output</source>
-        <translation type="unfinished">Выходные данные</translation>
+        <translation>Выходной файл</translation>
     </message>
     <message>
         <location filename="ConvertLogModel.cpp" line="357"/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Размер</translation>
     </message>
     <message>
         <location filename="ConvertLogModel.cpp" line="357"/>
         <source>Ratio</source>
-        <translation type="unfinished">Соотношение</translation>
+        <translation>Соотношение</translation>
     </message>
     <message>
         <location filename="ConvertLogModel.cpp" line="357"/>
         <source>Details</source>
-        <translation type="unfinished">Таблица</translation>
+        <translation>Детали</translation>
     </message>
     <message>
         <location filename="ConvertLogModel.cpp" line="378"/>
         <source>Summary</source>
-        <translation type="unfinished"></translation>
+        <translation>Отчет</translation>
     </message>
     <message numerus="yes">
         <location filename="ConvertLogModel.cpp" line="392"/>
         <location filename="DlgConvert.cpp" line="3524"/>
         <source>%n error(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n ошибка</numerusform>
+            <numerusform>%n ошибки</numerusform>
+            <numerusform>%n ошибок</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -4250,7 +4257,7 @@ The current settings will be replaced.</source>
         <location filename="ConvertLogModel.cpp" line="538"/>
         <location filename="DlgConvert.cpp" line="3521"/>
         <source>%n file(s)</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>%n файл</numerusform>
             <numerusform>%n файла</numerusform>
             <numerusform>%n файлов</numerusform>
@@ -4259,7 +4266,7 @@ The current settings will be replaced.</source>
     <message>
         <location filename="ConvertLogModel.cpp" line="446"/>
         <source>Waiting</source>
-        <translation type="unfinished"></translation>
+        <translation>Ожидание</translation>
     </message>
     <message>
         <location filename="ConvertLogModel.cpp" line="475"/>
@@ -4304,7 +4311,7 @@ The current settings will be replaced.</source>
     <message>
         <location filename="ConvertLogModel.cpp" line="476"/>
         <source>Errors:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибки:</translation>
     </message>
     <message>
         <location filename="ConvertLogModel.cpp" line="477"/>
@@ -4319,38 +4326,38 @@ The current settings will be replaced.</source>
     <message>
         <location filename="ConvertLogModel.cpp" line="523"/>
         <source>Loading...</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка...</translation>
     </message>
     <message>
         <location filename="ConvertLogModel.cpp" line="524"/>
         <source>Processing...</source>
-        <translation type="unfinished"></translation>
+        <translation>Обработка...</translation>
     </message>
     <message>
         <location filename="ConvertLogModel.cpp" line="525"/>
         <source>Saving...</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранение...</translation>
     </message>
     <message>
         <location filename="ConvertLogModel.cpp" line="527"/>
         <location filename="DlgConvert.cpp" line="3519"/>
         <source>Stopped</source>
-        <translation type="unfinished"></translation>
+        <translation>Остановлено</translation>
     </message>
     <message>
         <location filename="ConvertLogModel.cpp" line="555"/>
         <source>Deleted: %1, kept: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалено: %1, сохранено: %2</translation>
     </message>
     <message>
         <location filename="ConvertLogModel.cpp" line="568"/>
         <source>Deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалено</translation>
     </message>
     <message>
         <location filename="ConvertLogModel.cpp" line="568"/>
         <source>Kept</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранено</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="3364"/>
@@ -4458,44 +4465,46 @@ Do you want to overwrite it?</oldsource>
     <message>
         <location filename="DlgConvert.cpp" line="3519"/>
         <source>%1 / %2 files</source>
-        <translation type="unfinished">%1 / %2 файлов</translation>
+        <translation>%1 / %2 файлов</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="3529"/>
         <source>Started %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Начало %1</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="3529"/>
         <source>%1 elapsed</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 прошло</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="3531"/>
         <source>%1 remaining (end %2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Осталось %1 (конец %2)</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="3565"/>
         <source>%1: may replace the original files, also read by the other presets</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: может заменить исходные файлы, которые также используются другими пресетами</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="3570"/>
         <source>%1 and %2: same folder, filename and format</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 и %2: одна и та же папка, имя файла и формат</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="3574"/>
         <source>Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы хотите продолжить?</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="3607"/>
         <source>The preset &apos;%1&apos; can&apos;t be read, or its output is not a folder.
 
 ZIP, email and FTP outputs are not possible with several presets.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось прочитать предустановку «%1» или выбранный для неё тип вывода не является папкой.
+
+При использовании нескольких предустановок невозможен вывод в ZIP-архив, по электронной почте или через FTP.</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="3618"/>
@@ -5360,97 +5369,97 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="49"/>
         <source>&lt;</source>
-        <translation type="unfinished">&lt;</translation>
+        <translation>&lt;</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="66"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="77"/>
         <source>Save preset as...</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить предустановку как...</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="80"/>
         <source>Save as...</source>
-        <translation type="unfinished">Сохранить как...</translation>
+        <translation>Сохранить как...</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="107"/>
         <source>Move up</source>
-        <translation type="unfinished"></translation>
+        <translation>Переместить вверх</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="120"/>
         <source>Move down</source>
-        <translation type="unfinished"></translation>
+        <translation>Переместить вниз</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="799"/>
         <source>If file exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Если файл существует</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="861"/>
         <source>Recipient</source>
-        <translation type="unfinished"></translation>
+        <translation>Кому</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="897"/>
         <source>Output filename</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя файла на выходе</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="984"/>
         <source>Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Шаблон</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1079"/>
         <source>Example</source>
-        <translation type="unfinished"></translation>
+        <translation>Пример</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1148"/>
         <source>Preserve</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранять</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1154"/>
         <source>Metadata</source>
-        <translation type="unfinished">Метаданные</translation>
+        <translation>Метаданные</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1161"/>
         <source>Color profile</source>
-        <translation type="unfinished">Цветовой профиль</translation>
+        <translation>Цветовой профиль</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1168"/>
         <source>Original date/time</source>
-        <translation type="unfinished"></translation>
+        <translation>Исходные дату/время</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1175"/>
         <source>Original extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Исходное расширение</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1206"/>
         <source>Keep multipage (when possible)</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохраняйте многостраничность (по возможности)</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1213"/>
         <source>Convert all pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Обрабатывать все страницы</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1223"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Расширенные настройки</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1325"/>
@@ -5461,7 +5470,7 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgConvert.ui" line="1332"/>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <location filename="DlgConvert.ui" line="1552"/>
@@ -8321,12 +8330,12 @@ Do you want to continue?</source>
     <message>
         <location filename="DlgEditGps.ui" line="166"/>
         <source>Preview</source>
-        <translation type="unfinished">Предпросмотр</translation>
+        <translation>Предпросмотр</translation>
     </message>
     <message>
         <location filename="DlgEditGps.ui" line="188"/>
         <source>Map</source>
-        <translation type="unfinished">Карта</translation>
+        <translation>Карта</translation>
     </message>
     <message>
         <location filename="DlgEditGps.ui" line="225"/>
@@ -18056,37 +18065,37 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="GeoPlaces.cpp" line="37"/>
         <source>Africa</source>
-        <translation type="unfinished"></translation>
+        <translation>Африка</translation>
     </message>
     <message>
         <location filename="GeoPlaces.cpp" line="37"/>
         <source>Antarctica</source>
-        <translation type="unfinished"></translation>
+        <translation>Антарктида</translation>
     </message>
     <message>
         <location filename="GeoPlaces.cpp" line="38"/>
         <source>Asia</source>
-        <translation type="unfinished"></translation>
+        <translation>Азия</translation>
     </message>
     <message>
         <location filename="GeoPlaces.cpp" line="38"/>
         <source>Europe</source>
-        <translation type="unfinished"></translation>
+        <translation>Европа</translation>
     </message>
     <message>
         <location filename="GeoPlaces.cpp" line="38"/>
         <source>North America</source>
-        <translation type="unfinished"></translation>
+        <translation>Северная Америка</translation>
     </message>
     <message>
         <location filename="GeoPlaces.cpp" line="39"/>
         <source>Oceania</source>
-        <translation type="unfinished"></translation>
+        <translation>Океания</translation>
     </message>
     <message>
         <location filename="GeoPlaces.cpp" line="39"/>
         <source>South America</source>
-        <translation type="unfinished"></translation>
+        <translation>Южная Америка</translation>
     </message>
 </context>
 <context>
@@ -18480,7 +18489,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="SearchField.cpp" line="51"/>
         <source>Geolocation</source>
-        <translation type="unfinished"></translation>
+        <translation>Геолокация</translation>
     </message>
     <message>
         <location filename="SearchField.cpp" line="52"/>
@@ -20230,27 +20239,27 @@ Do you want to continue?</source>
     <message>
         <location filename="InfoPropertiesView.cpp" line="199"/>
         <source>Location</source>
-        <translation type="unfinished">Регион</translation>
+        <translation>Местоположение</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="200"/>
         <source>Continent</source>
-        <translation type="unfinished"></translation>
+        <translation>Континент</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="201"/>
         <source>Country</source>
-        <translation type="unfinished">Страна</translation>
+        <translation>Страна</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="203"/>
         <source>State</source>
-        <translation type="unfinished">Край/Область</translation>
+        <translation>Край/Область</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="205"/>
         <source>City</source>
-        <translation type="unfinished">Город</translation>
+        <translation>Город</translation>
     </message>
     <message>
         <location filename="InfoPropertiesView.cpp" line="211"/>
@@ -22434,7 +22443,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="xnview.cpp" line="1396"/>
         <source>Compare open images</source>
-        <translation type="unfinished"></translation>
+        <translation>Сравнить открытые изображения</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="1397"/>
@@ -24026,22 +24035,24 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyHistogram.cpp" line="277"/>
         <source>A linear scale that allows extremely high peaks to clip; Photoshop-style; Best for most images</source>
-        <translation type="unfinished"></translation>
+        <translation>Линейная шкала, при которой допускается обрезание чрезвычайно высоких пиков; в стиле Photoshop
+Оптимально подходит для большинства изображений</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="278"/>
         <source>Non-linear adaptive scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Нелинейная адаптивная шкала</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="278"/>
         <source>Compresses high peaks to keep them on the scale (uses asinh stretching); Low values will appear higher; Best for astrophotography and HDR images</source>
-        <translation type="unfinished"></translation>
+        <translation>Сжимает высокие пики, чтобы они не выходили за пределы шкалы (используется растяжение с помощью функции asinh); низкие значения будут отображаться выше
+Лучше всего подходит для астрофотографии и HDR изображений</translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="279"/>
         <source>Useful for very high dynamic range images that have detail in extremely low and high value </source>
-        <translation type="unfinished"></translation>
+        <translation>Полезно для изображений с очень широким динамическим диапазоном, содержащих детали как в очень тёмных, так и в очень светлых областях. </translation>
     </message>
     <message>
         <location filename="MyHistogram.cpp" line="281"/>
@@ -24163,7 +24174,7 @@ Do you want to continue?</oldsource>
     <message>
         <location filename="MyTabBar.cpp" line="266"/>
         <source>Compare open images</source>
-        <translation type="unfinished"></translation>
+        <translation>Сравнить открытые изображения</translation>
     </message>
     <message>
         <location filename="MyTabBar.cpp" line="275"/>
@@ -26047,12 +26058,12 @@ Do you want to keep the thumbnails?
     <message>
         <location filename="xnview.cpp" line="2631"/>
         <source>Compare</source>
-        <translation type="unfinished">Сравнение</translation>
+        <translation>Сравнение</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="2631"/>
         <source>At least 2 images must be opened in tabs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Во вкладках должно быть открыто не менее 2 изображений.</translation>
     </message>
     <message>
         <location filename="xnview.cpp" line="2685"/>
