@@ -453,7 +453,7 @@
     <message>
         <location filename="AddressBar.cpp" line="1198"/>
         <source>Remove &quot;%1&quot; from the history?</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; eltávolítása az előzményekből?</translation>
     </message>
 </context>
 <context>
@@ -692,7 +692,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="BrowserWindow.cpp" line="2116"/>
         <source>Collapse all trees</source>
-        <translation type="unfinished"></translation>
+        <translation>Minden fa összecsukása</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2131"/>
@@ -922,7 +922,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="CategorySets.cpp" line="107"/>
         <source>Show parent category</source>
-        <translation type="unfinished"></translation>
+        <translation>Szülő kategória megjelenítése</translation>
     </message>
     <message>
         <location filename="CategorySets.cpp" line="206"/>
@@ -2211,7 +2211,7 @@ Szeretné törölni a kedvencet: &quot;%1&quot;?</translation>
     <message>
         <location filename="DBFilterModel.cpp" line="1867"/>
         <source>Other</source>
-        <translation type="unfinished">Egyéb</translation>
+        <translation>Egyéb</translation>
     </message>
     <message>
         <location filename="DBFilterModel.cpp" line="2012"/>
