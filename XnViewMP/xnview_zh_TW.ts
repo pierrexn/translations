@@ -453,7 +453,7 @@
     <message>
         <location filename="AddressBar.cpp" line="1198"/>
         <source>Remove &quot;%1&quot; from the history?</source>
-        <translation type="unfinished"></translation>
+        <translation>要從歷史記錄中移除 &quot;%1&quot; 嗎?</translation>
     </message>
 </context>
 <context>
@@ -687,7 +687,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="BrowserWindow.cpp" line="2116"/>
         <source>Collapse all trees</source>
-        <translation type="unfinished"></translation>
+        <translation>摺疊所有樹狀結構</translation>
     </message>
     <message>
         <location filename="BrowserWindow.cpp" line="2341"/>
@@ -922,7 +922,7 @@ Do you want to delete the favorite &quot;%1&quot;?</source>
     <message>
         <location filename="CategorySets.cpp" line="107"/>
         <source>Show parent category</source>
-        <translation type="unfinished"></translation>
+        <translation>顯示父類別</translation>
     </message>
     <message>
         <location filename="CategorySets.cpp" line="206"/>
@@ -3898,12 +3898,12 @@ Do you want to go on the download page?</source>
     <message>
         <location filename="DlgConvert.cpp" line="2796"/>
         <source>Load</source>
-        <translation type="unfinished"></translation>
+        <translation>載入</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2798"/>
         <source>Remove from list</source>
-        <translation type="unfinished"></translation>
+        <translation>從列表中移除</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2835"/>
@@ -12290,7 +12290,7 @@ Do you want to remove them?</source>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="592"/>
         <source>Collapse All</source>
-        <translation>全部折疊</translation>
+        <translation>摺疊所有樹狀結構</translation>
     </message>
     <message>
         <location filename="DlgSettingsBrowser.cpp" line="912"/>
