@@ -3909,7 +3909,8 @@ Do you want to go on the download page?</source>
         <location filename="DlgConvert.cpp" line="2835"/>
         <source>This file is not a valid preset:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>此檔案不是有效的預設合集:
+%1</translation>
     </message>
     <message>
         <location filename="DlgConvert.cpp" line="2874"/>
